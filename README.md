@@ -1,10 +1,13 @@
-[2]: https://github.com/Arks-Layer/PSO2JPTranslations/blob/master/resources/header.png
 [3]: https://github.com/Arks-Layer/PSO2JPTranslations/blob/master/resources/rightmeow.png
 <!---## Notice
 
 Be sure to take a look at the <a href="https://github.com/Arks-Layer/PSO2JPTranslations/wiki"><strong>Wiki</strong></a> page for guides and reminders before sending us your translations.
 --->
-![2]
+
+<p align="center">
+  <img src="https://github.com/Arks-Layer/PSNovaTranslations/blob/master/resources/Phantasy-Star-Nova-Logo.png" alt="PS Nova Logo"/>
+</p>
+<!---![2]--->
 
 # PS: Nova Translations
 Welcome to the PS: Nova Translations Github Repository.
