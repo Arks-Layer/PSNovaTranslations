@@ -5,7 +5,7 @@
   },
   "210001": {
     "OriginalText": "ギガンテス討伐",
-    "Text": "Subdue gigantes",
+    "Text": "Subdue Gigantes",
     "Enabled": true
   },
   "210002": {
@@ -45,7 +45,8 @@
   },
   "210010": {
     "OriginalText": "ギガンテス討伐",
-    "Text": ""
+    "Text": "Subdue Gigantes"
+    "Enabled": true
   },
   "210011": {
     "OriginalText": "時間内に目標を達成せよ",
@@ -197,15 +198,18 @@
   },
   "210103": {
     "OriginalText": "アルキュオネ討伐",
-    "Text": ""
+    "Text": "Subdue Alcyone"
+    "Enabled": true
   },
   "210104": {
     "OriginalText": "アルキュオネを止めろ",
-    "Text": ""
+    "Text": "Stop Alcyone"
+    "Enabled": true
   },
   "210105": {
     "OriginalText": "アルキュオネ捕獲",
-    "Text": ""
+    "Text": "Capture Alcyone"
+    "Enabled": true
   },
   "210106": {
     "OriginalText": "一定時間生き延びろ",
@@ -221,11 +225,13 @@
   },
   "210109": {
     "OriginalText": "Ｇウォルガーダ討伐",
-    "Text": ""
+    "Text": "Subdue G-Wolgahda"
+     "Enabled": true
   },
   "210110": {
     "OriginalText": "エウリュード討伐",
-    "Text": ""
+    "Text": "Subdue Eurude"
+    "Enabled": true
   },
   "210111": {
     "OriginalText": "大型原生種討伐",
@@ -237,11 +243,13 @@
   },
   "210113": {
     "OriginalText": "Ｇガウォンダ討伐",
-    "Text": ""
+    "Text": "Subdue G-Ga Wonda"
+     "Enabled": true
   },
   "210114": {
     "OriginalText": "ガラティオン討伐",
-    "Text": ""
+    "Text": "Subdue Gratian"
+    "Enabled": true
   },
   "210115": {
     "OriginalText": "ギガティオン討伐",
@@ -249,7 +257,8 @@
   },
   "210116": {
     "OriginalText": "ギガンテス討伐",
-    "Text": ""
+    "Text": "Subdue Gigantes"
+    "Enabled": true
   },
   "210117": {
     "OriginalText": "救援が来るまで耐えろ",
@@ -257,7 +266,8 @@
   },
   "210118": {
     "OriginalText": "Ｇキュクロナーダ討伐",
-    "Text": ""
+    "Text": "Subdue G-Kuklonahda"
+     "Enabled": true
   },
   "210119": {
     "OriginalText": "削除",
@@ -269,7 +279,8 @@
   },
   "210121": {
     "OriginalText": "Ｇグウォンダ討伐",
-    "Text": ""
+    "Text": "Subdue G-Gu Wonda"
+     "Enabled": true
   },
   "210122": {
     "OriginalText": "クエストPtをためろ",
@@ -302,6 +313,7 @@
   "210129": {
     "OriginalText": "コラル・ドラゴン討伐",
     "Text": "Subdue Coral Dragon"
+     "Enabled": true
   },
   "210130": {
     "OriginalText": "ゴルドス討伐",
