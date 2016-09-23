@@ -675,7 +675,7 @@
   },
   "150135": {
     "OriginalText": "テンプテーション",
-    "Text": ""
+    "Text": "Temptation"
   },
   "150136": {
     "OriginalText": "ＥＸＰブースト",
@@ -689,83 +689,83 @@
   },
   "150138": {
     "OriginalText": "バインドⅠ",
-    "Text": ""
+    "Text": "Bind I"
   },
   "150139": {
     "OriginalText": "バインドⅡ",
-    "Text": ""
+    "Text": "Bind II"
   },
   "150140": {
     "OriginalText": "バインドⅢ",
-    "Text": ""
+    "Text": "Bind III"
   },
   "150141": {
     "OriginalText": "バインドⅣ",
-    "Text": ""
+    "Text": "Bind IV"
   },
   "150142": {
     "OriginalText": "バインドⅤ",
-    "Text": ""
+    "Text": "Bind V"
   },
   "150143": {
     "OriginalText": "インフェクションⅠ",
-    "Text": ""
+    "Text": "Infection I"
   },
   "150144": {
     "OriginalText": "インフェクションⅡ",
-    "Text": ""
+    "Text": "Infection II"
   },
   "150145": {
     "OriginalText": "インフェクションⅢ",
-    "Text": ""
+    "Text": "Infection III"
   },
   "150146": {
     "OriginalText": "インフェクションⅣ",
-    "Text": ""
+    "Text": "Infection IV"
   },
   "150147": {
     "OriginalText": "インフェクションⅤ",
-    "Text": ""
+    "Text": "Infection V"
   },
   "150148": {
     "OriginalText": "ブラインドⅠ",
-    "Text": ""
+    "Text": "Blind I"
   },
   "150149": {
     "OriginalText": "ブラインドⅡ",
-    "Text": ""
+    "Text": "Blind II"
   },
   "150150": {
     "OriginalText": "ブラインドⅢ",
-    "Text": ""
+    "Text": "Blind III"
   },
   "150151": {
     "OriginalText": "ブラインドⅣ",
-    "Text": ""
+    "Text": "Blind IV"
   },
   "150152": {
     "OriginalText": "ブラインドⅤ",
-    "Text": ""
+    "Text": "Blind V"
   },
   "150153": {
     "OriginalText": "グラン中毒Ⅰ",
-    "Text": ""
+    "Text": "Gran Poisoning I"
   },
   "150154": {
     "OriginalText": "グラン中毒Ⅱ",
-    "Text": ""
+    "Text": "Gran Poisoning II"
   },
   "150155": {
     "OriginalText": "グラン中毒Ⅲ",
-    "Text": ""
+    "Text": "Gran Poison III"
   },
   "150156": {
     "OriginalText": "グラン中毒Ⅳ",
-    "Text": ""
+    "Text": "Gran Poisoning IV"
   },
   "150157": {
     "OriginalText": "グラン中毒Ⅴ",
-    "Text": ""
+    "Text": "Gran Poisoning V"
   },
   "150158": {
     "OriginalText": "炎属性ダウンⅠ",
@@ -1353,11 +1353,11 @@
   },
   "150304": {
     "OriginalText": "アクセルアタック",
-    "Text": ""
+    "Text": "Accel Attack"
   },
   "150305": {
     "OriginalText": "リーチブースト",
-    "Text": ""
+    "Text": "Reach Boost"
   },
   "150308": {
     "OriginalText": "護攻法陣",
