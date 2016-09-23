@@ -1,0 +1,397 @@
+
+  "210000": {
+    "OriginalText": "---",
+    "Text": ""
+  },
+  "210001": {
+    "OriginalText": "ギガンテス討伐",
+    "Text": "Subdue gigantes",
+    "Enabled": true
+  },
+  "210002": {
+    "OriginalText": "目印の場所まで移動しろ！",
+    "Text": "Move to the arrows!",
+    "Enabled": true
+  },
+  "210003": {
+    "OriginalText": "攻撃を駆使して敵を倒せ！",
+    "Text": "Defeat the enemy using your new power!",
+    "Enabled": true
+  },
+  "210004": {
+    "OriginalText": "回避と防御を駆使しろ！",
+    "Text": ""
+  },
+  "210005": {
+    "OriginalText": "敵を全滅させろ！",
+    "Text": "Annihilate the enemy!",
+    "Enabled": true
+  },
+  "210006": {
+    "OriginalText": "デートのご褒美を入手しろ",
+    "Text": ""
+  },
+  "210007": {
+    "OriginalText": "最深部に到達せよ",
+    "Text": ""
+  },
+  "210008": {
+    "OriginalText": "シードギオス討伐",
+    "Text": ""
+  },
+  "210009": {
+    "OriginalText": "ヴィバレダイナス討伐",
+    "Text": ""
+  },
+  "210010": {
+    "OriginalText": "ギガンテス討伐",
+    "Text": ""
+  },
+  "210011": {
+    "OriginalText": "時間内に目標を達成せよ",
+    "Text": ""
+  },
+  "210012": {
+    "OriginalText": "ネメスガイスト討伐",
+    "Text": ""
+  },
+  "210013": {
+    "OriginalText": "レイヴガイスト討伐",
+    "Text": ""
+  },
+  "210014": {
+    "OriginalText": "時間まで敵を倒しまくれ",
+    "Text": ""
+  },
+  "210015": {
+    "OriginalText": "ファンアフォル討伐",
+    "Text": ""
+  },
+  "210016": {
+    "OriginalText": "ウィルアフォル討伐",
+    "Text": ""
+  },
+  "210017": {
+    "OriginalText": "アルテイオス討伐",
+    "Text": ""
+  },
+  "210018": {
+    "OriginalText": "マグネトアス討伐",
+    "Text": ""
+  },
+  "210019": {
+    "OriginalText": "時間内に最深部へ到達せよ",
+    "Text": ""
+  },
+  "210020": {
+    "OriginalText": "資村を回収しろ",
+    "Text": ""
+  },
+  "210021": {
+    "OriginalText": "アグリオスＰ型討伐",
+    "Text": ""
+  },
+  "210022": {
+    "OriginalText": "迫るグレイオスを止めろ",
+    "Text": ""
+  },
+  "210023": {
+    "OriginalText": "オルゴルドス討伐",
+    "Text": ""
+  },
+  "210024": {
+    "OriginalText": "予備枠",
+    "Text": ""
+  },
+  "210025": {
+    "OriginalText": "予備枠",
+    "Text": ""
+  },
+  "210026": {
+    "OriginalText": "予備枠",
+    "Text": ""
+  },
+  "210027": {
+    "OriginalText": "予備枠",
+    "Text": ""
+  },
+  "210028": {
+    "OriginalText": "予備枠",
+    "Text": ""
+  },
+  "210029": {
+    "OriginalText": "予備枠",
+    "Text": ""
+  },
+  "210030": {
+    "OriginalText": "予備枠",
+    "Text": ""
+  },
+  "210031": {
+    "OriginalText": "予備枠",
+    "Text": ""
+  },
+  "210032": {
+    "OriginalText": "予備枠",
+    "Text": ""
+  },
+  "210033": {
+    "OriginalText": "予備枠",
+    "Text": ""
+  },
+  "210089": {
+    "OriginalText": "グラヴディオン討伐",
+    "Text": ""
+  },
+  "210090": {
+    "OriginalText": "シルブカーネベア討伐",
+    "Text": ""
+  },
+  "210091": {
+    "OriginalText": "モストカーネベア討伐",
+    "Text": ""
+  },
+  "210092": {
+    "OriginalText": "アルレイバンサー討伐",
+    "Text": ""
+  },
+  "210093": {
+    "OriginalText": "ゾンレイバンサー討伐",
+    "Text": ""
+  },
+  "210094": {
+    "OriginalText": "ファラレイバンサー討伐",
+    "Text": ""
+  },
+  "210095": {
+    "OriginalText": "クリトロクィーン討伐",
+    "Text": ""
+  },
+  "210096": {
+    "OriginalText": "グルナバンサー討伐",
+    "Text": ""
+  },
+  "210097": {
+    "OriginalText": "迫るアグリオスを止めろ",
+    "Text": ""
+  },
+  "210098": {
+    "OriginalText": "観測ポッドを回収しろ",
+    "Text": ""
+  },
+  "210099": {
+    "OriginalText": "研究資村を回収しろ",
+    "Text": ""
+  },
+  "210100": {
+    "OriginalText": "艦補修資村を回収しろ",
+    "Text": ""
+  },
+  "210101": {
+    "OriginalText": "アグリオス討伐",
+    "Text": ""
+  },
+  "210102": {
+    "OriginalText": "アグリオス捕獲",
+    "Text": ""
+  },
+  "210103": {
+    "OriginalText": "アルキュオネ討伐",
+    "Text": ""
+  },
+  "210104": {
+    "OriginalText": "アルキュオネを止めろ",
+    "Text": ""
+  },
+  "210105": {
+    "OriginalText": "アルキュオネ捕獲",
+    "Text": ""
+  },
+  "210106": {
+    "OriginalText": "一定時間生き延びろ",
+    "Text": ""
+  },
+  "210107": {
+    "OriginalText": "医療施設資村を回収しろ",
+    "Text": ""
+  },
+  "210108": {
+    "OriginalText": "ヴィヴリュード討伐",
+    "Text": ""
+  },
+  "210109": {
+    "OriginalText": "Ｇウォルガーダ討伐",
+    "Text": ""
+  },
+  "210110": {
+    "OriginalText": "エウリュード討伐",
+    "Text": ""
+  },
+  "210111": {
+    "OriginalText": "大型原生種討伐",
+    "Text": ""
+  },
+  "210112": {
+    "OriginalText": "オラルカーネベア討伐",
+    "Text": ""
+  },
+  "210113": {
+    "OriginalText": "Ｇガウォンダ討伐",
+    "Text": ""
+  },
+  "210114": {
+    "OriginalText": "ガラティオン討伐",
+    "Text": ""
+  },
+  "210115": {
+    "OriginalText": "ギガティオン討伐",
+    "Text": ""
+  },
+  "210116": {
+    "OriginalText": "ギガンテス討伐",
+    "Text": ""
+  },
+  "210117": {
+    "OriginalText": "救援が来るまで耐えろ",
+    "Text": ""
+  },
+  "210118": {
+    "OriginalText": "Ｇキュクロナーダ討伐",
+    "Text": ""
+  },
+  "210119": {
+    "OriginalText": "削除",
+    "Text": ""
+  },
+  "210120": {
+    "OriginalText": "最後尾車両を撃破しろ",
+    "Text": ""
+  },
+  "210121": {
+    "OriginalText": "Ｇグウォンダ討伐",
+    "Text": ""
+  },
+  "210122": {
+    "OriginalText": "クエストPtをためろ",
+    "Text": ""
+  },
+  "210123": {
+    "OriginalText": "クエストPtをためろ",
+    "Text": ""
+  },
+  "210124": {
+    "OriginalText": "グラン結晶を回収しろ",
+    "Text": ""
+  },
+  "210125": {
+    "OriginalText": "グレイオス討伐",
+    "Text": ""
+  },
+  "210126": {
+    "OriginalText": "原生種殲滅",
+    "Text": ""
+  },
+  "210127": {
+    "OriginalText": "原生種殲滅",
+    "Text": ""
+  },
+  "210128": {
+    "OriginalText": "原生種殲滅",
+    "Text": ""
+  },
+  "210129": {
+    "OriginalText": "コラル・ドラゴン討伐",
+    "Text": ""
+  },
+  "210130": {
+    "OriginalText": "ゴルドス討伐",
+    "Text": ""
+  },
+  "210131": {
+    "OriginalText": "ジャッドバンサー討伐",
+    "Text": ""
+  },
+  "210132": {
+    "OriginalText": "記録伝置を回収しろ",
+    "Text": ""
+  },
+  "210133": {
+    "OriginalText": "食村を回収しろ",
+    "Text": ""
+  },
+  "210134": {
+    "OriginalText": "時間まで敵を倒しまくれ",
+    "Text": ""
+  },
+  "210135": {
+    "OriginalText": "時間まで敵を倒しまくれ",
+    "Text": ""
+  },
+  "210136": {
+    "OriginalText": "ダーカー殲滅",
+    "Text": ""
+  },
+  "210137": {
+    "OriginalText": "Ｇダーク・ラグネ討伐",
+    "Text": ""
+  },
+  "210138": {
+    "OriginalText": "ディートアス討伐",
+    "Text": ""
+  },
+  "210139": {
+    "OriginalText": "ディゴルドス討伐",
+    "Text": ""
+  },
+  "210140": {
+    "OriginalText": "デェフキュオネ討伐",
+    "Text": ""
+  },
+  "210141": {
+    "OriginalText": "テュルトアス討伐",
+    "Text": ""
+  },
+  "210142": {
+    "OriginalText": "ナールレイバンサー討伐",
+    "Text": ""
+  },
+  "210143": {
+    "OriginalText": "ナールレイバンサー討伐",
+    "Text": ""
+  },
+  "210144": {
+    "OriginalText": "なし？",
+    "Text": ""
+  },
+  "210145": {
+    "OriginalText": "Ｇプレディカーダ討伐",
+    "Text": ""
+  },
+  "210146": {
+    "OriginalText": "目的地到達",
+    "Text": ""
+  },
+  "210147": {
+    "OriginalText": "ラッピー・タイム！",
+    "Text": ""
+  },
+  "210148": {
+    "OriginalText": "ラッピー・タイム！",
+    "Text": ""
+  },
+  "210149": {
+    "OriginalText": "レイヴァン討伐",
+    "Text": ""
+  },
+  "210150": {
+    "OriginalText": "レゾルカーネベア討伐",
+    "Text": ""
+  },
+  "210151": {
+    "OriginalText": "鉱洋を回収しろ",
+    "Text": ""
+  },
+  "210152": {
+    "OriginalText": "拠点を守れ   拠点耐久",
+    "Text": ""
+  },
