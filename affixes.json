@@ -1,7 +1,8 @@
 
   "150000": {
     "OriginalText": "なし",
-    "Text": ""
+    "Text": "None"
+    "Enabled": true
   },
   "150001": {
     "OriginalText": "パワーⅠ",
@@ -676,6 +677,7 @@
   "150135": {
     "OriginalText": "テンプテーション",
     "Text": "Temptation"
+    "Enabled": true
   },
   "150136": {
     "OriginalText": "ＥＸＰブースト",
@@ -690,82 +692,102 @@
   "150138": {
     "OriginalText": "バインドⅠ",
     "Text": "Bind I"
+    "Enabled": true
   },
   "150139": {
     "OriginalText": "バインドⅡ",
     "Text": "Bind II"
+    "Enabled": true
   },
   "150140": {
     "OriginalText": "バインドⅢ",
     "Text": "Bind III"
+    "Enabled": true
   },
   "150141": {
     "OriginalText": "バインドⅣ",
     "Text": "Bind IV"
+    "Enabled": true
   },
   "150142": {
     "OriginalText": "バインドⅤ",
     "Text": "Bind V"
+    "Enabled": true
   },
   "150143": {
     "OriginalText": "インフェクションⅠ",
     "Text": "Infection I"
+    "Enabled": true
   },
   "150144": {
     "OriginalText": "インフェクションⅡ",
     "Text": "Infection II"
+    "Enabled": true
   },
   "150145": {
     "OriginalText": "インフェクションⅢ",
     "Text": "Infection III"
+    "Enabled": true
   },
   "150146": {
     "OriginalText": "インフェクションⅣ",
     "Text": "Infection IV"
+    "Enabled": true
   },
   "150147": {
     "OriginalText": "インフェクションⅤ",
     "Text": "Infection V"
+    "Enabled": true
   },
   "150148": {
     "OriginalText": "ブラインドⅠ",
     "Text": "Blind I"
+    "Enabled": true
   },
   "150149": {
     "OriginalText": "ブラインドⅡ",
     "Text": "Blind II"
+    "Enabled": true
   },
   "150150": {
     "OriginalText": "ブラインドⅢ",
     "Text": "Blind III"
+    "Enabled": true
   },
   "150151": {
     "OriginalText": "ブラインドⅣ",
     "Text": "Blind IV"
+    "Enabled": true
   },
   "150152": {
     "OriginalText": "ブラインドⅤ",
     "Text": "Blind V"
+    "Enabled": true
   },
   "150153": {
     "OriginalText": "グラン中毒Ⅰ",
     "Text": "Gran Poisoning I"
+    "Enabled": true
   },
   "150154": {
     "OriginalText": "グラン中毒Ⅱ",
     "Text": "Gran Poisoning II"
+    "Enabled": true
   },
   "150155": {
     "OriginalText": "グラン中毒Ⅲ",
-    "Text": "Gran Poison III"
+    "Text": "Gran Poisoning III"
+    "Enabled": true
   },
   "150156": {
     "OriginalText": "グラン中毒Ⅳ",
     "Text": "Gran Poisoning IV"
+    "Enabled": true
   },
   "150157": {
     "OriginalText": "グラン中毒Ⅴ",
     "Text": "Gran Poisoning V"
+    "Enabled": true
   },
   "150158": {
     "OriginalText": "炎属性ダウンⅠ",
@@ -1354,10 +1376,12 @@
   "150304": {
     "OriginalText": "アクセルアタック",
     "Text": "Accel Attack"
+    "Enabled": true
   },
   "150305": {
     "OriginalText": "リーチブースト",
     "Text": "Reach Boost"
+    "Enabled": true
   },
   "150308": {
     "OriginalText": "護攻法陣",
