@@ -1,0 +1,337 @@
+
+  "310001": {
+    "OriginalText": "フラットブロウ",
+    "Text": ""
+  },
+  "310002": {
+    "OriginalText": "ポストブロウ",
+    "Text": ""
+  },
+  "310003": {
+    "OriginalText": "ピークブロウ",
+    "Text": ""
+  },
+  "310004": {
+    "OriginalText": "カットブロウト",
+    "Text": ""
+  },
+  "310005": {
+    "OriginalText": "プラスブロウト",
+    "Text": ""
+  },
+  "310006": {
+    "OriginalText": "マキシブロウト",
+    "Text": ""
+  },
+  "310007": {
+    "OriginalText": "ヘキサブロウブ",
+    "Text": ""
+  },
+  "310008": {
+    "OriginalText": "ヘプタブロウブ",
+    "Text": ""
+  },
+  "310009": {
+    "OriginalText": "オクタブロウブ",
+    "Text": ""
+  },
+  "310010": {
+    "OriginalText": "ハッシュブロオル",
+    "Text": ""
+  },
+  "310011": {
+    "OriginalText": "スマッシュブロオル",
+    "Text": ""
+  },
+  "310012": {
+    "OriginalText": "クラッシュブロオル",
+    "Text": ""
+  },
+  "310013": {
+    "OriginalText": "ゴウルブロオル",
+    "Text": ""
+  },
+  "310014": {
+    "OriginalText": "フラットショット",
+    "Text": ""
+  },
+  "310015": {
+    "OriginalText": "ポストショット",
+    "Text": ""
+  },
+  "310016": {
+    "OriginalText": "ピークショット",
+    "Text": ""
+  },
+  "310017": {
+    "OriginalText": "カットシュート",
+    "Text": ""
+  },
+  "310018": {
+    "OriginalText": "プラスシュート",
+    "Text": ""
+  },
+  "310019": {
+    "OriginalText": "マキシシュート",
+    "Text": ""
+  },
+  "310020": {
+    "OriginalText": "オクトショッティン",
+    "Text": ""
+  },
+  "310021": {
+    "OriginalText": "ヘクトショッティン",
+    "Text": ""
+  },
+  "310022": {
+    "OriginalText": "エキサショッティン",
+    "Text": ""
+  },
+  "310023": {
+    "OriginalText": "ハッシュショオル",
+    "Text": ""
+  },
+  "310024": {
+    "OriginalText": "スマッシュショオル",
+    "Text": ""
+  },
+  "310025": {
+    "OriginalText": "クラッシュショオル",
+    "Text": ""
+  },
+  "310026": {
+    "OriginalText": "ゴウルショオル",
+    "Text": ""
+  },
+  "310027": {
+    "OriginalText": "フラットテック",
+    "Text": ""
+  },
+  "310028": {
+    "OriginalText": "ポストテック",
+    "Text": ""
+  },
+  "310029": {
+    "OriginalText": "ピークテック",
+    "Text": ""
+  },
+  "310030": {
+    "OriginalText": "カットテクト",
+    "Text": ""
+  },
+  "310031": {
+    "OriginalText": "プラステクト",
+    "Text": ""
+  },
+  "310032": {
+    "OriginalText": "マキシテクト",
+    "Text": ""
+  },
+  "310033": {
+    "OriginalText": "オクトテクナ",
+    "Text": ""
+  },
+  "310034": {
+    "OriginalText": "ヘクトテクナ",
+    "Text": ""
+  },
+  "310035": {
+    "OriginalText": "エキサテクナ",
+    "Text": ""
+  },
+  "310036": {
+    "OriginalText": "ハッシュテクオル",
+    "Text": ""
+  },
+  "310037": {
+    "OriginalText": "スマッシュテクオル",
+    "Text": ""
+  },
+  "310038": {
+    "OriginalText": "クラッシュテクオル",
+    "Text": ""
+  },
+  "310039": {
+    "OriginalText": "ゴウルテクオル",
+    "Text": ""
+  },
+  "310040": {
+    "OriginalText": "ポストアタック",
+    "Text": "Post Attack"
+  },
+  "310041": {
+    "OriginalText": "ピークアタック",
+    "Text": ""
+  },
+  "310042": {
+    "OriginalText": "マキシストレイン",
+    "Text": ""
+  },
+  "310043": {
+    "OriginalText": "ヘプタフィアス",
+    "Text": ""
+  },
+  "310044": {
+    "OriginalText": "スマッシュフィオル",
+    "Text": ""
+  },
+  "310045": {
+    "OriginalText": "クラッシュフィオル",
+    "Text": ""
+  },
+  "310046": {
+    "OriginalText": "ゴウルフィオル",
+    "Text": ""
+  },
+  "310047": {
+    "OriginalText": "ピークフレイム",
+    "Text": ""
+  },
+  "310048": {
+    "OriginalText": "カットフレイト",
+    "Text": ""
+  },
+  "310049": {
+    "OriginalText": "マキシフレイト",
+    "Text": ""
+  },
+  "310050": {
+    "OriginalText": "ヘキサフレイブ",
+    "Text": ""
+  },
+  "310051": {
+    "OriginalText": "オクタフレイブ",
+    "Text": ""
+  },
+  "310052": {
+    "OriginalText": "ハッシュフレイオル",
+    "Text": ""
+  },
+  "310053": {
+    "OriginalText": "ピークアイス",
+    "Text": ""
+  },
+  "310054": {
+    "OriginalText": "カットアイスト",
+    "Text": ""
+  },
+  "310055": {
+    "OriginalText": "マキシアイスト",
+    "Text": ""
+  },
+  "310056": {
+    "OriginalText": "ヘキサアイブ",
+    "Text": ""
+  },
+  "310057": {
+    "OriginalText": "オクタアイブ",
+    "Text": ""
+  },
+  "310058": {
+    "OriginalText": "ハッシュアイオル",
+    "Text": ""
+  },
+  "310059": {
+    "OriginalText": "ピークボルト",
+    "Text": ""
+  },
+  "310060": {
+    "OriginalText": "カットボルテン",
+    "Text": ""
+  },
+  "310061": {
+    "OriginalText": "マキシボルテン",
+    "Text": ""
+  },
+  "310062": {
+    "OriginalText": "ヘキサボルブ",
+    "Text": ""
+  },
+  "310063": {
+    "OriginalText": "オクタボルブ",
+    "Text": ""
+  },
+  "310064": {
+    "OriginalText": "ハッシュボルオル",
+    "Text": ""
+  },
+  "310065": {
+    "OriginalText": "ピークストーム",
+    "Text": ""
+  },
+  "310066": {
+    "OriginalText": "カットストムト",
+    "Text": ""
+  },
+  "310067": {
+    "OriginalText": "マキシストムト",
+    "Text": ""
+  },
+  "310068": {
+    "OriginalText": "ヘキサストブ",
+    "Text": ""
+  },
+  "310069": {
+    "OriginalText": "オクタストブ",
+    "Text": ""
+  },
+  "310070": {
+    "OriginalText": "ハッシュストオル",
+    "Text": ""
+  },
+  "310071": {
+    "OriginalText": "カットライテン",
+    "Text": ""
+  },
+  "310072": {
+    "OriginalText": "マキシライテン",
+    "Text": ""
+  },
+  "310073": {
+    "OriginalText": "ヘキサライブ",
+    "Text": ""
+  },
+  "310074": {
+    "OriginalText": "オクタライブ",
+    "Text": ""
+  },
+  "310075": {
+    "OriginalText": "ハッシュライオル",
+    "Text": ""
+  },
+  "310076": {
+    "OriginalText": "カットグルート",
+    "Text": ""
+  },
+  "310077": {
+    "OriginalText": "マキシグルート",
+    "Text": ""
+  },
+  "310078": {
+    "OriginalText": "ヘキサグルーブ",
+    "Text": ""
+  },
+  "310079": {
+    "OriginalText": "オクタグルーブ",
+    "Text": ""
+  },
+  "310080": {
+    "OriginalText": "ハッシュグルーオル",
+    "Text": ""
+  },
+  "310081": {
+    "OriginalText": "マキシクオリティ",
+    "Text": ""
+  },
+  "310082": {
+    "OriginalText": "オクタクオリティブ",
+    "Text": ""
+  },
+  "310083": {
+    "OriginalText": "スマッシュクオル",
+    "Text": ""
+  },
+  "310084": {
+    "OriginalText": "クラッシュクオル",
+    "Text": ""
+  },
