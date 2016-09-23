@@ -18,14 +18,15 @@ This repository is dedicated to translating PS: Nova game texts from Japanese to
 
  1. Click the file you want to edit
  2. Click the pencil icon
- 3. Edit the file to your heart's content! (Please <b>OVERWRITE</b> the JP text with your translation.)
+ 3. Edit the file to your heart's content!
  4. Write a brief summary of the changes at the bottom of the page
  5. Hit "Commit changes" (<b>DO NOT CREATE A NEW BRANCH, COMMIT DIRECTLY TO MASTER.</b>)
  6. Your changes will also be posted to the discord chat
 
-We welcome your contributions in form of direct commits. You may create new issues to discuss the translations with other translators. Please note that issues not related to translation may be deleted without notice.
-
-Please note that there may be "weird" things in the text.
+ 
+##For the story translations:
+  
+Please <b>OVERWRITE</b> the JP text with your translation. Note that there may be "weird" things in the text!
 
 For example, "[c]" and "[n]". The n is a "new line". <b><i><u>PLEASE LEAVE THESE TAGS IN THERE.</b></i></u>
 
@@ -44,6 +45,19 @@ will show up as:
 ```
 
 <b><i><u>PLEASE LEAVE THESE TAGS IN THERE.</b></i></u>
+
+##For all other files: 
+
+Please put your translation in the "Text" field like so:
+  
+```
+  "310040": {
+    "OriginalText": "ポストアタック",
+    "Text": "Post Attack"
+  },
+```
+
+We welcome your contributions in form of direct commits. You may create new issues to discuss the translations with other translators. Please note that issues not related to translation may be deleted without notice.
 
 ![3]
 
