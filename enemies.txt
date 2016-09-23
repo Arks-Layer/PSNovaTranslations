@@ -25,7 +25,7 @@
   },
   "180230": {
     "OriginalText": "Ｇダガン・ネロ",
-    "Text": ""
+    "Text": "G-Dagan Nero"
   },
   "180310": {
     "OriginalText": "Ｇエル・アーダ",
@@ -114,15 +114,15 @@
   },
   "181120": {
     "OriginalText": "Ｇパイクロナーダ",
-    "Text": ""
+    "Text": "G-Piklonahda"
   },
   "181210": {
     "OriginalText": "Ｇシャルレイダ",
-    "Text": ""
+    "Text": "G-Shalurayda"
   },
   "181220": {
-    "OriginalText": "Ｇライルレイダ ",
-    "Text": ""
+    "OriginalText": "Ｇライルレイダ",
+    "Text": "G-Rilurayda"
   },
   "181310": {
     "OriginalText": "バリドランナ",
@@ -722,7 +722,7 @@
   },
   "185010": {
     "OriginalText": "エウリュード",
-    "Text": ""
+    "Text": "Eurude"
   },
   "185020": {
     "OriginalText": "換伝武器：ガトリング",
@@ -762,7 +762,7 @@
   },
   "185110": {
     "OriginalText": "ガラティオン",
-    "Text": ""
+    "Text": "Gratian"
   },
   "185120": {
     "OriginalText": "ギガティオン",
@@ -790,7 +790,7 @@
   },
   "185210": {
     "OriginalText": "アルキュオネ",
-    "Text": ""
+    "Text": "Alcyone"
   },
   "185220": {
     "OriginalText": "デェフキュオネ",
