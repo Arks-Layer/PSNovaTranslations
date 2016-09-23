@@ -766,7 +766,7 @@
   },
   "185120": {
     "OriginalText": "ギガティオン",
-    "Text": ""
+    "Text": "Gigantion"
   },
   "185130": {
     "OriginalText": "グラヴディオン",
