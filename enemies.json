@@ -1,133 +1,3 @@
-
-  "180000": {
-    "OriginalText": "---",
-    "Text": ""
-  },
-  "180110": {
-    "OriginalText": "Ｇクラーダ",
-    "Text": "G-Krahda",
-    "Enabled": true
-  },
-  "180120": {
-    "OriginalText": "Ｇクラーダ・ネロ",
-    "Text": "G-Krahda Nero",
-    "Enabled": true
-  },
-  "180210": {
-    "OriginalText": "Ｇダガン",
-    "Text": "G-Dagan",
-    "Enabled": true
-  },
-  "180220": {
-    "OriginalText": "Ｇエル・ダガン",
-    "Text": "G-El Dagan",
-    "Enabled": true
-  },
-  "180230": {
-    "OriginalText": "Ｇダガン・ネロ",
-    "Text": "G-Dagan Nero"
-    "Enabled": true
-  },
-  "180310": {
-    "OriginalText": "Ｇエル・アーダ",
-    "Text": "G-El Ahda",
-    "Enabled": true
-  },
-  "180320": {
-    "OriginalText": "Ｇエル・アーダ・ネロ",
-    "Text": "G-El Ahda Nero",
-    "Enabled": true
-  },
-  "180410": {
-    "OriginalText": "Ｇプレディカーダ",
-    "Text": "G-Predicahda",
-    "Enabled": true
-  },
-  "180420": {
-    "OriginalText": "Ｇプレディカーダ・ネロ",
-    "Text": "G-Predicahda Nero",
-    "Enabled": true
-  },
-  "180510": {
-    "OriginalText": "Ｇダーク・ラグネ",
-    "Text": "G-Dark Ragne",
-    "Enabled": true
-  },
-  "180520": {
-    "OriginalText": "Ｇダーク・アグラニ",
-    "Text": "G-Dark Agrani",
-    "Enabled": true
-  },
-  "180610": {
-    "OriginalText": "Ｇミクダ",
-    "Text": "G-Micda",
-    "Enabled": true
-  },
-  "180620": {
-    "OriginalText": "Ｇミ・ミクダ",
-    "Text": "G-Mi Micda",
-    "Enabled": true
-  },
-  "180710": {
-    "OriginalText": "Ｇダーガッシュ",
-    "Text": "G-Dahgash",
-    "Enabled": true
-  },
-  "180720": {
-    "OriginalText": "Ｇダーガッシュ・ネロ",
-    "Text": "G-Dahgash Nero",
-    "Enabled": true
-  },
-  "180810": {
-    "OriginalText": "Ｇガウォンダ",
-    "Text": "G-Ga Wonda",
-    "Enabled": true
-  },
-  "180820": {
-    "OriginalText": "Ｇガウォンダ・ネロ",
-    "Text": "G-Ga Wonda Nero",
-    "Enabled": true
-  },
-  "180910": {
-    "OriginalText": "Ｇグウォンダ",
-    "Text": "G-Gu Wonda",
-    "Enabled": true
-  },
-  "180920": {
-    "OriginalText": "Ｇグウォンダ・ネロ",
-    "Text": "G-Gu Wonda Nero",
-    "Enabled": true
-  },
-  "181010": {
-    "OriginalText": "Ｇウォルガーダ",
-    "Text": "G-Wolgahda",
-    "Enabled": true
-  },
-  "181020": {
-    "OriginalText": "Ｇアロナガーダ",
-    "Text": "G-Alonagahda",
-    "Enabled": true
-  },
-  "181110": {
-    "OriginalText": "Ｇキュクロナーダ",
-    "Text": "G-Kuklonahda",
-    "Enabled": true
-  },
-  "181120": {
-    "OriginalText": "Ｇパイクロナーダ",
-    "Text": "G-Piklonahda"
-    "Enabled": true
-  },
-  "181210": {
-    "OriginalText": "Ｇシャルレイダ",
-    "Text": "G-Shalurayda"
-    "Enabled": true
-  },
-  "181220": {
-    "OriginalText": "Ｇライルレイダ",
-    "Text": "G-Rilurayda"
-    "Enabled": true
-  },
   "181310": {
     "OriginalText": "バリドランナ",
     "Text": ""
@@ -167,16 +37,6 @@
   "181620": {
     "OriginalText": "ヴォルドラ２(仮)",
     "Text": ""
-  },
-  "181710": {
-    "OriginalText": "コラル・ドラゴン",
-    "Text": "Coral Dragon"
-    "Enabled": true
-  },
-  "181720": {
-    "OriginalText": "ディアマ・ドラール",
-    "Text": "Diama Draal"
-    "Enabled": true
   },
   "181810": {
     "OriginalText": "ラウーダン",
@@ -245,11 +105,6 @@
   "182330": {
     "OriginalText": "バンサ・ブライネス",
     "Text": ""
-  },
-  "182410": {
-    "OriginalText": "ラッピー",
-    "Text": "Rappy"
-    "Enabled": true
   },
   "182420": {
     "OriginalText": "ニグ・ラッピー",
@@ -727,11 +582,6 @@
     "OriginalText": "最弱点",
     "Text": ""
   },
-  "185010": {
-    "OriginalText": "エウリュード",
-    "Text": "Eurude"
-    "Enabled": true
-  },
   "185020": {
     "OriginalText": "換伝武器：ガトリング",
     "Text": ""
@@ -768,16 +618,6 @@
     "OriginalText": "コンテナ：ミサイル",
     "Text": ""
   },
-  "185110": {
-    "OriginalText": "ガラティオン",
-    "Text": "Gratian"
-    "Enabled": true
-  },
-  "185120": {
-    "OriginalText": "ギガティオン",
-    "Text": "Gigantion"
-    "Enabled": true
-  },
   "185130": {
     "OriginalText": "グラヴディオン",
     "Text": ""
@@ -797,11 +637,6 @@
   "185150": {
     "OriginalText": "アンカー発射伝置",
     "Text": ""
-  },
-  "185210": {
-    "OriginalText": "アルキュオネ",
-    "Text": "Alcyone"
-    "Enabled": true
   },
   "185220": {
     "OriginalText": "デェフキュオネ",
@@ -890,11 +725,6 @@
   "185530": {
     "OriginalText": "レイヴガイスト",
     "Text": ""
-  },
-  "185531": {
-    "OriginalText": "レイヴァン",
-    "Text": "Reven"
-    "Enabled": true
   },
   "185540": {
     "OriginalText": "ネメスフース",
