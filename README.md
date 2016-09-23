@@ -18,27 +18,29 @@ This repository is dedicated to translating PS: Nova game texts from Japanese to
 
  1. Click the file you want to edit
  2. Click the pencil icon
- 3. Edit the file to your heart's content! (<b>ONLY EDIT THE JAPANESE, DO NOT CHANGE THE ENGLISH TEXT!</b>)
+ 3. Edit the file to your heart's content! (Please <b>OVERWRITE</b> the JP text with your translation.)
  4. Write a brief summary of the changes at the bottom of the page
  5. Hit "Commit changes" (<b>DO NOT CREATE A NEW BRANCH, COMMIT DIRECTLY TO MASTER.</b>)
  6. Your changes will also be posted to the discord chat
 
 We welcome your contributions in form of direct commits. You may create new issues to discuss the translations with other translators. Please note that issues not related to translation may be deleted without notice.
 
-Here is an example:
+Please note that there may be "weird" things in the text.
+
+For example, "[c]" and "[n]". The n is a "new line". <b><i><u>PLEASE LEAVE THESE TAGS IN THERE.</b></i></u>
+
+The [ruby] tag indicates that the text inside of it will be above the enclosed text. For example:
 
 ```
-msg_11002.rmd
-11002:
-アイテム
+msg_100000010010013.rmd:
+お願い……わたしの[ruby ほし]惑星[/ruby]を……助けて。
 ```
 
-would become:
+will show up as:
 
 ```
-msg_11002.rmd
-11002:
-Item
+               ほし
+お願い……わたしの惑星を……助けて。
 ```
 
 ![3]
