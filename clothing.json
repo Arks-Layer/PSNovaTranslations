@@ -1,0 +1,1872 @@
+  "330011": {
+    "OriginalText": "ヘイズソーサラーＫ",
+    "Text": "Haze Sorcerer K"
+  },
+  "330012": {
+    "OriginalText": "ヘイズソーサラーＹ",
+    "Text": "Haze Sorcerer Y"
+  },
+  "330013": {
+    "OriginalText": "ヘイズソーサラーＢ",
+    "Text": "Haze Sorcerer B"
+  },
+  "330014": {
+    "OriginalText": "ヘイズソーサラーＲ",
+    "Text": ""
+  },
+  "330015": {
+    "OriginalText": "クローズクォーター破Ｏ",
+    "Text": ""
+  },
+  "330016": {
+    "OriginalText": "クローズクォーター破Ｂ",
+    "Text": ""
+  },
+  "330017": {
+    "OriginalText": "クローズクォーター破Ｖ",
+    "Text": ""
+  },
+  "330018": {
+    "OriginalText": "クローズクォーター破Ｇ",
+    "Text": ""
+  },
+  "330019": {
+    "OriginalText": "シャープオーダー破Ｖ",
+    "Text": ""
+  },
+  "330020": {
+    "OriginalText": "シャープオーダー破Ｋ",
+    "Text": ""
+  },
+  "330021": {
+    "OriginalText": "シャープオーダー破Ｇ",
+    "Text": ""
+  },
+  "330022": {
+    "OriginalText": "シャープオーダー破Ｏ",
+    "Text": ""
+  },
+  "330023": {
+    "OriginalText": "ブリッツエース破Ｇ",
+    "Text": ""
+  },
+  "330024": {
+    "OriginalText": "ブリッツエース破Ｖ",
+    "Text": ""
+  },
+  "330025": {
+    "OriginalText": "ブリッツエース破Ｒ",
+    "Text": ""
+  },
+  "330026": {
+    "OriginalText": "ブリッツエース破Ｂ",
+    "Text": ""
+  },
+  "330027": {
+    "OriginalText": "センシアスコート破Ｋ",
+    "Text": ""
+  },
+  "330028": {
+    "OriginalText": "センシアスコート破Ｏ",
+    "Text": ""
+  },
+  "330029": {
+    "OriginalText": "センシアスコート破Ｒ",
+    "Text": ""
+  },
+  "330030": {
+    "OriginalText": "センシアスコート破Ｇ",
+    "Text": ""
+  },
+  "330031": {
+    "OriginalText": "レーベンシルト破Ｂ",
+    "Text": ""
+  },
+  "330032": {
+    "OriginalText": "レーベンシルト破Ｋ",
+    "Text": ""
+  },
+  "330033": {
+    "OriginalText": "レーベンシルト破Ｗ",
+    "Text": ""
+  },
+  "330034": {
+    "OriginalText": "レーベンシルト破Ｒ",
+    "Text": ""
+  },
+  "330035": {
+    "OriginalText": "ヴァイゼクルーン破Ｗ",
+    "Text": ""
+  },
+  "330036": {
+    "OriginalText": "ヴァイゼクルーン破Ｋ",
+    "Text": ""
+  },
+  "330037": {
+    "OriginalText": "ヴァイゼクルーン破Ｒ",
+    "Text": ""
+  },
+  "330038": {
+    "OriginalText": "ヴァイゼクルーン破Ｂ",
+    "Text": ""
+  },
+  "330039": {
+    "OriginalText": "ジャン・ドゥＢ",
+    "Text": ""
+  },
+  "330040": {
+    "OriginalText": "ジャン・ドゥＫ",
+    "Text": ""
+  },
+  "330041": {
+    "OriginalText": "ジャン・ドゥＯ",
+    "Text": ""
+  },
+  "330042": {
+    "OriginalText": "ジャン・ドゥＷ",
+    "Text": ""
+  },
+  "330043": {
+    "OriginalText": "スライトスーツＲ",
+    "Text": ""
+  },
+  "330044": {
+    "OriginalText": "スライトスーツＯ",
+    "Text": ""
+  },
+  "330045": {
+    "OriginalText": "スライトスーツＷ",
+    "Text": ""
+  },
+  "330046": {
+    "OriginalText": "スライトスーツＫ",
+    "Text": ""
+  },
+  "330047": {
+    "OriginalText": "シークイェーガー破Ｂ",
+    "Text": ""
+  },
+  "330048": {
+    "OriginalText": "シークイェーガー破Ｙ",
+    "Text": ""
+  },
+  "330049": {
+    "OriginalText": "シークイェーガー破Ｖ",
+    "Text": ""
+  },
+  "330050": {
+    "OriginalText": "シークイェーガー破Ｋ",
+    "Text": ""
+  },
+  "330051": {
+    "OriginalText": "ナビゲータースーツＧ",
+    "Text": ""
+  },
+  "330052": {
+    "OriginalText": "ナビゲータースーツＯ",
+    "Text": ""
+  },
+  "330053": {
+    "OriginalText": "ナビゲータースーツＢ",
+    "Text": ""
+  },
+  "330054": {
+    "OriginalText": "ナビゲータースーツＲ",
+    "Text": ""
+  },
+  "330055": {
+    "OriginalText": "アークス研修生男制服Ｗ",
+    "Text": ""
+  },
+  "330056": {
+    "OriginalText": "アークス研修生男制服Ｋ",
+    "Text": ""
+  },
+  "330057": {
+    "OriginalText": "アークス研修生男制服Ｏ",
+    "Text": ""
+  },
+  "330058": {
+    "OriginalText": "アークス研修生男制服Ｂ",
+    "Text": ""
+  },
+  "330059": {
+    "OriginalText": "ヘレティックロードＢ",
+    "Text": ""
+  },
+  "330060": {
+    "OriginalText": "ヘレティックロードＫ",
+    "Text": ""
+  },
+  "330061": {
+    "OriginalText": "ヘレティックロードＲ",
+    "Text": ""
+  },
+  "330062": {
+    "OriginalText": "ヘレティックロードＧ",
+    "Text": ""
+  },
+  "330063": {
+    "OriginalText": "アインザーム破Ｂ",
+    "Text": ""
+  },
+  "330064": {
+    "OriginalText": "アインザーム破Ｏ",
+    "Text": ""
+  },
+  "330065": {
+    "OriginalText": "アインザーム破Ｖ",
+    "Text": ""
+  },
+  "330066": {
+    "OriginalText": "アインザーム破Ｒ",
+    "Text": ""
+  },
+  "330067": {
+    "OriginalText": "フリューネージュＢ",
+    "Text": ""
+  },
+  "330068": {
+    "OriginalText": "フリューネージュＲ",
+    "Text": ""
+  },
+  "330069": {
+    "OriginalText": "フリューネージュＹ",
+    "Text": ""
+  },
+  "330070": {
+    "OriginalText": "フリューネージュＧ",
+    "Text": ""
+  },
+  "330071": {
+    "OriginalText": "フラメガッシュＯ",
+    "Text": ""
+  },
+  "330072": {
+    "OriginalText": "フラメガッシュＢ",
+    "Text": ""
+  },
+  "330073": {
+    "OriginalText": "フラメガッシュＹ",
+    "Text": ""
+  },
+  "330074": {
+    "OriginalText": "フラメガッシュＲ",
+    "Text": ""
+  },
+  "330075": {
+    "OriginalText": "ヴォルカノパッカー破Ｒ",
+    "Text": ""
+  },
+  "330076": {
+    "OriginalText": "ヴォルカノパッカー破Ｂ",
+    "Text": ""
+  },
+  "330077": {
+    "OriginalText": "ヴォルカノパッカー破Ｋ",
+    "Text": ""
+  },
+  "330078": {
+    "OriginalText": "ヴォルカノパッカー破Ｏ",
+    "Text": ""
+  },
+  "330079": {
+    "OriginalText": "ウォフマナフＷ",
+    "Text": ""
+  },
+  "330080": {
+    "OriginalText": "ウォフマナフＲ",
+    "Text": ""
+  },
+  "330081": {
+    "OriginalText": "ウォフマナフＧ",
+    "Text": ""
+  },
+  "330082": {
+    "OriginalText": "ウォフマナフＢ",
+    "Text": ""
+  },
+  "330083": {
+    "OriginalText": "ガラテピオニエＷ",
+    "Text": ""
+  },
+  "330084": {
+    "OriginalText": "ガラテピオニエＢ",
+    "Text": ""
+  },
+  "330085": {
+    "OriginalText": "ガラテピオニエＫ",
+    "Text": ""
+  },
+  "330086": {
+    "OriginalText": "ガラテピオニエＲ",
+    "Text": ""
+  },
+  "330087": {
+    "OriginalText": "ガラテピオニエＧ",
+    "Text": ""
+  },
+  "330088": {
+    "OriginalText": "アグリシェルシェールＷ",
+    "Text": ""
+  },
+  "330089": {
+    "OriginalText": "アグリシェルシェールＲ",
+    "Text": ""
+  },
+  "330090": {
+    "OriginalText": "アグリシェルシェールＫ",
+    "Text": ""
+  },
+  "330091": {
+    "OriginalText": "アグリシェルシェールＢ",
+    "Text": ""
+  },
+  "330092": {
+    "OriginalText": "アグリシェルシェールＧ",
+    "Text": ""
+  },
+  "330093": {
+    "OriginalText": "アルキファナティックＷ",
+    "Text": ""
+  },
+  "330094": {
+    "OriginalText": "アルキファナティックＫ",
+    "Text": ""
+  },
+  "330095": {
+    "OriginalText": "アルキファナティックＲ",
+    "Text": ""
+  },
+  "330096": {
+    "OriginalText": "アルキファナティックＢ",
+    "Text": ""
+  },
+  "330097": {
+    "OriginalText": "アルキファナティックＧ",
+    "Text": ""
+  },
+  "330098": {
+    "OriginalText": "ノヴァソヴァールＷ",
+    "Text": ""
+  },
+  "330099": {
+    "OriginalText": "ノヴァソヴァールＲ",
+    "Text": ""
+  },
+  "330100": {
+    "OriginalText": "ノヴァソヴァールＢ",
+    "Text": ""
+  },
+  "330101": {
+    "OriginalText": "ノヴァソヴァールＧ",
+    "Text": ""
+  },
+  "330102": {
+    "OriginalText": "ノヴァソヴァールＹ",
+    "Text": ""
+  },
+  "330103": {
+    "OriginalText": "エイゲトグリーフＢ",
+    "Text": ""
+  },
+  "330104": {
+    "OriginalText": "エイゲトグリーフＧ",
+    "Text": ""
+  },
+  "330105": {
+    "OriginalText": "エイゲトグリーフＰ",
+    "Text": ""
+  },
+  "330106": {
+    "OriginalText": "エイゲトグリーフＶ",
+    "Text": ""
+  },
+  "330107": {
+    "OriginalText": "エイゲトグリーフＫ",
+    "Text": ""
+  },
+  "330108": {
+    "OriginalText": "フリードアウトローＯ",
+    "Text": ""
+  },
+  "330109": {
+    "OriginalText": "フリードアウトローＫ",
+    "Text": ""
+  },
+  "330110": {
+    "OriginalText": "フリードアウトローＲ",
+    "Text": ""
+  },
+  "330111": {
+    "OriginalText": "フリードアウトローＧ",
+    "Text": ""
+  },
+  "330112": {
+    "OriginalText": "フリードアウトローＢ",
+    "Text": ""
+  },
+  "330113": {
+    "OriginalText": "リンデンローブＧ",
+    "Text": ""
+  },
+  "330114": {
+    "OriginalText": "リンデンローブＢ",
+    "Text": ""
+  },
+  "330115": {
+    "OriginalText": "リンデンローブＲ",
+    "Text": ""
+  },
+  "330116": {
+    "OriginalText": "リンデンローブＯ",
+    "Text": ""
+  },
+  "330117": {
+    "OriginalText": "リンデンローブＷ",
+    "Text": ""
+  },
+  "330118": {
+    "OriginalText": "ジュラキュイラスＧ",
+    "Text": ""
+  },
+  "330119": {
+    "OriginalText": "ジュラキュイラスＶ",
+    "Text": ""
+  },
+  "330120": {
+    "OriginalText": "ジュラキュイラスＯ",
+    "Text": ""
+  },
+  "330121": {
+    "OriginalText": "ジュラキュイラスＲ",
+    "Text": ""
+  },
+  "330122": {
+    "OriginalText": "ジュラキュイラスＷ",
+    "Text": ""
+  },
+  "330123": {
+    "OriginalText": "ワイルドスタイルＫ",
+    "Text": ""
+  },
+  "330124": {
+    "OriginalText": "ワイルドスタイルＲ",
+    "Text": ""
+  },
+  "330125": {
+    "OriginalText": "ワイルドスタイルＯ",
+    "Text": ""
+  },
+  "330126": {
+    "OriginalText": "ワイルドスタイルＢ",
+    "Text": ""
+  },
+  "330127": {
+    "OriginalText": "ワイルドスタイルＧ",
+    "Text": ""
+  },
+  "330128": {
+    "OriginalText": "ラッピーミミクリＹ",
+    "Text": ""
+  },
+  "330129": {
+    "OriginalText": "ラッピーミミクリＢ",
+    "Text": ""
+  },
+  "330130": {
+    "OriginalText": "ラッピーミミクリＲ",
+    "Text": ""
+  },
+  "330131": {
+    "OriginalText": "ラッピーミミクリＷ",
+    "Text": ""
+  },
+  "330132": {
+    "OriginalText": "ラッピーミミクリＫ",
+    "Text": ""
+  },
+  "330133": {
+    "OriginalText": "ヴィテスシュタルクＫ",
+    "Text": ""
+  },
+  "330134": {
+    "OriginalText": "ヴィテスシュタルクＲ",
+    "Text": ""
+  },
+  "330135": {
+    "OriginalText": "ヴィテスシュタルクＹ",
+    "Text": ""
+  },
+  "330136": {
+    "OriginalText": "ヴィテスシュタルクＢ",
+    "Text": ""
+  },
+  "330137": {
+    "OriginalText": "ヴィテスシュタルクＧ",
+    "Text": ""
+  },
+  "330138": {
+    "OriginalText": "ヴィグールズイッヒャーＷ",
+    "Text": ""
+  },
+  "330139": {
+    "OriginalText": "ヴィグールズイッヒャーＫ",
+    "Text": ""
+  },
+  "330140": {
+    "OriginalText": "ヴィグールズイッヒャーＧ",
+    "Text": ""
+  },
+  "330141": {
+    "OriginalText": "ヴィグールズイッヒャーＢ",
+    "Text": ""
+  },
+  "330142": {
+    "OriginalText": "ヴィグールズイッヒャーＲ",
+    "Text": ""
+  },
+  "330143": {
+    "OriginalText": "シャンプースタイル",
+    "Text": ""
+  },
+  "330144": {
+    "OriginalText": "ヴァシュロンコート",
+    "Text": ""
+  },
+  "330145": {
+    "OriginalText": "ゼファージャケット",
+    "Text": ""
+  },
+  "330146": {
+    "OriginalText": "ヘヴィスクード破Ｂ",
+    "Text": ""
+  },
+  "330147": {
+    "OriginalText": "ヘヴィスクード破Ｏ",
+    "Text": ""
+  },
+  "330148": {
+    "OriginalText": "ヘヴィスクード破Ｒ",
+    "Text": ""
+  },
+  "330149": {
+    "OriginalText": "ヘヴィスクード破Ｇ",
+    "Text": ""
+  },
+  "330150": {
+    "OriginalText": "ジャン・ドゥ破Ｂ",
+    "Text": ""
+  },
+  "330151": {
+    "OriginalText": "ジャン・ドゥ破Ｋ",
+    "Text": ""
+  },
+  "330152": {
+    "OriginalText": "ジャン・ドゥ破Ｏ",
+    "Text": ""
+  },
+  "330153": {
+    "OriginalText": "ジャン・ドゥ破Ｗ",
+    "Text": ""
+  },
+  "330154": {
+    "OriginalText": "フラメガッシュ破Ｏ",
+    "Text": ""
+  },
+  "330155": {
+    "OriginalText": "フラメガッシュ破Ｂ",
+    "Text": ""
+  },
+  "330156": {
+    "OriginalText": "フラメガッシュ破Ｙ",
+    "Text": ""
+  },
+  "330157": {
+    "OriginalText": "フラメガッシュ破Ｒ",
+    "Text": ""
+  },
+  "330158": {
+    "OriginalText": "アンダーウェア",
+    "Text": ""
+  },
+  "330159": {
+    "OriginalText": "ハニージャケット破Ｙ",
+    "Text": ""
+  },
+  "330160": {
+    "OriginalText": "ハニージャケット破Ｒ",
+    "Text": ""
+  },
+  "330161": {
+    "OriginalText": "ハニージャケット破Ｗ",
+    "Text": ""
+  },
+  "330162": {
+    "OriginalText": "ハニージャケット破Ｂ",
+    "Text": ""
+  },
+  "330163": {
+    "OriginalText": "バリスティックコートＢ",
+    "Text": ""
+  },
+  "330164": {
+    "OriginalText": "バリスティックコートＹ",
+    "Text": ""
+  },
+  "330165": {
+    "OriginalText": "バリスティックコートＲ",
+    "Text": ""
+  },
+  "330166": {
+    "OriginalText": "バリスティックコートＫ",
+    "Text": ""
+  },
+  "330167": {
+    "OriginalText": "タイガーピアスＷ",
+    "Text": ""
+  },
+  "330168": {
+    "OriginalText": "タイガーピアスＲ",
+    "Text": ""
+  },
+  "330169": {
+    "OriginalText": "タイガーピアスＹ",
+    "Text": ""
+  },
+  "330170": {
+    "OriginalText": "タイガーピアスＢ",
+    "Text": ""
+  },
+  "330171": {
+    "OriginalText": "リトルプリムＧ",
+    "Text": ""
+  },
+  "330172": {
+    "OriginalText": "リトルプリムＢ",
+    "Text": ""
+  },
+  "330173": {
+    "OriginalText": "リトルプリムＰ",
+    "Text": ""
+  },
+  "330174": {
+    "OriginalText": "リトルプリムＫ",
+    "Text": ""
+  },
+  "330175": {
+    "OriginalText": "キャンディークラウンＢ",
+    "Text": ""
+  },
+  "330176": {
+    "OriginalText": "キャンディークラウンＫ",
+    "Text": ""
+  },
+  "330177": {
+    "OriginalText": "キャンディークラウンＧ",
+    "Text": ""
+  },
+  "330178": {
+    "OriginalText": "キャンディークラウンＰ",
+    "Text": ""
+  },
+  "330179": {
+    "OriginalText": "エクエスティオー破Ｙ",
+    "Text": ""
+  },
+  "330180": {
+    "OriginalText": "エクエスティオー破Ｒ",
+    "Text": ""
+  },
+  "330181": {
+    "OriginalText": "エクエスティオー破Ｂ",
+    "Text": ""
+  },
+  "330182": {
+    "OriginalText": "エクエスティオー破Ｇ",
+    "Text": ""
+  },
+  "330183": {
+    "OriginalText": "フィーリングローブ破Ｇ",
+    "Text": ""
+  },
+  "330184": {
+    "OriginalText": "フィーリングローブ破Ｂ",
+    "Text": ""
+  },
+  "330185": {
+    "OriginalText": "フィーリングローブ破Ｏ",
+    "Text": ""
+  },
+  "330186": {
+    "OriginalText": "フィーリングローブ破Ｒ",
+    "Text": ""
+  },
+  "330187": {
+    "OriginalText": "ネイバークォーツ破Ｇ",
+    "Text": ""
+  },
+  "330188": {
+    "OriginalText": "ネイバークォーツ破Ｒ",
+    "Text": ""
+  },
+  "330189": {
+    "OriginalText": "ネイバークォーツ破Ｐ",
+    "Text": ""
+  },
+  "330190": {
+    "OriginalText": "ネイバークォーツ破Ｂ",
+    "Text": ""
+  },
+  "330191": {
+    "OriginalText": "ガードウイング破Ｖ",
+    "Text": ""
+  },
+  "330192": {
+    "OriginalText": "ガードウイング破Ｏ",
+    "Text": ""
+  },
+  "330193": {
+    "OriginalText": "ガードウイング破Ｋ",
+    "Text": ""
+  },
+  "330194": {
+    "OriginalText": "ガードウイング破Ｒ",
+    "Text": ""
+  },
+  "330195": {
+    "OriginalText": "スライトクロスＧ",
+    "Text": ""
+  },
+  "330196": {
+    "OriginalText": "スライトクロスＲ",
+    "Text": ""
+  },
+  "330197": {
+    "OriginalText": "スライトクロスＢ",
+    "Text": ""
+  },
+  "330198": {
+    "OriginalText": "スライトクロスＯ",
+    "Text": ""
+  },
+  "330199": {
+    "OriginalText": "サウザンドリム破Ｒ",
+    "Text": ""
+  },
+  "330200": {
+    "OriginalText": "サウザンドリム破Ｂ",
+    "Text": ""
+  },
+  "330201": {
+    "OriginalText": "サウザンドリム破Ｗ",
+    "Text": ""
+  },
+  "330202": {
+    "OriginalText": "サウザンドリム破Ｇ",
+    "Text": ""
+  },
+  "330203": {
+    "OriginalText": "ナビゲータードレスＶ",
+    "Text": ""
+  },
+  "330204": {
+    "OriginalText": "ナビゲータードレスＷ",
+    "Text": ""
+  },
+  "330205": {
+    "OriginalText": "ナビゲータードレスＢ",
+    "Text": ""
+  },
+  "330206": {
+    "OriginalText": "ナビゲータードレスＲ",
+    "Text": ""
+  },
+  "330207": {
+    "OriginalText": "ナースドレスＹ",
+    "Text": ""
+  },
+  "330208": {
+    "OriginalText": "ナースドレスＢ",
+    "Text": ""
+  },
+  "330209": {
+    "OriginalText": "ナースドレスＧ",
+    "Text": ""
+  },
+  "330210": {
+    "OriginalText": "ナースドレスＰ",
+    "Text": ""
+  },
+  "330211": {
+    "OriginalText": "アークス研修生女制服Ｋ",
+    "Text": ""
+  },
+  "330212": {
+    "OriginalText": "アークス研修生女制服Ｂ",
+    "Text": ""
+  },
+  "330213": {
+    "OriginalText": "アークス研修生女制服Ｒ",
+    "Text": ""
+  },
+  "330214": {
+    "OriginalText": "アークス研修生女制服Ｇ",
+    "Text": ""
+  },
+  "330215": {
+    "OriginalText": "エレティックレーヌ破Ｗ",
+    "Text": ""
+  },
+  "330216": {
+    "OriginalText": "エレティックレーヌ破Ｏ",
+    "Text": ""
+  },
+  "330217": {
+    "OriginalText": "エレティックレーヌ破Ｐ",
+    "Text": ""
+  },
+  "330218": {
+    "OriginalText": "エレティックレーヌ破Ｇ",
+    "Text": ""
+  },
+  "330219": {
+    "OriginalText": "イーリスカッツェＯ",
+    "Text": ""
+  },
+  "330220": {
+    "OriginalText": "イーリスカッツェＧ",
+    "Text": ""
+  },
+  "330221": {
+    "OriginalText": "イーリスカッツェＢ",
+    "Text": ""
+  },
+  "330222": {
+    "OriginalText": "イーリスカッツェＲ",
+    "Text": ""
+  },
+  "330223": {
+    "OriginalText": "ファニートレイターＢ",
+    "Text": ""
+  },
+  "330224": {
+    "OriginalText": "ファニートレイターＯ",
+    "Text": ""
+  },
+  "330225": {
+    "OriginalText": "ファニートレイターＲ",
+    "Text": ""
+  },
+  "330226": {
+    "OriginalText": "ファニートレイターＧ",
+    "Text": ""
+  },
+  "330227": {
+    "OriginalText": "ハートブレイカーＲ",
+    "Text": ""
+  },
+  "330228": {
+    "OriginalText": "ハートブレイカーＧ",
+    "Text": ""
+  },
+  "330229": {
+    "OriginalText": "ハートブレイカーＷ",
+    "Text": ""
+  },
+  "330230": {
+    "OriginalText": "ハートブレイカーＢ",
+    "Text": ""
+  },
+  "330231": {
+    "OriginalText": "クラテルファドルＫ",
+    "Text": ""
+  },
+  "330232": {
+    "OriginalText": "クラテルファドルＹ",
+    "Text": ""
+  },
+  "330233": {
+    "OriginalText": "クラテルファドルＲ",
+    "Text": ""
+  },
+  "330234": {
+    "OriginalText": "クラテルファドルＢ",
+    "Text": ""
+  },
+  "330235": {
+    "OriginalText": "アルフライラＰ",
+    "Text": ""
+  },
+  "330236": {
+    "OriginalText": "アルフライラＹ",
+    "Text": ""
+  },
+  "330237": {
+    "OriginalText": "アルフライラＲ",
+    "Text": ""
+  },
+  "330238": {
+    "OriginalText": "アルフライラＢ",
+    "Text": ""
+  },
+  "330239": {
+    "OriginalText": "ガラテサジェスＫ",
+    "Text": ""
+  },
+  "330240": {
+    "OriginalText": "ガラテサジェスＢ",
+    "Text": ""
+  },
+  "330241": {
+    "OriginalText": "ガラテサジェスＷ",
+    "Text": ""
+  },
+  "330242": {
+    "OriginalText": "ガラテサジェスＲ",
+    "Text": ""
+  },
+  "330243": {
+    "OriginalText": "ガラテサジェスＧ",
+    "Text": ""
+  },
+  "330244": {
+    "OriginalText": "アグリフォルスＷ",
+    "Text": ""
+  },
+  "330245": {
+    "OriginalText": "アグリフォルスＲ",
+    "Text": ""
+  },
+  "330246": {
+    "OriginalText": "アグリフォルスＫ",
+    "Text": ""
+  },
+  "330247": {
+    "OriginalText": "アグリフォルスＢ",
+    "Text": ""
+  },
+  "330248": {
+    "OriginalText": "アグリフォルスＧ",
+    "Text": ""
+  },
+  "330249": {
+    "OriginalText": "アルキピュールＢ",
+    "Text": ""
+  },
+  "330250": {
+    "OriginalText": "アルキピュールＶ",
+    "Text": ""
+  },
+  "330251": {
+    "OriginalText": "アルキピュールＹ",
+    "Text": ""
+  },
+  "330252": {
+    "OriginalText": "アルキピュールＧ",
+    "Text": ""
+  },
+  "330253": {
+    "OriginalText": "アルキピュールＯ",
+    "Text": ""
+  },
+  "330254": {
+    "OriginalText": "ノヴァトレートルＷ",
+    "Text": ""
+  },
+  "330255": {
+    "OriginalText": "ノヴァトレートルＲ",
+    "Text": ""
+  },
+  "330256": {
+    "OriginalText": "ノヴァトレートルＢ",
+    "Text": ""
+  },
+  "330257": {
+    "OriginalText": "ノヴァトレートルＫ",
+    "Text": ""
+  },
+  "330258": {
+    "OriginalText": "ノヴァトレートルＹ",
+    "Text": ""
+  },
+  "330259": {
+    "OriginalText": "エイゲトリュゼＢ",
+    "Text": ""
+  },
+  "330260": {
+    "OriginalText": "エイゲトリュゼＧ",
+    "Text": ""
+  },
+  "330261": {
+    "OriginalText": "エイゲトリュゼＰ",
+    "Text": ""
+  },
+  "330262": {
+    "OriginalText": "エイゲトリュゼＫ",
+    "Text": ""
+  },
+  "330263": {
+    "OriginalText": "エイゲトリュゼＷ",
+    "Text": ""
+  },
+  "330264": {
+    "OriginalText": "レクレスアウトローＲ",
+    "Text": ""
+  },
+  "330265": {
+    "OriginalText": "レクレスアウトローＧ",
+    "Text": ""
+  },
+  "330266": {
+    "OriginalText": "レクレスアウトローＯ",
+    "Text": ""
+  },
+  "330267": {
+    "OriginalText": "レクレスアウトローＢ",
+    "Text": ""
+  },
+  "330268": {
+    "OriginalText": "レクレスアウトローＫ",
+    "Text": ""
+  },
+  "330269": {
+    "OriginalText": "リンデンドレスＧ",
+    "Text": ""
+  },
+  "330270": {
+    "OriginalText": "リンデンドレスＶ",
+    "Text": ""
+  },
+  "330271": {
+    "OriginalText": "リンデンドレスＢ",
+    "Text": ""
+  },
+  "330272": {
+    "OriginalText": "リンデンドレスＲ",
+    "Text": ""
+  },
+  "330273": {
+    "OriginalText": "リンデンドレスＹ",
+    "Text": ""
+  },
+  "330274": {
+    "OriginalText": "ジュラハーネスＲ",
+    "Text": ""
+  },
+  "330275": {
+    "OriginalText": "ジュラハーネスＹ",
+    "Text": ""
+  },
+  "330276": {
+    "OriginalText": "ジュラハーネスＯ",
+    "Text": ""
+  },
+  "330277": {
+    "OriginalText": "ジュラハーネスＫ",
+    "Text": ""
+  },
+  "330278": {
+    "OriginalText": "ジュラハーネスＷ",
+    "Text": ""
+  },
+  "330279": {
+    "OriginalText": "セクシースタイルＫ",
+    "Text": ""
+  },
+  "330280": {
+    "OriginalText": "セクシースタイルＷ",
+    "Text": ""
+  },
+  "330281": {
+    "OriginalText": "セクシースタイルＲ",
+    "Text": ""
+  },
+  "330282": {
+    "OriginalText": "セクシースタイルＢ",
+    "Text": ""
+  },
+  "330283": {
+    "OriginalText": "セクシースタイルＶ",
+    "Text": ""
+  },
+  "330284": {
+    "OriginalText": "ラッピーミミクリＹ",
+    "Text": ""
+  },
+  "330285": {
+    "OriginalText": "ラッピーミミクリＢ",
+    "Text": ""
+  },
+  "330286": {
+    "OriginalText": "ラッピーミミクリＰ",
+    "Text": ""
+  },
+  "330287": {
+    "OriginalText": "ラッピーミミクリＷ",
+    "Text": ""
+  },
+  "330288": {
+    "OriginalText": "ラッピーミミクリＫ",
+    "Text": ""
+  },
+  "330289": {
+    "OriginalText": "レスペダンクＶ",
+    "Text": ""
+  },
+  "330290": {
+    "OriginalText": "レスペダンクＧ",
+    "Text": ""
+  },
+  "330291": {
+    "OriginalText": "レスペダンクＲ",
+    "Text": ""
+  },
+  "330292": {
+    "OriginalText": "レスペダンクＢ",
+    "Text": ""
+  },
+  "330293": {
+    "OriginalText": "レスペダンクＰ",
+    "Text": ""
+  },
+  "330294": {
+    "OriginalText": "グラスフォーアネームＰ",
+    "Text": ""
+  },
+  "330295": {
+    "OriginalText": "グラスフォーアネームＹ",
+    "Text": ""
+  },
+  "330296": {
+    "OriginalText": "グラスフォーアネームＢ",
+    "Text": ""
+  },
+  "330297": {
+    "OriginalText": "グラスフォーアネームＫ",
+    "Text": ""
+  },
+  "330298": {
+    "OriginalText": "グラスフォーアネームＶ",
+    "Text": ""
+  },
+  "330299": {
+    "OriginalText": "シャンプースタイル",
+    "Text": ""
+  },
+  "330300": {
+    "OriginalText": "ネームレススタイル",
+    "Text": ""
+  },
+  "330301": {
+    "OriginalText": "リエラ服",
+    "Text": ""
+  },
+  "330302": {
+    "OriginalText": "イムカ服",
+    "Text": ""
+  },
+  "330303": {
+    "OriginalText": "セイル",
+    "Text": ""
+  },
+  "330304": {
+    "OriginalText": "セイル：リペア",
+    "Text": ""
+  },
+  "330305": {
+    "OriginalText": "レイヴァン",
+    "Text": ""
+  },
+  "330306": {
+    "OriginalText": "レイヴァン：リペア",
+    "Text": ""
+  },
+  "330307": {
+    "OriginalText": "カリスト",
+    "Text": ""
+  },
+  "330308": {
+    "OriginalText": "ヨミ",
+    "Text": ""
+  },
+  "330309": {
+    "OriginalText": "オルクス",
+    "Text": ""
+  },
+  "330310": {
+    "OriginalText": "マグナス",
+    "Text": ""
+  },
+  "330311": {
+    "OriginalText": "ルティナ",
+    "Text": ""
+  },
+  "330312": {
+    "OriginalText": "ルティナ：リペア",
+    "Text": ""
+  },
+  "330313": {
+    "OriginalText": "イズナ",
+    "Text": ""
+  },
+  "330314": {
+    "OriginalText": "イズナ：リペア",
+    "Text": ""
+  },
+  "330315": {
+    "OriginalText": "ユノ",
+    "Text": ""
+  },
+  "330316": {
+    "OriginalText": "ユノ：ホログラム",
+    "Text": ""
+  },
+  "330317": {
+    "OriginalText": "ユノ：グランリンク状態",
+    "Text": ""
+  },
+  "330318": {
+    "OriginalText": "フィルディア",
+    "Text": ""
+  },
+  "330319": {
+    "OriginalText": "フィルディア：リペア",
+    "Text": ""
+  },
+  "330320": {
+    "OriginalText": "キサラ",
+    "Text": ""
+  },
+  "330321": {
+    "OriginalText": "キサラ：リペア",
+    "Text": ""
+  },
+  "330322": {
+    "OriginalText": "リーティア",
+    "Text": ""
+  },
+  "330323": {
+    "OriginalText": "リーティア：リペア",
+    "Text": ""
+  },
+  "330324": {
+    "OriginalText": "タイガーピアス破Ｗ",
+    "Text": ""
+  },
+  "330325": {
+    "OriginalText": "タイガーピアス破Ｒ",
+    "Text": ""
+  },
+  "330326": {
+    "OriginalText": "タイガーピアス破Ｙ",
+    "Text": ""
+  },
+  "330327": {
+    "OriginalText": "タイガーピアス破Ｂ",
+    "Text": ""
+  },
+  "330328": {
+    "OriginalText": "キャンディークラウン破Ｂ",
+    "Text": ""
+  },
+  "330329": {
+    "OriginalText": "キャンディークラウン破Ｋ",
+    "Text": ""
+  },
+  "330330": {
+    "OriginalText": "キャンディークラウン破Ｇ",
+    "Text": ""
+  },
+  "330331": {
+    "OriginalText": "キャンディークラウン破Ｐ",
+    "Text": ""
+  },
+  "330332": {
+    "OriginalText": "ハートブレイカー破Ｒ",
+    "Text": ""
+  },
+  "330333": {
+    "OriginalText": "ハートブレイカー破Ｇ",
+    "Text": ""
+  },
+  "330334": {
+    "OriginalText": "ハートブレイカー破Ｗ",
+    "Text": ""
+  },
+  "330335": {
+    "OriginalText": "ハートブレイカー破Ｂ",
+    "Text": ""
+  },
+  "330336": {
+    "OriginalText": "ロニア・アーム破",
+    "Text": ""
+  },
+  "330337": {
+    "OriginalText": "ディスタ・アーム破",
+    "Text": ""
+  },
+  "330338": {
+    "OriginalText": "ファウマ・アーム破",
+    "Text": ""
+  },
+  "330339": {
+    "OriginalText": "アングリフ・アーム破",
+    "Text": ""
+  },
+  "330340": {
+    "OriginalText": "コロッサス・アーム",
+    "Text": ""
+  },
+  "330341": {
+    "OriginalText": "マギウス・アーム破",
+    "Text": ""
+  },
+  "330342": {
+    "OriginalText": "シェリフ・アーム破",
+    "Text": ""
+  },
+  "330343": {
+    "OriginalText": "バルドル・アーム",
+    "Text": ""
+  },
+  "330344": {
+    "OriginalText": "ジョーカ・アーム",
+    "Text": ""
+  },
+  "330345": {
+    "OriginalText": "フィルフ・アーム破",
+    "Text": ""
+  },
+  "330346": {
+    "OriginalText": "ヒュリオン・アーム破",
+    "Text": ""
+  },
+  "330347": {
+    "OriginalText": "メルダー・アーム破ＣＶ",
+    "Text": ""
+  },
+  "330348": {
+    "OriginalText": "アラオ・アーム破",
+    "Text": ""
+  },
+  "330349": {
+    "OriginalText": "ゴルドオム・アーム",
+    "Text": ""
+  },
+  "330350": {
+    "OriginalText": "アグリ・アーム",
+    "Text": ""
+  },
+  "330351": {
+    "OriginalText": "ギオス・アーム",
+    "Text": ""
+  },
+  "330352": {
+    "OriginalText": "クリスト・アーム",
+    "Text": ""
+  },
+  "330353": {
+    "OriginalText": "ノヴァオム・アーム",
+    "Text": ""
+  },
+  "330354": {
+    "OriginalText": "リヴェン・アーム",
+    "Text": ""
+  },
+  "330355": {
+    "OriginalText": "ジョーカ・アーム破",
+    "Text": ""
+  },
+  "330356": {
+    "OriginalText": "コロッサス・アーム破",
+    "Text": ""
+  },
+  "330357": {
+    "OriginalText": "バルドル・アーム破",
+    "Text": ""
+  },
+  "330358": {
+    "OriginalText": "ローズ・アーム破",
+    "Text": ""
+  },
+  "330359": {
+    "OriginalText": "ディール・アーム破",
+    "Text": ""
+  },
+  "330360": {
+    "OriginalText": "ファーネン・アーム破",
+    "Text": ""
+  },
+  "330361": {
+    "OriginalText": "イオニア・アーム破",
+    "Text": ""
+  },
+  "330362": {
+    "OriginalText": "ランクス・アーム",
+    "Text": ""
+  },
+  "330363": {
+    "OriginalText": "イルシオン・アーム",
+    "Text": ""
+  },
+  "330364": {
+    "OriginalText": "ワスプ・アーム破",
+    "Text": ""
+  },
+  "330365": {
+    "OriginalText": "フリーゲン・アーム破",
+    "Text": ""
+  },
+  "330366": {
+    "OriginalText": "ラミア・アーム破",
+    "Text": ""
+  },
+  "330367": {
+    "OriginalText": "グリース・アーム破",
+    "Text": ""
+  },
+  "330368": {
+    "OriginalText": "ケルビナ・アーム破",
+    "Text": ""
+  },
+  "330369": {
+    "OriginalText": "メディウム・アーム",
+    "Text": ""
+  },
+  "330370": {
+    "OriginalText": "ヘルマ・アーム破",
+    "Text": ""
+  },
+  "330371": {
+    "OriginalText": "ゴルドファム・アーム",
+    "Text": ""
+  },
+  "330372": {
+    "OriginalText": "ガラテ・アーム",
+    "Text": ""
+  },
+  "330373": {
+    "OriginalText": "アルキ・アーム",
+    "Text": ""
+  },
+  "330374": {
+    "OriginalText": "ラビーソ・アーム",
+    "Text": ""
+  },
+  "330375": {
+    "OriginalText": "マーヴ・アーム",
+    "Text": ""
+  },
+  "330376": {
+    "OriginalText": "ノヴァファム・アーム",
+    "Text": ""
+  },
+  "330377": {
+    "OriginalText": "ヒュペリオン・アーム",
+    "Text": ""
+  },
+  "330378": {
+    "OriginalText": "シャロン・アーム",
+    "Text": ""
+  },
+  "330379": {
+    "OriginalText": "シャロン：リペア・アーム",
+    "Text": ""
+  },
+  "330380": {
+    "OriginalText": "ランクス・アーム破",
+    "Text": ""
+  },
+  "330381": {
+    "OriginalText": "メディウム・アーム破",
+    "Text": ""
+  },
+  "330382": {
+    "OriginalText": "イルシオン・アーム破",
+    "Text": ""
+  },
+  "330383": {
+    "OriginalText": "ロニア・ボディ破",
+    "Text": ""
+  },
+  "330384": {
+    "OriginalText": "ディスタ・ボディ破",
+    "Text": ""
+  },
+  "330385": {
+    "OriginalText": "ファウマ・ボディ破",
+    "Text": ""
+  },
+  "330386": {
+    "OriginalText": "アングリフ・ボディ破",
+    "Text": ""
+  },
+  "330387": {
+    "OriginalText": "コロッサス・ボディ",
+    "Text": ""
+  },
+  "330388": {
+    "OriginalText": "マギウス・ボディ破",
+    "Text": ""
+  },
+  "330389": {
+    "OriginalText": "シェリフ・ボディ破",
+    "Text": ""
+  },
+  "330390": {
+    "OriginalText": "バルドル・ボディ",
+    "Text": ""
+  },
+  "330391": {
+    "OriginalText": "ジョーカ・ボディ",
+    "Text": ""
+  },
+  "330392": {
+    "OriginalText": "フィルフ・ボディ破",
+    "Text": ""
+  },
+  "330393": {
+    "OriginalText": "ヒュリオン・ボディ破",
+    "Text": ""
+  },
+  "330394": {
+    "OriginalText": "メルダー・ボディ破ＣＶ",
+    "Text": ""
+  },
+  "330395": {
+    "OriginalText": "アラオ・ボディ破",
+    "Text": ""
+  },
+  "330396": {
+    "OriginalText": "ゴルドオム・ボディ",
+    "Text": ""
+  },
+  "330397": {
+    "OriginalText": "アグリ・ボディ",
+    "Text": ""
+  },
+  "330398": {
+    "OriginalText": "ギオス・ボディ",
+    "Text": ""
+  },
+  "330399": {
+    "OriginalText": "クリスト・ボディ",
+    "Text": ""
+  },
+  "330400": {
+    "OriginalText": "ノヴァオム・ボディ",
+    "Text": ""
+  },
+  "330401": {
+    "OriginalText": "リヴェン・ボディ",
+    "Text": ""
+  },
+  "330402": {
+    "OriginalText": "ジョーカ・ボディ破",
+    "Text": ""
+  },
+  "330403": {
+    "OriginalText": "コロッサス・ボディ破",
+    "Text": ""
+  },
+  "330404": {
+    "OriginalText": "バルドル・ボディ破",
+    "Text": ""
+  },
+  "330405": {
+    "OriginalText": "ローズ・ボディ破",
+    "Text": ""
+  },
+  "330406": {
+    "OriginalText": "ディール・ボディ破",
+    "Text": ""
+  },
+  "330407": {
+    "OriginalText": "ファーネン・ボディ破",
+    "Text": ""
+  },
+  "330408": {
+    "OriginalText": "イオニア・ボディ破",
+    "Text": ""
+  },
+  "330409": {
+    "OriginalText": "ランクス・ボディ",
+    "Text": ""
+  },
+  "330410": {
+    "OriginalText": "イルシオン・ボディ",
+    "Text": ""
+  },
+  "330411": {
+    "OriginalText": "ワスプ・ボディ破",
+    "Text": ""
+  },
+  "330412": {
+    "OriginalText": "フリーゲン・ボディ破",
+    "Text": ""
+  },
+  "330413": {
+    "OriginalText": "ラミア・ボディ破",
+    "Text": ""
+  },
+  "330414": {
+    "OriginalText": "グリース・ボディ破",
+    "Text": ""
+  },
+  "330415": {
+    "OriginalText": "ケルビナ・ボディ破",
+    "Text": ""
+  },
+  "330416": {
+    "OriginalText": "メディウム・ボディ",
+    "Text": ""
+  },
+  "330417": {
+    "OriginalText": "ヘルマ・ボディ破",
+    "Text": ""
+  },
+  "330418": {
+    "OriginalText": "ゴルドファム・ボディ",
+    "Text": ""
+  },
+  "330419": {
+    "OriginalText": "ガラテ・ボディ",
+    "Text": ""
+  },
+  "330420": {
+    "OriginalText": "アルキ・ボディ",
+    "Text": ""
+  },
+  "330421": {
+    "OriginalText": "ラビーソ・ボディ",
+    "Text": ""
+  },
+  "330422": {
+    "OriginalText": "マーヴ・ボディ",
+    "Text": ""
+  },
+  "330423": {
+    "OriginalText": "ノヴァファム・ボディ",
+    "Text": ""
+  },
+  "330424": {
+    "OriginalText": "ヒュペリオン・ボディ",
+    "Text": ""
+  },
+  "330425": {
+    "OriginalText": "シャロン・ボディ",
+    "Text": ""
+  },
+  "330426": {
+    "OriginalText": "シャロン：リペア・ボディ",
+    "Text": ""
+  },
+  "330427": {
+    "OriginalText": "ランクス・ボディ破",
+    "Text": ""
+  },
+  "330428": {
+    "OriginalText": "メディウム・ボディ破",
+    "Text": ""
+  },
+  "330429": {
+    "OriginalText": "イルシオン・ボディ破",
+    "Text": ""
+  },
+  "330430": {
+    "OriginalText": "ロニア・レッグ破",
+    "Text": ""
+  },
+  "330431": {
+    "OriginalText": "ディスタ・レッグ破",
+    "Text": ""
+  },
+  "330432": {
+    "OriginalText": "ファウマ・レッグ破",
+    "Text": ""
+  },
+  "330433": {
+    "OriginalText": "アングリフ・レッグ破",
+    "Text": ""
+  },
+  "330434": {
+    "OriginalText": "コロッサス・レッグ",
+    "Text": ""
+  },
+  "330435": {
+    "OriginalText": "マギウス・レッグ破",
+    "Text": ""
+  },
+  "330436": {
+    "OriginalText": "シェリフ・レッグ破",
+    "Text": ""
+  },
+  "330437": {
+    "OriginalText": "バルドル・レッグ",
+    "Text": ""
+  },
+  "330438": {
+    "OriginalText": "ジョーカ・レッグ",
+    "Text": ""
+  },
+  "330439": {
+    "OriginalText": "フィルフ・レッグ破",
+    "Text": ""
+  },
+  "330440": {
+    "OriginalText": "ヒュリオン・レッグ破",
+    "Text": ""
+  },
+  "330441": {
+    "OriginalText": "メルダー・レッグ破ＣＶ",
+    "Text": ""
+  },
+  "330442": {
+    "OriginalText": "アラオ・レッグ破",
+    "Text": ""
+  },
+  "330443": {
+    "OriginalText": "ゴルドオム・レッグ",
+    "Text": ""
+  },
+  "330444": {
+    "OriginalText": "アグリ・レッグ",
+    "Text": ""
+  },
+  "330445": {
+    "OriginalText": "ギオス・レッグ",
+    "Text": ""
+  },
+  "330446": {
+    "OriginalText": "クリスト・レッグ",
+    "Text": ""
+  },
+  "330447": {
+    "OriginalText": "ノヴァオム・レッグ",
+    "Text": ""
+  },
+  "330448": {
+    "OriginalText": "リヴェン・レッグ",
+    "Text": ""
+  },
+  "330449": {
+    "OriginalText": "ジョーカ・レッグ破",
+    "Text": ""
+  },
+  "330450": {
+    "OriginalText": "コロッサス・レッグ破",
+    "Text": ""
+  },
+  "330451": {
+    "OriginalText": "バルドル・レッグ破",
+    "Text": ""
+  },
+  "330452": {
+    "OriginalText": "ローズ・レッグ破",
+    "Text": ""
+  },
+  "330453": {
+    "OriginalText": "ディール・レッグ破",
+    "Text": ""
+  },
+  "330454": {
+    "OriginalText": "ファーネン・レッグ破",
+    "Text": ""
+  },
+  "330455": {
+    "OriginalText": "イオニア・レッグ破",
+    "Text": ""
+  },
+  "330456": {
+    "OriginalText": "ランクス・レッグ",
+    "Text": ""
+  },
+  "330457": {
+    "OriginalText": "イルシオン・レッグ",
+    "Text": ""
+  },
+  "330458": {
+    "OriginalText": "ワスプ・レッグ破",
+    "Text": ""
+  },
+  "330459": {
+    "OriginalText": "フリーゲン・レッグ破",
+    "Text": ""
+  },
+  "330460": {
+    "OriginalText": "ラミア・レッグ破",
+    "Text": ""
+  },
+  "330461": {
+    "OriginalText": "グリース・レッグ破",
+    "Text": ""
+  },
+  "330462": {
+    "OriginalText": "ケルビナ・レッグ破",
+    "Text": ""
+  },
+  "330463": {
+    "OriginalText": "メディウム・レッグ",
+    "Text": ""
+  },
+  "330464": {
+    "OriginalText": "ヘルマ・レッグ破",
+    "Text": ""
+  },
+  "330465": {
+    "OriginalText": "ゴルドファム・レッグ",
+    "Text": ""
+  },
+  "330466": {
+    "OriginalText": "ガラテ・レッグ",
+    "Text": ""
+  },
+  "330467": {
+    "OriginalText": "アルキ・レッグ",
+    "Text": ""
+  },
+  "330468": {
+    "OriginalText": "ラビーソ・レッグ",
+    "Text": ""
+  },
+  "330469": {
+    "OriginalText": "マーヴ・レッグ",
+    "Text": ""
+  },
+  "330470": {
+    "OriginalText": "ノヴァファム・レッグ",
+    "Text": ""
+  },
+  "330471": {
+    "OriginalText": "ヒュペリオン・レッグ",
+    "Text": ""
+  },
+  "330472": {
+    "OriginalText": "シャロン・レッグ",
+    "Text": ""
+  },
+  "330473": {
+    "OriginalText": "シャロン：リペア・レッグ",
+    "Text": ""
+  },
+  "330474": {
+    "OriginalText": "ランクス・レッグ破",
+    "Text": ""
+  },
+  "330475": {
+    "OriginalText": "メディウム・レッグ破",
+    "Text": ""
+  },
+  "330476": {
+    "OriginalText": "イルシオン・レッグ破",
+    "Text": ""
+  },
+  "330477": {
+    "OriginalText": "ヴィテスシュタルクW",
+    "Text": ""
+  },
+  "330478": {
+    "OriginalText": "グラスフォーアネームG",
+    "Text": ""
+  },
