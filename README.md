@@ -57,6 +57,16 @@ Please put your translation in the "Text" field like so:
   },
 ```
 
+  Then, add a comma to the end of your translation, and put "    "Enabled": true" on the next line, so it ends up like this:
+
+```
+  "310040": {
+    "OriginalText": "ポストアタック",
+    "Text": "Post Attack",
+    "Enabled": true
+  },
+```
+
 We welcome your contributions in form of direct commits. You may create new issues to discuss the translations with other translators. Please note that issues not related to translation may be deleted without notice.
 
 ![3]
