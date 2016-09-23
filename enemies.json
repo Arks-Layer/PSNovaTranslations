@@ -115,14 +115,17 @@
   "181120": {
     "OriginalText": "Ｇパイクロナーダ",
     "Text": "G-Piklonahda"
+    "Enabled": true
   },
   "181210": {
     "OriginalText": "Ｇシャルレイダ",
     "Text": "G-Shalurayda"
+    "Enabled": true
   },
   "181220": {
     "OriginalText": "Ｇライルレイダ",
     "Text": "G-Rilurayda"
+    "Enabled": true
   },
   "181310": {
     "OriginalText": "バリドランナ",
@@ -166,15 +169,17 @@
   },
   "181710": {
     "OriginalText": "コラル・ドラゴン",
-    "Text": ""
+    "Text": "Coral Dragon"
+    "Enabled": true
   },
   "181720": {
     "OriginalText": "ディアマ・ドラール",
-    "Text": ""
+    "Text": "Diama Draal"
+    "Enabled": true
   },
   "181810": {
     "OriginalText": "ラウーダン",
-    "Text": "ラウーダン"
+    "Text": ""
   },
   "181820": {
     "OriginalText": "フリラウーダン",
@@ -242,7 +247,8 @@
   },
   "182410": {
     "OriginalText": "ラッピー",
-    "Text": ""
+    "Text": "Rappy"
+    "Enabled": true
   },
   "182420": {
     "OriginalText": "ニグ・ラッピー",
@@ -723,6 +729,7 @@
   "185010": {
     "OriginalText": "エウリュード",
     "Text": "Eurude"
+    "Enabled": true
   },
   "185020": {
     "OriginalText": "換伝武器：ガトリング",
@@ -763,10 +770,12 @@
   "185110": {
     "OriginalText": "ガラティオン",
     "Text": "Gratian"
+    "Enabled": true
   },
   "185120": {
     "OriginalText": "ギガティオン",
     "Text": "Gigantion"
+    "Enabled": true
   },
   "185130": {
     "OriginalText": "グラヴディオン",
@@ -791,6 +800,7 @@
   "185210": {
     "OriginalText": "アルキュオネ",
     "Text": "Alcyone"
+    "Enabled": true
   },
   "185220": {
     "OriginalText": "デェフキュオネ",
@@ -882,7 +892,8 @@
   },
   "185531": {
     "OriginalText": "レイヴァン",
-    "Text": ""
+    "Text": "Reven"
+    "Enabled": true
   },
   "185540": {
     "OriginalText": "ネメスフース",
