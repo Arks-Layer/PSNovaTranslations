@@ -301,7 +301,7 @@
   },
   "210129": {
     "OriginalText": "コラル・ドラゴン討伐",
-    "Text": ""
+    "Text": "Subdue Coral Dragon"
   },
   "210130": {
     "OriginalText": "ゴルドス討伐",
@@ -329,11 +329,13 @@
   },
   "210136": {
     "OriginalText": "ダーカー殲滅",
-    "Text": ""
+    "Text": "Subdue Dark Ragne"
+    "Enabled": true
   },
   "210137": {
     "OriginalText": "Ｇダーク・ラグネ討伐",
-    "Text": ""
+    "Text": "Subdue G-Dark Ragne"
+    "Enabled": true
   },
   "210138": {
     "OriginalText": "ディートアス討伐",
@@ -361,11 +363,13 @@
   },
   "210144": {
     "OriginalText": "なし？",
-    "Text": ""
+    "Text": "None?"
+    "Enabled": true
   },
   "210145": {
     "OriginalText": "Ｇプレディカーダ討伐",
-    "Text": ""
+    "Text": "Subdue G-Predicahda"
+    "Enabled": true
   },
   "210146": {
     "OriginalText": "目的地到達",
@@ -373,15 +377,18 @@
   },
   "210147": {
     "OriginalText": "ラッピー・タイム！",
-    "Text": ""
+    "Text": "Rappy Time!",
+    "Enabled": true
   },
   "210148": {
     "OriginalText": "ラッピー・タイム！",
-    "Text": ""
+    "Text": "Rappy Time!"
+    "Enable": true
   },
   "210149": {
     "OriginalText": "レイヴァン討伐",
-    "Text": ""
+    "Text": "Subdue Reven"
+    "Enabled": true
   },
   "210150": {
     "OriginalText": "レゾルカーネベア討伐",
