@@ -1,0 +1,914 @@
+
+  "180000": {
+    "OriginalText": "---",
+    "Text": ""
+  },
+  "180110": {
+    "OriginalText": "Ｇクラーダ",
+    "Text": "G-Krahda",
+    "Enabled": true
+  },
+  "180120": {
+    "OriginalText": "Ｇクラーダ・ネロ",
+    "Text": "G-Krahda Nero",
+    "Enabled": true
+  },
+  "180210": {
+    "OriginalText": "Ｇダガン",
+    "Text": "G-Dagan",
+    "Enabled": true
+  },
+  "180220": {
+    "OriginalText": "Ｇエル・ダガン",
+    "Text": "G-El Dagan",
+    "Enabled": true
+  },
+  "180230": {
+    "OriginalText": "Ｇダガン・ネロ",
+    "Text": ""
+  },
+  "180310": {
+    "OriginalText": "Ｇエル・アーダ",
+    "Text": "G-El Ahda",
+    "Enabled": true
+  },
+  "180320": {
+    "OriginalText": "Ｇエル・アーダ・ネロ",
+    "Text": "G-El Ahda Nero",
+    "Enabled": true
+  },
+  "180410": {
+    "OriginalText": "Ｇプレディカーダ",
+    "Text": "G-Predicahda",
+    "Enabled": true
+  },
+  "180420": {
+    "OriginalText": "Ｇプレディカーダ・ネロ",
+    "Text": "G-Predicahda Nero",
+    "Enabled": true
+  },
+  "180510": {
+    "OriginalText": "Ｇダーク・ラグネ",
+    "Text": "G-Dark Ragne",
+    "Enabled": true
+  },
+  "180520": {
+    "OriginalText": "Ｇダーク・アグラニ",
+    "Text": "G-Dark Agrani",
+    "Enabled": true
+  },
+  "180610": {
+    "OriginalText": "Ｇミクダ",
+    "Text": "G-Micda",
+    "Enabled": true
+  },
+  "180620": {
+    "OriginalText": "Ｇミ・ミクダ",
+    "Text": "G-Mi Micda",
+    "Enabled": true
+  },
+  "180710": {
+    "OriginalText": "Ｇダーガッシュ",
+    "Text": "G-Dahgash",
+    "Enabled": true
+  },
+  "180720": {
+    "OriginalText": "Ｇダーガッシュ・ネロ",
+    "Text": "G-Dahgash Nero",
+    "Enabled": true
+  },
+  "180810": {
+    "OriginalText": "Ｇガウォンダ",
+    "Text": "G-Ga Wonda",
+    "Enabled": true
+  },
+  "180820": {
+    "OriginalText": "Ｇガウォンダ・ネロ",
+    "Text": "G-Ga Wonda Nero",
+    "Enabled": true
+  },
+  "180910": {
+    "OriginalText": "Ｇグウォンダ",
+    "Text": "G-Gu Wonda",
+    "Enabled": true
+  },
+  "180920": {
+    "OriginalText": "Ｇグウォンダ・ネロ",
+    "Text": "G-Gu Wonda Nero",
+    "Enabled": true
+  },
+  "181010": {
+    "OriginalText": "Ｇウォルガーダ",
+    "Text": "G-Wolgahda",
+    "Enabled": true
+  },
+  "181020": {
+    "OriginalText": "Ｇアロナガーダ",
+    "Text": "G-Alonagahda",
+    "Enabled": true
+  },
+  "181110": {
+    "OriginalText": "Ｇキュクロナーダ",
+    "Text": "G-Kuklonahda",
+    "Enabled": true
+  },
+  "181120": {
+    "OriginalText": "Ｇパイクロナーダ",
+    "Text": ""
+  },
+  "181210": {
+    "OriginalText": "Ｇシャルレイダ",
+    "Text": ""
+  },
+  "181220": {
+    "OriginalText": "Ｇライルレイダ ",
+    "Text": ""
+  },
+  "181310": {
+    "OriginalText": "バリドランナ",
+    "Text": ""
+  },
+  "181320": {
+    "OriginalText": "ノイバリドランナ",
+    "Text": ""
+  },
+  "181330": {
+    "OriginalText": "フェブリルナ・ドラウ",
+    "Text": ""
+  },
+  "181410": {
+    "OriginalText": "ウィンディラス",
+    "Text": ""
+  },
+  "181420": {
+    "OriginalText": "ノイウィンディラス",
+    "Text": ""
+  },
+  "181430": {
+    "OriginalText": "ヴォーロラス・ドラウ",
+    "Text": ""
+  },
+  "181510": {
+    "OriginalText": "防御訓練用クラーダ",
+    "Text": ""
+  },
+  "181520": {
+    "OriginalText": "キャタドラン２(仮)",
+    "Text": ""
+  },
+  "181610": {
+    "OriginalText": "ヴォル・ドラゴン(仮)",
+    "Text": ""
+  },
+  "181620": {
+    "OriginalText": "ヴォルドラ２(仮)",
+    "Text": ""
+  },
+  "181710": {
+    "OriginalText": "コラル・ドラゴン",
+    "Text": ""
+  },
+  "181720": {
+    "OriginalText": "ディアマ・ドラール",
+    "Text": ""
+  },
+  "181810": {
+    "OriginalText": "ラウーダン",
+    "Text": "ラウーダン"
+  },
+  "181820": {
+    "OriginalText": "フリラウーダン",
+    "Text": ""
+  },
+  "181830": {
+    "OriginalText": "ラウーダン・リアス",
+    "Text": ""
+  },
+  "181910": {
+    "OriginalText": "ベガルフ",
+    "Text": "ベガルフ"
+  },
+  "181920": {
+    "OriginalText": "フロベガルフ",
+    "Text": ""
+  },
+  "181930": {
+    "OriginalText": "ベガルフ・ライオ",
+    "Text": ""
+  },
+  "182010": {
+    "OriginalText": "イエーデン",
+    "Text": ""
+  },
+  "182020": {
+    "OriginalText": "コパイエーデン",
+    "Text": ""
+  },
+  "182030": {
+    "OriginalText": "イエーデン・アイエ",
+    "Text": ""
+  },
+  "182110": {
+    "OriginalText": "フォンベガルフ",
+    "Text": ""
+  },
+  "182120": {
+    "OriginalText": "フロフォンベガルフ",
+    "Text": ""
+  },
+  "182130": {
+    "OriginalText": "フォンベガルフ・ライオ",
+    "Text": ""
+  },
+  "182210": {
+    "OriginalText": "シルブベア",
+    "Text": ""
+  },
+  "182220": {
+    "OriginalText": "ベア・ゴルヴァ",
+    "Text": ""
+  },
+  "182310": {
+    "OriginalText": "グルナバンサー",
+    "Text": ""
+  },
+  "182320": {
+    "OriginalText": "ジャッドバンサー",
+    "Text": ""
+  },
+  "182330": {
+    "OriginalText": "バンサ・ブライネス",
+    "Text": ""
+  },
+  "182410": {
+    "OriginalText": "ラッピー",
+    "Text": ""
+  },
+  "182420": {
+    "OriginalText": "ニグ・ラッピー",
+    "Text": ""
+  },
+  "182430": {
+    "OriginalText": "ラッピー・アルマ",
+    "Text": ""
+  },
+  "182510": {
+    "OriginalText": "アルマラッピー",
+    "Text": ""
+  },
+  "182520": {
+    "OriginalText": "レウ・アヴラッピー",
+    "Text": ""
+  },
+  "182530": {
+    "OriginalText": "ウィ・アヴラッピー",
+    "Text": ""
+  },
+  "182540": {
+    "OriginalText": "ロセ・アヴラッピー",
+    "Text": ""
+  },
+  "182550": {
+    "OriginalText": "アルマラッピー・オナー",
+    "Text": ""
+  },
+  "182610": {
+    "OriginalText": "ロヴラッピー",
+    "Text": ""
+  },
+  "182620": {
+    "OriginalText": "ウィ・ロヴラッピー",
+    "Text": ""
+  },
+  "182630": {
+    "OriginalText": "レウ・ロヴラッピー",
+    "Text": ""
+  },
+  "182640": {
+    "OriginalText": "ロヴラッピー・ロセ",
+    "Text": ""
+  },
+  "182710": {
+    "OriginalText": "マガヴルム",
+    "Text": ""
+  },
+  "182720": {
+    "OriginalText": "バオム・マガヴルム",
+    "Text": ""
+  },
+  "182730": {
+    "OriginalText": "オルテ・マガヴルム",
+    "Text": ""
+  },
+  "182740": {
+    "OriginalText": "マガヴルム・クロウ",
+    "Text": ""
+  },
+  "182810": {
+    "OriginalText": "ラビーソ",
+    "Text": ""
+  },
+  "182820": {
+    "OriginalText": "ブロラビーソ",
+    "Text": ""
+  },
+  "182830": {
+    "OriginalText": "アセラビーソ",
+    "Text": ""
+  },
+  "182840": {
+    "OriginalText": "ラビーソ・プラテ",
+    "Text": ""
+  },
+  "182910": {
+    "OriginalText": "ロザード",
+    "Text": ""
+  },
+  "182920": {
+    "OriginalText": "ウロザード",
+    "Text": ""
+  },
+  "182930": {
+    "OriginalText": "クロザード",
+    "Text": ""
+  },
+  "182940": {
+    "OriginalText": "スロザード",
+    "Text": ""
+  },
+  "182950": {
+    "OriginalText": "ロザード・トカ",
+    "Text": ""
+  },
+  "183010": {
+    "OriginalText": "マフレザール",
+    "Text": ""
+  },
+  "183020": {
+    "OriginalText": "ヴィマフレザール",
+    "Text": ""
+  },
+  "183030": {
+    "OriginalText": "エルマフレザール",
+    "Text": ""
+  },
+  "183040": {
+    "OriginalText": "ウイマフレザール",
+    "Text": ""
+  },
+  "183050": {
+    "OriginalText": "マフレザール・オリヴ",
+    "Text": ""
+  },
+  "183110": {
+    "OriginalText": "ジュラキア",
+    "Text": ""
+  },
+  "183120": {
+    "OriginalText": "メドジュラキア",
+    "Text": ""
+  },
+  "183130": {
+    "OriginalText": "ポリジュラキア",
+    "Text": ""
+  },
+  "183140": {
+    "OriginalText": "ガンジュラキア",
+    "Text": ""
+  },
+  "183150": {
+    "OriginalText": "ジュラキア・スクア",
+    "Text": ""
+  },
+  "183210": {
+    "OriginalText": "リバッツ",
+    "Text": ""
+  },
+  "183220": {
+    "OriginalText": "グリバッツ",
+    "Text": ""
+  },
+  "183230": {
+    "OriginalText": "バリバッツ",
+    "Text": ""
+  },
+  "183240": {
+    "OriginalText": "ブリバッツ",
+    "Text": ""
+  },
+  "183250": {
+    "OriginalText": "リバッツ・シル",
+    "Text": ""
+  },
+  "183310": {
+    "OriginalText": "グランブ",
+    "Text": ""
+  },
+  "183320": {
+    "OriginalText": "ガーグランブ",
+    "Text": ""
+  },
+  "183330": {
+    "OriginalText": "サフグランブ",
+    "Text": ""
+  },
+  "183340": {
+    "OriginalText": "パーグランブ",
+    "Text": ""
+  },
+  "183350": {
+    "OriginalText": "グランブ・ダイ",
+    "Text": ""
+  },
+  "183410": {
+    "OriginalText": "バンクゥ",
+    "Text": ""
+  },
+  "183420": {
+    "OriginalText": "フレスバンクゥ",
+    "Text": ""
+  },
+  "183430": {
+    "OriginalText": "ヴェンバンクゥ",
+    "Text": ""
+  },
+  "183440": {
+    "OriginalText": "トネルバンクゥ",
+    "Text": ""
+  },
+  "183450": {
+    "OriginalText": "スォロバンクゥ",
+    "Text": ""
+  },
+  "183460": {
+    "OriginalText": "バンクゥ・フリュ",
+    "Text": ""
+  },
+  "183510": {
+    "OriginalText": "マクロージ",
+    "Text": ""
+  },
+  "183520": {
+    "OriginalText": "レ・マクロージ",
+    "Text": ""
+  },
+  "183530": {
+    "OriginalText": "ブ・マクロージ",
+    "Text": ""
+  },
+  "183540": {
+    "OriginalText": "ア・マクロージ",
+    "Text": ""
+  },
+  "183550": {
+    "OriginalText": "マクロージ・ネス",
+    "Text": ""
+  },
+  "183610": {
+    "OriginalText": "アビアディノ",
+    "Text": ""
+  },
+  "183620": {
+    "OriginalText": "ラーアビアディノ",
+    "Text": ""
+  },
+  "183630": {
+    "OriginalText": "マドアビアディノ",
+    "Text": ""
+  },
+  "183640": {
+    "OriginalText": "アビアディノ・ロクサ",
+    "Text": ""
+  },
+  "183710": {
+    "OriginalText": "バレダイナス",
+    "Text": ""
+  },
+  "183720": {
+    "OriginalText": "ラーバレダイナス",
+    "Text": ""
+  },
+  "183730": {
+    "OriginalText": "マーバレダイナス",
+    "Text": ""
+  },
+  "183740": {
+    "OriginalText": "ヴィバレダイナス",
+    "Text": ""
+  },
+  "183750": {
+    "OriginalText": "ダイナス・タングス",
+    "Text": ""
+  },
+  "183810": {
+    "OriginalText": "シードギオス",
+    "Text": ""
+  },
+  "183820": {
+    "OriginalText": "フォードギオス",
+    "Text": ""
+  },
+  "183830": {
+    "OriginalText": "ヴァッドギオス",
+    "Text": ""
+  },
+  "183840": {
+    "OriginalText": "エアドギオス",
+    "Text": ""
+  },
+  "183850": {
+    "OriginalText": "ドギオス・ルフレ",
+    "Text": ""
+  },
+  "183910": {
+    "OriginalText": "トルリンプ",
+    "Text": ""
+  },
+  "183920": {
+    "OriginalText": "ロウトルリンプ",
+    "Text": ""
+  },
+  "183930": {
+    "OriginalText": "ポルトルリンプ",
+    "Text": ""
+  },
+  "183940": {
+    "OriginalText": "トルリンプ・ゴウル",
+    "Text": ""
+  },
+  "184010": {
+    "OriginalText": "エデルクリトロ",
+    "Text": ""
+  },
+  "184020": {
+    "OriginalText": "スマラクリトロ",
+    "Text": ""
+  },
+  "184030": {
+    "OriginalText": "オーニクリトロ",
+    "Text": ""
+  },
+  "184040": {
+    "OriginalText": "クリトロ・テュルレ",
+    "Text": ""
+  },
+  "184110": {
+    "OriginalText": "エレマンデル",
+    "Text": ""
+  },
+  "184120": {
+    "OriginalText": "テッラマンデル",
+    "Text": ""
+  },
+  "184130": {
+    "OriginalText": "イーグマンデル",
+    "Text": ""
+  },
+  "184140": {
+    "OriginalText": "マンデル・ナート",
+    "Text": ""
+  },
+  "184210": {
+    "OriginalText": "エクセージＴ",
+    "Text": ""
+  },
+  "184220": {
+    "OriginalText": "レ・エクセージＴ",
+    "Text": ""
+  },
+  "184230": {
+    "OriginalText": "エクセージＴ・ネス",
+    "Text": ""
+  },
+  "184310": {
+    "OriginalText": "ミステルン",
+    "Text": ""
+  },
+  "184320": {
+    "OriginalText": "アガミステルン",
+    "Text": ""
+  },
+  "184330": {
+    "OriginalText": "ラピミステルン",
+    "Text": ""
+  },
+  "184340": {
+    "OriginalText": "ミステルン・オーロ",
+    "Text": ""
+  },
+  "184410": {
+    "OriginalText": "シルブカーネベア",
+    "Text": ""
+  },
+  "184420": {
+    "OriginalText": "レゾルカーネベア",
+    "Text": ""
+  },
+  "184430": {
+    "OriginalText": "オラルカーネベア",
+    "Text": ""
+  },
+  "184440": {
+    "OriginalText": "モストカーネベア",
+    "Text": ""
+  },
+  "184450": {
+    "OriginalText": "カーネベア・ゴルヴァ",
+    "Text": ""
+  },
+  "184510": {
+    "OriginalText": "アルレイバンサー",
+    "Text": ""
+  },
+  "184520": {
+    "OriginalText": "ゾンレイバンサー",
+    "Text": ""
+  },
+  "184530": {
+    "OriginalText": "ナールレイバンサー",
+    "Text": ""
+  },
+  "184540": {
+    "OriginalText": "ファラレイバンサー",
+    "Text": ""
+  },
+  "184550": {
+    "OriginalText": "レイバンサ・オクシ",
+    "Text": ""
+  },
+  "184560": {
+    "OriginalText": "頭角",
+    "Text": ""
+  },
+  "184570": {
+    "OriginalText": "腰角",
+    "Text": ""
+  },
+  "184580": {
+    "OriginalText": "ガトリング",
+    "Text": ""
+  },
+  "184610": {
+    "OriginalText": "ディートアス",
+    "Text": ""
+  },
+  "184620": {
+    "OriginalText": "テュルトアス",
+    "Text": ""
+  },
+  "184630": {
+    "OriginalText": "マグネトアス",
+    "Text": ""
+  },
+  "184640": {
+    "OriginalText": "トアス・ヒュブオン",
+    "Text": ""
+  },
+  "184710": {
+    "OriginalText": "ゴルドス",
+    "Text": ""
+  },
+  "184720": {
+    "OriginalText": "ディゴルドス",
+    "Text": ""
+  },
+  "184730": {
+    "OriginalText": "オルゴルドス",
+    "Text": ""
+  },
+  "184740": {
+    "OriginalText": "ゴルドス・ビガオ",
+    "Text": ""
+  },
+  "184810": {
+    "OriginalText": "ファンアフォル",
+    "Text": ""
+  },
+  "184820": {
+    "OriginalText": "ウィルアフォル",
+    "Text": ""
+  },
+  "184830": {
+    "OriginalText": "アフォル・フェイズ",
+    "Text": ""
+  },
+  "184910": {
+    "OriginalText": "アグリオス",
+    "Text": ""
+  },
+  "184911": {
+    "OriginalText": "アグリオスP型",
+    "Text": ""
+  },
+  "184912": {
+    "OriginalText": "アグリオスS型",
+    "Text": ""
+  },
+  "184920": {
+    "OriginalText": "グレイオス",
+    "Text": ""
+  },
+  "184921": {
+    "OriginalText": "グレイオスS型",
+    "Text": ""
+  },
+  "184930": {
+    "OriginalText": "アルテイオス",
+    "Text": ""
+  },
+  "185000": {
+    "OriginalText": "最弱点",
+    "Text": ""
+  },
+  "185010": {
+    "OriginalText": "エウリュード",
+    "Text": ""
+  },
+  "185020": {
+    "OriginalText": "換伝武器：ガトリング",
+    "Text": ""
+  },
+  "185030": {
+    "OriginalText": "換伝武器：クロー",
+    "Text": ""
+  },
+  "185040": {
+    "OriginalText": "換伝武器：ビーム",
+    "Text": ""
+  },
+  "185050": {
+    "OriginalText": "換伝武器：ミサイル",
+    "Text": ""
+  },
+  "185060": {
+    "OriginalText": "レーザー射出口",
+    "Text": ""
+  },
+  "185070": {
+    "OriginalText": "コンテナ：ガトリング",
+    "Text": ""
+  },
+  "185080": {
+    "OriginalText": "コンテナ：クロー",
+    "Text": ""
+  },
+  "185090": {
+    "OriginalText": "コンテナ：ビーム",
+    "Text": ""
+  },
+  "185100": {
+    "OriginalText": "コンテナ：ミサイル",
+    "Text": ""
+  },
+  "185110": {
+    "OriginalText": "ガラティオン",
+    "Text": ""
+  },
+  "185120": {
+    "OriginalText": "ギガティオン",
+    "Text": ""
+  },
+  "185130": {
+    "OriginalText": "グラヴディオン",
+    "Text": ""
+  },
+  "185135": {
+    "OriginalText": "ブレード",
+    "Text": ""
+  },
+  "185140": {
+    "OriginalText": "角",
+    "Text": ""
+  },
+  "185145": {
+    "OriginalText": "チェーンソー",
+    "Text": ""
+  },
+  "185150": {
+    "OriginalText": "アンカー発射伝置",
+    "Text": ""
+  },
+  "185210": {
+    "OriginalText": "アルキュオネ",
+    "Text": ""
+  },
+  "185220": {
+    "OriginalText": "デェフキュオネ",
+    "Text": ""
+  },
+  "185310": {
+    "OriginalText": "リ・ゲンテ",
+    "Text": ""
+  },
+  "185320": {
+    "OriginalText": "セ・ゲンテ",
+    "Text": ""
+  },
+  "185330": {
+    "OriginalText": "テ・ゲンテ",
+    "Text": ""
+  },
+  "185340": {
+    "OriginalText": "ク・ゲンテ",
+    "Text": ""
+  },
+  "185350": {
+    "OriginalText": "キ・ゲンテ",
+    "Text": ""
+  },
+  "185360": {
+    "OriginalText": "ス・ゲンテ",
+    "Text": ""
+  },
+  "185370": {
+    "OriginalText": "テ・ゲンテ",
+    "Text": ""
+  },
+  "185380": {
+    "OriginalText": "ギュゲンテ",
+    "Text": ""
+  },
+  "185381": {
+    "OriginalText": "キャノン砲",
+    "Text": ""
+  },
+  "185382": {
+    "OriginalText": "ランチャー",
+    "Text": ""
+  },
+  "185390": {
+    "OriginalText": "エア・ゲンテ",
+    "Text": ""
+  },
+  "185400": {
+    "OriginalText": "ツヴ・ゲンテ",
+    "Text": ""
+  },
+  "185410": {
+    "OriginalText": "ドリ・ゲンテ",
+    "Text": ""
+  },
+  "185420": {
+    "OriginalText": "フィ・ゲンテ",
+    "Text": ""
+  },
+  "185430": {
+    "OriginalText": "フュ・ゲンテ",
+    "Text": ""
+  },
+  "185440": {
+    "OriginalText": "ゼク・ゲンテ",
+    "Text": ""
+  },
+  "185450": {
+    "OriginalText": "ズィ・ゲンテ",
+    "Text": ""
+  },
+  "185460": {
+    "OriginalText": "リベルゲンテ",
+    "Text": ""
+  },
+  "185510": {
+    "OriginalText": "レイヴフース",
+    "Text": ""
+  },
+  "185520": {
+    "OriginalText": "レイヴヒュフテ",
+    "Text": ""
+  },
+  "185530": {
+    "OriginalText": "レイヴガイスト",
+    "Text": ""
+  },
+  "185531": {
+    "OriginalText": "レイヴァン",
+    "Text": ""
+  },
+  "185540": {
+    "OriginalText": "ネメスフース",
+    "Text": ""
+  },
+  "185550": {
+    "OriginalText": "ネメスヒュフテ",
+    "Text": ""
+  },
+  "185560": {
+    "OriginalText": "ネメスガイスト",
+    "Text": ""
+  },
+  "185561": {
+    "OriginalText": "ミサイル発射伝置",
+    "Text": ""
+  },
+  "185562": {
+    "OriginalText": "二ードルガン",
+    "Text": ""
+  },
+  "185563": {
+    "OriginalText": "レーザー",
+    "Text": ""
+  },
+  "185564": {
+    "OriginalText": "グランデバイス",
+    "Text": ""
+  },
