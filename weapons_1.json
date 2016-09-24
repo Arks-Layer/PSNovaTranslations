@@ -56,7 +56,8 @@
   },
   "90011": {
     "OriginalText": "ザックス",
-    "Text": ""
+    "Text": "Zaxe",
+	"Enabled": true
   },
   "90012": {
     "OriginalText": "ラストサバイバー",
@@ -85,7 +86,8 @@
   },
   "90017": {
     "OriginalText": "フォスティプス",
-    "Text": ""
+    "Text": "Fostibus",
+	"Enabled": true
   },
   "90018": {
     "OriginalText": "スペース・ツナ",
@@ -674,7 +676,7 @@
   },
   "90135": {
     "OriginalText": "サグスナイト",
-    "Text": ""
+    "Text": "Sagusanight"
   },
   "90136": {
     "OriginalText": "フリントロック",
@@ -1373,7 +1375,7 @@
   },
   "90275": {
     "OriginalText": "パールシャレード",
-    "Text": "Pearl Charade\t",
+    "Text": "Pearl Charade",
     "Enabled": true
   },
   "90276": {
@@ -1463,7 +1465,8 @@
   },
   "90293": {
     "OriginalText": "バンクツイクル",
-    "Text": ""
+    "Text": "Banc Tsuikulu",
+	"Enabled": true
   },
   "90294": {
     "OriginalText": "フォートシンス",
@@ -1517,7 +1520,8 @@
   },
   "90304": {
     "OriginalText": "エクスバンクツイクル",
-    "Text": ""
+    "Text": "Exbanc Tsuikulu",
+	"Enabled": true
   },
   "90305": {
     "OriginalText": "セリスフォートシンス",
@@ -1531,5 +1535,6 @@
   },
   "90307": {
     "OriginalText": "ソニックスラップ",
-    "Text": ""
+    "Text": "Sonic Slap",
+	"Enabled": true
   },
