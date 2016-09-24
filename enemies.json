@@ -1,74 +1,92 @@
   "181310": {
     "OriginalText": "バリドランナ",
-    "Text": ""
+    "Text": "Baridran'na",
+	"Enabled": true
   },
   "181320": {
     "OriginalText": "ノイバリドランナ",
-    "Text": ""
+    "Text": "Noibaridran'an",
+	"Enabled": true
   },
   "181330": {
     "OriginalText": "フェブリルナ・ドラウ",
-    "Text": ""
+    "Text": "Feburina Draal",
+	"Enabled": true
   },
   "181410": {
     "OriginalText": "ウィンディラス",
-    "Text": ""
+    "Text": "Windiras",
+	"Enabled": true
   },
   "181420": {
     "OriginalText": "ノイウィンディラス",
-    "Text": ""
+    "Text": "Noiwindiras",
+	"Enabled": true
   },
   "181430": {
     "OriginalText": "ヴォーロラス・ドラウ",
-    "Text": ""
+    "Text": "Voloras Draal",
+	"Enabled": true
   },
   "181510": {
     "OriginalText": "防御訓練用クラーダ",
-    "Text": ""
+    "Text": "Training Defense Krahda",
+	"Enabled": true
   },
   "181520": {
     "OriginalText": "キャタドラン２(仮)",
-    "Text": ""
+    "Text": "Caterdran 2 (Simulation)",
+	"Enabled": true
   },
   "181610": {
     "OriginalText": "ヴォル・ドラゴン(仮)",
-    "Text": ""
+    "Text": "Vol Dragon (Simulation)",
+	"Enabled": true
   },
   "181620": {
     "OriginalText": "ヴォルドラ２(仮)",
-    "Text": ""
+    "Text": "Vol Dragon 2 (Simulation)",
+	"Enabled": true
   },
   "181810": {
     "OriginalText": "ラウーダン",
-    "Text": ""
+    "Text": "Ra Oodan",
+	"Enabled": true
   },
   "181820": {
     "OriginalText": "フリラウーダン",
-    "Text": ""
+    "Text": "Fury Ra Oodan",
+	"Enabled": true
   },
   "181830": {
     "OriginalText": "ラウーダン・リアス",
-    "Text": ""
+    "Text": "Ra Oodan Lias",
+	"Enabled": true
   },
   "181910": {
     "OriginalText": "ベガルフ",
-    "Text": "ベガルフ"
+    "Text": "Begulf",
+	"Enabled": true
   },
   "181920": {
     "OriginalText": "フロベガルフ",
-    "Text": ""
+    "Text": "Furobegulf",
+	"Enabled": true
   },
   "181930": {
     "OriginalText": "ベガルフ・ライオ",
-    "Text": ""
+    "Text": "Begulf Rioh",
+	"Enabled": true
   },
   "182010": {
     "OriginalText": "イエーデン",
-    "Text": ""
+    "Text": "Yeden",
+	"Enabled": true
   },
   "182020": {
     "OriginalText": "コパイエーデン",
-    "Text": ""
+    "Text": "Kopa Yeden",
+	"Enabled": true
   },
   "182030": {
     "OriginalText": "イエーデン・アイエ",
