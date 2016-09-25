@@ -13,7 +13,7 @@ for files in json_files:
             l.append('{')
             l.append(json_file.read()[2:-2])
             l.append('}')
-	    s = ''.join(l)
+            s = ''.join(l)
             simplejson.loads(s)
         except ValueError as e:
             print("%s: %s") % (files, e)
