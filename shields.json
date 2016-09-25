@@ -1,337 +1,421 @@
 
   "310001": {
     "OriginalText": "フラットブロウ",
-    "Text": "Flat Blow"
+    "Text": "Flat Blow",
+    "Enabled": true
   },
   "310002": {
     "OriginalText": "ポストブロウ",
-    "Text": "Post Blow"
+    "Text": "Post Blow",
+    "Enabled": true
   },
   "310003": {
     "OriginalText": "ピークブロウ",
-    "Text": "Peak Blow"
+    "Text": "Peak Blow",
+    "Enabled": true
   },
   "310004": {
     "OriginalText": "カットブロウト",
-    "Text": ""
+    "Text": "Cut Blowt",
+    "Enabled": true
   },
   "310005": {
     "OriginalText": "プラスブロウト",
-    "Text": ""
+    "Text": "Plus Blowt",
+    "Enabled": true
   },
   "310006": {
     "OriginalText": "マキシブロウト",
-    "Text": ""
+    "Text": "Maxi Blowt",
+    "Enabled": true
   },
   "310007": {
     "OriginalText": "ヘキサブロウブ",
-    "Text": ""
+    "Text": "Hexa Blow Guard",
+    "Enabled": true
   },
   "310008": {
     "OriginalText": "ヘプタブロウブ",
-    "Text": ""
+    "Text": "Hepta Blow Guard",
+    "Enabled": true
   },
   "310009": {
     "OriginalText": "オクタブロウブ",
-    "Text": ""
+    "Text": "Octa Blow Guard",
+    "Enabled": true
   },
   "310010": {
     "OriginalText": "ハッシュブロオル",
-    "Text": ""
+    "Text": "Hash Blow All",
+    "Enabled": true
   },
   "310011": {
     "OriginalText": "スマッシュブロオル",
-    "Text": ""
+    "Text": "Smash Blow All",
+    "Enabled": true
   },
   "310012": {
     "OriginalText": "クラッシュブロオル",
-    "Text": ""
+    "Text": "Crash Blow All",
+    "Enabled": true
   },
   "310013": {
     "OriginalText": "ゴウルブロオル",
-    "Text": ""
+    "Text": "Goal Blow All",
+    "Enabled": true
   },
   "310014": {
     "OriginalText": "フラットショット",
-    "Text": "Flat Shot"
+    "Text": "Flat Shot",
+    "Enabled": true
   },
   "310015": {
     "OriginalText": "ポストショット",
-    "Text": "Post Shot"
+    "Text": "Post Shot",
+    "Enabled": true
   },
   "310016": {
     "OriginalText": "ピークショット",
-    "Text": "Peak Shot"
+    "Text": "Peak Shot",
+    "Enabled": true
   },
   "310017": {
     "OriginalText": "カットシュート",
-    "Text": "Cut Shot"
+    "Text": "Cut Shoot",
+    "Enabled": true
   },
   "310018": {
     "OriginalText": "プラスシュート",
-    "Text": "Plus Shot"
+    "Text": "Plus Shoot"
+    ,"Enabled": true
   },
   "310019": {
     "OriginalText": "マキシシュート",
-    "Text": "Maxi Shot"
+    "Text": "Maxi Shoot",
+    "Enabled": true
   },
   "310020": {
     "OriginalText": "オクトショッティン",
-    "Text": ""
+    "Text": "Octo Shooting",
+    "Enabled": true
   },
   "310021": {
     "OriginalText": "ヘクトショッティン",
-    "Text": ""
+    "Text": "Hecto Shooting",
+    "Enabled": true
   },
   "310022": {
     "OriginalText": "エキサショッティン",
-    "Text": ""
+    "Text": "Exa Shooting",
+    "Enabled": true
   },
   "310023": {
     "OriginalText": "ハッシュショオル",
-    "Text": ""
+    "Text": "Hash Shoot All",
+    "Enabled": true
   },
   "310024": {
     "OriginalText": "スマッシュショオル",
-    "Text": ""
+    "Text": "Smash Shoot All",
+    "Enabled": true
   },
   "310025": {
     "OriginalText": "クラッシュショオル",
-    "Text": ""
+    "Text": "Crash Shoot All",
+    "Enabled": true
   },
   "310026": {
     "OriginalText": "ゴウルショオル",
-    "Text": ""
+    "Text": "Goal Shoot All",
+    "Enabled": true
   },
   "310027": {
     "OriginalText": "フラットテック",
-    "Text": ""
+    "Text": "Flat Tech",
+    "Enabled": true
   },
   "310028": {
     "OriginalText": "ポストテック",
-    "Text": ""
+    "Text": "Post Tech",
+    "Enabled": true
   },
   "310029": {
     "OriginalText": "ピークテック",
-    "Text": ""
+    "Text": "Peak Tech",
+    "Enabled": true
   },
   "310030": {
     "OriginalText": "カットテクト",
-    "Text": ""
+    "Text": "Cut Techt",
+    "Enabled": true
   },
   "310031": {
     "OriginalText": "プラステクト",
-    "Text": ""
+    "Text": "Plus Techt",
+    "Enabled": true
   },
   "310032": {
     "OriginalText": "マキシテクト",
-    "Text": ""
+    "Text": "Maxi Techt",
+    "Enabled": true
   },
   "310033": {
     "OriginalText": "オクトテクナ",
-    "Text": ""
+    "Text": "Octo Techna",
+    "Enabled": true
   },
   "310034": {
     "OriginalText": "ヘクトテクナ",
-    "Text": ""
+    "Text": "Hecto Techna",
+    "Enabled": true
   },
   "310035": {
     "OriginalText": "エキサテクナ",
-    "Text": ""
+    "Text": "Exa Techna",
+    "Enabled": true
   },
   "310036": {
     "OriginalText": "ハッシュテクオル",
-    "Text": ""
+    "Text": "Hash Tech All",
+    "Enabled": true
   },
   "310037": {
     "OriginalText": "スマッシュテクオル",
-    "Text": ""
+    "Text": "Smash Tech All",
+    "Enabled": true
   },
   "310038": {
     "OriginalText": "クラッシュテクオル",
-    "Text": ""
+    "Text": "Crash Tech All",
+    "Enabled": true
   },
   "310039": {
     "OriginalText": "ゴウルテクオル",
-    "Text": ""
+    "Text": " Goal Tech All",
+    "Enabled": true
   },
   "310040": {
     "OriginalText": "ポストアタック",
-    "Text": "Post Attack"
+    "Text": "Post Attack",
+    "Enabled": true
   },
   "310041": {
     "OriginalText": "ピークアタック",
-    "Text": ""
+    "Text": "Peak Attack",
+    "Enabled": true
   },
   "310042": {
     "OriginalText": "マキシストレイン",
-    "Text": ""
+    "Text": "Maxi Strain",
+    "Enabled": true
   },
   "310043": {
     "OriginalText": "ヘプタフィアス",
-    "Text": ""
+    "Text": "Hepta Fierce",
+    "Enabled": true
   },
   "310044": {
     "OriginalText": "スマッシュフィオル",
-    "Text": ""
+    "Text": "Smash Fierce All",
+    "Enabled": true
   },
   "310045": {
     "OriginalText": "クラッシュフィオル",
-    "Text": ""
+    "Text": "Crash Fierce All",
+    "Enabled": true
   },
   "310046": {
     "OriginalText": "ゴウルフィオル",
-    "Text": ""
+    "Text": "Goal Fierce All",
+    "Enabled": true
   },
   "310047": {
     "OriginalText": "ピークフレイム",
-    "Text": ""
+    "Text": "Peak Flame",
+    "Enabled": true
   },
   "310048": {
     "OriginalText": "カットフレイト",
-    "Text": ""
+    "Text": "Cut Flamet",
+    "Enabled": true
   },
   "310049": {
     "OriginalText": "マキシフレイト",
-    "Text": ""
+    "Text": "Maxi Flamet",
+    "Enabled": true
   },
   "310050": {
     "OriginalText": "ヘキサフレイブ",
-    "Text": ""
+    "Text": "Hexa Flame Guard",
+    "Enabled": true
   },
   "310051": {
     "OriginalText": "オクタフレイブ",
-    "Text": ""
+    "Text": "Octa Flame Guard",
+    "Enabled": true
   },
   "310052": {
     "OriginalText": "ハッシュフレイオル",
-    "Text": ""
+    "Text": "Hash Flame All",
+    "Enabled": true
   },
   "310053": {
     "OriginalText": "ピークアイス",
-    "Text": ""
+    "Text": "Peak Ice",
+    "Enabled": true
   },
   "310054": {
     "OriginalText": "カットアイスト",
-    "Text": ""
+    "Text": "Cut Icet",
+    "Enabled": true
   },
   "310055": {
     "OriginalText": "マキシアイスト",
-    "Text": ""
+    "Text": "Maxi Icet",
+    "Enabled": true
   },
   "310056": {
     "OriginalText": "ヘキサアイブ",
-    "Text": ""
+    "Text": "Hexa Ice Guard",
+    "Enabled": true
   },
   "310057": {
     "OriginalText": "オクタアイブ",
-    "Text": ""
+    "Text": "Octa Ice Guard",
+    "Enabled": true
   },
   "310058": {
     "OriginalText": "ハッシュアイオル",
-    "Text": ""
+    "Text": "Hash Ice All",
+    "Enabled": true
   },
   "310059": {
     "OriginalText": "ピークボルト",
-    "Text": ""
+    "Text": "Peak Bolt",
+    "Enabled": true
   },
   "310060": {
     "OriginalText": "カットボルテン",
-    "Text": ""
+    "Text": "Cut Bolten",
+    "Enabled": true
   },
   "310061": {
     "OriginalText": "マキシボルテン",
-    "Text": ""
+    "Text": "Maxi Bolten",
+    "Enabled": true
   },
   "310062": {
     "OriginalText": "ヘキサボルブ",
-    "Text": ""
+    "Text": "Hexa Bolt Guard",
+    "Enabled": true
   },
   "310063": {
     "OriginalText": "オクタボルブ",
-    "Text": ""
+    "Text": "Octa Bolt Guard",
+    "Enabled": true
   },
   "310064": {
     "OriginalText": "ハッシュボルオル",
-    "Text": ""
+    "Text": "Hash Bolt All",
+    "Enabled": true
   },
   "310065": {
     "OriginalText": "ピークストーム",
-    "Text": ""
+    "Text": "Peak Storm",
+    "Enabled": true
   },
   "310066": {
     "OriginalText": "カットストムト",
-    "Text": ""
+    "Text": "Cut Stormt",
+    "Enabled": true
   },
   "310067": {
     "OriginalText": "マキシストムト",
-    "Text": ""
+    "Text": "Maxi Stormt",
+    "Enabled": true
   },
   "310068": {
     "OriginalText": "ヘキサストブ",
-    "Text": ""
+    "Text": "Hexa Storm Guard",
+    "Enabled": true
   },
   "310069": {
     "OriginalText": "オクタストブ",
-    "Text": ""
+    "Text": "Octa Storm Guard",
+    "Enabled": true
   },
   "310070": {
     "OriginalText": "ハッシュストオル",
-    "Text": ""
+    "Text": "Hash Storm All",
+    "Enabled": true
   },
   "310071": {
     "OriginalText": "カットライテン",
-    "Text": ""
+    "Text": "Cut Lighten",
+    "Enabled": true
   },
   "310072": {
     "OriginalText": "マキシライテン",
-    "Text": ""
+    "Text": "Maxi Lighten",
+    "Enabled": true
   },
   "310073": {
     "OriginalText": "ヘキサライブ",
-    "Text": ""
+    "Text": "Hexa Light Guard",
+    "Enabled": true
   },
   "310074": {
     "OriginalText": "オクタライブ",
-    "Text": ""
+    "Text": "Octa Light Guard",
+    "Enabled": true
   },
   "310075": {
     "OriginalText": "ハッシュライオル",
-    "Text": ""
+    "Text": "Hash Light All",
+    "Enabled": true
   },
   "310076": {
     "OriginalText": "カットグルート",
-    "Text": ""
+    "Text": "Cut Grout",
+    "Enabled": true
   },
   "310077": {
     "OriginalText": "マキシグルート",
-    "Text": ""
+    "Text": "Maxi Grout",
+    "Enabled": true
   },
   "310078": {
     "OriginalText": "ヘキサグルーブ",
-    "Text": ""
+    "Text": "Hexa Grout Guard",
+    "Enabled": true
   },
   "310079": {
     "OriginalText": "オクタグルーブ",
-    "Text": ""
+    "Text": "Octa Grout Guard",
+    "Enabled": true
   },
   "310080": {
     "OriginalText": "ハッシュグルーオル",
-    "Text": ""
+    "Text": "Hash Grout All",
+    "Enabled": true
   },
   "310081": {
     "OriginalText": "マキシクオリティ",
-    "Text": ""
+    "Text": "Maxi Quality",
+    "Enabled": true
   },
   "310082": {
     "OriginalText": "オクタクオリティブ",
-    "Text": ""
+    "Text": "Octa Quality Guard",
+    "Enabled": true
   },
   "310083": {
     "OriginalText": "スマッシュクオル",
-    "Text": ""
+    "Text": "Smash Quality All",
+    "Enabled": true
   },
   "310084": {
     "OriginalText": "クラッシュクオル",
-    "Text": ""
+    "Text": "Crash Quality All",
+    "Enabled": true
   },
