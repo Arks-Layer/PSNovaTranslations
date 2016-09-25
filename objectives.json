@@ -45,7 +45,7 @@
   },
   "210010": {
     "OriginalText": "ギガンテス討伐",
-    "Text": "Subdue Gigantes"
+    "Text": "Subdue Gigantes",
     "Enabled": true
   },
   "210011": {
@@ -198,17 +198,17 @@
   },
   "210103": {
     "OriginalText": "アルキュオネ討伐",
-    "Text": "Subdue Alcyone"
+    "Text": "Subdue Alcyone",
     "Enabled": true
   },
   "210104": {
     "OriginalText": "アルキュオネを止めろ",
-    "Text": "Stop Alcyone"
+    "Text": "Stop Alcyone",
     "Enabled": true
   },
   "210105": {
     "OriginalText": "アルキュオネ捕獲",
-    "Text": "Capture Alcyone"
+    "Text": "Capture Alcyone",
     "Enabled": true
   },
   "210106": {
@@ -225,12 +225,12 @@
   },
   "210109": {
     "OriginalText": "Ｇウォルガーダ討伐",
-    "Text": "Subdue G-Wolgahda"
+    "Text": "Subdue G-Wolgahda",
      "Enabled": true
   },
   "210110": {
     "OriginalText": "エウリュード討伐",
-    "Text": "Subdue Eurude"
+    "Text": "Subdue Eurude",
     "Enabled": true
   },
   "210111": {
@@ -243,12 +243,12 @@
   },
   "210113": {
     "OriginalText": "Ｇガウォンダ討伐",
-    "Text": "Subdue G-Ga Wonda"
+    "Text": "Subdue G-Ga Wonda",
      "Enabled": true
   },
   "210114": {
     "OriginalText": "ガラティオン討伐",
-    "Text": "Subdue Gratian"
+    "Text": "Subdue Gratian",
     "Enabled": true
   },
   "210115": {
@@ -257,7 +257,7 @@
   },
   "210116": {
     "OriginalText": "ギガンテス討伐",
-    "Text": "Subdue Gigantes"
+    "Text": "Subdue Gigantes",
     "Enabled": true
   },
   "210117": {
@@ -266,7 +266,7 @@
   },
   "210118": {
     "OriginalText": "Ｇキュクロナーダ討伐",
-    "Text": "Subdue G-Kuklonahda"
+    "Text": "Subdue G-Kuklonahda",
      "Enabled": true
   },
   "210119": {
@@ -279,7 +279,7 @@
   },
   "210121": {
     "OriginalText": "Ｇグウォンダ討伐",
-    "Text": "Subdue G-Gu Wonda"
+    "Text": "Subdue G-Gu Wonda",
      "Enabled": true
   },
   "210122": {
@@ -312,7 +312,7 @@
   },
   "210129": {
     "OriginalText": "コラル・ドラゴン討伐",
-    "Text": "Subdue Coral Dragon"
+    "Text": "Subdue Coral Dragon",
      "Enabled": true
   },
   "210130": {
@@ -341,12 +341,12 @@
   },
   "210136": {
     "OriginalText": "ダーカー殲滅",
-    "Text": "Subdue Dark Ragne"
+    "Text": "Subdue Dark Ragne",
     "Enabled": true
   },
   "210137": {
     "OriginalText": "Ｇダーク・ラグネ討伐",
-    "Text": "Subdue G-Dark Ragne"
+    "Text": "Subdue G-Dark Ragne",
     "Enabled": true
   },
   "210138": {
@@ -375,12 +375,12 @@
   },
   "210144": {
     "OriginalText": "なし？",
-    "Text": "None?"
+    "Text": "None?",
     "Enabled": true
   },
   "210145": {
     "OriginalText": "Ｇプレディカーダ討伐",
-    "Text": "Subdue G-Predicahda"
+    "Text": "Subdue G-Predicahda",
     "Enabled": true
   },
   "210146": {
@@ -394,12 +394,12 @@
   },
   "210148": {
     "OriginalText": "ラッピー・タイム！",
-    "Text": "Rappy Time!"
+    "Text": "Rappy Time!",
     "Enable": true
   },
   "210149": {
     "OriginalText": "レイヴァン討伐",
-    "Text": "Subdue Raven"
+    "Text": "Subdue Raven",
     "Enabled": true
   },
   "210150": {
