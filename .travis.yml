@@ -1,0 +1,15 @@
+language: python
+
+sudo: false
+
+cache:
+  - pip
+
+install:
+  - pip install simplejson
+
+script:
+  - python checkjson.py
+
+before_cache:
+  - rm -f $HOME/.cache/pip/log/debug.log
