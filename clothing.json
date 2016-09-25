@@ -1,1872 +1,2340 @@
-  "330011": {
+   "330011": {
     "OriginalText": "ヘイズソーサラーＫ",
-    "Text": "Haze Sorcerer K"
+    "Text": "Haze Sorcerer K",
+    "Enabled": true
   },
   "330012": {
     "OriginalText": "ヘイズソーサラーＹ",
-    "Text": "Haze Sorcerer Y"
+    "Text": "Haze Sorcerer Y",
+    "Enabled": true
   },
   "330013": {
     "OriginalText": "ヘイズソーサラーＢ",
-    "Text": "Haze Sorcerer B"
+    "Text": "Haze Sorcerer B",
+    "Enabled": true
   },
   "330014": {
     "OriginalText": "ヘイズソーサラーＲ",
-    "Text": ""
+    "Text": "Haze Sorcerer R",
+    "Enabled": true
   },
   "330015": {
     "OriginalText": "クローズクォーター破Ｏ",
-    "Text": ""
+    "Text": "Close Quarter O (Dam.)",
+    "Enabled": true
   },
   "330016": {
     "OriginalText": "クローズクォーター破Ｂ",
-    "Text": ""
+    "Text": "Close Quarter B (Dam.)",
+    "Enabled": true
   },
   "330017": {
     "OriginalText": "クローズクォーター破Ｖ",
-    "Text": ""
+    "Text": "Close Quarter V (Dam.)",
+    "Enabled": true
   },
   "330018": {
     "OriginalText": "クローズクォーター破Ｇ",
-    "Text": ""
+    "Text": "Close Quarter G (Dam.)",
+    "Enabled": true
   },
   "330019": {
     "OriginalText": "シャープオーダー破Ｖ",
-    "Text": ""
+    "Text": "Sharp Order V (Dam.)",
+    "Enabled": true
   },
   "330020": {
     "OriginalText": "シャープオーダー破Ｋ",
-    "Text": ""
+    "Text": "Sharp Order K (Dam.)",
+    "Enabled": true
   },
   "330021": {
     "OriginalText": "シャープオーダー破Ｇ",
-    "Text": ""
+    "Text": "Sharp Order G (Dam.)",
+    "Enabled": true
   },
   "330022": {
     "OriginalText": "シャープオーダー破Ｏ",
-    "Text": ""
+    "Text": "Sharp Order O (Dam.)",
+    "Enabled": true
   },
   "330023": {
     "OriginalText": "ブリッツエース破Ｇ",
-    "Text": ""
+    "Text": "Blitz Ace G (Dam.)",
+    "Enabled": true
   },
   "330024": {
     "OriginalText": "ブリッツエース破Ｖ",
-    "Text": ""
+    "Text": "Blitz Ace V (Dam.)",
+    "Enabled": true
   },
   "330025": {
     "OriginalText": "ブリッツエース破Ｒ",
-    "Text": ""
+    "Text": "Blitz Ace R (Dam.)",
+    "Enabled": true
   },
   "330026": {
     "OriginalText": "ブリッツエース破Ｂ",
-    "Text": ""
+    "Text": "Blitz Ace B (Dam.)",
+    "Enabled": true
   },
   "330027": {
     "OriginalText": "センシアスコート破Ｋ",
-    "Text": ""
+    "Text": "Sensuous Coat K (Dam.)",
+    "Enabled": true
   },
   "330028": {
     "OriginalText": "センシアスコート破Ｏ",
-    "Text": ""
+    "Text": "Sensuous Coat O (Dam.)",
+    "Enabled": true
   },
   "330029": {
     "OriginalText": "センシアスコート破Ｒ",
-    "Text": ""
+    "Text": "Sensuous Coat R (Dam.)",
+    "Enabled": true
   },
   "330030": {
     "OriginalText": "センシアスコート破Ｇ",
-    "Text": ""
+    "Text": "Sensuous Coat G (Dam.)",
+    "Enabled": true
   },
   "330031": {
     "OriginalText": "レーベンシルト破Ｂ",
-    "Text": ""
+    "Text": "Raven Schild B (Dam.)",
+    "Enabled": true
   },
   "330032": {
     "OriginalText": "レーベンシルト破Ｋ",
-    "Text": ""
+    "Text": "Raven Schild K (Dam.)",
+    "Enabled": true
   },
   "330033": {
     "OriginalText": "レーベンシルト破Ｗ",
-    "Text": ""
+    "Text": "Raven Schild W (Dam.)",
+    "Enabled": true
   },
   "330034": {
     "OriginalText": "レーベンシルト破Ｒ",
-    "Text": ""
+    "Text": "Raven Schild R (Dam.)",
+    "Enabled": true
   },
   "330035": {
     "OriginalText": "ヴァイゼクルーン破Ｗ",
-    "Text": ""
+    "Text": "Weiss Croon W (Dam.)",
+    "Enabled": true
   },
   "330036": {
     "OriginalText": "ヴァイゼクルーン破Ｋ",
-    "Text": ""
+    "Text": "Weiss Croon K (Dam.)",
+    "Enabled": true
   },
   "330037": {
     "OriginalText": "ヴァイゼクルーン破Ｒ",
-    "Text": ""
+    "Text": "Weiss Croon R (Dam.)",
+    "Enabled": true
   },
   "330038": {
     "OriginalText": "ヴァイゼクルーン破Ｂ",
-    "Text": ""
+    "Text": "Weiss Croon B (Dam.)",
+    "Enabled": true
   },
   "330039": {
     "OriginalText": "ジャン・ドゥＢ",
-    "Text": ""
+    "Text": "Jan Du B",
+    "Enabled": true
   },
   "330040": {
     "OriginalText": "ジャン・ドゥＫ",
-    "Text": ""
+    "Text": "Jan Du K",
+    "Enabled": true
   },
   "330041": {
     "OriginalText": "ジャン・ドゥＯ",
-    "Text": ""
+    "Text": "Jan Du O",
+    "Enabled": true
   },
   "330042": {
     "OriginalText": "ジャン・ドゥＷ",
-    "Text": ""
+    "Text": "Jan Du W",
+    "Enabled": true
   },
   "330043": {
     "OriginalText": "スライトスーツＲ",
-    "Text": ""
+    "Text": "Slight Suit R",
+    "Enabled": true
   },
   "330044": {
     "OriginalText": "スライトスーツＯ",
-    "Text": ""
+    "Text": "Slight Suit O",
+    "Enabled": true
   },
   "330045": {
     "OriginalText": "スライトスーツＷ",
-    "Text": ""
+    "Text": "Slight Suit W",
+    "Enabled": true
   },
   "330046": {
     "OriginalText": "スライトスーツＫ",
-    "Text": ""
+    "Text": "Slight Suit K",
+    "Enabled": true
   },
   "330047": {
     "OriginalText": "シークイェーガー破Ｂ",
-    "Text": ""
+    "Text": "Chic Jaeger B (Dam.)",
+    "Enabled": true
   },
   "330048": {
     "OriginalText": "シークイェーガー破Ｙ",
-    "Text": ""
+    "Text": "Chic Jaeger Y (Dam.)",
+    "Enabled": true
   },
   "330049": {
     "OriginalText": "シークイェーガー破Ｖ",
-    "Text": ""
+    "Text": "Chic Jaeger V (Dam.)",
+    "Enabled": true
   },
   "330050": {
     "OriginalText": "シークイェーガー破Ｋ",
-    "Text": ""
+    "Text": "Chic Jaeger K (Dam.)",
+    "Enabled": true
   },
   "330051": {
     "OriginalText": "ナビゲータースーツＧ",
-    "Text": ""
+    "Text": "Navigator Suit G",
+    "Enabled": true
   },
   "330052": {
     "OriginalText": "ナビゲータースーツＯ",
-    "Text": ""
+    "Text": "Navigator Suit O",
+    "Enabled": true
   },
   "330053": {
     "OriginalText": "ナビゲータースーツＢ",
-    "Text": ""
+    "Text": "Navigator Suit B",
+    "Enabled": true
   },
   "330054": {
     "OriginalText": "ナビゲータースーツＲ",
-    "Text": ""
+    "Text": "Navigator Suit R",
+    "Enabled": true
   },
   "330055": {
     "OriginalText": "アークス研修生男制服Ｗ",
-    "Text": ""
+    "Text": "ARKS Trainee Uniform M/W",
+    "Enabled": true
   },
   "330056": {
     "OriginalText": "アークス研修生男制服Ｋ",
-    "Text": ""
+    "Text": "ARKS Trainee Uniform M/K",
+    "Enabled": true
   },
   "330057": {
     "OriginalText": "アークス研修生男制服Ｏ",
-    "Text": ""
+    "Text": "ARKS Trainee Uniform M/O",
+    "Enabled": true
   },
   "330058": {
     "OriginalText": "アークス研修生男制服Ｂ",
-    "Text": ""
+    "Text": "ARKS Trainee Uniform M/B",
+    "Enabled": true
   },
   "330059": {
     "OriginalText": "ヘレティックロードＢ",
-    "Text": ""
+    "Text": "Heretic Lord B",
+    "Enabled": true
   },
   "330060": {
     "OriginalText": "ヘレティックロードＫ",
-    "Text": ""
+    "Text": "Heretic Lord K",
+    "Enabled": true
   },
   "330061": {
     "OriginalText": "ヘレティックロードＲ",
-    "Text": ""
+    "Text": "Heretic Lord R",
+    "Enabled": true
   },
   "330062": {
     "OriginalText": "ヘレティックロードＧ",
-    "Text": ""
+    "Text": "Heretic Lord G",
+    "Enabled": true
   },
   "330063": {
     "OriginalText": "アインザーム破Ｂ",
-    "Text": ""
+    "Text": "Einzam B (Dam.)",
+    "Enabled": true
   },
   "330064": {
     "OriginalText": "アインザーム破Ｏ",
-    "Text": ""
+    "Text": "Einzam O (Dam.)",
+    "Enabled": true
   },
   "330065": {
     "OriginalText": "アインザーム破Ｖ",
-    "Text": ""
+    "Text": "Einzam V (Dam.)",
+    "Enabled": true
   },
   "330066": {
     "OriginalText": "アインザーム破Ｒ",
-    "Text": ""
+    "Text": "Einzam R (Dam.)",
+    "Enabled": true
   },
   "330067": {
     "OriginalText": "フリューネージュＢ",
-    "Text": ""
+    "Text": "Furieux Neige B",
+    "Enabled": true
   },
   "330068": {
     "OriginalText": "フリューネージュＲ",
-    "Text": ""
+    "Text": "Furieux Neige R",
+    "Enabled": true
   },
   "330069": {
     "OriginalText": "フリューネージュＹ",
-    "Text": ""
+    "Text": "Furieux Neige Y",
+    "Enabled": true
   },
   "330070": {
     "OriginalText": "フリューネージュＧ",
-    "Text": ""
+    "Text": "Furieux Neige G",
+    "Enabled": true
   },
   "330071": {
     "OriginalText": "フラメガッシュＯ",
-    "Text": ""
+    "Text": "Flamegash O",
+    "Enabled": true
   },
   "330072": {
     "OriginalText": "フラメガッシュＢ",
-    "Text": ""
+    "Text": "Flamegash B",
+    "Enabled": true
   },
   "330073": {
     "OriginalText": "フラメガッシュＹ",
-    "Text": ""
+    "Text": "Flamegash Y",
+    "Enabled": true
   },
   "330074": {
     "OriginalText": "フラメガッシュＲ",
-    "Text": ""
+    "Text": "Flamegash R",
+    "Enabled": true
   },
   "330075": {
     "OriginalText": "ヴォルカノパッカー破Ｒ",
-    "Text": ""
+    "Text": "Volcano Packer R (Dam.)",
+    "Enabled": true
   },
   "330076": {
     "OriginalText": "ヴォルカノパッカー破Ｂ",
-    "Text": ""
+    "Text": "Volcano Packer B (Dam.)",
+    "Enabled": true
   },
   "330077": {
     "OriginalText": "ヴォルカノパッカー破Ｋ",
-    "Text": ""
+    "Text": "Volcano Packer K (Dam.)",
+    "Enabled": true
   },
   "330078": {
     "OriginalText": "ヴォルカノパッカー破Ｏ",
-    "Text": ""
+    "Text": "Volcano Packer O (Dam.)",
+    "Enabled": true
   },
   "330079": {
     "OriginalText": "ウォフマナフＷ",
-    "Text": ""
+    "Text": "Vohu Manah W",
+    "Enabled": true
   },
   "330080": {
     "OriginalText": "ウォフマナフＲ",
-    "Text": ""
+    "Text": "Vohu Manah R",
+    "Enabled": true
   },
   "330081": {
     "OriginalText": "ウォフマナフＧ",
-    "Text": ""
+    "Text": "Vohu Manah G",
+    "Enabled": true
   },
   "330082": {
     "OriginalText": "ウォフマナフＢ",
-    "Text": ""
+    "Text": "Vohu Manah B",
+    "Enabled": true
   },
   "330083": {
     "OriginalText": "ガラテピオニエＷ",
-    "Text": ""
+    "Text": "Garatepionie W",
+    "Enabled": true
   },
   "330084": {
     "OriginalText": "ガラテピオニエＢ",
-    "Text": ""
+    "Text": "Garatepione B",
+    "Enabled": true
   },
   "330085": {
     "OriginalText": "ガラテピオニエＫ",
-    "Text": ""
+    "Text": "Garatepionie K",
+    "Enabled": true
   },
   "330086": {
     "OriginalText": "ガラテピオニエＲ",
-    "Text": ""
+    "Text": "Garatepionie R",
+    "Enabled": true
   },
   "330087": {
     "OriginalText": "ガラテピオニエＧ",
-    "Text": ""
+    "Text": "Garatepionie G",
+    "Enabled": true
   },
   "330088": {
     "OriginalText": "アグリシェルシェールＷ",
-    "Text": ""
+    "Text": "Agrishell Cher W",
+    "Enabled": true
   },
   "330089": {
     "OriginalText": "アグリシェルシェールＲ",
-    "Text": ""
+    "Text": "Agrishell Cher R",
+    "Enabled": true
   },
   "330090": {
     "OriginalText": "アグリシェルシェールＫ",
-    "Text": ""
+    "Text": "Agrishell Cher K",
+    "Enabled": true
   },
   "330091": {
     "OriginalText": "アグリシェルシェールＢ",
-    "Text": ""
+    "Text": "Agrishell Cher B",
+    "Enabled": true
   },
   "330092": {
     "OriginalText": "アグリシェルシェールＧ",
-    "Text": ""
+    "Text": "Agrishell Cher G",
+    "Enabled": true
   },
   "330093": {
     "OriginalText": "アルキファナティックＷ",
-    "Text": ""
+    "Text": "Alki Fanatic W",
+    "Enabled": true
   },
   "330094": {
     "OriginalText": "アルキファナティックＫ",
-    "Text": ""
+    "Text": "Alki Fanatic K",
+    "Enabled": true
   },
   "330095": {
     "OriginalText": "アルキファナティックＲ",
-    "Text": ""
+    "Text": "Alki Fanatic R",
+    "Enabled": true
   },
   "330096": {
     "OriginalText": "アルキファナティックＢ",
-    "Text": ""
+    "Text": "Alki Fanatic B",
+    "Enabled": true
   },
   "330097": {
     "OriginalText": "アルキファナティックＧ",
-    "Text": ""
+    "Text": "Alki Fanatic G",
+    "Enabled": true
   },
   "330098": {
     "OriginalText": "ノヴァソヴァールＷ",
-    "Text": ""
+    "Text": "Nova Sauveur W",
+    "Enabled": true
   },
   "330099": {
     "OriginalText": "ノヴァソヴァールＲ",
-    "Text": ""
+    "Text": "Nova Sauveur R",
+    "Enabled": true
   },
   "330100": {
     "OriginalText": "ノヴァソヴァールＢ",
-    "Text": ""
+    "Text": "Nova Sauveur B",
+    "Enabled": true
   },
   "330101": {
     "OriginalText": "ノヴァソヴァールＧ",
-    "Text": ""
+    "Text": "Nova Sauveur G",
+    "Enabled": true
   },
   "330102": {
     "OriginalText": "ノヴァソヴァールＹ",
-    "Text": ""
+    "Text": "Nova Sauveur Y",
+    "Enabled": true
   },
   "330103": {
     "OriginalText": "エイゲトグリーフＢ",
-    "Text": ""
+    "Text": "Eigeto Grief B",
+    "Enabled": true
   },
   "330104": {
     "OriginalText": "エイゲトグリーフＧ",
-    "Text": ""
+    "Text": "Eigeto Grief G",
+    "Enabled": true
   },
   "330105": {
     "OriginalText": "エイゲトグリーフＰ",
-    "Text": ""
+    "Text": "Eigeto Grief P",
+    "Enabled": true
   },
   "330106": {
     "OriginalText": "エイゲトグリーフＶ",
-    "Text": ""
+    "Text": "Eigeto Grief V",
+    "Enabled": true
   },
   "330107": {
     "OriginalText": "エイゲトグリーフＫ",
-    "Text": ""
+    "Text": "Eigeto Grief K",
+    "Enabled": true
   },
   "330108": {
     "OriginalText": "フリードアウトローＯ",
-    "Text": ""
+    "Text": "Freed Outlaw O",
+    "Enabled": true
   },
   "330109": {
     "OriginalText": "フリードアウトローＫ",
-    "Text": ""
+    "Text": "Freed Outlaw K",
+    "Enabled": true
   },
   "330110": {
     "OriginalText": "フリードアウトローＲ",
-    "Text": ""
+    "Text": "Freed Outlaw R",
+    "Enabled": true
   },
   "330111": {
     "OriginalText": "フリードアウトローＧ",
-    "Text": ""
+    "Text": "Freed Outlaw G",
+    "Enabled": true
   },
   "330112": {
     "OriginalText": "フリードアウトローＢ",
-    "Text": ""
+    "Text": "Freed Outlaw B",
+    "Enabled": true
   },
   "330113": {
     "OriginalText": "リンデンローブＧ",
-    "Text": ""
+    "Text": "Rinden Robe G",
+    "Enabled": true
   },
   "330114": {
     "OriginalText": "リンデンローブＢ",
-    "Text": ""
+    "Text": "Rinden Robe B",
+    "Enabled": true
   },
   "330115": {
     "OriginalText": "リンデンローブＲ",
-    "Text": ""
+    "Text": "Rinden Robe R",
+    "Enabled": true
   },
   "330116": {
     "OriginalText": "リンデンローブＯ",
-    "Text": ""
+    "Text": "Rinden Robe O",
+    "Enabled": true
   },
   "330117": {
     "OriginalText": "リンデンローブＷ",
-    "Text": ""
+    "Text": "Rinden Robe W",
+    "Enabled": true
   },
   "330118": {
     "OriginalText": "ジュラキュイラスＧ",
-    "Text": ""
+    "Text": "Jurakiu Ilas G",
+    "Enabled": true
   },
   "330119": {
     "OriginalText": "ジュラキュイラスＶ",
-    "Text": ""
+    "Text": "Jurakiu Ilas V",
+    "Enabled": true
   },
   "330120": {
     "OriginalText": "ジュラキュイラスＯ",
-    "Text": ""
+    "Text": "Jurakiu Ilas O",
+    "Enabled": true
   },
   "330121": {
     "OriginalText": "ジュラキュイラスＲ",
-    "Text": ""
+    "Text": "Jurakiu Ilas R",
+    "Enabled": true
   },
   "330122": {
     "OriginalText": "ジュラキュイラスＷ",
-    "Text": ""
+    "Text": "Jurakiu Ilas W",
+    "Enabled": true
   },
   "330123": {
     "OriginalText": "ワイルドスタイルＫ",
-    "Text": ""
+    "Text": "Wild Style K",
+    "Enabled": true
   },
   "330124": {
     "OriginalText": "ワイルドスタイルＲ",
-    "Text": ""
+    "Text": "Wild Style R",
+    "Enabled": true
   },
   "330125": {
     "OriginalText": "ワイルドスタイルＯ",
-    "Text": ""
+    "Text": "Wild Style O",
+    "Enabled": true
   },
   "330126": {
     "OriginalText": "ワイルドスタイルＢ",
-    "Text": ""
+    "Text": "Wild Style B",
+    "Enabled": true
   },
   "330127": {
     "OriginalText": "ワイルドスタイルＧ",
-    "Text": ""
+    "Text": "Wild Style G",
+    "Enabled": true
   },
   "330128": {
     "OriginalText": "ラッピーミミクリＹ",
-    "Text": ""
+    "Text": "Rappy Mimicry Y",
+    "Enabled": true
   },
   "330129": {
     "OriginalText": "ラッピーミミクリＢ",
-    "Text": ""
+    "Text": "Rappy Mimicry B",
+    "Enabled": true
   },
   "330130": {
     "OriginalText": "ラッピーミミクリＲ",
-    "Text": ""
+    "Text": "Rappy Mimicry R",
+    "Enabled": true
   },
   "330131": {
     "OriginalText": "ラッピーミミクリＷ",
-    "Text": ""
+    "Text": "Rappy Mimicry W",
+    "Enabled": true
   },
   "330132": {
     "OriginalText": "ラッピーミミクリＫ",
-    "Text": ""
+    "Text": "Rappy Mimicry K",
+    "Enabled": true
   },
   "330133": {
     "OriginalText": "ヴィテスシュタルクＫ",
-    "Text": ""
+    "Text": "Vites Schtark K",
+    "Enabled": true
   },
   "330134": {
     "OriginalText": "ヴィテスシュタルクＲ",
-    "Text": ""
+    "Text": "Vites Schtark R",
+    "Enabled": true
   },
   "330135": {
     "OriginalText": "ヴィテスシュタルクＹ",
-    "Text": ""
+    "Text": "Vites Schtark Y",
+    "Enabled": true
   },
   "330136": {
     "OriginalText": "ヴィテスシュタルクＢ",
-    "Text": ""
+    "Text": "Vites Schtark B",
+    "Enabled": true
   },
   "330137": {
     "OriginalText": "ヴィテスシュタルクＧ",
-    "Text": ""
+    "Text": "Vites Schtark G",
+    "Enabled": true
   },
   "330138": {
     "OriginalText": "ヴィグールズイッヒャーＷ",
-    "Text": ""
+    "Text": "Vigours Ihhya W",
+    "Enabled": true
   },
   "330139": {
     "OriginalText": "ヴィグールズイッヒャーＫ",
-    "Text": ""
+    "Text": "Vigours Ihhya K",
+    "Enabled": true
   },
   "330140": {
     "OriginalText": "ヴィグールズイッヒャーＧ",
-    "Text": ""
+    "Text": "Vigours Ihhya G",
+    "Enabled": true
   },
   "330141": {
     "OriginalText": "ヴィグールズイッヒャーＢ",
-    "Text": ""
+    "Text": "Vigours Ihhya B",
+    "Enabled": true
   },
   "330142": {
     "OriginalText": "ヴィグールズイッヒャーＲ",
-    "Text": ""
+    "Text": "Vigours Ihhya R,
+    "Enabled": true
   },
   "330143": {
     "OriginalText": "シャンプースタイル",
-    "Text": ""
+    "Text": "Jump Style",
+    "Enabled": true
   },
   "330144": {
     "OriginalText": "ヴァシュロンコート",
-    "Text": ""
+    "Text": "Vacheron Coat",
+    "Enabled": true
   },
   "330145": {
     "OriginalText": "ゼファージャケット",
-    "Text": ""
+    "Text": "Zefa Jacket",
+    "Enabled": true
   },
   "330146": {
     "OriginalText": "ヘヴィスクード破Ｂ",
-    "Text": ""
+    "Text": "Heavy Scudo B (Dam.)",
+    "Enabled": true
   },
   "330147": {
     "OriginalText": "ヘヴィスクード破Ｏ",
-    "Text": ""
+    "Text": "Heavy Scudo O (Dam.)",
+    "Enabled": true
   },
   "330148": {
     "OriginalText": "ヘヴィスクード破Ｒ",
-    "Text": ""
+    "Text": "Heavy Scudo R (Dam.)",
+    "Enabled": true
   },
   "330149": {
     "OriginalText": "ヘヴィスクード破Ｇ",
-    "Text": ""
+    "Text": "Heavy Scudo G (Dam.)",
+    "Enabled": true
   },
   "330150": {
     "OriginalText": "ジャン・ドゥ破Ｂ",
-    "Text": ""
+    "Text": "Jan Du B (Dam.)",
+    "Enabled": true
   },
   "330151": {
     "OriginalText": "ジャン・ドゥ破Ｋ",
-    "Text": ""
+    "Text": "Jan Du K (Dam.)",
+    "Enabled": true
   },
   "330152": {
     "OriginalText": "ジャン・ドゥ破Ｏ",
-    "Text": ""
+    "Text": "Jan Du O (Dam.)",
+    "Enabled": true
   },
   "330153": {
     "OriginalText": "ジャン・ドゥ破Ｗ",
-    "Text": ""
+    "Text": "Jan Du W (Dam.)",
+    "Enabled": true
   },
   "330154": {
     "OriginalText": "フラメガッシュ破Ｏ",
-    "Text": ""
+    "Text": "Flamegash O (Dam.)",
+    "Enabled": true
   },
   "330155": {
     "OriginalText": "フラメガッシュ破Ｂ",
-    "Text": ""
+    "Text": "Flamegash B (Dam.)",
+    "Enabled": true
   },
   "330156": {
     "OriginalText": "フラメガッシュ破Ｙ",
-    "Text": ""
+    "Text": "Flamegash Y (Dam.)",
+    "Enabled": true
   },
   "330157": {
     "OriginalText": "フラメガッシュ破Ｒ",
-    "Text": ""
+    "Text": "Flamegash R (Dam.)",
+    "Enabled": true
   },
   "330158": {
     "OriginalText": "アンダーウェア",
-    "Text": ""
+    "Text": "Underwear",
+    "Enabled": true
   },
   "330159": {
     "OriginalText": "ハニージャケット破Ｙ",
-    "Text": ""
+    "Text": "Honey Jacket Y (Dam.)",
+    "Enabled": true
   },
   "330160": {
     "OriginalText": "ハニージャケット破Ｒ",
-    "Text": ""
+    "Text": "Honey Jacket R (Dam.)",
+    "Enabled": true
   },
   "330161": {
     "OriginalText": "ハニージャケット破Ｗ",
-    "Text": ""
+    "Text": "Honey Jacket W (Dam.)",
+    "Enabled": true
   },
   "330162": {
     "OriginalText": "ハニージャケット破Ｂ",
-    "Text": ""
+    "Text": "Honey Jacket B (Dam.)",
+    "Enabled": true
   },
   "330163": {
     "OriginalText": "バリスティックコートＢ",
-    "Text": ""
+    "Text": "Ballistic Coat B",
+    "Enabled": true
   },
   "330164": {
     "OriginalText": "バリスティックコートＹ",
-    "Text": ""
+    "Text": "Ballistic Coat Y",
+    "Enabled": true
   },
   "330165": {
     "OriginalText": "バリスティックコートＲ",
-    "Text": ""
+    "Text": " Ballistic Coat R",
+    "Enabled": true
   },
   "330166": {
     "OriginalText": "バリスティックコートＫ",
-    "Text": ""
+    "Text": "Ballistic Coat K",
+    "Enabled": true
   },
   "330167": {
     "OriginalText": "タイガーピアスＷ",
-    "Text": ""
+    "Text": "Tiger Pierce W",
+    "Enabled": true
   },
   "330168": {
     "OriginalText": "タイガーピアスＲ",
-    "Text": ""
+    "Text": "Tiger Pierce R",
+    "Enabled": true
   },
   "330169": {
     "OriginalText": "タイガーピアスＹ",
-    "Text": ""
+    "Text": "Tiger Pierce Y",
+    "Enabled": true
   },
   "330170": {
     "OriginalText": "タイガーピアスＢ",
-    "Text": ""
+    "Text": "Tiger Pierce B",
+    "Enabled": true
   },
   "330171": {
     "OriginalText": "リトルプリムＧ",
-    "Text": ""
+    "Text": "Little Prim G",
+    "Enabled": true
   },
   "330172": {
     "OriginalText": "リトルプリムＢ",
-    "Text": ""
+    "Text": "Little Prim B",
+    "Enabled": true
   },
   "330173": {
     "OriginalText": "リトルプリムＰ",
-    "Text": ""
+    "Text": "Little Prim P",
+    "Enabled": true
   },
   "330174": {
     "OriginalText": "リトルプリムＫ",
-    "Text": ""
+    "Text": "Little Prim K",
+    "Enabled": true
   },
   "330175": {
     "OriginalText": "キャンディークラウンＢ",
-    "Text": ""
+    "Text": "Candy Crown B",
+    "Enabled": true
   },
   "330176": {
     "OriginalText": "キャンディークラウンＫ",
-    "Text": ""
+    "Text": "Candy Crown K",
+    "Enabled": true
   },
   "330177": {
     "OriginalText": "キャンディークラウンＧ",
-    "Text": ""
+    "Text": "Candy Crown G",
+    "Enabled": true
   },
   "330178": {
     "OriginalText": "キャンディークラウンＰ",
-    "Text": ""
+    "Text": "Candy Crown P",
+    "Enabled": true
   },
   "330179": {
     "OriginalText": "エクエスティオー破Ｙ",
-    "Text": ""
+    "Text": "Equestio Y (Dam.)",
+    "Enabled": true
   },
   "330180": {
     "OriginalText": "エクエスティオー破Ｒ",
-    "Text": ""
+    "Text": "Equestio R (Dam.)",
+    "Enabled": true
   },
   "330181": {
     "OriginalText": "エクエスティオー破Ｂ",
-    "Text": ""
+    "Text": "Equestio B (Dam.)",
+    "Enabled": true
   },
   "330182": {
     "OriginalText": "エクエスティオー破Ｇ",
-    "Text": ""
+    "Text": "Equestio G (Dam.)",
+    "Enabled": true
   },
   "330183": {
     "OriginalText": "フィーリングローブ破Ｇ",
-    "Text": ""
+    "Text": "Feeling Robe G (Dam.)",
+    "Enabled": true
   },
   "330184": {
     "OriginalText": "フィーリングローブ破Ｂ",
-    "Text": ""
+    "Text": "Feeling Robe B (Dam.)",
+    "Enabled": true
   },
   "330185": {
     "OriginalText": "フィーリングローブ破Ｏ",
-    "Text": ""
+    "Text": "Feeling Robe O (Dam.)",
+    "Enabled": true
   },
   "330186": {
     "OriginalText": "フィーリングローブ破Ｒ",
-    "Text": ""
+    "Text": "Feeling Robe R (Dam.)",
+    "Enabled": true
   },
   "330187": {
     "OriginalText": "ネイバークォーツ破Ｇ",
-    "Text": ""
+    "Text": "Neighbor Quartz G (Dam.)",
+    "Enabled": true
   },
   "330188": {
     "OriginalText": "ネイバークォーツ破Ｒ",
-    "Text": ""
+    "Text": "Neighbor Quartz R (Dam.)",
+    "Enabled": true
   },
   "330189": {
     "OriginalText": "ネイバークォーツ破Ｐ",
-    "Text": ""
+    "Text": "Neighbor Quartz P (Dam.)",
+    "Enabled": true
   },
   "330190": {
     "OriginalText": "ネイバークォーツ破Ｂ",
-    "Text": ""
+    "Text": "Neighbor Quartz B (Dam.)",
+    "Enabled": true
   },
   "330191": {
     "OriginalText": "ガードウイング破Ｖ",
-    "Text": ""
+    "Text": "Guard Wing V (Dam.)",
+    "Enabled": true
   },
   "330192": {
     "OriginalText": "ガードウイング破Ｏ",
-    "Text": ""
+    "Text": "Guard Wing O (Dam.)",
+    "Enabled": true
   },
   "330193": {
     "OriginalText": "ガードウイング破Ｋ",
-    "Text": ""
+    "Text": "Guard Wing K (Dam.)",
+    "Enabled": true
   },
   "330194": {
     "OriginalText": "ガードウイング破Ｒ",
-    "Text": ""
+    "Text": "Guard Wing R (Dam.)",
+    "Enabled": true
   },
   "330195": {
     "OriginalText": "スライトクロスＧ",
-    "Text": ""
+    "Text": "Slight Cross G",
+    "Enabled": true
   },
   "330196": {
     "OriginalText": "スライトクロスＲ",
-    "Text": ""
+    "Text": "Slight Cross R",
+    "Enabled": true
   },
   "330197": {
     "OriginalText": "スライトクロスＢ",
-    "Text": ""
+    "Text": "Slight Cross B",
+    "Enabled": true
   },
   "330198": {
     "OriginalText": "スライトクロスＯ",
-    "Text": ""
+    "Text": "Slight Cross O",
+    "Enabled": true
   },
   "330199": {
     "OriginalText": "サウザンドリム破Ｒ",
-    "Text": ""
+    "Text": "Thousand Rim R (Dam.)",
+    "Enabled": true
   },
   "330200": {
     "OriginalText": "サウザンドリム破Ｂ",
-    "Text": ""
+    "Text": "Thousand Rim B (Dam.)",
+    "Enabled": true
   },
   "330201": {
     "OriginalText": "サウザンドリム破Ｗ",
-    "Text": ""
+    "Text": "Thousand Rim W (Dam.)",
+    "Enabled": true
   },
   "330202": {
     "OriginalText": "サウザンドリム破Ｇ",
-    "Text": ""
+    "Text": "Thousand Rim G (Dam.)",
+    "Enabled": true
   },
   "330203": {
     "OriginalText": "ナビゲータードレスＶ",
-    "Text": ""
+    "Text": "Navigator Dress V",
+    "Enabled": true
   },
   "330204": {
     "OriginalText": "ナビゲータードレスＷ",
-    "Text": ""
+    "Text": "Navigator Dress W",
+    "Enabled": true
   },
   "330205": {
     "OriginalText": "ナビゲータードレスＢ",
-    "Text": ""
+    "Text": "Navigator Dress B",
+    "Enabled": true
   },
   "330206": {
     "OriginalText": "ナビゲータードレスＲ",
-    "Text": ""
+    "Text": "Navigator Dress R",
+    "Enabled": true
   },
   "330207": {
     "OriginalText": "ナースドレスＹ",
-    "Text": ""
+    "Text": "Nurse Dress Y",
+    "Enabled": true
   },
   "330208": {
     "OriginalText": "ナースドレスＢ",
-    "Text": ""
+    "Text": "Nurse Dress B",
+    "Enabled": true
   },
   "330209": {
     "OriginalText": "ナースドレスＧ",
-    "Text": ""
+    "Text": "Nurse Dress G",
+    "Enabled": true
   },
   "330210": {
     "OriginalText": "ナースドレスＰ",
-    "Text": ""
+    "Text": "Nurse Dress P",
+    "Enabled": true
   },
   "330211": {
     "OriginalText": "アークス研修生女制服Ｋ",
-    "Text": ""
+    "Text": "ARKS Trainee Uniform F/K",
+    "Enabled": true
   },
   "330212": {
     "OriginalText": "アークス研修生女制服Ｂ",
-    "Text": ""
+    "Text": "ARKS Trainee Uniform F/B",
+    "Enabled": true
   },
   "330213": {
     "OriginalText": "アークス研修生女制服Ｒ",
-    "Text": ""
+    "Text": "ARKS Trainee Uniform F/R",
+    "Enabled": true
   },
   "330214": {
     "OriginalText": "アークス研修生女制服Ｇ",
-    "Text": ""
+    "Text": "ARKS Trainee Uniform F/G",
+    "Enabled": true
   },
   "330215": {
     "OriginalText": "エレティックレーヌ破Ｗ",
-    "Text": ""
+    "Text": "Eretique Reine W (Dam.)",
+    "Enabled": true
   },
   "330216": {
     "OriginalText": "エレティックレーヌ破Ｏ",
-    "Text": ""
+    "Text": "Eretique Reine O (Dam.)",
+    "Enabled": true
   },
   "330217": {
     "OriginalText": "エレティックレーヌ破Ｐ",
-    "Text": ""
+    "Text": "Eretique Reine P (Dam.)",
+    "Enabled": true
   },
   "330218": {
     "OriginalText": "エレティックレーヌ破Ｇ",
-    "Text": ""
+    "Text": "Eretique Reine G (Dam.)",
+    "Enabled": true
   },
   "330219": {
     "OriginalText": "イーリスカッツェＯ",
-    "Text": ""
+    "Text": "Iris Katze O",
+    "Enabled": true
   },
   "330220": {
     "OriginalText": "イーリスカッツェＧ",
-    "Text": ""
+    "Text": "Iris Katze G",
+    "Enabled": true
   },
   "330221": {
     "OriginalText": "イーリスカッツェＢ",
-    "Text": ""
+    "Text": "Iris Katze B",
+    "Enabled": true
   },
   "330222": {
     "OriginalText": "イーリスカッツェＲ",
-    "Text": ""
+    "Text": "Iris Katze R",
+    "Enabled": true
   },
   "330223": {
     "OriginalText": "ファニートレイターＢ",
-    "Text": ""
+    "Text": "Funny Traitor B",
+    "Enabled": true
   },
   "330224": {
     "OriginalText": "ファニートレイターＯ",
-    "Text": ""
+    "Text": "Funny Traitor O",
+    "Enabled": true
   },
   "330225": {
     "OriginalText": "ファニートレイターＲ",
-    "Text": ""
+    "Text": "Funny Traitor R",
+    "Enabled": true
   },
   "330226": {
     "OriginalText": "ファニートレイターＧ",
-    "Text": ""
+    "Text": "Funny Traitor G",
+    "Enabled": true
   },
   "330227": {
     "OriginalText": "ハートブレイカーＲ",
-    "Text": ""
+    "Text": "Heart Breaker R",
+    "Enabled": true
   },
   "330228": {
     "OriginalText": "ハートブレイカーＧ",
-    "Text": ""
+    "Text": "Heart Breaker G",
+    "Enabled": true
   },
   "330229": {
     "OriginalText": "ハートブレイカーＷ",
-    "Text": ""
+    "Text": "Heart Breaker W",
+    "Enabled": true
   },
   "330230": {
     "OriginalText": "ハートブレイカーＢ",
-    "Text": ""
+    "Text": "Heart Breaker B",
+    "Enabled": true
   },
   "330231": {
     "OriginalText": "クラテルファドルＫ",
-    "Text": ""
+    "Text": "Crater Faddle K",
+    "Enabled": true
   },
   "330232": {
     "OriginalText": "クラテルファドルＹ",
-    "Text": ""
+    "Text": "Crater Faddle Y",
+    "Enabled": true
   },
   "330233": {
     "OriginalText": "クラテルファドルＲ",
-    "Text": ""
+    "Text": "Crater Faddle R",
+    "Enabled": true
   },
   "330234": {
     "OriginalText": "クラテルファドルＢ",
-    "Text": ""
+    "Text": "Crater Faddle B",
+    "Enabled": true
   },
   "330235": {
     "OriginalText": "アルフライラＰ",
-    "Text": ""
+    "Text": "Alph Lyla P",
+    "Enabled": true
   },
   "330236": {
     "OriginalText": "アルフライラＹ",
-    "Text": ""
+    "Text": "Alph Lyla Y",
+    "Enabled": true
   },
   "330237": {
     "OriginalText": "アルフライラＲ",
-    "Text": ""
+    "Text": "Alph Lyla R",
+    "Enabled": true
   },
   "330238": {
     "OriginalText": "アルフライラＢ",
-    "Text": ""
+    "Text": "Alph Lyla B",
+    "Enabled": true
   },
   "330239": {
     "OriginalText": "ガラテサジェスＫ",
-    "Text": ""
+    "Text": "Garate Sages K",
+    "Enabled": true
   },
   "330240": {
     "OriginalText": "ガラテサジェスＢ",
-    "Text": ""
+    "Text": "Garate Sages B",
+    "Enabled": true
   },
   "330241": {
     "OriginalText": "ガラテサジェスＷ",
-    "Text": ""
+    "Text": "Garate Sages W",
+    "Enabled": true
   },
   "330242": {
     "OriginalText": "ガラテサジェスＲ",
-    "Text": ""
+    "Text": "Garate Sages R",
+    "Enabled": true
   },
   "330243": {
     "OriginalText": "ガラテサジェスＧ",
-    "Text": ""
+    "Text": "Garate Sages G",
+    "Enabled": true
   },
   "330244": {
     "OriginalText": "アグリフォルスＷ",
-    "Text": ""
+    "Text": "Agri Fors W",
+    "Enabled": true
   },
   "330245": {
     "OriginalText": "アグリフォルスＲ",
-    "Text": ""
+    "Text": "Agri Fors R",
+    "Enabled": true
   },
   "330246": {
     "OriginalText": "アグリフォルスＫ",
-    "Text": ""
+    "Text": "Agri Fors K",
+    "Enabled": true
   },
   "330247": {
     "OriginalText": "アグリフォルスＢ",
-    "Text": ""
+    "Text": "Agri Fors B",
+    "Enabled": true
   },
   "330248": {
     "OriginalText": "アグリフォルスＧ",
-    "Text": ""
+    "Text": "Agri Fors G",
+    "Enabled": true
   },
   "330249": {
     "OriginalText": "アルキピュールＢ",
-    "Text": ""
+    "Text": "Alki Pule B",
+    "Enabled": true
   },
   "330250": {
     "OriginalText": "アルキピュールＶ",
-    "Text": ""
+    "Text": "Alki Pule V",
+    "Enabled": true
   },
   "330251": {
     "OriginalText": "アルキピュールＹ",
-    "Text": ""
+    "Text": "Alki Pule Y",
+    "Enabled": true
   },
   "330252": {
     "OriginalText": "アルキピュールＧ",
-    "Text": ""
+    "Text": "Alki Pule G",
+    "Enabled": true
   },
   "330253": {
     "OriginalText": "アルキピュールＯ",
-    "Text": ""
+    "Text": "Alki Pule O",
+    "Enabled": true
   },
   "330254": {
     "OriginalText": "ノヴァトレートルＷ",
-    "Text": ""
+    "Text": "Nova Traitor W",
+    "Enabled": true
   },
   "330255": {
     "OriginalText": "ノヴァトレートルＲ",
-    "Text": ""
+    "Text": "Nova Traitor R",
+    "Enabled": true
   },
   "330256": {
     "OriginalText": "ノヴァトレートルＢ",
-    "Text": ""
+    "Text": "Nova Traitor B",
+    "Enabled": true
   },
   "330257": {
     "OriginalText": "ノヴァトレートルＫ",
-    "Text": ""
+    "Text": "Nova Traitor K",
+    "Enabled": true
   },
   "330258": {
     "OriginalText": "ノヴァトレートルＹ",
-    "Text": ""
+    "Text": "Nova Traitor Y",
+    "Enabled": true
   },
   "330259": {
     "OriginalText": "エイゲトリュゼＢ",
-    "Text": ""
+    "Text": "Eigeto Ryuze B",
+    "Enabled": true
   },
   "330260": {
     "OriginalText": "エイゲトリュゼＧ",
-    "Text": ""
+    "Text": "Eigeto Ryuze G",
+    "Enabled": true
   },
   "330261": {
     "OriginalText": "エイゲトリュゼＰ",
-    "Text": ""
+    "Text": "Eigeto Ryuze P",
+    "Enabled": true
   },
   "330262": {
     "OriginalText": "エイゲトリュゼＫ",
-    "Text": ""
+    "Text": "Eigeto Ryuze K",
+    "Enabled": true
   },
   "330263": {
     "OriginalText": "エイゲトリュゼＷ",
-    "Text": ""
+    "Text": "Eigeto Ryuze W",
+    "Enabled": true
   },
   "330264": {
     "OriginalText": "レクレスアウトローＲ",
-    "Text": ""
+    "Text": "Reckless Outlaw R",
+    "Enabled": true
   },
   "330265": {
     "OriginalText": "レクレスアウトローＧ",
-    "Text": ""
+    "Text": "Reckless Outlaw G",
+    "Enabled": true
   },
   "330266": {
     "OriginalText": "レクレスアウトローＯ",
-    "Text": ""
+    "Text": "Reckless Outlaw O",
+    "Enabled": true
   },
   "330267": {
     "OriginalText": "レクレスアウトローＢ",
-    "Text": ""
+    "Text": "Reckless Outlaw B",
+    "Enabled": true
   },
   "330268": {
     "OriginalText": "レクレスアウトローＫ",
-    "Text": ""
+    "Text": "Reckless Outlaw K",
+    "Enabled": true
   },
   "330269": {
     "OriginalText": "リンデンドレスＧ",
-    "Text": ""
+    "Text": "Rinden Dress G",
+    "Enabled": true
   },
   "330270": {
     "OriginalText": "リンデンドレスＶ",
-    "Text": ""
+    "Text": "Rinden Dress V",
+    "Enabled": true
   },
   "330271": {
     "OriginalText": "リンデンドレスＢ",
-    "Text": ""
+    "Text": "Rinden Dress B",
+    "Enabled": true
   },
   "330272": {
     "OriginalText": "リンデンドレスＲ",
-    "Text": ""
+    "Text": "Rinden Dress R",
+    "Enabled": true
   },
   "330273": {
     "OriginalText": "リンデンドレスＹ",
-    "Text": ""
+    "Text": "Rinden Dress Y",
+    "Enabled": true
   },
   "330274": {
     "OriginalText": "ジュラハーネスＲ",
-    "Text": ""
+    "Text": "Jura Hanes R",
+    "Enabled": true
   },
   "330275": {
     "OriginalText": "ジュラハーネスＹ",
-    "Text": ""
+    "Text": "Jura Hanes Y",
+    "Enabled": true
   },
   "330276": {
     "OriginalText": "ジュラハーネスＯ",
-    "Text": ""
+    "Text": "Jura Hanes O",
+    "Enabled": true
   },
   "330277": {
     "OriginalText": "ジュラハーネスＫ",
-    "Text": ""
+    "Text": "Jura Hanes K",
+    "Enabled": true
   },
   "330278": {
     "OriginalText": "ジュラハーネスＷ",
-    "Text": ""
+    "Text": "Jura Hanes W",
+    "Enabled": true
   },
   "330279": {
     "OriginalText": "セクシースタイルＫ",
-    "Text": ""
+    "Text": "Sexy Style K",
+    "Enabled": true
   },
   "330280": {
     "OriginalText": "セクシースタイルＷ",
-    "Text": ""
+    "Text": "Sexy Style W",
+    "Enabled": true
   },
   "330281": {
     "OriginalText": "セクシースタイルＲ",
-    "Text": ""
+    "Text": "Sexy Style R",
+    "Enabled": true
   },
   "330282": {
     "OriginalText": "セクシースタイルＢ",
-    "Text": ""
+    "Text": "Sexy Style B",
+    "Enabled": true
   },
   "330283": {
     "OriginalText": "セクシースタイルＶ",
-    "Text": ""
+    "Text": "Sexy Style V",
+    "Enabled": true
   },
   "330284": {
     "OriginalText": "ラッピーミミクリＹ",
-    "Text": ""
+    "Text": "Rappy Mimicry Y",
+    "Enabled": true
   },
   "330285": {
     "OriginalText": "ラッピーミミクリＢ",
-    "Text": ""
+    "Text": "Rappy Mimicry B",
+    "Enabled": true
   },
   "330286": {
     "OriginalText": "ラッピーミミクリＰ",
-    "Text": ""
+    "Text": "Rappy Mimicry P",
+    "Enabled": true
   },
   "330287": {
     "OriginalText": "ラッピーミミクリＷ",
-    "Text": ""
+    "Text": "Rappy Mimicry W",
+    "Enabled": true
   },
   "330288": {
     "OriginalText": "ラッピーミミクリＫ",
-    "Text": ""
+    "Text": "Rappy Mimicry K",
+    "Enabled": true
   },
   "330289": {
     "OriginalText": "レスペダンクＶ",
-    "Text": ""
+    "Text": "Lespedank V",
+    "Enabled": true
   },
   "330290": {
     "OriginalText": "レスペダンクＧ",
-    "Text": ""
+    "Text": "Lespedank G",
+    "Enabled": true
   },
   "330291": {
     "OriginalText": "レスペダンクＲ",
-    "Text": ""
+    "Text": "Lespedank R",
+    "Enabled": true
   },
   "330292": {
     "OriginalText": "レスペダンクＢ",
-    "Text": ""
+    "Text": "Lespedank B",
+    "Enabled": true
   },
   "330293": {
     "OriginalText": "レスペダンクＰ",
-    "Text": ""
+    "Text": "Lespedank P",
+    "Enabled": true
   },
   "330294": {
     "OriginalText": "グラスフォーアネームＰ",
-    "Text": ""
+    "Text": "Grass Phorename P",
+    "Enabled": true
   },
   "330295": {
     "OriginalText": "グラスフォーアネームＹ",
-    "Text": ""
+    "Text": "Grass Phorename Y",
+    "Enabled": true
   },
   "330296": {
     "OriginalText": "グラスフォーアネームＢ",
-    "Text": ""
+    "Text": "Grass Phorename B",
+    "Enabled": true
   },
   "330297": {
     "OriginalText": "グラスフォーアネームＫ",
-    "Text": ""
+    "Text": "Grass Phorename K",
+    "Enabled": true
   },
   "330298": {
     "OriginalText": "グラスフォーアネームＶ",
-    "Text": ""
+    "Text": "Grass Phorename V",
+    "Enabled": true
   },
   "330299": {
     "OriginalText": "シャンプースタイル",
-    "Text": ""
+    "Text": "Shamp Style",
+    "Enabled": true
   },
   "330300": {
     "OriginalText": "ネームレススタイル",
-    "Text": ""
+    "Text": "Nameless Style",
+    "Enabled": true
   },
   "330301": {
     "OriginalText": "リエラ服",
-    "Text": ""
+    "Text": "Riela Clothes",
+    "Enabled": true
   },
   "330302": {
     "OriginalText": "イムカ服",
-    "Text": ""
+    "Text": "Imuka Clothes",
+    "Enabled": true
   },
   "330303": {
     "OriginalText": "セイル",
-    "Text": ""
+    "Text": "Sail",
+    "Enabled": true
   },
   "330304": {
     "OriginalText": "セイル：リペア",
-    "Text": ""
+    "Text": "Sail: Repair",
+    "Enabled": true
   },
   "330305": {
     "OriginalText": "レイヴァン",
-    "Text": ""
+    "Text": "Reven",
+    "Enabled": true
   },
   "330306": {
     "OriginalText": "レイヴァン：リペア",
-    "Text": ""
+    "Text": "Reven: Repair",
+    "Enabled": true
   },
   "330307": {
     "OriginalText": "カリスト",
-    "Text": ""
+    "Text": "Calisto",
+    "Enabled": true
   },
   "330308": {
     "OriginalText": "ヨミ",
-    "Text": ""
+    "Text": "Yomi",
+    "Enabled": true
   },
   "330309": {
     "OriginalText": "オルクス",
-    "Text": ""
+    "Text": "Orcus",
+    "Enabled": true
   },
   "330310": {
     "OriginalText": "マグナス",
-    "Text": ""
+    "Text": "Magnas",
+    "Enabled": true
   },
   "330311": {
     "OriginalText": "ルティナ",
-    "Text": ""
+    "Text": "Lutina",
+    "Enabled": true
   },
   "330312": {
     "OriginalText": "ルティナ：リペア",
-    "Text": ""
+    "Text": "Lutina: Repair",
+    "Enabled": true
   },
   "330313": {
     "OriginalText": "イズナ",
-    "Text": ""
+    "Text": "Izuna",
+    "Enabled": true
   },
   "330314": {
     "OriginalText": "イズナ：リペア",
-    "Text": ""
+    "Text": "Izuna: Repair",
+    "Enabled": true
   },
   "330315": {
     "OriginalText": "ユノ",
-    "Text": ""
+    "Text": "Juno",
+    "Enabled": true
   },
   "330316": {
     "OriginalText": "ユノ：ホログラム",
-    "Text": ""
+    "Text": "Juno: Hologram",
+    "Enabled": true
   },
   "330317": {
     "OriginalText": "ユノ：グランリンク状態",
-    "Text": ""
+    "Text": "Juno: Gran Link State",
+    "Enabled": true
   },
   "330318": {
     "OriginalText": "フィルディア",
-    "Text": ""
+    "Text": "Fildia",
+    "Enabled": true
   },
   "330319": {
     "OriginalText": "フィルディア：リペア",
-    "Text": ""
+    "Text": "Fildia: Repair",
+    "Enabled": true
   },
   "330320": {
     "OriginalText": "キサラ",
-    "Text": ""
+    "Text": "Kisara",
+    "Enabled": true
   },
   "330321": {
     "OriginalText": "キサラ：リペア",
-    "Text": ""
+    "Text": "Kisara: Repair",
+    "Enabled": true
   },
   "330322": {
     "OriginalText": "リーティア",
-    "Text": ""
+    "Text": "Rietheia",
+    "Enabled": true
   },
   "330323": {
     "OriginalText": "リーティア：リペア",
-    "Text": ""
+    "Text": "Rietheia: Repair",
+    "Enabled": true
   },
   "330324": {
     "OriginalText": "タイガーピアス破Ｗ",
-    "Text": ""
+    "Text": "Tiger Pierce W (Dam.)",
+    "Enabled": true
   },
   "330325": {
     "OriginalText": "タイガーピアス破Ｒ",
-    "Text": ""
+    "Text": "Tiger Pierce R (Dam.)",
+    "Enabled": true
   },
   "330326": {
     "OriginalText": "タイガーピアス破Ｙ",
-    "Text": ""
+    "Text": "Tiger Pierce Y (Dam.)",
+    "Enabled": true
   },
   "330327": {
     "OriginalText": "タイガーピアス破Ｂ",
-    "Text": ""
+    "Text": "Tiger Pierce B (Dam.)",
+    "Enabled": true
   },
   "330328": {
     "OriginalText": "キャンディークラウン破Ｂ",
-    "Text": ""
+    "Text": "Candy Crown B (Dam.)",
+    "Enabled": true
   },
   "330329": {
     "OriginalText": "キャンディークラウン破Ｋ",
-    "Text": ""
+    "Text": "Candy Crown K (Dam.)",
+    "Enabled": true
   },
   "330330": {
     "OriginalText": "キャンディークラウン破Ｇ",
-    "Text": ""
+    "Text": "Candy Crown G (Dam.)",
+    "Enabled": true
   },
   "330331": {
     "OriginalText": "キャンディークラウン破Ｐ",
-    "Text": ""
+    "Text": "Candy Crown P (Dam.)",
+    "Enabled": true
   },
   "330332": {
     "OriginalText": "ハートブレイカー破Ｒ",
-    "Text": ""
+    "Text": "Heart Breaker R (Dam.)",
+    "Enabled": true
   },
   "330333": {
     "OriginalText": "ハートブレイカー破Ｇ",
-    "Text": ""
+    "Text": "Heart Breaker G (Dam.)",
+    "Enabled": true
   },
   "330334": {
     "OriginalText": "ハートブレイカー破Ｗ",
-    "Text": ""
+    "Text": "Heart Breaker W (Dam.)",
+    "Enabled": true
   },
   "330335": {
     "OriginalText": "ハートブレイカー破Ｂ",
-    "Text": ""
+    "Text": "Heart Breaker B (Dam.)",
+    "Enabled": true
   },
   "330336": {
     "OriginalText": "ロニア・アーム破",
-    "Text": ""
+    "Text": "Ronia Arms (Dam.)",
+    "Enabled": true
   },
   "330337": {
     "OriginalText": "ディスタ・アーム破",
-    "Text": ""
+    "Text": "Dista Arms (Dam.)",
+    "Enabled": true
   },
   "330338": {
     "OriginalText": "ファウマ・アーム破",
-    "Text": ""
+    "Text": "Fauma Arms (Dam.)",
+    "Enabled": true
   },
   "330339": {
     "OriginalText": "アングリフ・アーム破",
-    "Text": ""
+    "Text": "Angriff Arms (Dam.)",
+    "Enabled": true
   },
   "330340": {
     "OriginalText": "コロッサス・アーム",
-    "Text": ""
+    "Text": "Colossus Arms",
+    "Enabled": true
   },
   "330341": {
     "OriginalText": "マギウス・アーム破",
-    "Text": ""
+    "Text": "Magius Arms (Dam.)",
+    "Enabled": true
   },
   "330342": {
     "OriginalText": "シェリフ・アーム破",
-    "Text": ""
+    "Text": "Sheriff Arms (Dam.)",
+    "Enabled": true
   },
   "330343": {
     "OriginalText": "バルドル・アーム",
-    "Text": ""
+    "Text": "Baldur Arms",
+    "Enabled": true
   },
   "330344": {
     "OriginalText": "ジョーカ・アーム",
-    "Text": ""
+    "Text": "Joker Arms",
+    "Enabled": true
   },
   "330345": {
     "OriginalText": "フィルフ・アーム破",
-    "Text": ""
+    "Text": "Filph Arms (Dam.)",
+    "Enabled": true
   },
   "330346": {
     "OriginalText": "ヒュリオン・アーム破",
-    "Text": ""
+    "Text": "Hyperion Arms (Dam.)",
+    "Enabled": true
   },
   "330347": {
     "OriginalText": "メルダー・アーム破ＣＶ",
-    "Text": ""
+    "Text": "Melder Arms CV (Dam.)",
+    "Enabled": true
   },
   "330348": {
     "OriginalText": "アラオ・アーム破",
-    "Text": ""
+    "Text": "Arao Arms (Dam.)",
+    "Enabled": true
   },
   "330349": {
     "OriginalText": "ゴルドオム・アーム",
-    "Text": ""
+    "Text": "Gold Om Arms",
+    "Enabled": true
   },
   "330350": {
     "OriginalText": "アグリ・アーム",
-    "Text": ""
+    "Text": "Agri Arms",
+    "Enabled": true
   },
   "330351": {
     "OriginalText": "ギオス・アーム",
-    "Text": ""
+    "Text": "Gios Arms",
+    "Enabled": true
   },
   "330352": {
     "OriginalText": "クリスト・アーム",
-    "Text": ""
+    "Text": "Culisto Arms",
+    "Enabled": true
   },
   "330353": {
     "OriginalText": "ノヴァオム・アーム",
-    "Text": ""
+    "Text": "Nova Om Arms",
+    "Enabled": true
   },
   "330354": {
     "OriginalText": "リヴェン・アーム",
-    "Text": ""
+    "Text": "Riven Arms",
+    "Enabled": true
   },
   "330355": {
     "OriginalText": "ジョーカ・アーム破",
-    "Text": ""
+    "Text": "Joker Arms (Dam.)",
+    "Enabled": true
   },
   "330356": {
     "OriginalText": "コロッサス・アーム破",
-    "Text": ""
+    "Text": "Colossus Arms (Dam.)",
+    "Enabled": true
   },
   "330357": {
     "OriginalText": "バルドル・アーム破",
-    "Text": ""
+    "Text": "Baldur Arms (Dam.)",
+    "Enabled": true
   },
   "330358": {
     "OriginalText": "ローズ・アーム破",
-    "Text": ""
+    "Text": "Rose Arms (Dam.)",
+    "Enabled": true
   },
   "330359": {
     "OriginalText": "ディール・アーム破",
-    "Text": ""
+    "Text": "Deal Arms (Dam.)",
+    "Enabled": true
   },
   "330360": {
     "OriginalText": "ファーネン・アーム破",
-    "Text": ""
+    "Text": "Fanen Arms (Dam.)",
+    "Enabled": true
   },
   "330361": {
     "OriginalText": "イオニア・アーム破",
-    "Text": ""
+    "Text": "Ionia Arms (Dam.)",
+    "Enabled": true
   },
   "330362": {
     "OriginalText": "ランクス・アーム",
-    "Text": ""
+    "Text": "Ranks Arms",
+    "Enabled": true
   },
   "330363": {
     "OriginalText": "イルシオン・アーム",
-    "Text": ""
+    "Text": "Illusion Arms",
+    "Enabled": true
   },
   "330364": {
     "OriginalText": "ワスプ・アーム破",
-    "Text": ""
+    "Text": "Wasp Arms (Dam.)",
+    "Enabled": true
   },
   "330365": {
     "OriginalText": "フリーゲン・アーム破",
-    "Text": ""
+    "Text": "Fliegen Arms (Dam.)",
+    "Enabled": true
   },
   "330366": {
     "OriginalText": "ラミア・アーム破",
-    "Text": ""
+    "Text": "Ramia Arms (Dam.)",
+    "Enabled": true
   },
   "330367": {
     "OriginalText": "グリース・アーム破",
-    "Text": ""
+    "Text": "Griss Arms (Dam.)",
+    "Enabled": true
   },
   "330368": {
     "OriginalText": "ケルビナ・アーム破",
-    "Text": ""
+    "Text": "Cherubina Arms (Dam.)",
+    "Enabled": true
   },
   "330369": {
     "OriginalText": "メディウム・アーム",
-    "Text": ""
+    "Text": "Medium Arms",
+    "Enabled": true
   },
   "330370": {
     "OriginalText": "ヘルマ・アーム破",
-    "Text": ""
+    "Text": "Helma Arms (Dam.)",
+    "Enabled": true
   },
   "330371": {
     "OriginalText": "ゴルドファム・アーム",
-    "Text": ""
+    "Text": "Gold Fam Arms",
+    "Enabled": true
   },
   "330372": {
     "OriginalText": "ガラテ・アーム",
-    "Text": ""
+    "Text": "Garate Arms",
+    "Enabled": true
   },
   "330373": {
     "OriginalText": "アルキ・アーム",
-    "Text": ""
+    "Text": "Alki Arms",
+    "Enabled": true
   },
   "330374": {
     "OriginalText": "ラビーソ・アーム",
-    "Text": ""
+    "Text": "Rabiso Arms",
+    "Enabled": true
   },
   "330375": {
     "OriginalText": "マーヴ・アーム",
-    "Text": ""
+    "Text": "Marv Arms",
+    "Enabled": true
   },
   "330376": {
     "OriginalText": "ノヴァファム・アーム",
-    "Text": ""
+    "Text": "Nova Fam Arms",
+    "Enabled": true
   },
   "330377": {
     "OriginalText": "ヒュペリオン・アーム",
-    "Text": ""
+    "Text": "Hyperion Arms",
+    "Enabled": true
   },
   "330378": {
     "OriginalText": "シャロン・アーム",
-    "Text": ""
+    "Text": "Sharon Arms",
+    "Enabled": true
   },
   "330379": {
     "OriginalText": "シャロン：リペア・アーム",
-    "Text": ""
+    "Text": "Sharon: Repair Arms",
+    "Enabled": true
   },
   "330380": {
     "OriginalText": "ランクス・アーム破",
-    "Text": ""
+    "Text": "Ranks Arms (Dam.)",
+    "Enabled": true
   },
   "330381": {
     "OriginalText": "メディウム・アーム破",
-    "Text": ""
+    "Text": "Medium Arms (Dam.)",
+    "Enabled": true
   },
   "330382": {
     "OriginalText": "イルシオン・アーム破",
-    "Text": ""
+    "Text": "Illusion Arms (Dam.)",
+    "Enabled": true
   },
   "330383": {
     "OriginalText": "ロニア・ボディ破",
-    "Text": ""
+    "Text": "Ronia Body (Dam.)",
+    "Enabled": true
   },
   "330384": {
     "OriginalText": "ディスタ・ボディ破",
-    "Text": ""
+    "Text": "Dista Body (Dam.)",
+    "Enabled": true
   },
   "330385": {
     "OriginalText": "ファウマ・ボディ破",
-    "Text": ""
+    "Text": "Fauma Body (Dam.)",
+    "Enabled": true
   },
   "330386": {
     "OriginalText": "アングリフ・ボディ破",
-    "Text": ""
+    "Text": "Angriff Body (Dam.)",
+    "Enabled": true
   },
   "330387": {
     "OriginalText": "コロッサス・ボディ",
-    "Text": ""
+    "Text": "Colossus Body",
+    "Enabled": true
   },
   "330388": {
     "OriginalText": "マギウス・ボディ破",
-    "Text": ""
+    "Text": "Magius Body (Dam.)",
+    "Enabled": true
   },
   "330389": {
     "OriginalText": "シェリフ・ボディ破",
-    "Text": ""
+    "Text": "Sheriff Body (Dam.)",
+    "Enabled": true
   },
   "330390": {
     "OriginalText": "バルドル・ボディ",
-    "Text": ""
+    "Text": "Baldur Body",
+    "Enabled": true
   },
   "330391": {
     "OriginalText": "ジョーカ・ボディ",
-    "Text": ""
+    "Text": "Joker Body",
+    "Enabled": true
   },
   "330392": {
     "OriginalText": "フィルフ・ボディ破",
-    "Text": ""
+    "Text": "Filph Body (Dam.)",
+    "Enabled": true
   },
   "330393": {
     "OriginalText": "ヒュリオン・ボディ破",
-    "Text": ""
+    "Text": "Hyperion Body (Dam.)",
+    "Enabled": true
   },
   "330394": {
     "OriginalText": "メルダー・ボディ破ＣＶ",
-    "Text": ""
+    "Text": "Melder Body CV (Dam.)",
+    "Enabled": true
   },
   "330395": {
     "OriginalText": "アラオ・ボディ破",
-    "Text": ""
+    "Text": "Arao Body (Dam.)",
+    "Enabled": true
   },
   "330396": {
     "OriginalText": "ゴルドオム・ボディ",
-    "Text": ""
+    "Text": "Gold Om Body",
+    "Enabled": true
   },
   "330397": {
     "OriginalText": "アグリ・ボディ",
-    "Text": ""
+    "Text": "Agri Body",
+    "Enabled": true
   },
   "330398": {
     "OriginalText": "ギオス・ボディ",
-    "Text": ""
+    "Text": "Gios Body",
+    "Enabled": true
   },
   "330399": {
     "OriginalText": "クリスト・ボディ",
-    "Text": ""
+    "Text": "Culisto Body",
+    "Enabled": true
   },
   "330400": {
     "OriginalText": "ノヴァオム・ボディ",
-    "Text": ""
+    "Text": "Nova Om Body",
+    "Enabled": true
   },
   "330401": {
     "OriginalText": "リヴェン・ボディ",
-    "Text": ""
+    "Text": "Riven Body",
+    "Enabled": true
   },
   "330402": {
     "OriginalText": "ジョーカ・ボディ破",
-    "Text": ""
+    "Text": "Joker Body (Dam.)",
+    "Enabled": true
   },
   "330403": {
     "OriginalText": "コロッサス・ボディ破",
-    "Text": ""
+    "Text": "Colossus Body (Dam.)",
+    "Enabled": true
   },
   "330404": {
     "OriginalText": "バルドル・ボディ破",
-    "Text": ""
+    "Text": "Baldur Body (Dam.)",
+    "Enabled": true
   },
   "330405": {
     "OriginalText": "ローズ・ボディ破",
-    "Text": ""
+    "Text": "Rose Body (Dam.)",
+    "Enabled": true
   },
   "330406": {
     "OriginalText": "ディール・ボディ破",
-    "Text": ""
+    "Text": "Deal Body (Dam.)",
+    "Enabled": true
   },
   "330407": {
     "OriginalText": "ファーネン・ボディ破",
-    "Text": ""
+    "Text": "Fanen Body (Dam.)",
+    "Enabled": true
   },
   "330408": {
     "OriginalText": "イオニア・ボディ破",
-    "Text": ""
+    "Text": "Ionia Body (Dam.)",
+    "Enabled": true
   },
   "330409": {
     "OriginalText": "ランクス・ボディ",
-    "Text": ""
+    "Text": "Ranks Body",
+    "Enabled": true
   },
   "330410": {
     "OriginalText": "イルシオン・ボディ",
-    "Text": ""
+    "Text": "Illusion Body",
+    "Enabled": true
   },
   "330411": {
     "OriginalText": "ワスプ・ボディ破",
-    "Text": ""
+    "Text": "Wasp Body (Dam.)",
+    "Enabled": true
   },
   "330412": {
     "OriginalText": "フリーゲン・ボディ破",
-    "Text": ""
+    "Text": "Fliegen Body (Dam.)",
+    "Enabled": true
   },
   "330413": {
     "OriginalText": "ラミア・ボディ破",
-    "Text": ""
+    "Text": "Ramia Body (Dam.)",
+    "Enabled": true
   },
   "330414": {
     "OriginalText": "グリース・ボディ破",
-    "Text": ""
+    "Text": "Griss Body (Dam.)",
+    "Enabled": true
   },
   "330415": {
     "OriginalText": "ケルビナ・ボディ破",
-    "Text": ""
+    "Text": "Cherubina Body (Dam.)",
+    "Enabled": true
   },
   "330416": {
     "OriginalText": "メディウム・ボディ",
-    "Text": ""
+    "Text": "Medium Body",
+    "Enabled": true
   },
   "330417": {
     "OriginalText": "ヘルマ・ボディ破",
-    "Text": ""
+    "Text": "Helma Body (Dam.)",
+    "Enabled": true
   },
   "330418": {
     "OriginalText": "ゴルドファム・ボディ",
-    "Text": ""
+    "Text": "Gold Fam Body",
+    "Enabled": true
   },
   "330419": {
     "OriginalText": "ガラテ・ボディ",
-    "Text": ""
+    "Text": "Garate Body",
+    "Enabled": true
   },
   "330420": {
     "OriginalText": "アルキ・ボディ",
-    "Text": ""
+    "Text": "Alki Body",
+    "Enabled": true
   },
   "330421": {
     "OriginalText": "ラビーソ・ボディ",
-    "Text": ""
+    "Text": "Rabiso Body",
+    "Enabled": true
   },
   "330422": {
     "OriginalText": "マーヴ・ボディ",
-    "Text": ""
+    "Text": "Marv Body",
+    "Enabled": true
   },
   "330423": {
     "OriginalText": "ノヴァファム・ボディ",
-    "Text": ""
+    "Text": "Nova Fam Body",
+    "Enabled": true
   },
   "330424": {
     "OriginalText": "ヒュペリオン・ボディ",
-    "Text": ""
+    "Text": "Hyperion Body",
+    "Enabled": true
   },
   "330425": {
     "OriginalText": "シャロン・ボディ",
-    "Text": ""
+    "Text": "Sharon Body",
+    "Enabled": true
   },
   "330426": {
     "OriginalText": "シャロン：リペア・ボディ",
-    "Text": ""
+    "Text": "Sharon: Repair Body",
+    "Enabled": true
   },
   "330427": {
     "OriginalText": "ランクス・ボディ破",
-    "Text": ""
+    "Text": "Ranks Body (Dam.)",
+    "Enabled": true
   },
   "330428": {
     "OriginalText": "メディウム・ボディ破",
-    "Text": ""
+    "Text": "Medium Body (Dam.)",
+    "Enabled": true
   },
   "330429": {
     "OriginalText": "イルシオン・ボディ破",
-    "Text": ""
+    "Text": "Illusion Body (Dam.)",
+    "Enabled": true
   },
   "330430": {
     "OriginalText": "ロニア・レッグ破",
-    "Text": ""
+    "Text": "Ronia Legs (Dam.)",
+    "Enabled": true
   },
   "330431": {
     "OriginalText": "ディスタ・レッグ破",
-    "Text": ""
+    "Text": "Dista Legs (Dam.)",
+    "Enabled": true
   },
   "330432": {
     "OriginalText": "ファウマ・レッグ破",
-    "Text": ""
+    "Text": "Fauma Legs (Dam.)",
+    "Enabled": true
   },
   "330433": {
     "OriginalText": "アングリフ・レッグ破",
-    "Text": ""
+    "Text": "Angriff Legs (Dam.)",
+    "Enabled": true
   },
   "330434": {
     "OriginalText": "コロッサス・レッグ",
-    "Text": ""
+    "Text": "Colossus Legs",
+    "Enabled": true
   },
   "330435": {
     "OriginalText": "マギウス・レッグ破",
-    "Text": ""
+    "Text": "Magius Legs (Dam.)",
+    "Enabled": true
   },
   "330436": {
     "OriginalText": "シェリフ・レッグ破",
-    "Text": ""
+    "Text": "Sheriff Legs (Dam.)",
+    "Enabled": true
   },
   "330437": {
     "OriginalText": "バルドル・レッグ",
-    "Text": ""
+    "Text": "Baldur Legs",
+    "Enabled": true
   },
   "330438": {
     "OriginalText": "ジョーカ・レッグ",
-    "Text": ""
+    "Text": "Joker Legs",
+    "Enabled": true
   },
   "330439": {
     "OriginalText": "フィルフ・レッグ破",
-    "Text": ""
+    "Text": "Filph Legs (Dam.)",
+    "Enabled": true
   },
   "330440": {
     "OriginalText": "ヒュリオン・レッグ破",
-    "Text": ""
+    "Text": "Hyperion Legs (Dam.)",
+    "Enabled": true
   },
   "330441": {
     "OriginalText": "メルダー・レッグ破ＣＶ",
-    "Text": ""
+    "Text": "Melder Legs CV (Dam.)",
+    "Enabled": true
   },
   "330442": {
     "OriginalText": "アラオ・レッグ破",
-    "Text": ""
+    "Text": "Arao Legs (Dam.)",
+    "Enabled": true
   },
   "330443": {
     "OriginalText": "ゴルドオム・レッグ",
-    "Text": ""
+    "Text": "Gold Om Leegs",
+    "Enabled": true
   },
   "330444": {
     "OriginalText": "アグリ・レッグ",
-    "Text": ""
+    "Text": "Aguri Legs",
+    "Enabled": true
   },
   "330445": {
     "OriginalText": "ギオス・レッグ",
-    "Text": ""
+    "Text": "Gios Legs",
+    "Enabled": true
   },
   "330446": {
     "OriginalText": "クリスト・レッグ",
-    "Text": ""
+    "Text": "Culisto Legs",
+    "Enabled": true
   },
   "330447": {
     "OriginalText": "ノヴァオム・レッグ",
-    "Text": ""
+    "Text": "Nova Om Legs",
+    "Enabled": true
   },
   "330448": {
     "OriginalText": "リヴェン・レッグ",
-    "Text": ""
+    "Text": "Riven Legs",
+    "Enabled": true
   },
   "330449": {
     "OriginalText": "ジョーカ・レッグ破",
-    "Text": ""
+    "Text": "Joker Legs (Dam.)",
+    "Enabled": true
   },
   "330450": {
     "OriginalText": "コロッサス・レッグ破",
-    "Text": ""
+    "Text": "Colossus Legs (Dam.)",
+    "Enabled": true
   },
   "330451": {
     "OriginalText": "バルドル・レッグ破",
-    "Text": ""
+    "Text": "Baldur Legs (Dam.)",
+    "Enabled": true
   },
   "330452": {
     "OriginalText": "ローズ・レッグ破",
-    "Text": ""
+    "Text": "Rose Legs (Dam.)",
+    "Enabled": true
   },
   "330453": {
     "OriginalText": "ディール・レッグ破",
-    "Text": ""
+    "Text": "Deal Legs (Dam.)",
+    "Enabled": true
   },
   "330454": {
     "OriginalText": "ファーネン・レッグ破",
-    "Text": ""
+    "Text": "Fanen Legs (Dam.)",
+    "Enabled": true
   },
   "330455": {
     "OriginalText": "イオニア・レッグ破",
-    "Text": ""
+    "Text": "Ionia Legs (Dam.)",
+    "Enabled": true
   },
   "330456": {
     "OriginalText": "ランクス・レッグ",
-    "Text": ""
+    "Text": "Ranks Legs",
+    "Enabled": true
   },
   "330457": {
     "OriginalText": "イルシオン・レッグ",
-    "Text": ""
+    "Text": "Illusion Legs",
+    "Enabled": true
   },
   "330458": {
     "OriginalText": "ワスプ・レッグ破",
-    "Text": ""
+    "Text": "Wasp Legs (Dam.)",
+    "Enabled": true
   },
   "330459": {
     "OriginalText": "フリーゲン・レッグ破",
-    "Text": ""
+    "Text": "Fliegen Legs (Dam.)",
+    "Enabled": true
   },
   "330460": {
     "OriginalText": "ラミア・レッグ破",
-    "Text": ""
+    "Text": "Ramia Legs (Dam.)",
+    "Enabled": true
   },
   "330461": {
     "OriginalText": "グリース・レッグ破",
-    "Text": ""
+    "Text": "Griss Legs (Dam.)",
+    "Enabled": true
   },
   "330462": {
     "OriginalText": "ケルビナ・レッグ破",
-    "Text": ""
+    "Text": "Cherubina Legs (Dam.)",
+    "Enabled": true
   },
   "330463": {
     "OriginalText": "メディウム・レッグ",
-    "Text": ""
+    "Text": "Medium Legs",
+    "Enabled": true
   },
   "330464": {
     "OriginalText": "ヘルマ・レッグ破",
-    "Text": ""
+    "Text": "Helma Legs (Dam.)",
+    "Enabled": true
   },
   "330465": {
     "OriginalText": "ゴルドファム・レッグ",
-    "Text": ""
+    "Text": "Gold Fam Legs",
+    "Enabled": true
   },
   "330466": {
     "OriginalText": "ガラテ・レッグ",
-    "Text": ""
+    "Text": "Garate Legs",
+    "Enabled": true
   },
   "330467": {
     "OriginalText": "アルキ・レッグ",
-    "Text": ""
+    "Text": "Alki Legs",
+    "Enabled": true
   },
   "330468": {
     "OriginalText": "ラビーソ・レッグ",
-    "Text": ""
+    "Text": "Rabeeso Legs",
+    "Enabled": true
   },
   "330469": {
     "OriginalText": "マーヴ・レッグ",
-    "Text": ""
+    "Text": "Marv Legs",
+    "Enabled": true
   },
   "330470": {
     "OriginalText": "ノヴァファム・レッグ",
-    "Text": ""
+    "Text": "Nova Fam Legs",
+    "Enabled": true
   },
   "330471": {
     "OriginalText": "ヒュペリオン・レッグ",
-    "Text": ""
+    "Text": "Hyperion Legs",
+    "Enabled": true
   },
   "330472": {
     "OriginalText": "シャロン・レッグ",
-    "Text": ""
+    "Text": "Sharon Legs",
+    "Enabled": true
   },
   "330473": {
     "OriginalText": "シャロン：リペア・レッグ",
-    "Text": ""
+    "Text": "Sharon: Repair Legs",
+    "Enabled": true
   },
   "330474": {
     "OriginalText": "ランクス・レッグ破",
-    "Text": ""
+    "Text": "Ranks Legs (Dam.)",
+    "Enabled": true
   },
   "330475": {
     "OriginalText": "メディウム・レッグ破",
-    "Text": ""
+    "Text": "Medium Legs (Dam.)",
+    "Enabled": true
   },
   "330476": {
     "OriginalText": "イルシオン・レッグ破",
-    "Text": ""
+    "Text": "Illusion Legs (Dam.)",
+    "Enabled": true
   },
   "330477": {
     "OriginalText": "ヴィテスシュタルクW",
-    "Text": ""
+    "Text": "Vites Schtark W",
+    "Enabled": true
   },
   "330478": {
     "OriginalText": "グラスフォーアネームG",
-    "Text": ""
+    "Text": "Grass Phorename G",
+    "Enabled": true
   },
