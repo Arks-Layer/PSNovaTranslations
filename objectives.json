@@ -37,7 +37,8 @@
   },
   "210008": {
     "OriginalText": "シードギオス討伐",
-    "Text": ""
+    "Text": "Subdue Shidogiosu"
+    "Enabled": true
   },
   "210009": {
     "OriginalText": "ヴィバレダイナス討伐",
@@ -50,15 +51,18 @@
   },
   "210011": {
     "OriginalText": "時間内に目標を達成せよ",
-    "Text": ""
+    "Text": "Complete the goal in the alloted time!"
+    "Enabled": true
   },
   "210012": {
     "OriginalText": "ネメスガイスト討伐",
-    "Text": ""
+    "Text": "Subdue Nemesugaisuto!"
+    "Enabled": true
   },
   "210013": {
     "OriginalText": "レイヴガイスト討伐",
-    "Text": ""
+    "Text": "Subdue Reivuagisuto!"
+    "Enabled": true
   },
   "210014": {
     "OriginalText": "時間まで敵を倒しまくれ",
@@ -66,11 +70,13 @@
   },
   "210015": {
     "OriginalText": "ファンアフォル討伐",
-    "Text": ""
+    "Text": "Subdue Huanahuoru!"
+    "Enabled": true
   },
   "210016": {
     "OriginalText": "ウィルアフォル討伐",
-    "Text": ""
+    "Text": "Subdue Uiruahuoru!"
+    "Enabled": true
   },
   "210017": {
     "OriginalText": "アルテイオス討伐",
