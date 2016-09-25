@@ -11,7 +11,7 @@ for files in json_files:
         try:
             l = []
             l.append('{')
-            l.append(json_file.read()[2:-2])
+            l.append(json_file.read()[2:-3])
             l.append('}')
             s = ''.join(l)
             simplejson.loads(s)
