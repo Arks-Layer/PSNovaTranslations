@@ -1,47 +1,47 @@
 
   "50000": {
     "OriginalText": "打撃力アップⅠ",
-    "Text": "S-ATK Up 1",
+    "Text": "S-ATK Up I",
     "Enabled": true
   },
-  "50001": {
+  "5000I": {
     "OriginalText": "打撃力アップⅡ",
-    "Text": "S-ATK Up 2",
+    "Text": "S-ATK Up II",
     "Enabled": true
   },
-  "50002": {
+  "5000II": {
     "OriginalText": "打撃力アップⅢ",
-    "Text": "S-ATK Up 3",
+    "Text": "S-ATK Up III",
     "Enabled": true
   },
-  "50003": {
+  "5000III": {
     "OriginalText": "打撃防御アップⅠ",
-    "Text": "S-DEF Up 1",
+    "Text": "S-DEF Up I",
     "Enabled": true
   },
-  "50004": {
+  "5000IV": {
     "OriginalText": "打撃防御アップⅡ",
-    "Text": "S-DEF Up 2",
+    "Text": "S-DEF Up II",
     "Enabled": true
   },
-  "50005": {
+  "5000V": {
     "OriginalText": "打撃防御アップⅢ",
-    "Text": "S-DEF Up 3",
+    "Text": "S-DEF Up III",
     "Enabled": true
   },
   "50006": {
     "OriginalText": "ＨＰアップⅠ",
-    "Text": "HP Up 1",
+    "Text": "HP Up I",
     "Enabled": true
   },
   "50007": {
     "OriginalText": "ＨＰアップⅡ",
-    "Text": "HP Up 2",
+    "Text": "HP Up II",
     "Enabled": true
   },
   "50008": {
     "OriginalText": "ＨＰアップⅢ",
-    "Text": "HP Up 3",
+    "Text": "HP Up III",
     "Enabled": true
   },
   "50009": {
@@ -54,27 +54,27 @@
     "Text": "Just Guard",
     "Enabled": true
   },
-  "50011": {
+  "5001I": {
     "OriginalText": "フューリースタンス",
     "Text": "Fury Stance",
     "Enabled": true
   },
-  "50012": {
+  "5001II": {
     "OriginalText": "ガードスタンス",
     "Text": "Guard Stance",
     "Enabled": true
   },
-  "50013": {
+  "5001III": {
     "OriginalText": "アイアン・ウィル",
     "Text": "Iron Will",
     "Enabled": true
   },
-  "50014": {
+  "5001IV": {
     "OriginalText": "フラッシュガード",
     "Text": "Flash Guard",
     "Enabled": true
   },
-  "50015": {
+  "5001V": {
     "OriginalText": "ステップ",
     "Text": "Step",
     "Enabled": true
@@ -104,27 +104,27 @@
     "Text": "Weapon Equip: Sword",
     "Enabled": true
   },
-  "50021": {
+  "5002I": {
     "OriginalText": "武器伝備パルチザン",
     "Text": "Weapon Equip: Partisan",
     "Enabled": true
   },
-  "50022": {
+  "5002II": {
     "OriginalText": "武器伝備ダブルセイバー",
     "Text": "Weapon Equip: Double Saber",
     "Enabled": true
   },
-  "50023": {
+  "5002III": {
     "OriginalText": "武器伝備ナックル",
     "Text": "Weapon Equip: Knuckles",
     "Enabled": true
   },
-  "50024": {
+  "5002IV": {
     "OriginalText": "ジャストアタックボーナス",
     "Text": "Just Attack Bonus",
     "Enabled": true
   },
-  "50025": {
+  "5002V": {
     "OriginalText": "オートメイト",
     "Text": "Automate",
 	"Enabled": true
@@ -146,106 +146,106 @@
   },
   "50029": {
     "OriginalText": "打撃力アップⅤ",
-    "Text": "S-ATK Up 5",
+    "Text": "S-ATK Up V",
     "Enabled": true
   },
   "50030": {
     "OriginalText": "打撃防御アップⅣ",
-    "Text": "S-DEF UP 4",
+    "Text": "S-DEF UP IV",
     "Enabled": true
   },
-  "50031": {
+  "5003I": {
     "OriginalText": "打撃防御アップⅤ",
-    "Text": "S-DEF UP 5",
+    "Text": "S-DEF UP V",
     "Enabled": true
   },
-  "50032": {
+  "5003II": {
     "OriginalText": "ＨＰアップⅣ",
-    "Text": "HP Up 4",
+    "Text": "HP Up IV",
     "Enabled": true
   },
-  "50033": {
+  "5003III": {
     "OriginalText": "ＨＰアップⅤ",
-    "Text": "HP Up 5",
+    "Text": "HP Up V",
     "Enabled": true
   },
-  "50034": {
+  "5003IV": {
     "OriginalText": "スティール・ウィル",
     "Text": "Steel Will",
 	"Enabled": true
   },
-  "50035": {
+  "5003V": {
     "OriginalText": "技量アップⅠ",
-    "Text": "DEX UP 1",
+    "Text": "DEX UP I",
     "Enabled": true
   },
   "50036": {
     "OriginalText": "技量アップⅡ",
-    "Text": "DEX UP 2",
+    "Text": "DEX UP II",
     "Enabled": true
   },
   "50037": {
     "OriginalText": "技量アップⅢ",
-    "Text": "DEX UP 3",
+    "Text": "DEX UP III",
     "Enabled": true
   },
   "50038": {
     "OriginalText": "フューリーSアップ２",
-    "Text": "Fury S Up 2",
+    "Text": "Fury S Up II",
 	"Enabled": true
   },
   "50039": {
     "OriginalText": "ウォークライ２",
-    "Text": "War Cry 2",
+    "Text": "War Cry II",
 	"Enabled": true
   },
   "50040": {
     "OriginalText": "",
     "Text": ""
   },
-  "50051": {
+  "5005I": {
     "OriginalText": "射撃力アップⅠ",
-    "Text": "R-ATK UP 1",
+    "Text": "R-ATK UP I",
     "Enabled": true
   },
-  "50052": {
+  "5005II": {
     "OriginalText": "射撃力アップⅡ",
-    "Text": "R-ATK UP 2",
+    "Text": "R-ATK UP II",
     "Enabled": true
   },
-  "50053": {
+  "5005III": {
     "OriginalText": "射撃力アップⅢ",
-    "Text": "R-ATK UP 3",
+    "Text": "R-ATK UP III",
     "Enabled": true
   },
-  "50054": {
+  "5005IV": {
     "OriginalText": "技量アップⅠ",
-    "Text": "DEX UP 1",
+    "Text": "DEX UP I",
     "Enabled": true
   },
-  "50055": {
+  "5005V": {
     "OriginalText": "技量アップⅡ",
-    "Text": "DEX UP 2",
+    "Text": "DEX UP II",
     "Enabled": true
   },
   "50056": {
     "OriginalText": "技量アップⅢ",
-    "Text": "DEX UP 3",
+    "Text": "DEX UP III",
     "Enabled": true
   },
   "50057": {
     "OriginalText": "射撃防御アップⅠ",
-    "Text": "R-DEF UP 1",
+    "Text": "R-DEF UP I",
     "Enabled": true
   },
   "50058": {
     "OriginalText": "射撃防御アップⅡ",
-    "Text": "R-DEF UP 2",
+    "Text": "R-DEF UP II",
     "Enabled": true
   },
   "50059": {
     "OriginalText": "射撃防御アップⅢ",
-    "Text": "R-DEF UP 3",
+    "Text": "R-DEF UP III",
     "Enabled": true
   },
   "50060": {
@@ -253,27 +253,27 @@
     "Text": "Weak Hit Advance",
     "Enabled": true
   },
-  "50061": {
+  "5006I": {
     "OriginalText": "スタンディングスナイプ",
     "Text": "Standing Snipe",
     "Enabled": true
   },
-  "50062": {
+  "5006II": {
     "OriginalText": "ＧＰセイブマガジン",
     "Text": "GP Save Magazine",
     "Enabled": true
   },
-  "50063": {
+  "5006III": {
     "OriginalText": "ピンヘッドスナイプ",
     "Text": "Pinhead Snipe",
     "Enabled": true
   },
-  "50064": {
+  "5006IV": {
     "OriginalText": "ガンスリンガー",
     "Text": "Gunslinger",
 	"Enabled": true
   },
-  "50065": {
+  "5006V": {
     "OriginalText": "ライアットシフト",
     "Text": "Riot Shift",
     "Enabled": true
@@ -303,27 +303,27 @@
     "Text": "Zero Range Advance",
     "Enabled": true
   },
-  "50071": {
+  "5007I": {
     "OriginalText": "エアリアルアドバンス",
     "Text": "Aerial Advance",
     "Enabled": true
   },
-  "50072": {
+  "5007II": {
     "OriginalText": "武器伝備アサルトライフル",
     "Text": "Weapon Equip: Assault Rifle",
     "Enabled": true
   },
-  "50073": {
+  "5007III": {
     "OriginalText": "武器伝備ツインマシンガン",
     "Text": "Weapon Equip: Twin Machine Gun",
     "Enabled": true
   },
-  "50074": {
+  "5007IV": {
     "OriginalText": "スタイリッシュロール",
     "Text": "Stylish Roll",
     "Enabled": true
   },
-  "50075": {
+  "5007V": {
     "OriginalText": "ロールアップ",
     "Text": "Roll UP",
     "Enabled": true
@@ -345,35 +345,35 @@
   },
   "50079": {
     "OriginalText": "射撃力アップⅣ",
-    "Text": "R-ATK UP 4",
+    "Text": "R-ATK UP IV",
     "Enabled": true
   },
   "50080": {
     "OriginalText": "射撃力アップⅤ",
-    "Text": "R-ATK UP 5",
+    "Text": "R-ATK UP V",
     "Enabled": true
   },
-  "50081": {
+  "5008I": {
     "OriginalText": "技量アップⅣ",
-    "Text": "DEX UP 4",
+    "Text": "DEX UP IV",
     "Enabled": true
   },
-  "50082": {
+  "5008II": {
     "OriginalText": "技量アップⅤ",
-    "Text": "DEX UP 5",
+    "Text": "DEX UP V",
     "Enabled": true
   },
-  "50083": {
+  "5008III": {
     "OriginalText": "射撃防御アップⅣ",
-    "Text": "R-DEF UP 4",
+    "Text": "R-DEF UP IV",
     "Enabled": true
   },
-  "50084": {
+  "5008IV": {
     "OriginalText": "射撃防御アップⅤ",
-    "Text": "R-DEF UP 5",
+    "Text": "R-DEF UP V",
     "Enabled": true
   },
-  "50085": {
+  "5008V": {
     "OriginalText": "ピンヘッドスナイプ",
     "Text": "Pinhead Snipe",
     "Enabled": true
@@ -385,49 +385,49 @@
   },
   "50087": {
     "OriginalText": "ＧＰセイブマガジン２",
-    "Text": "GP Save Magazine 2",
+    "Text": "GP Save Magazine II",
     "Enabled": true
   },
   "50088": {
     "OriginalText": "ウィークヒットアドバンス２",
-    "Text": " Weak Hit Advance 2",
+    "Text": " Weak Hit Advance II",
     "Enabled": true
   },
   "50089": {
     "OriginalText": "スタンディングスナイプ２",
-    "Text": "Standing Snipe 2",
+    "Text": "Standing Snipe II",
     "Enabled": true
   },
   "50090": {
     "OriginalText": "パワーマガジン２",
-    "Text": "Power Magazine 2",
+    "Text": "Power Magazine II",
     "Enabled": true
   },
-  "50091": {
+  "5009I": {
     "OriginalText": "",
     "Text": ""
   },
-  "50101": {
+  "5010I": {
     "OriginalText": "法撃力アップⅠ",
-    "Text": "T-ATK UP 1",
+    "Text": "T-ATK UP I",
     "Enabled": true
   },
-  "50102": {
+  "5010II": {
     "OriginalText": "法撃力アップⅡ",
-    "Text": "T-ATK UP 2",
+    "Text": "T-ATK UP II",
     "Enabled": true
   },
-  "50103": {
+  "5010III": {
     "OriginalText": "法撃力アップⅢ",
-    "Text": "T-ATK UP 3",
+    "Text": "T-ATK UP III",
     "Enabled": true
   },
-  "50104": {
+  "5010IV": {
     "OriginalText": "エレメントウィークヒット",
     "Text": "Elemental Weak Hit",
     "Enabled": true
   },
-  "50105": {
+  "5010V": {
     "OriginalText": "チャージＧＰリバイバル",
     "Text": " Charge GP Revival",
     "Enabled": true
@@ -457,27 +457,27 @@
     "Text": "Dark Mastery",
     "Enabled": true
   },
-  "50111": {
+  "5011I": {
     "OriginalText": "ライトマスタリー",
     "Text": "Light Mastery",
     "Enabled": true
   },
-  "50112": {
+  "5011II": {
     "OriginalText": "ウィンドマスタリー",
     "Text": "Wind Mastery",
     "Enabled": true
   },
-  "50113": {
+  "5011III": {
     "OriginalText": "炎属性ダウン",
     "Text": "Fire Resist Down",
     "Enabled": true
   },
-  "50114": {
+  "5011IV": {
     "OriginalText": "劇属性ダウン",
     "Text": "Ice Resist Down",
     "Enabled": true
   },
-  "50115": {
+  "5011V": {
     "OriginalText": "雷属性ダウン",
     "Text": "Lighting Resist Down",
     "Enabled": true
@@ -507,27 +507,27 @@
     "Text": "Weapon Equip: Rod",
     "Enabled": true
   },
-  "50121": {
+  "5012I": {
     "OriginalText": "武器伝備タリス",
     "Text": "Weapon Equip: Talis",
     "Enabled": true
   },
-  "50122": {
+  "5012II": {
     "OriginalText": "武器伝備ウォンド",
     "Text": "Weapon Equip: Wand",
     "Enabled": true
   },
-  "50123": {
+  "5012III": {
     "OriginalText": "シフタアドバンス",
     "Text": "Tech Advance",
     "Enabled": true
   },
-  "50124": {
+  "5012IV": {
     "OriginalText": "デバンドアドバンス",
     "Text": "Deband Advance",
 	"Enabled": true
   },
-  "50125": {
+  "5012V": {
     "OriginalText": "テクニック使用",
     "Text": "Technic Usage",
     "Enabled": true
@@ -549,89 +549,89 @@
   },
   "50129": {
     "OriginalText": "法撃力アップⅣ",
-    "Text": "T-ATK UP 4",
+    "Text": "T-ATK UP IV",
     "Enabled": true
   },
   "50130": {
     "OriginalText": "法撃力アップⅤ",
-    "Text": "T-ATK UP 5",
+    "Text": "T-ATK UP V",
     "Enabled": true
   },
-  "50131": {
+  "5013I": {
     "OriginalText": "テックアドバンス２",
-    "Text": "Tech Advance 2",
+    "Text": "Tech Advance II",
     "Enabled": true
   },
-  "50132": {
+  "5013II": {
     "OriginalText": "フレイムマスタリー２",
-    "Text": "Flame Mastery 2",
+    "Text": "Flame Mastery II",
     "Enabled": true
   },
-  "50133": {
+  "5013III": {
     "OriginalText": "アイスマスタリー２",
-    "Text": "Ice Mastery 2",
+    "Text": "Ice Mastery II",
     "Enabled": true
   },
-  "50134": {
+  "5013IV": {
     "OriginalText": "サンダーマスタリー２",
-    "Text": "Thunder Mastery 2",
+    "Text": "Thunder Mastery II",
     "Enabled": true
   },
-  "50135": {
+  "5013V": {
     "OriginalText": "ダークマスタリー２",
-    "Text": "Dark Mastery 2",
+    "Text": "Dark Mastery II",
     "Enabled": true
   },
   "50136": {
     "OriginalText": "ライトマスタリー２",
-    "Text": "Light Mastery 2",
+    "Text": "Light Mastery II",
     "Enabled": true
   },
   "50137": {
     "OriginalText": "ウィンドマスタリー２",
-    "Text": "Wind Mastery 2",
+    "Text": "Wind Mastery II",
     "Enabled": true
   },
   "50138": {
     "OriginalText": "テックアドバンス２",
-    "Text": "Tech Advance 2",
+    "Text": "Tech Advance II",
     "Enabled": true
   },
   "50139": {
     "OriginalText": "エレメントウィークヒット２",
-    "Text": "Elemental Weak Hit 2",
+    "Text": "Elemental Weak Hit II",
     "Enabled": true
   },
   "50140": {
     "OriginalText": "スタンアドバンス２",
-    "Text": "Stun Advance 2",
+    "Text": "Stun Advance II",
     "Enabled": true
   },
-  "50141": {
+  "5014I": {
     "OriginalText": "",
     "Text": ""
   },
-  "50151": {
+  "5015I": {
     "OriginalText": "法撃防御アップⅠ",
     "Text": "T-DEF UP I",
     "Enabled": true
   },
-  "50152": {
+  "5015II": {
     "OriginalText": "法撃防御アップⅡ",
     "Text": "T-DEF UP II",
     "Enabled": true
   },
-  "50153": {
+  "5015III": {
     "OriginalText": "法撃防御アップⅢ",
     "Text": "T-DEF UP III",
     "Enabled": true
   },
-  "50154": {
+  "5015IV": {
     "OriginalText": "ＧＰアップⅠ",
     "Text": "GP UP I",
     "Enabled": true
   },
-  "50155": {
+  "5015V": {
     "OriginalText": "ＧＰアップⅡ",
     "Text": "GP UP II",
     "Enabled": true
@@ -661,27 +661,27 @@
     "Text": "GP Restorate",
     "Enabled": true
   },
-  "50161": {
+  "5016I": {
     "OriginalText": "ＧＰバースト",
     "Text": "GP Burst",
     "Enabled": true
   },
-  "50162": {
+  "5016II": {
     "OriginalText": "チェイスアドバンス",
     "Text": "Chase Advance",
     "Enabled": true
   },
-  "50163": {
+  "5016III": {
     "OriginalText": "テックＬチャージ",
     "Text": "Tech L Charge",
     "Enabled": true
   },
-  "50164": {
+  "5016IV": {
     "OriginalText": "テックSチャージ",
     "Text": "Tech S Charge",
     "Enabled": true
   },
-  "50165": {
+  "5016V": {
     "OriginalText": "ジャストリバーサル",
     "Text": "Just Reversal",
     "Enabled": true
@@ -711,27 +711,27 @@
     "Text": "Anti Infection",
     "Enabled": true
   },
-  "50171": {
+  "5017I": {
     "OriginalText": "アンチブラインド",
     "Text": "Anti-Blind",
     "Enabled": true
   },
-  "50172": {
+  "5017II": {
     "OriginalText": "アンチグラン中毒",
     "Text": "Anti-Gran Poisoning",
     "Enabled": true
   },
-  "50173": {
+  "5017III": {
     "OriginalText": "武器伝備パイル",
     "Text": "Weapon Equip: Piles",
     "Enabled": true
   },
-  "50174": {
+  "5017IV": {
     "OriginalText": "武器伝備ヘイロウ",
     "Text": "Weapon Equip: Halos",
     "Enabled": true
   },
-  "50175": {
+  "5017V": {
     "OriginalText": "ハーフラインスレイヤー",
     "Text": "Halfline Slayer",
     "Enabled": true
@@ -760,39 +760,39 @@
     "Text": "Quick Weapon Switch Below",
     "Enabled": true
   },
-  "50181": {
+  "5018I": {
     "OriginalText": "ハーフラインスレイヤー２",
-    "Text": "Halfline Slayer 2",
+    "Text": "Halfline Slayer II",
 	"Enabled": true
   },
-  "50182": {
+  "5018II": {
     "OriginalText": "法撃防御アップⅣ",
     "Text": "T-Def IV",
     "Enabled": true
   },
-  "50183": {
+  "5018III": {
     "OriginalText": "法撃防御アップⅤ",
     "Text": "T-Def V",
     "Enabled": true
   },
-  "50184": {
+  "5018IV": {
     "OriginalText": "ＧＰアップⅣ",
     "Text": "GP UP IV",
     "Enabled": true
   },
-  "50185": {
+  "5018V": {
     "OriginalText": "ＧＰアップⅤ",
     "Text": "GP UP V",
     "Enabled": true
   },
   "50186": {
     "OriginalText": "チェイスアドバンス２",
-    "Text": "Chase Advance 2",
+    "Text": "Chase Advance II",
     "Enabled": true
   },
   "50187": {
     "OriginalText": "ＧＰスレイヤー２",
-    "Text": "GP Slayer 2",
+    "Text": "GP Slayer II",
     "Enabled": true
   },
   "50188": {
@@ -802,53 +802,53 @@
   },
   "50189": {
     "OriginalText": "ＧＰバースト２",
-    "Text": "GP Burst 2",
+    "Text": "GP Burst II",
     "Enabled": true
   },
   "50190": {
     "OriginalText": "テックＬチャージ２",
-    "Text": "Tech L Charge 2",
+    "Text": "Tech L Charge II",
     "Enabled": true
   },
-  "50191": {
+  "5019I": {
     "OriginalText": "テックSチャージ２",
-    "Text": "Tech S Charge 2",
+    "Text": "Tech S Charge II",
     "Enabled": true
   },
-  "50192": {
+  "5019II": {
     "OriginalText": "デッドラインスレイヤー",
     "Text": "Deadline Slayer",
 	"Enabled": true
   },
-  "50193": {
+  "5019III": {
     "OriginalText": "満用リングフィールド",
     "Text": ""
   },
-  "50194": {
+  "5019IV": {
     "OriginalText": "攻撃力アップ",
     "Text": ""
   },
-  "50201": {
+  "5020I": {
     "OriginalText": "フューリーSアップ",
     "Text": "Fury S UP",
     "Enabled": true
   },
-  "50202": {
+  "5020II": {
     "OriginalText": "アベレージアップ",
     "Text": "Average UP",
     "Enabled": true
   },
-  "50203": {
+  "5020III": {
     "OriginalText": "ブレイブクリティカル",
     "Text": "Brave Critical",
     "Enabled": true
   },
-  "50204": {
+  "5020IV": {
     "OriginalText": "ワイズクリティカル",
     "Text": "Wise Critical",
     "Enabled": true
   },
-  "50205": {
+  "5020V": {
     "OriginalText": "ブレイブSアップ",
     "Text": "Brave S UP",
     "Enabled": true
@@ -877,27 +877,27 @@
     "Text": "Dive Roll Advance",
     "Enabled": true
   },
-  "50211": {
+  "5021I": {
     "OriginalText": "アベレージSアップ",
     "Text": "Average S UP",
     "Enabled": true
   },
-  "50212": {
+  "5021II": {
     "OriginalText": "コンセントレーション",
     "Text": "Concentration",
     "Enabled": true
   },
-  "50213": {
+  "5021III": {
     "OriginalText": "テックJAアドバンス",
     "Text": "Tech JA Advance",
     "Enabled": true
   },
-  "50214": {
+  "5021IV": {
     "OriginalText": "シフタクリティカル",
     "Text": "Shifta Critical",
     "Enabled": true
   },
-  "50215": {
+  "5021V": {
     "OriginalText": "デバンドカット",
     "Text": ""
   },
@@ -925,27 +925,27 @@
     "Text": "Partisan Mastery",
     "Enabled": true
   },
-  "50221": {
+  "5022I": {
     "OriginalText": "ダブルセイバー・マスタリー",
     "Text": "Double Saber Mastery",
     "Enabled": true
   },
-  "50222": {
+  "5022II": {
     "OriginalText": "アサルトライフル・マスタリー",
     "Text": "Assault Rifle Mastery",
     "Enabled": true
   },
-  "50223": {
+  "5022III": {
     "OriginalText": "ツインマシンガン・マスタリー",
     "Text": "Twin Machine Gun Mastery",
     "Enabled": true
   },
-  "50224": {
+  "5022IV": {
     "OriginalText": "ロッド・マスタリー",
     "Text": "Rod Mastery",
     "Enabled": true
   },
-  "50225": {
+  "5022V": {
     "OriginalText": "タリス・マスタリー",
     "Text": "Talis Mastery",
     "Enabled": true
@@ -974,27 +974,27 @@
     "Text": "Ice Guard",
     "Enabled": true
   },
-  "50231": {
+  "5023I": {
     "OriginalText": "サンダーガード",
     "Text": "Thunder Guard",
     "Enabled": true
   },
-  "50232": {
+  "5023II": {
     "OriginalText": "ウィンドガード",
     "Text": "Wind Guard",
     "Enabled": true
   },
-  "50233": {
+  "5023III": {
     "OriginalText": "ライトガード",
     "Text": "Light Guard",
     "Enabled": true
   },
-  "50234": {
+  "5023IV": {
     "OriginalText": "ダークガード",
     "Text": "Dark Guard",
     "Enabled": true
   },
-  "50235": {
+  "5023V": {
     "OriginalText": "アンチオール",
     "Text": "Anti-All",
     "Enabled": true
@@ -1024,27 +1024,27 @@
     "Text": "T-ATK UP IV",
     "Enabled": true
   },
-  "50241": {
+  "5024I": {
     "OriginalText": "打撃防御アップⅣ",
     "Text": "S-DEF UP IV",
     "Enabled": true
   },
-  "50242": {
+  "5024II": {
     "OriginalText": "射撃防御アップⅣ",
     "Text": "R-DEF UP IV",
     "Enabled": true
   },
-  "50243": {
+  "5024III": {
     "OriginalText": "法撃防御アップⅣ",
     "Text": "T-DEF UP IV",
     "Enabled": true
   },
-  "50244": {
+  "5024IV": {
     "OriginalText": "技量アップⅣ",
     "Text": "DEX UP IV",
     "Enabled": true
   },
-  "50245": {
+  "5024V": {
     "OriginalText": "ナックル・マスタリー",
     "Text": "Knuckle Mastery",
     "Enabled": true
@@ -1073,27 +1073,27 @@
     "Text": "GP UP III",
     "Enabled": true
   },
-  "50251": {
+  "5025I": {
     "OriginalText": "打撃力アップⅢ",
     "Text": "S-ATK UP III",
     "Enabled": true
   },
-  "50252": {
+  "5025II": {
     "OriginalText": "射撃力アップⅢ",
     "Text": "R-ATK UP III",
     "Enabled": true
   },
-  "50253": {
+  "5025III": {
     "OriginalText": "法撃力アップⅢ",
     "Text": "T-ATK UP III",
     "Enabled": true
   },
-  "50254": {
+  "5025IV": {
     "OriginalText": "打撃防御アップⅢ",
     "Text": "S-DEF UP III",
     "Enabled": true
   },
-  "50255": {
+  "5025V": {
     "OriginalText": "射撃防御アップⅢ",
     "Text": "R-DEF UP III",
     "Enabled": true
