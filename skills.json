@@ -271,7 +271,7 @@
   "50064": {
     "OriginalText": "ガンスリンガー",
     "Text": "Gunslinger",
-	"Enabled": True
+	"Enabled": true
   },
   "50065": {
     "OriginalText": "ライアットシフト",
