@@ -1,23 +1,28 @@
 
   "790001": {
     "OriginalText": "銅の荒野 1",
-    "Text": ""
+    "Text": "Copper Wastelands 1",
+	"Enabled": true
   },
   "790002": {
     "OriginalText": "銅の荒野 2",
-    "Text": ""
+    "Text": "Copper Wastelands 2",
+	"Enabled": true
   },
   "790003": {
     "OriginalText": "銅の荒野 3",
-    "Text": ""
+    "Text": "Copper Wastelands 3",
+	"Enabled": true
   },
   "790004": {
     "OriginalText": "銅の荒野 4",
-    "Text": ""
+    "Text": "Copper Wastelands 4",
+	"Enabled": true
   },
   "790005": {
     "OriginalText": "バトル体験版２特別マップ",
-    "Text": ""
+    "Text": "Special Map: Battle Trial 2",
+	"Enabled": true
   },
   "790006": {
     "OriginalText": "グラン水装 1",
@@ -33,87 +38,108 @@
   },
   "790009": {
     "OriginalText": "炎の高地 1",
-    "Text": ""
+    "Text": "Flame Highlands 1",
+	"Enabled": true
   },
   "790010": {
     "OriginalText": "炎の高地 2",
-    "Text": ""
+    "Text": "Flame Highlands 2",
+	"Enabled": true
   },
   "790011": {
     "OriginalText": "炎の高地 3",
-    "Text": ""
+    "Text": "Flame Highlands 3",
+	"Enabled": true
   },
   "790012": {
     "OriginalText": "炎の高地 4",
-    "Text": ""
+    "Text": "Flame Highlands 4",
+	"Enabled": true
   },
   "790013": {
     "OriginalText": "古代都市 1",
-    "Text": ""
+    "Text": "Ancient City 1",
+	"Enabled": true
   },
   "790014": {
     "OriginalText": "古代都市 2",
-    "Text": ""
+    "Text": "Ancient City 2",
+	"Enabled": true
   },
   "790015": {
     "OriginalText": "大尖塔 1",
-    "Text": ""
+    "Text": "Large Spire 1",
+	"Enabled": true
   },
   "790016": {
     "OriginalText": "大尖塔 2",
-    "Text": ""
+    "Text": "Large Spire 2",
+	"Enabled": true
   },
   "790017": {
     "OriginalText": "ノヴァ内部",
-    "Text": ""
+    "Text": "Nova Interior",
+	"Enabled": true
   },
   "790018": {
     "OriginalText": "？？？",
-    "Text": ""
+    "Text": "???",
+	"Enabled": true
   },
   "790019": {
     "OriginalText": "拠点",
-    "Text": ""
+    "Text": "Base",
+	"Enabled": true
   },
   "790020": {
     "OriginalText": "上層",
-    "Text": ""
+    "Text": "Upper Levels",
+	"Enabled": true
   },
   "790021": {
     "OriginalText": "デルタ・ヴァリアント探索拠点",
-    "Text": ""
+    "Text": "Delta Variant Exploration Base",
+	"Enabled": true
   },
   "790022": {
     "OriginalText": "下層",
-    "Text": ""
+    "Text": "Lower Levels",
+	"Enabled": true
   },
   "790023": {
     "OriginalText": "ブリッジ",
-    "Text": ""
+    "Text": "Bridge",
+	"Enabled": true
   },
   "790024": {
     "OriginalText": "コールドスリープルーム",
-    "Text": ""
+    "Text": "Cold Sleep Room",
+	"Enabled": true
   },
   "790025": {
     "OriginalText": "マルチプレイルーム",
-    "Text": ""
+    "Text": "Multiplayer Room",
+	"Enabled": true
   },
   "790026": {
     "OriginalText": "トレーニングルーム",
-    "Text": ""
+    "Text": "Training Room",
+	"Enabled": true
   },
   "790027": {
     "OriginalText": "エリア1",
-    "Text": ""
+    "Text": "Area 1",
+	"Enabled": true
   },
   "790028": {
     "OriginalText": "エリア2",
-    "Text": ""
+    "Text": "Area 2",
+	"Enabled": true
   },
   "790029": {
     "OriginalText": "エリア3",
-    "Text": ""
+    "Text": "Area 3",
+	"Enabled": true
   },
   "790030": {
     "OriginalText": "グラン水装 4",
@@ -121,11 +147,13 @@
   },
   "790031": {
     "OriginalText": "？？",
-    "Text": ""
+    "Text": "??",
+	"Enabled": true
   },
   "790032": {
     "OriginalText": "銅の荒野",
-    "Text": ""
+    "Text": "Copper Wastelands",
+	"Enabled": true
   },
   "790033": {
     "OriginalText": "グラン水装",
@@ -133,15 +161,18 @@
   },
   "790034": {
     "OriginalText": "炎の高地",
-    "Text": ""
+    "Text": "Flame Highlands",
+	"Enabled": true
   },
   "790035": {
     "OriginalText": "大尖塔",
-    "Text": ""
+    "Text": "Large Spire",
+	"Enabled": true
   },
   "790036": {
     "OriginalText": "古代都市",
-    "Text": ""
+    "Text": "Ancient City",
+	"Enabled": true
   },
   "790037": {
     "OriginalText": "ノヴァ内部",
@@ -149,7 +180,8 @@
   },
   "790038": {
     "OriginalText": "未知",
-    "Text": ""
+    "Text": "Unknown",
+	"Enabled": true
   },
   "800000": {
     "OriginalText": "",
