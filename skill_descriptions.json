@@ -1,48 +1,48 @@
-
+{
   "60000": {
     "OriginalText": "打撃力が２５上昇する。",
     "Text": "Increases your S-ATK by 25.",
-	"Enabled": true
+    "Enabled": true
   },
   "60001": {
     "OriginalText": "打撃力が５０上昇する。",
     "Text": "Increases your S-ATK by 50.",
-	"Enabled": true
+    "Enabled": true
   },
   "60002": {
     "OriginalText": "打撃力が１００上昇する。",
     "Text": "Increases your S-ATK by 100.",
-	"Enabled": true
+    "Enabled": true
   },
   "60003": {
     "OriginalText": "打撃防御力が２５上昇する。",
     "Text": "Increases your S-DEF by 25.",
-	"Enabled": true
+    "Enabled": true
   },
   "60004": {
     "OriginalText": "打撃防御力が５０上昇する。",
     "Text": "Increases your S-DEF by 50.",
-	"Enabled": true
+    "Enabled": true
   },
   "60005": {
     "OriginalText": "打撃防御力が１００上昇する。",
     "Text": "Increases your S-DEF by 100.",
-	"Enabled": true
+    "Enabled": true
   },
   "60006": {
     "OriginalText": "ＨＰの上限値が１００上昇する。",
     "Text": "Increases your max HP by 100.",
-	"Enabled": true
+    "Enabled": true
   },
   "60007": {
     "OriginalText": "ＨＰの上限値が２００上昇する。",
     "Text": "Increases your max HP by 200.",
-	"Enabled": true
+    "Enabled": true
   },
   "60008": {
     "OriginalText": "ＨＰの上限値が３００上昇する。",
     "Text": "Increases your max HP by 300.",
-	"Enabled": true
+    "Enabled": true
   },
   "60009": {
     "OriginalText": "エネミーの注意を引き付ける。\n\n[a 03]※アクティブスキルは同時に２つまで発動可[b]",
@@ -91,72 +91,72 @@
   "60020": {
     "OriginalText": "ソードの伝備が可能になる。",
     "Text": "Allows the use of Swords.",
-	"Enabled": true
+    "Enabled": true
   },
   "60021": {
     "OriginalText": "パルチザンの伝備が可能になる。",
     "Text": "Allows the use of Partisans.",
-	"Enabled": true
+    "Enabled": true
   },
   "60022": {
     "OriginalText": "ダブルセイバーの伝備が可能になる。",
     "Text": "Allows the use of Double Sabers.",
-	"Enabled": true
+    "Enabled": true
   },
   "60023": {
     "OriginalText": "ナックルの伝備が可能になる。",
     "Text": "Allows the use of Knuckles.",
-	"Enabled": true
+    "Enabled": true
   },
   "60024": {
     "OriginalText": "ジャストアタック成功時に追加で\nダメージボーナスを得る。",
     "Text": "Gain a damage bonus upon\nperforming a Just Attack.",
-	"Enabled": true
+    "Enabled": true
   },
   "60025": {
     "OriginalText": "ＨＰが一定量似下になったとき、\n自動でメイト系アイテムを使用する。",
     "Text": "When HP is below a certain amount,\nautomatically use a mate item on yourself.",
-	"Enabled": true
+    "Enabled": true
   },
   "60026": {
     "OriginalText": "ナックル伝備時のみ有効な\n攻撃を回避する武器アクション。",
     "Text": "Lets you perform the Sway\nmotion with Knuckles.",
-	"Enabled": true
+    "Enabled": true
   },
   "60027": {
     "OriginalText": "射撃力、法撃力を一定割合分、\n打撃力にコンバートする。",
     "Text": "A portion of your R-ATK and\nT-ATK is converted into S-ATK.",
-	"Enabled": true
+    "Enabled": true
   },
   "60028": {
     "OriginalText": "打撃力が１５０上昇する。",
     "Text": "Increases your S-ATK by 150.",
-	"Enabled": true
+    "Enabled": true
   },
   "60029": {
     "OriginalText": "打撃力が２００上昇する。",
     "Text": "Increases your S-ATK by 200.",
-	"Enabled": true
+    "Enabled": true
   },
   "60030": {
     "OriginalText": "打撃防御力が１５０上昇する。",
     "Text": "Increases your S-DEF by 150.",
-	"Enabled": true
+    "Enabled": true
   },
   "60031": {
     "OriginalText": "打撃防御力が２００上昇する。",
     "Text": "Increases your S-DEF by 200.",
-	"Enabled": true
+    "Enabled": true
   },
   "60032": {
     "OriginalText": "ＨＰの上限値が４００上昇する。",
     "Text": "Increases your max HP by 400.",
-	"Enabled": true
+    "Enabled": true
   },
   "60033": {
     "OriginalText": "ＨＰの上限値が５００上昇する。",
     "Text": "Increases your max HP by 500.",
-	"Enabled": true
+    "Enabled": true
   },
   "60034": {
     "OriginalText": "スティール・ウィル の解説文",
@@ -165,27 +165,27 @@
   "60035": {
     "OriginalText": "技量が１０上昇する。",
     "Text": "Increases your DEX by 10.",
-	"Enabled": true
+    "Enabled": true
   },
   "60036": {
     "OriginalText": "技量が２０上昇する。",
     "Text": "Increases DEX by 20.",
-	"Enabled": true
+    "Enabled": true
   },
   "60037": {
     "OriginalText": "技量が３０上昇する。",
     "Text": "Increases DEX by 30.",
-	"Enabled": true
+    "Enabled": true
   },
   "60038": {
     "OriginalText": "フューリーSアップ２ の解説文",
     "Text": "Increases your striking and\nshooting attacks during\nFury Stance.",
-	"Enabled": true
+    "Enabled": true
   },
   "60039": {
     "OriginalText": "ウォークライ２ の解説文",
     "Text": "Attracts the attention of enemies.",
-	"Enabled": true
+    "Enabled": true
   },
   "60040": {
     "OriginalText": "",
@@ -334,7 +334,7 @@
   "60086": {
     "OriginalText": "オートメイトデッドライン の解説文",
     "Text": "When your HP falls below 25%,\nautomatically use a mate item on yourself.",
-	"Enabled": true
+    "Enabled": true
   },
   "60087": {
     "OriginalText": "ＧＰセイブマガジン２ の解説文",
@@ -479,7 +479,7 @@
   "60131": {
     "OriginalText": "テックアドバンス２ の解説文",
     "Text": "Boosts the damage of Techs.",
-	"Enabled": true
+    "Enabled": true
   },
   "60132": {
     "OriginalText": "フレイムマスタリー２ の解説文",
@@ -508,7 +508,7 @@
   "60138": {
     "OriginalText": "テックアドバンス２ の解説文",
     "Text": "Boosts the damage of Techs.",
-	"Enabled": true
+    "Enabled": true
   },
   "60139": {
     "OriginalText": "エレメントウィークヒット２ の解説文",
@@ -585,7 +585,7 @@
   "60166": {
     "OriginalText": "ギガンテスブラストの\nブラストゲージが溜まりやすくなる。",
     "Text": "Speeds up the\nGigantes Blast Gauge.",
-	"Enabled": true
+    "Enabled": true
   },
   "60167": {
     "OriginalText": "パイルの威力が上昇する。",
@@ -926,4 +926,5 @@
   "60257": {
     "OriginalText": "",
     "Text": ""
-  },
+  }
+}

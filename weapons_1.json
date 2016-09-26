@@ -1,4 +1,4 @@
-
+{
   "90000": {
     "OriginalText": "なし",
     "Text": "None",
@@ -57,7 +57,7 @@
   "90011": {
     "OriginalText": "ザックス",
     "Text": "Zaxe",
-	"Enabled": true
+    "Enabled": true
   },
   "90012": {
     "OriginalText": "ラストサバイバー",
@@ -87,7 +87,7 @@
   "90017": {
     "OriginalText": "フォスティプス",
     "Text": "Fostibus",
-	"Enabled": true
+    "Enabled": true
   },
   "90018": {
     "OriginalText": "スペース・ツナ",
@@ -1466,7 +1466,7 @@
   "90293": {
     "OriginalText": "バンクツイクル",
     "Text": "Banc Tsuikulu",
-	"Enabled": true
+    "Enabled": true
   },
   "90294": {
     "OriginalText": "フォートシンス",
@@ -1521,7 +1521,7 @@
   "90304": {
     "OriginalText": "エクスバンクツイクル",
     "Text": "Exbanc Tsuikulu",
-	"Enabled": true
+    "Enabled": true
   },
   "90305": {
     "OriginalText": "セリスフォートシンス",
@@ -1536,5 +1536,6 @@
   "90307": {
     "OriginalText": "ソニックスラップ",
     "Text": "Sonic Slap",
-	"Enabled": true
-  },
+    "Enabled": true
+  }
+}

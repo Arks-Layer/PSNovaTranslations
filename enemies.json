@@ -1,92 +1,93 @@
+{
   "181310": {
     "OriginalText": "バリドランナ",
     "Text": "Baridran'na",
-	"Enabled": true
+    "Enabled": true
   },
   "181320": {
     "OriginalText": "ノイバリドランナ",
     "Text": "Noibaridran'an",
-	"Enabled": true
+    "Enabled": true
   },
   "181330": {
     "OriginalText": "フェブリルナ・ドラウ",
     "Text": "Feburina Draal",
-	"Enabled": true
+    "Enabled": true
   },
   "181410": {
     "OriginalText": "ウィンディラス",
     "Text": "Windiras",
-	"Enabled": true
+    "Enabled": true
   },
   "181420": {
     "OriginalText": "ノイウィンディラス",
     "Text": "Noiwindiras",
-	"Enabled": true
+    "Enabled": true
   },
   "181430": {
     "OriginalText": "ヴォーロラス・ドラウ",
     "Text": "Voloras Draal",
-	"Enabled": true
+    "Enabled": true
   },
   "181510": {
     "OriginalText": "防御訓練用クラーダ",
     "Text": "Training Defense Krahda",
-	"Enabled": true
+    "Enabled": true
   },
   "181520": {
     "OriginalText": "キャタドラン２(仮)",
     "Text": "Caterdran 2 (Simulation)",
-	"Enabled": true
+    "Enabled": true
   },
   "181610": {
     "OriginalText": "ヴォル・ドラゴン(仮)",
     "Text": "Vol Dragon (Simulation)",
-	"Enabled": true
+    "Enabled": true
   },
   "181620": {
     "OriginalText": "ヴォルドラ２(仮)",
     "Text": "Vol Dragon 2 (Simulation)",
-	"Enabled": true
+    "Enabled": true
   },
   "181810": {
     "OriginalText": "ラウーダン",
     "Text": "Ra Oodan",
-	"Enabled": true
+    "Enabled": true
   },
   "181820": {
     "OriginalText": "フリラウーダン",
     "Text": "Fury Ra Oodan",
-	"Enabled": true
+    "Enabled": true
   },
   "181830": {
     "OriginalText": "ラウーダン・リアス",
     "Text": "Ra Oodan Lias",
-	"Enabled": true
+    "Enabled": true
   },
   "181910": {
     "OriginalText": "ベガルフ",
     "Text": "Begulf",
-	"Enabled": true
+    "Enabled": true
   },
   "181920": {
     "OriginalText": "フロベガルフ",
     "Text": "Furobegulf",
-	"Enabled": true
+    "Enabled": true
   },
   "181930": {
     "OriginalText": "ベガルフ・ライオ",
     "Text": "Begulf Rioh",
-	"Enabled": true
+    "Enabled": true
   },
   "182010": {
     "OriginalText": "イエーデン",
     "Text": "Yeden",
-	"Enabled": true
+    "Enabled": true
   },
   "182020": {
     "OriginalText": "コパイエーデン",
     "Text": "Kopa Yeden",
-	"Enabled": true
+    "Enabled": true
   },
   "182030": {
     "OriginalText": "イエーデン・アイエ",
@@ -744,6 +745,11 @@
     "OriginalText": "レイヴガイスト",
     "Text": ""
   },
+  "185531": {
+    "OriginalText": "レイヴァン",
+    "Text": "Raven",
+    "Enabled": true
+  },
   "185540": {
     "OriginalText": "ネメスフース",
     "Text": ""
@@ -771,9 +777,5 @@
   "185564": {
     "OriginalText": "グランデバイス",
     "Text": ""
-  },
-  "185531": {
-    "OriginalText": "レイヴァン",
-    "Text": "Raven",
-    "Enabled": true
-  },
+  }
+}
