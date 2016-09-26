@@ -1,0 +1,147 @@
+  "600000": {
+    "OriginalText": "なし",
+    "Text": "None",
+	"Enabled": true
+  },
+  "600001": {
+    "OriginalText": "手を振る",
+    "Text": "Wave",
+	"Enabled": true
+  },
+  "600002": {
+    "OriginalText": "礼",
+    "Text": "Bow",
+	"Enabled": true
+  },
+  "600003": {
+    "OriginalText": "敬礼",
+    "Text": "Salute",
+	"Enabled": true
+  },
+  "600004": {
+    "OriginalText": "肯定",
+    "Text": "Yes",
+	"Enabled": true
+  },
+  "600005": {
+    "OriginalText": "否定",
+    "Text": "No",
+	"Enabled": true
+  },
+  "600006": {
+    "OriginalText": "謝る",
+    "Text": "Apologize",
+	"Enabled": true
+  },
+  "600007": {
+    "OriginalText": "挑発する",
+    "Text": ""
+  },
+  "600008": {
+    "OriginalText": "燭手",
+    "Text": ""
+  },
+  "600009": {
+    "OriginalText": "キス",
+    "Text": "Kiss",
+	"Enabled": true
+  },
+  "600010": {
+    "OriginalText": "グッジョブ",
+    "Text": "Good Job",
+	"Enabled": true
+  },
+  "600011": {
+    "OriginalText": "指をさす",
+    "Text": "Point",
+	"Enabled": true
+  },
+  "600012": {
+    "OriginalText": "気合を入れる",
+    "Text": "Fighting Spirit",
+	"Enabled": true
+  },
+  "600013": {
+    "OriginalText": "任せておけ！",
+    "Text": ""
+  },
+  "600014": {
+    "OriginalText": "喜ぶ",
+    "Text": "Rejoice",
+	"Enabled": true
+  },
+  "600015": {
+    "OriginalText": "怒る",
+    "Text": "Angry",
+	"Enabled": true
+  },
+  "600016": {
+    "OriginalText": "哀しい",
+    "Text": ""
+  },
+  "600017": {
+    "OriginalText": "楽しい",
+    "Text": ""
+  },
+  "600018": {
+    "OriginalText": "呆れ",
+    "Text": "Disgusted",
+	"Enabled": true
+  },
+  "600019": {
+    "OriginalText": "照れる",
+    "Text": "Act Shy",
+	"Enabled": true
+  },
+  "600020": {
+    "OriginalText": "驚く",
+    "Text": ""
+  },
+  "600021": {
+    "OriginalText": "地団太",
+    "Text": ""
+  },
+  "600022": {
+    "OriginalText": "泣く",
+    "Text": "Cry",
+	"Enabled": true
+  },
+  "600023": {
+    "OriginalText": "座る１",
+    "Text": ""
+  },
+  "600024": {
+    "OriginalText": "座る２",
+    "Text": "Sit 1",
+	"Enabled": true
+  },
+  "600025": {
+    "OriginalText": "ベッド",
+    "Text": "Sit 2",
+	"Enabled": true
+  },
+  "600026": {
+    "OriginalText": "ダンス１",
+    "Text": "Dance 1",
+	"Enabled": true
+  },
+  "600027": {
+    "OriginalText": "ダンス２",
+    "Text": "Dance 2",
+	"Enabled": true
+  },
+  "600028": {
+    "OriginalText": "セクシー",
+    "Text": "Sexy",
+	"Enabled": true
+  },
+  "600029": {
+    "OriginalText": "ポーズ",
+    "Text": "Pose 1",
+	"Enabled": true
+  },
+  "600030": {
+    "OriginalText": "ポーズ２",
+    "Text": "Pose 2",
+	"Enabled": true
+  },
