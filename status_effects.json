@@ -34,45 +34,56 @@
   },
   "640008": {
     "OriginalText": "グラン中毒",
-    "Text": ""
+    "Text": "Gran Poisoning",
+	  "Enabled": true
   },
   "640009": {
     "OriginalText": "バインド",
-    "Text": ""
+    "Text": "Bind",
+	  "Enabled": true
   },
   "640010": {
     "OriginalText": "インフェクション",
-    "Text": ""
+    "Text": "Infection",
+	 "Enabled": true
   },
   "640011": {
     "OriginalText": "ブラインド",
-    "Text": ""
+    "Text": "Blind",
+	  "Enabled": true
   },
   "640012": {
     "OriginalText": "怒りモード",
-    "Text": ""
+    "Text": "Anger Mode",
+	  "Enabled": true
   },
   "640013": {
     "OriginalText": "料理効果",
-    "Text": ""
+    "Text": "Cooking Effect",
+	  "Enabled": true
   },
   "640014": {
     "OriginalText": "攻撃力上昇",
-    "Text": ""
+    "Text": "Increased Attack Power",
+	  "Enabled": true
   },
   "640015": {
     "OriginalText": "攻撃力低下",
-    "Text": ""
+    "Text": "Reduced Attack Power",
+	  "Enabled": true
   },
   "640016": {
     "OriginalText": "防御力上昇",
-    "Text": ""
+    "Text": "Increased Defense Power".
+	  "Enabled": true
   },
   "640017": {
     "OriginalText": "防御力低下",
-    "Text": ""
+    "Text": "Reduced Defense Power",
+	  "Enabled": true
   },
   "640018": {
     "OriginalText": "ブーストアイテム効果",
-    "Text": ""
+    "Text": "Boost Item Effect",
+	  "Enabled": true
   },
