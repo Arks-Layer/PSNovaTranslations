@@ -101,19 +101,23 @@
   },
   "50020": {
     "OriginalText": "武器伝備ソード",
-    "Text": ""
+    "Text": "Weapon Equip: Sword",
+    "Enabled": true
   },
   "50021": {
     "OriginalText": "武器伝備パルチザン",
-    "Text": ""
+    "Text": "Weapon Equip: Partisan",
+    "Enabled": true
   },
   "50022": {
     "OriginalText": "武器伝備ダブルセイバー",
-    "Text": ""
+    "Text": "Weapon Equip: Double Saber",
+    "Enabled": true
   },
   "50023": {
     "OriginalText": "武器伝備ナックル",
-    "Text": ""
+    "Text": "Weapon Equip: Knuckle",
+    "Enabled": true
   },
   "50024": {
     "OriginalText": "ジャストアタックボーナス",
@@ -122,7 +126,8 @@
   },
   "50025": {
     "OriginalText": "オートメイト",
-    "Text": ""
+    "Text": "Automate",
+	"Enabled": true
   },
   "50026": {
     "OriginalText": "スウェー",
@@ -166,7 +171,8 @@
   },
   "50034": {
     "OriginalText": "スティール・ウィル",
-    "Text": ""
+    "Text": "Steel Will",
+	"Enabled": true
   },
   "50035": {
     "OriginalText": "技量アップⅠ",
@@ -185,11 +191,13 @@
   },
   "50038": {
     "OriginalText": "フューリーSアップ２",
-    "Text": ""
+    "Text": "Fury S Up 2",
+	"Enabled": true
   },
   "50039": {
     "OriginalText": "ウォークライ２",
-    "Text": ""
+    "Text": "War Cry 2",
+	"Enabled": true
   },
   "50040": {
     "OriginalText": "",
@@ -262,7 +270,8 @@
   },
   "50064": {
     "OriginalText": "ガンスリンガー",
-    "Text": ""
+    "Text": "Gunslinger",
+	"Enabled": True
   },
   "50065": {
     "OriginalText": "ライアットシフト",
@@ -276,7 +285,8 @@
   },
   "50067": {
     "OriginalText": "レゾナンスバレット",
-    "Text": ""
+    "Text": "Resonance Bullet",
+	"Enabled": true
   },
   "50068": {
     "OriginalText": "ダイブロール",
@@ -370,11 +380,13 @@
   },
   "50086": {
     "OriginalText": "オートメイトデッドライン",
-    "Text": ""
+    "Text": "Automate Deadline",
+	"Enabled": true
   },
   "50087": {
     "OriginalText": "ＧＰセイブマガジン２",
-    "Text": ""
+    "Text": "GP Save Magazine 2",
+	"Enabled": true
   },
   "50088": {
     "OriginalText": "ウィークヒットアドバンス２",
@@ -512,7 +524,8 @@
   },
   "50124": {
     "OriginalText": "デバンドアドバンス",
-    "Text": ""
+    "Text": "Deband Advance",
+	"Enabled": true
   },
   "50125": {
     "OriginalText": "テクニック使用",
@@ -600,107 +613,133 @@
   },
   "50151": {
     "OriginalText": "法撃防御アップⅠ",
-    "Text": ""
+    "Text": "T-DEF Up I",
+    "Enabled": true
   },
   "50152": {
     "OriginalText": "法撃防御アップⅡ",
-    "Text": ""
+    "Text": "T-DEF Up II",
+    "Enabled": true
   },
   "50153": {
     "OriginalText": "法撃防御アップⅢ",
-    "Text": ""
+    "Text": "T-DEF Up III",
+    "Enabled": true
   },
   "50154": {
     "OriginalText": "ＧＰアップⅠ",
-    "Text": ""
+    "Text": "GP Up I",
+    "Enabled": true
   },
   "50155": {
     "OriginalText": "ＧＰアップⅡ",
-    "Text": ""
+    "Text": "GP Up II",
+    "Enabled": true
   },
   "50156": {
     "OriginalText": "ＧＰアップⅢ",
-    "Text": ""
+    "Text": "GP Up III",
+    "Enabled": true
   },
   "50157": {
     "OriginalText": "ＧＰコンバート",
-    "Text": ""
+    "Text": "GP Convert",
+    "Enabled": true
   },
   "50158": {
     "OriginalText": "ＧＰスレイヤー",
-    "Text": ""
+    "Text": "GP Slayer",
+    "Enabled": true
   },
   "50159": {
     "OriginalText": "テリトリーバースト",
-    "Text": ""
+    "Text": "Territory Burst",
+    "Enabled": true
   },
   "50160": {
     "OriginalText": "ＧＰリストレイト",
-    "Text": ""
+    "Text": "GP Restorate",
+    "Enabled": true
   },
   "50161": {
     "OriginalText": "ＧＰバースト",
-    "Text": ""
+    "Text": "GP Burst",
+    "Enabled": true
   },
   "50162": {
     "OriginalText": "チェイスアドバンス",
-    "Text": ""
+    "Text": "Chase Advance",
+    "Enabled": true
   },
   "50163": {
     "OriginalText": "テックＬチャージ",
-    "Text": ""
+    "Text": "Tech L Charge",
+    "Enabled": true
   },
   "50164": {
     "OriginalText": "テックSチャージ",
-    "Text": ""
+    "Text": "Tech S Charge",
+    "Enabled": true
   },
   "50165": {
     "OriginalText": "ジャストリバーサル",
-    "Text": ""
+    "Text": "Just Reversal",
+    "Enabled": true
   },
   "50166": {
     "OriginalText": "ギガンテスブラスター",
-    "Text": ""
+    "Text": "Gigantes Blaster",
+    "Enabled": true
   },
   "50167": {
     "OriginalText": "パイル・マスタリー",
-    "Text": ""
+    "Text": "Pile Mastery",
+    "Enabled": true
   },
   "50168": {
     "OriginalText": "ヘイロウ・マスタリー",
-    "Text": ""
+    "Text": "Halo Mastery",
+    "Enabled": true
   },
   "50169": {
     "OriginalText": "アンチバインド",
-    "Text": ""
+    "Text": "Anti-Bind",
+    "Enabled": true
   },
   "50170": {
     "OriginalText": "アンチインフェクション",
-    "Text": ""
+    "Text": "Anti Infection",
+    "Enabled": true
   },
   "50171": {
     "OriginalText": "アンチブラインド",
-    "Text": ""
+    "Text": "Anti-Blind",
+    "Enabled": true
   },
   "50172": {
     "OriginalText": "アンチグラン中毒",
-    "Text": ""
+    "Text": "Anti-Gran Poisoning",
+    "Enabled": true
   },
   "50173": {
     "OriginalText": "武器伝備パイル",
-    "Text": ""
+    "Text": "Weapon Equip: Piles",
+    "Enabled": true
   },
   "50174": {
     "OriginalText": "武器伝備ヘイロウ",
-    "Text": ""
+    "Text": "Weapon Equip: Halos",
+    "Enabled": true
   },
   "50175": {
     "OriginalText": "ハーフラインスレイヤー",
-    "Text": ""
+    "Text": "Halfline Slayer",
+    "Enabled": true
   },
   "50176": {
     "OriginalText": "アベレージスタンス",
-    "Text": ""
+    "Text": "Average Stance",
+    "Enabled": true
   },
   "50177": {
     "OriginalText": "ＧＰ回復空間",
@@ -720,51 +759,63 @@
   },
   "50181": {
     "OriginalText": "ハーフラインスレイヤー２",
-    "Text": ""
+    "Text": "Halfline Slayer 2",
+	"Enabled": true
   },
   "50182": {
     "OriginalText": "法撃防御アップⅣ",
-    "Text": ""
+    "Text": "T-DEF Up IV",
+	"Enabled": true
   },
   "50183": {
     "OriginalText": "法撃防御アップⅤ",
-    "Text": ""
+    "Text": "T-DEF Up V",
+	"Enabled": true
   },
   "50184": {
     "OriginalText": "ＧＰアップⅣ",
-    "Text": ""
+    "Text": "GP Up IV",
+	"Enabled": true
   },
   "50185": {
     "OriginalText": "ＧＰアップⅤ",
-    "Text": ""
+    "Text": "GP Up V",
+	"Enabled": true
   },
   "50186": {
     "OriginalText": "チェイスアドバンス２",
-    "Text": ""
+    "Text": "Chase Advance 2",
+	"Enabled": true
   },
   "50187": {
     "OriginalText": "ＧＰスレイヤー２",
-    "Text": ""
+    "Text": "GP Slayer 2",
+	"Enabled": true
   },
   "50188": {
     "OriginalText": "ＧＰリストレイト２",
-    "Text": ""
+    "Text": "GP Restorate",
+	"Enabled": true
   },
   "50189": {
     "OriginalText": "ＧＰバースト２",
-    "Text": ""
+    "Text": "GP Burst 2",
+	"Enabled": true
   },
   "50190": {
     "OriginalText": "テックＬチャージ２",
-    "Text": ""
+    "Text": "Tech L Charge 2",
+	"Enabled": true
   },
   "50191": {
     "OriginalText": "テックSチャージ２",
-    "Text": ""
+    "Text": "Tech S Charge 2",
+	"Enabled": true
   },
   "50192": {
     "OriginalText": "デッドラインスレイヤー",
-    "Text": ""
+    "Text": "Deadline Slayer",
+	"Enabled": true
   },
   "50193": {
     "OriginalText": "満用リングフィールド",
