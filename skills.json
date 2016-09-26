@@ -386,7 +386,7 @@
   "50087": {
     "OriginalText": "ＧＰセイブマガジン２",
     "Text": "GP Save Magazine 2",
-	"Enabled": true
+    "Enabled": true
   },
   "50088": {
     "OriginalText": "ウィークヒットアドバンス２",
@@ -613,32 +613,32 @@
   },
   "50151": {
     "OriginalText": "法撃防御アップⅠ",
-    "Text": "T-DEF Up I",
+    "Text": "T-DEF UP I",
     "Enabled": true
   },
   "50152": {
     "OriginalText": "法撃防御アップⅡ",
-    "Text": "T-DEF Up II",
+    "Text": "T-DEF UP II",
     "Enabled": true
   },
   "50153": {
     "OriginalText": "法撃防御アップⅢ",
-    "Text": "T-DEF Up III",
+    "Text": "T-DEF UP III",
     "Enabled": true
   },
   "50154": {
     "OriginalText": "ＧＰアップⅠ",
-    "Text": "GP Up I",
+    "Text": "GP UP I",
     "Enabled": true
   },
   "50155": {
     "OriginalText": "ＧＰアップⅡ",
-    "Text": "GP Up II",
+    "Text": "GP UP II",
     "Enabled": true
   },
   "50156": {
     "OriginalText": "ＧＰアップⅢ",
-    "Text": "GP Up III",
+    "Text": "GP UP III",
     "Enabled": true
   },
   "50157": {
@@ -747,15 +747,18 @@
   },
   "50178": {
     "OriginalText": "クイック武器変更可能",
-    "Text": ""
+    "Text": "Quick Weapon Switch Possible",
+    "Enabled": true
   },
   "50179": {
     "OriginalText": "クイック武器変更上",
-    "Text": ""
+    "Text": "Quick Weapon Switch Above",
+    "Enabled": true
   },
   "50180": {
     "OriginalText": "クイック武器変更下",
-    "Text": ""
+    "Text": "Quick Weapon Switch Below",
+    "Enabled": true
   },
   "50181": {
     "OriginalText": "ハーフラインスレイヤー２",
@@ -764,33 +767,33 @@
   },
   "50182": {
     "OriginalText": "法撃防御アップⅣ",
-    "Text": "T-DEF Up IV",
-	"Enabled": true
+    "Text": "T-Def IV",
+    "Enabled": true
   },
   "50183": {
     "OriginalText": "法撃防御アップⅤ",
-    "Text": "T-DEF Up V",
-	"Enabled": true
+    "Text": "T-Def V",
+    "Enabled": true
   },
   "50184": {
     "OriginalText": "ＧＰアップⅣ",
-    "Text": "GP Up IV",
-	"Enabled": true
+    "Text": "GP UP IV",
+    "Enabled": true
   },
   "50185": {
     "OriginalText": "ＧＰアップⅤ",
-    "Text": "GP Up V",
-	"Enabled": true
+    "Text": "GP UP V",
+    "Enabled": true
   },
   "50186": {
     "OriginalText": "チェイスアドバンス２",
     "Text": "Chase Advance 2",
-	"Enabled": true
+    "Enabled": true
   },
   "50187": {
     "OriginalText": "ＧＰスレイヤー２",
     "Text": "GP Slayer 2",
-	"Enabled": true
+    "Enabled": true
   },
   "50188": {
     "OriginalText": "ＧＰリストレイト２",
@@ -800,17 +803,17 @@
   "50189": {
     "OriginalText": "ＧＰバースト２",
     "Text": "GP Burst 2",
-	"Enabled": true
+    "Enabled": true
   },
   "50190": {
     "OriginalText": "テックＬチャージ２",
     "Text": "Tech L Charge 2",
-	"Enabled": true
+    "Enabled": true
   },
   "50191": {
     "OriginalText": "テックSチャージ２",
     "Text": "Tech S Charge 2",
-	"Enabled": true
+    "Enabled": true
   },
   "50192": {
     "OriginalText": "デッドラインスレイヤー",
@@ -827,27 +830,33 @@
   },
   "50201": {
     "OriginalText": "フューリーSアップ",
-    "Text": ""
+    "Text": "Fury S UP",
+    "Enabled": true
   },
   "50202": {
     "OriginalText": "アベレージアップ",
-    "Text": ""
+    "Text": "Average UP",
+    "Enabled": true
   },
   "50203": {
     "OriginalText": "ブレイブクリティカル",
-    "Text": ""
+    "Text": "Brave Critical",
+    "Enabled": true
   },
   "50204": {
     "OriginalText": "ワイズクリティカル",
-    "Text": ""
+    "Text": "Wise Critical",
+    "Enabled": true
   },
   "50205": {
     "OriginalText": "ブレイブSアップ",
-    "Text": ""
+    "Text": "Brave S UP",
+    "Enabled": true
   },
   "50206": {
     "OriginalText": "ワイズSアップ",
-    "Text": ""
+    "Text": "Wise S UP",
+    "Enabled": true
   },
   "50207": {
     "OriginalText": "ウェポンマスター",
@@ -855,31 +864,38 @@
   },
   "50208": {
     "OriginalText": "ガードＧＰ変換",
-    "Text": ""
+    "Text": "Guard GP Conversion",
+    "Enabled": true
   },
   "50209": {
     "OriginalText": "スーパーアーマー",
-    "Text": ""
+    "Text": "Super Armor",
+    "Enabled": true
   },
   "50210": {
     "OriginalText": "ダイブロールアドバンス",
-    "Text": ""
+    "Text": "Dive Roll Advance",
+    "Enabled": true
   },
   "50211": {
     "OriginalText": "アベレージSアップ",
-    "Text": ""
+    "Text": "Average S UP",
+    "Enabled": true
   },
   "50212": {
     "OriginalText": "コンセントレーション",
-    "Text": ""
+    "Text": "Concentration",
+    "Enabled": true
   },
   "50213": {
     "OriginalText": "テックJAアドバンス",
-    "Text": ""
+    "Text": "Tech JA Advance",
+    "Enabled": true
   },
   "50214": {
     "OriginalText": "シフタクリティカル",
-    "Text": ""
+    "Text": "Shifter Critical",
+    "Enabled": true
   },
   "50215": {
     "OriginalText": "デバンドカット",
@@ -887,7 +903,8 @@
   },
   "50216": {
     "OriginalText": "テックアドバンスⅡ",
-    "Text": ""
+    "Text": "Tech Advanced II",
+    "Enabled": true
   },
   "50217": {
     "OriginalText": "残ＨＰ少法撃力アップ",
@@ -895,39 +912,48 @@
   },
   "50218": {
     "OriginalText": "フラッシュテックガード",
-    "Text": ""
+    "Text": "Flash Tech Guard",
+    "Enabled": true
   },
   "50219": {
     "OriginalText": "ソード・マスタリー",
-    "Text": ""
+    "Text": "Sword Mastery",
+    "Enabled": true
   },
   "50220": {
     "OriginalText": "パルチザン・マスタリー",
-    "Text": ""
+    "Text": "Partisan Mastery",
+    "Enabled": true
   },
   "50221": {
     "OriginalText": "ダブルセイバー・マスタリー",
-    "Text": ""
+    "Text": "Double Saber Mastery",
+    "Enabled": true
   },
   "50222": {
     "OriginalText": "アサルトライフル・マスタリー",
-    "Text": ""
+    "Text": "Assault Rifle Mastery",
+    "Enabled": true
   },
   "50223": {
     "OriginalText": "ツインマシンガン・マスタリー",
-    "Text": ""
+    "Text": "Twin Machine Gun Mastery",
+    "Enabled": true
   },
   "50224": {
     "OriginalText": "ロッド・マスタリー",
-    "Text": ""
+    "Text": "Rod Mastery",
+    "Enabled": true
   },
   "50225": {
     "OriginalText": "タリス・マスタリー",
-    "Text": ""
+    "Text": "Talis Mastery",
+    "Enabled": true
   },
   "50226": {
     "OriginalText": "ウォンド・マスタリー",
-    "Text": ""
+    "Text": "Wand Mastery",
+    "Enabled": true
   },
   "50227": {
     "OriginalText": "残ＨＰ少攻撃力アップⅡ",
@@ -935,75 +961,93 @@
   },
   "50228": {
     "OriginalText": "バレット・マスタリー",
-    "Text": ""
+    "Text": "Barret Mastery",
+    "Enabled": true
   },
   "50229": {
     "OriginalText": "フレイムガード",
-    "Text": ""
+    "Text": "Flame Guard",
+    "Enabled": true
   },
   "50230": {
     "OriginalText": "アイスガード",
-    "Text": ""
+    "Text": "Ice Guard",
+    "Enabled": true
   },
   "50231": {
     "OriginalText": "サンダーガード",
-    "Text": ""
+    "Text": "Thunder Guard",
+    "Enabled": true
   },
   "50232": {
     "OriginalText": "ウィンドガード",
-    "Text": ""
+    "Text": "Wind Guard",
+    "Enabled": true
   },
   "50233": {
     "OriginalText": "ライトガード",
-    "Text": ""
+    "Text": "Light Guard",
+    "Enabled": true
   },
   "50234": {
     "OriginalText": "ダークガード",
-    "Text": ""
+    "Text": "Dark Guard",
+    "Enabled": true
   },
   "50235": {
     "OriginalText": "アンチオール",
-    "Text": ""
+    "Text": "Anti-All",
+    "Enabled": true
   },
   "50236": {
     "OriginalText": "ＨＰアップⅣ",
-    "Text": ""
+    "Text": "HP UP IV",
+    "Enabled": true
   },
   "50237": {
     "OriginalText": "ＧＰアップⅣ",
-    "Text": ""
+    "Text": "GP UP IV",
+    "Enabled": true
   },
   "50238": {
     "OriginalText": "打撃力アップⅣ",
-    "Text": ""
+    "Text": "S-ATK UP IV",
+    "Enabled": true
   },
   "50239": {
     "OriginalText": "射撃力アップⅣ",
-    "Text": ""
+    "Text": "R-ATK UP IV",
+    "Enabled": true
   },
   "50240": {
     "OriginalText": "法撃力アップⅣ",
-    "Text": ""
+    "Text": "T-ATK UP IV",
+    "Enabled": true
   },
   "50241": {
     "OriginalText": "打撃防御アップⅣ",
-    "Text": ""
+    "Text": "S-DEF UP IV",
+    "Enabled": true
   },
   "50242": {
     "OriginalText": "射撃防御アップⅣ",
-    "Text": ""
+    "Text": "R-DEF UP IV",
+    "Enabled": true
   },
   "50243": {
     "OriginalText": "法撃防御アップⅣ",
-    "Text": ""
+    "Text": "T-DEF UP IV",
+    "Enabled": true
   },
   "50244": {
     "OriginalText": "技量アップⅣ",
-    "Text": ""
+    "Text": "DEX UP IV",
+    "Enabled": true
   },
   "50245": {
     "OriginalText": "ナックル・マスタリー",
-    "Text": ""
+    "Text": "Knuckle Mastery",
+    "Enabled": true
   },
   "50246": {
     "OriginalText": "テリトリーＧＰセイブ",
@@ -1011,45 +1055,56 @@
   },
   "50247": {
     "OriginalText": "ウォンドリアクター",
-    "Text": ""
+    "Text": "Wand Reactor",
+    "Enabled": true
   },
   "50248": {
     "OriginalText": "リキャストセーブ",
-    "Text": ""
+    "Text": "Recast Save",
+    "Enabled": true
   },
   "50249": {
     "OriginalText": "ＨＰアップⅢ",
-    "Text": ""
+    "Text": "HP UP III",
+    "Enabled": true
   },
   "50250": {
     "OriginalText": "ＧＰアップⅢ",
-    "Text": ""
+    "Text": "GP UP III",
+    "Enabled": true
   },
   "50251": {
     "OriginalText": "打撃力アップⅢ",
-    "Text": ""
+    "Text": "S-ATK UP III",
+    "Enabled": true
   },
   "50252": {
     "OriginalText": "射撃力アップⅢ",
-    "Text": ""
+    "Text": "R-ATK UP III",
+    "Enabled": true
   },
   "50253": {
     "OriginalText": "法撃力アップⅢ",
-    "Text": ""
+    "Text": "T-ATK UP III",
+    "Enabled": true
   },
   "50254": {
     "OriginalText": "打撃防御アップⅢ",
-    "Text": ""
+    "Text": "S-DEF UP III",
+    "Enabled": true
   },
   "50255": {
     "OriginalText": "射撃防御アップⅢ",
-    "Text": ""
+    "Text": "R-DEF UP III",
+    "Enabled": true
   },
   "50256": {
     "OriginalText": "法撃防御アップⅢ",
-    "Text": ""
+    "Text": "T-DEF UP III",
+    "Enabled": true
   },
   "50257": {
     "OriginalText": "技量アップⅢ",
-    "Text": ""
+    "Text": "DEX UP III",
+    "Enabled": true
   },
