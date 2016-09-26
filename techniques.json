@@ -1,162 +1,163 @@
+{
   "580000": {
     "OriginalText": "なし",
     "Text": "None",
-	"Enabled": true
+    "Enabled": true
   },
   "580001": {
     "OriginalText": "フォイエ",
     "Text": "Foie",
-	"Enabled": true
+    "Enabled": true
   },
   "580002": {
     "OriginalText": "ギ・フォイエ",
     "Text": "Gifoie",
-	"Enabled": true
+    "Enabled": true
   },
   "580003": {
     "OriginalText": "ラ・フォイエ",
     "Text": "Rafoie",
-	"Enabled": true
+    "Enabled": true
   },
   "580004": {
     "OriginalText": "サ・フォイエ",
     "Text": "Safoie",
-	"Enabled": true
+    "Enabled": true
   },
   "580005": {
     "OriginalText": "シフタ",
     "Text": "Shifta",
-	"Enabled": true
+    "Enabled": true
   },
   "580006": {
     "OriginalText": "バータ",
     "Text": "Barta",
-	"Enabled": true
+    "Enabled": true
   },
   "580007": {
     "OriginalText": "ギ・バータ",
     "Text": "Gibarta",
-	"Enabled": true
+    "Enabled": true
   },
   "580008": {
     "OriginalText": "ラ・バータ",
     "Text": "Ra Barta",
-	"Enabled": true
+    "Enabled": true
   },
   "580009": {
     "OriginalText": "サ・バータ",
     "Text": "Sabarta",
-	"Enabled": true
+    "Enabled": true
   },
   "580010": {
     "OriginalText": "デバンド",
     "Text": "Deband",
-	"Enabled": true
+    "Enabled": true
   },
   "580011": {
     "OriginalText": "ゾンデ",
     "Text": "Zonde",
-	"Enabled": true
+    "Enabled": true
   },
   "580012": {
     "OriginalText": "ギ・ゾンデ",
     "Text": "Gizonde",
-	"Enabled": true
+    "Enabled": true
   },
   "580013": {
     "OriginalText": "ラ・ゾンデ",
     "Text": "Razonde",
-	"Enabled": true
+    "Enabled": true
   },
   "580014": {
     "OriginalText": "サ・ゾンデ",
     "Text": "Sazonde",
-	"Enabled": true
+    "Enabled": true
   },
   "580015": {
     "OriginalText": "ゾンディール",
     "Text": "Zondeel",
-	"Enabled": true
+    "Enabled": true
   },
   "580016": {
     "OriginalText": "ザン",
     "Text": "Zan",
-	"Enabled": true
+    "Enabled": true
   },
   "580017": {
     "OriginalText": "ギ・ザン",
     "Text": "Gizan",
-	"Enabled": true
+    "Enabled": true
   },
   "580018": {
     "OriginalText": "ラ・ザン",
     "Text": "Razan",
-	"Enabled": true
+    "Enabled": true
   },
   "580019": {
     "OriginalText": "サ・ザン",
     "Text": "Sazan",
-	"Enabled": true
+    "Enabled": true
   },
   "580020": {
     "OriginalText": "ナ・ザン",
     "Text": "Nazan",
-	"Enabled": true
+    "Enabled": true
   },
   "580021": {
     "OriginalText": "グランツ",
     "Text": "Grants",
-	"Enabled": true
+    "Enabled": true
   },
   "580022": {
     "OriginalText": "ギ・グランツ",
     "Text": "Gigrants",
-	"Enabled": true
+    "Enabled": true
   },
   "580023": {
     "OriginalText": "ラ・グランツ",
     "Text": "Ragrants",
-	"Enabled": true
+    "Enabled": true
   },
   "580024": {
     "OriginalText": "レスタ",
     "Text": "Resta",
-	"Enabled": true
+    "Enabled": true
   },
   "580025": {
     "OriginalText": "アンティ",
     "Text": "Anti",
-	"Enabled": true
+    "Enabled": true
   },
   "580026": {
     "OriginalText": "メギド",
     "Text": "Megid",
-	"Enabled": true
+    "Enabled": true
   },
   "580027": {
     "OriginalText": "ギ・メギド",
     "Text": "Gimegid",
-	"Enabled": true
+    "Enabled": true
   },
   "580028": {
     "OriginalText": "ラ・メギド",
     "Text": "Ramegid",
-	"Enabled": true
+    "Enabled": true
   },
   "580029": {
     "OriginalText": "メギバース",
     "Text": "Megiverse",
-	"Enabled": true
+    "Enabled": true
   },
   "580030": {
     "OriginalText": "サ・メギド",
     "Text": "Samegid",
-	"Enabled": true
+    "Enabled": true
   },
   "590000": {
     "OriginalText": "なし",
     "Text": "None",
-	"Enabled": true
+    "Enabled": true
   },
   "590001": {
     "OriginalText": "照準のある位置へ向けて直線的に飛行する火の玉を\n打ち出す。",
@@ -277,4 +278,5 @@
   "590030": {
     "OriginalText": "3方向に大きく広がり目標を執拗に追尾する、闇の弾を\n発射する。",
     "Text": ""
-  },
+  }
+}

@@ -1,3 +1,4 @@
+{
   "150158": {
     "OriginalText": "炎属性ダウンⅠ",
     "Text": "Flame Resist Down I",
@@ -777,4 +778,5 @@
     "OriginalText": "一予備枠",
     "Text": "Reserve Frame",
     "Enabled": true
-  },
+  }
+}

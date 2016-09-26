@@ -1,4 +1,4 @@
-
+{
   "210000": {
     "OriginalText": "---",
     "Text": ""
@@ -226,7 +226,7 @@
   "210109": {
     "OriginalText": "Ｇウォルガーダ討伐",
     "Text": "Subdue G-Wolgahda",
-     "Enabled": true
+    "Enabled": true
   },
   "210110": {
     "OriginalText": "エウリュード討伐",
@@ -244,7 +244,7 @@
   "210113": {
     "OriginalText": "Ｇガウォンダ討伐",
     "Text": "Subdue G-Ga Wonda",
-     "Enabled": true
+    "Enabled": true
   },
   "210114": {
     "OriginalText": "ガラティオン討伐",
@@ -267,7 +267,7 @@
   "210118": {
     "OriginalText": "Ｇキュクロナーダ討伐",
     "Text": "Subdue G-Kuklonahda",
-     "Enabled": true
+    "Enabled": true
   },
   "210119": {
     "OriginalText": "削除",
@@ -280,7 +280,7 @@
   "210121": {
     "OriginalText": "Ｇグウォンダ討伐",
     "Text": "Subdue G-Gu Wonda",
-     "Enabled": true
+    "Enabled": true
   },
   "210122": {
     "OriginalText": "クエストPtをためろ",
@@ -313,7 +313,7 @@
   "210129": {
     "OriginalText": "コラル・ドラゴン討伐",
     "Text": "Subdue Coral Dragon",
-     "Enabled": true
+    "Enabled": true
   },
   "210130": {
     "OriginalText": "ゴルドス討伐",
@@ -413,4 +413,5 @@
   "210152": {
     "OriginalText": "拠点を守れ   拠点耐久",
     "Text": ""
-  },
+  }
+}

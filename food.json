@@ -1,3 +1,4 @@
+{
   "550000": {
     "OriginalText": "//",
     "Text": ""
@@ -169,7 +170,7 @@
   "550035": {
     "OriginalText": "ねばねば餡かけ",
     "Text": "Gooey Ankake",
-    
+    "Enabled": false
   },
   "550036": {
     "OriginalText": "トサカのから揚げ",
@@ -196,4 +197,5 @@
   "550041": {
     "OriginalText": "",
     "Text": ""
-  },
+  }
+}

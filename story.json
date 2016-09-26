@@ -158,22 +158,22 @@
   "100010030010004": {
     "OriginalText": "よく来たな新人。\nあぁ、新人てのはお前のことだよ。",
     "Text": "Welcome, rookies!\nAh, it seems like you're the only rookie here.",
-	"Enabled": true
+    "Enabled": true
   },
   "100010030020004": {
     "OriginalText": "オレは戦闘部隊隊長のフィルディアだ。\nお前はオレの部下ってことになるんで、\nよろしくな。",
     "Text": "I'm Fildia, the combat squad captain.\nSince you will be under my command,\nI thought I'd come and say Hello!",
-	"Enabled": true
+    "Enabled": true
   },
   "100010030030004": {
     "OriginalText": "早速だが、お前の健康状態と\n戦闘技術を確認させてもらう。",
     "Text": "I know it's sudden, but I'd like to\ndo a quick check of your heath\nand combat readiness.",
-	"Enabled": true
+    "Enabled": true
   },
   "100010030040004": {
     "OriginalText": "寝起きで体も鈍ってるだろうから、\n難しいことをやれとは言わねえ。\n軽くいけ、軽く、な。",
     "Text": "I'm sure that your body is slow\nand tired from the cold sleep,\nso take it easy.",
-	"Enabled": true
+    "Enabled": true
   },
   "100010032010000": {
     "OriginalText": "ここには『バトルチュートリアル』が入る予定です。",
@@ -25870,22 +25870,22 @@
   "400000030100410": {
     "OriginalText": "おっし、まずは基本の移動の確認だ。\n準備は出来てるか、新人！",
     "Text": "First, we'll go over the movement basics.\nLet's get to it, rookie!",
-	"Enabled": true
+    "Enabled": true
   },
   "400000030100420": {
     "OriginalText": "次は攻撃動作の確認だな。\nシミュレーターで敵を出すから\n倒していけ！",
     "Text": "Next, we'll review attacking.\nI'm going to spawn some enemies in\nthe simulator. Defeat them!",
-	"Enabled": true
+    "Enabled": true
   },
   "400000030100430": {
     "OriginalText": "そろそろ体が起きてきただろ？\n今度は敵の攻撃からの\n回避方法の確認をするぞ。",
     "Text": "Has your body adjusted by now?\nI'm going to spawn some attacking\nenemies. Avoid or block their attacks.",
-	"Enabled": true
+    "Enabled": true
   },
   "400000030100440": {
     "OriginalText": "よし、これで最後だ。\n後は好きなように敵をぶっ倒してやれ。\nもちろんアイテムの使用も自由だ。",
     "Text": "Well, this ends the training.\nI'll spawn some more enemies, feel free to\ndefeat them any way you choose.",
-	"Enabled": true
+    "Enabled": true
   },
   "401010020100110": {
     "OriginalText": "フィルディア隊長達は先に行っちゃったみたい。\n急いで追いかけるよ、[ruby]相棒[/ruby]！",
