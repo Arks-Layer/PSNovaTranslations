@@ -90,22 +90,22 @@
   },
   "60020": {
     "OriginalText": "ソードの伝備が可能になる。",
-    "Text": "Swords can become equipped.",
+    "Text": "Allows the use of Swords.",
 	"Enabled": true
   },
   "60021": {
     "OriginalText": "パルチザンの伝備が可能になる。",
-    "Text": "Partisans can become equipped.",
+    "Text": "Allows the use of Partisans.",
 	"Enabled": true
   },
   "60022": {
     "OriginalText": "ダブルセイバーの伝備が可能になる。",
-    "Text": "Double Sabers can become equipped.",
+    "Text": "Allows the use of Double Sabers.",
 	"Enabled": true
   },
   "60023": {
     "OriginalText": "ナックルの伝備が可能になる。",
-    "Text": "Knuckles can become equipped.",
+    "Text": "Allows the use of Knuckles.",
 	"Enabled": true
   },
   "60024": {
