@@ -46,47 +46,58 @@
   },
   "60009": {
     "OriginalText": "エネミーの注意を引き付ける。\n\n[a 03]※アクティブスキルは同時に２つまで発動可[b]",
-    "Text": ""
+    "Text": "Attract the attention of enemies.\n[a 03]※Up to 2 actives at the same time.[b]",
+    "Enabled": true
   },
   "60010": {
     "OriginalText": "攻撃を受ける直前にガードすることで\nダメージを無効にする。",
-    "Text": ""
+    "Text": "Nullifies damage when Guarding\njust before the attack hits.",
+    "Enabled": true
   },
   "60011": {
     "OriginalText": "エネミーへの打撃・射撃ダメージを\n上昇させ、自分の防御力を低下させる。\n[a 03]※アクティブスキルは同時に２つまで発動可[b]",
-    "Text": ""
+    "Text": "Increases Striking & Ranged damage\nat the cost of your defense.\n[a 03]※Up to 2 actives at the same time.[b]",
+    "Enabled": true
   },
   "60012": {
     "OriginalText": "打撃防御力をあげ、更に\nあらゆるダメージを軽滅する。\n[a 03]※アクティブスキルは同時に２つまで発動可[b]",
-    "Text": ""
+    "Text": "Raises Striking Defense\nand reduces all damage.\n[a 03]※Up to 2 actives at the same time.[b]",
+    "Enabled": true
   },
   "60013": {
     "OriginalText": "戦闘不能となるダメージを受けたとき\nＨＰが１残ることがある。",
-    "Text": ""
+    "Text": "May survive with 1 HP when\nreceiving damage that would kill you.",
+    "Enabled": true
   },
   "60014": {
     "OriginalText": "打撃・射撃ダメージを\n軽滅することがある。",
-    "Text": ""
+    "Text": "Chance to nullify\nStriking and Ranged damage.",
+    "Enabled": true
   },
   "60015": {
     "OriginalText": "軽快な動作で踏み込み短距離を素早く\n移動する。「ミラージュエスケープ」\n「ダイブロール」と同時セット不可。",
-    "Text": ""
+    "Text": "Step quickly in short distances.\nHowever it can not be set at the same\ntime with Mirage Escape and Dive Roll.",
+    "Enabled": true
   },
   "60016": {
     "OriginalText": "ステップ中の攻撃アクションが\n可能となる。",
-    "Text": ""
+    "Text": "Makes it possible to attack\nduring Step Evasion.",
+    "Enabled": true
   },
   "60017": {
     "OriginalText": "正面から与えるダメージが増加し、\n背後から与えるダメージは滅少する。\n[a 03]※アクティブスキルは同時に２つまで発動可[b]",
-    "Text": ""
+    "Text": "Increases damage when attacking enemies from the front.\n[a 03]※Up to 2 actives at the same time.[b]",
+    "Enabled": true
   },
   "60018": {
     "OriginalText": "背後から与えるダメージが増加し、\n正面から与えるダメージは滅少する。\n[a 03]※アクティブスキルは同時に２つまで発動可[b]",
-    "Text": ""
+    "Text": "Increases damage when attacking enemies from the rear.\n[a 03]※Up to 2 actives at the same time.[b]",
+    "Enabled": true
   },
   "60019": {
     "OriginalText": "武器を正面に構えて、\nエネミーの攻撃を防ぐ。",
-    "Text": ""
+    "Text": "Defend against attacks\nfrom enemies.",
+    "Enabled": true
   },
   "60020": {
     "OriginalText": "ソードの伝備が可能になる。",
@@ -160,7 +171,8 @@
   },
   "60034": {
     "OriginalText": "スティール・ウィル の解説文",
-    "Text": ""
+    "Text": "May survive with 1 HP when\nreceiving damage that would kill you.",
+    "Enabled": true
   },
   "60035": {
     "OriginalText": "技量が１０上昇する。",
@@ -169,12 +181,12 @@
   },
   "60036": {
     "OriginalText": "技量が２０上昇する。",
-    "Text": "Increases DEX by 20.",
+    "Text": "Increases your DEX by 20.",
     "Enabled": true
   },
   "60037": {
     "OriginalText": "技量が３０上昇する。",
-    "Text": "Increases DEX by 30.",
+    "Text": "Increases your DEX by 30.",
     "Enabled": true
   },
   "60038": {
@@ -193,51 +205,63 @@
   },
   "60051": {
     "OriginalText": "射撃力が２５上昇する。",
-    "Text": ""
+    "Text": "Increases your R-ATK by 25.",
+    "Enabled": true
   },
   "60052": {
     "OriginalText": "射撃力が５０上昇する。",
-    "Text": ""
+    "Text": "Increases your R-ATK by 50.",
+    "Enabled": true
   },
   "60053": {
     "OriginalText": "射撃力が１００上昇する。",
-    "Text": ""
+    "Text": "Increases your R-ATK by 100.",
+    "Enabled": true
   },
   "60054": {
     "OriginalText": "技量が１０上昇する。",
-    "Text": ""
+    "Text": "Increases your DEX by 10.",
+    "Enabled": true
   },
   "60055": {
     "OriginalText": "技量が２０上昇する。",
-    "Text": ""
+    "Text": "Increases your DEX by 20.",
+    "Enabled": true
   },
   "60056": {
     "OriginalText": "技量が３０上昇する。",
-    "Text": ""
+    "Text": "Increases your DEX by 30.",
+    "Enabled": true
   },
   "60057": {
     "OriginalText": "射撃防御力が２５上昇する。",
-    "Text": ""
+    "Text": "Increases your R-DEF by 25.",
+    "Enabled": true
   },
   "60058": {
     "OriginalText": "射撃防御力が５０上昇する。",
-    "Text": ""
+    "Text": "Increases your R-DEF by 50.",
+    "Enabled": true
   },
   "60059": {
     "OriginalText": "射撃防御力が１００上昇する。",
-    "Text": ""
+    "Text": "Increases your R-DEF by 100.",
+    "Enabled": true
   },
   "60060": {
     "OriginalText": "射撃で弱点部位を攻撃したときの\nダメージが上昇する。",
-    "Text": ""
+    "Text": "Increases the damage dealt when\nshooting at the enemy’s weak points.",
+    "Enabled": true
   },
   "60061": {
     "OriginalText": "静止した状態で射撃したときの\nダメージが上昇する。",
-    "Text": ""
+    "Text": "Boosts damage when firing\nwhile standing still.",
+    "Enabled": true
   },
   "60062": {
     "OriginalText": "一定時間、射撃攻撃ＧＡの\nＧＰ消費量が滅少する。\n[a 03]※アクティブスキルは同時に２つまで発動可[b]",
-    "Text": ""
+    "Text": "Reduces GP consumption for\nRanged Gran Arts for a limited time.\n[a 03]※Up to 2 actives at the same time.[b]",
+    "Enabled": true
   },
   "60063": {
     "OriginalText": "同じ敵、同じ部位を攻撃し続けると\n射撃力による与ダメージが上がる。",
