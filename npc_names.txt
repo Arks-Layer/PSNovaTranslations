@@ -283,4 +283,4 @@ hunter/cast,クルック
 ranger/cast,リラ
 ranger/human,リーンベル
 ranger/cast,コプト
-hunter/human,フィルディア	
+hunter/human,フィルディア
