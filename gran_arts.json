@@ -41,7 +41,8 @@
   },
   "560008": {
     "OriginalText": "トルネードメテオ",
-    "Text": ""
+    "Text": "Tornado Meteor",
+	"Enabled": true
   },
   "560009": {
     "OriginalText": "通常攻撃",
@@ -80,7 +81,8 @@
   },
   "560016": {
     "OriginalText": "オーバースライサー",
-    "Text": ""
+    "Text": "Over Slicer",
+	  "Enabled": true
   },
   "560017": {
     "OriginalText": "通常攻撃",
@@ -119,7 +121,8 @@
   },
   "560024": {
     "OriginalText": "ムーンサルトラッシュ",
-    "Text": ""
+    "Text": "Moonsault Rush",
+	  "Enabled": true
   },
   "560025": {
     "OriginalText": "通常攻撃",
@@ -158,11 +161,13 @@
   },
   "560032": {
     "OriginalText": "ヘルクラッシュ",
-    "Text": ""
+    "Text": "Hell Crash",
+	  "Enabled": true
   },
   "560033": {
     "OriginalText": "ヘルクラッシュ",
-    "Text": ""
+    "Text": "Hell Crash",
+	"Enabled": true
   },
   "560034": {
     "OriginalText": "ピアッシングシェル",
@@ -196,7 +201,8 @@
   },
   "560040": {
     "OriginalText": "リフレクトイージス",
-    "Text": ""
+    "Text": "Reflect Aegis",
+	  "Enabled": true
   },
   "560041": {
     "OriginalText": "通常攻撃",
@@ -235,7 +241,8 @@
   },
   "560048": {
     "OriginalText": "ダンシングスイープ",
-    "Text": ""
+    "Text": "Dancing Sweep",
+	  "Enabled": true
   },
   "560049": {
     "OriginalText": "通常攻撃",
@@ -259,31 +266,38 @@
   },
   "560053": {
     "OriginalText": "パイルシューター",
-    "Text": ""
+    "Text": "Pile Shooter",
+	  "Enabled": true
   },
   "560054": {
     "OriginalText": "パイルラッシュ",
-    "Text": ""
+    "Text": "Pile Rush",
+	  "Enabled": true
   },
   "560055": {
     "OriginalText": "パイルストーム",
-    "Text": ""
+    "Text": "Pile Storm",
+	  "Enabled": true
   },
   "560056": {
     "OriginalText": "ブーストダンク",
-    "Text": ""
+    "Text": "Boost Dunk",
+	  "Enabled": true
   },
   "560057": {
     "OriginalText": "ブーストブリッツ",
-    "Text": ""
+    "Text": "Boost Blitz",
+	  "Enabled": true
   },
   "560058": {
     "OriginalText": "ライジングインパクト",
-    "Text": ""
+    "Text": "Rising Impact",
+	  "Enabled": true
   },
   "560059": {
     "OriginalText": "バーンスマッシュ",
-    "Text": ""
+    "Text": "Burn Smash",
+	  "Enabled": true
   },
   "560060": {
     "OriginalText": "通常攻撃",
@@ -292,31 +306,38 @@
   },
   "560061": {
     "OriginalText": "リングフィールド",
-    "Text": ""
+    "Text": "Ring Field",
+	  "Enabled": true
   },
   "560062": {
     "OriginalText": "プロテクションウォール",
-    "Text": ""
+    "Text": "Protection Wall",
+	  "Enabled": true
   },
   "560063": {
     "OriginalText": "アグレッシブケイジ",
-    "Text": ""
+    "Text": "Aggressive Cage",
+	  "Enabled": true
   },
   "560064": {
     "OriginalText": "スネアゲート",
-    "Text": ""
+    "Text": "Snare Gate",
+	  "Enabled": true
   },
   "560065": {
     "OriginalText": "アッパービート",
-    "Text": ""
+    "Text": "Upper Beat",
+	  "Enabled": true
   },
   "560066": {
     "OriginalText": "サテライトビット",
-    "Text": ""
+    "Text": "Satellite Bit",
+	  "Enabled": true
   },
   "560067": {
     "OriginalText": "レゾナンスキャノン",
-    "Text": ""
+    "Text": "Resonance Cannon",
+	  "Enabled": true
   },
   "560068": {
     "OriginalText": "通常攻撃",
@@ -330,27 +351,33 @@
   },
   "560070": {
     "OriginalText": "バーストショット",
-    "Text": ""
+    "Text": "Burst Shot",
+	  "Enabled": true
   },
   "560071": {
     "OriginalText": "シングルショット",
-    "Text": ""
+    "Text": "Single Shot",
+	  "Enabled": true
   },
   "560072": {
     "OriginalText": "フルオートショット",
-    "Text": ""
+    "Text": "Full Auto Shot",
+	  "Enabled": true
   },
   "560073": {
     "OriginalText": "ファングラッシュ",
-    "Text": ""
+    "Text": "Fang Rush",
+	  "Enabled": true
   },
   "560074": {
     "OriginalText": "ソニックフィンガー",
-    "Text": ""
+    "Text": "Sonic Finger",
+	  "Enabled": true
   },
   "560075": {
     "OriginalText": "ソニックスラップ",
-    "Text": ""
+    "Text": "Sonic SLap",
+	  "Enabled": true
   },
   "570000": {
     "OriginalText": "なし",
