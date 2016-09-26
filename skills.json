@@ -141,7 +141,8 @@
   },
   "50029": {
     "OriginalText": "打撃力アップⅤ",
-    "Text": "S-ATK Up 5"
+    "Text": "S-ATK Up 5",
+    "Enabled": true
   },
   "50030": {
     "OriginalText": "打撃防御アップⅣ",
