@@ -4,43 +4,53 @@
   },
   "550001": {
     "OriginalText": "水",
-    "Text": ""
+    "Text": "Water",
+    "Enabled": true
   },
   "550002": {
     "OriginalText": "獣肉炒め",
-    "Text": ""
+    "Text": "Fried Meat",
+    "Enabled": true
   },
   "550003": {
     "OriginalText": "ブラックオムレツ",
-    "Text": ""
+    "Text": "Black Omelet",
+    "Enabled": true
   },
   "550004": {
     "OriginalText": "生鑑いたまご焼き",
-    "Text": ""
+    "Text": "Fishy Rolled Omelet",
+    "Enabled": true
   },
   "550005": {
     "OriginalText": "闇色の鍋",
-    "Text": ""
+    "Text": "Dark Stew",
+    "Enabled": true
   },
   "550006": {
     "OriginalText": "獣肉ときのこのソテー",
-    "Text": ""
+    "Text": "Sauteed Mushrooms and Meat",
+    "Enabled": true
   },
   "550007": {
     "OriginalText": "ぶっこみ鍋",
-    "Text": ""
+    "Text": "Mixed Stew",
+    "Enabled": true
   },
   "550008": {
     "OriginalText": "アイスクリーム",
-    "Text": ""
+    "Text": "Ice Cream",
+    "Enabled": true
   },
   "550009": {
     "OriginalText": "派手な産鮮丼",
-    "Text": ""
+    "Text": "Extravagant Seafood Donburi",
+    "Enabled": true
   },
   "550010": {
     "OriginalText": "闇色の具だくさんスープ",
-    "Text": ""
+    "Text": "Dark Hearty Soup",
+    "Enabled": true
   },
   "550011": {
     "OriginalText": "大人用プレート",
@@ -56,43 +66,53 @@
   },
   "550014": {
     "OriginalText": "パン",
-    "Text": ""
+    "Text": "Bread",
+    "Enabled": true
   },
   "550015": {
     "OriginalText": "派手な刺身",
-    "Text": ""
+    "Text": "Extravagant Sashimi",
+    "Enabled": true
   },
   "550016": {
     "OriginalText": "闇色のスープ",
-    "Text": ""
+    "Text": "Dark Soup",
+    "Enabled": true
   },
   "550017": {
     "OriginalText": "しっぽ焼き",
-    "Text": ""
+    "Text": "Fried Tail",
+    "Enabled": true
   },
   "550018": {
     "OriginalText": "ねばジュース",
-    "Text": ""
+    "Text": "Goopy Juice",
+    "Enabled": true
   },
   "550019": {
     "OriginalText": "ヘルシーパスタ",
-    "Text": ""
+    "Text": "Healthy Pasta",
+    "Enabled": true
   },
   "550020": {
     "OriginalText": "祭の地獄焼き",
-    "Text": ""
+    "Text": "Fried Shellfish",
+    "Enabled": true
   },
   "550021": {
     "OriginalText": "やわらかクリームシチュー",
-    "Text": ""
+    "Text": "Tender Cream Stew",
+    "Enabled": true
   },
   "550022": {
     "OriginalText": "キラキラリーフサラダ",
-    "Text": ""
+    "Text": "Glistening Leafy Salad",
+    "Enabled": true
   },
   "550023": {
     "OriginalText": "ワイルドダークシチュー",
-    "Text": ""
+    "Text": "Wild Dark Stew",
+    "Enabled": true
   },
   "550024": {
     "OriginalText": "たまごとじ丼",
@@ -108,47 +128,58 @@
   },
   "550027": {
     "OriginalText": "干し肉",
-    "Text": ""
+    "Text": "Jerky",
+    "Enabled": true
   },
   "550028": {
     "OriginalText": "サラダ",
-    "Text": ""
+    "Text": "Salad",
+    "Enabled": true
   },
   "550029": {
     "OriginalText": "ギガ骨付き肉",
-    "Text": ""
+    "Text": "Giga Ribs",
+    "Enabled": true
   },
   "550030": {
     "OriginalText": "ギガショートケーキ",
-    "Text": ""
+    "Text": "Giga Short Cake",
+    "Enabled": true
   },
   "550031": {
     "OriginalText": "ギガサーロインステーキ",
-    "Text": ""
+    "Text": "Giga Sirloin Steak",
+    "Enabled": true
   },
   "550032": {
     "OriginalText": "大きな焼肉定食",
-    "Text": ""
+    "Text": "Large Grilled Meat",
+    "Enabled": true
   },
   "550033": {
     "OriginalText": "サイコロステーキ",
-    "Text": ""
+    "Text": "Diced Steak",
+    "Enabled": true
   },
   "550034": {
     "OriginalText": "ギガガラスープ",
-    "Text": ""
+    "Text": "Giga Bone Soup",
+    "Enabled": true
   },
   "550035": {
     "OriginalText": "ねばねば餡かけ",
-    "Text": ""
+    "Text": "Gooey Ankake",
+    
   },
   "550036": {
     "OriginalText": "トサカのから揚げ",
-    "Text": ""
+    "Text": "Fried Chicken",
+    "Enabled": true
   },
   "550037": {
     "OriginalText": "ギガ魚フライ定食",
-    "Text": ""
+    "Text": "Giga Fried Fish",
+    "Enabled": true
   },
   "550038": {
     "OriginalText": "ギガババロア",
