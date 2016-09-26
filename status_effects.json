@@ -1,0 +1,78 @@
+
+  "640000": {
+    "OriginalText": "なし",
+    "Text": "None",
+	"Enabled": true
+  },
+  "640001": {
+    "OriginalText": "炎属性状態異常",
+    "Text": ""
+  },
+  "640002": {
+    "OriginalText": "劇属性状態異常",
+    "Text": ""
+  },
+  "640003": {
+    "OriginalText": "雷属性状態異常",
+    "Text": ""
+  },
+  "640004": {
+    "OriginalText": "光属性状態異常",
+    "Text": ""
+  },
+  "640005": {
+    "OriginalText": "闇属性状態異常",
+    "Text": ""
+  },
+  "640006": {
+    "OriginalText": "風属性状態異常",
+    "Text": ""
+  },
+  "640007": {
+    "OriginalText": "全属性状態異常",
+    "Text": ""
+  },
+  "640008": {
+    "OriginalText": "グラン中毒",
+    "Text": ""
+  },
+  "640009": {
+    "OriginalText": "バインド",
+    "Text": ""
+  },
+  "640010": {
+    "OriginalText": "インフェクション",
+    "Text": ""
+  },
+  "640011": {
+    "OriginalText": "ブラインド",
+    "Text": ""
+  },
+  "640012": {
+    "OriginalText": "怒りモード",
+    "Text": ""
+  },
+  "640013": {
+    "OriginalText": "料理効果",
+    "Text": ""
+  },
+  "640014": {
+    "OriginalText": "攻撃力上昇",
+    "Text": ""
+  },
+  "640015": {
+    "OriginalText": "攻撃力低下",
+    "Text": ""
+  },
+  "640016": {
+    "OriginalText": "防御力上昇",
+    "Text": ""
+  },
+  "640017": {
+    "OriginalText": "防御力低下",
+    "Text": ""
+  },
+  "640018": {
+    "OriginalText": "ブーストアイテム効果",
+    "Text": ""
+  },
