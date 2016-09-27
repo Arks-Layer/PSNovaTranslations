@@ -9,15 +9,18 @@
   },
   "50194": {
     "OriginalText": "攻撃力アップ",
-    "Text": ""
+    "Text": "Attack Power Up"
+    "Enabled": true
   },
   "50207": {
     "OriginalText": "ウェポンマスター",
-    "Text": ""
+    "Text": "Weapon Master"
+    "Enabled": true
   },
   "50215": {
     "OriginalText": "デバンドカット",
-    "Text": ""
+    "Text": "Deband Cut"
+    "Enabled": true
   },
   "50217": {
     "OriginalText": "残ＨＰ少法撃力アップ",
@@ -29,6 +32,7 @@
   },
   "50246": {
     "OriginalText": "テリトリーＧＰセイブ",
-    "Text": ""
+    "Text": "Territory GP Save"
+    "Enabled": true
   }
 }
