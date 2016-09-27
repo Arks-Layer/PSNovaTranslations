@@ -265,11 +265,13 @@
   },
   "60063": {
     "OriginalText": "同じ敵、同じ部位を攻撃し続けると\n射撃力による与ダメージが上がる。",
-    "Text": ""
+    "Text": "Increases shooting damage when\ncontinuously attacking the\nsame part of the enemy.",
+    "Enabled": true
   },
   "60064": {
     "OriginalText": "打撃力、法撃力を一定割合分、\n射撃力にコンバートする。",
-    "Text": ""
+    "Text": "Converts a percentage of your\nS-ATK and T-ATK into R-ATK.",
+    "Enabled": true
   },
   "60065": {
     "OriginalText": "攻撃をヒットさせると、\n発生するヘイトにボーナスがつく効果。\n移動速度が２０％アップする。",
@@ -285,84 +287,103 @@
   },
   "60068": {
     "OriginalText": "飛び込むような鑽動で短距離を素早く\n移動する。「ミラージュエスケープ」\n「ステップ」と同時セット不可。",
-    "Text": ""
+    "Text": "Allows Dive Rolls to be used.\nHowever it can not be set at the same\ntime with Mirage Escape and Step.",
+    "Enabled": true
   },
   "60069": {
     "OriginalText": "通常攻撃をヒットさせたときの\nＧＰ回復量が増加する。",
-    "Text": ""
+    "Text": "Increases the amount of GP restored\nwhen normal attacks hit the enemy.",
+    "Enabled": true
   },
   "60070": {
     "OriginalText": "近距離で射撃攻撃をヒットすると\nダメージが上昇する。",
-    "Text": ""
+    "Text": "Boosts damage when shots\nhit at close range.",
+    "Enabled": true
   },
   "60071": {
     "OriginalText": "空中にいるエネミーに攻撃をヒット\nさせたときダメージが上昇する。",
-    "Text": ""
+    "Text": "Increases damage when attacks\nhit the enemies in the air.",
+    "Enabled": true
   },
   "60072": {
     "OriginalText": "アサルトライフルの伝備が\n可能になる。",
-    "Text": ""
+    "Text": "Allows the use of Assault Rifles",
+    "Enabled": true
   },
   "60073": {
     "OriginalText": "ツインマシンガンの伝備が\n可能になる。",
-    "Text": ""
+    "Text": "Allows the use of Twin Machine Guns",
+    "Enabled": true
   },
   "60074": {
     "OriginalText": "ツインマシンガン伝備時のみ有効な\n攻撃を回避する武器アクション。",
-    "Text": ""
+    "Text": "Allows Stylish Rolls to be used\nwith Twin Machine Guns only.",
+    "Enabled": true
   },
   "60075": {
     "OriginalText": "スタイリッシュロール及び\nダイブロール中、\nエネミーへのダメージが上昇する。",
-    "Text": ""
+    "Text": "Boosts damage against the enemy\nfollowing a Stylish or Dive Roll",
+    "Enabled": true
   },
   "60076": {
     "OriginalText": "スタイリッシュロール及び\nダイブロールからのジャスト\nアタックに威力ボーナスを得る。",
-    "Text": ""
+    "Text": "Boosts power to Just Attacks\nfollowing a Stylish or Dive Roll.",
+    "Enabled": true
   },
   "60077": {
     "OriginalText": "一定範囲内でエネミーが死亡すると、\nＧＰが回復する。",
-    "Text": ""
+    "Text": "Recovers GP when enemies\ndie within a certain range.",
+    "Enabled": true
   },
   "60078": {
     "OriginalText": "射撃力が２５０上昇する。\n\n[a 03]※アクティブスキルは同時に２つまで発動可[b]",
-    "Text": ""
+    "Text": "Temporarily boosts R-ATK by 250.\n[a 03]※Up to 2 actives at the same time.[b]",
+    "Enabled": true
   },
   "60079": {
     "OriginalText": "射撃力が１５０上昇する。",
-    "Text": ""
+    "Text": "Increases your R-ATK by 150.",
+    "Enabled": true
   },
   "60080": {
     "OriginalText": "射撃力が２００上昇する。",
-    "Text": ""
+    "Text": "Increases your R-ATK by 200.",
+    "Enabled": true
   },
   "60081": {
     "OriginalText": "技量が４０上昇する。",
-    "Text": ""
+    "Text": "Increases your DEX by 40.",
+    "Enabled": true
   },
   "60082": {
     "OriginalText": "技量が５０上昇する。",
-    "Text": ""
+    "Text": "Increases your DEX by 50.",
+    "Enabled": true
   },
   "60083": {
     "OriginalText": "射撃防御力が１５０上昇する。",
-    "Text": ""
+    "Text": "Increases your R-DEF by 150.",
+    "Enabled": true
   },
   "60084": {
     "OriginalText": "射撃防御力が２００上昇する。",
-    "Text": ""
+    "Text": "Increases your R-DEF by 200.",
+    "Enabled": true
   },
   "60085": {
     "OriginalText": "同じ敵、同じ部位を攻撃し続けると\n射撃力による与ダメージが上がる。\n",
-    "Text": ""
+    "Text": "Increases shooting damage\nwhen attacking the same spot.",
+    "Enabled": true
   },
   "60086": {
     "OriginalText": "オートメイトデッドライン の解説文",
-    "Text": "When your HP falls below 25%,\nautomatically use a mate item on yourself.",
+    "Text": "When your HP falls below 25%,\nautomatically use a\nmate item on yourself.",
     "Enabled": true
   },
   "60087": {
     "OriginalText": "ＧＰセイブマガジン２ の解説文",
-    "Text": ""
+    "Text": "Reduces GP consumption for\nRanged Gran Arts by 0,\nfor a limited time.",
+    "Enabled": true
   },
   "60088": {
     "OriginalText": "ウィークヒットアドバンス２ の解説文",
@@ -374,7 +395,8 @@
   },
   "60090": {
     "OriginalText": "パワーマガジン２ の解説文",
-    "Text": ""
+    "Text": "Temporarily boosts your R-ATK by 4000.",
+    "Enabled": true
   },
   "60091": {
     "OriginalText": "",
@@ -382,7 +404,8 @@
   },
   "60101": {
     "OriginalText": "法撃力が２５上昇する。",
-    "Text": ""
+    "Text": "Increases your T-ATK by 25.",
+    "Enabled": true
   },
   "60102": {
     "OriginalText": "法撃力が５０上昇する。",
