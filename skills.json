@@ -7,21 +7,6 @@
     "OriginalText": "満用リングフィールド",
     "Text": ""
   },
-  "50194": {
-    "OriginalText": "攻撃力アップ",
-    "Text": "Attack Power Up",
-    "Enabled": true
-  },
-  "50207": {
-    "OriginalText": "ウェポンマスター",
-    "Text": "Weapon Master",
-    "Enabled": true
-  },
-  "50215": {
-    "OriginalText": "デバンドカット",
-    "Text": "Deband Cut",
-    "Enabled": true
-  },
   "50217": {
     "OriginalText": "残ＨＰ少法撃力アップ",
     "Text": ""
@@ -30,9 +15,4 @@
     "OriginalText": "残ＨＰ少攻撃力アップⅡ",
     "Text": ""
   },
-  "50246": {
-    "OriginalText": "テリトリーＧＰセイブ",
-    "Text": "Territory GP Save",
-    "Enabled": true
-  }
 }
