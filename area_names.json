@@ -1,148 +1,148 @@
-
+{
   "790001": {
     "OriginalText": "銅の荒野 1",
     "Text": "Copper Wastelands 1",
-	"Enabled": true
+    "Enabled": true
   },
   "790002": {
     "OriginalText": "銅の荒野 2",
     "Text": "Copper Wastelands 2",
-	"Enabled": true
+    "Enabled": true
   },
   "790003": {
     "OriginalText": "銅の荒野 3",
     "Text": "Copper Wastelands 3",
-	"Enabled": true
+    "Enabled": true
   },
   "790004": {
     "OriginalText": "銅の荒野 4",
     "Text": "Copper Wastelands 4",
-	"Enabled": true
+    "Enabled": true
   },
   "790005": {
     "OriginalText": "バトル体験版２特別マップ",
     "Text": "Special Map: Battle Trial 2",
-	"Enabled": true
+    "Enabled": true
   },
   "790006": {
     "OriginalText": "グラン水装 1",
     "Text": "Gran Water Rig 1",
-	"Enabled": true
+    "Enabled": true
   },
   "790007": {
     "OriginalText": "グラン水装 2",
     "Text": "Gran Water Rig 2",
-	"Enabled": true
+    "Enabled": true
   },
   "790008": {
     "OriginalText": "グラン水装 3",
     "Text": "Gran Water Rig 3",
-	"Enabled": true
+    "Enabled": true
   },
   "790009": {
     "OriginalText": "炎の高地 1",
     "Text": "Flame Highlands 1",
-	"Enabled": true
+    "Enabled": true
   },
   "790010": {
     "OriginalText": "炎の高地 2",
     "Text": "Flame Highlands 2",
-	"Enabled": true
+    "Enabled": true
   },
   "790011": {
     "OriginalText": "炎の高地 3",
     "Text": "Flame Highlands 3",
-	"Enabled": true
+    "Enabled": true
   },
   "790012": {
     "OriginalText": "炎の高地 4",
     "Text": "Flame Highlands 4",
-	"Enabled": true
+    "Enabled": true
   },
   "790013": {
     "OriginalText": "古代都市 1",
     "Text": "Ancient City 1",
-	"Enabled": true
+    "Enabled": true
   },
   "790014": {
     "OriginalText": "古代都市 2",
     "Text": "Ancient City 2",
-	"Enabled": true
+    "Enabled": true
   },
   "790015": {
     "OriginalText": "大尖塔 1",
     "Text": "Large Spire 1",
-	"Enabled": true
+    "Enabled": true
   },
   "790016": {
     "OriginalText": "大尖塔 2",
     "Text": "Large Spire 2",
-	"Enabled": true
+    "Enabled": true
   },
   "790017": {
     "OriginalText": "ノヴァ内部",
     "Text": "Nova Interior",
-	"Enabled": true
+    "Enabled": true
   },
   "790018": {
     "OriginalText": "？？？",
     "Text": "???",
-	"Enabled": true
+    "Enabled": true
   },
   "790019": {
     "OriginalText": "拠点",
     "Text": "Base",
-	"Enabled": true
+    "Enabled": true
   },
   "790020": {
     "OriginalText": "上層",
     "Text": "Upper Levels",
-	"Enabled": true
+    "Enabled": true
   },
   "790021": {
     "OriginalText": "デルタ・ヴァリアント探索拠点",
     "Text": "Delta Variant Exploration Base",
-	"Enabled": true
+    "Enabled": true
   },
   "790022": {
     "OriginalText": "下層",
     "Text": "Lower Levels",
-	"Enabled": true
+    "Enabled": true
   },
   "790023": {
     "OriginalText": "ブリッジ",
     "Text": "Bridge",
-	"Enabled": true
+    "Enabled": true
   },
   "790024": {
     "OriginalText": "コールドスリープルーム",
     "Text": "Cold Sleep Room",
-	"Enabled": true
+    "Enabled": true
   },
   "790025": {
     "OriginalText": "マルチプレイルーム",
     "Text": "Multiplayer Room",
-	"Enabled": true
+    "Enabled": true
   },
   "790026": {
     "OriginalText": "トレーニングルーム",
     "Text": "Training Room",
-	"Enabled": true
+    "Enabled": true
   },
   "790027": {
     "OriginalText": "エリア1",
     "Text": "Area 1",
-	"Enabled": true
+    "Enabled": true
   },
   "790028": {
     "OriginalText": "エリア2",
     "Text": "Area 2",
-	"Enabled": true
+    "Enabled": true
   },
   "790029": {
     "OriginalText": "エリア3",
     "Text": "Area 3",
-	"Enabled": true
+    "Enabled": true
   },
   "790030": {
     "OriginalText": "グラン水装 4",
@@ -151,44 +151,45 @@
   "790031": {
     "OriginalText": "？？",
     "Text": "??",
-	"Enabled": true
+    "Enabled": true
   },
   "790032": {
     "OriginalText": "銅の荒野",
     "Text": "Copper Wastelands",
-	"Enabled": true
+    "Enabled": true
   },
   "790033": {
     "OriginalText": "グラン水装",
     "Text": "Gran Water Rig",
-	"Enabled": true
+    "Enabled": true
   },
   "790034": {
     "OriginalText": "炎の高地",
     "Text": "Flame Highlands",
-	"Enabled": true
+    "Enabled": true
   },
   "790035": {
     "OriginalText": "大尖塔",
     "Text": "Large Spire",
-	"Enabled": true
+    "Enabled": true
   },
   "790036": {
     "OriginalText": "古代都市",
     "Text": "Ancient City",
-	"Enabled": true
+    "Enabled": true
   },
   "790037": {
     "OriginalText": "ノヴァ内部",
     "Text": "Nova Interior",
-	"Enabled": true
+    "Enabled": true
   },
   "790038": {
     "OriginalText": "未知",
     "Text": "Unknown",
-	"Enabled": true
+    "Enabled": true
   },
   "800000": {
     "OriginalText": "",
     "Text": ""
-  },
+  }
+}
