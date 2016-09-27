@@ -1039,7 +1039,7 @@
   },
   "60247": {
     "OriginalText": "伝備しているウォンドの法撃力から\n一定割合を打撃力として追加する。",
-    "Text": "Boosts the wand’s S-ATK\musing T-ATK as reference.",
+    "Text": "Boosts the wand’s S-ATK\nusing T-ATK as reference.",
 	"Enabled": true
   },
   "60248": {
