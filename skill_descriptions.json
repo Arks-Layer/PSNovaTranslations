@@ -984,9 +984,8 @@
   "60236": {
     "OriginalText": "ＨＰの上限値が４００上昇する。",
     "Text": "Increases your max HP by 400.",
-	"Enabled": true
-  },,
-	"Enabled": true
+    "Enabled": true
+  },
   "60237": {
     "OriginalText": "ＧＰの上限値が１５上昇する。",
     "Text": "Increases your max GP by 15",
