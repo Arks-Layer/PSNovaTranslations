@@ -1,1 +1,2 @@
-*.json  text=auto -whitespace eol=crlf
+*.json  text=auto eol=crlf
+*.txt text=auto eol=crlf

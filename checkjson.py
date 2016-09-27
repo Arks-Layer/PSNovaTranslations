@@ -9,7 +9,12 @@ json_files = [f for f in os.listdir('.') if re.match(r'.*\.json', f)]
 for files in json_files:
     with open(files) as json_file:
         try:
-            simplejson.load(json_file)
+            l = []
+            l.append('{')
+            l.append(json_file.read()[2:-3])
+            l.append('}')
+            s = ''.join(l)
+            simplejson.loads(s)
         except ValueError as e:
             print("%s: %s") % (files, e)
             invalid_json_files.append(files)
