@@ -26,15 +26,18 @@
   },
   "790006": {
     "OriginalText": "グラン水装 1",
-    "Text": ""
+    "Text": "Gran Water Rig 1",
+	"Enabled": true
   },
   "790007": {
     "OriginalText": "グラン水装 2",
-    "Text": ""
+    "Text": "Gran Water Rig 2",
+	"Enabled": true
   },
   "790008": {
     "OriginalText": "グラン水装 3",
-    "Text": ""
+    "Text": "Gran Water Rig 3",
+	"Enabled": true
   },
   "790009": {
     "OriginalText": "炎の高地 1",
@@ -143,7 +146,7 @@
   },
   "790030": {
     "OriginalText": "グラン水装 4",
-    "Text": ""
+    "Text": "Gran Water Rig 4"
   },
   "790031": {
     "OriginalText": "？？",
@@ -157,7 +160,8 @@
   },
   "790033": {
     "OriginalText": "グラン水装",
-    "Text": ""
+    "Text": "Gran Water Rig",
+	"Enabled": true
   },
   "790034": {
     "OriginalText": "炎の高地",
@@ -176,7 +180,8 @@
   },
   "790037": {
     "OriginalText": "ノヴァ内部",
-    "Text": ""
+    "Text": "Nova Interior",
+	"Enabled": true
   },
   "790038": {
     "OriginalText": "未知",
