@@ -1,194 +1,4 @@
 {
-  "150158": {
-    "OriginalText": "炎属性ダウンⅠ",
-    "Text": "Flame Resist Down I",
-    "Enabled": true
-  },
-  "150159": {
-    "OriginalText": "炎属性ダウンⅡ",
-    "Text": "Flame Resist Down II",
-    "Enabled": true
-  },
-  "150160": {
-    "OriginalText": "炎属性ダウンⅢ",
-    "Text": "Flame Resist Down III",
-    "Enabled": true
-  },
-  "150161": {
-    "OriginalText": "炎属性ダウンⅣ",
-    "Text": "Flame Resist Down IV",
-    "Enabled": true
-  },
-  "150162": {
-    "OriginalText": "炎属性ダウンⅤ",
-    "Text": "Flame Resist Down V",
-    "Enabled": true
-  },
-  "150163": {
-    "OriginalText": "氷属性ダウンⅠ",
-    "Text": "Ice Resist Down I",
-    "Enabled": true
-  },
-  "150164": {
-    "OriginalText": "氷属性ダウンⅡ",
-    "Text": "Ice Resist Down II",
-    "Enabled": true
-  },
-  "150165": {
-    "OriginalText": "氷属性ダウンⅢ",
-    "Text": "Ice Resist Down III",
-    "Enabled": true
-  },
-  "150166": {
-    "OriginalText": "氷属性ダウンⅣ",
-    "Text": "Ice Resist Down IV",
-    "Enabled": true
-  },
-  "150167": {
-    "OriginalText": "氷属性ダウンⅤ",
-    "Text": "Ice Resist Down V",
-    "Enabled": true
-  },
-  "150168": {
-    "OriginalText": "雷属性ダウンⅠ",
-    "Text": "Thunder Resist Down I",
-    "Enabled": true
-  },
-  "150169": {
-    "OriginalText": "雷属性ダウンⅡ",
-    "Text": "Thunder Resist Down II",
-    "Enabled": true
-  },
-  "150170": {
-    "OriginalText": "雷属性ダウンⅢ",
-    "Text": "Thunder Resist Down III",
-    "Enabled": true
-  },
-  "150171": {
-    "OriginalText": "雷属性ダウンⅣ",
-    "Text": "Thunder Resist Down IV",
-    "Enabled": true
-  },
-  "150172": {
-    "OriginalText": "雷属性ダウンⅤ",
-    "Text": "Thunder Resist Down V",
-    "Enabled": true
-  },
-  "150173": {
-    "OriginalText": "風属性ダウンⅠ",
-    "Text": "Wind Resist Down I",
-    "Enabled": true
-  },
-  "150174": {
-    "OriginalText": "風属性ダウンⅡ",
-    "Text": "Wind Resist Down II",
-    "Enabled": true
-  },
-  "150175": {
-    "OriginalText": "風属性ダウンⅢ",
-    "Text": "Wind Resist Down III",
-    "Enabled": true
-  },
-  "150176": {
-    "OriginalText": "風属性ダウンⅣ",
-    "Text": "Wind Resist Down IV",
-    "Enabled": true
-  },
-  "150177": {
-    "OriginalText": "風属性ダウンⅤ",
-    "Text": "Wind Resist Down V",
-    "Enabled": true
-  },
-  "150178": {
-    "OriginalText": "光属性ダウンⅠ",
-    "Text": "Light Resist Down I",
-    "Enabled": true
-  },
-  "150179": {
-    "OriginalText": "光属性ダウンⅡ",
-    "Text": "Light Resist Down II",
-    "Enabled": true
-  },
-  "150180": {
-    "OriginalText": "光属性ダウンⅢ",
-    "Text": "Light Resist Down III",
-    "Enabled": true
-  },
-  "150181": {
-    "OriginalText": "光属性ダウンⅣ",
-    "Text": "Light Resist Down IV",
-    "Enabled": true
-  },
-  "150182": {
-    "OriginalText": "光属性ダウンⅤ",
-    "Text": "Light Resist Down V",
-    "Enabled": true
-  },
-  "150183": {
-    "OriginalText": "闇属性ダウンⅠ",
-    "Text": "Dark Resist Down I",
-    "Enabled": true
-  },
-  "150184": {
-    "OriginalText": "闇属性ダウンⅡ",
-    "Text": "Dark Resist Down II",
-    "Enabled": true
-  },
-  "150185": {
-    "OriginalText": "闇属性ダウンⅢ",
-    "Text": "Dark Resist Down III",
-    "Enabled": true
-  },
-  "150186": {
-    "OriginalText": "闇属性ダウンⅣ",
-    "Text": "Dark Resist Down IV",
-    "Enabled": true
-  },
-  "150187": {
-    "OriginalText": "闇属性ダウンⅤ",
-    "Text": "Dark Resist Down V",
-    "Enabled": true
-  },
-  "150188": {
-    "OriginalText": "全属性ダウンⅠ",
-    "Text": "All Resist Down I",
-    "Enabled": true
-  },
-  "150189": {
-    "OriginalText": "全属性ダウンⅡ",
-    "Text": "All Resist Down II",
-    "Enabled": true
-  },
-  "150190": {
-    "OriginalText": "全属性ダウンⅢ",
-    "Text": "All Resist Down III",
-    "Enabled": true
-  },
-  "150191": {
-    "OriginalText": "全属性ダウンⅣ",
-    "Text": "All Resist Down IV",
-    "Enabled": true
-  },
-  "150192": {
-    "OriginalText": "全属性ダウンⅤ",
-    "Text": "All Resist Down V",
-    "Enabled": true
-  },
-  "150193": {
-    "OriginalText": "刹那の撃鉄",
-    "Text": "Immediate Strike",
-    "Enabled": true
-  },
-  "150194": {
-    "OriginalText": "刹那の崩撃",
-    "Text": "Immediate Destruction",
-    "Enabled": true
-  },
-  "150195": {
-    "OriginalText": "一予備枠",
-    "Text": "Reserve Frame",
-    "Enabled": true
-  },
   "150196": {
     "OriginalText": "瞬刻の理",
     "Text": ""
@@ -196,11 +6,6 @@
   "150197": {
     "OriginalText": "瞬刻の天理",
     "Text": ""
-  },
-  "150198": {
-    "OriginalText": "一予備枠",
-    "Text": "Reserve Frame",
-    "Enabled": true
   },
   "150199": {
     "OriginalText": "人導体",
@@ -210,11 +15,6 @@
     "OriginalText": "超人導体",
     "Text": ""
   },
-  "150201": {
-    "OriginalText": "一予備枠",
-    "Text": "Reserve Frame",
-    "Enabled": true
-  },
   "150202": {
     "OriginalText": "気配遮断",
     "Text": ""
@@ -222,11 +22,6 @@
   "150203": {
     "OriginalText": "気配消去",
     "Text": ""
-  },
-  "150204": {
-    "OriginalText": "一予備枠",
-    "Text": "Reserve Frame",
-    "Enabled": true
   },
   "150205": {
     "OriginalText": "不屈の心",
@@ -272,11 +67,6 @@
     "OriginalText": "羅刹紋",
     "Text": ""
   },
-  "150216": {
-    "OriginalText": "一予備枠",
-    "Text": "Reserve Frame",
-    "Enabled": true
-  },
   "150217": {
     "OriginalText": "痛打必倒",
     "Text": ""
@@ -284,11 +74,6 @@
   "150218": {
     "OriginalText": "痛打必殺",
     "Text": ""
-  },
-  "150219": {
-    "OriginalText": "一予備枠",
-    "Text": "Reserve Frame",
-    "Enabled": true
   },
   "150220": {
     "OriginalText": "零の手",
@@ -321,11 +106,6 @@
   "150227": {
     "OriginalText": "煌気光",
     "Text": ""
-  },
-  "150228": {
-    "OriginalText": "一予備枠",
-    "Text": "Reserve Frame",
-    "Enabled": true
   },
   "150229": {
     "OriginalText": "紅蓮結晶",
@@ -383,24 +163,9 @@
     "OriginalText": "観理識",
     "Text": ""
   },
-  "150243": {
-    "OriginalText": "一予備枠",
-    "Text": "Reserve Frame",
-    "Enabled": true
-  },
   "150244": {
     "OriginalText": "古の誓い",
     "Text": ""
-  },
-  "150245": {
-    "OriginalText": "一予備枠",
-    "Text": "Reserve Frame",
-    "Enabled": true
-  },
-  "150246": {
-    "OriginalText": "一予備枠",
-    "Text": "Reserve Frame",
-    "Enabled": true
   },
   "150247": {
     "OriginalText": "奪命剣",
@@ -409,11 +174,6 @@
   "150248": {
     "OriginalText": "奪命刃",
     "Text": ""
-  },
-  "150249": {
-    "OriginalText": "一予備枠",
-    "Text": "Reserve Frame",
-    "Enabled": true
   },
   "150250": {
     "OriginalText": "光戦形態",
@@ -455,16 +215,6 @@
     "OriginalText": "薬の心得",
     "Text": ""
   },
-  "150260": {
-    "OriginalText": "一予備枠",
-    "Text": "Reserve Frame",
-    "Enabled": true
-  },
-  "150261": {
-    "OriginalText": "一予備枠",
-    "Text": "Reserve Frame",
-    "Enabled": true
-  },
   "150262": {
     "OriginalText": "審判の時",
     "Text": ""
@@ -472,11 +222,6 @@
   "150263": {
     "OriginalText": "運命の時",
     "Text": ""
-  },
-  "150264": {
-    "OriginalText": "一予備枠",
-    "Text": "Reserve Frame",
-    "Enabled": true
   },
   "150265": {
     "OriginalText": "慎怒の構え",
@@ -498,11 +243,6 @@
     "OriginalText": "捨身の印",
     "Text": ""
   },
-  "150270": {
-    "OriginalText": "一予備枠",
-    "Text": "Reserve Frame",
-    "Enabled": true
-  },
   "150271": {
     "OriginalText": "守勢練陣",
     "Text": ""
@@ -510,11 +250,6 @@
   "150272": {
     "OriginalText": "守勢練塞",
     "Text": ""
-  },
-  "150273": {
-    "OriginalText": "一予備枠",
-    "Text": "Reserve Frame",
-    "Enabled": true
   },
   "150274": {
     "OriginalText": "正対の構え",
@@ -524,21 +259,11 @@
     "OriginalText": "正対の型",
     "Text": ""
   },
-  "150276": {
-    "OriginalText": "一予備枠",
-    "Text": "Reserve Frame",
-    "Enabled": true
-  },
   "150277": {
     "OriginalText": "炎獄",
     "Text": ""
   },
   "150278": {
-    "OriginalText": "一予備枠",
-    "Text": "Reserve Frame",
-    "Enabled": true
-  },
-  "150279": {
     "OriginalText": "一予備枠",
     "Text": "Reserve Frame",
     "Enabled": true
@@ -550,11 +275,6 @@
   "150281": {
     "OriginalText": "正対の必墜",
     "Text": ""
-  },
-  "150282": {
-    "OriginalText": "一予備枠",
-    "Text": "Reserve Frame",
-    "Enabled": true
   },
   "150283": {
     "OriginalText": "背撃の証",
@@ -588,11 +308,6 @@
     "OriginalText": "原生王滅牙",
     "Text": ""
   },
-  "150291": {
-    "OriginalText": "一予備枠",
-    "Text": "Reserve Frame",
-    "Enabled": true
-  },
   "150292": {
     "OriginalText": "模滅牙",
     "Text": ""
@@ -600,11 +315,6 @@
   "150293": {
     "OriginalText": "模王滅牙",
     "Text": ""
-  },
-  "150294": {
-    "OriginalText": "一予備枠",
-    "Text": "Reserve Frame",
-    "Enabled": true
   },
   "150295": {
     "OriginalText": "絶模印",
@@ -614,11 +324,6 @@
     "OriginalText": "絶模誓",
     "Text": ""
   },
-  "150297": {
-    "OriginalText": "一予備枠",
-    "Text": "Reserve Frame",
-    "Enabled": true
-  },
   "150298": {
     "OriginalText": "機甲滅牙",
     "Text": ""
@@ -627,11 +332,6 @@
     "OriginalText": "機甲王滅牙",
     "Text": ""
   },
-  "150300": {
-    "OriginalText": "一予備枠",
-    "Text": "Reserve Frame",
-    "Enabled": true
-  },
   "150301": {
     "OriginalText": "負滅牙",
     "Text": ""
@@ -639,11 +339,6 @@
   "150302": {
     "OriginalText": "負王滅牙",
     "Text": ""
-  },
-  "150303": {
-    "OriginalText": "一予備枠",
-    "Text": "Reserve Frame",
-    "Enabled": true
   },
   "150308": {
     "OriginalText": "護攻法陣",
@@ -769,14 +464,4 @@
     "OriginalText": "心願の形",
     "Text": ""
   },
-  "150339": {
-    "OriginalText": "一予備枠",
-    "Text": "Reserve Frame",
-    "Enabled": true
-  },
-  "150340": {
-    "OriginalText": "一予備枠",
-    "Text": "Reserve Frame",
-    "Enabled": true
-  }
 }
