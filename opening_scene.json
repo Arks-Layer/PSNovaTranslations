@@ -1,33 +1,41 @@
 {
   "100000010010013": {
     "OriginalText": "お願い……わたしの[ruby ほし]惑星[/ruby]を……助けて。",
-    "Text": "Please...my [ruby Starlight]planet[/ruby]...help."
+    "Text": "Please...my [ruby Starlight]planet[/ruby]...help.",
+    "Enabled": true
   },
   "100000010020017": {
     "OriginalText": "誰も、助けに来てくれないの？",
-    "Text": "Anyone, will you not come to help?"
+    "Text": "Does no one come to help?",
+    "Enabled": true
   },
   "100000010030013": {
     "OriginalText": "はい……。",
-    "Text": "Yes..."
+    "Text": "Yes...",
+    "Enabled": true
   },
   "100000010040017": {
     "OriginalText": "僕を、待っているの？",
-    "Text": "Are you waiting, for me?"
+    "Text": "Will you wait for me?",
+    "Enabled": true
   },
   "100000010050013": {
     "OriginalText": "わたしを、見つけてくれますか？",
-    "Text": "Will you find, me?"
+    "Text": "Can you find me?",
+    "Enabled": true
   },
   "100000010060017": {
     "OriginalText": "うん。",
-    "Text": "Yeah."
+    "Text": "Yes.",
+    "Enabled": true
   },
   "100000010070017": {
     "OriginalText": "約束する。必ず会いに行くよ。そして……\n僕は君の、たったひとりのための英雄になる！",
-    "Text": ""
+    "Text": "I promise, we will meet for certain. And...\nThen i'll a hero, only for you!",
+    "Enabled": true
   },
   "100010010010000": {
     "OriginalText": "……。",
-    "Text": ""
+    "Text": "...",
+    "Enabled": true
   },
