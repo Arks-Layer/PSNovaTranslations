@@ -409,124 +409,152 @@
   },
   "60102": {
     "OriginalText": "法撃力が５０上昇する。",
-    "Text": ""
+    "Text": "Increases your T-ATK by 50.",
+    "Enabled": true
   },
   "60103": {
     "OriginalText": "法撃力が１００上昇する。",
-    "Text": ""
+    "Text": "Increases your T-ATK by 100.",
+    "Enabled": true
   },
   "60104": {
     "OriginalText": "弱点属性へのダメージを上昇する。",
-    "Text": ""
+    "Text": "Increases damage dealt\ntowards the elemental weakness.",
+    "Enabled": true
   },
   "60105": {
     "OriginalText": "テクニックのチャージ中に\nＧＰが回復する。",
-    "Text": ""
+    "Text": "Recovers GP while charging Techs.",
+    "Enabled": true
   },
   "60106": {
     "OriginalText": "テクニックのダメージが上昇する。",
-    "Text": ""
+    "Text": "Boosts Technic damage by 20%.",
+    "Enabled": true
   },
   "60107": {
     "OriginalText": "炎属性テクニックの威力が上昇する。",
-    "Text": ""
+    "Text": "Increases the power\nof Fire techs by 10%.",
+    "Enabled": true
   },
   "60108": {
     "OriginalText": "劇属性テクニックの威力が上昇する。",
-    "Text": ""
+    "Text": "Increases the power\nof Ice techs by 10%.",
+    "Enabled": true
   },
   "60109": {
     "OriginalText": "雷属性テクニックの威力が上昇する。",
-    "Text": ""
+    "Text": "Increases the power\nof Lightning techs by 10%.",
+    "Enabled": true
   },
   "60110": {
     "OriginalText": "闇属性テクニックの威力が上昇する。",
-    "Text": ""
+    "Text": "Increases the power\nof Wind techs by 10%.",
+    "Enabled": true
   },
   "60111": {
     "OriginalText": "光属性テクニックの威力が上昇する。",
-    "Text": ""
+    "Text": "Increases the power\nof Light techs by 10%.",
+    "Enabled": true
   },
   "60112": {
     "OriginalText": "風属性テクニックの威力が上昇する。",
-    "Text": ""
+    "Text": "Increases the power\nof Dark techs by 10%.",
+    "Enabled": true
   },
   "60113": {
     "OriginalText": "攻撃がヒットしたエネミーの\n炎耐性がダウンする。",
-    "Text": ""
+    "Text": "Attacks lowers the\nenemy’s Fire resistance.",
+    "Enabled": true
   },
   "60114": {
     "OriginalText": "攻撃がヒットしたエネミーの\n劇耐性がダウンする。",
-    "Text": ""
+    "Text": "Attacks lowers the\nenemy’s Ice resistance.",
+    "Enabled": true
   },
   "60115": {
     "OriginalText": "攻撃がヒットしたエネミーの\n雷耐性がダウンする。",
-    "Text": ""
+    "Text": "Attacks lowers the\nenemy’s Lightning resistance.",
+    "Enabled": true
   },
   "60116": {
     "OriginalText": "攻撃がヒットしたエネミーの\n風耐性がダウンする。",
-    "Text": ""
+    "Text": "Attacks lowers the\nenemy’s Wind resistance.",
+    "Enabled": true
   },
   "60117": {
     "OriginalText": "攻撃がヒットしたエネミーの\n光耐性がダウンする。",
-    "Text": ""
+    "Text": "Attacks lowers the\nenemy’s Light resistance.",
+    "Enabled": true
   },
   "60118": {
     "OriginalText": "攻撃がヒットしたエネミーの\n闇耐性がダウンする。",
-    "Text": ""
+    "Text": "Attacks lowers the\nenemy’s Dark resistance.",
+    "Enabled": true
   },
   "60119": {
     "OriginalText": "視覚情報を撹乱し、無敵状態で\n一定距離を移動する。「ステップ」\n「ダイブロール」と同時セット不可。",
-    "Text": ""
+    "Text": "Allows Mirage Esacape to be used.\nHowever it can not be set at the same\ntime with Mirage Escape and Step.",
+    "Enabled": true
   },
   "60120": {
     "OriginalText": "ロッドの伝備が可能になる。",
-    "Text": ""
+    "Text": "Allows the use of Rods.",
+    "Enabled": true
   },
   "60121": {
     "OriginalText": "タリスの伝備が可能になる。",
-    "Text": ""
+    "Text": "Allows the use of Talises.",
+    "Enabled": true
   },
   "60122": {
     "OriginalText": "ウォンドの伝備が可能になる。",
-    "Text": ""
+    "Text": "Allows the use of Wands.",
+    "Enabled": true
   },
   "60123": {
     "OriginalText": "シフタの効果が上昇する。",
-    "Text": ""
+    "Text": "Boosts the effect of Shifta.",
+    "Enabled": true
   },
   "60124": {
     "OriginalText": "デバンドの効果が上昇する。",
-    "Text": ""
+    "Text": "Boosts the effect of Deband.",
+    "Enabled": true
   },
   "60125": {
     "OriginalText": "テクニックの使用が可能になる。\n[a 03]※法撃武器のみ武器パレットにセット可能[b]",
-    "Text": ""
+    "Text": "Grants Tech usage.\n[a 03]※Up to 2 actives at the same time.[b]",
+    "Enabled": true
   },
   "60126": {
     "OriginalText": "打撃力、射撃力を指定した割合分、\n法撃力にコンバートする。",
-    "Text": ""
+    "Text": "A set portion of the S-ATK\nand R-ATK is converted\ninto T-ATK.",
+    "Enabled": true
   },
   "60127": {
     "OriginalText": "スタンの効果が上昇する。",
-    "Text": ""
+    "Text": "Boosts the effect of Stun.",
+    "Enabled": true
   },
   "60128": {
     "OriginalText": "一時的に法撃力を上昇させ、\n代わりにＨＰ最大値が低下する。",
-    "Text": ""
+    "Text": "Increase T-ATK while decreasing\nyour max HP for a limited time.",
+    "Enabled": true
   },
   "60129": {
     "OriginalText": "法撃力が１５０上昇する。",
-    "Text": ""
+    "Text": "Increases your T-ATK by 150.",
+    "Enabled": true
   },
   "60130": {
     "OriginalText": "法撃力が２００上昇する。",
-    "Text": ""
+    "Text": "Increases your T-ATK by 200.",
+    "Enabled": true
   },
   "60131": {
     "OriginalText": "テックアドバンス２ の解説文",
-    "Text": "Boosts the damage of Techs.",
-    "Enabled": true
+    "Text": ""
   },
   "60132": {
     "OriginalText": "フレイムマスタリー２ の解説文",
@@ -554,8 +582,7 @@
   },
   "60138": {
     "OriginalText": "テックアドバンス２ の解説文",
-    "Text": "Boosts the damage of Techs.",
-    "Enabled": true
+    "Text": ""
   },
   "60139": {
     "OriginalText": "エレメントウィークヒット２ の解説文",
@@ -571,63 +598,78 @@
   },
   "60151": {
     "OriginalText": "法撃防御力が２５上昇する。",
-    "Text": ""
+    "Text": "Increases your T-DEF by 25.",
+    "Enabled": true
   },
   "60152": {
     "OriginalText": "法撃防御力が５０上昇する。",
-    "Text": ""
+    "Text": "Increases your T-DEF by 50.",
+    "Enabled": true
   },
   "60153": {
     "OriginalText": "法撃防御力が１００上昇する。",
-    "Text": ""
+    "Text": "Increases your T-DEF by 100.",
+    "Enabled": true
   },
   "60154": {
     "OriginalText": "ＧＰの上限値が３上昇する。",
-    "Text": ""
+    "Text": "Increases your Max GP by 3.",
+    "Enabled": true
   },
   "60155": {
     "OriginalText": "ＧＰの上限値が６上昇する。",
-    "Text": ""
+    "Text": "Increases your Max GP by 6.",
+    "Enabled": true
   },
   "60156": {
     "OriginalText": "ＧＰの上限値が１０上昇する。",
-    "Text": ""
+    "Text": "Increases your Max GP by 10.",
+    "Enabled": true
   },
   "60157": {
     "OriginalText": "一定時間、ＧＰ回復量が上昇し、\n最大ＨＰが滅少する。",
-    "Text": ""
+    "Text": "GP Recovery is increased by 100%\nmaximum HP reduced by 50%,\nfor a limited time.",
+    "Enabled": true
   },
   "60158": {
     "OriginalText": "ＧＰが50%似下になったとき、\n打撃力と射撃力が上昇する。",
-    "Text": ""
+    "Text": "Raises S-ATK and R-ATK\nwhen GP is at 50% or lower.",
+    "Enabled": true
   },
   "60159": {
     "OriginalText": "一定時間、補助テクニックの\n効果範囲が上昇する。",
-    "Text": ""
+    "Text": "Increases the area of\neffect of support techs.",
+    "Enabled": true
   },
   "60160": {
     "OriginalText": "ＧＰ自動回復量が上昇する。",
-    "Text": ""
+    "Text": "Increases GP recovery\nspeed by 20%.",
+    "Enabled": true
   },
   "60161": {
     "OriginalText": "消費ＧＰを上げることで\nＧＰ消費攻撃の威力が上昇する。",
-    "Text": ""
+    "Text": "Increases GP Consumption\nfor stronger Gran Arts",
+    "Enabled": true
   },
   "60162": {
     "OriginalText": "状態異常を受けているエネミーに\n対して打撃攻撃を行うと\nダメージボーナスを得る。",
-    "Text": ""
+    "Text": "Deals bonus damage to enemies\nunder a status effect.",
+    "Enabled": true
   },
   "60163": {
     "OriginalText": "テクニックのチャージ時間を延長する\n代わりにテクニックの威力が上昇。",
-    "Text": ""
+    "Text": "Increases Tech power, but\nextends charged casting\ntimes in return.",
+    "Enabled": true
   },
   "60164": {
     "OriginalText": "テクニックのチャージ時間を短温する\n代わりにテクニックの威力が低下。",
-    "Text": ""
+    "Text": "Reduces charged casting times\nwhile decreasing Tech power in return.",
+    "Enabled": true
   },
   "60165": {
     "OriginalText": "吹き飛ばされてダウンしたときに\nジャンプ燥作で素早く起き上がる。",
-    "Text": ""
+    "Text": "Press the Jump button to\nquickly ascend when knocked down.",
+    "Enabled": true
   },
   "60166": {
     "OriginalText": "ギガンテスブラストの\nブラストゲージが溜まりやすくなる。",
@@ -636,59 +678,73 @@
   },
   "60167": {
     "OriginalText": "パイルの威力が上昇する。",
-    "Text": ""
+    "Text": "Increases the power of Piles.",
+    "Enabled": true
   },
   "60168": {
     "OriginalText": "ヘイロウの威力が上昇する。",
-    "Text": ""
+    "Text": "Increases the power of Halos.",
+    "Enabled": true
   },
   "60169": {
     "OriginalText": "バインドの発生確率を低下させる。",
-    "Text": ""
+    "Text": "Decreases Bind susceptibility.",
+    "Enabled": true
   },
   "60170": {
     "OriginalText": "インフェクションの発生確率を\n低下させる。",
-    "Text": ""
+    "Text": "Decreases Infection susceptibility.",
+    "Enabled": true
   },
   "60171": {
     "OriginalText": "ブラインドの発生確率を低下させる。",
-    "Text": ""
+    "Text": "Decreases Blind susceptibility.",
+    "Enabled": true
   },
   "60172": {
     "OriginalText": "グラン中毒の発生確率を低下させる。",
-    "Text": ""
+    "Text": "Decreases Gran Poison susceptibility.",
+    "Enabled": true
   },
   "60173": {
     "OriginalText": "パイルの伝備が可能になる。",
-    "Text": ""
+    "Text": "Allows the use of Piles.",
+    "Enabled": true
   },
   "60174": {
     "OriginalText": "ヘイロウの伝備が可能になる。",
-    "Text": ""
+    "Text": "Allows the use of Halos.",
+    "Enabled": true
   },
   "60175": {
     "OriginalText": "ＨＰが50%似下になったとき、\n打撃力と射撃力が上昇する。",
-    "Text": ""
+    "Text": "Raises S-ATK and R-ATK when HP is at 50% or lower.",
+    "Enabled": true
   },
   "60176": {
     "OriginalText": "無条件にダメージボーナスを得る。\n\n[a 03]※アクティブスキルは同時に２つまで発動可[b]",
-    "Text": ""
+    "Text": "Increases all damage by 15%.\n\n[a 03]※Up to 2 actives at the same time.[b]",
+    "Enabled": true
   },
   "60177": {
     "OriginalText": "ＧＰ回復空間の使用が可能になる。",
-    "Text": ""
+    "Text": "Create a field around\nyourself that recovers GP.",
+    "Enabled": true
   },
   "60178": {
     "OriginalText": "武器切り替えスキルの使用が\n可能になる。",
-    "Text": ""
+    "Text": "Allows the use of\nQuick Weapon Switch skills.",
+    "Enabled": true
   },
   "60179": {
     "OriginalText": "一つ上の武器パレットの行動を行い\n同時に武器パレットを一つ上に切り替える。\n[a 06]※一つ上がクイック武器変更の場合は無効[b]",
-    "Text": ""
+    "Text": "Quickly switches to the\nweapon palette slot\nabove the currently equipped weapon.",
+    "Enabled": true
   },
   "60180": {
     "OriginalText": "一つ下の武器パレットの行動を行い\n同時に武器パレットを一つ下に切り替える。\n[a 06]※一つ下がクイック武器変更の場合は無効[b]",
-    "Text": ""
+    "Text": "Quickly switches to the\nweapon palette slot\nbelow the currently equipped weapon.",
+    "Enabled": true
   },
   "60181": {
     "OriginalText": "ハーフラインスレイヤー２ の解説文",
@@ -696,19 +752,23 @@
   },
   "60182": {
     "OriginalText": "法撃防御力が１５０上昇する。",
-    "Text": ""
+    "Text": "Increases your T-DEF by 150.",
+    "Enabled": true
   },
   "60183": {
     "OriginalText": "法撃防御力が２００上昇する。",
-    "Text": ""
+    "Text": "Increases your T-DEF by 200.",
+    "Enabled": true
   },
   "60184": {
     "OriginalText": "ＧＰの上限値が１５上昇する。",
-    "Text": ""
+    "Text": "Increases your max GP by 15.",
+    "Enabled": true
   },
   "60185": {
     "OriginalText": "ＧＰの上限値が２０上昇する。",
-    "Text": ""
+    "Text": "Increases your max GP by 20.",
+    "Enabled": true
   },
   "60186": {
     "OriginalText": "チェイスアドバンス２ の解説文",
@@ -748,195 +808,244 @@
   },
   "60201": {
     "OriginalText": "フューリースタンス中にエネミーへの\n打撃・射撃ダメージを上昇する。",
-    "Text": ""
+    "Text": "Boosts Striking and Ranged\ndamage during Fury Stance.",
+    "Enabled": true
   },
   "60202": {
     "OriginalText": "打撃力、射撃力、法撃力が\n７５上昇し、ＧＰが８上昇する。",
-    "Text": ""
+    "Text": "Increases S-ATK, R-ATK, T-ATK\nby 75 and adds 8 GP",
+    "Enabled": true
   },
   "60203": {
     "OriginalText": "ブレイブスタンス中、エネミーの\n前面からダメージを与えたときの\nクリティカルヒット確率が上昇する。",
-    "Text": ""
+    "Text": "Increases your Critical Hit\nRate during Brave Stance\nwhile attack from the front.",
+    "Enabled": true
   },
   "60204": {
     "OriginalText": "ワイズスタンス中、エネミーの\n背後からダメージを与えたときの\nクリティカルヒット確率が上昇する。",
-    "Text": ""
+    "Text": "Increases your Critical Hit\nRate during Wise Stance\nwhile attack from the rear.",
+    "Enabled": true
   },
   "60205": {
     "OriginalText": "ブレイブスタンス中、エネミーの\n前面からダメージを与えたときに\nボーナスを得る。",
-    "Text": ""
+    "Text": "During Brave Stance, gain a\nDamage Bonus when attacking\nfrom the front.",
+    "Enabled": true
   },
   "60206": {
     "OriginalText": "ワイズスタンス中、エネミーの\n背後からダメージを与えたときに\nボーナスを得る。",
-    "Text": ""
+    "Text": "During Wise Stance, gain a\nDamage Bonus when attacking\nfrom the rear.",
+    "Enabled": true
   },
   "60207": {
     "OriginalText": "技量が３０上昇する。",
-    "Text": ""
+    "Text": "Increases your DEX by 30.",
+    "Enabled": true
   },
   "60208": {
     "OriginalText": "ジャストガードが成立してから\n一定時間、ＧＰが滅らなくなる。",
-    "Text": ""
+    "Text": "Temporarily prevents GP consumption\nfollowing a Just Guard.",
+	"Enabled": true
   },
   "60209": {
     "OriginalText": "最大ＨＰに対して一定割合未既の\nダメージを受けたとき、\nダメージモーションを取らなくなる。",
-    "Text": ""
+    "Text": "Prevents flinching when receiving\ndamage that’s less than a certain\npercentage of your max HP.",
+	"Enabled": true
   },
   "60210": {
     "OriginalText": "ダイブロール中の無敵時間を\n延長する。",
-    "Text": ""
+    "Text": "Extends the invincibility\nframes during a Dive Roll.",
+	"Enabled": true
   },
   "60211": {
     "OriginalText": "アベレージスタンス中の攻撃に\nダメージボーナスを得る。",
-    "Text": ""
+    "Text": "Attacks give bonus damage\nduring Average Stance.",
+	"Enabled": true
   },
   "60212": {
     "OriginalText": "射撃がエネミーの弱点箇所にヒット\nし続けると、技量と威力が上昇する。",
-    "Text": ""
+    "Text": "Continuously shooting at the\nenemy’s weakpoint increases\nDEX and power.",
+	"Enabled": true
   },
   "60213": {
     "OriginalText": "テクニックのジャストアタックに\nダメージボーナスを得る。",
-    "Text": ""
+    "Text": "Boosts damage for\nJust Attacked Techs.",
+	"Enabled": true
   },
   "60214": {
     "OriginalText": "シフタ効果中にクリティカルヒット\n確率が上昇する。",
-    "Text": ""
+    "Text": "Increases critical hit\nrate during Shifta.",
+	"Enabled": true
   },
   "60215": {
     "OriginalText": "デバンド効果中に一定の割合の\nダメージを軽滅する。",
-    "Text": ""
+    "Text": "Reduces damage received\nduring Deband.",
+	"Enabled": true
   },
   "60216": {
     "OriginalText": "ジャストアタック時にＧＡやテクニック\nを使用してもＧＰを滅らさず、連続成功\nするほどJA判定時間を短温する。",
-    "Text": ""
+    "Text": "Boosts damage when Just\nAttacking with different\nGran Arts or Techs.",
+	"Enabled": true
   },
   "60217": {
     "OriginalText": "残ＨＰが一定量似下になると\n法撃力が上昇する。",
-    "Text": ""
+    "Text": "Increase T-ATK while decreasing\nyour max HP for a limited time.",
+	"Enabled": true
   },
   "60218": {
     "OriginalText": "法撃ダメージを軽滅する。",
-    "Text": ""
+    "Text": "Reduces tech damage taken.",
+	"Enabled": true
   },
   "60219": {
     "OriginalText": "ソードの威力が上昇する。",
-    "Text": ""
+    "Text": "Boost Sword power.",
+	"Enabled": true
   },
   "60220": {
     "OriginalText": "パルチザンの威力が上昇する。",
-    "Text": ""
+    "Text": "Boosts Partisan power.",
+	"Enabled": true
   },
   "60221": {
     "OriginalText": "ダブルセイバーの威力が上昇する。",
-    "Text": ""
+    "Text": "Boosts Double Saber power.",
+	"Enabled": true
   },
   "60222": {
     "OriginalText": "アサルトライフルの威力が上昇する。",
-    "Text": ""
+    "Text": "Boosts Assault Rifle power.",
+	"Enabled": true
   },
   "60223": {
     "OriginalText": "ツインマシンガンの威力が上昇する。",
-    "Text": ""
+    "Text": "Boosts Twin Machine Gun power.",
+	"Enabled": true
   },
   "60224": {
     "OriginalText": "ロッドの威力が上昇する。",
-    "Text": ""
+    "Text": "Boosts Rod power.",
+	"Enabled": true
   },
   "60225": {
     "OriginalText": "タリスの威力が上昇する。",
-    "Text": ""
+    "Text": "Boosts Talis Power",
+	"Enabled": true
   },
   "60226": {
     "OriginalText": "ウォンドの威力が上昇する。",
-    "Text": ""
+    "Text": "Boosts Wand power.",
+	"Enabled": true
   },
   "60227": {
     "OriginalText": "残ＨＰが一定量似下になると\n法撃力が上昇する。",
-    "Text": ""
+    "Text": "Increase T-ATK while decreasing\nyour max HP for a limited time.",
+	"Enabled": true
   },
   "60228": {
     "OriginalText": "射撃攻撃時の状態異常発生確率が\n上昇する。",
-    "Text": ""
+    "Text": "Boosts status effect affliction\nrates for ranged attacks.",
+	"Enabled": true
   },
   "60229": {
     "OriginalText": "２５％の確率で\n炎属性ダメージを軽滅する。",
-    "Text": ""
+    "Text": "25% chance to\nreduce Fire damage.",
+	"Enabled": true
   },
   "60230": {
     "OriginalText": "２５％の確率で\n劇属性ダメージを軽滅する。",
-    "Text": ""
+    "Text": "25% chance to\nreduce Ice damage.",
+	"Enabled": true
   },
   "60231": {
     "OriginalText": "２５％の確率で\n雷属性ダメージを軽滅する。",
-    "Text": ""
+    "Text": "25% chance to\nreduce Lightning damage.",
+	"Enabled": true
   },
   "60232": {
     "OriginalText": "２５％の確率で\n風属性ダメージを軽滅する。",
-    "Text": ""
+    "Text": "25% chance to\nreduce Wind damage.",
+	"Enabled": true
   },
   "60233": {
     "OriginalText": "２５％の確率で\n光属性ダメージを軽滅する。",
-    "Text": ""
+    "Text": "25% chance to\nreduce Light damage.",
+	"Enabled": true
   },
   "60234": {
     "OriginalText": "２５％の確率で\n闇属性ダメージを軽滅する。",
-    "Text": ""
+    "Text": "25% chance to\nreduce Dark damage.",
+	"Enabled": true
   },
   "60235": {
     "OriginalText": "状態異常の発生確率を低下させる。",
-    "Text": ""
+    "Text": "Reduces status effect susceptibility.",
+	"Enabled": true
   },
   "60236": {
     "OriginalText": "ＨＰの上限値が４００上昇する。",
-    "Text": ""
-  },
+    "Text": "Increases your max HP by 400.",
+	"Enabled": true
+  },,
+	"Enabled": true
   "60237": {
     "OriginalText": "ＧＰの上限値が１５上昇する。",
-    "Text": ""
+    "Text": "Increases your max GP by 15",
+	"Enabled": true
   },
   "60238": {
     "OriginalText": "打撃力が１５０上昇する。",
-    "Text": ""
+    "Text": "Increases your S-ATK by 150.",
+	"Enabled": true
   },
   "60239": {
     "OriginalText": "射撃力が１５０上昇する。",
-    "Text": ""
+    "Text": "Increases your R-ATK by 150.",
+	"Enabled": true
   },
   "60240": {
     "OriginalText": "法撃力が１５０上昇する。",
-    "Text": ""
+    "Text": "Increases your T-ATK by 150.",
+	"Enabled": true
   },
   "60241": {
     "OriginalText": "打撃防御力が１５０上昇する。",
-    "Text": ""
+    "Text": "Increases your S-DEF by 150.",
+	"Enabled": true
   },
   "60242": {
     "OriginalText": "射撃防御力が１５０上昇する。",
-    "Text": ""
+    "Text": "Increases your R-DEF by 150,",
+	"Enabled": true
   },
   "60243": {
     "OriginalText": "法撃防御力が１５０上昇する。",
-    "Text": ""
+    "Text": "Increases your T-DEF by 150.",
+	"Enabled": true
   },
   "60244": {
     "OriginalText": "技量が４０上昇する。",
-    "Text": ""
+    "Text": "Increases your DEX by 40.",
+	"Enabled": true
   },
   "60245": {
     "OriginalText": "ナックルの威力が上昇する。",
-    "Text": ""
+    "Text": "Boosts Knuckle power.",
+	"Enabled": true
   },
   "60246": {
     "OriginalText": "テリトリーバースト中、\n補助テクニックの消費ＧＰを軽滅する。\nテリトリーバースト習得時のみ有効。",
-    "Text": ""
+    "Text": "Reduces GP oonsumption of support\ntechs during Territory Burst. Only\ntakes effect if Territory Burst is learnt.",
+	"Enabled": true
   },
   "60247": {
     "OriginalText": "伝備しているウォンドの法撃力から\n一定割合を打撃力として追加する。",
-    "Text": ""
+    "Text": "Boosts the wand’s S-ATK\musing T-ATK as reference.",
+	"Enabled": true
   },
   "60248": {
     "OriginalText": "アクティブスキルのリキャスト時間を\n一定時間短温する。",
-    "Text": ""
+    "Text": "Reduces recast times\nfor Active Skills.",
+	"Enabled": true
   },
   "60249": {
     "OriginalText": "",
