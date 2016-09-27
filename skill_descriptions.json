@@ -494,7 +494,7 @@
   },
   "60119": {
     "OriginalText": "視覚情報を撹乱し、無敵状態で\n一定距離を移動する。「ステップ」\n「ダイブロール」と同時セット不可。",
-    "Text": "Allows Mirage Esacape to be used.\nHowever it can not be set at the same\ntime with Dodge Roll and Step.",
+    "Text": "Allows Mirage Escape to be used.\nHowever it can not be set at the same\ntime with Dodge Roll and Step.",
     "Enabled": true
   },
   "60120": {
