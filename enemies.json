@@ -534,7 +534,8 @@
   },
   "185060": {
     "OriginalText": "レーザー射出口",
-    "Text": ""
+    "Text": "Laser Exit Wound",
+    "Enabled": true
   },
   "185070": {
     "OriginalText": "コンテナ：ガトリング",
@@ -542,23 +543,28 @@
   },
   "185080": {
     "OriginalText": "コンテナ：クロー",
-    "Text": ""
+    "Text": "Claw Container",
+    "Enabled": true
   },
   "185090": {
     "OriginalText": "コンテナ：ビーム",
-    "Text": ""
+    "Text": "Beam Container",
+    "Enabled": true
   },
   "185100": {
     "OriginalText": "コンテナ：ミサイル",
-    "Text": ""
+    "Text": "Missile Container",
+    "Enabled": true
   },
   "185130": {
     "OriginalText": "グラヴディオン",
-    "Text": ""
+    "Text": "Gravdion",
+    "Enabled": true
   },
   "185135": {
     "OriginalText": "ブレード",
-    "Text": ""
+    "Text": "Blade",
+    "Enabled": true
   },
   "185140": {
     "OriginalText": "角",
@@ -658,7 +664,8 @@
   },
   "185530": {
     "OriginalText": "レイヴガイスト",
-    "Text": ""
+    "Text": "Rave Geist",
+    "Enabled": true
   },
   "185531": {
     "OriginalText": "レイヴァン",
@@ -667,7 +674,8 @@
   },
   "185540": {
     "OriginalText": "ネメスフース",
-    "Text": ""
+    "Text": "Nemes Fus",
+    "Enabled": true
   },
   "185550": {
     "OriginalText": "ネメスヒュフテ",
@@ -675,11 +683,13 @@
   },
   "185560": {
     "OriginalText": "ネメスガイスト",
-    "Text": ""
+    "Text": "Nemes Geist",
+    "Enabled": true
   },
   "185561": {
     "OriginalText": "ミサイル発射伝置",
-    "Text": ""
+    "Text": "Missile Firing Device",
+    "Enabled": true
   },
   "185562": {
     "OriginalText": "二ードルガン",
@@ -687,10 +697,12 @@
   },
   "185563": {
     "OriginalText": "レーザー",
-    "Text": ""
+    "Text": "Laser",
+    "Enabled": true
   },
   "185564": {
     "OriginalText": "グランデバイス",
-    "Text": ""
+    "Text": "Gran Device",
+    "Enabled": true
   }
 }
