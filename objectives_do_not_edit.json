@@ -324,7 +324,7 @@
     "Text": ""
   },
   "210132": {
-    "OriginalText": "記録伝置を回収しろ",
+    "OriginalText": "記録装置を回収しろ",
     "Text": ""
   },
   "210133": {
@@ -395,7 +395,7 @@
   "210148": {
     "OriginalText": "ラッピー・タイム！",
     "Text": "Rappy Time!",
-    "Enable": true
+    "Enabled": true
   },
   "210149": {
     "OriginalText": "レイヴァン討伐",
@@ -407,7 +407,7 @@
     "Text": ""
   },
   "210151": {
-    "OriginalText": "鉱洋を回収しろ",
+    "OriginalText": "鉱物を回収しろ",
     "Text": ""
   },
   "210152": {

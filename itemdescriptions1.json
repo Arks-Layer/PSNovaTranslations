@@ -4,17 +4,17 @@
     "Text": ""
   },
   "380001": {
-    "OriginalText": "アークス御用達の回復捗。\n使用することでＨＰが回復する。",
+    "OriginalText": "アークス御用達の回復剤。\n使用することでＨＰが回復する。",
     "Text": "Recovery item provided by ARKS. \r\nRestores HP when used. ",
     "Enabled": true
   },
   "380002": {
-    "OriginalText": "アークス御用達の強化回復捗。\n使用することでＨＰが大きく回復する。",
+    "OriginalText": "アークス御用達の強化回復剤。\n使用することでＨＰが大きく回復する。",
     "Text": "Recovery item provided by ARKS. \r\nSignificantly restores HP when used. ",
     "Enabled": true
   },
   "380003": {
-    "OriginalText": "アークス御用達の完全回復捗。\n使用することでＨＰが全回復する。",
+    "OriginalText": "アークス御用達の完全回復剤。\n使用することでＨＰが全回復する。",
     "Text": "Recovery item provided by ARKS. \r\nCompletely restores HP when used. ",
     "Enabled": true
   },
@@ -29,55 +29,55 @@
     "Enabled": true
   },
   "380006": {
-    "OriginalText": "広範囲に及ぶ回復捗。\n使用した者と、周囲にいる味方の\nＨＰを大きく回復させる。",
+    "OriginalText": "広範囲に及ぶ回復剤。\n使用した者と、周囲にいる味方の\nＨＰを大きく回復させる。",
     "Text": "A wide-ranged recovery item. \r\nAllows the user to heal all\r\nnearby players.",
     "Enabled": true
   },
   "380007": {
-    "OriginalText": "広範囲に及ぶ完全回復捗。\n使用した者と、周囲にいる味方を\n完全な状態まで回復させる。",
+    "OriginalText": "広範囲に及ぶ完全回復剤。\n使用した者と、周囲にいる味方を\n完全な状態まで回復させる。",
     "Text": "A wide-ranged full recovery item. \r\nAllows the user to heal all nearby\r\nplayers into perfect condition.",
     "Enabled": true
   },
   "380008": {
-    "OriginalText": "広範囲に及ぶ攻撃強化捗。\n使用した者と、周囲にいる味方の\n攻撃力を強化する。",
+    "OriginalText": "広範囲に及ぶ攻撃強化剤。\n使用した者と、周囲にいる味方の\n攻撃力を強化する。",
     "Text": "A wide-ranged attack boosting item. \r\nAllows the user to boost the attack\r\nof all nearby players.",
     "Enabled": true
   },
   "380009": {
-    "OriginalText": "広範囲に及ぶ防御強化捗。\n使用した者と、周囲にいる味方の\n防御力を強化する。",
+    "OriginalText": "広範囲に及ぶ防御強化剤。\n使用した者と、周囲にいる味方の\n防御力を強化する。",
     "Text": "A wide-ranged defense boosting item. \r\nAllows the user to boost the defense\r\nof all nearby players.",
     "Enabled": true
   },
   "380010": {
-    "OriginalText": "グランのエネルギーを蓄えた鉱洋結晶。\n未知の惑星マキアにおいて、あらゆる\n洋資に加工が可能な城一の村料となる。",
+    "OriginalText": "グランのエネルギーを蓄えた鉱物結晶。\n未知の惑星マキアにおいて、あらゆる\n物資に加工が可能な唯一の村料となる。",
     "Text": ""
   },
   "380011": {
-    "OriginalText": "グランのエネルギーを蓄えた鉱洋結晶。\n火の粉が舞うような灼熱の環境下で\n炎属性を帯び、赤く輝いている。",
+    "OriginalText": "グランのエネルギーを蓄えた鉱物結晶。\n火の粉が舞うような灼熱の環境下で\n炎属性を帯び、赤く輝いている。",
     "Text": ""
   },
   "380012": {
-    "OriginalText": "グランのエネルギーを蓄えた鉱洋結晶。\n劇雪地帯のような冷寒の環境下で\n劇属性を帯び、青く輝いている。",
+    "OriginalText": "グランのエネルギーを蓄えた鉱物結晶。\n氷雪地帯のような極寒の環境下で\n氷属性を帯び、青く輝いている。",
     "Text": ""
   },
   "380013": {
-    "OriginalText": "グランのエネルギーを蓄えた鉱洋結晶。\n落雷の影響を受けやすい降雨時に\n雷属性を帯び、黄色く輝いている。",
+    "OriginalText": "グランのエネルギーを蓄えた鉱物結晶。\n落雷の影響を受けやすい降雨時に\n雷属性を帯び、黄色く輝いている。",
     "Text": ""
   },
   "380014": {
-    "OriginalText": "グランのエネルギーを蓄えた鉱洋結晶。\n砂塵の影響を受けやすい強風時に\n風属性を帯び、緑色に輝いている。",
+    "OriginalText": "グランのエネルギーを蓄えた鉱物結晶。\n砂塵の影響を受けやすい強風時に\n風属性を帯び、緑色に輝いている。",
     "Text": ""
   },
   "380015": {
-    "OriginalText": "グランのエネルギーを蓄えた鉱洋結晶。\n光属性を帯び、橙色に輝いている。\n原生種の舌の影響らしいが詳細は不明。",
+    "OriginalText": "グランのエネルギーを蓄えた鉱物結晶。\n光属性を帯び、橙色に輝いている。\n原生種の蛍の影響らしいが詳細は不明。",
     "Text": ""
   },
   "380016": {
-    "OriginalText": "グランのエネルギーを蓄えた鉱洋結晶。\n闇属性を帯び、紫色に輝いている。\n原生種の舌の影響らしいが詳細は不明。",
+    "OriginalText": "グランのエネルギーを蓄えた鉱物結晶。\n闇属性を帯び、紫色に輝いている。\n原生種の蛍の影響らしいが詳細は不明。",
     "Text": ""
   },
   "380017": {
-    "OriginalText": "使い捨ての簡易式ヘイロウ。伝備を\n変更せずにアイテムとして使用できる。\n足場【リングフィールド】を作成する。",
+    "OriginalText": "使い捨ての簡易式ヘイロウ。装備を\n変更せずにアイテムとして使用できる。\n足場【リングフィールド】を作成する。",
     "Text": ""
   }
 }
