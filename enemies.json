@@ -517,19 +517,19 @@
     "Text": ""
   },
   "185020": {
-    "OriginalText": "換伝武器：ガトリング",
+    "OriginalText": "換装武器：ガトリング",
     "Text": ""
   },
   "185030": {
-    "OriginalText": "換伝武器：クロー",
+    "OriginalText": "換装武器：クロー",
     "Text": ""
   },
   "185040": {
-    "OriginalText": "換伝武器：ビーム",
+    "OriginalText": "換装武器：ビーム",
     "Text": ""
   },
   "185050": {
-    "OriginalText": "換伝武器：ミサイル",
+    "OriginalText": "換装武器：ミサイル",
     "Text": ""
   },
   "185060": {
@@ -575,7 +575,7 @@
     "Text": ""
   },
   "185150": {
-    "OriginalText": "アンカー発射伝置",
+    "OriginalText": "アンカー発射装置",
     "Text": ""
   },
   "185220": {
@@ -687,7 +687,7 @@
     "Enabled": true
   },
   "185561": {
-    "OriginalText": "ミサイル発射伝置",
+    "OriginalText": "ミサイル発射装置",
     "Text": "Missile Firing Device",
     "Enabled": true
   },
