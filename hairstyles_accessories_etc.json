@@ -5,247 +5,308 @@
   },
   "440001": {
     "OriginalText": "ヒューマン男性顔ベースＡ",
-    "Text": ""
+    "Text": "Base Human Male Face A",
+	"Enabled": true
   },
   "440002": {
     "OriginalText": "ヒューマン男性顔ベースＤ",
-    "Text": ""
+    "Text": "Base Human Male Face D",
+	"Enabled": true
   },
   "440003": {
     "OriginalText": "ヒューマン男性顔ベースＥ",
-    "Text": ""
+    "Text": "Base Human Male Face E",
+	"Enabled": true
   },
   "440004": {
     "OriginalText": "ヒューマン男性顔ベースＢ",
-    "Text": ""
+    "Text": "Base Human Male Face B",
+	"Enabled": true
   },
   "440005": {
     "OriginalText": "ヒューマン男性顔ベースＣ",
-    "Text": ""
+    "Text": "Base Human Male Face C",
+	"Enabled": true
   },
   "440006": {
     "OriginalText": "ニューマン男性顔ベースＡ",
-    "Text": ""
+    "Text": "Base Newman Male Face A",
+	"Enabled": true
   },
   "440007": {
     "OriginalText": "ニューマン男性顔ベースＢ",
-    "Text": ""
+    "Text": "Base Newman Male Face B",
+	"Enabled": true
   },
   "440008": {
     "OriginalText": "ニューマン男性顔ベースＣ",
-    "Text": ""
+    "Text": "Base Newman Male Face C",
+	"Enabled": true
   },
   "440009": {
     "OriginalText": "ニューマン男性顔ベースＤ",
-    "Text": ""
+    "Text": "Base Newman Male Face D",
+	"Enabled": true
   },
   "440010": {
     "OriginalText": "ニューマン男性顔ベースＥ",
-    "Text": ""
+    "Text": "Base Newman Male Face E",
+	"Enabled": true
   },
   "440011": {
     "OriginalText": "ニューマン男性顔ベースＦ",
-    "Text": ""
+    "Text": "Base Newman Male Face F",
+	"Enabled": true
   },
   "440012": {
     "OriginalText": "ニューマン男性顔ベースＧ",
-    "Text": ""
+    "Text": "Base Newman Male Face G",
+	"Enabled": true
   },
   "440013": {
     "OriginalText": "ニューマン男性顔ベースＨ",
-    "Text": ""
+    "Text": "Base Newman Male Face H",
+	"Enabled": true
   },
   "440014": {
     "OriginalText": "ニューマン男性顔ベースＩ",
-    "Text": ""
+    "Text": "Base Newman Male Face I",
+	"Enabled": true
   },
   "440015": {
     "OriginalText": "ニューマン男性顔ベースＪ",
-    "Text": ""
+    "Text": "Base Newman Male Face J",
+	"Enabled": true
   },
   "440016": {
     "OriginalText": "キャスト男性顔ベースＡ",
-    "Text": ""
+    "Text": "Base Cast Male Face A",
+	"Enabled": true
   },
   "440017": {
     "OriginalText": "キャスト男性顔ベースＢ",
-    "Text": ""
+    "Text": "Base Cast Male Face B",
+	"Enabled": true
   },
   "440018": {
     "OriginalText": "キャスト男性顔ベースＣ",
-    "Text": ""
+    "Text": "Base Cast Male Face C",
+	"Enabled": true
   },
   "440019": {
     "OriginalText": "キャスト男性顔ベースＤ",
-    "Text": ""
+    "Text": "Base Cast Male Face D",
+	"Enabled": true
   },
   "440020": {
     "OriginalText": "キャスト男性顔ベースＥ",
-    "Text": ""
+    "Text": "Base Cast Male Face E",
+	"Enabled": true
   },
   "440021": {
     "OriginalText": "ヒューマン男性顔ベースＦ",
-    "Text": ""
+    "Text": "Base Human Male Face F",
+	"Enabled": true
   },
   "440022": {
     "OriginalText": "ニューマン男性顔ベースＫ",
-    "Text": ""
+    "Text": "Base Newman Male Face K",
+	"Enabled": true
   },
   "440023": {
     "OriginalText": "ニューマン男性顔ベースＬ",
-    "Text": ""
+    "Text": "Base Newman Male Face L",
+	"Enabled": true
   },
   "440024": {
     "OriginalText": "キャスト男性顔ベースＦ",
-    "Text": ""
+    "Text": "Base Cast Male Face F",
+	"Enabled": true
   },
   "440025": {
     "OriginalText": "ロニア・ヘッド破",
-    "Text": ""
+    "Text": "Broken Ronia Head",
+	"Enabled": true
   },
   "440026": {
     "OriginalText": "ディスタ・ヘッド破",
-    "Text": ""
+    "Text": "Broken Dista Head",
+	"Enabled": true
   },
   "440027": {
     "OriginalText": "ファウマ・ヘッド破",
-    "Text": ""
+    "Text": "Broken Fauma Head",
+	"Enabled": true
   },
   "440028": {
     "OriginalText": "アングリフ・ヘッド破",
-    "Text": ""
+    "Text": "Broken Angriff Head",
+	"Enabled": true
   },
   "440029": {
     "OriginalText": "コロッサス・ヘッド",
-    "Text": ""
+    "Text": "Colossus Head",
+	"Enabled": true
   },
   "440030": {
     "OriginalText": "マギウス・ヘッド破",
-    "Text": ""
+    "Text": "Broken Magius Head",
+	"Enabled": true
   },
   "440031": {
     "OriginalText": "シェリフ・ヘッド破",
-    "Text": ""
+    "Text": "Broken Sheriff Head",
+	"Enabled": true
   },
   "440032": {
     "OriginalText": "バルドル・ヘッド",
-    "Text": ""
+    "Text": "Baldur Head",
+	"Enabled": true
   },
   "440033": {
     "OriginalText": "ジョーカ・ヘッド",
-    "Text": ""
+    "Text": "Joker Head",
+	"Enabled": true
   },
   "440034": {
     "OriginalText": "フィルフ・ヘッド破",
-    "Text": ""
+    "Text": "Broken Fliph Head",
+	"Enabled": true
   },
   "440035": {
     "OriginalText": "ヒュリオン・ヘッド破",
-    "Text": ""
+    "Text": "Broken Hurion Head",
+	"Enabled": true
   },
   "440036": {
     "OriginalText": "メルダー・ヘッド破",
-    "Text": ""
+    "Text": "Broken Melder Head",
+	"Enabled": true
   },
   "440037": {
     "OriginalText": "アラオ・ヘッド破",
-    "Text": ""
+    "Text": "Broken Arao Head",
+	"Enabled": true
   },
   "440038": {
     "OriginalText": "ゴルドオム・ヘッド",
-    "Text": ""
+    "Text": "Goldoom Head",
+	"Enabled": true
   },
   "440039": {
     "OriginalText": "アグリ・ヘッド",
-    "Text": ""
+    "Text": "Agri Head",
+	"Enabled": true
   },
   "440040": {
     "OriginalText": "ギオス・ヘッド",
-    "Text": ""
+    "Text": "Gios Head",
+	"Enabled": true
   },
   "440041": {
     "OriginalText": "クリスト・ヘッド",
-    "Text": ""
+    "Text": "Christo Head",
+	"Enabled": true
   },
   "440042": {
     "OriginalText": "ノヴァオム・ヘッド",
-    "Text": ""
+    "Text": "Novaom Head",
+	"Enabled": true
   },
   "440043": {
     "OriginalText": "リヴェン・ヘッド",
-    "Text": ""
+    "Text": "Riven Head",
+	"Enabled": true
   },
   "440044": {
     "OriginalText": "ヒューマン女性顔ベースＡ",
-    "Text": ""
+    "Text": "Base Human Female Face A",
+	"Enabled": true
   },
   "440045": {
     "OriginalText": "ヒューマン女性顔ベースＢ",
-    "Text": ""
+    "Text": "Base Human Female Face B",
+	"Enabled": true
   },
   "440046": {
     "OriginalText": "ヒューマン女性顔ベースＣ",
-    "Text": ""
+    "Text": "Base Human Female Face C",
+	"Enabled": true
   },
   "440047": {
     "OriginalText": "ニューマン女性顔ベースＡ",
-    "Text": ""
+    "Text": "Base Newman Female Face A",
+	"Enabled": true
   },
   "440048": {
     "OriginalText": "ニューマン女性顔ベースＢ",
-    "Text": ""
+    "Text": "Base Newman Female Face B",
+	"Enabled": true
   },
   "440049": {
     "OriginalText": "ニューマン女性顔ベースＣ",
-    "Text": ""
+    "Text": "Base Newman Female Face C",
+	"Enabled": true
   },
   "440050": {
     "OriginalText": "ニューマン女性顔ベースＤ",
-    "Text": ""
+    "Text": "Base Newman Female Face D",
+	"Enabled": true
   },
   "440051": {
     "OriginalText": "ニューマン女性顔ベースＥ",
-    "Text": ""
+    "Text": "Base Newman Female Face E",
+	"Enabled": true
   },
   "440052": {
     "OriginalText": "ニューマン女性顔ベースＦ",
-    "Text": ""
+    "Text": "Base Newman Female Face F",
+	"Enabled": true
   },
   "440053": {
     "OriginalText": "キャスト女性顔ベースＡ",
-    "Text": ""
+    "Text": "Base Cast Female Face A",
+	"Enabled": true
   },
   "440054": {
     "OriginalText": "キャスト女性顔ベースＢ",
-    "Text": ""
+    "Text": "Base Cast Female Face B",
+	"Enabled": true
   },
   "440055": {
     "OriginalText": "キャスト女性顔ベースＣ",
-    "Text": ""
+    "Text": "Base Cast Female Face C",
+	"Enabled": true
   },
   "440056": {
     "OriginalText": "キャスト女性顔ベースＤ",
-    "Text": ""
+    "Text": "Base Cast Female Face D",
+	"Enabled": true
   },
   "440057": {
     "OriginalText": "ヒューマン女性顔ベースＤ",
-    "Text": ""
+    "Text": "Base Human Female Face D",
+	"Enabled": true
   },
   "440058": {
     "OriginalText": "ニューマン女性顔ベースＧ",
-    "Text": ""
+    "Text": "Base Newman Female Face G",
+	"Enabled": true
   },
   "440059": {
     "OriginalText": "ニューマン女性顔ベースＨ",
-    "Text": ""
+    "Text": "Base Newman Female Face H",
+	"Enabled": true
   },
   "440060": {
     "OriginalText": "キャスト女性顔ベースＥ",
-    "Text": ""
+    "Text": "Base Cast Female Face E",
+	"Enabled": true
   },
   "440061": {
     "OriginalText": "ヒューマン女性用アニメ系",
-    "Text": ""
+    "Text": "Human Female Animation System",
+	"Enabled": true
   },
   "440062": {
     "OriginalText": "ニューマン（耳長）女性用アニメ系",
@@ -257,7 +318,8 @@
   },
   "440064": {
     "OriginalText": "キャスト女性用アニメ系",
-    "Text": ""
+    "Text": "Cast Female Animation System",
+	"Enabled": true
   },
   "440065": {
     "OriginalText": "ヒューマン女性顔ベースＥ",
@@ -277,23 +339,28 @@
   },
   "440069": {
     "OriginalText": "セイル",
-    "Text": ""
+    "Text": "Sail",
+    "Enabled": true
   },
   "440070": {
     "OriginalText": "レイヴァン",
-    "Text": ""
+    "Text": "Raven",
+    "Enabled": true
   },
   "440071": {
     "OriginalText": "カリスト",
-    "Text": ""
+    "Text": "Callisto",
+    "Enabled": true
   },
   "440072": {
     "OriginalText": "ヨミ",
-    "Text": ""
+    "Text": "Yomi",
+    "Enabled": true
   },
   "440073": {
     "OriginalText": "オルクス",
-    "Text": ""
+    "Text": "Orcus",
+    "Enabled": true
   },
   "440074": {
     "OriginalText": "ルティナ",
@@ -302,35 +369,43 @@
   },
   "440075": {
     "OriginalText": "イズナ",
-    "Text": ""
+    "Text": "Izuna",
+    "Enabled": true
   },
   "440076": {
     "OriginalText": "ユノ",
-    "Text": ""
+    "Text": "Juno",
+    "Enabled": true
   },
   "440077": {
     "OriginalText": "ユノ：ホログラム",
-    "Text": ""
+    "Text": "Juno: Hologram",
+    "Enabled": true
   },
   "440078": {
     "OriginalText": "ユノ：グランリンク状態",
-    "Text": ""
+    "Text": "Juno: Gran Link State",
+    "Enabled": true
   },
   "440079": {
     "OriginalText": "フィルディア",
-    "Text": ""
+    "Text": "Fildia",
+    "Enabled": true
   },
   "440080": {
     "OriginalText": "キサラ",
-    "Text": ""
+    "Text": "Kisara",
+    "Enabled": true
   },
   "440081": {
     "OriginalText": "リーティア",
-    "Text": ""
+    "Text": "Rietheia",
+    "Enabled": true
   },
   "440082": {
     "OriginalText": "ヒュペリオン・ヘッド",
-    "Text": ""
+    "Text": "Hyperion Head",
+    "Enabled": true
   },
   "440083": {
     "OriginalText": "シャロン用フェイス",
@@ -1354,19 +1429,23 @@
   },
   "440353": {
     "OriginalText": "マロンキャップ",
-    "Text": ""
+    "Text": "Maron Cap",
+	"Enabled": true
   },
   "440354": {
     "OriginalText": "ラッピー耳あて",
-    "Text": ""
+    "Text": "Rappy Earmuffs",
+	"Enabled": true
   },
   "440355": {
     "OriginalText": "アークス土官帽Ａ",
-    "Text": ""
+    "Text": "ARKS Officer Cap A",
+	"Enabled": true
   },
   "440356": {
     "OriginalText": "アークス土官帽Ｂ",
-    "Text": ""
+    "Text": "ARKS Officer Cap B",
+	"Enabled": true
   },
   "440357": {
     "OriginalText": "フリューヘッド",
@@ -1678,19 +1757,23 @@
   },
   "440434": {
     "OriginalText": "ラッピーリュック",
-    "Text": ""
+    "Text": "Rappy Backpack",
+	"Enabled": true
   },
   "440435": {
     "OriginalText": "リリーパザック",
-    "Text": ""
+    "Text": "Lilipa Sack",
+	"Enabled": true
   },
   "440436": {
     "OriginalText": "リリーパリュック",
-    "Text": ""
+    "Text": "Lilipa Backpack",
+	"Enabled": true
   },
   "440437": {
     "OriginalText": "リリーパボトル",
-    "Text": ""
+    "Text": "Lilipa Bottle",
+	"Enabled": true
   },
   "440438": {
     "OriginalText": "サーキュエンデ",
