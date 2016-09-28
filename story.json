@@ -1,31 +1,38 @@
 {
   "100000010010013": {
     "OriginalText": "お願い……わたしの[ruby ほし]惑星[/ruby]を……助けて。",
-    "Text": ""
+    "Text": "Please... my [ruby Starlight]planet[/ruby]... help.",
+	"Enabled": true
   },
   "100000010020017": {
     "OriginalText": "誰も、助けに来てくれないの？",
-    "Text": ""
+    "Text": "Anyone... will you come to help?",
+	"Enabled": true
   },
   "100000010030013": {
     "OriginalText": "はい……。",
-    "Text": ""
+    "Text": "Yes...",
+	"Enabled": true
   },
   "100000010040017": {
     "OriginalText": "僕を、待っているの？",
-    "Text": ""
+    "Text": "Are you waiting... for me?",
+	"Enabled": true
   },
   "100000010050013": {
     "OriginalText": "わたしを、見つけてくれますか？",
-    "Text": ""
+    "Text": "Will you find... me?",
+	"Enabled": true
   },
   "100000010060017": {
     "OriginalText": "うん。",
-    "Text": "うん。"
+    "Text": "Yeah.",
+	"Enabled": true
   },
   "100000010070017": {
     "OriginalText": "約束する。必ず会いに行くよ。そして……\n僕は君の、たったひとりのための英雄になる！",
-    "Text": ""
+    "Text": "I promise, we will meet for certain. And...\nThen I'll be a hero, only for you!",
+    "Enabled": true
   },
   "100010010010000": {
     "OriginalText": "……。",
@@ -33,147 +40,178 @@
   },
   "100010020010008": {
     "OriginalText": "気分はいかがですか？",
-    "Text": "気分はいかがですか？"
+    "Text": "How are you feeling?",
+	"Enabled": true
   },
   "100010020015000": {
     "OriginalText": "最高！",
-    "Text": ""
+    "Text": "Great!",
+	"Enabled": true
   },
   "100010020020008": {
     "OriginalText": "すばらしいお目覚めですね。",
-    "Text": ""
+    "Text": "I'm glad the awakening went smoothly.",
+	"Enabled": true
   },
   "100010020025000": {
     "OriginalText": "ここはどこ？",
-    "Text": ""
+    "Text": "Where am I?",
+	"Enabled": true
   },
   "100010020030008": {
     "OriginalText": "それは今からご説明いたします。",
-    "Text": ""
+    "Text": "Don't worry, I'll explain everything.",
+	"Enabled": true
   },
   "100010020040008": {
     "OriginalText": "私はアークス特殊惑星探査隊オルター所属艦、\nデルタ・ヴァリアントのメディカルスタッフ、\nリーティアと申します。",
-    "Text": ""
+    "Text": "This is an ARKS Special Planetary Exploration\nGroup 'Alter' ship, the Delta Variant. I'm Rietheia,\npart of the medical staff.",
+	"Enabled": true
   },
   "100010020050008": {
     "OriginalText": "これより、簡単な記憶確認を行います。",
-    "Text": ""
+    "Text": "Let's make sure your memory is intact.",
+	"Enabled": true
   },
   "100010020060008": {
     "OriginalText": "あなたは現在、アークス特殊惑星探査隊\nオルターの戦闘部隊に所属し、新たに\n発見された惑星、マキアへ向かっています。",
-    "Text": ""
+    "Text": "You are a new member of the ARKS Special Planetary\nExploration Group 'Alter'. We are heading for\na newly discovered planet, Makia.",
+	"Enabled": true
   },
   "100010020070008": {
     "OriginalText": "記憶にありますか？",
-    "Text": ""
+    "Text": "Do you remember any of this?",
+	"Enabled": true
   },
   "100010020080008": {
     "OriginalText": "当艦には２０００人のクルーがいます。\nそのうちの９０％がコールドスリープ状態で\n探査する惑星付近まで運ばれます。",
-    "Text": ""
+    "Text": "There are about 2,000 crew members on board.\n90% of them are in cold sleep until we reach\nthe planet we are going to explore.",
+	"Enabled": true
   },
   "100010020090008": {
     "OriginalText": "当艦には１０００人のクルーがいます。\nそのうちの９０％がコールドスリープ状態で\n探査する惑星付近まで運ばれます。",
-    "Text": ""
+    "Text": "There are about 1,000 crew members on board.\n90% of them are in cold sleep until we reach\nthe planet we are going to explore.",
+	"Enabled": true
   },
   "100010020100008": {
     "OriginalText": "当艦には５００人のクルーがいます。\nそのうちの９０％がコールドスリープ状態で\n探査する惑星付近まで運ばれます。",
-    "Text": ""
+    "Text": "There are about 500 crew members on board.\n90% of them are in cold sleep until we reach\nthe planet we are going to explore.",
+	"Enabled": true
   },
   "100010020110008": {
     "OriginalText": "あなたもそのひとりだったんですよ。",
-    "Text": ""
+    "Text": "You and I are crew members too.",
+	"Enabled": true
   },
   "100010020120008": {
     "OriginalText": "特殊惑星探査隊は直接ワープ接続できない惑星を\n探査することが多いため、コールドスリープで\n人員を運び、現地に滞在して惑星探索を行います。",
-    "Text": ""
+    "Text": "The Special Planetary Exploration Group cannot\nwarp to unexplored planets, so we stay in\ncold sleep until we reach the planet.",
+	"Enabled": true
   },
   "100010020130008": {
     "OriginalText": "まもなく惑星マキアの衛星軌道に到着し、\n戦闘部隊員を含む第一次探査隊が\n惑星地表へ降下します。",
-    "Text": ""
+    "Text": "Once we enter orbit around planet Makia,\nthe primary exploration team, including the\ncombat personnel, will drop to the surface.",
+	"Enabled": true
   },
   "100010020140008": {
     "OriginalText": "あなたは第一次探査隊に選抜されました。",
-    "Text": ""
+    "Text": "You have been chosen for the primary\ninvestigation team.",
+	"Enabled": true
   },
   "100010020150008": {
     "OriginalText": "記憶に問題がなければ\nフィジカルチェックに進み、出撃準備後\nブリーフィングに参加してください。",
-    "Text": ""
+    "Text": "There doesn't appear to be any memory loss.\nPlease proceed to your physical checkup, in\npreperation for your sortie.",
+	"Enabled": true
   },
   "100010020160008": {
     "OriginalText": "ここまでの説明に、不明な点はありましたか？",
-    "Text": ""
+    "Text": "Do you have any questions about what\nwe've discussed?",
+	"Enabled": true
   },
   "100010020165000": {
     "OriginalText": "ありません",
-    "Text": ""
+    "Text": "No, I understand.",
+	"Enabled": true
   },
   "100010020170008": {
     "OriginalText": "素晴らしいお返事、ありがとうごいます！",
-    "Text": ""
+    "Text": "Great to hear, thank you!",
+	"Enabled": true
   },
   "100010020175000": {
     "OriginalText": "今夜予定は空いていますか？",
-    "Text": ""
+    "Text": "Will you have any free time tonight?",
+	"Enabled": true
   },
   "100010020180008": {
     "OriginalText": "あなたは任務中なので、空いていません。\nえ？ 私ですか？ 仕事です。",
-    "Text": ""
+    "Text": "You certainly won't, since you'll be on\nthat mission.\nHuh? Me? I'll be doing my job.",
+	"Enabled": true
   },
   "100010020190008": {
     "OriginalText": "問題はなさそうですね？",
-    "Text": ""
+    "Text": "Therefore, it doesn't seem very likely?",
+	"Enabled": true
   },
   "100010020200008": {
     "OriginalText": "よかった！ 脳までちゃんと\n解凍できているみたいですね！",
-    "Text": ""
+    "Text": "Good! Looks like you made it just\nfine. Cold sleep can be dangerous!",
+	"Enabled": true
   },
   "100010020210008": {
     "OriginalText": "ここだけの話、たまに失敗もあるんですよ……。",
-    "Text": ""
+    "Text": "Every once in a while, the process\ndoesn't go right, and...",
+	"Enabled": true
   },
   "100010020220008": {
     "OriginalText": "そっ、それでもだいたいは\n大丈夫なんですけどね！",
-    "Text": ""
+    "Text": "Anyway, the point is that you\nmade it safe and sound!",
+	"Enabled": true
   },
   "100010020230008": {
     "OriginalText": "驚きましたか？ 今のは感情のチェックです。\nあなたの感情は正常なようですね。\nふふっ、メンタルチェック、完了です！",
-    "Text": ""
+    "Text": "Did I scare you? Good! I was checking on your\nemotions. It seems they are in order.\nHaha, mental check complete!",
+	"Enabled": true
   },
   "100010020240008": {
     "OriginalText": "それではトレーニングルームへ\n移動してください。",
-    "Text": ""
+    "Text": "Next, please move to the training\nroom.",
+	"Enabled": true
   },
   "100010020250008": {
     "OriginalText": "そちらでフィジカルチェック、\n運動能力の検査を行います。\nあの、がんばってくださいね！",
-    "Text": ""
+    "Text": "They'll do a physical check there,\nand make sure your motor skills are intact.\nUmm... Do your best!",
+	"Enabled": true
   },
   "100010020260008": {
     "OriginalText": "敬礼もちゃんと覚えていましたか！\n惑星探査隊オルターには独特の敬礼があって、\n新人さんには珍しいってよく言われますね。",
-    "Text": ""
+    "Text": "Make sure you also salute properly!\nThere's a unique salute we do in Alter,\nand a lot of rookies don't do it right.",
+	"Enabled": true
   },
   "100010020270008": {
     "OriginalText": "では、行ってらっしゃいませ！",
-    "Text": ""
+    "Text": "Now then, have a nice day!",
+	"Enabled": true
   },
   "100010030010004": {
     "OriginalText": "よく来たな新人。\nあぁ、新人てのはお前のことだよ。",
     "Text": "Welcome, rookies!\nAh, it seems like you're the only rookie here.",
-    "Enabled": true
+	"Enabled": true
   },
   "100010030020004": {
     "OriginalText": "オレは戦闘部隊隊長のフィルディアだ。\nお前はオレの部下ってことになるんで、\nよろしくな。",
-    "Text": "I'm Fildia, the combat squad captain.\nSince you will be under my command,\nI thought I'd come and say Hello!",
-    "Enabled": true
+    "Text": "I'm Fildia, the combat squad captain.\nSince you will be under my command,\nI thought I'd come and say hello!",
+	"Enabled": true
   },
   "100010030030004": {
     "OriginalText": "早速だが、お前の健康状態と\n戦闘技術を確認させてもらう。",
     "Text": "I know it's sudden, but I'd like to\ndo a quick check of your heath\nand combat readiness.",
-    "Enabled": true
+	"Enabled": true
   },
   "100010030040004": {
     "OriginalText": "寝起きで体も鈍ってるだろうから、\n難しいことをやれとは言わねえ。\n軽くいけ、軽く、な。",
     "Text": "I'm sure that your body is slow\nand tired from the cold sleep,\nso take it easy.",
-    "Enabled": true
+	"Enabled": true
   },
   "100010032010000": {
     "OriginalText": "ここには『バトルチュートリアル』が入る予定です。",
