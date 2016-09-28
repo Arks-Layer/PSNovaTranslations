@@ -1,7 +1,7 @@
 {
   "100000010010013": {
     "OriginalText": "お願い……わたしの[ruby ほし]惑星[/ruby]を……助けて。",
-    "Text": "Please... my [ruby Starlight]planet[/ruby]... help.",
+    "Text": "Please...my [ruby Starlight]planet[/ruby]...help.",
     "Enabled": true
   },
   "100000010020017": {
@@ -304,17 +304,17 @@
   },
   "100010040010007": {
     "OriginalText": "艦側面に被弾！\n惑星地表から攻撃を受けています！",
-    "Text": "The ship was hit on the side!\nWe are under attack from the planets surface!",
+    "Text": "The ship was hit on the side!\nWe are under attack from the planet's surface!",
 	"Enabled": true
   },
   "100010040020014": {
     "OriginalText": "被弾だと？\nフォトンシールドはどうなっている？",
-    "Text": "We've been hit?\nWhat is with the photon shield?",
+    "Text": "We've been hit?\nWhat's going on with the Photon Shield?",
 	"Enabled": true
   },
   "100010040030007": {
     "OriginalText": "機関室より報告！\nフォトンドライブ出力低下！ 出力２０％！",
-    "Text": "Report from the engine room!\nThe photon drive output dropped!\nIt's down to 20%!",
+    "Text": "A report from the engine room!\nThe Photon Drive's output dropped!\nIt's down to 20%!",
 	"Enabled": true
   },
   "100010040040014": {
@@ -324,7 +324,7 @@
   },
   "100010040050007": {
     "OriginalText": "フォトンシールド展開できません！",
-    "Text": "We can't activate the photon shield!",
+    "Text": "We can't activate the Photon Shield!",
 	"Enabled": true
   },
   "100010040060014": {
@@ -334,12 +334,12 @@
   },
   "100010040070014": {
     "OriginalText": "機関部！ 出力は上がらんのか！",
-    "Text": "Engine section! Don't rise the output!",
+    "Text": "Engine Room! Don't raise the output!",
 	"Enabled": true
   },
   "100010040080050": {
     "OriginalText": "艦長！ [ruby ふね]艦[/ruby]が惑星に引き寄せられています！",
-    "Text": "Captain! The[ruby ふね]ship[/ruby]is drawn to the planet!",
+    "Text": "Captain! The ship is being drawn to the planet!",
 	"Enabled": true
   },
   "100010040090014": {
@@ -349,17 +349,17 @@
   },
   "100010040100005": {
     "OriginalText": "重力とは違う何かに[ruby ふね]艦[/ruby]が引かれていますね。\n機関室、サブ・ドライブは生きていますか？ \n切り替えを。",
-    "Text": "The gravity is different. The[ruby ふね]ship[/ruby]is drawn.\nEngine room, is the sub-drive alive? \nSwitch over.",
+    "Text": "The gravity is different. The[ruby ふね]ship[/ruby]is being pulled.\nEngine room, is the Sub-drive alive?\nSwitch over.",
 	"Enabled": true
   },
   "100010040110005": {
     "OriginalText": "姿勢制御ぐらいはできるでしょう。艦長。",
-    "Text": "We have control over the ship, Captain.",
+    "Text": "We have control over the ship. Captain.",
 	"Enabled": true
   },
   "100010040120014": {
     "OriginalText": "緊急着陸態勢、クルーに指示を。",
-    "Text": "Instruction to the crew. Emergency landing.",
+    "Text": "Warn the crew, emergency landing.",
 	"Enabled": true
   },
   "100010040130007": {
