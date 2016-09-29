@@ -1,0 +1,796 @@
+  "520000": {
+    "OriginalText": "テキスト不要箇所\nこれが出たらパラメーター担当者に報告",
+    "Text": ""
+  },
+  "520001": {
+    "OriginalText": "見習いアークス",
+    "Text": ""
+  },
+  "520002": {
+    "OriginalText": "一般アークス",
+    "Text": ""
+  },
+  "520003": {
+    "OriginalText": "熟練アークス",
+    "Text": ""
+  },
+  "520004": {
+    "OriginalText": "エリートアークス",
+    "Text": ""
+  },
+  "520005": {
+    "OriginalText": "レジェンドアークス",
+    "Text": ""
+  },
+  "520006": {
+    "OriginalText": "暁紅のアークス",
+    "Text": ""
+  },
+  "520007": {
+    "OriginalText": "エース候補",
+    "Text": ""
+  },
+  "520008": {
+    "OriginalText": "リーダー気質",
+    "Text": ""
+  },
+  "520009": {
+    "OriginalText": "ブリッジクルー",
+    "Text": ""
+  },
+  "520010": {
+    "OriginalText": "サポートスタッフ",
+    "Text": ""
+  },
+  "520011": {
+    "OriginalText": "好戦的",
+    "Text": ""
+  },
+  "520012": {
+    "OriginalText": "平和主義",
+    "Text": ""
+  },
+  "520013": {
+    "OriginalText": "影の実力者",
+    "Text": ""
+  },
+  "520015": {
+    "OriginalText": "ピンチに強い",
+    "Text": ""
+  },
+  "520016": {
+    "OriginalText": "火事場の馬鹿力",
+    "Text": ""
+  },
+  "520017": {
+    "OriginalText": "ポーカーフェイス",
+    "Text": ""
+  },
+  "520018": {
+    "OriginalText": "ド根性",
+    "Text": ""
+  },
+  "520019": {
+    "OriginalText": "逆境に弱い",
+    "Text": ""
+  },
+  "520020": {
+    "OriginalText": "テンパリスト",
+    "Text": ""
+  },
+  "520021": {
+    "OriginalText": "短気",
+    "Text": ""
+  },
+  "520022": {
+    "OriginalText": "泣き虫",
+    "Text": ""
+  },
+  "520023": {
+    "OriginalText": "スロースターター",
+    "Text": ""
+  },
+  "520024": {
+    "OriginalText": "ヒーロー気取り",
+    "Text": ""
+  },
+  "520025": {
+    "OriginalText": "常に寝不足",
+    "Text": ""
+  },
+  "520026": {
+    "OriginalText": "持久力に難あり",
+    "Text": ""
+  },
+  "520027": {
+    "OriginalText": "人気者",
+    "Text": ""
+  },
+  "520028": {
+    "OriginalText": "友情に熱い",
+    "Text": ""
+  },
+  "520029": {
+    "OriginalText": "ツンデレ",
+    "Text": ""
+  },
+  "520030": {
+    "OriginalText": "人見知り",
+    "Text": ""
+  },
+  "520031": {
+    "OriginalText": "ロンリーウルフ",
+    "Text": ""
+  },
+  "520032": {
+    "OriginalText": "努力家",
+    "Text": ""
+  },
+  "520033": {
+    "OriginalText": "頑張り屋",
+    "Text": ""
+  },
+  "520035": {
+    "OriginalText": "目立ちたがり",
+    "Text": ""
+  },
+  "520036": {
+    "OriginalText": "影が薄い",
+    "Text": ""
+  },
+  "520037": {
+    "OriginalText": "自分勝手",
+    "Text": ""
+  },
+  "520038": {
+    "OriginalText": "団体行動が苦手",
+    "Text": ""
+  },
+  "520041": {
+    "OriginalText": "ダーカー嫌い",
+    "Text": ""
+  },
+  "520042": {
+    "OriginalText": "動物博土",
+    "Text": ""
+  },
+  "520045": {
+    "OriginalText": "兵器マニア",
+    "Text": ""
+  },
+  "520046": {
+    "OriginalText": "男好き",
+    "Text": ""
+  },
+  "520047": {
+    "OriginalText": "女好き",
+    "Text": ""
+  },
+  "520048": {
+    "OriginalText": "ヒューマン好き",
+    "Text": ""
+  },
+  "520049": {
+    "OriginalText": "ヒューマン苦手",
+    "Text": ""
+  },
+  "520050": {
+    "OriginalText": "ニューマン好き",
+    "Text": ""
+  },
+  "520051": {
+    "OriginalText": "ニューマン苦手",
+    "Text": ""
+  },
+  "520052": {
+    "OriginalText": "キャスト好き",
+    "Text": ""
+  },
+  "520053": {
+    "OriginalText": "キャスト苦手",
+    "Text": ""
+  },
+  "520054": {
+    "OriginalText": "ハンター好き",
+    "Text": ""
+  },
+  "520055": {
+    "OriginalText": "フォース好き",
+    "Text": ""
+  },
+  "520056": {
+    "OriginalText": "レンジャー好き",
+    "Text": ""
+  },
+  "520057": {
+    "OriginalText": "バスター好き",
+    "Text": ""
+  },
+  "520061": {
+    "OriginalText": "熱血漢",
+    "Text": ""
+  },
+  "520062": {
+    "OriginalText": "いくじなし",
+    "Text": ""
+  },
+  "520063": {
+    "OriginalText": "冷静",
+    "Text": ""
+  },
+  "520064": {
+    "OriginalText": "優柔不断",
+    "Text": ""
+  },
+  "520065": {
+    "OriginalText": "話し上手",
+    "Text": ""
+  },
+  "520066": {
+    "OriginalText": "口下手",
+    "Text": ""
+  },
+  "520067": {
+    "OriginalText": "打たれ強い",
+    "Text": ""
+  },
+  "520068": {
+    "OriginalText": "ケガが多い",
+    "Text": ""
+  },
+  "520069": {
+    "OriginalText": "反射神経抜群",
+    "Text": ""
+  },
+  "520070": {
+    "OriginalText": "リズム感がない",
+    "Text": ""
+  },
+  "520071": {
+    "OriginalText": "不屈の精神",
+    "Text": ""
+  },
+  "520072": {
+    "OriginalText": "落ち込みやすい",
+    "Text": ""
+  },
+  "520073": {
+    "OriginalText": "打撃自慢",
+    "Text": ""
+  },
+  "520074": {
+    "OriginalText": "射撃王",
+    "Text": ""
+  },
+  "520075": {
+    "OriginalText": "法撃マスター",
+    "Text": ""
+  },
+  "520081": {
+    "OriginalText": "戦闘タイプ:攻撃",
+    "Text": ""
+  },
+  "520082": {
+    "OriginalText": "戦闘タイプ:支援",
+    "Text": ""
+  },
+  "520083": {
+    "OriginalText": "戦闘タイプ:攻撃+回復",
+    "Text": ""
+  },
+  "520084": {
+    "OriginalText": "戦闘タイプ:支援+回復",
+    "Text": ""
+  },
+  "520085": {
+    "OriginalText": "炎属性",
+    "Text": ""
+  },
+  "520086": {
+    "OriginalText": "氷属性",
+    "Text": ""
+  },
+  "520087": {
+    "OriginalText": "雷属性",
+    "Text": ""
+  },
+  "520088": {
+    "OriginalText": "風属性",
+    "Text": ""
+  },
+  "520089": {
+    "OriginalText": "光属性",
+    "Text": ""
+  },
+  "520090": {
+    "OriginalText": "闇属性",
+    "Text": ""
+  },
+  "520091": {
+    "OriginalText": "仲間思い",
+    "Text": ""
+  },
+  "520092": {
+    "OriginalText": "不倒",
+    "Text": ""
+  },
+  "520093": {
+    "OriginalText": "天才肌",
+    "Text": ""
+  },
+  "520094": {
+    "OriginalText": "探究心",
+    "Text": ""
+  },
+  "520095": {
+    "OriginalText": "堅物",
+    "Text": ""
+  },
+  "520096": {
+    "OriginalText": "やんちゃ坊主",
+    "Text": ""
+  },
+  "520097": {
+    "OriginalText": "戦闘巧者",
+    "Text": ""
+  },
+  "520098": {
+    "OriginalText": "職人の手捌き",
+    "Text": ""
+  },
+  "520099": {
+    "OriginalText": "ロマンチスト",
+    "Text": ""
+  },
+  "520106": {
+    "OriginalText": "コスト削滅班長",
+    "Text": ""
+  },
+  "520107": {
+    "OriginalText": "コスト削滅係長",
+    "Text": ""
+  },
+  "520108": {
+    "OriginalText": "コスト削滅部長",
+    "Text": ""
+  },
+  "520109": {
+    "OriginalText": "コスト削滅社長",
+    "Text": ""
+  },
+  "520110": {
+    "OriginalText": "コスト削滅大統領",
+    "Text": ""
+  },
+  "520116": {
+    "OriginalText": "節約レシピ好き",
+    "Text": ""
+  },
+  "520117": {
+    "OriginalText": "節約レシピマニア",
+    "Text": ""
+  },
+  "520118": {
+    "OriginalText": "節約レシピマイスター",
+    "Text": ""
+  },
+  "520125": {
+    "OriginalText": "見習い鍛冶職人",
+    "Text": ""
+  },
+  "520126": {
+    "OriginalText": "駆け出し鍛冶職人",
+    "Text": ""
+  },
+  "520127": {
+    "OriginalText": "いっぱしの鍛冶職人",
+    "Text": ""
+  },
+  "520128": {
+    "OriginalText": "噂の鍛冶職人",
+    "Text": ""
+  },
+  "520129": {
+    "OriginalText": "匠の鍛冶職人",
+    "Text": ""
+  },
+  "520130": {
+    "OriginalText": "伝説の鍛冶職人",
+    "Text": ""
+  },
+  "520135": {
+    "OriginalText": "錆の防具職人",
+    "Text": ""
+  },
+  "520136": {
+    "OriginalText": "鉄の防具職人",
+    "Text": ""
+  },
+  "520137": {
+    "OriginalText": "銅の防具職人",
+    "Text": ""
+  },
+  "520138": {
+    "OriginalText": "銀の防具職人",
+    "Text": ""
+  },
+  "520139": {
+    "OriginalText": "金の防具職人",
+    "Text": ""
+  },
+  "520140": {
+    "OriginalText": "ダイヤモンドの防具職人",
+    "Text": ""
+  },
+  "520147": {
+    "OriginalText": "商人見習い",
+    "Text": ""
+  },
+  "520148": {
+    "OriginalText": "商売上手",
+    "Text": ""
+  },
+  "520149": {
+    "OriginalText": "注目株の商人",
+    "Text": ""
+  },
+  "520150": {
+    "OriginalText": "商売の神様",
+    "Text": ""
+  },
+  "520155": {
+    "OriginalText": "仮縫い担当",
+    "Text": ""
+  },
+  "520156": {
+    "OriginalText": "裁縫上手",
+    "Text": ""
+  },
+  "520157": {
+    "OriginalText": "ミシンの使い手",
+    "Text": ""
+  },
+  "520158": {
+    "OriginalText": "ひとかどのデザイナー",
+    "Text": ""
+  },
+  "520159": {
+    "OriginalText": "期待の新星デザイナー",
+    "Text": ""
+  },
+  "520160": {
+    "OriginalText": "トップデザイナー",
+    "Text": ""
+  },
+  "520161": {
+    "OriginalText": "おしゃれ泥棒",
+    "Text": ""
+  },
+  "520162": {
+    "OriginalText": "おしゃれ大泥棒",
+    "Text": ""
+  },
+  "520163": {
+    "OriginalText": "おしゃれ怪盗",
+    "Text": ""
+  },
+  "520164": {
+    "OriginalText": "グラン予報土",
+    "Text": ""
+  },
+  "520165": {
+    "OriginalText": "上級グラン予報土",
+    "Text": ""
+  },
+  "520167": {
+    "OriginalText": "ダウジンガー",
+    "Text": ""
+  },
+  "520168": {
+    "OriginalText": "ラッキライザー",
+    "Text": ""
+  },
+  "520169": {
+    "OriginalText": "野生の勘",
+    "Text": ""
+  },
+  "520170": {
+    "OriginalText": "BURST：経験値UP",
+    "Text": ""
+  },
+  "520171": {
+    "OriginalText": "BURST：アイテム",
+    "Text": ""
+  },
+  "520172": {
+    "OriginalText": "BURST：レアエネミー",
+    "Text": ""
+  },
+  "520173": {
+    "OriginalText": "BURST：レアドロップ",
+    "Text": ""
+  },
+  "520176": {
+    "OriginalText": "BURST：ワンモア",
+    "Text": ""
+  },
+  "520177": {
+    "OriginalText": "BURST：ガッツ",
+    "Text": ""
+  },
+  "520178": {
+    "OriginalText": "BURST：ダメージカット",
+    "Text": ""
+  },
+  "520179": {
+    "OriginalText": "BURST：コンバージョン",
+    "Text": ""
+  },
+  "520180": {
+    "OriginalText": "BURST：クリティカル",
+    "Text": ""
+  },
+  "520181": {
+    "OriginalText": "BURST：モータルブロウ",
+    "Text": ""
+  },
+  "520182": {
+    "OriginalText": "博愛",
+    "Text": ""
+  },
+  "520183": {
+    "OriginalText": "注意深い",
+    "Text": ""
+  },
+  "520184": {
+    "OriginalText": "現実的",
+    "Text": ""
+  },
+  "520185": {
+    "OriginalText": "死神",
+    "Text": ""
+  },
+  "520201": {
+    "OriginalText": "攻撃力アップ+1",
+    "Text": ""
+  },
+  "520202": {
+    "OriginalText": "攻撃力アップ+2",
+    "Text": ""
+  },
+  "520203": {
+    "OriginalText": "攻撃力アップ+3",
+    "Text": ""
+  },
+  "520204": {
+    "OriginalText": "攻撃力アップ+4",
+    "Text": ""
+  },
+  "520205": {
+    "OriginalText": "攻撃力アップ+5",
+    "Text": ""
+  },
+  "520206": {
+    "OriginalText": "防御力アップ+1",
+    "Text": ""
+  },
+  "520207": {
+    "OriginalText": "防御力アップ+2",
+    "Text": ""
+  },
+  "520208": {
+    "OriginalText": "防御力アップ+3",
+    "Text": ""
+  },
+  "520209": {
+    "OriginalText": "防御力アップ+4",
+    "Text": ""
+  },
+  "520210": {
+    "OriginalText": "防御力アップ+5",
+    "Text": ""
+  },
+  "520211": {
+    "OriginalText": "アイテム効果アップ+1",
+    "Text": ""
+  },
+  "520212": {
+    "OriginalText": "アイテム効果アップ+2",
+    "Text": ""
+  },
+  "520213": {
+    "OriginalText": "アイテム効果アップ+3",
+    "Text": ""
+  },
+  "520214": {
+    "OriginalText": "アイテム効果アップ+4",
+    "Text": ""
+  },
+  "520215": {
+    "OriginalText": "アイテム効果アップ+5",
+    "Text": ""
+  },
+  "520216": {
+    "OriginalText": "Gブースターランク1適応地路",
+    "Text": ""
+  },
+  "520217": {
+    "OriginalText": "Gブースターランク2適応地路",
+    "Text": ""
+  },
+  "520218": {
+    "OriginalText": "Gブースターランク3適応地路",
+    "Text": ""
+  },
+  "520219": {
+    "OriginalText": "Gブースターランク4適応地路",
+    "Text": ""
+  },
+  "520220": {
+    "OriginalText": "Gブースターランク5適応地路",
+    "Text": ""
+  },
+  "520221": {
+    "OriginalText": "Gブースター支援効果+0",
+    "Text": ""
+  },
+  "520222": {
+    "OriginalText": "Gブースター支援効果+1",
+    "Text": ""
+  },
+  "520223": {
+    "OriginalText": "Gブースター支援効果+2",
+    "Text": ""
+  },
+  "520224": {
+    "OriginalText": "Gブースター支援効果+3",
+    "Text": ""
+  },
+  "520225": {
+    "OriginalText": "Gブースター支援効果+4",
+    "Text": ""
+  },
+  "520226": {
+    "OriginalText": "Gブースター支援効果+5",
+    "Text": ""
+  },
+  "520227": {
+    "OriginalText": "Gブースター支援効果+6",
+    "Text": ""
+  },
+  "520228": {
+    "OriginalText": "Gブースター支援効果+7",
+    "Text": ""
+  },
+  "520229": {
+    "OriginalText": "Gブースター支援効果+8",
+    "Text": ""
+  },
+  "520230": {
+    "OriginalText": "Gブースター支援効果+9",
+    "Text": ""
+  },
+  "520231": {
+    "OriginalText": "Gブースター支援効果+10",
+    "Text": ""
+  },
+  "520232": {
+    "OriginalText": "I探索装置ランク1適応地路",
+    "Text": ""
+  },
+  "520233": {
+    "OriginalText": "I探索装置ランク2適応地路",
+    "Text": ""
+  },
+  "520234": {
+    "OriginalText": "I探索装置ランク3適応地路",
+    "Text": ""
+  },
+  "520235": {
+    "OriginalText": "I探索装置ランク4適応地路",
+    "Text": ""
+  },
+  "520236": {
+    "OriginalText": "I探索装置ランク5適応地路",
+    "Text": ""
+  },
+  "520237": {
+    "OriginalText": "アイテムドロップUP+0",
+    "Text": ""
+  },
+  "520238": {
+    "OriginalText": "アイテムドロップUP+1",
+    "Text": ""
+  },
+  "520239": {
+    "OriginalText": "アイテムドロップUP+2",
+    "Text": ""
+  },
+  "520240": {
+    "OriginalText": "アイテムドロップUP+3",
+    "Text": ""
+  },
+  "520241": {
+    "OriginalText": "アイテムドロップUP+4",
+    "Text": ""
+  },
+  "520242": {
+    "OriginalText": "アイテムドロップUP+5",
+    "Text": ""
+  },
+  "520243": {
+    "OriginalText": "レアアイテムドロップUP+0",
+    "Text": ""
+  },
+  "520244": {
+    "OriginalText": "レアアイテムドロップUP+1",
+    "Text": ""
+  },
+  "520245": {
+    "OriginalText": "レアアイテムドロップUP+2",
+    "Text": ""
+  },
+  "520246": {
+    "OriginalText": "レアアイテムドロップUP+3",
+    "Text": ""
+  },
+  "520247": {
+    "OriginalText": "レアアイテムドロップUP+4",
+    "Text": ""
+  },
+  "520248": {
+    "OriginalText": "レアアイテムドロップUP+5",
+    "Text": ""
+  },
+  "520249": {
+    "OriginalText": "Eレーダーランク1適応地路",
+    "Text": ""
+  },
+  "520250": {
+    "OriginalText": "Eレーダーランク2適応地路",
+    "Text": ""
+  },
+  "520251": {
+    "OriginalText": "Eレーダーランク3適応地路",
+    "Text": ""
+  },
+  "520252": {
+    "OriginalText": "Eレーダーランク4適応地路",
+    "Text": ""
+  },
+  "520253": {
+    "OriginalText": "Eレーダーランク5適応地路",
+    "Text": ""
+  },
+  "520254": {
+    "OriginalText": "Eレーダー支援効果+0",
+    "Text": ""
+  },
+  "520255": {
+    "OriginalText": "Eレーダー支援効果+1",
+    "Text": ""
+  },
+  "520256": {
+    "OriginalText": "Eレーダー支援効果+2",
+    "Text": ""
+  },
+  "520257": {
+    "OriginalText": "Eレーダー支援効果+3",
+    "Text": ""
+  },
+  "520258": {
+    "OriginalText": "Eレーダー支援効果+4",
+    "Text": ""
+  },
+  "520259": {
+    "OriginalText": "Eレーダー支援効果+5",
+    "Text": ""
+  },
+  "520260": {
+    "OriginalText": "B観測装置支援効果+0",
+    "Text": ""
+  },
+  "520261": {
+    "OriginalText": "",
+    "Text": ""
+  },
