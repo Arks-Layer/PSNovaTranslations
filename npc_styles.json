@@ -4,17 +4,17 @@
   },
   "510028": {
     "OriginalText": "格闘系ガール",
-    "Text": "Fighting girl",
+    "Text": "Battle Lineage Girl",
 	"Enabled": true
   },
   "510029": {
     "OriginalText": "モノメイト男",
-    "Text": "Monomate man",
+    "Text": "Monomate Man",
 	"Enabled": true
   },
   "510030": {
     "OriginalText": "知られる天才",
-    "Text": "Widely known genius",
+    "Text": "Well Known Prodigy",
 	"Enabled": true
   },
   "510031": {
@@ -103,7 +103,8 @@
   },
   "510052": {
     "OriginalText": "メガネ",
-    "Text": ""
+    "Text": "Glasses",
+	  "Enabled": true
   },
   "510053": {
     "OriginalText": "社長",
@@ -111,15 +112,18 @@
   },
   "510054": {
     "OriginalText": "マシュマロ",
-    "Text": ""
+    "Text": "Marshmellow",
+	  "Enabled": true
   },
   "510055": {
     "OriginalText": "ピザ",
-    "Text": ""
+    "Text": "Pizza",
+	  "Enabled": true
   },
   "510056": {
     "OriginalText": "ジャンボ",
-    "Text": ""
+    "Text": "Jumbo",
+	  "Enabled": true
   },
   "510057": {
     "OriginalText": "リーダー",
