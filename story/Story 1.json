@@ -303,67 +303,67 @@
   "100010040010007": {
     "OriginalText": "艦側面に被弾！\n惑星地表から攻撃を受けています！",
     "Text": "The ship was hit on the side!\nWe are under attack from the planets surface!",
-	"Enabled": true
+    "Enabled": true
   },
   "100010040020014": {
     "OriginalText": "被弾だと？\nフォトンシールドはどうなっている？",
     "Text": "We've been hit?\nWhat about our photon shield?",
-	"Enabled": true
+    "Enabled": true
   },
   "100010040030007": {
     "OriginalText": "機関室より報告！\nフォトンドライブ出力低下！ 出力２０％！",
     "Text": "Report from the engine room!\nThe photon drive output dropped!\nIt's down to 20%!",
-	"Enabled": true
+    "Enabled": true
   },
   "100010040040014": {
     "OriginalText": "２０だと？",
     "Text": "20%!?",
-	"Enabled": true
+    "Enabled": true
   },
   "100010040050007": {
     "OriginalText": "フォトンシールド展開できません！",
     "Text": "We can't activate the photon shield!",
-	"Enabled": true
+    "Enabled": true
   },
   "100010040060014": {
     "OriginalText": "うおっ！？",
     "Text": "What!?",
-	"Enabled": true
+    "Enabled": true
   },
   "100010040070014": {
     "OriginalText": "機関部！ 出力は上がらんのか！",
     "Text": "Engine section! Don't increase the output!",
-	"Enabled": true
+    "Enabled": true
   },
   "100010040080050": {
     "OriginalText": "艦長！ [ruby ふね]艦[/ruby]が惑星に引き寄せられています！",
     "Text": "Captain! The ship is drawn towards the planet!",
-	"Enabled": true
+    "Enabled": true
   },
   "100010040090014": {
     "OriginalText": "何だと！？",
     "Text": "What did you say!?",
-	"Enabled": true
+    "Enabled": true
   },
   "100010040100005": {
     "OriginalText": "重力とは違う何かに[ruby ふね]艦[/ruby]が引かれていますね。\n機関室、サブ・ドライブは生きていますか？ \n切り替えを。",
     "Text": "The gravity is strange. The ship is pulled in.\nEngine room, is the sub-drive alive? \nSwitch over.",
-	"Enabled": true
+    "Enabled": true
   },
   "100010040110005": {
     "OriginalText": "姿勢制御ぐらいはできるでしょう。艦長。",
     "Text": "We have control over the ship, Captain.",
-	"Enabled": true
+    "Enabled": true
   },
   "100010040120014": {
     "OriginalText": "緊急着陸態勢、クルーに指示を。",
     "Text": "Warn the crew that we're doing\nan emergency landing.",
-	"Enabled": true
+    "Enabled": true
   },
   "100010040130007": {
     "OriginalText": "了解。警報発令！",
     "Text": "Roger that. Warning issued!",
-	"Enabled": true
+    "Enabled": true
   },
   "100010050005000": {
     "OriginalText": "ここは「MP00_010_050 艦、墜落」のCGムービーが\n再生される予定です。\n仮に字幕とボイスのみ再生します。",
