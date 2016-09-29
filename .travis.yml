@@ -10,6 +10,7 @@ install:
 
 script:
   - python checkjson.py
+  - python checkjson_story.py
 
 before_cache:
   - rm -f $HOME/.cache/pip/log/debug.log
