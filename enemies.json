@@ -297,43 +297,53 @@
   },
   "183710": {
     "OriginalText": "バレダイナス",
-    "Text": ""
+    "Text": "Vale-Dynas",
+    "Enable": true
   },
   "183720": {
     "OriginalText": "ラーバレダイナス",
-    "Text": ""
+    "Text": "Lar Vale-Dynas",
+    "Enable": true
   },
   "183730": {
     "OriginalText": "マーバレダイナス",
-    "Text": ""
+    "Text": "Mar Vale-Dynas",
+    "Enable": true
   },
   "183740": {
     "OriginalText": "ヴィバレダイナス",
-    "Text": ""
+    "Text": "Vi Vale-Dynas",
+    "Enable": true
   },
   "183750": {
     "OriginalText": "ダイナス・タングス",
-    "Text": ""
+    "Text": "Dynas Tungs",
+    "Enable": true
   },
   "183810": {
     "OriginalText": "シードギオス",
-    "Text": ""
+    "Text": "Xie Dogios",
+    "Enable": true
   },
   "183820": {
     "OriginalText": "フォードギオス",
-    "Text": ""
+    "Text": "Pho Dogios",
+    "Enable": true
   },
   "183830": {
     "OriginalText": "ヴァッドギオス",
-    "Text": ""
+    "Text": "Valle Dogios",
+    "Enable": true
   },
   "183840": {
     "OriginalText": "エアドギオス",
-    "Text": ""
+    "Text": "Air Dogios",
+    "Enable": true
   },
   "183850": {
     "OriginalText": "ドギオス・ルフレ",
-    "Text": ""
+    "Text": "Dogios Reflet",
+    "Enable": true
   },
   "183910": {
     "OriginalText": "トルリンプ",
