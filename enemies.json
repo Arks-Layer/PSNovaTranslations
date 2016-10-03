@@ -37,47 +37,58 @@
   },
   "182420": {
     "OriginalText": "ニグ・ラッピー",
-    "Text": ""
+    "Text": "Nigu Rappy",
+    "Enabled": true
   },
   "182430": {
     "OriginalText": "ラッピー・アルマ",
-    "Text": ""
+    "Text": "Rappy Alma",
+    "Enabled": true
   },
   "182510": {
     "OriginalText": "アルマラッピー",
-    "Text": ""
+    "Text": "Alma-Rappy",
+    "Enabled": true
   },
   "182520": {
     "OriginalText": "レウ・アヴラッピー",
-    "Text": ""
+    "Text": "Leu Alma-Rappy",
+    "Enabled": true
   },
   "182530": {
     "OriginalText": "ウィ・アヴラッピー",
-    "Text": ""
+    "Text": "Vi Alma-Rappy",
+    "Enabled": true
   },
   "182540": {
     "OriginalText": "ロセ・アヴラッピー",
-    "Text": ""
+    "Text": "Rosset Alma-Rappy",
+    "Enabled": true
   },
   "182550": {
     "OriginalText": "アルマラッピー・オナー",
-    "Text": ""
+    "Text": "Alma-Rappy Onna",
+    "Enabled": true
   },
   "182610": {
     "OriginalText": "ロヴラッピー",
-    "Text": ""
+    "Text": "Lov-Rappy",
+    "Enabled": true
   },
   "182620": {
     "OriginalText": "ウィ・ロヴラッピー",
-    "Text": ""
+    "Text": "Vi Lov-Rappy",
+    "Enabled": true
   },
   "182630": {
     "OriginalText": "レウ・ロヴラッピー",
-    "Text": ""
+    "Text": "Leu Lov-Rappy",
+    "Enabled": true
   },
   "182640": {
     "OriginalText": "ロヴラッピー・ロセ",
-    "Text": ""
+    "Text": "Lov-Rappy Rosset",
+    "Enabled": true
   },
   "182710": {
     "OriginalText": "マガヴルム",
