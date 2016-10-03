@@ -1,11 +1,13 @@
 {
   "182030": {
     "OriginalText": "イエーデン・アイエ",
-    "Text": ""
+    "Text": "Yede Aie",
+    "Enabled": true
   },
   "182110": {
     "OriginalText": "フォンベガルフ",
-    "Text": ""
+    "Text": "Fonbegulf",
+    "Enabled": true
   },
   "182120": {
     "OriginalText": "フロフォンベガルフ",
@@ -13,27 +15,33 @@
   },
   "182130": {
     "OriginalText": "フォンベガルフ・ライオ",
-    "Text": ""
+    "Text": "Fonbegulf Raioh",
+    "Enabled": true
   },
   "182210": {
     "OriginalText": "シルブベア",
-    "Text": ""
+    "Text": "Sirbu Bear",
+    "Enabled": true
   },
   "182220": {
     "OriginalText": "ベア・ゴルヴァ",
-    "Text": ""
+    "Text": "Bear Gorva",
+    "Enabled": true
   },
   "182310": {
     "OriginalText": "グルナバンサー",
-    "Text": ""
+    "Text": "Guluna Banther",
+    "Enabled": true
   },
   "182320": {
     "OriginalText": "ジャッドバンサー",
-    "Text": ""
+    "Text": "Jhad Banther",
+    "Enabled": true
   },
   "182330": {
     "OriginalText": "バンサ・ブライネス",
-    "Text": ""
+    "Text": "Banther Braines",
+    "Enabled": true
   },
   "182420": {
     "OriginalText": "ニグ・ラッピー",
@@ -108,7 +116,8 @@
   },
   "182810": {
     "OriginalText": "ラビーソ",
-    "Text": ""
+    "Text": "Rabbis",
+    "Enabled": true
   },
   "182820": {
     "OriginalText": "ブロラビーソ",
@@ -124,19 +133,23 @@
   },
   "182910": {
     "OriginalText": "ロザード",
-    "Text": ""
+    "Text": "Rozad",
+    "Enabled": true
   },
   "182920": {
     "OriginalText": "ウロザード",
-    "Text": ""
+    "Text": "Pa Rozad",
+    "Enabled": true
   },
   "182930": {
     "OriginalText": "クロザード",
-    "Text": ""
+    "Text": "Gu Rozad",
+    "Enabled": true
   },
   "182940": {
     "OriginalText": "スロザード",
-    "Text": ""
+    "Text": "Su Rozad",
+    "Enabled": true
   },
   "182950": {
     "OriginalText": "ロザード・トカ",
@@ -416,7 +429,8 @@
   },
   "184450": {
     "OriginalText": "カーネベア・ゴルヴァ",
-    "Text": ""
+    "Text": "Carnnebear Gorva",
+    "Enabled": true
   },
   "184510": {
     "OriginalText": "アルレイバンサー",
