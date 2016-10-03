@@ -5,7 +5,8 @@
   },
   "110001": {
     "OriginalText": "ダーカー・コア",
-    "Text": "Darker Core"
+    "Text": "Darker Core",
+	  "Enabled": true
   },
   "110002": {
     "OriginalText": "原生種・コア",
