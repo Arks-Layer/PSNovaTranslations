@@ -35,15 +35,18 @@
   },
   "350008": {
     "OriginalText": "ダーカーの節",
-    "Text": ""
+    "Text": "Darker Node",
+    "Enabled": true
   },
   "350009": {
     "OriginalText": "ダーカーの触角",
-    "Text": ""
+    "Text": "Darker Tentacle",
+    "Enabled": true
   },
   "350010": {
     "OriginalText": "ダーカーの肉",
-    "Text": ""
+    "Text": "Darker Meat",
+    "Enabled": true
   },
   "350011": {
     "OriginalText": "爬虫類のたまご",
@@ -59,7 +62,8 @@
   },
   "350014": {
     "OriginalText": "ロヴラッピーの肉",
-    "Text": ""
+    "Text": "Lov-Rappy Meat",
+    "Enabled": true
   },
   "350015": {
     "OriginalText": "巨大獣の肉",
@@ -127,7 +131,8 @@
   },
   "350031": {
     "OriginalText": "トマト",
-    "Text": ""
+    "Text": "Tomato",
+    "Enabled": true
   },
   "350032": {
     "OriginalText": "コラル・ドラゴンの生き血",
@@ -151,7 +156,8 @@
   },
   "350037": {
     "OriginalText": "Ｇシャルレイダの肝",
-    "Text": ""
+    "Text": "G-Shalurayda Liver",
+    "Enabled": true
   },
   "350038": {
     "OriginalText": "ギガンテスの肉",
@@ -191,7 +197,8 @@
   },
   "350047": {
     "OriginalText": "メモリーフラグメントＡ",
-    "Text": ""
+    "Text": "Memory Fragment A",
+    "Enabled": true
   },
   "350048": {
     "OriginalText": "白い岩石",
@@ -215,7 +222,8 @@
   },
   "350053": {
     "OriginalText": "ウッドオパール",
-    "Text": ""
+    "Text": "Wood Opal",
+    "Enabled": true
   },
   "350054": {
     "OriginalText": "赤く広がる花状結晶",
@@ -227,7 +235,8 @@
   },
   "350056": {
     "OriginalText": "メモリーフラグメントＢ",
-    "Text": ""
+    "Text": "Memory Fragment B",
+    "Enabled": true
   },
   "350057": {
     "OriginalText": "凍った葉",
@@ -247,7 +256,8 @@
   },
   "350061": {
     "OriginalText": "オベリスクの破片",
-    "Text": ""
+    "Text": "Obelisk Fragment",
+    "Enabled": true
   },
   "350062": {
     "OriginalText": "多積層の銅板",
@@ -267,27 +277,33 @@
   },
   "350066": {
     "OriginalText": "メモリーフラグメントＣ",
-    "Text": ""
+    "Text": "Memory Fragment C",
+    "Enabled": true
   },
   "350067": {
     "OriginalText": "メモリーフラグメントＤ",
-    "Text": ""
+    "Text": "Memory Fragment D",
+    "Enabled": true
   },
   "350068": {
     "OriginalText": "メモリーフラグメントＥ",
-    "Text": ""
+    "Text": "Memory Fragment E",
+    "Enabled": true
   },
   "350069": {
     "OriginalText": "メモリーフラグメントＦ",
-    "Text": ""
+    "Text": "Memory Fragment F",
+    "Enabled": true
   },
   "350070": {
     "OriginalText": "メモリーフラグメントＧ",
-    "Text": ""
+    "Text": "Memory Fragment G",
+    "Enabled": true
   },
   "350071": {
     "OriginalText": "ラピリストーン",
-    "Text": ""
+    "Text": "Rapiliston",
+    "Enabled": true
   },
   "350072": {
     "OriginalText": "透き通る珪化木",
@@ -295,11 +311,13 @@
   },
   "350073": {
     "OriginalText": "ペロブスカイト石",
-    "Text": ""
+    "Text": "Perovuskite Stone",
+    "Enabled": true
   },
   "350074": {
     "OriginalText": "冷たく燃える金属結晶",
-    "Text": ""
+    "Text": "Frigid Burning Metal Crystal",
+    "Enabled": true
   },
   "350075": {
     "OriginalText": "朽ちない黒い鉄柱",
@@ -307,11 +325,13 @@
   },
   "350076": {
     "OriginalText": "大尖塔のワイヤー",
-    "Text": ""
+    "Text": "Large Spire's Wire",
+    "Enabled": true
   },
   "350077": {
     "OriginalText": "パイロープ結晶体",
-    "Text": ""
+    "Text": "Pyrope Crystal Material",
+    "Enabled": true
   },
   "350078": {
     "OriginalText": "鈍く光るコランダム塊",
