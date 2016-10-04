@@ -65,7 +65,7 @@
   },
   "100010020040008": {
     "OriginalText": "私はアークス特殊惑星探査隊オルター所属艦、\nデルタ・ヴァリアントのメディカルスタッフ、\nリーティアと申します。",
-    "Text": "We are on the ARKS Special Planetary Exploration\nGroup 'Alter' ship, ""Delta Valiant"". I'm Rietheia,\npart of the medical staff.",
+    "Text": "We are on the ARKS Special Planetary Exploration\nGroup 'Alter' ship, \"Delta Valiant\". I'm Rietheia,\npart of the medical staff.",
     "Enabled": true
   },
   "100010020050008": {
@@ -90,7 +90,7 @@
   },
   "100010020090008": {
     "OriginalText": "当艦には１０００人のクルーがいます。\nそのうちの９０％がコールドスリープ状態で\n探査する惑星付近まで運ばれます。",
-    "Text": "There are approximately 1,000 crew members onboard.\n90% of which are in cold sleep until we've arrived.",
+    "Text": "There're approximately 1,000 crew members onboard.\n90% of which are in cold sleep until we've arrived.",
     "Enabled": true
   },
   "100010020100008": {
