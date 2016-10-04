@@ -1,36 +1,37 @@
+{
   "350001": {
     "OriginalText": "グランピース",
-    "Text": "Gran Piece"
+    "Text": "Gran Piece",
     "Enabled": true
   },
   "350002": {
     "OriginalText": "グランピース(炎属性)",
-    "Text": "Gran Piece (Fire)"
+    "Text": "Gran Piece (Fire)",
     "Enabled": true
   },
   "350003": {
     "OriginalText": "グランピース(氷属性)",
-    "Text": "Gran Piece (Ice)"
+    "Text": "Gran Piece (Ice)",
     "Enabled": true
   },
   "350004": {
     "OriginalText": "グランピース(雷属性)",
-    "Text": "Gran Piece (Lightning)"
+    "Text": "Gran Piece (Lightning)",
     "Enabled": true
   },
   "350005": {
     "OriginalText": "グランピース(風属性)",
-    "Text": "Gran Piece (Wind)"
+    "Text": "Gran Piece (Wind)",
     "Enabled": true
   },
   "350006": {
     "OriginalText": "グランピース(光属性)",
-    "Text": "Gran Piece (Light)"
+    "Text": "Gran Piece (Light)",
     "Enabled": true
   },
   "350007": {
     "OriginalText": "グランピース(闇属性)",
-    "Text": "Gran Piece (Dark)"
+    "Text": "Gran Piece (Dark)",
     "Enabled": true
   },
   "350008": {
@@ -5917,4 +5918,5 @@
   "360736": {
     "OriginalText": "エネミー200R村料の解説文",
     "Text": ""
-  },
+  }
+}

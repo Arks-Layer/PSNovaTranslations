@@ -1,3 +1,4 @@
+{
   "530000": {
     "OriginalText": "お役にたてるように頑張りますね。",
     "Text": ""
@@ -9,7 +10,7 @@
   "530002": {
     "OriginalText": "へへっ、どんな任務でもオレに\n任せろってんだ！",
     "Text": "Hah, I'll help in any mission,\njust leave it to me!",
-	"Enabled": true
+    "Enabled": true
   },
   "530003": {
     "OriginalText": "わたしの力がお役に立てるのでしたら、\n精一杯頑張ります。",
@@ -1978,4 +1979,5 @@
   "530499": {
     "OriginalText": "予備枠",
     "Text": ""
-  },
+  }
+}
