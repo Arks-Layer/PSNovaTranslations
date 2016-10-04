@@ -1652,37 +1652,37 @@
   "110394": {
     "OriginalText": "ラスボス(レイヴァン)一層目Nコア",
     "Text": "Final Boss (Raven) 1st Layer N-Core",
-    "Enabled": True
+    "Enabled": true
   },
   "110395": {
     "OriginalText": "ラスボス(レイヴァン)一層目Rコア",
     "Text": "Final Boss (Raven) 1st Layer R-Core",
-    "Enabled": True
+    "Enabled": true
   },
   "110396": {
     "OriginalText": "ラスボス(レイヴァン)二層目Nコア",
     "Text": "Final Boss (Raven) 2nd Layer N-Core",
-    "Enabled": True
+    "Enabled": true
   },
   "110397": {
     "OriginalText": "ラスボス(レイヴァン)二層目Rコア",
     "Text": "Final Boss (Raven) 2nd Layer R-Core",
-    "Enabled": True
+    "Enabled": true
   },
   "110398": {
     "OriginalText": "ラスボス(レイヴァン)三層目Nコア",
     "Text": "Final Boss (Raven) 3rd Layer N-Core",
-    "Enabled": True
+    "Enabled": true
   },
   "110399": {
     "OriginalText": "ラスボス(レイヴァン)三層目Rコア",
     "Text": "Final Boss (Raven) 3rd Layer R-Core",
-    "Enabled": True
+    "Enabled": true
   },
   "110400": {
     "OriginalText": "ラスボス(レイヴァン)一層目カラバリ１Nコア",
     "Text": "Final Boss (Raven) 1st Layer CV 1 N-Core",
-    "Enabled": True
+    "Enabled": true
   },
   "110401": {
     "OriginalText": "ラスボス(レイヴァン)一層目カラバリ１Rコア",
