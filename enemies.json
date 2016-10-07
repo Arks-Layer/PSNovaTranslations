@@ -1,102 +1,7 @@
 {
-  "182030": {
-    "OriginalText": "イエーデン・アイエ",
-    "Text": "Yeden Aie",
-    "Enabled": true
-  },
-  "182110": {
-    "OriginalText": "フォンベガルフ",
-    "Text": "Fonbegulf",
-    "Enabled": true
-  },
   "182120": {
     "OriginalText": "フロフォンベガルフ",
     "Text": ""
-  },
-  "182130": {
-    "OriginalText": "フォンベガルフ・ライオ",
-    "Text": "Fonbegulf Raioh",
-    "Enabled": true
-  },
-  "182210": {
-    "OriginalText": "シルブベア",
-    "Text": "Sirbu Bear",
-    "Enabled": true
-  },
-  "182220": {
-    "OriginalText": "ベア・ゴルヴァ",
-    "Text": "Bear Gorva",
-    "Enabled": true
-  },
-  "182310": {
-    "OriginalText": "グルナバンサー",
-    "Text": "Gluna Banther",
-    "Enabled": true
-  },
-  "182320": {
-    "OriginalText": "ジャッドバンサー",
-    "Text": "Jhad Banther",
-    "Enabled": true
-  },
-  "182330": {
-    "OriginalText": "バンサ・ブライネス",
-    "Text": "Banther Braines",
-    "Enabled": true
-  },
-  "182420": {
-    "OriginalText": "ニグ・ラッピー",
-    "Text": "Nigu Rappy",
-    "Enabled": true
-  },
-  "182430": {
-    "OriginalText": "ラッピー・アルマ",
-    "Text": "Rappy Alma",
-    "Enabled": true
-  },
-  "182510": {
-    "OriginalText": "アルマラッピー",
-    "Text": "Alma-Rappy",
-    "Enabled": true
-  },
-  "182520": {
-    "OriginalText": "レウ・アヴラッピー",
-    "Text": "Leu Alma-Rappy",
-    "Enabled": true
-  },
-  "182530": {
-    "OriginalText": "ウィ・アヴラッピー",
-    "Text": "Vi Alma-Rappy",
-    "Enabled": true
-  },
-  "182540": {
-    "OriginalText": "ロセ・アヴラッピー",
-    "Text": "Rosset Alma-Rappy",
-    "Enabled": true
-  },
-  "182550": {
-    "OriginalText": "アルマラッピー・オナー",
-    "Text": "Alma-Rappy Onna",
-    "Enabled": true
-  },
-  "182610": {
-    "OriginalText": "ロヴラッピー",
-    "Text": "Lov-Rappy",
-    "Enabled": true
-  },
-  "182620": {
-    "OriginalText": "ウィ・ロヴラッピー",
-    "Text": "Vi Lov-Rappy",
-    "Enabled": true
-  },
-  "182630": {
-    "OriginalText": "レウ・ロヴラッピー",
-    "Text": "Leu Lov-Rappy",
-    "Enabled": true
-  },
-  "182640": {
-    "OriginalText": "ロヴラッピー・ロセ",
-    "Text": "Lov-Rappy Rosset",
-    "Enabled": true
   },
   "182710": {
     "OriginalText": "マガヴルム",
@@ -114,11 +19,6 @@
     "OriginalText": "マガヴルム・クロウ",
     "Text": ""
   },
-  "182810": {
-    "OriginalText": "ラビーソ",
-    "Text": "Rabbis",
-    "Enabled": true
-  },
   "182820": {
     "OriginalText": "ブロラビーソ",
     "Text": ""
@@ -130,26 +30,6 @@
   "182840": {
     "OriginalText": "ラビーソ・プラテ",
     "Text": ""
-  },
-  "182910": {
-    "OriginalText": "ロザード",
-    "Text": "Rozad",
-    "Enabled": true
-  },
-  "182920": {
-    "OriginalText": "ウロザード",
-    "Text": "Pa Rozad",
-    "Enabled": true
-  },
-  "182930": {
-    "OriginalText": "クロザード",
-    "Text": "Gu Rozad",
-    "Enabled": true
-  },
-  "182940": {
-    "OriginalText": "スロザード",
-    "Text": "Su Rozad",
-    "Enabled": true
   },
   "182950": {
     "OriginalText": "ロザード・トカ",
@@ -295,56 +175,6 @@
     "OriginalText": "アビアディノ・ロクサ",
     "Text": ""
   },
-  "183710": {
-    "OriginalText": "バレダイナス",
-    "Text": "Vale-Dynas",
-    "Enable": true
-  },
-  "183720": {
-    "OriginalText": "ラーバレダイナス",
-    "Text": "Lar Vale-Dynas",
-    "Enable": true
-  },
-  "183730": {
-    "OriginalText": "マーバレダイナス",
-    "Text": "Mar Vale-Dynas",
-    "Enable": true
-  },
-  "183740": {
-    "OriginalText": "ヴィバレダイナス",
-    "Text": "Vi Vale-Dynas",
-    "Enable": true
-  },
-  "183750": {
-    "OriginalText": "ダイナス・タングス",
-    "Text": "Dynas Tungs",
-    "Enable": true
-  },
-  "183810": {
-    "OriginalText": "シードギオス",
-    "Text": "Xie Dogios",
-    "Enable": true
-  },
-  "183820": {
-    "OriginalText": "フォードギオス",
-    "Text": "Pho Dogios",
-    "Enable": true
-  },
-  "183830": {
-    "OriginalText": "ヴァッドギオス",
-    "Text": "Valle Dogios",
-    "Enable": true
-  },
-  "183840": {
-    "OriginalText": "エアドギオス",
-    "Text": "Air Dogios",
-    "Enable": true
-  },
-  "183850": {
-    "OriginalText": "ドギオス・ルフレ",
-    "Text": "Dogios Reflet",
-    "Enable": true
-  },
   "183910": {
     "OriginalText": "トルリンプ",
     "Text": ""
@@ -436,11 +266,6 @@
   "184440": {
     "OriginalText": "モストカーネベア",
     "Text": ""
-  },
-  "184450": {
-    "OriginalText": "カーネベア・ゴルヴァ",
-    "Text": "Carnnebear Gorva",
-    "Enabled": true
   },
   "184510": {
     "OriginalText": "アルレイバンサー",
