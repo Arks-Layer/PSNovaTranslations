@@ -215,7 +215,8 @@
   },
   "100010032010000": {
     "OriginalText": "ここには『バトルチュートリアル』が入る予定です。",
-    "Text": ""
+    "Text": "You're now entering the [Battle Tutorial]."
+    "Enabled": true
   },
   "100010035010001": {
     "OriginalText": "よっ！ [ruby]相棒[/ruby]！",
@@ -229,11 +230,13 @@
   },
   "100010035030001": {
     "OriginalText": "カタいよー！ 訓練校同期の\nルティナさんに向かってそれはないでしょ！\nまったく真面目すぎんだよね、もう。",
-    "Text": ""
+    "Text": "Relax! Ruteina's not gonna come all the /nway from the training school just to scold /nat you! Come on, you're too serious."
+    "Enabled": true
   },
   "100010035040001": {
     "OriginalText": "周りは見ず知らずの人ばっかなんだからさ、\nせめてあたし達ぐらいは気楽にやろうよ！\nそんな堅苦しい部隊じゃないみたいだし、ね？",
-    "Text": ""
+    "Text": "There're strangers all around us right now. /nLet's be carefree with each other! /nThat way, things will be easier for our troop."
+    "Enabled": true
   },
   "100010035050001": {
     "OriginalText": "ん？ どしたの？ あたしの顔が何か？",
