@@ -381,7 +381,7 @@
   },
   "100010050010007": {
     "OriginalText": "全クルーへ。本艦はこれより惑星マキアに緊急着陸します。\n各自、衝撃に備えなさい。",
-    "Text": "Too all the crew. Our ship is undergoing\nmergency landing on the planet Makia.\nPlease prepare for the crash."
+    "Text": "Too all the crew. Our ship is undergoing\nemergency landing on the planet Makia.\nPlease prepare for the crash."
     "Enabled": true
   },
   "100010050020005": {
