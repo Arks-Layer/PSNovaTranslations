@@ -242,32 +242,38 @@
   },
   "100010035060004": {
     "OriginalText": "隊長の前で敬礼拒否とはいい度胸だな！",
-    "Text": ""
+    "Text": "You sure have guts, /nnot saluting to your captain!"
+    "Enabled": true
   },
   "100010035070001": {
     "OriginalText": "ひっ！？ ヒルディア隊長！",
-    "Text": "Eeh!? Captain Fildia!",
+    "Text": "Eeh!? Captain Hildia!",
     "Enabled": true
   },
   "100010035080004": {
     "OriginalText": "声が裏返ってるぞ。オレはフィルディアだ！",
-    "Text": ""
+    "Text": "You're too loud. It's Captain Fildia!"
+    "Enabled": true
   },
   "100010035090001": {
     "OriginalText": "はいっ！！",
-    "Text": ""
+    "Text": "Yes sir!!"
+    "Enabled": true
   },
   "100010035100004": {
     "OriginalText": "気楽にやるんじゃなかったのかー？",
-    "Text": ""
+    "Text": "Sounds like you're forcing yourself."
+    "Enabled": true
   },
   "100010035110001": {
     "OriginalText": "それは同期生の場合だけですっ！",
-    "Text": ""
+    "Text": "That's because of the hierarchy!"
+    "Enabled": true
   },
   "100010035120004": {
     "OriginalText": "オレも堅苦しいのは好きじゃない。\n挨拶は『よっ！』でもいいぞ？",
-    "Text": ""
+    "Text": "I don't like that kind of stuff. /nJust greet me with ""Hey!"" is fine."
+    "Enabled": true
   },
   "100010035130001": {
     "OriginalText": "無理ですっ！",
@@ -288,7 +294,8 @@
   },
   "100010035160004": {
     "OriginalText": "冗談だ。お前らと一緒なら、\n楽しい探索になりそうだよ。\nさて、そろそろ降下の準備を……。",
-    "Text": ""
+    "Text": "Just kidding. Looks like we'll have /nlot's of fun during our search. /nAlright, let's prepare to descend-"
+    "Enabled": true
   },
   "100010035170001": {
     "OriginalText": "きゃっ！？",
