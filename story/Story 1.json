@@ -351,7 +351,7 @@
   },
   "100010040080050": {
     "OriginalText": "艦長！ [ruby ふね]艦[/ruby]が惑星に引き寄せられています！",
-    "Text": "Captain! The ship is drawn towards the planet!",
+    "Text": "Captain! The ship is being drawn towards the planet!",
     "Enabled": true
   },
   "100010040090014": {
@@ -361,7 +361,7 @@
   },
   "100010040100005": {
     "OriginalText": "重力とは違う何かに[ruby ふね]艦[/ruby]が引かれていますね。\n機関室、サブ・ドライブは生きていますか？ \n切り替えを。",
-    "Text": "The gravity is strange. The ship is pulled in.\nEngine room, is the sub-drive alive?\nSwitch over.",
+    "Text": "The gravity is strange. The ship is being pulled in.\nEngine room, is the sub-drive alive?\nSwitch over.",
     "Enabled": true
   },
   "100010040110005": {
@@ -386,7 +386,7 @@
   },
   "100010050010007": {
     "OriginalText": "全クルーへ。本艦はこれより惑星マキアに緊急着陸します。\n各自、衝撃に備えなさい。",
-    "Text": "To all the crew. Our ship is undergoing an\nemergency landing on the planet Makia.\nPlease prepare for the crash.",
+    "Text": "To all the crew. Our ship is undergoing an\nemergency landing on the planet Makia.\nPlease prepare for impact.",
     "Enabled": true
   },
   "100010050020005": {
@@ -401,7 +401,7 @@
   },
   "100010050040005": {
     "OriginalText": "出力が足りません、\n姿勢と角度維持が限界です……！",
-    "Text": "We can't! \nThe ships at the limit just maintaining the angles!",
+    "Text": "We can't! \nThe ship's engines are at their limits just maintaining the angles!",
     "Enabled": true
   },
   "100010050050007": {
