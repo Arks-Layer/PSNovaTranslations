@@ -285,15 +285,18 @@
   },
   "100010035140004": {
     "OriginalText": "ははっ！ お前のカ・ノ・ジョは面白いな！",
-    "Text": ""
+    "Text": "Haha! That GIRL seems interesting!",
+    "Enabled": true
   },
   "100010035150001": {
     "OriginalText": "かのっ！？ 何てこと言うんですかっ！！",
-    "Text": ""
+    "Text": "It's a Him!? What am I supposed to say now!!",
+    "Enabled": true
   },
   "100010035155001": {
     "OriginalText": "同期！ ただの同期！\n普通の同期ですからっ！！",
-    "Text": ""
+    "Text": "Synch! Just a synch! \nNormal synchronization!!",
+    "Enabled": true
   },
   "100010035160004": {
     "OriginalText": "冗談だ。お前らと一緒なら、\n楽しい探索になりそうだよ。\nさて、そろそろ降下の準備を……。",
@@ -377,7 +380,7 @@
   },
   "100010050005000": {
     "OriginalText": "ここは「MP00_010_050 艦、墜落」のCGムービーが\n再生される予定です。\n仮に字幕とボイスのみ再生します。",
-    "Text": ""
+    "Text": "We are now watching「MP00_010_050 Ship-Crash」movie. Only subtitles and sound are being played.",
   },
   "100010050010007": {
     "OriginalText": "全クルーへ。本艦はこれより惑星マキアに緊急着陸します。\n各自、衝撃に備えなさい。",
@@ -416,7 +419,7 @@
   },
   "100010050080014": {
     "OriginalText": "滅速しろ！",
-    "Text": "At lightning speed!"
+    "Text": "At lightning speed!",
     "Enabled": true
   },
   "100010050090005": {
