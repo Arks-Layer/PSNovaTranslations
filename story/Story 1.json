@@ -381,6 +381,7 @@
   "100010050005000": {
     "OriginalText": "ここは「MP00_010_050 艦、墜落」のCGムービーが\n再生される予定です。\n仮に字幕とボイスのみ再生します。",
     "Text": "We are now watching「MP00_010_050 Ship-Crash」movie. Only subtitles and sound are being played.",
+    "Enabled": true
   },
   "100010050010007": {
     "OriginalText": "全クルーへ。本艦はこれより惑星マキアに緊急着陸します。\n各自、衝撃に備えなさい。",
