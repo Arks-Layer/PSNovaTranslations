@@ -215,7 +215,7 @@
   },
   "100010032010000": {
     "OriginalText": "ここには『バトルチュートリアル』が入る予定です。",
-    "Text": "You're now entering the [Battle Tutorial]."
+    "Text": "You're now entering the [Battle Tutorial].",
     "Enabled": true
   },
   "100010035010001": {
@@ -230,12 +230,12 @@
   },
   "100010035030001": {
     "OriginalText": "カタいよー！ 訓練校同期の\nルティナさんに向かってそれはないでしょ！\nまったく真面目すぎんだよね、もう。",
-    "Text": "Relax! Lutina's not gonna come all the\nway from the training school just to scold\nat you! Come on, you're too serious."
+    "Text": "Relax! Lutina's not gonna come all the\nway from the training school just to scold\nat you! Come on, you're too serious.",
     "Enabled": true
   },
   "100010035040001": {
     "OriginalText": "周りは見ず知らずの人ばっかなんだからさ、\nせめてあたし達ぐらいは気楽にやろうよ！\nそんな堅苦しい部隊じゃないみたいだし、ね？",
-    "Text": "There're strangers all around us right now.\nLet's be carefree with each other!\nThat way, things will be easier for our troop."
+    "Text": "There're strangers all around us right now.\nLet's be carefree with each other!\nThat way, things will be easier for our troop.",
     "Enabled": true
   },
   "100010035050001": {
@@ -245,7 +245,7 @@
   },
   "100010035060004": {
     "OriginalText": "隊長の前で敬礼拒否とはいい度胸だな！",
-    "Text": "You sure have guts, \nnot saluting to your captain!"
+    "Text": "You sure have guts, \nnot saluting to your captain!",
     "Enabled": true
   },
   "100010035070001": {
@@ -255,7 +255,7 @@
   },
   "100010035080004": {
     "OriginalText": "声が裏返ってるぞ。オレはフィルディアだ！",
-    "Text": "You're too loud. It's Captain Fildia!"
+    "Text": "You're too loud. It's Captain Fildia!",
     "Enabled": true
   },
   "100010035090001": {
@@ -265,7 +265,7 @@
   },
   "100010035100004": {
     "OriginalText": "気楽にやるんじゃなかったのかー？",
-    "Text": "Sounds like you're forcing yourself."
+    "Text": "Sounds like you're forcing yourself.",
     "Enabled": true
   },
   "100010035110001": {
@@ -275,7 +275,7 @@
   },
   "100010035120004": {
     "OriginalText": "オレも堅苦しいのは好きじゃない。\n挨拶は『よっ！』でもいいぞ？",
-    "Text": "I don't like that kind of stuff.\nJust greet me with \"Hey!\" is fine."
+    "Text": "I don't like that kind of stuff.\nJust greet me with \"Hey!\" is fine.",
     "Enabled": true
   },
   "100010035130001": {
@@ -297,7 +297,7 @@
   },
   "100010035160004": {
     "OriginalText": "冗談だ。お前らと一緒なら、\n楽しい探索になりそうだよ。\nさて、そろそろ降下の準備を……。",
-    "Text": "Just kidding. Looks like we'll have\nlot's of fun during our search.\nAlright, let's prepare to descend-"
+    "Text": "Just kidding. Looks like we'll have\nlot's of fun during our search.\nAlright, let's prepare to descend-",
     "Enabled": true
   },
   "100010035170001": {
@@ -381,37 +381,37 @@
   },
   "100010050010007": {
     "OriginalText": "全クルーへ。本艦はこれより惑星マキアに緊急着陸します。\n各自、衝撃に備えなさい。",
-    "Text": "To all the crew. Our ship is undergoing an\nemergency landing on the planet Makia.\nPlease prepare for the crash."
+    "Text": "To all the crew. Our ship is undergoing an\nemergency landing on the planet Makia.\nPlease prepare for the crash.",
     "Enabled": true
   },
   "100010050020005": {
     "OriginalText": "サブ・ドライブ最大出力。\n姿勢制御、大気圏突入角合わせ！",
-    "Text": "Sub-drive maximum output.\nEnter all changes in the atmospheric angles\nand adjust with altitude control!"
+    "Text": "Sub-drive maximum output.\nEnter all changes in the atmospheric angles\nand adjust with altitude control!",
     "Enabled": true
   },
   "100010050030014": {
     "OriginalText": "角度が深すぎる！ 修正しろ！",
-    "Text": "The angles are too deep! Correct it!"
+    "Text": "The angles are too deep! Correct it!",
     "Enabled": true
   },
   "100010050040005": {
     "OriginalText": "出力が足りません、\n姿勢と角度維持が限界です……！",
-    "Text": "We can't! \nThe ships at the limit just maintaining the angles!"
+    "Text": "We can't! \nThe ships at the limit just maintaining the angles!",
     "Enabled": true
   },
   "100010050050007": {
     "OriginalText": "サブ・ドライブ、出力さらに低下！",
-    "Text": "Sub-drive output is declining rapidly!"
+    "Text": "Sub-drive output is declining rapidly!",
     "Enabled": true
   },
   "100010050060014": {
     "OriginalText": "この速度では、大気圏を抜けられても地表に撃突するぞ！",
-    "Text": "At this rate, we'll miss the atmosphere and hit the ground!"
+    "Text": "At this rate, we'll miss the atmosphere and hit the ground!",
     "Enabled": true
   },
   "100010050070005": {
     "OriginalText": "くっ、何か手は……？",
-    "Text": "Damn it! Is there another way?-"
+    "Text": "Damn it! Is there another way?-",
     "Enabled": true
   },
   "100010050080014": {
@@ -421,82 +421,82 @@
   },
   "100010050090005": {
     "OriginalText": "やるしかない……！\nあそこだ！",
-    "Text": "We've got no choice! \nOver there!"
+    "Text": "We've got no choice! \nOver there!",
     "Enabled": true
   },
   "100010050100014": {
     "OriginalText": "レイヴァン副長、何をする気だ！",
-    "Text": "Deputy Revan, what are you planning!?"
+    "Text": "Deputy Revan, what are you planning!?",
     "Enabled": true
   },
   "100010050110005": {
     "OriginalText": "全エネルギー、艦首シールドに回せ！ \n一瞬でいい、保ってくれよ……。",
-    "Text": "Focus all the energy to the ship's deck shield! \nKeep it all in one place."
+    "Text": "Focus all the energy to the ship's deck shield! \nKeep it all in one place.",
     "Enabled": true
   },
   "100010050120007": {
     "OriginalText": "衝撃、来ます！！",
-    "Text": "Incoming impact!!"
+    "Text": "Incoming impact!!",
     "Enabled": true
   },
   "100010060010014": {
     "OriginalText": "無事か？",
-    "Text": "Are we safe?"
+    "Text": "Are we safe?",
     "Enabled": true
   },
   "100010060020005": {
     "OriginalText": "無事、とは言えませんね……この状況は。",
-    "Text": "I wouldn't say that... In this situation."
+    "Text": "I wouldn't say that... In this situation.",
     "Enabled": true
   },
   "100010060030007": {
     "OriginalText": "各セクション、\n被害状況を早急に確認、報告しなさい。",
-    "Text": "All sections, \nplease report all damages as soon as possible."
+    "Text": "All sections, \nplease report all damages as soon as possible.",
     "Enabled": true
   },
   "100010060040014": {
     "OriginalText": "キサラ、死傷者の確認を最優先だ。",
-    "Text": "Kisara, our top priority is to confirm all casualties."
+    "Text": "Kisara, our top priority is to confirm all casualties.",
     "Enabled": true
   },
   "100010060050007": {
     "OriginalText": "了解。メディカル、\n厳しい状況ですが、よろしく。",
-    "Text": "Roger that. The medical team's in a tough situation, but I'm leaving it to you."
+    "Text": "Roger that. The medical team's in a tough situation, but I'm leaving it to you.",
     "Enabled": true
   },
   "100010060060007": {
     "OriginalText": "機関室より報告、フォトン・ドライブは完全に停止。",
-    "Text": "Reports from the engine room, Photon Drive has shut down completely."
+    "Text": "Reports from the engine room, Photon Drive has shut down completely.",
     "Enabled": true
   },
   "100010060070014": {
     "OriginalText": "どうなっているのだ……調査を急げ。",
-    "Text": "What's going on- start investigating immediately!"
+    "Text": "What's going on- start investigating immediately!",
     "Enabled": true
   },
   "100010060080005": {
     "OriginalText": "私が原因調査を統括します。\nドライブが回復しなければ、[ruby ふね]艦[/ruby]の機能は停止してしまいますからね。",
-    "Text": "I'll be in charge of this investigation. \nIf the drive hasn't recovered, the whole ship will stop functioning."
+    "Text": "I'll be in charge of this investigation. \nIf the drive hasn't recovered, the whole ship will stop functioning.",
     "Enabled": true
   },
   "100010060090014": {
     "OriginalText": "だが、最悪の事態も考えねばなるまい。",
-    "Text": "But- I can't think of anything worse than that."
+    "Text": "But- I can't think of anything worse than that.",
     "Enabled": true
   },
   "100010060100005": {
     "OriginalText": "ええ、生命維持のため、しばらくこの[ruby ほし]惑星[/ruby]と付き合うことになるでしょう。",
-    "Text": "I agree, since we're on life support, \nit seems that we'll be on this planet for a while."
+    "Text": "I agree, since we're on life support, \nit seems that we'll be on this planet for a while.",
     "Enabled": true
   },
   "100010060110014": {
     "OriginalText": "キサラ、動ける人員を集めてくれ。\nこの[ruby ほし]惑星[/ruby]との[ruby いくさ]戦[/ruby]を始めるぞ！",
-    "Text": "Kisara, gather all available personel. \nLet's begin our activities on this planet!"
+    "Text": "Kisara, gather all available personel. \nLet's begin our activities on this planet!",
     "Enabled": true
   },
   "100010060120007": {
     "OriginalText": "はい。艦内、各位へ。戦闘部隊、出撃準備！ \n艦周辺エリアの調査、警戒を開始します！",
-    "Text": "Yes sir. To all personel. \nCombat troops, prepare for sortie! \nCommence investigations on all areas surrounding our ship!"
+    "Text": "Yes sir. To all personel. \nCombat troops, prepare for sortie! \nCommence investigations on all areas surrounding our ship!",
     "Enabled": true
   }
 }
