@@ -1,39 +1,48 @@
 {
   "550011": {
     "OriginalText": "大人用プレート",
-    "Text": ""
+    "Text": "Adult Plate",
+    "Enabled": true
   },
   "550012": {
     "OriginalText": "色鮮やかな寿司",
-    "Text": ""
+    "Text": "Colorful Sushi",
+    "Enabled": true
   },
   "550013": {
     "OriginalText": "至高のゆでたまご定食",
-    "Text": ""
+    "Text": "Supreme Boiled Egg Set Meal",
+    "Enabled": true
   },
   "550024": {
     "OriginalText": "たまごとじ丼",
-    "Text": ""
+    "Text": "Egg Donburi",
+    "Enabled": true
   },
   "550025": {
     "OriginalText": "煮込みうどん",
-    "Text": ""
+    "Text": "Udon Stew",
+    "Enabled": true
   },
   "550026": {
     "OriginalText": "至高のすっぽん定食",
-    "Text": ""
+    "Text": "Supreme Turtle Set Meal",
+    "Enabled": true
   },
   "550038": {
     "OriginalText": "ギガババロア",
-    "Text": ""
+    "Text": "Giga Bavarian cream",
+    "Enabled": true
   },
   "550039": {
     "OriginalText": "ギガ海鮮丼・特盛り",
-    "Text": ""
+    "Text": "Giga Seafood Bowl・Extra Large Portion",
+    "Enabled": true
   },
   "550040": {
     "OriginalText": "ギガ骨の髄まで定食",
-    "Text": ""
+    "Text": "Giga Bone Marrow Set Meal",
+    "Enabled": true
   },
   "550041": {
     "OriginalText": "",
