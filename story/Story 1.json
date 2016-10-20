@@ -411,12 +411,12 @@
   },
   "100010050060014": {
     "OriginalText": "この速度では、大気圏を抜けられても地表に撃突するぞ！",
-    "Text": "At this rate, we'll miss the atmosphere and hit the ground!",
+    "Text": "At this rate, we'll miss the\natmosphere and hit the ground!",
     "Enabled": true
   },
   "100010050070005": {
     "OriginalText": "くっ、何か手は……？",
-    "Text": "Damn it! Is there another way?-",
+    "Text": "Damn it! nIs there another way?-",
     "Enabled": true
   },
   "100010050080014": {
@@ -426,7 +426,7 @@
   },
   "100010050090005": {
     "OriginalText": "やるしかない……！\nあそこだ！",
-    "Text": "We've got no choice! \nOver there!",
+    "Text": "We've got no choice!\nOver there!",
     "Enabled": true
   },
   "100010050100014": {
@@ -436,7 +436,7 @@
   },
   "100010050110005": {
     "OriginalText": "全エネルギー、艦首シールドに回せ！ \n一瞬でいい、保ってくれよ……。",
-    "Text": "Focus all energy to the ship's deck shield! \nKeep it all in one place.",
+    "Text": "Focus all energy to the ship's deck shield!\nKeep it all in one place.",
     "Enabled": true
   },
   "100010050120007": {
@@ -466,12 +466,12 @@
   },
   "100010060050007": {
     "OriginalText": "了解。メディカル、\n厳しい状況ですが、よろしく。",
-    "Text": "Roger that. The medical team's in a tough situation, but I'm leaving it to you.",
+    "Text": "Roger that.\nThe medical team's in a tough situation,\nbut I'm leaving it to you.",
     "Enabled": true
   },
   "100010060060007": {
     "OriginalText": "機関室より報告、フォトン・ドライブは完全に停止。",
-    "Text": "Reports from the engine room, Photon Drive has shut down completely.",
+    "Text": "Reports from the engine room,\nPhoton Drive has shut down completely.",
     "Enabled": true
   },
   "100010060070014": {
@@ -481,7 +481,7 @@
   },
   "100010060080005": {
     "OriginalText": "私が原因調査を統括します。\nドライブが回復しなければ、[ruby ふね]艦[/ruby]の機能は停止してしまいますからね。",
-    "Text": "I'll be in charge of this investigation. \nIf the drive hasn't recovered, the whole ship will stop functioning.",
+    "Text": "I'll be in charge of this investigation.\nIf the drive hasn't recovered,\nthe whole ship will stop functioning.",
     "Enabled": true
   },
   "100010060090014": {
@@ -491,17 +491,17 @@
   },
   "100010060100005": {
     "OriginalText": "ええ、生命維持のため、しばらくこの[ruby ほし]惑星[/ruby]と付き合うことになるでしょう。",
-    "Text": "I agree, since we're on life support, \nit seems that we'll be on this planet for a while.",
+    "Text": "I agree, since we're on life support,\nit seems that we'll be on this\nplanet for a while.",
     "Enabled": true
   },
   "100010060110014": {
     "OriginalText": "キサラ、動ける人員を集めてくれ。\nこの[ruby ほし]惑星[/ruby]との[ruby いくさ]戦[/ruby]を始めるぞ！",
-    "Text": "Kisara, gather all available personel. \nLet's begin our activities on this planet!",
+    "Text": "Kisara, gather all available personel.\nLet's begin our activities on this planet!",
     "Enabled": true
   },
   "100010060120007": {
     "OriginalText": "はい。艦内、各位へ。戦闘部隊、出撃準備！ \n艦周辺エリアの調査、警戒を開始します！",
-    "Text": "Yes sir. To all personel. \nCombat troops, prepare for sortie! \nCommence investigations on all areas surrounding our ship!",
+    "Text": "Yes sir. To all personel.\nCombat troops, prepare for sortie!\nCommence investigations on all areas surrounding our ship!",
     "Enabled": true
   }
 }
