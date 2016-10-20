@@ -343,12 +343,12 @@
   },
   "182820": {
     "OriginalText": "ブロラビーソ",
-    "Text": "Brorabbis",
+    "Text": "Bro Rabbis",
     "Enabled": true
   },
   "182830": {
     "OriginalText": "アセラビーソ",
-    "Text": "Aserabbis",
+    "Text": "Ase Rabbis",
     "Enabled": true
   },
   "182840": {
@@ -402,23 +402,28 @@
   },
   "183110": {
     "OriginalText": "ジュラキア",
-    "Text": ""
+    "Text": "Jurakia",
+	"Enabled": true
   },
   "183120": {
     "OriginalText": "メドジュラキア",
-    "Text": ""
+    "Text": "Medu Jurakia",
+	"Enabled": true
   },
   "183130": {
     "OriginalText": "ポリジュラキア",
-    "Text": ""
+    "Text": "Poly Jurakia",
+	"Enabled": true
   },
   "183140": {
     "OriginalText": "ガンジュラキア",
-    "Text": ""
+    "Text": "Gun Jurakia",
+	"Enabled": true
   },
   "183150": {
     "OriginalText": "ジュラキア・スクア",
-    "Text": ""
+    "Text": "Jurakia Skuah",
+    "Enabled": true
   },
   "183210": {
     "OriginalText": "リバッツ",

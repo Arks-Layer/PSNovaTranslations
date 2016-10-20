@@ -184,7 +184,8 @@
   },
   "110043": {
     "OriginalText": "アセラビーソ・コア",
-    "Text": ""
+    "Text": "Ase Rabbis Core",
+    "Enabled": true
   },
   "110044": {
     "OriginalText": "クリトロの純コア",
@@ -204,7 +205,8 @@
   },
   "110048": {
     "OriginalText": "マガヴルム・コア",
-    "Text": ""
+    "Text": "Magavulum Core",
+	"Enabled": true
   },
   "110049": {
     "OriginalText": "リバッツ・コア",
@@ -295,7 +297,8 @@
   },
   "110069": {
     "OriginalText": "バオム・マガヴルム・コア",
-    "Text": ""
+    "Text": "Baum Magavulum Core",
+	"Enabled": true
   },
   "110070": {
     "OriginalText": "ヴェンバンクゥ・コア",
@@ -392,7 +395,8 @@
   },
   "110091": {
     "OriginalText": "ブロラビーソ・コア",
-    "Text": ""
+    "Text": "Bro Rabbis Core",
+    "Enabled": true
   },
   "110092": {
     "OriginalText": "オーニクリトロ・コア",
@@ -455,7 +459,8 @@
   },
   "110106": {
     "OriginalText": "オルテ・マガヴルム・コア",
-    "Text": ""
+    "Text": "Orte Magavulum Core",
+	"Enabled": true
   },
   "110107": {
     "OriginalText": "パーグランブ・コア",
@@ -715,7 +720,8 @@
   },
   "110163": {
     "OriginalText": "ラビーソ・プラテ・コア",
-    "Text": ""
+    "Text": "Rabbis Platen Core",
+    "Enabled": true
   },
   "110164": {
     "OriginalText": "クリトロ・テュルレ・コア",
@@ -762,7 +768,8 @@
   },
   "110174": {
     "OriginalText": "マガヴルム・クロウ・コア",
-    "Text": ""
+    "Text": "Magavulum Crow Core",
+	"Enabled": true
   },
   "110175": {
     "OriginalText": "グランブ・ダイ・コア",
