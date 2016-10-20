@@ -5,31 +5,38 @@
   },
   "520001": {
     "OriginalText": "見習いアークス",
-    "Text": ""
+    "Text": "ARKS Trainee",
+	"Enabled": true
   },
   "520002": {
     "OriginalText": "一般アークス",
-    "Text": ""
+    "Text": "Common ARKS",
+	"Enabled": true
   },
   "520003": {
     "OriginalText": "熟練アークス",
-    "Text": ""
+    "Text": "Experienced ARKS",
+	"Enabled": true
   },
   "520004": {
     "OriginalText": "エリートアークス",
-    "Text": ""
+    "Text": "Elite ARKS",
+	"Enabled": true
   },
   "520005": {
     "OriginalText": "レジェンドアークス",
-    "Text": ""
+    "Text": "Legendary ARKS",
+	"Enabled": true
   },
   "520006": {
     "OriginalText": "暁紅のアークス",
-    "Text": ""
+    "Text": "Crimson Dawn of ARKS",
+	"Enabled": true
   },
   "520007": {
     "OriginalText": "エース候補",
-    "Text": ""
+    "Text": "Ace Candidate",
+	"Enabled": true
   },
   "520008": {
     "OriginalText": "リーダー気質",
@@ -57,15 +64,18 @@
   },
   "520015": {
     "OriginalText": "ピンチに強い",
-    "Text": ""
+    "Text": "Strong during a Bind",
+	"Enabled": true
   },
   "520016": {
     "OriginalText": "火事場の馬鹿力",
-    "Text": ""
+    "Text": "Fight-or-flight Response",
+	"Enabled": true
   },
   "520017": {
     "OriginalText": "ポーカーフェイス",
-    "Text": ""
+    "Text": "Poker Face",
+	"Enabled": true
   },
   "520018": {
     "OriginalText": "ド根性",
@@ -133,11 +143,13 @@
   },
   "520035": {
     "OriginalText": "目立ちたがり",
-    "Text": ""
+    "Text": "Show-Off",
+	"Enabled": true
   },
   "520036": {
     "OriginalText": "影が薄い",
-    "Text": ""
+    "Text": "Overshadowed",
+	"Enabled": true
   },
   "520037": {
     "OriginalText": "自分勝手",
@@ -149,7 +161,8 @@
   },
   "520041": {
     "OriginalText": "ダーカー嫌い",
-    "Text": ""
+    "Text": "Darker Exterminator",
+	"Enabled": true
   },
   "520042": {
     "OriginalText": "動物博土",
@@ -161,51 +174,63 @@
   },
   "520046": {
     "OriginalText": "男好き",
-    "Text": ""
+    "Text": "Prefers Men",
+	"Enabled": true
   },
   "520047": {
     "OriginalText": "女好き",
-    "Text": ""
+    "Text": "Prefers Women",
+	"Enabled": true
   },
   "520048": {
     "OriginalText": "ヒューマン好き",
-    "Text": ""
+    "Text": "Prefers Humans",
+	"Enabled": true
   },
   "520049": {
     "OriginalText": "ヒューマン苦手",
-    "Text": ""
+    "Text": "Dislikes Humans",
+	"Enabled": true
   },
   "520050": {
     "OriginalText": "ニューマン好き",
-    "Text": ""
+    "Text": "Prefers Newmans",
+	"Enabled": true
   },
   "520051": {
     "OriginalText": "ニューマン苦手",
-    "Text": ""
+    "Text": "Dislikes Newmans",
+	"Enabled": true
   },
   "520052": {
     "OriginalText": "キャスト好き",
-    "Text": ""
+    "Text": "Prefers Casts",
+	"Enabled": true
   },
   "520053": {
     "OriginalText": "キャスト苦手",
-    "Text": ""
+    "Text": "Dislikes Casts",
+	"Enabled": true
   },
   "520054": {
     "OriginalText": "ハンター好き",
-    "Text": ""
+    "Text": "Prefers Hunters",
+	"Enabled": true
   },
   "520055": {
     "OriginalText": "フォース好き",
-    "Text": ""
+    "Text": "Prefers Forces",
+	"Enabled": true
   },
   "520056": {
     "OriginalText": "レンジャー好き",
-    "Text": ""
+    "Text": "Prefers Rangers",
+	"Enabled": true
   },
   "520057": {
     "OriginalText": "バスター好き",
-    "Text": ""
+    "Text": "Prefers Busters",
+	"Enabled": true
   },
   "520061": {
     "OriginalText": "熱血漢",
@@ -217,7 +242,8 @@
   },
   "520063": {
     "OriginalText": "冷静",
-    "Text": ""
+    "Text": "Calm",
+	"Enabled": true
   },
   "520064": {
     "OriginalText": "優柔不断",
@@ -225,7 +251,8 @@
   },
   "520065": {
     "OriginalText": "話し上手",
-    "Text": ""
+    "Text": "Smooth Talker",
+	"Enabled": true
   },
   "520066": {
     "OriginalText": "口下手",
@@ -309,15 +336,18 @@
   },
   "520091": {
     "OriginalText": "仲間思い",
-    "Text": ""
+    "Text": "Sentimental Person",
+	"Enabled": true
   },
   "520092": {
     "OriginalText": "不倒",
-    "Text": ""
+    "Text": "Senseless",
+	"Enabled": true
   },
   "520093": {
     "OriginalText": "天才肌",
-    "Text": ""
+    "Text": "Prodigy",
+	"Enabled": true
   },
   "520094": {
     "OriginalText": "探究心",
@@ -489,7 +519,8 @@
   },
   "520168": {
     "OriginalText": "ラッキライザー",
-    "Text": ""
+    "Text": "Lucky Rise",
+	"Enabled": true
   },
   "520169": {
     "OriginalText": "野生の勘",
@@ -497,43 +528,53 @@
   },
   "520170": {
     "OriginalText": "BURST：経験値UP",
-    "Text": ""
+    "Text": "BURST: EXP UP",
+	"Enabled": true
   },
   "520171": {
     "OriginalText": "BURST：アイテム",
-    "Text": ""
+    "Text": "BURST: Item",
+	"Enabled": true
   },
   "520172": {
     "OriginalText": "BURST：レアエネミー",
-    "Text": ""
+    "Text": "BURST: Rare Enemy",
+	"Enabled": true
   },
   "520173": {
     "OriginalText": "BURST：レアドロップ",
-    "Text": ""
+    "Text": "BURST: Rare Drop",
+	"Enabled": true
   },
   "520176": {
     "OriginalText": "BURST：ワンモア",
-    "Text": ""
+    "Text": "BURST: One More",
+	"Enabled": true
   },
   "520177": {
     "OriginalText": "BURST：ガッツ",
-    "Text": ""
+    "Text": "BURST: Guts",
+	"Enabled": true
   },
   "520178": {
     "OriginalText": "BURST：ダメージカット",
-    "Text": ""
+    "Text": "BURST: Damage Cut",
+	"Enabled": true
   },
   "520179": {
     "OriginalText": "BURST：コンバージョン",
-    "Text": ""
+    "Text": "BURST: Conversion",
+	"Enabled": true
   },
   "520180": {
     "OriginalText": "BURST：クリティカル",
-    "Text": ""
+    "Text": "BURST: Critical",
+	"Enabled": true
   },
   "520181": {
     "OriginalText": "BURST：モータルブロウ",
-    "Text": ""
+    "Text": "BURST: Mortal Blow",
+	"Enabled": true
   },
   "520182": {
     "OriginalText": "博愛",
