@@ -17,8 +17,8 @@ This repository is dedicated to translating PS: Nova game texts from Japanese to
  2. Click the pencil icon
  3. Edit the file to your heart's content!
  4. Write a brief summary of the changes at the bottom of the page
- 5. Hit "Commit changes" (<b>DO NOT CREATE A NEW BRANCH, COMMIT DIRECTLY TO MASTER.</b>)
- 6. Your changes will also be posted to the discord chat
+ 5. Hit "Create a new branch for this commit and start a pull request." (<b>DO NOT COMMIT DIRECTLY TO MASTER.</b>)
+ 6. Your PR request will be reviewed and accepted or denied. (Your changes will also be posted to the discord chat.)
 
  
 ##Editing process
@@ -61,7 +61,7 @@ will show up as:
 
 <b><i><u>PLEASE LEAVE THESE TAGS IN THERE.</b></i></u>
 
-We welcome your contributions in form of direct commits. You may create new issues to discuss the translations with other translators. Please note that issues not related to translation may be deleted without notice.
+We welcome your contributions in form of pull requests. You may create new issues to discuss the translations with other translators. Please note that issues not related to translation may be deleted without notice.
 
 ![3]
 
