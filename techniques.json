@@ -171,7 +171,7 @@
   },
   "590003": {
     "OriginalText": "照準のある位置に即座に爆発を発生させる。",
-    "Text": "Causes an immediate fire detonation at your target area.",
+    "Text": "Causes an immediate fire detonation within your targeted area.",
     "Enabled": true
   },
   "590004": {
