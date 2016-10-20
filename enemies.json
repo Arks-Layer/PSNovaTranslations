@@ -1,7 +1,320 @@
-{
+  "180000": {
+    "OriginalText": "---",
+    "Text": ""
+  },
+  "180110": {
+    "OriginalText": "Ｇクラーダ",
+    "Text": "G-Krahda",
+    "Enabled": true
+  },
+  "180120": {
+    "OriginalText": "Ｇクラーダ・ネロ",
+    "Text": "G-Krahda Nero",
+    "Enabled": true
+  },
+  "180210": {
+    "OriginalText": "Ｇダガン",
+    "Text": "G-Dagan",
+    "Enabled": true
+  },
+  "180220": {
+    "OriginalText": "Ｇエル・ダガン",
+    "Text": "G-El Dagan",
+    "Enabled": true
+  },
+  "180230": {
+    "OriginalText": "Ｇダガン・ネロ",
+    "Text": "G-Dagan Nero",
+    "Enabled": true
+  },
+  "180310": {
+    "OriginalText": "Ｇエル・アーダ",
+    "Text": "G-El Ahda",
+    "Enabled": true
+  },
+  "180320": {
+    "OriginalText": "Ｇエル・アーダ・ネロ",
+    "Text": "G-El Ahda Nero",
+    "Enabled": true
+  },
+  "180410": {
+    "OriginalText": "Ｇプレディカーダ",
+    "Text": "G-Predicahda",
+    "Enabled": true
+  },
+  "180420": {
+    "OriginalText": "Ｇプレディカーダ・ネロ",
+    "Text": "G-Predicahda Nero",
+    "Enabled": true
+  },
+  "180510": {
+    "OriginalText": "Ｇダーク・ラグネ",
+    "Text": "G-Dark Ragne",
+    "Enabled": true
+  },
+  "180520": {
+    "OriginalText": "Ｇダーク・アグラニ",
+    "Text": "G-Dark Agrani",
+    "Enabled": true
+  },
+  "180610": {
+    "OriginalText": "Ｇミクダ",
+    "Text": "G-Micda",
+    "Enabled": true
+  },
+  "180620": {
+    "OriginalText": "Ｇミ・ミクダ",
+    "Text": "G-Mi Micda",
+    "Enabled": true
+  },
+  "180710": {
+    "OriginalText": "Ｇダーガッシュ",
+    "Text": "G-Dahgash",
+    "Enabled": true
+  },
+  "180720": {
+    "OriginalText": "Ｇダーガッシュ・ネロ",
+    "Text": "G-Dahgash Nero",
+    "Enabled": true
+  },
+  "180810": {
+    "OriginalText": "Ｇガウォンダ",
+    "Text": "G-Ga Wonda",
+    "Enabled": true
+  },
+  "180820": {
+    "OriginalText": "Ｇガウォンダ・ネロ",
+    "Text": "G-Ga Wonda Nero",
+    "Enabled": true
+  },
+  "180910": {
+    "OriginalText": "Ｇグウォンダ",
+    "Text": "G-Gu Wonda",
+    "Enabled": true
+  },
+  "180920": {
+    "OriginalText": "Ｇグウォンダ・ネロ",
+    "Text": "G-Gu Wonda Nero",
+    "Enabled": true
+  },
+  "181010": {
+    "OriginalText": "Ｇウォルガーダ",
+    "Text": "G-Wolgahda",
+    "Enabled": true
+  },
+  "181020": {
+    "OriginalText": "Ｇアロナガーダ",
+    "Text": "G-Alonagahda",
+    "Enabled": true
+  },
+  "181110": {
+    "OriginalText": "Ｇキュクロナーダ",
+    "Text": "G-Kuklonahda",
+    "Enabled": true
+  },
+  "181120": {
+    "OriginalText": "Ｇパイクロナーダ",
+    "Text": "G-Piklonahda",
+    "Enabled": true
+  },
+  "181210": {
+    "OriginalText": "Ｇシャルレイダ",
+    "Text": "G-Shalurayda",
+    "Enabled": true
+  },
+  "181220": {
+    "OriginalText": "Ｇライルレイダ ",
+    "Text": "G-Rilurayda",
+    "Enabled": true
+  },
+  "181310": {
+    "OriginalText": "バリドランナ",
+    "Text": "Baridran'na",
+    "Enabled": true
+  },
+  "181320": {
+    "OriginalText": "ノイバリドランナ",
+    "Text": "Noibaridran'an",
+    "Enabled": true
+  },
+  "181330": {
+    "OriginalText": "フェブリルナ・ドラウ",
+    "Text": "Feburina Draal",
+    "Enabled": true
+  },
+  "181410": {
+    "OriginalText": "ウィンディラス",
+    "Text": "Windiras",
+    "Enabled": true
+  },
+  "181420": {
+    "OriginalText": "ノイウィンディラス",
+    "Text": "Noiwindiras",
+    "Enabled": true
+  },
+  "181430": {
+    "OriginalText": "ヴォーロラス・ドラウ",
+    "Text": "Voloras Draal",
+    "Enabled": true
+  },
+  "181510": {
+    "OriginalText": "防御訓練用クラーダ",
+    "Text": "Training Defense Krahda",
+    "Enabled": true
+  },
+  "181520": {
+    "OriginalText": "キャタドラン２(仮)",
+    "Text": "Caterdran 2 (Simulation)",
+    "Enabled": true
+  },
+  "181610": {
+    "OriginalText": "ヴォル・ドラゴン(仮)",
+    "Text": "Vol Dragon (Simulation)",
+    "Enabled": true
+  },
+  "181620": {
+    "OriginalText": "ヴォルドラ２(仮)",
+    "Text": "Vol Dragon 2 (Simulation)",
+    "Enabled": true
+  },
+  "181810": {
+    "OriginalText": "ラウーダン",
+    "Text": "Ra Oodan",
+    "Enabled": true
+  },
+  "181820": {
+    "OriginalText": "フリラウーダン",
+    "Text": "Fury Ra Oodan",
+    "Enabled": true
+  },
+  "181830": {
+    "OriginalText": "ラウーダン・リアス",
+    "Text": "Ra Oodan Lias",
+    "Enabled": true
+  },
+  "181910": {
+    "OriginalText": "ベガルフ",
+    "Text": "Begulf",
+    "Enabled": true
+  },
+  "181920": {
+    "OriginalText": "フロベガルフ",
+    "Text": "Furobegulf",
+    "Enabled": true
+  },
+  "181930": {
+    "OriginalText": "ベガルフ・ライオ",
+    "Text": "Begulf Rioh",
+    "Enabled": true
+  },
+  "182010": {
+    "OriginalText": "イエーデン",
+    "Text": "Yeden",
+    "Enabled": true
+  },
+  "182020": {
+    "OriginalText": "コパイエーデン",
+    "Text": "Kopa Yeden",
+    "Enabled": true
+  },
+  "182030": {
+    "OriginalText": "イエーデン・アイエ",
+    "Text": "Yeden Aie",
+    "Enabled": true
+  },
+  "182110": {
+    "OriginalText": "フォンベガルフ",
+    "Text": "Fonbegulf",
+    "Enabled": true
+  },
   "182120": {
     "OriginalText": "フロフォンベガルフ",
     "Text": ""
+  },
+  "182130": {
+    "OriginalText": "フォンベガルフ・ライオ",
+    "Text": "Fonbegulf Raioh",
+    "Enabled": true
+  },
+  "182210": {
+    "OriginalText": "シルブベア",
+    "Text": "Sirbu Bear",
+    "Enabled": true
+  },
+  "182220": {
+    "OriginalText": "ベア・ゴルヴァ",
+    "Text": "Bear Gorva",
+    "Enabled": true
+  },
+  "182310": {
+    "OriginalText": "グルナバンサー",
+    "Text": "Gluna Banther",
+    "Enabled": true
+  },
+  "182320": {
+    "OriginalText": "ジャッドバンサー",
+    "Text": "Jhad Banther",
+    "Enabled": true
+  },
+  "182330": {
+    "OriginalText": "バンサ・ブライネス",
+    "Text": "Banther Braines",
+    "Enabled": true
+  },
+  "182420": {
+    "OriginalText": "ニグ・ラッピー",
+    "Text": "Nigu Rappy",
+    "Enabled": true
+  },
+  "182430": {
+    "OriginalText": "ラッピー・アルマ",
+    "Text": "Rappy Alma",
+    "Enabled": true
+  },
+  "182510": {
+    "OriginalText": "アルマラッピー",
+    "Text": "Alma-Rappy",
+    "Enabled": true
+  },
+  "182520": {
+    "OriginalText": "レウ・アヴラッピー",
+    "Text": "Leu Alma-Rappy",
+    "Enabled": true
+  },
+  "182530": {
+    "OriginalText": "ウィ・アヴラッピー",
+    "Text": "Vi Alma-Rappy",
+    "Enabled": true
+  },
+  "182540": {
+    "OriginalText": "ロセ・アヴラッピー",
+    "Text": "Rosset Alma-Rappy",
+    "Enabled": true
+  },
+  "182550": {
+    "OriginalText": "アルマラッピー・オナー",
+    "Text": "Alma-Rappy Onna",
+    "Enabled": true
+  },
+  "182610": {
+    "OriginalText": "ロヴラッピー",
+    "Text": "Lov-Rappy",
+    "Enabled": true
+  },
+  "182620": {
+    "OriginalText": "ウィ・ロヴラッピー",
+    "Text": "Vi Lov-Rappy",
+    "Enabled": true
+  },
+  "182630": {
+    "OriginalText": "レウ・ロヴラッピー",
+    "Text": "Leu Lov-Rappy",
+    "Enabled": true
+  },
+  "182640": {
+    "OriginalText": "ロヴラッピー・ロセ",
+    "Text": "Lov-Rappy Rosset",
+    "Enabled": true
   },
   "182710": {
     "OriginalText": "マガヴルム",
@@ -19,6 +332,11 @@
     "OriginalText": "マガヴルム・クロウ",
     "Text": ""
   },
+  "182810": {
+    "OriginalText": "ラビーソ",
+    "Text": "Rabbis",
+    "Enabled": true
+  },
   "182820": {
     "OriginalText": "ブロラビーソ",
     "Text": ""
@@ -30,6 +348,26 @@
   "182840": {
     "OriginalText": "ラビーソ・プラテ",
     "Text": ""
+  },
+  "182910": {
+    "OriginalText": "ロザード",
+    "Text": "Rozad",
+    "Enabled": true
+  },
+  "182920": {
+    "OriginalText": "ウロザード",
+    "Text": "Pa Rozad",
+    "Enabled": true
+  },
+  "182930": {
+    "OriginalText": "クロザード",
+    "Text": "Gu Rozad",
+    "Enabled": true
+  },
+  "182940": {
+    "OriginalText": "スロザード",
+    "Text": "Su Rozad",
+    "Enabled": true
   },
   "182950": {
     "OriginalText": "ロザード・トカ",
@@ -175,6 +513,56 @@
     "OriginalText": "アビアディノ・ロクサ",
     "Text": ""
   },
+  "183710": {
+    "OriginalText": "バレダイナス",
+    "Text": "Vale-Dynas",
+    "Enable": true
+  },
+  "183720": {
+    "OriginalText": "ラーバレダイナス",
+    "Text": "Lar Vale-Dynas",
+    "Enable": true
+  },
+  "183730": {
+    "OriginalText": "マーバレダイナス",
+    "Text": "Mar Vale-Dynas",
+    "Enable": true
+  },
+  "183740": {
+    "OriginalText": "ヴィバレダイナス",
+    "Text": "Vi Vale-Dynas",
+    "Enable": true
+  },
+  "183750": {
+    "OriginalText": "ダイナス・タングス",
+    "Text": "Dynas Tungs",
+    "Enable": true
+  },
+  "183810": {
+    "OriginalText": "シードギオス",
+    "Text": "Xie Dogios",
+    "Enable": true
+  },
+  "183820": {
+    "OriginalText": "フォードギオス",
+    "Text": "Pho Dogios",
+    "Enable": true
+  },
+  "183830": {
+    "OriginalText": "ヴァッドギオス",
+    "Text": "Valle Dogios",
+    "Enable": true
+  },
+  "183840": {
+    "OriginalText": "エアドギオス",
+    "Text": "Air Dogios",
+    "Enable": true
+  },
+  "183850": {
+    "OriginalText": "ドギオス・ルフレ",
+    "Text": "Dogios Reflet",
+    "Enable": true
+  },
   "183910": {
     "OriginalText": "トルリンプ",
     "Text": ""
@@ -266,6 +654,11 @@
   "184440": {
     "OriginalText": "モストカーネベア",
     "Text": ""
+  },
+  "184450": {
+    "OriginalText": "カーネベア・ゴルヴァ",
+    "Text": "Carnnebear Gorva",
+    "Enabled": true
   },
   "184510": {
     "OriginalText": "アルレイバンサー",
@@ -371,6 +764,11 @@
     "OriginalText": "最弱点",
     "Text": ""
   },
+  "185010": {
+    "OriginalText": "エウリュード",
+    "Text": "Eurude",
+    "Enabled": true
+  },
   "185020": {
     "OriginalText": "換装武器：ガトリング",
     "Text": ""
@@ -387,9 +785,49 @@
     "OriginalText": "換装武器：ミサイル",
     "Text": ""
   },
+  "185060": {
+    "OriginalText": "レーザー射出口",
+    "Text": "Laser Exit Wound",
+    "Enabled": true
+  },
   "185070": {
     "OriginalText": "コンテナ：ガトリング",
     "Text": ""
+  },
+  "185080": {
+    "OriginalText": "コンテナ：クロー",
+    "Text": "Claw Container",
+    "Enabled": true
+  },
+  "185090": {
+    "OriginalText": "コンテナ：ビーム",
+    "Text": "Beam Container",
+    "Enabled": true
+  },
+  "185100": {
+    "OriginalText": "コンテナ：ミサイル",
+    "Text": "Missile Container",
+    "Enabled": true
+  },
+  "185110": {
+    "OriginalText": "ガラティオン",
+    "Text": "Gratian",
+    "Enabled": true
+  },
+  "185120": {
+    "OriginalText": "ギガティオン",
+    "Text": "Gigantion",
+    "Enabled": true
+  },
+  "185130": {
+    "OriginalText": "グラヴディオン",
+    "Text": "Gravdion",
+    "Enabled": true
+  },
+  "185135": {
+    "OriginalText": "ブレード",
+    "Text": "Blade",
+    "Enabled": true
   },
   "185140": {
     "OriginalText": "角",
@@ -402,6 +840,11 @@
   "185150": {
     "OriginalText": "アンカー発射装置",
     "Text": ""
+  },
+  "185210": {
+    "OriginalText": "アルキュオネ",
+    "Text": "Alcyone",
+    "Enabled": true
   },
   "185220": {
     "OriginalText": "デェフキュオネ",
@@ -487,12 +930,46 @@
     "OriginalText": "レイヴヒュフテ",
     "Text": ""
   },
+  "185530": {
+    "OriginalText": "レイヴガイスト",
+    "Text": "Rave Geist",
+    "Enabled": true
+  },
+  "185531": {
+    "OriginalText": "レイヴァン",
+    "Text": "Raven",
+    "Enabled": true
+  },
+  "185540": {
+    "OriginalText": "ネメスフース",
+    "Text": "Nemes Fus",
+    "Enabled": true
+  },
   "185550": {
     "OriginalText": "ネメスヒュフテ",
     "Text": ""
   },
+  "185560": {
+    "OriginalText": "ネメスガイスト",
+    "Text": "Nemes Geist",
+    "Enabled": true
+  },
+  "185561": {
+    "OriginalText": "ミサイル発射装置",
+    "Text": "Missile Firing Device",
+    "Enabled": true
+  },
   "185562": {
     "OriginalText": "二ードルガン",
     "Text": ""
-  }
-}
+  },
+  "185563": {
+    "OriginalText": "レーザー",
+    "Text": "Laser",
+    "Enabled": true
+  },
+  "185564": {
+    "OriginalText": "グランデバイス",
+    "Text": "Gran Device",
+    "Enabled": true
+  },
