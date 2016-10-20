@@ -20,7 +20,7 @@ force/human,カラント
 force/human,グラナート
 mana/human,ザールドゥ
 hunter/human,ブライン
-hunter/human,イズル
+hunter/human,Sail
 ranger/human,サフェード
 ranger/human,ホルド
 ranger/human,ケヴィン
