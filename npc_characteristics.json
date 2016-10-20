@@ -31,7 +31,7 @@
   "520006": {
     "OriginalText": "暁紅のアークス",
     "Text": "Crimson Dawn of ARKS",
-	"Enabled": True
+	"Enabled": true
   },
   "520007": {
     "OriginalText": "エース候補",
@@ -162,7 +162,7 @@
   "520041": {
     "OriginalText": "ダーカー嫌い",
     "Text": "Darker Exterminator",
-	"Enabled": True
+	"Enabled": true
   },
   "520042": {
     "OriginalText": "動物博土",
