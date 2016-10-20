@@ -318,19 +318,23 @@
   },
   "182710": {
     "OriginalText": "マガヴルム",
-    "Text": ""
+    "Text": "Magavulum",
+	"Enabled": true
   },
   "182720": {
     "OriginalText": "バオム・マガヴルム",
-    "Text": ""
+    "Text": "Baum Magavulum",
+	"Enabled": true
   },
   "182730": {
     "OriginalText": "オルテ・マガヴルム",
-    "Text": ""
+    "Text": "Orte Magavulum",
+	"Enabled": true
   },
   "182740": {
     "OriginalText": "マガヴルム・クロウ",
-    "Text": ""
+    "Text": "Magavulum Crow",
+	"Enabled": true
   },
   "182810": {
     "OriginalText": "ラビーソ",
@@ -339,15 +343,18 @@
   },
   "182820": {
     "OriginalText": "ブロラビーソ",
-    "Text": ""
+    "Text": "Brorabbis",
+    "Enabled": true
   },
   "182830": {
     "OriginalText": "アセラビーソ",
-    "Text": ""
+    "Text": "Aserabbis",
+    "Enabled": true
   },
   "182840": {
     "OriginalText": "ラビーソ・プラテ",
-    "Text": ""
+    "Text": "Rabbis Platen",
+    "Enabled": true
   },
   "182910": {
     "OriginalText": "ロザード",
