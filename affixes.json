@@ -1,4 +1,3 @@
-{
   "150196": {
     "OriginalText": "瞬刻の理",
     "Text": ""
@@ -6,6 +5,11 @@
   "150197": {
     "OriginalText": "瞬刻の天理",
     "Text": ""
+  },
+  "150198": {
+    "OriginalText": "- 予備枠",
+    "Text": "Reserve Frame",
+    "Enabled": true
   },
   "150199": {
     "OriginalText": "人導体",
@@ -15,6 +19,11 @@
     "OriginalText": "超人導体",
     "Text": ""
   },
+  "150201": {
+    "OriginalText": "- 予備枠",
+    "Text": "Reserve Frame",
+    "Enabled": true
+  },
   "150202": {
     "OriginalText": "気配遮断",
     "Text": ""
@@ -22,6 +31,11 @@
   "150203": {
     "OriginalText": "気配消去",
     "Text": ""
+  },
+  "150204": {
+    "OriginalText": "- 予備枠",
+    "Text": "Reserve Frame",
+    "Enabled": true
   },
   "150205": {
     "OriginalText": "不屈の心",
@@ -67,6 +81,11 @@
     "OriginalText": "羅刹紋",
     "Text": ""
   },
+  "150216": {
+    "OriginalText": "- 予備枠",
+    "Text": "Reserve Frame",
+    "Enabled": true
+  },
   "150217": {
     "OriginalText": "痛打必倒",
     "Text": ""
@@ -74,6 +93,11 @@
   "150218": {
     "OriginalText": "痛打必殺",
     "Text": ""
+  },
+  "150219": {
+    "OriginalText": "- 予備枠",
+    "Text": "Reserve Frame",
+    "Enabled": true
   },
   "150220": {
     "OriginalText": "零の手",
@@ -106,6 +130,11 @@
   "150227": {
     "OriginalText": "煌気光",
     "Text": ""
+  },
+  "150228": {
+    "OriginalText": "- 予備枠",
+    "Text": "Reserve Frame",
+    "Enabled": true
   },
   "150229": {
     "OriginalText": "紅蓮結晶",
@@ -163,9 +192,24 @@
     "OriginalText": "観理識",
     "Text": ""
   },
+  "150243": {
+    "OriginalText": "- 予備枠",
+    "Text": "Reserve Frame",
+    "Enabled": true
+  },
   "150244": {
     "OriginalText": "古の誓い",
     "Text": ""
+  },
+  "150245": {
+    "OriginalText": "- 予備枠",
+    "Text": "Reserve Frame",
+    "Enabled": true
+  },
+  "150246": {
+    "OriginalText": "- 予備枠",
+    "Text": "Reserve Frame",
+    "Enabled": true
   },
   "150247": {
     "OriginalText": "奪命剣",
@@ -174,6 +218,11 @@
   "150248": {
     "OriginalText": "奪命刃",
     "Text": ""
+  },
+  "150249": {
+    "OriginalText": "- 予備枠",
+    "Text": "Reserve Frame",
+    "Enabled": true
   },
   "150250": {
     "OriginalText": "光戦形態",
@@ -215,6 +264,16 @@
     "OriginalText": "薬の心得",
     "Text": ""
   },
+  "150260": {
+    "OriginalText": "- 予備枠",
+    "Text": "Reserve Frame",
+    "Enabled": true
+  },
+  "150261": {
+    "OriginalText": "- 予備枠",
+    "Text": "Reserve Frame",
+    "Enabled": true
+  },
   "150262": {
     "OriginalText": "審判の時",
     "Text": ""
@@ -222,6 +281,11 @@
   "150263": {
     "OriginalText": "運命の時",
     "Text": ""
+  },
+  "150264": {
+    "OriginalText": "- 予備枠",
+    "Text": "Reserve Frame",
+    "Enabled": true
   },
   "150265": {
     "OriginalText": "慎怒の構え",
@@ -243,6 +307,11 @@
     "OriginalText": "捨身の印",
     "Text": ""
   },
+  "150270": {
+    "OriginalText": "- 予備枠",
+    "Text": "Reserve Frame",
+    "Enabled": true
+  },
   "150271": {
     "OriginalText": "守勢練陣",
     "Text": ""
@@ -250,6 +319,11 @@
   "150272": {
     "OriginalText": "守勢練塞",
     "Text": ""
+  },
+  "150273": {
+    "OriginalText": "- 予備枠",
+    "Text": "Reserve Frame",
+    "Enabled": true
   },
   "150274": {
     "OriginalText": "正対の構え",
@@ -259,11 +333,21 @@
     "OriginalText": "正対の型",
     "Text": ""
   },
+  "150276": {
+    "OriginalText": "- 予備枠",
+    "Text": "Reserve Frame",
+    "Enabled": true
+  },
   "150277": {
     "OriginalText": "炎獄",
     "Text": ""
   },
   "150278": {
+    "OriginalText": "- 予備枠",
+    "Text": "Reserve Frame",
+    "Enabled": true
+  },
+  "150279": {
     "OriginalText": "- 予備枠",
     "Text": "Reserve Frame",
     "Enabled": true
@@ -275,6 +359,11 @@
   "150281": {
     "OriginalText": "正対の必墜",
     "Text": ""
+  },
+  "150282": {
+    "OriginalText": "- 予備枠",
+    "Text": "Reserve Frame",
+    "Enabled": true
   },
   "150283": {
     "OriginalText": "背撃の証",
@@ -308,6 +397,11 @@
     "OriginalText": "原生王滅牙",
     "Text": ""
   },
+  "150291": {
+    "OriginalText": "- 予備枠",
+    "Text": "Reserve Frame",
+    "Enabled": true
+  },
   "150292": {
     "OriginalText": "龍滅牙",
     "Text": ""
@@ -315,6 +409,11 @@
   "150293": {
     "OriginalText": "龍王滅牙",
     "Text": ""
+  },
+  "150294": {
+    "OriginalText": "- 予備枠",
+    "Text": "Reserve Frame",
+    "Enabled": true
   },
   "150295": {
     "OriginalText": "絶龍印",
@@ -324,6 +423,11 @@
     "OriginalText": "絶龍誓",
     "Text": ""
   },
+  "150297": {
+    "OriginalText": "- 予備枠",
+    "Text": "Reserve Frame",
+    "Enabled": true
+  },
   "150298": {
     "OriginalText": "機甲滅牙",
     "Text": ""
@@ -332,6 +436,11 @@
     "OriginalText": "機甲王滅牙",
     "Text": ""
   },
+  "150300": {
+    "OriginalText": "- 予備枠",
+    "Text": "Reserve Frame",
+    "Enabled": true
+  },
   "150301": {
     "OriginalText": "負滅牙",
     "Text": ""
@@ -339,6 +448,21 @@
   "150302": {
     "OriginalText": "負王滅牙",
     "Text": ""
+  },
+  "150303": {
+    "OriginalText": "- 予備枠",
+    "Text": "Reserve Frame",
+    "Enabled": true
+  },
+  "150304": {
+    "OriginalText": "アクセルアタック",
+    "Text": "Accel Attack",
+    "Enabled": true
+  },
+  "150305": {
+    "OriginalText": "リーチブースト",
+    "Text": "Reach Boost",
+    "Enabled": true
   },
   "150308": {
     "OriginalText": "護攻法陣",
@@ -463,5 +587,14 @@
   "150338": {
     "OriginalText": "心願の形",
     "Text": ""
-  }
-}
+  },
+  "150339": {
+    "OriginalText": "- 予備枠",
+    "Text": "Reserve Frame",
+    "Enabled": true
+  },
+  "150340": {
+    "OriginalText": "- 予備枠",
+    "Text": "Reserve Frame",
+    "Enabled": true
+  },
