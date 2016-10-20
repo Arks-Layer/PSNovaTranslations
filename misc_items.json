@@ -1,4 +1,57 @@
-{
+  "350000": {
+    "OriginalText": "メモリーフラグメントJ",
+    "Text": ""
+  },
+  "350001": {
+    "OriginalText": "グランピース",
+    "Text": "Gran Piece",
+    "Enabled": true
+  },
+  "350002": {
+    "OriginalText": "グランピース(炎属性)",
+    "Text": "Gran Piece (Fire)",
+    "Enabled": true
+  },
+  "350003": {
+    "OriginalText": "グランピース(氷属性)",
+    "Text": "Gran Piece (Ice)",
+    "Enabled": true
+  },
+  "350004": {
+    "OriginalText": "グランピース(雷属性)",
+    "Text": "Gran Piece (Lightning)",
+    "Enabled": true
+  },
+  "350005": {
+    "OriginalText": "グランピース(風属性)",
+    "Text": "Gran Piece (Wind)",
+    "Enabled": true
+  },
+  "350006": {
+    "OriginalText": "グランピース(光属性)",
+    "Text": "Gran Piece (Light)",
+    "Enabled": true
+  },
+  "350007": {
+    "OriginalText": "グランピース(闇属性)",
+    "Text": "Gran Piece (Dark)",
+    "Enabled": true
+  },
+  "350008": {
+    "OriginalText": "ダーカーの節",
+    "Text": "Darker Node",
+    "Enabled": true
+  },
+  "350009": {
+    "OriginalText": "ダーカーの触角",
+    "Text": "Darker Tentacle",
+    "Enabled": true
+  },
+  "350010": {
+    "OriginalText": "ダーカーの肉",
+    "Text": "Darker Meat",
+    "Enabled": true
+  },
   "350011": {
     "OriginalText": "爬虫類のたまご",
     "Text": ""
@@ -10,6 +63,11 @@
   "350013": {
     "OriginalText": "獣の肉",
     "Text": ""
+  },
+  "350014": {
+    "OriginalText": "ロヴラッピーの肉",
+    "Text": "Lov-Rappy Meat",
+    "Enabled": true
   },
   "350015": {
     "OriginalText": "巨大獣の肉",
@@ -75,6 +133,11 @@
     "OriginalText": "マガヴルムのねばねば",
     "Text": ""
   },
+  "350031": {
+    "OriginalText": "トマト",
+    "Text": "Tomato",
+    "Enabled": true
+  },
   "350032": {
     "OriginalText": "コラル・ドラゴンの生き血",
     "Text": ""
@@ -94,6 +157,11 @@
   "350036": {
     "OriginalText": "目玉",
     "Text": ""
+  },
+  "350037": {
+    "OriginalText": "Ｇシャルレイダの肝",
+    "Text": "G-Shalurayda Liver",
+    "Enabled": true
   },
   "350038": {
     "OriginalText": "ギガンテスの肉",
@@ -131,6 +199,11 @@
     "OriginalText": "米",
     "Text": ""
   },
+  "350047": {
+    "OriginalText": "メモリーフラグメントＡ",
+    "Text": "Memory Fragment A",
+    "Enabled": true
+  },
   "350048": {
     "OriginalText": "白い岩石",
     "Text": ""
@@ -151,6 +224,11 @@
     "OriginalText": "緑の結晶石",
     "Text": ""
   },
+  "350053": {
+    "OriginalText": "ウッドオパール",
+    "Text": "Wood Opal",
+    "Enabled": true
+  },
   "350054": {
     "OriginalText": "赤く広がる花状結晶",
     "Text": ""
@@ -158,6 +236,11 @@
   "350055": {
     "OriginalText": "青い鉱石",
     "Text": ""
+  },
+  "350056": {
+    "OriginalText": "メモリーフラグメントＢ",
+    "Text": "Memory Fragment B",
+    "Enabled": true
   },
   "350057": {
     "OriginalText": "凍った葉",
@@ -175,6 +258,11 @@
     "OriginalText": "遺跡石村",
     "Text": ""
   },
+  "350061": {
+    "OriginalText": "オベリスクの破片",
+    "Text": "Obelisk Fragment",
+    "Enabled": true
+  },
   "350062": {
     "OriginalText": "多積層の銅板",
     "Text": ""
@@ -191,8 +279,61 @@
     "OriginalText": "湯煙の記憶",
     "Text": ""
   },
+  "350066": {
+    "OriginalText": "メモリーフラグメントＣ",
+    "Text": "Memory Fragment C",
+    "Enabled": true
+  },
+  "350067": {
+    "OriginalText": "メモリーフラグメントＤ",
+    "Text": "Memory Fragment D",
+    "Enabled": true
+  },
+  "350068": {
+    "OriginalText": "メモリーフラグメントＥ",
+    "Text": "Memory Fragment E",
+    "Enabled": true
+  },
+  "350069": {
+    "OriginalText": "メモリーフラグメントＦ",
+    "Text": "Memory Fragment F",
+    "Enabled": true
+  },
+  "350070": {
+    "OriginalText": "メモリーフラグメントＧ",
+    "Text": "Memory Fragment G",
+    "Enabled": true
+  },
+  "350071": {
+    "OriginalText": "ラピリストーン",
+    "Text": "Rapiliston",
+    "Enabled": true
+  },
+  "350072": {
+    "OriginalText": "透き通る珪化木",
+    "Text": ""
+  },
+  "350073": {
+    "OriginalText": "ペロブスカイト石",
+    "Text": "Perovuskite Stone",
+	"Enabled": true
+  },
+  "350074": {
+    "OriginalText": "冷たく燃える金属結晶",
+    "Text": "Frigid Burning Metal Crystal",
+    "Enabled": true
+  },
   "350075": {
     "OriginalText": "朽ちない黒い鉄柱",
+    "Text": ""
+  },
+  "350076": {
+    "OriginalText": "大尖塔のワイヤー",
+    "Text": "Large Spire's Wire",
+	"Enabled": true
+  },
+  "350077": {
+    "OriginalText": "パイロープ結晶体",
     "Text": ""
   },
   "350078": {
@@ -2830,6 +2971,11 @@
   "350736": {
     "OriginalText": "エネミー200R村料",
     "Text": ""
+  },
+  "360000": {
+    "OriginalText": "なし",
+    "Text": "None",
+    "Enabled": true
   },
   "360001": {
     "OriginalText": "グランの力を蓄えた鉱物結晶。\n未知の惑星マキアにおいて、あらゆる\n物資に加工が可能な唯一の村料となる。",
@@ -5774,5 +5920,4 @@
   "360736": {
     "OriginalText": "エネミー200R村料の解説文",
     "Text": ""
-  }
-}
+  },
