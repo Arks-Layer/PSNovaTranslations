@@ -176,7 +176,7 @@
   },
   "590004": {
     "OriginalText": "前方扇状の範囲に炎の波を発生させる。",
-    "Text": "Generate a wide arch of fire in front of you.",
+    "Text": "Generate a wide arc of fire in front of you.",
     "Enabled": true
   },
   "590005": {
@@ -186,7 +186,8 @@
   },
   "590006": {
     "OriginalText": "照準の位置へ向けて敵を貴通する氷柱を放つ。",
-    "Text": ""
+    "Text": "Shoots a line of icicles towards your target.",
+    "Enabled": true
   },
   "590007": {
     "OriginalText": "自身またはタリスの前方に無数の氷の矢を出現させ、\n前方扇状の範囲内にいる対象に断続的にダメージを\n与える。",
