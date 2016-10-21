@@ -37,11 +37,13 @@
   },
   "210008": {
     "OriginalText": "シードギオス討伐",
-    "Text": ""
+    "Text": "Subdue Xie Dogios",
+	"Enabled": true
   },
   "210009": {
     "OriginalText": "ヴィバレダイナス討伐",
-    "Text": ""
+    "Text": "Subdue Vi Vale-Dynas",
+	"Enabled": true
   },
   "210010": {
     "OriginalText": "ギガンテス討伐",
@@ -54,11 +56,13 @@
   },
   "210012": {
     "OriginalText": "ネメスガイスト討伐",
-    "Text": ""
+    "Text": "Subdue Nemes Geist",
+	"Enabled": true
   },
   "210013": {
     "OriginalText": "レイヴガイスト討伐",
-    "Text": ""
+    "Text": "Subdue Rave Geist",
+	"Enabled": true
   },
   "210014": {
     "OriginalText": "時間まで敵を倒しまくれ",
@@ -66,19 +70,23 @@
   },
   "210015": {
     "OriginalText": "ファンアフォル討伐",
-    "Text": ""
+    "Text": "Sundue Fan'aphol",
+	"Enabled": true
   },
   "210016": {
     "OriginalText": "ウィルアフォル討伐",
-    "Text": ""
+    "Text": "Subdue Viluaphol",
+	"Enabled": true
   },
   "210017": {
     "OriginalText": "アルテイオス討伐",
-    "Text": ""
+    "Text": "Subdue Altayous",
+	"Enabled": true
   },
   "210018": {
     "OriginalText": "マグネトアス討伐",
-    "Text": ""
+    "Text": "Subdue Magnetoas",
+	"Enabled": true
   },
   "210019": {
     "OriginalText": "時間内に最深部へ到達せよ",
@@ -90,15 +98,18 @@
   },
   "210021": {
     "OriginalText": "アグリオスＰ型討伐",
-    "Text": ""
+    "Text": "Subdue Agrious P-Type",
+	"Enabled": true
   },
   "210022": {
     "OriginalText": "迫るグレイオスを止めろ",
-    "Text": ""
+    "Text": "Stop Grayous",
+	"Enabled": true
   },
   "210023": {
     "OriginalText": "オルゴルドス討伐",
-    "Text": ""
+    "Text": "Subdue Orgordes",
+	"Enabled": true
   },
   "210024": {
     "OriginalText": "予備枠",
@@ -142,39 +153,48 @@
   },
   "210089": {
     "OriginalText": "グラヴディオン討伐",
-    "Text": ""
+    "Text": "Subdue Gravdion",
+	"Enabled": true
   },
   "210090": {
     "OriginalText": "シルブカーネベア討伐",
-    "Text": ""
+    "Text": "Subdue Sirbucarnne Bear",
+	"Enabled": true
   },
   "210091": {
     "OriginalText": "モストカーネベア討伐",
-    "Text": ""
+    "Text": "Subdue Mostcarnne Bear",
+	"Enabled": true
   },
   "210092": {
     "OriginalText": "アルレイバンサー討伐",
-    "Text": ""
+    "Text": "Subdue Alray Banther",
+	"Enabled": true
   },
   "210093": {
     "OriginalText": "ゾンレイバンサー討伐",
-    "Text": ""
+    "Text": "Subdue Dzongray Banther",
+	"Enabled": true
   },
   "210094": {
     "OriginalText": "ファラレイバンサー討伐",
-    "Text": ""
+    "Text": "Subdue Farahray Banther",
+	"Enabled": true
   },
   "210095": {
     "OriginalText": "クリトロクィーン討伐",
-    "Text": ""
+    "Text": "Subdue Crytoro Queen",
+	"Enabled": true
   },
   "210096": {
     "OriginalText": "グルナバンサー討伐",
-    "Text": ""
+    "Text": "Subdue Gluna Banther",
+	"Enabled": true
   },
   "210097": {
     "OriginalText": "迫るアグリオスを止めろ",
-    "Text": ""
+    "Text": "Stop Agrious",
+	"Enabled": true
   },
   "210098": {
     "OriginalText": "観測ポッドを回収しろ",
@@ -190,11 +210,13 @@
   },
   "210101": {
     "OriginalText": "アグリオス討伐",
-    "Text": ""
+    "Text": "Subdue Agrious",
+	"Enabled": true
   },
   "210102": {
     "OriginalText": "アグリオス捕獲",
-    "Text": ""
+    "Text": "Capture Agrious",
+	"Enabled": true
   },
   "210103": {
     "OriginalText": "アルキュオネ討伐",
@@ -221,7 +243,8 @@
   },
   "210108": {
     "OriginalText": "ヴィヴリュード討伐",
-    "Text": ""
+    "Text": "Subdue Vivurude",
+	"Enabled": true
   },
   "210109": {
     "OriginalText": "Ｇウォルガーダ討伐",
@@ -253,7 +276,8 @@
   },
   "210115": {
     "OriginalText": "ギガティオン討伐",
-    "Text": ""
+    "Text": "Subdue Gigation",
+	"Enabled"" true
   },
   "210116": {
     "OriginalText": "ギガンテス討伐",
@@ -271,7 +295,8 @@
   },
   "210119": {
     "OriginalText": "削除",
-    "Text": ""
+    "Text": "Delete",
+	"Enabled": true
   },
   "210120": {
     "OriginalText": "最後尾車両を撃破しろ",
@@ -292,11 +317,13 @@
   },
   "210124": {
     "OriginalText": "グラン結晶を回収しろ",
-    "Text": ""
+    "Text": "Collect the Gran Crystals",
+	"Enabled": true
   },
   "210125": {
     "OriginalText": "グレイオス討伐",
-    "Text": ""
+    "Text": "Subdue Grayous",
+	"Enabled": true
   },
   "210126": {
     "OriginalText": "原生種殲滅",
@@ -317,7 +344,8 @@
   },
   "210130": {
     "OriginalText": "ゴルドス討伐",
-    "Text": ""
+    "Text": "Subdue Gordes",
+	"Enabled": true
   },
   "210131": {
     "OriginalText": "ジャッドバンサー討伐",
@@ -351,27 +379,33 @@
   },
   "210138": {
     "OriginalText": "ディートアス討伐",
-    "Text": ""
+    "Text": "Subdue Ditoas",
+	"Enabled": true
   },
   "210139": {
     "OriginalText": "ディゴルドス討伐",
-    "Text": ""
+    "Text": "Subdue Digordes",
+	"Enabled": true
   },
   "210140": {
     "OriginalText": "デェフキュオネ討伐",
-    "Text": ""
+    "Text": "Subdue Defcyone",
+	"Enabled": true
   },
   "210141": {
     "OriginalText": "テュルトアス討伐",
-    "Text": ""
+    "Text": "Subdue Tulletoas",
+	"Enabled": true
   },
   "210142": {
     "OriginalText": "ナールレイバンサー討伐",
-    "Text": ""
+    "Text": "Subdue Nalray Banther",
+	"Enabled": true
   },
   "210143": {
     "OriginalText": "ナールレイバンサー討伐",
-    "Text": ""
+    "Text": "Subdue Nalray Banther",
+	"Enabled": true
   },
   "210144": {
     "OriginalText": "なし？",
@@ -404,7 +438,8 @@
   },
   "210150": {
     "OriginalText": "レゾルカーネベア討伐",
-    "Text": ""
+    "Text": "Subdue Resolcarnne Bear",
+	"Enabled": true
   },
   "210151": {
     "OriginalText": "鉱物を回収しろ",

@@ -653,11 +653,13 @@
   },
   "184410": {
     "OriginalText": "シルブカーネベア",
-    "Text": ""
+    "Text": "Sirbucarnne Bear",
+	"Enabled": true
   },
   "184420": {
     "OriginalText": "レゾルカーネベア",
-    "Text": ""
+    "Text": "Resolcarnne Bear",
+	"Enabled": true
   },
   "184430": {
     "OriginalText": "オラルカーネベア",
@@ -665,7 +667,8 @@
   },
   "184440": {
     "OriginalText": "モストカーネベア",
-    "Text": ""
+    "Text": "Mostcarnne Bear",
+	"Enabled": true
   },
   "184450": {
     "OriginalText": "カーネベア・ゴルヴァ",
@@ -674,23 +677,28 @@
   },
   "184510": {
     "OriginalText": "アルレイバンサー",
-    "Text": ""
+    "Text": "Alray Banther",
+	"Enabled": true
   },
   "184520": {
     "OriginalText": "ゾンレイバンサー",
-    "Text": ""
+    "Text": "Dzongray Banther",
+	"Enabled": true
   },
   "184530": {
     "OriginalText": "ナールレイバンサー",
-    "Text": ""
+    "Text": "Nalray Banther",
+	"Enabled": true
   },
   "184540": {
     "OriginalText": "ファラレイバンサー",
-    "Text": ""
+    "Text": "Farahray Banther",
+	"Enabled": true
   },
   "184550": {
     "OriginalText": "レイバンサ・オクシ",
-    "Text": ""
+    "Text": "Ray Banther Occi",
+	"Enabled": true
   },
   "184560": {
     "OriginalText": "頭角",
@@ -706,15 +714,18 @@
   },
   "184610": {
     "OriginalText": "ディートアス",
-    "Text": ""
+    "Text": "Ditoas",
+	"Enabled": true
   },
   "184620": {
     "OriginalText": "テュルトアス",
-    "Text": ""
+    "Text": "Tulletoas",
+	"Enabled": true
   },
   "184630": {
     "OriginalText": "マグネトアス",
-    "Text": ""
+    "Text": "Magnetoas",
+	"Enabled": true
   },
   "184640": {
     "OriginalText": "トアス・ヒュブオン",
@@ -722,55 +733,68 @@
   },
   "184710": {
     "OriginalText": "ゴルドス",
-    "Text": ""
+    "Text": "Gordes",
+	"Enabled": true
   },
   "184720": {
     "OriginalText": "ディゴルドス",
-    "Text": ""
+    "Text": "Digordes",
+	"Enabled": true
   },
   "184730": {
     "OriginalText": "オルゴルドス",
-    "Text": ""
+    "Text": "Orgordes",
+	"Enabled": true
   },
   "184740": {
     "OriginalText": "ゴルドス・ビガオ",
-    "Text": ""
+    "Text": "Gordes Bigaoh",
+	"Enabled": true
   },
   "184810": {
     "OriginalText": "ファンアフォル",
-    "Text": ""
+    "Text": "Fan'aphol",
+	"Enabled": true
   },
   "184820": {
     "OriginalText": "ウィルアフォル",
-    "Text": ""
+    "Text": "Viluaphol",
+	"Enabled": true
   },
   "184830": {
     "OriginalText": "アフォル・フェイズ",
-    "Text": ""
+    "Text": "Aphol Phase",
+	"Enabled": true
   },
   "184910": {
     "OriginalText": "アグリオス",
-    "Text": ""
+    "Text": "Agrious",
+	"Enabled": true
   },
   "184911": {
     "OriginalText": "アグリオスP型",
-    "Text": ""
+    "Text": "Agrious P-Type",
+	"Enabled": true
   },
   "184912": {
     "OriginalText": "アグリオスS型",
-    "Text": ""
+    "Text": "Agrious S-Type",
+	"Enabled": true
   },
   "184920": {
     "OriginalText": "グレイオス",
-    "Text": ""
+    "Text": "Grayous",
+	"Enabled": true
   },
   "184921": {
     "OriginalText": "グレイオスS型",
-    "Text": ""
+    "Text": "Grayous S-Type",
+	"Enabled": true
   },
   "184930": {
     "OriginalText": "アルテイオス",
-    "Text": ""
+    "Text": "Altayous",
+	"Enabled": true
   },
   "185000": {
     "OriginalText": "最弱点",
@@ -828,7 +852,7 @@
   },
   "185120": {
     "OriginalText": "ギガティオン",
-    "Text": "Gigantion",
+    "Text": "Gigation",
     "Enabled": true
   },
   "185130": {
@@ -860,7 +884,8 @@
   },
   "185220": {
     "OriginalText": "デェフキュオネ",
-    "Text": ""
+    "Text": "Defcyone",
+	"Enabled": true
   },
   "185310": {
     "OriginalText": "リ・ゲンテ",
