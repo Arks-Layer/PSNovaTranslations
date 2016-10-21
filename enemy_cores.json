@@ -140,7 +140,8 @@
   },
   "110033": {
     "OriginalText": "シルブカーネベア・コア",
-    "Text": ""
+    "Text": "Sirbucarnne Bear Core",
+	"Enabled": true
   },
   "110034": {
     "OriginalText": "ラーアビアディノ・コア",
@@ -170,7 +171,8 @@
   },
   "110040": {
     "OriginalText": "マグネトアスの純コア",
-    "Text": ""
+    "Text": "Magnetoas' Pure Core",
+	"Enabled": true
   },
   "110041": {
     "OriginalText": "ベガルフ・コア",
@@ -239,7 +241,8 @@
   },
   "110056": {
     "OriginalText": "ゾンレイバンサー・コア",
-    "Text": "ゾンレイバンサー・コア"
+    "Text": "Dzongray Banther Core",
+	"Enabled": true
   },
   "110057": {
     "OriginalText": "ノイ・ウィンディラス・コア",
@@ -265,7 +268,8 @@
   },
   "110062": {
     "OriginalText": "テュルトアスの純コア",
-    "Text": ""
+    "Text": "Tulletoas' Pure Core",
+	"Enabled": true
   },
   "110063": {
     "OriginalText": "コパイエーデン・コア",
@@ -328,7 +332,8 @@
   },
   "110076": {
     "OriginalText": "ナールレイバンサー・コア",
-    "Text": ""
+    "Text": "Nalray Banther Core",
+	"Enabled": true
   },
   "110077": {
     "OriginalText": "ウィンディラス・コア",
@@ -337,7 +342,7 @@
   },
   "110078": {
     "OriginalText": "ヴァッドギオス・コア",
-    "Text": "Valle Dogios",
+    "Text": "Valle Dogios Core",
     "Enabled": true
   },
   "110079": {
@@ -361,7 +366,8 @@
   },
   "110083": {
     "OriginalText": "ゴルドスの純コア",
-    "Text": ""
+    "Text": "Gordes' Pure Core",
+	"Enabled": true
   },
   "110084": {
     "OriginalText": "アビアディノ・コア",
@@ -373,7 +379,8 @@
   },
   "110086": {
     "OriginalText": "ディゴルドスの純コア",
-    "Text": "ディゴルドスの純コア"
+    "Text": "Digordes' Pure Core",
+	"Enabled": true
   },
   "110087": {
     "OriginalText": "ポルトルリンプ・コア",
@@ -408,7 +415,8 @@
   },
   "110094": {
     "OriginalText": "ディートアスの純コア",
-    "Text": ""
+    "Text": "Ditoas' Pure Core",
+	"Enabled": true
   },
   "110095": {
     "OriginalText": "トルリンプ・コア",
@@ -434,7 +442,8 @@
   },
   "110100": {
     "OriginalText": "モストカーネベア・コア",
-    "Text": ""
+    "Text": "Mostcarnne Bear Core",
+	"Enabled": true
   },
   "110101": {
     "OriginalText": "マドアビアディノ・コア",
@@ -450,11 +459,12 @@
   },
   "110104": {
     "OriginalText": "ファラレイバンサー・コア",
-    "Text": ""
+    "Text": "Farahray Banther Core",
+	"Enabled": true
   },
   "110105": {
     "OriginalText": "フォードギオス・コア",
-    "Text": "Pho Dogios",
+    "Text": "Pho Dogios Core",
     "Enabled": true
   },
   "110106": {
@@ -476,7 +486,7 @@
   },
   "110110": {
     "OriginalText": "エアドギオス・コア",
-    "Text": "Air Dogios",
+    "Text": "Air Dogios Core",
     "Enabled": true
   },
   "110111": {
@@ -485,11 +495,13 @@
   },
   "110112": {
     "OriginalText": "ファンアフォルの純コア",
-    "Text": ""
+    "Text": "Fan'aphol's Pure Core",
+	"Enabled": true
   },
   "110113": {
     "OriginalText": "オルゴルドスの純コア",
-    "Text": ""
+    "Text": "Orgordes' Pure Core",
+	"Enabled": true
   },
   "110114": {
     "OriginalText": "ア・マクロージ・コア",
@@ -497,7 +509,8 @@
   },
   "110115": {
     "OriginalText": "ウィルアフォル・コア",
-    "Text": ""
+    "Text": "Viluaphol Core",
+	"Enabled": true
   },
   "110116": {
     "OriginalText": "レ・マクロージ・コア",
@@ -533,7 +546,7 @@
   },
   "110123": {
     "OriginalText": "Ｇキュクロナーダの純コア",
-    "Text": "G-Kuklonahda",
+    "Text": "G-Kuklonahda's Pure Core",
     "Enabled": true
   },
   "110124": {
@@ -588,15 +601,18 @@
   },
   "110134": {
     "OriginalText": "アグリオスの純コア",
-    "Text": ""
+    "Text": "Agrious's Pure Core",
+	"Enabled": true
   },
   "110135": {
     "OriginalText": "グレイオスの純コア",
-    "Text": ""
+    "Text": "Grayous' Pure Core",
+	"Enabled": true
   },
   "110136": {
     "OriginalText": "アルテイオスの純コア",
-    "Text": ""
+    "Text": "Altayous' Pure Core",
+	"Enabled": true
   },
   "110137": {
     "OriginalText": "エウリュードの純コア",
@@ -605,7 +621,8 @@
   },
   "110138": {
     "OriginalText": "ヴィヴリュードの純コア",
-    "Text": ""
+    "Text": "Vivurude's Pure Core",
+	"Enabled": true
   },
   "110139": {
     "OriginalText": "ガラティオンの純コア",
@@ -614,7 +631,7 @@
   },
   "110140": {
     "OriginalText": "ギガティオンの純コア",
-    "Text": "Gigantion's Pure Core",
+    "Text": "Gigation's Pure Core",
     "Enabled": true
   },
   "110141": {
@@ -629,7 +646,8 @@
   },
   "110143": {
     "OriginalText": "デェフキュオネの純コア",
-    "Text": ""
+    "Text": "Defcyone's Pure Core",
+	"Enabled": true
   },
   "110144": {
     "OriginalText": "ギュゲンテの純コア",
@@ -651,7 +669,8 @@
   },
   "110148": {
     "OriginalText": "アルテイオス・コア",
-    "Text": ""
+    "Text": "Altayous Core",
+	"Enabled": true
   },
   "110149": {
     "OriginalText": "バンサ・ブライネス・コア",
@@ -697,7 +716,8 @@
   },
   "110158": {
     "OriginalText": "ゴルドス・ビガオ・コア",
-    "Text": ""
+    "Text": "Gordes Bigaoh Core",
+	"Enabled": true
   },
   "110159": {
     "OriginalText": "ミステルン・オーロ・コア",
@@ -764,7 +784,8 @@
   },
   "110173": {
     "OriginalText": "レイバンサ・オクシ・コア",
-    "Text": ""
+    "Text": "Ray Banther Occi Core",
+	"Enabled": true
   },
   "110174": {
     "OriginalText": "マガヴルム・クロウ・コア",
