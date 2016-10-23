@@ -8,9 +8,9 @@ force/human,パルデス
 hunter/human,アンツ
 ranger/human,レデン
 ranger/human,ヴァン
-ranger/human,ソーマ
+ranger/human,Souma
 force/human,ヴィエナス
-mana/human,チャハール
+mana/human,Chaharu
 force/human,シタンバル
 mana/human,ラック
 hunter/human,ファンナス
@@ -28,7 +28,7 @@ force/human,クラスト
 force/human,レイジ
 force/human,レスタム
 mana/human,セドゥム
-hunter/human,ルーク
+hunter/human,Luke
 hunter/human,トレッティ
 hunter/human,ナハル
 hunter/human,アルフ

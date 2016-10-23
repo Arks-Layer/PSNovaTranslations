@@ -5,38 +5,38 @@
   },
   "200102": {
     "OriginalText": "仲間の捜索",
-    "Text": "",
-    "Enabled": false
+    "Text": "Searching for Comrades",
+    "Enabled": true
   },
   "200103": {
     "OriginalText": "グラン結晶を求めて",
-    "Text": "",
-    "Enabled": false
+    "Text": "Seeking Gran Crystal",
+    "Enabled": true
   },
   "200104": {
     "OriginalText": "グラン安定供給のために",
-    "Text": "",
-    "Enabled": false
+    "Text": "Stable Supply of Gran",
+    "Enabled": true
   },
   "200105": {
     "OriginalText": "雪辱の新兵器",
-    "Text": "",
-    "Enabled": false
+    "Text": "Vindication of New Weapons",
+    "Enabled": true
   },
   "200106": {
     "OriginalText": "リーティアのお願い",
-    "Text": "",
-    "Enabled": false
+    "Text": "Ask Rietheia",
+    "Enabled": true
   },
   "200107": {
     "OriginalText": "カリストの難題",
-    "Text": "",
-    "Enabled": false
+    "Text": "Callisto's Challenge",
+    "Enabled": true
   },
   "200108": {
     "OriginalText": "炎の脅威",
-    "Text": "",
-    "Enabled": false
+    "Text": "Threat of Fire",
+    "Enabled": true
   },
   "200109": {
     "OriginalText": "光線の猛威",
@@ -45,18 +45,18 @@
   },
   "200110": {
     "OriginalText": "ヨミの要求",
-    "Text": "",
-    "Enabled": false
+    "Text": "Yomi's Request",
+    "Enabled": true
   },
   "200111": {
     "OriginalText": "ヒュペリオンのこだわり",
-    "Text": "",
-    "Enabled": false
+    "Text": "Hyperion's Dedication",
+    "Enabled": true
   },
   "200112": {
     "OriginalText": "命令違反",
-    "Text": "",
-    "Enabled": false
+    "Text": "Disobeying Orders",
+    "Enabled": true
   },
   "200113": {
     "OriginalText": "不機嫌な砲塔",
@@ -65,13 +65,13 @@
   },
   "200114": {
     "OriginalText": "オルクスの特訓",
-    "Text": "",
-    "Enabled": false
+    "Text": "Orcus' Special Training",
+    "Enabled": true
   },
   "200115": {
     "OriginalText": "屈従の巨獣",
-    "Text": "",
-    "Enabled": false
+    "Text": "Monster Submission",
+    "Enabled": true
   },
   "200116": {
     "OriginalText": "新たな大砲",
@@ -145,8 +145,8 @@
   },
   "200130": {
     "OriginalText": "ユノの覚悟",
-    "Text": "",
-    "Enabled": false
+    "Text": "Juno's Resolution",
+    "Enabled": true
   },
   "200131": {
     "OriginalText": "果たすべき使命",
@@ -155,11 +155,11 @@
   },
   "200132": {
     "OriginalText": "惑星の未来",
-    "Text": "",
-    "Enabled": false
+    "Text": "The Planet's Future",
+    "Enabled": true
   },
   "200133": {
     "OriginalText": "約束の時",
-    "Text": "",
-    "Enabled": false
+    "Text": "Promise of Time",
+    "Enabled": true
   },
