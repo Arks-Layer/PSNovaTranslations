@@ -41,7 +41,7 @@
   "430008": {
     "OriginalText": "表示/非表示",
     "Text": "Show/Hide",
-    "Enabled": false
+    "Enabled": true
   },
   "430009": {
     "OriginalText": "階層切替",
@@ -75,13 +75,13 @@
   },
   "430015": {
     "OriginalText": "約束",
-    "Text": "",
-    "Enabled": false
+    "Text": "Promise",
+    "Enabled": true
   },
   "430016": {
     "OriginalText": "リスト表示",
-    "Text": "",
-    "Enabled": false
+    "Text": "List Display",
+    "Enabled": true
   },
   "430017": {
     "OriginalText": "試着",
@@ -110,8 +110,8 @@
   },
   "430022": {
     "OriginalText": "瞳カラー設定",
-    "Text": "",
-    "Enabled": false
+    "Text": "Eye Color Setting",
+    "Enabled": true
   },
   "430023": {
     "OriginalText": "まゆ選択",
@@ -125,23 +125,23 @@
   },
   "430025": {
     "OriginalText": "ヘアスタイル選択",
-    "Text": "",
-    "Enabled": false
+    "Text": "Hairstyle Selection",
+    "Enabled": true
   },
   "430026": {
     "OriginalText": "ヘアカラー設定",
-    "Text": "",
-    "Enabled": false
+    "Text": "Hair Color Settings",
+    "Enabled": true
   },
   "430027": {
     "OriginalText": "ヘッドパーツ選択",
-    "Text": "",
+    "Text": "Head Parts Selection",
     "Enabled": false
   },
   "430028": {
     "OriginalText": "ヘッドパーツカラー設定",
-    "Text": "",
-    "Enabled": false
+    "Text": "Head Parts Color Settings",
+    "Enabled": true
   },
   "430029": {
     "OriginalText": "コスチューム選択",
@@ -200,8 +200,8 @@
   },
   "430040": {
     "OriginalText": "ソート切替",
-    "Text": "",
-    "Enabled": false
+    "Text": "Sort Switching",
+    "Enabled": true
   },
   "430041": {
     "OriginalText": "移動",
@@ -225,8 +225,8 @@
   },
   "430045": {
     "OriginalText": "ステルス",
-    "Text": "",
-    "Enabled": false
+    "Text": "Stealth",
+    "Enabled": true
   },
   "430046": {
     "OriginalText": "設置完了",
@@ -235,13 +235,13 @@
   },
   "430047": {
     "OriginalText": "中止",
-    "Text": "",
-    "Enabled": false
+    "Text": "Stop",
+    "Enabled": true
   },
   "430048": {
     "OriginalText": "選択",
-    "Text": "",
-    "Enabled": false
+    "Text": "Option",
+    "Enabled": true
   },
   "430049": {
     "OriginalText": "情報表示ON/OFF",
@@ -260,8 +260,8 @@
   },
   "430052": {
     "OriginalText": "キャラクター表示",
-    "Text": "",
-    "Enabled": false
+    "Text": "Character Display",
+    "Enabled": true
   },
   "430053": {
     "OriginalText": "すべて自動選択",
@@ -280,7 +280,7 @@
   },
   "430056": {
     "OriginalText": "スキルボード切替",
-    "Text": "",
+    "Text": "Skill Board Switching",
     "Enabled": false
   },
   "430057": {
@@ -300,8 +300,8 @@
   },
   "430060": {
     "OriginalText": "カメラ初期化",
-    "Text": "",
-    "Enabled": false
+    "Text": "Camera Formatting",
+    "Enabled": true
   },
   "430061": {
     "OriginalText": "パーツ位置初期化",
@@ -310,18 +310,18 @@
   },
   "430062": {
     "OriginalText": "スキル表示",
-    "Text": "",
-    "Enabled": false
+    "Text": "Skills Display",
+    "Enabled": true
   },
   "430063": {
     "OriginalText": "退出",
-    "Text": "",
-    "Enabled": false
+    "Text": "Leave",
+    "Enabled": true
   },
   "430064": {
     "OriginalText": "コスチュームON/OFF",
-    "Text": "",
-    "Enabled": false
+    "Text": "Costume ON/OFF",
+    "Enabled": true
   },
   "430065": {
     "OriginalText": "燥作説明23",
