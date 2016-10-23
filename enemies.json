@@ -139,7 +139,7 @@
   },
   "181330": {
     "OriginalText": "フェブリルナ・ドラウ",
-    "Text": "Feburina Draal",
+    "Text": "Febriluna Draal",
     "Enabled": true
   },
   "181410": {
@@ -199,7 +199,7 @@
   },
   "181920": {
     "OriginalText": "フロベガルフ",
-    "Text": "Furobegulf",
+    "Text": "Flobegulf",
     "Enabled": true
   },
   "181930": {
@@ -229,7 +229,8 @@
   },
   "182120": {
     "OriginalText": "フロフォンベガルフ",
-    "Text": ""
+    "Text": "Flo Fonbegulf",
+	"Enabled": true
   },
   "182130": {
     "OriginalText": "フォンベガルフ・ライオ",
@@ -378,27 +379,33 @@
   },
   "182950": {
     "OriginalText": "ロザード・トカ",
-    "Text": ""
+    "Text": "Rozad Toqa",
+	"Enabled": true
   },
   "183010": {
     "OriginalText": "マフレザール",
-    "Text": ""
+    "Text": "Maphrezer",
+	"Enabled": true
   },
   "183020": {
     "OriginalText": "ヴィマフレザール",
-    "Text": ""
+    "Text": "Vi Maphrezer",
+	"Enabled": true
   },
   "183030": {
     "OriginalText": "エルマフレザール",
-    "Text": ""
+    "Text": "El Maphrezer",
+	"Enabled": true
   },
   "183040": {
     "OriginalText": "ウイマフレザール",
-    "Text": ""
+    "Text": "Huy Maphrezer",
+	"Enabled": true
   },
   "183050": {
     "OriginalText": "マフレザール・オリヴ",
-    "Text": ""
+    "Text": "Maphrezer Olive",
+	"Enabled": true
   },
   "183110": {
     "OriginalText": "ジュラキア",
@@ -427,43 +434,53 @@
   },
   "183210": {
     "OriginalText": "リバッツ",
-    "Text": ""
+    "Text": "Ribatts",
+	"Enabled": true
   },
   "183220": {
     "OriginalText": "グリバッツ",
-    "Text": ""
+    "Text": "Gribatts",
+	"Enabled": true
   },
   "183230": {
     "OriginalText": "バリバッツ",
-    "Text": ""
+    "Text": "Baribatts",
+	"Enabled": true
   },
   "183240": {
     "OriginalText": "ブリバッツ",
-    "Text": ""
+    "Text": "Bribatts",
+	"Enabled": true
   },
   "183250": {
     "OriginalText": "リバッツ・シル",
-    "Text": ""
+    "Text": "Ribatts Sill",
+	"Enabled": true
   },
   "183310": {
     "OriginalText": "グランブ",
-    "Text": ""
+    "Text": "Granb",
+	"Enabled": true
   },
   "183320": {
     "OriginalText": "ガーグランブ",
-    "Text": ""
+    "Text": "Gargranb",
+	"Enabled": true
   },
   "183330": {
     "OriginalText": "サフグランブ",
-    "Text": ""
+    "Text": "Sahugranb",
+	"Enabled": true
   },
   "183340": {
     "OriginalText": "パーグランブ",
-    "Text": ""
+    "Text": "Pergranb",
+	"Enabled": true
   },
   "183350": {
     "OriginalText": "グランブ・ダイ",
-    "Text": ""
+    "Text": "Granb Dai",
+	"Enabled": true
   },
   "183410": {
     "OriginalText": "バンクゥ",
@@ -491,23 +508,28 @@
   },
   "183510": {
     "OriginalText": "マクロージ",
-    "Text": ""
+    "Text": "Makroge",
+	"Enabled": true
   },
   "183520": {
     "OriginalText": "レ・マクロージ",
-    "Text": ""
+    "Text": "Le Makroge",
+	"Enabled": true
   },
   "183530": {
     "OriginalText": "ブ・マクロージ",
-    "Text": ""
+    "Text": "Bu Makroge",
+	"Enabled": true
   },
   "183540": {
     "OriginalText": "ア・マクロージ",
-    "Text": ""
+    "Text": "A Makroge",
+	"Enabled": true
   },
   "183550": {
     "OriginalText": "マクロージ・ネス",
-    "Text": ""
+    "Text": "Makroge Ness",
+	"Enabled": true
   },
   "183610": {
     "OriginalText": "アビアディノ",
