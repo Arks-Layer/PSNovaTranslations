@@ -47,11 +47,13 @@
   },
   "110011": {
     "OriginalText": "ダーカー・コア",
-    "Text": ""
+    "Text": "Darker Core",
+	"Enabled": true
   },
   "110012": {
     "OriginalText": "ギガンテス・コア",
-    "Text": "ギガンテス・コア"
+    "Text": "Gigantes Core",
+	"Enabled": true
   },
   "110013": {
     "OriginalText": "輝く結晶竜族・コア",
@@ -87,7 +89,8 @@
   },
   "110021": {
     "OriginalText": "深淵のダーカー・コア",
-    "Text": ""
+    "Text": "Darker Abyss Core",
+	"Enabled": true
   },
   "110022": {
     "OriginalText": "漆黒のダーカー・コア",
@@ -109,7 +112,8 @@
   },
   "110026": {
     "OriginalText": "マフレザール・コア",
-    "Text": ""
+    "Text": "Maphrezer Core",
+	"Enabled": true
   },
   "110027": {
     "OriginalText": "ジュラキア・コア",
@@ -131,7 +135,8 @@
   },
   "110031": {
     "OriginalText": "ヴィマフレザール・コア",
-    "Text": ""
+    "Text": "Vi Maphrezer Core",
+	"Enabled": true
   },
   "110032": {
     "OriginalText": "バレダイナス・コア",
@@ -162,7 +167,8 @@
   },
   "110038": {
     "OriginalText": "ガーグランブ・コア",
-    "Text": ""
+    "Text": "Gargranb Core",
+	"Enabled": true
   },
   "110039": {
     "OriginalText": "ラーバレダイナス・コア",
@@ -203,7 +209,8 @@
   },
   "110047": {
     "OriginalText": "サフグランブ・コア",
-    "Text": ""
+    "Text": "Sahugranb Core",
+	"Enabled": true
   },
   "110048": {
     "OriginalText": "マガヴルム・コア",
@@ -212,7 +219,8 @@
   },
   "110049": {
     "OriginalText": "リバッツ・コア",
-    "Text": ""
+    "Text": "Ribatts Core",
+	"Enabled": true
   },
   "110050": {
     "OriginalText": "ウィ・ロヴラッピー・コア",
@@ -229,7 +237,8 @@
   },
   "110053": {
     "OriginalText": "グリバッツ・コア",
-    "Text": ""
+    "Text": "Gribatts Core",
+	"Enabled": true
   },
   "110054": {
     "OriginalText": "スォロバンクゥ・コア",
@@ -251,11 +260,13 @@
   },
   "110058": {
     "OriginalText": "バリバッツ・コア",
-    "Text": ""
+    "Text": "Baribatts Core",
+	"Enabled": true
   },
   "110059": {
     "OriginalText": "グランブ・コア",
-    "Text": ""
+    "Text": "Granb Core",
+	"Enabled": true
   },
   "110060": {
     "OriginalText": "バリドランナ・コア",
@@ -297,7 +308,8 @@
   },
   "110068": {
     "OriginalText": "エルマフレザール・コア",
-    "Text": ""
+    "Text": "El Maphrezer Core",
+	"Enabled": true
   },
   "110069": {
     "OriginalText": "バオム・マガヴルム・コア",
@@ -362,7 +374,8 @@
   },
   "110082": {
     "OriginalText": "ウイマフレザール・コア",
-    "Text": ""
+    "Text": "Huy Maphrezer Core",
+	"Enabled": true
   },
   "110083": {
     "OriginalText": "ゴルドスの純コア",
@@ -388,12 +401,13 @@
   },
   "110088": {
     "OriginalText": "フロベガルフ・コア",
-    "Text": "Furobegulf Core",
+    "Text": "Flobegulf Core",
     "Enabled": true
   },
   "110089": {
     "OriginalText": "フロフォンベガルフ・コア",
-    "Text": ""
+    "Text": "FLo Fonbegulf Core",
+    "Enabled": true
   },
   "110090": {
     "OriginalText": "イエーデン・コア",
@@ -455,7 +469,8 @@
   },
   "110103": {
     "OriginalText": "ブリバッツ・コア",
-    "Text": ""
+    "Text": "Bribatts Core",
+	"Enabled": true
   },
   "110104": {
     "OriginalText": "ファラレイバンサー・コア",
@@ -474,7 +489,8 @@
   },
   "110107": {
     "OriginalText": "パーグランブ・コア",
-    "Text": ""
+    "Text": "Pergranb Core",
+	"Enabled": true
   },
   "110108": {
     "OriginalText": "イーグマンデル・コア",
@@ -482,7 +498,8 @@
   },
   "110109": {
     "OriginalText": "マクロージ・コア",
-    "Text": ""
+    "Text": "Makroge Core",
+	"Enabled": true
   },
   "110110": {
     "OriginalText": "エアドギオス・コア",
@@ -505,7 +522,8 @@
   },
   "110114": {
     "OriginalText": "ア・マクロージ・コア",
-    "Text": ""
+    "Text": "A Makroge Core",
+	"Enabled": true
   },
   "110115": {
     "OriginalText": "ウィルアフォル・コア",
@@ -514,11 +532,13 @@
   },
   "110116": {
     "OriginalText": "レ・マクロージ・コア",
-    "Text": ""
+    "Text": "Le Makroge Core",
+	"Enabled": true
   },
   "110117": {
     "OriginalText": "ブ・マクロージ・コア",
-    "Text": ""
+    "Text": "Bu Makroge Core",
+	"Enabled": true
   },
   "110118": {
     "OriginalText": "レ・エクセージＴ・コア",
@@ -698,11 +718,12 @@
   },
   "110154": {
     "OriginalText": "ロザード・トカ・コア",
-    "Text": ""
+    "Text": "Rozad Toqa Core",
+	"Enabled": true
   },
   "110155": {
     "OriginalText": "フェブリルナ・ドラウ・コア",
-    "Text": "Feburina Draal Core",
+    "Text": "Febriluna Draal Core",
     "Enabled": true
   },
   "110156": {
@@ -712,7 +733,8 @@
   },
   "110157": {
     "OriginalText": "マフレザール・オリヴ・コア",
-    "Text": ""
+    "Text": "Maphrezer Olive Core",
+	"Enabled": true
   },
   "110158": {
     "OriginalText": "ゴルドス・ビガオ・コア",
@@ -780,7 +802,8 @@
   },
   "110172": {
     "OriginalText": "リバッツ・シル・コア",
-    "Text": ""
+    "Text": "Ribatts Sill Core",
+	"Enabled": true
   },
   "110173": {
     "OriginalText": "レイバンサ・オクシ・コア",
@@ -794,7 +817,8 @@
   },
   "110175": {
     "OriginalText": "グランブ・ダイ・コア",
-    "Text": ""
+    "Text": "Granb Dai Core",
+	"Enabled": true
   },
   "110176": {
     "OriginalText": "マンデル・ナート・コア",
@@ -811,7 +835,8 @@
   },
   "110179": {
     "OriginalText": "マクロージ・ネス・コア",
-    "Text": ""
+    "Text": "Makroge Ness Core",
+	"Enabled": true
   },
   "110180": {
     "OriginalText": "エクセージＴ・ネス・コア",
@@ -819,7 +844,7 @@
   },
   "110181": {
     "OriginalText": "Ｇダガン・ネロ・コア",
-    "Text": "G-Dagan Nero",
+    "Text": "G-Dagan Nero Core",
     "Enabled": true
   },
   "110182": {
