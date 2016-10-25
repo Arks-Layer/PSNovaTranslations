@@ -71,7 +71,7 @@
   },
   "100010020050008": {
     "OriginalText": "これより、簡単な記憶確認を行います。",
-    "Text": "Let's briefly check to ensure your memories are in order;",
+    "Text": "Let's briefly check to ensure your memories are in order.",
     "Enabled": true
   },
   "100010020060008": {
@@ -101,7 +101,7 @@
   },
   "100010020110008": {
     "OriginalText": "あなたもそのひとりだったんですよ。",
-    "Text": "You and I are both of that crew.",
+    "Text": "You and I are both part of that crew.",
     "Enabled": true
   },
   "100010020120008": {
@@ -186,7 +186,7 @@
   },
   "100010020260008": {
     "OriginalText": "敬礼もちゃんと覚えていましたか！\n惑星探査隊オルターには独特の敬礼があって、\n新人さんには珍しいってよく言われますね。",
-    "Text": "Make sure you salute the Alter way out there!\n A lot of rookies get it wrong...",
+    "Text": "Make sure you salute the Alter way out there!\nA lot of rookies get it wrong...",
     "Enabled": true
   },
   "100010020270008": {
@@ -206,7 +206,7 @@
   },
   "100010030030004": {
     "OriginalText": "早速だが、お前の健康状態と\n戦闘技術を確認させてもらう。",
-    "Text": "I know it's sudden, but I'd like to\ndo a quick check of your heath\nand combat readiness.",
+    "Text": "I know it's sudden, but I'd like to\ndo a quick check of your health\nand combat readiness.",
     "Enabled": true
   },
   "100010030040004": {
@@ -231,7 +231,7 @@
   },
   "100010035030001": {
     "OriginalText": "カタいよー！ 訓練校同期の\nルティナさんに向かってそれはないでしょ！\nまったく真面目すぎんだよね、もう。",
-    "Text": "Relax! Lutina's not gonna come all the\nway from the training school just to scold\nat you! Come on, you're too serious.",
+    "Text": "Relax! Lutina's not gonna come all the\nway from the training school just to scold\nyou! Come on, you're too serious.",
     "Enabled": true
   },
   "100010035040001": {
@@ -246,12 +246,12 @@
   },
   "100010035060004": {
     "OriginalText": "隊長の前で敬礼拒否とはいい度胸だな！",
-    "Text": "You sure have guts, \nnot saluting to your captain!",
+    "Text": "You sure have guts,\nnot saluting to your captain!",
     "Enabled": true
   },
   "100010035070001": {
     "OriginalText": "ひっ！？ ヒルディア隊長！",
-    "Text": "Eeh!? Captain Hildia!",
+    "Text": "Eeh!? Captain Fildia!",
     "Enabled": true
   },
   "100010035080004": {
@@ -276,7 +276,7 @@
   },
   "100010035120004": {
     "OriginalText": "オレも堅苦しいのは好きじゃない。\n挨拶は『よっ！』でもいいぞ？",
-    "Text": "I don't like that kind of stuff.\nJust greet me with \"Hey!\" is fine.",
+    "Text": "I don't like that kind of stuff.\nJust greeting me with \"Hey!\" is fine.",
     "Enabled": true
   },
   "100010035130001": {
@@ -296,7 +296,7 @@
   },
   "100010035155001": {
     "OriginalText": "同期！ ただの同期！\n普通の同期ですからっ！！",
-    "Text": "Synch! Just a synch! \nNormal synchronization!!",
+    "Text": "Synch! Just a synch!\nNormal synchronization!!",
     "Enabled": true
   },
   "100010035160004": {
@@ -316,7 +316,7 @@
   },
   "100010040010007": {
     "OriginalText": "艦側面に被弾！\n惑星地表から攻撃を受けています！",
-    "Text": "The ship was hit on the side!\nWe are under attack from the planets surface!",
+    "Text": "The ship was hit on the side!\nWe are under attack from the planet's surface!",
     "Enabled": true
   },
   "100010040020014": {
@@ -401,7 +401,7 @@
   },
   "100010050040005": {
     "OriginalText": "出力が足りません、\n姿勢と角度維持が限界です……！",
-    "Text": "We can't! \nThe ship's engines are at their limits just maintaining the angles!",
+    "Text": "We can't!\nThe ship's engines are at their limits just maintaining the angles!",
     "Enabled": true
   },
   "100010050050007": {
@@ -416,7 +416,7 @@
   },
   "100010050070005": {
     "OriginalText": "くっ、何か手は……？",
-    "Text": "Damn it! nIs there another way?-",
+    "Text": "Damn it!\nIs there another way?-",
     "Enabled": true
   },
   "100010050080014": {
@@ -456,7 +456,7 @@
   },
   "100010060030007": {
     "OriginalText": "各セクション、\n被害状況を早急に確認、報告しなさい。",
-    "Text": "All sections, \nplease report all damages as soon as possible.",
+    "Text": "All sections,\nplease report all damages as soon as possible.",
     "Enabled": true
   },
   "100010060040014": {
@@ -496,12 +496,12 @@
   },
   "100010060110014": {
     "OriginalText": "キサラ、動ける人員を集めてくれ。\nこの[ruby ほし]惑星[/ruby]との[ruby いくさ]戦[/ruby]を始めるぞ！",
-    "Text": "Kisara, gather all available personel.\nLet's begin our activities on this planet!",
+    "Text": "Kisara, gather all available personnel.\nLet's begin our activities on this planet!",
     "Enabled": true
   },
   "100010060120007": {
     "OriginalText": "はい。艦内、各位へ。戦闘部隊、出撃準備！ \n艦周辺エリアの調査、警戒を開始します！",
-    "Text": "Yes sir. To all personel.\nCombat troops, prepare for sortie!\nCommence investigations on all areas surrounding our ship!",
+    "Text": "Yes sir. To all personnel.\nCombat troops, prepare for sortie!\nCommence investigations on all areas surrounding our ship!",
     "Enabled": true
   }
 }
