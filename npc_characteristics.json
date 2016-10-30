@@ -40,15 +40,18 @@
   },
   "520008": {
     "OriginalText": "リーダー気質",
-    "Text": ""
+    "Text": "Natural Leader",
+	"Enabled": true
   },
   "520009": {
     "OriginalText": "ブリッジクルー",
-    "Text": ""
+    "Text": "Bridge Crew",
+	"Enabled": true
   },
   "520010": {
     "OriginalText": "サポートスタッフ",
-    "Text": ""
+    "Text": "Support Staff",
+	"Enabled": true
   },
   "520011": {
     "OriginalText": "好戦的",
@@ -99,11 +102,13 @@
   },
   "520023": {
     "OriginalText": "スロースターター",
-    "Text": ""
+    "Text": "Slow Starter",
+	"Enabled": true
   },
   "520024": {
     "OriginalText": "ヒーロー気取り",
-    "Text": ""
+    "Text": "Wannabe Hero",
+	"Enabled": true
   },
   "520025": {
     "OriginalText": "常に寝不足",
@@ -115,7 +120,8 @@
   },
   "520027": {
     "OriginalText": "人気者",
-    "Text": ""
+    "Text": "Popular",
+	"Enabled": true
   },
   "520028": {
     "OriginalText": "友情に熱い",
@@ -123,7 +129,8 @@
   },
   "520029": {
     "OriginalText": "ツンデレ",
-    "Text": ""
+    "Text": "Tsundere",
+	"Enabled": true
   },
   "520030": {
     "OriginalText": "人見知り",
@@ -131,7 +138,8 @@
   },
   "520031": {
     "OriginalText": "ロンリーウルフ",
-    "Text": ""
+    "Text": "Lone Wolf",
+	"Enabled": true
   },
   "520032": {
     "OriginalText": "努力家",
@@ -234,7 +242,8 @@
   },
   "520061": {
     "OriginalText": "熱血漢",
-    "Text": ""
+    "Text": "Hot-Blooded",
+	"Enabled": true
   },
   "520062": {
     "OriginalText": "いくじなし",
@@ -264,7 +273,8 @@
   },
   "520068": {
     "OriginalText": "ケガが多い",
-    "Text": ""
+    "Text": "Easily Damaged",
+	"Enabled": true
   },
   "520069": {
     "OriginalText": "反射神経抜群",
@@ -284,7 +294,8 @@
   },
   "520073": {
     "OriginalText": "打撃自慢",
-    "Text": ""
+    "Text": "Batting Pride",
+	"Enabled": true
   },
   "520074": {
     "OriginalText": "射撃王",
