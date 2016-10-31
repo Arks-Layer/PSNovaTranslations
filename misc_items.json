@@ -55,15 +55,18 @@
   },
   "350011": {
     "OriginalText": "爬虫類のたまご",
-    "Text": ""
+    "Text": "Reptile Eggs",
+	"Enabled": true
   },
   "350012": {
     "OriginalText": "竜族のたまご",
-    "Text": ""
+    "Text": "Dragonkin Eggs",
+	"Enabled": true
   },
   "350013": {
     "OriginalText": "獣の肉",
-    "Text": ""
+    "Text": "Monster Flesh",
+	"Enabled": true
   },
   "350014": {
     "OriginalText": "ロヴラッピーの肉",
@@ -72,23 +75,28 @@
   },
   "350015": {
     "OriginalText": "巨大獣の肉",
-    "Text": ""
+    "Text": "Giant Monster Meat",
+	"Enabled": true
   },
   "350016": {
     "OriginalText": "鳥の肉",
-    "Text": ""
+    "Text": "Bird Meat",
+	"Enabled": true
   },
   "350017": {
     "OriginalText": "竜族の肉",
-    "Text": ""
+    "Text": "Dragonkin Meat",
+	"Enabled": true
   },
   "350018": {
     "OriginalText": "爬虫類の肉",
-    "Text": ""
+    "Text": "Reptile Meat",
+	"Enabled": true
   },
   "350019": {
     "OriginalText": "ジュラキアの軟骨",
-    "Text": ""
+    "Text": "Jurakia Cartilage",
+	"Enabled": true
   },
   "350020": {
     "OriginalText": "トルリンプの肉",
@@ -96,19 +104,23 @@
   },
   "350021": {
     "OriginalText": "貝",
-    "Text": ""
+    "Text": "Shellfish",
+	"Enabled": true
   },
   "350022": {
     "OriginalText": "爬虫類の尻尾",
-    "Text": ""
+    "Text": "Reptile Tail",
+	"Enabled": true
   },
   "350023": {
     "OriginalText": "爬虫類のトサカ",
-    "Text": ""
+    "Text": "Reptile Crest",
+	"Enabled": true
   },
   "350024": {
     "OriginalText": "苔",
-    "Text": ""
+    "Text": "Moss",
+	"Enabled": true
   },
   "350025": {
     "OriginalText": "大きなきのこ",
@@ -128,7 +140,8 @@
   },
   "350029": {
     "OriginalText": "アルキュオネのゼリー",
-    "Text": ""
+    "Text": "Alcyone's Jelly",
+	"Enabled": true
   },
   "350030": {
     "OriginalText": "マガヴルムのねばねば",
@@ -847,7 +860,8 @@
   },
   "350205": {
     "OriginalText": "アルキュオネの浮遊装置",
-    "Text": ""
+    "Text": "Alcyone's Floatation Device",
+	"Enabled": true
   },
   "350206": {
     "OriginalText": "ギガンテスの皮片",
