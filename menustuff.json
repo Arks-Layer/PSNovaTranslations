@@ -155,8 +155,8 @@
   },
   "11017": {
     "OriginalText": "タイトルへ",
-    "Text": "",
-    "Enabled": false
+    "Text": "To Title",
+    "Enabled": true
   },
   "11018": {
     "OriginalText": "パーティー解散",
@@ -365,8 +365,8 @@
   },
   "20125": {
     "OriginalText": "装備メニューへ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Equip Menu",
+    "Enabled": true
   },
   "20126": {
     "OriginalText": "クラス変更を完了しました。\n\nクラスを変更したことで\n使用不能となった装備があります。",
@@ -375,13 +375,13 @@
   },
   "20127": {
     "OriginalText": "ハンター用エクスキューブ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Hunter Excube",
+    "Enabled": true
   },
   "20128": {
     "OriginalText": "レンジャー用エクスキューブ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Ranger Excube",
+    "Enabled": true
   },
   "20129": {
     "OriginalText": "フォース用エクスキューブ",
@@ -400,8 +400,8 @@
   },
   "20132": {
     "OriginalText": "エクスキューブが完成しました。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Excube now complete.",
+    "Enabled": true
   },
   "20133": {
     "OriginalText": "倉庫に預けて戻る",
@@ -465,8 +465,8 @@
   },
   "20205": {
     "OriginalText": "３Ｄ確認する",
-    "Text": "",
-    "Enabled": false
+    "Text": "3D Confirm",
+    "Enabled": true
   },
   "20206": {
     "OriginalText": "リストに戻る",
@@ -500,8 +500,8 @@
   },
   "20212": {
     "OriginalText": "コンプリートボーナスをゲット",
-    "Text": "",
-    "Enabled": false
+    "Text": "Complete Bonus GET",
+    "Enabled": true
   },
   "20213": {
     "OriginalText": "報酬「",
@@ -510,18 +510,18 @@
   },
   "20214": {
     "OriginalText": "配属メニューへ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Assign Menu",
+    "Enabled": true
   },
   "20215": {
     "OriginalText": "シリーズ選択へ戻る",
-    "Text": "",
-    "Enabled": false
+    "Text": "Back to Selection",
+    "Enabled": true
   },
   "20216": {
     "OriginalText": "解凍クルー",
-    "Text": "",
-    "Enabled": false
+    "Text": "Defrost Crew",
+    "Enabled": true
   },
   "20217": {
     "OriginalText": "閉じる",
@@ -535,18 +535,18 @@
   },
   "20219": {
     "OriginalText": "コールドスリープは使用不能です",
-    "Text": "",
-    "Enabled": false
+    "Text": "Cold Sleep is Unavailable",
+    "Enabled": true
   },
   "20220": {
     "OriginalText": "解凍時に自動セーブされます。\n\nよろしいですか？",
-    "Text": "",
+    "Text": "Progress will automatically be\nsaved during defrosting.\nContinue?",
     "Enabled": false
   },
   "20221": {
     "OriginalText": "効果：",
-    "Text": "",
-    "Enabled": false
+    "Text": "Effect:",
+    "Enabled": true
   },
   "20222": {
     "OriginalText": "解凍する人数を選択してください。",
@@ -565,23 +565,23 @@
   },
   "20302": {
     "OriginalText": "武器パレット装備",
-    "Text": "",
-    "Enabled": false
+    "Text": "Equip Gran Arts",
+    "Enabled": true
   },
   "20303": {
     "OriginalText": "防具装備",
-    "Text": "",
-    "Enabled": false
+    "Text": "Equip Armor",
+    "Enabled": true
   },
   "20304": {
     "OriginalText": "コスチューム装備",
-    "Text": "",
-    "Enabled": false
+    "Text": "Equip Costume",
+    "Enabled": true
   },
   "20305": {
     "OriginalText": "サブパレット装備",
-    "Text": "",
-    "Enabled": false
+    "Text": "Subpallete Menu",
+    "Enabled": true
   },
   "20306": {
     "OriginalText": "サブパレット１",
@@ -610,13 +610,13 @@
   },
   "20311": {
     "OriginalText": "ギガンテスブラスト",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gigantes Blast",
+    "Enabled": true
   },
   "20312": {
     "OriginalText": "アクションを外しますか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "You wish to remove this action?",
+    "Enabled": true
   },
   "20313": {
     "OriginalText": "ギガンテス",
@@ -650,8 +650,8 @@
   },
   "20404": {
     "OriginalText": "お気に入り登録",
-    "Text": "",
-    "Enabled": false
+    "Text": "Save Bookmark",
+    "Enabled": true
   },
   "20405": {
     "OriginalText": "お気に入り解除",
@@ -670,17 +670,17 @@
   },
   "20408": {
     "OriginalText": "プレイ時間",
-    "Text": "",
-    "Enabled": false
+    "Text": "Play Time",
+    "Enabled": true
   },
   "20409": {
     "OriginalText": "マルチプレイ回数",
-    "Text": "",
-    "Enabled": false
+    "Text": "MP Play count",
+    "Enabled": true
   },
   "20410": {
     "OriginalText": "協力クリア回数",
-    "Text": "",
+    "Text": "Co-op clears",
     "Enabled": false
   },
   "20411": {
@@ -775,8 +775,8 @@
   },
   "20602": {
     "OriginalText": "作成する数を選択してください。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Select the amount you wish to create.",
+    "Enabled": true
   },
   "20603": {
     "OriginalText": "よろしいですか？",
@@ -820,38 +820,38 @@
   },
   "20704": {
     "OriginalText": "オペレーターの交代",
-    "Text": "",
-    "Enabled": false
+    "Text": "Change Operator",
+    "Enabled": true
   },
   "20705": {
     "OriginalText": "グラン精製",
-    "Text": "",
-    "Enabled": false
+    "Text": "Purify Gran",
+    "Enabled": true
   },
   "20706": {
     "OriginalText": "新兵器研究",
-    "Text": "",
-    "Enabled": false
+    "Text": "Research New Weapons",
+    "Enabled": true
   },
   "20707": {
     "OriginalText": "新武器研究",
-    "Text": "",
-    "Enabled": false
+    "Text": "Research New Weapons",
+    "Enabled": true
   },
   "20708": {
     "OriginalText": "観測装置研究",
-    "Text": "",
-    "Enabled": false
+    "Text": "Research Observation Device",
+    "Enabled": true
   },
   "20709": {
     "OriginalText": "大型パイル研究",
-    "Text": "",
-    "Enabled": false
+    "Text": "Research Piles",
+    "Enabled": true
   },
   "20710": {
     "OriginalText": "グランドライブ研究",
-    "Text": "",
-    "Enabled": false
+    "Text": "Research Gran",
+    "Enabled": true
   },
   "20711": {
     "OriginalText": "グランドライブの研究を開始しました。",
@@ -935,23 +935,23 @@
   },
   "20807": {
     "OriginalText": "コスト",
-    "Text": "",
-    "Enabled": false
+    "Text": "Cost",
+    "Enabled": true
   },
   "20901": {
     "OriginalText": "移動",
-    "Text": "",
-    "Enabled": false
+    "Text": "Move",
+    "Enabled": true
   },
   "20902": {
     "OriginalText": "回収",
-    "Text": "",
-    "Enabled": false
+    "Text": "Recovery",
+    "Enabled": true
   },
   "20903": {
     "OriginalText": "サイズ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Size",
+    "Enabled": true
   },
   "20904": {
     "OriginalText": "空き地",
@@ -1120,18 +1120,18 @@
   },
   "21020": {
     "OriginalText": "効果：",
-    "Text": "",
-    "Enabled": false
+    "Text": "Effect:",
+    "Enabled": true
   },
   "21101": {
     "OriginalText": "パーティーを結成",
-    "Text": "",
-    "Enabled": false
+    "Text": "Form Party",
+    "Enabled": true
   },
   "21102": {
     "OriginalText": "パーティーへ参加",
-    "Text": "",
-    "Enabled": false
+    "Text": "Join Party",
+    "Enabled": true
   },
   "21103": {
     "OriginalText": "メンバー決定を押すと\n現在のメンバーでパーティーを結成します。",
@@ -1780,8 +1780,8 @@
   },
   "21702": {
     "OriginalText": "情報",
-    "Text": "",
-    "Enabled": false
+    "Text": "Info",
+    "Enabled": true
   },
   "21703": {
     "OriginalText": "ノーマル",
@@ -1820,8 +1820,8 @@
   },
   "21710": {
     "OriginalText": "拠点に戻る",
-    "Text": "",
-    "Enabled": false
+    "Text": "Return to Base",
+    "Enabled": true
   },
   "21711": {
     "OriginalText": "コメント",
@@ -1845,8 +1845,8 @@
   },
   "21715": {
     "OriginalText": "あらすじ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Synopsis",
+    "Enabled": true
   },
   "21716": {
     "OriginalText": "地路選択",
@@ -1855,8 +1855,8 @@
   },
   "21717": {
     "OriginalText": "クエスト選択",
-    "Text": "",
-    "Enabled": false
+    "Text": "Quest Selection",
+    "Enabled": true
   },
   "21718": {
     "OriginalText": "パーティーからはずす",
@@ -1880,8 +1880,8 @@
   },
   "21722": {
     "OriginalText": "サブクルー",
-    "Text": "",
-    "Enabled": false
+    "Text": "Sub Crew",
+    "Enabled": true
   },
   "21723": {
     "OriginalText": "場所",
@@ -1915,28 +1915,28 @@
   },
   "21729": {
     "OriginalText": "レコード",
-    "Text": "",
-    "Enabled": false
+    "Text": "Record",
+    "Enabled": true
   },
   "21730": {
     "OriginalText": "ハンタータイプ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Hunter-type",
+    "Enabled": true
   },
   "21731": {
     "OriginalText": "レンジャータイプ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Ranger-type",
+    "Enabled": true
   },
   "21732": {
     "OriginalText": "フォースタイプ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Force-type",
+    "Enabled": true
   },
   "21733": {
     "OriginalText": "バスタータイプ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Buster-type",
+    "Enabled": true
   },
   "21734": {
     "OriginalText": "1st",
@@ -2005,8 +2005,8 @@
   },
   "21747": {
     "OriginalText": "クエスト状況",
-    "Text": "",
-    "Enabled": false
+    "Text": "Quest Status",
+    "Enabled": true
   },
   "21748": {
     "OriginalText": "このクエストを開始します。\nよろしいですか？",
@@ -2015,8 +2015,8 @@
   },
   "21749": {
     "OriginalText": "同行者",
-    "Text": "",
-    "Enabled": false
+    "Text": "Companions",
+    "Enabled": true
   },
   "21750": {
     "OriginalText": "クエストが選ばれました。",
@@ -2130,28 +2130,28 @@
   },
   "21901": {
     "OriginalText": "ブリッジへ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Bridge",
+    "Enabled": true
   },
   "21902": {
     "OriginalText": "コールドスリープルームへ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Cold Sleep Chamber",
+    "Enabled": true
   },
   "21903": {
     "OriginalText": "マルチプレイルームへ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Multiplayer Room",
+    "Enabled": true
   },
   "21904": {
     "OriginalText": "外へ出る（拠点に戻る)",
-    "Text": "",
-    "Enabled": false
+    "Text": "Go Out (Return to Base)",
+    "Enabled": true
   },
   "22001": {
     "OriginalText": "ショップを呼び出す",
-    "Text": "",
-    "Enabled": false
+    "Text": "Summon Shops",
+    "Enabled": true
   },
   "22002": {
     "OriginalText": "アイテムショップ",
@@ -2160,8 +2160,8 @@
   },
   "22003": {
     "OriginalText": "食堂",
-    "Text": "",
-    "Enabled": false
+    "Text": "Cafeteria",
+    "Enabled": true
   },
   "22004": {
     "OriginalText": "武器ショップ",
@@ -2190,28 +2190,28 @@
   },
   "22009": {
     "OriginalText": "ショップ端末",
-    "Text": "",
-    "Enabled": false
+    "Text": "Shop Terminal",
+    "Enabled": true
   },
   "22010": {
     "OriginalText": "ギガンテス捕獲所",
-    "Text": "",
-    "Enabled": false
+    "Text": "Captured Gigantes Plant",
+    "Enabled": true
   },
   "22011": {
     "OriginalText": "グランブースター",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gran Booster",
+    "Enabled": true
   },
   "22012": {
     "OriginalText": "エネミーレーダー",
-    "Text": "",
-    "Enabled": false
+    "Text": "Enemy Radar",
+    "Enabled": true
   },
   "22013": {
     "OriginalText": "バースト加速装置",
-    "Text": "",
-    "Enabled": false
+    "Text": "BURST Acceleration Device",
+    "Enabled": true
   },
   "22014": {
     "OriginalText": "アイテム探知装置",
@@ -2220,8 +2220,8 @@
   },
   "22015": {
     "OriginalText": "コア精錬所",
-    "Text": "",
-    "Enabled": false
+    "Text": "Core Refinery",
+    "Enabled": true
   },
   "22016": {
     "OriginalText": "シアタースコープ",
@@ -2230,8 +2230,8 @@
   },
   "22017": {
     "OriginalText": "倉庫",
-    "Text": "",
-    "Enabled": false
+    "Text": "Storage",
+    "Enabled": true
   },
   "22018": {
     "OriginalText": "探索隊司令部",
@@ -2545,8 +2545,8 @@
   },
   "22144": {
     "OriginalText": "ログにグランリンクを表示",
-    "Text": "ログにグランリンクを表示",
-    "Enabled": false
+    "Text": "Display Gran Link to the log",
+    "Enabled": true
   },
   "22145": {
     "OriginalText": "する",
@@ -2670,8 +2670,8 @@
   },
   "22169": {
     "OriginalText": "スキルボード切替え",
-    "Text": "スキルボード切替え",
-    "Enabled": false
+    "Text": "Skill Board Switching",
+    "Enabled": true
   },
   "22170": {
     "OriginalText": "ターゲットカーソルの選択方向",
@@ -2690,13 +2690,13 @@
   },
   "22201": {
     "OriginalText": "探索",
-    "Text": "探索",
-    "Enabled": false
+    "Text": "Search",
+    "Enabled": true
   },
   "22202": {
     "OriginalText": "探索エリア",
-    "Text": "探索エリア",
-    "Enabled": false
+    "Text": "Search Area",
+    "Enabled": true
   },
   "22203": {
     "OriginalText": "探索目的",
@@ -3030,8 +3030,8 @@
   },
   "22714": {
     "OriginalText": "ダメージコンバージョン",
-    "Text": "",
-    "Enabled": false
+    "Text": "Damage Conversion",
+    "Enabled": true
   },
   "22715": {
     "OriginalText": "クリティカルUP",
@@ -3385,18 +3385,18 @@
   },
   "23001": {
     "OriginalText": "スキルボード1",
-    "Text": "",
-    "Enabled": false
+    "Text": "Skill Board 1",
+    "Enabled": true
   },
   "23002": {
     "OriginalText": "スキルボード2",
-    "Text": "",
-    "Enabled": false
+    "Text": "Skill Board 2",
+    "Enabled": true
   },
   "23003": {
     "OriginalText": "スキルボード3",
-    "Text": "",
-    "Enabled": false
+    "Text": "Skill Board 3",
+    "Enabled": true
   },
   "23004": {
     "OriginalText": "セットスキル",
@@ -3580,8 +3580,8 @@
   },
   "24102": {
     "OriginalText": "スケープドールを使い復活 (所持 [e 00 00])",
-    "Text": "",
-    "Enabled": false
+    "Text": "Use Scape Doll(s) ([e 00 00])",
+    "Enabled": true
   },
   "24103": {
     "OriginalText": "拠点へ帰還する",
@@ -3590,13 +3590,13 @@
   },
   "24104": {
     "OriginalText": "スケープドールを使用して復活します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Revived using Scape Doll(s)",
+    "Enabled": true
   },
   "24105": {
     "OriginalText": "スケープドールを持っていません。",
-    "Text": "",
-    "Enabled": false
+    "Text": "You don't have a Scape Doll.",
+    "Enabled": true
   },
   "24106": {
     "OriginalText": "拠点に帰還します。",
