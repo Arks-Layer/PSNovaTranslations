@@ -310,13 +310,13 @@
   },
   "20114": {
     "OriginalText": "習得しました。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Learned.",
+    "Enabled": true
   },
   "20115": {
     "OriginalText": "レベルアップしました。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Leveled Up.",
+    "Enabled": true
   },
   "20116": {
     "OriginalText": "装備可能武器",
@@ -330,13 +330,13 @@
   },
   "20118": {
     "OriginalText": "クラスリスト",
-    "Text": "",
-    "Enabled": false
+    "Text": "Class List",
+    "Enabled": true
   },
   "20119": {
     "OriginalText": "属性耐性",
-    "Text": "",
-    "Enabled": false
+    "Text": "Attribute Resists",
+    "Enabled": true
   },
   "20120": {
     "OriginalText": "クラスを変更します。\n\nハンター\n\nよろしいですか？",
@@ -395,8 +395,8 @@
   },
   "20131": {
     "OriginalText": "このエクスキューブを作成します。\n\nよろしいですか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "This will create an Excube.\n\nAre you sure?",
+    "Enabled": true
   },
   "20132": {
     "OriginalText": "エクスキューブが完成しました。",
@@ -405,13 +405,13 @@
   },
   "20133": {
     "OriginalText": "倉庫に預けて戻る",
-    "Text": "",
-    "Enabled": false
+    "Text": "Deposit into Storage",
+    "Enabled": true
   },
   "20134": {
     "OriginalText": "アイテムパックがいっぱいなので倉庫に預けました。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Inventory was full, so item(s) were sent to storage.",
+    "Enabled": true
   },
   "20135": {
     "OriginalText": "グランアーツを習得",
@@ -505,8 +505,8 @@
   },
   "20213": {
     "OriginalText": "報酬「",
-    "Text": "",
-    "Enabled": false
+    "Text": "Reward 「",
+    "Enabled": true
   },
   "20214": {
     "OriginalText": "配属メニューへ",
@@ -525,8 +525,8 @@
   },
   "20217": {
     "OriginalText": "閉じる",
-    "Text": "",
-    "Enabled": false
+    "Text": "Close",
+    "Enabled": true
   },
   "20218": {
     "OriginalText": "コールドスリープカプセル",
@@ -685,8 +685,8 @@
   },
   "20411": {
     "OriginalText": "最終更新日",
-    "Text": "",
-    "Enabled": false
+    "Text": "Last Updated",
+    "Enabled": true
   },
   "20412": {
     "OriginalText": "なし",
@@ -720,8 +720,8 @@
   },
   "20506": {
     "OriginalText": "村料",
-    "Text": "",
-    "Enabled": false
+    "Text": "Materials",
+    "Enabled": true
   },
   "20507": {
     "OriginalText": "消耗品",
@@ -730,8 +730,8 @@
   },
   "20508": {
     "OriginalText": "補助アイテム",
-    "Text": "",
-    "Enabled": false
+    "Text": "Assist Items",
+    "Enabled": true
   },
   "20509": {
     "OriginalText": "使う",
@@ -855,7 +855,7 @@
   },
   "20711": {
     "OriginalText": "グランドライブの研究を開始しました。",
-    "Text": "",
+    "Text": "Started Research on Gran.",
     "Enabled": false
   },
   "20712": {
@@ -1095,8 +1095,8 @@
   },
   "21015": {
     "OriginalText": "空き",
-    "Text": "",
-    "Enabled": false
+    "Text": "Empty",
+    "Enabled": true
   },
   "21016": {
     "OriginalText": "自動配属をおこないました。",
@@ -1140,8 +1140,8 @@
   },
   "21104": {
     "OriginalText": "メンバー決定",
-    "Text": "",
-    "Enabled": false
+    "Text": "Member Decision",
+    "Enabled": true
   },
   "21105": {
     "OriginalText": "パーティー集集中止",
@@ -1155,8 +1155,8 @@
   },
   "21107": {
     "OriginalText": "パーティーリスト",
-    "Text": "",
-    "Enabled": false
+    "Text": "Party List",
+    "Enabled": true
   },
   "21108": {
     "OriginalText": "リスト更新",
@@ -1315,7 +1315,7 @@
   },
   "21211": {
     "OriginalText": "発生している効果はありません。",
-    "Text": "There is no effect at the moment.",
+    "Text": "No Effects Active.",
     "Enabled": true
   },
   "21212": {
@@ -1390,43 +1390,43 @@
   },
   "21301": {
     "OriginalText": "ガッツ料理",
-    "Text": "",
-    "Enabled": false
+    "Text": "Guts Cuisine",
+    "Enabled": true
   },
   "21302": {
     "OriginalText": "スタミナ料理",
-    "Text": "",
-    "Enabled": false
+    "Text": "Stamina Cuisine",
+    "Enabled": true
   },
   "21303": {
     "OriginalText": "グルメ料理",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gourmet Cuisine",
+    "Enabled": true
   },
   "21304": {
     "OriginalText": "攻撃力up",
-    "Text": "",
-    "Enabled": false
+    "Text": "ATK UP",
+    "Enabled": true
   },
   "21305": {
     "OriginalText": "防御力up",
-    "Text": "",
-    "Enabled": false
+    "Text": "DEF UP",
+    "Enabled": true
   },
   "21306": {
     "OriginalText": "特殊効果up",
-    "Text": "",
-    "Enabled": false
+    "Text": "Special UP",
+    "Enabled": true
   },
   "21307": {
     "OriginalText": "この料理を注文します。\nよろしいですか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "This will order the dish.\nIs that ok?",
+    "Enabled": true
   },
   "21308": {
     "OriginalText": "ランク",
-    "Text": "",
-    "Enabled": false
+    "Text": "Rank",
+    "Enabled": true
   },
   "21309": {
     "OriginalText": "をおいしくいただいた。",
@@ -2100,8 +2100,8 @@
   },
   "21802": {
     "OriginalText": "発生している効果",
-    "Text": "",
-    "Enabled": false
+    "Text": "Active Effects",
+    "Enabled": true
   },
   "21803": {
     "OriginalText": "関連するプロミスオーダー",
@@ -2160,7 +2160,7 @@
   },
   "22003": {
     "OriginalText": "食堂",
-    "Text": "Cafeteria",
+    "Text": "Restaurant",
     "Enabled": true
   },
   "22004": {
@@ -2745,13 +2745,13 @@
   },
   "22212": {
     "OriginalText": "名",
-    "Text": "",
-    "Enabled": false
+    "Text": "Name",
+    "Enabled": true
   },
   "22213": {
     "OriginalText": "入手アイテム",
-    "Text": "",
-    "Enabled": false
+    "Text": "Available Items",
+    "Enabled": true
   },
   "22214": {
     "OriginalText": "疲労が回復するまで隊員数が滅ります。",
@@ -2865,8 +2865,8 @@
   },
   "22402": {
     "OriginalText": "コスチュームを作る",
-    "Text": "",
-    "Enabled": false
+    "Text": "Create a Costume",
+    "Enabled": true
   },
   "22403": {
     "OriginalText": "このコスチュームを作成します。\nよろしいですか？\n",
@@ -2880,23 +2880,23 @@
   },
   "22405": {
     "OriginalText": "チュートリアル",
-    "Text": "",
-    "Enabled": false
+    "Text": "Tutorial",
+    "Enabled": true
   },
   "22406": {
     "OriginalText": "メニューヘルプ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Help Menu",
+    "Enabled": true
   },
   "22407": {
     "OriginalText": "役立つ情報",
-    "Text": "",
-    "Enabled": false
+    "Text": "Help Info",
+    "Enabled": true
   },
   "22408": {
     "OriginalText": "カラー",
-    "Text": "",
-    "Enabled": false
+    "Text": "Color",
+    "Enabled": true
   },
   "22409": {
     "OriginalText": "キャスト(男性)",
@@ -3000,8 +3000,8 @@
   },
   "22708": {
     "OriginalText": "レアドロップUP",
-    "Text": "",
-    "Enabled": false
+    "Text": "Rare Drop UP",
+    "Enabled": true
   },
   "22709": {
     "OriginalText": "原生種出現",
@@ -3010,23 +3010,23 @@
   },
   "22710": {
     "OriginalText": "ダーカー出現",
-    "Text": "",
-    "Enabled": false
+    "Text": "Darker Apperance",
+    "Enabled": true
   },
   "22711": {
     "OriginalText": "ワンモアセット",
-    "Text": "",
-    "Enabled": false
+    "Text": "One More Set",
+    "Enabled": true
   },
   "22712": {
     "OriginalText": "ガッツ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Guts",
+    "Enabled": true
   },
   "22713": {
     "OriginalText": "ダメージカット",
-    "Text": "",
-    "Enabled": false
+    "Text": "Damage Cut",
+    "Enabled": true
   },
   "22714": {
     "OriginalText": "ダメージコンバージョン",
@@ -3035,13 +3035,13 @@
   },
   "22715": {
     "OriginalText": "クリティカルUP",
-    "Text": "",
-    "Enabled": false
+    "Text": "Critical UP",
+    "Enabled": true
   },
   "22716": {
     "OriginalText": "モータルブロウ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Mortal Blow",
+    "Enabled": true
   },
   "22717": {
     "OriginalText": "報酬：",
@@ -3050,8 +3050,8 @@
   },
   "22718": {
     "OriginalText": "イグニッション発動！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Ignition Trigger!",
+    "Enabled": true
   },
   "22719": {
     "OriginalText": "の通信が切断されました",
@@ -3065,13 +3065,13 @@
   },
   "22721": {
     "OriginalText": "バーストフィニッシュ",
-    "Text": "",
-    "Enabled": false
+    "Text": "BURST Finish",
+    "Enabled": true
   },
   "22722": {
     "OriginalText": "グランリンク",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gran Link",
+    "Enabled": true
   },
   "22723": {
     "OriginalText": "」を達成した。",
