@@ -349,7 +349,8 @@
   },
   "210131": {
     "OriginalText": "ジャッドバンサー討伐",
-    "Text": ""
+    "Text": "Subdue Jhad Banther",
+	"Enabled": true
   },
   "210132": {
     "OriginalText": "記録装置を回収しろ",
