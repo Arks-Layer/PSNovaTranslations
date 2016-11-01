@@ -539,19 +539,23 @@
   },
   "183610": {
     "OriginalText": "アビアディノ",
-    "Text": ""
+    "Text": "Aviadino",
+    "Enabled": true
   },
   "183620": {
     "OriginalText": "ラーアビアディノ",
-    "Text": ""
+    "Text": "Lar Aviadino",
+    "Enabled": true
   },
   "183630": {
     "OriginalText": "マドアビアディノ",
-    "Text": ""
+    "Text": "Mad Aviadino",
+    "Enabled": true
   },
   "183640": {
     "OriginalText": "アビアディノ・ロクサ",
-    "Text": ""
+    "Text": "Aviadino Roxa",
+    "Enabled": true
   },
   "183710": {
     "OriginalText": "バレダイナス",
