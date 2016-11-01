@@ -20,7 +20,7 @@
   },
   "430004": {
     "OriginalText": "情報切替",
-    "Text": "Switch info",
+    "Text": "Switch Info",
     "Enabled": true
   },
   "430005": {
@@ -65,7 +65,7 @@
   },
   "430013": {
     "OriginalText": "スキル一覧",
-    "Text": "Skills list",
+    "Text": "Skills List",
     "Enabled": true
   },
   "430014": {
@@ -85,7 +85,7 @@
   },
   "430017": {
     "OriginalText": "試着",
-    "Text": "Try on",
+    "Text": "Try On",
     "Enabled": true
   },
   "430018": {
@@ -95,12 +95,12 @@
   },
   "430019": {
     "OriginalText": "ボイス再生",
-    "Text": "Play voice",
+    "Text": "Play Voice",
     "Enabled": true
   },
   "430020": {
     "OriginalText": "編集取消",
-    "Text": "Cancel edits",
+    "Text": "Cancel Edits",
     "Enabled": true
   },
   "430021": {
