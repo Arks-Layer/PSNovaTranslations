@@ -484,27 +484,33 @@
   },
   "183410": {
     "OriginalText": "バンクゥ",
-    "Text": ""
+    "Text": "Bank",
+    "Enabled": true
   },
   "183420": {
     "OriginalText": "フレスバンクゥ",
-    "Text": ""
+    "Text": "Fresc Bank",
+    "Enabled": true
   },
   "183430": {
     "OriginalText": "ヴェンバンクゥ",
-    "Text": ""
+    "Text": "Venn Bank",
+    "Enabled": true
   },
   "183440": {
     "OriginalText": "トネルバンクゥ",
-    "Text": ""
+    "Text": "Toner Bank",
+    "Enabled": true
   },
   "183450": {
     "OriginalText": "スォロバンクゥ",
-    "Text": ""
+    "Text": "Swole Bank",
+    "Enabled": true
   },
   "183460": {
     "OriginalText": "バンクゥ・フリュ",
-    "Text": ""
+    "Text": "Bank Flu",
+    "Enabled": true
   },
   "183510": {
     "OriginalText": "マクロージ",
@@ -533,19 +539,23 @@
   },
   "183610": {
     "OriginalText": "アビアディノ",
-    "Text": ""
+    "Text": "Aviadino",
+    "Enabled": true
   },
   "183620": {
     "OriginalText": "ラーアビアディノ",
-    "Text": ""
+    "Text": "Lar Aviadino",
+    "Enabled": true
   },
   "183630": {
     "OriginalText": "マドアビアディノ",
-    "Text": ""
+    "Text": "Mad Aviadino",
+    "Enabled": true
   },
   "183640": {
     "OriginalText": "アビアディノ・ロクサ",
-    "Text": ""
+    "Text": "Aviadino Roxa",
+    "Enabled": true
   },
   "183710": {
     "OriginalText": "バレダイナス",
@@ -599,81 +609,98 @@
   },
   "183910": {
     "OriginalText": "トルリンプ",
-    "Text": ""
+    "Text": "Torrimp",
+    "Enable": true
   },
   "183920": {
     "OriginalText": "ロウトルリンプ",
-    "Text": ""
+    "Text": "Rol Torrimp",
+    "Enable": true
   },
   "183930": {
     "OriginalText": "ポルトルリンプ",
-    "Text": ""
+    "Text": "Pol Torrimp",
+    "Enable": true
   },
   "183940": {
     "OriginalText": "トルリンプ・ゴウル",
-    "Text": ""
+    "Text": "Torrimp Gorr",
+    "Enable": true
   },
   "184010": {
     "OriginalText": "エデルクリトロ",
-    "Text": ""
+    "Text": "Eder Critter",
+	 "Enabled": true
   },
   "184020": {
     "OriginalText": "スマラクリトロ",
-    "Text": ""
+    "Text": "Smar Critter",
+	 "Enabled": true
   },
   "184030": {
     "OriginalText": "オーニクリトロ",
-    "Text": ""
+    "Text": "Oni Critter",
+	 "Enabled": true
   },
   "184040": {
     "OriginalText": "クリトロ・テュルレ",
-    "Text": ""
+    "Text": "Critter True",
+    "Enabled": true
   },
   "184110": {
     "OriginalText": "エレマンデル",
-    "Text": ""
+    "Text": "Err Mandel",
+	 "Enabled": true
   },
   "184120": {
     "OriginalText": "テッラマンデル",
     "Text": "Terra Mandel",
-	"Enabled": true
+	 "Enabled": true
   },
   "184130": {
     "OriginalText": "イーグマンデル",
-    "Text": ""
+    "Text": "Eater Mandel",
+	 "Enabled": true
   },
   "184140": {
     "OriginalText": "マンデル・ナート",
     "Text": "Mandel Inert",
-	"Enabled": true
+	 "Enabled": true
   },
   "184210": {
     "OriginalText": "エクセージＴ",
-    "Text": ""
+    "Text": "Equsage T",
+	 "Enabled": true
   },
   "184220": {
     "OriginalText": "レ・エクセージＴ",
-    "Text": ""
+    "Text": "Le Equsage T",
+	 "Enabled": true
   },
   "184230": {
     "OriginalText": "エクセージＴ・ネス",
-    "Text": ""
+    "Text": "Equsage T Ness",
+	 "Enabled": true
   },
   "184310": {
     "OriginalText": "ミステルン",
-    "Text": ""
+    "Text": "Mysteron",
+	 "Enabled": true
   },
   "184320": {
     "OriginalText": "アガミステルン",
-    "Text": ""
+    "Text": "Aga Mysteron",
+	 "Enabled": true
   },
   "184330": {
     "OriginalText": "ラピミステルン",
-    "Text": ""
+    "Text": "Rappy Mysteron",
+	 "Enabled": true
   },
   "184340": {
     "OriginalText": "ミステルン・オーロ",
-    "Text": ""
+    "Text": "Mysteron Oro",
+	 "Enabled": true
   },
   "184410": {
     "OriginalText": "シルブカーネベア",
@@ -687,7 +714,8 @@
   },
   "184430": {
     "OriginalText": "オラルカーネベア",
-    "Text": ""
+    "Text": "Ololecarnne Bear",
+	 "Enabled": true
   },
   "184440": {
     "OriginalText": "モストカーネベア",
@@ -734,7 +762,8 @@
   },
   "184580": {
     "OriginalText": "ガトリング",
-    "Text": ""
+    "Text": "Gatoring",
+    "Enabled": true
   },
   "184610": {
     "OriginalText": "ディートアス",
@@ -753,7 +782,8 @@
   },
   "184640": {
     "OriginalText": "トアス・ヒュブオン",
-    "Text": ""
+    "Text": "Toas Biubon",
+    "Enabled": true
   },
   "184710": {
     "OriginalText": "ゴルドス",
@@ -822,11 +852,12 @@
   },
   "185000": {
     "OriginalText": "最弱点",
-    "Text": ""
+    "Text": "Weakest Point",
+	"Enabled": true
   },
   "185010": {
     "OriginalText": "エウリュード",
-    "Text": "Eurude",
+    "Text": "Elude",
     "Enabled": true
   },
   "185020": {
@@ -852,7 +883,8 @@
   },
   "185070": {
     "OriginalText": "コンテナ：ガトリング",
-    "Text": ""
+    "Text": "Gatorade",
+    "Enabled": true
   },
   "185080": {
     "OriginalText": "コンテナ：クロー",
@@ -895,7 +927,8 @@
   },
   "185145": {
     "OriginalText": "チェーンソー",
-    "Text": ""
+    "Text": "Chenso",
+    "Enabled": true
   },
   "185150": {
     "OriginalText": "アンカー発射装置",
@@ -913,75 +946,93 @@
   },
   "185310": {
     "OriginalText": "リ・ゲンテ",
-    "Text": ""
+    "Text": "Re Gent",
+    "Enabled": true
   },
   "185320": {
     "OriginalText": "セ・ゲンテ",
-    "Text": ""
+    "Text": "Se Gent",
+    "Enabled": true
   },
   "185330": {
     "OriginalText": "テ・ゲンテ",
-    "Text": ""
+    "Text": "Te Gent",
+    "Enabled": true
   },
   "185340": {
     "OriginalText": "ク・ゲンテ",
-    "Text": ""
+    "Text": "Ke Gent",
+    "Enabled": true
   },
   "185350": {
     "OriginalText": "キ・ゲンテ",
-    "Text": ""
+    "Text": "Ki Gent",
+    "Enabled": true
   },
   "185360": {
     "OriginalText": "ス・ゲンテ",
-    "Text": ""
+    "Text": "Su Gent",
+    "Enabled": true
   },
   "185370": {
     "OriginalText": "テ・ゲンテ",
-    "Text": ""
+    "Text": "Te Gent",
+    "Enabled": true
   },
   "185380": {
     "OriginalText": "ギュゲンテ",
-    "Text": ""
+    "Text": "Kyugent",
+    "Enabled": true
   },
   "185381": {
     "OriginalText": "キャノン砲",
-    "Text": ""
+    "Text": "Hou Cannon",
+    "Enabled": true
   },
   "185382": {
     "OriginalText": "ランチャー",
-    "Text": ""
+    "Text": "Launcher",
+    "Enabled": true
   },
   "185390": {
     "OriginalText": "エア・ゲンテ",
-    "Text": ""
+    "Text": "Eya Gent",
+    "Enabled": true
   },
   "185400": {
     "OriginalText": "ツヴ・ゲンテ",
-    "Text": ""
+    "Text": "Shiv Gent",
+    "Enabled": true
   },
   "185410": {
     "OriginalText": "ドリ・ゲンテ",
-    "Text": ""
+    "Text": "Dor Gent",
+    "Enabled": true
   },
   "185420": {
     "OriginalText": "フィ・ゲンテ",
-    "Text": ""
+    "Text": "Fi Gent",
+    "Enabled": true
   },
   "185430": {
     "OriginalText": "フュ・ゲンテ",
-    "Text": ""
+    "Text": "Few Gent",
+    "Enabled": true
   },
   "185440": {
     "OriginalText": "ゼク・ゲンテ",
-    "Text": ""
+    "Text": "Zek Gent",
+    "Enabled": true
   },
   "185450": {
     "OriginalText": "ズィ・ゲンテ",
-    "Text": ""
+    "Text": "Z Gent",
+    "Enabled": true
   },
   "185460": {
     "OriginalText": "リベルゲンテ",
-    "Text": ""
+    "Text": "Libel Gent",
+    "Enabled": true
   },
   "185510": {
     "OriginalText": "レイヴフース",
@@ -1008,7 +1059,8 @@
   },
   "185550": {
     "OriginalText": "ネメスヒュフテ",
-    "Text": ""
+    "Text": "Nemes Bufte",
+    "Enabled": true
   },
   "185560": {
     "OriginalText": "ネメスガイスト",
@@ -1022,7 +1074,8 @@
   },
   "185562": {
     "OriginalText": "二ードルガン",
-    "Text": ""
+    "Text": "Needle Gun",
+    "Enabled": true
   },
   "185563": {
     "OriginalText": "レーザー",
