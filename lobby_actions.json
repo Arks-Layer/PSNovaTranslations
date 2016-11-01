@@ -36,11 +36,13 @@
   },
   "600007": {
     "OriginalText": "挑発する",
-    "Text": ""
+    "Text": "Provocate",
+    "Enabled": true
   },
   "600008": {
     "OriginalText": "拍手",
-    "Text": ""
+    "Text": "Clap",
+    "Enabled": true
   },
   "600009": {
     "OriginalText": "キス",
@@ -64,7 +66,8 @@
   },
   "600013": {
     "OriginalText": "任せておけ！",
-    "Text": ""
+    "Text": "Leave it to me, OK!",
+    "Enabled": true
   },
   "600014": {
     "OriginalText": "喜ぶ",
@@ -78,11 +81,13 @@
   },
   "600016": {
     "OriginalText": "哀しい",
-    "Text": ""
+    "Text": "Happy",
+    "Enabled": true
   },
   "600017": {
     "OriginalText": "楽しい",
-    "Text": ""
+    "Text": "Sad",
+    "Enabled": true
   },
   "600018": {
     "OriginalText": "呆れ",
@@ -96,11 +101,13 @@
   },
   "600020": {
     "OriginalText": "驚く",
-    "Text": ""
+    "Text": "Surprise",
+    "Enabled": true
   },
   "600021": {
     "OriginalText": "地団太",
-    "Text": ""
+    "Text": "Impatient",
+    "Enabled": true
   },
   "600022": {
     "OriginalText": "泣く",
@@ -109,7 +116,8 @@
   },
   "600023": {
     "OriginalText": "座る１",
-    "Text": ""
+    "Text": "Sit 1",
+    "Enabled": true
   },
   "600024": {
     "OriginalText": "座る２",
@@ -118,7 +126,7 @@
   },
   "600025": {
     "OriginalText": "ベッド",
-    "Text": "Sit 2",
+    "Text": "Bed",
     "Enabled": true
   },
   "600026": {
