@@ -762,7 +762,8 @@
   },
   "184580": {
     "OriginalText": "ガトリング",
-    "Text": ""
+    "Text": "Gatoring",
+    "Enabled": true
   },
   "184610": {
     "OriginalText": "ディートアス",
@@ -851,11 +852,12 @@
   },
   "185000": {
     "OriginalText": "最弱点",
-    "Text": ""
+    "Text": "Weakest Point",
+	"Enabled": true
   },
   "185010": {
     "OriginalText": "エウリュード",
-    "Text": "Eurude",
+    "Text": "Elude",
     "Enabled": true
   },
   "185020": {
@@ -881,7 +883,8 @@
   },
   "185070": {
     "OriginalText": "コンテナ：ガトリング",
-    "Text": ""
+    "Text": "Gatoring Container",
+    "Enabled": true
   },
   "185080": {
     "OriginalText": "コンテナ：クロー",
@@ -924,7 +927,8 @@
   },
   "185145": {
     "OriginalText": "チェーンソー",
-    "Text": ""
+    "Text": "Chenso",
+    "Enabled": true
   },
   "185150": {
     "OriginalText": "アンカー発射装置",
@@ -1070,7 +1074,8 @@
   },
   "185562": {
     "OriginalText": "二ードルガン",
-    "Text": ""
+    "Text": "Needle Gun",
+    "Enabled": true
   },
   "185563": {
     "OriginalText": "レーザー",
