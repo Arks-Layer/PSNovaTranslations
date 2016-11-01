@@ -942,75 +942,93 @@
   },
   "185310": {
     "OriginalText": "リ・ゲンテ",
-    "Text": ""
+    "Text": "Re Gent",
+    "Enabled": true
   },
   "185320": {
     "OriginalText": "セ・ゲンテ",
-    "Text": ""
+    "Text": "Se Gent",
+    "Enabled": true
   },
   "185330": {
     "OriginalText": "テ・ゲンテ",
-    "Text": ""
+    "Text": "Te Gent",
+    "Enabled": true
   },
   "185340": {
     "OriginalText": "ク・ゲンテ",
-    "Text": ""
+    "Text": "Ke Gent",
+    "Enabled": true
   },
   "185350": {
     "OriginalText": "キ・ゲンテ",
-    "Text": ""
+    "Text": "Ki Gent",
+    "Enabled": true
   },
   "185360": {
     "OriginalText": "ス・ゲンテ",
-    "Text": ""
+    "Text": "Su Gent",
+    "Enabled": true
   },
   "185370": {
     "OriginalText": "テ・ゲンテ",
-    "Text": ""
+    "Text": "Te Gent",
+    "Enabled": true
   },
   "185380": {
     "OriginalText": "ギュゲンテ",
-    "Text": ""
+    "Text": "Kyugent",
+    "Enabled": true
   },
   "185381": {
     "OriginalText": "キャノン砲",
-    "Text": ""
+    "Text": "Hou Cannon",
+    "Enabled": true
   },
   "185382": {
     "OriginalText": "ランチャー",
-    "Text": ""
+    "Text": "Launcher",
+    "Enabled": true
   },
   "185390": {
     "OriginalText": "エア・ゲンテ",
-    "Text": ""
+    "Text": "Eya Gent",
+    "Enabled": true
   },
   "185400": {
     "OriginalText": "ツヴ・ゲンテ",
-    "Text": ""
+    "Text": "Shiv Gent",
+    "Enabled": true
   },
   "185410": {
     "OriginalText": "ドリ・ゲンテ",
-    "Text": ""
+    "Text": "Dor Gent",
+    "Enabled": true
   },
   "185420": {
     "OriginalText": "フィ・ゲンテ",
-    "Text": ""
+    "Text": "Fi Gent",
+    "Enabled": true
   },
   "185430": {
     "OriginalText": "フュ・ゲンテ",
-    "Text": ""
+    "Text": "Few Gent",
+    "Enabled": true
   },
   "185440": {
     "OriginalText": "ゼク・ゲンテ",
-    "Text": ""
+    "Text": "Zek Gent",
+    "Enabled": true
   },
   "185450": {
     "OriginalText": "ズィ・ゲンテ",
-    "Text": ""
+    "Text": "Z Gent",
+    "Enabled": true
   },
   "185460": {
     "OriginalText": "リベルゲンテ",
-    "Text": ""
+    "Text": "Libel Gent",
+    "Enabled": true
   },
   "185510": {
     "OriginalText": "レイヴフース",
