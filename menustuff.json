@@ -405,7 +405,7 @@
   },
   "20133": {
     "OriginalText": "倉庫に預けて戻る",
-    "Text": "Deposit into Storage",
+    "Text": "Deposit Into Storage",
     "Enabled": true
   },
   "20134": {
@@ -1470,12 +1470,12 @@
   },
   "21501": {
     "OriginalText": "アイテムパックを開く",
-    "Text": "Send to Storage",
+    "Text": "Send To Storage",
     "Enabled": true
   },
   "21502": {
     "OriginalText": "通常倉庫を開く",
-    "Text": "Withdraw from Storage",
+    "Text": "Withdraw From Storage",
     "Enabled": true
   },
   "21503": {
