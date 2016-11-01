@@ -3400,13 +3400,13 @@
   },
   "23004": {
     "OriginalText": "セットスキル",
-    "Text": "",
-    "Enabled": false
+    "Text": "Set Skill",
+    "Enabled": true
   },
   "23005": {
     "OriginalText": "コンボスキル",
-    "Text": "",
-    "Enabled": false
+    "Text": "Combo Skill",
+    "Enabled": true
   },
   "23006": {
     "OriginalText": "発現するコンボスキルはありません。",
