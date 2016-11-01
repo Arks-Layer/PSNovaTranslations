@@ -669,15 +669,18 @@
   },
   "184210": {
     "OriginalText": "エクセージＴ",
-    "Text": ""
+    "Text": "Equsage T",
+	 "Enabled": true
   },
   "184220": {
     "OriginalText": "レ・エクセージＴ",
-    "Text": ""
+    "Text": "Le Equsage T",
+	 "Enabled": true
   },
   "184230": {
     "OriginalText": "エクセージＴ・ネス",
-    "Text": ""
+    "Text": "Equsage T Ness",
+	 "Enabled": true
   },
   "184310": {
     "OriginalText": "ミステルン",
