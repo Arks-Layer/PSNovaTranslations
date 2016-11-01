@@ -224,7 +224,8 @@
   },
   "350049": {
     "OriginalText": "樹木状の鉱物",
-    "Text": ""
+    "Text": "Dendritic Material",
+	"Enabled": true
   },
   "350050": {
     "OriginalText": "ラコニア金属",
