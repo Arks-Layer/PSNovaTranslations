@@ -1037,7 +1037,8 @@
   },
   "185550": {
     "OriginalText": "ネメスヒュフテ",
-    "Text": ""
+    "Text": "Nemes Bufte",
+    "Enabled": true
   },
   "185560": {
     "OriginalText": "ネメスガイスト",
