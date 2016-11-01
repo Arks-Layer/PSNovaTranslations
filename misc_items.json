@@ -593,7 +593,8 @@
   },
   "350138": {
     "OriginalText": "Ｇキュクロナーダの鱗片",
-    "Text": ""
+    "Text": "G-Kuklonahda Scale",
+    "Enabled": true
   },
   "350139": {
     "OriginalText": "ダーカーの皮片",
@@ -609,19 +610,23 @@
   },
   "350142": {
     "OriginalText": "Ｇクラーダの脚片",
-    "Text": ""
+    "Text": "G-Krahda Leg",
+    "Enabled": true
   },
   "350143": {
     "OriginalText": "Ｇダガンの脚片",
-    "Text": ""
+    "Text": "G-Dagan Leg",
+    "Enabled": true
   },
   "350144": {
     "OriginalText": "Ｇプレディカーダの刃片",
-    "Text": ""
+    "Text": "G-Predicahda Blade",
+    "Enabled": true
   },
   "350145": {
     "OriginalText": "Ｇキュクロナーダの目片",
-    "Text": ""
+    "Text": "G-Kuklonahda Eye",
+    "Enabled": true
   },
   "350146": {
     "OriginalText": "アルマラッピーの羽",
@@ -629,11 +634,13 @@
   },
   "350147": {
     "OriginalText": "Ｇクラーダの甲殻",
-    "Text": ""
+    "Text": "G-Krahda Shell",
+    "Enabled": true
   },
   "350148": {
     "OriginalText": "Ｇダガンの甲殻",
-    "Text": ""
+    "Text": "G-Dagan Shell",
+    "Enabled": true
   },
   "350149": {
     "OriginalText": "Ｇプレディカーダの脚",
@@ -728,7 +735,8 @@
   },
   "350171": {
     "OriginalText": "マフレザールの皮片",
-    "Text": ""
+    "Text": "Maphrezer Pelt",
+    "Enabled": true
   },
   "350172": {
     "OriginalText": "ジュラキアの大羽",
@@ -740,11 +748,13 @@
   },
   "350174": {
     "OriginalText": "テッラマンデルの鱗片",
-    "Text": ""
+    "Text": "Terra Mandel Scale",
+    "Enabled": true
   },
   "350175": {
     "OriginalText": "Ｇミクダの脚片",
-    "Text": ""
+    "Text": "G-Micda Leg",
+    "Enabled": true
   },
   "350176": {
     "OriginalText": "Ｇエル・アーダの針片",
@@ -901,7 +911,8 @@
   },
   "350214": {
     "OriginalText": "テュルトアスの皮片",
-    "Text": ""
+    "Text": "Tulletoas Pelt",
+    "Enabled": true
   },
   "350215": {
     "OriginalText": "アルキュオネの手片",
@@ -1001,7 +1012,8 @@
   },
   "350239": {
     "OriginalText": "アセラビーソの刃片",
-    "Text": ""
+    "Text": "Ase Rabbis Blade",
+    "Enabled": true
   },
   "350240": {
     "OriginalText": "エデルクリトロの爪片",
@@ -1017,11 +1029,13 @@
   },
   "350243": {
     "OriginalText": "ディートアスの皮片",
-    "Text": ""
+    "Text": "Ditoas Pelt",
+    "Enabled": true
   },
   "350244": {
     "OriginalText": "Ｇエル・ダガンの脚片",
-    "Text": ""
+    "Text": "G-El Dagan Leg",
+    "Enabled": true
   },
   "350245": {
     "OriginalText": "Ｇダーガッシュの歯片",
@@ -1133,7 +1147,8 @@
   },
   "350272": {
     "OriginalText": "ヴィマフレザールの皮片",
-    "Text": ""
+    "Text": "Vi Maphrezer Pelt",
+    "Enabled": true
   },
   "350273": {
     "OriginalText": "バレダイナスの銃片",
@@ -1453,7 +1468,8 @@
   },
   "350352": {
     "OriginalText": "ラビーソの刃片",
-    "Text": ""
+    "Text": "Rabbis Blade",
+    "Enabled": true
   },
   "350353": {
     "OriginalText": "レイバンサーの駆動銃座",
@@ -2613,7 +2629,8 @@
   },
   "350642": {
     "OriginalText": "Ｇダガン・ネロの甲殻",
-    "Text": ""
+    "Text": "G-Dagan Nero Shell",
+    "Enabled": true
   },
   "350643": {
     "OriginalText": "結晶竜族のしっぽ",
