@@ -260,33 +260,33 @@
   },
   "20104": {
     "OriginalText": "炎属性テクニック",
-    "Text": "Fire Techniques",
-    "Enabled": true
+    "Text": "",
+    "Enabled": false
   },
   "20105": {
     "OriginalText": "氷属性テクニック",
-    "Text": "Ice Techniques",
-    "Enabled": true
+    "Text": "",
+    "Enabled": false
   },
   "20106": {
     "OriginalText": "雷属性テクニック",
-    "Text": "Lightning Techniques",
-    "Enabled": true
+    "Text": "",
+    "Enabled": false
   },
   "20107": {
     "OriginalText": "風属性テクニック",
-    "Text": "Wind Techniques",
-    "Enabled": true
+    "Text": "",
+    "Enabled": false
   },
   "20108": {
     "OriginalText": "光属性テクニック",
-    "Text": "Light Techniques",
-    "Enabled": true
+    "Text": "",
+    "Enabled": false
   },
   "20109": {
     "OriginalText": "闇属性テクニック",
-    "Text": "Dark Techniques",
-    "Enabled": true
+    "Text": "",
+    "Enabled": false
   },
   "20110": {
     "OriginalText": "この技を習得しますか？",
@@ -561,7 +561,7 @@
   "20301": {
     "OriginalText": "武器装備",
     "Text": "Equip Weapon",
-    "Enabled": true
+    "Enabled": false
   },
   "20302": {
     "OriginalText": "武器パレット装備",
@@ -740,7 +740,7 @@
   },
   "20510": {
     "OriginalText": "倉庫に預ける( [e 02 00]/[e 03 00] )",
-    "Text": "Deposit To Storage Box: ([e 02 00]/[e 03 00])",
+    "Text": "Deposit to Storage Box: ([e 02 00]/[e 03 00])",
     "Enabled": true
   },
   "20511": {
@@ -1485,8 +1485,8 @@
   },
   "21504": {
     "OriginalText": "取り出す( [e 00 00]/[e 01 00] )",
-    "Text": "Retrieve ( [e 00 00]/[e 01 00] )",
-    "Enabled": true
+    "Text": "",
+    "Enabled": false
   },
   "21505": {
     "OriginalText": "アイテムパックへ取り出す( [e 00 00]/[e 01 00] )",
@@ -1705,8 +1705,8 @@
   },
   "21636": {
     "OriginalText": "特殊能力の効果",
-    "Text": "Special Ability Effects",
-    "Enabled": true
+    "Text": "",
+    "Enabled": false
   },
   "21637": {
     "OriginalText": "一時倉庫にアイテムが入っているため\nアクセスできません。\n一時倉庫を空にする必要があります。",
@@ -1715,7 +1715,7 @@
   },
   "21638": {
     "OriginalText": "アタッチパーツを保存せずに戻りますか？",
-    "Text": "Go back without saving Attachments?",
+    "Text": "Go back without saving attachments?",
     "Enabled": true
   },
   "21639": {
@@ -2340,7 +2340,7 @@
   },
   "22103": {
     "OriginalText": "燥作設定",
-    "Text": "Button settings",
+    "Text": "Button Settings",
     "Enabled": true
   },
   "22104": {
@@ -2430,17 +2430,17 @@
   },
   "22121": {
     "OriginalText": "サブパレット切替え",
-    "Text": "Item Palette ",
+    "Text": "Item palette ",
     "Enabled": true
   },
   "22122": {
     "OriginalText": "武器パレット下へ",
-    "Text": "Weapon Palette down",
+    "Text": "Weapon palette down",
     "Enabled": true
   },
   "22123": {
     "OriginalText": "武器パレット上へ",
-    "Text": "Weapon Palette up",
+    "Text": "Weapon palette up",
     "Enabled": true
   },
   "22124": {
@@ -2450,7 +2450,7 @@
   },
   "22125": {
     "OriginalText": "オートラン",
-    "Text": "Toggle Autorun",
+    "Text": "Toggle autorun",
     "Enabled": true
   },
   "22126": {
@@ -2530,17 +2530,17 @@
   },
   "22141": {
     "OriginalText": "ログにプロミスオーダーを表示",
-    "Text": "Show Promise Orders in the log",
+    "Text": "Show promise orders in the log",
     "Enabled": true
   },
   "22142": {
     "OriginalText": "ログにクエストを表示",
-    "Text": "Display Current Quest in the log",
+    "Text": "Display current quest in the log",
     "Enabled": true
   },
   "22143": {
     "OriginalText": "ログにバトル状況を表示",
-    "Text": "Display Battle Info in the log",
+    "Text": "Display battle info in the log",
     "Enabled": true
   },
   "22144": {
@@ -2600,22 +2600,22 @@
   },
   "22155": {
     "OriginalText": "BGM設定",
-    "Text": "BGM Volume",
+    "Text": "BGM volume",
     "Enabled": true
   },
   "22156": {
     "OriginalText": "SE設定",
-    "Text": "SE Volume",
+    "Text": "SE volume",
     "Enabled": true
   },
   "22157": {
     "OriginalText": "ボイス音量",
-    "Text": "Voice Volume",
+    "Text": "Voice volume",
     "Enabled": true
   },
   "22158": {
     "OriginalText": "ムービー音量",
-    "Text": "Movie Volume",
+    "Text": "Movie volume",
     "Enabled": true
   },
   "22159": {
@@ -2625,27 +2625,27 @@
   },
   "22160": {
     "OriginalText": "基本設定を初期化します。\n\nよろしいですか？",
-    "Text": "This will reset Basic Settings\r\nto their defaults settings.\r\nAre you sure?",
+    "Text": "This will reset basic settings\r\nto their defaults settings.\r\nAre you sure?",
     "Enabled": true
   },
   "22161": {
     "OriginalText": "サウンド設定を初期化します。\n\nよろしいですか？",
-    "Text": "This will reset Sound Settings\r\nto their defaults settings.\r\nAre you sure?",
+    "Text": "This will reset sound settings\r\nto their defaults settings.\r\nAre you sure?",
     "Enabled": true
   },
   "22162": {
     "OriginalText": "燥作設定を終了します。",
-    "Text": "Edit the Button Settings.",
+    "Text": "Edit the button settings.",
     "Enabled": true
   },
   "22163": {
     "OriginalText": "基本設定を終了します。",
-    "Text": "Edit the Basic Settings.",
+    "Text": "Edit the basic settings.",
     "Enabled": true
   },
   "22164": {
     "OriginalText": "サウンド設定を終了します。",
-    "Text": "Edit the Sound Settings.",
+    "Text": "Edit the sound settings.",
     "Enabled": true
   },
   "22165": {
@@ -2660,12 +2660,12 @@
   },
   "22167": {
     "OriginalText": "ログ表示設定を終了します。",
-    "Text": "Edit the Log Settings.",
+    "Text": "Edit the log settings.",
     "Enabled": true
   },
   "22168": {
     "OriginalText": "カメラ設定を終了します。",
-    "Text": "Edit the Camera Settings.",
+    "Text": "Edit the camera settings.",
     "Enabled": true
   },
   "22169": {
@@ -2675,7 +2675,7 @@
   },
   "22170": {
     "OriginalText": "ターゲットカーソルの選択方向",
-    "Text": "Target Cursor Direction",
+    "Text": "Target cursor direction",
     "Enabled": true
   },
   "22171": {
@@ -3110,8 +3110,8 @@
   },
   "22730": {
     "OriginalText": "キサラ",
-    "Text": "Kisara",
-    "Enabled": true
+    "Text": "",
+    "Enabled": false
   },
   "22731": {
     "OriginalText": "リーティア",
@@ -3120,12 +3120,12 @@
   },
   "22732": {
     "OriginalText": "エネミー撃破達成率",
-    "Text": "Enemies Destroyed",
+    "Text": "Enemies destroyed",
     "Enabled": true
   },
   "22733": {
     "OriginalText": "最大チェイン数",
-    "Text": "Highest Number of Chains",
+    "Text": "Highest number of chains",
     "Enabled": true
   },
   "22734": {
@@ -3135,8 +3135,8 @@
   },
   "22735": {
     "OriginalText": "戦闘不能回数",
-    "Text": "Knocked Out Number of Times",
-    "Enabled": true
+    "Text": "",
+    "Enabled": false
   },
   "22736": {
     "OriginalText": "総合スコア",
