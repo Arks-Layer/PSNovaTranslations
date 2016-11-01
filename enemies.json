@@ -629,19 +629,23 @@
   },
   "184010": {
     "OriginalText": "エデルクリトロ",
-    "Text": ""
+    "Text": "Eder Critter",
+	 "Enabled": true
   },
   "184020": {
     "OriginalText": "スマラクリトロ",
-    "Text": ""
+    "Text": "Smar Critter",
+	 "Enabled": true
   },
   "184030": {
     "OriginalText": "オーニクリトロ",
-    "Text": ""
+    "Text": "Oni Critter",
+	 "Enabled": true
   },
   "184040": {
     "OriginalText": "クリトロ・テュルレ",
-    "Text": ""
+    "Text": "Critter True",
+    "Enabled": true
   },
   "184110": {
     "OriginalText": "エレマンデル",
