@@ -609,19 +609,23 @@
   },
   "183910": {
     "OriginalText": "トルリンプ",
-    "Text": ""
+    "Text": "Torrimp",
+    "Enable": true
   },
   "183920": {
     "OriginalText": "ロウトルリンプ",
-    "Text": ""
+    "Text": "Rol Torrimp",
+    "Enable": true
   },
   "183930": {
     "OriginalText": "ポルトルリンプ",
-    "Text": ""
+    "Text": "Pol Torrimp",
+    "Enable": true
   },
   "183940": {
     "OriginalText": "トルリンプ・ゴウル",
-    "Text": ""
+    "Text": "Torrimp Gorr",
+    "Enable": true
   },
   "184010": {
     "OriginalText": "エデルクリトロ",
