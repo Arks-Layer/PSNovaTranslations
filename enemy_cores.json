@@ -23,11 +23,13 @@
   },
   "110005": {
     "OriginalText": "スモール・コア",
-    "Text": "Small Core"
+    "Text": "Small Core",
+    "Enabled": true
   },
   "110006": {
     "OriginalText": "鳥・コア",
-    "Text": ""
+    "Text": "Bird Core",
+    "Enabled": true
   },
   "110007": {
     "OriginalText": "巨大獣・コア",
