@@ -649,7 +649,8 @@
   },
   "184110": {
     "OriginalText": "エレマンデル",
-    "Text": ""
+    "Text": "Err Mandel",
+	 "Enabled": true
   },
   "184120": {
     "OriginalText": "テッラマンデル",
@@ -658,7 +659,8 @@
   },
   "184130": {
     "OriginalText": "イーグマンデル",
-    "Text": ""
+    "Text": "Eater Mandel",
+	 "Enabled": true
   },
   "184140": {
     "OriginalText": "マンデル・ナート",
