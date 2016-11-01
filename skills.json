@@ -742,7 +742,8 @@
   },
   "50177": {
     "OriginalText": "ＧＰ回復空間",
-    "Text": ""
+    "Text": "GP Restore Space",
+    "Enabled": true
   },
   "50178": {
     "OriginalText": "クイック武器変更可能",
@@ -821,7 +822,8 @@
   },
   "50193": {
     "OriginalText": "汎用リングフィールド",
-    "Text": ""
+    "Text": "Generic Ring Field",
+    "Enabled": true
   },
   "50194": {
     "OriginalText": "攻撃力アップ",
@@ -910,7 +912,8 @@
   },
   "50217": {
     "OriginalText": "残ＨＰ少法撃力アップ",
-    "Text": ""
+    "Text": "Excess HP T-ATK Up",
+    "Enabled": true
   },
   "50218": {
     "OriginalText": "フラッシュテックガード",
@@ -959,7 +962,8 @@
   },
   "50227": {
     "OriginalText": "残ＨＰ少攻撃力アップⅡ",
-    "Text": ""
+    "Text": "Excess HP T-ATK Up II",
+    "Enabled": true
   },
   "50228": {
     "OriginalText": "バレット・マスタリー",
