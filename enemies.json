@@ -655,7 +655,7 @@
   "184120": {
     "OriginalText": "テッラマンデル",
     "Text": "Terra Mandel",
-	"Enabled": true
+	 "Enabled": true
   },
   "184130": {
     "OriginalText": "イーグマンデル",
@@ -665,7 +665,7 @@
   "184140": {
     "OriginalText": "マンデル・ナート",
     "Text": "Mandel Inert",
-	"Enabled": true
+	 "Enabled": true
   },
   "184210": {
     "OriginalText": "エクセージＴ",
@@ -883,7 +883,7 @@
   },
   "185070": {
     "OriginalText": "コンテナ：ガトリング",
-    "Text": "Gatoring Container",
+    "Text": "Gatorade",
     "Enabled": true
   },
   "185080": {
