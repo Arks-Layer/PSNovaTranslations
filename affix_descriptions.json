@@ -1,0 +1,1316 @@
+
+  "160000": {
+    "OriginalText": "なし",
+    "Text": "None",
+    "Enabled": true
+  },
+  "160001": {
+    "OriginalText": "ＨＰ",
+    "Text": "",
+    "Enabled": false
+  },
+  "160002": {
+    "OriginalText": "ＧＰ",
+    "Text": "",
+    "Enabled": false
+  },
+  "160003": {
+    "OriginalText": "打撃力",
+    "Text": "",
+    "Enabled": false
+  },
+  "160004": {
+    "OriginalText": "射撃力",
+    "Text": "",
+    "Enabled": false
+  },
+  "160005": {
+    "OriginalText": "法撃力",
+    "Text": "",
+    "Enabled": false
+  },
+  "160006": {
+    "OriginalText": "技量",
+    "Text": "",
+    "Enabled": false
+  },
+  "160007": {
+    "OriginalText": "打撃防御",
+    "Text": "",
+    "Enabled": false
+  },
+  "160008": {
+    "OriginalText": "射撃防御",
+    "Text": "",
+    "Enabled": false
+  },
+  "160009": {
+    "OriginalText": "法撃防御",
+    "Text": "",
+    "Enabled": false
+  },
+  "160010": {
+    "OriginalText": "残ＨＰ",
+    "Text": "",
+    "Enabled": false
+  },
+  "160011": {
+    "OriginalText": "炎属性攻撃力",
+    "Text": "",
+    "Enabled": false
+  },
+  "160012": {
+    "OriginalText": "氷属性攻撃力",
+    "Text": "",
+    "Enabled": false
+  },
+  "160013": {
+    "OriginalText": "雷属性攻撃力",
+    "Text": "",
+    "Enabled": false
+  },
+  "160014": {
+    "OriginalText": "風属性攻撃力",
+    "Text": "",
+    "Enabled": false
+  },
+  "160015": {
+    "OriginalText": "光属性攻撃力",
+    "Text": "",
+    "Enabled": false
+  },
+  "160016": {
+    "OriginalText": "闇属性攻撃力",
+    "Text": "",
+    "Enabled": false
+  },
+  "160017": {
+    "OriginalText": "ＨＰアップ",
+    "Text": "",
+    "Enabled": false
+  },
+  "160018": {
+    "OriginalText": "攻撃力アップ",
+    "Text": "",
+    "Enabled": false
+  },
+  "160019": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "160020": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "160021": {
+    "OriginalText": "防御力アップ",
+    "Text": "",
+    "Enabled": false
+  },
+  "160022": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "160023": {
+    "OriginalText": "効果範囲倍率",
+    "Text": "",
+    "Enabled": false
+  },
+  "160024": {
+    "OriginalText": "シフタ発生回数加算",
+    "Text": "",
+    "Enabled": false
+  },
+  "160025": {
+    "OriginalText": "デバンド発生回数加算",
+    "Text": "",
+    "Enabled": false
+  },
+  "160026": {
+    "OriginalText": "ＧＰ回復量アップ",
+    "Text": "",
+    "Enabled": false
+  },
+  "160027": {
+    "OriginalText": "リキャスト短縮時間補正",
+    "Text": "",
+    "Enabled": false
+  },
+  "160028": {
+    "OriginalText": "GBポイント上昇量",
+    "Text": "",
+    "Enabled": false
+  },
+  "160029": {
+    "OriginalText": "消費ＧＰ",
+    "Text": "",
+    "Enabled": false
+  },
+  "160030": {
+    "OriginalText": "アイテムドロップ",
+    "Text": "",
+    "Enabled": false
+  },
+  "160031": {
+    "OriginalText": "レアドロップ",
+    "Text": "",
+    "Enabled": false
+  },
+  "160032": {
+    "OriginalText": "経験値",
+    "Text": "",
+    "Enabled": false
+  },
+  "160033": {
+    "OriginalText": "ヘイト上昇率アップ",
+    "Text": "",
+    "Enabled": false
+  },
+  "160034": {
+    "OriginalText": "ＨＰ吸収比率",
+    "Text": "",
+    "Enabled": false
+  },
+  "160035": {
+    "OriginalText": "アイテム回復量",
+    "Text": "",
+    "Enabled": false
+  },
+  "160036": {
+    "OriginalText": "確率でリアクション無効",
+    "Text": "",
+    "Enabled": false
+  },
+  "160037": {
+    "OriginalText": "与ダメージ倍率補正",
+    "Text": "",
+    "Enabled": false
+  },
+  "160038": {
+    "OriginalText": "打撃耐性",
+    "Text": "",
+    "Enabled": false
+  },
+  "160039": {
+    "OriginalText": "属性攻撃力補正",
+    "Text": "",
+    "Enabled": false
+  },
+  "160040": {
+    "OriginalText": "技量補正量",
+    "Text": "",
+    "Enabled": false
+  },
+  "160041": {
+    "OriginalText": "クリティカル率アップ",
+    "Text": "",
+    "Enabled": false
+  },
+  "160042": {
+    "OriginalText": "炎属性ダウン発生率",
+    "Text": "",
+    "Enabled": false
+  },
+  "160043": {
+    "OriginalText": "氷属性ダウン発生率",
+    "Text": "",
+    "Enabled": false
+  },
+  "160044": {
+    "OriginalText": "雷属性ダウン発生率",
+    "Text": "",
+    "Enabled": false
+  },
+  "160045": {
+    "OriginalText": "風属性ダウン発生率",
+    "Text": "",
+    "Enabled": false
+  },
+  "160046": {
+    "OriginalText": "光属性ダウン発生率",
+    "Text": "",
+    "Enabled": false
+  },
+  "160047": {
+    "OriginalText": "闇属性ダウン発生率",
+    "Text": "",
+    "Enabled": false
+  },
+  "160048": {
+    "OriginalText": "追加：バインド",
+    "Text": "",
+    "Enabled": false
+  },
+  "160049": {
+    "OriginalText": "追加：インフェクション",
+    "Text": "",
+    "Enabled": false
+  },
+  "160050": {
+    "OriginalText": "追加：ブラインド",
+    "Text": "",
+    "Enabled": false
+  },
+  "160051": {
+    "OriginalText": "追加：グラン中毒",
+    "Text": "",
+    "Enabled": false
+  },
+  "160052": {
+    "OriginalText": "全属性耐性ダウン発生率",
+    "Text": "",
+    "Enabled": false
+  },
+  "160053": {
+    "OriginalText": "状態異常発生率補正",
+    "Text": "",
+    "Enabled": false
+  },
+  "160054": {
+    "OriginalText": "状態異常レベル",
+    "Text": "",
+    "Enabled": false
+  },
+  "160055": {
+    "OriginalText": "ガード実行",
+    "Text": "",
+    "Enabled": false
+  },
+  "160056": {
+    "OriginalText": "スタイリッシュロール実行",
+    "Text": "",
+    "Enabled": false
+  },
+  "160057": {
+    "OriginalText": "スウェー実行",
+    "Text": "",
+    "Enabled": false
+  },
+  "160058": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "160059": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "160060": {
+    "OriginalText": "敵のヘイト値",
+    "Text": "",
+    "Enabled": false
+  },
+  "160061": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "160062": {
+    "OriginalText": "自分ＨＰ回復",
+    "Text": "",
+    "Enabled": false
+  },
+  "160063": {
+    "OriginalText": "周囲ＨＰ回復",
+    "Text": "",
+    "Enabled": false
+  },
+  "160064": {
+    "OriginalText": "周囲状態異常回復",
+    "Text": "",
+    "Enabled": false
+  },
+  "160065": {
+    "OriginalText": "周囲戦闘不能回復",
+    "Text": "",
+    "Enabled": false
+  },
+  "160066": {
+    "OriginalText": "効果範囲",
+    "Text": "",
+    "Enabled": false
+  },
+  "160067": {
+    "OriginalText": "自分戦闘不能回復",
+    "Text": "",
+    "Enabled": false
+  },
+  "160068": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "160069": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "160070": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "160071": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "160072": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "160073": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "160074": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "160075": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "160076": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "160077": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "160078": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "160079": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "160080": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "160081": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "160082": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "160083": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "160084": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "160085": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "160086": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "160087": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "160088": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "160089": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "160090": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "160091": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "160092": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "160093": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "160094": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "160095": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "160096": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "160097": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "160098": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "160099": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "160100": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "160101": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "160102": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "160103": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "160104": {
+    "OriginalText": "ジャストガード使用可能フラグ",
+    "Text": "",
+    "Enabled": false
+  },
+  "160105": {
+    "OriginalText": "ステップ使用フラグ",
+    "Text": "",
+    "Enabled": false
+  },
+  "160106": {
+    "OriginalText": "ステップアタック使用フラグ",
+    "Text": "",
+    "Enabled": false
+  },
+  "160107": {
+    "OriginalText": "ダイブロール使用可能フラグ",
+    "Text": "",
+    "Enabled": false
+  },
+  "160108": {
+    "OriginalText": "ミラージュエスケープ使用可能フラグ",
+    "Text": "",
+    "Enabled": false
+  },
+  "160109": {
+    "OriginalText": "テクニック使用可能フラグ",
+    "Text": "",
+    "Enabled": false
+  },
+  "160110": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "160111": {
+    "OriginalText": "クイック武器変更PA使用可能フラグ",
+    "Text": "",
+    "Enabled": false
+  },
+  "160112": {
+    "OriginalText": "JGA有効フラグ",
+    "Text": "",
+    "Enabled": false
+  },
+  "160113": {
+    "OriginalText": "ジャストカウンター使用可能フラグ",
+    "Text": "",
+    "Enabled": false
+  },
+  "160114": {
+    "OriginalText": "ガードＧＰ変換有効フラグ",
+    "Text": "",
+    "Enabled": false
+  },
+  "160115": {
+    "OriginalText": "ダイブロール時の無敵フラグ",
+    "Text": "",
+    "Enabled": false
+  },
+  "160116": {
+    "OriginalText": "コンセントレーション有効フラグ",
+    "Text": "",
+    "Enabled": false
+  },
+  "160117": {
+    "OriginalText": "状態異常お返し",
+    "Text": "",
+    "Enabled": false
+  },
+  "160118": {
+    "OriginalText": "オートメイト発動確率",
+    "Text": "",
+    "Enabled": false
+  },
+  "160119": {
+    "OriginalText": "ソード装備可能フラグ",
+    "Text": "",
+    "Enabled": false
+  },
+  "160120": {
+    "OriginalText": "パルチザン装備可能フラグ",
+    "Text": "",
+    "Enabled": false
+  },
+  "160121": {
+    "OriginalText": "ダブルセイバー装備可能フラグ",
+    "Text": "",
+    "Enabled": false
+  },
+  "160122": {
+    "OriginalText": "アサルトライフル装備可能フラグ",
+    "Text": "",
+    "Enabled": false
+  },
+  "160123": {
+    "OriginalText": "ツインマシンガン装備可能フラグ",
+    "Text": "",
+    "Enabled": false
+  },
+  "160124": {
+    "OriginalText": "ロッド装備可能フラグ",
+    "Text": "",
+    "Enabled": false
+  },
+  "160125": {
+    "OriginalText": "タリス装備可能フラグ",
+    "Text": "",
+    "Enabled": false
+  },
+  "160126": {
+    "OriginalText": "ウォンド装備可能フラグ",
+    "Text": "",
+    "Enabled": false
+  },
+  "160127": {
+    "OriginalText": "パイル装備可能フラグ",
+    "Text": "",
+    "Enabled": false
+  },
+  "160128": {
+    "OriginalText": "ヘイロウ装備可能フラグ",
+    "Text": "",
+    "Enabled": false
+  },
+  "160129": {
+    "OriginalText": "敵レア出現率",
+    "Text": "",
+    "Enabled": false
+  },
+  "160130": {
+    "OriginalText": "敵ブースト出現率",
+    "Text": "",
+    "Enabled": false
+  },
+  "160131": {
+    "OriginalText": "バースト時間延長",
+    "Text": "",
+    "Enabled": false
+  },
+  "160132": {
+    "OriginalText": "レベル",
+    "Text": "",
+    "Enabled": false
+  },
+  "160133": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "160134": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "160135": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "160136": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "160137": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "160138": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "160139": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "160140": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "160141": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "160142": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "160143": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "160144": {
+    "OriginalText": "入手グラン量",
+    "Text": "",
+    "Enabled": false
+  },
+  "160145": {
+    "OriginalText": "Gブースター効果",
+    "Text": "",
+    "Enabled": false
+  },
+  "160146": {
+    "OriginalText": "Gブースター範囲",
+    "Text": "",
+    "Enabled": false
+  },
+  "160147": {
+    "OriginalText": "Eレーダー適用地路",
+    "Text": "",
+    "Enabled": false
+  },
+  "160148": {
+    "OriginalText": "エステ選択区目UP",
+    "Text": "",
+    "Enabled": false
+  },
+  "160149": {
+    "OriginalText": "アイテム探索",
+    "Text": "",
+    "Enabled": false
+  },
+  "160150": {
+    "OriginalText": "レアアイテム探索",
+    "Text": "",
+    "Enabled": false
+  },
+  "160151": {
+    "OriginalText": "I探索適用地路",
+    "Text": "",
+    "Enabled": false
+  },
+  "160152": {
+    "OriginalText": "エネミーレーダー",
+    "Text": "",
+    "Enabled": false
+  },
+  "160153": {
+    "OriginalText": "BURST：経験値UP",
+    "Text": "",
+    "Enabled": false
+  },
+  "160154": {
+    "OriginalText": "BURST：アイテム",
+    "Text": "",
+    "Enabled": false
+  },
+  "160155": {
+    "OriginalText": "BURST：レアエネミー",
+    "Text": "",
+    "Enabled": false
+  },
+  "160156": {
+    "OriginalText": "BURST：レアドロップ",
+    "Text": "",
+    "Enabled": false
+  },
+  "160157": {
+    "OriginalText": "BURST：原生種",
+    "Text": "",
+    "Enabled": false
+  },
+  "160158": {
+    "OriginalText": "BURST：ダーカー",
+    "Text": "",
+    "Enabled": false
+  },
+  "160159": {
+    "OriginalText": "BURST：ワンモア",
+    "Text": "",
+    "Enabled": false
+  },
+  "160160": {
+    "OriginalText": "BURST：ガッツ",
+    "Text": "",
+    "Enabled": false
+  },
+  "160161": {
+    "OriginalText": "BURST：ダメージカット",
+    "Text": "",
+    "Enabled": false
+  },
+  "160162": {
+    "OriginalText": "BURST：コンバージョン",
+    "Text": "",
+    "Enabled": false
+  },
+  "160163": {
+    "OriginalText": "BURST：クリティカル",
+    "Text": "",
+    "Enabled": false
+  },
+  "160164": {
+    "OriginalText": "BURST：モータルブロウ",
+    "Text": "",
+    "Enabled": false
+  },
+  "160165": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "160166": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "160167": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "160168": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "160169": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "160170": {
+    "OriginalText": "探索：疲労防止",
+    "Text": "",
+    "Enabled": false
+  },
+  "160171": {
+    "OriginalText": "探索：大成功",
+    "Text": "",
+    "Enabled": false
+  },
+  "160172": {
+    "OriginalText": "探索：日数",
+    "Text": "",
+    "Enabled": false
+  },
+  "160173": {
+    "OriginalText": "攻撃アタリ拡大率",
+    "Text": "",
+    "Enabled": false
+  },
+  "160174": {
+    "OriginalText": "攻撃アクション再生速度",
+    "Text": "",
+    "Enabled": false
+  },
+  "160175": {
+    "OriginalText": "ＧＰ回復",
+    "Text": "",
+    "Enabled": false
+  },
+  "160176": {
+    "OriginalText": "同箇所ヒット回数",
+    "Text": "",
+    "Enabled": false
+  },
+  "160177": {
+    "OriginalText": "JA効果時間補正",
+    "Text": "",
+    "Enabled": false
+  },
+  "160178": {
+    "OriginalText": "移動速度アップ",
+    "Text": "",
+    "Enabled": false
+  },
+  "160179": {
+    "OriginalText": "射撃力コンバート",
+    "Text": "",
+    "Enabled": false
+  },
+  "160180": {
+    "OriginalText": "打撃力コンバート",
+    "Text": "",
+    "Enabled": false
+  },
+  "160181": {
+    "OriginalText": "法撃力コンバート",
+    "Text": "",
+    "Enabled": false
+  },
+  "160182": {
+    "OriginalText": "ヒット数増加",
+    "Text": "",
+    "Enabled": false
+  },
+  "160183": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "160184": {
+    "OriginalText": "ＧＰアップ",
+    "Text": "",
+    "Enabled": false
+  },
+  "160185": {
+    "OriginalText": "炎属性ダメージ",
+    "Text": "",
+    "Enabled": false
+  },
+  "160186": {
+    "OriginalText": "氷属性ダメージ",
+    "Text": "",
+    "Enabled": false
+  },
+  "160187": {
+    "OriginalText": "雷属性ダメージ",
+    "Text": "",
+    "Enabled": false
+  },
+  "160188": {
+    "OriginalText": "風属性ダメージ",
+    "Text": "",
+    "Enabled": false
+  },
+  "160189": {
+    "OriginalText": "光属性ダメージ",
+    "Text": "",
+    "Enabled": false
+  },
+  "160190": {
+    "OriginalText": "闇属性ダメージ",
+    "Text": "",
+    "Enabled": false
+  },
+  "160191": {
+    "OriginalText": "炎耐性",
+    "Text": "",
+    "Enabled": false
+  },
+  "160192": {
+    "OriginalText": "氷耐性",
+    "Text": "",
+    "Enabled": false
+  },
+  "160193": {
+    "OriginalText": "雷耐性",
+    "Text": "",
+    "Enabled": false
+  },
+  "160194": {
+    "OriginalText": "風耐性",
+    "Text": "",
+    "Enabled": false
+  },
+  "160195": {
+    "OriginalText": "光耐性",
+    "Text": "",
+    "Enabled": false
+  },
+  "160196": {
+    "OriginalText": "闇耐性",
+    "Text": "",
+    "Enabled": false
+  },
+  "160197": {
+    "OriginalText": "弱点ダメージアップ",
+    "Text": "",
+    "Enabled": false
+  },
+  "160198": {
+    "OriginalText": "バーストゲージ初期ボーナス",
+    "Text": "",
+    "Enabled": false
+  },
+  "160199": {
+    "OriginalText": "なし",
+    "Text": "None",
+    "Enabled": true
+  },
+  "160200": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "160201": {
+    "OriginalText": "チャージ短縮",
+    "Text": "",
+    "Enabled": false
+  },
+  "160202": {
+    "OriginalText": "怪我率アップ",
+    "Text": "",
+    "Enabled": false
+  },
+  "160203": {
+    "OriginalText": "保留",
+    "Text": "",
+    "Enabled": false
+  },
+  "160204": {
+    "OriginalText": "保留",
+    "Text": "",
+    "Enabled": false
+  },
+  "160205": {
+    "OriginalText": "保留",
+    "Text": "",
+    "Enabled": false
+  },
+  "160206": {
+    "OriginalText": "習得LV1～6の素村滅",
+    "Text": "",
+    "Enabled": false
+  },
+  "160207": {
+    "OriginalText": "習得LV7～12の素村滅",
+    "Text": "",
+    "Enabled": false
+  },
+  "160208": {
+    "OriginalText": "習得LV13～19の素村滅",
+    "Text": "",
+    "Enabled": false
+  },
+  "160209": {
+    "OriginalText": "習得LV20～26の素村滅",
+    "Text": "",
+    "Enabled": false
+  },
+  "160210": {
+    "OriginalText": "習得LV27～30の素村滅",
+    "Text": "",
+    "Enabled": false
+  },
+  "160211": {
+    "OriginalText": "保留",
+    "Text": "",
+    "Enabled": false
+  },
+  "160212": {
+    "OriginalText": "保留",
+    "Text": "",
+    "Enabled": false
+  },
+  "160213": {
+    "OriginalText": "保留",
+    "Text": "",
+    "Enabled": false
+  },
+  "160214": {
+    "OriginalText": "保留",
+    "Text": "",
+    "Enabled": false
+  },
+  "160215": {
+    "OriginalText": "保留",
+    "Text": "",
+    "Enabled": false
+  },
+  "160216": {
+    "OriginalText": "料理★1の素村滅",
+    "Text": "",
+    "Enabled": false
+  },
+  "160217": {
+    "OriginalText": "料理★2の素村滅",
+    "Text": "",
+    "Enabled": false
+  },
+  "160218": {
+    "OriginalText": "料理★3の素村滅",
+    "Text": "",
+    "Enabled": false
+  },
+  "160219": {
+    "OriginalText": "保留",
+    "Text": "",
+    "Enabled": false
+  },
+  "160220": {
+    "OriginalText": "保留",
+    "Text": "",
+    "Enabled": false
+  },
+  "160221": {
+    "OriginalText": "保留",
+    "Text": "",
+    "Enabled": false
+  },
+  "160222": {
+    "OriginalText": "保留",
+    "Text": "",
+    "Enabled": false
+  },
+  "160223": {
+    "OriginalText": "保留",
+    "Text": "",
+    "Enabled": false
+  },
+  "160224": {
+    "OriginalText": "保留",
+    "Text": "",
+    "Enabled": false
+  },
+  "160225": {
+    "OriginalText": "保留",
+    "Text": "",
+    "Enabled": false
+  },
+  "160226": {
+    "OriginalText": "武器★5の素村滅",
+    "Text": "",
+    "Enabled": false
+  },
+  "160227": {
+    "OriginalText": "武器★6の素村滅",
+    "Text": "",
+    "Enabled": false
+  },
+  "160228": {
+    "OriginalText": "武器★7の素村滅",
+    "Text": "",
+    "Enabled": false
+  },
+  "160229": {
+    "OriginalText": "武器★8の素村滅",
+    "Text": "",
+    "Enabled": false
+  },
+  "160230": {
+    "OriginalText": "武器★9の素村滅",
+    "Text": "",
+    "Enabled": false
+  },
+  "160231": {
+    "OriginalText": "武器★10の素村滅",
+    "Text": "",
+    "Enabled": false
+  },
+  "160232": {
+    "OriginalText": "保留",
+    "Text": "",
+    "Enabled": false
+  },
+  "160233": {
+    "OriginalText": "保留",
+    "Text": "",
+    "Enabled": false
+  },
+  "160234": {
+    "OriginalText": "保留",
+    "Text": "",
+    "Enabled": false
+  },
+  "160235": {
+    "OriginalText": "保留",
+    "Text": "",
+    "Enabled": false
+  },
+  "160236": {
+    "OriginalText": "防具★5の素村滅",
+    "Text": "",
+    "Enabled": false
+  },
+  "160237": {
+    "OriginalText": "防具★6の素村滅",
+    "Text": "",
+    "Enabled": false
+  },
+  "160238": {
+    "OriginalText": "防具★7の素村滅",
+    "Text": "",
+    "Enabled": false
+  },
+  "160239": {
+    "OriginalText": "防具★8の素村滅",
+    "Text": "",
+    "Enabled": false
+  },
+  "160240": {
+    "OriginalText": "防具★9の素村滅",
+    "Text": "",
+    "Enabled": false
+  },
+  "160241": {
+    "OriginalText": "防具★10の素村滅",
+    "Text": "",
+    "Enabled": false
+  },
+  "160242": {
+    "OriginalText": "保留",
+    "Text": "",
+    "Enabled": false
+  },
+  "160243": {
+    "OriginalText": "保留",
+    "Text": "",
+    "Enabled": false
+  },
+  "160244": {
+    "OriginalText": "保留",
+    "Text": "",
+    "Enabled": false
+  },
+  "160245": {
+    "OriginalText": "保留",
+    "Text": "",
+    "Enabled": false
+  },
+  "160246": {
+    "OriginalText": "道具★1の素村滅",
+    "Text": "",
+    "Enabled": false
+  },
+  "160247": {
+    "OriginalText": "道具★2の素村滅",
+    "Text": "",
+    "Enabled": false
+  },
+  "160248": {
+    "OriginalText": "道具★3の素村滅",
+    "Text": "",
+    "Enabled": false
+  },
+  "160249": {
+    "OriginalText": "道具★4の素村滅",
+    "Text": "",
+    "Enabled": false
+  },
+  "160250": {
+    "OriginalText": "道具★5の素村滅",
+    "Text": "",
+    "Enabled": false
+  },
+  "160251": {
+    "OriginalText": "保留",
+    "Text": "",
+    "Enabled": false
+  },
+  "160252": {
+    "OriginalText": "保留",
+    "Text": "",
+    "Enabled": false
+  },
+  "160253": {
+    "OriginalText": "保留",
+    "Text": "",
+    "Enabled": false
+  },
+  "160254": {
+    "OriginalText": "保留",
+    "Text": "",
+    "Enabled": false
+  },
+  "160255": {
+    "OriginalText": "衣装★5の素村滅",
+    "Text": "",
+    "Enabled": false
+  },
+  "160256": {
+    "OriginalText": "衣装★6の素村滅",
+    "Text": "",
+    "Enabled": false
+  },
+  "160257": {
+    "OriginalText": "衣装★7の素村滅",
+    "Text": "",
+    "Enabled": false
+  },
+  "160258": {
+    "OriginalText": "衣装★8の素村滅",
+    "Text": "",
+    "Enabled": false
+  },
+  "160259": {
+    "OriginalText": "衣装★9の素村滅",
+    "Text": "",
+    "Enabled": false
+  },
+  "160260": {
+    "OriginalText": "衣装★10の素村滅",
+    "Text": "",
+    "Enabled": false
+  },
+  "160261": {
+    "OriginalText": "[a 07]経験値      +100%[b]",
+    "Text": "",
+    "Enabled": false
+  },
+  "160262": {
+    "OriginalText": "[a 07]経験値      +200%[b]",
+    "Text": "",
+    "Enabled": false
+  },
