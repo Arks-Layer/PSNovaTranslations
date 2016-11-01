@@ -90,7 +90,7 @@
   },
   "11004": {
     "OriginalText": "重要アイテム",
-    "Text": "Key items",
+    "Text": "Key Items",
     "Enabled": true
   },
   "11005": {
@@ -135,7 +135,7 @@
   },
   "11013": {
     "OriginalText": "パーティー脱退",
-    "Text": "Leave party",
+    "Text": "Leave Party",
     "Enabled": true
   },
   "11014": {
@@ -580,22 +580,22 @@
   },
   "20305": {
     "OriginalText": "サブパレット装備",
-    "Text": "Subpallete Menu",
+    "Text": "Subpalette Menu",
     "Enabled": true
   },
   "20306": {
     "OriginalText": "サブパレット１",
-    "Text": "Subpallete 1",
+    "Text": "Subpalette 1",
     "Enabled": true
   },
   "20307": {
     "OriginalText": "サブパレット２",
-    "Text": "Subpallete 2",
+    "Text": "Subpalette 2",
     "Enabled": true
   },
   "20308": {
     "OriginalText": "サブパレット３",
-    "Text": "Subpallete 3",
+    "Text": "Subpalette 3",
     "Enabled": true
   },
   "20309": {
@@ -615,7 +615,7 @@
   },
   "20312": {
     "OriginalText": "アクションを外しますか？",
-    "Text": "You wish to remove this action?",
+    "Text": "Do you wish to remove this action?",
     "Enabled": true
   },
   "20313": {
@@ -625,12 +625,12 @@
   },
   "20314": {
     "OriginalText": "サブパレット切替え 次へ",
-    "Text": "Subpalette next",
+    "Text": "Subpalette Next",
     "Enabled": true
   },
   "20315": {
     "OriginalText": "サブパレット切替え 前へ",
-    "Text": "Subpalette previous",
+    "Text": "Subpalette Previous",
     "Enabled": true
   },
   "20401": {
@@ -640,7 +640,7 @@
   },
   "20402": {
     "OriginalText": "最近遊んだゲストクルー",
-    "Text": "Recently used",
+    "Text": "Recently Used",
     "Enabled": true
   },
   "20403": {
@@ -675,12 +675,12 @@
   },
   "20409": {
     "OriginalText": "マルチプレイ回数",
-    "Text": "MP Play count",
+    "Text": "MP Play Count",
     "Enabled": true
   },
   "20410": {
     "OriginalText": "協力クリア回数",
-    "Text": "Co-op clears",
+    "Text": "Co-op Clears",
     "Enabled": false
   },
   "20411": {
@@ -755,17 +755,17 @@
   },
   "20513": {
     "OriginalText": "キャストパーツ",
-    "Text": "Cast parts",
+    "Text": "Cast Parts",
     "Enabled": true
   },
   "20514": {
     "OriginalText": "回復アイテム",
-    "Text": "Recovery items",
+    "Text": "Recovery Items",
     "Enabled": true
   },
   "20515": {
     "OriginalText": "グラン結晶",
-    "Text": "Gran crystals",
+    "Text": "Gran Crystals",
     "Enabled": true
   },
   "20601": {
@@ -1115,7 +1115,7 @@
   },
   "21019": {
     "OriginalText": "クルー情報",
-    "Text": "Crew information",
+    "Text": "Crew Information",
     "Enabled": true
   },
   "21020": {
@@ -1355,7 +1355,7 @@
   },
   "21219": {
     "OriginalText": "プロミスオーダーを達成しました。",
-    "Text": "You completed the promise order.",
+    "Text": "You completed the Promise Order.",
     "Enabled": true
   },
   "21220": {
@@ -1420,7 +1420,7 @@
   },
   "21307": {
     "OriginalText": "この料理を注文します。\nよろしいですか？",
-    "Text": "This will order the dish.\nIs that ok?",
+    "Text": "This will order the dish.\nIs that OK?",
     "Enabled": true
   },
   "21308": {
@@ -1470,12 +1470,12 @@
   },
   "21501": {
     "OriginalText": "アイテムパックを開く",
-    "Text": "Send to storage",
+    "Text": "Send to Storage",
     "Enabled": true
   },
   "21502": {
     "OriginalText": "通常倉庫を開く",
-    "Text": "Withdraw from storage",
+    "Text": "Withdraw from Storage",
     "Enabled": true
   },
   "21503": {
@@ -1690,17 +1690,17 @@
   },
   "21633": {
     "OriginalText": "アタッチパーツなし",
-    "Text": "No attachments",
+    "Text": "No Attachments",
     "Enabled": true
   },
   "21634": {
     "OriginalText": "保存せずに終了",
-    "Text": "Exit without saving",
+    "Text": "Exit Without Saving",
     "Enabled": true
   },
   "21635": {
     "OriginalText": "編集を続ける",
-    "Text": "Continue editing",
+    "Text": "Continue Editing",
     "Enabled": true
   },
   "21636": {
@@ -1860,12 +1860,12 @@
   },
   "21718": {
     "OriginalText": "パーティーからはずす",
-    "Text": "Remove from party",
+    "Text": "Remove From Party",
     "Enabled": true
   },
   "21719": {
     "OriginalText": "パーティーに入れる",
-    "Text": "Add to Party",
+    "Text": "Add To Party",
     "Enabled": true
   },
   "21720": {
@@ -2040,7 +2040,7 @@
   },
   "21754": {
     "OriginalText": "他のプレイヤーが準備中です。\nしばらくお待ちください。",
-    "Text": "Other Players are not ready yet.\nPlease wait,",
+    "Text": "Other Players are not ready yet.\nPlease wait.",
     "Enabled": true
   },
   "21755": {
@@ -2110,7 +2110,7 @@
   },
   "21804": {
     "OriginalText": "次のレベルまで",
-    "Text": "Till Next Level",
+    "Text": "Until Next Level",
     "Enabled": true
   },
   "21805": {
@@ -2340,12 +2340,12 @@
   },
   "22103": {
     "OriginalText": "燥作設定",
-    "Text": "Button settings",
+    "Text": "Button Settings",
     "Enabled": true
   },
   "22104": {
     "OriginalText": "その他の設定",
-    "Text": "Other settings",
+    "Text": "Other Settings",
     "Enabled": true
   },
   "22105": {
@@ -2420,7 +2420,7 @@
   },
   "22119": {
     "OriginalText": "ロックオン/オフの切替え",
-    "Text": "Toggle target lock on/off",
+    "Text": "Toggle target lock ON/OFF",
     "Enabled": true
   },
   "22120": {
@@ -2475,7 +2475,7 @@
   },
   "22130": {
     "OriginalText": "基本設定",
-    "Text": "Basic settings",
+    "Text": "Basic Settings",
     "Enabled": true
   },
   "22131": {
@@ -2515,7 +2515,7 @@
   },
   "22138": {
     "OriginalText": "ログ表示設定",
-    "Text": "Log settings",
+    "Text": "Log Settings",
     "Enabled": true
   },
   "22139": {
@@ -2560,7 +2560,7 @@
   },
   "22147": {
     "OriginalText": "カメラ設定",
-    "Text": "Camera settings",
+    "Text": "Camera Settings",
     "Enabled": true
   },
   "22148": {
@@ -2595,7 +2595,7 @@
   },
   "22154": {
     "OriginalText": "サウンド設定",
-    "Text": "Sound settings",
+    "Text": "Sound Settings",
     "Enabled": true
   },
   "22155": {
@@ -3010,7 +3010,7 @@
   },
   "22710": {
     "OriginalText": "ダーカー出現",
-    "Text": "Darker Apperance",
+    "Text": "Darker Appearance",
     "Enabled": true
   },
   "22711": {
