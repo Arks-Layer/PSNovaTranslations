@@ -25,17 +25,17 @@
   },
   "10906": {
     "OriginalText": "上層へ",
-    "Text": "",
+    "Text": "Upper Layer",
     "Enabled": false
   },
   "10907": {
     "OriginalText": "中層へ",
-    "Text": "",
+    "Text": "Middle Layer",
     "Enabled": false
   },
   "10908": {
     "OriginalText": "下層へ",
-    "Text": "",
+    "Text": "Bottom Layer",
     "Enabled": false
   },
   "10909": {
@@ -115,18 +115,18 @@
   },
   "11009": {
     "OriginalText": "スキル習得",
-    "Text": "",
-    "Enabled": false
+    "Text": "Learn Skills",
+    "Enabled": true
   },
   "11010": {
     "OriginalText": "スキルボード",
-    "Text": "スキルボード",
-    "Enabled": false
+    "Text": "Skill Board",
+    "Enabled": true
   },
   "11011": {
     "OriginalText": "コミュニティ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Community",
+    "Enabled": true
   },
   "11012": {
     "OriginalText": "ゲストクルー",
@@ -205,8 +205,8 @@
   },
   "11106": {
     "OriginalText": "素手",
-    "Text": "",
-    "Enabled": false
+    "Text": "Bare Hands",
+    "Enabled": true
   },
   "11107": {
     "OriginalText": "退出",
@@ -250,13 +250,13 @@
   },
   "20102": {
     "OriginalText": "GA/テクニックを習得",
-    "Text": "",
-    "Enabled": false
+    "Text": "Learn GA/Techs",
+    "Enabled": true
   },
   "20103": {
     "OriginalText": "エクスキューブ作成",
-    "Text": "",
-    "Enabled": false
+    "Text": "Excube created",
+    "Enabled": true
   },
   "20104": {
     "OriginalText": "炎属性テクニック",
@@ -955,13 +955,13 @@
   },
   "20904": {
     "OriginalText": "空き地",
-    "Text": "",
-    "Enabled": false
+    "Text": "Vacant Lot",
+    "Enabled": true
   },
   "20905": {
     "OriginalText": "上層",
-    "Text": "",
-    "Enabled": false
+    "Text": "Upper Layer",
+    "Enabled": true
   },
   "20906": {
     "OriginalText": "ラボ前広場",
@@ -990,8 +990,8 @@
   },
   "20911": {
     "OriginalText": "スタッフ一覧",
-    "Text": "",
-    "Enabled": false
+    "Text": "Staff List",
+    "Enabled": true
   },
   "20912": {
     "OriginalText": "\n\n続けて配置しますか？",
@@ -1000,18 +1000,18 @@
   },
   "20913": {
     "OriginalText": "床",
-    "Text": "",
-    "Enabled": false
+    "Text": "Floor",
+    "Enabled": true
   },
   "20914": {
     "OriginalText": "床を外す",
-    "Text": "",
-    "Enabled": false
+    "Text": "Remove the Floor",
+    "Enabled": true
   },
   "20915": {
     "OriginalText": "コスト順",
-    "Text": "",
-    "Enabled": false
+    "Text": "Cost",
+    "Enabled": true
   },
   "20916": {
     "OriginalText": "設置コストオーバー。設置できません。",
@@ -1275,8 +1275,8 @@
   },
   "21203": {
     "OriginalText": "話をする",
-    "Text": "",
-    "Enabled": false
+    "Text": "Talk",
+    "Enabled": true
   },
   "21204": {
     "OriginalText": "目標",
@@ -1310,8 +1310,8 @@
   },
   "21210": {
     "OriginalText": "受注中のクエストはありません。",
-    "Text": "",
-    "Enabled": false
+    "Text": "No Quest Available.",
+    "Enabled": true
   },
   "21211": {
     "OriginalText": "発生している効果はありません。",
@@ -1335,8 +1335,8 @@
   },
   "21215": {
     "OriginalText": "このプロミスオーダーは目標達成済みです。\n依頼者に報告してください。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Completed a Promise Order.\nReturn to requester.",
+    "Enabled": true
   },
   "21216": {
     "OriginalText": "達成報酬",
@@ -1385,8 +1385,8 @@
   },
   "21225": {
     "OriginalText": "達成数/目標数",
-    "Text": "",
-    "Enabled": false
+    "Text": "Achievement Number/Target Number",
+    "Enabled": true
   },
   "21301": {
     "OriginalText": "ガッツ料理",
@@ -1430,8 +1430,8 @@
   },
   "21309": {
     "OriginalText": "をおいしくいただいた。",
-    "Text": "",
-    "Enabled": false
+    "Text": "It was delicious.",
+    "Enabled": true
   },
   "21310": {
     "OriginalText": "すでに料理を食べています。\n一度クエストを開始し、拠点に帰還するまで、\n食堂を利用することはできません。",
@@ -1490,8 +1490,8 @@
   },
   "21505": {
     "OriginalText": "アイテムパックへ取り出す( [e 00 00]/[e 01 00] )",
-    "Text": "",
-    "Enabled": false
+    "Text": "Withdraw to Item Pack ( [e 00 00]/[e 01 00] )",
+    "Enabled": true
   },
   "21506": {
     "OriginalText": "通常倉庫へ取り出す( [e 02 00]/[e 03 00] )",
@@ -1720,8 +1720,8 @@
   },
   "21639": {
     "OriginalText": "コアが足りません。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Not enough Cores.",
+    "Enabled": true
   },
   "21640": {
     "OriginalText": "倉庫に武器を作る",
@@ -1735,17 +1735,17 @@
   },
   "21642": {
     "OriginalText": "作成する数を選択してください。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Select the amount you wish to create.",
+    "Enabled": true
   },
   "21643": {
     "OriginalText": "アタッチパーツがセットされています。 \n武器とアタッチパーツを同時に預けます。 \nよろしいですか？ ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Attachments have been set.\nDeposit weapon and attachments?",
+    "Enabled": true
   },
   "21644": {
     "OriginalText": "倉庫に空きがありません。 \nアタッチパーツのセットされた\n武器を預けられません。 ",
-    "Text": "",
+    "Text": "Not enough space in storage.\nAttachments have not\nbeen sent to storage.",
     "Enabled": false
   },
   "21645": {
@@ -2020,28 +2020,28 @@
   },
   "21750": {
     "OriginalText": "クエストが選ばれました。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A Quest has been selected.",
+    "Enabled": true
   },
   "21751": {
     "OriginalText": "出発する",
-    "Text": "",
-    "Enabled": false
+    "Text": "Depart",
+    "Enabled": true
   },
   "21752": {
     "OriginalText": "キャンセルしてクエスト選択に戻ります。\nよろしいですか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Cancel and return to Quest Selection?",
+    "Enabled": true
   },
   "21753": {
     "OriginalText": "クエスト選択に戻る",
-    "Text": "",
-    "Enabled": false
+    "Text": "Return to Quest Selection.",
+    "Enabled": true
   },
   "21754": {
     "OriginalText": "他のプレイヤーが準備中です。\nしばらくお待ちください。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Other Players are not ready yet.\nPlease wait,",
+    "Enabled": true
   },
   "21755": {
     "OriginalText": "すべてのクルー",
@@ -2075,8 +2075,8 @@
   },
   "21761": {
     "OriginalText": "デルタ・ヴァリアント",
-    "Text": "",
-    "Enabled": false
+    "Text": "Delta Valiant",
+    "Enabled": true
   },
   "21762": {
     "OriginalText": "あらすじの確認",
@@ -2085,8 +2085,8 @@
   },
   "21763": {
     "OriginalText": "リーダーがクエストを選択するまでお待ちください。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Please wait while the leader selects a quest.",
+    "Enabled": true
   },
   "21764": {
     "OriginalText": "選択されたクエストに同行できないクルーを\nパーティーからはずしました。",
@@ -2105,12 +2105,12 @@
   },
   "21803": {
     "OriginalText": "関連するプロミスオーダー",
-    "Text": "",
-    "Enabled": false
+    "Text": "Related Promise Orders",
+    "Enabled": true
   },
   "21804": {
     "OriginalText": "次のレベルまで",
-    "Text": "Next level",
+    "Text": "Till Next Level",
     "Enabled": true
   },
   "21805": {
@@ -2120,8 +2120,8 @@
   },
   "21806": {
     "OriginalText": "依頼者",
-    "Text": "",
-    "Enabled": false
+    "Text": "Requester",
+    "Enabled": true
   },
   "21807": {
     "OriginalText": "目標達成！",
@@ -2320,13 +2320,13 @@
   },
   "22035": {
     "OriginalText": "必要グランエナジー：",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gran Energy Needed:",
+    "Enabled": true
   },
   "22036": {
     "OriginalText": "施設効果",
-    "Text": "",
-    "Enabled": false
+    "Text": "Facility Effect",
+    "Enabled": true
   },
   "22101": {
     "OriginalText": "設定",
@@ -2710,8 +2710,8 @@
   },
   "22205": {
     "OriginalText": "日",
-    "Text": "",
-    "Enabled": false
+    "Text": "Day",
+    "Enabled": true
   },
   "22206": {
     "OriginalText": "人",
@@ -2900,13 +2900,13 @@
   },
   "22409": {
     "OriginalText": "キャスト(男性)",
-    "Text": "",
-    "Enabled": false
+    "Text": "Cast (Male)",
+    "Enabled": true
   },
   "22410": {
     "OriginalText": "キャスト(女性)",
-    "Text": "",
-    "Enabled": false
+    "Text": "Cast (Female)",
+    "Enabled": true
   },
   "22411": {
     "OriginalText": "キャスト似外(男性)",
