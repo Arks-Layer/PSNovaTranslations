@@ -484,27 +484,33 @@
   },
   "183410": {
     "OriginalText": "バンクゥ",
-    "Text": ""
+    "Text": "Bank",
+    "Enabled": true
   },
   "183420": {
     "OriginalText": "フレスバンクゥ",
-    "Text": ""
+    "Text": "Fresc Bank",
+    "Enabled": true
   },
   "183430": {
     "OriginalText": "ヴェンバンクゥ",
-    "Text": ""
+    "Text": "Venn Bank",
+    "Enabled": true
   },
   "183440": {
     "OriginalText": "トネルバンクゥ",
-    "Text": ""
+    "Text": "Toner Bank",
+    "Enabled": true
   },
   "183450": {
     "OriginalText": "スォロバンクゥ",
-    "Text": ""
+    "Text": "Swole Bank",
+    "Enabled": true
   },
   "183460": {
     "OriginalText": "バンクゥ・フリュ",
-    "Text": ""
+    "Text": "Bank Flu",
+    "Enabled": true
   },
   "183510": {
     "OriginalText": "マクロージ",
