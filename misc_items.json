@@ -220,7 +220,8 @@
   },
   "350048": {
     "OriginalText": "白い岩石",
-    "Text": ""
+    "Text": "White Rock",
+    "Enabled": true
   },
   "350049": {
     "OriginalText": "樹木状の鉱物",
@@ -640,7 +641,8 @@
   },
   "350150": {
     "OriginalText": "ラッピーチケット",
-    "Text": ""
+    "Text": "Rappy Ticket",
+    "Enabled": true
   },
   "350151": {
     "OriginalText": "ホワイトチケット",
@@ -676,7 +678,8 @@
   },
   "350159": {
     "OriginalText": "獣の皮片",
-    "Text": ""
+    "Text": "Beast Pelt",
+    "Enabled": true
   },
   "350160": {
     "OriginalText": "するどい牙",
@@ -684,7 +687,8 @@
   },
   "350161": {
     "OriginalText": "鳥の皮片",
-    "Text": ""
+    "Text": "Bird Pelt",
+    "Enabled": true
   },
   "350162": {
     "OriginalText": "巨大獣の皮片",
