@@ -684,19 +684,23 @@
   },
   "184310": {
     "OriginalText": "ミステルン",
-    "Text": ""
+    "Text": "Mysteron",
+	 "Enabled": true
   },
   "184320": {
     "OriginalText": "アガミステルン",
-    "Text": ""
+    "Text": "Aga Mysteron",
+	 "Enabled": true
   },
   "184330": {
     "OriginalText": "ラピミステルン",
-    "Text": ""
+    "Text": "Rappy Mysteron",
+	 "Enabled": true
   },
   "184340": {
     "OriginalText": "ミステルン・オーロ",
-    "Text": ""
+    "Text": "Mysteron Oro",
+	 "Enabled": true
   },
   "184410": {
     "OriginalText": "シルブカーネベア",
