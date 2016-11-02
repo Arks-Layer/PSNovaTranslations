@@ -1,1316 +1,1695 @@
-
-  "160000": {
+  "820000": {
     "OriginalText": "なし",
     "Text": "None",
     "Enabled": true
   },
-  "160001": {
-    "OriginalText": "ＨＰ",
+  "820001": {
+    "OriginalText": "打撃力が２５上昇する。",
     "Text": "",
     "Enabled": false
   },
-  "160002": {
-    "OriginalText": "ＧＰ",
+  "820002": {
+    "OriginalText": "打撃力が５０上昇する。",
     "Text": "",
     "Enabled": false
   },
-  "160003": {
-    "OriginalText": "打撃力",
+  "820003": {
+    "OriginalText": "打撃力が１００上昇する。",
     "Text": "",
     "Enabled": false
   },
-  "160004": {
-    "OriginalText": "射撃力",
+  "820004": {
+    "OriginalText": "打撃力が１５０上昇する。",
     "Text": "",
     "Enabled": false
   },
-  "160005": {
-    "OriginalText": "法撃力",
+  "820005": {
+    "OriginalText": "打撃力が２００上昇する。",
     "Text": "",
     "Enabled": false
   },
-  "160006": {
-    "OriginalText": "技量",
+  "820006": {
+    "OriginalText": "射撃力が２５上昇する。",
     "Text": "",
     "Enabled": false
   },
-  "160007": {
-    "OriginalText": "打撃防御",
+  "820007": {
+    "OriginalText": "射撃力が５０上昇する。",
     "Text": "",
     "Enabled": false
   },
-  "160008": {
-    "OriginalText": "射撃防御",
+  "820008": {
+    "OriginalText": "射撃力が１００上昇する。",
     "Text": "",
     "Enabled": false
   },
-  "160009": {
-    "OriginalText": "法撃防御",
+  "820009": {
+    "OriginalText": "射撃力が１５０上昇する。",
     "Text": "",
     "Enabled": false
   },
-  "160010": {
-    "OriginalText": "残ＨＰ",
+  "820010": {
+    "OriginalText": "射撃力が２００上昇する。",
     "Text": "",
     "Enabled": false
   },
-  "160011": {
-    "OriginalText": "炎属性攻撃力",
+  "820011": {
+    "OriginalText": "法撃力が２５上昇する。",
     "Text": "",
     "Enabled": false
   },
-  "160012": {
-    "OriginalText": "氷属性攻撃力",
+  "820012": {
+    "OriginalText": "法撃力が５０上昇する。",
     "Text": "",
     "Enabled": false
   },
-  "160013": {
-    "OriginalText": "雷属性攻撃力",
+  "820013": {
+    "OriginalText": "法撃力が１００上昇する。",
     "Text": "",
     "Enabled": false
   },
-  "160014": {
-    "OriginalText": "風属性攻撃力",
+  "820014": {
+    "OriginalText": "法撃力が１５０上昇する。",
     "Text": "",
     "Enabled": false
   },
-  "160015": {
-    "OriginalText": "光属性攻撃力",
+  "820015": {
+    "OriginalText": "法撃力が２００上昇する。",
     "Text": "",
     "Enabled": false
   },
-  "160016": {
-    "OriginalText": "闇属性攻撃力",
+  "820016": {
+    "OriginalText": "ＨＰの上限値が１００上昇する。",
     "Text": "",
     "Enabled": false
   },
-  "160017": {
-    "OriginalText": "ＨＰアップ",
+  "820017": {
+    "OriginalText": "ＨＰの上限値が２００上昇する。",
     "Text": "",
     "Enabled": false
   },
-  "160018": {
-    "OriginalText": "攻撃力アップ",
+  "820018": {
+    "OriginalText": "ＨＰの上限値が３００上昇する。",
     "Text": "",
     "Enabled": false
   },
-  "160019": {
-    "OriginalText": "",
+  "820019": {
+    "OriginalText": "ＨＰの上限値が４００上昇する。",
     "Text": "",
     "Enabled": false
   },
-  "160020": {
-    "OriginalText": "",
+  "820020": {
+    "OriginalText": "ＨＰの上限値が５００上昇する。",
     "Text": "",
     "Enabled": false
   },
-  "160021": {
-    "OriginalText": "防御力アップ",
+  "820021": {
+    "OriginalText": "ＧＰの上限値が３上昇する。",
     "Text": "",
     "Enabled": false
   },
-  "160022": {
-    "OriginalText": "",
+  "820022": {
+    "OriginalText": "ＧＰの上限値が６上昇する。",
     "Text": "",
     "Enabled": false
   },
-  "160023": {
-    "OriginalText": "効果範囲倍率",
+  "820023": {
+    "OriginalText": "ＧＰの上限値が１０上昇する。",
     "Text": "",
     "Enabled": false
   },
-  "160024": {
-    "OriginalText": "シフタ発生回数加算",
+  "820024": {
+    "OriginalText": "ＧＰの上限値が１５上昇する。",
     "Text": "",
     "Enabled": false
   },
-  "160025": {
-    "OriginalText": "デバンド発生回数加算",
+  "820025": {
+    "OriginalText": "ＧＰの上限値が２０上昇する。",
     "Text": "",
     "Enabled": false
   },
-  "160026": {
-    "OriginalText": "ＧＰ回復量アップ",
+  "820026": {
+    "OriginalText": "技量が１０上昇する。",
     "Text": "",
     "Enabled": false
   },
-  "160027": {
-    "OriginalText": "リキャスト短縮時間補正",
+  "820027": {
+    "OriginalText": "技量が２０上昇する。",
     "Text": "",
     "Enabled": false
   },
-  "160028": {
-    "OriginalText": "GBポイント上昇量",
+  "820028": {
+    "OriginalText": "技量が３０上昇する。",
     "Text": "",
     "Enabled": false
   },
-  "160029": {
-    "OriginalText": "消費ＧＰ",
+  "820029": {
+    "OriginalText": "技量が４０上昇する。",
     "Text": "",
     "Enabled": false
   },
-  "160030": {
-    "OriginalText": "アイテムドロップ",
+  "820030": {
+    "OriginalText": "技量が５０上昇する。",
     "Text": "",
     "Enabled": false
   },
-  "160031": {
-    "OriginalText": "レアドロップ",
+  "820031": {
+    "OriginalText": "削除",
     "Text": "",
     "Enabled": false
   },
-  "160032": {
-    "OriginalText": "経験値",
+  "820032": {
+    "OriginalText": "削除",
     "Text": "",
     "Enabled": false
   },
-  "160033": {
-    "OriginalText": "ヘイト上昇率アップ",
+  "820033": {
+    "OriginalText": "削除",
     "Text": "",
     "Enabled": false
   },
-  "160034": {
-    "OriginalText": "ＨＰ吸収比率",
+  "820034": {
+    "OriginalText": "打撃力、射撃力、法撃力、\n打撃防御力、射撃防御力、法撃防御力が\n１０上昇し、技量が５上昇する。",
     "Text": "",
     "Enabled": false
   },
-  "160035": {
-    "OriginalText": "アイテム回復量",
+  "820035": {
+    "OriginalText": "打撃力、射撃力、法撃力、\n打撃防御力、射撃防御力、法撃防御力が\n２５上昇し、技量が１０上昇する。",
     "Text": "",
     "Enabled": false
   },
-  "160036": {
-    "OriginalText": "確率でリアクション無効",
+  "820036": {
+    "OriginalText": "打撃力、射撃力、法撃力、\n打撃防御力、射撃防御力、法撃防御力が\n３５上昇し、技量が１５上昇する。",
     "Text": "",
     "Enabled": false
   },
-  "160037": {
-    "OriginalText": "与ダメージ倍率補正",
+  "820037": {
+    "OriginalText": "打撃力、射撃力、法撃力、\n打撃防御力、射撃防御力、法撃防御力が\n５０上昇し、技量が２０上昇する。",
     "Text": "",
     "Enabled": false
   },
-  "160038": {
-    "OriginalText": "打撃耐性",
+  "820038": {
+    "OriginalText": "打撃力、射撃力、法撃力、\n打撃防御力、射撃防御力、法撃防御力が\n７５上昇し、技量が２５上昇する。",
     "Text": "",
     "Enabled": false
   },
-  "160039": {
-    "OriginalText": "属性攻撃力補正",
+  "820039": {
+    "OriginalText": "打撃防御力が２５上昇する。",
     "Text": "",
     "Enabled": false
   },
-  "160040": {
-    "OriginalText": "技量補正量",
+  "820040": {
+    "OriginalText": "打撃防御力が５０上昇する。",
     "Text": "",
     "Enabled": false
   },
-  "160041": {
-    "OriginalText": "クリティカル率アップ",
+  "820041": {
+    "OriginalText": "打撃防御力が１００上昇する。",
     "Text": "",
     "Enabled": false
   },
-  "160042": {
-    "OriginalText": "炎属性ダウン発生率",
+  "820042": {
+    "OriginalText": "打撃防御力が１５０上昇する。",
     "Text": "",
     "Enabled": false
   },
-  "160043": {
-    "OriginalText": "氷属性ダウン発生率",
+  "820043": {
+    "OriginalText": "打撃防御力が２００上昇する。",
     "Text": "",
     "Enabled": false
   },
-  "160044": {
-    "OriginalText": "雷属性ダウン発生率",
+  "820044": {
+    "OriginalText": "射撃防御力が２５上昇する。",
     "Text": "",
     "Enabled": false
   },
-  "160045": {
-    "OriginalText": "風属性ダウン発生率",
+  "820045": {
+    "OriginalText": "射撃防御力が５０上昇する。",
     "Text": "",
     "Enabled": false
   },
-  "160046": {
-    "OriginalText": "光属性ダウン発生率",
+  "820046": {
+    "OriginalText": "射撃防御力が１００上昇する。",
     "Text": "",
     "Enabled": false
   },
-  "160047": {
-    "OriginalText": "闇属性ダウン発生率",
+  "820047": {
+    "OriginalText": "射撃防御力が１５０上昇する。",
     "Text": "",
     "Enabled": false
   },
-  "160048": {
-    "OriginalText": "追加：バインド",
+  "820048": {
+    "OriginalText": "射撃防御力が２００上昇する。",
     "Text": "",
     "Enabled": false
   },
-  "160049": {
-    "OriginalText": "追加：インフェクション",
+  "820049": {
+    "OriginalText": "法撃防御力が２５上昇する。",
     "Text": "",
     "Enabled": false
   },
-  "160050": {
-    "OriginalText": "追加：ブラインド",
+  "820050": {
+    "OriginalText": "法撃防御力が５０上昇する。",
     "Text": "",
     "Enabled": false
   },
-  "160051": {
-    "OriginalText": "追加：グラン中毒",
+  "820051": {
+    "OriginalText": "法撃防御力が１００上昇する。",
     "Text": "",
     "Enabled": false
   },
-  "160052": {
-    "OriginalText": "全属性耐性ダウン発生率",
+  "820052": {
+    "OriginalText": "法撃防御力が１５０上昇する。",
     "Text": "",
     "Enabled": false
   },
-  "160053": {
-    "OriginalText": "状態異常発生率補正",
+  "820053": {
+    "OriginalText": "法撃防御力が２００上昇する。",
     "Text": "",
     "Enabled": false
   },
-  "160054": {
-    "OriginalText": "状態異常レベル",
+  "820054": {
+    "OriginalText": "打撃によるダメージが３％軽滅される。",
     "Text": "",
     "Enabled": false
   },
-  "160055": {
-    "OriginalText": "ガード実行",
+  "820055": {
+    "OriginalText": "打撃によるダメージが４％軽滅される。",
     "Text": "",
     "Enabled": false
   },
-  "160056": {
-    "OriginalText": "スタイリッシュロール実行",
+  "820056": {
+    "OriginalText": "打撃によるダメージが５％軽滅される。",
     "Text": "",
     "Enabled": false
   },
-  "160057": {
-    "OriginalText": "スウェー実行",
+  "820057": {
+    "OriginalText": "打撃によるダメージが６％軽滅される。",
     "Text": "",
     "Enabled": false
   },
-  "160058": {
-    "OriginalText": "",
+  "820058": {
+    "OriginalText": "打撃によるダメージが７％軽滅される。",
     "Text": "",
     "Enabled": false
   },
-  "160059": {
-    "OriginalText": "",
+  "820059": {
+    "OriginalText": "射撃によるダメージが３％軽滅される。",
     "Text": "",
     "Enabled": false
   },
-  "160060": {
-    "OriginalText": "敵のヘイト値",
+  "820060": {
+    "OriginalText": "射撃によるダメージが４％軽滅される。",
     "Text": "",
     "Enabled": false
   },
-  "160061": {
-    "OriginalText": "",
+  "820061": {
+    "OriginalText": "射撃によるダメージが５％軽滅される。",
     "Text": "",
     "Enabled": false
   },
-  "160062": {
-    "OriginalText": "自分ＨＰ回復",
+  "820062": {
+    "OriginalText": "射撃によるダメージが６％軽滅される。",
     "Text": "",
     "Enabled": false
   },
-  "160063": {
-    "OriginalText": "周囲ＨＰ回復",
+  "820063": {
+    "OriginalText": "射撃によるダメージが７％軽滅される。",
     "Text": "",
     "Enabled": false
   },
-  "160064": {
-    "OriginalText": "周囲状態異常回復",
+  "820064": {
+    "OriginalText": "法撃によるダメージが３％軽滅される。",
     "Text": "",
     "Enabled": false
   },
-  "160065": {
-    "OriginalText": "周囲戦闘不能回復",
+  "820065": {
+    "OriginalText": "法撃によるダメージが４％軽滅される。",
     "Text": "",
     "Enabled": false
   },
-  "160066": {
-    "OriginalText": "効果範囲",
+  "820066": {
+    "OriginalText": "法撃によるダメージが５％軽滅される。",
     "Text": "",
     "Enabled": false
   },
-  "160067": {
-    "OriginalText": "自分戦闘不能回復",
+  "820067": {
+    "OriginalText": "法撃によるダメージが６％軽滅される。",
     "Text": "",
     "Enabled": false
   },
-  "160068": {
-    "OriginalText": "",
+  "820068": {
+    "OriginalText": "法撃によるダメージが７％軽滅される。",
     "Text": "",
     "Enabled": false
   },
-  "160069": {
-    "OriginalText": "",
+  "820069": {
+    "OriginalText": "炎属性の攻撃力が１０上昇する。",
     "Text": "",
     "Enabled": false
   },
-  "160070": {
-    "OriginalText": "",
+  "820070": {
+    "OriginalText": "炎属性の攻撃力が２０上昇する。",
     "Text": "",
     "Enabled": false
   },
-  "160071": {
-    "OriginalText": "",
+  "820071": {
+    "OriginalText": "炎属性の攻撃力が３０上昇する。",
     "Text": "",
     "Enabled": false
   },
-  "160072": {
-    "OriginalText": "",
+  "820072": {
+    "OriginalText": "炎属性の攻撃力が４０上昇する。",
     "Text": "",
     "Enabled": false
   },
-  "160073": {
-    "OriginalText": "",
+  "820073": {
+    "OriginalText": "炎属性の攻撃力が５０上昇する。",
     "Text": "",
     "Enabled": false
   },
-  "160074": {
-    "OriginalText": "",
+  "820074": {
+    "OriginalText": "氷属性の攻撃力が１０上昇する。",
     "Text": "",
     "Enabled": false
   },
-  "160075": {
-    "OriginalText": "",
+  "820075": {
+    "OriginalText": "氷属性の攻撃力が２０上昇する。",
     "Text": "",
     "Enabled": false
   },
-  "160076": {
-    "OriginalText": "",
+  "820076": {
+    "OriginalText": "氷属性の攻撃力が３０上昇する。",
     "Text": "",
     "Enabled": false
   },
-  "160077": {
-    "OriginalText": "",
+  "820077": {
+    "OriginalText": "氷属性の攻撃力が４０上昇する。",
     "Text": "",
     "Enabled": false
   },
-  "160078": {
-    "OriginalText": "",
+  "820078": {
+    "OriginalText": "氷属性の攻撃力が５０上昇する。",
     "Text": "",
     "Enabled": false
   },
-  "160079": {
-    "OriginalText": "",
+  "820079": {
+    "OriginalText": "雷属性の攻撃力が１０上昇する。",
     "Text": "",
     "Enabled": false
   },
-  "160080": {
-    "OriginalText": "",
+  "820080": {
+    "OriginalText": "雷属性の攻撃力が２０上昇する。",
     "Text": "",
     "Enabled": false
   },
-  "160081": {
-    "OriginalText": "",
+  "820081": {
+    "OriginalText": "雷属性の攻撃力が３０上昇する。",
     "Text": "",
     "Enabled": false
   },
-  "160082": {
-    "OriginalText": "",
+  "820082": {
+    "OriginalText": "雷属性の攻撃力が４０上昇する。",
     "Text": "",
     "Enabled": false
   },
-  "160083": {
-    "OriginalText": "",
+  "820083": {
+    "OriginalText": "雷属性の攻撃力が５０上昇する。",
     "Text": "",
     "Enabled": false
   },
-  "160084": {
-    "OriginalText": "",
+  "820084": {
+    "OriginalText": "風属性の攻撃力が１０上昇する。",
     "Text": "",
     "Enabled": false
   },
-  "160085": {
-    "OriginalText": "",
+  "820085": {
+    "OriginalText": "風属性の攻撃力が２０上昇する。",
     "Text": "",
     "Enabled": false
   },
-  "160086": {
-    "OriginalText": "",
+  "820086": {
+    "OriginalText": "風属性の攻撃力が３０上昇する。",
     "Text": "",
     "Enabled": false
   },
-  "160087": {
-    "OriginalText": "",
+  "820087": {
+    "OriginalText": "風属性の攻撃力が４０上昇する。",
     "Text": "",
     "Enabled": false
   },
-  "160088": {
-    "OriginalText": "",
+  "820088": {
+    "OriginalText": "風属性の攻撃力が５０上昇する。",
     "Text": "",
     "Enabled": false
   },
-  "160089": {
-    "OriginalText": "",
+  "820089": {
+    "OriginalText": "光属性の攻撃力が１０上昇する。",
     "Text": "",
     "Enabled": false
   },
-  "160090": {
-    "OriginalText": "",
+  "820090": {
+    "OriginalText": "光属性の攻撃力が２０上昇する。",
     "Text": "",
     "Enabled": false
   },
-  "160091": {
-    "OriginalText": "",
+  "820091": {
+    "OriginalText": "光属性の攻撃力が３０上昇する。",
     "Text": "",
     "Enabled": false
   },
-  "160092": {
-    "OriginalText": "",
+  "820092": {
+    "OriginalText": "光属性の攻撃力が４０上昇する。",
     "Text": "",
     "Enabled": false
   },
-  "160093": {
-    "OriginalText": "",
+  "820093": {
+    "OriginalText": "光属性の攻撃力が５０上昇する。",
     "Text": "",
     "Enabled": false
   },
-  "160094": {
-    "OriginalText": "",
+  "820094": {
+    "OriginalText": "闇属性の攻撃力が１０上昇する。",
     "Text": "",
     "Enabled": false
   },
-  "160095": {
-    "OriginalText": "",
+  "820095": {
+    "OriginalText": "闇属性の攻撃力が２０上昇する。",
     "Text": "",
     "Enabled": false
   },
-  "160096": {
-    "OriginalText": "",
+  "820096": {
+    "OriginalText": "闇属性の攻撃力が３０上昇する。",
     "Text": "",
     "Enabled": false
   },
-  "160097": {
-    "OriginalText": "",
+  "820097": {
+    "OriginalText": "闇属性の攻撃力が４０上昇する。",
     "Text": "",
     "Enabled": false
   },
-  "160098": {
-    "OriginalText": "",
+  "820098": {
+    "OriginalText": "闇属性の攻撃力が５０上昇する。",
     "Text": "",
     "Enabled": false
   },
-  "160099": {
-    "OriginalText": "",
+  "820099": {
+    "OriginalText": "炎属性の攻撃によるダメージが\n５％軽滅される。",
     "Text": "",
     "Enabled": false
   },
-  "160100": {
-    "OriginalText": "",
+  "820100": {
+    "OriginalText": "炎属性の攻撃によるダメージが\n６％軽滅される。",
     "Text": "",
     "Enabled": false
   },
-  "160101": {
-    "OriginalText": "",
+  "820101": {
+    "OriginalText": "炎属性の攻撃によるダメージが\n７％軽滅される。",
     "Text": "",
     "Enabled": false
   },
-  "160102": {
-    "OriginalText": "",
+  "820102": {
+    "OriginalText": "炎属性の攻撃によるダメージが\n８％軽滅される。",
     "Text": "",
     "Enabled": false
   },
-  "160103": {
-    "OriginalText": "",
+  "820103": {
+    "OriginalText": "炎属性の攻撃によるダメージが\n１０％軽滅される。",
     "Text": "",
     "Enabled": false
   },
-  "160104": {
-    "OriginalText": "ジャストガード使用可能フラグ",
+  "820104": {
+    "OriginalText": "氷属性の攻撃によるダメージが\n５％軽滅される。",
     "Text": "",
     "Enabled": false
   },
-  "160105": {
-    "OriginalText": "ステップ使用フラグ",
+  "820105": {
+    "OriginalText": "氷属性の攻撃によるダメージが\n６％軽滅される。",
     "Text": "",
     "Enabled": false
   },
-  "160106": {
-    "OriginalText": "ステップアタック使用フラグ",
+  "820106": {
+    "OriginalText": "氷属性の攻撃によるダメージが\n７％軽滅される。",
     "Text": "",
     "Enabled": false
   },
-  "160107": {
-    "OriginalText": "ダイブロール使用可能フラグ",
+  "820107": {
+    "OriginalText": "氷属性の攻撃によるダメージが\n８％軽滅される。",
     "Text": "",
     "Enabled": false
   },
-  "160108": {
-    "OriginalText": "ミラージュエスケープ使用可能フラグ",
+  "820108": {
+    "OriginalText": "氷属性の攻撃によるダメージが\n１０％軽滅される。",
     "Text": "",
     "Enabled": false
   },
-  "160109": {
-    "OriginalText": "テクニック使用可能フラグ",
+  "820109": {
+    "OriginalText": "雷属性の攻撃によるダメージが\n５％軽滅される。",
     "Text": "",
     "Enabled": false
   },
-  "160110": {
-    "OriginalText": "",
+  "820110": {
+    "OriginalText": "雷属性の攻撃によるダメージが\n６％軽滅される。",
     "Text": "",
     "Enabled": false
   },
-  "160111": {
-    "OriginalText": "クイック武器変更PA使用可能フラグ",
+  "820111": {
+    "OriginalText": "雷属性の攻撃によるダメージが\n７％軽滅される。",
     "Text": "",
     "Enabled": false
   },
-  "160112": {
-    "OriginalText": "JGA有効フラグ",
+  "820112": {
+    "OriginalText": "雷属性の攻撃によるダメージが\n８％軽滅される。",
     "Text": "",
     "Enabled": false
   },
-  "160113": {
-    "OriginalText": "ジャストカウンター使用可能フラグ",
+  "820113": {
+    "OriginalText": "雷属性の攻撃によるダメージが\n１０％軽滅される。",
     "Text": "",
     "Enabled": false
   },
-  "160114": {
-    "OriginalText": "ガードＧＰ変換有効フラグ",
+  "820114": {
+    "OriginalText": "風属性の攻撃によるダメージが\n５％軽滅される。",
     "Text": "",
     "Enabled": false
   },
-  "160115": {
-    "OriginalText": "ダイブロール時の無敵フラグ",
+  "820115": {
+    "OriginalText": "風属性の攻撃によるダメージが\n６％軽滅される。",
     "Text": "",
     "Enabled": false
   },
-  "160116": {
-    "OriginalText": "コンセントレーション有効フラグ",
+  "820116": {
+    "OriginalText": "風属性の攻撃によるダメージが\n７％軽滅される。",
     "Text": "",
     "Enabled": false
   },
-  "160117": {
-    "OriginalText": "状態異常お返し",
+  "820117": {
+    "OriginalText": "風属性の攻撃によるダメージが\n８％軽滅される。",
     "Text": "",
     "Enabled": false
   },
-  "160118": {
-    "OriginalText": "オートメイト発動確率",
+  "820118": {
+    "OriginalText": "風属性の攻撃によるダメージが\n１０％軽滅される。",
     "Text": "",
     "Enabled": false
   },
-  "160119": {
-    "OriginalText": "ソード装備可能フラグ",
+  "820119": {
+    "OriginalText": "光属性の攻撃によるダメージが\n５％軽滅される。",
     "Text": "",
     "Enabled": false
   },
-  "160120": {
-    "OriginalText": "パルチザン装備可能フラグ",
+  "820120": {
+    "OriginalText": "光属性の攻撃によるダメージが\n６％軽滅される。",
     "Text": "",
     "Enabled": false
   },
-  "160121": {
-    "OriginalText": "ダブルセイバー装備可能フラグ",
+  "820121": {
+    "OriginalText": "光属性の攻撃によるダメージが\n７％軽滅される。",
     "Text": "",
     "Enabled": false
   },
-  "160122": {
-    "OriginalText": "アサルトライフル装備可能フラグ",
+  "820122": {
+    "OriginalText": "光属性の攻撃によるダメージが\n８％軽滅される。",
     "Text": "",
     "Enabled": false
   },
-  "160123": {
-    "OriginalText": "ツインマシンガン装備可能フラグ",
+  "820123": {
+    "OriginalText": "光属性の攻撃によるダメージが\n１０％軽滅される。",
     "Text": "",
     "Enabled": false
   },
-  "160124": {
-    "OriginalText": "ロッド装備可能フラグ",
+  "820124": {
+    "OriginalText": "闇属性の攻撃によるダメージが\n５％軽滅される。",
     "Text": "",
     "Enabled": false
   },
-  "160125": {
-    "OriginalText": "タリス装備可能フラグ",
+  "820125": {
+    "OriginalText": "闇属性の攻撃によるダメージが\n６％軽滅される。",
     "Text": "",
     "Enabled": false
   },
-  "160126": {
-    "OriginalText": "ウォンド装備可能フラグ",
+  "820126": {
+    "OriginalText": "闇属性の攻撃によるダメージが\n７％軽滅される。",
     "Text": "",
     "Enabled": false
   },
-  "160127": {
-    "OriginalText": "パイル装備可能フラグ",
+  "820127": {
+    "OriginalText": "闇属性の攻撃によるダメージが\n８％軽滅される。",
     "Text": "",
     "Enabled": false
   },
-  "160128": {
-    "OriginalText": "ヘイロウ装備可能フラグ",
+  "820128": {
+    "OriginalText": "闇属性の攻撃によるダメージが\n１０％軽滅される。",
     "Text": "",
     "Enabled": false
   },
-  "160129": {
-    "OriginalText": "敵レア出現率",
+  "820129": {
+    "OriginalText": "全属性の攻撃によるダメージが\n３％軽滅される。",
     "Text": "",
     "Enabled": false
   },
-  "160130": {
-    "OriginalText": "敵ブースト出現率",
+  "820130": {
+    "OriginalText": "全属性の攻撃によるダメージが\n５％軽滅される。",
     "Text": "",
     "Enabled": false
   },
-  "160131": {
-    "OriginalText": "バースト時間延長",
+  "820131": {
+    "OriginalText": "全属性の攻撃によるダメージが\n６％軽滅される。",
     "Text": "",
     "Enabled": false
   },
-  "160132": {
-    "OriginalText": "レベル",
+  "820132": {
+    "OriginalText": "全属性の攻撃によるダメージが\n７％軽滅される。",
     "Text": "",
     "Enabled": false
   },
-  "160133": {
-    "OriginalText": "",
+  "820133": {
+    "OriginalText": "全属性の攻撃によるダメージが\n８％軽滅される。",
     "Text": "",
     "Enabled": false
   },
-  "160134": {
-    "OriginalText": "",
+  "820134": {
+    "OriginalText": "アイテムドロップ率が５％増加する。",
     "Text": "",
     "Enabled": false
   },
-  "160135": {
-    "OriginalText": "",
+  "820135": {
+    "OriginalText": "アイテムドロップ率が１０％増加する。",
     "Text": "",
     "Enabled": false
   },
-  "160136": {
-    "OriginalText": "",
+  "820136": {
+    "OriginalText": "取得する経験値が５％増加する。",
     "Text": "",
     "Enabled": false
   },
-  "160137": {
-    "OriginalText": "",
+  "820137": {
+    "OriginalText": "取得する経験値が１０％増加する。",
     "Text": "",
     "Enabled": false
   },
-  "160138": {
-    "OriginalText": "",
+  "820138": {
+    "OriginalText": "敵をバインド状態にする確率を\n３％上昇させる。",
     "Text": "",
     "Enabled": false
   },
-  "160139": {
-    "OriginalText": "",
+  "820139": {
+    "OriginalText": "敵をバインド状態にする確率を\n４％上昇させる。",
     "Text": "",
     "Enabled": false
   },
-  "160140": {
-    "OriginalText": "",
+  "820140": {
+    "OriginalText": "敵をバインド状態にする確率を\n５％上昇させる。",
     "Text": "",
     "Enabled": false
   },
-  "160141": {
-    "OriginalText": "",
+  "820141": {
+    "OriginalText": "敵をバインド状態にする確率を\n６％上昇させる。",
     "Text": "",
     "Enabled": false
   },
-  "160142": {
-    "OriginalText": "",
+  "820142": {
+    "OriginalText": "敵をバインド状態にする確率を\n７％上昇させる。",
     "Text": "",
     "Enabled": false
   },
-  "160143": {
-    "OriginalText": "",
+  "820143": {
+    "OriginalText": "敵をインフェクション状態にする確率を\n３％上昇させる。",
     "Text": "",
     "Enabled": false
   },
-  "160144": {
-    "OriginalText": "入手グラン量",
+  "820144": {
+    "OriginalText": "敵をインフェクション状態にする確率を\n４％上昇させる。",
     "Text": "",
     "Enabled": false
   },
-  "160145": {
-    "OriginalText": "Gブースター効果",
+  "820145": {
+    "OriginalText": "敵をインフェクション状態にする確率を\n５％上昇させる。",
     "Text": "",
     "Enabled": false
   },
-  "160146": {
-    "OriginalText": "Gブースター範囲",
+  "820146": {
+    "OriginalText": "敵をインフェクション状態にする確率を\n６％上昇させる。",
     "Text": "",
     "Enabled": false
   },
-  "160147": {
-    "OriginalText": "Eレーダー適用地路",
+  "820147": {
+    "OriginalText": "敵をインフェクション状態にする確率を\n７％上昇させる。",
     "Text": "",
     "Enabled": false
   },
-  "160148": {
-    "OriginalText": "エステ選択区目UP",
+  "820148": {
+    "OriginalText": "敵をブラインド状態にする確率を\n１％上昇させる。",
     "Text": "",
     "Enabled": false
   },
-  "160149": {
-    "OriginalText": "アイテム探索",
+  "820149": {
+    "OriginalText": "敵をブラインド状態にする確率を\n２％上昇させる。",
     "Text": "",
     "Enabled": false
   },
-  "160150": {
-    "OriginalText": "レアアイテム探索",
+  "820150": {
+    "OriginalText": "敵をブラインド状態にする確率を\n３％上昇させる。",
     "Text": "",
     "Enabled": false
   },
-  "160151": {
-    "OriginalText": "I探索適用地路",
+  "820151": {
+    "OriginalText": "敵をブラインド状態にする確率を\n４％上昇させる。",
     "Text": "",
     "Enabled": false
   },
-  "160152": {
-    "OriginalText": "エネミーレーダー",
+  "820152": {
+    "OriginalText": "敵をブラインド状態にする確率を\n５％上昇させる。",
     "Text": "",
     "Enabled": false
   },
-  "160153": {
-    "OriginalText": "BURST：経験値UP",
+  "820153": {
+    "OriginalText": "敵をグラン中毒状態にする確率を\n１％上昇させる。",
     "Text": "",
     "Enabled": false
   },
-  "160154": {
-    "OriginalText": "BURST：アイテム",
+  "820154": {
+    "OriginalText": "敵をグラン中毒状態にする確率を\n２％上昇させる。",
     "Text": "",
     "Enabled": false
   },
-  "160155": {
-    "OriginalText": "BURST：レアエネミー",
+  "820155": {
+    "OriginalText": "敵をグラン中毒状態にする確率を\n３％上昇させる。",
     "Text": "",
     "Enabled": false
   },
-  "160156": {
-    "OriginalText": "BURST：レアドロップ",
+  "820156": {
+    "OriginalText": "敵をグラン中毒状態にする確率を\n４％上昇させる。",
     "Text": "",
     "Enabled": false
   },
-  "160157": {
-    "OriginalText": "BURST：原生種",
+  "820157": {
+    "OriginalText": "敵をグラン中毒状態にする確率を\n５％上昇させる。",
     "Text": "",
     "Enabled": false
   },
-  "160158": {
-    "OriginalText": "BURST：ダーカー",
+  "820158": {
+    "OriginalText": "敵の炎耐性を下げる確率を\n１０％上昇させる。",
     "Text": "",
     "Enabled": false
   },
-  "160159": {
-    "OriginalText": "BURST：ワンモア",
+  "820159": {
+    "OriginalText": "敵の炎耐性を下げる確率を\n１２％上昇させる。",
     "Text": "",
     "Enabled": false
   },
-  "160160": {
-    "OriginalText": "BURST：ガッツ",
+  "820160": {
+    "OriginalText": "敵の炎耐性を下げる確率を\n１５％上昇させる。",
     "Text": "",
     "Enabled": false
   },
-  "160161": {
-    "OriginalText": "BURST：ダメージカット",
+  "820161": {
+    "OriginalText": "敵の炎耐性を下げる確率を\n１８％上昇させる。",
     "Text": "",
     "Enabled": false
   },
-  "160162": {
-    "OriginalText": "BURST：コンバージョン",
+  "820162": {
+    "OriginalText": "敵の炎耐性を下げる確率を\n２０％上昇させる。",
     "Text": "",
     "Enabled": false
   },
-  "160163": {
-    "OriginalText": "BURST：クリティカル",
+  "820163": {
+    "OriginalText": "敵の氷耐性を下げる確率を\n１０％上昇させる。",
     "Text": "",
     "Enabled": false
   },
-  "160164": {
-    "OriginalText": "BURST：モータルブロウ",
+  "820164": {
+    "OriginalText": "敵の氷耐性を下げる確率を\n１２％上昇させる。",
     "Text": "",
     "Enabled": false
   },
-  "160165": {
-    "OriginalText": "",
+  "820165": {
+    "OriginalText": "敵の氷耐性を下げる確率を\n１５％上昇させる。",
     "Text": "",
     "Enabled": false
   },
-  "160166": {
-    "OriginalText": "",
+  "820166": {
+    "OriginalText": "敵の氷耐性を下げる確率を\n１８％上昇させる。",
     "Text": "",
     "Enabled": false
   },
-  "160167": {
-    "OriginalText": "",
+  "820167": {
+    "OriginalText": "敵の氷耐性を下げる確率を\n２０％上昇させる。",
     "Text": "",
     "Enabled": false
   },
-  "160168": {
-    "OriginalText": "",
+  "820168": {
+    "OriginalText": "敵の雷耐性を下げる確率を\n１０％上昇させる。",
     "Text": "",
     "Enabled": false
   },
-  "160169": {
-    "OriginalText": "",
+  "820169": {
+    "OriginalText": "敵の雷耐性を下げる確率を\n１２％上昇させる。",
     "Text": "",
     "Enabled": false
   },
-  "160170": {
-    "OriginalText": "探索：疲労防止",
+  "820170": {
+    "OriginalText": "敵の雷耐性を下げる確率を\n１５％上昇させる。",
     "Text": "",
     "Enabled": false
   },
-  "160171": {
-    "OriginalText": "探索：大成功",
+  "820171": {
+    "OriginalText": "敵の雷耐性を下げる確率を\n１８％上昇させる。",
     "Text": "",
     "Enabled": false
   },
-  "160172": {
-    "OriginalText": "探索：日数",
+  "820172": {
+    "OriginalText": "敵の雷耐性を下げる確率を\n２０％上昇させる。",
     "Text": "",
     "Enabled": false
   },
-  "160173": {
-    "OriginalText": "攻撃アタリ拡大率",
+  "820173": {
+    "OriginalText": "敵の風耐性を下げる確率を\n１０％上昇させる。",
     "Text": "",
     "Enabled": false
   },
-  "160174": {
-    "OriginalText": "攻撃アクション再生速度",
+  "820174": {
+    "OriginalText": "敵の風耐性を下げる確率を\n１２％上昇させる。",
     "Text": "",
     "Enabled": false
   },
-  "160175": {
-    "OriginalText": "ＧＰ回復",
+  "820175": {
+    "OriginalText": "敵の風耐性を下げる確率を\n１５％上昇させる。",
     "Text": "",
     "Enabled": false
   },
-  "160176": {
-    "OriginalText": "同箇所ヒット回数",
+  "820176": {
+    "OriginalText": "敵の風耐性を下げる確率を\n１８％上昇させる。",
     "Text": "",
     "Enabled": false
   },
-  "160177": {
-    "OriginalText": "JA効果時間補正",
+  "820177": {
+    "OriginalText": "敵の風耐性を下げる確率を\n２０％上昇させる。",
     "Text": "",
     "Enabled": false
   },
-  "160178": {
-    "OriginalText": "移動速度アップ",
+  "820178": {
+    "OriginalText": "敵の光耐性を下げる確率を\n１０％上昇させる。",
     "Text": "",
     "Enabled": false
   },
-  "160179": {
-    "OriginalText": "射撃力コンバート",
+  "820179": {
+    "OriginalText": "敵の光耐性を下げる確率を\n１２％上昇させる。",
     "Text": "",
     "Enabled": false
   },
-  "160180": {
-    "OriginalText": "打撃力コンバート",
+  "820180": {
+    "OriginalText": "敵の光耐性を下げる確率を\n１５％上昇させる。",
     "Text": "",
     "Enabled": false
   },
-  "160181": {
-    "OriginalText": "法撃力コンバート",
+  "820181": {
+    "OriginalText": "敵の光耐性を下げる確率を\n１８％上昇させる。",
     "Text": "",
     "Enabled": false
   },
-  "160182": {
-    "OriginalText": "ヒット数増加",
+  "820182": {
+    "OriginalText": "敵の光耐性を下げる確率を\n２０％上昇させる。",
     "Text": "",
     "Enabled": false
   },
-  "160183": {
-    "OriginalText": "",
+  "820183": {
+    "OriginalText": "敵の闇耐性を下げる確率を\n１０％上昇させる。",
     "Text": "",
     "Enabled": false
   },
-  "160184": {
-    "OriginalText": "ＧＰアップ",
+  "820184": {
+    "OriginalText": "敵の闇耐性を下げる確率を\n１２％上昇させる。",
     "Text": "",
     "Enabled": false
   },
-  "160185": {
-    "OriginalText": "炎属性ダメージ",
+  "820185": {
+    "OriginalText": "敵の闇耐性を下げる確率を\n１５％上昇させる。",
     "Text": "",
     "Enabled": false
   },
-  "160186": {
-    "OriginalText": "氷属性ダメージ",
+  "820186": {
+    "OriginalText": "敵の闇耐性を下げる確率を\n１８％上昇させる。",
     "Text": "",
     "Enabled": false
   },
-  "160187": {
-    "OriginalText": "雷属性ダメージ",
+  "820187": {
+    "OriginalText": "敵の闇耐性を下げる確率を\n２０％上昇させる。",
     "Text": "",
     "Enabled": false
   },
-  "160188": {
-    "OriginalText": "風属性ダメージ",
+  "820188": {
+    "OriginalText": "敵の全耐性を下げる確率を\n５％上昇させる。",
     "Text": "",
     "Enabled": false
   },
-  "160189": {
-    "OriginalText": "光属性ダメージ",
+  "820189": {
+    "OriginalText": "敵の全耐性を下げる確率を\n６％上昇させる。",
     "Text": "",
     "Enabled": false
   },
-  "160190": {
-    "OriginalText": "闇属性ダメージ",
+  "820190": {
+    "OriginalText": "敵の全耐性を下げる確率を\n８％上昇させる。",
     "Text": "",
     "Enabled": false
   },
-  "160191": {
-    "OriginalText": "炎耐性",
+  "820191": {
+    "OriginalText": "敵の全耐性を下げる確率を\n１０％上昇させる。",
     "Text": "",
     "Enabled": false
   },
-  "160192": {
-    "OriginalText": "氷耐性",
+  "820192": {
+    "OriginalText": "敵の全耐性を下げる確率を\n１２％上昇させる。",
     "Text": "",
     "Enabled": false
   },
-  "160193": {
-    "OriginalText": "雷耐性",
+  "820193": {
+    "OriginalText": "ジャストアタックの効果が\n４％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
     "Text": "",
     "Enabled": false
   },
-  "160194": {
-    "OriginalText": "風耐性",
+  "820194": {
+    "OriginalText": "ジャストアタックの効果が\n７％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
     "Text": "",
     "Enabled": false
   },
-  "160195": {
-    "OriginalText": "光耐性",
+  "820195": {
+    "OriginalText": "削除",
     "Text": "",
     "Enabled": false
   },
-  "160196": {
-    "OriginalText": "闇耐性",
+  "820196": {
+    "OriginalText": "テクニックジャストアタックの効果が\n４％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
     "Text": "",
     "Enabled": false
   },
-  "160197": {
-    "OriginalText": "弱点ダメージアップ",
+  "820197": {
+    "OriginalText": "テクニックジャストアタックの効果が\n７％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
     "Text": "",
     "Enabled": false
   },
-  "160198": {
-    "OriginalText": "バーストゲージ初期ボーナス",
+  "820198": {
+    "OriginalText": "削除",
     "Text": "",
     "Enabled": false
   },
-  "160199": {
-    "OriginalText": "なし",
-    "Text": "None",
-    "Enabled": true
+  "820199": {
+    "OriginalText": "エネミーに対するヘイト上昇率が５０％\n増加し、防御性能が５％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
+    "Text": "",
+    "Enabled": false
+  },
+  "820200": {
+    "OriginalText": "エネミーに対するヘイト上昇率が８０％\n増加し、防御性能が１０％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
+    "Text": "",
+    "Enabled": false
+  },
+  "820201": {
+    "OriginalText": "削除",
+    "Text": "",
+    "Enabled": false
+  },
+  "820202": {
+    "OriginalText": "エネミーに対するヘイト上昇率を\n１２％滅少させる。\n[a 03]※同名の特殊能力は重復しない[b]",
+    "Text": "",
+    "Enabled": false
+  },
+  "820203": {
+    "OriginalText": "エネミーに対するヘイト上昇率を\n２０％滅少させる。\n[a 03]※同名の特殊能力は重復しない[b]",
+    "Text": "",
+    "Enabled": false
+  },
+  "820204": {
+    "OriginalText": "削除",
+    "Text": "",
+    "Enabled": false
+  },
+  "820205": {
+    "OriginalText": "致命傷を受けても１０％の確率で\nＨＰが１だけ残る。\n[a 03]※同名の特殊能力は重復しない[b]",
+    "Text": "",
+    "Enabled": false
+  },
+  "820206": {
+    "OriginalText": "致命傷を受けても１４％の確率で\nＨＰが１だけ残る。\n[a 03]※同名の特殊能力は重復しない[b]",
+    "Text": "",
+    "Enabled": false
+  },
+  "820207": {
+    "OriginalText": "致命傷を受けても１８％の確率で\nＨＰが１だけ残る。\n[a 03]※同名の特殊能力は重復しない[b]",
+    "Text": "",
+    "Enabled": false
+  },
+  "820208": {
+    "OriginalText": "打撃と射撃のダメージを２０％の確率で\n２０％軽滅する。\n[a 03]※同名の特殊能力は重復しない[b]",
+    "Text": "",
+    "Enabled": false
+  },
+  "820209": {
+    "OriginalText": "打撃と射撃のダメージを３０％の確率で\n２０％軽滅する。\n[a 03]※同名の特殊能力は重復しない[b]",
+    "Text": "",
+    "Enabled": false
+  },
+  "820210": {
+    "OriginalText": "打撃と射撃のダメージを４０％の確率で\n２０％軽滅する。\n[a 03]※同名の特殊能力は重復しない[b]",
+    "Text": "",
+    "Enabled": false
+  },
+  "820211": {
+    "OriginalText": "法撃のダメージを２０％の確率で\n２０％軽滅する。\n[a 03]※同名の特殊能力は重復しない[b]",
+    "Text": "",
+    "Enabled": false
+  },
+  "820212": {
+    "OriginalText": "法撃のダメージを３０％の確率で\n２０％軽滅する。\n[a 03]※同名の特殊能力は重復しない[b]",
+    "Text": "",
+    "Enabled": false
+  },
+  "820213": {
+    "OriginalText": "法撃のダメージを４０％の確率で\n２０％軽滅する。\n[a 03]※同名の特殊能力は重復しない[b]",
+    "Text": "",
+    "Enabled": false
+  },
+  "820214": {
+    "OriginalText": "ＨＰが半分似下のとき、\n打撃力と射撃力が１８０上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
+    "Text": "",
+    "Enabled": false
+  },
+  "820215": {
+    "OriginalText": "ＨＰが半分似下のとき、\n打撃力と射撃力が３００上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
+    "Text": "",
+    "Enabled": false
+  },
+  "820216": {
+    "OriginalText": "削除",
+    "Text": "",
+    "Enabled": false
+  },
+  "820217": {
+    "OriginalText": "弱点への射撃ダメージが５％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
+    "Text": "",
+    "Enabled": false
+  },
+  "820218": {
+    "OriginalText": "弱点への射撃ダメージが９％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
+    "Text": "",
+    "Enabled": false
+  },
+  "820219": {
+    "OriginalText": "削除",
+    "Text": "",
+    "Enabled": false
+  },
+  "820220": {
+    "OriginalText": "至近距離からの攻撃で\n射撃ダメージを１０％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
+    "Text": "",
+    "Enabled": false
+  },
+  "820221": {
+    "OriginalText": "至近距離からの攻撃で\n射撃ダメージを１４％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
+    "Text": "",
+    "Enabled": false
+  },
+  "820222": {
+    "OriginalText": "至近距離からの攻撃で\n射撃ダメージを１８％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
+    "Text": "",
+    "Enabled": false
+  },
+  "820223": {
+    "OriginalText": "空中にいるエネミーに与える\n射撃ダメージが６％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
+    "Text": "",
+    "Enabled": false
+  },
+  "820224": {
+    "OriginalText": "空中にいるエネミーに与える\n射撃ダメージが１０％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
+    "Text": "",
+    "Enabled": false
+  },
+  "820225": {
+    "OriginalText": "空中にいるエネミーに与える\n射撃ダメージが１４％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
+    "Text": "",
+    "Enabled": false
+  },
+  "820226": {
+    "OriginalText": "攻撃時のＧＰ回復量が２０％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
+    "Text": "",
+    "Enabled": false
+  },
+  "820227": {
+    "OriginalText": "攻撃時のＧＰ回復量が４０％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
+    "Text": "",
+    "Enabled": false
+  },
+  "820228": {
+    "OriginalText": "削除",
+    "Text": "",
+    "Enabled": false
+  },
+  "820229": {
+    "OriginalText": "炎属性テクニックのダメージが\n１２％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
+    "Text": "",
+    "Enabled": false
+  },
+  "820230": {
+    "OriginalText": "炎属性テクニックのダメージが\n１６％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
+    "Text": "",
+    "Enabled": false
+  },
+  "820231": {
+    "OriginalText": "炎属性テクニックのダメージが\n２０％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
+    "Text": "",
+    "Enabled": false
+  },
+  "820232": {
+    "OriginalText": "氷属性テクニックのダメージが\n１２％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
+    "Text": "",
+    "Enabled": false
+  },
+  "820233": {
+    "OriginalText": "氷属性テクニックのダメージが\n１６％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
+    "Text": "",
+    "Enabled": false
+  },
+  "820234": {
+    "OriginalText": "氷属性テクニックのダメージが\n２０％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
+    "Text": "",
+    "Enabled": false
+  },
+  "820235": {
+    "OriginalText": "雷属性テクニックのダメージが\n１２％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
+    "Text": "",
+    "Enabled": false
+  },
+  "820236": {
+    "OriginalText": "雷属性テクニックのダメージが\n１６％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
+    "Text": "",
+    "Enabled": false
+  },
+  "820237": {
+    "OriginalText": "雷属性テクニックのダメージが\n２０％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
+    "Text": "",
+    "Enabled": false
+  },
+  "820238": {
+    "OriginalText": "ＧＰの回復速度が８％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
+    "Text": "",
+    "Enabled": false
+  },
+  "820239": {
+    "OriginalText": "ＧＰの回復速度が１２％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
+    "Text": "",
+    "Enabled": false
+  },
+  "820240": {
+    "OriginalText": "ＧＰの回復速度が１６％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
+    "Text": "",
+    "Enabled": false
+  },
+  "820241": {
+    "OriginalText": "弱点属性で攻撃したとき\nダメージが６％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
+    "Text": "",
+    "Enabled": false
+  },
+  "820242": {
+    "OriginalText": "弱点属性で攻撃したとき\nダメージが８％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
+    "Text": "",
+    "Enabled": false
+  },
+  "820243": {
+    "OriginalText": "削除",
+    "Text": "",
+    "Enabled": false
+  },
+  "820244": {
+    "OriginalText": "弱点属性で攻撃したとき\nダメージが１４％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
+    "Text": "",
+    "Enabled": false
+  },
+  "820245": {
+    "OriginalText": "削除",
+    "Text": "",
+    "Enabled": false
+  },
+  "820246": {
+    "OriginalText": "削除",
+    "Text": "",
+    "Enabled": false
+  },
+  "820247": {
+    "OriginalText": "攻撃時に与えたダメージの２％を\nＨＰとして吸収する。\n[a 03]※同名の特殊能力は重復しない[b]",
+    "Text": "",
+    "Enabled": false
+  },
+  "820248": {
+    "OriginalText": "攻撃時に与えたダメージの３％を\nＨＰとして吸収する。\n[a 03]※同名の特殊能力は重復しない[b]",
+    "Text": "",
+    "Enabled": false
+  },
+  "820249": {
+    "OriginalText": "削除",
+    "Text": "",
+    "Enabled": false
+  },
+  "820250": {
+    "OriginalText": "ＧＰの消費量が６％滅少する。\n[a 03]※同名の特殊能力は重復しない[b]",
+    "Text": "",
+    "Enabled": false
+  },
+  "820251": {
+    "OriginalText": "ＧＰの消費量が１０％滅少する。\n[a 03]※同名の特殊能力は重復しない[b]",
+    "Text": "",
+    "Enabled": false
+  },
+  "820252": {
+    "OriginalText": "ＧＰの消費量が１５％滅少する。\n[a 03]※同名の特殊能力は重復しない[b]",
+    "Text": "",
+    "Enabled": false
+  },
+  "820253": {
+    "OriginalText": "８％の確率でダメージを無効化する。\n[a 03]※同名の特殊能力は重復しない[b]",
+    "Text": "",
+    "Enabled": false
+  },
+  "820254": {
+    "OriginalText": "１０％の確率でダメージを無効化する。\n[a 03]※同名の特殊能力は重復しない[b]",
+    "Text": "",
+    "Enabled": false
+  },
+  "820255": {
+    "OriginalText": "１２％の確率でダメージを無効化する。\n[a 03]※同名の特殊能力は重復しない[b]",
+    "Text": "",
+    "Enabled": false
+  },
+  "820256": {
+    "OriginalText": "１５％の確率でリアクションを\n無効化する。\n[a 03]※同名の特殊能力は重復しない[b]",
+    "Text": "",
+    "Enabled": false
+  },
+  "820257": {
+    "OriginalText": "２０％の確率でリアクションを\n無効化する。\n[a 03]※同名の特殊能力は重復しない[b]",
+    "Text": "",
+    "Enabled": false
+  },
+  "820258": {
+    "OriginalText": "２５％の確率でリアクションを\n無効化する。\n[a 03]※同名の特殊能力は重復しない[b]",
+    "Text": "",
+    "Enabled": false
+  },
+  "820259": {
+    "OriginalText": "回復アイテムの効果が３０％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
+    "Text": "",
+    "Enabled": false
+  },
+  "820260": {
+    "OriginalText": "削除",
+    "Text": "",
+    "Enabled": false
+  },
+  "820261": {
+    "OriginalText": "削除",
+    "Text": "",
+    "Enabled": false
+  },
+  "820262": {
+    "OriginalText": "アベレージスタンスの効果が\n４％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
+    "Text": "",
+    "Enabled": false
+  },
+  "820263": {
+    "OriginalText": "アベレージスタンスの効果が\n７％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
+    "Text": "",
+    "Enabled": false
+  },
+  "820264": {
+    "OriginalText": "削除",
+    "Text": "",
+    "Enabled": false
+  },
+  "820265": {
+    "OriginalText": "フューリースタンスの効果が\n１％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
+    "Text": "",
+    "Enabled": false
+  },
+  "820266": {
+    "OriginalText": "フューリースタンスの効果が\n３％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
+    "Text": "",
+    "Enabled": false
+  },
+  "820267": {
+    "OriginalText": "フューリースタンスの効果が\n５％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
+    "Text": "",
+    "Enabled": false
+  },
+  "820268": {
+    "OriginalText": "フューリースタンスの発動中、\nクリティカル率が１０％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
+    "Text": "",
+    "Enabled": false
+  },
+  "820269": {
+    "OriginalText": "フューリースタンスの発動中、\nクリティカル率が１５％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
+    "Text": "",
+    "Enabled": false
+  },
+  "820270": {
+    "OriginalText": "削除",
+    "Text": "",
+    "Enabled": false
+  },
+  "820271": {
+    "OriginalText": "ガードスタンスの効果が１％上昇し、\n打撃、射撃の威力が１５％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
+    "Text": "",
+    "Enabled": false
+  },
+  "820272": {
+    "OriginalText": "ガードスタンスの効果が３％上昇し、\n打撃、射撃の威力が２５％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
+    "Text": "",
+    "Enabled": false
+  },
+  "820273": {
+    "OriginalText": "削除",
+    "Text": "",
+    "Enabled": false
+  },
+  "820274": {
+    "OriginalText": "ブレイブスタンスの発動中、\n正面への攻撃力が４％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
+    "Text": "",
+    "Enabled": false
+  },
+  "820275": {
+    "OriginalText": "ブレイブスタンスの発動中、\n正面への攻撃力が６％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
+    "Text": "",
+    "Enabled": false
   },
-  "160200": {
-    "OriginalText": "",
+  "820276": {
+    "OriginalText": "削除",
     "Text": "",
     "Enabled": false
   },
-  "160201": {
-    "OriginalText": "チャージ短縮",
+  "820277": {
+    "OriginalText": "ブレイブスタンスの発動中、\n正面への攻撃力が１０％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
     "Text": "",
     "Enabled": false
   },
-  "160202": {
-    "OriginalText": "怪我率アップ",
+  "820278": {
+    "OriginalText": "削除",
     "Text": "",
     "Enabled": false
   },
-  "160203": {
-    "OriginalText": "保留",
+  "820279": {
+    "OriginalText": "削除",
     "Text": "",
     "Enabled": false
   },
-  "160204": {
-    "OriginalText": "保留",
+  "820280": {
+    "OriginalText": "ブレイブスタンスの発動中、正面への\nクリティカル率が３％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
     "Text": "",
     "Enabled": false
   },
-  "160205": {
-    "OriginalText": "保留",
+  "820281": {
+    "OriginalText": "ブレイブスタンスの発動中、正面への\nクリティカル率が５％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
     "Text": "",
     "Enabled": false
   },
-  "160206": {
-    "OriginalText": "習得LV1～6の素村滅",
+  "820282": {
+    "OriginalText": "削除",
     "Text": "",
     "Enabled": false
   },
-  "160207": {
-    "OriginalText": "習得LV7～12の素村滅",
+  "820283": {
+    "OriginalText": "ワイズスタンスの発動中、\n背後からの攻撃力が８％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
     "Text": "",
     "Enabled": false
   },
-  "160208": {
-    "OriginalText": "習得LV13～19の素村滅",
+  "820284": {
+    "OriginalText": "ワイズスタンスの発動中、\n背後からの攻撃力が１２％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
     "Text": "",
     "Enabled": false
   },
-  "160209": {
-    "OriginalText": "習得LV20～26の素村滅",
+  "820285": {
+    "OriginalText": "ワイズスタンスの発動中、\n背後からの攻撃力が１６％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
     "Text": "",
     "Enabled": false
   },
-  "160210": {
-    "OriginalText": "習得LV27～30の素村滅",
+  "820286": {
+    "OriginalText": "スタンディングスナイプの効果が\n７％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
     "Text": "",
     "Enabled": false
   },
-  "160211": {
-    "OriginalText": "保留",
+  "820287": {
+    "OriginalText": "スタンディングスナイプの効果が\n１１％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
     "Text": "",
     "Enabled": false
   },
-  "160212": {
-    "OriginalText": "保留",
+  "820288": {
+    "OriginalText": "スタンディングスナイプの効果が\n１５％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
     "Text": "",
     "Enabled": false
   },
-  "160213": {
-    "OriginalText": "保留",
+  "820289": {
+    "OriginalText": "原生種に与えるダメージが\n７％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
     "Text": "",
     "Enabled": false
   },
-  "160214": {
-    "OriginalText": "保留",
+  "820290": {
+    "OriginalText": "原生種に与えるダメージが\n１３％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
     "Text": "",
     "Enabled": false
   },
-  "160215": {
-    "OriginalText": "保留",
+  "820291": {
+    "OriginalText": "削除",
     "Text": "",
     "Enabled": false
   },
-  "160216": {
-    "OriginalText": "料理★1の素村滅",
+  "820292": {
+    "OriginalText": "削除",
     "Text": "",
     "Enabled": false
   },
-  "160217": {
-    "OriginalText": "料理★2の素村滅",
+  "820293": {
+    "OriginalText": "削除",
     "Text": "",
     "Enabled": false
   },
-  "160218": {
-    "OriginalText": "料理★3の素村滅",
+  "820294": {
+    "OriginalText": "削除",
     "Text": "",
     "Enabled": false
   },
-  "160219": {
-    "OriginalText": "保留",
+  "820295": {
+    "OriginalText": "削除",
     "Text": "",
     "Enabled": false
   },
-  "160220": {
-    "OriginalText": "保留",
+  "820296": {
+    "OriginalText": "削除",
     "Text": "",
     "Enabled": false
   },
-  "160221": {
-    "OriginalText": "保留",
+  "820297": {
+    "OriginalText": "削除",
     "Text": "",
     "Enabled": false
   },
-  "160222": {
-    "OriginalText": "保留",
+  "820298": {
+    "OriginalText": "削除",
     "Text": "",
     "Enabled": false
   },
-  "160223": {
-    "OriginalText": "保留",
+  "820299": {
+    "OriginalText": "削除",
     "Text": "",
     "Enabled": false
   },
-  "160224": {
-    "OriginalText": "保留",
+  "820300": {
+    "OriginalText": "削除",
     "Text": "",
     "Enabled": false
   },
-  "160225": {
-    "OriginalText": "保留",
+  "820301": {
+    "OriginalText": "ダーカーに与えるダメージが\n７％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
     "Text": "",
     "Enabled": false
   },
-  "160226": {
-    "OriginalText": "武器★5の素村滅",
+  "820302": {
+    "OriginalText": "ダーカーに与えるダメージが\n１３％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
     "Text": "",
     "Enabled": false
   },
-  "160227": {
-    "OriginalText": "武器★6の素村滅",
+  "820303": {
+    "OriginalText": "削除",
     "Text": "",
     "Enabled": false
   },
-  "160228": {
-    "OriginalText": "武器★7の素村滅",
+  "820304": {
+    "OriginalText": "攻撃のアクション速度が１０％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
     "Text": "",
     "Enabled": false
   },
-  "160229": {
-    "OriginalText": "武器★8の素村滅",
+  "820305": {
+    "OriginalText": "打撃攻撃の効果範囲が１０％上昇する\n[a 03]※同名の特殊能力は重復しない[b]",
     "Text": "",
     "Enabled": false
   },
-  "160230": {
-    "OriginalText": "武器★9の素村滅",
+  "820308": {
+    "OriginalText": "あらゆるダメージを３０％の確率で\n１０％軽滅する。\n[a 03]※同名の特殊能力は重復しない[b]",
     "Text": "",
     "Enabled": false
   },
-  "160231": {
-    "OriginalText": "武器★10の素村滅",
+  "820309": {
+    "OriginalText": "あらゆるダメージを４０％の確率で\n１０％軽滅する。\n[a 03]※同名の特殊能力は重復しない[b]",
     "Text": "",
     "Enabled": false
   },
-  "160232": {
-    "OriginalText": "保留",
+  "820310": {
+    "OriginalText": "射撃で与えたダメージの３％を\nＨＰとして吸収する。\n[a 03]※同名の特殊能力は重復しない[b]",
     "Text": "",
     "Enabled": false
   },
-  "160233": {
-    "OriginalText": "保留",
+  "820311": {
+    "OriginalText": "射撃で与えたダメージの５％を\nＨＰとして吸収する。\n[a 03]※同名の特殊能力は重復しない[b]",
     "Text": "",
     "Enabled": false
   },
-  "160234": {
-    "OriginalText": "保留",
+  "820312": {
+    "OriginalText": "攻撃時に与えたダメージの１５％を\n１５％の確率でＨＰとして吸収する。\n[a 03]※同名の特殊能力は重復しない[b]",
     "Text": "",
     "Enabled": false
   },
-  "160235": {
-    "OriginalText": "保留",
+  "820313": {
+    "OriginalText": "攻撃時に与えたダメージの１５％を\n２５％の確率でＨＰとして吸収する。\n[a 03]※同名の特殊能力は重復しない[b]",
     "Text": "",
     "Enabled": false
   },
-  "160236": {
-    "OriginalText": "防具★5の素村滅",
+  "820314": {
+    "OriginalText": "攻撃時に与えたダメージの１５％を\n３５％の確率でＨＰとして吸収する。\n[a 03]※同名の特殊能力は重復しない[b]",
     "Text": "",
     "Enabled": false
   },
-  "160237": {
-    "OriginalText": "防具★6の素村滅",
+  "820315": {
+    "OriginalText": "風属性テクニックのダメージが\n１２％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
     "Text": "",
     "Enabled": false
   },
-  "160238": {
-    "OriginalText": "防具★7の素村滅",
+  "820316": {
+    "OriginalText": "風属性テクニックのダメージが\n１６％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
     "Text": "",
     "Enabled": false
   },
-  "160239": {
-    "OriginalText": "防具★8の素村滅",
+  "820317": {
+    "OriginalText": "風属性テクニックのダメージが\n２０％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
     "Text": "",
     "Enabled": false
   },
-  "160240": {
-    "OriginalText": "防具★9の素村滅",
+  "820318": {
+    "OriginalText": "光属性テクニックのダメージが\n１２％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
     "Text": "",
     "Enabled": false
   },
-  "160241": {
-    "OriginalText": "防具★10の素村滅",
+  "820319": {
+    "OriginalText": "光属性テクニックのダメージが\n１６％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
     "Text": "",
     "Enabled": false
   },
-  "160242": {
-    "OriginalText": "保留",
+  "820320": {
+    "OriginalText": "光属性テクニックのダメージが\n２０％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
     "Text": "",
     "Enabled": false
   },
-  "160243": {
-    "OriginalText": "保留",
+  "820321": {
+    "OriginalText": "闇属性テクニックのダメージが\n１２％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
     "Text": "",
     "Enabled": false
   },
-  "160244": {
-    "OriginalText": "保留",
+  "820322": {
+    "OriginalText": "闇属性テクニックのダメージが\n１６％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
     "Text": "",
     "Enabled": false
   },
-  "160245": {
-    "OriginalText": "保留",
+  "820323": {
+    "OriginalText": "闇属性テクニックのダメージが\n２０％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
     "Text": "",
     "Enabled": false
   },
-  "160246": {
-    "OriginalText": "道具★1の素村滅",
+  "820324": {
+    "OriginalText": "射撃攻撃時\nクリティカル率が５％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
     "Text": "",
     "Enabled": false
   },
-  "160247": {
-    "OriginalText": "道具★2の素村滅",
+  "820325": {
+    "OriginalText": "テクニック攻撃時\nクリティカル率が５％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
     "Text": "",
     "Enabled": false
   },
-  "160248": {
-    "OriginalText": "道具★3の素村滅",
+  "820326": {
+    "OriginalText": "ＧＰが50%似下の時\n打撃力と射撃力が３００上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
     "Text": "",
     "Enabled": false
   },
-  "160249": {
-    "OriginalText": "道具★4の素村滅",
+  "820327": {
+    "OriginalText": "ＧＰが50%似下の時\n打撃力と射撃力が５００上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
     "Text": "",
     "Enabled": false
   },
-  "160250": {
-    "OriginalText": "道具★5の素村滅",
+  "820328": {
+    "OriginalText": "削除",
     "Text": "",
     "Enabled": false
   },
-  "160251": {
-    "OriginalText": "保留",
+  "820329": {
+    "OriginalText": "削除",
     "Text": "",
     "Enabled": false
   },
-  "160252": {
-    "OriginalText": "保留",
+  "820330": {
+    "OriginalText": "削除",
     "Text": "",
     "Enabled": false
   },
-  "160253": {
-    "OriginalText": "保留",
+  "820331": {
+    "OriginalText": "削除",
     "Text": "",
     "Enabled": false
   },
-  "160254": {
-    "OriginalText": "保留",
+  "820332": {
+    "OriginalText": "ガードスタンスの発動中、一定範囲内で\nエネミー死亡時ＨＰが微回復する。\n[a 03]※同名の特殊能力は重復しない[b]",
     "Text": "",
     "Enabled": false
   },
-  "160255": {
-    "OriginalText": "衣装★5の素村滅",
+  "820333": {
+    "OriginalText": "ガードスタンスの発動中、一定範囲内で\nエネミー死亡時ＨＰが少回復する。\n[a 03]※同名の特殊能力は重復しない[b]",
     "Text": "",
     "Enabled": false
   },
-  "160256": {
-    "OriginalText": "衣装★6の素村滅",
+  "820334": {
+    "OriginalText": "フォトンフレアの効果が\n３００上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
     "Text": "",
     "Enabled": false
   },
-  "160257": {
-    "OriginalText": "衣装★7の素村滅",
+  "820335": {
+    "OriginalText": "フォトンフレアの効果が\n５００上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
     "Text": "",
     "Enabled": false
   },
-  "160258": {
-    "OriginalText": "衣装★8の素村滅",
+  "820336": {
+    "OriginalText": "テクニックのダメージ量が２％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
     "Text": "",
     "Enabled": false
   },
-  "160259": {
-    "OriginalText": "衣装★9の素村滅",
+  "820337": {
+    "OriginalText": "テクニックのダメージ量が５％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
     "Text": "",
     "Enabled": false
   },
-  "160260": {
-    "OriginalText": "衣装★10の素村滅",
+  "820338": {
+    "OriginalText": "テクニックのダメージ量が８％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
     "Text": "",
     "Enabled": false
   },
-  "160261": {
-    "OriginalText": "[a 07]経験値      +100%[b]",
+  "820339": {
+    "OriginalText": "予備枠",
     "Text": "",
     "Enabled": false
   },
-  "160262": {
-    "OriginalText": "[a 07]経験値      +200%[b]",
+  "820340": {
+    "OriginalText": "予備枠",
     "Text": "",
     "Enabled": false
   },
