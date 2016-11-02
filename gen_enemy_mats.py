@@ -43,7 +43,8 @@ def LoadEnemies(fname):
    {
       "ダーカー": "Darker",
       "獣":       "Monster",
-      "巨大獣":   "Giant Monster"
+      "巨大獣":   "Giant Monster",
+      "鳥":       "Bird"
    }
 
    j   = json.loads("{" + open(fname, "r").read()[:-2] + "}")
@@ -59,12 +60,35 @@ def LoadEnemies(fname):
 #}
 
 ##
+## Item
+##
+def Item(items, name):
+#{
+   item = items[name]
+   if type(item) is list: return item[0]
+   else:                  return item
+#}
+
+##
+## UpToDateItem
+##
+def UpToDateItem(ln, item):
+#{
+   for k in item:
+      if ln.find(k) != -1:
+         return True
+
+   return False
+#}
+
+##
 ## UpToDate
 ##
-def UpToDate(ln, name):
+def UpToDate(ln, name, item):
 #{
    if ln.find("\"Enabled\"") != -1 or \
-      ln.find(name) == -1:
+      ln.find(name) == -1 or \
+      not UpToDateItem(ln, item):
       return False
 
    return True
@@ -73,7 +97,7 @@ def UpToDate(ln, name):
 ##
 ## ProcFile
 ##
-def ProcFile(fp, out, enemies, dictionary):
+def ProcFile(fp, out, enemies, items):
 #{
    for ln in fp:
    #{
@@ -81,19 +105,21 @@ def ProcFile(fp, out, enemies, dictionary):
 
       if match is not None and         \
          match.group(1) in enemies and \
-         match.group(2) in dictionary:
+         match.group(2) in items:
       #{
          ln1 = next(fp)
 
-         if not UpToDate(ln1, enemies[match.group(1)]):
+         name = enemies[match.group(1)]
+         item = Item(items, match.group(2))
+
+         if not UpToDate(ln1, name, items[match.group(2)]):
          #{
             ln = ln + \
-                 "    \"Text\": \"" + enemies[match.group(1)] + \
-                 " " + dictionary[match.group(2)] + "\",\r\n" + \
+                 "    \"Text\": \"" + name + " " + item + "\",\r\n" + \
                  "    \"Enabled\": true\r\n"
 
             ln2 = next(fp)
-            if ln2.find("\"Enabled\"") is None: ln = ln + ln2
+            if ln2.find("\"Enabled\"") == -1: ln = ln + ln2
          #}
          else:
             ln = ln + ln1
@@ -131,7 +157,7 @@ def Main():
             "牙片":   "Fang",
             "盾片":   "Exoskeleton",
             "骨":     "Bone",
-            "肉":     "Flesh",
+            "肉":     [ "Flesh", "Meat" ],
             "ミルク": "Milk"
          })
 
