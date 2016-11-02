@@ -39,7 +39,13 @@ import sys
 ##
 def LoadEnemies(fname):
 #{
-   ret = dict()
+   ret = \
+   {
+      "ダーカー": "Darker",
+      "獣":       "Monster",
+      "巨大獣":   "Giant Monster"
+   }
+
    j   = json.loads("{" + open(fname, "r").read()[:-2] + "}")
 
    for code in j:
@@ -94,14 +100,25 @@ def Main():
       with open("misc_items.json.1", "w", newline = "") as out:
          ProcFile(fp, out, enemies,
          {
-            "甲殻": "Shell",
-            "目片": "Eye",
-            "眼片": "Eye",
-            "刃片": "Blade",
-            "脚片": "Leg",
-            "鱗片": "Scale",
-            "殻片": "Husk",
-            "皮片": "Pelt"
+            "甲殻":   "Shell",
+            "目片":   "Eye",
+            "眼片":   "Eye",
+            "刃片":   "Blade",
+            "脚片":   "Leg",
+            "鱗片":   "Scale",
+            "殻片":   "Husk",
+            "殻":     "Husk",
+            "皮片":   "Pelt",
+            "爪片":   "Claw",
+            "爪":     "Claw",
+            "ヒレ片": "Fillet",
+            "羽片":   "Wing",
+            "針片":   "Stinger",
+            "牙片":   "Fang",
+            "盾片":   "Exoskeleton",
+            "骨":     "Bone",
+            "肉":     "Flesh",
+            "ミルク": "Milk"
          })
 
    with open("enemy_cores.json", "r", newline = "") as fp:

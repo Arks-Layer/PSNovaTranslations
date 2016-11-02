@@ -136,7 +136,8 @@
   },
   "350028": {
     "OriginalText": "獣のミルク",
-    "Text": ""
+    "Text": "Monster Milk",
+    "Enabled": true
   },
   "350029": {
     "OriginalText": "アルキュオネのゼリー",
@@ -590,7 +591,8 @@
   },
   "350137": {
     "OriginalText": "ダーカーの殻片",
-    "Text": ""
+    "Text": "Darker Husk",
+    "Enabled": true
   },
   "350138": {
     "OriginalText": "Ｇキュクロナーダの鱗片",
@@ -599,11 +601,13 @@
   },
   "350139": {
     "OriginalText": "ダーカーの皮片",
-    "Text": ""
+    "Text": "Darker Pelt",
+    "Enabled": true
   },
   "350140": {
     "OriginalText": "ダーカーの眼片",
-    "Text": ""
+    "Text": "Darker Eye",
+    "Enabled": true
   },
   "350141": {
     "OriginalText": "Ｇシャルレイダのヒレ",
@@ -686,7 +690,7 @@
   },
   "350159": {
     "OriginalText": "獣の皮片",
-    "Text": "Beast Pelt",
+    "Text": "Monster Pelt",
     "Enabled": true
   },
   "350160": {
@@ -700,7 +704,8 @@
   },
   "350162": {
     "OriginalText": "巨大獣の皮片",
-    "Text": ""
+    "Text": "Giant Monster Pelt",
+    "Enabled": true
   },
   "350163": {
     "OriginalText": "ギガンテスのグラン器片",
@@ -716,7 +721,8 @@
   },
   "350166": {
     "OriginalText": "ダーカーの殻",
-    "Text": ""
+    "Text": "Darker Husk",
+    "Enabled": true
   },
   "350167": {
     "OriginalText": "ギガンテスの駆動機関",
@@ -728,11 +734,13 @@
   },
   "350169": {
     "OriginalText": "ラウーダンの爪片",
-    "Text": ""
+    "Text": "Ra Oodan Claw",
+    "Enabled": true
   },
   "350170": {
     "OriginalText": "ロザードのヒレ片",
-    "Text": ""
+    "Text": "Rozad Fillet",
+    "Enabled": true
   },
   "350171": {
     "OriginalText": "マフレザールの皮片",
@@ -759,7 +767,8 @@
   },
   "350176": {
     "OriginalText": "Ｇエル・アーダの針片",
-    "Text": ""
+    "Text": "G-El Ahda Stinger",
+    "Enabled": true
   },
   "350177": {
     "OriginalText": "アグリオスの砲片",
@@ -771,7 +780,8 @@
   },
   "350179": {
     "OriginalText": "ロザードの爪",
-    "Text": ""
+    "Text": "Rozad Claw",
+    "Enabled": true
   },
   "350180": {
     "OriginalText": "マフレザールの鋭鉤爪",
@@ -803,7 +813,8 @@
   },
   "350187": {
     "OriginalText": "ラウーダンの骨",
-    "Text": ""
+    "Text": "Ra Oodan Bone",
+    "Enabled": true
   },
   "350188": {
     "OriginalText": "ロザードの完全な背びれ",
@@ -900,7 +911,8 @@
   },
   "350211": {
     "OriginalText": "グランブの爪片",
-    "Text": ""
+    "Text": "Granb Claw",
+    "Enabled": true
   },
   "350212": {
     "OriginalText": "バリドランナの舌片",
@@ -989,11 +1001,13 @@
   },
   "350233": {
     "OriginalText": "獣の牙",
-    "Text": ""
+    "Text": "Monster Fang",
+    "Enabled": true
   },
   "350234": {
     "OriginalText": "獣の骨",
-    "Text": ""
+    "Text": "Monster Bone",
+    "Enabled": true
   },
   "350235": {
     "OriginalText": "ギガンテスの殻片",
@@ -1005,11 +1019,13 @@
   },
   "350237": {
     "OriginalText": "ベガルフの牙片",
-    "Text": ""
+    "Text": "Begulf Fang",
+    "Enabled": true
   },
   "350238": {
     "OriginalText": "フォンベガルフの牙片",
-    "Text": ""
+    "Text": "Fonbegulf Fang",
+    "Enabled": true
   },
   "350239": {
     "OriginalText": "アセラビーソの刃片",
@@ -1018,7 +1034,8 @@
   },
   "350240": {
     "OriginalText": "エデルクリトロの爪片",
-    "Text": ""
+    "Text": "Eder Critter Claw",
+    "Enabled": true
   },
   "350241": {
     "OriginalText": "トネルバンクゥの石片",
@@ -1044,11 +1061,13 @@
   },
   "350246": {
     "OriginalText": "Ｇウォルガーダのヒレ片",
-    "Text": ""
+    "Text": "G-Wolgahda Fillet",
+    "Enabled": true
   },
   "350247": {
     "OriginalText": "エウリュードの爪片",
-    "Text": ""
+    "Text": "Elude Claw",
+    "Enabled": true
   },
   "350248": {
     "OriginalText": "ベガルフの体毛",
@@ -1096,7 +1115,8 @@
   },
   "350259": {
     "OriginalText": "ベガルフの爪",
-    "Text": ""
+    "Text": "Begulf Claw",
+    "Enabled": true
   },
   "350260": {
     "OriginalText": "フォンベガルフの鋭爪",
@@ -1124,7 +1144,8 @@
   },
   "350266": {
     "OriginalText": "Ｇエル・ダガンの爪",
-    "Text": ""
+    "Text": "G-El Dagan Claw",
+    "Enabled": true
   },
   "350267": {
     "OriginalText": "Ｇダーガッシュの大胸ビレ",
@@ -1140,7 +1161,8 @@
   },
   "350270": {
     "OriginalText": "獣の爪",
-    "Text": ""
+    "Text": "Monster Claw",
+    "Enabled": true
   },
   "350271": {
     "OriginalText": "ロヴラッピーの甲片",
@@ -1161,7 +1183,8 @@
   },
   "350275": {
     "OriginalText": "ダーカーの盾片",
-    "Text": ""
+    "Text": "Darker Exoskeleton",
+    "Enabled": true
   },
   "350276": {
     "OriginalText": "ダーカーの完全な大盾",
@@ -1245,7 +1268,8 @@
   },
   "350296": {
     "OriginalText": "イエーデンの爪",
-    "Text": ""
+    "Text": "Yeden Claw",
+    "Enabled": true
   },
   "350297": {
     "OriginalText": "ブロラビーソの刃",
@@ -1253,7 +1277,8 @@
   },
   "350298": {
     "OriginalText": "オーニクリトロの爪",
-    "Text": ""
+    "Text": "Oni Critter Claw",
+    "Enabled": true
   },
   "350299": {
     "OriginalText": "クリトロクィーンの爪",
@@ -1309,11 +1334,13 @@
   },
   "350312": {
     "OriginalText": "フロベガルフの爪",
-    "Text": ""
+    "Text": "Flobegulf Claw",
+    "Enabled": true
   },
   "350313": {
     "OriginalText": "フロフォンベガルフの爪",
-    "Text": ""
+    "Text": "Flo Fonbegulf Claw",
+    "Enabled": true
   },
   "350314": {
     "OriginalText": "イエーデンの硬頭骨",
@@ -1353,7 +1380,8 @@
   },
   "350323": {
     "OriginalText": "サフグランブの爪",
-    "Text": ""
+    "Text": "Sahugranb Claw",
+    "Enabled": true
   },
   "350324": {
     "OriginalText": "マガヴルムの手",
@@ -1369,7 +1397,8 @@
   },
   "350327": {
     "OriginalText": "コパイエーデンの爪片",
-    "Text": ""
+    "Text": "Kopa Yeden Claw",
+    "Enabled": true
   },
   "350328": {
     "OriginalText": "ポリジュラキアの羽",
@@ -1405,7 +1434,8 @@
   },
   "350336": {
     "OriginalText": "ポリジュラキアの骨",
-    "Text": ""
+    "Text": "Poly Jurakia Bone",
+    "Enabled": true
   },
   "350337": {
     "OriginalText": "マーバレダイナスの弾倉",
@@ -1449,7 +1479,8 @@
   },
   "350347": {
     "OriginalText": "アビアディノの骨",
-    "Text": ""
+    "Text": "Aviadino Bone",
+    "Enabled": true
   },
   "350348": {
     "OriginalText": "クロザードのヒレ",
@@ -1461,7 +1492,8 @@
   },
   "350350": {
     "OriginalText": "フリラウーダンの爪",
-    "Text": ""
+    "Text": "Fury Ra Oodan Claw",
+    "Enabled": true
   },
   "350351": {
     "OriginalText": "ミステルンの鋭角",
@@ -1482,7 +1514,8 @@
   },
   "350355": {
     "OriginalText": "ガンジュラキアの羽片",
-    "Text": ""
+    "Text": "Gun Jurakia Wing",
+    "Enabled": true
   },
   "350356": {
     "OriginalText": "バンクゥの硬宝石",
@@ -1510,7 +1543,8 @@
   },
   "350362": {
     "OriginalText": "クロザードの爪",
-    "Text": ""
+    "Text": "Gu Rozad Claw",
+    "Enabled": true
   },
   "350363": {
     "OriginalText": "エルマフレザールの鋭鉤爪",
@@ -1670,7 +1704,8 @@
   },
   "350402": {
     "OriginalText": "ラーアビアディノの爪",
-    "Text": ""
+    "Text": "Lar Aviadino Claw",
+    "Enabled": true
   },
   "350403": {
     "OriginalText": "メドジュラキアの硬骨",
@@ -2346,7 +2381,8 @@
   },
   "350571": {
     "OriginalText": "ラウーダン・リアスの爪",
-    "Text": ""
+    "Text": "Ra Oodan Lias Claw",
+    "Enabled": true
   },
   "350572": {
     "OriginalText": "ヴォーロラス・ドラウの翼",
@@ -2386,7 +2422,8 @@
   },
   "350581": {
     "OriginalText": "イエーデン・アイエの爪",
-    "Text": ""
+    "Text": "Yeden Aie Claw",
+    "Enabled": true
   },
   "350582": {
     "OriginalText": "ラビーソ・プラテの小さな刃",
@@ -2394,7 +2431,8 @@
   },
   "350583": {
     "OriginalText": "クリトロ・テュルレの爪",
-    "Text": ""
+    "Text": "Critter True Claw",
+    "Enabled": true
   },
   "350584": {
     "OriginalText": "トルリンプ・ゴウルのヒレ",
@@ -2434,7 +2472,8 @@
   },
   "350593": {
     "OriginalText": "グランブ・ダイの爪",
-    "Text": ""
+    "Text": "Granb Dai Claw",
+    "Enabled": true
   },
   "350594": {
     "OriginalText": "マンデル・ナートの棘鱗皮",
@@ -2526,7 +2565,8 @@
   },
   "350616": {
     "OriginalText": "ロザード・トカの爪",
-    "Text": ""
+    "Text": "Rozad Toqa Claw",
+    "Enabled": true
   },
   "350617": {
     "OriginalText": "フェブリルナ・ドラウの鉤爪",
@@ -2574,7 +2614,8 @@
   },
   "350628": {
     "OriginalText": "ジュラキア・スクアの骨",
-    "Text": ""
+    "Text": "Jurakia Skuah Bone",
+    "Enabled": true
   },
   "350629": {
     "OriginalText": "ロヴラッピー・ロセの主翼",
@@ -2586,7 +2627,8 @@
   },
   "350631": {
     "OriginalText": "アビアディノ・ロクサの爪",
-    "Text": ""
+    "Text": "Aviadino Roxa Claw",
+    "Enabled": true
   },
   "350632": {
     "OriginalText": "バンクゥ・フリュの宝石",
@@ -2723,11 +2765,13 @@
   },
   "350665": {
     "OriginalText": "ベガルフ・ライオの爪",
-    "Text": ""
+    "Text": "Begulf Rioh Claw",
+    "Enabled": true
   },
   "350666": {
     "OriginalText": "フォンベガルフ・ライオの爪",
-    "Text": ""
+    "Text": "Fonbegulf Raioh Claw",
+    "Enabled": true
   },
   "350667": {
     "OriginalText": "イエーデン・アイエの頭骨",
@@ -2803,7 +2847,8 @@
   },
   "350685": {
     "OriginalText": "Ｇダガン・ネロの爪",
-    "Text": ""
+    "Text": "G-Dagan Nero Claw",
+    "Enabled": true
   },
   "350686": {
     "OriginalText": "トルリンプのしっぽ",
