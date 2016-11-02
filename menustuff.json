@@ -2250,68 +2250,68 @@
   },
   "22021": {
     "OriginalText": "ショップ効果 アイテムショップ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Item Shop Effect",
+    "Enabled": true
   },
   "22022": {
     "OriginalText": "ショップ効果 食堂",
-    "Text": "",
-    "Enabled": false
+    "Text": "Restaurant Effect",
+    "Enabled": true
   },
   "22023": {
     "OriginalText": "ショップ効果 武器ショップ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Weapon Shop Effect",
+    "Enabled": true
   },
   "22024": {
     "OriginalText": "ショップ効果 防具ショップ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Armor Shop Effect",
+    "Enabled": true
   },
   "22025": {
     "OriginalText": "ショップ効果 コスチュームショップ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Costume Shop Effect",
+    "Enabled": true
   },
   "22026": {
     "OriginalText": "ショップ効果 クラスカウンター",
-    "Text": "",
-    "Enabled": false
+    "Text": "Class Counter Effect",
+    "Enabled": true
   },
   "22027": {
     "OriginalText": "ショップ効果 エステ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Salon Shop Effect",
+    "Enabled": true
   },
   "22028": {
     "OriginalText": "施設効果 ギガンテス捕獲所",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gigantes Capture Facility Effect",
+    "Enabled": true
   },
   "22029": {
     "OriginalText": "施設効果 グランブースター",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gran Booster Facility Effect",
+    "Enabled": true
   },
   "22030": {
     "OriginalText": "施設効果 エネミーレーダー",
-    "Text": "",
-    "Enabled": false
+    "Text": "Enemy Radar Facility Effect",
+    "Enabled": true
   },
   "22031": {
     "OriginalText": "施設効果 バースト加速装置",
-    "Text": "",
-    "Enabled": false
+    "Text": "Burst Acceleration Facility Effect",
+    "Enabled": true
   },
   "22032": {
     "OriginalText": "施設効果 アイテム探知装置",
-    "Text": "",
-    "Enabled": false
+    "Text": "Item Detection Facility Effect",
+    "Enabled": true
   },
   "22033": {
     "OriginalText": "施設効果 コア精錬所",
-    "Text": "",
-    "Enabled": false
+    "Text": "Core Refinery Facility Effect",
+    "Enabled": true
   },
   "22034": {
     "OriginalText": "施設効果 探索隊司令部",
