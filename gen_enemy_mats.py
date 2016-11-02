@@ -39,12 +39,19 @@ import sys
 ##
 def LoadEnemies(fname):
 #{
-   ret = dict()
-   j   = json.loads("{" + open(fname, "r").read()[:-2] + "}")
+   ret = {
+      "ダーカー": "Darker",
+      "獣":       "Monster",
+      "巨大獣":   "Giant Monster",
+      "鳥":       "Bird"
+   }
+
+   j = json.loads("{" + open(fname, "r").read()[:-2] + "}")
 
    for code in j:
    #{
       obj = j[code]
+
       if "Text" in obj and "Enabled" in obj:
          ret[obj["OriginalText"]] = obj["Text"]
    #}
@@ -53,9 +60,48 @@ def LoadEnemies(fname):
 #}
 
 ##
+## Item
+##
+def Item(items, name):
+#{
+   item = items[name]
+   if type(item) is list: return item[0]
+   else:                  return item
+#}
+
+##
+## UpToDateItem
+##
+def UpToDateItem(ln, item):
+#{
+   if type(item) is list:
+   #{
+      for k in item:
+         if ln.find(k) != -1:
+            return True
+      return False
+   #}
+   else:
+      return ln.find(item) != -1
+#}
+
+##
+## UpToDate
+##
+def UpToDate(ln, name, item):
+#{
+   if ln.find("\"Enabled\"") != -1 or \
+      ln.find(name) == -1 or \
+      not UpToDateItem(ln, item):
+      return False
+
+   return True
+#}
+
+##
 ## ProcFile
 ##
-def ProcFile(fp, out, enemies, dictionary):
+def ProcFile(fp, out, enemies, items):
 #{
    for ln in fp:
    #{
@@ -63,17 +109,21 @@ def ProcFile(fp, out, enemies, dictionary):
 
       if match is not None and         \
          match.group(1) in enemies and \
-         match.group(2) in dictionary:
+         match.group(2) in items:
       #{
          ln1 = next(fp)
 
-         if re.search("\"Text\": \"..+\"", ln1) is None and \
-            re.search("\"Enabled\"", ln1)       is None:
+         name = enemies[match.group(1)]
+         item = Item(items, match.group(2))
+
+         if not UpToDate(ln1, name, items[match.group(2)]):
          #{
             ln = ln + \
-                 "    \"Text\": \"" + enemies[match.group(1)] + \
-                 " " + dictionary[match.group(2)] + "\",\r\n" + \
+                 "    \"Text\": \"" + name + " " + item + "\",\r\n" + \
                  "    \"Enabled\": true\r\n"
+
+            ln2 = next(fp)
+            if ln2.find("\"Enabled\"") == -1: ln = ln + ln2
          #}
          else:
             ln = ln + ln1
@@ -94,14 +144,25 @@ def Main():
       with open("misc_items.json.1", "w", newline = "") as out:
          ProcFile(fp, out, enemies,
          {
-            "甲殻": "Shell",
-            "目片": "Eye",
-            "眼片": "Eye",
-            "刃片": "Blade",
-            "脚片": "Leg",
-            "鱗片": "Scale",
-            "殻片": "Husk",
-            "皮片": "Pelt"
+            "甲殻":   "Shell",
+            "目片":   "Eye Piece",
+            "眼片":   "Eyeball",
+            "刃片":   "Blade",
+            "脚片":   "Leg",
+            "鱗片":   "Scale",
+            "殻片":   "Husk Part",
+            "殻":     "Husk",
+            "皮片":   "Pelt",
+            "爪片":   "Claw Part",
+            "爪":     "Claw",
+            "ヒレ片": "Fillet",
+            "羽片":   "Wing",
+            "針片":   "Stinger",
+            "牙片":   "Fang",
+            "盾片":   "Exoskeleton",
+            "骨":     "Bone",
+            "肉":     [ "Flesh", "Meat" ],
+            "ミルク": "Milk"
          })
 
    with open("enemy_cores.json", "r", newline = "") as fp:
