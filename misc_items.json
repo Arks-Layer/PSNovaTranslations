@@ -128,11 +128,13 @@
   },
   "350026": {
     "OriginalText": "氷",
-    "Text": ""
+    "Text": "Ice",
+    "Enabled": true
   },
   "350027": {
     "OriginalText": "爬虫類のエキス",
-    "Text": ""
+    "Text": "Reptile Extract",
+    "Enabled": true
   },
   "350028": {
     "OriginalText": "獣のミルク",
