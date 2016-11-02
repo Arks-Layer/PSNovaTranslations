@@ -128,15 +128,18 @@
   },
   "510057": {
     "OriginalText": "リーダー",
-    "Text": ""
+    "Text": "Leader",
+    "Enabled": true
   },
   "510058": {
     "OriginalText": "サブリーダー",
-    "Text": ""
+    "Text": "Sub Leader",
+    "Enabled": true
   },
   "510059": {
     "OriginalText": "チームリーダー",
-    "Text": ""
+    "Text": "Team Leader",
+    "Enabled": true
   },
   "510060": {
     "OriginalText": "あばれんぼう",
@@ -144,7 +147,8 @@
   },
   "510061": {
     "OriginalText": "ベジタリアン",
-    "Text": ""
+    "Text": "Vegetarian",
+    "Enabled": true
   },
   "510062": {
     "OriginalText": "女たらし",
@@ -172,7 +176,8 @@
   },
   "510068": {
     "OriginalText": "フィクサー",
-    "Text": ""
+    "Text": "Fixer",
+    "Enabled": true
   },
   "510069": {
     "OriginalText": "叙父貴",
@@ -197,11 +202,14 @@
   },
   "510074": {
     "OriginalText": "フレッシュマン",
-    "Text": ""
+    "Text": "Freshman",
+    "Enabled": true
   },
   "510075": {
     "OriginalText": "仕事大好き",
-    "Text": ""
+    "Text": "Loves Work",
+    "Enabled": true
+ 
   },
   "510076": {
     "OriginalText": "運動神経抜群",
@@ -209,7 +217,8 @@
   },
   "510077": {
     "OriginalText": "子供好き",
-    "Text": ""
+    "Text": "Likes Children",
+    "Enabled": true
   },
   "510078": {
     "OriginalText": "凝り性",
@@ -217,15 +226,19 @@
   },
   "510079": {
     "OriginalText": "タンクトップ",
-    "Text": ""
+    "Text": "Tank top",
+    "Enabled": true
+    
   },
   "510080": {
     "OriginalText": "バンダナ",
-    "Text": ""
+    "Text": "Bandana",
+    "Enabled": true
   },
   "510081": {
     "OriginalText": "肩パッド",
-    "Text": ""
+    "Text": "Shoulder Pad",
+    "Enabled": true
   },
   "510082": {
     "OriginalText": "突撃気質",
@@ -233,15 +246,18 @@
   },
   "510083": {
     "OriginalText": "プラズマ",
-    "Text": ""
+    "Text": "Plasma",
+    "Enabled": true
   },
   "510084": {
     "OriginalText": "看板娘",
-    "Text": ""
+    "Text": "Show Girl",
+    "Enabled": true
   },
   "510085": {
     "OriginalText": "魔法使い",
-    "Text": ""
+    "Text": "Magic User",
+    "Enabled": true
   },
   "510086": {
     "OriginalText": "スペースデブリ",
@@ -249,23 +265,28 @@
   },
   "510087": {
     "OriginalText": "ダークマター",
-    "Text": ""
+    "Text": "Dark Matter",
+    "Enabled": true
   },
   "510088": {
     "OriginalText": "チャンピオン",
-    "Text": ""
+    "Text": "Champion",
+    "Enabled": true
   },
   "510089": {
     "OriginalText": "アークス侍",
-    "Text": ""
+    "Text": "ARKS Samurai",
+    "Enabled": true
   },
   "510090": {
     "OriginalText": "アークス撫子",
-    "Text": ""
+    "Text": "ARKS Darling",
+    "Enabled": true
   },
   "510091": {
     "OriginalText": "アークスおじさん",
-    "Text": ""
+    "Text": "ARKS Uncle",
+    "Enabled": true
   },
   "510092": {
     "OriginalText": "永久機関",
@@ -273,7 +294,8 @@
   },
   "510093": {
     "OriginalText": "バトル好き",
-    "Text": ""
+    "Text": "Likes Battle",
+    "Enabled": true
   },
   "510094": {
     "OriginalText": "鎧好き",
@@ -281,7 +303,8 @@
   },
   "510095": {
     "OriginalText": "ロボット好き",
-    "Text": ""
+    "Text": "Likes Robots",
+    "Enabled": true
   },
   "510096": {
     "OriginalText": "陰陽師",
@@ -289,7 +312,8 @@
   },
   "510097": {
     "OriginalText": "闇の処刑人",
-    "Text": ""
+    "Text": "Dark Executioner",
+    "Enabled": true
   },
   "510098": {
     "OriginalText": "地元では有名人",
@@ -301,7 +325,8 @@
   },
   "510100": {
     "OriginalText": "となりのお姉さん",
-    "Text": ""
+    "Text": "Neighborhood Girl",
+    "Enabled": true
   },
   "510101": {
     "OriginalText": "頑固職人",
@@ -309,7 +334,8 @@
   },
   "510102": {
     "OriginalText": "ジャッジメント",
-    "Text": ""
+    "Text": "Judgemental",
+    "Enabled": true
   },
   "510103": {
     "OriginalText": "男爵",
@@ -321,7 +347,8 @@
   },
   "510105": {
     "OriginalText": "女帝",
-    "Text": ""
+    "Text": "Empress",
+    "Enabled": true
   },
   "510106": {
     "OriginalText": "姫属性",
@@ -329,15 +356,18 @@
   },
   "510107": {
     "OriginalText": "サブカル好き",
-    "Text": ""
+    "Text": "Likes Subculture",
+    "Enabled": true
   },
   "510108": {
     "OriginalText": "ディベーター",
-    "Text": ""
+    "Text": "Debater",
+    "Enabled": true
   },
   "510109": {
     "OriginalText": "本職",
-    "Text": ""
+    "Text": "Specialist",
+    "Enabled": true
   },
   "510110": {
     "OriginalText": "議長",
@@ -349,11 +379,13 @@
   },
   "510112": {
     "OriginalText": "プロデューサー",
-    "Text": ""
+    "Text": "Producer",
+    "Enabled": true
   },
   "510113": {
     "OriginalText": "美熟女",
-    "Text": ""
+    "Text": "Milf",
+    "Enabled": true
   },
   "510114": {
     "OriginalText": "婦女子",
@@ -365,11 +397,12 @@
   },
   "510116": {
     "OriginalText": "日焼けサロン好き",
-    "Text": ""
+    "Text": "Likes Tanning Salons",
+    "Enabled": true
   },
   "510117": {
     "OriginalText": "カメラ小僧",
-    "Text": ""
+    "Text": "Camera Kid"
   },
   "510118": {
     "OriginalText": "貴婦人",
@@ -403,23 +436,27 @@
   },
   "510125": {
     "OriginalText": "アルファブロガー",
-    "Text": ""
+    "Text": "Alpha Blogger",
+    "Enabled": true
   },
   "510126": {
     "OriginalText": "テレビっ子",
-    "Text": ""
+    "Text": "TV Addict Kid",
+    "Enabled": true
   },
   "510127": {
     "OriginalText": "キュレーター",
-    "Text": ""
+    "Text": "Curator",
+    "Enabled": true
   },
   "510128": {
     "OriginalText": "男大好き",
-    "Text": ""
+    "Text": "Loves Men",
+    "Enabled": true
   },
   "510129": {
     "OriginalText": "薄幸少女",
-    "Text": ""
+    "Text": "Misfortunate Girl"
   },
   "510130": {
     "OriginalText": "深窓の令嬢",
@@ -435,7 +472,8 @@
   },
   "510133": {
     "OriginalText": "ツンデレ",
-    "Text": ""
+    "Text": "Tsundere",
+    "Enabled": true
   },
   "510134": {
     "OriginalText": "ブシドー",
@@ -455,11 +493,13 @@
   },
   "510138": {
     "OriginalText": "おっかけファン",
-    "Text": ""
+    "Text": "Groupie",
+    "Enabled": true
   },
   "510139": {
     "OriginalText": "エスパー",
-    "Text": ""
+    "Text": "Esper",
+    "Enabled": true
   },
   "510140": {
     "OriginalText": "体育会系",
@@ -467,11 +507,13 @@
   },
   "510141": {
     "OriginalText": "アークスの生字引",
-    "Text": ""
+    "Text": "Arks Walking Dictionary",
+    "Enabled": true
   },
   "510142": {
     "OriginalText": "アークスの知恵袋",
-    "Text": ""
+    "Text": "Arks Bag of Wisdom",
+    "Enabled": true
   },
   "510143": {
     "OriginalText": "戦闘狂",
@@ -479,11 +521,13 @@
   },
   "510144": {
     "OriginalText": "リーサルウェポン",
-    "Text": ""
+    "Text": "Lethal Weapon",
+    "Enabled": true
   },
   "510145": {
     "OriginalText": "狩人",
-    "Text": ""
+    "Text": "Hunter",
+    "Enabled": true
   },
   "510146": {
     "OriginalText": "明朗快活",
@@ -499,7 +543,8 @@
   },
   "510149": {
     "OriginalText": "高嶺之花",
-    "Text": ""
+    "Text": "Unattainable",
+    "Enabled": true
   },
   "510150": {
     "OriginalText": "一所懸命",
@@ -531,27 +576,33 @@
   },
   "510157": {
     "OriginalText": "七転八倒",
-    "Text": ""
+    "Text": "Masochist",
+    "Enabled": true
   },
   "510158": {
     "OriginalText": "聖人君子",
-    "Text": ""
+    "Text": "Saintly",
+    "Enabled": true
   },
   "510159": {
     "OriginalText": "猪突猛進",
-    "Text": ""
+    "Text": "Reckless",
+    "Enabled": true
   },
   "510160": {
     "OriginalText": "冷静沈着",
-    "Text": ""
+    "Text": "Level Headed",
+    "Enabled": true
   },
   "510161": {
     "OriginalText": "快刀乱麻",
-    "Text": ""
+    "Text": "Problem Solver",
+    "Enabled": true
   },
   "510162": {
     "OriginalText": "完全無欠",
-    "Text": ""
+    "Text": "Completely Flawless",
+    "Enabled": true
   },
   "510163": {
     "OriginalText": "挙動不審",
@@ -559,15 +610,18 @@
   },
   "510164": {
     "OriginalText": "才色兼備",
-    "Text": ""
+    "Text": "Witty and Pretty",
+    "Enabled": true
   },
   "510165": {
     "OriginalText": "自由闊達",
-    "Text": ""
+    "Text": "Free and Easy",
+    "Enabled": true
   },
   "510166": {
     "OriginalText": "純情可憐",
-    "Text": ""
+    "Text": "Pure and Beautiful",
+    "Enabled": true
   },
   "510167": {
     "OriginalText": "初志貴徹",
@@ -575,11 +629,13 @@
   },
   "510168": {
     "OriginalText": "神出鬼没",
-    "Text": ""
+    "Text": "Elusive",
+    "Enabled": true
   },
   "510169": {
     "OriginalText": "正々堂々",
-    "Text": ""
+    "Text": "Fair and Square",
+    "Enabled": true
   },
   "510170": {
     "OriginalText": "清廉潔白",
@@ -587,11 +643,13 @@
   },
   "510171": {
     "OriginalText": "大胆不敵",
-    "Text": ""
+    "Text": "Daredevil",
+    "Enabled": true
   },
   "510172": {
     "OriginalText": "天下無双",
-    "Text": ""
+    "Text": "Unequaled",
+    "Enabled": true
   },
   "510173": {
     "OriginalText": "難攻不落",
@@ -603,7 +661,8 @@
   },
   "510175": {
     "OriginalText": "眉目秀麗",
-    "Text": ""
+    "Text": "Handsome",
+    "Enabled": true
   },
   "510176": {
     "OriginalText": "粉骨砕身",
@@ -611,6 +670,7 @@
   },
   "510177": {
     "OriginalText": "勇猛果敢",
-    "Text": ""
+    "Text": "Dauntless",
+    "Enabled": true
   }
 }
