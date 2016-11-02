@@ -593,7 +593,7 @@
   },
   "350137": {
     "OriginalText": "ダーカーの殻片",
-    "Text": "Darker Husk",
+    "Text": "Darker Husk Part",
     "Enabled": true
   },
   "350138": {
@@ -608,7 +608,7 @@
   },
   "350140": {
     "OriginalText": "ダーカーの眼片",
-    "Text": "Darker Eye",
+    "Text": "Darker Eyeball",
     "Enabled": true
   },
   "350141": {
@@ -632,7 +632,7 @@
   },
   "350145": {
     "OriginalText": "Ｇキュクロナーダの目片",
-    "Text": "G-Kuklonahda Eye",
+    "Text": "G-Kuklonahda Eye Piece",
     "Enabled": true
   },
   "350146": {
@@ -736,7 +736,7 @@
   },
   "350169": {
     "OriginalText": "ラウーダンの爪片",
-    "Text": "Ra Oodan Claw",
+    "Text": "Ra Oodan Claw Part",
     "Enabled": true
   },
   "350170": {
@@ -913,7 +913,7 @@
   },
   "350211": {
     "OriginalText": "グランブの爪片",
-    "Text": "Granb Claw",
+    "Text": "Granb Claw Part",
     "Enabled": true
   },
   "350212": {
@@ -1036,7 +1036,7 @@
   },
   "350240": {
     "OriginalText": "エデルクリトロの爪片",
-    "Text": "Eder Critter Claw",
+    "Text": "Eder Critter Claw Part",
     "Enabled": true
   },
   "350241": {
@@ -1068,7 +1068,7 @@
   },
   "350247": {
     "OriginalText": "エウリュードの爪片",
-    "Text": "Elude Claw",
+    "Text": "Elude Claw Part",
     "Enabled": true
   },
   "350248": {
@@ -1399,7 +1399,7 @@
   },
   "350327": {
     "OriginalText": "コパイエーデンの爪片",
-    "Text": "Kopa Yeden Claw",
+    "Text": "Kopa Yeden Claw Part",
     "Enabled": true
   },
   "350328": {

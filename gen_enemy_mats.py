@@ -39,19 +39,19 @@ import sys
 ##
 def LoadEnemies(fname):
 #{
-   ret = \
-   {
+   ret = {
       "ダーカー": "Darker",
       "獣":       "Monster",
       "巨大獣":   "Giant Monster",
       "鳥":       "Bird"
    }
 
-   j   = json.loads("{" + open(fname, "r").read()[:-2] + "}")
+   j = json.loads("{" + open(fname, "r").read()[:-2] + "}")
 
    for code in j:
    #{
       obj = j[code]
+
       if "Text" in obj and "Enabled" in obj:
          ret[obj["OriginalText"]] = obj["Text"]
    #}
@@ -74,11 +74,15 @@ def Item(items, name):
 ##
 def UpToDateItem(ln, item):
 #{
-   for k in item:
-      if ln.find(k) != -1:
-         return True
-
-   return False
+   if type(item) is list:
+   #{
+      for k in item:
+         if ln.find(k) != -1:
+            return True
+      return False
+   #}
+   else:
+      return ln.find(item) != -1
 #}
 
 ##
@@ -141,15 +145,15 @@ def Main():
          ProcFile(fp, out, enemies,
          {
             "甲殻":   "Shell",
-            "目片":   "Eye",
-            "眼片":   "Eye",
+            "目片":   "Eye Piece",
+            "眼片":   "Eyeball",
             "刃片":   "Blade",
             "脚片":   "Leg",
             "鱗片":   "Scale",
-            "殻片":   "Husk",
+            "殻片":   "Husk Part",
             "殻":     "Husk",
             "皮片":   "Pelt",
-            "爪片":   "Claw",
+            "爪片":   "Claw Part",
             "爪":     "Claw",
             "ヒレ片": "Fillet",
             "羽片":   "Wing",
