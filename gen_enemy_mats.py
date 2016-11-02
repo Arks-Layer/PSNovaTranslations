@@ -65,9 +65,9 @@ def UpToDate(ln, name):
 #{
    if ln.find("\"Enabled\"") != -1 or \
       ln.find(name) == -1:
-      return True
+      return False
 
-   return False
+   return True
 #}
 
 ##
@@ -85,7 +85,7 @@ def ProcFile(fp, out, enemies, dictionary):
       #{
          ln1 = next(fp)
 
-         if UpToDate(ln1, enemies[match.group(1)]):
+         if not UpToDate(ln1, enemies[match.group(1)]):
          #{
             ln = ln + \
                  "    \"Text\": \"" + enemies[match.group(1)] + \
