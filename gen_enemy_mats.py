@@ -59,6 +59,18 @@ def LoadEnemies(fname):
 #}
 
 ##
+## UpToDate
+##
+def UpToDate(ln, name):
+#{
+   if ln.find("\"Enabled\"") != -1 or \
+      ln.find(name) == -1:
+      return True
+
+   return False
+#}
+
+##
 ## ProcFile
 ##
 def ProcFile(fp, out, enemies, dictionary):
@@ -73,13 +85,15 @@ def ProcFile(fp, out, enemies, dictionary):
       #{
          ln1 = next(fp)
 
-         if re.search("\"Text\": \"..+\"", ln1) is None and \
-            re.search("\"Enabled\"", ln1)       is None:
+         if UpToDate(ln1, enemies[match.group(1)]):
          #{
             ln = ln + \
                  "    \"Text\": \"" + enemies[match.group(1)] + \
                  " " + dictionary[match.group(2)] + "\",\r\n" + \
                  "    \"Enabled\": true\r\n"
+
+            ln2 = next(fp)
+            if ln2.find("\"Enabled\"") is None: ln = ln + ln2
          #}
          else:
             ln = ln + ln1
