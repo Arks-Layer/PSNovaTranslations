@@ -1,0 +1,55 @@
+  "241101": {
+    "OriginalText": "クエストゲート",
+    "Text": "Quest Gate",
+    "Enabled": true
+  },
+  "241102": {
+    "OriginalText": "艦内へ",
+    "Text": "To the Ship",
+    "Enabled": true
+  },
+  "241103": {
+    "OriginalText": "出入り口",
+    "Text": "Doorway",
+    "Enabled": true
+  },
+  "241104": {
+    "OriginalText": "上層へ",
+    "Text": "To Upper",
+    "Enabled": true
+  },
+  "241105": {
+    "OriginalText": "中層へ",
+    "Text": "To Middle",
+    "Enabled": true
+  },
+  "241106": {
+    "OriginalText": "下層へ",
+    "Text": "To Lower",
+    "Enabled": false
+  },
+  "241107": {
+    "OriginalText": "祈りをささげる",
+    "Text": "Offer Prayers",
+    "Enabled": true
+  },
+  "241108": {
+    "OriginalText": "グランブースター",
+    "Text": "Gran Booster",
+    "Enabled": true
+  },
+  "241109": {
+    "OriginalText": "アイテム探知装置",
+    "Text": "Item Detection System",
+    "Enabled": true
+  },
+  "241110": {
+    "OriginalText": "エネミーレーダー",
+    "Text": "Enemy Radar",
+    "Enabled": true
+  },
+  "241111": {
+    "OriginalText": "バースト加速装置",
+    "Text": "Burst Acceleration Device",
+    "Enabled": true
+  },
