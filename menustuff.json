@@ -1430,8 +1430,8 @@
   },
   "21309": {
     "OriginalText": "をおいしくいただいた。",
-    "Text": "It was delicious.",
-    "Enabled": false
+    "Text": " - It was delicious.",
+    "Enabled": true
   },
   "21310": {
     "OriginalText": "すでに料理を食べています。\n一度クエストを開始し、拠点に帰還するまで、\n食堂を利用することはできません。",
