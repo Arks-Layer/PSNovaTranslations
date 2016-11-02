@@ -88,7 +88,7 @@ msg_9XXXX.rmd is weapons (mostly done) (on github)
 msg_10XXXX.rmd is weapon descriptions (check on this)
 msg_11XXXX.rmd is enemy cores? (on github)
 msg_12XXXX.rmd is enemy core? descriptions
-msg_13XXXX.rmd is weapons too? ã‚¢ãƒ«ãƒ‘ã‚·ã‚¶ãƒ¼ (More weapons?)
+msg_13XXXX.rmd is weapons too? アルパシザー (More weapons?)
 msg_14XXXX.rmd is weapon descriptions too?
 msg_15XXXX.rmd is affixes (on github)
 msg_16XXXX.rmd is affix descriptions
@@ -107,7 +107,7 @@ msg_30XXXX.rmd are collection quests?
 msg_31XXXX.rmd is shield stuff (Mostly done)
 msg_33XXXX.rmd is clothing (Done)
 msg_34XXXX.rmd are clothing descriptions
-msg_35XXXX.rmd are Gran Items (ã‚°ãƒ©ãƒ³ãƒ”ãƒ¼ã‚¹, Gran Piece, etc)
+msg_35XXXX.rmd are Gran Items (グランピース, Gran Piece, etc)
 msg_36XXXX.rmd are Gran item descriptions
 msg_37XXXX.rmd is items (monomates, etc)
 msg_38XXXX.rmd is item descriptions
