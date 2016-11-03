@@ -2445,7 +2445,7 @@
   },
   "22124": {
     "OriginalText": "メインメニュー呼出し",
-    "Text": "Open the main menu",
+    "Text": "Open the Main Menu",
     "Enabled": true
   },
   "22125": {
@@ -2455,7 +2455,7 @@
   },
   "22126": {
     "OriginalText": "変更を反映して完了",
-    "Text": "Confirm changes?",
+    "Text": "Confirmed Changes",
     "Enabled": true
   },
   "22127": {
