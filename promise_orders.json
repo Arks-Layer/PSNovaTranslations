@@ -10,13 +10,13 @@
   },
   "280002": {
     "OriginalText": "ルティナの訓練",
-    "Text": "",
-    "Enabled": false
+    "Text": "Lutina's Training",
+    "Enabled": true
   },
   "280003": {
     "OriginalText": "フォースの訓練",
-    "Text": "",
-    "Enabled": false
+    "Text": "Force Training",
+    "Enabled": true
   },
   "280004": {
     "OriginalText": "鳥の皮片を調達しよう",
@@ -115,8 +115,8 @@
   },
   "280023": {
     "OriginalText": "ハンターの訓練",
-    "Text": "",
-    "Enabled": false
+    "Text": "Hunter Training",
+    "Enabled": true
   },
   "280024": {
     "OriginalText": "アグリオス撃破勝負",
@@ -215,8 +215,8 @@
   },
   "280043": {
     "OriginalText": "レンジャーの訓練",
-    "Text": "",
-    "Enabled": false
+    "Text": "Ranger Training",
+    "Enabled": true
   },
   "280044": {
     "OriginalText": "エキスの調達",
@@ -460,8 +460,8 @@
   },
   "280092": {
     "OriginalText": "ラッピーに挑戦",
-    "Text": "",
-    "Enabled": false
+    "Text": "Rappy Challenge",
+    "Enabled": true
   },
   "280093": {
     "OriginalText": "フィルディア 予備枠 01",
@@ -540,13 +540,13 @@
   },
   "280108": {
     "OriginalText": "ブーストエネミー研究",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boost Enemy Research",
+    "Enabled": true
   },
   "280109": {
     "OriginalText": "ギガンテス研究",
-    "Text": "",
-    "Enabled": false
+    "Text": "Researching Gigantes",
+    "Enabled": true
   },
   "280110": {
     "OriginalText": "ノヴァ研究α",
