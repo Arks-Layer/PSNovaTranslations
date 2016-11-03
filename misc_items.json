@@ -100,7 +100,8 @@
   },
   "350020": {
     "OriginalText": "トルリンプの肉",
-    "Text": ""
+    "Text": "Torrimp Meat",
+	"Enabled": true
   },
   "350021": {
     "OriginalText": "貝",
@@ -124,7 +125,8 @@
   },
   "350025": {
     "OriginalText": "大きなきのこ",
-    "Text": ""
+    "Text": "Large Mushroom",
+	"Enabled": true
   },
   "350026": {
     "OriginalText": "氷",
@@ -148,7 +150,8 @@
   },
   "350030": {
     "OriginalText": "マガヴルムのねばねば",
-    "Text": ""
+    "Text": "Magavulum Goo",
+	"Enabled": true
   },
   "350031": {
     "OriginalText": "トマト",
@@ -157,23 +160,28 @@
   },
   "350032": {
     "OriginalText": "コラル・ドラゴンの生き血",
-    "Text": ""
+    "Text": "Coral Dragon Blood",
+    "Enabled": true
   },
   "350033": {
     "OriginalText": "鉄板",
-    "Text": ""
+    "Text": "Iron Plate",
+    "Enabled": true
   },
   "350034": {
     "OriginalText": "小さな木の実",
-    "Text": ""
+    "Text": "Small Tree Nuts",
+    "Enabled": true
   },
   "350035": {
     "OriginalText": "バンサーの骨",
-    "Text": ""
+    "Text": "Banther Bone",
+    "Enabled": true
   },
   "350036": {
     "OriginalText": "目玉",
-    "Text": ""
+    "Text": "Eyeball",
+    "Enabled": true
   },
   "350037": {
     "OriginalText": "Ｇシャルレイダの肝",
@@ -182,7 +190,8 @@
   },
   "350038": {
     "OriginalText": "ギガンテスの肉",
-    "Text": ""
+    "Text": "Gigantes Meat",
+    "Enabled": true
   },
   "350039": {
     "OriginalText": "アグリオスのたまご",
@@ -198,23 +207,28 @@
   },
   "350042": {
     "OriginalText": "岩塩",
-    "Text": ""
+    "Text": "Rock Salt",
+    "Enabled": true
   },
   "350043": {
     "OriginalText": "麦",
-    "Text": ""
+    "Text": "Wheat",
+    "Enabled": true
   },
   "350044": {
     "OriginalText": "光る葉",
-    "Text": ""
+    "Text": "Glowing Leaves",
+    "Enabled": true
   },
   "350045": {
     "OriginalText": "ジューシーフルーツ",
-    "Text": ""
+    "Text": "Juicy Fruit",
+    "Enabled": true
   },
   "350046": {
     "OriginalText": "米",
-    "Text": ""
+    "Text": "Rice",
+    "Enabled": true
   },
   "350047": {
     "OriginalText": "メモリーフラグメントＡ",
@@ -613,7 +627,8 @@
   },
   "350141": {
     "OriginalText": "Ｇシャルレイダのヒレ",
-    "Text": ""
+    "Text": "G-Shalurayda Fin",
+    "Enabled": true
   },
   "350142": {
     "OriginalText": "Ｇクラーダの脚片",
@@ -637,7 +652,8 @@
   },
   "350146": {
     "OriginalText": "アルマラッピーの羽",
-    "Text": ""
+    "Text": "Alma-Rappy Feather",
+    "Enabled": true
   },
   "350147": {
     "OriginalText": "Ｇクラーダの甲殻",
@@ -651,7 +667,8 @@
   },
   "350149": {
     "OriginalText": "Ｇプレディカーダの脚",
-    "Text": ""
+    "Text": "G-Predicahda Leg",
+    "Enabled": true
   },
   "350150": {
     "OriginalText": "ラッピーチケット",
@@ -660,7 +677,8 @@
   },
   "350151": {
     "OriginalText": "ホワイトチケット",
-    "Text": ""
+    "Text": "White Ticket"
+    "Enabled": true
   },
   "350152": {
     "OriginalText": "Ｇダガンの鋭爪",
