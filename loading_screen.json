@@ -630,8 +630,8 @@
   },
   "800126": {
     "OriginalText": "ソードのグランアーツ「オーバーエンド」は\n旋回中に攻撃場所をコントロールできる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "When using the Sword Gran Art [Over End], you can\ncontrol the attack angle by moving the left thumbstick.",
+    "Enabled": true
   },
   "800127": {
     "OriginalText": "パイルのグランアーツ「パイルシューター」は\nロックオンしていると当てやすい。",
@@ -710,8 +710,8 @@
   },
   "800142": {
     "OriginalText": "バスターはすべての武器種を装備できる。\nまた、グランアーツとテクニックの両方を使うことができる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Busters can use all weapon types.\nIt can also use every Gran Art and Techniques.",
+    "Enabled": true
   },
   "800143": {
     "OriginalText": "バスターは打撃力・射撃力・法撃力のバランスが良いクラス。",
@@ -740,13 +740,13 @@
   },
   "800148": {
     "OriginalText": "ギガンテスを倒すには、まず装甲を破壊し、\n弱点を狙いダメージを与える戦略が重要。",
-    "Text": "",
-    "Enabled": false
+    "Text": "To defeat a Gigantes, first destroy the\narmor, then focus on the weak spots.",
+    "Enabled": true
   },
   "800149": {
     "OriginalText": "ギガンテスは、\n破壊した部位に応じてアイテムがドロップする。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gigantes will drop items\nbased off the destroyed site.",
+    "Enabled": true
   },
   "800150": {
     "OriginalText": "グランリンクで捕獲したギガンテスは、\n拠点に連れ帰ることができる。",
@@ -790,8 +790,8 @@
   },
   "800158": {
     "OriginalText": "ギガンテスのダウンには、\nダウン時間が長い時と短い時がある。",
-    "Text": "",
-    "Enabled": false
+    "Text": "When Gigantes topples down,\nstrike fast before it gets back up.",
+    "Enabled": true
   },
   "800159": {
     "OriginalText": "通過不可能だった地形障害物が\nギガンテスに破壊され通過可能となることがある。",
