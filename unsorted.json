@@ -1,3 +1,433 @@
+  "10000": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "10001": {
+    "OriginalText": "エマージェンシートライアル成功！",
+    "Text": "Emergency Trial success!",
+    "Enabled": true
+  },
+  "10002": {
+    "OriginalText": "０",
+    "Text": "",
+    "Enabled": false
+  },
+  "10003": {
+    "OriginalText": "１",
+    "Text": "",
+    "Enabled": false
+  },
+  "10004": {
+    "OriginalText": "２",
+    "Text": "",
+    "Enabled": false
+  },
+  "10005": {
+    "OriginalText": "３",
+    "Text": "３",
+    "Enabled": false
+  },
+  "10006": {
+    "OriginalText": "４",
+    "Text": "４",
+    "Enabled": false
+  },
+  "10007": {
+    "OriginalText": "５",
+    "Text": "５",
+    "Enabled": false
+  },
+  "10008": {
+    "OriginalText": "６",
+    "Text": "６",
+    "Enabled": false
+  },
+  "10009": {
+    "OriginalText": "７",
+    "Text": "７",
+    "Enabled": false
+  },
+  "10010": {
+    "OriginalText": "８",
+    "Text": "８",
+    "Enabled": false
+  },
+  "10011": {
+    "OriginalText": "９",
+    "Text": "９",
+    "Enabled": false
+  },
+  "10012": {
+    "OriginalText": "(",
+    "Text": "(",
+    "Enabled": false
+  },
+  "10013": {
+    "OriginalText": ")",
+    "Text": "",
+    "Enabled": false
+  },
+  "10014": {
+    "OriginalText": "+",
+    "Text": "+",
+    "Enabled": false
+  },
+  "10015": {
+    "OriginalText": "/",
+    "Text": "",
+    "Enabled": false
+  },
+  "10016": {
+    "OriginalText": "：",
+    "Text": "",
+    "Enabled": false
+  },
+  "10017": {
+    "OriginalText": "★",
+    "Text": "",
+    "Enabled": false
+  },
+  "10018": {
+    "OriginalText": "*",
+    "Text": "",
+    "Enabled": false
+  },
+  "10019": {
+    "OriginalText": "「",
+    "Text": "",
+    "Enabled": false
+  },
+  "10020": {
+    "OriginalText": "」",
+    "Text": "",
+    "Enabled": false
+  },
+  "10021": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "10022": {
+    "OriginalText": "×",
+    "Text": "",
+    "Enabled": false
+  },
+  "10023": {
+    "OriginalText": "%",
+    "Text": "",
+    "Enabled": false
+  },
+  "10024": {
+    "OriginalText": "-",
+    "Text": "",
+    "Enabled": false
+  },
+  "10025": {
+    "OriginalText": "～",
+    "Text": "",
+    "Enabled": false
+  },
+  "10101": {
+    "OriginalText": "OK",
+    "Text": "OK",
+    "Enabled": true
+  },
+  "10102": {
+    "OriginalText": "キャンセル",
+    "Text": "Cancel",
+    "Enabled": true
+  },
+  "10103": {
+    "OriginalText": "なし",
+    "Text": "None",
+    "Enabled": true
+  },
+  "10104": {
+    "OriginalText": "グランエナジー",
+    "Text": "Gran Energy",
+    "Enabled": true
+  },
+  "10105": {
+    "OriginalText": "はい",
+    "Text": "Yes",
+    "Enabled": true
+  },
+  "10106": {
+    "OriginalText": "いいえ",
+    "Text": "No",
+    "Enabled": true
+  },
+  "10107": {
+    "OriginalText": "x",
+    "Text": "",
+    "Enabled": false
+  },
+  "10108": {
+    "OriginalText": "回",
+    "Text": "",
+    "Enabled": false
+  },
+  "10109": {
+    "OriginalText": "P",
+    "Text": "",
+    "Enabled": false
+  },
+  "10201": {
+    "OriginalText": "ハンター",
+    "Text": "Hunter",
+    "Enabled": true
+  },
+  "10202": {
+    "OriginalText": "レンジャー",
+    "Text": "Ranger",
+    "Enabled": true
+  },
+  "10203": {
+    "OriginalText": "フォース",
+    "Text": "Force",
+    "Enabled": true
+  },
+  "10204": {
+    "OriginalText": "バスター",
+    "Text": "Buster",
+    "Enabled": true
+  },
+  "10301": {
+    "OriginalText": "ステータス",
+    "Text": "Status",
+    "Enabled": true
+  },
+  "10302": {
+    "OriginalText": "威力",
+    "Text": "Power",
+    "Enabled": true
+  },
+  "10303": {
+    "OriginalText": "技量補正",
+    "Text": "Dex Mod",
+    "Enabled": true
+  },
+  "10304": {
+    "OriginalText": "消費GP",
+    "Text": "GP Cost",
+    "Enabled": true
+  },
+  "10305": {
+    "OriginalText": "HP",
+    "Text": "HP",
+    "Enabled": true
+  },
+  "10306": {
+    "OriginalText": "PP",
+    "Text": "PP",
+    "Enabled": true
+  },
+  "10307": {
+    "OriginalText": "打撃力",
+    "Text": "S-ATK",
+    "Enabled": true
+  },
+  "10308": {
+    "OriginalText": "射撃力",
+    "Text": "R-ATK",
+    "Enabled": true
+  },
+  "10309": {
+    "OriginalText": "法撃力",
+    "Text": "T-ATK",
+    "Enabled": true
+  },
+  "10310": {
+    "OriginalText": "技量",
+    "Text": "DEX",
+    "Enabled": true
+  },
+  "10311": {
+    "OriginalText": "打撃防御",
+    "Text": "S-DEF",
+    "Enabled": true
+  },
+  "10312": {
+    "OriginalText": "射撃防御",
+    "Text": "R-DEF",
+    "Enabled": true
+  },
+  "10313": {
+    "OriginalText": "法撃防御",
+    "Text": "T-DEF",
+    "Enabled": true
+  },
+  "10314": {
+    "OriginalText": "レアリティ",
+    "Text": "Rarity",
+    "Enabled": true
+  },
+  "10315": {
+    "OriginalText": "種族",
+    "Text": "Race",
+    "Enabled": true
+  },
+  "10316": {
+    "OriginalText": "性別",
+    "Text": "Sex",
+    "Enabled": true
+  },
+  "10317": {
+    "OriginalText": "特殊能力",
+    "Text": "",
+    "Enabled": false
+  },
+  "10318": {
+    "OriginalText": "スキル",
+    "Text": "Skill",
+    "Enabled": true
+  },
+  "10319": {
+    "OriginalText": "攻撃 / グランアーツ",
+    "Text": "Attack/Gran Arts",
+    "Enabled": true
+  },
+  "10320": {
+    "OriginalText": "テクニック",
+    "Text": "Technique",
+    "Enabled": true
+  },
+  "10321": {
+    "OriginalText": "スタイル",
+    "Text": "Style",
+    "Enabled": true
+  },
+  "10322": {
+    "OriginalText": "特微",
+    "Text": "Traits",
+    "Enabled": true
+  },
+  "10323": {
+    "OriginalText": "Lv.",
+    "Text": "Lv. ",
+    "Enabled": true
+  },
+  "10324": {
+    "OriginalText": "キャラクター名",
+    "Text": "Name",
+    "Enabled": true
+  },
+  "10325": {
+    "OriginalText": "経験値",
+    "Text": "EXP",
+    "Enabled": true
+  },
+  "10326": {
+    "OriginalText": "次のレベルまで",
+    "Text": "Next Level",
+    "Enabled": true
+  },
+  "10327": {
+    "OriginalText": "GP",
+    "Text": "GP",
+    "Enabled": true
+  },
+  "10328": {
+    "OriginalText": "炎属性",
+    "Text": "",
+    "Enabled": false
+  },
+  "10329": {
+    "OriginalText": "氷属性",
+    "Text": "",
+    "Enabled": false
+  },
+  "10330": {
+    "OriginalText": "雷属性",
+    "Text": "",
+    "Enabled": false
+  },
+  "10331": {
+    "OriginalText": "風属性",
+    "Text": "",
+    "Enabled": false
+  },
+  "10332": {
+    "OriginalText": "光属性",
+    "Text": "",
+    "Enabled": false
+  },
+  "10333": {
+    "OriginalText": "闇属性",
+    "Text": "",
+    "Enabled": false
+  },
+  "10334": {
+    "OriginalText": "炎耐性",
+    "Text": "Resist",
+    "Enabled": true
+  },
+  "10335": {
+    "OriginalText": "氷耐性",
+    "Text": "Resist",
+    "Enabled": true
+  },
+  "10336": {
+    "OriginalText": "雷耐性",
+    "Text": "Resist",
+    "Enabled": true
+  },
+  "10337": {
+    "OriginalText": "風耐性",
+    "Text": "Resist",
+    "Enabled": true
+  },
+  "10338": {
+    "OriginalText": "光耐性",
+    "Text": "Resist",
+    "Enabled": true
+  },
+  "10339": {
+    "OriginalText": "闇耐性",
+    "Text": "Resist",
+    "Enabled": true
+  },
+  "10340": {
+    "OriginalText": "プレイヤー情報",
+    "Text": "Player Information",
+    "Enabled": true
+  },
+  "10401": {
+    "OriginalText": "ヒューマン",
+    "Text": "Human",
+    "Enabled": true
+  },
+  "10402": {
+    "OriginalText": "ニューマン",
+    "Text": "Newman",
+    "Enabled": true
+  },
+  "10403": {
+    "OriginalText": "キャスト",
+    "Text": "Cast",
+    "Enabled": true
+  },
+  "10404": {
+    "OriginalText": "キャスト似外",
+    "Text": "Non-Cast",
+    "Enabled": true
+  },
+  "10405": {
+    "OriginalText": "全種族",
+    "Text": "All Races",
+    "Enabled": true
+  },
+  "10501": {
+    "OriginalText": "男性",
+    "Text": "Male",
+    "Enabled": true
+  },
+  "10502": {
+    "OriginalText": "女性",
+    "Text": "Female",
+    "Enabled": true
+  },
   "10601": {
     "OriginalText": "他人",
     "Text": "Distant",
