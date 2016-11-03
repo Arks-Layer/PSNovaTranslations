@@ -1,1412 +1,1410 @@
-{
-  "300000": {
+  "290000": {
     "OriginalText": "---",
     "Text": "",
     "Enabled": false
   },
-  "300001": {
-    "OriginalText": "「約束クエスト」のクリア",
+  "290001": {
+    "OriginalText": "予備枠",
     "Text": "",
     "Enabled": false
   },
-  "300002": {
-    "OriginalText": "【銅の荒野哨戒任務】をクリアする",
+  "290002": {
+    "OriginalText": "あたしのテクニックのおさらいに\nつきあってくれる？\n一緒にやるのは訓練校似来じゃない？\n頑張ろうね、[ruby]相棒[/ruby]！\n[a 03]※この約束は１回のみ[b]",
     "Text": "",
     "Enabled": false
   },
-  "300003": {
-    "OriginalText": "【銅の荒野哨戒任務】を\n【フォース】でクリアする",
-    "Text": "",
-    "Enabled": false
+  "290003": {
+    "OriginalText": "フォースの動きに慣れておきたいね。\n一度、フォースで任務をクリアしてみようよ。\n習うより慣れろだよ、[ruby]相棒[/ruby]！\n[a 03]※この約束は１回のみ\n※『フォース』にクラス変更をする必要あり[b]",
+    "Text": "Let's get used to being a Force.\nClear a mission as a Force. Practice\nmakes perfect, partner!\n[a 03]※Can only be done once\n※Forces only[b]",
+    "Enabled": true
   },
-  "300004": {
-    "OriginalText": "【鳥の皮片】を集める",
+  "290004": {
+    "OriginalText": "鳥の皮片を集めてきてくれない、[ruby]相棒[/ruby]！\n色鮮やかで装飾品として利用できそうなんだ。\n３個くらいあると嬉しいな。",
     "Text": "",
     "Enabled": false
   },
-  "300005": {
-    "OriginalText": "【ロザードのヒレ片】を集める",
+  "290005": {
+    "OriginalText": "ロザードのヒレ片を集めるのを手伝って、[ruby]相棒[/ruby]！\n５個あれば完壁なんだけど……。",
     "Text": "",
     "Enabled": false
   },
-  "300006": {
-    "OriginalText": "【透き通る珪化木】を集める",
+  "290006": {
+    "OriginalText": "透き通る珪化木を３個集めようよ、[ruby]相棒[/ruby]！\n磨くとすっごくきれいで、\nアクセサリーとして使いたいんだ。",
     "Text": "",
     "Enabled": false
   },
-  "300007": {
-    "OriginalText": "【トネルバンクゥの石片】を集める",
+  "290007": {
+    "OriginalText": "トネルバンクゥの石片を集めてくれないかな、\n[ruby]相棒[/ruby]！ ５個必要なんだけど、\n今ちょっと手が空かなくて……。\nごめん、お願い！！",
     "Text": "",
     "Enabled": false
   },
-  "300008": {
-    "OriginalText": "【コパイエーデンの毛皮】を集める",
+  "290008": {
+    "OriginalText": "コパイエーデンの毛皮を１つ調達しようよ、\n[ruby]相棒[/ruby]！ ふかふかで気持ちよさそうでしょ。\nコスチュームを作るのに使えると思うよ！",
     "Text": "",
     "Enabled": false
   },
-  "300009": {
-    "OriginalText": "【鈍く光るコランダム塊】を集める",
+  "290009": {
+    "OriginalText": "鈍く光るコランダム塊を集めようよ、[ruby]相棒[/ruby]！\nだって、キレイでしょ？ \n３個くらい集めたいね。",
     "Text": "",
     "Enabled": false
   },
-  "300010": {
-    "OriginalText": "【バリドランナの大光玉】を集める",
-    "Text": "",
-    "Enabled": false
+  "290010": {
+    "OriginalText": "バリドランナの大光玉を３個集めようよ、[ruby]相棒[/ruby]！\n磨くとすっごくきれいで、\nアクセサリーとして使いたいんだ。",
+    "Text": "Collect 3 Balls of Light from Baridran'na, partner!\nOnce cleaned and polished,\nI can use it as an accessory.",
+    "Enabled": true
   },
-  "300011": {
-    "OriginalText": "【アルキュオネの硬肩部装甲】を集める",
+  "290011": {
+    "OriginalText": "アルキュオネの硬肩部装甲を調達してきてよ、[ruby]相棒[/ruby]！\nえっ、あたしも一緒に！？\nムリムリ！！ あんなブニョブニョ近づくのも嫌！",
     "Text": "",
     "Enabled": false
   },
-  "300012": {
-    "OriginalText": "常に【ロッド系】を装備して\n【アルキュオネ撃破任務】の\n【アルキュオネ】にとどめをさす",
+  "290012": {
+    "OriginalText": "アルキュオネをロッドだけで倒せるかな？\n[a 06]『ロッド』 \n通常攻撃に加えてテクニックをセットして使う\nことができる。初心者でも扱いやすい。[b]\n[a 03]※ロッド[ruby ケイ]系[/ruby]で撃破が必要 この約束は一回のみ[b]",
     "Text": "",
     "Enabled": false
   },
-  "300013": {
-    "OriginalText": "常に【タリス系】を装備して\n【アルキュオネ撃破任務】の\n【アルキュオネ】にとどめをさす",
+  "290013": {
+    "OriginalText": "アルキュオネをタリスだけで倒してみせてよ！\n[a 06]『タリス』 \n遠くに飛ばしたカードからテクニックを発動させる。\n遠隔攻撃によって戦略の幅が広がる法撃武器。[b]\n[a 03]※タリス系で撃破が必要 この約束は一回のみ[b]",
     "Text": "",
     "Enabled": false
   },
-  "300014": {
-    "OriginalText": "常に【ウォンド系】を装備して\n【アルキュオネ撃破任務】の\n【アルキュオネ】にとどめをさす",
+  "290014": {
+    "OriginalText": "アルキュオネをウォンドだけでやっつけちゃって！\n[a 06]『ウォンド』 \n打撃力も高い法撃武器。\n素早く攻撃力の高い接近攻撃が特微。[b]\n[a 03]※ウォンド系で撃破が必要 この約束は一回のみ[b]",
     "Text": "",
     "Enabled": false
   },
-  "300015": {
-    "OriginalText": "【テッラマンデルの鱗片】を集める",
+  "290015": {
+    "OriginalText": "テッラマンデルの鱗片を調達してこようよ、相棒！\n表側はゴツゴツして汚いけど裏側はつややかで\n光の加滅で色んな色に変化するんだよ。\n１つあれば十分だよ！\n[a 03]※この約束は１回のみ[b]",
     "Text": "",
     "Enabled": false
   },
-  "300016": {
-    "OriginalText": "ルティナの約束15の達成条件",
+  "290016": {
+    "OriginalText": "予備枠",
     "Text": "",
     "Enabled": false
   },
-  "300017": {
-    "OriginalText": "ルティナの約束16の達成条件",
+  "290017": {
+    "OriginalText": "予備枠",
     "Text": "",
     "Enabled": false
   },
-  "300018": {
-    "OriginalText": "ルティナの約束17の達成条件",
+  "290018": {
+    "OriginalText": "予備枠",
     "Text": "",
     "Enabled": false
   },
-  "300019": {
-    "OriginalText": "ルティナの約束18の達成条件",
+  "290019": {
+    "OriginalText": "予備枠",
     "Text": "",
     "Enabled": false
   },
-  "300020": {
-    "OriginalText": "ルティナの約束19の達成条件",
+  "290020": {
+    "OriginalText": "予備枠",
     "Text": "",
     "Enabled": false
   },
-  "300021": {
-    "OriginalText": "ルティナの約束20の達成条件",
+  "290021": {
+    "OriginalText": "予備枠",
     "Text": "",
     "Enabled": false
   },
-  "300022": {
-    "OriginalText": "【ダーカー討伐任務】をクリアする",
+  "290022": {
+    "OriginalText": "オレのグランアーツの訓練に付き合ってくれないか？\n一緒に訓練しようぜ！\n\n\n[a 03]※この約束は１回のみ[b]",
     "Text": "",
     "Enabled": false
   },
-  "300023": {
-    "OriginalText": "【ダーカー討伐任務】を\n【ハンター】でクリアする",
-    "Text": "",
-    "Enabled": false
+  "290023": {
+    "OriginalText": "ハンターって、戦闘クラスの花形だよな！\n任務はハンターでクリアしてこそ一人前と思うんだ。\n一緒にやろうぜ！\n[a 03]※この約束は１回のみ\n※『ハンター』にクラス変更をする必要あり[b]",
+    "Text": "Hunter, the star combat class!\nA mission for full-fledged Hunters.\nLet's do this together!\n[a 03]※Can only be completed once\n※Hunters only[b]",
+    "Enabled": true
   },
-  "300024": {
-    "OriginalText": "【雪辱の新兵器】をクリアする",
+  "290024": {
+    "OriginalText": "アグリオスを撃破しに行こうぜ！\n奴の攻撃はキツイけど、倒した時のあの達成感を\nもう一度味わってみないか！？",
     "Text": "",
     "Enabled": false
   },
-  "300025": {
-    "OriginalText": "【炎の脅威】をクリアする",
+  "290025": {
+    "OriginalText": "アルキュオネを撃破しに行こうぜ！\nなんだ、やる前からびびってるのか？\nそんなのやってみないとわかんねえだろ？",
     "Text": "",
     "Enabled": false
   },
-  "300026": {
-    "OriginalText": "【不機嫌な砲塔】をクリアする",
+  "290026": {
+    "OriginalText": "エウリュード撃破しにいかねぇか？\nへへっ、お前なら簡単だろ？",
     "Text": "",
     "Enabled": false
   },
-  "300027": {
-    "OriginalText": "【アルレイバンサー撃破任務】を\n【ハンター】でクリアする",
+  "290027": {
+    "OriginalText": "アルレイバンサーをハンタークラスで\n撃破しに行こうぜ！\nハンターの特訓にもなるし、拠点の安全も\n確保できるし、いいことだらけだろ？",
     "Text": "",
     "Enabled": false
   },
-  "300028": {
-    "OriginalText": "【古代都市哨戒任務】を\n【ハンター】でクリアする",
+  "290028": {
+    "OriginalText": "古代都市哨戒任務をハンタークラスで\nクリアしにいかねえか？\nこの程度こなせないと、艦長も務まらないってな！",
     "Text": "",
     "Enabled": false
   },
-  "300029": {
-    "OriginalText": "【難：グレイオス攻略任務】を\nクリアする",
+  "290029": {
+    "OriginalText": "グレイオスを撃破しに行こうぜ！\n越えるハードルは高いほど燃えるってな！",
     "Text": "",
     "Enabled": false
   },
-  "300030": {
-    "OriginalText": "【難：銅の荒野連続撃破任務】を\nクリアする",
+  "290030": {
+    "OriginalText": "ギガンテス２体を撃破しにいかねぇか？\nお前なら出来るって信じてるぜ！",
     "Text": "",
     "Enabled": false
   },
-  "300031": {
-    "OriginalText": "【難：アルテイオス決戦】を\n【Ｓランク】でクリアする",
+  "290031": {
+    "OriginalText": "最強の黒いギガンテスを倒しに行こうぜ！\nオレとお前なら抜群にうまくやれるはずさ！\n一緒に行こうぜ！",
     "Text": "",
     "Enabled": false
   },
-  "300032": {
-    "OriginalText": "常に【ソード系】を装備して\n【ディートアス撃破任務】の\n【ディートアス】にとどめをさす",
-    "Text": "",
-    "Enabled": false
+  "290032": {
+    "OriginalText": "ソードだけでディートアスを撃破。お前ならできる！\n[a 06]『ソード』\n近接武器としてはリーチが長くクセも少なく、\n戦闘の基本を覚えるのに適している。[b]\n[a 03]※ソード系で撃破が必要 この約束は一回のみ[b]",
+    "Text": "Go defeat a Ditoas with a sword, you can do it!\n[a 06]Swords have a long reach for a weapon.\nIt's perfect for the basics of combat.\n[a 03]※Swords only[b]",
+    "Enabled": true
   },
-  "300033": {
-    "OriginalText": "常に【パルチザン系】を装備して\n【ディートアス撃破任務】の\n【ディートアス】にとどめをさす",
+  "290033": {
+    "OriginalText": "パルチザンだけでディートアスを倒してみようぜ。\n[a 06]『パルチザン』\n高速かつ豪快に敵を薙ぎ払う打撃武器。\nスキのない攻撃を得意とする。[b]\n[a 03]※パルチザン系で撃破が必要 この約束は一回のみ[b]",
     "Text": "",
     "Enabled": false
   },
-  "300034": {
-    "OriginalText": "常に【ダブルセイバー系】を装備して\n【ディートアス撃破任務】の\n【ディートアス】にとどめをさす",
+  "290034": {
+    "OriginalText": "ダブルセイバーだけでディートアス撃破しようぜ！\n[a 06]『ダブルセイバー』\n多彩な攻撃バリエーションと攻撃回数の多さで\n圧倒的なダメージを敵に与えることができる。[b]\n[a 03]※ダブルセイバー系で撃破が必要 この約束は一回のみ[b]",
     "Text": "",
     "Enabled": false
   },
-  "300035": {
-    "OriginalText": "常に【ナックル系】を装備して\n【ディートアス撃破任務】の\n【ディートアス】にとどめをさす",
+  "290035": {
+    "OriginalText": "ナックルだけでディートアス撃破。やってみるか？\n[a 06]『ナックル』\n敵に接近し攻撃するリスクがあるが、\nコンビネーションで敵に反撃の隙を与えない。[b]\n[a 03]※ナックル系で撃破が必要 この約束は一回のみ[b]",
     "Text": "",
     "Enabled": false
   },
-  "300036": {
-    "OriginalText": "【マガヴルムの銃身】を集める",
+  "290036": {
+    "OriginalText": "マガヴルムの銃身を持ってきてくれないか？\n武器の調子が悪いからヨミに相談したら修理に\nこいつが必要らしいんだ。\n１つ持ってきてくれ！\n[a 03]※この約束は１回のみ[b]",
     "Text": "",
     "Enabled": false
   },
-  "300037": {
-    "OriginalText": "セイルの約束16の達成条件",
+  "290037": {
+    "OriginalText": "予備枠",
     "Text": "",
     "Enabled": false
   },
-  "300038": {
-    "OriginalText": "セイルの約束17の達成条件",
+  "290038": {
+    "OriginalText": "予備枠",
     "Text": "",
     "Enabled": false
   },
-  "300039": {
-    "OriginalText": "セイルの約束18の達成条件",
+  "290039": {
+    "OriginalText": "予備枠",
     "Text": "",
     "Enabled": false
   },
-  "300040": {
-    "OriginalText": "セイルの約束19の達成条件",
+  "290040": {
+    "OriginalText": "予備枠",
     "Text": "",
     "Enabled": false
   },
-  "300041": {
-    "OriginalText": "セイルの約束20の達成条件",
+  "290041": {
+    "OriginalText": "予備枠",
     "Text": "",
     "Enabled": false
   },
-  "300042": {
-    "OriginalText": "【グラン結晶を求めて】をクリアする",
+  "290042": {
+    "OriginalText": "わたし、グランの扱いがまだまだで……。\n一緒に訓練しませんか？\n\n\n[a 03]※この約束は１回のみ[b]",
     "Text": "",
     "Enabled": false
   },
-  "300043": {
-    "OriginalText": "【グラン結晶を求めて】を\n【レンジャー】でクリアする",
-    "Text": "",
-    "Enabled": false
+  "290043": {
+    "OriginalText": "わたしと一緒にかっこいいレンジャーを\n目指しませんか？ よかったら一緒に\n任務をクリアしましょう。\n[a 03]※この約束は１回のみ\n※『レンジャー』にクラス変更をする必要あり[b]",
+    "Text": "Do you wish to become a cool\nRanger like me? If you'd like,\nwe can clear a mission.\n[a 03]※Can only be completed once\n※Rangers only[b]",
+    "Enabled": true
   },
-  "300044": {
-    "OriginalText": "【爬虫類のエキス】を集める",
+  "290044": {
+    "OriginalText": "爬虫類のエキスを３つ調達したいのです。\nすみません、集めていただいてもよいですか？",
     "Text": "",
     "Enabled": false
   },
-  "300045": {
-    "OriginalText": "【ダーカーの触角】を集める",
-    "Text": "",
-    "Enabled": false
+  "290045": {
+    "OriginalText": "ダーカーの触角がたくさん必要なんです。\nそんなにいっぱい集められるか心配で……。\n一緒に集めてもらえませんか？",
+    "Text": "I need a bunch of Darker Antennae.\nI wonder how much you could collect...\nCould you please get me some?",
+    "Enabled": true
   },
-  "300046": {
-    "OriginalText": "【アルキュオネの手片】を集める",
+  "290046": {
+    "OriginalText": "アルキュオネの手片を３つ\n調達したいのです。\nお願いすることは出来ますか？",
     "Text": "",
     "Enabled": false
   },
-  "300047": {
-    "OriginalText": "【獣の皮片】を集める",
+  "290047": {
+    "OriginalText": "獣の皮片を９つ調達したいのです。\n大仕事になりそうですが、\nお願いしてもよいですか？",
     "Text": "",
     "Enabled": false
   },
-  "300048": {
-    "OriginalText": "【ダーカーの皮片】を集める",
+  "290048": {
+    "OriginalText": "ダーカーの皮片が２つ必要なのです。\nわたし一人の手には負えないかもしれないので\n手伝ってもらえませんか？",
     "Text": "",
     "Enabled": false
   },
-  "300049": {
-    "OriginalText": "【バンクゥの大宝石】を集める",
+  "290049": {
+    "OriginalText": "バンクゥの大宝石を２個、調達したいのです。\nお願いしてもいいですか？",
     "Text": "",
     "Enabled": false
   },
-  "300050": {
-    "OriginalText": "【ギュゲンテの大砲塔部品】を集める\n【リベルゲンテの大砲塔部品】を集める",
+  "290050": {
+    "OriginalText": "ギュゲンテとリベルゲンテの大砲塔部品を\n１つずつ調達したいのです。\n私が頼まれた仕事なのですが\nお手伝いをお願いしてもよいですか？",
     "Text": "",
     "Enabled": false
   },
-  "300051": {
-    "OriginalText": "【ガラティオンの硬骨格】を集める",
+  "290051": {
+    "OriginalText": "ガラティオンの硬骨格を調達したいのです。\n一緒に集めれば、すぐ集められますよね！",
     "Text": "",
     "Enabled": false
   },
-  "300052": {
-    "OriginalText": "常に【アサルトライフル系】を装備して\n【新たな大砲】の\n【アグリオスＰ型】にとどめをさす",
+  "290052": {
+    "OriginalText": "アサルトライフルだけでギガンテスを倒せますか？\n[a 06]『アサルトライフル』\n初心者でも扱いやすい射撃武器。\n離れた場所から敵に射撃ダメージを与える。[b]\n[a 03]※アサルトライフル系で撃破が必要 この約束は一回のみ[b]",
     "Text": "",
     "Enabled": false
   },
-  "300053": {
-    "OriginalText": "常に【ツインマシンガン系】を装備して\n【新たな大砲】の\n【アグリオスＰ型】にとどめをさす",
+  "290053": {
+    "OriginalText": "ツインマシンガンだけでギガンテスを倒せますか？\n[a 06]『ツインマシンガン』\n二丁の銃でアクロバティックに攻撃する射撃武器。\n単一の敵を集中的に攻撃できる。[b]\n[a 03]※要ツインマシンガン系で撃破 この約束は一回のみ[b]",
     "Text": "",
     "Enabled": false
   },
-  "300054": {
-    "OriginalText": "【オベリスクの破片】を集める",
+  "290054": {
+    "OriginalText": "記憶装置を読み解いて似来、この惑星の文化に\n興味津々です！\nもし、探索の最中で遺跡の破片を見つけたら\n回収していただけませんか？",
     "Text": "",
     "Enabled": false
   },
-  "300055": {
-    "OriginalText": "【赤く広がる花状結晶】を集める",
+  "290055": {
+    "OriginalText": "赤く広がる花状結晶を調達したいのです。\n私一人では難しくて…。\n３つあれば大丈夫です。\n\n[a 03]※この約束は１回のみ[b]",
     "Text": "",
     "Enabled": false
   },
-  "300056": {
-    "OriginalText": "イズナの約束15の達成条件",
+  "290056": {
+    "OriginalText": "予備枠",
     "Text": "",
     "Enabled": false
   },
-  "300057": {
-    "OriginalText": "イズナの約束16の達成条件",
+  "290057": {
+    "OriginalText": "予備枠",
     "Text": "",
     "Enabled": false
   },
-  "300058": {
-    "OriginalText": "イズナの約束17の達成条件",
+  "290058": {
+    "OriginalText": "予備枠",
     "Text": "",
     "Enabled": false
   },
-  "300059": {
-    "OriginalText": "イズナの約束18の達成条件",
+  "290059": {
+    "OriginalText": "予備枠",
     "Text": "",
     "Enabled": false
   },
-  "300060": {
-    "OriginalText": "イズナの約束19の達成条件",
+  "290060": {
+    "OriginalText": "予備枠",
     "Text": "",
     "Enabled": false
   },
-  "300061": {
-    "OriginalText": "イズナの約束20の達成条件",
+  "290061": {
+    "OriginalText": "予備枠",
     "Text": "",
     "Enabled": false
   },
-  "300062": {
-    "OriginalText": "ユノの約束01の達成条件",
+  "290062": {
+    "OriginalText": "予備枠",
     "Text": "",
     "Enabled": false
   },
-  "300063": {
-    "OriginalText": "ユノの約束02の達成条件",
+  "290063": {
+    "OriginalText": "予備枠",
     "Text": "",
     "Enabled": false
   },
-  "300064": {
-    "OriginalText": "ユノの約束03の達成条件",
+  "290064": {
+    "OriginalText": "予備枠",
     "Text": "",
     "Enabled": false
   },
-  "300065": {
-    "OriginalText": "ユノの約束04の達成条件",
+  "290065": {
+    "OriginalText": "予備枠",
     "Text": "",
     "Enabled": false
   },
-  "300066": {
-    "OriginalText": "ユノの約束05の達成条件",
+  "290066": {
+    "OriginalText": "予備枠",
     "Text": "",
     "Enabled": false
   },
-  "300067": {
-    "OriginalText": "ユノの約束06の達成条件",
+  "290067": {
+    "OriginalText": "予備枠",
     "Text": "",
     "Enabled": false
   },
-  "300068": {
-    "OriginalText": "ユノの約束07の達成条件",
+  "290068": {
+    "OriginalText": "予備枠",
     "Text": "",
     "Enabled": false
   },
-  "300069": {
-    "OriginalText": "ユノの約束08の達成条件",
+  "290069": {
+    "OriginalText": "予備枠",
     "Text": "",
     "Enabled": false
   },
-  "300070": {
-    "OriginalText": "ユノの約束09の達成条件",
+  "290070": {
+    "OriginalText": "予備枠",
     "Text": "",
     "Enabled": false
   },
-  "300071": {
-    "OriginalText": "ユノの約束10の達成条件",
+  "290071": {
+    "OriginalText": "予備枠",
     "Text": "",
     "Enabled": false
   },
-  "300072": {
-    "OriginalText": "ユノの約束11の達成条件",
+  "290072": {
+    "OriginalText": "予備枠",
     "Text": "",
     "Enabled": false
   },
-  "300073": {
-    "OriginalText": "ユノの約束12の達成条件",
+  "290073": {
+    "OriginalText": "予備枠",
     "Text": "",
     "Enabled": false
   },
-  "300074": {
-    "OriginalText": "ユノの約束13の達成条件",
+  "290074": {
+    "OriginalText": "予備枠",
     "Text": "",
     "Enabled": false
   },
-  "300075": {
-    "OriginalText": "ユノの約束14の達成条件",
+  "290075": {
+    "OriginalText": "予備枠",
     "Text": "",
     "Enabled": false
   },
-  "300076": {
-    "OriginalText": "ユノの約束15の達成条件",
+  "290076": {
+    "OriginalText": "予備枠",
     "Text": "",
     "Enabled": false
   },
-  "300077": {
-    "OriginalText": "ユノの約束16の達成条件",
+  "290077": {
+    "OriginalText": "予備枠",
     "Text": "",
     "Enabled": false
   },
-  "300078": {
-    "OriginalText": "ユノの約束17の達成条件",
+  "290078": {
+    "OriginalText": "予備枠",
     "Text": "",
     "Enabled": false
   },
-  "300079": {
-    "OriginalText": "ユノの約束18の達成条件",
+  "290079": {
+    "OriginalText": "予備枠",
     "Text": "",
     "Enabled": false
   },
-  "300080": {
-    "OriginalText": "ユノの約束19の達成条件",
+  "290080": {
+    "OriginalText": "予備枠",
     "Text": "",
     "Enabled": false
   },
-  "300081": {
-    "OriginalText": "ユノの約束20の達成条件",
+  "290081": {
+    "OriginalText": "予備枠",
     "Text": "",
     "Enabled": false
   },
-  "300082": {
-    "OriginalText": "【ジャッドバンサー撃破任務】を\n戦闘不能回数１回似下でクリアする",
+  "290082": {
+    "OriginalText": "お前もそろそろスケープドールを\n使わずにクリアできるだろ？\n必ず、生きて帰ってこいよ！\n\n[a 03]※この約束は１回のみ[b]",
     "Text": "",
     "Enabled": false
   },
-  "300083": {
-    "OriginalText": "【難：銅の荒野走破任務】を\n戦闘不能にならずにクリアする",
+  "290083": {
+    "OriginalText": "久々にお前の戦いぶりを見てやるぞ。\nオレの指定するクエストを１回も倒れずに\nクリアしてみせろ！\nそれくらいできるだろ？",
     "Text": "",
     "Enabled": false
   },
-  "300084": {
-    "OriginalText": "【難：ギュゲンテ撃破任務】を\n戦闘不能にならずにクリアする",
+  "290084": {
+    "OriginalText": "お前もどんどん腕をあげているからな。\nもう少しハードルを上げて、もう一回だ！\n簡単に倒れるんじゃねえぞ！",
     "Text": "",
     "Enabled": false
   },
-  "300085": {
-    "OriginalText": "【難：古代都市殲滅任務】を\n【Ｓランク】似上でクリアする",
+  "290085": {
+    "OriginalText": "今度も指定のクエストをクリアしてもらうぜ。\nただしＳランク似外認めねぇ！\n漫然と任務をクリアしても意味ねえからな、\n目標くらいなくちゃな！",
     "Text": "",
     "Enabled": false
   },
-  "300086": {
-    "OriginalText": "【難：古代都市広域偵察任務】を\n【Ｓランク】似上でクリアする",
+  "290086": {
+    "OriginalText": "本当にお前はどんどん腕を上げるな！\n見ていてオレまで楽しくなってくる！ \nおし、今度もＳランクを取ってみせろ。",
     "Text": "",
     "Enabled": false
   },
-  "300087": {
-    "OriginalText": "【難：炎の高地殲滅任務】を\n【Ｓランク】似上でクリアする",
+  "290087": {
+    "OriginalText": "そろそろオレの訓練も仕上げだ！\n最後はもちろんＳランクだ！",
     "Text": "",
     "Enabled": false
   },
-  "300088": {
-    "OriginalText": "【難：ノヴァ内部哨戒任務】を\n戦闘不能にならずにクリアする",
+  "290088": {
+    "OriginalText": "次はこれまでのようにはいかないぞ！\nオレの指定するクエストを倒れずに\nクリアしてみせろ！\n逃げ帰ってきたらぶん殴るからな！",
     "Text": "",
     "Enabled": false
   },
-  "300089": {
-    "OriginalText": "【難：グラン水源哨戒任務】を\n戦闘不能にならずにクリアする",
+  "290089": {
+    "OriginalText": "アレをクリアできるとはさすがだな！\nおっし、まだまだレベルを上げるぞ！\n今度も倒れずにクエストをクリアしろ！",
     "Text": "",
     "Enabled": false
   },
-  "300090": {
-    "OriginalText": "【難：グラン水源殲滅任務】を\n【Ｓランク】似上でクリアする",
+  "290090": {
+    "OriginalText": "これが究極の腕試しだ！ ついてこれるか？\n今度は原生種をどれだけ倒せるか見せてもらうぜ。\n原生種におくれをとったりしないよな？\n当然、Ｓランクを取ってもらうぞ。",
     "Text": "",
     "Enabled": false
   },
-  "300091": {
-    "OriginalText": "【難：レイヴガイスト決戦】を\n【Ｓランク】でクリアする",
+  "290091": {
+    "OriginalText": "今までと比べ物にならないデカいギガンテスが\n現れたらしいじゃねぇか！\nこいつをＳランクでぶちのめしてみせろ！\nそれができれば、お前はオレと肩を並べて\n戦えるヤツだって認めてやるよ！",
     "Text": "",
     "Enabled": false
   },
-  "300092": {
-    "OriginalText": "【ラッピー】を倒す",
+  "290092": {
+    "OriginalText": "ラッピーを見つけて逃げられる前に\n倒して来い！",
     "Text": "",
     "Enabled": false
   },
-  "300093": {
-    "OriginalText": "フィルディアの約束12の達成条件",
+  "290093": {
+    "OriginalText": "予備枠",
     "Text": "",
     "Enabled": false
   },
-  "300094": {
-    "OriginalText": "フィルディアの約束13の達成条件",
+  "290094": {
+    "OriginalText": "予備枠",
     "Text": "",
     "Enabled": false
   },
-  "300095": {
-    "OriginalText": "フィルディアの約束14の達成条件",
+  "290095": {
+    "OriginalText": "予備枠",
     "Text": "",
     "Enabled": false
   },
-  "300096": {
-    "OriginalText": "フィルディアの約束15の達成条件",
+  "290096": {
+    "OriginalText": "予備枠",
     "Text": "",
     "Enabled": false
   },
-  "300097": {
-    "OriginalText": "フィルディアの約束16の達成条件",
+  "290097": {
+    "OriginalText": "予備枠",
     "Text": "",
     "Enabled": false
   },
-  "300098": {
-    "OriginalText": "フィルディアの約束17の達成条件",
+  "290098": {
+    "OriginalText": "予備枠",
     "Text": "",
     "Enabled": false
   },
-  "300099": {
-    "OriginalText": "フィルディアの約束18の達成条件",
+  "290099": {
+    "OriginalText": "予備枠",
     "Text": "",
     "Enabled": false
   },
-  "300100": {
-    "OriginalText": "フィルディアの約束19の達成条件",
+  "290100": {
+    "OriginalText": "予備枠",
     "Text": "",
     "Enabled": false
   },
-  "300101": {
-    "OriginalText": "フィルディアの約束20の達成条件",
+  "290101": {
+    "OriginalText": "予備枠",
     "Text": "",
     "Enabled": false
   },
-  "300102": {
-    "OriginalText": "【ダーカー：Ｌｖ６１】を倒す",
+  "290102": {
+    "OriginalText": "この惑星のダーカーについて研究をしたいのですが\nレベルの高いダーカーとの戦闘をお願いします。\nキミにしか頼めないことなので……。",
     "Text": "",
     "Enabled": false
   },
-  "300103": {
-    "OriginalText": "【グランピース】を集める",
+  "290103": {
+    "OriginalText": "私のグラン研究に協力をお願いします。\nグランピースを３０個ほど調達してください。",
     "Text": "",
     "Enabled": false
   },
-  "300104": {
-    "OriginalText": "【ウッドオパール】を集める\n【ペロブスカイト石】を集める\n【脈打つミグマタイト】を集める",
+  "290104": {
+    "OriginalText": "この[ruby ほし]惑星[/ruby]の鉱石研究に協力をお願いします。\nウッドオパール、ペロブスカイト石、\n脈打つミグマタイトをそれぞれ３つずつ\n調達してください。",
     "Text": "",
     "Enabled": false
   },
-  "300105": {
-    "OriginalText": "【原生種：Ｌｖ８０】を倒す",
+  "290105": {
+    "OriginalText": "この[ruby ほし]惑星[/ruby]の原生種研究に協力をお願いします。\n原生種を３０体ほど倒してください。\n戦闘履歴から何か新しいことが分かりそうなので。",
     "Text": "",
     "Enabled": false
   },
-  "300106": {
-    "OriginalText": "【天然樹木】を集める",
+  "290106": {
+    "OriginalText": "この[ruby ほし]惑星[/ruby]の植物研究を手伝ってもらえますか。\n天然樹木が１０本ほどあれば\n事足りると思うのですが……。",
     "Text": "",
     "Enabled": false
   },
-  "300107": {
-    "OriginalText": "【瞬くクリソベル石】を集める",
+  "290107": {
+    "OriginalText": "この[ruby ほし]惑星[/ruby]の地質研究への協力を頼めますか？\n瞬くクリソベル石が１０個もあれば、\n多くのことが分かると思うのですが……。",
     "Text": "",
     "Enabled": false
   },
-  "300108": {
-    "OriginalText": "【ブーストエネミー：Ｌｖ８０】を倒す",
+  "290108": {
+    "OriginalText": "ブーストするエネミーについて研究をしています。\nサンプルとして高レベルのブーストエネミーとの\n戦闘をお願いします。\nキミ達なら達成できると信じています。",
     "Text": "",
     "Enabled": false
   },
-  "300109": {
-    "OriginalText": "【ギガンテス：Ｌｖ９０】を倒す",
+  "290109": {
+    "OriginalText": "ギガンテスの研究を行いたいのですが\n協力をお願いできますか？\nキミ達とギガンテスとの戦いの中で\n何か新しいことが分かりそうなんです。",
     "Text": "",
     "Enabled": false
   },
-  "300110": {
-    "OriginalText": "【レイヴガイストの大結界】を集める\n【レイヴガイストの硬武装腕】を集める",
+  "290110": {
+    "OriginalText": "ノヴァについて、いくつか確認したい\nことがあるのです。レイヴガイストの大結界、\n硬武装腕を入手できないでしょうか？",
     "Text": "",
     "Enabled": false
   },
-  "300111": {
-    "OriginalText": "【レイヴガイストの大収束器】を集める\n【レイヴガイストの硬仮面】を集める",
+  "290111": {
+    "OriginalText": "ノヴァについて、新しい仮説を立てました。\nレイヴガイストの大収束器と硬仮面を入手\n出来れば、仮説の検証ができるのですが……。",
     "Text": "",
     "Enabled": false
   },
-  "300112": {
-    "OriginalText": "【ギガティオンの硬鉄線】を集める",
+  "290112": {
+    "OriginalText": "ギガンテスの武装で対象を引き寄せる\nめずらしい武装があると聞きました。\n原理がどうなっているのか非常に興味があります。\nギガティオンの硬鉄線の回収をお願いします。\n[a 03]※この約束は１回のみ[b]",
     "Text": "",
     "Enabled": false
   },
-  "300113": {
-    "OriginalText": "【グレイオスの鋭角】を集める",
+  "290113": {
+    "OriginalText": "アグリオスの赤い派生種、グレイオスの鋭角を\n回収してきてくれませんか？あの赤い装甲は単なる\n塗料ではなく、特殊なコーティングが施された結果、\n赤くなっているのでは、と私は考えています。\n[a 03]※この約束は１回のみ[b]",
     "Text": "",
     "Enabled": false
   },
-  "300114": {
-    "OriginalText": "レイヴァンの約束13の達成条件",
+  "290114": {
+    "OriginalText": "予備枠",
     "Text": "",
     "Enabled": false
   },
-  "300115": {
-    "OriginalText": "レイヴァンの約束14の達成条件",
+  "290115": {
+    "OriginalText": "予備枠",
     "Text": "",
     "Enabled": false
   },
-  "300116": {
-    "OriginalText": "レイヴァンの約束15の達成条件",
+  "290116": {
+    "OriginalText": "予備枠",
     "Text": "",
     "Enabled": false
   },
-  "300117": {
-    "OriginalText": "レイヴァンの約束16の達成条件",
+  "290117": {
+    "OriginalText": "予備枠",
     "Text": "",
     "Enabled": false
   },
-  "300118": {
-    "OriginalText": "レイヴァンの約束17の達成条件",
+  "290118": {
+    "OriginalText": "予備枠",
     "Text": "",
     "Enabled": false
   },
-  "300119": {
-    "OriginalText": "レイヴァンの約束18の達成条件",
+  "290119": {
+    "OriginalText": "予備枠",
     "Text": "",
     "Enabled": false
   },
-  "300120": {
-    "OriginalText": "レイヴァンの約束19の達成条件",
+  "290120": {
+    "OriginalText": "予備枠",
     "Text": "",
     "Enabled": false
   },
-  "300121": {
-    "OriginalText": "レイヴァンの約束20の達成条件",
+  "290121": {
+    "OriginalText": "予備枠",
     "Text": "",
     "Enabled": false
   },
-  "300122": {
-    "OriginalText": "【ギガンテスの甲片】を集める",
+  "290122": {
+    "OriginalText": "ギガンテスの甲片を手に入れて来い。\n５つは欲しいところだな。\n船体の修理に使う。",
     "Text": "",
     "Enabled": false
   },
-  "300123": {
-    "OriginalText": "【ギガンテスのグラン器片】を集める",
+  "290123": {
+    "OriginalText": "ギガンテスのグラン器片を手に入れて来い。\nそうだな、１つは必要だ。\n施設の補修に使えそうなんでな。",
     "Text": "",
     "Enabled": false
   },
-  "300124": {
-    "OriginalText": "【エウリュードの爪片】を集める\n【ギガンテスの殻片】を集める",
+  "290124": {
+    "OriginalText": "エウリュードの爪片とギガンテスの殻片を\n手に入れて来い。それぞれ１つずつでいい。\n船体の修理に役立ちそうだ。",
     "Text": "",
     "Enabled": false
   },
-  "300125": {
-    "OriginalText": "【アルキュオネの浮遊装置】を集める\n【アグリオスの砲片】を集める",
+  "290125": {
+    "OriginalText": "アルキュオネの浮遊装置とアグリオスの砲片を\nそれぞれ３つずつ持ってこい。\n修理に必要な機村に使えそうだ。",
     "Text": "",
     "Enabled": false
   },
-  "300126": {
-    "OriginalText": "【ロヴラッピーの甲片】を集める",
+  "290126": {
+    "OriginalText": "ロヴラッピーの甲片を手に入れて来い。\n艦の装甲には小さいが、部品として使うには\nちょうどいいサイズなんだ。\n２個あれば、何とかなると思う。",
     "Text": "",
     "Enabled": false
   },
-  "300127": {
-    "OriginalText": "【アセラビーソの原動機】を集める\n【アセラビーソの刃片】を集める",
+  "290127": {
+    "OriginalText": "アセラビーソを倒して、\n原動機を１つ、刃片を２つ、調達してこい。\n急ぎで頼めるか？",
     "Text": "",
     "Enabled": false
   },
-  "300128": {
-    "OriginalText": "【ガラティオンの鋭ノコ刃】を集める",
+  "290128": {
+    "OriginalText": "ガラティオンの鋭ノコ刃を手に入れて来い。\n２つは欲しいところだ。\n艦の修理に役立ちそうだ。",
     "Text": "",
     "Enabled": false
   },
-  "300129": {
-    "OriginalText": "【ファンアフォルの硬骨格】を集める",
+  "290129": {
+    "OriginalText": "ファンアフォルの硬骨格の入手を頼めるか？\n１つあれば大丈夫だ。\nお前なら、何とかできるだろう。",
     "Text": "",
     "Enabled": false
   },
-  "300130": {
-    "OriginalText": "【ギガンテスの駆動機関】を集める",
+  "290130": {
+    "OriginalText": "ギガンテスの駆動機関を３つ頼む。\nオレが取りに行きたいんだが、\n今、手が離せなくてな。",
     "Text": "",
     "Enabled": false
   },
-  "300131": {
-    "OriginalText": "【アルテイオスの大主砲】を集める",
+  "290131": {
+    "OriginalText": "アルテイオスの大主砲を取ってきてくれないか？\n２つあれば、艦の修理に役立ちそうだ。",
     "Text": "",
     "Enabled": false
   },
-  "300132": {
-    "OriginalText": "【多積層の銅版】を集める",
+  "290132": {
+    "OriginalText": "古代都市で発見された建造物には\n多積層の銅板が使われていることがわかった。\nここまで高精度で加工された金属板があれば\n修理が捗る。\n見つけたらすぐにオレのところへ持って来い。",
     "Text": "",
     "Enabled": false
   },
-  "300133": {
-    "OriginalText": "【グレイオスの主砲】を集める",
+  "290133": {
+    "OriginalText": "アグリオスの赤い派生種が出現したらしいな。\nそいつの主砲をひとつ持って来い。\nエンジンの修理に使えそうだ。\n\n[a 03]※この約束は１回のみ[b]",
     "Text": "",
     "Enabled": false
   },
-  "300134": {
-    "OriginalText": "【Ｇダーガッシュの歯片】を集める",
+  "290134": {
+    "OriginalText": "Ｇダーガッシュの歯片を回収してこい。\n機村の研磨剤に最適なんだ。\n２つもあれば十分だ。なるべく早く頼む。\n\n[a 03]※この約束は１回のみ[b]",
     "Text": "",
     "Enabled": false
   },
-  "300135": {
-    "OriginalText": "カリストの約束14の達成条件",
+  "290135": {
+    "OriginalText": "予備枠",
     "Text": "",
     "Enabled": false
   },
-  "300136": {
-    "OriginalText": "カリストの約束15の達成条件",
+  "290136": {
+    "OriginalText": "予備枠",
     "Text": "",
     "Enabled": false
   },
-  "300137": {
-    "OriginalText": "カリストの約束16の達成条件",
+  "290137": {
+    "OriginalText": "予備枠",
     "Text": "",
     "Enabled": false
   },
-  "300138": {
-    "OriginalText": "カリストの約束17の達成条件",
+  "290138": {
+    "OriginalText": "予備枠",
     "Text": "",
     "Enabled": false
   },
-  "300139": {
-    "OriginalText": "カリストの約束18の達成条件",
+  "290139": {
+    "OriginalText": "予備枠",
     "Text": "",
     "Enabled": false
   },
-  "300140": {
-    "OriginalText": "カリストの約束19の達成条件",
+  "290140": {
+    "OriginalText": "予備枠",
     "Text": "",
     "Enabled": false
   },
-  "300141": {
-    "OriginalText": "カリストの約束20の達成条件",
+  "290141": {
+    "OriginalText": "予備枠",
     "Text": "",
     "Enabled": false
   },
-  "300142": {
-    "OriginalText": "【ブーストエネミー】を倒す",
+  "290142": {
+    "OriginalText": "この[ruby ほし]惑星[/ruby]にブーストエネミーが存在する\nことを検知したわ。\n訓練よ。撃破してきなさい。\n\n[a 03]※この約束は１回のみ[b]",
     "Text": "",
     "Enabled": false
   },
-  "300143": {
-    "OriginalText": "【Ｇダガン・ネロ】（レア）を倒す",
+  "290143": {
+    "OriginalText": "この[ruby ほし]惑星[/ruby]にレアエネミーが存在する\nことを検知したわ。\nいい機会だから一度、撃破して来なさい。\n\n[a 03]※この約束は１回のみ[b]",
     "Text": "",
     "Enabled": false
   },
-  "300144": {
-    "OriginalText": "【メモリーフラグメントＡ】を集める",
+  "290144": {
+    "OriginalText": "この[ruby ほし]惑星[/ruby]にメモリーフラグメントＡの\n反応を確認したわ。\nひとまず５個、入手して来なさい。",
     "Text": "",
     "Enabled": false
   },
-  "300145": {
-    "OriginalText": "【アルマラッピー・オナー】（レア）を\n倒す",
+  "290145": {
+    "OriginalText": "伝説のラッピー、アルマラッピー・オナーがこの\n[ruby ほし]惑星[/ruby]で見つかったらしいわ。かなりの希少種よ。\n……きっとかわいい子に違いないわね。\nってそんなことはどうでもいいのよ！\nとにかく本当にいるか確かめて来なさい。",
     "Text": "",
     "Enabled": false
   },
-  "300146": {
-    "OriginalText": "【メモリーフラグメントＢ】を集める",
+  "290146": {
+    "OriginalText": "この[ruby ほし]惑星[/ruby]にメモリーフラグメントＢの\n反応を確認したわ。\nそうね、とりあえず１２個入手して来なさい。",
     "Text": "",
     "Enabled": false
   },
-  "300147": {
-    "OriginalText": "【ドギオス・ルフレ】（レア）を倒す",
+  "290147": {
+    "OriginalText": "この[ruby ほし]惑星[/ruby]にドギオス・ルフレが\n存在することを検知したわ。\nなかなかお目にかかれないレアエネミーね。\n",
     "Text": "",
     "Enabled": false
   },
-  "300148": {
-    "OriginalText": "【メモリーフラグメントＣ】を集める",
+  "290148": {
+    "OriginalText": "この[ruby ほし]惑星[/ruby]にメモリーフラグメントＣの\n反応を確認したわ。\n色々役に立ちそうだから\n２２個入手をよろしくね。",
     "Text": "",
     "Enabled": false
   },
-  "300149": {
-    "OriginalText": "【カーネベア・ゴルヴァ】（レア）を\n倒す",
+  "290149": {
+    "OriginalText": "この[ruby ほし]惑星[/ruby]にカーネベア・ゴルヴァが\n存在することを検知したわ。\nかなり珍しいレアエネミーね。\n撃破をお願いできるかしら。",
     "Text": "",
     "Enabled": false
   },
-  "300150": {
-    "OriginalText": "【メモリーフラグメントＤ】を集める",
+  "290150": {
+    "OriginalText": "この[ruby ほし]惑星[/ruby]にメモリーフラグメントＤの\n反応を確認したわ。\n３０個の入手をお願いね。\n艦長なら簡単でしょ？",
     "Text": "",
     "Enabled": false
   },
-  "300151": {
-    "OriginalText": "【メモリーフラグメントＥ】を集める",
+  "290151": {
+    "OriginalText": "この[ruby ほし]惑星[/ruby]にメモリーフラグメントＥの\n反応を確認したわ。\nモニター越しで見守ってるから\n３０個入手して来てくれるかしら？",
     "Text": "",
     "Enabled": false
   },
-  "300152": {
-    "OriginalText": "【ギュゲンテの虫脚】を集める",
+  "290152": {
+    "OriginalText": "ギュゲンテの虫脚を１つ持って来なさい。\nあの主砲の発射の衝撃に耐える脚を調べて\n予想される威力と射程を割り出すの。\n今後の対策を検討するのに必要なのよ。\n[a 03]※この約束は１回のみ[b]",
     "Text": "",
     "Enabled": false
   },
-  "300153": {
-    "OriginalText": "【ラピリストーン】を集める\n【ウッドオパール】を集める\n【ペロブスカイト石】を集める",
+  "290153": {
+    "OriginalText": "地表で取れる鉱物資源の回収をお願いね。\n銅の荒野のラピリストーン、\nグラン水源のウッドオパール、\n炎の高地のペロブスカイト石を１つずつよ。\n[a 03]※この約束は１回のみ[b]",
     "Text": "",
     "Enabled": false
   },
-  "300154": {
-    "OriginalText": "キサラの約束13の達成条件",
+  "290154": {
+    "OriginalText": "予備枠",
     "Text": "",
     "Enabled": false
   },
-  "300155": {
-    "OriginalText": "キサラの約束14の達成条件",
+  "290155": {
+    "OriginalText": "予備枠",
     "Text": "",
     "Enabled": false
   },
-  "300156": {
-    "OriginalText": "キサラの約束15の達成条件",
+  "290156": {
+    "OriginalText": "予備枠",
     "Text": "",
     "Enabled": false
   },
-  "300157": {
-    "OriginalText": "キサラの約束16の達成条件",
+  "290157": {
+    "OriginalText": "予備枠",
     "Text": "",
     "Enabled": false
   },
-  "300158": {
-    "OriginalText": "キサラの約束17の達成条件",
+  "290158": {
+    "OriginalText": "予備枠",
     "Text": "",
     "Enabled": false
   },
-  "300159": {
-    "OriginalText": "キサラの約束18の達成条件",
+  "290159": {
+    "OriginalText": "予備枠",
     "Text": "",
     "Enabled": false
   },
-  "300160": {
-    "OriginalText": "キサラの約束19の達成条件",
+  "290160": {
+    "OriginalText": "予備枠",
     "Text": "",
     "Enabled": false
   },
-  "300161": {
-    "OriginalText": "キサラの約束20の達成条件",
+  "290161": {
+    "OriginalText": "予備枠",
     "Text": "",
     "Enabled": false
   },
-  "300162": {
-    "OriginalText": "【敵：ジュラキア系】を倒す",
+  "290162": {
+    "OriginalText": "この[ruby ほし]惑星[/ruby]でジュラキア系の反応を検知しました！\n攻撃を受けたら状態異常になるので\n注意して倒して来てください！\n\n[a 03]※この約束は１回のみ[b]",
     "Text": "",
     "Enabled": false
   },
-  "300163": {
-    "OriginalText": "【バリバッツの墨片】を集める",
+  "290163": {
+    "OriginalText": "相変わらず医療用品が不足していて……\nバリバッツの墨片５個の調達を\nお願いできませんか？",
     "Text": "",
     "Enabled": false
   },
-  "300164": {
-    "OriginalText": "【Ｇエル・アーダの針片】を集める",
+  "290164": {
+    "OriginalText": "Ｇエル・アーダの針片を３個、調達できませんか？\n洗浄すれば、医療用品として\n使用できそうなので……。",
     "Text": "",
     "Enabled": false
   },
-  "300165": {
-    "OriginalText": "敵味方を問わず\n【バインド】状態を発生させる",
+  "290165": {
+    "OriginalText": "バインド状態の発生を観測してもらえませんか？\n状態異常の調査データを収集したいのです。\n\n\n[a 03]※敵に発生させても味方に発生してもカウント[b]",
     "Text": "",
     "Enabled": false
   },
-  "300166": {
-    "OriginalText": "【苔】を集める",
+  "290166": {
+    "OriginalText": "苔８個の調達をお願いしてもよいですか？\n薬剤として使用できそうなのです。",
     "Text": "",
     "Enabled": false
   },
-  "300167": {
-    "OriginalText": "敵味方を問わず\n【インフェクション】状態を発生させる",
+  "290167": {
+    "OriginalText": "インフェクション状態が発生する瞬間の観測を\nお願います。\n感染症の調査データを収集したいのです。\n\n[a 03]※敵に発生させても味方に発生してもカウント[b]",
     "Text": "",
     "Enabled": false
   },
-  "300168": {
-    "OriginalText": "【爬虫類の尻尾】を集める",
+  "290168": {
+    "OriginalText": "爬虫類の尻尾を５個、調達できませんか？\n医療品としての使用を検証しようと\n思いまして……。",
     "Text": "",
     "Enabled": false
   },
-  "300169": {
-    "OriginalText": "敵味方を問わず\n【グラン中毒】状態を発生させる",
+  "290169": {
+    "OriginalText": "グラン中毒状態の発生を観測してきてください。\n中毒症の調査データを収集したいのです。\n\n\n[a 03]※敵に発生させても味方に発生してもカウント[b]",
     "Text": "",
     "Enabled": false
   },
-  "300170": {
-    "OriginalText": "【リバッツの目玉】を集める",
+  "290170": {
+    "OriginalText": "リバッツの目玉を３つ、調達できませんか？\nメディカルでの調査により医療用品として\n使用できそうなことがわかりました。\nメディカルの医療用品が充実すれば\n艦長も安心ですよね！",
     "Text": "",
     "Enabled": false
   },
-  "300171": {
-    "OriginalText": "【エア・ゲンテの鋭ドリル】を集める",
+  "290171": {
+    "OriginalText": "リベルゲンテの先頭に付いている\nエア・ゲンテの鋭ドリルを１つ、調達できませんか？\nメディカルでの医療器具として使用できそうです。\n艦長ならば大丈夫だと思いますが\n道中お気を付けて！",
     "Text": "",
     "Enabled": false
   },
-  "300172": {
-    "OriginalText": "【Ｇキュクロナーダの目片】を集める",
+  "290172": {
+    "OriginalText": "Ｇキュクロナーダの目片の回収をお願いします。\n眼精疲労に効く目薬を作るのに必要なのです。\n１つで良いので持ってきてください。\n\n[a 03]※この約束は１回のみ[b]",
     "Text": "",
     "Enabled": false
   },
-  "300173": {
-    "OriginalText": "【ロヴラッピーの肉】を集める",
+  "290173": {
+    "OriginalText": "ロヴラッピーの肉を１つ回収してきてください。\n薬品の村料として使えそうか調べたいのです。\n１つだけお願いします。\n\n[a 03]※この約束は１回のみ[b]",
     "Text": "",
     "Enabled": false
   },
-  "300174": {
-    "OriginalText": "リーティアの約束13の達成条件",
+  "290174": {
+    "OriginalText": "予備枠",
     "Text": "",
     "Enabled": false
   },
-  "300175": {
-    "OriginalText": "リーティアの約束14の達成条件",
+  "290175": {
+    "OriginalText": "予備枠",
     "Text": "",
     "Enabled": false
   },
-  "300176": {
-    "OriginalText": "リーティアの約束15の達成条件",
+  "290176": {
+    "OriginalText": "予備枠",
     "Text": "",
     "Enabled": false
   },
-  "300177": {
-    "OriginalText": "リーティアの約束16の達成条件",
+  "290177": {
+    "OriginalText": "予備枠",
     "Text": "",
     "Enabled": false
   },
-  "300178": {
-    "OriginalText": "リーティアの約束17の達成条件",
+  "290178": {
+    "OriginalText": "予備枠",
     "Text": "",
     "Enabled": false
   },
-  "300179": {
-    "OriginalText": "リーティアの約束18の達成条件",
+  "290179": {
+    "OriginalText": "予備枠",
     "Text": "",
     "Enabled": false
   },
-  "300180": {
-    "OriginalText": "リーティアの約束19の達成条件",
+  "290180": {
+    "OriginalText": "予備枠",
     "Text": "",
     "Enabled": false
   },
-  "300181": {
-    "OriginalText": "リーティアの約束20の達成条件",
+  "290181": {
+    "OriginalText": "予備枠",
     "Text": "",
     "Enabled": false
   },
-  "300182": {
-    "OriginalText": "【バンサーの爪片】を集める",
+  "290182": {
+    "OriginalText": "標的はただ撃破すりゃいいってモンじゃないぜ？\nうまく狙って部位破壊すれば武器素村になる\n素村がゲットできるんだ。\nお前も一回試してみろよ！\n[a 03]※この約束は１回のみ[b]",
     "Text": "",
     "Enabled": false
   },
-  "300183": {
-    "OriginalText": "【樹木状の鉱物】を集める",
+  "290183": {
+    "OriginalText": "樹木状の鉱物が３つ欲しいんだよな。\n量産用の武器のメンテナンスに必要なんだ。\n頼んでもいいか？",
     "Text": "",
     "Enabled": false
   },
-  "300184": {
-    "OriginalText": "【バレダイナスの銃片】を集める",
+  "290184": {
+    "OriginalText": "バレダイナスの銃片が欲しいんだよな。\n２個ぐらい揃えば、武器の量産体制が\n作れると思うんだ！",
     "Text": "",
     "Enabled": false
   },
-  "300185": {
-    "OriginalText": "【シルブカーネベアの砲片】を集める\n【レイバンサーの爪】を集める",
+  "290185": {
+    "OriginalText": "シルブカーネベアの砲片を２つと、\nレイバンサーの爪を１つ入手してきてくれ。\n武器のメンテナンス道具を作りたいんだ。",
     "Text": "",
     "Enabled": false
   },
-  "300186": {
-    "OriginalText": "【ギュゲンテの装甲】を集める",
+  "290186": {
+    "OriginalText": "ギュゲンテの装甲が欲しいんだよな。\n３つあると、武器製造のための\n設備が整えられそうなんだ。",
     "Text": "",
     "Enabled": false
   },
-  "300187": {
-    "OriginalText": "【機械生物の甲片】を集める",
+  "290187": {
+    "OriginalText": "機械生物の甲片集めを\n手伝ってくれないか？\n武器の素村にはうってつけだが、\n３つ集めるとなると大変でな。",
     "Text": "",
     "Enabled": false
   },
-  "300188": {
-    "OriginalText": "【ラコニア金属】を集める",
+  "290188": {
+    "OriginalText": "ラコニア金属を３つ入手してきてくれ。\n武器製造用の機器に使えそうなんだ。",
     "Text": "",
     "Enabled": false
   },
-  "300189": {
-    "OriginalText": "【ガラティオンの鉄線】を集める",
+  "290189": {
+    "OriginalText": "ガラティオンの鉄線の入手を頼めるか？\n新しい武器の構想が思い浮かんだんだ！\n３つあれば、実験できると思う。",
     "Text": "",
     "Enabled": false
   },
-  "300190": {
-    "OriginalText": "【シードギオスの盾】を集める\n【ヴァッドギオスの硬盾】を集める\n【エアドギオスの大盾】を集める",
+  "290190": {
+    "OriginalText": "ギオス系の盾の部品を１つずつ集めてくれ。\nシードギオス、ヴァッドギオス、エアドギオスの\n３種だ。気をつけろよ！",
     "Text": "",
     "Enabled": false
   },
-  "300191": {
-    "OriginalText": "【エウリュードの大弾頭】を集める",
+  "290191": {
+    "OriginalText": "エウリュードの大弾頭を２つ\n取ってきてくれないか？\nこう未知の素村ばっかりだと\nワクワクするよな！",
     "Text": "",
     "Enabled": false
   },
-  "300192": {
-    "OriginalText": "【エデルクリトロの爪片】を集める",
+  "290192": {
+    "OriginalText": "エデルクリトロの爪片を１つ持ってきてくれないか？\nかなり硬いから細かい加工を施すための\n機村に転用できそうなんだ。\n\n[a 03]※この約束は１回のみ[b]",
     "Text": "",
     "Enabled": false
   },
-  "300193": {
-    "OriginalText": "【モストカーネベアの硬砲身】を集める",
+  "290193": {
+    "OriginalText": "モストカーネベアの硬砲身を１つ持ってきてくれ。\n攻撃力を上げるアタッチパーツ開発に\n利用できそうなんだ。\n\n[a 03]※この約束は１回のみ[b]",
     "Text": "",
     "Enabled": false
   },
-  "300194": {
-    "OriginalText": "ヨミの約束13の達成条件",
+  "290194": {
+    "OriginalText": "予備枠",
     "Text": "",
     "Enabled": false
   },
-  "300195": {
-    "OriginalText": "ヨミの約束14の達成条件",
+  "290195": {
+    "OriginalText": "予備枠",
     "Text": "",
     "Enabled": false
   },
-  "300196": {
-    "OriginalText": "ヨミの約束15の達成条件",
+  "290196": {
+    "OriginalText": "予備枠",
     "Text": "",
     "Enabled": false
   },
-  "300197": {
-    "OriginalText": "ヨミの約束16の達成条件",
+  "290197": {
+    "OriginalText": "予備枠",
     "Text": "",
     "Enabled": false
   },
-  "300198": {
-    "OriginalText": "ヨミの約束17の達成条件",
+  "290198": {
+    "OriginalText": "予備枠",
     "Text": "",
     "Enabled": false
   },
-  "300199": {
-    "OriginalText": "ヨミの約束18の達成条件",
+  "290199": {
+    "OriginalText": "予備枠",
     "Text": "",
     "Enabled": false
   },
-  "300200": {
-    "OriginalText": "ヨミの約束19の達成条件",
+  "290200": {
+    "OriginalText": "予備枠",
     "Text": "",
     "Enabled": false
   },
-  "300201": {
-    "OriginalText": "ヨミの約束20の達成条件",
+  "290201": {
+    "OriginalText": "予備枠",
     "Text": "",
     "Enabled": false
   },
-  "300202": {
-    "OriginalText": "【銅の荒野資村回収任務】を\n【Ａランク】似上でクリアする",
+  "290202": {
+    "OriginalText": "お前の腕前を試させてくれ。\nＡランクを取れるようなら、\nスキルボードを１枚追加しようじゃないか。\nお前もワンランク上の戦いができるようになるぜ。\n[a 03]※この約束は１回のみ[b]",
     "Text": "",
     "Enabled": false
   },
-  "300203": {
-    "OriginalText": "【目を覚ます磁晶龍】の\n【ハード】似上を\n【Ａランク】似上でクリアする",
+  "290203": {
+    "OriginalText": "もう一度、お前の腕を試させてくれ。\nＡランクを取れるようなら、\nスキルボードをもう一枚追加しようじゃないか。\nいい報告、期待してるぜ。\n[a 03]※この約束は１回のみ[b]",
     "Text": "",
     "Enabled": false
   },
-  "300204": {
-    "OriginalText": "【シルブカーネベア：Ｌｖ１５】を倒す",
+  "290204": {
+    "OriginalText": "強化訓練をするぞ！\nとりあえず、シルブカーネベアの撃破だ！\nそこそこ強い奴を２体は倒して来い。",
     "Text": "",
     "Enabled": false
   },
-  "300205": {
-    "OriginalText": "【バレダイナス系：Ｌｖ１５】を倒す\n【マフレザール系：Ｌｖ１５】を倒す\n【マンデル系：Ｌｖ１５】を倒す",
+  "290205": {
+    "OriginalText": "強化訓練の続きだ！ バレダイナス系を３体、\nマフレザール系を４体、マンデル系を４体\n倒して来い！",
     "Text": "",
     "Enabled": false
   },
-  "300206": {
-    "OriginalText": "【銅の荒野哨戒任務２】の\n【ハード】似上を\n【Ａランク】似上でクリアする",
+  "290206": {
+    "OriginalText": "指定のクエストをＡランクでクリアしてもらうぞ。\n確実にＡランクでクリアしないとな。\n目を瞑っててもいける、ってくらいにだ。",
     "Text": "",
     "Enabled": false
   },
-  "300207": {
-    "OriginalText": "【プレディカーダ：Ｌｖ５０】を倒す",
+  "290207": {
+    "OriginalText": "プレディカーダを撃破しようじゃないか。\n量より質を極めていこう。\n強い奴を、まずは２体だ。",
     "Text": "",
     "Enabled": false
   },
-  "300208": {
-    "OriginalText": "【アルキュオネ討伐任務】の\n【ベリーハード】似上を\n【Ｓランク】似上でクリアする",
+  "290208": {
+    "OriginalText": "そろそろベリーハードもＳランクでクリアしないとな。\nやってみないことには始まらないぞ。",
     "Text": "",
     "Enabled": false
   },
-  "300209": {
-    "OriginalText": "【難：エウリュード攻略任務】を\n【Ｓランク】似上でクリアする",
+  "290209": {
+    "OriginalText": "ベリーハードでも確実にＳランクでクリアしないとな。\n何事も慣れだって思うぞ？",
     "Text": "",
     "Enabled": false
   },
-  "300210": {
-    "OriginalText": "【バンサー系：Lv８０】を倒す",
+  "290210": {
+    "OriginalText": "バンサー系のエネミーを撃破しようじゃないか。\nうんと強い奴を３体、仕留めてみろ。\n今のお前さんなら出来ると思うぜ。",
     "Text": "",
     "Enabled": false
   },
-  "300211": {
-    "OriginalText": "【難：リベルゲンテ決戦】を\n【Ｓランク】似上でクリアする",
+  "290211": {
+    "OriginalText": "ベリーハードをＳランクでクリア出来るようになれば\nもう誰にも文句は言わせないぞ？\nまずは挑戦、あるのみだ！",
     "Text": "",
     "Enabled": false
   },
-  "300212": {
-    "OriginalText": "【Ｇダーク・ラグネの脚】を集める",
+  "290212": {
+    "OriginalText": "Ｇダーク・ラグネの脚を回収してきてもらおうか。\nただ倒すだけだと効率が悪いからな、\n積極的に足の装甲を破壊していけ。\n持ってくるのは1つだけで構わんぞ。\n[a 03]※この約束は１回のみ[b]",
     "Text": "",
     "Enabled": false
   },
-  "300213": {
-    "OriginalText": "【ヴィヴリュードの爪】を集める",
+  "290213": {
+    "OriginalText": "ヴィヴリュードとかいうエウリュードの派生種が\n現れただろう。\n早速そいつの爪を１つ回収してこい。\nお前らなら出来るはずだ。\n[a 03]※この約束は１回のみ[b]",
     "Text": "",
     "Enabled": false
   },
-  "300214": {
-    "OriginalText": "オルクスの約束13の達成条件",
+  "290214": {
+    "OriginalText": "予備枠",
     "Text": "",
     "Enabled": false
   },
-  "300215": {
-    "OriginalText": "オルクスの約束14の達成条件",
+  "290215": {
+    "OriginalText": "予備枠",
     "Text": "",
     "Enabled": false
   },
-  "300216": {
-    "OriginalText": "オルクスの約束15の達成条件",
+  "290216": {
+    "OriginalText": "予備枠",
     "Text": "",
     "Enabled": false
   },
-  "300217": {
-    "OriginalText": "オルクスの約束16の達成条件",
+  "290217": {
+    "OriginalText": "予備枠",
     "Text": "",
     "Enabled": false
   },
-  "300218": {
-    "OriginalText": "オルクスの約束17の達成条件",
+  "290218": {
+    "OriginalText": "予備枠",
     "Text": "",
     "Enabled": false
   },
-  "300219": {
-    "OriginalText": "オルクスの約束18の達成条件",
+  "290219": {
+    "OriginalText": "予備枠",
     "Text": "",
     "Enabled": false
   },
-  "300220": {
-    "OriginalText": "オルクスの約束19の達成条件",
+  "290220": {
+    "OriginalText": "予備枠",
     "Text": "",
     "Enabled": false
   },
-  "300221": {
-    "OriginalText": "オルクスの約束20の達成条件",
+  "290221": {
+    "OriginalText": "予備枠",
     "Text": "",
     "Enabled": false
   },
-  "300222": {
-    "OriginalText": "【岩塩】を集める",
+  "290222": {
+    "OriginalText": "岩塩を５つ、調達してくださいな。\n塩と水は生命維持に欠かせませんぞ。",
     "Text": "",
     "Enabled": false
   },
-  "300223": {
-    "OriginalText": "【獣の肉】を集める",
+  "290223": {
+    "OriginalText": "獣の肉を７つ調達してくださいな。\n皆さんよく動きますから、\nたんぱく源の摂取は重要ですぞ！",
     "Text": "",
     "Enabled": false
   },
-  "300224": {
-    "OriginalText": "【グランブの爪片】を集める",
+  "290224": {
+    "OriginalText": "グランブの爪片３つの調達をお願いできますかな？\nいい出汁がとれるに違いありませんぞ！",
     "Text": "",
     "Enabled": false
   },
-  "300225": {
-    "OriginalText": "【米】を集める\n【麦】を集める",
+  "290225": {
+    "OriginalText": "米と麦を５つずつ調達してくださいな。\n主食がライスかブレッドか、\n人には好みがありますからな。",
     "Text": "",
     "Enabled": false
   },
-  "300226": {
-    "OriginalText": "【ダーカーの肉】を集める",
+  "290226": {
+    "OriginalText": "ダーカーの肉を３個調達してくださいな。\nダーカーは我らアークスの不倶戴天の敵ですが、\nこういった良質な食村を提供してくれる点は\n感謝せねばなりませんな。",
     "Text": "",
     "Enabled": false
   },
-  "300227": {
-    "OriginalText": "【ジュラキアの軟骨】を集める",
+  "290227": {
+    "OriginalText": "ジュラキアの軟骨を調達してくださいな。\nコリコリした食感を楽しめますし、\nカルシウムの摂取もできる優れものですぞ！",
     "Text": "",
     "Enabled": false
   },
-  "300228": {
-    "OriginalText": "【ギガンテスの肉】を集める\n【ギガンテスの魚肉】を集める",
+  "290228": {
+    "OriginalText": "ギガンテスの肉とギガンテスの魚肉を３つずつ\n調達してきてくださいな。\nスタミナがつくディナーを作ろうと思いまして。",
     "Text": "",
     "Enabled": false
   },
-  "300229": {
-    "OriginalText": "【デェフキュオネの大墨袋】を集める",
+  "290229": {
+    "OriginalText": "デェフキュオネの大墨袋を３つ調達してくださいな。\nとろみを出すのに欠かせない食村ですぞ。",
     "Text": "",
     "Enabled": false
   },
-  "300230": {
-    "OriginalText": "【獣のミルク】を集める\n【竜族のたまご】を集める",
+  "290230": {
+    "OriginalText": "獣のミルクを２つ、竜族のたまごを５つ、\n調達をお願いできますかな？\nひとつ、女性クルーたちが喜びそうなスイーツに\n挑戦してみようと思いましてな。",
     "Text": "",
     "Enabled": false
   },
-  "300231": {
-    "OriginalText": "【アグリオスのたまご】を集める",
+  "290231": {
+    "OriginalText": "アグリオスのたまごを２つ調達を\nお願いできますかな？\nイズナさんのスイーツ用ですが\nこっそり艦長にも分けてあげますぞ！",
     "Text": "",
     "Enabled": false
   },
-  "300232": {
-    "OriginalText": "【赤い樹枝】を集める",
+  "290232": {
+    "OriginalText": "似前艦長が提供してくれた赤い植物ですが、\n交配させて菜園を作りたいと思いましてな。\nもし探索の最中に赤い樹枝を見つけたら\n私のもとに届けてくださいますかな。",
     "Text": "",
     "Enabled": false
   },
-  "300233": {
-    "OriginalText": "【氷】を集める",
+  "290233": {
+    "OriginalText": "氷を２つほど調達してくださいな。\n冷蔵庫が修理中でして、修理が完了するまでの間、\n一時的な保冷剤として使いたいのです。\n艦長ならできると信じてますぞ！\n[a 03]※この約束は１回のみ[b]",
     "Text": "",
     "Enabled": false
   },
-  "300234": {
-    "OriginalText": "【アセラビーソの刃片】を集める",
+  "290234": {
+    "OriginalText": "アセラビーソの刃片の調達をお願いしますぞ。\n調理器具が壊れてしまい困っていたのですが、\n何でも小さな刃を持つ原生種がいると聞きまして、\n是非とも使ってみたいのです。\n[a 03]※この約束は１回のみ[b]",
     "Text": "",
     "Enabled": false
   },
-  "300235": {
-    "OriginalText": "ヒュペリオンの約束14の達成条件",
+  "290235": {
+    "OriginalText": "予備枠",
     "Text": "",
     "Enabled": false
   },
-  "300236": {
-    "OriginalText": "ヒュペリオンの約束15の達成条件",
+  "290236": {
+    "OriginalText": "予備枠",
     "Text": "",
     "Enabled": false
   },
-  "300237": {
-    "OriginalText": "ヒュペリオンの約束16の達成条件",
+  "290237": {
+    "OriginalText": "予備枠",
     "Text": "",
     "Enabled": false
   },
-  "300238": {
-    "OriginalText": "ヒュペリオンの約束17の達成条件",
+  "290238": {
+    "OriginalText": "予備枠",
     "Text": "",
     "Enabled": false
   },
-  "300239": {
-    "OriginalText": "ヒュペリオンの約束18の達成条件",
+  "290239": {
+    "OriginalText": "予備枠",
     "Text": "",
     "Enabled": false
   },
-  "300240": {
-    "OriginalText": "ヒュペリオンの約束19の達成条件",
+  "290240": {
+    "OriginalText": "予備枠",
     "Text": "",
     "Enabled": false
   },
-  "300241": {
-    "OriginalText": "ヒュペリオンの約束20の達成条件",
+  "290241": {
+    "OriginalText": "予備枠",
     "Text": "",
     "Enabled": false
   },
-  "300242": {
-    "OriginalText": "【仲間の捜索】を\n【バスター】でクリアする",
+  "290242": {
+    "OriginalText": "バスターとして大成できるよう訓練をしましょう。\n新しい戦闘クラスですから最初こそ難しいかも\nしれませんが、一度任務をクリアしてみてください。\n[a 03]※この約束は１回のみ\n※『バスター』にクラス変更をする必要あり[b]",
     "Text": "",
     "Enabled": false
   },
-  "300243": {
-    "OriginalText": "【パイル訓練】をクリアする",
+  "290243": {
+    "OriginalText": "パイルをしっかり使いこなせるようになりましょう。\nパイル訓練クエストでギガンテス・アグリオスを\n捕獲してみてください。\n\n[a 03]※この約束は１回のみ[b]",
     "Text": "",
     "Enabled": false
   },
-  "300244": {
-    "OriginalText": "【グランピース】を集める",
+  "290244": {
+    "OriginalText": "グランピースの調達をお願いしたいのですが、\nよろしいですか？\nラボでの研究に必要になりそうなので。",
     "Text": "",
     "Enabled": false
   },
-  "300245": {
-    "OriginalText": "【グランブの甲羅】を集める",
-    "Text": "",
-    "Enabled": false
+  "290245": {
+    "OriginalText": "グランブの甲羅を２つほど調達をお願いします。\nグランの弾丸を射出するメカニズムが何かに\n使えるかもしれません。\n研究を進めるためによろしくお願いします。",
+    "Text": "I need you to procure a Granb Carapace.\nWe can use the bullet mechanism\nas a way to inject Gran for research.\nThank you in advance.",
+    "Enabled": true
   },
-  "300246": {
-    "OriginalText": "【グランピース（光属性）】を集める\n【グランピース（闇属性）】を集める",
+  "290246": {
+    "OriginalText": "グランピースの入手をお願い出来ますか？\n光属性の物と闇属性の物と、\nそれぞれ３つずつ必要なんです。",
     "Text": "",
     "Enabled": false
   },
-  "300247": {
-    "OriginalText": "【機械生物のフレーム】を集める",
+  "290247": {
+    "OriginalText": "機械生物のフレームの調達に行きませんか？\n研究を進めるのに、２つほど必要で\n艦長のお力を借りたいのです！",
     "Text": "",
     "Enabled": false
   },
-  "300248": {
-    "OriginalText": "【アルキュオネの浮遊装置】を集める",
+  "290248": {
+    "OriginalText": "アルキュオネの浮遊装置の調達を\nお願いしたいのですが、よろしいですか？ \n浮遊装置の破片で構わないのですが、\n研究を進めるのに３つほど必要です。",
     "Text": "",
     "Enabled": false
   },
-  "300249": {
-    "OriginalText": "【アルテイオスの鋭角】を集める\n【グラヴディオンの硬鉄線】を集める\n【ヴィヴリュードの硬砲身】を集める",
+  "290249": {
+    "OriginalText": "最強と目されるギガンテスたちのパーツを\n集めてきてもらえますか？\nそれぞれ２つずつ必要なのです。\nかなり大変な任務になるかと思いますが、\n皆さんなら成し遂げてくれると信じています！",
     "Text": "",
     "Enabled": false
   },
-  "300250": {
-    "OriginalText": "【バリバッツの翼膜】を集める",
+  "290250": {
+    "OriginalText": "バリバッツの翼膜を１つ調達してきてください。\n大気中のグランをあの翼で受け止めて、\n飛行していると考えられていますが、\nその原理は未だ解明されていないのです。\n[a 03]※この約束は１回のみ[b]",
     "Text": "",
     "Enabled": false
   },
-  "300251": {
-    "OriginalText": "【ギガンテスの銃片】を集める\n【ギガンテスのレーザー片】を集める\n【ギガンテスのミサイル片】を集める",
+  "290251": {
+    "OriginalText": "ギガンテスの武装を調査するために\nいくつかパーツを調達してきてください。\nギガンテスのミサイル片、ギガンテスの銃片、\nギガンテスのレーザー片をお願いします。",
     "Text": "",
     "Enabled": false
   },
-  "300252": {
-    "OriginalText": "【グランピース（炎属性）】を集める\n【グランピース（雷属性）】を集める",
+  "290252": {
+    "OriginalText": "現在ラボではヘイロウを使わずに\nリングフィールドを展開させる消費アイテム、\nリングジェネレーターの改良中です。\nそのためにグランピースの炎属性と雷属性が\n必要なのですが、調達をお願いできますか？",
     "Text": "",
     "Enabled": false
   },
-  "300253": {
-    "OriginalText": "【グランピース（氷属性）】を集める\n【グランピース（風属性）】を集める",
+  "290253": {
+    "OriginalText": "現在ラボでは属性の付与されたグランピースから\n無属性のグランピースを作成する方法を研究中です。\n実験村料として氷属性と風属性のグランピースを\n調達してきていただけないでしょうか？",
     "Text": "",
     "Enabled": false
   },
-  "300254": {
-    "OriginalText": "【ラッピーチケット】を集める\n【ギガンテスのグラン器片】を集める\n【機械生物の硬骨格】を集める",
+  "290254": {
+    "OriginalText": "皆さんの服の修復を行いましょう！\nラッピーチケットを１５個、\nギガンテスのグラン器片を８個\n機械生物の硬骨格を１６個\nお願いできますか？",
     "Text": "",
     "Enabled": false
   },
-  "300255": {
-    "OriginalText": "シャロンの約束14の達成条件",
+  "290255": {
+    "OriginalText": "ノイ・ウィンディラスの翼を１つ調達してきてください。\n大気中のグランをあの翼で受け止めて、\n飛行していると考えられていますが、\nその原理は未だ解明されていないのです。\n[a 03]※この約束は１回のみ[b]",
     "Text": "",
     "Enabled": false
   },
-  "300256": {
-    "OriginalText": "シャロンの約束15の達成条件",
+  "290256": {
+    "OriginalText": "シードギオスの胴体装甲の回収をお願いします。\n惑星本体で発見された新種の機械生物ですが、\nその進化形態を調べるのに有効なサンプルです。\n調査のために１つ回収をお願いします。\n[a 03]※この約束は１回のみ[b]",
     "Text": "",
     "Enabled": false
   },
-  "300257": {
-    "OriginalText": "シャロンの約束16の達成条件",
+  "290257": {
+    "OriginalText": "予備枠",
     "Text": "",
     "Enabled": false
   },
-  "300258": {
-    "OriginalText": "シャロンの約束17の達成条件",
+  "290258": {
+    "OriginalText": "予備枠",
     "Text": "",
     "Enabled": false
   },
-  "300259": {
-    "OriginalText": "シャロンの約束18の達成条件",
+  "290259": {
+    "OriginalText": "予備枠",
     "Text": "",
     "Enabled": false
   },
-  "300260": {
-    "OriginalText": "シャロンの約束19の達成条件",
+  "290260": {
+    "OriginalText": "予備枠",
     "Text": "",
     "Enabled": false
   },
-  "300261": {
-    "OriginalText": "シャロンの約束20の達成条件",
+  "290261": {
+    "OriginalText": "予備枠",
     "Text": "",
     "Enabled": false
   },
-  "300262": {
-    "OriginalText": "【ダーカー討伐任務】をクリアする",
+  "290262": {
+    "OriginalText": "クラスカウンター建築の最後の資村を回収したいが\nそのために周辺地域のダーカーを討伐してくれ。\nクラスの変更、GAとテクニックの習得、スキルの\nセットアップにはクラスカウンターが必要だからな。\n[a 03]※この約束は１回のみ[b]",
     "Text": "",
     "Enabled": false
   },
-  "300263": {
-    "OriginalText": "【獣の肉】を集める",
+  "290263": {
+    "OriginalText": "食堂建設に必要な獣の肉を１個集めてくれ。\n出撃するアークスの英気を養うのに食堂が必要だが、\nまずは建設作業員の腹ごしらえってことだ。\n\n[a 03]※この約束は１回のみ[b]",
     "Text": "",
     "Enabled": false
   },
-  "300264": {
-    "OriginalText": "【ダーカーの節】を集める",
+  "290264": {
+    "OriginalText": "武器ショップ建設用にダーカーの節を３個集めろ。\n武器やカスタマイズ用のアタッチパーツは\n戦闘の必需品だが、その前にショップがなきゃ\n話にならねぇ。\n[a 03]※この約束は１回のみ[b]",
     "Text": "",
     "Enabled": false
   },
-  "300265": {
-    "OriginalText": "【白い岩石】を集める",
+  "290265": {
+    "OriginalText": "防具ショップ建設に必要な白い岩石を３個、\n調達してくれ。身を守る新装備や、シールド\nユニットは惑星探索の必需品だが、\nその前にショップがなきゃ話にならねぇ。\n[a 03]※この約束は１回のみ[b]",
     "Text": "",
     "Enabled": false
   },
-  "300266": {
-    "OriginalText": "【銅の荒野哨戒任務】をクリアする",
+  "290266": {
+    "OriginalText": "アイテムショップ建築の最後の資村を回収したいが\nそのために周辺地域の安全を確保してくれ。\n探索に使う消耗品を作るのにアイテムショップは\n必要だからな。\n[a 03]※この約束は１回のみ[b]",
     "Text": "",
     "Enabled": false
   },
-  "300267": {
-    "OriginalText": "【Ｇダガンの脚片】を集める",
+  "290267": {
+    "OriginalText": "コスチュームショップ建設に協力してくれないか。\nコスチュームやキャストパーツを作るのに\nコスチュームショップが必要だからな。\nＧダガンの脚片を２つ持ってきてくれ。\n[a 03]※この約束は１回のみ[b]",
     "Text": "",
     "Enabled": false
   },
-  "300268": {
-    "OriginalText": "【ギガンテスの甲片】を集める",
+  "290268": {
+    "OriginalText": "エステ建設に必要なギガンテスの甲片を１個、\n調達してくれ。アクセサリーやヘアスタイルを\n変えるのに必要だからな。\n\n[a 03]※この約束は１回のみ[b]",
     "Text": "",
     "Enabled": false
   },
-  "300269": {
-    "OriginalText": "【ダーカーの盾片】を集める",
+  "290269": {
+    "OriginalText": "クラスカウンター改築に協力してくれ。\nとりあえず、ダーカーの盾片を１個頼む。\nその先の作業はオルクスがやってくれる。\n\n[a 03]※この約束は１回のみ[b]",
     "Text": "",
     "Enabled": false
   },
-  "300270": {
-    "OriginalText": "【爬虫類のたまご】を集める",
+  "290270": {
+    "OriginalText": "食堂改築に協力してくれ。\nまずは爬虫類のたまごを８個だな。\n改築プランはヒュペリオンに任せてある。\n\n[a 03]※この約束は１回のみ[b]",
     "Text": "",
     "Enabled": false
   },
-  "300271": {
-    "OriginalText": "【Ｇダーガッシュ】を倒す",
+  "290271": {
+    "OriginalText": "武器ショップ改築に協力してくれ。\nヨミがなかなかいいアイデアを持ってるようだが、\nどうしても戦闘データが足りないらしい。\nＧダーガッシュを４体倒して来い！\n[a 03]※この約束は１回のみ[b]",
     "Text": "",
     "Enabled": false
   },
-  "300272": {
-    "OriginalText": "【ラウーダンの爪片】を集める",
+  "290272": {
+    "OriginalText": "防具ショップ改築に協力してくれ。\nセイルからなかなかいい改善提案があってな。\nそこからカリストが必要な素村を割り出した。\nラウーダンの爪片を４つ集めてきてくれ！\n[a 03]※この約束は１回のみ[b]",
     "Text": "",
     "Enabled": false
   },
-  "300273": {
-    "OriginalText": "【冷たく燃える金属結晶】を集める",
+  "290273": {
+    "OriginalText": "アイテムショップ改築に協力してくれ。\n回復アイテム製造システムを改修するんだが、\nリーティアから冷たく燃える金属結晶が\n２つ必要だと連絡を受けた。\n[a 03]※この約束は１回のみ[b]",
     "Text": "",
     "Enabled": false
   },
-  "300274": {
-    "OriginalText": "【グランブの爪片】を集める",
+  "290274": {
+    "OriginalText": "コスチュームショップ改築に協力してくれ。\nルティナがいい改善提案をまとめてくれた。\nそれに必要な資村をカリストが洗いだしたところ、\nグランブの爪片が３つ必要らしい。\n[a 03]※この約束は１回のみ[b]",
     "Text": "",
     "Enabled": false
   },
-  "300275": {
-    "OriginalText": "【ベガルフの牙片】を集める",
+  "290275": {
+    "OriginalText": "エステ改築に協力を頼めないか？\nイズナが色々と試行錯誤しているみたいだ。\nカリストが言うにはベガルフの牙片が\n２つあれば実現可能らしいんだが…。\n[a 03]※この約束は１回のみ[b]",
     "Text": "",
     "Enabled": false
   },
-  "300276": {
-    "OriginalText": "フィルディアのお願い15の達成条件",
+  "290276": {
+    "OriginalText": "予備枠",
     "Text": "",
     "Enabled": false
   },
-  "300277": {
-    "OriginalText": "フィルディアのお願い16の達成条件",
+  "290277": {
+    "OriginalText": "予備枠",
     "Text": "",
     "Enabled": false
   },
-  "300278": {
-    "OriginalText": "フィルディアのお願い17の達成条件",
+  "290278": {
+    "OriginalText": "予備枠",
     "Text": "",
     "Enabled": false
   },
-  "300279": {
-    "OriginalText": "フィルディアのお願い18の達成条件",
+  "290279": {
+    "OriginalText": "予備枠",
     "Text": "",
     "Enabled": false
   },
-  "300280": {
-    "OriginalText": "フィルディアのお願い19の達成条件",
+  "290280": {
+    "OriginalText": "予備枠",
     "Text": "",
     "Enabled": false
   },
-  "300281": {
-    "OriginalText": "フィルディアのお願い20の達成条件",
+  "290281": {
+    "OriginalText": "予備枠",
     "Text": "",
     "Enabled": false
-  }
-}
+  },
