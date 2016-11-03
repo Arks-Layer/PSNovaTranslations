@@ -40,8 +40,8 @@
   },
   "200109": {
     "OriginalText": "光線の猛威",
-    "Text": "",
-    "Enabled": false
+    "Text": "Ray of Fury",
+    "Enabled": true
   },
   "200110": {
     "OriginalText": "ヨミの要求",
@@ -60,8 +60,8 @@
   },
   "200113": {
     "OriginalText": "不機嫌な砲塔",
-    "Text": "",
-    "Enabled": false
+    "Text": "Sour Turret",
+    "Enabled": true
   },
   "200114": {
     "OriginalText": "オルクスの特訓",
@@ -75,58 +75,58 @@
   },
   "200116": {
     "OriginalText": "新たな大砲",
-    "Text": "",
-    "Enabled": false
+    "Text": "Renewed Artillery",
+    "Enabled": true
   },
   "200117": {
     "OriginalText": "水源を這う脚",
-    "Text": "",
-    "Enabled": false
+    "Text": "Legs Creeping the Water Rig",
+    "Enabled": true
   },
   "200118": {
     "OriginalText": "迫り来る脅威",
-    "Text": "",
-    "Enabled": false
+    "Text": "Impending Menace",
+    "Enabled": true
   },
   "200119": {
     "OriginalText": "拠点防衛",
-    "Text": "",
-    "Enabled": false
+    "Text": "Base Defense",
+    "Enabled": true
   },
   "200120": {
     "OriginalText": "未踏の奥地",
-    "Text": "",
-    "Enabled": false
+    "Text": "Unexplored Regions",
+    "Enabled": true
   },
   "200121": {
     "OriginalText": "限界の我慢",
-    "Text": "",
-    "Enabled": false
+    "Text": "Limit of Tolerance",
+    "Enabled": true
   },
   "200122": {
     "OriginalText": "地の底へ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Underground Land",
+    "Enabled": true
   },
   "200123": {
     "OriginalText": "天を衝く大尖塔",
-    "Text": "",
-    "Enabled": false
+    "Text": "Large Spire Reaching The Heavens",
+    "Enabled": true
   },
   "200124": {
     "OriginalText": "記憶の断片",
-    "Text": "",
-    "Enabled": false
+    "Text": "Memory Fragments",
+    "Enabled": true
   },
   "200125": {
     "OriginalText": "静かなる都市",
-    "Text": "",
-    "Enabled": false
+    "Text": "Silent City",
+    "Enabled": true
   },
   "200126": {
     "OriginalText": "銅野に穿つ杭",
-    "Text": "",
-    "Enabled": false
+    "Text": "Drilling the Copper Fields",
+    "Enabled": true
   },
   "200127": {
     "OriginalText": "源流を塞ぐ杭",
