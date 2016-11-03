@@ -1436,7 +1436,7 @@
   "21310": {
     "OriginalText": "すでに料理を食べています。\n一度クエストを開始し、拠点に帰還するまで、\n食堂を利用することはできません。",
     "Text": "You have already eaten food.\nYou will not be able to use the Food Shop\nuntil you have completed a quest.",
-    "Enabled": false
+    "Enabled": true
   },
   "21311": {
     "OriginalText": "？？？",

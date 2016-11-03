@@ -1,11 +1,11 @@
   "10601": {
     "OriginalText": "他人",
-    "Text": "Unfamiliar",
+    "Text": "Distant",
     "Enabled": true
   },
   "10602": {
     "OriginalText": "知人",
-    "Text": "Acquaintance",
+    "Text": "Neutral",
     "Enabled": true
   },
   "10603": {
@@ -20,23 +20,23 @@
   },
   "10605": {
     "OriginalText": "親友",
-    "Text": "Close Friend",
+    "Text": "Good\nFriend",
     "Enabled": true
   },
   "10606": {
     "OriginalText": "親友",
-    "Text": "Close Friend",
+    "Text": "Good\nFriend",
     "Enabled": true
   },
   "10607": {
     "OriginalText": "悪友",
-    "Text": "Disliked",
+    "Text": "Hate",
     "Enabled": true
   },
   "10608": {
     "OriginalText": "腐緑",
-    "Text": "",
-    "Enabled": false
+    "Text": "Detest",
+    "Enabled": true
   },
   "10609": {
     "OriginalText": "戦友",
