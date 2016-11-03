@@ -1,0 +1,1412 @@
+{
+  "300000": {
+    "OriginalText": "---",
+    "Text": "",
+    "Enabled": false
+  },
+  "300001": {
+    "OriginalText": "「約束クエスト」のクリア",
+    "Text": "",
+    "Enabled": false
+  },
+  "300002": {
+    "OriginalText": "【銅の荒野哨戒任務】をクリアする",
+    "Text": "",
+    "Enabled": false
+  },
+  "300003": {
+    "OriginalText": "【銅の荒野哨戒任務】を\n【フォース】でクリアする",
+    "Text": "",
+    "Enabled": false
+  },
+  "300004": {
+    "OriginalText": "【鳥の皮片】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300005": {
+    "OriginalText": "【ロザードのヒレ片】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300006": {
+    "OriginalText": "【透き通る珪化木】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300007": {
+    "OriginalText": "【トネルバンクゥの石片】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300008": {
+    "OriginalText": "【コパイエーデンの毛皮】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300009": {
+    "OriginalText": "【鈍く光るコランダム塊】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300010": {
+    "OriginalText": "【バリドランナの大光玉】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300011": {
+    "OriginalText": "【アルキュオネの硬肩部装甲】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300012": {
+    "OriginalText": "常に【ロッド系】を装備して\n【アルキュオネ撃破任務】の\n【アルキュオネ】にとどめをさす",
+    "Text": "",
+    "Enabled": false
+  },
+  "300013": {
+    "OriginalText": "常に【タリス系】を装備して\n【アルキュオネ撃破任務】の\n【アルキュオネ】にとどめをさす",
+    "Text": "",
+    "Enabled": false
+  },
+  "300014": {
+    "OriginalText": "常に【ウォンド系】を装備して\n【アルキュオネ撃破任務】の\n【アルキュオネ】にとどめをさす",
+    "Text": "",
+    "Enabled": false
+  },
+  "300015": {
+    "OriginalText": "【テッラマンデルの鱗片】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300016": {
+    "OriginalText": "ルティナの約束15の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300017": {
+    "OriginalText": "ルティナの約束16の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300018": {
+    "OriginalText": "ルティナの約束17の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300019": {
+    "OriginalText": "ルティナの約束18の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300020": {
+    "OriginalText": "ルティナの約束19の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300021": {
+    "OriginalText": "ルティナの約束20の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300022": {
+    "OriginalText": "【ダーカー討伐任務】をクリアする",
+    "Text": "",
+    "Enabled": false
+  },
+  "300023": {
+    "OriginalText": "【ダーカー討伐任務】を\n【ハンター】でクリアする",
+    "Text": "",
+    "Enabled": false
+  },
+  "300024": {
+    "OriginalText": "【雪辱の新兵器】をクリアする",
+    "Text": "",
+    "Enabled": false
+  },
+  "300025": {
+    "OriginalText": "【炎の脅威】をクリアする",
+    "Text": "",
+    "Enabled": false
+  },
+  "300026": {
+    "OriginalText": "【不機嫌な砲塔】をクリアする",
+    "Text": "",
+    "Enabled": false
+  },
+  "300027": {
+    "OriginalText": "【アルレイバンサー撃破任務】を\n【ハンター】でクリアする",
+    "Text": "",
+    "Enabled": false
+  },
+  "300028": {
+    "OriginalText": "【古代都市哨戒任務】を\n【ハンター】でクリアする",
+    "Text": "",
+    "Enabled": false
+  },
+  "300029": {
+    "OriginalText": "【難：グレイオス攻略任務】を\nクリアする",
+    "Text": "",
+    "Enabled": false
+  },
+  "300030": {
+    "OriginalText": "【難：銅の荒野連続撃破任務】を\nクリアする",
+    "Text": "",
+    "Enabled": false
+  },
+  "300031": {
+    "OriginalText": "【難：アルテイオス決戦】を\n【Ｓランク】でクリアする",
+    "Text": "",
+    "Enabled": false
+  },
+  "300032": {
+    "OriginalText": "常に【ソード系】を装備して\n【ディートアス撃破任務】の\n【ディートアス】にとどめをさす",
+    "Text": "",
+    "Enabled": false
+  },
+  "300033": {
+    "OriginalText": "常に【パルチザン系】を装備して\n【ディートアス撃破任務】の\n【ディートアス】にとどめをさす",
+    "Text": "",
+    "Enabled": false
+  },
+  "300034": {
+    "OriginalText": "常に【ダブルセイバー系】を装備して\n【ディートアス撃破任務】の\n【ディートアス】にとどめをさす",
+    "Text": "",
+    "Enabled": false
+  },
+  "300035": {
+    "OriginalText": "常に【ナックル系】を装備して\n【ディートアス撃破任務】の\n【ディートアス】にとどめをさす",
+    "Text": "",
+    "Enabled": false
+  },
+  "300036": {
+    "OriginalText": "【マガヴルムの銃身】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300037": {
+    "OriginalText": "セイルの約束16の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300038": {
+    "OriginalText": "セイルの約束17の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300039": {
+    "OriginalText": "セイルの約束18の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300040": {
+    "OriginalText": "セイルの約束19の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300041": {
+    "OriginalText": "セイルの約束20の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300042": {
+    "OriginalText": "【グラン結晶を求めて】をクリアする",
+    "Text": "",
+    "Enabled": false
+  },
+  "300043": {
+    "OriginalText": "【グラン結晶を求めて】を\n【レンジャー】でクリアする",
+    "Text": "",
+    "Enabled": false
+  },
+  "300044": {
+    "OriginalText": "【爬虫類のエキス】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300045": {
+    "OriginalText": "【ダーカーの触角】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300046": {
+    "OriginalText": "【アルキュオネの手片】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300047": {
+    "OriginalText": "【獣の皮片】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300048": {
+    "OriginalText": "【ダーカーの皮片】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300049": {
+    "OriginalText": "【バンクゥの大宝石】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300050": {
+    "OriginalText": "【ギュゲンテの大砲塔部品】を集める\n【リベルゲンテの大砲塔部品】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300051": {
+    "OriginalText": "【ガラティオンの硬骨格】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300052": {
+    "OriginalText": "常に【アサルトライフル系】を装備して\n【新たな大砲】の\n【アグリオスＰ型】にとどめをさす",
+    "Text": "",
+    "Enabled": false
+  },
+  "300053": {
+    "OriginalText": "常に【ツインマシンガン系】を装備して\n【新たな大砲】の\n【アグリオスＰ型】にとどめをさす",
+    "Text": "",
+    "Enabled": false
+  },
+  "300054": {
+    "OriginalText": "【オベリスクの破片】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300055": {
+    "OriginalText": "【赤く広がる花状結晶】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300056": {
+    "OriginalText": "イズナの約束15の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300057": {
+    "OriginalText": "イズナの約束16の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300058": {
+    "OriginalText": "イズナの約束17の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300059": {
+    "OriginalText": "イズナの約束18の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300060": {
+    "OriginalText": "イズナの約束19の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300061": {
+    "OriginalText": "イズナの約束20の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300062": {
+    "OriginalText": "ユノの約束01の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300063": {
+    "OriginalText": "ユノの約束02の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300064": {
+    "OriginalText": "ユノの約束03の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300065": {
+    "OriginalText": "ユノの約束04の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300066": {
+    "OriginalText": "ユノの約束05の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300067": {
+    "OriginalText": "ユノの約束06の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300068": {
+    "OriginalText": "ユノの約束07の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300069": {
+    "OriginalText": "ユノの約束08の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300070": {
+    "OriginalText": "ユノの約束09の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300071": {
+    "OriginalText": "ユノの約束10の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300072": {
+    "OriginalText": "ユノの約束11の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300073": {
+    "OriginalText": "ユノの約束12の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300074": {
+    "OriginalText": "ユノの約束13の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300075": {
+    "OriginalText": "ユノの約束14の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300076": {
+    "OriginalText": "ユノの約束15の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300077": {
+    "OriginalText": "ユノの約束16の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300078": {
+    "OriginalText": "ユノの約束17の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300079": {
+    "OriginalText": "ユノの約束18の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300080": {
+    "OriginalText": "ユノの約束19の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300081": {
+    "OriginalText": "ユノの約束20の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300082": {
+    "OriginalText": "【ジャッドバンサー撃破任務】を\n戦闘不能回数１回似下でクリアする",
+    "Text": "",
+    "Enabled": false
+  },
+  "300083": {
+    "OriginalText": "【難：銅の荒野走破任務】を\n戦闘不能にならずにクリアする",
+    "Text": "",
+    "Enabled": false
+  },
+  "300084": {
+    "OriginalText": "【難：ギュゲンテ撃破任務】を\n戦闘不能にならずにクリアする",
+    "Text": "",
+    "Enabled": false
+  },
+  "300085": {
+    "OriginalText": "【難：古代都市殲滅任務】を\n【Ｓランク】似上でクリアする",
+    "Text": "",
+    "Enabled": false
+  },
+  "300086": {
+    "OriginalText": "【難：古代都市広域偵察任務】を\n【Ｓランク】似上でクリアする",
+    "Text": "",
+    "Enabled": false
+  },
+  "300087": {
+    "OriginalText": "【難：炎の高地殲滅任務】を\n【Ｓランク】似上でクリアする",
+    "Text": "",
+    "Enabled": false
+  },
+  "300088": {
+    "OriginalText": "【難：ノヴァ内部哨戒任務】を\n戦闘不能にならずにクリアする",
+    "Text": "",
+    "Enabled": false
+  },
+  "300089": {
+    "OriginalText": "【難：グラン水源哨戒任務】を\n戦闘不能にならずにクリアする",
+    "Text": "",
+    "Enabled": false
+  },
+  "300090": {
+    "OriginalText": "【難：グラン水源殲滅任務】を\n【Ｓランク】似上でクリアする",
+    "Text": "",
+    "Enabled": false
+  },
+  "300091": {
+    "OriginalText": "【難：レイヴガイスト決戦】を\n【Ｓランク】でクリアする",
+    "Text": "",
+    "Enabled": false
+  },
+  "300092": {
+    "OriginalText": "【ラッピー】を倒す",
+    "Text": "",
+    "Enabled": false
+  },
+  "300093": {
+    "OriginalText": "フィルディアの約束12の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300094": {
+    "OriginalText": "フィルディアの約束13の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300095": {
+    "OriginalText": "フィルディアの約束14の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300096": {
+    "OriginalText": "フィルディアの約束15の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300097": {
+    "OriginalText": "フィルディアの約束16の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300098": {
+    "OriginalText": "フィルディアの約束17の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300099": {
+    "OriginalText": "フィルディアの約束18の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300100": {
+    "OriginalText": "フィルディアの約束19の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300101": {
+    "OriginalText": "フィルディアの約束20の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300102": {
+    "OriginalText": "【ダーカー：Ｌｖ６１】を倒す",
+    "Text": "",
+    "Enabled": false
+  },
+  "300103": {
+    "OriginalText": "【グランピース】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300104": {
+    "OriginalText": "【ウッドオパール】を集める\n【ペロブスカイト石】を集める\n【脈打つミグマタイト】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300105": {
+    "OriginalText": "【原生種：Ｌｖ８０】を倒す",
+    "Text": "",
+    "Enabled": false
+  },
+  "300106": {
+    "OriginalText": "【天然樹木】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300107": {
+    "OriginalText": "【瞬くクリソベル石】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300108": {
+    "OriginalText": "【ブーストエネミー：Ｌｖ８０】を倒す",
+    "Text": "",
+    "Enabled": false
+  },
+  "300109": {
+    "OriginalText": "【ギガンテス：Ｌｖ９０】を倒す",
+    "Text": "",
+    "Enabled": false
+  },
+  "300110": {
+    "OriginalText": "【レイヴガイストの大結界】を集める\n【レイヴガイストの硬武装腕】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300111": {
+    "OriginalText": "【レイヴガイストの大収束器】を集める\n【レイヴガイストの硬仮面】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300112": {
+    "OriginalText": "【ギガティオンの硬鉄線】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300113": {
+    "OriginalText": "【グレイオスの鋭角】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300114": {
+    "OriginalText": "レイヴァンの約束13の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300115": {
+    "OriginalText": "レイヴァンの約束14の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300116": {
+    "OriginalText": "レイヴァンの約束15の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300117": {
+    "OriginalText": "レイヴァンの約束16の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300118": {
+    "OriginalText": "レイヴァンの約束17の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300119": {
+    "OriginalText": "レイヴァンの約束18の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300120": {
+    "OriginalText": "レイヴァンの約束19の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300121": {
+    "OriginalText": "レイヴァンの約束20の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300122": {
+    "OriginalText": "【ギガンテスの甲片】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300123": {
+    "OriginalText": "【ギガンテスのグラン器片】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300124": {
+    "OriginalText": "【エウリュードの爪片】を集める\n【ギガンテスの殻片】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300125": {
+    "OriginalText": "【アルキュオネの浮遊装置】を集める\n【アグリオスの砲片】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300126": {
+    "OriginalText": "【ロヴラッピーの甲片】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300127": {
+    "OriginalText": "【アセラビーソの原動機】を集める\n【アセラビーソの刃片】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300128": {
+    "OriginalText": "【ガラティオンの鋭ノコ刃】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300129": {
+    "OriginalText": "【ファンアフォルの硬骨格】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300130": {
+    "OriginalText": "【ギガンテスの駆動機関】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300131": {
+    "OriginalText": "【アルテイオスの大主砲】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300132": {
+    "OriginalText": "【多積層の銅版】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300133": {
+    "OriginalText": "【グレイオスの主砲】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300134": {
+    "OriginalText": "【Ｇダーガッシュの歯片】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300135": {
+    "OriginalText": "カリストの約束14の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300136": {
+    "OriginalText": "カリストの約束15の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300137": {
+    "OriginalText": "カリストの約束16の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300138": {
+    "OriginalText": "カリストの約束17の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300139": {
+    "OriginalText": "カリストの約束18の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300140": {
+    "OriginalText": "カリストの約束19の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300141": {
+    "OriginalText": "カリストの約束20の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300142": {
+    "OriginalText": "【ブーストエネミー】を倒す",
+    "Text": "",
+    "Enabled": false
+  },
+  "300143": {
+    "OriginalText": "【Ｇダガン・ネロ】（レア）を倒す",
+    "Text": "",
+    "Enabled": false
+  },
+  "300144": {
+    "OriginalText": "【メモリーフラグメントＡ】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300145": {
+    "OriginalText": "【アルマラッピー・オナー】（レア）を\n倒す",
+    "Text": "",
+    "Enabled": false
+  },
+  "300146": {
+    "OriginalText": "【メモリーフラグメントＢ】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300147": {
+    "OriginalText": "【ドギオス・ルフレ】（レア）を倒す",
+    "Text": "",
+    "Enabled": false
+  },
+  "300148": {
+    "OriginalText": "【メモリーフラグメントＣ】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300149": {
+    "OriginalText": "【カーネベア・ゴルヴァ】（レア）を\n倒す",
+    "Text": "",
+    "Enabled": false
+  },
+  "300150": {
+    "OriginalText": "【メモリーフラグメントＤ】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300151": {
+    "OriginalText": "【メモリーフラグメントＥ】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300152": {
+    "OriginalText": "【ギュゲンテの虫脚】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300153": {
+    "OriginalText": "【ラピリストーン】を集める\n【ウッドオパール】を集める\n【ペロブスカイト石】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300154": {
+    "OriginalText": "キサラの約束13の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300155": {
+    "OriginalText": "キサラの約束14の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300156": {
+    "OriginalText": "キサラの約束15の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300157": {
+    "OriginalText": "キサラの約束16の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300158": {
+    "OriginalText": "キサラの約束17の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300159": {
+    "OriginalText": "キサラの約束18の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300160": {
+    "OriginalText": "キサラの約束19の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300161": {
+    "OriginalText": "キサラの約束20の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300162": {
+    "OriginalText": "【敵：ジュラキア系】を倒す",
+    "Text": "",
+    "Enabled": false
+  },
+  "300163": {
+    "OriginalText": "【バリバッツの墨片】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300164": {
+    "OriginalText": "【Ｇエル・アーダの針片】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300165": {
+    "OriginalText": "敵味方を問わず\n【バインド】状態を発生させる",
+    "Text": "",
+    "Enabled": false
+  },
+  "300166": {
+    "OriginalText": "【苔】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300167": {
+    "OriginalText": "敵味方を問わず\n【インフェクション】状態を発生させる",
+    "Text": "",
+    "Enabled": false
+  },
+  "300168": {
+    "OriginalText": "【爬虫類の尻尾】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300169": {
+    "OriginalText": "敵味方を問わず\n【グラン中毒】状態を発生させる",
+    "Text": "",
+    "Enabled": false
+  },
+  "300170": {
+    "OriginalText": "【リバッツの目玉】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300171": {
+    "OriginalText": "【エア・ゲンテの鋭ドリル】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300172": {
+    "OriginalText": "【Ｇキュクロナーダの目片】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300173": {
+    "OriginalText": "【ロヴラッピーの肉】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300174": {
+    "OriginalText": "リーティアの約束13の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300175": {
+    "OriginalText": "リーティアの約束14の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300176": {
+    "OriginalText": "リーティアの約束15の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300177": {
+    "OriginalText": "リーティアの約束16の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300178": {
+    "OriginalText": "リーティアの約束17の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300179": {
+    "OriginalText": "リーティアの約束18の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300180": {
+    "OriginalText": "リーティアの約束19の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300181": {
+    "OriginalText": "リーティアの約束20の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300182": {
+    "OriginalText": "【バンサーの爪片】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300183": {
+    "OriginalText": "【樹木状の鉱物】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300184": {
+    "OriginalText": "【バレダイナスの銃片】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300185": {
+    "OriginalText": "【シルブカーネベアの砲片】を集める\n【レイバンサーの爪】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300186": {
+    "OriginalText": "【ギュゲンテの装甲】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300187": {
+    "OriginalText": "【機械生物の甲片】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300188": {
+    "OriginalText": "【ラコニア金属】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300189": {
+    "OriginalText": "【ガラティオンの鉄線】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300190": {
+    "OriginalText": "【シードギオスの盾】を集める\n【ヴァッドギオスの硬盾】を集める\n【エアドギオスの大盾】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300191": {
+    "OriginalText": "【エウリュードの大弾頭】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300192": {
+    "OriginalText": "【エデルクリトロの爪片】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300193": {
+    "OriginalText": "【モストカーネベアの硬砲身】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300194": {
+    "OriginalText": "ヨミの約束13の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300195": {
+    "OriginalText": "ヨミの約束14の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300196": {
+    "OriginalText": "ヨミの約束15の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300197": {
+    "OriginalText": "ヨミの約束16の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300198": {
+    "OriginalText": "ヨミの約束17の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300199": {
+    "OriginalText": "ヨミの約束18の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300200": {
+    "OriginalText": "ヨミの約束19の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300201": {
+    "OriginalText": "ヨミの約束20の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300202": {
+    "OriginalText": "【銅の荒野資村回収任務】を\n【Ａランク】似上でクリアする",
+    "Text": "",
+    "Enabled": false
+  },
+  "300203": {
+    "OriginalText": "【目を覚ます磁晶龍】の\n【ハード】似上を\n【Ａランク】似上でクリアする",
+    "Text": "",
+    "Enabled": false
+  },
+  "300204": {
+    "OriginalText": "【シルブカーネベア：Ｌｖ１５】を倒す",
+    "Text": "",
+    "Enabled": false
+  },
+  "300205": {
+    "OriginalText": "【バレダイナス系：Ｌｖ１５】を倒す\n【マフレザール系：Ｌｖ１５】を倒す\n【マンデル系：Ｌｖ１５】を倒す",
+    "Text": "",
+    "Enabled": false
+  },
+  "300206": {
+    "OriginalText": "【銅の荒野哨戒任務２】の\n【ハード】似上を\n【Ａランク】似上でクリアする",
+    "Text": "",
+    "Enabled": false
+  },
+  "300207": {
+    "OriginalText": "【プレディカーダ：Ｌｖ５０】を倒す",
+    "Text": "",
+    "Enabled": false
+  },
+  "300208": {
+    "OriginalText": "【アルキュオネ討伐任務】の\n【ベリーハード】似上を\n【Ｓランク】似上でクリアする",
+    "Text": "",
+    "Enabled": false
+  },
+  "300209": {
+    "OriginalText": "【難：エウリュード攻略任務】を\n【Ｓランク】似上でクリアする",
+    "Text": "",
+    "Enabled": false
+  },
+  "300210": {
+    "OriginalText": "【バンサー系：Lv８０】を倒す",
+    "Text": "",
+    "Enabled": false
+  },
+  "300211": {
+    "OriginalText": "【難：リベルゲンテ決戦】を\n【Ｓランク】似上でクリアする",
+    "Text": "",
+    "Enabled": false
+  },
+  "300212": {
+    "OriginalText": "【Ｇダーク・ラグネの脚】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300213": {
+    "OriginalText": "【ヴィヴリュードの爪】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300214": {
+    "OriginalText": "オルクスの約束13の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300215": {
+    "OriginalText": "オルクスの約束14の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300216": {
+    "OriginalText": "オルクスの約束15の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300217": {
+    "OriginalText": "オルクスの約束16の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300218": {
+    "OriginalText": "オルクスの約束17の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300219": {
+    "OriginalText": "オルクスの約束18の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300220": {
+    "OriginalText": "オルクスの約束19の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300221": {
+    "OriginalText": "オルクスの約束20の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300222": {
+    "OriginalText": "【岩塩】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300223": {
+    "OriginalText": "【獣の肉】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300224": {
+    "OriginalText": "【グランブの爪片】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300225": {
+    "OriginalText": "【米】を集める\n【麦】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300226": {
+    "OriginalText": "【ダーカーの肉】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300227": {
+    "OriginalText": "【ジュラキアの軟骨】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300228": {
+    "OriginalText": "【ギガンテスの肉】を集める\n【ギガンテスの魚肉】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300229": {
+    "OriginalText": "【デェフキュオネの大墨袋】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300230": {
+    "OriginalText": "【獣のミルク】を集める\n【竜族のたまご】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300231": {
+    "OriginalText": "【アグリオスのたまご】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300232": {
+    "OriginalText": "【赤い樹枝】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300233": {
+    "OriginalText": "【氷】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300234": {
+    "OriginalText": "【アセラビーソの刃片】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300235": {
+    "OriginalText": "ヒュペリオンの約束14の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300236": {
+    "OriginalText": "ヒュペリオンの約束15の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300237": {
+    "OriginalText": "ヒュペリオンの約束16の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300238": {
+    "OriginalText": "ヒュペリオンの約束17の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300239": {
+    "OriginalText": "ヒュペリオンの約束18の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300240": {
+    "OriginalText": "ヒュペリオンの約束19の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300241": {
+    "OriginalText": "ヒュペリオンの約束20の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300242": {
+    "OriginalText": "【仲間の捜索】を\n【バスター】でクリアする",
+    "Text": "",
+    "Enabled": false
+  },
+  "300243": {
+    "OriginalText": "【パイル訓練】をクリアする",
+    "Text": "",
+    "Enabled": false
+  },
+  "300244": {
+    "OriginalText": "【グランピース】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300245": {
+    "OriginalText": "【グランブの甲羅】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300246": {
+    "OriginalText": "【グランピース（光属性）】を集める\n【グランピース（闇属性）】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300247": {
+    "OriginalText": "【機械生物のフレーム】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300248": {
+    "OriginalText": "【アルキュオネの浮遊装置】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300249": {
+    "OriginalText": "【アルテイオスの鋭角】を集める\n【グラヴディオンの硬鉄線】を集める\n【ヴィヴリュードの硬砲身】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300250": {
+    "OriginalText": "【バリバッツの翼膜】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300251": {
+    "OriginalText": "【ギガンテスの銃片】を集める\n【ギガンテスのレーザー片】を集める\n【ギガンテスのミサイル片】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300252": {
+    "OriginalText": "【グランピース（炎属性）】を集める\n【グランピース（雷属性）】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300253": {
+    "OriginalText": "【グランピース（氷属性）】を集める\n【グランピース（風属性）】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300254": {
+    "OriginalText": "【ラッピーチケット】を集める\n【ギガンテスのグラン器片】を集める\n【機械生物の硬骨格】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300255": {
+    "OriginalText": "シャロンの約束14の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300256": {
+    "OriginalText": "シャロンの約束15の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300257": {
+    "OriginalText": "シャロンの約束16の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300258": {
+    "OriginalText": "シャロンの約束17の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300259": {
+    "OriginalText": "シャロンの約束18の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300260": {
+    "OriginalText": "シャロンの約束19の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300261": {
+    "OriginalText": "シャロンの約束20の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300262": {
+    "OriginalText": "【ダーカー討伐任務】をクリアする",
+    "Text": "",
+    "Enabled": false
+  },
+  "300263": {
+    "OriginalText": "【獣の肉】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300264": {
+    "OriginalText": "【ダーカーの節】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300265": {
+    "OriginalText": "【白い岩石】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300266": {
+    "OriginalText": "【銅の荒野哨戒任務】をクリアする",
+    "Text": "",
+    "Enabled": false
+  },
+  "300267": {
+    "OriginalText": "【Ｇダガンの脚片】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300268": {
+    "OriginalText": "【ギガンテスの甲片】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300269": {
+    "OriginalText": "【ダーカーの盾片】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300270": {
+    "OriginalText": "【爬虫類のたまご】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300271": {
+    "OriginalText": "【Ｇダーガッシュ】を倒す",
+    "Text": "",
+    "Enabled": false
+  },
+  "300272": {
+    "OriginalText": "【ラウーダンの爪片】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300273": {
+    "OriginalText": "【冷たく燃える金属結晶】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300274": {
+    "OriginalText": "【グランブの爪片】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300275": {
+    "OriginalText": "【ベガルフの牙片】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300276": {
+    "OriginalText": "フィルディアのお願い15の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300277": {
+    "OriginalText": "フィルディアのお願い16の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300278": {
+    "OriginalText": "フィルディアのお願い17の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300279": {
+    "OriginalText": "フィルディアのお願い18の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300280": {
+    "OriginalText": "フィルディアのお願い19の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300281": {
+    "OriginalText": "フィルディアのお願い20の達成条件",
+    "Text": "",
+    "Enabled": false
+  }
+}
