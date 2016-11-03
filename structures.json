@@ -1,627 +1,627 @@
   "240001": {
     "OriginalText": "クラスカウンターＢ Lv.1",
-    "Text": "",
-    "Enabled": false
+    "Text": "Class Counter B Lv.1",
+    "Enabled": true
   },
   "240002": {
     "OriginalText": "クラスカウンターＢ Lv.2",
-    "Text": "",
-    "Enabled": false
+    "Text": "Class Counter B Lv.2",
+    "Enabled": true
   },
   "240003": {
     "OriginalText": "クラスカウンターＢ Lv.3",
-    "Text": "",
-    "Enabled": false
+    "Text": "Class Counter B Lv.3",
+    "Enabled": true
   },
   "240004": {
     "OriginalText": "クラスカウンターＢ Lv.4",
-    "Text": "",
-    "Enabled": false
+    "Text": "Class Counter B Lv.4",
+    "Enabled": true
   },
   "240005": {
     "OriginalText": "クラスカウンターＢ Lv.5",
-    "Text": "",
-    "Enabled": false
+    "Text": "Class Counter B Lv.5",
+    "Enabled": true
   },
   "240006": {
     "OriginalText": "クラスカウンターＯ Lv.1",
-    "Text": "",
-    "Enabled": false
+    "Text": "Class Counter O Lv.1",
+    "Enabled": true
   },
   "240007": {
     "OriginalText": "クラスカウンターＯ Lv.2",
-    "Text": "",
-    "Enabled": false
+    "Text": "Class Counter O Lv.2",
+    "Enabled": true
   },
   "240008": {
     "OriginalText": "クラスカウンターＯ Lv.3",
-    "Text": "",
-    "Enabled": false
+    "Text": "Class Counter O Lv.3",
+    "Enabled": true
   },
   "240009": {
     "OriginalText": "クラスカウンターＯ Lv.4",
-    "Text": "",
-    "Enabled": false
+    "Text": "Class Counter O Lv.4",
+    "Enabled": true
   },
   "240010": {
     "OriginalText": "クラスカウンターＯ Lv.5",
-    "Text": "",
-    "Enabled": false
+    "Text": "Class Counter O Lv.5",
+    "Enabled": true
   },
   "240011": {
     "OriginalText": "クラスカウンターＷ Lv.1",
-    "Text": "",
-    "Enabled": false
+    "Text": "Class Counter W Lv.1",
+    "Enabled": true
   },
   "240012": {
     "OriginalText": "クラスカウンターＷ Lv.2",
-    "Text": "",
-    "Enabled": false
+    "Text": "Class Counter W Lv.2",
+    "Enabled": true
   },
   "240013": {
     "OriginalText": "クラスカウンターＷ Lv.3",
-    "Text": "",
-    "Enabled": false
+    "Text": "Class Counter W Lv.3",
+    "Enabled": true
   },
   "240014": {
     "OriginalText": "クラスカウンターＷ Lv.4",
-    "Text": "",
-    "Enabled": false
+    "Text": "Class Counter W Lv.4",
+    "Enabled": true
   },
   "240015": {
     "OriginalText": "クラスカウンターＷ Lv.5",
-    "Text": "",
-    "Enabled": false
+    "Text": "Class Counter W Lv.5",
+    "Enabled": true
   },
   "240016": {
     "OriginalText": "クラスカウンター Lv.1",
-    "Text": "",
-    "Enabled": false
+    "Text": "Class Counter Lv.1",
+    "Enabled": true
   },
   "240017": {
     "OriginalText": "クラスカウンター Lv.2",
-    "Text": "",
-    "Enabled": false
+    "Text": "Class Counter Lv.2",
+    "Enabled": true
   },
   "240018": {
     "OriginalText": "クラスカウンター Lv.3",
-    "Text": "",
-    "Enabled": false
+    "Text": "Class Counter Lv.3",
+    "Enabled": true
   },
   "240019": {
     "OriginalText": "クラスカウンター Lv.4",
-    "Text": "",
-    "Enabled": false
+    "Text": "Class Counter Lv.4",
+    "Enabled": true
   },
   "240020": {
     "OriginalText": "クラスカウンター Lv.5",
-    "Text": "",
-    "Enabled": false
+    "Text": "Class Counter Lv.5",
+    "Enabled": true
   },
   "240021": {
     "OriginalText": "ラボ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Lab",
+    "Enabled": true
   },
   "240022": {
     "OriginalText": "ラボ Lv.2",
-    "Text": "",
-    "Enabled": false
+    "Text": "Lab Lv.2",
+    "Enabled": true
   },
   "240023": {
     "OriginalText": "ラボ Lv.3",
-    "Text": "",
-    "Enabled": false
+    "Text": "Lab Lv.3",
+    "Enabled": true
   },
   "240024": {
     "OriginalText": "ラボ Lv.4",
-    "Text": "",
-    "Enabled": false
+    "Text": "Lab Lv.4",
+    "Enabled": true
   },
   "240025": {
     "OriginalText": "ラボ Lv.5",
-    "Text": "",
-    "Enabled": false
+    "Text": "Lab Lv.5",
+    "Enabled": true
   },
   "240041": {
     "OriginalText": "食堂Ｂ Lv.1",
-    "Text": "",
-    "Enabled": false
+    "Text": "Food Shop B Lv.1",
+    "Enabled": true
   },
   "240042": {
     "OriginalText": "食堂Ｂ Lv.2",
-    "Text": "",
-    "Enabled": false
+    "Text": "Food Shop B Lv.2",
+    "Enabled": true
   },
   "240043": {
     "OriginalText": "食堂Ｂ Lv.3",
-    "Text": "",
-    "Enabled": false
+    "Text": "Food Shop B Lv.3",
+    "Enabled": true
   },
   "240044": {
     "OriginalText": "食堂Ｂ Lv.4",
-    "Text": "",
-    "Enabled": false
+    "Text": "Food Shop B Lv.4",
+    "Enabled": true
   },
   "240045": {
     "OriginalText": "食堂Ｂ Lv.5",
-    "Text": "",
-    "Enabled": false
+    "Text": "Food Shop B Lv.5",
+    "Enabled": true
   },
   "240046": {
     "OriginalText": "食堂Ｏ Lv.1",
-    "Text": "",
-    "Enabled": false
+    "Text": "Food Shop O Lv.1",
+    "Enabled": true
   },
   "240047": {
     "OriginalText": "食堂Ｏ Lv.2",
-    "Text": "",
-    "Enabled": false
+    "Text": "Food Shop O Lv.2",
+    "Enabled": true
   },
   "240048": {
     "OriginalText": "食堂Ｏ Lv.3",
-    "Text": "",
-    "Enabled": false
+    "Text": "Food Shop O Lv.3",
+    "Enabled": true
   },
   "240049": {
     "OriginalText": "食堂Ｏ Lv.4",
-    "Text": "",
-    "Enabled": false
+    "Text": "Food Shop O Lv.4",
+    "Enabled": true
   },
   "240050": {
     "OriginalText": "食堂Ｏ Lv.5",
-    "Text": "",
-    "Enabled": false
+    "Text": "Food Shop O Lv.5",
+    "Enabled": true
   },
   "240051": {
     "OriginalText": "食堂Ｗ Lv.1",
-    "Text": "",
-    "Enabled": false
+    "Text": "Food Shop W Lv.1",
+    "Enabled": true
   },
   "240052": {
     "OriginalText": "食堂Ｗ Lv.2",
-    "Text": "",
-    "Enabled": false
+    "Text": "Food Shop W Lv.2",
+    "Enabled": true
   },
   "240053": {
     "OriginalText": "食堂Ｗ Lv.3",
-    "Text": "",
-    "Enabled": false
+    "Text": "Food Shop W Lv.3",
+    "Enabled": true
   },
   "240054": {
     "OriginalText": "食堂Ｗ Lv.4",
-    "Text": "",
-    "Enabled": false
+    "Text": "Food Shop W Lv.4",
+    "Enabled": true
   },
   "240055": {
     "OriginalText": "食堂Ｗ Lv.5",
-    "Text": "",
-    "Enabled": false
+    "Text": "Food Shop W Lv.5",
+    "Enabled": true
   },
   "240056": {
     "OriginalText": "食堂 Lv.1",
-    "Text": "",
-    "Enabled": false
+    "Text": "Food Shop Lv.1",
+    "Enabled": true
   },
   "240057": {
     "OriginalText": "食堂 Lv.2",
-    "Text": "",
-    "Enabled": false
+    "Text": "Food Shop Lv.2",
+    "Enabled": true
   },
   "240058": {
     "OriginalText": "食堂 Lv.3",
-    "Text": "",
-    "Enabled": false
+    "Text": "Food Shop Lv.3",
+    "Enabled": true
   },
   "240059": {
     "OriginalText": "食堂 Lv.4",
-    "Text": "",
-    "Enabled": false
+    "Text": "Food Shop Lv.4",
+    "Enabled": true
   },
   "240060": {
     "OriginalText": "食堂 Lv.5",
-    "Text": "",
-    "Enabled": false
+    "Text": "Food Shop Lv.5",
+    "Enabled": true
   },
   "240061": {
     "OriginalText": "武器ショップＢ Lv.1",
-    "Text": "",
-    "Enabled": false
+    "Text": "Weapon Shop B Lv.1",
+    "Enabled": true
   },
   "240062": {
     "OriginalText": "武器ショップＢ Lv.2",
-    "Text": "",
-    "Enabled": false
+    "Text": "Weapon Shop B Lv.2",
+    "Enabled": true
   },
   "240063": {
     "OriginalText": "武器ショップＢ Lv.3",
-    "Text": "",
-    "Enabled": false
+    "Text": "Weapon Shop B Lv.3",
+    "Enabled": true
   },
   "240064": {
     "OriginalText": "武器ショップＢ Lv.4",
-    "Text": "",
-    "Enabled": false
+    "Text": "Weapon Shop B Lv.4",
+    "Enabled": true
   },
   "240065": {
     "OriginalText": "武器ショップＢ Lv.5",
-    "Text": "",
-    "Enabled": false
+    "Text": "Weapon Shop B Lv.5",
+    "Enabled": true
   },
   "240066": {
     "OriginalText": "武器ショップＯ Lv.1",
-    "Text": "",
-    "Enabled": false
+    "Text": "Weapon Shop O Lv.1",
+    "Enabled": true
   },
   "240067": {
     "OriginalText": "武器ショップＯ Lv.2",
-    "Text": "",
-    "Enabled": false
+    "Text": "Weapon Shop O Lv.2",
+    "Enabled": true
   },
   "240068": {
     "OriginalText": "武器ショップＯ Lv.3",
-    "Text": "",
-    "Enabled": false
+    "Text": "Weapon Shop O Lv.3",
+    "Enabled": true
   },
   "240069": {
     "OriginalText": "武器ショップＯ Lv.4",
-    "Text": "",
-    "Enabled": false
+    "Text": "Weapon Shop O Lv.4",
+    "Enabled": true
   },
   "240070": {
     "OriginalText": "武器ショップＯ Lv.5",
-    "Text": "",
-    "Enabled": false
+    "Text": "Weapon Shop O Lv.5",
+    "Enabled": true
   },
   "240071": {
     "OriginalText": "武器ショップＷ Lv.1",
-    "Text": "",
-    "Enabled": false
+    "Text": "Weapon Shop W Lv.1",
+    "Enabled": true
   },
   "240072": {
     "OriginalText": "武器ショップＷ Lv.2",
-    "Text": "",
-    "Enabled": false
+    "Text": "Weapon Shop W Lv.2",
+    "Enabled": true
   },
   "240073": {
     "OriginalText": "武器ショップＷ Lv.3",
-    "Text": "",
-    "Enabled": false
+    "Text": "Weapon Shop W Lv.3",
+    "Enabled": true
   },
   "240074": {
     "OriginalText": "武器ショップＷ Lv.4",
-    "Text": "",
-    "Enabled": false
+    "Text": "Weapon Shop W Lv.4",
+    "Enabled": true
   },
   "240075": {
     "OriginalText": "武器ショップＷ Lv.5",
-    "Text": "",
-    "Enabled": false
+    "Text": "Weapon Shop W Lv.5",
+    "Enabled": true
   },
   "240076": {
     "OriginalText": "武器ショップ Lv.1",
-    "Text": "",
-    "Enabled": false
+    "Text": "Weapon Shop Lv.1",
+    "Enabled": true
   },
   "240077": {
     "OriginalText": "武器ショップ Lv.2",
-    "Text": "",
-    "Enabled": false
+    "Text": "Weapon Shop Lv.2",
+    "Enabled": true
   },
   "240078": {
     "OriginalText": "武器ショップ Lv.3",
-    "Text": "",
-    "Enabled": false
+    "Text": "Weapon Shop Lv.3",
+    "Enabled": true
   },
   "240079": {
     "OriginalText": "武器ショップ Lv.4",
-    "Text": "",
-    "Enabled": false
+    "Text": "Weapon Shop Lv.4",
+    "Enabled": true
   },
   "240080": {
     "OriginalText": "武器ショップ Lv.5",
-    "Text": "",
-    "Enabled": false
+    "Text": "Weapon Shop Lv.5",
+    "Enabled": true
   },
   "240081": {
     "OriginalText": "防具ショップＢ Lv.1",
-    "Text": "",
-    "Enabled": false
+    "Text": "Armor Shop B Lv.1",
+    "Enabled": true
   },
   "240082": {
     "OriginalText": "防具ショップＢ Lv.2",
-    "Text": "",
-    "Enabled": false
+    "Text": "Armor Shop B Lv.2",
+    "Enabled": true
   },
   "240083": {
     "OriginalText": "防具ショップＢ Lv.3",
-    "Text": "",
-    "Enabled": false
+    "Text": "Armor Shop B Lv.3",
+    "Enabled": true
   },
   "240084": {
     "OriginalText": "防具ショップＢ Lv.4",
-    "Text": "",
-    "Enabled": false
+    "Text": "Armor Shop B Lv.4",
+    "Enabled": true
   },
   "240085": {
     "OriginalText": "防具ショップＢ Lv.5",
-    "Text": "",
-    "Enabled": false
+    "Text": "Armor Shop B Lv.5",
+    "Enabled": true
   },
   "240086": {
     "OriginalText": "防具ショップＯ Lv.1",
-    "Text": "",
-    "Enabled": false
+    "Text": "Armor Shop O Lv.1",
+    "Enabled": true
   },
   "240087": {
     "OriginalText": "防具ショップＯ Lv.2",
-    "Text": "",
-    "Enabled": false
+    "Text": "Armor Shop O Lv.2",
+    "Enabled": true
   },
   "240088": {
     "OriginalText": "防具ショップＯ Lv.3",
-    "Text": "",
-    "Enabled": false
+    "Text": "Armor Shop O Lv.3",
+    "Enabled": true
   },
   "240089": {
     "OriginalText": "防具ショップＯ Lv.4",
-    "Text": "",
-    "Enabled": false
+    "Text": "Armor Shop O Lv.4",
+    "Enabled": true
   },
   "240090": {
     "OriginalText": "防具ショップＯ Lv.5",
-    "Text": "",
-    "Enabled": false
+    "Text": "Armor Shop O Lv.5",
+    "Enabled": true
   },
   "240091": {
     "OriginalText": "防具ショップＷ Lv.1",
-    "Text": "",
-    "Enabled": false
+    "Text": "Armor Shop W Lv.1",
+    "Enabled": true
   },
   "240092": {
     "OriginalText": "防具ショップＷ Lv.2",
-    "Text": "",
-    "Enabled": false
+    "Text": "Armor Shop W Lv.2",
+    "Enabled": true
   },
   "240093": {
     "OriginalText": "防具ショップＷ Lv.3",
-    "Text": "",
-    "Enabled": false
+    "Text": "Armor Shop W Lv.3",
+    "Enabled": true
   },
   "240094": {
     "OriginalText": "防具ショップＷ Lv.4",
-    "Text": "",
-    "Enabled": false
+    "Text": "Armor Shop W Lv.4",
+    "Enabled": true
   },
   "240095": {
     "OriginalText": "防具ショップＷ Lv.5",
-    "Text": "",
-    "Enabled": false
+    "Text": "Armor Shop W Lv.5",
+    "Enabled": true
   },
   "240096": {
     "OriginalText": "防具ショップ Lv.1",
-    "Text": "",
-    "Enabled": false
+    "Text": "Armor Shop Lv.1",
+    "Enabled": true
   },
   "240097": {
     "OriginalText": "防具ショップ Lv.2",
-    "Text": "",
-    "Enabled": false
+    "Text": "Armor Shop Lv.2",
+    "Enabled": true
   },
   "240098": {
     "OriginalText": "防具ショップ Lv.3",
-    "Text": "",
-    "Enabled": false
+    "Text": "Armor Shop Lv.3",
+    "Enabled": true
   },
   "240099": {
     "OriginalText": "防具ショップ Lv.4",
-    "Text": "",
-    "Enabled": false
+    "Text": "Armor Shop Lv.4",
+    "Enabled": true
   },
   "240100": {
     "OriginalText": "防具ショップ Lv.5",
-    "Text": "",
-    "Enabled": false
+    "Text": "Armor Shop Lv.5",
+    "Enabled": true
   },
   "240101": {
     "OriginalText": "アイテムショップＢ Lv.1",
-    "Text": "",
-    "Enabled": false
+    "Text": "Item Shop B Lv.1",
+    "Enabled": true
   },
   "240102": {
     "OriginalText": "アイテムショップＢ Lv.2",
-    "Text": "",
-    "Enabled": false
+    "Text": "Item Shop B Lv.2",
+    "Enabled": true
   },
   "240103": {
     "OriginalText": "アイテムショップＢ Lv.3",
-    "Text": "",
-    "Enabled": false
+    "Text": "Item Shop B Lv.3",
+    "Enabled": true
   },
   "240104": {
     "OriginalText": "アイテムショップＢ Lv.4",
-    "Text": "",
-    "Enabled": false
+    "Text": "Item Shop B Lv.4",
+    "Enabled": true
   },
   "240105": {
     "OriginalText": "アイテムショップＢ Lv.5",
-    "Text": "",
-    "Enabled": false
+    "Text": "Item Shop B Lv.5",
+    "Enabled": true
   },
   "240106": {
     "OriginalText": "アイテムショップＯ Lv.1",
-    "Text": "",
-    "Enabled": false
+    "Text": "Item Shop O Lv.1",
+    "Enabled": true
   },
   "240107": {
     "OriginalText": "アイテムショップＯ Lv.2",
-    "Text": "",
-    "Enabled": false
+    "Text": "Item Shop O Lv.2",
+    "Enabled": true
   },
   "240108": {
     "OriginalText": "アイテムショップＯ Lv.3",
-    "Text": "",
-    "Enabled": false
+    "Text": "Item Shop O Lv.3",
+    "Enabled": true
   },
   "240109": {
     "OriginalText": "アイテムショップＯ Lv.4",
-    "Text": "",
-    "Enabled": false
+    "Text": "Item Shop O Lv.4",
+    "Enabled": true
   },
   "240110": {
     "OriginalText": "アイテムショップＯ Lv.5",
-    "Text": "",
-    "Enabled": false
+    "Text": "Item Shop O Lv.5",
+    "Enabled": true
   },
   "240111": {
     "OriginalText": "アイテムショップＷ Lv.1",
-    "Text": "",
-    "Enabled": false
+    "Text": "Item Shop W Lv.1",
+    "Enabled": true
   },
   "240112": {
     "OriginalText": "アイテムショップＷ Lv.2",
-    "Text": "",
-    "Enabled": false
+    "Text": "Item Shop W Lv.2",
+    "Enabled": true
   },
   "240113": {
     "OriginalText": "アイテムショップＷ Lv.3",
-    "Text": "",
-    "Enabled": false
+    "Text": "Item Shop W Lv.3",
+    "Enabled": true
   },
   "240114": {
     "OriginalText": "アイテムショップＷ Lv.4",
-    "Text": "",
-    "Enabled": false
+    "Text": "Item Shop W Lv.4",
+    "Enabled": true
   },
   "240115": {
     "OriginalText": "アイテムショップＷ Lv.5",
-    "Text": "",
-    "Enabled": false
+    "Text": "Item Shop W Lv.5",
+    "Enabled": true
   },
   "240116": {
     "OriginalText": "アイテムショップ Lv.1",
-    "Text": "",
-    "Enabled": false
+    "Text": "Item Shop Lv.1",
+    "Enabled": true
   },
   "240117": {
     "OriginalText": "アイテムショップ Lv.2",
-    "Text": "",
-    "Enabled": false
+    "Text": "Item Shop Lv.2",
+    "Enabled": true
   },
   "240118": {
     "OriginalText": "アイテムショップ Lv.3",
-    "Text": "",
-    "Enabled": false
+    "Text": "Item Shop Lv.3",
+    "Enabled": true
   },
   "240119": {
     "OriginalText": "アイテムショップ Lv.4",
-    "Text": "",
-    "Enabled": false
+    "Text": "Item Shop Lv.4",
+    "Enabled": true
   },
   "240120": {
     "OriginalText": "アイテムショップ Lv.5",
-    "Text": "",
-    "Enabled": false
+    "Text": "Item Shop Lv.5",
+    "Enabled": true
   },
   "240121": {
     "OriginalText": "コスチュームＳＢ Lv.1",
-    "Text": "",
-    "Enabled": false
+    "Text": "Costume Shop B Lv.1",
+    "Enabled": true
   },
   "240122": {
     "OriginalText": "コスチュームＳＢ Lv.2",
-    "Text": "",
-    "Enabled": false
+    "Text": "Costume Shop B Lv.2",
+    "Enabled": true
   },
   "240123": {
     "OriginalText": "コスチュームＳＢ Lv.3",
-    "Text": "",
-    "Enabled": false
+    "Text": "Costume Shop B Lv.3",
+    "Enabled": true
   },
   "240124": {
     "OriginalText": "コスチュームＳＢ Lv.4",
-    "Text": "",
-    "Enabled": false
+    "Text": "Costume Shop B Lv.4",
+    "Enabled": true
   },
   "240125": {
     "OriginalText": "コスチュームＳＢ Lv.5",
-    "Text": "",
-    "Enabled": false
+    "Text": "Costume Shop B Lv.5",
+    "Enabled": true
   },
   "240126": {
     "OriginalText": "コスチュームＳＯ Lv.1",
-    "Text": "",
-    "Enabled": false
+    "Text": "Costume Shop S Lv.1",
+    "Enabled": true
   },
   "240127": {
     "OriginalText": "コスチュームＳＯ Lv.2",
-    "Text": "",
-    "Enabled": false
+    "Text": "Costume Shop S Lv.2",
+    "Enabled": true
   },
   "240128": {
     "OriginalText": "コスチュームＳＯ Lv.3",
-    "Text": "",
-    "Enabled": false
+    "Text": "Costume Shop S Lv.3",
+    "Enabled": true
   },
   "240129": {
     "OriginalText": "コスチュームＳＯ Lv.4",
-    "Text": "",
-    "Enabled": false
+    "Text": "Costume Shop S Lv.4",
+    "Enabled": true
   },
   "240130": {
     "OriginalText": "コスチュームＳＯ Lv.5",
-    "Text": "",
-    "Enabled": false
+    "Text": "Costume Shop S Lv.5",
+    "Enabled": true
   },
   "240131": {
     "OriginalText": "コスチュームＳＷ Lv.1",
-    "Text": "",
-    "Enabled": false
+    "Text": "Costume Shop W Lv.1",
+    "Enabled": true
   },
   "240132": {
     "OriginalText": "コスチュームＳＷ Lv.2",
-    "Text": "",
-    "Enabled": false
+    "Text": "Costume Shop W Lv.2",
+    "Enabled": true
   },
   "240133": {
     "OriginalText": "コスチュームＳＷ Lv.3",
-    "Text": "",
-    "Enabled": false
+    "Text": "Costume Shop W Lv.3",
+    "Enabled": true
   },
   "240134": {
     "OriginalText": "コスチュームＳＷ Lv.4",
-    "Text": "",
-    "Enabled": false
+    "Text": "Costume Shop W Lv.4",
+    "Enabled": true
   },
   "240135": {
     "OriginalText": "コスチュームＳＷ Lv.5",
-    "Text": "",
-    "Enabled": false
+    "Text": "Costume Shop W Lv.5",
+    "Enabled": true
   },
   "240136": {
     "OriginalText": "コスチュームＳ Lv.1",
-    "Text": "",
-    "Enabled": false
+    "Text": "Costume Shop Lv.1",
+    "Enabled": true
   },
   "240137": {
     "OriginalText": "コスチュームＳ Lv.2",
-    "Text": "",
-    "Enabled": false
+    "Text": "Costume Shop Lv.2",
+    "Enabled": true
   },
   "240138": {
     "OriginalText": "コスチュームＳ Lv.3",
-    "Text": "",
-    "Enabled": false
+    "Text": "Costume Shop Lv.3",
+    "Enabled": true
   },
   "240139": {
     "OriginalText": "コスチュームＳ Lv.4",
-    "Text": "",
-    "Enabled": false
+    "Text": "Costume Shop Lv.4",
+    "Enabled": true
   },
   "240140": {
     "OriginalText": "コスチュームＳ Lv.5",
-    "Text": "",
-    "Enabled": false
+    "Text": "Costume Shop Lv.5",
+    "Enabled": true
   },
   "240141": {
     "OriginalText": "エステＢ Lv.1",
