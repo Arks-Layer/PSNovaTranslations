@@ -15,7 +15,7 @@
   },
   "290003": {
     "OriginalText": "フォースの動きに慣れておきたいね。\n一度、フォースで任務をクリアしてみようよ。\n習うより慣れろだよ、[ruby]相棒[/ruby]！\n[a 03]※この約束は１回のみ\n※『フォース』にクラス変更をする必要あり[b]",
-    "Text": "Let's get used to being a Force.\nClear a mission as a Force. Practice\nmakes perfect, partner!\n[a 03]※Can only be done once\n※Force-class only[b]",
+    "Text": "Let's get used to being a Force.\nClear a mission as a Force. Practice\nmakes perfect, partner!\n[a 03]※Can only be done once\n※Forces only[b]",
     "Enabled": true
   },
   "290004": {
@@ -115,7 +115,7 @@
   },
   "290023": {
     "OriginalText": "ハンターって、戦闘クラスの花形だよな！\n任務はハンターでクリアしてこそ一人前と思うんだ。\n一緒にやろうぜ！\n[a 03]※この約束は１回のみ\n※『ハンター』にクラス変更をする必要あり[b]",
-    "Text": "Hunter, the star combat class!\nA mission for full-fledged Hunters.\nLet's do this together!\n[a 03]※Can only be completed once\n※Hunter-class only[b]",
+    "Text": "Hunter, the star combat class!\nA mission for full-fledged Hunters.\nLet's do this together!\n[a 03]※Can only be completed once\n※Hunters only[b]",
     "Enabled": true
   },
   "290024": {
@@ -215,7 +215,7 @@
   },
   "290043": {
     "OriginalText": "わたしと一緒にかっこいいレンジャーを\n目指しませんか？ よかったら一緒に\n任務をクリアしましょう。\n[a 03]※この約束は１回のみ\n※『レンジャー』にクラス変更をする必要あり[b]",
-    "Text": "Do you wish to become a cool\nRanger like me? If you'd like,\nwe can clear a mission.\n[a 03]※Can only be completed once\n※Ranger-class only[b]",
+    "Text": "Do you wish to become a cool\nRanger like me? If you'd like,\nwe can clear a mission.\n[a 03]※Can only be completed once\n※Rangers only[b]",
     "Enabled": true
   },
   "290044": {
