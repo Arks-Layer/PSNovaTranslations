@@ -3665,12 +3665,12 @@
   },
   "24119": {
     "OriginalText": "１ 新武器「ヘイロウ」の説明",
-    "Text": "1. Halo Weapon Description",
+    "Text": "1. Halo Weapon Tutorial",
     "Enabled": true
   },
   "24120": {
     "OriginalText": "２ 新武器「パイル」の説明",
-    "Text": "2. Pile Weapon Description",
+    "Text": "2. Pile Weapon Tutorial",
     "Enabled": true
   },
   "24121": {
@@ -3685,7 +3685,7 @@
   },
   "24123": {
     "OriginalText": "５弱点（コア）の説明",
-    "Text": "5. Description of Weakness (Core)",
+    "Text": "5. Weak Point Tutorial (Core)",
     "Enabled": true
   },
   "24124": {
