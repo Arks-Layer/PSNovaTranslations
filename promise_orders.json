@@ -15,8 +15,8 @@
   },
   "290003": {
     "OriginalText": "フォースの動きに慣れておきたいね。\n一度、フォースで任務をクリアしてみようよ。\n習うより慣れろだよ、[ruby]相棒[/ruby]！\n[a 03]※この約束は１回のみ\n※『フォース』にクラス変更をする必要あり[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "Let's get used to being a Force.\nClear a mission as a Force. Practice\nmakes perfect, partner!\n[a 03]※Can only be done once\n※Forces only[b]",
+    "Enabled": true
   },
   "290004": {
     "OriginalText": "鳥の皮片を集めてきてくれない、[ruby]相棒[/ruby]！\n色鮮やかで装飾品として利用できそうなんだ。\n３個くらいあると嬉しいな。",
@@ -50,8 +50,8 @@
   },
   "290010": {
     "OriginalText": "バリドランナの大光玉を３個集めようよ、[ruby]相棒[/ruby]！\n磨くとすっごくきれいで、\nアクセサリーとして使いたいんだ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect 3 Balls of Light from Baridran'na, partner!\nOnce cleaned and polished,\nI can use it as an accessory.",
+    "Enabled": true
   },
   "290011": {
     "OriginalText": "アルキュオネの硬肩部装甲を調達してきてよ、[ruby]相棒[/ruby]！\nえっ、あたしも一緒に！？\nムリムリ！！ あんなブニョブニョ近づくのも嫌！",
@@ -115,8 +115,8 @@
   },
   "290023": {
     "OriginalText": "ハンターって、戦闘クラスの花形だよな！\n任務はハンターでクリアしてこそ一人前と思うんだ。\n一緒にやろうぜ！\n[a 03]※この約束は１回のみ\n※『ハンター』にクラス変更をする必要あり[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "Hunter, the star combat class!\nA mission for full-fledged Hunters.\nLet's do this together!\n[a 03]※Can only be completed once\n※Hunters only[b]",
+    "Enabled": true
   },
   "290024": {
     "OriginalText": "アグリオスを撃破しに行こうぜ！\n奴の攻撃はキツイけど、倒した時のあの達成感を\nもう一度味わってみないか！？",
@@ -160,8 +160,8 @@
   },
   "290032": {
     "OriginalText": "ソードだけでディートアスを撃破。お前ならできる！\n[a 06]『ソード』\n近接武器としてはリーチが長くクセも少なく、\n戦闘の基本を覚えるのに適している。[b]\n[a 03]※ソード系で撃破が必要 この約束は一回のみ[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "Go defeat a Ditoas with a sword, you can do it!\n[a 06]Swords have a long reach for a weapon.\nIt's perfect for the basics of combat.\n[a 03]※Swords only[b]",
+    "Enabled": true
   },
   "290033": {
     "OriginalText": "パルチザンだけでディートアスを倒してみようぜ。\n[a 06]『パルチザン』\n高速かつ豪快に敵を薙ぎ払う打撃武器。\nスキのない攻撃を得意とする。[b]\n[a 03]※パルチザン系で撃破が必要 この約束は一回のみ[b]",
@@ -215,8 +215,8 @@
   },
   "290043": {
     "OriginalText": "わたしと一緒にかっこいいレンジャーを\n目指しませんか？ よかったら一緒に\n任務をクリアしましょう。\n[a 03]※この約束は１回のみ\n※『レンジャー』にクラス変更をする必要あり[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "Do you wish to become a cool\nRanger like me? If you'd like,\nwe can clear a mission.\n[a 03]※Can only be completed once\n※Rangers only[b]",
+    "Enabled": true
   },
   "290044": {
     "OriginalText": "爬虫類のエキスを３つ調達したいのです。\nすみません、集めていただいてもよいですか？",
@@ -225,8 +225,8 @@
   },
   "290045": {
     "OriginalText": "ダーカーの触角がたくさん必要なんです。\nそんなにいっぱい集められるか心配で……。\n一緒に集めてもらえませんか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "I need a bunch of Darker Antennae.\nI wonder how much you could collect...\nCould you please get me some?",
+    "Enabled": true
   },
   "290046": {
     "OriginalText": "アルキュオネの手片を３つ\n調達したいのです。\nお願いすることは出来ますか？",
@@ -1225,8 +1225,8 @@
   },
   "290245": {
     "OriginalText": "グランブの甲羅を２つほど調達をお願いします。\nグランの弾丸を射出するメカニズムが何かに\n使えるかもしれません。\n研究を進めるためによろしくお願いします。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I need you to procure a Granb Carapace.\nWe can use the bullet mechanism\nas a way to inject Gran for research.\nThank you in advance.",
+    "Enabled": true
   },
   "290246": {
     "OriginalText": "グランピースの入手をお願い出来ますか？\n光属性の物と闇属性の物と、\nそれぞれ３つずつ必要なんです。",
