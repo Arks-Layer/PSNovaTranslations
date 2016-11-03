@@ -3425,8 +3425,8 @@
   },
   "23101": {
     "OriginalText": "クラス変更により、装備している\n武器や防具が無効になることがあります。\n無効となっている装備は\n名前が灰色で表示されます。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Changing class may cause your\ncurrent equipment to become unusable.\nEquipment that has become unusable\nwill be displayed in gray.",
+    "Enabled": true
   },
   "23102": {
     "OriginalText": "※注意※",
