@@ -6,28 +6,28 @@
   },
   "300001": {
     "OriginalText": "「約束クエスト」のクリア",
-    "Text": "",
-    "Enabled": false
+    "Text": "[Promise Quest] Clear",
+    "Enabled": true
   },
   "300002": {
     "OriginalText": "【銅の荒野哨戒任務】をクリアする",
-    "Text": "",
-    "Enabled": false
+    "Text": "Clear [Copper Wastelands Patrol]",
+    "Enabled": true
   },
   "300003": {
     "OriginalText": "【銅の荒野哨戒任務】を\n【フォース】でクリアする",
-    "Text": "[Copper Wastelands Patrol]\nQuest Clear as a Force",
+    "Text": "Clear [Copper Wastelands Patrol]\nas a Force",
     "Enabled": true
   },
   "300004": {
     "OriginalText": "【鳥の皮片】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Bird Pelt]",
+    "Enabled": true
   },
   "300005": {
     "OriginalText": "【ロザードのヒレ片】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Rozad Fillet]",
+    "Enabled": true
   },
   "300006": {
     "OriginalText": "【透き通る珪化木】を集める",
@@ -461,8 +461,8 @@
   },
   "300092": {
     "OriginalText": "【ラッピー】を倒す",
-    "Text": "",
-    "Enabled": false
+    "Text": "Defeat [Rappy]",
+    "Enabled": true
   },
   "300093": {
     "OriginalText": "フィルディアの約束12の達成条件",
@@ -1271,8 +1271,8 @@
   },
   "300254": {
     "OriginalText": "【ラッピーチケット】を集める\n【ギガンテスのグラン器片】を集める\n【機械生物の硬骨格】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Rappy Ticket]\nCollect [Gran-infused Organ of Gigantes]\nCollect [Hard Biomechanical Frame]",
+    "Enabled": true
   },
   "300255": {
     "OriginalText": "シャロンの約束14の達成条件",
