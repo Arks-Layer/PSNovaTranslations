@@ -16,8 +16,8 @@
   },
   "300003": {
     "OriginalText": "【銅の荒野哨戒任務】を\n【フォース】でクリアする",
-    "Text": "",
-    "Enabled": false
+    "Text": "[Copper Wastelands Patrol]\nQuest Clear as a Force",
+    "Enabled": true
   },
   "300004": {
     "OriginalText": "【鳥の皮片】を集める",
