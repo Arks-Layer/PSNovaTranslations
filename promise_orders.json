@@ -160,7 +160,7 @@
   },
   "290032": {
     "OriginalText": "ソードだけでディートアスを撃破。お前ならできる！\n[a 06]『ソード』\n近接武器としてはリーチが長くクセも少なく、\n戦闘の基本を覚えるのに適している。[b]\n[a 03]※ソード系で撃破が必要 この約束は一回のみ[b]",
-    "Text": "Go defeat a Ditoas with a sword, you can do it!\n[a 06][Sword]\nHas a long reach for a weapon.\nIt's perfect for learning the basics of combat.\n[a 03]※Swords only[b]",
+    "Text": "Go defeat a Ditoas with a sword, you can do it!\n[a 06]Swords have a long reach for a weapon.\nIt's perfect for the basics of combat.\n[a 03]※Swords only[b]",
     "Enabled": true
   },
   "290033": {
