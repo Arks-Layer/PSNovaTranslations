@@ -645,7 +645,7 @@
   },
   "20403": {
     "OriginalText": "キャラクター表示",
-    "Text": "Show Character",
+    "Text": "Display Character",
     "Enabled": true
   },
   "20404": {
@@ -1115,7 +1115,7 @@
   },
   "21019": {
     "OriginalText": "クルー情報",
-    "Text": "Crew Information",
+    "Text": "Crew Info",
     "Enabled": true
   },
   "21020": {
@@ -1380,7 +1380,7 @@
   },
   "21224": {
     "OriginalText": "依頼人：",
-    "Text": "Client: ",
+    "Text": "Client:",
     "Enabled": true
   },
   "21225": {
