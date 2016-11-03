@@ -5,13 +5,13 @@
   },
   "800001": {
     "OriginalText": "移動中、 [f 66] でカメラを動かして周りを見回せる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "When moving, [f 66] You can move the camera\nusing the right thumb stick.",
+    "Enabled": true
   },
   "800002": {
     "OriginalText": "[f 75] を長く押すことで、より高くジャンプできる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "[f 75] By holding it down, you can jump higher.",
+    "Enabled": true
   },
   "800003": {
     "OriginalText": "[f 73] で通常攻撃をおこなう。 \nボタンを連打または押し続けることで、連続攻撃が出る。",
@@ -160,13 +160,13 @@
   },
   "800032": {
     "OriginalText": "ストーリーが進行する場所やクエストには\n赤いガイドアイコンが付く。",
-    "Text": "",
-    "Enabled": false
+    "Text": "The Red Guide Icon indicates the\nlocation for Quest Story progression.",
+    "Enabled": true
   },
   "800033": {
     "OriginalText": "クルーから受けた約束に関連したクエストには\n水色のガイドアイコンが付く。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Certain members of the crew can issue\nPromise Orders, indicated by the Blue Guide Icon.",
+    "Enabled": true
   },
   "800034": {
     "OriginalText": "アイテムパックの容量上限は200個。\nそれを超えて入手したアイテムは倉庫に送られる。",
@@ -175,13 +175,13 @@
   },
   "800035": {
     "OriginalText": "肩越し視点では、より精密な射撃をおこなえる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Entering Third Person mode can\nhelp perform precision attacks.",
+    "Enabled": true
   },
   "800036": {
     "OriginalText": "マルチプレイをしたゲストクルーは50人まで記録され、\nパーティーメンバーに加えることができる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "You can have up to 50 members recorded\nin multiplayer as Guest Crew Members.",
+    "Enabled": true
   },
   "800037": {
     "OriginalText": "ゲストクルーは50人を超えると古い記録から消去される。\nお気に入りに登録すれば消去されなくなる。",
@@ -200,8 +200,8 @@
   },
   "800040": {
     "OriginalText": "ハンターは近接攻撃を得意とし、打撃武器である\nソード・パルチザン・ダブルセイバー・ナックルを使いこなす。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Hunter is your go-to class for Melee weapons.\nUse a Sword, Partizan, Double Saber or Knuckle.",
+    "Enabled": true
   },
   "800041": {
     "OriginalText": "レンジャーは中～遠距離からの攻撃を得意とし、射撃武器\nであるアサルトライフル・ツインマシンガンを使いこなす。",
@@ -215,8 +215,8 @@
   },
   "800043": {
     "OriginalText": "メインメニューの［設定/ヘルプ］では\nゲームの設定やチュートリアルの確認ができる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "In the [Settings/Help] menu, you can\nconfigure your settings or view tutorials.",
+    "Enabled": true
   },
   "800044": {
     "OriginalText": "敵に攻撃を当て続けてチェイン数が増えると、\nより大きなダメージを与えられるようになる。",
@@ -230,8 +230,8 @@
   },
   "800046": {
     "OriginalText": "グランバースト発生中は、経験値UP、アイテムドロップUP、\nレアエネミー出現率UPなどの効果が発生することがある。",
-    "Text": "",
-    "Enabled": false
+    "Text": "During a Gran Burst, EXP UP, Item Drop UP &\nRare Enemy Occurence Effects may occur.",
+    "Enabled": true
   },
   "800047": {
     "OriginalText": "グランバースト発生中はチェインが途切れない。",
@@ -360,13 +360,13 @@
   },
   "800072": {
     "OriginalText": "グランアーツはグランの力を用いた強力な攻撃。\n繰り出すごとにGP（グランポイント）を消費する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gran Arts allows the use of powerful Gran-based\nmoves. Each move will cost GP on each use.",
+    "Enabled": true
   },
   "800073": {
     "OriginalText": "GP（グランポイント）は時間経過、\nまたは通常攻撃をヒットさせることで回復する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "You can replenish your GP\nby performing Normal Attacks.",
+    "Enabled": true
   },
   "800074": {
     "OriginalText": "アサルトライフルや一部のグランアーツでは、\n移動しながら射撃するムービングショットが使える。",
@@ -430,8 +430,8 @@
   },
   "800086": {
     "OriginalText": "コールドスリープしているクルーを解凍し、\n仲間を増やすことができる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "You can increase your Partners by\ndefrosting crew members from Cold Sleep.",
+    "Enabled": true
   },
   "800087": {
     "OriginalText": "ラボの［クルー配属］でショップや施設にクルーを配属できる。",
@@ -470,8 +470,8 @@
   },
   "800094": {
     "OriginalText": "パーティーメンバーに入れたクルーのレベルは\nプレイヤーの一番高いクラスレベルにあわせて変化する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "The Crew Members level will scale based\non the highest Class Level of the Player.",
+    "Enabled": true
   },
   "800095": {
     "OriginalText": "食堂の食事はプレイヤーにさままな効果を発生させる。\nこの効果は次のクエストが終了するまで続く。",
@@ -535,13 +535,13 @@
   },
   "800107": {
     "OriginalText": "コスチュームショップではコスチュームを作成できる。\nコスチュームは防御力に影響しない。",
-    "Text": "",
-    "Enabled": false
+    "Text": "In the Costume Shop, you can create costumes.\nCostumes do not affect your character's stats.",
+    "Enabled": true
   },
   "800108": {
     "OriginalText": "エステでは、プレイヤーキャラクターの外見の変更、\nコスチューム着替え、特微の設定ができる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "In the Makeover Shop, you can alter\nthe appearance of your character.",
+    "Enabled": true
   },
   "800109": {
     "OriginalText": "エステはショップレベルが上がると編集できるメニューが増える。",
@@ -595,8 +595,8 @@
   },
   "800119": {
     "OriginalText": "シアタースコープでは、これまでに体験した\nイベントを再生することができる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "By using the Theater Terminal, you can view\npast events that you experienced so far.",
+    "Enabled": true
   },
   "800120": {
     "OriginalText": "メインクルーは［クルー配属］をしなくても\n自分の担当する施設へ自動的に移動する。",
