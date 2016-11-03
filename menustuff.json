@@ -740,7 +740,7 @@
   },
   "20510": {
     "OriginalText": "倉庫に預ける( [e 02 00]/[e 03 00] )",
-    "Text": "Deposit to Storage Box: ([e 02 00]/[e 03 00])",
+    "Text": "Deposit to Storage Box ([e 02 00]/[e 03 00])",
     "Enabled": true
   },
   "20511": {
@@ -1435,7 +1435,7 @@
   },
   "21310": {
     "OriginalText": "すでに料理を食べています。\n一度クエストを開始し、拠点に帰還するまで、\n食堂を利用することはできません。",
-    "Text": "",
+    "Text": "You have already eaten food.\nYou will not be able to use the Food Shop\nuntil you have completed a quest.",
     "Enabled": false
   },
   "21311": {
@@ -1485,32 +1485,32 @@
   },
   "21504": {
     "OriginalText": "取り出す( [e 00 00]/[e 01 00] )",
-    "Text": "Retrieve ( [e 00 00]/[e 01 00] )",
+    "Text": "Retrieve ([e 00 00]/[e 01 00])",
     "Enabled": true
   },
   "21505": {
     "OriginalText": "アイテムパックへ取り出す( [e 00 00]/[e 01 00] )",
-    "Text": "Withdraw to Item Pack ( [e 00 00]/[e 01 00] )",
+    "Text": "Withdraw to Item Pack ([e 00 00]/[e 01 00])",
     "Enabled": true
   },
   "21506": {
     "OriginalText": "通常倉庫へ取り出す( [e 02 00]/[e 03 00] )",
-    "Text": "",
-    "Enabled": false
+    "Text": "Send to Storage Box ([e 00 00]/[e 01 00])",
+    "Enabled": true
   },
   "21507": {
     "OriginalText": "所持品がいっぱいになりました。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Item Pack is full.",
+    "Enabled": true
   },
   "21508": {
     "OriginalText": "倉庫に送りました。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Sent to Storage.",
+    "Enabled": true
   },
   "21509": {
     "OriginalText": "倉庫がいっぱいになりました。",
-    "Text": "",
+    "Text": "Storage is full.",
     "Enabled": false
   },
   "21510": {
@@ -1525,8 +1525,8 @@
   },
   "21512": {
     "OriginalText": "取り出す数を選択してください。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Delect the number to retrieve.",
+    "Enabled": true
   },
   "21601": {
     "OriginalText": "武器を作る",
