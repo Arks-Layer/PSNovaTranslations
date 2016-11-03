@@ -1,0 +1,1410 @@
+  "280000": {
+    "OriginalText": "---",
+    "Text": "",
+    "Enabled": false
+  },
+  "280001": {
+    "OriginalText": "あのクエストをクリアしてきて！",
+    "Text": "",
+    "Enabled": false
+  },
+  "280002": {
+    "OriginalText": "ルティナの訓練",
+    "Text": "",
+    "Enabled": false
+  },
+  "280003": {
+    "OriginalText": "フォースの訓練",
+    "Text": "",
+    "Enabled": false
+  },
+  "280004": {
+    "OriginalText": "鳥の皮片を調達しよう",
+    "Text": "",
+    "Enabled": false
+  },
+  "280005": {
+    "OriginalText": "ヒレ片を調達しよう",
+    "Text": "",
+    "Enabled": false
+  },
+  "280006": {
+    "OriginalText": "珪化木を調達しよう",
+    "Text": "",
+    "Enabled": false
+  },
+  "280007": {
+    "OriginalText": "石片を調達しよう",
+    "Text": "",
+    "Enabled": false
+  },
+  "280008": {
+    "OriginalText": "毛皮を調達しよう",
+    "Text": "",
+    "Enabled": false
+  },
+  "280009": {
+    "OriginalText": "コランダム塊を調達しよう",
+    "Text": "",
+    "Enabled": false
+  },
+  "280010": {
+    "OriginalText": "大光玉を調達しよう",
+    "Text": "",
+    "Enabled": false
+  },
+  "280011": {
+    "OriginalText": "装甲を調達しよう",
+    "Text": "",
+    "Enabled": false
+  },
+  "280012": {
+    "OriginalText": "ロッドを使いこなそう",
+    "Text": "",
+    "Enabled": false
+  },
+  "280013": {
+    "OriginalText": "タリスを使いこなそう",
+    "Text": "",
+    "Enabled": false
+  },
+  "280014": {
+    "OriginalText": "ウォンドを使いこなそう",
+    "Text": "",
+    "Enabled": false
+  },
+  "280015": {
+    "OriginalText": "★鱗片の調達",
+    "Text": "",
+    "Enabled": false
+  },
+  "280016": {
+    "OriginalText": "ルティナ 予備枠 04",
+    "Text": "",
+    "Enabled": false
+  },
+  "280017": {
+    "OriginalText": "ルティナ 予備枠 05",
+    "Text": "",
+    "Enabled": false
+  },
+  "280018": {
+    "OriginalText": "ルティナ 予備枠 06",
+    "Text": "",
+    "Enabled": false
+  },
+  "280019": {
+    "OriginalText": "ルティナ 予備枠 07",
+    "Text": "",
+    "Enabled": false
+  },
+  "280020": {
+    "OriginalText": "ルティナ 予備枠 08",
+    "Text": "",
+    "Enabled": false
+  },
+  "280021": {
+    "OriginalText": "ルティナ 予備枠 09",
+    "Text": "",
+    "Enabled": false
+  },
+  "280022": {
+    "OriginalText": "セイルの訓練",
+    "Text": "",
+    "Enabled": false
+  },
+  "280023": {
+    "OriginalText": "ハンターの訓練",
+    "Text": "",
+    "Enabled": false
+  },
+  "280024": {
+    "OriginalText": "アグリオス撃破勝負",
+    "Text": "",
+    "Enabled": false
+  },
+  "280025": {
+    "OriginalText": "アルキュオネ撃破勝負",
+    "Text": "",
+    "Enabled": false
+  },
+  "280026": {
+    "OriginalText": "エウリュード撃破勝負",
+    "Text": "",
+    "Enabled": false
+  },
+  "280027": {
+    "OriginalText": "アルレイバンサー撃破勝負",
+    "Text": "",
+    "Enabled": false
+  },
+  "280028": {
+    "OriginalText": "原生種撃破勝負",
+    "Text": "",
+    "Enabled": false
+  },
+  "280029": {
+    "OriginalText": "グレイオス撃破勝負",
+    "Text": "",
+    "Enabled": false
+  },
+  "280030": {
+    "OriginalText": "ギガンテス２体撃破勝負",
+    "Text": "",
+    "Enabled": false
+  },
+  "280031": {
+    "OriginalText": "アルテイオス撃破勝負",
+    "Text": "",
+    "Enabled": false
+  },
+  "280032": {
+    "OriginalText": "ソードで戦え！",
+    "Text": "",
+    "Enabled": false
+  },
+  "280033": {
+    "OriginalText": "パルチザンで戦え！",
+    "Text": "",
+    "Enabled": false
+  },
+  "280034": {
+    "OriginalText": "ダブルセイバーで戦え！",
+    "Text": "",
+    "Enabled": false
+  },
+  "280035": {
+    "OriginalText": "ナックルで戦え！",
+    "Text": "",
+    "Enabled": false
+  },
+  "280036": {
+    "OriginalText": "★銃身の回収",
+    "Text": "",
+    "Enabled": false
+  },
+  "280037": {
+    "OriginalText": "セイル 予備枠 05",
+    "Text": "",
+    "Enabled": false
+  },
+  "280038": {
+    "OriginalText": "セイル 予備枠 06",
+    "Text": "",
+    "Enabled": false
+  },
+  "280039": {
+    "OriginalText": "セイル 予備枠 07",
+    "Text": "",
+    "Enabled": false
+  },
+  "280040": {
+    "OriginalText": "セイル 予備枠 08",
+    "Text": "",
+    "Enabled": false
+  },
+  "280041": {
+    "OriginalText": "セイル 予備枠 09",
+    "Text": "",
+    "Enabled": false
+  },
+  "280042": {
+    "OriginalText": "イズナの訓練",
+    "Text": "",
+    "Enabled": false
+  },
+  "280043": {
+    "OriginalText": "レンジャーの訓練",
+    "Text": "",
+    "Enabled": false
+  },
+  "280044": {
+    "OriginalText": "エキスの調達",
+    "Text": "",
+    "Enabled": false
+  },
+  "280045": {
+    "OriginalText": "触角の調達",
+    "Text": "",
+    "Enabled": false
+  },
+  "280046": {
+    "OriginalText": "手片の調達",
+    "Text": "",
+    "Enabled": false
+  },
+  "280047": {
+    "OriginalText": "獣の皮片の調達",
+    "Text": "",
+    "Enabled": false
+  },
+  "280048": {
+    "OriginalText": "皮片の調達",
+    "Text": "",
+    "Enabled": false
+  },
+  "280049": {
+    "OriginalText": "バンクゥの大宝石の調達",
+    "Text": "",
+    "Enabled": false
+  },
+  "280050": {
+    "OriginalText": "大砲塔部品の調達",
+    "Text": "",
+    "Enabled": false
+  },
+  "280051": {
+    "OriginalText": "硬骨格の調達",
+    "Text": "",
+    "Enabled": false
+  },
+  "280052": {
+    "OriginalText": "アサルトライフルで対象を撃破",
+    "Text": "",
+    "Enabled": false
+  },
+  "280053": {
+    "OriginalText": "ツインマシンガンで対象を撃破",
+    "Text": "",
+    "Enabled": false
+  },
+  "280054": {
+    "OriginalText": "オベリスクの破片回収",
+    "Text": "",
+    "Enabled": false
+  },
+  "280055": {
+    "OriginalText": "★花状結晶の調達",
+    "Text": "",
+    "Enabled": false
+  },
+  "280056": {
+    "OriginalText": "イズナ 予備枠 04",
+    "Text": "",
+    "Enabled": false
+  },
+  "280057": {
+    "OriginalText": "イズナ 予備枠 05",
+    "Text": "",
+    "Enabled": false
+  },
+  "280058": {
+    "OriginalText": "イズナ 予備枠 06",
+    "Text": "",
+    "Enabled": false
+  },
+  "280059": {
+    "OriginalText": "イズナ 予備枠 07",
+    "Text": "",
+    "Enabled": false
+  },
+  "280060": {
+    "OriginalText": "イズナ 予備枠 08",
+    "Text": "",
+    "Enabled": false
+  },
+  "280061": {
+    "OriginalText": "イズナ 予備枠 09",
+    "Text": "",
+    "Enabled": false
+  },
+  "280062": {
+    "OriginalText": "ユノ 予備枠 01",
+    "Text": "",
+    "Enabled": false
+  },
+  "280063": {
+    "OriginalText": "ユノ 予備枠 02",
+    "Text": "",
+    "Enabled": false
+  },
+  "280064": {
+    "OriginalText": "ユノ 予備枠 03",
+    "Text": "",
+    "Enabled": false
+  },
+  "280065": {
+    "OriginalText": "ユノ 予備枠 04",
+    "Text": "",
+    "Enabled": false
+  },
+  "280066": {
+    "OriginalText": "ユノ 予備枠 05",
+    "Text": "",
+    "Enabled": false
+  },
+  "280067": {
+    "OriginalText": "ユノ 予備枠 06",
+    "Text": "",
+    "Enabled": false
+  },
+  "280068": {
+    "OriginalText": "ユノ 予備枠 07",
+    "Text": "",
+    "Enabled": false
+  },
+  "280069": {
+    "OriginalText": "ユノ 予備枠 08",
+    "Text": "",
+    "Enabled": false
+  },
+  "280070": {
+    "OriginalText": "ユノ 予備枠 09",
+    "Text": "",
+    "Enabled": false
+  },
+  "280071": {
+    "OriginalText": "ユノ 予備枠 10",
+    "Text": "",
+    "Enabled": false
+  },
+  "280072": {
+    "OriginalText": "ユノ 予備枠 11",
+    "Text": "",
+    "Enabled": false
+  },
+  "280073": {
+    "OriginalText": "ユノ 予備枠 12",
+    "Text": "",
+    "Enabled": false
+  },
+  "280074": {
+    "OriginalText": "ユノ 予備枠 13",
+    "Text": "",
+    "Enabled": false
+  },
+  "280075": {
+    "OriginalText": "ユノ 予備枠 14",
+    "Text": "",
+    "Enabled": false
+  },
+  "280076": {
+    "OriginalText": "ユノ 予備枠 15",
+    "Text": "",
+    "Enabled": false
+  },
+  "280077": {
+    "OriginalText": "ユノ 予備枠 16",
+    "Text": "",
+    "Enabled": false
+  },
+  "280078": {
+    "OriginalText": "ユノ 予備枠 17",
+    "Text": "",
+    "Enabled": false
+  },
+  "280079": {
+    "OriginalText": "ユノ 予備枠 18",
+    "Text": "",
+    "Enabled": false
+  },
+  "280080": {
+    "OriginalText": "ユノ 予備枠 19",
+    "Text": "",
+    "Enabled": false
+  },
+  "280081": {
+    "OriginalText": "ユノ 予備枠 20",
+    "Text": "",
+    "Enabled": false
+  },
+  "280082": {
+    "OriginalText": "瀕死の克服",
+    "Text": "",
+    "Enabled": false
+  },
+  "280083": {
+    "OriginalText": "死なずに大物原生種討伐に挑戦",
+    "Text": "",
+    "Enabled": false
+  },
+  "280084": {
+    "OriginalText": "死なずにギガンテス撃破に挑戦",
+    "Text": "",
+    "Enabled": false
+  },
+  "280085": {
+    "OriginalText": "Ｓランククリアに挑戦・序",
+    "Text": "",
+    "Enabled": false
+  },
+  "280086": {
+    "OriginalText": "Ｓランククリアに挑戦・破",
+    "Text": "",
+    "Enabled": false
+  },
+  "280087": {
+    "OriginalText": "Ｓランククリアに挑戦・急",
+    "Text": "",
+    "Enabled": false
+  },
+  "280088": {
+    "OriginalText": "死なずにクエスト達成に挑戦・上",
+    "Text": "",
+    "Enabled": false
+  },
+  "280089": {
+    "OriginalText": "死なずにクエスト達成に挑戦・下",
+    "Text": "",
+    "Enabled": false
+  },
+  "280090": {
+    "OriginalText": "Ｓランククリアに挑戦・極",
+    "Text": "",
+    "Enabled": false
+  },
+  "280091": {
+    "OriginalText": "Ｓランククリアに挑戦・真極",
+    "Text": "",
+    "Enabled": false
+  },
+  "280092": {
+    "OriginalText": "ラッピーに挑戦",
+    "Text": "",
+    "Enabled": false
+  },
+  "280093": {
+    "OriginalText": "フィルディア 予備枠 01",
+    "Text": "",
+    "Enabled": false
+  },
+  "280094": {
+    "OriginalText": "フィルディア 予備枠 02",
+    "Text": "",
+    "Enabled": false
+  },
+  "280095": {
+    "OriginalText": "フィルディア 予備枠 03",
+    "Text": "",
+    "Enabled": false
+  },
+  "280096": {
+    "OriginalText": "フィルディア 予備枠 04",
+    "Text": "",
+    "Enabled": false
+  },
+  "280097": {
+    "OriginalText": "フィルディア 予備枠 05",
+    "Text": "",
+    "Enabled": false
+  },
+  "280098": {
+    "OriginalText": "フィルディア 予備枠 06",
+    "Text": "",
+    "Enabled": false
+  },
+  "280099": {
+    "OriginalText": "フィルディア 予備枠 07",
+    "Text": "",
+    "Enabled": false
+  },
+  "280100": {
+    "OriginalText": "フィルディア 予備枠 08",
+    "Text": "",
+    "Enabled": false
+  },
+  "280101": {
+    "OriginalText": "フィルディア 予備枠 09",
+    "Text": "",
+    "Enabled": false
+  },
+  "280102": {
+    "OriginalText": "ダーカー研究",
+    "Text": "",
+    "Enabled": false
+  },
+  "280103": {
+    "OriginalText": "グラン研究",
+    "Text": "",
+    "Enabled": false
+  },
+  "280104": {
+    "OriginalText": "鉱石研究",
+    "Text": "",
+    "Enabled": false
+  },
+  "280105": {
+    "OriginalText": "原生種研究",
+    "Text": "",
+    "Enabled": false
+  },
+  "280106": {
+    "OriginalText": "植物研究",
+    "Text": "",
+    "Enabled": false
+  },
+  "280107": {
+    "OriginalText": "地質研究",
+    "Text": "",
+    "Enabled": false
+  },
+  "280108": {
+    "OriginalText": "ブーストエネミー研究",
+    "Text": "",
+    "Enabled": false
+  },
+  "280109": {
+    "OriginalText": "ギガンテス研究",
+    "Text": "",
+    "Enabled": false
+  },
+  "280110": {
+    "OriginalText": "ノヴァ研究α",
+    "Text": "",
+    "Enabled": false
+  },
+  "280111": {
+    "OriginalText": "ノヴァ研究β",
+    "Text": "",
+    "Enabled": false
+  },
+  "280112": {
+    "OriginalText": "★ギガンテスの武装研究",
+    "Text": "",
+    "Enabled": false
+  },
+  "280113": {
+    "OriginalText": "★ギガンテスの装甲研究",
+    "Text": "",
+    "Enabled": false
+  },
+  "280114": {
+    "OriginalText": "レイヴァン 予備枠 02",
+    "Text": "",
+    "Enabled": false
+  },
+  "280115": {
+    "OriginalText": "レイヴァン 予備枠 03",
+    "Text": "",
+    "Enabled": false
+  },
+  "280116": {
+    "OriginalText": "レイヴァン 予備枠 04",
+    "Text": "",
+    "Enabled": false
+  },
+  "280117": {
+    "OriginalText": "レイヴァン 予備枠 05",
+    "Text": "",
+    "Enabled": false
+  },
+  "280118": {
+    "OriginalText": "レイヴァン 予備枠 06",
+    "Text": "",
+    "Enabled": false
+  },
+  "280119": {
+    "OriginalText": "レイヴァン 予備枠 07",
+    "Text": "",
+    "Enabled": false
+  },
+  "280120": {
+    "OriginalText": "レイヴァン 予備枠 08",
+    "Text": "",
+    "Enabled": false
+  },
+  "280121": {
+    "OriginalText": "レイヴァン 予備枠 09",
+    "Text": "",
+    "Enabled": false
+  },
+  "280122": {
+    "OriginalText": "ギガンテスの甲片の入手",
+    "Text": "",
+    "Enabled": false
+  },
+  "280123": {
+    "OriginalText": "グラン器片の入手",
+    "Text": "",
+    "Enabled": false
+  },
+  "280124": {
+    "OriginalText": "爪片と殻片の入手",
+    "Text": "",
+    "Enabled": false
+  },
+  "280125": {
+    "OriginalText": "機械部品の入手",
+    "Text": "",
+    "Enabled": false
+  },
+  "280126": {
+    "OriginalText": "甲片の入手",
+    "Text": "",
+    "Enabled": false
+  },
+  "280127": {
+    "OriginalText": "原動機と刃片の入手",
+    "Text": "",
+    "Enabled": false
+  },
+  "280128": {
+    "OriginalText": "鋭ノコ刃の入手",
+    "Text": "",
+    "Enabled": false
+  },
+  "280129": {
+    "OriginalText": "硬骨格の入手",
+    "Text": "",
+    "Enabled": false
+  },
+  "280130": {
+    "OriginalText": "駆動機関の入手",
+    "Text": "",
+    "Enabled": false
+  },
+  "280131": {
+    "OriginalText": "大主砲の入手",
+    "Text": "",
+    "Enabled": false
+  },
+  "280132": {
+    "OriginalText": "多積層の銅板の入手",
+    "Text": "",
+    "Enabled": false
+  },
+  "280133": {
+    "OriginalText": "★赤い主砲の入手",
+    "Text": "",
+    "Enabled": false
+  },
+  "280134": {
+    "OriginalText": "★歯片の入手",
+    "Text": "",
+    "Enabled": false
+  },
+  "280135": {
+    "OriginalText": "カリスト 予備枠 04",
+    "Text": "",
+    "Enabled": false
+  },
+  "280136": {
+    "OriginalText": "カリスト 予備枠 05",
+    "Text": "",
+    "Enabled": false
+  },
+  "280137": {
+    "OriginalText": "カリスト 予備枠 06",
+    "Text": "",
+    "Enabled": false
+  },
+  "280138": {
+    "OriginalText": "カリスト 予備枠 07",
+    "Text": "",
+    "Enabled": false
+  },
+  "280139": {
+    "OriginalText": "カリスト 予備枠 08",
+    "Text": "",
+    "Enabled": false
+  },
+  "280140": {
+    "OriginalText": "カリスト 予備枠 09",
+    "Text": "",
+    "Enabled": false
+  },
+  "280141": {
+    "OriginalText": "カリスト 予備枠 10",
+    "Text": "",
+    "Enabled": false
+  },
+  "280142": {
+    "OriginalText": "ブーストエネミー撃破訓練",
+    "Text": "",
+    "Enabled": false
+  },
+  "280143": {
+    "OriginalText": "レアエネミー撃破訓練",
+    "Text": "",
+    "Enabled": false
+  },
+  "280144": {
+    "OriginalText": "メモリーフラグメントの入手１",
+    "Text": "",
+    "Enabled": false
+  },
+  "280145": {
+    "OriginalText": "レアエネミー討伐１",
+    "Text": "",
+    "Enabled": false
+  },
+  "280146": {
+    "OriginalText": "メモリーフラグメントの入手２",
+    "Text": "",
+    "Enabled": false
+  },
+  "280147": {
+    "OriginalText": "レアエネミー討伐２",
+    "Text": "",
+    "Enabled": false
+  },
+  "280148": {
+    "OriginalText": "メモリーフラグメントの入手３",
+    "Text": "",
+    "Enabled": false
+  },
+  "280149": {
+    "OriginalText": "レアエネミー討伐３",
+    "Text": "",
+    "Enabled": false
+  },
+  "280150": {
+    "OriginalText": "メモリーフラグメントの入手４",
+    "Text": "",
+    "Enabled": false
+  },
+  "280151": {
+    "OriginalText": "メモリーフラグメントの入手５",
+    "Text": "",
+    "Enabled": false
+  },
+  "280152": {
+    "OriginalText": "★虫脚の回収",
+    "Text": "",
+    "Enabled": false
+  },
+  "280153": {
+    "OriginalText": "★鉱石の回収",
+    "Text": "",
+    "Enabled": false
+  },
+  "280154": {
+    "OriginalText": "キサラ 予備枠 02",
+    "Text": "",
+    "Enabled": false
+  },
+  "280155": {
+    "OriginalText": "キサラ 予備枠 03",
+    "Text": "",
+    "Enabled": false
+  },
+  "280156": {
+    "OriginalText": "キサラ 予備枠 04",
+    "Text": "",
+    "Enabled": false
+  },
+  "280157": {
+    "OriginalText": "キサラ 予備枠 05",
+    "Text": "",
+    "Enabled": false
+  },
+  "280158": {
+    "OriginalText": "キサラ 予備枠 06",
+    "Text": "",
+    "Enabled": false
+  },
+  "280159": {
+    "OriginalText": "キサラ 予備枠 07",
+    "Text": "",
+    "Enabled": false
+  },
+  "280160": {
+    "OriginalText": "キサラ 予備枠 08",
+    "Text": "",
+    "Enabled": false
+  },
+  "280161": {
+    "OriginalText": "キサラ 予備枠 09",
+    "Text": "",
+    "Enabled": false
+  },
+  "280162": {
+    "OriginalText": "状態異常訓練",
+    "Text": "",
+    "Enabled": false
+  },
+  "280163": {
+    "OriginalText": "墨片の調達",
+    "Text": "",
+    "Enabled": false
+  },
+  "280164": {
+    "OriginalText": "針片の調達",
+    "Text": "",
+    "Enabled": false
+  },
+  "280165": {
+    "OriginalText": "状態異常の調査",
+    "Text": "",
+    "Enabled": false
+  },
+  "280166": {
+    "OriginalText": "苔の調達",
+    "Text": "",
+    "Enabled": false
+  },
+  "280167": {
+    "OriginalText": "感染症の調査",
+    "Text": "",
+    "Enabled": false
+  },
+  "280168": {
+    "OriginalText": "尻尾の調達",
+    "Text": "",
+    "Enabled": false
+  },
+  "280169": {
+    "OriginalText": "中毒症の調査",
+    "Text": "",
+    "Enabled": false
+  },
+  "280170": {
+    "OriginalText": "目玉の調達",
+    "Text": "",
+    "Enabled": false
+  },
+  "280171": {
+    "OriginalText": "鋭ドリルの調達",
+    "Text": "",
+    "Enabled": false
+  },
+  "280172": {
+    "OriginalText": "★目片の調達",
+    "Text": "",
+    "Enabled": false
+  },
+  "280173": {
+    "OriginalText": "★肉の調達",
+    "Text": "",
+    "Enabled": false
+  },
+  "280174": {
+    "OriginalText": "ルーティア 予備枠 02",
+    "Text": "",
+    "Enabled": false
+  },
+  "280175": {
+    "OriginalText": "ルーティア 予備枠 03",
+    "Text": "",
+    "Enabled": false
+  },
+  "280176": {
+    "OriginalText": "ルーティア 予備枠 04",
+    "Text": "",
+    "Enabled": false
+  },
+  "280177": {
+    "OriginalText": "ルーティア 予備枠 05",
+    "Text": "",
+    "Enabled": false
+  },
+  "280178": {
+    "OriginalText": "ルーティア 予備枠 06",
+    "Text": "",
+    "Enabled": false
+  },
+  "280179": {
+    "OriginalText": "ルーティア 予備枠 07",
+    "Text": "",
+    "Enabled": false
+  },
+  "280180": {
+    "OriginalText": "ルーティア 予備枠 08",
+    "Text": "",
+    "Enabled": false
+  },
+  "280181": {
+    "OriginalText": "ルーティア 予備枠 09",
+    "Text": "",
+    "Enabled": false
+  },
+  "280182": {
+    "OriginalText": "部位破壊訓練",
+    "Text": "",
+    "Enabled": false
+  },
+  "280183": {
+    "OriginalText": "鉱物の調達",
+    "Text": "",
+    "Enabled": false
+  },
+  "280184": {
+    "OriginalText": "銃片の調達",
+    "Text": "",
+    "Enabled": false
+  },
+  "280185": {
+    "OriginalText": "砲片と爪の調達",
+    "Text": "",
+    "Enabled": false
+  },
+  "280186": {
+    "OriginalText": "ギュゲンテの装甲の調達",
+    "Text": "",
+    "Enabled": false
+  },
+  "280187": {
+    "OriginalText": "機械生物の甲片の調達",
+    "Text": "",
+    "Enabled": false
+  },
+  "280188": {
+    "OriginalText": "金属の調達",
+    "Text": "",
+    "Enabled": false
+  },
+  "280189": {
+    "OriginalText": "鉄線の調達",
+    "Text": "",
+    "Enabled": false
+  },
+  "280190": {
+    "OriginalText": "盾素村の調達",
+    "Text": "",
+    "Enabled": false
+  },
+  "280191": {
+    "OriginalText": "大弾頭の調達",
+    "Text": "",
+    "Enabled": false
+  },
+  "280192": {
+    "OriginalText": "★爪片の調達",
+    "Text": "",
+    "Enabled": false
+  },
+  "280193": {
+    "OriginalText": "★硬砲身の調達",
+    "Text": "",
+    "Enabled": false
+  },
+  "280194": {
+    "OriginalText": "ヨミ 予備枠 03",
+    "Text": "",
+    "Enabled": false
+  },
+  "280195": {
+    "OriginalText": "ヨミ 予備枠 04",
+    "Text": "",
+    "Enabled": false
+  },
+  "280196": {
+    "OriginalText": "ヨミ 予備枠 05",
+    "Text": "",
+    "Enabled": false
+  },
+  "280197": {
+    "OriginalText": "ヨミ 予備枠 06",
+    "Text": "",
+    "Enabled": false
+  },
+  "280198": {
+    "OriginalText": "ヨミ 予備枠 07",
+    "Text": "",
+    "Enabled": false
+  },
+  "280199": {
+    "OriginalText": "ヨミ 予備枠 08",
+    "Text": "",
+    "Enabled": false
+  },
+  "280200": {
+    "OriginalText": "ヨミ 予備枠 09",
+    "Text": "",
+    "Enabled": false
+  },
+  "280201": {
+    "OriginalText": "ヨミ 予備枠 10",
+    "Text": "",
+    "Enabled": false
+  },
+  "280202": {
+    "OriginalText": "スキルボード拡張",
+    "Text": "",
+    "Enabled": false
+  },
+  "280203": {
+    "OriginalText": "スキルボード再拡張",
+    "Text": "",
+    "Enabled": false
+  },
+  "280204": {
+    "OriginalText": "シルブカーネベア撃破訓練",
+    "Text": "",
+    "Enabled": false
+  },
+  "280205": {
+    "OriginalText": "エネミー撃破訓練",
+    "Text": "",
+    "Enabled": false
+  },
+  "280206": {
+    "OriginalText": "クエストＡランク訓練",
+    "Text": "",
+    "Enabled": false
+  },
+  "280207": {
+    "OriginalText": "プレディカーダ撃破訓練",
+    "Text": "",
+    "Enabled": false
+  },
+  "280208": {
+    "OriginalText": "ギガンテス戦Ｓランク訓練",
+    "Text": "",
+    "Enabled": false
+  },
+  "280209": {
+    "OriginalText": "ギガンテス戦Ｓランク再訓練",
+    "Text": "",
+    "Enabled": false
+  },
+  "280210": {
+    "OriginalText": "バンサー撃破訓練",
+    "Text": "",
+    "Enabled": false
+  },
+  "280211": {
+    "OriginalText": "拠点防衛Ｓランク訓練",
+    "Text": "",
+    "Enabled": false
+  },
+  "280212": {
+    "OriginalText": "★脚の回収",
+    "Text": "",
+    "Enabled": false
+  },
+  "280213": {
+    "OriginalText": "★爪の回収",
+    "Text": "",
+    "Enabled": false
+  },
+  "280214": {
+    "OriginalText": "オルクス 予備枠 03",
+    "Text": "",
+    "Enabled": false
+  },
+  "280215": {
+    "OriginalText": "オルクス 予備枠 04",
+    "Text": "",
+    "Enabled": false
+  },
+  "280216": {
+    "OriginalText": "オルクス 予備枠 05",
+    "Text": "",
+    "Enabled": false
+  },
+  "280217": {
+    "OriginalText": "オルクス 予備枠 06",
+    "Text": "",
+    "Enabled": false
+  },
+  "280218": {
+    "OriginalText": "オルクス 予備枠 07",
+    "Text": "",
+    "Enabled": false
+  },
+  "280219": {
+    "OriginalText": "オルクス 予備枠 08",
+    "Text": "",
+    "Enabled": false
+  },
+  "280220": {
+    "OriginalText": "オルクス 予備枠 09",
+    "Text": "",
+    "Enabled": false
+  },
+  "280221": {
+    "OriginalText": "オルクス 予備枠 10",
+    "Text": "",
+    "Enabled": false
+  },
+  "280222": {
+    "OriginalText": "岩塩の調達",
+    "Text": "",
+    "Enabled": false
+  },
+  "280223": {
+    "OriginalText": "獣の肉の調達",
+    "Text": "",
+    "Enabled": false
+  },
+  "280224": {
+    "OriginalText": "爪片の調達",
+    "Text": "",
+    "Enabled": false
+  },
+  "280225": {
+    "OriginalText": "米と麦の調達",
+    "Text": "",
+    "Enabled": false
+  },
+  "280226": {
+    "OriginalText": "ダーカーの肉の調達",
+    "Text": "",
+    "Enabled": false
+  },
+  "280227": {
+    "OriginalText": "軟骨の調達",
+    "Text": "",
+    "Enabled": false
+  },
+  "280228": {
+    "OriginalText": "巨大な肉と魚肉の調達",
+    "Text": "",
+    "Enabled": false
+  },
+  "280229": {
+    "OriginalText": "大墨袋の調達",
+    "Text": "",
+    "Enabled": false
+  },
+  "280230": {
+    "OriginalText": "ミルクとたまごの調達",
+    "Text": "",
+    "Enabled": false
+  },
+  "280231": {
+    "OriginalText": "たまごの調達",
+    "Text": "",
+    "Enabled": false
+  },
+  "280232": {
+    "OriginalText": "赤い樹枝探し",
+    "Text": "",
+    "Enabled": false
+  },
+  "280233": {
+    "OriginalText": "★氷の調達",
+    "Text": "",
+    "Enabled": false
+  },
+  "280234": {
+    "OriginalText": "★刃片の調達",
+    "Text": "",
+    "Enabled": false
+  },
+  "280235": {
+    "OriginalText": "ヒュペリオン 予備枠 04",
+    "Text": "",
+    "Enabled": false
+  },
+  "280236": {
+    "OriginalText": "ヒュペリオン 予備枠 05",
+    "Text": "",
+    "Enabled": false
+  },
+  "280237": {
+    "OriginalText": "ヒュペリオン 予備枠 06",
+    "Text": "",
+    "Enabled": false
+  },
+  "280238": {
+    "OriginalText": "ヒュペリオン 予備枠 07",
+    "Text": "",
+    "Enabled": false
+  },
+  "280239": {
+    "OriginalText": "ヒュペリオン 予備枠 08",
+    "Text": "",
+    "Enabled": false
+  },
+  "280240": {
+    "OriginalText": "ヒュペリオン 予備枠 09",
+    "Text": "",
+    "Enabled": false
+  },
+  "280241": {
+    "OriginalText": "ヒュペリオン 予備枠 10",
+    "Text": "",
+    "Enabled": false
+  },
+  "280242": {
+    "OriginalText": "バスターの訓練",
+    "Text": "",
+    "Enabled": false
+  },
+  "280243": {
+    "OriginalText": "パイルの訓練",
+    "Text": "",
+    "Enabled": false
+  },
+  "280244": {
+    "OriginalText": "グランピースの調達１",
+    "Text": "",
+    "Enabled": false
+  },
+  "280245": {
+    "OriginalText": "甲羅の調達",
+    "Text": "",
+    "Enabled": false
+  },
+  "280246": {
+    "OriginalText": "グランピースの調達２",
+    "Text": "",
+    "Enabled": false
+  },
+  "280247": {
+    "OriginalText": "フレームの調達",
+    "Text": "",
+    "Enabled": false
+  },
+  "280248": {
+    "OriginalText": "浮遊装置の調達",
+    "Text": "",
+    "Enabled": false
+  },
+  "280249": {
+    "OriginalText": "最強ギガンテスのパーツの調達",
+    "Text": "",
+    "Enabled": false
+  },
+  "280250": {
+    "OriginalText": "★翼膜の回収",
+    "Text": "",
+    "Enabled": false
+  },
+  "280251": {
+    "OriginalText": "★ギガンテスパーツの調達",
+    "Text": "",
+    "Enabled": false
+  },
+  "280252": {
+    "OriginalText": "リングジェネレーター改良",
+    "Text": "",
+    "Enabled": false
+  },
+  "280253": {
+    "OriginalText": "属性グランピース研究",
+    "Text": "",
+    "Enabled": false
+  },
+  "280254": {
+    "OriginalText": "服の修理",
+    "Text": "",
+    "Enabled": false
+  },
+  "280255": {
+    "OriginalText": "シャロン 予備枠 01",
+    "Text": "",
+    "Enabled": false
+  },
+  "280256": {
+    "OriginalText": "シャロン 予備枠 02",
+    "Text": "",
+    "Enabled": false
+  },
+  "280257": {
+    "OriginalText": "シャロン 予備枠 03",
+    "Text": "",
+    "Enabled": false
+  },
+  "280258": {
+    "OriginalText": "シャロン 予備枠 04",
+    "Text": "",
+    "Enabled": false
+  },
+  "280259": {
+    "OriginalText": "シャロン 予備枠 05",
+    "Text": "",
+    "Enabled": false
+  },
+  "280260": {
+    "OriginalText": "シャロン 予備枠 06",
+    "Text": "",
+    "Enabled": false
+  },
+  "280261": {
+    "OriginalText": "シャロン 予備枠 07",
+    "Text": "",
+    "Enabled": false
+  },
+  "280262": {
+    "OriginalText": "クラスカウンター建設",
+    "Text": "",
+    "Enabled": false
+  },
+  "280263": {
+    "OriginalText": "食堂建設",
+    "Text": "",
+    "Enabled": false
+  },
+  "280264": {
+    "OriginalText": "武器ショップ建設",
+    "Text": "",
+    "Enabled": false
+  },
+  "280265": {
+    "OriginalText": "防具ショップ建設",
+    "Text": "",
+    "Enabled": false
+  },
+  "280266": {
+    "OriginalText": "アイテムショップ建設",
+    "Text": "",
+    "Enabled": false
+  },
+  "280267": {
+    "OriginalText": "コスチュームショップ建設",
+    "Text": "",
+    "Enabled": false
+  },
+  "280268": {
+    "OriginalText": "エステ建設",
+    "Text": "",
+    "Enabled": false
+  },
+  "280269": {
+    "OriginalText": "クラスカウンター改築",
+    "Text": "",
+    "Enabled": false
+  },
+  "280270": {
+    "OriginalText": "食堂改築",
+    "Text": "",
+    "Enabled": false
+  },
+  "280271": {
+    "OriginalText": "武器ショップ改築",
+    "Text": "",
+    "Enabled": false
+  },
+  "280272": {
+    "OriginalText": "防具ショップ改築",
+    "Text": "",
+    "Enabled": false
+  },
+  "280273": {
+    "OriginalText": "アイテムショップ改築",
+    "Text": "",
+    "Enabled": false
+  },
+  "280274": {
+    "OriginalText": "コスチュームショップ改築",
+    "Text": "",
+    "Enabled": false
+  },
+  "280275": {
+    "OriginalText": "エステ改築",
+    "Text": "",
+    "Enabled": false
+  },
+  "280276": {
+    "OriginalText": "フィルディアのお願い 予備枠 01",
+    "Text": "",
+    "Enabled": false
+  },
+  "280277": {
+    "OriginalText": "フィルディアのお願い 予備枠 02",
+    "Text": "",
+    "Enabled": false
+  },
+  "280278": {
+    "OriginalText": "フィルディアのお願い 予備枠 03",
+    "Text": "",
+    "Enabled": false
+  },
+  "280279": {
+    "OriginalText": "フィルディアのお願い 予備枠 04",
+    "Text": "",
+    "Enabled": false
+  },
+  "280280": {
+    "OriginalText": "フィルディアのお願い 予備枠 05",
+    "Text": "",
+    "Enabled": false
+  },
+  "280281": {
+    "OriginalText": "フィルディアのお願い 予備枠 06",
+    "Text": "",
+    "Enabled": false
+  },
