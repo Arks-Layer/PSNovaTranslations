@@ -160,8 +160,8 @@
   },
   "290032": {
     "OriginalText": "ソードだけでディートアスを撃破。お前ならできる！\n[a 06]『ソード』\n近接武器としてはリーチが長くクセも少なく、\n戦闘の基本を覚えるのに適している。[b]\n[a 03]※ソード系で撃破が必要 この約束は一回のみ[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "Go defeat a Ditoas with a sword, you can do it!\n[a 06][Sword]\nHas a long reach for a weapon.\nIt's perfect for learning the basics of combat.\n[a 03]※Swords only[b]",
+    "Enabled": true
   },
   "290033": {
     "OriginalText": "パルチザンだけでディートアスを倒してみようぜ。\n[a 06]『パルチザン』\n高速かつ豪快に敵を薙ぎ払う打撃武器。\nスキのない攻撃を得意とする。[b]\n[a 03]※パルチザン系で撃破が必要 この約束は一回のみ[b]",
@@ -1225,8 +1225,8 @@
   },
   "290245": {
     "OriginalText": "グランブの甲羅を２つほど調達をお願いします。\nグランの弾丸を射出するメカニズムが何かに\n使えるかもしれません。\n研究を進めるためによろしくお願いします。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I need you to procure a Granb Carapace.\nWe can use the bullet mechanism\nas a way to inject Gran for research.\nThank you in advance.",
+    "Enabled": true
   },
   "290246": {
     "OriginalText": "グランピースの入手をお願い出来ますか？\n光属性の物と闇属性の物と、\nそれぞれ３つずつ必要なんです。",
