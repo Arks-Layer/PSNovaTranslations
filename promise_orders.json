@@ -20,8 +20,8 @@
   },
   "280004": {
     "OriginalText": "鳥の皮片を調達しよう",
-    "Text": "",
-    "Enabled": false
+    "Text": "Procuring Bird Pelts",
+    "Enabled": true
   },
   "280005": {
     "OriginalText": "ヒレ片を調達しよう",
@@ -545,7 +545,7 @@
   },
   "280109": {
     "OriginalText": "ギガンテス研究",
-    "Text": "Researching Gigantes",
+    "Text": "Gigantes Research",
     "Enabled": true
   },
   "280110": {
