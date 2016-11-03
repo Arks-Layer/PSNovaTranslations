@@ -1325,8 +1325,8 @@
   },
   "21213": {
     "OriginalText": "依頼者より",
-    "Text": "",
-    "Enabled": false
+    "Text": "Requester",
+    "Enabled": true
   },
   "21214": {
     "OriginalText": "のプロミスオーダー",

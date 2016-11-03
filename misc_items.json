@@ -729,7 +729,8 @@
   },
   "350163": {
     "OriginalText": "ギガンテスのグラン器片",
-    "Text": ""
+    "Text": "Gran-infused Organ of Gigantes",
+	"Enabled": true
   },
   "350164": {
     "OriginalText": "鳥の羽毛",
@@ -1841,7 +1842,8 @@
   },
   "350431": {
     "OriginalText": "機械生物の硬骨格",
-    "Text": ""
+    "Text": "Hard Biomechanical Frame",
+	"Enabled": true
   },
   "350432": {
     "OriginalText": "機械生物の爪",
