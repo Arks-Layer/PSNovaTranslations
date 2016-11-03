@@ -1,3 +1,53 @@
+  "10601": {
+    "OriginalText": "他人",
+    "Text": "Distant",
+    "Enabled": true
+  },
+  "10602": {
+    "OriginalText": "知人",
+    "Text": "Neutral",
+    "Enabled": true
+  },
+  "10603": {
+    "OriginalText": "友人",
+    "Text": "Friend",
+    "Enabled": true
+  },
+  "10604": {
+    "OriginalText": "仲間",
+    "Text": "Friend",
+    "Enabled": true
+  },
+  "10605": {
+    "OriginalText": "親友",
+    "Text": "Good\nFriend",
+    "Enabled": true
+  },
+  "10606": {
+    "OriginalText": "親友",
+    "Text": "Good\nFriend",
+    "Enabled": true
+  },
+  "10607": {
+    "OriginalText": "悪友",
+    "Text": "Hate",
+    "Enabled": true
+  },
+  "10608": {
+    "OriginalText": "腐緑",
+    "Text": "Detest",
+    "Enabled": true
+  },
+  "10609": {
+    "OriginalText": "戦友",
+    "Text": "Comrade",
+    "Enabled": true
+  },
+  "10610": {
+    "OriginalText": "相棒",
+    "Text": "Partner",
+    "Enabled": true
+  },
   "160000": {
     "OriginalText": "なし",
     "Text": "None",
@@ -175,7 +225,7 @@
   },
   "160035": {
     "OriginalText": "アイテム回復量",
-    "Text": "Recovery Item Amount",
+    "Text": "Heal Item Yield",
     "Enabled": true
   },
   "160036": {
