@@ -5,8 +5,8 @@
   },
   "810001": {
     "OriginalText": "デルタ・ヴァリアントが墜落した\nフォトンのない惑星・マキア。\nルティナと先遣隊の救援に\n向かう中で、ユノと名乗る少女から、\n『グラン』を授かる。\n\n一方、新艦長フィルディアは\nクルーの大半をコールド\nスリープさせ、ルティナ達に\nブリッジへの出頭を命じる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Delta Valiant has crashed onto a \nphoton-free planet, Makia. \nTo Rutina's and the advancement team's relief, \na girl named Juno has bestowed [Gran] upon them. \n\nOn the other hand, Fildia became the \nnew captain for most of the cold sleep crew \nand gives orders to everyone from the ship's bridge",
+    "Enabled": true
   },
   "810002": {
     "OriginalText": "グランについての報告を進める中、\nユノの話に興味を示したレイヴァン\n副長にユノの立体映像を投影した\n宝石を預ける。\n\nフィルディア艦長より、先遣隊の\n生存者捜索を命じられ、\nルティナは不安を口にするが、\n気を取り直してクエストに向かう。",
