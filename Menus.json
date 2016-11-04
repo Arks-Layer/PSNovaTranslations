@@ -3936,7 +3936,7 @@
   },
   "25000": {
     "OriginalText": "村料とコアを倉庫に預ける",
-    "Text": "Deposit All Mats and Cores",
+    "Text": "Deposit All Materials and Cores",
     "Enabled": true
   },
   "25001": {
@@ -3961,13 +3961,13 @@
   },
   "25005": {
     "OriginalText": "入手した村料を自動的に倉庫に送る",
-    "Text": "",
-    "Enabled": false
+    "Text": "Automatically Send Materials to Storage",
+    "Enabled": true
   },
   "25006": {
     "OriginalText": "入手したコアを自動的に倉庫に送る",
-    "Text": "",
-    "Enabled": false
+    "Text": "Automatically Send Cores to Storage",
+    "Enabled": true
   },
   "25007": {
     "OriginalText": "手動",
@@ -3976,7 +3976,7 @@
   },
   "25008": {
     "OriginalText": "自動",
-    "Text": "Automatic",
+    "Text": "Auto",
     "Enabled": true
   },
   "25009": {
