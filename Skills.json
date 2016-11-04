@@ -1142,7 +1142,7 @@
   "50260": {
     "OriginalText": "Ｄセイバー・マスタリーⅡ",
     "Text": "Double Saber Mastery II",
-    "Enabled": false
+    "Enabled": true
   },
   "50261": {
     "OriginalText": "ナックル・マスタリーⅡ",
@@ -1167,7 +1167,7 @@
   "50265": {
     "OriginalText": "タリス・マスタリーⅡ",
     "Text": "Talis Mastery II",
-    "Enabled": false
+    "Enabled": true
   },
   "50266": {
     "OriginalText": "ウォンド・マスタリーⅡ",
