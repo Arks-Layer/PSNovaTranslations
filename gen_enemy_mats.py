@@ -46,13 +46,13 @@ def LoadEnemies(fname):
       "鳥":       "Bird"
    }
 
-   j = json.loads("{" + open(fname, "r").read()[:-2] + "}")
+   j = json.load(open(fname, "r"))
 
    for code in j:
    #{
       obj = j[code]
 
-      if "Text" in obj and "Enabled" in obj:
+      if "Text" in obj and "Enabled" in obj and obj["Enabled"]:
          ret[obj["OriginalText"]] = obj["Text"]
    #}
 
@@ -138,10 +138,10 @@ def ProcFile(fp, out, enemies, items):
 ##
 def Main():
 #{
-   enemies = LoadEnemies("enemies.json")
+   enemies = LoadEnemies("Enemies.json")
 
-   with open("misc_items.json", "r", newline = "") as fp:
-      with open("misc_items.json.1", "w", newline = "") as out:
+   with open("Materials.json", "r", newline = "") as fp:
+      with open("Materials.json.1", "w", newline = "") as out:
          ProcFile(fp, out, enemies,
          {
             "甲殻":   "Shell",
@@ -165,8 +165,8 @@ def Main():
             "ミルク": "Milk"
          })
 
-   with open("enemy_cores.json", "r", newline = "") as fp:
-      with open("enemy_cores.json.1", "w", newline = "") as out:
+   with open("Enemy Cores.json", "r", newline = "") as fp:
+      with open("Enemy Cores.json.1", "w", newline = "") as out:
          ProcFile(fp, out, enemies, { "・コア": "Core" })
 #}
 

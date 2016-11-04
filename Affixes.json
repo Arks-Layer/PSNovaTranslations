@@ -1,0 +1,1987 @@
+{
+  "150000": {
+    "OriginalText": "なし",
+    "Text": "None",
+    "Enabled": true
+  },
+  "150001": {
+    "OriginalText": "パワーⅠ",
+    "Text": "Power I",
+    "Enabled": true
+  },
+  "150002": {
+    "OriginalText": "パワーⅡ",
+    "Text": "Power II",
+    "Enabled": true
+  },
+  "150003": {
+    "OriginalText": "パワーⅢ",
+    "Text": "Power III",
+    "Enabled": true
+  },
+  "150004": {
+    "OriginalText": "パワーⅣ",
+    "Text": "Power IV",
+    "Enabled": true
+  },
+  "150005": {
+    "OriginalText": "パワーⅤ",
+    "Text": "Power V",
+    "Enabled": true
+  },
+  "150006": {
+    "OriginalText": "シュートⅠ",
+    "Text": "Shoot I",
+    "Enabled": true
+  },
+  "150007": {
+    "OriginalText": "シュートⅡ",
+    "Text": "Shoot II",
+    "Enabled": true
+  },
+  "150008": {
+    "OriginalText": "シュートⅢ",
+    "Text": "Shoot III",
+    "Enabled": true
+  },
+  "150009": {
+    "OriginalText": "シュートⅣ",
+    "Text": "Shoot IV",
+    "Enabled": true
+  },
+  "150010": {
+    "OriginalText": "シュートⅤ",
+    "Text": "Shoot V",
+    "Enabled": true
+  },
+  "150011": {
+    "OriginalText": "テクニックⅠ",
+    "Text": "Tech I",
+    "Enabled": true
+  },
+  "150012": {
+    "OriginalText": "テクニックⅡ",
+    "Text": "Tech II",
+    "Enabled": true
+  },
+  "150013": {
+    "OriginalText": "テクニックⅢ",
+    "Text": "Tech III",
+    "Enabled": true
+  },
+  "150014": {
+    "OriginalText": "テクニックⅣ",
+    "Text": "Tech IV",
+    "Enabled": true
+  },
+  "150015": {
+    "OriginalText": "テクニックⅤ",
+    "Text": "Tech V",
+    "Enabled": true
+  },
+  "150016": {
+    "OriginalText": "スタミナⅠ",
+    "Text": "Stamina I",
+    "Enabled": true
+  },
+  "150017": {
+    "OriginalText": "スタミナⅡ",
+    "Text": "Stamina II",
+    "Enabled": true
+  },
+  "150018": {
+    "OriginalText": "スタミナⅢ",
+    "Text": "Stamina III",
+    "Enabled": true
+  },
+  "150019": {
+    "OriginalText": "スタミナⅣ",
+    "Text": "Stamina IV",
+    "Enabled": true
+  },
+  "150020": {
+    "OriginalText": "スタミナⅤ",
+    "Text": "Stamina V",
+    "Enabled": true
+  },
+  "150021": {
+    "OriginalText": "スピリタⅠ",
+    "Text": "Spirita I",
+    "Enabled": true
+  },
+  "150022": {
+    "OriginalText": "スピリタⅡ",
+    "Text": "Spirita II",
+    "Enabled": true
+  },
+  "150023": {
+    "OriginalText": "スピリタⅢ",
+    "Text": "Spirita III",
+    "Enabled": true
+  },
+  "150024": {
+    "OriginalText": "スピリタⅣ",
+    "Text": "Spirita IV",
+    "Enabled": true
+  },
+  "150025": {
+    "OriginalText": "スピリタⅤ",
+    "Text": "Spirita V",
+    "Enabled": true
+  },
+  "150026": {
+    "OriginalText": "アームⅠ",
+    "Text": "Arm I",
+    "Enabled": true
+  },
+  "150027": {
+    "OriginalText": "アームⅡ",
+    "Text": "Arm II",
+    "Enabled": true
+  },
+  "150028": {
+    "OriginalText": "アームⅢ",
+    "Text": "Arm III",
+    "Enabled": true
+  },
+  "150029": {
+    "OriginalText": "アームⅣ",
+    "Text": "Arm IV",
+    "Enabled": true
+  },
+  "150030": {
+    "OriginalText": "アームⅤ",
+    "Text": "Arm V",
+    "Enabled": true
+  },
+  "150031": {
+    "OriginalText": "スタミナ・ブースト",
+    "Text": "Stamina Boost",
+    "Enabled": true
+  },
+  "150032": {
+    "OriginalText": "スピリタ・ブースト",
+    "Text": "Spirita Boost",
+    "Enabled": true
+  },
+  "150033": {
+    "OriginalText": "ミューテーションⅠ",
+    "Text": "Mutation I",
+    "Enabled": true
+  },
+  "150034": {
+    "OriginalText": "アビリティⅠ",
+    "Text": "Ability I",
+    "Enabled": true
+  },
+  "150035": {
+    "OriginalText": "アビリティⅡ",
+    "Text": "Ability II",
+    "Enabled": true
+  },
+  "150036": {
+    "OriginalText": "アビリティⅢ",
+    "Text": "Ability III",
+    "Enabled": true
+  },
+  "150037": {
+    "OriginalText": "アビリティⅣ",
+    "Text": "Ability IV",
+    "Enabled": true
+  },
+  "150038": {
+    "OriginalText": "アビリティⅤ",
+    "Text": "Ability V",
+    "Enabled": true
+  },
+  "150039": {
+    "OriginalText": "ボディⅠ",
+    "Text": "Body I",
+    "Enabled": true
+  },
+  "150040": {
+    "OriginalText": "ボディⅡ",
+    "Text": "Body II",
+    "Enabled": true
+  },
+  "150041": {
+    "OriginalText": "ボディⅢ",
+    "Text": "Body III",
+    "Enabled": true
+  },
+  "150042": {
+    "OriginalText": "ボディⅣ",
+    "Text": "Body IV",
+    "Enabled": true
+  },
+  "150043": {
+    "OriginalText": "ボディⅤ",
+    "Text": "Body V",
+    "Enabled": true
+  },
+  "150044": {
+    "OriginalText": "リアクトⅠ",
+    "Text": "React I",
+    "Enabled": true
+  },
+  "150045": {
+    "OriginalText": "リアクトⅡ",
+    "Text": "React II",
+    "Enabled": true
+  },
+  "150046": {
+    "OriginalText": "リアクトⅢ",
+    "Text": "React III",
+    "Enabled": true
+  },
+  "150047": {
+    "OriginalText": "リアクトⅣ",
+    "Text": "React IV",
+    "Enabled": true
+  },
+  "150048": {
+    "OriginalText": "リアクトⅤ",
+    "Text": "React V",
+    "Enabled": true
+  },
+  "150049": {
+    "OriginalText": "マインドⅠ",
+    "Text": "Mind I",
+    "Enabled": true
+  },
+  "150050": {
+    "OriginalText": "マインドⅡ",
+    "Text": "Mind II",
+    "Enabled": true
+  },
+  "150051": {
+    "OriginalText": "マインドⅢ",
+    "Text": "Mind III",
+    "Enabled": true
+  },
+  "150052": {
+    "OriginalText": "マインドⅣ",
+    "Text": "Mind IV",
+    "Enabled": true
+  },
+  "150053": {
+    "OriginalText": "マインドⅤ",
+    "Text": "Mind V",
+    "Enabled": true
+  },
+  "150054": {
+    "OriginalText": "ブロウレジストⅠ",
+    "Text": "Blow Resist I",
+    "Enabled": true
+  },
+  "150055": {
+    "OriginalText": "ブロウレジストⅡ",
+    "Text": "Blow Resist II",
+    "Enabled": true
+  },
+  "150056": {
+    "OriginalText": "ブロウレジストⅢ",
+    "Text": "Blow Resist III",
+    "Enabled": true
+  },
+  "150057": {
+    "OriginalText": "ブロウレジストⅣ",
+    "Text": "Blow Resist IV",
+    "Enabled": true
+  },
+  "150058": {
+    "OriginalText": "ブロウレジストⅤ",
+    "Text": "Blow Resist V",
+    "Enabled": true
+  },
+  "150059": {
+    "OriginalText": "ショットレジストⅠ",
+    "Text": "Shot Resist I",
+    "Enabled": true
+  },
+  "150060": {
+    "OriginalText": "ショットレジストⅡ",
+    "Text": "Shot Resist II",
+    "Enabled": true
+  },
+  "150061": {
+    "OriginalText": "ショットレジストⅢ",
+    "Text": "Shot Resist III",
+    "Enabled": true
+  },
+  "150062": {
+    "OriginalText": "ショットレジストⅣ",
+    "Text": "Shot Resist IV",
+    "Enabled": true
+  },
+  "150063": {
+    "OriginalText": "ショットレジストⅤ",
+    "Text": "Shot Resist V",
+    "Enabled": true
+  },
+  "150064": {
+    "OriginalText": "マインドレジストⅠ",
+    "Text": "Mind Resist I",
+    "Enabled": true
+  },
+  "150065": {
+    "OriginalText": "マインドレジストⅡ",
+    "Text": "Mind Resist II",
+    "Enabled": true
+  },
+  "150066": {
+    "OriginalText": "マインドレジストⅢ",
+    "Text": "Mind Resist III",
+    "Enabled": true
+  },
+  "150067": {
+    "OriginalText": "マインドレジストⅣ",
+    "Text": "Mind Resist IV",
+    "Enabled": true
+  },
+  "150068": {
+    "OriginalText": "マインドレジストⅤ",
+    "Text": "Mind Resist V",
+    "Enabled": true
+  },
+  "150069": {
+    "OriginalText": "フレイムⅠ",
+    "Text": "Flame I",
+    "Enabled": true
+  },
+  "150070": {
+    "OriginalText": "フレイムⅡ",
+    "Text": "Flame II",
+    "Enabled": true
+  },
+  "150071": {
+    "OriginalText": "フレイムⅢ",
+    "Text": "Flame III",
+    "Enabled": true
+  },
+  "150072": {
+    "OriginalText": "フレイムⅣ",
+    "Text": "Flame IV",
+    "Enabled": true
+  },
+  "150073": {
+    "OriginalText": "フレイムⅤ",
+    "Text": "Flame V",
+    "Enabled": true
+  },
+  "150074": {
+    "OriginalText": "アイスⅠ",
+    "Text": "Ice I",
+    "Enabled": true
+  },
+  "150075": {
+    "OriginalText": "アイスⅡ",
+    "Text": "Ice II",
+    "Enabled": true
+  },
+  "150076": {
+    "OriginalText": "アイスⅢ",
+    "Text": "Ice III",
+    "Enabled": true
+  },
+  "150077": {
+    "OriginalText": "アイスⅣ",
+    "Text": "Ice IV",
+    "Enabled": true
+  },
+  "150078": {
+    "OriginalText": "アイスⅤ",
+    "Text": "Ice V",
+    "Enabled": true
+  },
+  "150079": {
+    "OriginalText": "ショックⅠ",
+    "Text": "Shock I",
+    "Enabled": true
+  },
+  "150080": {
+    "OriginalText": "ショックⅡ",
+    "Text": "Shock II",
+    "Enabled": true
+  },
+  "150081": {
+    "OriginalText": "ショックⅢ",
+    "Text": "Shock III",
+    "Enabled": true
+  },
+  "150082": {
+    "OriginalText": "ショックⅣ",
+    "Text": "Shock IV",
+    "Enabled": true
+  },
+  "150083": {
+    "OriginalText": "ショックⅤ",
+    "Text": "Shock V",
+    "Enabled": true
+  },
+  "150084": {
+    "OriginalText": "ウィンドⅠ",
+    "Text": "Wind I",
+    "Enabled": true
+  },
+  "150085": {
+    "OriginalText": "ウィンドⅡ",
+    "Text": "Wind II",
+    "Enabled": true
+  },
+  "150086": {
+    "OriginalText": "ウィンドⅢ",
+    "Text": "Wind III",
+    "Enabled": true
+  },
+  "150087": {
+    "OriginalText": "ウィンドⅣ",
+    "Text": "Wind IV",
+    "Enabled": true
+  },
+  "150088": {
+    "OriginalText": "ウィンドⅤ",
+    "Text": "Wind V",
+    "Enabled": true
+  },
+  "150089": {
+    "OriginalText": "ライトⅠ",
+    "Text": "Light I",
+    "Enabled": true
+  },
+  "150090": {
+    "OriginalText": "ライトⅡ",
+    "Text": "Light II",
+    "Enabled": true
+  },
+  "150091": {
+    "OriginalText": "ライトⅢ",
+    "Text": "Light III",
+    "Enabled": true
+  },
+  "150092": {
+    "OriginalText": "ライトⅣ",
+    "Text": "Light IV",
+    "Enabled": true
+  },
+  "150093": {
+    "OriginalText": "ライトⅤ",
+    "Text": "Light V",
+    "Enabled": true
+  },
+  "150094": {
+    "OriginalText": "グルームⅠ",
+    "Text": "Gloom I",
+    "Enabled": true
+  },
+  "150095": {
+    "OriginalText": "グルームⅡ",
+    "Text": "Gloom II",
+    "Enabled": true
+  },
+  "150096": {
+    "OriginalText": "グルームⅢ",
+    "Text": "Gloom III",
+    "Enabled": true
+  },
+  "150097": {
+    "OriginalText": "グルームⅣ",
+    "Text": "Gloom IV",
+    "Enabled": true
+  },
+  "150098": {
+    "OriginalText": "グルームⅤ",
+    "Text": "Gloom V",
+    "Enabled": true
+  },
+  "150099": {
+    "OriginalText": "フレイムレジストⅠ",
+    "Text": "Flame Resist I",
+    "Enabled": true
+  },
+  "150100": {
+    "OriginalText": "フレイムレジストⅡ",
+    "Text": "Flame Resist II",
+    "Enabled": true
+  },
+  "150101": {
+    "OriginalText": "フレイムレジストⅢ",
+    "Text": "Flame Resist III",
+    "Enabled": true
+  },
+  "150102": {
+    "OriginalText": "フレイムレジストⅣ",
+    "Text": "Flame Resist IV",
+    "Enabled": true
+  },
+  "150103": {
+    "OriginalText": "フレイムレジストⅤ",
+    "Text": "Flame Resist V",
+    "Enabled": true
+  },
+  "150104": {
+    "OriginalText": "アイスレジストⅠ",
+    "Text": "Ice Resist I",
+    "Enabled": true
+  },
+  "150105": {
+    "OriginalText": "アイスレジストⅡ",
+    "Text": "Ice Resist II",
+    "Enabled": true
+  },
+  "150106": {
+    "OriginalText": "アイスレジストⅢ",
+    "Text": "Ice Resist III",
+    "Enabled": true
+  },
+  "150107": {
+    "OriginalText": "アイスレジストⅣ",
+    "Text": "Ice Resist IV",
+    "Enabled": true
+  },
+  "150108": {
+    "OriginalText": "アイスレジストⅤ",
+    "Text": "Ice Resist V",
+    "Enabled": true
+  },
+  "150109": {
+    "OriginalText": "ショックレジストⅠ",
+    "Text": "Shock Resist I",
+    "Enabled": true
+  },
+  "150110": {
+    "OriginalText": "ショックレジストⅡ",
+    "Text": "Shock Resist II",
+    "Enabled": true
+  },
+  "150111": {
+    "OriginalText": "ショックレジストⅢ",
+    "Text": "Shock Resist III",
+    "Enabled": true
+  },
+  "150112": {
+    "OriginalText": "ショックレジストⅣ",
+    "Text": "Shock Resist IV",
+    "Enabled": true
+  },
+  "150113": {
+    "OriginalText": "ショックレジストⅤ",
+    "Text": "Shock Resist V",
+    "Enabled": true
+  },
+  "150114": {
+    "OriginalText": "ウィンドレジストⅠ",
+    "Text": "Wind Resist I",
+    "Enabled": true
+  },
+  "150115": {
+    "OriginalText": "ウィンドレジストⅡ",
+    "Text": "Wind Resist II",
+    "Enabled": true
+  },
+  "150116": {
+    "OriginalText": "ウィンドレジストⅢ",
+    "Text": "Wind Resist III",
+    "Enabled": true
+  },
+  "150117": {
+    "OriginalText": "ウィンドレジストⅣ",
+    "Text": "Wind Resist IV",
+    "Enabled": true
+  },
+  "150118": {
+    "OriginalText": "ウィンドレジストⅤ",
+    "Text": "Wind Resist V",
+    "Enabled": true
+  },
+  "150119": {
+    "OriginalText": "ライトレジストⅠ",
+    "Text": "Light Resist I",
+    "Enabled": true
+  },
+  "150120": {
+    "OriginalText": "ライトレジストⅡ",
+    "Text": "Light Resist II",
+    "Enabled": true
+  },
+  "150121": {
+    "OriginalText": "ライトレジストⅢ",
+    "Text": "Light Resist III",
+    "Enabled": true
+  },
+  "150122": {
+    "OriginalText": "ライトレジストⅣ",
+    "Text": "Light Resist IV",
+    "Enabled": true
+  },
+  "150123": {
+    "OriginalText": "ライトレジストⅤ",
+    "Text": "Light Resist V",
+    "Enabled": true
+  },
+  "150124": {
+    "OriginalText": "グルームレジストⅠ",
+    "Text": "Gloom Resist I",
+    "Enabled": true
+  },
+  "150125": {
+    "OriginalText": "グルームレジストⅡ",
+    "Text": "Gloom Resist II",
+    "Enabled": true
+  },
+  "150126": {
+    "OriginalText": "グルームレジストⅢ",
+    "Text": "Gloom Resist III",
+    "Enabled": true
+  },
+  "150127": {
+    "OriginalText": "グルームレジストⅣ",
+    "Text": "Gloom Resist IV",
+    "Enabled": true
+  },
+  "150128": {
+    "OriginalText": "グルームレジストⅤ",
+    "Text": "Gloom Resist V",
+    "Enabled": true
+  },
+  "150129": {
+    "OriginalText": "オールレジストⅠ",
+    "Text": "All Resist I",
+    "Enabled": true
+  },
+  "150130": {
+    "OriginalText": "オールレジストⅡ",
+    "Text": "All Resist II",
+    "Enabled": true
+  },
+  "150131": {
+    "OriginalText": "オールレジストⅢ",
+    "Text": "All Resist III",
+    "Enabled": true
+  },
+  "150132": {
+    "OriginalText": "オールレジストⅣ",
+    "Text": "All Resist IV",
+    "Enabled": true
+  },
+  "150133": {
+    "OriginalText": "オールレジストⅤ",
+    "Text": "All Resist V",
+    "Enabled": true
+  },
+  "150134": {
+    "OriginalText": "ラッキーライズⅠ",
+    "Text": "Lucky Rise I",
+    "Enabled": true
+  },
+  "150135": {
+    "OriginalText": "テンプテーション",
+    "Text": "Temptation",
+    "Enabled": true
+  },
+  "150136": {
+    "OriginalText": "ＥＸＰブースト",
+    "Text": "EXP Boost",
+    "Enabled": true
+  },
+  "150137": {
+    "OriginalText": "アナザーヒストリー",
+    "Text": "Another History",
+    "Enabled": true
+  },
+  "150138": {
+    "OriginalText": "バインドⅠ",
+    "Text": "Bind I",
+    "Enabled": true
+  },
+  "150139": {
+    "OriginalText": "バインドⅡ",
+    "Text": "Bind II",
+    "Enabled": true
+  },
+  "150140": {
+    "OriginalText": "バインドⅢ",
+    "Text": "Bind III",
+    "Enabled": true
+  },
+  "150141": {
+    "OriginalText": "バインドⅣ",
+    "Text": "Bind IV",
+    "Enabled": true
+  },
+  "150142": {
+    "OriginalText": "バインドⅤ",
+    "Text": "Bind V",
+    "Enabled": true
+  },
+  "150143": {
+    "OriginalText": "インフェクションⅠ",
+    "Text": "Infection I",
+    "Enabled": true
+  },
+  "150144": {
+    "OriginalText": "インフェクションⅡ",
+    "Text": "Infection II",
+    "Enabled": true
+  },
+  "150145": {
+    "OriginalText": "インフェクションⅢ",
+    "Text": "Infection III",
+    "Enabled": true
+  },
+  "150146": {
+    "OriginalText": "インフェクションⅣ",
+    "Text": "Infection IV",
+    "Enabled": true
+  },
+  "150147": {
+    "OriginalText": "インフェクションⅤ",
+    "Text": "Infection V",
+    "Enabled": true
+  },
+  "150148": {
+    "OriginalText": "ブラインドⅠ",
+    "Text": "Blind I",
+    "Enabled": true
+  },
+  "150149": {
+    "OriginalText": "ブラインドⅡ",
+    "Text": "Blind II",
+    "Enabled": true
+  },
+  "150150": {
+    "OriginalText": "ブラインドⅢ",
+    "Text": "Blind III",
+    "Enabled": true
+  },
+  "150151": {
+    "OriginalText": "ブラインドⅣ",
+    "Text": "Blind IV",
+    "Enabled": true
+  },
+  "150152": {
+    "OriginalText": "ブラインドⅤ",
+    "Text": "Blind V",
+    "Enabled": true
+  },
+  "150153": {
+    "OriginalText": "グラン中毒Ⅰ",
+    "Text": "Gran Poisoning I",
+    "Enabled": true
+  },
+  "150154": {
+    "OriginalText": "グラン中毒Ⅱ",
+    "Text": "Gran Poisoning II",
+    "Enabled": true
+  },
+  "150155": {
+    "OriginalText": "グラン中毒Ⅲ",
+    "Text": "Gran Poisoning III",
+    "Enabled": true
+  },
+  "150156": {
+    "OriginalText": "グラン中毒Ⅳ",
+    "Text": "Gran Poisoning IV",
+    "Enabled": true
+  },
+  "150157": {
+    "OriginalText": "グラン中毒Ⅴ",
+    "Text": "Gran Poisoning V",
+    "Enabled": true
+  },
+  "150158": {
+    "OriginalText": "炎属性ダウンⅠ",
+    "Text": "Flame Resist Down I",
+    "Enabled": true
+  },
+  "150159": {
+    "OriginalText": "炎属性ダウンⅡ",
+    "Text": "Flame Resist Down II",
+    "Enabled": true
+  },
+  "150160": {
+    "OriginalText": "炎属性ダウンⅢ",
+    "Text": "Flame Resist Down III",
+    "Enabled": true
+  },
+  "150161": {
+    "OriginalText": "炎属性ダウンⅣ",
+    "Text": "Flame Resist Down IV",
+    "Enabled": true
+  },
+  "150162": {
+    "OriginalText": "炎属性ダウンⅤ",
+    "Text": "Flame Resist Down V",
+    "Enabled": true
+  },
+  "150163": {
+    "OriginalText": "劇属性ダウンⅠ",
+    "Text": "Ice Resist Down I",
+    "Enabled": true
+  },
+  "150164": {
+    "OriginalText": "劇属性ダウンⅡ",
+    "Text": "Ice Resist Down II",
+    "Enabled": true
+  },
+  "150165": {
+    "OriginalText": "劇属性ダウンⅢ",
+    "Text": "Ice Resist Down III",
+    "Enabled": true
+  },
+  "150166": {
+    "OriginalText": "劇属性ダウンⅣ",
+    "Text": "Ice Resist Down IV",
+    "Enabled": true
+  },
+  "150167": {
+    "OriginalText": "劇属性ダウンⅤ",
+    "Text": "Ice Resist Down V",
+    "Enabled": true
+  },
+  "150168": {
+    "OriginalText": "雷属性ダウンⅠ",
+    "Text": "Thunder Resist Down I",
+    "Enabled": true
+  },
+  "150169": {
+    "OriginalText": "雷属性ダウンⅡ",
+    "Text": "Thunder Resist Down II",
+    "Enabled": true
+  },
+  "150170": {
+    "OriginalText": "雷属性ダウンⅢ",
+    "Text": "Thunder Resist Down III",
+    "Enabled": true
+  },
+  "150171": {
+    "OriginalText": "雷属性ダウンⅣ",
+    "Text": "Thunder Resist Down IV",
+    "Enabled": true
+  },
+  "150172": {
+    "OriginalText": "雷属性ダウンⅤ",
+    "Text": "Thunder Resist Down V",
+    "Enabled": true
+  },
+  "150173": {
+    "OriginalText": "風属性ダウンⅠ",
+    "Text": "Wind Resist Down I",
+    "Enabled": true
+  },
+  "150174": {
+    "OriginalText": "風属性ダウンⅡ",
+    "Text": "Wind Resist Down II",
+    "Enabled": true
+  },
+  "150175": {
+    "OriginalText": "風属性ダウンⅢ",
+    "Text": "Wind Resist Down III",
+    "Enabled": true
+  },
+  "150176": {
+    "OriginalText": "風属性ダウンⅣ",
+    "Text": "Wind Resist Down IV",
+    "Enabled": true
+  },
+  "150177": {
+    "OriginalText": "風属性ダウンⅤ",
+    "Text": "Wind Resist Down V",
+    "Enabled": true
+  },
+  "150178": {
+    "OriginalText": "光属性ダウンⅠ",
+    "Text": "Light Resist Down I",
+    "Enabled": true
+  },
+  "150179": {
+    "OriginalText": "光属性ダウンⅡ",
+    "Text": "Light Resist Down II",
+    "Enabled": true
+  },
+  "150180": {
+    "OriginalText": "光属性ダウンⅢ",
+    "Text": "Light Resist Down III",
+    "Enabled": true
+  },
+  "150181": {
+    "OriginalText": "光属性ダウンⅣ",
+    "Text": "Light Resist Down IV",
+    "Enabled": true
+  },
+  "150182": {
+    "OriginalText": "光属性ダウンⅤ",
+    "Text": "Light Resist Down V",
+    "Enabled": true
+  },
+  "150183": {
+    "OriginalText": "闇属性ダウンⅠ",
+    "Text": "Dark Resist Down I",
+    "Enabled": true
+  },
+  "150184": {
+    "OriginalText": "闇属性ダウンⅡ",
+    "Text": "Dark Resist Down II",
+    "Enabled": true
+  },
+  "150185": {
+    "OriginalText": "闇属性ダウンⅢ",
+    "Text": "Dark Resist Down III",
+    "Enabled": true
+  },
+  "150186": {
+    "OriginalText": "闇属性ダウンⅣ",
+    "Text": "Dark Resist Down IV",
+    "Enabled": true
+  },
+  "150187": {
+    "OriginalText": "闇属性ダウンⅤ",
+    "Text": "Dark Resist Down V",
+    "Enabled": true
+  },
+  "150188": {
+    "OriginalText": "全属性ダウンⅠ",
+    "Text": "All Resist Down I",
+    "Enabled": true
+  },
+  "150189": {
+    "OriginalText": "全属性ダウンⅡ",
+    "Text": "All Resist Down II",
+    "Enabled": true
+  },
+  "150190": {
+    "OriginalText": "全属性ダウンⅢ",
+    "Text": "All Resist Down III",
+    "Enabled": true
+  },
+  "150191": {
+    "OriginalText": "全属性ダウンⅣ",
+    "Text": "All Resist Down IV",
+    "Enabled": true
+  },
+  "150192": {
+    "OriginalText": "全属性ダウンⅤ",
+    "Text": "All Resist Down V",
+    "Enabled": true
+  },
+  "150193": {
+    "OriginalText": "刹那の撃鉄",
+    "Text": "Immediate Strike",
+    "Enabled": true
+  },
+  "150194": {
+    "OriginalText": "刹那の崩撃",
+    "Text": "Immediate Destruction",
+    "Enabled": true
+  },
+  "150195": {
+    "OriginalText": "- 予備枠",
+    "Text": "Reserve Frame",
+    "Enabled": true
+  },
+  "150196": {
+    "OriginalText": "瞬刻の理",
+    "Text": "",
+    "Enabled": false
+  },
+  "150197": {
+    "OriginalText": "瞬刻の天理",
+    "Text": "",
+    "Enabled": false
+  },
+  "150198": {
+    "OriginalText": "- 予備枠",
+    "Text": "Reserve Frame",
+    "Enabled": true
+  },
+  "150199": {
+    "OriginalText": "人導体",
+    "Text": "",
+    "Enabled": false
+  },
+  "150200": {
+    "OriginalText": "超人導体",
+    "Text": "",
+    "Enabled": false
+  },
+  "150201": {
+    "OriginalText": "- 予備枠",
+    "Text": "Reserve Frame",
+    "Enabled": true
+  },
+  "150202": {
+    "OriginalText": "気配遮断",
+    "Text": "",
+    "Enabled": false
+  },
+  "150203": {
+    "OriginalText": "気配消去",
+    "Text": "",
+    "Enabled": false
+  },
+  "150204": {
+    "OriginalText": "- 予備枠",
+    "Text": "Reserve Frame",
+    "Enabled": true
+  },
+  "150205": {
+    "OriginalText": "不屈の心",
+    "Text": "",
+    "Enabled": false
+  },
+  "150206": {
+    "OriginalText": "不屈の決意",
+    "Text": "",
+    "Enabled": false
+  },
+  "150207": {
+    "OriginalText": "不屈の闘志",
+    "Text": "",
+    "Enabled": false
+  },
+  "150208": {
+    "OriginalText": "護攻陣",
+    "Text": "",
+    "Enabled": false
+  },
+  "150209": {
+    "OriginalText": "護攻塞",
+    "Text": "",
+    "Enabled": false
+  },
+  "150210": {
+    "OriginalText": "護攻砦",
+    "Text": "",
+    "Enabled": false
+  },
+  "150211": {
+    "OriginalText": "護法陣",
+    "Text": "",
+    "Enabled": false
+  },
+  "150212": {
+    "OriginalText": "護法塞",
+    "Text": "",
+    "Enabled": false
+  },
+  "150213": {
+    "OriginalText": "護法砦",
+    "Text": "",
+    "Enabled": false
+  },
+  "150214": {
+    "OriginalText": "修羅紋",
+    "Text": "",
+    "Enabled": false
+  },
+  "150215": {
+    "OriginalText": "羅刹紋",
+    "Text": "",
+    "Enabled": false
+  },
+  "150216": {
+    "OriginalText": "- 予備枠",
+    "Text": "Reserve Frame",
+    "Enabled": true
+  },
+  "150217": {
+    "OriginalText": "痛打必倒",
+    "Text": "",
+    "Enabled": false
+  },
+  "150218": {
+    "OriginalText": "痛打必殺",
+    "Text": "",
+    "Enabled": false
+  },
+  "150219": {
+    "OriginalText": "- 予備枠",
+    "Text": "Reserve Frame",
+    "Enabled": true
+  },
+  "150220": {
+    "OriginalText": "零の手",
+    "Text": "",
+    "Enabled": false
+  },
+  "150221": {
+    "OriginalText": "零の腕",
+    "Text": "",
+    "Enabled": false
+  },
+  "150222": {
+    "OriginalText": "零の挙",
+    "Text": "",
+    "Enabled": false
+  },
+  "150223": {
+    "OriginalText": "飛練撃",
+    "Text": "",
+    "Enabled": false
+  },
+  "150224": {
+    "OriginalText": "飛練暴",
+    "Text": "",
+    "Enabled": false
+  },
+  "150225": {
+    "OriginalText": "飛練爆",
+    "Text": "",
+    "Enabled": false
+  },
+  "150226": {
+    "OriginalText": "集気光",
+    "Text": "",
+    "Enabled": false
+  },
+  "150227": {
+    "OriginalText": "煌気光",
+    "Text": "",
+    "Enabled": false
+  },
+  "150228": {
+    "OriginalText": "- 予備枠",
+    "Text": "Reserve Frame",
+    "Enabled": true
+  },
+  "150229": {
+    "OriginalText": "紅蓮結晶",
+    "Text": "",
+    "Enabled": false
+  },
+  "150230": {
+    "OriginalText": "紅蓮双結晶",
+    "Text": "",
+    "Enabled": false
+  },
+  "150231": {
+    "OriginalText": "紅蓮多結晶",
+    "Text": "",
+    "Enabled": false
+  },
+  "150232": {
+    "OriginalText": "劇縛結晶",
+    "Text": "",
+    "Enabled": false
+  },
+  "150233": {
+    "OriginalText": "劇縛双結晶",
+    "Text": "",
+    "Enabled": false
+  },
+  "150234": {
+    "OriginalText": "劇縛多結晶",
+    "Text": "",
+    "Enabled": false
+  },
+  "150235": {
+    "OriginalText": "雷鳴結晶",
+    "Text": "",
+    "Enabled": false
+  },
+  "150236": {
+    "OriginalText": "雷鳴双結晶",
+    "Text": "",
+    "Enabled": false
+  },
+  "150237": {
+    "OriginalText": "雷鳴多結晶",
+    "Text": "",
+    "Enabled": false
+  },
+  "150238": {
+    "OriginalText": "光輝の癒し",
+    "Text": "",
+    "Enabled": false
+  },
+  "150239": {
+    "OriginalText": "光輝の快癒",
+    "Text": "",
+    "Enabled": false
+  },
+  "150240": {
+    "OriginalText": "光輝の神癒",
+    "Text": "",
+    "Enabled": false
+  },
+  "150241": {
+    "OriginalText": "観理眼",
+    "Text": "",
+    "Enabled": false
+  },
+  "150242": {
+    "OriginalText": "観理識",
+    "Text": "",
+    "Enabled": false
+  },
+  "150243": {
+    "OriginalText": "- 予備枠",
+    "Text": "Reserve Frame",
+    "Enabled": true
+  },
+  "150244": {
+    "OriginalText": "古の誓い",
+    "Text": "",
+    "Enabled": false
+  },
+  "150245": {
+    "OriginalText": "- 予備枠",
+    "Text": "Reserve Frame",
+    "Enabled": true
+  },
+  "150246": {
+    "OriginalText": "- 予備枠",
+    "Text": "Reserve Frame",
+    "Enabled": true
+  },
+  "150247": {
+    "OriginalText": "奪命剣",
+    "Text": "",
+    "Enabled": false
+  },
+  "150248": {
+    "OriginalText": "奪命刃",
+    "Text": "",
+    "Enabled": false
+  },
+  "150249": {
+    "OriginalText": "- 予備枠",
+    "Text": "Reserve Frame",
+    "Enabled": true
+  },
+  "150250": {
+    "OriginalText": "光戦形態",
+    "Text": "",
+    "Enabled": false
+  },
+  "150251": {
+    "OriginalText": "光争形態",
+    "Text": "",
+    "Enabled": false
+  },
+  "150252": {
+    "OriginalText": "究冷の加護",
+    "Text": "",
+    "Enabled": false
+  },
+  "150253": {
+    "OriginalText": "幸運の羽根",
+    "Text": "",
+    "Enabled": false
+  },
+  "150254": {
+    "OriginalText": "幸運の翼",
+    "Text": "",
+    "Enabled": false
+  },
+  "150255": {
+    "OriginalText": "幸運の輝翼",
+    "Text": "",
+    "Enabled": false
+  },
+  "150256": {
+    "OriginalText": "不動の手盾",
+    "Text": "",
+    "Enabled": false
+  },
+  "150257": {
+    "OriginalText": "不動の盾",
+    "Text": "",
+    "Enabled": false
+  },
+  "150258": {
+    "OriginalText": "不動の大盾",
+    "Text": "",
+    "Enabled": false
+  },
+  "150259": {
+    "OriginalText": "薬の心得",
+    "Text": "",
+    "Enabled": false
+  },
+  "150260": {
+    "OriginalText": "- 予備枠",
+    "Text": "Reserve Frame",
+    "Enabled": true
+  },
+  "150261": {
+    "OriginalText": "- 予備枠",
+    "Text": "Reserve Frame",
+    "Enabled": true
+  },
+  "150262": {
+    "OriginalText": "審判の時",
+    "Text": "",
+    "Enabled": false
+  },
+  "150263": {
+    "OriginalText": "運命の時",
+    "Text": "",
+    "Enabled": false
+  },
+  "150264": {
+    "OriginalText": "- 予備枠",
+    "Text": "Reserve Frame",
+    "Enabled": true
+  },
+  "150265": {
+    "OriginalText": "慎怒の構え",
+    "Text": "",
+    "Enabled": false
+  },
+  "150266": {
+    "OriginalText": "慎怒の型",
+    "Text": "",
+    "Enabled": false
+  },
+  "150267": {
+    "OriginalText": "慎怒の業",
+    "Text": "",
+    "Enabled": false
+  },
+  "150268": {
+    "OriginalText": "捨身の証",
+    "Text": "",
+    "Enabled": false
+  },
+  "150269": {
+    "OriginalText": "捨身の印",
+    "Text": "",
+    "Enabled": false
+  },
+  "150270": {
+    "OriginalText": "- 予備枠",
+    "Text": "Reserve Frame",
+    "Enabled": true
+  },
+  "150271": {
+    "OriginalText": "守勢練陣",
+    "Text": "",
+    "Enabled": false
+  },
+  "150272": {
+    "OriginalText": "守勢練塞",
+    "Text": "",
+    "Enabled": false
+  },
+  "150273": {
+    "OriginalText": "- 予備枠",
+    "Text": "Reserve Frame",
+    "Enabled": true
+  },
+  "150274": {
+    "OriginalText": "正対の構え",
+    "Text": "",
+    "Enabled": false
+  },
+  "150275": {
+    "OriginalText": "正対の型",
+    "Text": "",
+    "Enabled": false
+  },
+  "150276": {
+    "OriginalText": "- 予備枠",
+    "Text": "Reserve Frame",
+    "Enabled": true
+  },
+  "150277": {
+    "OriginalText": "炎獄",
+    "Text": "",
+    "Enabled": false
+  },
+  "150278": {
+    "OriginalText": "- 予備枠",
+    "Text": "Reserve Frame",
+    "Enabled": true
+  },
+  "150279": {
+    "OriginalText": "- 予備枠",
+    "Text": "Reserve Frame",
+    "Enabled": true
+  },
+  "150280": {
+    "OriginalText": "正対の必撃",
+    "Text": "",
+    "Enabled": false
+  },
+  "150281": {
+    "OriginalText": "正対の必墜",
+    "Text": "",
+    "Enabled": false
+  },
+  "150282": {
+    "OriginalText": "- 予備枠",
+    "Text": "Reserve Frame",
+    "Enabled": true
+  },
+  "150283": {
+    "OriginalText": "背撃の証",
+    "Text": "",
+    "Enabled": false
+  },
+  "150284": {
+    "OriginalText": "背撃の印",
+    "Text": "",
+    "Enabled": false
+  },
+  "150285": {
+    "OriginalText": "背撃の誓",
+    "Text": "",
+    "Enabled": false
+  },
+  "150286": {
+    "OriginalText": "不動の死使",
+    "Text": "",
+    "Enabled": false
+  },
+  "150287": {
+    "OriginalText": "不動の死神",
+    "Text": "",
+    "Enabled": false
+  },
+  "150288": {
+    "OriginalText": "不動の死姫",
+    "Text": "",
+    "Enabled": false
+  },
+  "150289": {
+    "OriginalText": "原生滅牙",
+    "Text": "",
+    "Enabled": false
+  },
+  "150290": {
+    "OriginalText": "原生王滅牙",
+    "Text": "",
+    "Enabled": false
+  },
+  "150291": {
+    "OriginalText": "- 予備枠",
+    "Text": "Reserve Frame",
+    "Enabled": true
+  },
+  "150292": {
+    "OriginalText": "模滅牙",
+    "Text": "",
+    "Enabled": false
+  },
+  "150293": {
+    "OriginalText": "模王滅牙",
+    "Text": "",
+    "Enabled": false
+  },
+  "150294": {
+    "OriginalText": "- 予備枠",
+    "Text": "Reserve Frame",
+    "Enabled": true
+  },
+  "150295": {
+    "OriginalText": "絶模印",
+    "Text": "",
+    "Enabled": false
+  },
+  "150296": {
+    "OriginalText": "絶模誓",
+    "Text": "",
+    "Enabled": false
+  },
+  "150297": {
+    "OriginalText": "- 予備枠",
+    "Text": "Reserve Frame",
+    "Enabled": true
+  },
+  "150298": {
+    "OriginalText": "機甲滅牙",
+    "Text": "",
+    "Enabled": false
+  },
+  "150299": {
+    "OriginalText": "機甲王滅牙",
+    "Text": "",
+    "Enabled": false
+  },
+  "150300": {
+    "OriginalText": "- 予備枠",
+    "Text": "Reserve Frame",
+    "Enabled": true
+  },
+  "150301": {
+    "OriginalText": "負滅牙",
+    "Text": "",
+    "Enabled": false
+  },
+  "150302": {
+    "OriginalText": "負王滅牙",
+    "Text": "",
+    "Enabled": false
+  },
+  "150303": {
+    "OriginalText": "- 予備枠",
+    "Text": "Reserve Frame",
+    "Enabled": true
+  },
+  "150304": {
+    "OriginalText": "アクセルアタック",
+    "Text": "Accel Attack",
+    "Enabled": true
+  },
+  "150305": {
+    "OriginalText": "リーチブースト",
+    "Text": "Reach Boost",
+    "Enabled": true
+  },
+  "150308": {
+    "OriginalText": "護攻法陣",
+    "Text": "",
+    "Enabled": false
+  },
+  "150309": {
+    "OriginalText": "護攻法塞",
+    "Text": "",
+    "Enabled": false
+  },
+  "150310": {
+    "OriginalText": "星天弾",
+    "Text": "",
+    "Enabled": false
+  },
+  "150311": {
+    "OriginalText": "星天玉",
+    "Text": "",
+    "Enabled": false
+  },
+  "150312": {
+    "OriginalText": "狐月蝕",
+    "Text": "",
+    "Enabled": false
+  },
+  "150313": {
+    "OriginalText": "双月蝕",
+    "Text": "",
+    "Enabled": false
+  },
+  "150314": {
+    "OriginalText": "朧月蝕",
+    "Text": "",
+    "Enabled": false
+  },
+  "150315": {
+    "OriginalText": "西風の恵み",
+    "Text": "",
+    "Enabled": false
+  },
+  "150316": {
+    "OriginalText": "西風の加護",
+    "Text": "",
+    "Enabled": false
+  },
+  "150317": {
+    "OriginalText": "西風の天恵",
+    "Text": "",
+    "Enabled": false
+  },
+  "150318": {
+    "OriginalText": "月夜の尊",
+    "Text": "",
+    "Enabled": false
+  },
+  "150319": {
+    "OriginalText": "天照の尊",
+    "Text": "",
+    "Enabled": false
+  },
+  "150320": {
+    "OriginalText": "月夜天照の尊",
+    "Text": "",
+    "Enabled": false
+  },
+  "150321": {
+    "OriginalText": "悪魔の微笑",
+    "Text": "",
+    "Enabled": false
+  },
+  "150322": {
+    "OriginalText": "悪魔のささやき",
+    "Text": "",
+    "Enabled": false
+  },
+  "150323": {
+    "OriginalText": "悪魔の涙",
+    "Text": "",
+    "Enabled": false
+  },
+  "150324": {
+    "OriginalText": "会心一項",
+    "Text": "",
+    "Enabled": false
+  },
+  "150325": {
+    "OriginalText": "会心御手",
+    "Text": "",
+    "Enabled": false
+  },
+  "150326": {
+    "OriginalText": "暗心舞踏",
+    "Text": "",
+    "Enabled": false
+  },
+  "150327": {
+    "OriginalText": "虚心舞踏",
+    "Text": "",
+    "Enabled": false
+  },
+  "150328": {
+    "OriginalText": "明擲止水",
+    "Text": "",
+    "Enabled": false
+  },
+  "150329": {
+    "OriginalText": "一意専心",
+    "Text": "",
+    "Enabled": false
+  },
+  "150330": {
+    "OriginalText": "虚心鏡懐",
+    "Text": "",
+    "Enabled": false
+  },
+  "150331": {
+    "OriginalText": "光風晴月",
+    "Text": "",
+    "Enabled": false
+  },
+  "150332": {
+    "OriginalText": "坦吸気",
+    "Text": "",
+    "Enabled": false
+  },
+  "150333": {
+    "OriginalText": "坦吸命",
+    "Text": "",
+    "Enabled": false
+  },
+  "150334": {
+    "OriginalText": "回贄解放",
+    "Text": "",
+    "Enabled": false
+  },
+  "150335": {
+    "OriginalText": "力の預言",
+    "Text": "",
+    "Enabled": false
+  },
+  "150336": {
+    "OriginalText": "祈願の形",
+    "Text": "",
+    "Enabled": false
+  },
+  "150337": {
+    "OriginalText": "祈念の形",
+    "Text": "",
+    "Enabled": false
+  },
+  "150338": {
+    "OriginalText": "心願の形",
+    "Text": "",
+    "Enabled": false
+  },
+  "150339": {
+    "OriginalText": "- 予備枠",
+    "Text": "Reserve Frame",
+    "Enabled": true
+  },
+  "150340": {
+    "OriginalText": "- 予備枠",
+    "Text": "Reserve Frame",
+    "Enabled": true
+  },
+  "150351": {
+    "OriginalText": "パワー",
+    "Text": "",
+    "Enabled": false
+  },
+  "150361": {
+    "OriginalText": "シュート",
+    "Text": "",
+    "Enabled": false
+  },
+  "150371": {
+    "OriginalText": "テクニック",
+    "Text": "",
+    "Enabled": false
+  },
+  "150381": {
+    "OriginalText": "スタミナ",
+    "Text": "",
+    "Enabled": false
+  },
+  "150391": {
+    "OriginalText": "スピリタ",
+    "Text": "",
+    "Enabled": false
+  },
+  "150401": {
+    "OriginalText": "アーム",
+    "Text": "",
+    "Enabled": false
+  },
+  "150411": {
+    "OriginalText": "アビリティ",
+    "Text": "",
+    "Enabled": false
+  },
+  "150421": {
+    "OriginalText": "ボディ",
+    "Text": "",
+    "Enabled": false
+  },
+  "150431": {
+    "OriginalText": "リアクト",
+    "Text": "",
+    "Enabled": false
+  },
+  "150441": {
+    "OriginalText": "マインド",
+    "Text": "",
+    "Enabled": false
+  },
+  "150501": {
+    "OriginalText": "ブロウレジスト",
+    "Text": "",
+    "Enabled": false
+  },
+  "150511": {
+    "OriginalText": "ショットレジスト",
+    "Text": "",
+    "Enabled": false
+  },
+  "150521": {
+    "OriginalText": "マインドレジスト",
+    "Text": "",
+    "Enabled": false
+  },
+  "150531": {
+    "OriginalText": "フレイムレジスト",
+    "Text": "",
+    "Enabled": false
+  },
+  "150541": {
+    "OriginalText": "アイスレジスト",
+    "Text": "",
+    "Enabled": false
+  },
+  "150551": {
+    "OriginalText": "ショックレジスト",
+    "Text": "",
+    "Enabled": false
+  },
+  "150561": {
+    "OriginalText": "ウィンドレジスト",
+    "Text": "",
+    "Enabled": false
+  },
+  "150571": {
+    "OriginalText": "ライトレジスト",
+    "Text": "",
+    "Enabled": false
+  },
+  "150581": {
+    "OriginalText": "グルームレジスト",
+    "Text": "",
+    "Enabled": false
+  },
+  "150601": {
+    "OriginalText": "フレイムブースト",
+    "Text": "",
+    "Enabled": false
+  },
+  "150611": {
+    "OriginalText": "アイスブースト",
+    "Text": "",
+    "Enabled": false
+  },
+  "150621": {
+    "OriginalText": "ショックブースト",
+    "Text": "",
+    "Enabled": false
+  },
+  "150631": {
+    "OriginalText": "ウィンドブースト",
+    "Text": "",
+    "Enabled": false
+  },
+  "150641": {
+    "OriginalText": "ライトブースト",
+    "Text": "",
+    "Enabled": false
+  },
+  "150651": {
+    "OriginalText": "グルームブースト",
+    "Text": "",
+    "Enabled": false
+  },
+  "150701": {
+    "OriginalText": "空連乱舞",
+    "Text": "",
+    "Enabled": false
+  },
+  "150711": {
+    "OriginalText": "零の壁",
+    "Text": "",
+    "Enabled": false
+  },
+  "150721": {
+    "OriginalText": "回贄掟進",
+    "Text": "",
+    "Enabled": false
+  },
+  "150731": {
+    "OriginalText": "最後の防壁",
+    "Text": "",
+    "Enabled": false
+  },
+  "150741": {
+    "OriginalText": "天運の一撃",
+    "Text": "",
+    "Enabled": false
+  },
+  "150742": {
+    "OriginalText": "天運の剛撃",
+    "Text": "",
+    "Enabled": false
+  },
+  "150751": {
+    "OriginalText": "無謀の型",
+    "Text": "",
+    "Enabled": false
+  },
+  "150761": {
+    "OriginalText": "グランセンサー",
+    "Text": "",
+    "Enabled": false
+  },
+  "150771": {
+    "OriginalText": "復合連牙",
+    "Text": "",
+    "Enabled": false
+  },
+  "150811": {
+    "OriginalText": "対バインド",
+    "Text": "",
+    "Enabled": false
+  },
+  "150812": {
+    "OriginalText": "対インフェクション",
+    "Text": "",
+    "Enabled": false
+  },
+  "150813": {
+    "OriginalText": "対ブラインド",
+    "Text": "",
+    "Enabled": false
+  },
+  "150814": {
+    "OriginalText": "対グラン中毒",
+    "Text": "",
+    "Enabled": false
+  },
+  "150821": {
+    "OriginalText": "ハンターバースト",
+    "Text": "",
+    "Enabled": false
+  },
+  "150822": {
+    "OriginalText": "レンジャーバースト",
+    "Text": "",
+    "Enabled": false
+  },
+  "150823": {
+    "OriginalText": "フォースバースト",
+    "Text": "",
+    "Enabled": false
+  },
+  "150831": {
+    "OriginalText": "ハイパーバースト",
+    "Text": "",
+    "Enabled": false
+  },
+  "152100": {
+    "OriginalText": "エクステンド★1",
+    "Text": "",
+    "Enabled": false
+  },
+  "152101": {
+    "OriginalText": "エクステンド★2",
+    "Text": "",
+    "Enabled": false
+  },
+  "152102": {
+    "OriginalText": "エクステンド★3",
+    "Text": "",
+    "Enabled": false
+  },
+  "152103": {
+    "OriginalText": "エクステンド★4",
+    "Text": "",
+    "Enabled": false
+  },
+  "152104": {
+    "OriginalText": "エクステンド★5",
+    "Text": "",
+    "Enabled": false
+  },
+  "152105": {
+    "OriginalText": "エクステンド★6",
+    "Text": "",
+    "Enabled": false
+  },
+  "152106": {
+    "OriginalText": "エクステンド★7",
+    "Text": "",
+    "Enabled": false
+  },
+  "152107": {
+    "OriginalText": "エクステンド★8",
+    "Text": "",
+    "Enabled": false
+  },
+  "152108": {
+    "OriginalText": "エクステンド★9",
+    "Text": "",
+    "Enabled": false
+  },
+  "152109": {
+    "OriginalText": "エクステンド★10",
+    "Text": "",
+    "Enabled": false
+  },
+  "152110": {
+    "OriginalText": "エクステンド★11",
+    "Text": "",
+    "Enabled": false
+  },
+  "152111": {
+    "OriginalText": "エクステンド★12",
+    "Text": "",
+    "Enabled": false
+  },
+  "152112": {
+    "OriginalText": "エクステンド★13",
+    "Text": "",
+    "Enabled": false
+  },
+  "152113": {
+    "OriginalText": "エクステンド★14",
+    "Text": "",
+    "Enabled": false
+  },
+  "152114": {
+    "OriginalText": "エクステンド★15",
+    "Text": "",
+    "Enabled": false
+  },
+  "152115": {
+    "OriginalText": "エクステンド★EX",
+    "Text": "",
+    "Enabled": false
+  }
+}
