@@ -111,8 +111,8 @@
   },
   "750022": {
     "OriginalText": "カリスト",
-    "Text": "",
-    "Enabled": false
+    "Text": "Callisto",
+    "Enabled": true
   },
   "750023": {
     "OriginalText": "神谷 浩史",
@@ -286,13 +286,13 @@
   },
   "750057": {
     "OriginalText": "レニー・ハート",
-    "Text": "",
-    "Enabled": false
+    "Text": "Lenne Hardt",
+    "Enabled": true
   },
   "750058": {
     "OriginalText": "リーンベル",
-    "Text": "",
-    "Enabled": false
+    "Text": "Leanne",
+    "Enabled": true
   },
   "750059": {
     "OriginalText": "遠藤 綾",
@@ -301,8 +301,8 @@
   },
   "751001": {
     "OriginalText": "ゲーム制作",
-    "Text": "",
-    "Enabled": false
+    "Text": "Game Creation",
+    "Enabled": true
   },
   "751002": {
     "OriginalText": "株式会社 セガ",
@@ -311,8 +311,8 @@
   },
   "751003": {
     "OriginalText": "プロデューサー",
-    "Text": "",
-    "Enabled": false
+    "Text": "Producer",
+    "Enabled": true
   },
   "751004": {
     "OriginalText": "都築 靖之",
