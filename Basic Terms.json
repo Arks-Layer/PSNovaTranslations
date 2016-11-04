@@ -1,0 +1,202 @@
+{
+  "10301": {
+    "OriginalText": "ステータス",
+    "Text": "Status",
+    "Enabled": true
+  },
+  "10302": {
+    "OriginalText": "威力",
+    "Text": "Power",
+    "Enabled": true
+  },
+  "10303": {
+    "OriginalText": "技量補正",
+    "Text": "Dex Mod",
+    "Enabled": true
+  },
+  "10304": {
+    "OriginalText": "消費GP",
+    "Text": "GP Cost",
+    "Enabled": true
+  },
+  "10305": {
+    "OriginalText": "HP",
+    "Text": "HP",
+    "Enabled": true
+  },
+  "10306": {
+    "OriginalText": "PP",
+    "Text": "PP",
+    "Enabled": true
+  },
+  "10307": {
+    "OriginalText": "打撃力",
+    "Text": "S-ATK",
+    "Enabled": true
+  },
+  "10308": {
+    "OriginalText": "射撃力",
+    "Text": "R-ATK",
+    "Enabled": true
+  },
+  "10309": {
+    "OriginalText": "法撃力",
+    "Text": "T-ATK",
+    "Enabled": true
+  },
+  "10310": {
+    "OriginalText": "技量",
+    "Text": "DEX",
+    "Enabled": true
+  },
+  "10311": {
+    "OriginalText": "打撃防御",
+    "Text": "S-DEF",
+    "Enabled": true
+  },
+  "10312": {
+    "OriginalText": "射撃防御",
+    "Text": "R-DEF",
+    "Enabled": true
+  },
+  "10313": {
+    "OriginalText": "法撃防御",
+    "Text": "T-DEF",
+    "Enabled": true
+  },
+  "10314": {
+    "OriginalText": "レアリティ",
+    "Text": "Rarity",
+    "Enabled": true
+  },
+  "10315": {
+    "OriginalText": "種族",
+    "Text": "Race",
+    "Enabled": true
+  },
+  "10316": {
+    "OriginalText": "性別",
+    "Text": "Sex",
+    "Enabled": true
+  },
+  "10317": {
+    "OriginalText": "特殊能力",
+    "Text": "",
+    "Enabled": false
+  },
+  "10318": {
+    "OriginalText": "スキル",
+    "Text": "Skill",
+    "Enabled": true
+  },
+  "10319": {
+    "OriginalText": "攻撃 / グランアーツ",
+    "Text": "Attack/Gran Arts",
+    "Enabled": true
+  },
+  "10320": {
+    "OriginalText": "テクニック",
+    "Text": "Technique",
+    "Enabled": true
+  },
+  "10321": {
+    "OriginalText": "スタイル",
+    "Text": "Style",
+    "Enabled": true
+  },
+  "10322": {
+    "OriginalText": "特微",
+    "Text": "Traits",
+    "Enabled": true
+  },
+  "10323": {
+    "OriginalText": "Lv.",
+    "Text": "Lv. ",
+    "Enabled": true
+  },
+  "10324": {
+    "OriginalText": "キャラクター名",
+    "Text": "Name",
+    "Enabled": true
+  },
+  "10325": {
+    "OriginalText": "経験値",
+    "Text": "EXP",
+    "Enabled": true
+  },
+  "10326": {
+    "OriginalText": "次のレベルまで",
+    "Text": "Next Level",
+    "Enabled": true
+  },
+  "10327": {
+    "OriginalText": "GP",
+    "Text": "GP",
+    "Enabled": true
+  },
+  "10328": {
+    "OriginalText": "炎属性",
+    "Text": "",
+    "Enabled": false
+  },
+  "10329": {
+    "OriginalText": "劇属性",
+    "Text": "",
+    "Enabled": false
+  },
+  "10330": {
+    "OriginalText": "雷属性",
+    "Text": "",
+    "Enabled": false
+  },
+  "10331": {
+    "OriginalText": "風属性",
+    "Text": "",
+    "Enabled": false
+  },
+  "10332": {
+    "OriginalText": "光属性",
+    "Text": "",
+    "Enabled": false
+  },
+  "10333": {
+    "OriginalText": "闇属性",
+    "Text": "",
+    "Enabled": false
+  },
+  "10334": {
+    "OriginalText": "炎耐性",
+    "Text": "Resist",
+    "Enabled": true
+  },
+  "10335": {
+    "OriginalText": "劇耐性",
+    "Text": "Resist",
+    "Enabled": true
+  },
+  "10336": {
+    "OriginalText": "雷耐性",
+    "Text": "Resist",
+    "Enabled": true
+  },
+  "10337": {
+    "OriginalText": "風耐性",
+    "Text": "Resist",
+    "Enabled": true
+  },
+  "10338": {
+    "OriginalText": "光耐性",
+    "Text": "Resist",
+    "Enabled": true
+  },
+  "10339": {
+    "OriginalText": "闇耐性",
+    "Text": "Resist",
+    "Enabled": true
+  },
+  "10340": {
+    "OriginalText": "プレイヤー情報",
+    "Text": "Player Information",
+    "Enabled": true
+  }
+}

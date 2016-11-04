@@ -1,0 +1,5527 @@
+{
+  "350000": {
+    "OriginalText": "メモリーフラグメントJ",
+    "Text": "Memory Fragment J",
+    "Enabled": true
+  },
+  "350001": {
+    "OriginalText": "グランピース",
+    "Text": "Gran Piece",
+    "Enabled": true
+  },
+  "350002": {
+    "OriginalText": "グランピース(炎属性)",
+    "Text": "Gran Piece (Fire)",
+    "Enabled": true
+  },
+  "350003": {
+    "OriginalText": "グランピース(劇属性)",
+    "Text": "Gran Piece (Ice)",
+    "Enabled": true
+  },
+  "350004": {
+    "OriginalText": "グランピース(雷属性)",
+    "Text": "Gran Piece (Lightning)",
+    "Enabled": true
+  },
+  "350005": {
+    "OriginalText": "グランピース(風属性)",
+    "Text": "Gran Piece (Wind)",
+    "Enabled": true
+  },
+  "350006": {
+    "OriginalText": "グランピース(光属性)",
+    "Text": "Gran Piece (Light)",
+    "Enabled": true
+  },
+  "350007": {
+    "OriginalText": "グランピース(闇属性)",
+    "Text": "Gran Piece (Dark)",
+    "Enabled": true
+  },
+  "350008": {
+    "OriginalText": "ダーカーの節",
+    "Text": "Darker Node",
+    "Enabled": true
+  },
+  "350009": {
+    "OriginalText": "ダーカーの触角",
+    "Text": "Darker Tentacle",
+    "Enabled": true
+  },
+  "350010": {
+    "OriginalText": "ダーカーの肉",
+    "Text": "Darker Meat",
+    "Enabled": true
+  },
+  "350011": {
+    "OriginalText": "膜β類のたまご",
+    "Text": "Reptile Eggs",
+    "Enabled": true
+  },
+  "350012": {
+    "OriginalText": "竜族のたまご",
+    "Text": "Dragonkin Eggs",
+    "Enabled": true
+  },
+  "350013": {
+    "OriginalText": "獣の肉",
+    "Text": "Monster Flesh",
+    "Enabled": true
+  },
+  "350014": {
+    "OriginalText": "ロヴラッピーの肉",
+    "Text": "Lov-Rappy Meat",
+    "Enabled": true
+  },
+  "350015": {
+    "OriginalText": "巨大獣の肉",
+    "Text": "Giant Monster Meat",
+    "Enabled": true
+  },
+  "350016": {
+    "OriginalText": "鳥の肉",
+    "Text": "Bird Meat",
+    "Enabled": true
+  },
+  "350017": {
+    "OriginalText": "竜族の肉",
+    "Text": "Dragonkin Meat",
+    "Enabled": true
+  },
+  "350018": {
+    "OriginalText": "膜β類の肉",
+    "Text": "Reptile Meat",
+    "Enabled": true
+  },
+  "350019": {
+    "OriginalText": "ジュラキアの軟骨",
+    "Text": "Jurakia Cartilage",
+    "Enabled": true
+  },
+  "350020": {
+    "OriginalText": "トルリンプの肉",
+    "Text": "Torrimp Meat",
+    "Enabled": true
+  },
+  "350021": {
+    "OriginalText": "祭",
+    "Text": "Shellfish",
+    "Enabled": true
+  },
+  "350022": {
+    "OriginalText": "膜β類の苔尾",
+    "Text": "Reptile Tail",
+    "Enabled": true
+  },
+  "350023": {
+    "OriginalText": "膜β類のトサカ",
+    "Text": "Reptile Crest",
+    "Enabled": true
+  },
+  "350024": {
+    "OriginalText": "墨",
+    "Text": "Moss",
+    "Enabled": true
+  },
+  "350025": {
+    "OriginalText": "大きなきのこ",
+    "Text": "Large Mushroom",
+    "Enabled": true
+  },
+  "350026": {
+    "OriginalText": "劇",
+    "Text": "Ice",
+    "Enabled": true
+  },
+  "350027": {
+    "OriginalText": "膜β類のエキス",
+    "Text": "Reptile Extract",
+    "Enabled": true
+  },
+  "350028": {
+    "OriginalText": "獣のミルク",
+    "Text": "Monster Milk",
+    "Enabled": true
+  },
+  "350029": {
+    "OriginalText": "アルキュオネのゼリー",
+    "Text": "Alcyone's Jelly",
+    "Enabled": true
+  },
+  "350030": {
+    "OriginalText": "マガヴルムのねばねば",
+    "Text": "Magavulum Goo",
+    "Enabled": true
+  },
+  "350031": {
+    "OriginalText": "トマト",
+    "Text": "Tomato",
+    "Enabled": true
+  },
+  "350032": {
+    "OriginalText": "コラル・ドラゴンの生き血",
+    "Text": "Coral Dragon Blood",
+    "Enabled": true
+  },
+  "350033": {
+    "OriginalText": "鉄板",
+    "Text": "Iron Plate",
+    "Enabled": true
+  },
+  "350034": {
+    "OriginalText": "小さな木の実",
+    "Text": "Small Tree Nuts",
+    "Enabled": true
+  },
+  "350035": {
+    "OriginalText": "バンサーの骨",
+    "Text": "Banther Bone",
+    "Enabled": true
+  },
+  "350036": {
+    "OriginalText": "目玉",
+    "Text": "Eyeball",
+    "Enabled": true
+  },
+  "350037": {
+    "OriginalText": "Ｇシャルレイダの肝",
+    "Text": "G-Shalurayda Liver",
+    "Enabled": true
+  },
+  "350038": {
+    "OriginalText": "ギガンテスの肉",
+    "Text": "Gigantes Meat",
+    "Enabled": true
+  },
+  "350039": {
+    "OriginalText": "アグリオスのたまご",
+    "Text": "",
+    "Enabled": false
+  },
+  "350040": {
+    "OriginalText": "ギガンテスの骨",
+    "Text": "",
+    "Enabled": false
+  },
+  "350041": {
+    "OriginalText": "ギガンテスの魚肉",
+    "Text": "",
+    "Enabled": false
+  },
+  "350042": {
+    "OriginalText": "岩塩",
+    "Text": "Rock Salt",
+    "Enabled": true
+  },
+  "350043": {
+    "OriginalText": "米",
+    "Text": "Wheat",
+    "Enabled": true
+  },
+  "350044": {
+    "OriginalText": "光る葉",
+    "Text": "Glowing Leaves",
+    "Enabled": true
+  },
+  "350045": {
+    "OriginalText": "ジューシーフルーツ",
+    "Text": "Juicy Fruit",
+    "Enabled": true
+  },
+  "350046": {
+    "OriginalText": "尻",
+    "Text": "Rice",
+    "Enabled": true
+  },
+  "350047": {
+    "OriginalText": "メモリーフラグメントＡ",
+    "Text": "Memory Fragment A",
+    "Enabled": true
+  },
+  "350048": {
+    "OriginalText": "白い岩石",
+    "Text": "White Rock",
+    "Enabled": true
+  },
+  "350049": {
+    "OriginalText": "樹木状の鉱洋",
+    "Text": "Dendritic Material",
+    "Enabled": true
+  },
+  "350050": {
+    "OriginalText": "ラコニア金属",
+    "Text": "",
+    "Enabled": false
+  },
+  "350051": {
+    "OriginalText": "赤い樹袋",
+    "Text": "",
+    "Enabled": false
+  },
+  "350052": {
+    "OriginalText": "緑の結晶石",
+    "Text": "",
+    "Enabled": false
+  },
+  "350053": {
+    "OriginalText": "ウッドオパール",
+    "Text": "Wood Opal",
+    "Enabled": true
+  },
+  "350054": {
+    "OriginalText": "赤く広がる花状結晶",
+    "Text": "",
+    "Enabled": false
+  },
+  "350055": {
+    "OriginalText": "青い鉱石",
+    "Text": "",
+    "Enabled": false
+  },
+  "350056": {
+    "OriginalText": "メモリーフラグメントＢ",
+    "Text": "Memory Fragment B",
+    "Enabled": true
+  },
+  "350057": {
+    "OriginalText": "凍った葉",
+    "Text": "",
+    "Enabled": false
+  },
+  "350058": {
+    "OriginalText": "棘状の結晶体",
+    "Text": "",
+    "Enabled": false
+  },
+  "350059": {
+    "OriginalText": "天然樹木",
+    "Text": "",
+    "Enabled": false
+  },
+  "350060": {
+    "OriginalText": "遺跡石村",
+    "Text": "",
+    "Enabled": false
+  },
+  "350061": {
+    "OriginalText": "オベリスクの破片",
+    "Text": "Obelisk Fragment",
+    "Enabled": true
+  },
+  "350062": {
+    "OriginalText": "多積層の銅板",
+    "Text": "",
+    "Enabled": false
+  },
+  "350063": {
+    "OriginalText": "成長する金属外殻",
+    "Text": "",
+    "Enabled": false
+  },
+  "350064": {
+    "OriginalText": "赤く光る鉱石",
+    "Text": "",
+    "Enabled": false
+  },
+  "350065": {
+    "OriginalText": "湯縞の記憶",
+    "Text": "",
+    "Enabled": false
+  },
+  "350066": {
+    "OriginalText": "メモリーフラグメントＣ",
+    "Text": "Memory Fragment C",
+    "Enabled": true
+  },
+  "350067": {
+    "OriginalText": "メモリーフラグメントＤ",
+    "Text": "Memory Fragment D",
+    "Enabled": true
+  },
+  "350068": {
+    "OriginalText": "メモリーフラグメントＥ",
+    "Text": "Memory Fragment E",
+    "Enabled": true
+  },
+  "350069": {
+    "OriginalText": "メモリーフラグメントＦ",
+    "Text": "Memory Fragment F",
+    "Enabled": true
+  },
+  "350070": {
+    "OriginalText": "メモリーフラグメントＧ",
+    "Text": "Memory Fragment G",
+    "Enabled": true
+  },
+  "350071": {
+    "OriginalText": "ラピリストーン",
+    "Text": "Rapiliston",
+    "Enabled": true
+  },
+  "350072": {
+    "OriginalText": "透き通る講化木",
+    "Text": "",
+    "Enabled": false
+  },
+  "350073": {
+    "OriginalText": "ペロブスカイト石",
+    "Text": "Perovuskite Stone",
+    "Enabled": true
+  },
+  "350074": {
+    "OriginalText": "氷たく燃える金属結晶",
+    "Text": "Frigid Burning Metal Crystal",
+    "Enabled": true
+  },
+  "350075": {
+    "OriginalText": "貝ちない黒い鉄柱",
+    "Text": "",
+    "Enabled": false
+  },
+  "350076": {
+    "OriginalText": "大尖塔のワイヤー",
+    "Text": "Large Spire's Wire",
+    "Enabled": true
+  },
+  "350077": {
+    "OriginalText": "パイロープ結晶体",
+    "Text": "",
+    "Enabled": false
+  },
+  "350078": {
+    "OriginalText": "鈍く光るコランダム珪",
+    "Text": "",
+    "Enabled": false
+  },
+  "350079": {
+    "OriginalText": "熱を蓄える捲方輝石",
+    "Text": "",
+    "Enabled": false
+  },
+  "350080": {
+    "OriginalText": "墨むしたセラミックス",
+    "Text": "",
+    "Enabled": false
+  },
+  "350081": {
+    "OriginalText": "瞬くクリソベル石",
+    "Text": "",
+    "Enabled": false
+  },
+  "350082": {
+    "OriginalText": "脈打つミグマタイト",
+    "Text": "",
+    "Enabled": false
+  },
+  "350083": {
+    "OriginalText": "メモリーフラグメントＨ",
+    "Text": "",
+    "Enabled": false
+  },
+  "350084": {
+    "OriginalText": "メモリーフラグメントＩ",
+    "Text": "",
+    "Enabled": false
+  },
+  "350085": {
+    "OriginalText": "リージョン3難易度3村料3",
+    "Text": "",
+    "Enabled": false
+  },
+  "350086": {
+    "OriginalText": "リージョン3難易度4村料1",
+    "Text": "",
+    "Enabled": false
+  },
+  "350087": {
+    "OriginalText": "リージョン3難易度4村料2",
+    "Text": "",
+    "Enabled": false
+  },
+  "350088": {
+    "OriginalText": "リージョン3難易度4村料3",
+    "Text": "",
+    "Enabled": false
+  },
+  "350089": {
+    "OriginalText": "リージョン3難易度5村料1",
+    "Text": "",
+    "Enabled": false
+  },
+  "350090": {
+    "OriginalText": "リージョン3難易度5村料2",
+    "Text": "",
+    "Enabled": false
+  },
+  "350091": {
+    "OriginalText": "リージョン3難易度5村料3",
+    "Text": "",
+    "Enabled": false
+  },
+  "350092": {
+    "OriginalText": "リージョン5難易度1村料1",
+    "Text": "",
+    "Enabled": false
+  },
+  "350093": {
+    "OriginalText": "リージョン5難易度1村料2",
+    "Text": "",
+    "Enabled": false
+  },
+  "350094": {
+    "OriginalText": "リージョン5難易度1村料3",
+    "Text": "",
+    "Enabled": false
+  },
+  "350095": {
+    "OriginalText": "リージョン5難易度2村料1",
+    "Text": "",
+    "Enabled": false
+  },
+  "350096": {
+    "OriginalText": "リージョン5難易度2村料2",
+    "Text": "",
+    "Enabled": false
+  },
+  "350097": {
+    "OriginalText": "リージョン5難易度2村料3",
+    "Text": "",
+    "Enabled": false
+  },
+  "350098": {
+    "OriginalText": "リージョン5難易度3村料1",
+    "Text": "",
+    "Enabled": false
+  },
+  "350099": {
+    "OriginalText": "リージョン5難易度3村料2",
+    "Text": "",
+    "Enabled": false
+  },
+  "350100": {
+    "OriginalText": "リージョン5難易度3村料3",
+    "Text": "",
+    "Enabled": false
+  },
+  "350101": {
+    "OriginalText": "リージョン5難易度4村料1",
+    "Text": "",
+    "Enabled": false
+  },
+  "350102": {
+    "OriginalText": "リージョン5難易度4村料2",
+    "Text": "",
+    "Enabled": false
+  },
+  "350103": {
+    "OriginalText": "リージョン5難易度4村料3",
+    "Text": "",
+    "Enabled": false
+  },
+  "350104": {
+    "OriginalText": "リージョン5難易度5村料1",
+    "Text": "",
+    "Enabled": false
+  },
+  "350105": {
+    "OriginalText": "リージョン5難易度5村料2",
+    "Text": "",
+    "Enabled": false
+  },
+  "350106": {
+    "OriginalText": "リージョン5難易度5村料3",
+    "Text": "",
+    "Enabled": false
+  },
+  "350107": {
+    "OriginalText": "リージョン6難易度1村料1",
+    "Text": "",
+    "Enabled": false
+  },
+  "350108": {
+    "OriginalText": "リージョン6難易度1村料2",
+    "Text": "",
+    "Enabled": false
+  },
+  "350109": {
+    "OriginalText": "リージョン6難易度1村料3",
+    "Text": "",
+    "Enabled": false
+  },
+  "350110": {
+    "OriginalText": "リージョン6難易度2村料1",
+    "Text": "",
+    "Enabled": false
+  },
+  "350111": {
+    "OriginalText": "リージョン6難易度2村料2",
+    "Text": "",
+    "Enabled": false
+  },
+  "350112": {
+    "OriginalText": "リージョン6難易度2村料3",
+    "Text": "",
+    "Enabled": false
+  },
+  "350113": {
+    "OriginalText": "リージョン6難易度3村料1",
+    "Text": "",
+    "Enabled": false
+  },
+  "350114": {
+    "OriginalText": "リージョン6難易度3村料2",
+    "Text": "",
+    "Enabled": false
+  },
+  "350115": {
+    "OriginalText": "リージョン6難易度3村料3",
+    "Text": "",
+    "Enabled": false
+  },
+  "350116": {
+    "OriginalText": "リージョン6難易度4村料1",
+    "Text": "",
+    "Enabled": false
+  },
+  "350117": {
+    "OriginalText": "リージョン6難易度4村料2",
+    "Text": "",
+    "Enabled": false
+  },
+  "350118": {
+    "OriginalText": "リージョン6難易度4村料3",
+    "Text": "",
+    "Enabled": false
+  },
+  "350119": {
+    "OriginalText": "リージョン6難易度5村料1",
+    "Text": "",
+    "Enabled": false
+  },
+  "350120": {
+    "OriginalText": "リージョン6難易度5村料2",
+    "Text": "",
+    "Enabled": false
+  },
+  "350121": {
+    "OriginalText": "リージョン6難易度5村料3",
+    "Text": "",
+    "Enabled": false
+  },
+  "350122": {
+    "OriginalText": "リージョン8難易度1村料1",
+    "Text": "",
+    "Enabled": false
+  },
+  "350123": {
+    "OriginalText": "リージョン8難易度1村料2",
+    "Text": "",
+    "Enabled": false
+  },
+  "350124": {
+    "OriginalText": "リージョン8難易度1村料3",
+    "Text": "",
+    "Enabled": false
+  },
+  "350125": {
+    "OriginalText": "リージョン8難易度2村料1",
+    "Text": "",
+    "Enabled": false
+  },
+  "350126": {
+    "OriginalText": "リージョン8難易度2村料2",
+    "Text": "",
+    "Enabled": false
+  },
+  "350127": {
+    "OriginalText": "リージョン8難易度2村料3",
+    "Text": "",
+    "Enabled": false
+  },
+  "350128": {
+    "OriginalText": "リージョン8難易度3村料1",
+    "Text": "",
+    "Enabled": false
+  },
+  "350129": {
+    "OriginalText": "リージョン8難易度3村料2",
+    "Text": "",
+    "Enabled": false
+  },
+  "350130": {
+    "OriginalText": "リージョン8難易度3村料3",
+    "Text": "",
+    "Enabled": false
+  },
+  "350131": {
+    "OriginalText": "リージョン8難易度4村料1",
+    "Text": "",
+    "Enabled": false
+  },
+  "350132": {
+    "OriginalText": "リージョン8難易度4村料2",
+    "Text": "",
+    "Enabled": false
+  },
+  "350133": {
+    "OriginalText": "リージョン8難易度4村料3",
+    "Text": "",
+    "Enabled": false
+  },
+  "350134": {
+    "OriginalText": "リージョン8難易度5村料1",
+    "Text": "",
+    "Enabled": false
+  },
+  "350135": {
+    "OriginalText": "リージョン8難易度5村料2",
+    "Text": "",
+    "Enabled": false
+  },
+  "350136": {
+    "OriginalText": "リージョン8難易度5村料3",
+    "Text": "",
+    "Enabled": false
+  },
+  "350137": {
+    "OriginalText": "ダーカーの殻片",
+    "Text": "Darker Husk Part",
+    "Enabled": true
+  },
+  "350138": {
+    "OriginalText": "Ｇキュクロナーダの鱗片",
+    "Text": "G-Kuklonahda Scale",
+    "Enabled": true
+  },
+  "350139": {
+    "OriginalText": "ダーカーの皮片",
+    "Text": "Darker Pelt",
+    "Enabled": true
+  },
+  "350140": {
+    "OriginalText": "ダーカーの眼片",
+    "Text": "Darker Eyeball",
+    "Enabled": true
+  },
+  "350141": {
+    "OriginalText": "Ｇシャルレイダのヒレ",
+    "Text": "G-Shalurayda Fin",
+    "Enabled": true
+  },
+  "350142": {
+    "OriginalText": "Ｇクラーダの脚片",
+    "Text": "G-Krahda Leg",
+    "Enabled": true
+  },
+  "350143": {
+    "OriginalText": "Ｇダガンの脚片",
+    "Text": "G-Dagan Leg",
+    "Enabled": true
+  },
+  "350144": {
+    "OriginalText": "Ｇプレディカーダの刃片",
+    "Text": "G-Predicahda Blade",
+    "Enabled": true
+  },
+  "350145": {
+    "OriginalText": "Ｇキュクロナーダの目片",
+    "Text": "G-Kuklonahda Eye Piece",
+    "Enabled": true
+  },
+  "350146": {
+    "OriginalText": "アルマラッピーの羽",
+    "Text": "Alma-Rappy Feather",
+    "Enabled": true
+  },
+  "350147": {
+    "OriginalText": "Ｇクラーダの甲殻",
+    "Text": "G-Krahda Shell",
+    "Enabled": true
+  },
+  "350148": {
+    "OriginalText": "Ｇダガンの甲殻",
+    "Text": "G-Dagan Shell",
+    "Enabled": true
+  },
+  "350149": {
+    "OriginalText": "Ｇプレディカーダの脚",
+    "Text": "G-Predicahda Leg",
+    "Enabled": true
+  },
+  "350150": {
+    "OriginalText": "ラッピーチケット",
+    "Text": "Rappy Ticket",
+    "Enabled": true
+  },
+  "350151": {
+    "OriginalText": "ホワイトチケット",
+    "Text": "White Ticket",
+    "Enabled": true
+  },
+  "350152": {
+    "OriginalText": "Ｇダガンの鋭爪",
+    "Text": "",
+    "Enabled": false
+  },
+  "350153": {
+    "OriginalText": "Ｇプレディカーダの鋭腕刃",
+    "Text": "",
+    "Enabled": false
+  },
+  "350154": {
+    "OriginalText": "Ｇキュクロナーダの腕",
+    "Text": "",
+    "Enabled": false
+  },
+  "350155": {
+    "OriginalText": "するどい爪",
+    "Text": "",
+    "Enabled": false
+  },
+  "350156": {
+    "OriginalText": "膜β類の鱗片",
+    "Text": "",
+    "Enabled": false
+  },
+  "350157": {
+    "OriginalText": "鳥類の爪",
+    "Text": "",
+    "Enabled": false
+  },
+  "350158": {
+    "OriginalText": "ギガンテスの甲片",
+    "Text": "",
+    "Enabled": false
+  },
+  "350159": {
+    "OriginalText": "獣の皮片",
+    "Text": "Monster Pelt",
+    "Enabled": true
+  },
+  "350160": {
+    "OriginalText": "するどい牙",
+    "Text": "",
+    "Enabled": false
+  },
+  "350161": {
+    "OriginalText": "鳥の皮片",
+    "Text": "Bird Pelt",
+    "Enabled": true
+  },
+  "350162": {
+    "OriginalText": "巨大獣の皮片",
+    "Text": "Giant Monster Pelt",
+    "Enabled": true
+  },
+  "350163": {
+    "OriginalText": "ギガンテスのグラン器片",
+    "Text": "Gran-infused Organ of Gigantes",
+    "Enabled": true
+  },
+  "350164": {
+    "OriginalText": "鳥の羽煽",
+    "Text": "",
+    "Enabled": false
+  },
+  "350165": {
+    "OriginalText": "獣の大型の牙",
+    "Text": "",
+    "Enabled": false
+  },
+  "350166": {
+    "OriginalText": "ダーカーの殻",
+    "Text": "Darker Husk",
+    "Enabled": true
+  },
+  "350167": {
+    "OriginalText": "ギガンテスの駆動機関",
+    "Text": "",
+    "Enabled": false
+  },
+  "350168": {
+    "OriginalText": "ランチャーの破片",
+    "Text": "",
+    "Enabled": false
+  },
+  "350169": {
+    "OriginalText": "ラウーダンの爪片",
+    "Text": "Ra Oodan Claw Part",
+    "Enabled": true
+  },
+  "350170": {
+    "OriginalText": "ロザードのヒレ片",
+    "Text": "Rozad Fillet",
+    "Enabled": true
+  },
+  "350171": {
+    "OriginalText": "マフレザールの皮片",
+    "Text": "Maphrezer Pelt",
+    "Enabled": true
+  },
+  "350172": {
+    "OriginalText": "ジュラキアの大羽",
+    "Text": "",
+    "Enabled": false
+  },
+  "350173": {
+    "OriginalText": "バンサーの爪片",
+    "Text": "",
+    "Enabled": false
+  },
+  "350174": {
+    "OriginalText": "テッラマンデルの鱗片",
+    "Text": "Terra Mandel Scale",
+    "Enabled": true
+  },
+  "350175": {
+    "OriginalText": "Ｇミクダの脚片",
+    "Text": "G-Micda Leg",
+    "Enabled": true
+  },
+  "350176": {
+    "OriginalText": "Ｇエル・アーダの針片",
+    "Text": "G-El Ahda Stinger",
+    "Enabled": true
+  },
+  "350177": {
+    "OriginalText": "アグリオスの砲片",
+    "Text": "",
+    "Enabled": false
+  },
+  "350178": {
+    "OriginalText": "ラウーダンの大煽皮",
+    "Text": "",
+    "Enabled": false
+  },
+  "350179": {
+    "OriginalText": "ロザードの爪",
+    "Text": "Rozad Claw",
+    "Enabled": true
+  },
+  "350180": {
+    "OriginalText": "マフレザールの鋭朽爪",
+    "Text": "",
+    "Enabled": false
+  },
+  "350181": {
+    "OriginalText": "ジュラキアの硬骨",
+    "Text": "",
+    "Enabled": false
+  },
+  "350182": {
+    "OriginalText": "バンサーの牙片",
+    "Text": "",
+    "Enabled": false
+  },
+  "350183": {
+    "OriginalText": "テッラマンデルの大髭",
+    "Text": "",
+    "Enabled": false
+  },
+  "350184": {
+    "OriginalText": "Ｇミクダの甲羅",
+    "Text": "",
+    "Enabled": false
+  },
+  "350185": {
+    "OriginalText": "Ｇエル・アーダの羽根",
+    "Text": "",
+    "Enabled": false
+  },
+  "350186": {
+    "OriginalText": "アグリオスの角",
+    "Text": "",
+    "Enabled": false
+  },
+  "350187": {
+    "OriginalText": "ラウーダンの骨",
+    "Text": "Ra Oodan Bone",
+    "Enabled": true
+  },
+  "350188": {
+    "OriginalText": "ロザードの完全な背びれ",
+    "Text": "",
+    "Enabled": false
+  },
+  "350189": {
+    "OriginalText": "マフレザールの皮枝",
+    "Text": "",
+    "Enabled": false
+  },
+  "350190": {
+    "OriginalText": "ジュラキアの尾羽",
+    "Text": "",
+    "Enabled": false
+  },
+  "350191": {
+    "OriginalText": "バンサーの角片",
+    "Text": "",
+    "Enabled": false
+  },
+  "350192": {
+    "OriginalText": "テッラマンデルの頭骨",
+    "Text": "",
+    "Enabled": false
+  },
+  "350193": {
+    "OriginalText": "Ｇミクダの鋭角",
+    "Text": "",
+    "Enabled": false
+  },
+  "350194": {
+    "OriginalText": "Ｇエル・アーダの硬触角",
+    "Text": "",
+    "Enabled": false
+  },
+  "350195": {
+    "OriginalText": "アグリオスの鋭剣板",
+    "Text": "",
+    "Enabled": false
+  },
+  "350196": {
+    "OriginalText": "水晶竜族の鱗",
+    "Text": "",
+    "Enabled": false
+  },
+  "350197": {
+    "OriginalText": "膜β類の小さな甲殻",
+    "Text": "",
+    "Enabled": false
+  },
+  "350198": {
+    "OriginalText": "トルリンプの鱗",
+    "Text": "",
+    "Enabled": false
+  },
+  "350199": {
+    "OriginalText": "原生種の牙",
+    "Text": "",
+    "Enabled": false
+  },
+  "350200": {
+    "OriginalText": "原生種の爪",
+    "Text": "",
+    "Enabled": false
+  },
+  "350201": {
+    "OriginalText": "グランブの大鉤固凝液",
+    "Text": "",
+    "Enabled": false
+  },
+  "350202": {
+    "OriginalText": "トルリンプの鋭牙",
+    "Text": "",
+    "Enabled": false
+  },
+  "350203": {
+    "OriginalText": "ウィンディラスの結晶角",
+    "Text": "",
+    "Enabled": false
+  },
+  "350204": {
+    "OriginalText": "ギガンテスの骨格",
+    "Text": "",
+    "Enabled": false
+  },
+  "350205": {
+    "OriginalText": "アルキュオネの浮遊伝置",
+    "Text": "Alcyone's Floatation Device",
+    "Enabled": true
+  },
+  "350206": {
+    "OriginalText": "ギガンテスの皮片",
+    "Text": "",
+    "Enabled": false
+  },
+  "350207": {
+    "OriginalText": "耐火凝液",
+    "Text": "",
+    "Enabled": false
+  },
+  "350208": {
+    "OriginalText": "ギガンテスのクラッカー片",
+    "Text": "",
+    "Enabled": false
+  },
+  "350209": {
+    "OriginalText": "ノイ・ウィンディラスの翼",
+    "Text": "",
+    "Enabled": false
+  },
+  "350210": {
+    "OriginalText": "バリバッツの虫片",
+    "Text": "",
+    "Enabled": false
+  },
+  "350211": {
+    "OriginalText": "グランブの爪片",
+    "Text": "Granb Claw Part",
+    "Enabled": true
+  },
+  "350212": {
+    "OriginalText": "バリドランナの粘片",
+    "Text": "",
+    "Enabled": false
+  },
+  "350213": {
+    "OriginalText": "ロウトルリンプのヒレ片",
+    "Text": "",
+    "Enabled": false
+  },
+  "350214": {
+    "OriginalText": "テュルトアスの皮片",
+    "Text": "Tulletoas Pelt",
+    "Enabled": true
+  },
+  "350215": {
+    "OriginalText": "アルキュオネの手片",
+    "Text": "",
+    "Enabled": false
+  },
+  "350216": {
+    "OriginalText": "ノイ・ウィンディラスの尾",
+    "Text": "",
+    "Enabled": false
+  },
+  "350217": {
+    "OriginalText": "バリバッツの翼枝",
+    "Text": "",
+    "Enabled": false
+  },
+  "350218": {
+    "OriginalText": "グランブの甲羅",
+    "Text": "",
+    "Enabled": false
+  },
+  "350219": {
+    "OriginalText": "バリドランナの朽爪",
+    "Text": "",
+    "Enabled": false
+  },
+  "350220": {
+    "OriginalText": "ロウトルリンプの胸ビレ",
+    "Text": "",
+    "Enabled": false
+  },
+  "350221": {
+    "OriginalText": "テュルトアスの硬レンズ",
+    "Text": "",
+    "Enabled": false
+  },
+  "350222": {
+    "OriginalText": "アルキュオネの虫麦",
+    "Text": "",
+    "Enabled": false
+  },
+  "350223": {
+    "OriginalText": "ノイ・ウィンディラスの角",
+    "Text": "",
+    "Enabled": false
+  },
+  "350224": {
+    "OriginalText": "バリバッツの大目玉",
+    "Text": "",
+    "Enabled": false
+  },
+  "350225": {
+    "OriginalText": "グランブの硬凝液結晶",
+    "Text": "",
+    "Enabled": false
+  },
+  "350226": {
+    "OriginalText": "バリドランナの大光玉",
+    "Text": "",
+    "Enabled": false
+  },
+  "350227": {
+    "OriginalText": "ロウトルリンプの硬尾ひれ",
+    "Text": "",
+    "Enabled": false
+  },
+  "350228": {
+    "OriginalText": "テュルトアスの吸引麦",
+    "Text": "",
+    "Enabled": false
+  },
+  "350229": {
+    "OriginalText": "アルキュオネの硬肩部伝甲",
+    "Text": "",
+    "Enabled": false
+  },
+  "350230": {
+    "OriginalText": "機械生洋の甲片",
+    "Text": "",
+    "Enabled": false
+  },
+  "350231": {
+    "OriginalText": "機械生洋の油片",
+    "Text": "",
+    "Enabled": false
+  },
+  "350232": {
+    "OriginalText": "機械生洋のフレーム",
+    "Text": "",
+    "Enabled": false
+  },
+  "350233": {
+    "OriginalText": "獣の牙",
+    "Text": "Monster Fang",
+    "Enabled": true
+  },
+  "350234": {
+    "OriginalText": "獣の骨",
+    "Text": "Monster Bone",
+    "Enabled": true
+  },
+  "350235": {
+    "OriginalText": "ギガンテスの殻片",
+    "Text": "",
+    "Enabled": false
+  },
+  "350236": {
+    "OriginalText": "巨大な触角",
+    "Text": "",
+    "Enabled": false
+  },
+  "350237": {
+    "OriginalText": "ベガルフの牙片",
+    "Text": "Begulf Fang",
+    "Enabled": true
+  },
+  "350238": {
+    "OriginalText": "フォンベガルフの牙片",
+    "Text": "Fonbegulf Fang",
+    "Enabled": true
+  },
+  "350239": {
+    "OriginalText": "アセラビーソの刃片",
+    "Text": "Ase Rabbis Blade",
+    "Enabled": true
+  },
+  "350240": {
+    "OriginalText": "エデルクリトロの爪片",
+    "Text": "Eder Critter Claw Part",
+    "Enabled": true
+  },
+  "350241": {
+    "OriginalText": "トネルバンクゥの石片",
+    "Text": "",
+    "Enabled": false
+  },
+  "350242": {
+    "OriginalText": "レイバンサーの銃身",
+    "Text": "",
+    "Enabled": false
+  },
+  "350243": {
+    "OriginalText": "ディートアスの皮片",
+    "Text": "Ditoas Pelt",
+    "Enabled": true
+  },
+  "350244": {
+    "OriginalText": "Ｇエル・ダガンの脚片",
+    "Text": "G-El Dagan Leg",
+    "Enabled": true
+  },
+  "350245": {
+    "OriginalText": "Ｇダーガッシュの歯片",
+    "Text": "",
+    "Enabled": false
+  },
+  "350246": {
+    "OriginalText": "Ｇウォルガーダのヒレ片",
+    "Text": "G-Wolgahda Fillet",
+    "Enabled": true
+  },
+  "350247": {
+    "OriginalText": "エウリュードの爪片",
+    "Text": "Elude Claw Part",
+    "Enabled": true
+  },
+  "350248": {
+    "OriginalText": "ベガルフの体煽",
+    "Text": "",
+    "Enabled": false
+  },
+  "350249": {
+    "OriginalText": "フォンベガルフの体煽",
+    "Text": "",
+    "Enabled": false
+  },
+  "350250": {
+    "OriginalText": "アセラビーソの原動機",
+    "Text": "",
+    "Enabled": false
+  },
+  "350251": {
+    "OriginalText": "エデルクリトロの煽皮",
+    "Text": "",
+    "Enabled": false
+  },
+  "350252": {
+    "OriginalText": "トネルバンクゥの宝石",
+    "Text": "",
+    "Enabled": false
+  },
+  "350253": {
+    "OriginalText": "レイバンサーの角",
+    "Text": "",
+    "Enabled": false
+  },
+  "350254": {
+    "OriginalText": "ディートアスのレンズ",
+    "Text": "",
+    "Enabled": false
+  },
+  "350255": {
+    "OriginalText": "Ｇエル・ダガンの硬甲殻",
+    "Text": "",
+    "Enabled": false
+  },
+  "350256": {
+    "OriginalText": "Ｇダーガッシュの尾ひれ",
+    "Text": "",
+    "Enabled": false
+  },
+  "350257": {
+    "OriginalText": "Ｇウォルガーダの目玉",
+    "Text": "",
+    "Enabled": false
+  },
+  "350258": {
+    "OriginalText": "エウリュードの砲身",
+    "Text": "",
+    "Enabled": false
+  },
+  "350259": {
+    "OriginalText": "ベガルフの爪",
+    "Text": "Begulf Claw",
+    "Enabled": true
+  },
+  "350260": {
+    "OriginalText": "フォンベガルフの鋭爪",
+    "Text": "",
+    "Enabled": false
+  },
+  "350261": {
+    "OriginalText": "アセラビーソの硬耳部鎖",
+    "Text": "",
+    "Enabled": false
+  },
+  "350262": {
+    "OriginalText": "クリトロの頭骨",
+    "Text": "",
+    "Enabled": false
+  },
+  "350263": {
+    "OriginalText": "トネルバンクゥの第三の目",
+    "Text": "",
+    "Enabled": false
+  },
+  "350264": {
+    "OriginalText": "レイバンサーの爪",
+    "Text": "",
+    "Enabled": false
+  },
+  "350265": {
+    "OriginalText": "ディートアスの大吸引麦",
+    "Text": "",
+    "Enabled": false
+  },
+  "350266": {
+    "OriginalText": "Ｇエル・ダガンの爪",
+    "Text": "G-El Dagan Claw",
+    "Enabled": true
+  },
+  "350267": {
+    "OriginalText": "Ｇダーガッシュの大胸ビレ",
+    "Text": "",
+    "Enabled": false
+  },
+  "350268": {
+    "OriginalText": "Ｇウォルガーダの鋭牙",
+    "Text": "",
+    "Enabled": false
+  },
+  "350269": {
+    "OriginalText": "エウリュードの大弾頭",
+    "Text": "",
+    "Enabled": false
+  },
+  "350270": {
+    "OriginalText": "獣の爪",
+    "Text": "Monster Claw",
+    "Enabled": true
+  },
+  "350271": {
+    "OriginalText": "ロヴラッピーの甲片",
+    "Text": "",
+    "Enabled": false
+  },
+  "350272": {
+    "OriginalText": "ヴィマフレザールの皮片",
+    "Text": "Vi Maphrezer Pelt",
+    "Enabled": true
+  },
+  "350273": {
+    "OriginalText": "バレダイナスの銃片",
+    "Text": "",
+    "Enabled": false
+  },
+  "350274": {
+    "OriginalText": "シルブカーネベアの砲片",
+    "Text": "",
+    "Enabled": false
+  },
+  "350275": {
+    "OriginalText": "ダーカーの盾片",
+    "Text": "Darker Exoskeleton",
+    "Enabled": true
+  },
+  "350276": {
+    "OriginalText": "ダーカーの完全な大盾",
+    "Text": "",
+    "Enabled": false
+  },
+  "350277": {
+    "OriginalText": "ロヴラッピーの主翼",
+    "Text": "",
+    "Enabled": false
+  },
+  "350278": {
+    "OriginalText": "ヴィマフレザールの朽爪",
+    "Text": "",
+    "Enabled": false
+  },
+  "350279": {
+    "OriginalText": "バレダイナスの弾倉",
+    "Text": "",
+    "Enabled": false
+  },
+  "350280": {
+    "OriginalText": "シルブカーネベアの煽皮",
+    "Text": "",
+    "Enabled": false
+  },
+  "350281": {
+    "OriginalText": "ダーカーのヒレ刀",
+    "Text": "",
+    "Enabled": false
+  },
+  "350282": {
+    "OriginalText": "ダーカーの完全な鋭ヒレ刀",
+    "Text": "",
+    "Enabled": false
+  },
+  "350283": {
+    "OriginalText": "ロヴラッピーの大機",
+    "Text": "",
+    "Enabled": false
+  },
+  "350284": {
+    "OriginalText": "ヴィマフレザールの硬皮枝",
+    "Text": "",
+    "Enabled": false
+  },
+  "350285": {
+    "OriginalText": "バレダイナスのサイト",
+    "Text": "",
+    "Enabled": false
+  },
+  "350286": {
+    "OriginalText": "シルブカーネベアの頭骨",
+    "Text": "",
+    "Enabled": false
+  },
+  "350287": {
+    "OriginalText": "Ｇガウォンダの大盾破片",
+    "Text": "",
+    "Enabled": false
+  },
+  "350288": {
+    "OriginalText": "Ｇグウォンダの大盾破片",
+    "Text": "",
+    "Enabled": false
+  },
+  "350289": {
+    "OriginalText": "ギュゲンテのβ脚",
+    "Text": "",
+    "Enabled": false
+  },
+  "350290": {
+    "OriginalText": "ギュゲンテの尾",
+    "Text": "",
+    "Enabled": false
+  },
+  "350291": {
+    "OriginalText": "ギュゲンテの伝甲",
+    "Text": "",
+    "Enabled": false
+  },
+  "350292": {
+    "OriginalText": "ギュゲンテの大砲塔部品",
+    "Text": "",
+    "Enabled": false
+  },
+  "350293": {
+    "OriginalText": "リ・ゲンテのドリル",
+    "Text": "",
+    "Enabled": false
+  },
+  "350294": {
+    "OriginalText": "フロベガルフの牙",
+    "Text": "",
+    "Enabled": false
+  },
+  "350295": {
+    "OriginalText": "フロフォンベガルフの牙",
+    "Text": "",
+    "Enabled": false
+  },
+  "350296": {
+    "OriginalText": "イエーデンの爪",
+    "Text": "Yeden Claw",
+    "Enabled": true
+  },
+  "350297": {
+    "OriginalText": "ブロラビーソの刃",
+    "Text": "",
+    "Enabled": false
+  },
+  "350298": {
+    "OriginalText": "オーニクリトロの爪",
+    "Text": "Oni Critter Claw",
+    "Enabled": true
+  },
+  "350299": {
+    "OriginalText": "クリトロクィーンの爪",
+    "Text": "",
+    "Enabled": false
+  },
+  "350300": {
+    "OriginalText": "トルリンプのヒレ",
+    "Text": "",
+    "Enabled": false
+  },
+  "350301": {
+    "OriginalText": "Ｇシャルレイダの甲羅",
+    "Text": "",
+    "Enabled": false
+  },
+  "350302": {
+    "OriginalText": "グレイオスの主砲",
+    "Text": "",
+    "Enabled": false
+  },
+  "350303": {
+    "OriginalText": "フロベガルフの体煽",
+    "Text": "",
+    "Enabled": false
+  },
+  "350304": {
+    "OriginalText": "フロフォンベガルフの体煽",
+    "Text": "",
+    "Enabled": false
+  },
+  "350305": {
+    "OriginalText": "イエーデンの煽皮",
+    "Text": "",
+    "Enabled": false
+  },
+  "350306": {
+    "OriginalText": "ブロラビーソの原動機",
+    "Text": "",
+    "Enabled": false
+  },
+  "350307": {
+    "OriginalText": "オーニクリトロの煽皮",
+    "Text": "",
+    "Enabled": false
+  },
+  "350308": {
+    "OriginalText": "クリトロクィーンの煽皮",
+    "Text": "",
+    "Enabled": false
+  },
+  "350309": {
+    "OriginalText": "トルリンプの大胸ビレ",
+    "Text": "",
+    "Enabled": false
+  },
+  "350310": {
+    "OriginalText": "Ｇシャルレイダの鋭腕刃",
+    "Text": "",
+    "Enabled": false
+  },
+  "350311": {
+    "OriginalText": "グレイオスの鋭角",
+    "Text": "",
+    "Enabled": false
+  },
+  "350312": {
+    "OriginalText": "フロベガルフの爪",
+    "Text": "Flobegulf Claw",
+    "Enabled": true
+  },
+  "350313": {
+    "OriginalText": "フロフォンベガルフの爪",
+    "Text": "Flo Fonbegulf Claw",
+    "Enabled": true
+  },
+  "350314": {
+    "OriginalText": "イエーデンの硬頭骨",
+    "Text": "",
+    "Enabled": false
+  },
+  "350315": {
+    "OriginalText": "ブロラビーソの耳部鎖",
+    "Text": "",
+    "Enabled": false
+  },
+  "350316": {
+    "OriginalText": "オーニクリトロの頭骨",
+    "Text": "",
+    "Enabled": false
+  },
+  "350317": {
+    "OriginalText": "クリトロ・クィーンの頭骨",
+    "Text": "",
+    "Enabled": false
+  },
+  "350318": {
+    "OriginalText": "トルリンプの尾ひれ",
+    "Text": "",
+    "Enabled": false
+  },
+  "350319": {
+    "OriginalText": "Ｇシャルレイダの甲羅",
+    "Text": "",
+    "Enabled": false
+  },
+  "350320": {
+    "OriginalText": "グレイオスの完全な剣板",
+    "Text": "",
+    "Enabled": false
+  },
+  "350321": {
+    "OriginalText": "膜β類の牙",
+    "Text": "",
+    "Enabled": false
+  },
+  "350322": {
+    "OriginalText": "ドギオスの骨",
+    "Text": "",
+    "Enabled": false
+  },
+  "350323": {
+    "OriginalText": "サフグランブの爪",
+    "Text": "Sahugranb Claw",
+    "Enabled": true
+  },
+  "350324": {
+    "OriginalText": "マガヴルムの手",
+    "Text": "",
+    "Enabled": false
+  },
+  "350325": {
+    "OriginalText": "リバッツの虫",
+    "Text": "",
+    "Enabled": false
+  },
+  "350326": {
+    "OriginalText": "ウィ・ロヴラッピーの是甲",
+    "Text": "",
+    "Enabled": false
+  },
+  "350327": {
+    "OriginalText": "コパイエーデンの爪片",
+    "Text": "Kopa Yeden Claw Part",
+    "Enabled": true
+  },
+  "350328": {
+    "OriginalText": "ポリジュラキアの羽",
+    "Text": "",
+    "Enabled": false
+  },
+  "350329": {
+    "OriginalText": "マーバレダイナスの銃",
+    "Text": "",
+    "Enabled": false
+  },
+  "350330": {
+    "OriginalText": "水晶竜族の結晶",
+    "Text": "",
+    "Enabled": false
+  },
+  "350331": {
+    "OriginalText": "サフグランブの甲羅",
+    "Text": "",
+    "Enabled": false
+  },
+  "350332": {
+    "OriginalText": "マガヴルムの銃身",
+    "Text": "",
+    "Enabled": false
+  },
+  "350333": {
+    "OriginalText": "リバッツの翼枝",
+    "Text": "",
+    "Enabled": false
+  },
+  "350334": {
+    "OriginalText": "ウィ・ロヴラッピーの主翼",
+    "Text": "",
+    "Enabled": false
+  },
+  "350335": {
+    "OriginalText": "コパイエーデンの煽皮",
+    "Text": "",
+    "Enabled": false
+  },
+  "350336": {
+    "OriginalText": "ポリジュラキアの骨",
+    "Text": "Poly Jurakia Bone",
+    "Enabled": true
+  },
+  "350337": {
+    "OriginalText": "マーバレダイナスの弾倉",
+    "Text": "",
+    "Enabled": false
+  },
+  "350338": {
+    "OriginalText": "水晶竜族の結晶珪",
+    "Text": "",
+    "Enabled": false
+  },
+  "350339": {
+    "OriginalText": "サフグランブの凝液結晶",
+    "Text": "",
+    "Enabled": false
+  },
+  "350340": {
+    "OriginalText": "マガヴルムの盾",
+    "Text": "",
+    "Enabled": false
+  },
+  "350341": {
+    "OriginalText": "リバッツの目玉",
+    "Text": "",
+    "Enabled": false
+  },
+  "350342": {
+    "OriginalText": "ウィ・ロヴラッピーの大機",
+    "Text": "",
+    "Enabled": false
+  },
+  "350343": {
+    "OriginalText": "コパイエーデンの硬頭骨",
+    "Text": "",
+    "Enabled": false
+  },
+  "350344": {
+    "OriginalText": "ポリジュラキアの大尾羽",
+    "Text": "",
+    "Enabled": false
+  },
+  "350345": {
+    "OriginalText": "マーバレダイナスのサイト",
+    "Text": "",
+    "Enabled": false
+  },
+  "350346": {
+    "OriginalText": "水晶竜族の鋭結晶角",
+    "Text": "",
+    "Enabled": false
+  },
+  "350347": {
+    "OriginalText": "アビアディノの骨",
+    "Text": "Aviadino Bone",
+    "Enabled": true
+  },
+  "350348": {
+    "OriginalText": "クロザードのヒレ",
+    "Text": "",
+    "Enabled": false
+  },
+  "350349": {
+    "OriginalText": "エルマフレザールの硬皮",
+    "Text": "",
+    "Enabled": false
+  },
+  "350350": {
+    "OriginalText": "フリラウーダンの爪",
+    "Text": "Fury Ra Oodan Claw",
+    "Enabled": true
+  },
+  "350351": {
+    "OriginalText": "ミステルンの鋭角",
+    "Text": "",
+    "Enabled": false
+  },
+  "350352": {
+    "OriginalText": "ラビーソの刃片",
+    "Text": "Rabbis Blade",
+    "Enabled": true
+  },
+  "350353": {
+    "OriginalText": "レイバンサーの駆動銃座",
+    "Text": "",
+    "Enabled": false
+  },
+  "350354": {
+    "OriginalText": "ウィンディラスの翼",
+    "Text": "",
+    "Enabled": false
+  },
+  "350355": {
+    "OriginalText": "ガンジュラキアの羽片",
+    "Text": "Gun Jurakia Wing",
+    "Enabled": true
+  },
+  "350356": {
+    "OriginalText": "バンクゥの硬宝石",
+    "Text": "",
+    "Enabled": false
+  },
+  "350357": {
+    "OriginalText": "レウ・ロヴラッピーの是甲",
+    "Text": "",
+    "Enabled": false
+  },
+  "350358": {
+    "OriginalText": "シードギオスの盾",
+    "Text": "",
+    "Enabled": false
+  },
+  "350359": {
+    "OriginalText": "モストカーネベアの硬砲身",
+    "Text": "",
+    "Enabled": false
+  },
+  "350360": {
+    "OriginalText": "マドアビアディノの大コブ",
+    "Text": "",
+    "Enabled": false
+  },
+  "350361": {
+    "OriginalText": "ガラティオンの鋭ノコ刃",
+    "Text": "",
+    "Enabled": false
+  },
+  "350362": {
+    "OriginalText": "クロザードの爪",
+    "Text": "Gu Rozad Claw",
+    "Enabled": true
+  },
+  "350363": {
+    "OriginalText": "エルマフレザールの鋭朽爪",
+    "Text": "",
+    "Enabled": false
+  },
+  "350364": {
+    "OriginalText": "フリラウーダンの煽皮",
+    "Text": "",
+    "Enabled": false
+  },
+  "350365": {
+    "OriginalText": "ミステルンの鋭翼角",
+    "Text": "",
+    "Enabled": false
+  },
+  "350366": {
+    "OriginalText": "ラビーソの原動機",
+    "Text": "",
+    "Enabled": false
+  },
+  "350367": {
+    "OriginalText": "大きなレイバンサーの頭角破片",
+    "Text": "",
+    "Enabled": false
+  },
+  "350368": {
+    "OriginalText": "ウィンディラスの大尾",
+    "Text": "",
+    "Enabled": false
+  },
+  "350369": {
+    "OriginalText": "ガンジュラキアの硬骨",
+    "Text": "",
+    "Enabled": false
+  },
+  "350370": {
+    "OriginalText": "バンクゥの大宝石",
+    "Text": "",
+    "Enabled": false
+  },
+  "350371": {
+    "OriginalText": "レウ・ロヴラッピーの主翼",
+    "Text": "",
+    "Enabled": false
+  },
+  "350372": {
+    "OriginalText": "シードギオスの硬伝甲",
+    "Text": "",
+    "Enabled": false
+  },
+  "350373": {
+    "OriginalText": "モストカーネベアの煽皮",
+    "Text": "",
+    "Enabled": false
+  },
+  "350374": {
+    "OriginalText": "マドアビアディノの鋭爪",
+    "Text": "",
+    "Enabled": false
+  },
+  "350375": {
+    "OriginalText": "ガラティオンの鉄線",
+    "Text": "",
+    "Enabled": false
+  },
+  "350376": {
+    "OriginalText": "クロザードの完全な背びれ",
+    "Text": "",
+    "Enabled": false
+  },
+  "350377": {
+    "OriginalText": "エルマフレザールの皮枝",
+    "Text": "",
+    "Enabled": false
+  },
+  "350378": {
+    "OriginalText": "フリラウーダンの鋭牙",
+    "Text": "",
+    "Enabled": false
+  },
+  "350379": {
+    "OriginalText": "ミステルンの頭角",
+    "Text": "",
+    "Enabled": false
+  },
+  "350380": {
+    "OriginalText": "ラビーソの硬耳部鎖",
+    "Text": "",
+    "Enabled": false
+  },
+  "350381": {
+    "OriginalText": "レイバンサーの大きな爪",
+    "Text": "",
+    "Enabled": false
+  },
+  "350382": {
+    "OriginalText": "ウィンディラスの角",
+    "Text": "",
+    "Enabled": false
+  },
+  "350383": {
+    "OriginalText": "ガンジュラキアの尾羽",
+    "Text": "",
+    "Enabled": false
+  },
+  "350384": {
+    "OriginalText": "バンクゥの第三の目",
+    "Text": "",
+    "Enabled": false
+  },
+  "350385": {
+    "OriginalText": "レウ・ロヴラッピーの大油",
+    "Text": "",
+    "Enabled": false
+  },
+  "350386": {
+    "OriginalText": "シードギオスの完全な盾",
+    "Text": "",
+    "Enabled": false
+  },
+  "350387": {
+    "OriginalText": "モストカーネベアの頭骨",
+    "Text": "",
+    "Enabled": false
+  },
+  "350388": {
+    "OriginalText": "マドアビアディノの歯",
+    "Text": "",
+    "Enabled": false
+  },
+  "350389": {
+    "OriginalText": "ガラティオンの硬骨格",
+    "Text": "",
+    "Enabled": false
+  },
+  "350390": {
+    "OriginalText": "ラーアビアディノのコブ",
+    "Text": "",
+    "Enabled": false
+  },
+  "350391": {
+    "OriginalText": "メドジュラキアの大羽",
+    "Text": "",
+    "Enabled": false
+  },
+  "350392": {
+    "OriginalText": "バンサーの爪",
+    "Text": "",
+    "Enabled": false
+  },
+  "350393": {
+    "OriginalText": "ラピミステルンの角",
+    "Text": "",
+    "Enabled": false
+  },
+  "350394": {
+    "OriginalText": "ヴァッドギオスの硬盾",
+    "Text": "",
+    "Enabled": false
+  },
+  "350395": {
+    "OriginalText": "スロザードのヒレ",
+    "Text": "",
+    "Enabled": false
+  },
+  "350396": {
+    "OriginalText": "ノイバリドランナの粘",
+    "Text": "",
+    "Enabled": false
+  },
+  "350397": {
+    "OriginalText": "ヴィバレダイナスの銃",
+    "Text": "",
+    "Enabled": false
+  },
+  "350398": {
+    "OriginalText": "ウイマフレザールの皮",
+    "Text": "",
+    "Enabled": false
+  },
+  "350399": {
+    "OriginalText": "Ｇダーク・ラグネの大脚甲",
+    "Text": "",
+    "Enabled": false
+  },
+  "350400": {
+    "OriginalText": "ヴィヴリュードの爪",
+    "Text": "",
+    "Enabled": false
+  },
+  "350401": {
+    "OriginalText": "デェフキュオネの触手",
+    "Text": "",
+    "Enabled": false
+  },
+  "350402": {
+    "OriginalText": "ラーアビアディノの爪",
+    "Text": "Lar Aviadino Claw",
+    "Enabled": true
+  },
+  "350403": {
+    "OriginalText": "メドジュラキアの硬骨",
+    "Text": "",
+    "Enabled": false
+  },
+  "350404": {
+    "OriginalText": "バンサーの牙",
+    "Text": "",
+    "Enabled": false
+  },
+  "350405": {
+    "OriginalText": "ラピミステルンの鋭翼角",
+    "Text": "",
+    "Enabled": false
+  },
+  "350406": {
+    "OriginalText": "ヴァッドギオスの硬伝甲",
+    "Text": "",
+    "Enabled": false
+  },
+  "350407": {
+    "OriginalText": "スロザードの鋭爪",
+    "Text": "",
+    "Enabled": false
+  },
+  "350408": {
+    "OriginalText": "ノイバリドランナの鋭爪",
+    "Text": "",
+    "Enabled": false
+  },
+  "350409": {
+    "OriginalText": "ヴィバレダイナスの大弾倉",
+    "Text": "",
+    "Enabled": false
+  },
+  "350410": {
+    "OriginalText": "ウイマフレザールの鋭朽爪",
+    "Text": "",
+    "Enabled": false
+  },
+  "350411": {
+    "OriginalText": "Ｇダーク・ラグネの朽爪",
+    "Text": "",
+    "Enabled": false
+  },
+  "350412": {
+    "OriginalText": "ヴィヴリュードの硬砲身",
+    "Text": "",
+    "Enabled": false
+  },
+  "350413": {
+    "OriginalText": "デェフキュオネの大虫麦",
+    "Text": "",
+    "Enabled": false
+  },
+  "350414": {
+    "OriginalText": "ラーアビアディノの鋭歯",
+    "Text": "",
+    "Enabled": false
+  },
+  "350415": {
+    "OriginalText": "メドジュラキアの尾羽",
+    "Text": "",
+    "Enabled": false
+  },
+  "350416": {
+    "OriginalText": "バンサーの頭角",
+    "Text": "",
+    "Enabled": false
+  },
+  "350417": {
+    "OriginalText": "ラピミステルンの頭角",
+    "Text": "",
+    "Enabled": false
+  },
+  "350418": {
+    "OriginalText": "ヴァッドギオスの完全な盾",
+    "Text": "",
+    "Enabled": false
+  },
+  "350419": {
+    "OriginalText": "スロザードの完全な背びれ",
+    "Text": "",
+    "Enabled": false
+  },
+  "350420": {
+    "OriginalText": "ノイ・バリドランナの光玉",
+    "Text": "",
+    "Enabled": false
+  },
+  "350421": {
+    "OriginalText": "ヴィバレダイナスのサイト",
+    "Text": "",
+    "Enabled": false
+  },
+  "350422": {
+    "OriginalText": "ウイマフレザールの皮枝",
+    "Text": "",
+    "Enabled": false
+  },
+  "350423": {
+    "OriginalText": "Ｇダーク・ラグネの硬触角",
+    "Text": "",
+    "Enabled": false
+  },
+  "350424": {
+    "OriginalText": "ヴィヴリュードの弾頭",
+    "Text": "",
+    "Enabled": false
+  },
+  "350425": {
+    "OriginalText": "デェフキュオネの硬肩伝甲",
+    "Text": "",
+    "Enabled": false
+  },
+  "350426": {
+    "OriginalText": "巨大な爪",
+    "Text": "",
+    "Enabled": false
+  },
+  "350427": {
+    "OriginalText": "ゴルドスの硬制御杭",
+    "Text": "",
+    "Enabled": false
+  },
+  "350428": {
+    "OriginalText": "ゴルドスの鋭攻撃杭",
+    "Text": "",
+    "Enabled": false
+  },
+  "350429": {
+    "OriginalText": "ゴルドスの巨大な角",
+    "Text": "",
+    "Enabled": false
+  },
+  "350430": {
+    "OriginalText": "機械生洋の硬皮枝",
+    "Text": "",
+    "Enabled": false
+  },
+  "350431": {
+    "OriginalText": "機械生洋の硬骨格",
+    "Text": "Hard Biomechanical Frame",
+    "Enabled": true
+  },
+  "350432": {
+    "OriginalText": "機械生洋の爪",
+    "Text": "",
+    "Enabled": false
+  },
+  "350433": {
+    "OriginalText": "ファンアフォルの金属皮枝",
+    "Text": "",
+    "Enabled": false
+  },
+  "350434": {
+    "OriginalText": "レイヴガイストの硬武伝腕",
+    "Text": "",
+    "Enabled": false
+  },
+  "350435": {
+    "OriginalText": "ファンアフォルの硬骨格",
+    "Text": "",
+    "Enabled": false
+  },
+  "350436": {
+    "OriginalText": "レイヴガイストの大結界",
+    "Text": "",
+    "Enabled": false
+  },
+  "350437": {
+    "OriginalText": "Ｇキュクロナーダのしっぽ",
+    "Text": "",
+    "Enabled": false
+  },
+  "350438": {
+    "OriginalText": "レイヴガイストの大収束器",
+    "Text": "",
+    "Enabled": false
+  },
+  "350439": {
+    "OriginalText": "ウロザードの硬ヒレ",
+    "Text": "",
+    "Enabled": false
+  },
+  "350440": {
+    "OriginalText": "レゾルカーネベアの硬砲身",
+    "Text": "",
+    "Enabled": false
+  },
+  "350441": {
+    "OriginalText": "オルテ・マガヴルムの硬手",
+    "Text": "",
+    "Enabled": false
+  },
+  "350442": {
+    "OriginalText": "パーグランブの鋭爪",
+    "Text": "",
+    "Enabled": false
+  },
+  "350443": {
+    "OriginalText": "イーグマンデルの硬鱗",
+    "Text": "",
+    "Enabled": false
+  },
+  "350444": {
+    "OriginalText": "マクロージの鋭角",
+    "Text": "",
+    "Enabled": false
+  },
+  "350445": {
+    "OriginalText": "エアドギオスの大盾",
+    "Text": "",
+    "Enabled": false
+  },
+  "350446": {
+    "OriginalText": "エクセージＴの小腕",
+    "Text": "",
+    "Enabled": false
+  },
+  "350447": {
+    "OriginalText": "ファンアフォルの大翼",
+    "Text": "",
+    "Enabled": false
+  },
+  "350448": {
+    "OriginalText": "ギガティオンの鋭ノコ刃",
+    "Text": "",
+    "Enabled": false
+  },
+  "350449": {
+    "OriginalText": "レイヴガイストの仮面破片",
+    "Text": "",
+    "Enabled": false
+  },
+  "350450": {
+    "OriginalText": "ウロザードの鋭爪",
+    "Text": "",
+    "Enabled": false
+  },
+  "350451": {
+    "OriginalText": "レゾルカーネベアの大煽皮",
+    "Text": "",
+    "Enabled": false
+  },
+  "350452": {
+    "OriginalText": "オルテ・マガヴルムの大銃",
+    "Text": "",
+    "Enabled": false
+  },
+  "350453": {
+    "OriginalText": "パーグランブの硬甲羅",
+    "Text": "",
+    "Enabled": false
+  },
+  "350454": {
+    "OriginalText": "イーグマンデルの大髭",
+    "Text": "",
+    "Enabled": false
+  },
+  "350455": {
+    "OriginalText": "マクロージの大目玉",
+    "Text": "",
+    "Enabled": false
+  },
+  "350456": {
+    "OriginalText": "エアドギオスの硬伝甲",
+    "Text": "",
+    "Enabled": false
+  },
+  "350457": {
+    "OriginalText": "エクセージＴの大目玉",
+    "Text": "",
+    "Enabled": false
+  },
+  "350458": {
+    "OriginalText": "ファンアフォルの大尾羽",
+    "Text": "",
+    "Enabled": false
+  },
+  "350459": {
+    "OriginalText": "ギガティオンの硬鉄線",
+    "Text": "",
+    "Enabled": false
+  },
+  "350460": {
+    "OriginalText": "レイヴヒュフテの仮面破片",
+    "Text": "",
+    "Enabled": false
+  },
+  "350461": {
+    "OriginalText": "ウロザードの完全な背びれ",
+    "Text": "",
+    "Enabled": false
+  },
+  "350462": {
+    "OriginalText": "レゾルカーネベアの硬頭骨",
+    "Text": "",
+    "Enabled": false
+  },
+  "350463": {
+    "OriginalText": "オルテ・マガヴルムの盾",
+    "Text": "",
+    "Enabled": false
+  },
+  "350464": {
+    "OriginalText": "パーグランブの凝液結晶",
+    "Text": "",
+    "Enabled": false
+  },
+  "350465": {
+    "OriginalText": "イーグマンデルの頭骨",
+    "Text": "",
+    "Enabled": false
+  },
+  "350466": {
+    "OriginalText": "エアドギオスの完全な盾",
+    "Text": "",
+    "Enabled": false
+  },
+  "350467": {
+    "OriginalText": "エクセージＴの鋭杭腕",
+    "Text": "",
+    "Enabled": false
+  },
+  "350468": {
+    "OriginalText": "ファンアフォルの目玉",
+    "Text": "",
+    "Enabled": false
+  },
+  "350469": {
+    "OriginalText": "ギガティオンの翼の骨格",
+    "Text": "",
+    "Enabled": false
+  },
+  "350470": {
+    "OriginalText": "レイヴガイストの硬仮面",
+    "Text": "",
+    "Enabled": false
+  },
+  "350471": {
+    "OriginalText": "赤い甲殻",
+    "Text": "",
+    "Enabled": false
+  },
+  "350472": {
+    "OriginalText": "赤い鱗",
+    "Text": "",
+    "Enabled": false
+  },
+  "350473": {
+    "OriginalText": "赤いヒレ",
+    "Text": "",
+    "Enabled": false
+  },
+  "350474": {
+    "OriginalText": "ガーグランブの鋭爪",
+    "Text": "",
+    "Enabled": false
+  },
+  "350475": {
+    "OriginalText": "ラーバレダイナスの銃身",
+    "Text": "",
+    "Enabled": false
+  },
+  "350476": {
+    "OriginalText": "マグネトアスの硬皮",
+    "Text": "",
+    "Enabled": false
+  },
+  "350477": {
+    "OriginalText": "グリバッツの虫麦",
+    "Text": "",
+    "Enabled": false
+  },
+  "350478": {
+    "OriginalText": "スォロバンクゥの宝石破片",
+    "Text": "",
+    "Enabled": false
+  },
+  "350479": {
+    "OriginalText": "スマラクリトロの鋭爪",
+    "Text": "",
+    "Enabled": false
+  },
+  "350480": {
+    "OriginalText": "レイバンサーの大機関砲",
+    "Text": "",
+    "Enabled": false
+  },
+  "350481": {
+    "OriginalText": "バオム・マガヴルムの硬手",
+    "Text": "",
+    "Enabled": false
+  },
+  "350482": {
+    "OriginalText": "ヴェンバンクゥの硬宝石",
+    "Text": "",
+    "Enabled": false
+  },
+  "350483": {
+    "OriginalText": "エレマンデルの硬棘鱗皮",
+    "Text": "",
+    "Enabled": false
+  },
+  "350484": {
+    "OriginalText": "オラルカーネベアの硬砲身",
+    "Text": "",
+    "Enabled": false
+  },
+  "350485": {
+    "OriginalText": "アビアディノの大コブ",
+    "Text": "",
+    "Enabled": false
+  },
+  "350486": {
+    "OriginalText": "アガミステルンの鋭角",
+    "Text": "",
+    "Enabled": false
+  },
+  "350487": {
+    "OriginalText": "ディゴルドスの硬制御杭",
+    "Text": "",
+    "Enabled": false
+  },
+  "350488": {
+    "OriginalText": "ポルトルリンプの大ヒレ",
+    "Text": "",
+    "Enabled": false
+  },
+  "350489": {
+    "OriginalText": "フレスバンクゥの宝石破片",
+    "Text": "",
+    "Enabled": false
+  },
+  "350490": {
+    "OriginalText": "ブリバッツの虫麦",
+    "Text": "",
+    "Enabled": false
+  },
+  "350491": {
+    "OriginalText": "ファラレイバンサーの銃身",
+    "Text": "",
+    "Enabled": false
+  },
+  "350492": {
+    "OriginalText": "フォードギオスの盾の破片",
+    "Text": "",
+    "Enabled": false
+  },
+  "350493": {
+    "OriginalText": "オルゴルドスの硬制御杭",
+    "Text": "",
+    "Enabled": false
+  },
+  "350494": {
+    "OriginalText": "アルテイオスの大主砲",
+    "Text": "",
+    "Enabled": false
+  },
+  "350495": {
+    "OriginalText": "グラヴディオンの鋭刃",
+    "Text": "",
+    "Enabled": false
+  },
+  "350496": {
+    "OriginalText": "リベルゲンテの硬伝甲",
+    "Text": "",
+    "Enabled": false
+  },
+  "350497": {
+    "OriginalText": "ネメスフースの仮面破片",
+    "Text": "",
+    "Enabled": false
+  },
+  "350498": {
+    "OriginalText": "ガーグランブの硬甲羅",
+    "Text": "",
+    "Enabled": false
+  },
+  "350499": {
+    "OriginalText": "ラーバレダイナスの大弾倉",
+    "Text": "",
+    "Enabled": false
+  },
+  "350500": {
+    "OriginalText": "マグネトアスの硬レンズ",
+    "Text": "",
+    "Enabled": false
+  },
+  "350501": {
+    "OriginalText": "グリバッツの硬翼枝",
+    "Text": "",
+    "Enabled": false
+  },
+  "350502": {
+    "OriginalText": "スォロバンクゥの大宝石",
+    "Text": "",
+    "Enabled": false
+  },
+  "350503": {
+    "OriginalText": "スマラクリトロの大煽皮",
+    "Text": "",
+    "Enabled": false
+  },
+  "350504": {
+    "OriginalText": "レイバンサーの鋭頭角",
+    "Text": "",
+    "Enabled": false
+  },
+  "350505": {
+    "OriginalText": "バオム・マガヴルムの大銃",
+    "Text": "",
+    "Enabled": false
+  },
+  "350506": {
+    "OriginalText": "ヴェンバンクゥの大宝石",
+    "Text": "",
+    "Enabled": false
+  },
+  "350507": {
+    "OriginalText": "エレマンデルの大髭",
+    "Text": "",
+    "Enabled": false
+  },
+  "350508": {
+    "OriginalText": "オラルカーネベアの大煽皮",
+    "Text": "",
+    "Enabled": false
+  },
+  "350509": {
+    "OriginalText": "アビアディノの鋭爪",
+    "Text": "",
+    "Enabled": false
+  },
+  "350510": {
+    "OriginalText": "アガミステルンの鋭翼角",
+    "Text": "",
+    "Enabled": false
+  },
+  "350511": {
+    "OriginalText": "ディゴルドスの鋭攻撃杭",
+    "Text": "",
+    "Enabled": false
+  },
+  "350512": {
+    "OriginalText": "ポルトルリンプの大胸ビレ",
+    "Text": "",
+    "Enabled": false
+  },
+  "350513": {
+    "OriginalText": "フレスバンクゥの大宝石",
+    "Text": "",
+    "Enabled": false
+  },
+  "350514": {
+    "OriginalText": "ブリバッツの硬翼枝",
+    "Text": "",
+    "Enabled": false
+  },
+  "350515": {
+    "OriginalText": "ファラレイバンサーの頭角",
+    "Text": "",
+    "Enabled": false
+  },
+  "350516": {
+    "OriginalText": "フォードギオスの硬伝甲",
+    "Text": "",
+    "Enabled": false
+  },
+  "350517": {
+    "OriginalText": "オルゴルドスの鋭攻撃杭",
+    "Text": "",
+    "Enabled": false
+  },
+  "350518": {
+    "OriginalText": "アルテイオスの鋭角",
+    "Text": "",
+    "Enabled": false
+  },
+  "350519": {
+    "OriginalText": "グラヴディオンの硬鉄線",
+    "Text": "",
+    "Enabled": false
+  },
+  "350520": {
+    "OriginalText": "リベルゲンテの大砲塔部品",
+    "Text": "",
+    "Enabled": false
+  },
+  "350521": {
+    "OriginalText": "ネメスヒュフテの仮面破片",
+    "Text": "",
+    "Enabled": false
+  },
+  "350522": {
+    "OriginalText": "ガーグランブの硬凝液結晶",
+    "Text": "",
+    "Enabled": false
+  },
+  "350523": {
+    "OriginalText": "ラーバレダイナスの大照準",
+    "Text": "",
+    "Enabled": false
+  },
+  "350524": {
+    "OriginalText": "マグネトアスの大吸引麦",
+    "Text": "",
+    "Enabled": false
+  },
+  "350525": {
+    "OriginalText": "グリバッツの目玉",
+    "Text": "",
+    "Enabled": false
+  },
+  "350526": {
+    "OriginalText": "スォロバンクゥの第三の目",
+    "Text": "",
+    "Enabled": false
+  },
+  "350527": {
+    "OriginalText": "スマラクリトロの頭骨",
+    "Text": "",
+    "Enabled": false
+  },
+  "350528": {
+    "OriginalText": "レイバンサーの鋭朽爪",
+    "Text": "",
+    "Enabled": false
+  },
+  "350529": {
+    "OriginalText": "バオム・マガヴルムの盾",
+    "Text": "",
+    "Enabled": false
+  },
+  "350530": {
+    "OriginalText": "ヴェンバンクゥの第三の目",
+    "Text": "",
+    "Enabled": false
+  },
+  "350531": {
+    "OriginalText": "エレマンデルの頭骨",
+    "Text": "",
+    "Enabled": false
+  },
+  "350532": {
+    "OriginalText": "オラルカーネベアの頭骨",
+    "Text": "",
+    "Enabled": false
+  },
+  "350533": {
+    "OriginalText": "アビアディノの歯",
+    "Text": "",
+    "Enabled": false
+  },
+  "350534": {
+    "OriginalText": "アガミステルンの頭角",
+    "Text": "",
+    "Enabled": false
+  },
+  "350535": {
+    "OriginalText": "ディゴルドスの巨大な角",
+    "Text": "",
+    "Enabled": false
+  },
+  "350536": {
+    "OriginalText": "ポルトルリンプの尾ひれ",
+    "Text": "",
+    "Enabled": false
+  },
+  "350537": {
+    "OriginalText": "フレスバンクゥの第三の目",
+    "Text": "",
+    "Enabled": false
+  },
+  "350538": {
+    "OriginalText": "ブリバッツの目玉",
+    "Text": "",
+    "Enabled": false
+  },
+  "350539": {
+    "OriginalText": "ファラレイバンサーの朽爪",
+    "Text": "",
+    "Enabled": false
+  },
+  "350540": {
+    "OriginalText": "フォードギオスの完全な盾",
+    "Text": "",
+    "Enabled": false
+  },
+  "350541": {
+    "OriginalText": "オルゴルドスの巨大な角",
+    "Text": "",
+    "Enabled": false
+  },
+  "350542": {
+    "OriginalText": "アルテイオスの完全な剣板",
+    "Text": "",
+    "Enabled": false
+  },
+  "350543": {
+    "OriginalText": "グラヴディオンの翼の骨格",
+    "Text": "",
+    "Enabled": false
+  },
+  "350544": {
+    "OriginalText": "エア・ゲンテの鋭ドリル",
+    "Text": "",
+    "Enabled": false
+  },
+  "350545": {
+    "OriginalText": "ネメスガイストの仮面破片",
+    "Text": "",
+    "Enabled": false
+  },
+  "350546": {
+    "OriginalText": "ア・マクロージの角",
+    "Text": "",
+    "Enabled": false
+  },
+  "350547": {
+    "OriginalText": "ア・マクロージの目玉",
+    "Text": "",
+    "Enabled": false
+  },
+  "350548": {
+    "OriginalText": "ウィルアフォルの翼",
+    "Text": "",
+    "Enabled": false
+  },
+  "350549": {
+    "OriginalText": "レ・マクロージの鋭角",
+    "Text": "",
+    "Enabled": false
+  },
+  "350550": {
+    "OriginalText": "ブ・マクロージの角",
+    "Text": "",
+    "Enabled": false
+  },
+  "350551": {
+    "OriginalText": "レ・エクセージＴの小腕",
+    "Text": "",
+    "Enabled": false
+  },
+  "350552": {
+    "OriginalText": "ウィルアフォルの尾羽",
+    "Text": "",
+    "Enabled": false
+  },
+  "350553": {
+    "OriginalText": "レ・マクロージの大目玉",
+    "Text": "",
+    "Enabled": false
+  },
+  "350554": {
+    "OriginalText": "ブ・マクロージの目玉",
+    "Text": "",
+    "Enabled": false
+  },
+  "350555": {
+    "OriginalText": "レ・エクセージＴの大目玉",
+    "Text": "",
+    "Enabled": false
+  },
+  "350556": {
+    "OriginalText": "ウィルアフォルの目玉",
+    "Text": "",
+    "Enabled": false
+  },
+  "350557": {
+    "OriginalText": "レ・エクセージＴの鋭杭腕",
+    "Text": "",
+    "Enabled": false
+  },
+  "350558": {
+    "OriginalText": "レ・エクセージＴの神経核",
+    "Text": "",
+    "Enabled": false
+  },
+  "350559": {
+    "OriginalText": "赤いβ羽根",
+    "Text": "",
+    "Enabled": false
+  },
+  "350560": {
+    "OriginalText": "赤い大鱗",
+    "Text": "",
+    "Enabled": false
+  },
+  "350561": {
+    "OriginalText": "赤いトサカ",
+    "Text": "",
+    "Enabled": false
+  },
+  "350562": {
+    "OriginalText": "赤い触角",
+    "Text": "",
+    "Enabled": false
+  },
+  "350563": {
+    "OriginalText": "赤い鱗皮",
+    "Text": "",
+    "Enabled": false
+  },
+  "350564": {
+    "OriginalText": "赤い復眼",
+    "Text": "",
+    "Enabled": false
+  },
+  "350565": {
+    "OriginalText": "赤い外殻",
+    "Text": "",
+    "Enabled": false
+  },
+  "350566": {
+    "OriginalText": "赤い足",
+    "Text": "",
+    "Enabled": false
+  },
+  "350567": {
+    "OriginalText": "赤い肉片",
+    "Text": "",
+    "Enabled": false
+  },
+  "350568": {
+    "OriginalText": "バンサーの鋭朽爪",
+    "Text": "",
+    "Enabled": false
+  },
+  "350569": {
+    "OriginalText": "トアス・ヒュブオンの伸温する皮",
+    "Text": "",
+    "Enabled": false
+  },
+  "350570": {
+    "OriginalText": "ディアマ・ドラールの結晶片",
+    "Text": "",
+    "Enabled": false
+  },
+  "350571": {
+    "OriginalText": "ラウーダン・リアスの爪",
+    "Text": "Ra Oodan Lias Claw",
+    "Enabled": true
+  },
+  "350572": {
+    "OriginalText": "ヴォーロラス・ドラウの翼",
+    "Text": "",
+    "Enabled": false
+  },
+  "350573": {
+    "OriginalText": "ロザード・トカの背びれ",
+    "Text": "",
+    "Enabled": false
+  },
+  "350574": {
+    "OriginalText": "フェブリルナ・ドラウの粘玉",
+    "Text": "",
+    "Enabled": false
+  },
+  "350575": {
+    "OriginalText": "ダイナス・タングスの銃身",
+    "Text": "",
+    "Enabled": false
+  },
+  "350576": {
+    "OriginalText": "マフレザール・オリヴの皮枝片",
+    "Text": "",
+    "Enabled": false
+  },
+  "350577": {
+    "OriginalText": "ゴルドス・ビガオの制御杭",
+    "Text": "",
+    "Enabled": false
+  },
+  "350578": {
+    "OriginalText": "ミステルン・オーロの角破片",
+    "Text": "",
+    "Enabled": false
+  },
+  "350579": {
+    "OriginalText": "ベガルフ・ライオの牙",
+    "Text": "",
+    "Enabled": false
+  },
+  "350580": {
+    "OriginalText": "フォンベガルフ・ライオの牙",
+    "Text": "",
+    "Enabled": false
+  },
+  "350581": {
+    "OriginalText": "イエーデン・アイエの爪",
+    "Text": "Yeden Aie Claw",
+    "Enabled": true
+  },
+  "350582": {
+    "OriginalText": "ラビーソ・プラテの小さな刃",
+    "Text": "",
+    "Enabled": false
+  },
+  "350583": {
+    "OriginalText": "クリトロ・テュルレの爪",
+    "Text": "Critter True Claw",
+    "Enabled": true
+  },
+  "350584": {
+    "OriginalText": "トルリンプ・ゴウルのヒレ",
+    "Text": "",
+    "Enabled": false
+  },
+  "350585": {
+    "OriginalText": "ジュラキア・スクアの羽",
+    "Text": "",
+    "Enabled": false
+  },
+  "350586": {
+    "OriginalText": "ロヴラッピー・ロセの是甲",
+    "Text": "",
+    "Enabled": false
+  },
+  "350587": {
+    "OriginalText": "カーネベア・ゴルヴァの砲身片",
+    "Text": "",
+    "Enabled": false
+  },
+  "350588": {
+    "OriginalText": "アビアディノ・ロクサのコブ",
+    "Text": "",
+    "Enabled": false
+  },
+  "350589": {
+    "OriginalText": "バンクゥ・フリュの宝石破片",
+    "Text": "",
+    "Enabled": false
+  },
+  "350590": {
+    "OriginalText": "リバッツ・シルの虫麦",
+    "Text": "",
+    "Enabled": false
+  },
+  "350591": {
+    "OriginalText": "レイバンサ・オクシの銃身",
+    "Text": "",
+    "Enabled": false
+  },
+  "350592": {
+    "OriginalText": "マガヴルム・クロウの触手",
+    "Text": "",
+    "Enabled": false
+  },
+  "350593": {
+    "OriginalText": "グランブ・ダイの爪",
+    "Text": "Granb Dai Claw",
+    "Enabled": true
+  },
+  "350594": {
+    "OriginalText": "マンデル・ナートの棘鱗皮",
+    "Text": "",
+    "Enabled": false
+  },
+  "350595": {
+    "OriginalText": "ドギオス・ルフレの盾の破片",
+    "Text": "",
+    "Enabled": false
+  },
+  "350596": {
+    "OriginalText": "アフォル・フェイズの翼",
+    "Text": "",
+    "Enabled": false
+  },
+  "350597": {
+    "OriginalText": "マクロージ・ネスの角",
+    "Text": "",
+    "Enabled": false
+  },
+  "350598": {
+    "OriginalText": "エクセージＴ・ネスの小腕",
+    "Text": "",
+    "Enabled": false
+  },
+  "350599": {
+    "OriginalText": "Ｇダガン・ネロの脚",
+    "Text": "",
+    "Enabled": false
+  },
+  "350600": {
+    "OriginalText": "ミステルンの大しっぽ",
+    "Text": "",
+    "Enabled": false
+  },
+  "350601": {
+    "OriginalText": "Ｇミ・ミクダの脚",
+    "Text": "",
+    "Enabled": false
+  },
+  "350602": {
+    "OriginalText": "Ｇプレディカーダ・ネロの小刃",
+    "Text": "",
+    "Enabled": false
+  },
+  "350603": {
+    "OriginalText": "巨大眼球の赤い水晶体",
+    "Text": "",
+    "Enabled": false
+  },
+  "350604": {
+    "OriginalText": "Ｇエル・アーダ・ネロの針",
+    "Text": "",
+    "Enabled": false
+  },
+  "350605": {
+    "OriginalText": "Ｇダーガッシュ・ネロの歯",
+    "Text": "",
+    "Enabled": false
+  },
+  "350606": {
+    "OriginalText": "Ｇアロナガーダのたてがみヒレ",
+    "Text": "",
+    "Enabled": false
+  },
+  "350607": {
+    "OriginalText": "Ｇガウォンダ・ネロの盾破片",
+    "Text": "",
+    "Enabled": false
+  },
+  "350608": {
+    "OriginalText": "Ｇグウォンダ・ネロの盾破片",
+    "Text": "",
+    "Enabled": false
+  },
+  "350609": {
+    "OriginalText": "Ｇライルレイダ の甲羅破片",
+    "Text": "",
+    "Enabled": false
+  },
+  "350610": {
+    "OriginalText": "Ｇダーク・ラグネの脚",
+    "Text": "",
+    "Enabled": false
+  },
+  "350611": {
+    "OriginalText": "バンサーの鋭牙",
+    "Text": "",
+    "Enabled": false
+  },
+  "350612": {
+    "OriginalText": "トアス・ヒュブオンの圧温レンズ",
+    "Text": "",
+    "Enabled": false
+  },
+  "350613": {
+    "OriginalText": "水晶竜の巨大結晶",
+    "Text": "",
+    "Enabled": false
+  },
+  "350614": {
+    "OriginalText": "ラウーダン・リアスの煽皮",
+    "Text": "",
+    "Enabled": false
+  },
+  "350615": {
+    "OriginalText": "ヴォーロラス・ドラウの尾",
+    "Text": "",
+    "Enabled": false
+  },
+  "350616": {
+    "OriginalText": "ロザード・トカの爪",
+    "Text": "Rozad Toqa Claw",
+    "Enabled": true
+  },
+  "350617": {
+    "OriginalText": "フェブリルナ・ドラウの朽爪",
+    "Text": "",
+    "Enabled": false
+  },
+  "350618": {
+    "OriginalText": "ダイナス・タングスの弾倉",
+    "Text": "",
+    "Enabled": false
+  },
+  "350619": {
+    "OriginalText": "マフレザール・オリヴの朽爪",
+    "Text": "",
+    "Enabled": false
+  },
+  "350620": {
+    "OriginalText": "ゴルドス・ビガオの攻撃杭",
+    "Text": "",
+    "Enabled": false
+  },
+  "350621": {
+    "OriginalText": "ミステルン・オーロの翼角",
+    "Text": "",
+    "Enabled": false
+  },
+  "350622": {
+    "OriginalText": "ベガルフ・ライオの体煽",
+    "Text": "",
+    "Enabled": false
+  },
+  "350623": {
+    "OriginalText": "フォンベガルフ・ライオの体煽",
+    "Text": "",
+    "Enabled": false
+  },
+  "350624": {
+    "OriginalText": "イエーデン・アイエの煽皮",
+    "Text": "",
+    "Enabled": false
+  },
+  "350625": {
+    "OriginalText": "ラビーソ・プラテの原動機",
+    "Text": "",
+    "Enabled": false
+  },
+  "350626": {
+    "OriginalText": "クリトロ・テュルレの煽皮",
+    "Text": "",
+    "Enabled": false
+  },
+  "350627": {
+    "OriginalText": "トルリンプ・ゴウルの胸ビレ",
+    "Text": "",
+    "Enabled": false
+  },
+  "350628": {
+    "OriginalText": "ジュラキア・スクアの骨",
+    "Text": "Jurakia Skuah Bone",
+    "Enabled": true
+  },
+  "350629": {
+    "OriginalText": "ロヴラッピー・ロセの主翼",
+    "Text": "",
+    "Enabled": false
+  },
+  "350630": {
+    "OriginalText": "カーネベア・ゴルヴァの煽皮",
+    "Text": "",
+    "Enabled": false
+  },
+  "350631": {
+    "OriginalText": "アビアディノ・ロクサの爪",
+    "Text": "Aviadino Roxa Claw",
+    "Enabled": true
+  },
+  "350632": {
+    "OriginalText": "バンクゥ・フリュの宝石",
+    "Text": "",
+    "Enabled": false
+  },
+  "350633": {
+    "OriginalText": "リバッツ・シルの翼枝",
+    "Text": "",
+    "Enabled": false
+  },
+  "350634": {
+    "OriginalText": "レイバンサ・オクシの頭角",
+    "Text": "",
+    "Enabled": false
+  },
+  "350635": {
+    "OriginalText": "マガヴルム・クロウの銃身",
+    "Text": "",
+    "Enabled": false
+  },
+  "350636": {
+    "OriginalText": "グランブ・ダイの甲羅",
+    "Text": "",
+    "Enabled": false
+  },
+  "350637": {
+    "OriginalText": "マンデル・ナートのたてがみ",
+    "Text": "",
+    "Enabled": false
+  },
+  "350638": {
+    "OriginalText": "ドギオス・ルフレの是体伝甲",
+    "Text": "",
+    "Enabled": false
+  },
+  "350639": {
+    "OriginalText": "アフォル・フェイズの尾羽",
+    "Text": "",
+    "Enabled": false
+  },
+  "350640": {
+    "OriginalText": "マクロージ・ネスの目玉",
+    "Text": "",
+    "Enabled": false
+  },
+  "350641": {
+    "OriginalText": "エクセージＴ・ネスの目玉",
+    "Text": "",
+    "Enabled": false
+  },
+  "350642": {
+    "OriginalText": "Ｇダガン・ネロの甲殻",
+    "Text": "G-Dagan Nero Shell",
+    "Enabled": true
+  },
+  "350643": {
+    "OriginalText": "結晶竜族のしっぽ",
+    "Text": "",
+    "Enabled": false
+  },
+  "350644": {
+    "OriginalText": "Ｇミ・ミクダの甲羅",
+    "Text": "",
+    "Enabled": false
+  },
+  "350645": {
+    "OriginalText": "Ｇプレディカーダ・ネロの脚",
+    "Text": "",
+    "Enabled": false
+  },
+  "350646": {
+    "OriginalText": "Gパイクロナーダのしっぽ",
+    "Text": "",
+    "Enabled": false
+  },
+  "350647": {
+    "OriginalText": "Ｇエル・アーダ・ネロの羽根",
+    "Text": "",
+    "Enabled": false
+  },
+  "350648": {
+    "OriginalText": "Ｇダーガッシュ・ネロの尾ひれ",
+    "Text": "",
+    "Enabled": false
+  },
+  "350649": {
+    "OriginalText": "Ｇアロナガーダの目玉",
+    "Text": "",
+    "Enabled": false
+  },
+  "350650": {
+    "OriginalText": "Ｇガウォンダ・ネロのヒレ刀",
+    "Text": "",
+    "Enabled": false
+  },
+  "350651": {
+    "OriginalText": "Ｇグウォンダ・ネロのヒレ刀",
+    "Text": "",
+    "Enabled": false
+  },
+  "350652": {
+    "OriginalText": "Ｇライルレイダ の腕刃",
+    "Text": "",
+    "Enabled": false
+  },
+  "350653": {
+    "OriginalText": "Ｇダーク・アグラニの巨大な腕爪",
+    "Text": "",
+    "Enabled": false
+  },
+  "350654": {
+    "OriginalText": "バンサーの鋭頭角",
+    "Text": "",
+    "Enabled": false
+  },
+  "350655": {
+    "OriginalText": "トアス・ヒュブオンの吸引麦",
+    "Text": "",
+    "Enabled": false
+  },
+  "350656": {
+    "OriginalText": "水晶竜の完全な結晶角",
+    "Text": "",
+    "Enabled": false
+  },
+  "350657": {
+    "OriginalText": "ラウーダン・リアスの牙",
+    "Text": "",
+    "Enabled": false
+  },
+  "350658": {
+    "OriginalText": "ヴォーロラス・ドラウの角",
+    "Text": "",
+    "Enabled": false
+  },
+  "350659": {
+    "OriginalText": "ロザード・トカの完全な背びれ",
+    "Text": "",
+    "Enabled": false
+  },
+  "350660": {
+    "OriginalText": "フェブリルナ・ドラウの光玉",
+    "Text": "",
+    "Enabled": false
+  },
+  "350661": {
+    "OriginalText": "ダイナス・タングスのサイト",
+    "Text": "",
+    "Enabled": false
+  },
+  "350662": {
+    "OriginalText": "マフレザール・オリヴの皮枝",
+    "Text": "",
+    "Enabled": false
+  },
+  "350663": {
+    "OriginalText": "ゴルドス・ビガオの巨大な角",
+    "Text": "",
+    "Enabled": false
+  },
+  "350664": {
+    "OriginalText": "ミステルン・オーロの頭角",
+    "Text": "",
+    "Enabled": false
+  },
+  "350665": {
+    "OriginalText": "ベガルフ・ライオの爪",
+    "Text": "Begulf Rioh Claw",
+    "Enabled": true
+  },
+  "350666": {
+    "OriginalText": "フォンベガルフ・ライオの爪",
+    "Text": "Fonbegulf Raioh Claw",
+    "Enabled": true
+  },
+  "350667": {
+    "OriginalText": "イエーデン・アイエの頭骨",
+    "Text": "",
+    "Enabled": false
+  },
+  "350668": {
+    "OriginalText": "ラビーソ・プラテの耳部鎖",
+    "Text": "",
+    "Enabled": false
+  },
+  "350669": {
+    "OriginalText": "クリトロ・テュルレの頭骨",
+    "Text": "",
+    "Enabled": false
+  },
+  "350670": {
+    "OriginalText": "トルリンプ・ゴウルの尾ひれ",
+    "Text": "",
+    "Enabled": false
+  },
+  "350671": {
+    "OriginalText": "ジュラキア・スクアの尾羽",
+    "Text": "",
+    "Enabled": false
+  },
+  "350672": {
+    "OriginalText": "ロヴラッピー・ロセの機関",
+    "Text": "",
+    "Enabled": false
+  },
+  "350673": {
+    "OriginalText": "カーネベア・ゴルヴァの頭骨",
+    "Text": "",
+    "Enabled": false
+  },
+  "350674": {
+    "OriginalText": "アビアディノ・ロクサの歯",
+    "Text": "",
+    "Enabled": false
+  },
+  "350675": {
+    "OriginalText": "バンクゥ・フリュの第三の目",
+    "Text": "",
+    "Enabled": false
+  },
+  "350676": {
+    "OriginalText": "リバッツ・シルの目玉",
+    "Text": "",
+    "Enabled": false
+  },
+  "350677": {
+    "OriginalText": "レイバンサ・オクシの朽爪",
+    "Text": "",
+    "Enabled": false
+  },
+  "350678": {
+    "OriginalText": "マガヴルム・クロウの盾",
+    "Text": "",
+    "Enabled": false
+  },
+  "350679": {
+    "OriginalText": "グランブ・ダイの凝液結晶",
+    "Text": "",
+    "Enabled": false
+  },
+  "350680": {
+    "OriginalText": "マンデル・ナートの頭骨",
+    "Text": "",
+    "Enabled": false
+  },
+  "350681": {
+    "OriginalText": "ドギオス・ルフレの完全な盾",
+    "Text": "",
+    "Enabled": false
+  },
+  "350682": {
+    "OriginalText": "アフォル・フェイズの目玉",
+    "Text": "",
+    "Enabled": false
+  },
+  "350683": {
+    "OriginalText": "マクロージ・ネスの抗体",
+    "Text": "",
+    "Enabled": false
+  },
+  "350684": {
+    "OriginalText": "エクセージＴ・ネスの杭腕",
+    "Text": "",
+    "Enabled": false
+  },
+  "350685": {
+    "OriginalText": "Ｇダガン・ネロの爪",
+    "Text": "G-Dagan Nero Claw",
+    "Enabled": true
+  },
+  "350686": {
+    "OriginalText": "トルリンプのしっぽ",
+    "Text": "",
+    "Enabled": false
+  },
+  "350687": {
+    "OriginalText": "Ｇミ・ミクダの角",
+    "Text": "",
+    "Enabled": false
+  },
+  "350688": {
+    "OriginalText": "Ｇプレディカーダ・ネロの腕刃",
+    "Text": "",
+    "Enabled": false
+  },
+  "350689": {
+    "OriginalText": "Gパイクロナーダの腕跳",
+    "Text": "",
+    "Enabled": false
+  },
+  "350690": {
+    "OriginalText": "Ｇエル・アーダ・ネロの触角",
+    "Text": "",
+    "Enabled": false
+  },
+  "350691": {
+    "OriginalText": "Ｇダーガッシュ・ネロの胸ビレ",
+    "Text": "",
+    "Enabled": false
+  },
+  "350692": {
+    "OriginalText": "Ｇアロナガーダの牙",
+    "Text": "",
+    "Enabled": false
+  },
+  "350693": {
+    "OriginalText": "Ｇガウォンダ・ネロの大盾破片",
+    "Text": "",
+    "Enabled": false
+  },
+  "350694": {
+    "OriginalText": "Ｇグウォンダ・ネロの大盾破片",
+    "Text": "",
+    "Enabled": false
+  },
+  "350695": {
+    "OriginalText": "Ｇライルレイダ の甲羅",
+    "Text": "",
+    "Enabled": false
+  },
+  "350696": {
+    "OriginalText": "Ｇダーク・アグラニの触角",
+    "Text": "",
+    "Enabled": false
+  },
+  "350697": {
+    "OriginalText": "ギガンテスの銃片",
+    "Text": "",
+    "Enabled": false
+  },
+  "350698": {
+    "OriginalText": "点火伝置",
+    "Text": "",
+    "Enabled": false
+  },
+  "350699": {
+    "OriginalText": "ギガンテスのレーザー片",
+    "Text": "",
+    "Enabled": false
+  },
+  "350700": {
+    "OriginalText": "ギガンテスのミサイル片",
+    "Text": "",
+    "Enabled": false
+  },
+  "350701": {
+    "OriginalText": "マクロージの抗体",
+    "Text": "",
+    "Enabled": false
+  },
+  "350702": {
+    "OriginalText": "ア・マクロージの抗体",
+    "Text": "",
+    "Enabled": false
+  },
+  "350703": {
+    "OriginalText": "レ・マクロージの抗体",
+    "Text": "",
+    "Enabled": false
+  },
+  "350704": {
+    "OriginalText": "ブ・マクロージの抗体",
+    "Text": "",
+    "Enabled": false
+  },
+  "350705": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "350706": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "350707": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "350708": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "350709": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "350710": {
+    "OriginalText": "メモリーフラグメントＪ",
+    "Text": "",
+    "Enabled": false
+  },
+  "350711": {
+    "OriginalText": "メモリーフラグメントＫ",
+    "Text": "",
+    "Enabled": false
+  },
+  "350712": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "350713": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "350714": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "350715": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "350716": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "350717": {
+    "OriginalText": "ベリサイト",
+    "Text": "",
+    "Enabled": false
+  },
+  "350718": {
+    "OriginalText": "赤いベリサイト",
+    "Text": "",
+    "Enabled": false
+  },
+  "350719": {
+    "OriginalText": "ミメット鉱",
+    "Text": "",
+    "Enabled": false
+  },
+  "350720": {
+    "OriginalText": "紅のミメット鉱",
+    "Text": "",
+    "Enabled": false
+  },
+  "350721": {
+    "OriginalText": "アテレスタイト",
+    "Text": "",
+    "Enabled": false
+  },
+  "350722": {
+    "OriginalText": "黄色いアテレスタイト",
+    "Text": "",
+    "Enabled": false
+  },
+  "350723": {
+    "OriginalText": "ハイウィーアイト",
+    "Text": "",
+    "Enabled": false
+  },
+  "350724": {
+    "OriginalText": "瞬くハイウィーアイト",
+    "Text": "",
+    "Enabled": false
+  },
+  "350725": {
+    "OriginalText": "ユークレース",
+    "Text": "",
+    "Enabled": false
+  },
+  "350726": {
+    "OriginalText": "青いユークレース",
+    "Text": "",
+    "Enabled": false
+  },
+  "350727": {
+    "OriginalText": "ブルーカルセドニー",
+    "Text": "",
+    "Enabled": false
+  },
+  "350728": {
+    "OriginalText": "蒼いブルーカルセドニー",
+    "Text": "",
+    "Enabled": false
+  },
+  "350729": {
+    "OriginalText": "エラチェライト",
+    "Text": "",
+    "Enabled": false
+  },
+  "350730": {
+    "OriginalText": "緑のエラチェライト",
+    "Text": "",
+    "Enabled": false
+  },
+  "350731": {
+    "OriginalText": "エクロジャイト",
+    "Text": "",
+    "Enabled": false
+  },
+  "350732": {
+    "OriginalText": "のエクロジャイト",
+    "Text": "",
+    "Enabled": false
+  },
+  "350733": {
+    "OriginalText": "エレスタド石",
+    "Text": "",
+    "Enabled": false
+  },
+  "350734": {
+    "OriginalText": "白いエレスタド石",
+    "Text": "",
+    "Enabled": false
+  },
+  "350735": {
+    "OriginalText": "ペンクビルクサイト",
+    "Text": "",
+    "Enabled": false
+  },
+  "350736": {
+    "OriginalText": "煌くペンクビルクサイト",
+    "Text": "",
+    "Enabled": false
+  },
+  "350737": {
+    "OriginalText": "アーセニオプレアイト",
+    "Text": "",
+    "Enabled": false
+  },
+  "350738": {
+    "OriginalText": "黒いアーセニオプレアイト",
+    "Text": "",
+    "Enabled": false
+  },
+  "350739": {
+    "OriginalText": "ウォールサイト",
+    "Text": "",
+    "Enabled": false
+  },
+  "350740": {
+    "OriginalText": "漆黒のウォールサイト",
+    "Text": "",
+    "Enabled": false
+  },
+  "350741": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "350742": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "350743": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "350744": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "350745": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "350746": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "350747": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "350748": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "350749": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "350750": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "350751": {
+    "OriginalText": "Ｇクラーダの超爪",
+    "Text": "",
+    "Enabled": false
+  },
+  "350752": {
+    "OriginalText": "Ｇダガンの超脚",
+    "Text": "",
+    "Enabled": false
+  },
+  "350753": {
+    "OriginalText": "Ｇエル・ダガンの超脚",
+    "Text": "",
+    "Enabled": false
+  },
+  "350754": {
+    "OriginalText": "Ｇエル・アーダの超針",
+    "Text": "",
+    "Enabled": false
+  },
+  "350755": {
+    "OriginalText": "Ｇプレディカーダの超腕刃",
+    "Text": "",
+    "Enabled": false
+  },
+  "350756": {
+    "OriginalText": "Ｇダーク・ラグネの超脚甲",
+    "Text": "",
+    "Enabled": false
+  },
+  "350757": {
+    "OriginalText": "Ｇミクダの超甲羅",
+    "Text": "",
+    "Enabled": false
+  },
+  "350758": {
+    "OriginalText": "Ｇダーガッシュの超背びれ",
+    "Text": "",
+    "Enabled": false
+  },
+  "350759": {
+    "OriginalText": "Ｇガウォンダの超盾",
+    "Text": "",
+    "Enabled": false
+  },
+  "350760": {
+    "OriginalText": "Ｇグウォンダの超盾",
+    "Text": "",
+    "Enabled": false
+  },
+  "350761": {
+    "OriginalText": "Ｇウォルガーダの超髪",
+    "Text": "",
+    "Enabled": false
+  },
+  "350762": {
+    "OriginalText": "Ｇキュクロナーダの超腕",
+    "Text": "",
+    "Enabled": false
+  },
+  "350763": {
+    "OriginalText": "Ｇシャルレイダの超甲羅",
+    "Text": "",
+    "Enabled": false
+  },
+  "350764": {
+    "OriginalText": "バリドランナの超光玉",
+    "Text": "",
+    "Enabled": false
+  },
+  "350765": {
+    "OriginalText": "ノイバリドランナの超光玉",
+    "Text": "",
+    "Enabled": false
+  },
+  "350766": {
+    "OriginalText": "ウィンディラスの超翼",
+    "Text": "",
+    "Enabled": false
+  },
+  "350767": {
+    "OriginalText": "ノイウィンディラスの超翼",
+    "Text": "",
+    "Enabled": false
+  },
+  "350768": {
+    "OriginalText": "コラル・ドラゴンの超角",
+    "Text": "",
+    "Enabled": false
+  },
+  "350769": {
+    "OriginalText": "ラウーダンの超髪",
+    "Text": "",
+    "Enabled": false
+  },
+  "350770": {
+    "OriginalText": "フリラウーダンの超髪",
+    "Text": "",
+    "Enabled": false
+  },
+  "350771": {
+    "OriginalText": "ベガルフの超苔尾",
+    "Text": "",
+    "Enabled": false
+  },
+  "350772": {
+    "OriginalText": "フロベガルフの超苔尾",
+    "Text": "",
+    "Enabled": false
+  },
+  "350773": {
+    "OriginalText": "イエーデンの超煽皮",
+    "Text": "",
+    "Enabled": false
+  },
+  "350774": {
+    "OriginalText": "コパイエーデンの超煽皮",
+    "Text": "",
+    "Enabled": false
+  },
+  "350775": {
+    "OriginalText": "フォンベガルフの超角",
+    "Text": "",
+    "Enabled": false
+  },
+  "350776": {
+    "OriginalText": "フロフォンベガルフの超角",
+    "Text": "",
+    "Enabled": false
+  },
+  "350777": {
+    "OriginalText": "グルナバンサーの超牙",
+    "Text": "",
+    "Enabled": false
+  },
+  "350778": {
+    "OriginalText": "ジャッドバンサーの超牙",
+    "Text": "",
+    "Enabled": false
+  },
+  "350779": {
+    "OriginalText": "ロヴラッピーの超翼",
+    "Text": "",
+    "Enabled": false
+  },
+  "350780": {
+    "OriginalText": "ウィ・ロヴラッピーの超翼",
+    "Text": "",
+    "Enabled": false
+  },
+  "350781": {
+    "OriginalText": "レウ・ロヴラッピーの超翼",
+    "Text": "",
+    "Enabled": false
+  },
+  "350782": {
+    "OriginalText": "マガヴルムの超銃",
+    "Text": "",
+    "Enabled": false
+  },
+  "350783": {
+    "OriginalText": "バオム・マガヴルムの超銃",
+    "Text": "",
+    "Enabled": false
+  },
+  "350784": {
+    "OriginalText": "オルテ・マガヴルムの超銃",
+    "Text": "",
+    "Enabled": false
+  },
+  "350785": {
+    "OriginalText": "ラビーソの超回転刃",
+    "Text": "",
+    "Enabled": false
+  },
+  "350786": {
+    "OriginalText": "ブロラビーソの超回転刃",
+    "Text": "",
+    "Enabled": false
+  },
+  "350787": {
+    "OriginalText": "アセラビーソの超回転刃",
+    "Text": "",
+    "Enabled": false
+  },
+  "350788": {
+    "OriginalText": "ロザードの超背びれ",
+    "Text": "",
+    "Enabled": false
+  },
+  "350789": {
+    "OriginalText": "ウロザードの超背びれ",
+    "Text": "",
+    "Enabled": false
+  },
+  "350790": {
+    "OriginalText": "クロザードの超背びれ",
+    "Text": "",
+    "Enabled": false
+  },
+  "350791": {
+    "OriginalText": "スロザードの超背びれ",
+    "Text": "",
+    "Enabled": false
+  },
+  "350792": {
+    "OriginalText": "マフレザールの超巻",
+    "Text": "",
+    "Enabled": false
+  },
+  "350793": {
+    "OriginalText": "ヴィマフレザールの超巻",
+    "Text": "",
+    "Enabled": false
+  },
+  "350794": {
+    "OriginalText": "エルマフレザールの超巻",
+    "Text": "",
+    "Enabled": false
+  },
+  "350795": {
+    "OriginalText": "ウイマフレザールの超巻",
+    "Text": "",
+    "Enabled": false
+  },
+  "350796": {
+    "OriginalText": "ジュラキアの超羽煽",
+    "Text": "",
+    "Enabled": false
+  },
+  "350797": {
+    "OriginalText": "メドジュラキアの超羽煽",
+    "Text": "",
+    "Enabled": false
+  },
+  "350798": {
+    "OriginalText": "ポリジュラキアの超羽煽",
+    "Text": "",
+    "Enabled": false
+  },
+  "350799": {
+    "OriginalText": "ガンジュラキアの超羽煽",
+    "Text": "",
+    "Enabled": false
+  },
+  "350800": {
+    "OriginalText": "リバッツの超ドリル",
+    "Text": "",
+    "Enabled": false
+  },
+  "350801": {
+    "OriginalText": "グリバッツの超ドリル",
+    "Text": "",
+    "Enabled": false
+  },
+  "350802": {
+    "OriginalText": "バリバッツの超ドリル",
+    "Text": "",
+    "Enabled": false
+  },
+  "350803": {
+    "OriginalText": "ブリバッツの超ドリル",
+    "Text": "",
+    "Enabled": false
+  },
+  "350804": {
+    "OriginalText": "グランブの超巻き祭",
+    "Text": "",
+    "Enabled": false
+  },
+  "350805": {
+    "OriginalText": "ガーグランブの超巻き祭",
+    "Text": "",
+    "Enabled": false
+  },
+  "350806": {
+    "OriginalText": "サフグランブの超巻き祭",
+    "Text": "",
+    "Enabled": false
+  },
+  "350807": {
+    "OriginalText": "パーグランブの超巻き祭",
+    "Text": "",
+    "Enabled": false
+  },
+  "350808": {
+    "OriginalText": "バンクゥの超結界",
+    "Text": "",
+    "Enabled": false
+  },
+  "350809": {
+    "OriginalText": "フレスバンクゥの超結界",
+    "Text": "",
+    "Enabled": false
+  },
+  "350810": {
+    "OriginalText": "ヴェンバンクゥの超結界",
+    "Text": "",
+    "Enabled": false
+  },
+  "350811": {
+    "OriginalText": "トネルバンクゥの超結界",
+    "Text": "",
+    "Enabled": false
+  },
+  "350812": {
+    "OriginalText": "スォロバンクゥの超結界",
+    "Text": "",
+    "Enabled": false
+  },
+  "350813": {
+    "OriginalText": "マクロージの超針",
+    "Text": "",
+    "Enabled": false
+  },
+  "350814": {
+    "OriginalText": "レ・マクロージの超針",
+    "Text": "",
+    "Enabled": false
+  },
+  "350815": {
+    "OriginalText": "ブ・マクロージの超針",
+    "Text": "",
+    "Enabled": false
+  },
+  "350816": {
+    "OriginalText": "ア・マクロージの超針",
+    "Text": "",
+    "Enabled": false
+  },
+  "350817": {
+    "OriginalText": "アビアディノの超鱗皮",
+    "Text": "",
+    "Enabled": false
+  },
+  "350818": {
+    "OriginalText": "ラーアビアディノの超鱗皮",
+    "Text": "",
+    "Enabled": false
+  },
+  "350819": {
+    "OriginalText": "マドアビアディノの超鱗皮",
+    "Text": "",
+    "Enabled": false
+  },
+  "350820": {
+    "OriginalText": "バレダイナスの超銃",
+    "Text": "",
+    "Enabled": false
+  },
+  "350821": {
+    "OriginalText": "ラーバレダイナスの超銃",
+    "Text": "",
+    "Enabled": false
+  },
+  "350822": {
+    "OriginalText": "マーバレダイナスの超銃",
+    "Text": "",
+    "Enabled": false
+  },
+  "350823": {
+    "OriginalText": "ヴィバレダイナスの超銃",
+    "Text": "",
+    "Enabled": false
+  },
+  "350824": {
+    "OriginalText": "シードギオスの超盾",
+    "Text": "",
+    "Enabled": false
+  },
+  "350825": {
+    "OriginalText": "フォードギオスの超盾",
+    "Text": "",
+    "Enabled": false
+  },
+  "350826": {
+    "OriginalText": "ヴァッドギオスの超盾",
+    "Text": "",
+    "Enabled": false
+  },
+  "350827": {
+    "OriginalText": "エアドギオスの超盾",
+    "Text": "",
+    "Enabled": false
+  },
+  "350828": {
+    "OriginalText": "トルリンプの超腹ビレ",
+    "Text": "",
+    "Enabled": false
+  },
+  "350829": {
+    "OriginalText": "ロウトルリンプの超腹ビレ",
+    "Text": "",
+    "Enabled": false
+  },
+  "350830": {
+    "OriginalText": "ポルトルリンプの超腹ビレ",
+    "Text": "",
+    "Enabled": false
+  },
+  "350831": {
+    "OriginalText": "エデルクリトロの超粘",
+    "Text": "",
+    "Enabled": false
+  },
+  "350832": {
+    "OriginalText": "スマラクリトロの超粘",
+    "Text": "",
+    "Enabled": false
+  },
+  "350833": {
+    "OriginalText": "クリトロクィーンの超粘",
+    "Text": "",
+    "Enabled": false
+  },
+  "350834": {
+    "OriginalText": "オーニクリトロの超粘",
+    "Text": "",
+    "Enabled": false
+  },
+  "350835": {
+    "OriginalText": "エレマンデルの超双角",
+    "Text": "",
+    "Enabled": false
+  },
+  "350836": {
+    "OriginalText": "テッラマンデルの超双角",
+    "Text": "",
+    "Enabled": false
+  },
+  "350837": {
+    "OriginalText": "イーグマンデルの超双角",
+    "Text": "",
+    "Enabled": false
+  },
+  "350838": {
+    "OriginalText": "エクセージＴの超針",
+    "Text": "",
+    "Enabled": false
+  },
+  "350839": {
+    "OriginalText": "レ・エクセージＴの超針",
+    "Text": "",
+    "Enabled": false
+  },
+  "350840": {
+    "OriginalText": "ミステルンの超単角",
+    "Text": "",
+    "Enabled": false
+  },
+  "350841": {
+    "OriginalText": "アガミステルンの超単角",
+    "Text": "",
+    "Enabled": false
+  },
+  "350842": {
+    "OriginalText": "ラピミステルンの超単角",
+    "Text": "",
+    "Enabled": false
+  },
+  "350843": {
+    "OriginalText": "シルブカーネベアの超砲弾",
+    "Text": "",
+    "Enabled": false
+  },
+  "350844": {
+    "OriginalText": "レゾルカーネベアの超砲弾",
+    "Text": "",
+    "Enabled": false
+  },
+  "350845": {
+    "OriginalText": "オラルカーネベアの超砲弾",
+    "Text": "",
+    "Enabled": false
+  },
+  "350846": {
+    "OriginalText": "モストカーネベアの超砲弾",
+    "Text": "",
+    "Enabled": false
+  },
+  "350847": {
+    "OriginalText": "アルレイバンサーの超尾",
+    "Text": "",
+    "Enabled": false
+  },
+  "350848": {
+    "OriginalText": "ゾンレイバンサーの超尾",
+    "Text": "",
+    "Enabled": false
+  },
+  "350849": {
+    "OriginalText": "ナールレイバンサーの超尾",
+    "Text": "",
+    "Enabled": false
+  },
+  "350850": {
+    "OriginalText": "ファラレイバンサーの超尾",
+    "Text": "",
+    "Enabled": false
+  },
+  "350851": {
+    "OriginalText": "ディートアスの超砲身",
+    "Text": "",
+    "Enabled": false
+  },
+  "350852": {
+    "OriginalText": "テュルトアスの超砲身",
+    "Text": "",
+    "Enabled": false
+  },
+  "350853": {
+    "OriginalText": "マグネトアスの超砲身",
+    "Text": "",
+    "Enabled": false
+  },
+  "350854": {
+    "OriginalText": "ノイヴァトアスの超砲身",
+    "Text": "",
+    "Enabled": false
+  },
+  "350855": {
+    "OriginalText": "ゴルドスの超頭角",
+    "Text": "",
+    "Enabled": false
+  },
+  "350856": {
+    "OriginalText": "ディゴルドスの超頭角",
+    "Text": "",
+    "Enabled": false
+  },
+  "350857": {
+    "OriginalText": "オルゴルドスの超頭角",
+    "Text": "",
+    "Enabled": false
+  },
+  "350858": {
+    "OriginalText": "ヴァリゴルドスの超頭角",
+    "Text": "",
+    "Enabled": false
+  },
+  "350859": {
+    "OriginalText": "ファンアフォルの超目玉",
+    "Text": "",
+    "Enabled": false
+  },
+  "350860": {
+    "OriginalText": "ウィルアフォルの超目玉",
+    "Text": "",
+    "Enabled": false
+  },
+  "350861": {
+    "OriginalText": "アグリオスの超皮",
+    "Text": "",
+    "Enabled": false
+  },
+  "350862": {
+    "OriginalText": "グレイオスの超皮",
+    "Text": "",
+    "Enabled": false
+  },
+  "350863": {
+    "OriginalText": "アルテイオスの超皮",
+    "Text": "",
+    "Enabled": false
+  },
+  "350864": {
+    "OriginalText": "エウリュードの超爪",
+    "Text": "",
+    "Enabled": false
+  },
+  "350865": {
+    "OriginalText": "ヴィヴリュードの超爪",
+    "Text": "",
+    "Enabled": false
+  },
+  "350866": {
+    "OriginalText": "ガラティオンの超ノコ刃",
+    "Text": "",
+    "Enabled": false
+  },
+  "350867": {
+    "OriginalText": "ギガティオンの超ノコ刃",
+    "Text": "",
+    "Enabled": false
+  },
+  "350868": {
+    "OriginalText": "グラヴディオンの超ノコ刃",
+    "Text": "",
+    "Enabled": false
+  },
+  "350869": {
+    "OriginalText": "アルキュオネの超触手",
+    "Text": "",
+    "Enabled": false
+  },
+  "350870": {
+    "OriginalText": "デェフキュオネの超触手",
+    "Text": "",
+    "Enabled": false
+  },
+  "350871": {
+    "OriginalText": "ギュゲンテの超砲塔部品",
+    "Text": "",
+    "Enabled": false
+  },
+  "350872": {
+    "OriginalText": "リベルゲンテの超砲塔部品",
+    "Text": "",
+    "Enabled": false
+  },
+  "350873": {
+    "OriginalText": "レイヴガイストの超仮面",
+    "Text": "",
+    "Enabled": false
+  },
+  "350874": {
+    "OriginalText": "ネメスガイストの超仮面",
+    "Text": "",
+    "Enabled": false
+  },
+  "350875": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "350876": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "350877": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "350878": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "350879": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "350880": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "350881": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "350882": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "350883": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "350884": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "350885": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "350886": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "350887": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "350888": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "350889": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "350890": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "350891": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "350892": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "350893": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "350894": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "350895": {
+    "OriginalText": "マキアファクター",
+    "Text": "",
+    "Enabled": false
+  },
+  "350896": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "350897": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "350898": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "350899": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "350900": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "350901": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "350902": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "350903": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "350904": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "350905": {
+    "OriginalText": "弾けるスパイス",
+    "Text": "",
+    "Enabled": false
+  },
+  "350906": {
+    "OriginalText": "ダーカーの味噌",
+    "Text": "",
+    "Enabled": false
+  },
+  "350907": {
+    "OriginalText": "原生種の融降り肉",
+    "Text": "",
+    "Enabled": false
+  },
+  "350908": {
+    "OriginalText": "ギガンテスの最高級魚肉",
+    "Text": "",
+    "Enabled": false
+  },
+  "350909": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "350910": {
+    "OriginalText": "メモリーフラグメントＬ",
+    "Text": "",
+    "Enabled": false
+  },
+  "350911": {
+    "OriginalText": "メモリーフラグメントＭ",
+    "Text": "",
+    "Enabled": false
+  },
+  "350912": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "350913": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "350914": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "350915": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "350916": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "350917": {
+    "OriginalText": "アメシスト",
+    "Text": "",
+    "Enabled": false
+  },
+  "350918": {
+    "OriginalText": "陽炎のアメシスト",
+    "Text": "",
+    "Enabled": false
+  },
+  "350919": {
+    "OriginalText": "ルビー",
+    "Text": "",
+    "Enabled": false
+  },
+  "350920": {
+    "OriginalText": "真紅のルビー",
+    "Text": "",
+    "Enabled": false
+  },
+  "350921": {
+    "OriginalText": "トパーズ",
+    "Text": "",
+    "Enabled": false
+  },
+  "350922": {
+    "OriginalText": "迅雷のトパーズ",
+    "Text": "",
+    "Enabled": false
+  },
+  "350923": {
+    "OriginalText": "ジルコン",
+    "Text": "",
+    "Enabled": false
+  },
+  "350924": {
+    "OriginalText": "黄昏のジルコン",
+    "Text": "",
+    "Enabled": false
+  },
+  "350925": {
+    "OriginalText": "アクアマリン",
+    "Text": "",
+    "Enabled": false
+  },
+  "350926": {
+    "OriginalText": "蒼のアクアマリン",
+    "Text": "",
+    "Enabled": false
+  },
+  "350927": {
+    "OriginalText": "サファイア",
+    "Text": "",
+    "Enabled": false
+  },
+  "350928": {
+    "OriginalText": "群青のサファイア",
+    "Text": "",
+    "Enabled": false
+  },
+  "350929": {
+    "OriginalText": "マラカイト",
+    "Text": "",
+    "Enabled": false
+  },
+  "350930": {
+    "OriginalText": "悠遠のマラカイト",
+    "Text": "",
+    "Enabled": false
+  },
+  "350931": {
+    "OriginalText": "エメラルド",
+    "Text": "",
+    "Enabled": false
+  },
+  "350932": {
+    "OriginalText": "緑のエメラルド",
+    "Text": "",
+    "Enabled": false
+  },
+  "350933": {
+    "OriginalText": "ムーンストーン",
+    "Text": "",
+    "Enabled": false
+  },
+  "350934": {
+    "OriginalText": "純白のムーンストーン",
+    "Text": "",
+    "Enabled": false
+  },
+  "350935": {
+    "OriginalText": "ダイヤモンド",
+    "Text": "",
+    "Enabled": false
+  },
+  "350936": {
+    "OriginalText": "光輝のダイヤモンド",
+    "Text": "",
+    "Enabled": false
+  },
+  "350937": {
+    "OriginalText": "オニキス",
+    "Text": "",
+    "Enabled": false
+  },
+  "350938": {
+    "OriginalText": "深淵のオニキス",
+    "Text": "",
+    "Enabled": false
+  },
+  "350939": {
+    "OriginalText": "オブシディアン",
+    "Text": "",
+    "Enabled": false
+  },
+  "350940": {
+    "OriginalText": "漆黒のオブシディアン",
+    "Text": "",
+    "Enabled": false
+  },
+  "350941": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "350942": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "350943": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "350944": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "350945": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "350946": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "350947": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "350948": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "350949": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "350950": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "350951": {
+    "OriginalText": "Ｇクラーダの冷脚",
+    "Text": "",
+    "Enabled": false
+  },
+  "350952": {
+    "OriginalText": "Ｇダガンの冷爪",
+    "Text": "",
+    "Enabled": false
+  },
+  "350953": {
+    "OriginalText": "Ｇエル・ダガンの冷爪",
+    "Text": "",
+    "Enabled": false
+  },
+  "350954": {
+    "OriginalText": "Ｇエル・アーダの冷触角",
+    "Text": "",
+    "Enabled": false
+  },
+  "350955": {
+    "OriginalText": "Ｇプレディカーダの冷腕刃",
+    "Text": "",
+    "Enabled": false
+  },
+  "350956": {
+    "OriginalText": "Ｇダーク・ラグネの冷爪",
+    "Text": "",
+    "Enabled": false
+  },
+  "350957": {
+    "OriginalText": "Ｇミクダの冷甲羅",
+    "Text": "",
+    "Enabled": false
+  },
+  "350958": {
+    "OriginalText": "Ｇダーガッシュの冷歯",
+    "Text": "",
+    "Enabled": false
+  },
+  "350959": {
+    "OriginalText": "Ｇガウォンダの冷盾",
+    "Text": "",
+    "Enabled": false
+  },
+  "350960": {
+    "OriginalText": "Ｇグウォンダの冷盾",
+    "Text": "",
+    "Enabled": false
+  },
+  "350961": {
+    "OriginalText": "Ｇウォルガーダの冷髪",
+    "Text": "",
+    "Enabled": false
+  },
+  "350962": {
+    "OriginalText": "Ｇキュクロナーダの冷目",
+    "Text": "",
+    "Enabled": false
+  },
+  "350963": {
+    "OriginalText": "Ｇシャルレイダの冷甲羅",
+    "Text": "",
+    "Enabled": false
+  },
+  "350964": {
+    "OriginalText": "バリドランナの冷粘玉",
+    "Text": "",
+    "Enabled": false
+  },
+  "350965": {
+    "OriginalText": "ノイバリドランナの冷粘玉",
+    "Text": "",
+    "Enabled": false
+  },
+  "350966": {
+    "OriginalText": "ウィンディラスの冷翼",
+    "Text": "",
+    "Enabled": false
+  },
+  "350967": {
+    "OriginalText": "ノイウィンディラスの冷翼",
+    "Text": "",
+    "Enabled": false
+  },
+  "350968": {
+    "OriginalText": "コラル・ドラゴンの冷角",
+    "Text": "",
+    "Enabled": false
+  },
+  "350969": {
+    "OriginalText": "ラウーダンの冷煽",
+    "Text": "",
+    "Enabled": false
+  },
+  "350970": {
+    "OriginalText": "フリラウーダンの冷煽",
+    "Text": "",
+    "Enabled": false
+  },
+  "350971": {
+    "OriginalText": "ベガルフの冷牙",
+    "Text": "",
+    "Enabled": false
+  },
+  "350972": {
+    "OriginalText": "フロベガルフの冷牙",
+    "Text": "",
+    "Enabled": false
+  },
+  "350973": {
+    "OriginalText": "イエーデンの冷煽皮",
+    "Text": "",
+    "Enabled": false
+  },
+  "350974": {
+    "OriginalText": "コパイエーデンの冷煽皮",
+    "Text": "",
+    "Enabled": false
+  },
+  "350975": {
+    "OriginalText": "フォンベガルフの冷爪",
+    "Text": "",
+    "Enabled": false
+  },
+  "350976": {
+    "OriginalText": "フロフォンベガルフの冷爪",
+    "Text": "",
+    "Enabled": false
+  },
+  "350977": {
+    "OriginalText": "グルナバンサーの冷角",
+    "Text": "",
+    "Enabled": false
+  },
+  "350978": {
+    "OriginalText": "ジャッドバンサーの冷角",
+    "Text": "",
+    "Enabled": false
+  },
+  "350979": {
+    "OriginalText": "ロヴラッピーの冷羽",
+    "Text": "",
+    "Enabled": false
+  },
+  "350980": {
+    "OriginalText": "ウィ・ロヴラッピーの冷羽",
+    "Text": "",
+    "Enabled": false
+  },
+  "350981": {
+    "OriginalText": "レウ・ロヴラッピーの冷羽",
+    "Text": "",
+    "Enabled": false
+  },
+  "350982": {
+    "OriginalText": "マガヴルムの冷銃",
+    "Text": "",
+    "Enabled": false
+  },
+  "350983": {
+    "OriginalText": "バオム・マガヴルムの冷銃",
+    "Text": "",
+    "Enabled": false
+  },
+  "350984": {
+    "OriginalText": "オルテ・マガヴルムの冷銃",
+    "Text": "",
+    "Enabled": false
+  },
+  "350985": {
+    "OriginalText": "ラビーソの冷刃",
+    "Text": "",
+    "Enabled": false
+  },
+  "350986": {
+    "OriginalText": "ブロラビーソの冷刃",
+    "Text": "",
+    "Enabled": false
+  },
+  "350987": {
+    "OriginalText": "アセラビーソの冷刃",
+    "Text": "",
+    "Enabled": false
+  },
+  "350988": {
+    "OriginalText": "ロザードの冷背びれ",
+    "Text": "",
+    "Enabled": false
+  },
+  "350989": {
+    "OriginalText": "ウロザードの冷背びれ",
+    "Text": "",
+    "Enabled": false
+  },
+  "350990": {
+    "OriginalText": "クロザードの冷背びれ",
+    "Text": "",
+    "Enabled": false
+  },
+  "350991": {
+    "OriginalText": "スロザードの冷背びれ",
+    "Text": "",
+    "Enabled": false
+  },
+  "350992": {
+    "OriginalText": "マフレザールの冷爪",
+    "Text": "",
+    "Enabled": false
+  },
+  "350993": {
+    "OriginalText": "ヴィマフレザールの冷爪",
+    "Text": "",
+    "Enabled": false
+  },
+  "350994": {
+    "OriginalText": "エルマフレザールの冷爪",
+    "Text": "",
+    "Enabled": false
+  },
+  "350995": {
+    "OriginalText": "ウイマフレザールの冷爪",
+    "Text": "",
+    "Enabled": false
+  },
+  "350996": {
+    "OriginalText": "ジュラキアの冷羽煽",
+    "Text": "",
+    "Enabled": false
+  },
+  "350997": {
+    "OriginalText": "メドジュラキアの冷羽煽",
+    "Text": "",
+    "Enabled": false
+  },
+  "350998": {
+    "OriginalText": "ポリジュラキアの冷羽煽",
+    "Text": "",
+    "Enabled": false
+  },
+  "350999": {
+    "OriginalText": "ガンジュラキアの冷羽煽",
+    "Text": "",
+    "Enabled": false
+  },
+  "351000": {
+    "OriginalText": "リバッツの冷針",
+    "Text": "",
+    "Enabled": false
+  },
+  "351001": {
+    "OriginalText": "グリバッツの冷針",
+    "Text": "",
+    "Enabled": false
+  },
+  "351002": {
+    "OriginalText": "バリバッツの冷針",
+    "Text": "",
+    "Enabled": false
+  },
+  "351003": {
+    "OriginalText": "ブリバッツの冷針",
+    "Text": "",
+    "Enabled": false
+  },
+  "351004": {
+    "OriginalText": "グランブの冷巻き祭",
+    "Text": "",
+    "Enabled": false
+  },
+  "351005": {
+    "OriginalText": "ガーグランブの冷巻き祭",
+    "Text": "",
+    "Enabled": false
+  },
+  "351006": {
+    "OriginalText": "サフグランブの冷巻き祭",
+    "Text": "",
+    "Enabled": false
+  },
+  "351007": {
+    "OriginalText": "パーグランブの冷巻き祭",
+    "Text": "",
+    "Enabled": false
+  },
+  "351008": {
+    "OriginalText": "バンクゥの冷尾",
+    "Text": "",
+    "Enabled": false
+  },
+  "351009": {
+    "OriginalText": "フレスバンクゥの冷尾",
+    "Text": "",
+    "Enabled": false
+  },
+  "351010": {
+    "OriginalText": "ヴェンバンクゥの冷尾",
+    "Text": "",
+    "Enabled": false
+  },
+  "351011": {
+    "OriginalText": "トネルバンクゥの冷尾",
+    "Text": "",
+    "Enabled": false
+  },
+  "351012": {
+    "OriginalText": "スォロバンクゥの冷尾",
+    "Text": "",
+    "Enabled": false
+  },
+  "351013": {
+    "OriginalText": "マクロージの冷針",
+    "Text": "",
+    "Enabled": false
+  },
+  "351014": {
+    "OriginalText": "レ・マクロージの冷針",
+    "Text": "",
+    "Enabled": false
+  },
+  "351015": {
+    "OriginalText": "ブ・マクロージの冷針",
+    "Text": "",
+    "Enabled": false
+  },
+  "351016": {
+    "OriginalText": "ア・マクロージの冷針",
+    "Text": "",
+    "Enabled": false
+  },
+  "351017": {
+    "OriginalText": "アビアディノの冷コブ",
+    "Text": "",
+    "Enabled": false
+  },
+  "351018": {
+    "OriginalText": "ラーアビアディノの冷コブ",
+    "Text": "",
+    "Enabled": false
+  },
+  "351019": {
+    "OriginalText": "マドアビアディノの冷コブ",
+    "Text": "",
+    "Enabled": false
+  },
+  "351020": {
+    "OriginalText": "バレダイナスの冷銃",
+    "Text": "",
+    "Enabled": false
+  },
+  "351021": {
+    "OriginalText": "ラーバレダイナスの冷銃",
+    "Text": "",
+    "Enabled": false
+  },
+  "351022": {
+    "OriginalText": "マーバレダイナスの冷銃",
+    "Text": "",
+    "Enabled": false
+  },
+  "351023": {
+    "OriginalText": "ヴィバレダイナスの冷銃",
+    "Text": "",
+    "Enabled": false
+  },
+  "351024": {
+    "OriginalText": "シードギオスの冷盾",
+    "Text": "",
+    "Enabled": false
+  },
+  "351025": {
+    "OriginalText": "フォードギオスの冷盾",
+    "Text": "",
+    "Enabled": false
+  },
+  "351026": {
+    "OriginalText": "ヴァッドギオスの冷盾",
+    "Text": "",
+    "Enabled": false
+  },
+  "351027": {
+    "OriginalText": "エアドギオスの冷盾",
+    "Text": "",
+    "Enabled": false
+  },
+  "351028": {
+    "OriginalText": "トルリンプの冷ヒレ",
+    "Text": "",
+    "Enabled": false
+  },
+  "351029": {
+    "OriginalText": "ロウトルリンプの冷ヒレ",
+    "Text": "",
+    "Enabled": false
+  },
+  "351030": {
+    "OriginalText": "ポルトルリンプの冷ヒレ",
+    "Text": "",
+    "Enabled": false
+  },
+  "351031": {
+    "OriginalText": "エデルクリトロの冷煽皮",
+    "Text": "",
+    "Enabled": false
+  },
+  "351032": {
+    "OriginalText": "スマラクリトロの冷煽皮",
+    "Text": "",
+    "Enabled": false
+  },
+  "351033": {
+    "OriginalText": "クリトロクィーンの冷煽皮",
+    "Text": "",
+    "Enabled": false
+  },
+  "351034": {
+    "OriginalText": "オーニクリトロの冷煽皮",
+    "Text": "",
+    "Enabled": false
+  },
+  "351035": {
+    "OriginalText": "エレマンデルの冷爪",
+    "Text": "",
+    "Enabled": false
+  },
+  "351036": {
+    "OriginalText": "テッラマンデルの冷爪",
+    "Text": "",
+    "Enabled": false
+  },
+  "351037": {
+    "OriginalText": "イーグマンデルの冷爪",
+    "Text": "",
+    "Enabled": false
+  },
+  "351038": {
+    "OriginalText": "エクセージＴの冷目玉",
+    "Text": "",
+    "Enabled": false
+  },
+  "351039": {
+    "OriginalText": "レ・エクセージＴの冷目玉",
+    "Text": "",
+    "Enabled": false
+  },
+  "351040": {
+    "OriginalText": "ミステルンの冷角",
+    "Text": "",
+    "Enabled": false
+  },
+  "351041": {
+    "OriginalText": "アガミステルンの冷角",
+    "Text": "",
+    "Enabled": false
+  },
+  "351042": {
+    "OriginalText": "ラピミステルンの冷角",
+    "Text": "",
+    "Enabled": false
+  },
+  "351043": {
+    "OriginalText": "シルブカーネベアの冷砲身",
+    "Text": "",
+    "Enabled": false
+  },
+  "351044": {
+    "OriginalText": "レゾルカーネベアの冷砲身",
+    "Text": "",
+    "Enabled": false
+  },
+  "351045": {
+    "OriginalText": "オラルカーネベアの冷砲身",
+    "Text": "",
+    "Enabled": false
+  },
+  "351046": {
+    "OriginalText": "モストカーネベアの冷砲身",
+    "Text": "",
+    "Enabled": false
+  },
+  "351047": {
+    "OriginalText": "アルレイバンサーの冷銃",
+    "Text": "",
+    "Enabled": false
+  },
+  "351048": {
+    "OriginalText": "ゾンレイバンサーの冷銃",
+    "Text": "",
+    "Enabled": false
+  },
+  "351049": {
+    "OriginalText": "ナールレイバンサーの冷銃",
+    "Text": "",
+    "Enabled": false
+  },
+  "351050": {
+    "OriginalText": "ファラレイバンサーの冷銃",
+    "Text": "",
+    "Enabled": false
+  },
+  "351051": {
+    "OriginalText": "ディートアスの冷皮",
+    "Text": "",
+    "Enabled": false
+  },
+  "351052": {
+    "OriginalText": "テュルトアスの冷皮",
+    "Text": "",
+    "Enabled": false
+  },
+  "351053": {
+    "OriginalText": "マグネトアスの冷皮",
+    "Text": "",
+    "Enabled": false
+  },
+  "351054": {
+    "OriginalText": "ノイヴァトアスの冷皮",
+    "Text": "",
+    "Enabled": false
+  },
+  "351055": {
+    "OriginalText": "ゴルドスの冷杭",
+    "Text": "",
+    "Enabled": false
+  },
+  "351056": {
+    "OriginalText": "ディゴルドスの冷杭",
+    "Text": "",
+    "Enabled": false
+  },
+  "351057": {
+    "OriginalText": "オルゴルドスの冷杭",
+    "Text": "",
+    "Enabled": false
+  },
+  "351058": {
+    "OriginalText": "ヴァリゴルドスの冷杭",
+    "Text": "",
+    "Enabled": false
+  },
+  "351059": {
+    "OriginalText": "ファンアフォルの冷羽",
+    "Text": "",
+    "Enabled": false
+  },
+  "351060": {
+    "OriginalText": "ウィルアフォルの冷羽",
+    "Text": "",
+    "Enabled": false
+  },
+  "351061": {
+    "OriginalText": "アグリオスの冷背びれ",
+    "Text": "",
+    "Enabled": false
+  },
+  "351062": {
+    "OriginalText": "グレイオスの冷背びれ",
+    "Text": "",
+    "Enabled": false
+  },
+  "351063": {
+    "OriginalText": "アルテイオスの冷背びれ",
+    "Text": "",
+    "Enabled": false
+  },
+  "351064": {
+    "OriginalText": "エウリュードの冷尾",
+    "Text": "",
+    "Enabled": false
+  },
+  "351065": {
+    "OriginalText": "ヴィヴリュードの冷尾",
+    "Text": "",
+    "Enabled": false
+  },
+  "351066": {
+    "OriginalText": "ガラティオンの冷",
+    "Text": "",
+    "Enabled": false
+  },
+  "351067": {
+    "OriginalText": "ギガティオンの冷",
+    "Text": "",
+    "Enabled": false
+  },
+  "351068": {
+    "OriginalText": "グラヴディオンの冷",
+    "Text": "",
+    "Enabled": false
+  },
+  "351069": {
+    "OriginalText": "アルキュオネの冷皮",
+    "Text": "",
+    "Enabled": false
+  },
+  "351070": {
+    "OriginalText": "デェフキュオネの冷皮",
+    "Text": "",
+    "Enabled": false
+  },
+  "351071": {
+    "OriginalText": "ギュゲンテの冷伝甲",
+    "Text": "",
+    "Enabled": false
+  },
+  "351072": {
+    "OriginalText": "リベルゲンテの冷伝甲",
+    "Text": "",
+    "Enabled": false
+  },
+  "351073": {
+    "OriginalText": "レイヴガイストの冷結界",
+    "Text": "",
+    "Enabled": false
+  },
+  "351074": {
+    "OriginalText": "ネメスガイストの冷結界",
+    "Text": "",
+    "Enabled": false
+  },
+  "351075": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "351076": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "351077": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "351078": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "351079": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "351080": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "351081": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "351082": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "351083": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "351084": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "351085": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "351086": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "351087": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "351088": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "351089": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "351090": {
+    "OriginalText": "ブラックチケット",
+    "Text": "",
+    "Enabled": false
+  },
+  "351091": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "351092": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "351093": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "351094": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "351095": {
+    "OriginalText": "ノヴァファクター",
+    "Text": "",
+    "Enabled": false
+  },
+  "351096": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "351097": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "351098": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "351099": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "351100": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "351101": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "351102": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "351103": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "351104": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  }
+}

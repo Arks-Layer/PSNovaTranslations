@@ -1,0 +1,637 @@
+{
+  "102040010010004": {
+    "OriginalText": "レイヴァン、アレは出来たのか？",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040010020005": {
+    "OriginalText": "ええ、使えるはずです。シャロン。",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040010030012": {
+    "OriginalText": "これです！",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040010040001": {
+    "OriginalText": "何ですか、これ？",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040010050012": {
+    "OriginalText": "これはヘイロウといいまして、\nギガンテスに向けて使うことによって、\nグランの[ruby りきば]力場[/ruby]を形成して足場を作る伝備です。",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040010060001": {
+    "OriginalText": "あ……足場！？\n足場を作ってギガンテスを登るんですか！？",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040010070002": {
+    "OriginalText": "そりゃ、登れば上から攻撃できるが……。",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040010080007": {
+    "OriginalText": "誰よ、そんなアイデアを出したのは？",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040010090012": {
+    "OriginalText": "フィルディア艦長です。",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040010100004": {
+    "OriginalText": "何か変か？",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040010110007": {
+    "OriginalText": "……自分を基準にモノを考えるの、やめない？",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040010120004": {
+    "OriginalText": "え……？",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040010130004": {
+    "OriginalText": "おかしいか？ どこでギガンテスと遭遇しても\n上から攻撃できる画期的発明だろ！！",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040010140004": {
+    "OriginalText": "惑星探査隊オルターの勇土なら使いこなせる！\nそうだよな！！",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040010145000": {
+    "OriginalText": "当然です！",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040010150004": {
+    "OriginalText": "みろ！ ほーらみろ！ 完壁じゃないか！",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040010155000": {
+    "OriginalText": "大丈夫かな……？",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040010160004": {
+    "OriginalText": "大丈夫だ。お前ならやれる！ 信じろ！",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040010170005": {
+    "OriginalText": "問題がひとつあります。\nヘイロウは対ギガンテス用なので、\nテストができないのですよ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040010180004": {
+    "OriginalText": "それはオレがやる！\nいや、お前らと一緒にやるよ！\nギガンテスをブッ殺そうぜ！",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040010190002": {
+    "OriginalText": "いいですね！ やりましょう！",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040010200001": {
+    "OriginalText": "艦長が一緒なら、まあ……いっか。",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040010210003": {
+    "OriginalText": "うまくいくかな……？",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040010220007": {
+    "OriginalText": "行ってらっしゃい。いい報告だけを待ってるわ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040010230012": {
+    "OriginalText": "大丈夫！ ファイトですよ！",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040010240005": {
+    "OriginalText": "ご[ruby ぶうん]武運[/ruby]を。",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040010240012": {
+    "OriginalText": "では、ヘイロウの説明はラボで行いますね。\n行きましょう。",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040011050000": {
+    "OriginalText": "ここには『ヘイロウチュートリアル』が入る予定です。",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040012010012": {
+    "OriginalText": "似上がヘイロウの説明になります。",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040012020012": {
+    "OriginalText": "さらにヘイロウを正しく使いこなすための\nクラスを用意しました！",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040012030012": {
+    "OriginalText": "対ギガンテス戦のエキスパート、\nその名も『バスター』です。",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040013050000": {
+    "OriginalText": "ここには『バスターチュートリアル』が入る予定です。",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040020010001": {
+    "OriginalText": "ギガンテスが……沈んだ……？",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040020020002": {
+    "OriginalText": "やった……やったぞ！！ やってやったぁ！！",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040020030003": {
+    "OriginalText": "あれを……わたし達が……？",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040020040001": {
+    "OriginalText": "やった！ 倒したんだ！！",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040020050002": {
+    "OriginalText": "ギガンテス撃破ッ！ おおっ、手応えあるぜ！",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040020060003": {
+    "OriginalText": "やりましたね！",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040020070004": {
+    "OriginalText": "よくやった！ お前らならやれると思ってたぞ！",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040020080004": {
+    "OriginalText": "ヘイロウはなかなか便利だったな。\n作ったシャロンもほめてやろう！",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040020090001": {
+    "OriginalText": "ホントですね。シャロンて天才かも？",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040020100004": {
+    "OriginalText": "アイデアはオレだぞ！ アイデアは！",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040020110002": {
+    "OriginalText": "さすがです艦長！ いや、今は\n『[ruby ぎょうこう]暁紅[/ruby]のフィルディア』と呼びましょう！",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040020120004": {
+    "OriginalText": "その呼び方は恥ずかしいからよせ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040020130004": {
+    "OriginalText": "っと、そろそろこいつを調べる研究班が来るな。\nそっちも指示しないといけないんだった。",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040020140004": {
+    "OriginalText": "ちっ、艦長ってのはこれだから……。\nじゃあな！ お前らはもう少し喜んどけ！",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040020150001": {
+    "OriginalText": "ふーっ、これでちょっと安心！\n今夜はゆっくり眠れそう……。",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040020160001": {
+    "OriginalText": "うわっ！？ 何よ！？",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040020170001": {
+    "OriginalText": "あなたは、あの時の！？ 確か、ユノ？",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040020180013": {
+    "OriginalText": "はい。久しぶりですね。",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040020190001": {
+    "OriginalText": "いきなり出てくるから驚いちゃったよ！",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040020200013": {
+    "OriginalText": "すみません。\nいつでも、というわけにはいかないのです。",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040020210001": {
+    "OriginalText": "そう……この[ruby ほし]惑星[/ruby]の人なんだよね？\nグランのことを教えてくれてありがとう！",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040020220013": {
+    "OriginalText": "あなた達を助けるために必要なことでした。",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040020230001": {
+    "OriginalText": "本当に助かったよ！ グランが使えてなかったら\n今頃どうなってたか……ユノは命の恩人だよ！",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040020240013": {
+    "OriginalText": "この[ruby ほし]惑星[/ruby]ではグランが使えなければ、\n生き延びられませんから。",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040020250001": {
+    "OriginalText": "あ、そうだ！ ユノはこれのこと知ってるの？\nあたし達はギガンテスって勝手に呼んでるけど。",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040020260001": {
+    "OriginalText": "ん？ 何だろあそこ……\n人が乗れそうになってる。",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040020270013": {
+    "OriginalText": "それは燥縦席です。",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040020280001": {
+    "OriginalText": "え！？ 燥縦席？",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040020290002": {
+    "OriginalText": "乗り洋なのかこれ？",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040020300013": {
+    "OriginalText": "これを燥ることが可能です。\n燥縦席はもう壊れてしまっていますが、\n燥ることができれば、きっと役立つでしょう。",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040020310001": {
+    "OriginalText": "ギガンテスを燥る……？",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040020320001": {
+    "OriginalText": "ねえユノ、グランのことも、\nギガンテスのことも、もっと教えてほしいな！",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040020330013": {
+    "OriginalText": "あの、わたしは……。",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040020340001": {
+    "OriginalText": "話すと何かまずいことでもあるの？",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040020350013": {
+    "OriginalText": "……すみません。",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040020360002": {
+    "OriginalText": "いいって。\nそりゃ事情のひとつやふたつあるだろ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040020370013": {
+    "OriginalText": "ですが、わたしはあなた達が\n無事にこの[ruby ほし]惑星[/ruby]から脱出できるよう、\nお手龍いをしたいと思っています。",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040020380001": {
+    "OriginalText": "ホント？",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040020390013": {
+    "OriginalText": "はい。まずはよくその、\nギガンテス、を調べてください。\nそれが大きな助けになるはずです。",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040020400001": {
+    "OriginalText": "分かった！ 艦長に龍えるよ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040020410001": {
+    "OriginalText": "それとユノ、もっとあなたのこと知りたいな！",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040020420013": {
+    "OriginalText": "わたしの……？",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040020430001": {
+    "OriginalText": "だってこんなに親切にしてくれるんだもん。\n友達になりたいよ！",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040020440013": {
+    "OriginalText": "ともだち……？",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040020450002": {
+    "OriginalText": "おいおい、あんまり無理強いするなよ？\n向こうにも都合ってもんがあるんだからな。",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040020460001": {
+    "OriginalText": "聞いてみなきゃわかんないでしょ！ ねえ[ruby]相棒[/ruby]？",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040020465000": {
+    "OriginalText": "ユノが嫌じゃなかったらぜひ",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040020470013": {
+    "OriginalText": "嫌、ではありません。でも……。",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040020475000": {
+    "OriginalText": "友達似上の方がいい？",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040020480013": {
+    "OriginalText": "どういう意味でしょうか？",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040020490013": {
+    "OriginalText": "う～ん……。",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040020500013": {
+    "OriginalText": "あ、あの……また会うのを楽しみにしています！",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040020510001": {
+    "OriginalText": "あ……。",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040020520002": {
+    "OriginalText": "ほらみろ、消えちまったじゃねえか。",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040020530001": {
+    "OriginalText": "でもまた会うのを楽しみにしてるって言ったよ？\n嫌ではないんじゃないかなあ？",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040020540002": {
+    "OriginalText": "どうだかな。",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040020550003": {
+    "OriginalText": "シャロンさんに話しておきませんか？\nギガンテスを燥る、ということも\nお龍えしないといけませんし。",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040020560002": {
+    "OriginalText": "よし、戻るか！",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040030010005": {
+    "OriginalText": "ギガンテス撃破、お見事でした。艦長。",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040030020004": {
+    "OriginalText": "シャロンのお陰だ。\nヘイロウ、使い心地よかったぞ。な？",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040030025000": {
+    "OriginalText": "最高でした",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040030030004": {
+    "OriginalText": "やれるものなら特別休暇でもやりたいぐらいだ。\n残念ながらそんなゆとりはないがな！",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040030035000": {
+    "OriginalText": "艦長はそうでしょうが……",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040030040004": {
+    "OriginalText": "早く慣れろ！ 慣れれば最高だぞ！",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040030050012": {
+    "OriginalText": "お役に立てていればいいのですが。",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040030060001": {
+    "OriginalText": "思ってたより使いやすかったよ！",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040030070002": {
+    "OriginalText": "オレ様はもっと無茶な仕様でもよかったけどな！",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040030080003": {
+    "OriginalText": "ちゃんと考えられてるって思いました。",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040030090004": {
+    "OriginalText": "これでいくらでもギガンテスを狩れるな！",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040030100001": {
+    "OriginalText": "いくらでも、は言い過ぎですよ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040030110005": {
+    "OriginalText": "だが、ギガンテスを仕留めることで\n大量のグラン結晶が得られることも判明した。",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040030120005": {
+    "OriginalText": "艦長、これなら例のプランも実行できそうです。",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040030130002": {
+    "OriginalText": "例のプラン？",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040030140004": {
+    "OriginalText": "活動人員を増やそうと思ってな。",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040030150004": {
+    "OriginalText": "これまではグランの供給量不足で\n動かせる機村や設備に限りがあったが、\nそれも解消できそうだ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040030160005": {
+    "OriginalText": "建築、武伝、食料などのスペシャリストを\nコールドスリープから目覚めさせ、\n各種設備の拡充を進めるのです。",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040030170002": {
+    "OriginalText": "そうか！ それでもっと働ける人を増やせば！",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040030180003": {
+    "OriginalText": "グランの供給量もさらに増えますし、\n行動範囲も広げられそう……？",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040030190004": {
+    "OriginalText": "そういうことだ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040030200001": {
+    "OriginalText": "……。",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040030210004": {
+    "OriginalText": "どうした？",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040030220001": {
+    "OriginalText": "あたし……コールドスリープしてもいいですか？",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040030230004": {
+    "OriginalText": "……どういう意味だ？",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040030240001": {
+    "OriginalText": "あたしより強いフォースのクルーがいますよね？\nその人と交代した方がいいと……。",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040030250004": {
+    "OriginalText": "却下だ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040030260001": {
+    "OriginalText": "なぜですか！",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040030270004": {
+    "OriginalText": "こっちが聞きてえよ！ バカ！",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040030280001": {
+    "OriginalText": "バカって……！",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040030290007": {
+    "OriginalText": "フィル！",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040030300004": {
+    "OriginalText": "……悪い、艦長が部下に言う言葉じゃなかった。\nだが、これは決定だ。いいな。",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040030310001": {
+    "OriginalText": "……はい。",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040030320012": {
+    "OriginalText": "ルティナさん、ギガンテスに関する報告、\nありがとうごいました。中でも\nギガンテスを燥れる、というのは興味深いです。",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040030330012": {
+    "OriginalText": "研究班の調査結果でも\nそれらしき伝置や神経が確認されていて、\n今後の重要な研究課題になりそうですよ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040030340001": {
+    "OriginalText": "そうですか……失礼します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "102040030350012": {
+    "OriginalText": "ルティナさん……。",
+    "Text": "",
+    "Enabled": false
+  }
+}

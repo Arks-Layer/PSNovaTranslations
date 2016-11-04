@@ -1,0 +1,1267 @@
+{
+  "130000": {
+    "OriginalText": "なし",
+    "Text": "None",
+    "Enabled": true
+  },
+  "130001": {
+    "OriginalText": "エッジ",
+    "Text": "",
+    "Enabled": false
+  },
+  "130002": {
+    "OriginalText": "アルバエッジ",
+    "Text": "Alva Edge",
+    "Enabled": true
+  },
+  "130003": {
+    "OriginalText": "ヴィタエッジ",
+    "Text": "Vita Edge",
+    "Enabled": true
+  },
+  "130004": {
+    "OriginalText": "ネイル",
+    "Text": "",
+    "Enabled": false
+  },
+  "130005": {
+    "OriginalText": "アルバネイル",
+    "Text": "Alva Nail",
+    "Enabled": true
+  },
+  "130006": {
+    "OriginalText": "ヴィタネイル",
+    "Text": "Vita Nail",
+    "Enabled": true
+  },
+  "130007": {
+    "OriginalText": "ピック",
+    "Text": "",
+    "Enabled": false
+  },
+  "130008": {
+    "OriginalText": "アルバピック",
+    "Text": "Alva Pick",
+    "Enabled": true
+  },
+  "130009": {
+    "OriginalText": "ヴィタピック",
+    "Text": "Vita Pick",
+    "Enabled": true
+  },
+  "130010": {
+    "OriginalText": "シザー",
+    "Text": "",
+    "Enabled": false
+  },
+  "130011": {
+    "OriginalText": "アルバシザー",
+    "Text": "Alva Scissor",
+    "Enabled": true
+  },
+  "130012": {
+    "OriginalText": "ヴィタシザー",
+    "Text": "Vita Scissor",
+    "Enabled": true
+  },
+  "130013": {
+    "OriginalText": "ウェッジ",
+    "Text": "Quedge",
+    "Enabled": true
+  },
+  "130014": {
+    "OriginalText": "アルバウェッジ",
+    "Text": "Alva Quedge",
+    "Enabled": true
+  },
+  "130015": {
+    "OriginalText": "ヴィタウェッジ",
+    "Text": "Vita Quedge",
+    "Enabled": true
+  },
+  "130016": {
+    "OriginalText": "スティール",
+    "Text": "",
+    "Enabled": false
+  },
+  "130017": {
+    "OriginalText": "アルバスティール",
+    "Text": "Alva Steel",
+    "Enabled": true
+  },
+  "130018": {
+    "OriginalText": "ヴィタスティール",
+    "Text": "Vita Steel",
+    "Enabled": true
+  },
+  "130019": {
+    "OriginalText": "リング",
+    "Text": "",
+    "Enabled": false
+  },
+  "130020": {
+    "OriginalText": "アルバリング",
+    "Text": "Alva Ring",
+    "Enabled": true
+  },
+  "130021": {
+    "OriginalText": "ヴィタリング",
+    "Text": "Vita Ring",
+    "Enabled": true
+  },
+  "130022": {
+    "OriginalText": "キクロス",
+    "Text": "Kyklos",
+    "Enabled": true
+  },
+  "130023": {
+    "OriginalText": "アルバキクロス",
+    "Text": "Alva Kyklos",
+    "Enabled": true
+  },
+  "130024": {
+    "OriginalText": "ヴィタキクロス",
+    "Text": "Vita Kyklos",
+    "Enabled": true
+  },
+  "130025": {
+    "OriginalText": "カリツォー",
+    "Text": "Calypso",
+    "Enabled": true
+  },
+  "130026": {
+    "OriginalText": "アルバカリツォー",
+    "Text": "Alva Calypso",
+    "Enabled": true
+  },
+  "130027": {
+    "OriginalText": "ヴィタカリツォー",
+    "Text": "Vita Calypso",
+    "Enabled": true
+  },
+  "130028": {
+    "OriginalText": "カッター",
+    "Text": "Cutter",
+    "Enabled": true
+  },
+  "130029": {
+    "OriginalText": "アルバカッター",
+    "Text": "Alva Cutter",
+    "Enabled": true
+  },
+  "130030": {
+    "OriginalText": "ヴィタカッター",
+    "Text": "Vita Cutter",
+    "Enabled": true
+  },
+  "130031": {
+    "OriginalText": "レイザ",
+    "Text": "",
+    "Enabled": false
+  },
+  "130032": {
+    "OriginalText": "アルバレイザ",
+    "Text": "Alva Raiser",
+    "Enabled": true
+  },
+  "130033": {
+    "OriginalText": "ヴィタレイザ",
+    "Text": "Vita Raiser",
+    "Enabled": true
+  },
+  "130034": {
+    "OriginalText": "スカルペル",
+    "Text": "Scalpel",
+    "Enabled": true
+  },
+  "130035": {
+    "OriginalText": "アルバスカルペル",
+    "Text": "Alva Scalpel",
+    "Enabled": true
+  },
+  "130036": {
+    "OriginalText": "ヴィタスカルペル",
+    "Text": "Vita Scalpel",
+    "Enabled": true
+  },
+  "130037": {
+    "OriginalText": "シェイプ",
+    "Text": "Shape",
+    "Enabled": true
+  },
+  "130038": {
+    "OriginalText": "アルバシェイプ",
+    "Text": "Alva Shape",
+    "Enabled": true
+  },
+  "130039": {
+    "OriginalText": "ヴィタシェイプ",
+    "Text": "Vita Shape",
+    "Enabled": true
+  },
+  "130040": {
+    "OriginalText": "バレット",
+    "Text": "Palette",
+    "Enabled": true
+  },
+  "130041": {
+    "OriginalText": "アルババレット",
+    "Text": "Alva Palette",
+    "Enabled": true
+  },
+  "130042": {
+    "OriginalText": "ヴィタバレット",
+    "Text": "Vita Palette",
+    "Enabled": true
+  },
+  "130043": {
+    "OriginalText": "シェル",
+    "Text": "",
+    "Enabled": false
+  },
+  "130044": {
+    "OriginalText": "アルバシェル",
+    "Text": "Alva Shell",
+    "Enabled": true
+  },
+  "130045": {
+    "OriginalText": "ヴィタシェル",
+    "Text": "Vita Shell",
+    "Enabled": true
+  },
+  "130046": {
+    "OriginalText": "グランブレードＡ",
+    "Text": "Gran Blade A",
+    "Enabled": true
+  },
+  "130047": {
+    "OriginalText": "グランブレードＢ",
+    "Text": "Gran Blade B",
+    "Enabled": true
+  },
+  "130048": {
+    "OriginalText": "グランブレードＣ",
+    "Text": "Gran Blade G",
+    "Enabled": true
+  },
+  "130049": {
+    "OriginalText": "グランブレードＤ",
+    "Text": "Gran Blade D",
+    "Enabled": true
+  },
+  "130050": {
+    "OriginalText": "グランブレードＥ",
+    "Text": "Gran Blade E",
+    "Enabled": true
+  },
+  "130051": {
+    "OriginalText": "グランブレードＦ",
+    "Text": "Gran Blade F",
+    "Enabled": true
+  },
+  "130052": {
+    "OriginalText": "グランブレードＧ",
+    "Text": "Gran Blade G",
+    "Enabled": true
+  },
+  "130053": {
+    "OriginalText": "グランブレードＨ",
+    "Text": "Gran Blade H",
+    "Enabled": true
+  },
+  "130054": {
+    "OriginalText": "グランブレードＩ",
+    "Text": "",
+    "Enabled": false
+  },
+  "130055": {
+    "OriginalText": "ケース",
+    "Text": "",
+    "Enabled": false
+  },
+  "130056": {
+    "OriginalText": "アルバケース",
+    "Text": "Alva Case",
+    "Enabled": true
+  },
+  "130057": {
+    "OriginalText": "ヴィタケース",
+    "Text": "Vita Case",
+    "Enabled": true
+  },
+  "130058": {
+    "OriginalText": "シース",
+    "Text": "",
+    "Enabled": false
+  },
+  "130059": {
+    "OriginalText": "アルバシース",
+    "Text": "Alva Sheath",
+    "Enabled": true
+  },
+  "130060": {
+    "OriginalText": "ヴィタシース",
+    "Text": "Vita Sheath",
+    "Enabled": true
+  },
+  "130061": {
+    "OriginalText": "カバー",
+    "Text": "",
+    "Enabled": false
+  },
+  "130062": {
+    "OriginalText": "アルバカバー",
+    "Text": "Alva Cover",
+    "Enabled": true
+  },
+  "130063": {
+    "OriginalText": "ヴィタカバー",
+    "Text": "Vita Cover",
+    "Enabled": true
+  },
+  "130064": {
+    "OriginalText": "ラップ",
+    "Text": "",
+    "Enabled": false
+  },
+  "130065": {
+    "OriginalText": "アルバラップ",
+    "Text": "Alva Wrap",
+    "Enabled": true
+  },
+  "130066": {
+    "OriginalText": "ヴィタラップ",
+    "Text": "Vita Wrap",
+    "Enabled": true
+  },
+  "130067": {
+    "OriginalText": "スクリーン",
+    "Text": "Screen",
+    "Enabled": true
+  },
+  "130068": {
+    "OriginalText": "アルバスクリーン",
+    "Text": "Alva Screen",
+    "Enabled": true
+  },
+  "130069": {
+    "OriginalText": "ヴィタスクリーン",
+    "Text": "Vita Screen",
+    "Enabled": true
+  },
+  "130070": {
+    "OriginalText": "エンベロール",
+    "Text": "Enveroll",
+    "Enabled": true
+  },
+  "130071": {
+    "OriginalText": "アルバエンベロール",
+    "Text": "Alva Enveroll",
+    "Enabled": true
+  },
+  "130072": {
+    "OriginalText": "ヴィタエンベロール",
+    "Text": "Vita Enveroll",
+    "Enabled": true
+  },
+  "130073": {
+    "OriginalText": "リボン",
+    "Text": "Ribbon",
+    "Enabled": true
+  },
+  "130074": {
+    "OriginalText": "アルバリボン",
+    "Text": "Alva Ribbon",
+    "Enabled": true
+  },
+  "130075": {
+    "OriginalText": "ヴィタリボン",
+    "Text": "Vita Ribbon",
+    "Enabled": true
+  },
+  "130076": {
+    "OriginalText": "バタフライ",
+    "Text": "Butterfly",
+    "Enabled": true
+  },
+  "130077": {
+    "OriginalText": "アルババタフライ",
+    "Text": "Alva Butterfly",
+    "Enabled": true
+  },
+  "130078": {
+    "OriginalText": "ヴィタバタフライ",
+    "Text": "Vita Butterfly",
+    "Enabled": true
+  },
+  "130079": {
+    "OriginalText": "バンド",
+    "Text": "Band",
+    "Enabled": true
+  },
+  "130080": {
+    "OriginalText": "アルババンド",
+    "Text": "Alva Band",
+    "Enabled": true
+  },
+  "130081": {
+    "OriginalText": "ヴィタバンド",
+    "Text": "Vita Band",
+    "Enabled": true
+  },
+  "130082": {
+    "OriginalText": "クリスタ",
+    "Text": "Chrysta",
+    "Enabled": true
+  },
+  "130083": {
+    "OriginalText": "アルバクリスタ",
+    "Text": "Alva Chrysta",
+    "Enabled": true
+  },
+  "130084": {
+    "OriginalText": "ヴィタクリスタ",
+    "Text": "Vita Chrysta",
+    "Enabled": true
+  },
+  "130085": {
+    "OriginalText": "クォーツ",
+    "Text": "Quartz",
+    "Enabled": true
+  },
+  "130086": {
+    "OriginalText": "アルバクォーツ",
+    "Text": "Alva Quartz",
+    "Enabled": true
+  },
+  "130087": {
+    "OriginalText": "ヴィタクォーツ",
+    "Text": "Vita Quartz",
+    "Enabled": true
+  },
+  "130088": {
+    "OriginalText": "プレート",
+    "Text": "Plate",
+    "Enabled": true
+  },
+  "130089": {
+    "OriginalText": "アルバプレート",
+    "Text": "Alva Plate",
+    "Enabled": true
+  },
+  "130090": {
+    "OriginalText": "ヴィタプレート",
+    "Text": "Vita Plate",
+    "Enabled": true
+  },
+  "130091": {
+    "OriginalText": "グリップ",
+    "Text": "Grip",
+    "Enabled": true
+  },
+  "130092": {
+    "OriginalText": "アルバグリップ",
+    "Text": "Alva Grip",
+    "Enabled": true
+  },
+  "130093": {
+    "OriginalText": "ヴィタグリップ",
+    "Text": "Vita Grip",
+    "Enabled": true
+  },
+  "130094": {
+    "OriginalText": "ハンドル",
+    "Text": "Handle",
+    "Enabled": true
+  },
+  "130095": {
+    "OriginalText": "アルバハンドル",
+    "Text": "Alva Handle",
+    "Enabled": true
+  },
+  "130096": {
+    "OriginalText": "ヴィタハンドル",
+    "Text": "Vita Handle",
+    "Enabled": true
+  },
+  "130097": {
+    "OriginalText": "ノヴ",
+    "Text": "Knob",
+    "Enabled": true
+  },
+  "130098": {
+    "OriginalText": "アルバノヴ",
+    "Text": "Alva Knob",
+    "Enabled": true
+  },
+  "130099": {
+    "OriginalText": "ヴィタノヴ",
+    "Text": "Vita Knob",
+    "Enabled": true
+  },
+  "130100": {
+    "OriginalText": "チャネコグリップ",
+    "Text": "Havana Cat Grip",
+    "Enabled": true
+  },
+  "130101": {
+    "OriginalText": "ブチネコグリップ",
+    "Text": "Petit Cat Grip",
+    "Enabled": true
+  },
+  "130102": {
+    "OriginalText": "シロネコグリップ",
+    "Text": "White Cat Grip",
+    "Enabled": true
+  },
+  "130103": {
+    "OriginalText": "サバトラネコグリップ",
+    "Text": "Mackarel Cat Grip",
+    "Enabled": true
+  },
+  "130104": {
+    "OriginalText": "ヘッド",
+    "Text": "Head",
+    "Enabled": true
+  },
+  "130105": {
+    "OriginalText": "アルバヘッド",
+    "Text": "Alva Head",
+    "Enabled": true
+  },
+  "130106": {
+    "OriginalText": "ヴィタヘッド",
+    "Text": "Vita Head",
+    "Enabled": true
+  },
+  "130107": {
+    "OriginalText": "リーディング",
+    "Text": "Reading",
+    "Enabled": true
+  },
+  "130108": {
+    "OriginalText": "アルバリーディング",
+    "Text": "Alva Reading",
+    "Enabled": true
+  },
+  "130109": {
+    "OriginalText": "ヴィタリーディング",
+    "Text": "Vita Reading",
+    "Enabled": true
+  },
+  "130110": {
+    "OriginalText": "ファウスト",
+    "Text": "Facts",
+    "Enabled": true
+  },
+  "130111": {
+    "OriginalText": "アルバファウスト",
+    "Text": "Alva Facts",
+    "Enabled": true
+  },
+  "130112": {
+    "OriginalText": "ヴィタファウスト",
+    "Text": "Vita Facts",
+    "Enabled": true
+  },
+  "130113": {
+    "OriginalText": "ダウン",
+    "Text": "Down",
+    "Enabled": true
+  },
+  "130114": {
+    "OriginalText": "アルバダウン",
+    "Text": "Alva Down",
+    "Enabled": true
+  },
+  "130115": {
+    "OriginalText": "ヴィタダウン",
+    "Text": "Vita Down",
+    "Enabled": true
+  },
+  "130116": {
+    "OriginalText": "プレイン",
+    "Text": "Plain",
+    "Enabled": true
+  },
+  "130117": {
+    "OriginalText": "アルバプレイン",
+    "Text": "Alva Plain",
+    "Enabled": true
+  },
+  "130118": {
+    "OriginalText": "ヴィタプレイン",
+    "Text": "Vita Plain",
+    "Enabled": true
+  },
+  "130119": {
+    "OriginalText": "ショウ",
+    "Text": "Shock",
+    "Enabled": true
+  },
+  "130120": {
+    "OriginalText": "アルバショウ",
+    "Text": "Alva Shock",
+    "Enabled": true
+  },
+  "130121": {
+    "OriginalText": "ヴィタショウ",
+    "Text": "Vita Shock",
+    "Enabled": true
+  },
+  "130122": {
+    "OriginalText": "チャネコヘッド",
+    "Text": "Havana Cat Head",
+    "Enabled": true
+  },
+  "130123": {
+    "OriginalText": "ブチネコヘッド",
+    "Text": "Petit Cat Head",
+    "Enabled": true
+  },
+  "130124": {
+    "OriginalText": "シロネコヘッド",
+    "Text": "White Cat Head",
+    "Enabled": true
+  },
+  "130125": {
+    "OriginalText": "サバトラネコヘッド",
+    "Text": "Mackarel Cat Head",
+    "Enabled": true
+  },
+  "130126": {
+    "OriginalText": "ヒルト",
+    "Text": "Hilt",
+    "Enabled": true
+  },
+  "130127": {
+    "OriginalText": "アルバヒルト",
+    "Text": "Alva Hilt",
+    "Enabled": true
+  },
+  "130128": {
+    "OriginalText": "ヴィタヒルト",
+    "Text": "Vita Hilt",
+    "Enabled": true
+  },
+  "130129": {
+    "OriginalText": "ラグ",
+    "Text": "Rug",
+    "Enabled": true
+  },
+  "130130": {
+    "OriginalText": "アルバラグ",
+    "Text": "Vita Rug",
+    "Enabled": true
+  },
+  "130131": {
+    "OriginalText": "ヴィタラグ",
+    "Text": "",
+    "Enabled": false
+  },
+  "130132": {
+    "OriginalText": "シャフト",
+    "Text": "Shaft",
+    "Enabled": true
+  },
+  "130133": {
+    "OriginalText": "アルバシャフト",
+    "Text": "Alva Shaft",
+    "Enabled": true
+  },
+  "130134": {
+    "OriginalText": "ヴィタシャフト",
+    "Text": "Vita Shaft",
+    "Enabled": true
+  },
+  "130135": {
+    "OriginalText": "プラム",
+    "Text": "Plum",
+    "Enabled": true
+  },
+  "130136": {
+    "OriginalText": "アルバプラム",
+    "Text": "Alva Plum",
+    "Enabled": true
+  },
+  "130137": {
+    "OriginalText": "ヴィタプラム",
+    "Text": "Vita Plum",
+    "Enabled": true
+  },
+  "130138": {
+    "OriginalText": "ウィング",
+    "Text": "Wing",
+    "Enabled": true
+  },
+  "130139": {
+    "OriginalText": "アルバウィング",
+    "Text": "Alva Wing",
+    "Enabled": true
+  },
+  "130140": {
+    "OriginalText": "ヴィタウィング",
+    "Text": "Vita Wing",
+    "Enabled": true
+  },
+  "130141": {
+    "OriginalText": "フェザー",
+    "Text": "Feather",
+    "Enabled": true
+  },
+  "130142": {
+    "OriginalText": "アルバフェザー",
+    "Text": "Alva Feather",
+    "Enabled": true
+  },
+  "130143": {
+    "OriginalText": "ヴィタフェザー",
+    "Text": "Vita Feather",
+    "Enabled": true
+  },
+  "130144": {
+    "OriginalText": "プロペラ",
+    "Text": "Propeller",
+    "Enabled": true
+  },
+  "130145": {
+    "OriginalText": "アルバプロペラ",
+    "Text": "Alva Propeller",
+    "Enabled": true
+  },
+  "130146": {
+    "OriginalText": "ヴィタプロペラ",
+    "Text": "Vita Propeller",
+    "Enabled": true
+  },
+  "130147": {
+    "OriginalText": "ファン",
+    "Text": "Fan",
+    "Enabled": true
+  },
+  "130148": {
+    "OriginalText": "アルバファン",
+    "Text": "Alva Fan",
+    "Enabled": true
+  },
+  "130149": {
+    "OriginalText": "ヴィタファン",
+    "Text": "Vita Fan",
+    "Enabled": true
+  },
+  "130150": {
+    "OriginalText": "ヴェイン",
+    "Text": "Vein",
+    "Enabled": true
+  },
+  "130151": {
+    "OriginalText": "アルバヴェイン",
+    "Text": "Alva Vein",
+    "Enabled": true
+  },
+  "130152": {
+    "OriginalText": "ヴィタヴェイン",
+    "Text": "Vita Vein",
+    "Enabled": true
+  },
+  "130153": {
+    "OriginalText": "ブースター",
+    "Text": "Booster",
+    "Enabled": true
+  },
+  "130154": {
+    "OriginalText": "アルバブースター",
+    "Text": "Alva Booster",
+    "Enabled": true
+  },
+  "130155": {
+    "OriginalText": "ヴィタブースター",
+    "Text": "Vita Booster",
+    "Enabled": true
+  },
+  "130156": {
+    "OriginalText": "ターヴィン",
+    "Text": "Turbine",
+    "Enabled": true
+  },
+  "130157": {
+    "OriginalText": "アルバターヴィン",
+    "Text": "Alva Turbine",
+    "Enabled": true
+  },
+  "130158": {
+    "OriginalText": "ヴィタターヴィン",
+    "Text": "Vita Turbine",
+    "Enabled": true
+  },
+  "130159": {
+    "OriginalText": "クロックアップ",
+    "Text": "Clock Up",
+    "Enabled": true
+  },
+  "130160": {
+    "OriginalText": "アルバクロックアップ",
+    "Text": "Alva Clock Up",
+    "Enabled": true
+  },
+  "130161": {
+    "OriginalText": "ヴィタクロックアップ",
+    "Text": "Vita Clock Up",
+    "Enabled": true
+  },
+  "130162": {
+    "OriginalText": "アンプ",
+    "Text": "Amp",
+    "Enabled": true
+  },
+  "130163": {
+    "OriginalText": "アルバアンプ",
+    "Text": "Alva Amp",
+    "Enabled": true
+  },
+  "130164": {
+    "OriginalText": "ヴィタアンプ",
+    "Text": "Vita Amp",
+    "Enabled": true
+  },
+  "130165": {
+    "OriginalText": "フィルター",
+    "Text": "Filter",
+    "Enabled": true
+  },
+  "130166": {
+    "OriginalText": "アルバフィルター",
+    "Text": "Alva Filter",
+    "Enabled": true
+  },
+  "130167": {
+    "OriginalText": "ヴィタフィルター",
+    "Text": "Vita Filter",
+    "Enabled": true
+  },
+  "130168": {
+    "OriginalText": "アクセラレータ",
+    "Text": "Accelerator",
+    "Enabled": true
+  },
+  "130169": {
+    "OriginalText": "アルバアクセラレータ",
+    "Text": "Alva Accelerator",
+    "Enabled": true
+  },
+  "130170": {
+    "OriginalText": "ヴィタアクセラレータ",
+    "Text": "Vita Accelerator",
+    "Enabled": true
+  },
+  "130171": {
+    "OriginalText": "アダプター",
+    "Text": "Adapter",
+    "Enabled": true
+  },
+  "130172": {
+    "OriginalText": "アルバアダプター",
+    "Text": "Alva Adapter",
+    "Enabled": true
+  },
+  "130173": {
+    "OriginalText": "ヴィタアダプター",
+    "Text": "Vita Adapter",
+    "Enabled": true
+  },
+  "130174": {
+    "OriginalText": "ギア",
+    "Text": "Gear",
+    "Enabled": true
+  },
+  "130175": {
+    "OriginalText": "アルバギア",
+    "Text": "Alva Gear",
+    "Enabled": true
+  },
+  "130176": {
+    "OriginalText": "ヴィタギア",
+    "Text": "Vita Gear",
+    "Enabled": true
+  },
+  "130177": {
+    "OriginalText": "モーター",
+    "Text": "Motor",
+    "Enabled": true
+  },
+  "130178": {
+    "OriginalText": "アルバモーター",
+    "Text": "Alva Motor",
+    "Enabled": true
+  },
+  "130179": {
+    "OriginalText": "ヴィタモーター",
+    "Text": "Vita Motor",
+    "Enabled": true
+  },
+  "130180": {
+    "OriginalText": "デヴァイス",
+    "Text": "Device",
+    "Enabled": true
+  },
+  "130181": {
+    "OriginalText": "アルバデヴァイス",
+    "Text": "Alva Device",
+    "Enabled": true
+  },
+  "130182": {
+    "OriginalText": "ヴィタデヴァイス",
+    "Text": "Vita Device",
+    "Enabled": true
+  },
+  "130183": {
+    "OriginalText": "チャネコアダプター",
+    "Text": "Havana Cat Adapter",
+    "Enabled": true
+  },
+  "130184": {
+    "OriginalText": "ブチネコアダプター",
+    "Text": "Petit Cat Adapter",
+    "Enabled": true
+  },
+  "130185": {
+    "OriginalText": "シロネコアダプター",
+    "Text": "White Cat Adapter",
+    "Enabled": true
+  },
+  "130186": {
+    "OriginalText": "サバトラネコアダプター",
+    "Text": "Mackarel Cat Adapter",
+    "Enabled": true
+  },
+  "130187": {
+    "OriginalText": "エイム",
+    "Text": "Aim",
+    "Enabled": true
+  },
+  "130188": {
+    "OriginalText": "エクスエイム",
+    "Text": "Ex Aim",
+    "Enabled": true
+  },
+  "130189": {
+    "OriginalText": "ターゲット",
+    "Text": "Target",
+    "Enabled": true
+  },
+  "130190": {
+    "OriginalText": "エクスターゲット",
+    "Text": "Ex Target",
+    "Enabled": true
+  },
+  "130191": {
+    "OriginalText": "マーカー",
+    "Text": "Marker",
+    "Enabled": true
+  },
+  "130192": {
+    "OriginalText": "エクスマーカー",
+    "Text": "Ex Marker",
+    "Enabled": true
+  },
+  "130193": {
+    "OriginalText": "サイト",
+    "Text": "Site",
+    "Enabled": true
+  },
+  "130194": {
+    "OriginalText": "エクスサイト",
+    "Text": "Ex Site",
+    "Enabled": true
+  },
+  "130195": {
+    "OriginalText": "スコープ",
+    "Text": "Scope",
+    "Enabled": true
+  },
+  "130196": {
+    "OriginalText": "エクススコープ",
+    "Text": "Ex Scope",
+    "Enabled": true
+  },
+  "130197": {
+    "OriginalText": "ピンポイント",
+    "Text": "Pinpoint",
+    "Enabled": true
+  },
+  "130198": {
+    "OriginalText": "エクスピンポイント",
+    "Text": "Ex Pinpoint",
+    "Enabled": true
+  },
+  "130199": {
+    "OriginalText": "プリシジェン",
+    "Text": "Precision",
+    "Enabled": true
+  },
+  "130200": {
+    "OriginalText": "エクスプリシジェン",
+    "Text": "Ex Precision",
+    "Enabled": true
+  },
+  "130201": {
+    "OriginalText": "サイン",
+    "Text": "Sign",
+    "Enabled": true
+  },
+  "130202": {
+    "OriginalText": "エクスサイン",
+    "Text": "Ex Sign",
+    "Enabled": true
+  },
+  "130203": {
+    "OriginalText": "アプローチ",
+    "Text": "Approach",
+    "Enabled": true
+  },
+  "130204": {
+    "OriginalText": "エクスアプローチ",
+    "Text": "Ex Approach",
+    "Enabled": true
+  },
+  "130205": {
+    "OriginalText": "炎ジェムⅠ",
+    "Text": "Fire Gem I",
+    "Enabled": true
+  },
+  "130206": {
+    "OriginalText": "炎ジェムⅡ",
+    "Text": "Fire Gem II",
+    "Enabled": true
+  },
+  "130207": {
+    "OriginalText": "炎ジェムⅢ",
+    "Text": "Fire Gem III",
+    "Enabled": true
+  },
+  "130208": {
+    "OriginalText": "劇ジェムⅠ",
+    "Text": "Water Gem I",
+    "Enabled": true
+  },
+  "130209": {
+    "OriginalText": "劇ジェムⅡ",
+    "Text": "Water Gem II",
+    "Enabled": true
+  },
+  "130210": {
+    "OriginalText": "劇ジェムⅢ",
+    "Text": "Water Gem III",
+    "Enabled": true
+  },
+  "130211": {
+    "OriginalText": "雷ジェムⅠ",
+    "Text": "Thunder Gem I",
+    "Enabled": true
+  },
+  "130212": {
+    "OriginalText": "雷ジェムⅡ",
+    "Text": "Thunder Gem II",
+    "Enabled": true
+  },
+  "130213": {
+    "OriginalText": "雷ジェムⅢ",
+    "Text": "Thunder Gem III",
+    "Enabled": true
+  },
+  "130214": {
+    "OriginalText": "風ジェムⅠ",
+    "Text": "Wind Gem I",
+    "Enabled": true
+  },
+  "130215": {
+    "OriginalText": "風ジェムⅡ",
+    "Text": "Wind Gem II",
+    "Enabled": true
+  },
+  "130216": {
+    "OriginalText": "風ジェムⅢ",
+    "Text": "Wind Gem III",
+    "Enabled": true
+  },
+  "130217": {
+    "OriginalText": "光ジェムⅠ",
+    "Text": "Light Gem I",
+    "Enabled": true
+  },
+  "130218": {
+    "OriginalText": "光ジェムⅡ",
+    "Text": "Light Gem II",
+    "Enabled": true
+  },
+  "130219": {
+    "OriginalText": "光ジェムⅢ",
+    "Text": "Light Gem III",
+    "Enabled": true
+  },
+  "130220": {
+    "OriginalText": "闇ジェムⅠ",
+    "Text": "Dark Gem I",
+    "Enabled": true
+  },
+  "130221": {
+    "OriginalText": "闇ジェムⅡ",
+    "Text": "Dark Gem II",
+    "Enabled": true
+  },
+  "130222": {
+    "OriginalText": "闇ジェムⅢ",
+    "Text": "Dark Gem III",
+    "Enabled": true
+  },
+  "130223": {
+    "OriginalText": "フォイエ・エフェクト",
+    "Text": "Foie Attach",
+    "Enabled": true
+  },
+  "130224": {
+    "OriginalText": "ゾンデ・エフェクト",
+    "Text": "Zonde Attach",
+    "Enabled": true
+  },
+  "130225": {
+    "OriginalText": "バータ・エフェクト",
+    "Text": "Barta Attach",
+    "Enabled": true
+  },
+  "130226": {
+    "OriginalText": "ザン・エフェクト",
+    "Text": "Zan Attach",
+    "Enabled": true
+  },
+  "130227": {
+    "OriginalText": "グランツ・エフェクト",
+    "Text": "Gran Attach",
+    "Enabled": true
+  },
+  "130228": {
+    "OriginalText": "メギド・エフェクト",
+    "Text": "Megin Attach",
+    "Enabled": true
+  },
+  "130229": {
+    "OriginalText": "ラッピー・エフェクト",
+    "Text": "Rappy Attach",
+    "Enabled": true
+  },
+  "130230": {
+    "OriginalText": "フェザー・エフェクト",
+    "Text": "Feather Attach",
+    "Enabled": true
+  },
+  "130231": {
+    "OriginalText": "フォレスト・エフェクト",
+    "Text": "Forest Attach",
+    "Enabled": true
+  },
+  "130232": {
+    "OriginalText": "チャージ・エフェクト",
+    "Text": "Charge Attach",
+    "Enabled": true
+  },
+  "130233": {
+    "OriginalText": "フラワー・エフェクト",
+    "Text": "Flower Attach",
+    "Enabled": true
+  },
+  "130234": {
+    "OriginalText": "リリース・エフェクト",
+    "Text": "Release Attach",
+    "Enabled": true
+  },
+  "130235": {
+    "OriginalText": "炎ジェムⅣ",
+    "Text": "Fire Gem IV",
+    "Enabled": true
+  },
+  "130236": {
+    "OriginalText": "劇ジェムⅣ",
+    "Text": "Water Gem IV",
+    "Enabled": true
+  },
+  "130237": {
+    "OriginalText": "雷ジェムⅣ",
+    "Text": "Thunder Gem IV",
+    "Enabled": true
+  },
+  "130238": {
+    "OriginalText": "風ジェムⅣ",
+    "Text": "Wind Gem IV",
+    "Enabled": true
+  },
+  "130239": {
+    "OriginalText": "光ジェムⅣ",
+    "Text": "Light Gem IV",
+    "Enabled": true
+  },
+  "130240": {
+    "OriginalText": "闇ジェムⅣ",
+    "Text": "Dark Gem IV",
+    "Enabled": true
+  },
+  "130241": {
+    "OriginalText": "ネギアタッチ",
+    "Text": "Spring Onion Attach",
+    "Enabled": true
+  },
+  "130242": {
+    "OriginalText": "肉アタッチ",
+    "Text": "Meat Attach",
+    "Enabled": true
+  },
+  "130243": {
+    "OriginalText": "Sアタッチ",
+    "Text": "S Attach",
+    "Enabled": true
+  },
+  "130244": {
+    "OriginalText": "Eアタッチ",
+    "Text": "E Attach",
+    "Enabled": true
+  },
+  "130245": {
+    "OriginalText": "Gアタッチ",
+    "Text": "G Attach",
+    "Enabled": true
+  },
+  "130246": {
+    "OriginalText": "Aアタッチ",
+    "Text": "A Attach",
+    "Enabled": true
+  },
+  "130247": {
+    "OriginalText": "赤ぷよ",
+    "Text": "",
+    "Enabled": false
+  },
+  "130248": {
+    "OriginalText": "青ぷよ",
+    "Text": "",
+    "Enabled": false
+  },
+  "130249": {
+    "OriginalText": "緑ぷよ",
+    "Text": "",
+    "Enabled": false
+  },
+  "130250": {
+    "OriginalText": "紫ぷよ",
+    "Text": "",
+    "Enabled": false
+  },
+  "130251": {
+    "OriginalText": "黄ぷよ",
+    "Text": "",
+    "Enabled": false
+  },
+  "130252": {
+    "OriginalText": "リング",
+    "Text": "",
+    "Enabled": false
+  }
+}

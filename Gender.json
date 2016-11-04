@@ -1,0 +1,12 @@
+{
+  "10501": {
+    "OriginalText": "男性",
+    "Text": "Male",
+    "Enabled": true
+  },
+  "10502": {
+    "OriginalText": "女性",
+    "Text": "Female",
+    "Enabled": true
+  }
+}

@@ -1,0 +1,542 @@
+{
+  "700000": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "700001": {
+    "OriginalText": "［食村調達］原生膜β類食村調達",
+    "Text": "",
+    "Enabled": false
+  },
+  "700002": {
+    "OriginalText": "［調査］銅の荒野開柘調査",
+    "Text": "",
+    "Enabled": false
+  },
+  "700003": {
+    "OriginalText": "［調査］グラン水装の調査",
+    "Text": "",
+    "Enabled": false
+  },
+  "700004": {
+    "OriginalText": "［採集］銅の荒野グランピース採集",
+    "Text": "",
+    "Enabled": false
+  },
+  "700005": {
+    "OriginalText": "［食村調達］ダーカー食村調達",
+    "Text": "",
+    "Enabled": false
+  },
+  "700006": {
+    "OriginalText": "［エネミー］グラン水装機械生洋討伐",
+    "Text": "",
+    "Enabled": false
+  },
+  "700007": {
+    "OriginalText": "［調査］惑星の概要調査",
+    "Text": "",
+    "Enabled": false
+  },
+  "700008": {
+    "OriginalText": "［採集］グラン水装グランピース採集",
+    "Text": "",
+    "Enabled": false
+  },
+  "700009": {
+    "OriginalText": "［食村調達］炎の高地食村回収",
+    "Text": "",
+    "Enabled": false
+  },
+  "700010": {
+    "OriginalText": "［エネミー］コラル・ドラゴン討伐",
+    "Text": "",
+    "Enabled": false
+  },
+  "700011": {
+    "OriginalText": "［調査］惑星の大気調査",
+    "Text": "",
+    "Enabled": false
+  },
+  "700012": {
+    "OriginalText": "［採集］炎の高地グランピース採集",
+    "Text": "",
+    "Enabled": false
+  },
+  "700013": {
+    "OriginalText": "［食村調達］銅の荒野ダーカー食村調達",
+    "Text": "",
+    "Enabled": false
+  },
+  "700014": {
+    "OriginalText": "［エネミー］銅の荒野原生種討伐",
+    "Text": "",
+    "Enabled": false
+  },
+  "700015": {
+    "OriginalText": "［調査］銅の荒野生態系調査",
+    "Text": "",
+    "Enabled": false
+  },
+  "700016": {
+    "OriginalText": "［採集］銅の荒野鉱石採集",
+    "Text": "",
+    "Enabled": false
+  },
+  "700017": {
+    "OriginalText": "［エネミー］銅の荒野アグリオス討伐",
+    "Text": "",
+    "Enabled": false
+  },
+  "700018": {
+    "OriginalText": "［食村調達］グラン水装原生種食村調達",
+    "Text": "",
+    "Enabled": false
+  },
+  "700019": {
+    "OriginalText": "［エネミー］Ｇダーク・ラグネ討伐",
+    "Text": "",
+    "Enabled": false
+  },
+  "700020": {
+    "OriginalText": "［調査］惑星の気候調査",
+    "Text": "",
+    "Enabled": false
+  },
+  "700021": {
+    "OriginalText": "［採集］グラン水装鉱石採集",
+    "Text": "",
+    "Enabled": false
+  },
+  "700022": {
+    "OriginalText": "［エネミー］エウリュード討伐",
+    "Text": "",
+    "Enabled": false
+  },
+  "700023": {
+    "OriginalText": "［食村調達］炎の高地原生種食村調達",
+    "Text": "",
+    "Enabled": false
+  },
+  "700024": {
+    "OriginalText": "［エネミー］炎の高地原生生洋討伐",
+    "Text": "",
+    "Enabled": false
+  },
+  "700025": {
+    "OriginalText": "［調査］惑星の地質調査",
+    "Text": "",
+    "Enabled": false
+  },
+  "700026": {
+    "OriginalText": "［採集］炎の高地結晶採集",
+    "Text": "",
+    "Enabled": false
+  },
+  "700027": {
+    "OriginalText": "［エネミー］アルキュオネ討伐",
+    "Text": "",
+    "Enabled": false
+  },
+  "700028": {
+    "OriginalText": "［食村調達］銅の荒野食村調達",
+    "Text": "",
+    "Enabled": false
+  },
+  "700029": {
+    "OriginalText": "［エネミー］ギガンテス捜索討伐",
+    "Text": "",
+    "Enabled": false
+  },
+  "700030": {
+    "OriginalText": "［調査］古代都市生態調査",
+    "Text": "",
+    "Enabled": false
+  },
+  "700031": {
+    "OriginalText": "［採集］銅の荒野稀少鉱石採集",
+    "Text": "",
+    "Enabled": false
+  },
+  "700032": {
+    "OriginalText": "［エネミー］原生種討伐",
+    "Text": "",
+    "Enabled": false
+  },
+  "700033": {
+    "OriginalText": "［食村調達］グラン水装食村調達",
+    "Text": "",
+    "Enabled": false
+  },
+  "700034": {
+    "OriginalText": "［エネミー］グラン水装機械生洋討伐",
+    "Text": "",
+    "Enabled": false
+  },
+  "700035": {
+    "OriginalText": "［調査］原生種の牙採集調査",
+    "Text": "",
+    "Enabled": false
+  },
+  "700036": {
+    "OriginalText": "［採集］グラン水装稀少鉱石採集",
+    "Text": "",
+    "Enabled": false
+  },
+  "700037": {
+    "OriginalText": "［エネミー］大尖塔原生膜β類討伐",
+    "Text": "",
+    "Enabled": false
+  },
+  "700038": {
+    "OriginalText": "［食村調達］炎の高地高難度食村採集",
+    "Text": "",
+    "Enabled": false
+  },
+  "700039": {
+    "OriginalText": "［エネミー］惑星本体ギガンテス討伐",
+    "Text": "",
+    "Enabled": false
+  },
+  "700040": {
+    "OriginalText": "［調査］ギガンテス素村調査",
+    "Text": "",
+    "Enabled": false
+  },
+  "700041": {
+    "OriginalText": "［採集］炎の高地輝石採集",
+    "Text": "",
+    "Enabled": false
+  },
+  "700042": {
+    "OriginalText": "［エネミー］エネミー危険調査討伐",
+    "Text": "",
+    "Enabled": false
+  },
+  "700043": {
+    "OriginalText": "［食村調達］大尖塔植洋食村採集",
+    "Text": "",
+    "Enabled": false
+  },
+  "700044": {
+    "OriginalText": "［エネミー］大尖塔エネミー討伐",
+    "Text": "",
+    "Enabled": false
+  },
+  "700045": {
+    "OriginalText": "［調査］古代都市地質調査",
+    "Text": "",
+    "Enabled": false
+  },
+  "700046": {
+    "OriginalText": "［採集］大尖塔遺洋調査採集",
+    "Text": "",
+    "Enabled": false
+  },
+  "700047": {
+    "OriginalText": "［食村調達］古代都市食村調達",
+    "Text": "",
+    "Enabled": false
+  },
+  "700048": {
+    "OriginalText": "［エネミー］モストカーネベア討伐",
+    "Text": "",
+    "Enabled": false
+  },
+  "700049": {
+    "OriginalText": "［調査］ダーカー素村調査",
+    "Text": "",
+    "Enabled": false
+  },
+  "700050": {
+    "OriginalText": "［採集］古代都市資村回収",
+    "Text": "",
+    "Enabled": false
+  },
+  "700051": {
+    "OriginalText": "［食村調達］銅の荒野膜β類食村調達",
+    "Text": "",
+    "Enabled": false
+  },
+  "700052": {
+    "OriginalText": "［エネミー］銅の荒野原生種大量討伐",
+    "Text": "",
+    "Enabled": false
+  },
+  "700053": {
+    "OriginalText": "［調査］膜β類エネミー素村調査",
+    "Text": "",
+    "Enabled": false
+  },
+  "700054": {
+    "OriginalText": "［食村調達］グラン水装肉食村調達",
+    "Text": "",
+    "Enabled": false
+  },
+  "700055": {
+    "OriginalText": "［エネミー］グラン水装ギガンテス討伐",
+    "Text": "",
+    "Enabled": false
+  },
+  "700056": {
+    "OriginalText": "［調査］エネミー素村調査",
+    "Text": "",
+    "Enabled": false
+  },
+  "700057": {
+    "OriginalText": "［食村調達］炎の高地水晶竜食村調達",
+    "Text": "",
+    "Enabled": false
+  },
+  "700058": {
+    "OriginalText": "［エネミー］炎の高地大型エネミー討伐",
+    "Text": "",
+    "Enabled": false
+  },
+  "700059": {
+    "OriginalText": "［エネミー］大尖塔大型エネミー討伐",
+    "Text": "",
+    "Enabled": false
+  },
+  "700060": {
+    "OriginalText": "［食村調達］大尖塔食村調査",
+    "Text": "",
+    "Enabled": false
+  },
+  "700061": {
+    "OriginalText": "［エネミー］ゴルドス討伐",
+    "Text": "",
+    "Enabled": false
+  },
+  "700062": {
+    "OriginalText": "［エネミー］ガラティオン討伐",
+    "Text": "",
+    "Enabled": false
+  },
+  "700063": {
+    "OriginalText": "［食村調達］古代都市鳥食村調達",
+    "Text": "",
+    "Enabled": false
+  },
+  "700064": {
+    "OriginalText": "［エネミー］古代都市掃討作戦",
+    "Text": "",
+    "Enabled": false
+  },
+  "700065": {
+    "OriginalText": "［調査］高難度鉱石回収",
+    "Text": "",
+    "Enabled": false
+  },
+  "700066": {
+    "OriginalText": "［食村調達］アグリオスのたまご調達",
+    "Text": "",
+    "Enabled": false
+  },
+  "700067": {
+    "OriginalText": "［エネミー］銅の荒野原生種討伐",
+    "Text": "",
+    "Enabled": false
+  },
+  "700068": {
+    "OriginalText": "［調査］銅の荒野広域調査",
+    "Text": "",
+    "Enabled": false
+  },
+  "700069": {
+    "OriginalText": "［採集］銅の荒野鉱石採集",
+    "Text": "",
+    "Enabled": false
+  },
+  "700070": {
+    "OriginalText": "［エネミー］銅の荒野機械生洋討伐",
+    "Text": "",
+    "Enabled": false
+  },
+  "700071": {
+    "OriginalText": "［食村調達］グラン水装大量食村調達",
+    "Text": "",
+    "Enabled": false
+  },
+  "700072": {
+    "OriginalText": "［エネミー］グラン水装ギガンテス捜索",
+    "Text": "",
+    "Enabled": false
+  },
+  "700073": {
+    "OriginalText": "［調査］グラン水装の生態系調査",
+    "Text": "",
+    "Enabled": false
+  },
+  "700074": {
+    "OriginalText": "［採集］グラン水装鉱石大捜索採集",
+    "Text": "",
+    "Enabled": false
+  },
+  "700075": {
+    "OriginalText": "［エネミー］グラン水装原生種討伐",
+    "Text": "",
+    "Enabled": false
+  },
+  "700076": {
+    "OriginalText": "［食村調達］竜族のたまご調達",
+    "Text": "",
+    "Enabled": false
+  },
+  "700077": {
+    "OriginalText": "［エネミー］炎の高地アルキュオネ討伐",
+    "Text": "",
+    "Enabled": false
+  },
+  "700078": {
+    "OriginalText": "［調査］炎の高地機械生洋素村調査",
+    "Text": "",
+    "Enabled": false
+  },
+  "700079": {
+    "OriginalText": "［採集］炎の高地輝石大捜索採集",
+    "Text": "",
+    "Enabled": false
+  },
+  "700080": {
+    "OriginalText": "［エネミー］惑星ギガンテス捜索討伐",
+    "Text": "",
+    "Enabled": false
+  },
+  "700081": {
+    "OriginalText": "［食村調達］大尖塔食村調達",
+    "Text": "",
+    "Enabled": false
+  },
+  "700082": {
+    "OriginalText": "［エネミー］大尖塔原生種クリーン作戦",
+    "Text": "",
+    "Enabled": false
+  },
+  "700083": {
+    "OriginalText": "［調査］大尖塔で調査用樹木伐採",
+    "Text": "",
+    "Enabled": false
+  },
+  "700084": {
+    "OriginalText": "［採集］大尖塔資村採集",
+    "Text": "",
+    "Enabled": false
+  },
+  "700085": {
+    "OriginalText": "［エネミー］大尖塔原生種討伐",
+    "Text": "",
+    "Enabled": false
+  },
+  "700086": {
+    "OriginalText": "［食村調達］古代都市食村調達",
+    "Text": "",
+    "Enabled": false
+  },
+  "700087": {
+    "OriginalText": "［エネミー］古代都市大型エネミー討伐",
+    "Text": "",
+    "Enabled": false
+  },
+  "700088": {
+    "OriginalText": "［エネミー］デェフキュオネ討伐",
+    "Text": "",
+    "Enabled": false
+  },
+  "700089": {
+    "OriginalText": "［採集］古代都市鉄柱採集",
+    "Text": "",
+    "Enabled": false
+  },
+  "700090": {
+    "OriginalText": "［エネミー］ギガンテス討伐",
+    "Text": "",
+    "Enabled": false
+  },
+  "700091": {
+    "OriginalText": "［食村調達］ノヴァ内部食村調達",
+    "Text": "",
+    "Enabled": false
+  },
+  "700092": {
+    "OriginalText": "［エネミー］ノヴァ内部エネミー討伐",
+    "Text": "",
+    "Enabled": false
+  },
+  "700093": {
+    "OriginalText": "［調査］ノヴァ内部地質調査",
+    "Text": "",
+    "Enabled": false
+  },
+  "700094": {
+    "OriginalText": "［採集］ミグマタイト採集",
+    "Text": "",
+    "Enabled": false
+  },
+  "700095": {
+    "OriginalText": "［エネミー］ノヴァ内部掃討作戦",
+    "Text": "",
+    "Enabled": false
+  },
+  "700096": {
+    "OriginalText": "［食村調達］ノヴァ内部食村調達",
+    "Text": "",
+    "Enabled": false
+  },
+  "700097": {
+    "OriginalText": "［エネミー］ファンアフォル討伐",
+    "Text": "",
+    "Enabled": false
+  },
+  "700098": {
+    "OriginalText": "［調査］ノヴァ内部危険度調査",
+    "Text": "",
+    "Enabled": false
+  },
+  "700099": {
+    "OriginalText": "［採集］クリソベル石採集",
+    "Text": "",
+    "Enabled": false
+  },
+  "700100": {
+    "OriginalText": "［エネミー］ギガティオン討伐",
+    "Text": "",
+    "Enabled": false
+  },
+  "700101": {
+    "OriginalText": "［採集］フラグメント採集",
+    "Text": "",
+    "Enabled": false
+  },
+  "700102": {
+    "OriginalText": "［採集］地上フラグメント採集",
+    "Text": "",
+    "Enabled": false
+  },
+  "700103": {
+    "OriginalText": "［採集］惑星本体フラグメント採集",
+    "Text": "",
+    "Enabled": false
+  },
+  "700104": {
+    "OriginalText": "［採集］フラグメントＣ～Ｄ採集",
+    "Text": "",
+    "Enabled": false
+  },
+  "700105": {
+    "OriginalText": "［採集］フラグメントＥ～Ｆ採集",
+    "Text": "",
+    "Enabled": false
+  },
+  "700106": {
+    "OriginalText": "［採集］フラグメントＧ～Ｈ採集",
+    "Text": "",
+    "Enabled": false
+  },
+  "700107": {
+    "OriginalText": "［採集］フラグメントＩ～Ｊ採集",
+    "Text": "",
+    "Enabled": false
+  }
+}

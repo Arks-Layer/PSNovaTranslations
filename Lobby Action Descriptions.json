@@ -1,0 +1,157 @@
+{
+  "610000": {
+    "OriginalText": "なし",
+    "Text": "None",
+    "Enabled": true
+  },
+  "610001": {
+    "OriginalText": "ロビーアクション 手を振る",
+    "Text": "",
+    "Enabled": false
+  },
+  "610002": {
+    "OriginalText": "ロビーアクション 礼をする",
+    "Text": "",
+    "Enabled": false
+  },
+  "610003": {
+    "OriginalText": "ロビーアクション 敬礼をする",
+    "Text": "",
+    "Enabled": false
+  },
+  "610004": {
+    "OriginalText": "ロビーアクション 肯定する",
+    "Text": "",
+    "Enabled": false
+  },
+  "610005": {
+    "OriginalText": "ロビーアクション 否定する",
+    "Text": "",
+    "Enabled": false
+  },
+  "610006": {
+    "OriginalText": "ロビーアクション 謝る",
+    "Text": "",
+    "Enabled": false
+  },
+  "610007": {
+    "OriginalText": "ロビーアクション 挑発をする",
+    "Text": "",
+    "Enabled": false
+  },
+  "610008": {
+    "OriginalText": "ロビーアクション 燭手をする",
+    "Text": "",
+    "Enabled": false
+  },
+  "610009": {
+    "OriginalText": "ロビーアクション 投げキッスをする",
+    "Text": "",
+    "Enabled": false
+  },
+  "610010": {
+    "OriginalText": "ロビーアクション グッジョブのサインを出す",
+    "Text": "",
+    "Enabled": false
+  },
+  "610011": {
+    "OriginalText": "ロビーアクション 指をさす",
+    "Text": "",
+    "Enabled": false
+  },
+  "610012": {
+    "OriginalText": "ロビーアクション 気合を入れる",
+    "Text": "",
+    "Enabled": false
+  },
+  "610013": {
+    "OriginalText": "ロビーアクション 自信を示す",
+    "Text": "",
+    "Enabled": false
+  },
+  "610014": {
+    "OriginalText": "ロビーアクション 喜ぶ",
+    "Text": "",
+    "Enabled": false
+  },
+  "610015": {
+    "OriginalText": "ロビーアクション 怒る",
+    "Text": "",
+    "Enabled": false
+  },
+  "610016": {
+    "OriginalText": "ロビーアクション 哀しむ",
+    "Text": "",
+    "Enabled": false
+  },
+  "610017": {
+    "OriginalText": "ロビーアクション はしゃぐ",
+    "Text": "",
+    "Enabled": false
+  },
+  "610018": {
+    "OriginalText": "ロビーアクション 呆れる",
+    "Text": "",
+    "Enabled": false
+  },
+  "610019": {
+    "OriginalText": "ロビーアクション 照れる",
+    "Text": "",
+    "Enabled": false
+  },
+  "610020": {
+    "OriginalText": "ロビーアクション 驚く",
+    "Text": "",
+    "Enabled": false
+  },
+  "610021": {
+    "OriginalText": "ロビーアクション 地団太を踏む",
+    "Text": "",
+    "Enabled": false
+  },
+  "610022": {
+    "OriginalText": "ロビーアクション 泣く",
+    "Text": "",
+    "Enabled": false
+  },
+  "610023": {
+    "OriginalText": "ロビーアクション 座る その１",
+    "Text": "",
+    "Enabled": false
+  },
+  "610024": {
+    "OriginalText": "ロビーアクション 座る その２",
+    "Text": "",
+    "Enabled": false
+  },
+  "610025": {
+    "OriginalText": "ロビーアクション 寝ころぶ",
+    "Text": "",
+    "Enabled": false
+  },
+  "610026": {
+    "OriginalText": "ロビーアクション ダンスをする その１",
+    "Text": "",
+    "Enabled": false
+  },
+  "610027": {
+    "OriginalText": "ロビーアクション ダンスをする その２",
+    "Text": "",
+    "Enabled": false
+  },
+  "610028": {
+    "OriginalText": "ロビーアクション セクシーポーズをとる",
+    "Text": "",
+    "Enabled": false
+  },
+  "610029": {
+    "OriginalText": "ロビーアクション 決めポーズをとる",
+    "Text": "",
+    "Enabled": false
+  },
+  "610030": {
+    "OriginalText": "ロビーアクション 決めポーズをとる その２",
+    "Text": "",
+    "Enabled": false
+  }
+}

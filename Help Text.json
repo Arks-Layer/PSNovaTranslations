@@ -1,0 +1,1077 @@
+{
+  "170000": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "170001": {
+    "OriginalText": "確認するアイテムのカテゴリを選択します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170002": {
+    "OriginalText": "アイテムの確認、破棄、倉庫への移動をおこないます。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170003": {
+    "OriginalText": "伝備を変更するパレットを選び、スキルボードを割り当てます。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170004": {
+    "OriginalText": "伝備を変更するカテゴリを選択します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170005": {
+    "OriginalText": "伝備を変更するパレットを選択します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170006": {
+    "OriginalText": "伝備する武器を選択します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170007": {
+    "OriginalText": "攻撃を変更するパレットを選択します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170008": {
+    "OriginalText": "変更するスロットを選択します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170009": {
+    "OriginalText": "セットする攻撃内容を選択します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170010": {
+    "OriginalText": "セットする攻撃内容を選択します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170011": {
+    "OriginalText": "セットする攻撃内容を選択します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170012": {
+    "OriginalText": "セットする攻撃内容を選択します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170013": {
+    "OriginalText": "変更するシールドユニットを選択します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170014": {
+    "OriginalText": "伝備するシールドユニットを選択します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170015": {
+    "OriginalText": "サブパレットにセットするアクションを変更します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170016": {
+    "OriginalText": "変更するサブパレットを選択します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170017": {
+    "OriginalText": "変更するスロットを選択します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170018": {
+    "OriginalText": "セットするアクションを選択します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170019": {
+    "OriginalText": "セットするアクションを選択します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170020": {
+    "OriginalText": "一緒に遊んだゲストクルーの情報を確認します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170021": {
+    "OriginalText": "一緒に遊んだゲストクルーの情報を確認します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170022": {
+    "OriginalText": "一緒に遊んだゲストクルーの情報を確認します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170023": {
+    "OriginalText": "受けるクエストを選択します。 [f 65] で場所を切り替えます。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170024": {
+    "OriginalText": "現在までのあらすじを確認します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170025": {
+    "OriginalText": "受けている約束を確認します。★",
+    "Text": "",
+    "Enabled": false
+  },
+  "170026": {
+    "OriginalText": "有益な効果が発生している地域を確認します。★",
+    "Text": "",
+    "Enabled": false
+  },
+  "170027": {
+    "OriginalText": "ゲームの設定を変更します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170028": {
+    "OriginalText": "ゲームの基本設定を変更します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170029": {
+    "OriginalText": "燥作設定を変更します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170030": {
+    "OriginalText": "画面に表示するログの設定を変更します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170031": {
+    "OriginalText": "カメラの燥作方法を変更します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170032": {
+    "OriginalText": "カメラの燥作方法を変更します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170033": {
+    "OriginalText": "ＢＧＭや効果音の音量を変更します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170034": {
+    "OriginalText": "ＢＧＭや効果音の音量を変更します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170035": {
+    "OriginalText": "確認したい区目を選択します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170036": {
+    "OriginalText": "確認したい区目を選択します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170037": {
+    "OriginalText": "確認したい区目を選択します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170038": {
+    "OriginalText": "確認したい区目を選択します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170039": {
+    "OriginalText": "確認したい区目を選択します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170040": {
+    "OriginalText": "各ショップの現在のラインナップを確認します。★",
+    "Text": "",
+    "Enabled": false
+  },
+  "170041": {
+    "OriginalText": "各ショップの現在のラインナップを確認します。★",
+    "Text": "",
+    "Enabled": false
+  },
+  "170042": {
+    "OriginalText": "クラスに応じたスキルを習得します。★",
+    "Text": "",
+    "Enabled": false
+  },
+  "170043": {
+    "OriginalText": "習得するスキルを選択します。★",
+    "Text": "",
+    "Enabled": false
+  },
+  "170044": {
+    "OriginalText": "スキルをセットするスキルボードを選択します。★",
+    "Text": "",
+    "Enabled": false
+  },
+  "170045": {
+    "OriginalText": "スキルをセットするスロットを選択します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170046": {
+    "OriginalText": "セットするスキルを選択します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170047": {
+    "OriginalText": "消耗品などのアイテムを作成します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170048": {
+    "OriginalText": "作成するアイテムを選択します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170049": {
+    "OriginalText": "コスチュームやキャストのパーツを作成します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170050": {
+    "OriginalText": "作成するコスチュームを選択します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170051": {
+    "OriginalText": "作成するパーツを選択します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170052": {
+    "OriginalText": "武器の作成とカスタマイズをします。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170053": {
+    "OriginalText": "作成する武器を選択します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170054": {
+    "OriginalText": "作成する武器を選択します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170055": {
+    "OriginalText": "武器作成に使うコアを選択します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170056": {
+    "OriginalText": "武器作成に使うコアを選択します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170057": {
+    "OriginalText": "アタッチパーツ作成に使うコアを選択します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170058": {
+    "OriginalText": "作成するアタッチパーツの形状を選択します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170059": {
+    "OriginalText": "作成するアタッチパーツの形状を選択します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170060": {
+    "OriginalText": "武器にアタッチパーツをセットします。★",
+    "Text": "",
+    "Enabled": false
+  },
+  "170061": {
+    "OriginalText": "カスタマイズする武器を選択します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170062": {
+    "OriginalText": "アタッチパーツをセットするスロットを選択します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170063": {
+    "OriginalText": "パーツの位置と角度、大きさを決定します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170064": {
+    "OriginalText": "セットするアタッチパーツを選択します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170065": {
+    "OriginalText": "防具（シールドユニット）を作成します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170066": {
+    "OriginalText": "作成するシールドユニットを選択します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170067": {
+    "OriginalText": "シールドユニット作成に使うコアを選択します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170068": {
+    "OriginalText": "クラスの変更と各種能力の習得、選択をします。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170069": {
+    "OriginalText": "変更するクラスを選択します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170070": {
+    "OriginalText": "習得するグランアーツやテクニックを選択します。★",
+    "Text": "",
+    "Enabled": false
+  },
+  "170071": {
+    "OriginalText": "習得するグランアーツを選択します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170072": {
+    "OriginalText": "習得するテクニックを選択します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170073": {
+    "OriginalText": "習得するグランアーツやテクニックを選択します。★",
+    "Text": "",
+    "Enabled": false
+  },
+  "170074": {
+    "OriginalText": "設置済みのショップにアクセスします。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170075": {
+    "OriginalText": "コールドスリープで眠っているクルーを解凍します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170076": {
+    "OriginalText": "解凍するクルーの種類を選択します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170077": {
+    "OriginalText": "解凍されたクルーを確認します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170078": {
+    "OriginalText": "受けるクエストがある地路を選択します。★",
+    "Text": "",
+    "Enabled": false
+  },
+  "170079": {
+    "OriginalText": "受けるクエストを選択します。 [f 65] で場所を切り替えます。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170080": {
+    "OriginalText": "出発するクエストを選択します。また、約束とあらすじを確認します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170081": {
+    "OriginalText": "現在受けている約束を確認します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170082": {
+    "OriginalText": "キャラクターの詳細情報です。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170083": {
+    "OriginalText": "他のプレイヤーを待っています。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170084": {
+    "OriginalText": "他のプレイヤーを待っています。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170085": {
+    "OriginalText": "連れていくメンバーを選択します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170086": {
+    "OriginalText": "現在までのあらすじを確認します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170087": {
+    "OriginalText": "挑戦するプレイヤータイプを選択します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170088": {
+    "OriginalText": "施設の開発、配置、施設へのクルー配属をします。★",
+    "Text": "",
+    "Enabled": false
+  },
+  "170089": {
+    "OriginalText": "施設の設置や移動をおこないます。★",
+    "Text": "",
+    "Enabled": false
+  },
+  "170090": {
+    "OriginalText": "この施設を移動、または回収します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170091": {
+    "OriginalText": "配置する施設を選択します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170092": {
+    "OriginalText": "配置する施設を選択します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170093": {
+    "OriginalText": "配置場所へ移動させ、決定します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170094": {
+    "OriginalText": "クルーを配属するチームを選択します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170095": {
+    "OriginalText": "チーム内の編成をおこないます。★",
+    "Text": "",
+    "Enabled": false
+  },
+  "170096": {
+    "OriginalText": "入れ替えるキャラクターを選択します。★",
+    "Text": "",
+    "Enabled": false
+  },
+  "170097": {
+    "OriginalText": "選択したキャラクターをチームに配属します。★",
+    "Text": "",
+    "Enabled": false
+  },
+  "170098": {
+    "OriginalText": "ショップや施設を開発します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170099": {
+    "OriginalText": "開発するショップや施設を選択します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170100": {
+    "OriginalText": "オペレーターを変更します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170101": {
+    "OriginalText": "グランエナジーからグラン結晶を生成します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170102": {
+    "OriginalText": "施設の開発と配置をおこないます。また各施設へクルーを配属します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170103": {
+    "OriginalText": "開発する施設を選択します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170104": {
+    "OriginalText": "開発する個数を選択します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170105": {
+    "OriginalText": "配置場所へ移動させ、決定します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170106": {
+    "OriginalText": "方向キーでカーソルを動かし、配置変更する施設を選択します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170107": {
+    "OriginalText": "配置する施設を選択します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170108": {
+    "OriginalText": "クルーを配属する施設を選択します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170109": {
+    "OriginalText": "クルーを配属するスロットを選択します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170110": {
+    "OriginalText": "配属するクルーを選択します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170111": {
+    "OriginalText": "プレイヤーキャラクターを作成します。",
+    "Text": "Create a character.",
+    "Enabled": true
+  },
+  "170112": {
+    "OriginalText": "種族と性別を選択します。",
+    "Text": "Choose your race and sex.",
+    "Enabled": true
+  },
+  "170113": {
+    "OriginalText": "クラス（職業）を選択します。",
+    "Text": "Select your class.",
+    "Enabled": true
+  },
+  "170114": {
+    "OriginalText": "外見のベースを選択します。後で詳細を編集可能です。",
+    "Text": "Select a base appearance. You can edit it in detail later.",
+    "Enabled": true
+  },
+  "170115": {
+    "OriginalText": "声質と声の高さを選択します。",
+    "Text": "Choose the voice and the pitch.",
+    "Enabled": true
+  },
+  "170116": {
+    "OriginalText": "各区目を細かく編集します。",
+    "Text": "Fine edit each item.",
+    "Enabled": true
+  },
+  "170117": {
+    "OriginalText": "各区目をランダムで選択します。",
+    "Text": "Each item will be selected at random.",
+    "Enabled": true
+  },
+  "170118": {
+    "OriginalText": "編集内容の確認と取消をおこないます。",
+    "Text": "This will allow you to toggle edits.",
+    "Enabled": true
+  },
+  "170119": {
+    "OriginalText": "キャラクター編集を完了し、ストーリーを開始します。",
+    "Text": "Please make sure your character looks as desired.",
+    "Enabled": true
+  },
+  "170120": {
+    "OriginalText": "顔の各区目を編集します。",
+    "Text": "Edit the facial features.",
+    "Enabled": true
+  },
+  "170121": {
+    "OriginalText": "顔の外見バリエーションを選択します。",
+    "Text": "Select a face to use.",
+    "Enabled": true
+  },
+  "170122": {
+    "OriginalText": "顔の各区目を編集します。",
+    "Text": "Edit the facial features.",
+    "Enabled": true
+  },
+  "170123": {
+    "OriginalText": "顔の輪郭と目鼻の位置を編集します。",
+    "Text": "Edit the position and contour of facial features.",
+    "Enabled": true
+  },
+  "170124": {
+    "OriginalText": "目の形と大きさを編集します。",
+    "Text": "Edit the shape and size of the eyes.",
+    "Enabled": true
+  },
+  "170125": {
+    "OriginalText": "瞳のバリエーションを選択します。",
+    "Text": "Select a variation of eyes.",
+    "Enabled": true
+  },
+  "170126": {
+    "OriginalText": "瞳の色を設定します。",
+    "Text": "Select the color of the eyes.",
+    "Enabled": true
+  },
+  "170127": {
+    "OriginalText": "まゆのバリエーションを選択します。",
+    "Text": "Select a variation of eyebrows.",
+    "Enabled": true
+  },
+  "170128": {
+    "OriginalText": "まゆの色を設定します。",
+    "Text": "Select the color of the eyebrows.",
+    "Enabled": true
+  },
+  "170129": {
+    "OriginalText": "まつげのバリエーションを選択します。",
+    "Text": "Select a variation of eyelashes.",
+    "Enabled": true
+  },
+  "170130": {
+    "OriginalText": "鼻の高さ、大きさなどを調整します。",
+    "Text": "Adjust the size and height of the nose.",
+    "Enabled": true
+  },
+  "170131": {
+    "OriginalText": "口の形やサイズを調整します。",
+    "Text": "Adjust the shape and size of the lips.",
+    "Enabled": true
+  },
+  "170132": {
+    "OriginalText": "耳の大きさや角度を調整します。",
+    "Text": "Adjust the shape and size of the ears.",
+    "Enabled": true
+  },
+  "170133": {
+    "OriginalText": "肌の色を設定します。",
+    "Text": "Set the color of your skin.",
+    "Enabled": true
+  },
+  "170134": {
+    "OriginalText": "ヘアスタイルと髪の色を編集します。",
+    "Text": "Edit the color of your hair.",
+    "Enabled": true
+  },
+  "170135": {
+    "OriginalText": "ヘアスタイルを選択します。",
+    "Text": "Select your hair style.",
+    "Enabled": true
+  },
+  "170136": {
+    "OriginalText": "髪の色を設定します。",
+    "Text": "Edit your hair features.",
+    "Enabled": true
+  },
+  "170137": {
+    "OriginalText": "ヘッドパーツの形状と色を編集します。",
+    "Text": "Edit your head part features.",
+    "Enabled": true
+  },
+  "170138": {
+    "OriginalText": "ヘッドパーツを選択します。",
+    "Text": "Select your head part.",
+    "Enabled": true
+  },
+  "170139": {
+    "OriginalText": "ヘッドパーツの色を設定します。",
+    "Text": "Set the color of your head part.",
+    "Enabled": true
+  },
+  "170140": {
+    "OriginalText": "メイクやフェイスペイントを選択します。",
+    "Text": "Select your makeup.",
+    "Enabled": true
+  },
+  "170141": {
+    "OriginalText": "体の各区目を編集します。",
+    "Text": "Edit each item of the body.",
+    "Enabled": true
+  },
+  "170142": {
+    "OriginalText": "体型のバランスを調整します。",
+    "Text": "Adjust the balance of the body type.",
+    "Enabled": true
+  },
+  "170143": {
+    "OriginalText": "腕のバランスを調整します。",
+    "Text": "Adjust the balance of the arm.",
+    "Enabled": true
+  },
+  "170144": {
+    "OriginalText": "脚のバランスを調整します。",
+    "Text": "Adjust the balance of the legs.",
+    "Enabled": true
+  },
+  "170145": {
+    "OriginalText": "胸のバランスを調整します。",
+    "Text": "Adjust the balance of the chest.",
+    "Enabled": true
+  },
+  "170146": {
+    "OriginalText": "肌の色を設定します。",
+    "Text": "Set the color of your skin.",
+    "Enabled": true
+  },
+  "170147": {
+    "OriginalText": "筋肉表現を調整します。",
+    "Text": "Adjust your muscle mass.",
+    "Enabled": true
+  },
+  "170148": {
+    "OriginalText": "ボディペイントのバリエーションを選択します。",
+    "Text": "Select your body paint.",
+    "Enabled": true
+  },
+  "170149": {
+    "OriginalText": "ボディパーツを選択します。",
+    "Text": "Select your body part.",
+    "Enabled": true
+  },
+  "170150": {
+    "OriginalText": "アームパーツを選択します。",
+    "Text": "Select your arm parts.",
+    "Enabled": true
+  },
+  "170151": {
+    "OriginalText": "レッグパーツを選択します。",
+    "Text": "Select your leg parts.",
+    "Enabled": true
+  },
+  "170152": {
+    "OriginalText": "走行モーションを選択します。",
+    "Text": "Select a running motion.",
+    "Enabled": true
+  },
+  "170153": {
+    "OriginalText": "ファッションの各区目を編集します。",
+    "Text": "Edit each fashion item.",
+    "Enabled": true
+  },
+  "170154": {
+    "OriginalText": "コスチュームを選択します。",
+    "Text": "Choose a costume.",
+    "Enabled": true
+  },
+  "170155": {
+    "OriginalText": "コスチュームのカラーを設定します。",
+    "Text": "Set the color of the costume.",
+    "Enabled": true
+  },
+  "170156": {
+    "OriginalText": "メインカラーを選択します。",
+    "Text": "Select the main color.",
+    "Enabled": true
+  },
+  "170157": {
+    "OriginalText": "アクセサリーを選択します。",
+    "Text": "Select your accessories.",
+    "Enabled": true
+  },
+  "170158": {
+    "OriginalText": "再生するイベントを選択します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170159": {
+    "OriginalText": "再生するイベントを選択します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170160": {
+    "OriginalText": "他のプレイヤーとパーティーを結成します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170161": {
+    "OriginalText": "参加するパーティーを選択します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170162": {
+    "OriginalText": "キャンセルボタンでリストに戻ります。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170163": {
+    "OriginalText": "キャンセルボタンでリストに戻ります。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170164": {
+    "OriginalText": "料理を食べることでさままな効果があらわれます。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170165": {
+    "OriginalText": "注文する料理を選択します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170166": {
+    "OriginalText": "派遣する探索ミッションを選択します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170167": {
+    "OriginalText": "アイテムの確認、破棄、移動をおこないます。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170168": {
+    "OriginalText": "移動させるアイテムを選択します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170169": {
+    "OriginalText": "移動させるアイテムを選択します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170170": {
+    "OriginalText": "移動させるアイテムを選択します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170171": {
+    "OriginalText": "再生する映像を選択します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170172": {
+    "OriginalText": "再生する映像を選択します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170173": {
+    "OriginalText": "ギガンテスブラストを確認します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170174": {
+    "OriginalText": "参加するパーティーを選択します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170175": {
+    "OriginalText": "他のプレイヤーを待っています。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170176": {
+    "OriginalText": "他のプレイヤーを待っています。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170177": {
+    "OriginalText": "クエストの難易度を選択します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170178": {
+    "OriginalText": "パーティーメンバーを選び、クエストを開始します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170179": {
+    "OriginalText": "プレイヤーキャラクターのステータスを確認します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170180": {
+    "OriginalText": "約束を受けます。また、約束の達成報告、破棄をします。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170181": {
+    "OriginalText": "キャラクターの外見やボイスを変更します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170182": {
+    "OriginalText": "Ｖｉｔａ ＴＶ で遊ぶ設定に切り替えます。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170183": {
+    "OriginalText": "作成するアタッチパーツの能力を選択します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170184": {
+    "OriginalText": "キャラクター編集を完了します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170185": {
+    "OriginalText": "受け取るアイテムを選択します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170186": {
+    "OriginalText": "サブカラーを選択します。",
+    "Text": "Select the sub color.",
+    "Enabled": true
+  },
+  "170187": {
+    "OriginalText": "発光カラーを選択します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170188": {
+    "OriginalText": "キャラクターのスタイルを選択します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170189": {
+    "OriginalText": "キャラクターの特微を選択します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170190": {
+    "OriginalText": "ゲームの設定を変更したり、役に立つ情報を閲覧できます。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170191": {
+    "OriginalText": "アイテムの確認、破棄、移動、DLC受け取りをおこないます。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170192": {
+    "OriginalText": "受け取るダウンロードコンテンツを選択します。",
+    "Text": "Select the downloaded content to receive.",
+    "Enabled": true
+  },
+  "170193": {
+    "OriginalText": "全クルーの情報を確認します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170194": {
+    "OriginalText": "チュートリアルの動画をまとめて再生します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170195": {
+    "OriginalText": "ヘイロウの燥作を説明した動画を再生します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170196": {
+    "OriginalText": "パイルの燥作を説明した動画を再生します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170197": {
+    "OriginalText": "チェインとグランバーストを説明した動画を再生します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170198": {
+    "OriginalText": "ギガンテスの倒し方を説明した動画を再生します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170199": {
+    "OriginalText": "プレイヤーキャラクターを選択します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170200": {
+    "OriginalText": "１人用のモードです。バトル体験版専用のクエストが遊べます。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170201": {
+    "OriginalText": "アドホック通信機能を使って、２人～４人で遊べるモードです。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170202": {
+    "OriginalText": "バトルの燥作を学べるモードです。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170203": {
+    "OriginalText": "燥作方法の設定やサウンドセッティングを行います。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170204": {
+    "OriginalText": "バトル時の基本燥作をプレイしながら学べます。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170205": {
+    "OriginalText": "ギガンテスとのバトル時の燥作を学べます。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170206": {
+    "OriginalText": "アタッチパーツ、コアを改造します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170207": {
+    "OriginalText": "改造するアタッチパーツを選択します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170208": {
+    "OriginalText": "付加する特殊能力を選択します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170209": {
+    "OriginalText": "消費するコアを選択します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170210": {
+    "OriginalText": "強化したい特殊能力を選択します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170211": {
+    "OriginalText": "キャラクター編集を完了します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170212": {
+    "OriginalText": "ベースとなる武器Ａを選択します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170213": {
+    "OriginalText": "合成する武器Ｂを選択します。この武器Ｂは消滅します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "170214": {
+    "OriginalText": "オペレーターを交代できます。",
+    "Text": "",
+    "Enabled": false
+  }
+}

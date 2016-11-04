@@ -1,0 +1,3452 @@
+{
+  "260000": {
+    "OriginalText": "---",
+    "Text": "",
+    "Enabled": false
+  },
+  "260076": {
+    "OriginalText": "ブリッジより通達。\nフィルディア艦長より指示あり。\n早急にブリッジへの出頭を要請する。",
+    "Text": "",
+    "Enabled": false
+  },
+  "260077": {
+    "OriginalText": "ブリッジより通達。\nコールドスリープルームへの\n出頭を要請する。",
+    "Text": "",
+    "Enabled": false
+  },
+  "260078": {
+    "OriginalText": "ブリッジより通達。\nラボへの出頭を要請する。",
+    "Text": "",
+    "Enabled": false
+  },
+  "260079": {
+    "OriginalText": "ラボより通達です。\nラボでクルーの配属ができるようになりました。",
+    "Text": "",
+    "Enabled": false
+  },
+  "260080": {
+    "OriginalText": "今後、コールドスリープルームで\n解凍したクルーを好きなショップや\n施設に配属できますよ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "260081": {
+    "OriginalText": "ラボより通達です。\nラボで施設の開発や拡張ができるように\nなりました。",
+    "Text": "",
+    "Enabled": false
+  },
+  "260082": {
+    "OriginalText": "ご入り用の際は\n気軽にお声掛けください。",
+    "Text": "",
+    "Enabled": false
+  },
+  "260083": {
+    "OriginalText": "ヘイロウを作製するには\n武器ショップ、バスターになるには\nクラスカウンターが必要です。",
+    "Text": "",
+    "Enabled": false
+  },
+  "260084": {
+    "OriginalText": "しっかり準備して、\nギガンテスに挑みましょう！",
+    "Text": "",
+    "Enabled": false
+  },
+  "260085": {
+    "OriginalText": "艦長がコスチュームショップを\n作ってくれたよ。こんな不煽な[ruby ほし]惑星[/ruby]だと\n気分転換も必要だよね。",
+    "Text": "",
+    "Enabled": false
+  },
+  "260086": {
+    "OriginalText": "艦長が防具ショップを作ってくれたぜ！\n敵の毛向に合わせてシールドユニットを\n変えてこそ、傾い戦土ってヤツだ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "260087": {
+    "OriginalText": "艦長がエステを作ってくださいました。\nまだ出来ることは少ないですが\nぜひご利用ください。",
+    "Text": "",
+    "Enabled": false
+  },
+  "260088": {
+    "OriginalText": "アイテムショップを作っておいたぞ！\n何が起こるかわからん[ruby ほし]惑星[/ruby]だから、\nちゃんと準備してから任務につけよ！",
+    "Text": "",
+    "Enabled": false
+  },
+  "260089": {
+    "OriginalText": "簡易の武器ショップが完成した！\nアークスたるもの、武器のメンテナンスを\n怠るんじゃねぇぞ！",
+    "Text": "",
+    "Enabled": false
+  },
+  "260090": {
+    "OriginalText": "クラスカウンターを作ったぞ！\nどんな状況であろうと、自分を研賢する\n心構えを忘れちゃいけないからな！",
+    "Text": "",
+    "Enabled": false
+  },
+  "260091": {
+    "OriginalText": "拠点内に食堂をつくってやったぞ。\nガンガン食べて、ガンガン働けよ！",
+    "Text": "",
+    "Enabled": false
+  },
+  "260092": {
+    "OriginalText": "艦長が食堂を作ってくださいましたぞ！\n『食わる者、働くべからず』\nいつでも[ruby わたくし]私[/ruby]の自慢の料理を食べに来てください！",
+    "Text": "",
+    "Enabled": false
+  },
+  "260093": {
+    "OriginalText": "ん、アイテムの補充が欲しいのか？\nしょうがねえな、お前には苦労かけてるしな。\nでも、洋資にも限りがある。大事に使えよ！",
+    "Text": "",
+    "Enabled": false
+  },
+  "260094": {
+    "OriginalText": "ちょっと話したいことがあるんだ。\n手が空いた時にオレに声をかけてくれるか？",
+    "Text": "",
+    "Enabled": false
+  },
+  "260095": {
+    "OriginalText": "最近イズナが忙しそうに働いてるよね。\nセイルも心配そうに見てたみたいだし、\nちょっと様子を見に行ってみようか？",
+    "Text": "",
+    "Enabled": false
+  },
+  "260096": {
+    "OriginalText": "まずは、この拠点に施設をつくるぞ！\n建設計画を相談したいから、\nオレに声を掛けに来てくれ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "260097": {
+    "OriginalText": "ラボで対ギガンテス用ツールの\n研究を行っております。\nラボへのグランの供給をお願いします。",
+    "Text": "",
+    "Enabled": false
+  },
+  "260098": {
+    "OriginalText": "君たちに頼みたいことがある。\n私はラボにいるので、\n話を聞きに来てくれますか？",
+    "Text": "",
+    "Enabled": false
+  },
+  "260099": {
+    "OriginalText": "そろそろこの[ruby ほし]惑星[/ruby]ともおさらばだ。\n準備できたら、オレに声かけろよ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "260100": {
+    "OriginalText": "どうしたよ？",
+    "Text": "",
+    "Enabled": false
+  },
+  "260101": {
+    "OriginalText": "用事か？",
+    "Text": "",
+    "Enabled": false
+  },
+  "260102": {
+    "OriginalText": "ふん……。",
+    "Text": "",
+    "Enabled": false
+  },
+  "260103": {
+    "OriginalText": "何だ？",
+    "Text": "",
+    "Enabled": false
+  },
+  "260104": {
+    "OriginalText": "よう！",
+    "Text": "",
+    "Enabled": false
+  },
+  "260105": {
+    "OriginalText": "あばよ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "260106": {
+    "OriginalText": "じゃあな！",
+    "Text": "",
+    "Enabled": false
+  },
+  "260107": {
+    "OriginalText": "また来いよな！",
+    "Text": "",
+    "Enabled": false
+  },
+  "260108": {
+    "OriginalText": "しっかりな！",
+    "Text": "",
+    "Enabled": false
+  },
+  "260109": {
+    "OriginalText": "ありがとよ！！",
+    "Text": "",
+    "Enabled": false
+  },
+  "260110": {
+    "OriginalText": "どうしました？",
+    "Text": "",
+    "Enabled": false
+  },
+  "260111": {
+    "OriginalText": "私に用ですか？",
+    "Text": "",
+    "Enabled": false
+  },
+  "260112": {
+    "OriginalText": "……（ん？という感じで軽く）。",
+    "Text": "",
+    "Enabled": false
+  },
+  "260113": {
+    "OriginalText": "何だ？",
+    "Text": "",
+    "Enabled": false
+  },
+  "260114": {
+    "OriginalText": "君か。",
+    "Text": "",
+    "Enabled": false
+  },
+  "260115": {
+    "OriginalText": "話は終わりだ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "260116": {
+    "OriginalText": "いきたまえ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "260117": {
+    "OriginalText": "また来たまえ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "260118": {
+    "OriginalText": "任せたぞ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "260119": {
+    "OriginalText": "よろしい。",
+    "Text": "",
+    "Enabled": false
+  },
+  "260120": {
+    "OriginalText": "用件は手短にな。",
+    "Text": "",
+    "Enabled": false
+  },
+  "260121": {
+    "OriginalText": "俺に用か？",
+    "Text": "",
+    "Enabled": false
+  },
+  "260122": {
+    "OriginalText": "見向きもしない。（反応なし）",
+    "Text": "",
+    "Enabled": false
+  },
+  "260123": {
+    "OriginalText": "……（ん？という感じで軽く）。",
+    "Text": "",
+    "Enabled": false
+  },
+  "260124": {
+    "OriginalText": "お前か。",
+    "Text": "",
+    "Enabled": false
+  },
+  "260125": {
+    "OriginalText": "さっさと行け。",
+    "Text": "",
+    "Enabled": false
+  },
+  "260126": {
+    "OriginalText": "仕事に戻れ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "260127": {
+    "OriginalText": "……またな。",
+    "Text": "",
+    "Enabled": false
+  },
+  "260128": {
+    "OriginalText": "やってみせろ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "260129": {
+    "OriginalText": "注文通り、といったところだ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "260130": {
+    "OriginalText": "どうしたよ？",
+    "Text": "",
+    "Enabled": false
+  },
+  "260131": {
+    "OriginalText": "何かあったか？",
+    "Text": "",
+    "Enabled": false
+  },
+  "260132": {
+    "OriginalText": "……（軽くふん、ぐらい）。",
+    "Text": "",
+    "Enabled": false
+  },
+  "260133": {
+    "OriginalText": "おう。",
+    "Text": "",
+    "Enabled": false
+  },
+  "260134": {
+    "OriginalText": "よう！",
+    "Text": "",
+    "Enabled": false
+  },
+  "260135": {
+    "OriginalText": "さて、仕事だ。お前もだろ？",
+    "Text": "",
+    "Enabled": false
+  },
+  "260136": {
+    "OriginalText": "じゃあな。",
+    "Text": "",
+    "Enabled": false
+  },
+  "260137": {
+    "OriginalText": "また来いよ！",
+    "Text": "",
+    "Enabled": false
+  },
+  "260138": {
+    "OriginalText": "ちゃんとやってくれよな。",
+    "Text": "",
+    "Enabled": false
+  },
+  "260139": {
+    "OriginalText": "おっ、すげーじゃん！",
+    "Text": "",
+    "Enabled": false
+  },
+  "260140": {
+    "OriginalText": "俺に話しかい？",
+    "Text": "",
+    "Enabled": false
+  },
+  "260141": {
+    "OriginalText": "用事か？",
+    "Text": "",
+    "Enabled": false
+  },
+  "260142": {
+    "OriginalText": "ん？",
+    "Text": "",
+    "Enabled": false
+  },
+  "260143": {
+    "OriginalText": "おうっ！",
+    "Text": "",
+    "Enabled": false
+  },
+  "260144": {
+    "OriginalText": "おいでなすったな！",
+    "Text": "",
+    "Enabled": false
+  },
+  "260145": {
+    "OriginalText": "お互い仕事に戻るとしようや。",
+    "Text": "",
+    "Enabled": false
+  },
+  "260146": {
+    "OriginalText": "またな。",
+    "Text": "",
+    "Enabled": false
+  },
+  "260147": {
+    "OriginalText": "いつでも来いよ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "260148": {
+    "OriginalText": "よろしくな！",
+    "Text": "",
+    "Enabled": false
+  },
+  "260149": {
+    "OriginalText": "上出来だ！",
+    "Text": "",
+    "Enabled": false
+  },
+  "260150": {
+    "OriginalText": "食欲はありますかな？",
+    "Text": "",
+    "Enabled": false
+  },
+  "260151": {
+    "OriginalText": "肉と魚どちらが……え、違う？",
+    "Text": "",
+    "Enabled": false
+  },
+  "260152": {
+    "OriginalText": "おや？",
+    "Text": "",
+    "Enabled": false
+  },
+  "260153": {
+    "OriginalText": "これはこれは。",
+    "Text": "",
+    "Enabled": false
+  },
+  "260154": {
+    "OriginalText": "わたくしはここですぞ！",
+    "Text": "",
+    "Enabled": false
+  },
+  "260155": {
+    "OriginalText": "では、これにて。",
+    "Text": "",
+    "Enabled": false
+  },
+  "260156": {
+    "OriginalText": "ではごきげんよう。",
+    "Text": "",
+    "Enabled": false
+  },
+  "260157": {
+    "OriginalText": "いつでもお待ちしておりますぞ！",
+    "Text": "",
+    "Enabled": false
+  },
+  "260158": {
+    "OriginalText": "よろしくお願いしますぞ！",
+    "Text": "",
+    "Enabled": false
+  },
+  "260159": {
+    "OriginalText": "完壁じゃありませんか！",
+    "Text": "",
+    "Enabled": false
+  },
+  "260160": {
+    "OriginalText": "なあに？",
+    "Text": "",
+    "Enabled": false
+  },
+  "260161": {
+    "OriginalText": "はぁい！",
+    "Text": "",
+    "Enabled": false
+  },
+  "260162": {
+    "OriginalText": "あ、相棒（バディ）。",
+    "Text": "",
+    "Enabled": false
+  },
+  "260163": {
+    "OriginalText": "よっ！",
+    "Text": "",
+    "Enabled": false
+  },
+  "260164": {
+    "OriginalText": "おーい！！",
+    "Text": "",
+    "Enabled": false
+  },
+  "260165": {
+    "OriginalText": "じゃあね。",
+    "Text": "",
+    "Enabled": false
+  },
+  "260166": {
+    "OriginalText": "バイバイ！",
+    "Text": "",
+    "Enabled": false
+  },
+  "260167": {
+    "OriginalText": "まったね！！",
+    "Text": "",
+    "Enabled": false
+  },
+  "260168": {
+    "OriginalText": "よろしくっ！！",
+    "Text": "",
+    "Enabled": false
+  },
+  "260169": {
+    "OriginalText": "ありがとねっ！！",
+    "Text": "",
+    "Enabled": false
+  },
+  "260170": {
+    "OriginalText": "ご用でしょうか？",
+    "Text": "",
+    "Enabled": false
+  },
+  "260171": {
+    "OriginalText": "何かありましたか？",
+    "Text": "",
+    "Enabled": false
+  },
+  "260172": {
+    "OriginalText": "あ……。",
+    "Text": "",
+    "Enabled": false
+  },
+  "260173": {
+    "OriginalText": "どうも……。",
+    "Text": "",
+    "Enabled": false
+  },
+  "260174": {
+    "OriginalText": "あ、どうもです！",
+    "Text": "",
+    "Enabled": false
+  },
+  "260175": {
+    "OriginalText": "さよならです……。",
+    "Text": "",
+    "Enabled": false
+  },
+  "260176": {
+    "OriginalText": "では、これで。",
+    "Text": "",
+    "Enabled": false
+  },
+  "260177": {
+    "OriginalText": "またお話ししましょう！",
+    "Text": "",
+    "Enabled": false
+  },
+  "260178": {
+    "OriginalText": "お願いします。",
+    "Text": "",
+    "Enabled": false
+  },
+  "260179": {
+    "OriginalText": "ありがとうごいました。",
+    "Text": "",
+    "Enabled": false
+  },
+  "260180": {
+    "OriginalText": "どうした？",
+    "Text": "",
+    "Enabled": false
+  },
+  "260181": {
+    "OriginalText": "オレに用か？",
+    "Text": "",
+    "Enabled": false
+  },
+  "260182": {
+    "OriginalText": "ん？",
+    "Text": "",
+    "Enabled": false
+  },
+  "260183": {
+    "OriginalText": "おう！",
+    "Text": "",
+    "Enabled": false
+  },
+  "260184": {
+    "OriginalText": "よう！",
+    "Text": "",
+    "Enabled": false
+  },
+  "260185": {
+    "OriginalText": "ちゃんと働けよ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "260186": {
+    "OriginalText": "じゃあな。",
+    "Text": "",
+    "Enabled": false
+  },
+  "260187": {
+    "OriginalText": "またな！",
+    "Text": "",
+    "Enabled": false
+  },
+  "260188": {
+    "OriginalText": "頼むぞ！",
+    "Text": "",
+    "Enabled": false
+  },
+  "260189": {
+    "OriginalText": "よくやった！",
+    "Text": "",
+    "Enabled": false
+  },
+  "260190": {
+    "OriginalText": "何でしょうか？",
+    "Text": "",
+    "Enabled": false
+  },
+  "260191": {
+    "OriginalText": "私に、何か？",
+    "Text": "",
+    "Enabled": false
+  },
+  "260192": {
+    "OriginalText": "あ……。",
+    "Text": "",
+    "Enabled": false
+  },
+  "260193": {
+    "OriginalText": "どうも。",
+    "Text": "",
+    "Enabled": false
+  },
+  "260194": {
+    "OriginalText": "ごきげんよう。",
+    "Text": "",
+    "Enabled": false
+  },
+  "260195": {
+    "OriginalText": "では……。",
+    "Text": "",
+    "Enabled": false
+  },
+  "260196": {
+    "OriginalText": "さようなら。",
+    "Text": "",
+    "Enabled": false
+  },
+  "260197": {
+    "OriginalText": "また、来て下さい。",
+    "Text": "",
+    "Enabled": false
+  },
+  "260198": {
+    "OriginalText": "お願いします。",
+    "Text": "",
+    "Enabled": false
+  },
+  "260199": {
+    "OriginalText": "ありがとうごいました。",
+    "Text": "",
+    "Enabled": false
+  },
+  "260200": {
+    "OriginalText": "どうしたの？",
+    "Text": "",
+    "Enabled": false
+  },
+  "260201": {
+    "OriginalText": "ご用かしら？",
+    "Text": "",
+    "Enabled": false
+  },
+  "260202": {
+    "OriginalText": "ん……？",
+    "Text": "",
+    "Enabled": false
+  },
+  "260203": {
+    "OriginalText": "あら……。",
+    "Text": "",
+    "Enabled": false
+  },
+  "260204": {
+    "OriginalText": "なあに？",
+    "Text": "",
+    "Enabled": false
+  },
+  "260205": {
+    "OriginalText": "仕事に戻りなさい。",
+    "Text": "",
+    "Enabled": false
+  },
+  "260206": {
+    "OriginalText": "さよなら。",
+    "Text": "",
+    "Enabled": false
+  },
+  "260207": {
+    "OriginalText": "またね。",
+    "Text": "",
+    "Enabled": false
+  },
+  "260208": {
+    "OriginalText": "よろしく。",
+    "Text": "",
+    "Enabled": false
+  },
+  "260209": {
+    "OriginalText": "やるじゃない。",
+    "Text": "",
+    "Enabled": false
+  },
+  "260210": {
+    "OriginalText": "私にご用ですか？",
+    "Text": "",
+    "Enabled": false
+  },
+  "260211": {
+    "OriginalText": "何でしょう？",
+    "Text": "",
+    "Enabled": false
+  },
+  "260212": {
+    "OriginalText": "あ……。",
+    "Text": "",
+    "Enabled": false
+  },
+  "260213": {
+    "OriginalText": "あ、どうも。",
+    "Text": "",
+    "Enabled": false
+  },
+  "260214": {
+    "OriginalText": "元気ですか！",
+    "Text": "",
+    "Enabled": false
+  },
+  "260215": {
+    "OriginalText": "では、また。",
+    "Text": "",
+    "Enabled": false
+  },
+  "260216": {
+    "OriginalText": "健康第一ですよ！",
+    "Text": "",
+    "Enabled": false
+  },
+  "260217": {
+    "OriginalText": "またお話しましょうね！",
+    "Text": "",
+    "Enabled": false
+  },
+  "260218": {
+    "OriginalText": "お願いしますね！",
+    "Text": "",
+    "Enabled": false
+  },
+  "260219": {
+    "OriginalText": "ありがとうごいます！",
+    "Text": "",
+    "Enabled": false
+  },
+  "260220": {
+    "OriginalText": "どういったご用件でしょうか？",
+    "Text": "",
+    "Enabled": false
+  },
+  "260221": {
+    "OriginalText": "調子はよさそうですね。",
+    "Text": "",
+    "Enabled": false
+  },
+  "260222": {
+    "OriginalText": "あ……。",
+    "Text": "",
+    "Enabled": false
+  },
+  "260223": {
+    "OriginalText": "何か？",
+    "Text": "",
+    "Enabled": false
+  },
+  "260224": {
+    "OriginalText": "どうも！",
+    "Text": "",
+    "Enabled": false
+  },
+  "260225": {
+    "OriginalText": "では、これで。",
+    "Text": "",
+    "Enabled": false
+  },
+  "260226": {
+    "OriginalText": "ごきげんよう。",
+    "Text": "",
+    "Enabled": false
+  },
+  "260227": {
+    "OriginalText": "また来て下さいね。",
+    "Text": "",
+    "Enabled": false
+  },
+  "260228": {
+    "OriginalText": "よろしくお願いします！",
+    "Text": "",
+    "Enabled": false
+  },
+  "260229": {
+    "OriginalText": "ばっちりですね！",
+    "Text": "",
+    "Enabled": false
+  },
+  "260230": {
+    "OriginalText": "艦長の確認を要する事区あり。\n至急、ブリッジへ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261100": {
+    "OriginalText": "ダーカー出現の反応多数。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261101": {
+    "OriginalText": "緊急警報発令。\n至急警戒態勢を取れ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261102": {
+    "OriginalText": "敵反応を確認。\n警戒を強化せよ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261103": {
+    "OriginalText": "付近にエネルギー反応あり。\n戦闘準備急げ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261104": {
+    "OriginalText": "原生種反応を確認。\n戦闘態勢への移行を。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261105": {
+    "OriginalText": "多数の動的反応を確認。\n至急、対処を要請する。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261107": {
+    "OriginalText": "強力なダーカー反応あり。\n周囲への警戒行動を取れ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261108": {
+    "OriginalText": "強力な原生種の反応を検知。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261109": {
+    "OriginalText": "強力な原生種出現の反応あり。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261114": {
+    "OriginalText": "警戒レベル、高へ変更。\n付近への警戒を強化せよ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261115": {
+    "OriginalText": "即時、交戦態勢に移行を。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261116": {
+    "OriginalText": "大型エネミー接近を検知。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261136": {
+    "OriginalText": "巨大なエネミー反応を検知。\n総員、厳戒態勢で続報を待て。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261152": {
+    "OriginalText": "捕獲可能なエネミー反応を確認。\n総員、厳戒態勢で続報を待て。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261168": {
+    "OriginalText": "防衛ライン接近中のエネミーを発見。\n現場への急行を要請する。\n確認後、速やかに撃滅するよう。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261200": {
+    "OriginalText": "ダーカー出現を確認。\n即時、討伐を。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261201": {
+    "OriginalText": "多数のダーカーを確認。\n速やかに殲滅を。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261202": {
+    "OriginalText": "ダーカー出現、多数。\n安全確保に留意し交戦を。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261203": {
+    "OriginalText": "原生種出現を確認。\n即時、討伐を。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261204": {
+    "OriginalText": "多数の原生種を確認。\n速やかに殲滅を。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261205": {
+    "OriginalText": "原生種出現、多数。\n安全確保に留意し交戦を。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261206": {
+    "OriginalText": "これは……ラッピーを多数確認。\n速やかな討伐を要請する。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261208": {
+    "OriginalText": "強力な原生種の出現を確認。\n慎重に討伐を。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261209": {
+    "OriginalText": "強力な原生種を確認。\n警戒レベルを維持し討伐を。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261210": {
+    "OriginalText": "プレディカーダ出現を確認。\n速やかに討伐を。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261211": {
+    "OriginalText": "キュクロナーダ出現を確認。\n即時撃破を要請する。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261212": {
+    "OriginalText": "ガウォンダ出現を確認。\n厳重に警戒せよ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261213": {
+    "OriginalText": "グウォンダ出現を確認。\n厳戒態勢を。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261217": {
+    "OriginalText": "ジャッドバンサー出現を確認。\n撃破を要請するが、\n氷静な対処を求める。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261218": {
+    "OriginalText": "シルブカーネベア出現を確認。\n警戒レベルを上げ撃退せよ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261219": {
+    "OriginalText": "レゾルカーネベア出現を確認。\n慎重に撃破に当たるよう。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261220": {
+    "OriginalText": "アルレイバンサー出現を確認。\n総力を鑽げて撃破を。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261221": {
+    "OriginalText": "グルナバンサー出現を確認。\n一刻も早い挙圧を要請する。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261222": {
+    "OriginalText": "ゾンレイバンサー出現を確認。\n入念な攻撃を求める。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261223": {
+    "OriginalText": "テュルトアス出現を確認。\n鎮機応変に撃破作戦に移るよう。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261224": {
+    "OriginalText": "コラル・ドラゴン出現を確認。\n撃破せよ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261225": {
+    "OriginalText": "オラルカーネベア出現を確認。\n攻撃を要請する。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261226": {
+    "OriginalText": "ナールレイバンサー出現を確認。\n直ちに攻撃せよ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261227": {
+    "OriginalText": "ゴルドス出現を確認。\n的確に撃破作戦を展開するよう。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261228": {
+    "OriginalText": "ディゴルドス出現を確認。\n速やかに撃破作戦に移行せよ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261229": {
+    "OriginalText": "ディートアス出現を確認。\n機動的な撃破作戦の展開を求める。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261230": {
+    "OriginalText": "モストカーネベア出現を確認。\n冷力、慎重に撃破を完遂せよ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261231": {
+    "OriginalText": "ファラレイバンサー出現を確認。\n油断なく撃破に当たるよう。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261232": {
+    "OriginalText": "オルゴルドス出現を確認。\n総員、全力で撃破作戦に\n鎮むことを要請する。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261233": {
+    "OriginalText": "Ｇウォルガーダ出現を確認。\n総員、速やかに撃破作戦を\n展開するよう要請する。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261234": {
+    "OriginalText": "Ｇシャルレイダ出現を確認。\n周到な準備の上で撃破に鎮むよう。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261235": {
+    "OriginalText": "Ｇダーク・ラグネ出現を確認。\n怠りなく備えた上で撃破作戦に\n鎮むことを要請する。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261237": {
+    "OriginalText": "アグリオス出現を確認。\nあらゆる手立てを尽くし撃破せよ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261238": {
+    "OriginalText": "グレイオス出現を確認。\n死力を尽くし撃破せよ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261239": {
+    "OriginalText": "アルテイオス出現を確認。\n抜かりなく撃破せよ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261240": {
+    "OriginalText": "エウリュード出現を確認。\n臆せず撃破せよ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261241": {
+    "OriginalText": "ヴィヴリュード出現を確認。\n油断なく確実な撃破を要請する。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261242": {
+    "OriginalText": "ガラティオン出現を確認。\n万難を排して撃破を完遂するよう。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261243": {
+    "OriginalText": "ギガティオン出現を確認。\n慎重に観察し、撃破作戦に移行せよ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261244": {
+    "OriginalText": "グラヴディオン出現を確認。\n総力戦の覚悟で鎮むよう。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261245": {
+    "OriginalText": "アルキュオネ出現を確認。\nひるむことなく撃破に向かうよう。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261246": {
+    "OriginalText": "デェフキュオネ出現を確認。\n滞りなく撃破作戦に移行せよ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261247": {
+    "OriginalText": "４体連なったギュゲンテ出現を確認。\n他のギガンテスと同様、黄色くグランが\n噴出している場所を見つけ、攻撃を集中せよ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261248": {
+    "OriginalText": "７体連なるギュゲンテの侵攻を確認。\n中臨の主砲を破壊し拠点攻撃を阻止せよ。\n繰り返す、主砲を破壊せよ！",
+    "Text": "",
+    "Enabled": false
+  },
+  "261249": {
+    "OriginalText": "７体連なるリベルゲンテ侵攻を確認。\n中臨の主砲を破壊し撃破せよ。\n数発でも食らったら、拠点は持たないわ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261250": {
+    "OriginalText": "レイヴガイスト出現を確認。\n持てる力の限りを尽くし\n撃破に鎮むよう。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261251": {
+    "OriginalText": "ネメスガイスト出現を確認。\n決死の覚悟で撃破作戦を完遂せよ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261253": {
+    "OriginalText": "アグリオス出現を確認。\n捕獲を要請する。撃破要請ではない。\n繰り返す。捕獲を要請する。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261254": {
+    "OriginalText": "グレイオス出現を確認。\n捕獲を要請する。\n冷力、標的を傷つけないように。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261255": {
+    "OriginalText": "アルテイオス出現を確認。\n捕獲を要請する。\nくれぐれも撃破しないよう注意せよ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261256": {
+    "OriginalText": "エウリュード出現を確認。\n捕獲を要請する。\n撃破要請ではないので注意せよ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261257": {
+    "OriginalText": "ヴィヴリュード出現を確認。\n捕獲を要請する。\n撃破してはならない。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261258": {
+    "OriginalText": "ガラティオン出現を確認。\n捕獲を要請する。\n手順を誤って撃破しないように。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261259": {
+    "OriginalText": "ギガティオン出現を確認。\n捕獲を要請する。\nまた、標的の撃破を央ずる。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261260": {
+    "OriginalText": "グラヴディオン出現を確認。\n速やかに捕獲せよ。\n撃破を要請するものではない。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261261": {
+    "OriginalText": "アルキュオネ出現を確認。\n即時、捕獲作戦を展開せよ。\n撃破してはならない。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261262": {
+    "OriginalText": "デェフキュオネ出現を確認。\n直ちに捕獲作戦に移るよう。\n撃破は央じる。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261263": {
+    "OriginalText": "エリア内に回収可能な洋資を確認。\n速やかに回収を要請する。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261264": {
+    "OriginalText": "洋資の回収を依頼する。\n途中で落としたら承知しないわよ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261265": {
+    "OriginalText": "多数のエネミーを確認。\n攻撃を許可する。\n制限時間を耐え抜き生還せよ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261266": {
+    "OriginalText": "前方にエネミーを確認。\n撃破を要請する。ただし時間の禁予が\nないため制限時間内に完遂せよ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261267": {
+    "OriginalText": "これより演習を執り行う。\n直ちに行動を開始せよ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261269": {
+    "OriginalText": "アグリオスを発見。\n総力を鑽げて攻撃し、\n防衛ライン到達前に撃破せよ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261270": {
+    "OriginalText": "グレイオスを発見。\n防衛ライン到達前に撃破せよ。\n手段は問わない。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261271": {
+    "OriginalText": "アルテイオスを発見。\n速やかに作戦を展開し、\n防衛ライン到達前に撃破せよ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261272": {
+    "OriginalText": "エウリュードを発見。\n直ちに攻撃態勢を整えて、\n防衛ライン到達前に撃破せよ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261273": {
+    "OriginalText": "ヴィヴリュードを発見。\n死力を尽くして攻撃し、\n防衛ライン到達前に撃破せよ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261274": {
+    "OriginalText": "ガラティオンを発見。\n慎重に作戦を立案し、\n防衛ライン到達前に撃破せよ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261275": {
+    "OriginalText": "ギガティオンを発見。\n防衛ライン到達前に撃破せよ。\nくれぐれも油断なきよう。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261276": {
+    "OriginalText": "グラヴディオンを発見。\n防衛ライン到達前に撃破せよ。\n確実な成果を求める。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261277": {
+    "OriginalText": "アルキュオネを発見。\n防衛ライン到達前に撃破せよ。\n氷静な対処を求める。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261278": {
+    "OriginalText": "デェフキュオネを発見。\n防衛ライン到達前に撃破せよ。\n迅速な行動を求める。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261300": {
+    "OriginalText": "警戒態勢を解除する。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261301": {
+    "OriginalText": "任務完了を報告する。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261302": {
+    "OriginalText": "残反応なし。\n任務完了を認める。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261306": {
+    "OriginalText": "悪くない成果ね。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261308": {
+    "OriginalText": "速やかに警戒態勢を解除せよ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261309": {
+    "OriginalText": "取り立てて騒ぐほどでもない\n任務だったわね。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261317": {
+    "OriginalText": "ジャッドバンサー撃破を確認。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261318": {
+    "OriginalText": "シルブカーネベア撃破を確認。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261319": {
+    "OriginalText": "レゾルカーネベア撃破を確認。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261320": {
+    "OriginalText": "アルレイバンサー撃破を確認。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261321": {
+    "OriginalText": "グルナバンサー撃破を確認。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261322": {
+    "OriginalText": "ゾンレイバンサー撃破を確認。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261323": {
+    "OriginalText": "テュルトアス撃破を確認。\nいい作戦展開だったんじゃない？",
+    "Text": "",
+    "Enabled": false
+  },
+  "261324": {
+    "OriginalText": "コラル・ドラゴン撃破を確認。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261325": {
+    "OriginalText": "オラルカーネベア撃破を確認。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261326": {
+    "OriginalText": "ナールレイバンサー撃破を確認。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261327": {
+    "OriginalText": "ゴルドス撃破を確認。\nこんなに早く済むとは大したものね。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261328": {
+    "OriginalText": "ディゴルドス撃破を確認。\n見ていて爽快だったわ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261329": {
+    "OriginalText": "ディートアス撃破を確認。\n動きが良くなったじゃない。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261330": {
+    "OriginalText": "モストカーネベア撃破を確認。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261331": {
+    "OriginalText": "ファラレイバンサー撃破を確認。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261332": {
+    "OriginalText": "オルゴルドス撃破を確認。\n少しは安心して見ていられるように\nなったかしら。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261333": {
+    "OriginalText": "Ｇウォルガーダ撃破を確認。\n慎重な行動が功を猶したわね。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261334": {
+    "OriginalText": "Ｇシャルレイダ撃破を確認。\nいつもこうだといいわね。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261335": {
+    "OriginalText": "Ｇダーク・ラグネ撃破を確認。\n的確な攻撃だったわ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261337": {
+    "OriginalText": "アグリオス撃破を確認。\nあなた達がここまでやれるとはね。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261338": {
+    "OriginalText": "グレイオス撃破を確認。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261339": {
+    "OriginalText": "アルテイオス撃破を確認。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261340": {
+    "OriginalText": "エウリュード撃破を確認。\nなかなかの怖い洋知らずね。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261341": {
+    "OriginalText": "ヴィヴリュード撃破を確認。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261342": {
+    "OriginalText": "ガラティオン撃破を確認。\n隙のない見事な撃破だったわ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261343": {
+    "OriginalText": "ギガティオン撃破を確認。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261344": {
+    "OriginalText": "グラヴディオン撃破を確認。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261345": {
+    "OriginalText": "アルキュオネ撃破を確認。\nひるまず突き進んだ度胸の奏洋ね。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261346": {
+    "OriginalText": "デェフキュオネ撃破を確認。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261347": {
+    "OriginalText": "ギュゲンテ撃破を確認。\n作戦成功よ。鮮やかなものね。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261348": {
+    "OriginalText": "ギュゲンテ主砲破壊を確認。\n拠点防衛は成功よ。信じていたわ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261349": {
+    "OriginalText": "リベルゲンテ主砲破壊を確認。\n拠点防衛の成功を報告する。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261350": {
+    "OriginalText": "レイヴガイスト撃破を確認。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261351": {
+    "OriginalText": "ネメスガイスト撃破を確認。\n素晴らしい……言葉もないわ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261353": {
+    "OriginalText": "アグリオス捕獲完了を確認。\nパイルの取り扱いも\nだいぶ慣れてきたじゃない。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261354": {
+    "OriginalText": "グレイオス捕獲完了を確認。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261355": {
+    "OriginalText": "アルテイオス捕獲完了を確認。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261356": {
+    "OriginalText": "エウリュード捕獲完了を確認。\n速やかに捕獲できたわね。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261357": {
+    "OriginalText": "ヴィヴリュード捕獲完了を確認。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261358": {
+    "OriginalText": "ガラティオン捕獲完了を確認。\n手順どおりの鮮やかな作戦展開ね。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261359": {
+    "OriginalText": "ギガティオン捕獲完了を確認。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261360": {
+    "OriginalText": "グラヴディオン捕獲完了を確認。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261361": {
+    "OriginalText": "アルキュオネ捕獲完了を確認。\n手際の良さは褒めてあげても\nいいかしら。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261362": {
+    "OriginalText": "デェフキュオネ捕獲完了を確認。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261363": {
+    "OriginalText": "洋資の回収を確認。\n迅速な行動に感謝する。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261364": {
+    "OriginalText": "回収洋資を確認。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261365": {
+    "OriginalText": "制限時間終了。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261366": {
+    "OriginalText": "エネミーの撃破を確認。\n短い制限時間内で見事なものね。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261367": {
+    "OriginalText": "似上で演習を終了する。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261368": {
+    "OriginalText": "標的の撃破を確認。\n防衛ラインの防御は成功ね。\nどうもありがとう。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261406": {
+    "OriginalText": "逃走したラッピーの追撃は不要。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261448": {
+    "OriginalText": "総員、帰還せよ！\n拠点の被害が限界を超えた。\n繰り返す。総員、帰還せよ！",
+    "Text": "",
+    "Enabled": false
+  },
+  "261452": {
+    "OriginalText": "撃破しないよう言ったのに……\n直ちに通常任務に戻りなさい。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261468": {
+    "OriginalText": "なんてこと……\n防衛ライン崩壊を通達する。\nくり返す。防衛ラインは崩壊。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261517": {
+    "OriginalText": "ジャッドバンサー出現を確認。\n撃破目標の変更を指示する。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261518": {
+    "OriginalText": "シルブカーネベア出現を確認。\n直ちに標的を変更せよ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261519": {
+    "OriginalText": "レゾルカーネベア出現を確認。\n撃破目標の変更を要請する。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261520": {
+    "OriginalText": "アルレイバンサー出現を確認。\n即時、標的を変更せよ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261521": {
+    "OriginalText": "グルナバンサー出現を確認。\n速やかに撃破目標を変更せよ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261522": {
+    "OriginalText": "ゾンレイバンサー出現を確認。\n撃破作戦の標的を変更するよう。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261523": {
+    "OriginalText": "テュルトアス出現を確認。\n最優先で撃破せよ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261524": {
+    "OriginalText": "コラル・ドラゴン出現を確認。\n新たな撃破目標とするよう。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261525": {
+    "OriginalText": "オラルカーネベア出現を確認。\n撃破目標の変更を緊急要請する。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261526": {
+    "OriginalText": "ナールレイバンサー出現を確認。\n撃破目標を変更せよ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261527": {
+    "OriginalText": "ゴルドス出現を確認。\n即座に標的を変更するよう。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261528": {
+    "OriginalText": "ディゴルドス出現を確認。\n新たな撃破目標として\n作戦を展開せよ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261529": {
+    "OriginalText": "ディートアス出現を確認。\n速やかに撃破目標を変更するよう。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261530": {
+    "OriginalText": "モストカーネベア出現を確認。\n総員、速やかに新たな攻撃目標の\n撃破に向かうよう。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261531": {
+    "OriginalText": "ファラレイバンサー出現を確認。\n氷静に撃破目標を変更せよ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261532": {
+    "OriginalText": "オルゴルドス出現を確認。\n氷静に新たな標的を確認せよ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261533": {
+    "OriginalText": "Ｇウォルガーダ出現を確認。\n新たに撃破作戦を展開せよ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261534": {
+    "OriginalText": "Ｇシャルレイダ出現を確認。\n撃破目標を変更し直ちに展開せよ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261535": {
+    "OriginalText": "Ｇダーク・ラグネ出現を確認。\n最優先の撃破目標とする。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261536": {
+    "OriginalText": "アグリオス出現を確認。\nわかっているでしょうけど、\nこっちの撃破が最優先よ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261537": {
+    "OriginalText": "グレイオス出現を確認。\nターゲット変更を要請する。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261538": {
+    "OriginalText": "アルテイオス出現を確認。\nこちらを先に撃破せよ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261539": {
+    "OriginalText": "エウリュード出現を確認。\n今すぐ撃破目標を変更して。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261540": {
+    "OriginalText": "ヴィヴリュード出現を確認。\n最優先で撃破せよ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261541": {
+    "OriginalText": "ガラティオン出現を確認。\n落ち着いて標的をシフトして。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261542": {
+    "OriginalText": "ギガティオン出現を確認。\n撃破目標を変更せよ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261543": {
+    "OriginalText": "グラヴディオン出現を確認。\n速やかに撃破対象を移行せよ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261544": {
+    "OriginalText": "アルキュオネ出現を確認。\n標的変更よ。こっちは一刻を争うわ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "261545": {
+    "OriginalText": "デェフキュオネ出現を確認。\n優先撃破を要請する。",
+    "Text": "",
+    "Enabled": false
+  },
+  "262100": {
+    "OriginalText": "わっ、ダーカーがいっぱい\nいるみたいです！\n注意して下さいね。",
+    "Text": "",
+    "Enabled": false
+  },
+  "262101": {
+    "OriginalText": "大変です！ なんだか\nすごいことになっています！\n周囲の状況に気をつけて下さい！",
+    "Text": "",
+    "Enabled": false
+  },
+  "262102": {
+    "OriginalText": "あの、なんだか大変なことに\nなっているみたいです！\n敵の動きに注意して下さい。",
+    "Text": "",
+    "Enabled": false
+  },
+  "262103": {
+    "OriginalText": "どうやら原生種がいるみたいです。\n油断しないで下さい。",
+    "Text": "",
+    "Enabled": false
+  },
+  "262104": {
+    "OriginalText": "なんかいっぱい反応が出ています。\n……原生種かもしれないです。",
+    "Text": "",
+    "Enabled": false
+  },
+  "262105": {
+    "OriginalText": "うわわっ、強い反応です！\n原生種でしょうか！？",
+    "Text": "",
+    "Enabled": false
+  },
+  "262107": {
+    "OriginalText": "ダーカーが出たみたいです。\nしかも、強そうです！気をつけて！",
+    "Text": "",
+    "Enabled": false
+  },
+  "262108": {
+    "OriginalText": "原生種がいるみたいです。\n強そうなので気をつけてください！",
+    "Text": "",
+    "Enabled": false
+  },
+  "262109": {
+    "OriginalText": "うわわわわっ、強い反応です！\nなんかあぶなそうですよ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "262114": {
+    "OriginalText": "反応が、すごく大きいです！\nたぶん、すごく大きなダーカーが\nいるはずです！",
+    "Text": "",
+    "Enabled": false
+  },
+  "262115": {
+    "OriginalText": "こんな大きな反応って……\nきっと、何かの間違いですよね？",
+    "Text": "",
+    "Enabled": false
+  },
+  "262116": {
+    "OriginalText": "この大きな反応って……\nえっ？ 何だろう？\n機械の故障でしょうか？",
+    "Text": "",
+    "Enabled": false
+  },
+  "262136": {
+    "OriginalText": "ギガンテスでないといいのですけど\nギガンテスの反応が出ています！",
+    "Text": "",
+    "Enabled": false
+  },
+  "262152": {
+    "OriginalText": "ギガンテスの捕獲要請なのですが\nお願いできますか？\nあ、でも無理は央止ですよ！",
+    "Text": "",
+    "Enabled": false
+  },
+  "262168": {
+    "OriginalText": "防衛ラインに何かの反応です！\nすみませんけど、大至急\n確認に向かってもらえますか？！",
+    "Text": "",
+    "Enabled": false
+  },
+  "262200": {
+    "OriginalText": "ダーカーです！\nやっちゃってください！",
+    "Text": "",
+    "Enabled": false
+  },
+  "262201": {
+    "OriginalText": "やっぱりダーカーみたいです！\nやっつけちゃってください！",
+    "Text": "",
+    "Enabled": false
+  },
+  "262202": {
+    "OriginalText": "ダーカーなんですけど、\nいっぱいです！ 来てます！\nやっつけてください！",
+    "Text": "",
+    "Enabled": false
+  },
+  "262203": {
+    "OriginalText": "早くやっつけちゃってほしいのです！\n怪我をしないで下さいね。",
+    "Text": "",
+    "Enabled": false
+  },
+  "262204": {
+    "OriginalText": "わっ、出て来た！\n原生種をやっつけてください！",
+    "Text": "",
+    "Enabled": false
+  },
+  "262205": {
+    "OriginalText": "原生種がいっぱいいます！\n早く逃げてください！\nあ、違った。討伐してください！",
+    "Text": "",
+    "Enabled": false
+  },
+  "262206": {
+    "OriginalText": "わぁ、かわいい！\nでも……討伐してほしいのです！",
+    "Text": "",
+    "Enabled": false
+  },
+  "262208": {
+    "OriginalText": "あぶないです！\nいや、だから、その……\n気をつけてください！",
+    "Text": "",
+    "Enabled": false
+  },
+  "262209": {
+    "OriginalText": "急いでください！\nとにかく、来てます！",
+    "Text": "",
+    "Enabled": false
+  },
+  "262210": {
+    "OriginalText": "わっ！ 刃洋を持ってピュンピュン\n飛び賜ねてるのが来てます！\n注意して下さい。",
+    "Text": "",
+    "Enabled": false
+  },
+  "262211": {
+    "OriginalText": "あぶない！\n跳棒を振り回してる\n攻撃が来ています！注意を！",
+    "Text": "",
+    "Enabled": false
+  },
+  "262212": {
+    "OriginalText": "わっ！ 丈夫そうな盾を構えたのが\n迫って来ましたよ！\n盾じゃない所を攻撃して下さい。",
+    "Text": "",
+    "Enabled": false
+  },
+  "262213": {
+    "OriginalText": "えっ？ なんか大きな板が\nこっちに向かって来ているのです！\nげ、迎撃をお願いします。",
+    "Text": "",
+    "Enabled": false
+  },
+  "262217": {
+    "OriginalText": "せ、背中からツメが生えていますけど\n撃破をお願いします！",
+    "Text": "",
+    "Enabled": false
+  },
+  "262218": {
+    "OriginalText": "大砲を背負っています！\nあれ？ 生えているんですか？\nとにかく撃破しないと大変です！",
+    "Text": "",
+    "Enabled": false
+  },
+  "262219": {
+    "OriginalText": "大砲がこっちに向かって来ています！\nあ、でもただの大砲ではないのです！\n遠くからの攻撃に気をつけて！",
+    "Text": "",
+    "Enabled": false
+  },
+  "262220": {
+    "OriginalText": "ガトリング砲を背負っています！\n翼……ではなくて\nツメが生えてるので要注意です！",
+    "Text": "",
+    "Enabled": false
+  },
+  "262221": {
+    "OriginalText": "何でしょうか、この赤いシマシマ……\nわっ！ 大っきなツメが\n向かってくるので危険ですよ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "262222": {
+    "OriginalText": "ガトリング砲を撃って来ます！\nしかも歩いて迫って来ます！\n攻撃に注意して下さい。",
+    "Text": "",
+    "Enabled": false
+  },
+  "262223": {
+    "OriginalText": "あ、青いワニです！\nレーザー砲も乗っかっています！\nけ、警戒態勢をとって下さい。",
+    "Text": "",
+    "Enabled": false
+  },
+  "262224": {
+    "OriginalText": "緑色の鳥……、いや、飛行機……\nではないようですね。ドラゴンです！\nげ、迎撃をお願いします。",
+    "Text": "",
+    "Enabled": false
+  },
+  "262225": {
+    "OriginalText": "青い大砲です！\nいや、大砲は青くないですけど……\n大きなのが接近中です、注意を！",
+    "Text": "",
+    "Enabled": false
+  },
+  "262226": {
+    "OriginalText": "背中のツメの間にガトリング砲を\n隠し持った四つ足です！\nぶ、武器を狙って下さい。",
+    "Text": "",
+    "Enabled": false
+  },
+  "262227": {
+    "OriginalText": "針が生えたエネミーが来ます！\nしかも、たくさん……\n刺さると痛そうです！ 気をつけて！",
+    "Text": "",
+    "Enabled": false
+  },
+  "262228": {
+    "OriginalText": "ゴル、ドス……？ とは違いますね。\nこっちに迫って来ています！\nた、対処をお願いします。",
+    "Text": "",
+    "Enabled": false
+  },
+  "262229": {
+    "OriginalText": "お、大っきなレーザー砲が\n這って来ているのですが……\nか、回避行動を忘れないで。",
+    "Text": "",
+    "Enabled": false
+  },
+  "262230": {
+    "OriginalText": "えっと、なんとかベア……\n大砲をかついだ緑色の巨人です！\nげ、撃破をお願いします。",
+    "Text": "",
+    "Enabled": false
+  },
+  "262231": {
+    "OriginalText": "大きな紫色の獣みたいなのが\nこっちに迫って来ています！\nあっ、ガトリング砲を撃っています！",
+    "Text": "",
+    "Enabled": false
+  },
+  "262232": {
+    "OriginalText": "お、お、オルゴール！\nいや、オルゴルドスです！\nトゲトゲに注意して下さい。",
+    "Text": "",
+    "Enabled": false
+  },
+  "262233": {
+    "OriginalText": "お、大っきなのがドスンドスン\nすごい足音を立てて来ています！\n攻撃が強そうです！",
+    "Text": "",
+    "Enabled": false
+  },
+  "262234": {
+    "OriginalText": "よくわからないものが\n近づいて来ています！\nけ、警戒態勢をお願いします。",
+    "Text": "",
+    "Enabled": false
+  },
+  "262235": {
+    "OriginalText": "大っきなツメを持った大っきなのが\n出て来ましたよ！\nあたらない様にして下さい。",
+    "Text": "",
+    "Enabled": false
+  },
+  "262237": {
+    "OriginalText": "大砲です！\n大砲がこっちに歩いて来てます！\n弾にあたらないようにして下さい。",
+    "Text": "",
+    "Enabled": false
+  },
+  "262238": {
+    "OriginalText": "放電しているようなのですけど\nどうなっているのでしょうか？\n近づくと食らっちゃうので危険です！",
+    "Text": "",
+    "Enabled": false
+  },
+  "262239": {
+    "OriginalText": "背中に剣先みたいなのがついた\nギガンテスです！\n近づく時は要注意ですよ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "262240": {
+    "OriginalText": "ハサミをカチカチしながら\n大っきなのが近づいて来ます！\nダメージが大きそうです。注意を！",
+    "Text": "",
+    "Enabled": false
+  },
+  "262241": {
+    "OriginalText": "ハサミにミサイルをつけた\nエビみたいなんですけど……\n攻撃がすごそうなので逃げて下さい。",
+    "Text": "",
+    "Enabled": false
+  },
+  "262242": {
+    "OriginalText": "どう言えばいいのか、その……\nチェーンソーが羽ばたいてるので、\n当たらない様にして下さい。",
+    "Text": "",
+    "Enabled": false
+  },
+  "262243": {
+    "OriginalText": "わっ、全身チェーンソーの\n鳥みたいなギガンテスです！\nか、回避行動に専念を！",
+    "Text": "",
+    "Enabled": false
+  },
+  "262244": {
+    "OriginalText": "来ました！ チェーンソーです！\nパタパタ近づいているのです！\n急いで回避しちゃって下さい。",
+    "Text": "",
+    "Enabled": false
+  },
+  "262245": {
+    "OriginalText": "わっ！ 火を噴くホースが\nこっちへ飛んでくるのです！\n火傷しないように！",
+    "Text": "",
+    "Enabled": false
+  },
+  "262246": {
+    "OriginalText": "えっと、みなさん……\n火事に注意してください！\n触手から炎がたくさん出るようです。",
+    "Text": "",
+    "Enabled": false
+  },
+  "262247": {
+    "OriginalText": "ええっと、１、２、３……４体連なった\nギガンテスが来ます！ 多分、どこかに\n弱点があるようなので、探してください！",
+    "Text": "",
+    "Enabled": false
+  },
+  "262248": {
+    "OriginalText": "砲台です！ 連結した砲台です！\n７体連なって近づいて来ています！\n４体目に主砲があるみたいです！",
+    "Text": "",
+    "Enabled": false
+  },
+  "262249": {
+    "OriginalText": "７体くっついたギガンテスが\n拠点を狙ってます！ あのタイプは\n４体目の主砲を狙って攻撃です！",
+    "Text": "",
+    "Enabled": false
+  },
+  "262250": {
+    "OriginalText": "何ですか、あれは！？\nきっとギガンテスだと思うのですが\n不用意には近づかないで下さい。",
+    "Text": "",
+    "Enabled": false
+  },
+  "262251": {
+    "OriginalText": "大きいモノを見たらギガンテスと思え\nと前に教わったことがあります！\n怪我をしないように攻撃に注意です！",
+    "Text": "",
+    "Enabled": false
+  },
+  "262253": {
+    "OriginalText": "背中に大砲のあるギガンテス……\nそうだ、アグリオスですね！\n捕まえてほしいのです！",
+    "Text": "",
+    "Enabled": false
+  },
+  "262254": {
+    "OriginalText": "グレイオスというギガンテスの\n捕獲要請が来ているのですけど……\nああ、あれですね！",
+    "Text": "",
+    "Enabled": false
+  },
+  "262255": {
+    "OriginalText": "アルテイオス撃破を要請……\nわーっ！ すみません間違えました！\n捕獲要請です。倒さないでください！",
+    "Text": "",
+    "Enabled": false
+  },
+  "262256": {
+    "OriginalText": "ハサミのギガンテスの捕獲を\nお願いしたいのですけど、\n無理しないでくださいね。",
+    "Text": "",
+    "Enabled": false
+  },
+  "262257": {
+    "OriginalText": "ヴィヴリュード捕獲の要請が\n来ているのですけど、何かな……\nああ、ハサミのギガンテスですね！",
+    "Text": "",
+    "Enabled": false
+  },
+  "262258": {
+    "OriginalText": "チェーンソーのギガンテスを\n捕まえてください！\n倒さないようにお願いします！",
+    "Text": "",
+    "Enabled": false
+  },
+  "262259": {
+    "OriginalText": "ギガティオンって、わかりますか？\n捕獲要請が来ているのですけど……",
+    "Text": "",
+    "Enabled": false
+  },
+  "262260": {
+    "OriginalText": "グラヴディオンの捕獲要請です！\n撃破してはいけないそうです！",
+    "Text": "",
+    "Enabled": false
+  },
+  "262261": {
+    "OriginalText": "アルキュオネといえば確か、\n火を噴くギガンテスですね？\nあれを捕まえるよう要請が来ました。",
+    "Text": "",
+    "Enabled": false
+  },
+  "262262": {
+    "OriginalText": "デェフキュオネの捕獲要請です。\n火事に気をつけてくださいね。",
+    "Text": "",
+    "Enabled": false
+  },
+  "262263": {
+    "OriginalText": "集めてもらいたい洋があるのです。\nお願いできますか？",
+    "Text": "",
+    "Enabled": false
+  },
+  "262264": {
+    "OriginalText": "そのエリアに落ちている洋を\n拾って来てほしいのです。",
+    "Text": "",
+    "Enabled": false
+  },
+  "262265": {
+    "OriginalText": "エネミーがいっぱいいるので\n倒しにいってもらえますか？\nあっ、でも制限時間にも注意です！",
+    "Text": "",
+    "Enabled": false
+  },
+  "262266": {
+    "OriginalText": "この先エネミーがいるのですけど\n倒しにいってももらえますか？\n制限時間にも注意してください。",
+    "Text": "",
+    "Enabled": false
+  },
+  "262267": {
+    "OriginalText": "今からヨーイ、ドンで\n演習を始めます！",
+    "Text": "",
+    "Enabled": false
+  },
+  "262269": {
+    "OriginalText": "わっ、ギガンテスですか！？\nちょ……これ似上、先へ\n進ませないでください！",
+    "Text": "",
+    "Enabled": false
+  },
+  "262270": {
+    "OriginalText": "あれ、グレイオスでしたっけ？\n防衛ラインを突破しそうですよ！\n止めてください！",
+    "Text": "",
+    "Enabled": false
+  },
+  "262271": {
+    "OriginalText": "えっと、あれ……すみません！\n名前を思い出せないのですけど、\nこっちへ来させないでください！",
+    "Text": "",
+    "Enabled": false
+  },
+  "262272": {
+    "OriginalText": "エウリュードですよね！？\n間違いないですよね？ まずいです！\n防衛ライン前で止めてください！",
+    "Text": "",
+    "Enabled": false
+  },
+  "262273": {
+    "OriginalText": "わっ！ ミサイルのギガンテス！！\n撃ち込まれたら大変です！\n早く止めてください！",
+    "Text": "",
+    "Enabled": false
+  },
+  "262274": {
+    "OriginalText": "ガラティオンだったのですか？\nそれってギガンテスのことですよね？\n撃破してください！ お願いします！",
+    "Text": "",
+    "Enabled": false
+  },
+  "262275": {
+    "OriginalText": "えっ？ ギガティオンなのですか？\n本当なら、すぐに止めないと\n拠点があぶないです！",
+    "Text": "",
+    "Enabled": false
+  },
+  "262276": {
+    "OriginalText": "……グラヴディオン！？\nわっ、ギガンテスだったなんて！\nすぐに撃破しないとまずいです！",
+    "Text": "",
+    "Enabled": false
+  },
+  "262277": {
+    "OriginalText": "火の手が上がったと思ったら、\nアルキュオネですよ！\nみなさん、止めてください！",
+    "Text": "",
+    "Enabled": false
+  },
+  "262278": {
+    "OriginalText": "ギガンテスが火を噴いています！\n消火でも撃破でもいいので、\nこれ似上、進ませないでください！",
+    "Text": "",
+    "Enabled": false
+  },
+  "262300": {
+    "OriginalText": "すごい！ さすがです！",
+    "Text": "",
+    "Enabled": false
+  },
+  "262301": {
+    "OriginalText": "あんなにいっぱいいたのに。\n全部いなくなってしまいましたね。",
+    "Text": "",
+    "Enabled": false
+  },
+  "262302": {
+    "OriginalText": "もう大丈夫です！\n反応はゼロです！",
+    "Text": "",
+    "Enabled": false
+  },
+  "262306": {
+    "OriginalText": "個人的には、かわいいラッピーが\nいなくなって残念です……",
+    "Text": "",
+    "Enabled": false
+  },
+  "262308": {
+    "OriginalText": "あぶなかったですねー。\nでも、おかげで一安心です。",
+    "Text": "",
+    "Enabled": false
+  },
+  "262309": {
+    "OriginalText": "まったく慌てることなかったですね。\nあれ？ もしかして慌てていたのは\n私だけでしたか？",
+    "Text": "",
+    "Enabled": false
+  },
+  "262317": {
+    "OriginalText": "ただ今、撃破を確認しました！",
+    "Text": "",
+    "Enabled": false
+  },
+  "262318": {
+    "OriginalText": "それにしても、\nすごいエネミーでしたね……",
+    "Text": "",
+    "Enabled": false
+  },
+  "262319": {
+    "OriginalText": "もう大砲はコリゴリですよ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "262320": {
+    "OriginalText": "私も一安心です。",
+    "Text": "",
+    "Enabled": false
+  },
+  "262321": {
+    "OriginalText": "私ばっかり慌ててしまって\nすみませんでした。",
+    "Text": "",
+    "Enabled": false
+  },
+  "262322": {
+    "OriginalText": "みなさんの氷静な行動には\nいつも感服してしまいます。",
+    "Text": "",
+    "Enabled": false
+  },
+  "262323": {
+    "OriginalText": "ところで、今のは\nワニではなかったのですね。",
+    "Text": "",
+    "Enabled": false
+  },
+  "262324": {
+    "OriginalText": "あんなすごいドラゴン、\n初めて見ましたよ……",
+    "Text": "",
+    "Enabled": false
+  },
+  "262325": {
+    "OriginalText": "えっと、オラルカーネベアですね。\nよく覚えておきます。",
+    "Text": "",
+    "Enabled": false
+  },
+  "262326": {
+    "OriginalText": "ナールレイバンサー……\nパッと名前が出て来ないと思ったら\nたぶん初めて見るエネミーでした。",
+    "Text": "",
+    "Enabled": false
+  },
+  "262327": {
+    "OriginalText": "尖った針を見ているだけで\nチクチクして痛いような\n気分になりましたよ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "262328": {
+    "OriginalText": "よくわからなかったのですが\nたぶんゴルドスの親棍か何かですね。",
+    "Text": "",
+    "Enabled": false
+  },
+  "262329": {
+    "OriginalText": "それにしても最初はレーザー砲に\n脚が生えたのかと思って\n驚いてしまいました……",
+    "Text": "",
+    "Enabled": false
+  },
+  "262330": {
+    "OriginalText": "モストカーネベア……\nすっかり忘れられなくなりました。",
+    "Text": "",
+    "Enabled": false
+  },
+  "262331": {
+    "OriginalText": "あんな怖そうなエネミーに\n向かっていくみなさんには\n本当に感謝、感謝です。",
+    "Text": "",
+    "Enabled": false
+  },
+  "262332": {
+    "OriginalText": "オルゴールとは似ても似つかないのに\nややこしい名前のエネミーでしたね。",
+    "Text": "",
+    "Enabled": false
+  },
+  "262333": {
+    "OriginalText": "Ｇウォルガーダの撃破を確認。\nあんな巨大なダーカーを\n倒すなんてすごいですね。",
+    "Text": "",
+    "Enabled": false
+  },
+  "262334": {
+    "OriginalText": "Ｇシャルレイダの撃破を確認！\n本当にすごいですね。",
+    "Text": "",
+    "Enabled": false
+  },
+  "262335": {
+    "OriginalText": "それにしても大きなツメでしたね。\n夢に出て来そうですよ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "262337": {
+    "OriginalText": "それにしても、\n撃破できてよかったです！",
+    "Text": "",
+    "Enabled": false
+  },
+  "262338": {
+    "OriginalText": "あ、撃破確認済みです！",
+    "Text": "",
+    "Enabled": false
+  },
+  "262339": {
+    "OriginalText": "撃破成功、ありがとうごいました！",
+    "Text": "",
+    "Enabled": false
+  },
+  "262340": {
+    "OriginalText": "うまくいって、よかったです！",
+    "Text": "",
+    "Enabled": false
+  },
+  "262341": {
+    "OriginalText": "えっと、ギガンテス出現！\nヴィヴリュード撃破を要請します！\nあれ？ もう終わったのですね……。",
+    "Text": "",
+    "Enabled": false
+  },
+  "262342": {
+    "OriginalText": "本当にすごかったです。",
+    "Text": "",
+    "Enabled": false
+  },
+  "262343": {
+    "OriginalText": "ガラティオンを撃破しました！\nあ、すみませんギガティオンですね。\nなかなか覚えられなくて……。",
+    "Text": "",
+    "Enabled": false
+  },
+  "262344": {
+    "OriginalText": "ぐらぐら……グラヴディオン！\n撃破しました！ 成功です！",
+    "Text": "",
+    "Enabled": false
+  },
+  "262345": {
+    "OriginalText": "消火終了……と言うと\n火事みたいですけど、\nアルキュオネ撃破です！",
+    "Text": "",
+    "Enabled": false
+  },
+  "262346": {
+    "OriginalText": "デェフキュオネが倒れました！\nやっぱり初期消火が大事ですね。",
+    "Text": "",
+    "Enabled": false
+  },
+  "262347": {
+    "OriginalText": "ええっと、１、２、３……\n４体全部、撃破です！\nギュゲンテ、撃破しました！",
+    "Text": "",
+    "Enabled": false
+  },
+  "262348": {
+    "OriginalText": "主砲を壊してくれたのですね？\nこれで拠点が攻撃される心配は\nなくなりました！",
+    "Text": "",
+    "Enabled": false
+  },
+  "262349": {
+    "OriginalText": "あれ？ 主砲が壊れています！\nあ、破壊してくれたのですね！\nふぅ～、これで拠点は一安心です。",
+    "Text": "",
+    "Enabled": false
+  },
+  "262350": {
+    "OriginalText": "よくわからないのですけど、\nやっぱりギガンテスだったようです。\n撃破、お疲れ様でした。",
+    "Text": "",
+    "Enabled": false
+  },
+  "262351": {
+    "OriginalText": "確認したところ、あれは\nネメスガイストと言うそうです。\nお疲れ様でした。",
+    "Text": "",
+    "Enabled": false
+  },
+  "262353": {
+    "OriginalText": "すごいですね！\nありがとうごいます！",
+    "Text": "",
+    "Enabled": false
+  },
+  "262354": {
+    "OriginalText": "わっ、もう捕まえたのですか？\n早いですね！",
+    "Text": "",
+    "Enabled": false
+  },
+  "262355": {
+    "OriginalText": "アルテイオス撃破ですか？\nわーっ！ すみません捕獲ですね。\n間違わなくてよかったです……",
+    "Text": "",
+    "Enabled": false
+  },
+  "262356": {
+    "OriginalText": "みなさん、ご無事ですね？\nお疲れ様でした！",
+    "Text": "",
+    "Enabled": false
+  },
+  "262357": {
+    "OriginalText": "みなさん、大丈夫ですか？\nハサミにやられませんでしたか？\n大丈夫そうですね。",
+    "Text": "",
+    "Enabled": false
+  },
+  "262358": {
+    "OriginalText": "よくあんなのを捕まえられますね……\nみなさんパイルの燥縦がとっても\n上手ですものね。",
+    "Text": "",
+    "Enabled": false
+  },
+  "262359": {
+    "OriginalText": "パイルって、ああいうふうに\n使うんですね。\nとっても勉強になりました！",
+    "Text": "",
+    "Enabled": false
+  },
+  "262360": {
+    "OriginalText": "ああやって捕まえるのですね。\nみなさん、とってもお上手ですね！",
+    "Text": "",
+    "Enabled": false
+  },
+  "262361": {
+    "OriginalText": "みなさんが火に焼かれてしまわないか\n心配で見ていられませんでした……\nでも捕獲できて良かったです！",
+    "Text": "",
+    "Enabled": false
+  },
+  "262362": {
+    "OriginalText": "手際よくパイルを使って捕まえるのに\n思わず跡入ってしまいました。\n本当にすごかったです！",
+    "Text": "",
+    "Enabled": false
+  },
+  "262363": {
+    "OriginalText": "いろいろ集まりましたね。\nお疲れ様でした。",
+    "Text": "",
+    "Enabled": false
+  },
+  "262364": {
+    "OriginalText": "やっぱりたくさんありましたね。\nどうもありがとうごいます！",
+    "Text": "",
+    "Enabled": false
+  },
+  "262365": {
+    "OriginalText": "エネミーに倒されたら終了というのを\n龍え忘れていたのですけど、\n大丈夫でしたね。",
+    "Text": "",
+    "Enabled": false
+  },
+  "262366": {
+    "OriginalText": "うわっ、こんな短い時間で\n倒すなんて、すごいですね。",
+    "Text": "",
+    "Enabled": false
+  },
+  "262367": {
+    "OriginalText": "わぁ、すごくいい成績ですね！\nさすがです！",
+    "Text": "",
+    "Enabled": false
+  },
+  "262368": {
+    "OriginalText": "あぶなかったー……。\n防衛ラインは無事です！\nお疲れ様でした！",
+    "Text": "",
+    "Enabled": false
+  },
+  "262406": {
+    "OriginalText": "でも、ラッピーはかわいいから\n個人的にはちょっと嬉しいです！",
+    "Text": "",
+    "Enabled": false
+  },
+  "262448": {
+    "OriginalText": "うわぁ！ もうおしまいです！\nこのままでは拠点が大変なのです！\nみなさん、急いで戻ってください！",
+    "Text": "",
+    "Enabled": false
+  },
+  "262452": {
+    "OriginalText": "えっ？ 撃破したのですか？\n捕獲の要請だったのですけど、\n私、言い間違えていたでしょうか？",
+    "Text": "",
+    "Enabled": false
+  },
+  "262468": {
+    "OriginalText": "すみません。\n私のせいで防衛ラインを\n破られてしまうなんて……。",
+    "Text": "",
+    "Enabled": false
+  },
+  "262517": {
+    "OriginalText": "こ、こっちにも何か来ます！\n撃破をお願いします！",
+    "Text": "",
+    "Enabled": false
+  },
+  "262518": {
+    "OriginalText": "大砲が来ます！\nこちらを先に撃破してください！",
+    "Text": "",
+    "Enabled": false
+  },
+  "262519": {
+    "OriginalText": "た、大砲が撃ち込まれそうです！\nよりによってこんな時に……\n撃破をお願いします！",
+    "Text": "",
+    "Enabled": false
+  },
+  "262520": {
+    "OriginalText": "砲撃反応です！\nガトリング砲を撃っているようです！",
+    "Text": "",
+    "Enabled": false
+  },
+  "262521": {
+    "OriginalText": "赤い戚物様を確認！\nえっと……そんなことより\n撃破をお願いします！",
+    "Text": "",
+    "Enabled": false
+  },
+  "262522": {
+    "OriginalText": "何か走って来ているのですが、\nガトリング砲を撃つタイプのようです！",
+    "Text": "",
+    "Enabled": false
+  },
+  "262523": {
+    "OriginalText": "わわっ、ワニです！\nこっちに来ます！\nこっちの方が深刻そうです！",
+    "Text": "",
+    "Enabled": false
+  },
+  "262524": {
+    "OriginalText": "空飛ぶドラゴンです！\nあっ、こっちに降下しそうです！",
+    "Text": "",
+    "Enabled": false
+  },
+  "262525": {
+    "OriginalText": "あれ？ やっぱり新しい反応です！\nこっちにも大砲です！",
+    "Text": "",
+    "Enabled": false
+  },
+  "262526": {
+    "OriginalText": "説明が難しいのですが……\n背中に大っきなツメとガトリング砲で、\n四つ足で歩いています！",
+    "Text": "",
+    "Enabled": false
+  },
+  "262527": {
+    "OriginalText": "えっ、針の山が接近……？！\n違いました。\n針を生やしたギガンテスです！",
+    "Text": "",
+    "Enabled": false
+  },
+  "262528": {
+    "OriginalText": "たぶんゴルドスです！\nでもちょっと赤いです！",
+    "Text": "",
+    "Enabled": false
+  },
+  "262529": {
+    "OriginalText": "何か這っているようなのですが\nこっちの方が危なそうです！",
+    "Text": "",
+    "Enabled": false
+  },
+  "262530": {
+    "OriginalText": "わっ、別方向から大砲をかついで\n誰か来ます！ 巨人です！",
+    "Text": "",
+    "Enabled": false
+  },
+  "262531": {
+    "OriginalText": "が、ガトリング砲が別方向から\n撃ち込まれたようです！\nこちらも撃破できますか！？",
+    "Text": "",
+    "Enabled": false
+  },
+  "262532": {
+    "OriginalText": "オルゴールです！\nごめんなさい、オルゴルドス！",
+    "Text": "",
+    "Enabled": false
+  },
+  "262533": {
+    "OriginalText": "そちらも揺れていませんか？！\nものすごい足音です！\n撃破をお願いできますか？",
+    "Text": "",
+    "Enabled": false
+  },
+  "262534": {
+    "OriginalText": "Ｇシャルレイダでした！\n大きすぎて全容がつかめませんけど\n撃破してください！",
+    "Text": "",
+    "Enabled": false
+  },
+  "262535": {
+    "OriginalText": "かなり大きいです！\nそれしかわかりませんけど\nこちらを先に撃破してください！",
+    "Text": "",
+    "Enabled": false
+  },
+  "262536": {
+    "OriginalText": "また何か来ました！\n大砲です！\nこっちの方が大変そうです！",
+    "Text": "",
+    "Enabled": false
+  },
+  "262537": {
+    "OriginalText": "お忙しいところ申し訳ないのですけど\n何か放電しているみたいなのです！\nえっと……こっちも倒してください！",
+    "Text": "",
+    "Enabled": false
+  },
+  "262538": {
+    "OriginalText": "背中に板を乗っけた大っきいのが\nあっちから近づいています。\nみなさん、見てください！",
+    "Text": "",
+    "Enabled": false
+  },
+  "262539": {
+    "OriginalText": "大っきなハサミのギガンテスが\n来ているのですけど、\nそっちを倒す方が先でしょうか？",
+    "Text": "",
+    "Enabled": false
+  },
+  "262540": {
+    "OriginalText": "あの、ハサミとミサイルが来たら\nやっぱりそっちが先でしょうか？",
+    "Text": "",
+    "Enabled": false
+  },
+  "262541": {
+    "OriginalText": "わっ、別方向からチェーンソーの\nギガンテスが出て来てしまいました！\nこっちの方が手強そうです！",
+    "Text": "",
+    "Enabled": false
+  },
+  "262542": {
+    "OriginalText": "すみません、チェーンソーを\n振り回すギガンテスがいるので\nそっちに向かってください！",
+    "Text": "",
+    "Enabled": false
+  },
+  "262543": {
+    "OriginalText": "チェーンソーがパタパタ近づいて\n来ています！\n先にそっちを撃破してほしいのです！",
+    "Text": "",
+    "Enabled": false
+  },
+  "262544": {
+    "OriginalText": "ホースが火を噴いています！\n早く消さないと大火事に\nなってしまうのです！",
+    "Text": "",
+    "Enabled": false
+  },
+  "262545": {
+    "OriginalText": "火事は初期消火が大事なので……\nすみません、こっちをお願いします！",
+    "Text": "",
+    "Enabled": false
+  },
+  "262546": {
+    "OriginalText": "おっし、出発するぞ、\nやり残したことはないか？",
+    "Text": "",
+    "Enabled": false
+  },
+  "263001": {
+    "OriginalText": "艦長、現状報告をさせていただいても\nよいでしょうか？\nお時間のある時にラボへお願いします。",
+    "Text": "",
+    "Enabled": false
+  },
+  "263002": {
+    "OriginalText": "大型パイルの準備が整いました。\n艦長も準備が整ったら、\nラボに集合してください。",
+    "Text": "",
+    "Enabled": false
+  },
+  "263003": {
+    "OriginalText": "ヘイロウを入手した。",
+    "Text": "",
+    "Enabled": false
+  },
+  "263004": {
+    "OriginalText": "パイルを入手した。",
+    "Text": "",
+    "Enabled": false
+  },
+  "263005": {
+    "OriginalText": "トリメイト × 5 をもらった。",
+    "Text": "",
+    "Enabled": false
+  },
+  "263006": {
+    "OriginalText": "[ruby ーニ・]明紅[/ruby]をもらいうけた。",
+    "Text": "",
+    "Enabled": false
+  },
+  "263007": {
+    "OriginalText": "『 オペレーター切り替え機能解放 』\nキサラかリーティアに話しかけることで切替可能です。\n（オペレーターの変更によるゲーム進行の差異はありません。）",
+    "Text": "",
+    "Enabled": false
+  },
+  "263008": {
+    "OriginalText": "『 パーティーメンバー追加 ： カリスト 』\nカリストをクエストに同行できるようになりました。",
+    "Text": "",
+    "Enabled": false
+  },
+  "263009": {
+    "OriginalText": "『 パーティーメンバー追加 ： ヨミ 』\nヨミをクエストに同行できるようになりました。",
+    "Text": "",
+    "Enabled": false
+  },
+  "263010": {
+    "OriginalText": "『 パーティーメンバー追加 ： オルクス 』\nオルクスをクエストに同行できるようになりました。",
+    "Text": "",
+    "Enabled": false
+  },
+  "263011": {
+    "OriginalText": "『 パーティーメンバー追加 ： ヒュペリオン 』\nヒュペリオンをクエストに同行できるようになりました。",
+    "Text": "",
+    "Enabled": false
+  },
+  "263012": {
+    "OriginalText": "『 パーティーメンバー追加 ： シャロン 』\nシャロンをクエストに同行できるようになりました。",
+    "Text": "",
+    "Enabled": false
+  },
+  "263013": {
+    "OriginalText": "コールドスリープ中の皆さんが待っています。\n早く起こしてあげてください。\nまずは私の横のコンソールにアクセスです。",
+    "Text": "",
+    "Enabled": false
+  },
+  "263014": {
+    "OriginalText": "湯縞の記憶を入手した。",
+    "Text": "",
+    "Enabled": false
+  },
+  "263015": {
+    "OriginalText": "クラス 『 バスター 』 を選択出来るようになりました。",
+    "Text": "",
+    "Enabled": false
+  },
+  "263016": {
+    "OriginalText": "なんだ、まだ準備できてないのか？\n……まぁいい、待たされた方が楽しいことも\nあるってもんだな。",
+    "Text": "",
+    "Enabled": false
+  },
+  "263017": {
+    "OriginalText": "お前となら、忘れられない\nサイッコーのデートになる。\nそんな気がするんだ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "263018": {
+    "OriginalText": "フィルディア艦長に\n武器ショップ拡張の提案をしてきたんだ。\n武器を強化しないと生き残れないからな！",
+    "Text": "",
+    "Enabled": false
+  },
+  "263019": {
+    "OriginalText": "多分、お前の手を借りないといけないことも\nあると思うから、一度フィルディア艦長に\n話を聞きにいってもらえないか？",
+    "Text": "",
+    "Enabled": false
+  },
+  "263020": {
+    "OriginalText": "各施設の拡張について\nフィルディア艦長と打ち合わせを行った。\nしかし、資村の不足は否めない。",
+    "Text": "",
+    "Enabled": false
+  },
+  "263021": {
+    "OriginalText": "そこで、お前の手が必要という結論に至った。\n詳細はフィルディア艦長に聞いてくれ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "263022": {
+    "OriginalText": "アイテムショップの拡張に関して\nフィルディア艦長とお話をしてきました。",
+    "Text": "",
+    "Enabled": false
+  },
+  "263023": {
+    "OriginalText": "拡張には皆さんの手をお借りしたいのですが、\nお願いしてもよいでしょうか？\nきっと皆さんのお役に立つはずです！",
+    "Text": "",
+    "Enabled": false
+  },
+  "263024": {
+    "OriginalText": "詳細はフィルディア艦長から\nうかがってみてください。",
+    "Text": "",
+    "Enabled": false
+  },
+  "263025": {
+    "OriginalText": "クラスカウンターの拡張計画を\nフィルディア艦長と話してきたんだが\nまだまだ資村が必要そうだ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "263026": {
+    "OriginalText": "そこでだ、お前さんの力を借りたい。\n拠点が充実するのはお前さんにとっても\n悪い話じゃないはずだ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "263027": {
+    "OriginalText": "詳細はフィルディア艦長に聞いてきてくれ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "263028": {
+    "OriginalText": "今日も元気に働きますぞー！\n……って、この拠点内に食堂がないでは\nないですかー！！！",
+    "Text": "",
+    "Enabled": false
+  },
+  "263029": {
+    "OriginalText": "これでは[ruby わたくし]私[/ruby]の活躍の場が……！\nあなたからもフィルディア艦長へ早急に\n食堂を作るように進言してくださいませんか？",
+    "Text": "",
+    "Enabled": false
+  },
+  "263030": {
+    "OriginalText": "食堂の拡張にご興味はおありですか？",
+    "Text": "",
+    "Enabled": false
+  },
+  "263031": {
+    "OriginalText": "もちろん、おありですよね！ 当然ですな！\n[ruby わたくし]私[/ruby]、そう思いまして、フィルディア艦長に\nすでに提案済みですぞ！",
+    "Text": "",
+    "Enabled": false
+  },
+  "263032": {
+    "OriginalText": "はい、今すぐフィルディア艦長の\n話を聞いてきてください！\n楽しみにしてますぞ！",
+    "Text": "",
+    "Enabled": false
+  },
+  "263101": {
+    "OriginalText": "あっ相棒！\nなんか面白いことでもあった？\nせっかくだからルティナさんと話していきなよ！",
+    "Text": "",
+    "Enabled": false
+  },
+  "263102": {
+    "OriginalText": "よぉ、暇だったらトレーニングにいかねぇか？\nやっぱり相手がいた方が\nより実煙的な訓練になるからな！",
+    "Text": "",
+    "Enabled": false
+  },
+  "263103": {
+    "OriginalText": "アークスでも未知とされていた惑星です。\n『雨践れは三途の川』の精神で行きましょう！",
+    "Text": "",
+    "Enabled": false
+  },
+  "263104": {
+    "OriginalText": "お前、最近忙しそうにしてんな。\nたまには休みでも取って俺とデートしねぇか？\n気晴らしになるぜ！ なんてな。",
+    "Text": "",
+    "Enabled": false
+  },
+  "263105": {
+    "OriginalText": "この惑星は確かに興味深い\n研究対象ですね。それこそ、\nアークスの歴史に一石を投じるほどです。",
+    "Text": "",
+    "Enabled": false
+  },
+  "263106": {
+    "OriginalText": "私には果たすべき使命があります。",
+    "Text": "",
+    "Enabled": false
+  },
+  "263107": {
+    "OriginalText": "何だ？\nこんなところで無駄話をしている暇があるなら\n外の探索に行ってきたらどうだ？",
+    "Text": "",
+    "Enabled": false
+  },
+  "263108": {
+    "OriginalText": "惑星の地表で生活するなんて\n想定になかった事態だから、備えがないのよね。\n必要なものは全て現地調達でお願いね。",
+    "Text": "",
+    "Enabled": false
+  },
+  "263109": {
+    "OriginalText": "こんな過酷な環境です。\n体調管理には十分に気を付けてください。",
+    "Text": "",
+    "Enabled": false
+  },
+  "263110": {
+    "OriginalText": "武器の手入れを怠るなよ。\nいって時に壊れたら、\n目も当てられねぇ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "263111": {
+    "OriginalText": "一応、歳くってるだけあって\nそれなりに場数は積んでるからな。\nいつでも頼ってくれてもかまわないぞ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "263112": {
+    "OriginalText": "料理がうまくなるコツは\nとにかく何でも食してみることですな。",
+    "Text": "",
+    "Enabled": false
+  },
+  "263113": {
+    "OriginalText": "このような非常事態だからこそ、\n現状を打破する研究が必要です。",
+    "Text": "",
+    "Enabled": false
+  },
+  "263121": {
+    "OriginalText": "僕にご用ですか？",
+    "Text": "",
+    "Enabled": false
+  },
+  "263122": {
+    "OriginalText": "ふふ、元気だね。",
+    "Text": "",
+    "Enabled": false
+  },
+  "263123": {
+    "OriginalText": "ふん、なんだよ？",
+    "Text": "",
+    "Enabled": false
+  },
+  "263124": {
+    "OriginalText": "どーも。",
+    "Text": "",
+    "Enabled": false
+  },
+  "263125": {
+    "OriginalText": "おーっす！",
+    "Text": "",
+    "Enabled": false
+  },
+  "263126": {
+    "OriginalText": "お疲れ！",
+    "Text": "",
+    "Enabled": false
+  },
+  "263127": {
+    "OriginalText": "お疲れ様です！",
+    "Text": "",
+    "Enabled": false
+  },
+  "263128": {
+    "OriginalText": "ん？ 何だよ…。",
+    "Text": "",
+    "Enabled": false
+  },
+  "263129": {
+    "OriginalText": "オレに用か？",
+    "Text": "",
+    "Enabled": false
+  },
+  "263130": {
+    "OriginalText": "あぁ、キミか？",
+    "Text": "",
+    "Enabled": false
+  },
+  "263131": {
+    "OriginalText": "いかがいたしましたか？",
+    "Text": "",
+    "Enabled": false
+  },
+  "263132": {
+    "OriginalText": "今日はあちぃな。",
+    "Text": "",
+    "Enabled": false
+  },
+  "263133": {
+    "OriginalText": "なんか用かよ？",
+    "Text": "",
+    "Enabled": false
+  },
+  "263134": {
+    "OriginalText": "ん？ 何かありましたか？",
+    "Text": "",
+    "Enabled": false
+  },
+  "263135": {
+    "OriginalText": "任務か。",
+    "Text": "",
+    "Enabled": false
+  },
+  "263136": {
+    "OriginalText": "ああ、貴公か。",
+    "Text": "",
+    "Enabled": false
+  },
+  "263137": {
+    "OriginalText": "ん、何だい？",
+    "Text": "",
+    "Enabled": false
+  },
+  "263138": {
+    "OriginalText": "日差しがまぶしいねぇ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "263139": {
+    "OriginalText": "共に正義のために戦おう！",
+    "Text": "",
+    "Enabled": false
+  },
+  "263140": {
+    "OriginalText": "な、何のご用ですか？",
+    "Text": "",
+    "Enabled": false
+  },
+  "263141": {
+    "OriginalText": "余は垂が渇いた、ジュースをもて。",
+    "Text": "",
+    "Enabled": false
+  },
+  "263142": {
+    "OriginalText": "日差しが痛い…。",
+    "Text": "",
+    "Enabled": false
+  },
+  "263143": {
+    "OriginalText": "なんや？",
+    "Text": "",
+    "Enabled": false
+  },
+  "263144": {
+    "OriginalText": "僕と話したいのですか？",
+    "Text": "",
+    "Enabled": false
+  },
+  "263145": {
+    "OriginalText": "あまりオレと関わらない方がいい。",
+    "Text": "",
+    "Enabled": false
+  },
+  "263146": {
+    "OriginalText": "何か御用でしょうか？",
+    "Text": "",
+    "Enabled": false
+  },
+  "263147": {
+    "OriginalText": "某にどのような御用向きか？",
+    "Text": "",
+    "Enabled": false
+  },
+  "263148": {
+    "OriginalText": "おぬしもワシの喉義を聞きたいのかえ？",
+    "Text": "",
+    "Enabled": false
+  },
+  "263149": {
+    "OriginalText": "あら？ あたしのこと気になるの？",
+    "Text": "",
+    "Enabled": false
+  },
+  "263150": {
+    "OriginalText": "こんちわー！",
+    "Text": "",
+    "Enabled": false
+  },
+  "263151": {
+    "OriginalText": "何か私にご用？",
+    "Text": "",
+    "Enabled": false
+  },
+  "263152": {
+    "OriginalText": "ん？ どーした？",
+    "Text": "",
+    "Enabled": false
+  },
+  "263153": {
+    "OriginalText": "なにかあった？",
+    "Text": "",
+    "Enabled": false
+  },
+  "263154": {
+    "OriginalText": "来ると思ってた。",
+    "Text": "",
+    "Enabled": false
+  },
+  "263155": {
+    "OriginalText": "何でしょう？",
+    "Text": "",
+    "Enabled": false
+  },
+  "263156": {
+    "OriginalText": "やっほー！",
+    "Text": "",
+    "Enabled": false
+  },
+  "263157": {
+    "OriginalText": "ん？ 何かあった？",
+    "Text": "",
+    "Enabled": false
+  },
+  "263158": {
+    "OriginalText": "あの、何かあった？",
+    "Text": "",
+    "Enabled": false
+  },
+  "263159": {
+    "OriginalText": "ご用ですか？",
+    "Text": "",
+    "Enabled": false
+  },
+  "263160": {
+    "OriginalText": "ごきげんよう。",
+    "Text": "",
+    "Enabled": false
+  },
+  "263161": {
+    "OriginalText": "ん？ なんか面白いことでもあった？",
+    "Text": "",
+    "Enabled": false
+  },
+  "263162": {
+    "OriginalText": "元気してる？",
+    "Text": "",
+    "Enabled": false
+  },
+  "263163": {
+    "OriginalText": "あら、ごきげんよう。",
+    "Text": "",
+    "Enabled": false
+  },
+  "263164": {
+    "OriginalText": "ふふ、何か私にご用ですか？",
+    "Text": "",
+    "Enabled": false
+  },
+  "263165": {
+    "OriginalText": "何？",
+    "Text": "",
+    "Enabled": false
+  },
+  "263166": {
+    "OriginalText": "こんにちは。",
+    "Text": "",
+    "Enabled": false
+  },
+  "263167": {
+    "OriginalText": "どうした？",
+    "Text": "",
+    "Enabled": false
+  },
+  "263168": {
+    "OriginalText": "よう、おつかれ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "263169": {
+    "OriginalText": "認識。",
+    "Text": "",
+    "Enabled": false
+  },
+  "263170": {
+    "OriginalText": "あ、おはようごいます！",
+    "Text": "",
+    "Enabled": false
+  },
+  "263171": {
+    "OriginalText": "はい！ 元気です！",
+    "Text": "",
+    "Enabled": false
+  },
+  "263172": {
+    "OriginalText": "私に迷惑かけないでくれる？",
+    "Text": "",
+    "Enabled": false
+  },
+  "263173": {
+    "OriginalText": "今日は何の話かな？",
+    "Text": "",
+    "Enabled": false
+  },
+  "263174": {
+    "OriginalText": "ごきげんよう。",
+    "Text": "",
+    "Enabled": false
+  },
+  "263175": {
+    "OriginalText": "えっ、ちょっ、な、何よ？",
+    "Text": "",
+    "Enabled": false
+  },
+  "263176": {
+    "OriginalText": "こんばんわー。",
+    "Text": "",
+    "Enabled": false
+  },
+  "263177": {
+    "OriginalText": "奇遇だなここで会うとは。",
+    "Text": "",
+    "Enabled": false
+  },
+  "263178": {
+    "OriginalText": "いつも、元気どすなぁ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "263179": {
+    "OriginalText": "何じゃろか？",
+    "Text": "",
+    "Enabled": false
+  },
+  "263180": {
+    "OriginalText": "元気そうだな！",
+    "Text": "",
+    "Enabled": false
+  },
+  "263181": {
+    "OriginalText": "やっほー！",
+    "Text": "",
+    "Enabled": false
+  },
+  "263182": {
+    "OriginalText": "どした？",
+    "Text": "",
+    "Enabled": false
+  },
+  "263183": {
+    "OriginalText": "え…、なにか…？",
+    "Text": "",
+    "Enabled": false
+  },
+  "263184": {
+    "OriginalText": "う～ん、ゼファーはまた\nどこほっつき歩いてるの？\nヴァシュロンもいないし、むぅぅぅ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "264000": {
+    "OriginalText": "ふぅ～、もうすぐティータイムなのに\n茶器一つ用意されないなんて……。\nホント不便な[ruby ほし]惑星[/ruby]ですわ！！",
+    "Text": "",
+    "Enabled": false
+  },
+  "264001": {
+    "OriginalText": "グラバー様……。\n今頃、何をして\nいらっしゃるのかしら……。",
+    "Text": "",
+    "Enabled": false
+  },
+  "264002": {
+    "OriginalText": "でも、こうして離れている時間が\n愛を育てるものと聞きました。\nグラバー様のためなら耐えて見せますわ！",
+    "Text": "",
+    "Enabled": false
+  },
+  "264003": {
+    "OriginalText": "さぁ、執事さん！\nグラバー様を探しに参りますよ。\n準備を急いでくださいませ！",
+    "Text": "",
+    "Enabled": false
+  },
+  "264004": {
+    "OriginalText": "ほらほら、恋する無敵艦隊は\n休むことを許されていませんよ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "264005": {
+    "OriginalText": "グラバー様は拠点周辺にいるとのことです。\n早く向かいましょう！",
+    "Text": "",
+    "Enabled": false
+  },
+  "264006": {
+    "OriginalText": "さぁさぁ、果洋を採りに向かいましょう！\n採れた果洋は、私の愛によって\n山より高いフルーツケーキにっ！",
+    "Text": "",
+    "Enabled": false
+  },
+  "264007": {
+    "OriginalText": "えっ、余計なことをせず、\n果洋は皮をむくだけでいい？\nう～ん、素村で勝負することも大事ですわね。",
+    "Text": "",
+    "Enabled": false
+  },
+  "264008": {
+    "OriginalText": "何こんなところでぼやぼやしているのです！\n早急に隠れられそうな場所を探してください！\nもう一刻の禁予もありませんことよ！",
+    "Text": "",
+    "Enabled": false
+  },
+  "264009": {
+    "OriginalText": "冷悪非道な警備部の方々の毒牙が\nグラバー様に襲いかかろうとしているのです！\n急いでくださいませ！！",
+    "Text": "",
+    "Enabled": false
+  },
+  "264010": {
+    "OriginalText": "私の愛の推理が正しければ、\nグラバー様はあの場所にいるはずです。",
+    "Text": "",
+    "Enabled": false
+  },
+  "264011": {
+    "OriginalText": "執事さん、\nわたしに付いて来てください！",
+    "Text": "",
+    "Enabled": false
+  },
+  "264012": {
+    "OriginalText": "今では、すっかりグラバー様と\nお友達なんですの。",
+    "Text": "",
+    "Enabled": false
+  },
+  "264013": {
+    "OriginalText": "この前はグラバー様に私が\n腕によりをかけて作ったお食事を\nご馳走させていただきましたの。",
+    "Text": "",
+    "Enabled": false
+  },
+  "264014": {
+    "OriginalText": "えっ、おなかをこわさなかったかって？\n失礼ですわね！ なぜか食べる直前に\nヒュペリオンさんが回収していきましたわ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "264015": {
+    "OriginalText": "コウエン隊長とチームシグマの皆さんの\nためにも、早くギガンテスを倒しに行きますよ！",
+    "Text": "",
+    "Enabled": false
+  },
+  "264016": {
+    "OriginalText": "真剣に取り組んでいると、\nお仕事もなかなか楽しいものなんですね。",
+    "Text": "",
+    "Enabled": false
+  },
+  "264017": {
+    "OriginalText": "今まで見えなかったものが\n見えるというか、\n毎日新しい発見の連続です。",
+    "Text": "",
+    "Enabled": false
+  },
+  "264018": {
+    "OriginalText": "なんだ、お前。\n用がないならば立ち去れ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "264019": {
+    "OriginalText": "俺は他人と関わるつもりはない。\nわかったのならば速やかに立ち去ることだ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "264020": {
+    "OriginalText": "いくら調べても無駄だ。\n艦長、早くグラバー隊長捕の許可を\n出してもらおうか？",
+    "Text": "",
+    "Enabled": false
+  },
+  "264021": {
+    "OriginalText": "ん？ 体調は大丈夫かだと……？",
+    "Text": "",
+    "Enabled": false
+  },
+  "264022": {
+    "OriginalText": "ふん、特に問題はない。\nそんなことより、お前には他に\nすることがあったはずだ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "264023": {
+    "OriginalText": "何か手掛かりになるものを\n盗まれたのだろう。\n早く追いかけて見つけてきたらどうだ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "264024": {
+    "OriginalText": "俺たち警備部が真実を明らかにするのは\nこの拠点の平安のため、この１点のみだ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "264025": {
+    "OriginalText": "グラバー隊長の一件が\n拠点に悪影響を及ぼさないならば\n警備部は介入しない。",
+    "Text": "",
+    "Enabled": false
+  },
+  "264026": {
+    "OriginalText": "そうでなくても、警備部には\n連日復数の案件が舞い込んでいる。\n事件性のない出来事に割く時間はないしな。",
+    "Text": "",
+    "Enabled": false
+  },
+  "264027": {
+    "OriginalText": "俺たちは真実を知る者として\n果たさなければならないことがある。\n炎の高地に向かうぞ！",
+    "Text": "",
+    "Enabled": false
+  },
+  "264028": {
+    "OriginalText": "さっき先堰と話してきた。\n俺の銃痕をみてひどく\n気にしていたが、",
+    "Text": "",
+    "Enabled": false
+  },
+  "264029": {
+    "OriginalText": "逆に俺が先堰の真意をみ取らず\n憎んでいたことを謝露したら\nなぜか豪快に笑われた。",
+    "Text": "",
+    "Enabled": false
+  },
+  "264030": {
+    "OriginalText": "やはり、先堰のことは\n理解できないから困る。",
+    "Text": "",
+    "Enabled": false
+  },
+  "264031": {
+    "OriginalText": "何かありましたか？",
+    "Text": "",
+    "Enabled": false
+  },
+  "264032": {
+    "OriginalText": "あら、ごきげんよう！",
+    "Text": "",
+    "Enabled": false
+  },
+  "264033": {
+    "OriginalText": "何事だ？",
+    "Text": "",
+    "Enabled": false
+  },
+  "264034": {
+    "OriginalText": "あぁ、お前か",
+    "Text": "",
+    "Enabled": false
+  },
+  "264035": {
+    "OriginalText": "まだいらしたの？",
+    "Text": "",
+    "Enabled": false
+  },
+  "264036": {
+    "OriginalText": "ではこれで。",
+    "Text": "",
+    "Enabled": false
+  },
+  "264037": {
+    "OriginalText": "また、来てくださる？",
+    "Text": "",
+    "Enabled": false
+  },
+  "264038": {
+    "OriginalText": "早く行け。",
+    "Text": "",
+    "Enabled": false
+  },
+  "264039": {
+    "OriginalText": "ではな。",
+    "Text": "",
+    "Enabled": false
+  },
+  "264040": {
+    "OriginalText": "またな。",
+    "Text": "",
+    "Enabled": false
+  },
+  "264041": {
+    "OriginalText": "『 パーティーメンバー追加 ： ガーネット 』\nガーネットをクエストに同行できるようになりました。",
+    "Text": "",
+    "Enabled": false
+  },
+  "264042": {
+    "OriginalText": "『 パーティーメンバー追加 ： サンシャウト 』\nサンシャウトをクエストに同行できるようになりました。",
+    "Text": "",
+    "Enabled": false
+  },
+  "264043": {
+    "OriginalText": "『 オペレーター追加 ： ガーネット 』\nガーネットに話しかけることで切替可能です。",
+    "Text": "",
+    "Enabled": false
+  },
+  "264044": {
+    "OriginalText": "『 オペレーター追加 ： サンシャウト 』\nサンシャウトに話しかけることで切替可能です。",
+    "Text": "",
+    "Enabled": false
+  },
+  "264045": {
+    "OriginalText": "クリア報酬！！\nホワイトチケット ×３ を手に入れた。",
+    "Text": "",
+    "Enabled": false
+  },
+  "264046": {
+    "OriginalText": "クリア報酬！！\nダイヤモンドネイヴＫ         \nダイヤモンドクイーンＫ を手に入れた。",
+    "Text": "",
+    "Enabled": false
+  },
+  "264047": {
+    "OriginalText": "クリア報酬！！\nダイヤモンドネイヴＲ         \nダイヤモンドクイーンＲ を手に入れた。",
+    "Text": "",
+    "Enabled": false
+  },
+  "264048": {
+    "OriginalText": "クリア報酬！！\nダイヤモンドネイヴＷ         \nダイヤモンドクイーンＷ を手に入れた。",
+    "Text": "",
+    "Enabled": false
+  },
+  "264049": {
+    "OriginalText": "クリア報酬！！\nダイヤモンドネイヴＢ         \nダイヤモンドクイーンＢ を手に入れた。",
+    "Text": "",
+    "Enabled": false
+  },
+  "264050": {
+    "OriginalText": "クリア報酬！！\nマキアファクター ×１ を手に入れた。",
+    "Text": "",
+    "Enabled": false
+  },
+  "264051": {
+    "OriginalText": "マキアファクター ×１ を手に入れた。",
+    "Text": "",
+    "Enabled": false
+  },
+  "264052": {
+    "OriginalText": "マキアファクター ×１ を手に入れた。",
+    "Text": "",
+    "Enabled": false
+  },
+  "264053": {
+    "OriginalText": "【ガーネット編 第１話】    \n【サンシャウト編 第１話】へ続く",
+    "Text": "",
+    "Enabled": false
+  },
+  "264054": {
+    "OriginalText": "【ガーネット編 第２話】へ続く",
+    "Text": "",
+    "Enabled": false
+  },
+  "264055": {
+    "OriginalText": "【ガーネット編 第３話】へ続く",
+    "Text": "",
+    "Enabled": false
+  },
+  "264056": {
+    "OriginalText": "【サンシャウト編 第１話】へ続く",
+    "Text": "",
+    "Enabled": false
+  },
+  "264057": {
+    "OriginalText": "【サンシャウト編 第２話】へ続く",
+    "Text": "",
+    "Enabled": false
+  },
+  "264058": {
+    "OriginalText": "【サンシャウト編 第３話】へ続く",
+    "Text": "",
+    "Enabled": false
+  },
+  "264059": {
+    "OriginalText": "【サンシャウト編 第３話】をクリアすると     \n【サイドストーリー 完結編】を遊ぶことができます。",
+    "Text": "",
+    "Enabled": false
+  },
+  "264060": {
+    "OriginalText": "【ガーネット編 第３話】をクリアすると      \n【サイドストーリー 完結編】を遊ぶことができます。",
+    "Text": "",
+    "Enabled": false
+  },
+  "264061": {
+    "OriginalText": "拠点下層にいるサンシャウトに話しかけると     \n【サイドストーリー 完結編】を遊ぶことができます。",
+    "Text": "",
+    "Enabled": false
+  },
+  "264062": {
+    "OriginalText": "クリア報酬！！\nダイヤモンドネイヴＹ         \nダイヤモンドクイーンＹ を手に入れた。",
+    "Text": "",
+    "Enabled": false
+  },
+  "265001": {
+    "OriginalText": "『 オペレーター追加 ： ルティナ 』\nルティナに話しかけることで切替可能です。\n（オペレーターの変更によるゲーム進行の差異はありません。）",
+    "Text": "",
+    "Enabled": false
+  },
+  "265002": {
+    "OriginalText": "『 オペレーター追加 ： セイル 』\nセイルに話しかけることで切替可能です。\n（オペレーターの変更によるゲーム進行の差異はありません。）",
+    "Text": "",
+    "Enabled": false
+  },
+  "265003": {
+    "OriginalText": "『 オペレーター追加 ： イズナ 』\nイズナに話しかけることで切替可能です。\n（オペレーターの変更によるゲーム進行の差異はありません。）",
+    "Text": "",
+    "Enabled": false
+  },
+  "265004": {
+    "OriginalText": "『 オペレーター追加 ： フィルディア 』\nフィルディアに話しかけることで切替可能です。\n（オペレーターの変更によるゲーム進行の差異はありません。）",
+    "Text": "",
+    "Enabled": false
+  },
+  "265005": {
+    "OriginalText": "武器ショップで「武器エクステンド」が可能になりました。",
+    "Text": "",
+    "Enabled": false
+  },
+  "265006": {
+    "OriginalText": "コールドスリープカウンターに\n「再キャラクタークリエイト」機能が\n追加されました。",
+    "Text": "",
+    "Enabled": false
+  },
+  "265007": {
+    "OriginalText": "『 パーティーメンバー追加 ： キサラ 』\nキサラをクエストに同行できるようになりました。",
+    "Text": "",
+    "Enabled": false
+  },
+  "265008": {
+    "OriginalText": "『 パーティーメンバー追加 ： リーティア 』\nリーティアをクエストに同行できるようになりました。",
+    "Text": "",
+    "Enabled": false
+  },
+  "265009": {
+    "OriginalText": "施設が開発できるようになりました。\n『コア精錬所 Lv.5』",
+    "Text": "",
+    "Enabled": false
+  }
+}

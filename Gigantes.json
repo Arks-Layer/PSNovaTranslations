@@ -1,0 +1,117 @@
+{
+  "670000": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "670001": {
+    "OriginalText": "アグリオス",
+    "Text": "",
+    "Enabled": false
+  },
+  "670002": {
+    "OriginalText": "グレイオス",
+    "Text": "",
+    "Enabled": false
+  },
+  "670003": {
+    "OriginalText": "アルテイオス",
+    "Text": "",
+    "Enabled": false
+  },
+  "670004": {
+    "OriginalText": "ガラティオン",
+    "Text": "Gratian",
+    "Enabled": true
+  },
+  "670005": {
+    "OriginalText": "ギガティオン",
+    "Text": "",
+    "Enabled": false
+  },
+  "670006": {
+    "OriginalText": "グラヴディオン",
+    "Text": "",
+    "Enabled": false
+  },
+  "670007": {
+    "OriginalText": "エウリュード",
+    "Text": "Eurude",
+    "Enabled": true
+  },
+  "670008": {
+    "OriginalText": "ヴィヴリュード",
+    "Text": "",
+    "Enabled": false
+  },
+  "670009": {
+    "OriginalText": "アルキュオネ",
+    "Text": "Alcyone",
+    "Enabled": true
+  },
+  "670010": {
+    "OriginalText": "デェフキュオネ",
+    "Text": "",
+    "Enabled": false
+  },
+  "680000": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "680001": {
+    "OriginalText": "アグリカノーネ",
+    "Text": "",
+    "Enabled": false
+  },
+  "680002": {
+    "OriginalText": "エウルスタンプ",
+    "Text": "",
+    "Enabled": false
+  },
+  "680003": {
+    "OriginalText": "ガラテエーレ",
+    "Text": "",
+    "Enabled": false
+  },
+  "680004": {
+    "OriginalText": "アルキインフェアノ",
+    "Text": "",
+    "Enabled": false
+  },
+  "680005": {
+    "OriginalText": "グレイホルン",
+    "Text": "",
+    "Enabled": false
+  },
+  "680006": {
+    "OriginalText": "ヴィヴシュラック",
+    "Text": "",
+    "Enabled": false
+  },
+  "680007": {
+    "OriginalText": "ギガテシュトルム",
+    "Text": "",
+    "Enabled": false
+  },
+  "680008": {
+    "OriginalText": "デェフヴォルカン",
+    "Text": "",
+    "Enabled": false
+  },
+  "680009": {
+    "OriginalText": "アルトカノーネ",
+    "Text": "",
+    "Enabled": false
+  },
+  "680010": {
+    "OriginalText": "グラヴシュトルム",
+    "Text": "",
+    "Enabled": false
+  },
+  "680011": {
+    "OriginalText": "イグニッション",
+    "Text": "",
+    "Enabled": false
+  }
+}

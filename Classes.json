@@ -1,0 +1,22 @@
+{
+  "10201": {
+    "OriginalText": "ハンター",
+    "Text": "Hunter",
+    "Enabled": true
+  },
+  "10202": {
+    "OriginalText": "レンジャー",
+    "Text": "Ranger",
+    "Enabled": true
+  },
+  "10203": {
+    "OriginalText": "フォース",
+    "Text": "Force",
+    "Enabled": true
+  },
+  "10204": {
+    "OriginalText": "バスター",
+    "Text": "Buster",
+    "Enabled": true
+  }
+}

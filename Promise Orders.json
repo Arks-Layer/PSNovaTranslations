@@ -1,0 +1,1412 @@
+{
+  "280000": {
+    "OriginalText": "---",
+    "Text": "",
+    "Enabled": false
+  },
+  "280001": {
+    "OriginalText": "あのクエストをクリアしてきて！",
+    "Text": "",
+    "Enabled": false
+  },
+  "280002": {
+    "OriginalText": "ルティナの訓練",
+    "Text": "Lutina's Training",
+    "Enabled": true
+  },
+  "280003": {
+    "OriginalText": "フォースの訓練",
+    "Text": "Force Training",
+    "Enabled": true
+  },
+  "280004": {
+    "OriginalText": "鳥の皮片を調達しよう",
+    "Text": "Procuring Bird Pelts",
+    "Enabled": true
+  },
+  "280005": {
+    "OriginalText": "ヒレ片を調達しよう",
+    "Text": "",
+    "Enabled": false
+  },
+  "280006": {
+    "OriginalText": "講化木を調達しよう",
+    "Text": "",
+    "Enabled": false
+  },
+  "280007": {
+    "OriginalText": "石片を調達しよう",
+    "Text": "",
+    "Enabled": false
+  },
+  "280008": {
+    "OriginalText": "煽皮を調達しよう",
+    "Text": "",
+    "Enabled": false
+  },
+  "280009": {
+    "OriginalText": "コランダム珪を調達しよう",
+    "Text": "",
+    "Enabled": false
+  },
+  "280010": {
+    "OriginalText": "大光玉を調達しよう",
+    "Text": "",
+    "Enabled": false
+  },
+  "280011": {
+    "OriginalText": "伝甲を調達しよう",
+    "Text": "",
+    "Enabled": false
+  },
+  "280012": {
+    "OriginalText": "ロッドを使いこなそう",
+    "Text": "",
+    "Enabled": false
+  },
+  "280013": {
+    "OriginalText": "タリスを使いこなそう",
+    "Text": "",
+    "Enabled": false
+  },
+  "280014": {
+    "OriginalText": "ウォンドを使いこなそう",
+    "Text": "",
+    "Enabled": false
+  },
+  "280015": {
+    "OriginalText": "★鱗片の調達",
+    "Text": "",
+    "Enabled": false
+  },
+  "280016": {
+    "OriginalText": "ＳＨに挑戦・銅の荒野",
+    "Text": "",
+    "Enabled": false
+  },
+  "280017": {
+    "OriginalText": "新種のギガンテスに挑戦",
+    "Text": "",
+    "Enabled": false
+  },
+  "280018": {
+    "OriginalText": "銅の荒野の新鉱石",
+    "Text": "",
+    "Enabled": false
+  },
+  "280019": {
+    "OriginalText": "オペレーターに挑戦",
+    "Text": "",
+    "Enabled": false
+  },
+  "280020": {
+    "OriginalText": "ＸＨに挑戦・銅の荒野",
+    "Text": "",
+    "Enabled": false
+  },
+  "280021": {
+    "OriginalText": "ギガンテスコンビに挑戦",
+    "Text": "",
+    "Enabled": false
+  },
+  "280022": {
+    "OriginalText": "セイルの訓練",
+    "Text": "",
+    "Enabled": false
+  },
+  "280023": {
+    "OriginalText": "ハンターの訓練",
+    "Text": "Hunter Training",
+    "Enabled": true
+  },
+  "280024": {
+    "OriginalText": "アグリオス撃破勝負",
+    "Text": "",
+    "Enabled": false
+  },
+  "280025": {
+    "OriginalText": "アルキュオネ撃破勝負",
+    "Text": "",
+    "Enabled": false
+  },
+  "280026": {
+    "OriginalText": "エウリュード撃破勝負",
+    "Text": "",
+    "Enabled": false
+  },
+  "280027": {
+    "OriginalText": "アルレイバンサー撃破勝負",
+    "Text": "",
+    "Enabled": false
+  },
+  "280028": {
+    "OriginalText": "原生種撃破勝負",
+    "Text": "",
+    "Enabled": false
+  },
+  "280029": {
+    "OriginalText": "グレイオス撃破勝負",
+    "Text": "",
+    "Enabled": false
+  },
+  "280030": {
+    "OriginalText": "ギガンテス２体撃破勝負",
+    "Text": "",
+    "Enabled": false
+  },
+  "280031": {
+    "OriginalText": "アルテイオス撃破勝負",
+    "Text": "",
+    "Enabled": false
+  },
+  "280032": {
+    "OriginalText": "ソードで戦え！",
+    "Text": "",
+    "Enabled": false
+  },
+  "280033": {
+    "OriginalText": "パルチザンで戦え！",
+    "Text": "",
+    "Enabled": false
+  },
+  "280034": {
+    "OriginalText": "ダブルセイバーで戦え！",
+    "Text": "",
+    "Enabled": false
+  },
+  "280035": {
+    "OriginalText": "ナックルで戦え！",
+    "Text": "",
+    "Enabled": false
+  },
+  "280036": {
+    "OriginalText": "★銃身の回収",
+    "Text": "",
+    "Enabled": false
+  },
+  "280037": {
+    "OriginalText": "グラン水装の新素村",
+    "Text": "",
+    "Enabled": false
+  },
+  "280038": {
+    "OriginalText": "ギガティオンの蛇張りに突入",
+    "Text": "",
+    "Enabled": false
+  },
+  "280039": {
+    "OriginalText": "グラン水装の新鉱洋",
+    "Text": "",
+    "Enabled": false
+  },
+  "280040": {
+    "OriginalText": "究冷の素村・銅の荒野",
+    "Text": "",
+    "Enabled": false
+  },
+  "280041": {
+    "OriginalText": "オペレーター研修",
+    "Text": "",
+    "Enabled": false
+  },
+  "280042": {
+    "OriginalText": "イズナの訓練",
+    "Text": "",
+    "Enabled": false
+  },
+  "280043": {
+    "OriginalText": "レンジャーの訓練",
+    "Text": "Ranger Training",
+    "Enabled": true
+  },
+  "280044": {
+    "OriginalText": "エキスの調達",
+    "Text": "",
+    "Enabled": false
+  },
+  "280045": {
+    "OriginalText": "触角の調達",
+    "Text": "",
+    "Enabled": false
+  },
+  "280046": {
+    "OriginalText": "手片の調達",
+    "Text": "",
+    "Enabled": false
+  },
+  "280047": {
+    "OriginalText": "獣の皮片の調達",
+    "Text": "",
+    "Enabled": false
+  },
+  "280048": {
+    "OriginalText": "皮片の調達",
+    "Text": "",
+    "Enabled": false
+  },
+  "280049": {
+    "OriginalText": "バンクゥの大宝石の調達",
+    "Text": "",
+    "Enabled": false
+  },
+  "280050": {
+    "OriginalText": "大砲塔部品の調達",
+    "Text": "",
+    "Enabled": false
+  },
+  "280051": {
+    "OriginalText": "硬骨格の調達",
+    "Text": "",
+    "Enabled": false
+  },
+  "280052": {
+    "OriginalText": "アサルトライフルで対象を撃破",
+    "Text": "",
+    "Enabled": false
+  },
+  "280053": {
+    "OriginalText": "ツインマシンガンで対象を撃破",
+    "Text": "",
+    "Enabled": false
+  },
+  "280054": {
+    "OriginalText": "オベリスクの破片回収",
+    "Text": "",
+    "Enabled": false
+  },
+  "280055": {
+    "OriginalText": "★花状結晶の調達",
+    "Text": "",
+    "Enabled": false
+  },
+  "280056": {
+    "OriginalText": "ＳＨに挑戦・大尖塔",
+    "Text": "",
+    "Enabled": false
+  },
+  "280057": {
+    "OriginalText": "新種のギガンテスを討伐",
+    "Text": "",
+    "Enabled": false
+  },
+  "280058": {
+    "OriginalText": "大尖塔の新素村",
+    "Text": "",
+    "Enabled": false
+  },
+  "280059": {
+    "OriginalText": "ＸＨに挑戦・グラン水装",
+    "Text": "",
+    "Enabled": false
+  },
+  "280060": {
+    "OriginalText": "不倒の約束",
+    "Text": "",
+    "Enabled": false
+  },
+  "280061": {
+    "OriginalText": "究冷の鉱洋・グラン水装",
+    "Text": "",
+    "Enabled": false
+  },
+  "280062": {
+    "OriginalText": "オペレーター志願",
+    "Text": "",
+    "Enabled": false
+  },
+  "280063": {
+    "OriginalText": "ＸＨに挑戦・大尖塔",
+    "Text": "",
+    "Enabled": false
+  },
+  "280064": {
+    "OriginalText": "絶対防衛線",
+    "Text": "",
+    "Enabled": false
+  },
+  "280065": {
+    "OriginalText": "究冷の資村・大尖塔",
+    "Text": "",
+    "Enabled": false
+  },
+  "280066": {
+    "OriginalText": "オペレーター代行",
+    "Text": "",
+    "Enabled": false
+  },
+  "280067": {
+    "OriginalText": "ＸＨ・Ｓランククリア・上",
+    "Text": "",
+    "Enabled": false
+  },
+  "280068": {
+    "OriginalText": "ＸＨ・Ｓランククリア・下",
+    "Text": "",
+    "Enabled": false
+  },
+  "280069": {
+    "OriginalText": "地獄のデート・Ｓランククリア",
+    "Text": "",
+    "Enabled": false
+  },
+  "280070": {
+    "OriginalText": "ＸＨに挑戦・ノヴァ内部",
+    "Text": "",
+    "Enabled": false
+  },
+  "280071": {
+    "OriginalText": "惑星の真の安寧のために",
+    "Text": "",
+    "Enabled": false
+  },
+  "280072": {
+    "OriginalText": "抗体ギガンテス研究",
+    "Text": "",
+    "Enabled": false
+  },
+  "280073": {
+    "OriginalText": "究冷の洋質・ノヴァ内部",
+    "Text": "",
+    "Enabled": false
+  },
+  "280074": {
+    "OriginalText": "ＸＨに挑戦・炎の高地",
+    "Text": "",
+    "Enabled": false
+  },
+  "280075": {
+    "OriginalText": "一流の仕事",
+    "Text": "",
+    "Enabled": false
+  },
+  "280076": {
+    "OriginalText": "超一流の仕事",
+    "Text": "",
+    "Enabled": false
+  },
+  "280077": {
+    "OriginalText": "究冷の鉱石・炎の高地",
+    "Text": "",
+    "Enabled": false
+  },
+  "280078": {
+    "OriginalText": "メモリーフラグメント変換６",
+    "Text": "",
+    "Enabled": false
+  },
+  "280079": {
+    "OriginalText": "個人的なお願い",
+    "Text": "",
+    "Enabled": false
+  },
+  "280080": {
+    "OriginalText": "メモリーフラグメント変換７",
+    "Text": "",
+    "Enabled": false
+  },
+  "280081": {
+    "OriginalText": "メモリーフラグメント変換８",
+    "Text": "",
+    "Enabled": false
+  },
+  "280082": {
+    "OriginalText": "塊死の克服",
+    "Text": "",
+    "Enabled": false
+  },
+  "280083": {
+    "OriginalText": "死なずに大洋原生種討伐に挑戦",
+    "Text": "",
+    "Enabled": false
+  },
+  "280084": {
+    "OriginalText": "死なずにギガンテス撃破に挑戦",
+    "Text": "",
+    "Enabled": false
+  },
+  "280085": {
+    "OriginalText": "Ｓランククリアに挑戦・瀕",
+    "Text": "",
+    "Enabled": false
+  },
+  "280086": {
+    "OriginalText": "Ｓランククリアに挑戦・破",
+    "Text": "",
+    "Enabled": false
+  },
+  "280087": {
+    "OriginalText": "Ｓランククリアに挑戦・急",
+    "Text": "",
+    "Enabled": false
+  },
+  "280088": {
+    "OriginalText": "死なずにクエスト達成に挑戦・上",
+    "Text": "",
+    "Enabled": false
+  },
+  "280089": {
+    "OriginalText": "死なずにクエスト達成に挑戦・下",
+    "Text": "",
+    "Enabled": false
+  },
+  "280090": {
+    "OriginalText": "Ｓランククリアに挑戦・冷",
+    "Text": "",
+    "Enabled": false
+  },
+  "280091": {
+    "OriginalText": "Ｓランククリアに挑戦・真冷",
+    "Text": "",
+    "Enabled": false
+  },
+  "280092": {
+    "OriginalText": "ラッピーに挑戦",
+    "Text": "Rappy Challenge",
+    "Enabled": true
+  },
+  "280093": {
+    "OriginalText": "ＳＨ・Ｓランククリア・瀕",
+    "Text": "",
+    "Enabled": false
+  },
+  "280094": {
+    "OriginalText": "ＳＨ・Ｓランククリア・破",
+    "Text": "",
+    "Enabled": false
+  },
+  "280095": {
+    "OriginalText": "ＳＨ・Ｓランククリア・急",
+    "Text": "",
+    "Enabled": false
+  },
+  "280096": {
+    "OriginalText": "メモリーフラグメント変換９",
+    "Text": "",
+    "Enabled": false
+  },
+  "280097": {
+    "OriginalText": "ラッピーのおとしもの",
+    "Text": "",
+    "Enabled": false
+  },
+  "280098": {
+    "OriginalText": "究冷の資村・古代都市",
+    "Text": "",
+    "Enabled": false
+  },
+  "280099": {
+    "OriginalText": "コールドスリープ改造",
+    "Text": "",
+    "Enabled": false
+  },
+  "280100": {
+    "OriginalText": "リーティア、戦場に立つ",
+    "Text": "",
+    "Enabled": false
+  },
+  "280101": {
+    "OriginalText": "抗体エネミーの研究",
+    "Text": "",
+    "Enabled": false
+  },
+  "280102": {
+    "OriginalText": "ダーカー研究",
+    "Text": "",
+    "Enabled": false
+  },
+  "280103": {
+    "OriginalText": "グラン研究",
+    "Text": "",
+    "Enabled": false
+  },
+  "280104": {
+    "OriginalText": "鉱石研究",
+    "Text": "",
+    "Enabled": false
+  },
+  "280105": {
+    "OriginalText": "原生種研究",
+    "Text": "",
+    "Enabled": false
+  },
+  "280106": {
+    "OriginalText": "植洋研究",
+    "Text": "",
+    "Enabled": false
+  },
+  "280107": {
+    "OriginalText": "地質研究",
+    "Text": "",
+    "Enabled": false
+  },
+  "280108": {
+    "OriginalText": "ブーストエネミー研究",
+    "Text": "Boost Enemy Research",
+    "Enabled": true
+  },
+  "280109": {
+    "OriginalText": "ギガンテス研究",
+    "Text": "Gigantes Research",
+    "Enabled": true
+  },
+  "280110": {
+    "OriginalText": "ノヴァ研究序",
+    "Text": "",
+    "Enabled": false
+  },
+  "280111": {
+    "OriginalText": "ノヴァ研究α",
+    "Text": "",
+    "Enabled": false
+  },
+  "280112": {
+    "OriginalText": "★ギガンテスの武伝研究",
+    "Text": "",
+    "Enabled": false
+  },
+  "280113": {
+    "OriginalText": "★ギガンテスの伝甲研究",
+    "Text": "",
+    "Enabled": false
+  },
+  "280114": {
+    "OriginalText": "ＳＨに挑戦・ノヴァ内部",
+    "Text": "",
+    "Enabled": false
+  },
+  "280115": {
+    "OriginalText": "新種のギガンテスの調査",
+    "Text": "",
+    "Enabled": false
+  },
+  "280116": {
+    "OriginalText": "ノヴァ内部の新鉱洋",
+    "Text": "",
+    "Enabled": false
+  },
+  "280117": {
+    "OriginalText": "対ダーカー侵食薬研究",
+    "Text": "",
+    "Enabled": false
+  },
+  "280118": {
+    "OriginalText": "武器合成研究",
+    "Text": "",
+    "Enabled": false
+  },
+  "280119": {
+    "OriginalText": "究冷の原生種素村",
+    "Text": "",
+    "Enabled": false
+  },
+  "280120": {
+    "OriginalText": "接近戦のお供に",
+    "Text": "",
+    "Enabled": false
+  },
+  "280121": {
+    "OriginalText": "究冷のギガンテス素村",
+    "Text": "",
+    "Enabled": false
+  },
+  "280122": {
+    "OriginalText": "ギガンテスの甲片の入手",
+    "Text": "",
+    "Enabled": false
+  },
+  "280123": {
+    "OriginalText": "グラン器片の入手",
+    "Text": "",
+    "Enabled": false
+  },
+  "280124": {
+    "OriginalText": "爪片と殻片の入手",
+    "Text": "",
+    "Enabled": false
+  },
+  "280125": {
+    "OriginalText": "機械部品の入手",
+    "Text": "",
+    "Enabled": false
+  },
+  "280126": {
+    "OriginalText": "甲片の入手",
+    "Text": "",
+    "Enabled": false
+  },
+  "280127": {
+    "OriginalText": "原動機と刃片の入手",
+    "Text": "",
+    "Enabled": false
+  },
+  "280128": {
+    "OriginalText": "鋭ノコ刃の入手",
+    "Text": "",
+    "Enabled": false
+  },
+  "280129": {
+    "OriginalText": "硬骨格の入手",
+    "Text": "",
+    "Enabled": false
+  },
+  "280130": {
+    "OriginalText": "駆動機関の入手",
+    "Text": "",
+    "Enabled": false
+  },
+  "280131": {
+    "OriginalText": "大主砲の入手",
+    "Text": "",
+    "Enabled": false
+  },
+  "280132": {
+    "OriginalText": "多積層の銅板の入手",
+    "Text": "",
+    "Enabled": false
+  },
+  "280133": {
+    "OriginalText": "★赤い主砲の入手",
+    "Text": "",
+    "Enabled": false
+  },
+  "280134": {
+    "OriginalText": "★歯片の入手",
+    "Text": "",
+    "Enabled": false
+  },
+  "280135": {
+    "OriginalText": "ＳＨに挑戦・炎の高地",
+    "Text": "",
+    "Enabled": false
+  },
+  "280136": {
+    "OriginalText": "炎の高地の黒いギガンテス",
+    "Text": "",
+    "Enabled": false
+  },
+  "280137": {
+    "OriginalText": "炎の高地の新鉱石",
+    "Text": "",
+    "Enabled": false
+  },
+  "280138": {
+    "OriginalText": "エクストラハード開放",
+    "Text": "",
+    "Enabled": false
+  },
+  "280139": {
+    "OriginalText": "レイバンサー討伐",
+    "Text": "",
+    "Enabled": false
+  },
+  "280140": {
+    "OriginalText": "愛用品の継承",
+    "Text": "",
+    "Enabled": false
+  },
+  "280141": {
+    "OriginalText": "究冷ギガンテス討伐",
+    "Text": "",
+    "Enabled": false
+  },
+  "280142": {
+    "OriginalText": "ブーストエネミー撃破訓練",
+    "Text": "",
+    "Enabled": false
+  },
+  "280143": {
+    "OriginalText": "レアエネミー撃破訓練",
+    "Text": "",
+    "Enabled": false
+  },
+  "280144": {
+    "OriginalText": "メモリーフラグメントの入手１",
+    "Text": "",
+    "Enabled": false
+  },
+  "280145": {
+    "OriginalText": "レアエネミー討伐１",
+    "Text": "",
+    "Enabled": false
+  },
+  "280146": {
+    "OriginalText": "メモリーフラグメントの入手２",
+    "Text": "",
+    "Enabled": false
+  },
+  "280147": {
+    "OriginalText": "レアエネミー討伐２",
+    "Text": "",
+    "Enabled": false
+  },
+  "280148": {
+    "OriginalText": "メモリーフラグメントの入手３",
+    "Text": "",
+    "Enabled": false
+  },
+  "280149": {
+    "OriginalText": "レアエネミー討伐３",
+    "Text": "",
+    "Enabled": false
+  },
+  "280150": {
+    "OriginalText": "メモリーフラグメントの入手４",
+    "Text": "",
+    "Enabled": false
+  },
+  "280151": {
+    "OriginalText": "メモリーフラグメントの入手５",
+    "Text": "",
+    "Enabled": false
+  },
+  "280152": {
+    "OriginalText": "★β脚の回収",
+    "Text": "",
+    "Enabled": false
+  },
+  "280153": {
+    "OriginalText": "★鉱石の回収",
+    "Text": "",
+    "Enabled": false
+  },
+  "280154": {
+    "OriginalText": "メモリーフラグメント変換１",
+    "Text": "",
+    "Enabled": false
+  },
+  "280155": {
+    "OriginalText": "メモリーフラグメント変換２",
+    "Text": "",
+    "Enabled": false
+  },
+  "280156": {
+    "OriginalText": "メモリーフラグメント変換３",
+    "Text": "",
+    "Enabled": false
+  },
+  "280157": {
+    "OriginalText": "メモリーフラグメント変換４",
+    "Text": "",
+    "Enabled": false
+  },
+  "280158": {
+    "OriginalText": "メモリーフラグメント変換５",
+    "Text": "",
+    "Enabled": false
+  },
+  "280159": {
+    "OriginalText": "古代都市の新鉱洋",
+    "Text": "",
+    "Enabled": false
+  },
+  "280160": {
+    "OriginalText": "ＸＨに挑戦・古代都市",
+    "Text": "",
+    "Enabled": false
+  },
+  "280161": {
+    "OriginalText": "スナイパーの冷意",
+    "Text": "",
+    "Enabled": false
+  },
+  "280162": {
+    "OriginalText": "状態異常訓練",
+    "Text": "",
+    "Enabled": false
+  },
+  "280163": {
+    "OriginalText": "虫片の調達",
+    "Text": "",
+    "Enabled": false
+  },
+  "280164": {
+    "OriginalText": "針片の調達",
+    "Text": "",
+    "Enabled": false
+  },
+  "280165": {
+    "OriginalText": "状態異常の調査",
+    "Text": "",
+    "Enabled": false
+  },
+  "280166": {
+    "OriginalText": "墨の調達",
+    "Text": "",
+    "Enabled": false
+  },
+  "280167": {
+    "OriginalText": "感染症の調査",
+    "Text": "",
+    "Enabled": false
+  },
+  "280168": {
+    "OriginalText": "苔尾の調達",
+    "Text": "",
+    "Enabled": false
+  },
+  "280169": {
+    "OriginalText": "中毒症の調査",
+    "Text": "",
+    "Enabled": false
+  },
+  "280170": {
+    "OriginalText": "目玉の調達",
+    "Text": "",
+    "Enabled": false
+  },
+  "280171": {
+    "OriginalText": "鋭ドリルの調達",
+    "Text": "",
+    "Enabled": false
+  },
+  "280172": {
+    "OriginalText": "★目片の調達",
+    "Text": "",
+    "Enabled": false
+  },
+  "280173": {
+    "OriginalText": "★肉の調達",
+    "Text": "",
+    "Enabled": false
+  },
+  "280174": {
+    "OriginalText": "視界不良の調査",
+    "Text": "",
+    "Enabled": false
+  },
+  "280175": {
+    "OriginalText": "属性耐性弱化の調査",
+    "Text": "",
+    "Enabled": false
+  },
+  "280176": {
+    "OriginalText": "ＳＨ生還訓練",
+    "Text": "",
+    "Enabled": false
+  },
+  "280177": {
+    "OriginalText": "ギガンテスコンビを排除",
+    "Text": "",
+    "Enabled": false
+  },
+  "280178": {
+    "OriginalText": "ＸＨエネミーの食村研究",
+    "Text": "",
+    "Enabled": false
+  },
+  "280179": {
+    "OriginalText": "究冷のダーカー素村",
+    "Text": "",
+    "Enabled": false
+  },
+  "280180": {
+    "OriginalText": "バスターの必逸品",
+    "Text": "",
+    "Enabled": false
+  },
+  "280181": {
+    "OriginalText": "至高の鉱洋資装１",
+    "Text": "",
+    "Enabled": false
+  },
+  "280182": {
+    "OriginalText": "部位破壊訓練",
+    "Text": "",
+    "Enabled": false
+  },
+  "280183": {
+    "OriginalText": "鉱洋の調達",
+    "Text": "",
+    "Enabled": false
+  },
+  "280184": {
+    "OriginalText": "銃片の調達",
+    "Text": "",
+    "Enabled": false
+  },
+  "280185": {
+    "OriginalText": "砲片と爪の調達",
+    "Text": "",
+    "Enabled": false
+  },
+  "280186": {
+    "OriginalText": "ギュゲンテの伝甲の調達",
+    "Text": "",
+    "Enabled": false
+  },
+  "280187": {
+    "OriginalText": "機械生洋の甲片の調達",
+    "Text": "",
+    "Enabled": false
+  },
+  "280188": {
+    "OriginalText": "金属の調達",
+    "Text": "",
+    "Enabled": false
+  },
+  "280189": {
+    "OriginalText": "鉄線の調達",
+    "Text": "",
+    "Enabled": false
+  },
+  "280190": {
+    "OriginalText": "盾素村の調達",
+    "Text": "",
+    "Enabled": false
+  },
+  "280191": {
+    "OriginalText": "大弾頭の調達",
+    "Text": "",
+    "Enabled": false
+  },
+  "280192": {
+    "OriginalText": "★爪片の調達",
+    "Text": "",
+    "Enabled": false
+  },
+  "280193": {
+    "OriginalText": "★硬砲身の調達",
+    "Text": "",
+    "Enabled": false
+  },
+  "280194": {
+    "OriginalText": "機械生洋武伝素村調達",
+    "Text": "",
+    "Enabled": false
+  },
+  "280195": {
+    "OriginalText": "ＳＨギガンテス素村調達",
+    "Text": "",
+    "Enabled": false
+  },
+  "280196": {
+    "OriginalText": "ＳＨギガンテス武伝素村調達",
+    "Text": "",
+    "Enabled": false
+  },
+  "280197": {
+    "OriginalText": "至高の鉱洋資装２",
+    "Text": "",
+    "Enabled": false
+  },
+  "280198": {
+    "OriginalText": "お風呂の思い出",
+    "Text": "",
+    "Enabled": false
+  },
+  "280199": {
+    "OriginalText": "ラスト・デートに再挑戦",
+    "Text": "",
+    "Enabled": false
+  },
+  "280200": {
+    "OriginalText": "ヨミ 予備枠 09",
+    "Text": "",
+    "Enabled": false
+  },
+  "280201": {
+    "OriginalText": "ヨミ 予備枠 10",
+    "Text": "",
+    "Enabled": false
+  },
+  "280202": {
+    "OriginalText": "スキルボード拡張",
+    "Text": "",
+    "Enabled": false
+  },
+  "280203": {
+    "OriginalText": "スキルボード再拡張",
+    "Text": "",
+    "Enabled": false
+  },
+  "280204": {
+    "OriginalText": "シルブカーネベア撃破訓練",
+    "Text": "",
+    "Enabled": false
+  },
+  "280205": {
+    "OriginalText": "エネミー撃破訓練",
+    "Text": "",
+    "Enabled": false
+  },
+  "280206": {
+    "OriginalText": "クエストＡランク訓練",
+    "Text": "",
+    "Enabled": false
+  },
+  "280207": {
+    "OriginalText": "プレディカーダ撃破訓練",
+    "Text": "",
+    "Enabled": false
+  },
+  "280208": {
+    "OriginalText": "ギガンテス戦Ｓランク訓練",
+    "Text": "",
+    "Enabled": false
+  },
+  "280209": {
+    "OriginalText": "ギガンテス戦Ｓランク再訓練",
+    "Text": "",
+    "Enabled": false
+  },
+  "280210": {
+    "OriginalText": "バンサー撃破訓練",
+    "Text": "",
+    "Enabled": false
+  },
+  "280211": {
+    "OriginalText": "拠点防衛Ｓランク訓練",
+    "Text": "",
+    "Enabled": false
+  },
+  "280212": {
+    "OriginalText": "★脚の回収",
+    "Text": "",
+    "Enabled": false
+  },
+  "280213": {
+    "OriginalText": "★爪の回収",
+    "Text": "",
+    "Enabled": false
+  },
+  "280214": {
+    "OriginalText": "スーパーハード開放",
+    "Text": "",
+    "Enabled": false
+  },
+  "280215": {
+    "OriginalText": "ＳＨトルリンプ系討伐",
+    "Text": "",
+    "Enabled": false
+  },
+  "280216": {
+    "OriginalText": "ＳＨギガンテス討伐",
+    "Text": "",
+    "Enabled": false
+  },
+  "280217": {
+    "OriginalText": "タイムアタックＳランク",
+    "Text": "",
+    "Enabled": false
+  },
+  "280218": {
+    "OriginalText": "ＰＴアタックＳランク",
+    "Text": "",
+    "Enabled": false
+  },
+  "280219": {
+    "OriginalText": "オルクス 予備枠 08",
+    "Text": "",
+    "Enabled": false
+  },
+  "280220": {
+    "OriginalText": "オルクス 予備枠 09",
+    "Text": "",
+    "Enabled": false
+  },
+  "280221": {
+    "OriginalText": "オルクス 予備枠 10",
+    "Text": "",
+    "Enabled": false
+  },
+  "280222": {
+    "OriginalText": "岩塩の調達",
+    "Text": "",
+    "Enabled": false
+  },
+  "280223": {
+    "OriginalText": "獣の肉の調達",
+    "Text": "",
+    "Enabled": false
+  },
+  "280224": {
+    "OriginalText": "爪片の調達",
+    "Text": "",
+    "Enabled": false
+  },
+  "280225": {
+    "OriginalText": "尻と米の調達",
+    "Text": "",
+    "Enabled": false
+  },
+  "280226": {
+    "OriginalText": "ダーカーの肉の調達",
+    "Text": "",
+    "Enabled": false
+  },
+  "280227": {
+    "OriginalText": "軟骨の調達",
+    "Text": "",
+    "Enabled": false
+  },
+  "280228": {
+    "OriginalText": "巨大な肉と魚肉の調達",
+    "Text": "",
+    "Enabled": false
+  },
+  "280229": {
+    "OriginalText": "大虫麦の調達",
+    "Text": "",
+    "Enabled": false
+  },
+  "280230": {
+    "OriginalText": "ミルクとたまごの調達",
+    "Text": "",
+    "Enabled": false
+  },
+  "280231": {
+    "OriginalText": "たまごの調達",
+    "Text": "",
+    "Enabled": false
+  },
+  "280232": {
+    "OriginalText": "赤い樹袋探し",
+    "Text": "",
+    "Enabled": false
+  },
+  "280233": {
+    "OriginalText": "★劇の調達",
+    "Text": "",
+    "Enabled": false
+  },
+  "280234": {
+    "OriginalText": "★刃片の調達",
+    "Text": "",
+    "Enabled": false
+  },
+  "280235": {
+    "OriginalText": "古代都市の新素村",
+    "Text": "",
+    "Enabled": false
+  },
+  "280236": {
+    "OriginalText": "ヴィヴリュードの討伐",
+    "Text": "",
+    "Enabled": false
+  },
+  "280237": {
+    "OriginalText": "ＳＨエネミーの食村研究",
+    "Text": "",
+    "Enabled": false
+  },
+  "280238": {
+    "OriginalText": "ヒュペリオン 予備枠 07",
+    "Text": "",
+    "Enabled": false
+  },
+  "280239": {
+    "OriginalText": "ヒュペリオン 予備枠 08",
+    "Text": "",
+    "Enabled": false
+  },
+  "280240": {
+    "OriginalText": "ヒュペリオン 予備枠 09",
+    "Text": "",
+    "Enabled": false
+  },
+  "280241": {
+    "OriginalText": "ヒュペリオン 予備枠 10",
+    "Text": "",
+    "Enabled": false
+  },
+  "280242": {
+    "OriginalText": "バスターの訓練",
+    "Text": "",
+    "Enabled": false
+  },
+  "280243": {
+    "OriginalText": "パイルの訓練",
+    "Text": "",
+    "Enabled": false
+  },
+  "280244": {
+    "OriginalText": "グランピースの調達１",
+    "Text": "",
+    "Enabled": false
+  },
+  "280245": {
+    "OriginalText": "甲羅の調達",
+    "Text": "",
+    "Enabled": false
+  },
+  "280246": {
+    "OriginalText": "グランピースの調達２",
+    "Text": "",
+    "Enabled": false
+  },
+  "280247": {
+    "OriginalText": "フレームの調達",
+    "Text": "",
+    "Enabled": false
+  },
+  "280248": {
+    "OriginalText": "浮遊伝置の調達",
+    "Text": "",
+    "Enabled": false
+  },
+  "280249": {
+    "OriginalText": "最強ギガンテスのパーツの調達",
+    "Text": "",
+    "Enabled": false
+  },
+  "280250": {
+    "OriginalText": "★翼枝の回収",
+    "Text": "",
+    "Enabled": false
+  },
+  "280251": {
+    "OriginalText": "★ギガンテスパーツの調達",
+    "Text": "",
+    "Enabled": false
+  },
+  "280252": {
+    "OriginalText": "リングジェネレーター改良",
+    "Text": "",
+    "Enabled": false
+  },
+  "280253": {
+    "OriginalText": "属性グランピース研究",
+    "Text": "",
+    "Enabled": false
+  },
+  "280254": {
+    "OriginalText": "服の修理",
+    "Text": "",
+    "Enabled": false
+  },
+  "280255": {
+    "OriginalText": "コア精錬研究",
+    "Text": "",
+    "Enabled": false
+  },
+  "280256": {
+    "OriginalText": "ダーカー素村研究",
+    "Text": "",
+    "Enabled": false
+  },
+  "280257": {
+    "OriginalText": "ギガンテス生体素村研究",
+    "Text": "",
+    "Enabled": false
+  },
+  "280258": {
+    "OriginalText": "シャロン 予備枠 04",
+    "Text": "",
+    "Enabled": false
+  },
+  "280259": {
+    "OriginalText": "シャロン 予備枠 05",
+    "Text": "",
+    "Enabled": false
+  },
+  "280260": {
+    "OriginalText": "シャロン 予備枠 06",
+    "Text": "",
+    "Enabled": false
+  },
+  "280261": {
+    "OriginalText": "シャロン 予備枠 07",
+    "Text": "",
+    "Enabled": false
+  },
+  "280262": {
+    "OriginalText": "クラスカウンター建設",
+    "Text": "",
+    "Enabled": false
+  },
+  "280263": {
+    "OriginalText": "食堂建設",
+    "Text": "",
+    "Enabled": false
+  },
+  "280264": {
+    "OriginalText": "武器ショップ建設",
+    "Text": "",
+    "Enabled": false
+  },
+  "280265": {
+    "OriginalText": "防具ショップ建設",
+    "Text": "",
+    "Enabled": false
+  },
+  "280266": {
+    "OriginalText": "アイテムショップ建設",
+    "Text": "",
+    "Enabled": false
+  },
+  "280267": {
+    "OriginalText": "コスチュームショップ建設",
+    "Text": "",
+    "Enabled": false
+  },
+  "280268": {
+    "OriginalText": "エステ建設",
+    "Text": "",
+    "Enabled": false
+  },
+  "280269": {
+    "OriginalText": "クラスカウンター改築",
+    "Text": "",
+    "Enabled": false
+  },
+  "280270": {
+    "OriginalText": "食堂改築",
+    "Text": "",
+    "Enabled": false
+  },
+  "280271": {
+    "OriginalText": "武器ショップ改築",
+    "Text": "",
+    "Enabled": false
+  },
+  "280272": {
+    "OriginalText": "防具ショップ改築",
+    "Text": "",
+    "Enabled": false
+  },
+  "280273": {
+    "OriginalText": "アイテムショップ改築",
+    "Text": "",
+    "Enabled": false
+  },
+  "280274": {
+    "OriginalText": "コスチュームショップ改築",
+    "Text": "",
+    "Enabled": false
+  },
+  "280275": {
+    "OriginalText": "エステ改築",
+    "Text": "",
+    "Enabled": false
+  },
+  "280276": {
+    "OriginalText": "フィルディアのお願い 予備枠 01",
+    "Text": "",
+    "Enabled": false
+  },
+  "280277": {
+    "OriginalText": "フィルディアのお願い 予備枠 02",
+    "Text": "",
+    "Enabled": false
+  },
+  "280278": {
+    "OriginalText": "フィルディアのお願い 予備枠 03",
+    "Text": "",
+    "Enabled": false
+  },
+  "280279": {
+    "OriginalText": "フィルディアのお願い 予備枠 04",
+    "Text": "",
+    "Enabled": false
+  },
+  "280280": {
+    "OriginalText": "フィルディアのお願い 予備枠 05",
+    "Text": "",
+    "Enabled": false
+  },
+  "280281": {
+    "OriginalText": "フィルディアのお願い 予備枠 06",
+    "Text": "",
+    "Enabled": false
+  }
+}

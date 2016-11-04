@@ -1,0 +1,422 @@
+{
+  "102000010010000": {
+    "OriginalText": "第二章 「銅焔の巨獣」\nThe Demon Above Us\n（アイキャッチ[仮]）",
+    "Text": "",
+    "Enabled": false
+  },
+  "102010020010004": {
+    "OriginalText": "おぅらぁー！ どうだ！",
+    "Text": "",
+    "Enabled": false
+  },
+  "102010020020001": {
+    "OriginalText": "ブリッジでやらなくても……。",
+    "Text": "",
+    "Enabled": false
+  },
+  "102010020030004": {
+    "OriginalText": "トレーニングルームに行くヒマがねえんだよ。\n艦長は忙しいんでな。",
+    "Text": "",
+    "Enabled": false
+  },
+  "102010020040002": {
+    "OriginalText": "これが艦長の『[ruby ーニ・]明紅[/ruby]』……美しい。",
+    "Text": "",
+    "Enabled": false
+  },
+  "102010020050003": {
+    "OriginalText": "迫力です……。",
+    "Text": "",
+    "Enabled": false
+  },
+  "102010020060004": {
+    "OriginalText": "お前らを呼んだのは他でもない。レイヴァン！",
+    "Text": "",
+    "Enabled": false
+  },
+  "102010020070005": {
+    "OriginalText": "はい。まず、君達のお陰でグランの研究が進み、\n様々な事実が現在進行形で分祈、解明され、\n希望が見え始めていることを報告しましょう。",
+    "Text": "",
+    "Enabled": false
+  },
+  "102010020080001": {
+    "OriginalText": "あたし達、そんなにすごいことしましたっけ？",
+    "Text": "",
+    "Enabled": false
+  },
+  "102010020090007": {
+    "OriginalText": "早速だけど次の任務も決まってるから、\n覚悟しておきなさい。",
+    "Text": "",
+    "Enabled": false
+  },
+  "102010020100001": {
+    "OriginalText": "うっ……やな予感が……。",
+    "Text": "",
+    "Enabled": false
+  },
+  "102010020110004": {
+    "OriginalText": "現在、人員は[ruby ふね]艦[/ruby]の維持に必要な数を残して、\n残りはコールドスリープさせてある。",
+    "Text": "",
+    "Enabled": false
+  },
+  "102010020120004": {
+    "OriginalText": "動ける戦闘要員はお前ら４人だけだ。\nしっかり頼むぞ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "102010020130002": {
+    "OriginalText": "了解！",
+    "Text": "",
+    "Enabled": false
+  },
+  "102010020140001": {
+    "OriginalText": "ちょっと！？ 安請け合いしすぎ！",
+    "Text": "",
+    "Enabled": false
+  },
+  "102010020150003": {
+    "OriginalText": "わたし達だけで大丈夫でしょうか……？",
+    "Text": "",
+    "Enabled": false
+  },
+  "102010020160001": {
+    "OriginalText": "だっ、大丈夫よ！ たぶん！",
+    "Text": "",
+    "Enabled": false
+  },
+  "102010020170002": {
+    "OriginalText": "お前はどっちなんだよ！？",
+    "Text": "",
+    "Enabled": false
+  },
+  "102010020180001": {
+    "OriginalText": "うるさいわね！ 冷端なのよあんたは！",
+    "Text": "",
+    "Enabled": false
+  },
+  "102010020190003": {
+    "OriginalText": "けんかはよくないですよ？ ね？ ね？",
+    "Text": "",
+    "Enabled": false
+  },
+  "102010020200004": {
+    "OriginalText": "やれるな？",
+    "Text": "",
+    "Enabled": false
+  },
+  "102010020205000": {
+    "OriginalText": "当然！",
+    "Text": "",
+    "Enabled": false
+  },
+  "102010020210004": {
+    "OriginalText": "だよな！",
+    "Text": "",
+    "Enabled": false
+  },
+  "102010020215000": {
+    "OriginalText": "やるしかないんですよね……",
+    "Text": "",
+    "Enabled": false
+  },
+  "102010020220004": {
+    "OriginalText": "気負うな。お前らならやれる。",
+    "Text": "",
+    "Enabled": false
+  },
+  "102010020230005": {
+    "OriginalText": "次の任務に関してはラボで私の助手から\n話を聞いて下さい。",
+    "Text": "",
+    "Enabled": false
+  },
+  "102010020240001": {
+    "OriginalText": "ラボ？",
+    "Text": "",
+    "Enabled": false
+  },
+  "102010020250002": {
+    "OriginalText": "ああ、外にあるやつだな？\nあそこに行けばいいのか。",
+    "Text": "",
+    "Enabled": false
+  },
+  "102010020260005": {
+    "OriginalText": "それとこれも返しておきます。",
+    "Text": "",
+    "Enabled": false
+  },
+  "102010020270001": {
+    "OriginalText": "あ、ユノの宝石ですね。",
+    "Text": "",
+    "Enabled": false
+  },
+  "102010020280005": {
+    "OriginalText": "調べてみましたが、何も反応がなかった。\n君が持っていれば\nまた何か起きるかもしれません。",
+    "Text": "",
+    "Enabled": false
+  },
+  "102010020290001": {
+    "OriginalText": "分かりました。\nユノにはお礼を言わなくちゃいけないし、\nまた会えるといいな……。",
+    "Text": "",
+    "Enabled": false
+  },
+  "102010025010012": {
+    "OriginalText": "初めまして、みなさん。シャロンと申します。\nレイヴァン副長の助手として\nグランの研究を担当しています。",
+    "Text": "",
+    "Enabled": false
+  },
+  "102010025020012": {
+    "OriginalText": "みなさんのお陰で、研究がはかどっています！\n今後もよろしくお願いしますね！",
+    "Text": "",
+    "Enabled": false
+  },
+  "102010025030001": {
+    "OriginalText": "こちらこそよろしく！\nで、任務のことなんだけど……。",
+    "Text": "",
+    "Enabled": false
+  },
+  "102010025040012": {
+    "OriginalText": "まずは、これを見て下さい！",
+    "Text": "",
+    "Enabled": false
+  },
+  "102010025050003": {
+    "OriginalText": "わ、綺魅……。",
+    "Text": "",
+    "Enabled": false
+  },
+  "102010025060001": {
+    "OriginalText": "これは？",
+    "Text": "",
+    "Enabled": false
+  },
+  "102010025070012": {
+    "OriginalText": "この[ruby ほし]惑星[/ruby]特有のエネルギー、\n『グラン』を結晶化したものです。",
+    "Text": "",
+    "Enabled": false
+  },
+  "102010025080002": {
+    "OriginalText": "結晶化って、これはエネルギー洋質なのか？",
+    "Text": "",
+    "Enabled": false
+  },
+  "102010025090012": {
+    "OriginalText": "ええ、グランは結晶化しやすい性質があり、\nエネルギー装として利用できそうなんです。",
+    "Text": "",
+    "Enabled": false
+  },
+  "102010025100003": {
+    "OriginalText": "つまり、グランを結晶化して\n貯蔵できるようになった……？",
+    "Text": "",
+    "Enabled": false
+  },
+  "102010025110012": {
+    "OriginalText": "そうです！ 現在、研究班ではこのグラン結晶を\nフォトンの代用として使えないか、\n検証作業を進めています。",
+    "Text": "",
+    "Enabled": false
+  },
+  "102010025120002": {
+    "OriginalText": "こいつを動力装にするのか！？",
+    "Text": "",
+    "Enabled": false
+  },
+  "102010025130012": {
+    "OriginalText": "はい！ 実現すれば、艦内設備の機能維持や、\n機村を使っての修理作業も可能なはずです。",
+    "Text": "",
+    "Enabled": false
+  },
+  "102010025140001": {
+    "OriginalText": "本当に希望だわ……。",
+    "Text": "",
+    "Enabled": false
+  },
+  "102010025150012": {
+    "OriginalText": "そこで、みなさんに\nグランを集めてきていただきたいのです。",
+    "Text": "",
+    "Enabled": false
+  },
+  "102010025160001": {
+    "OriginalText": "グランを集める？ どうやるんですか？",
+    "Text": "",
+    "Enabled": false
+  },
+  "102010025170012": {
+    "OriginalText": "この[ruby ほし]惑星[/ruby]にはグランの結晶化したものが\n数多く存在すると思われます。",
+    "Text": "",
+    "Enabled": false
+  },
+  "102010025180003": {
+    "OriginalText": "大気中のグランを結晶化するより、\nすでに結晶化したものを探してくる方が\nより効率がいいと……？",
+    "Text": "",
+    "Enabled": false
+  },
+  "102010025190012": {
+    "OriginalText": "その通りです！\nよろしくお願いします！",
+    "Text": "",
+    "Enabled": false
+  },
+  "102010025195000": {
+    "OriginalText": "任せて下さい",
+    "Text": "",
+    "Enabled": false
+  },
+  "102010025200012": {
+    "OriginalText": "期待していますよ！\nあなた達の活躍にかかっています！",
+    "Text": "",
+    "Enabled": false
+  },
+  "102010025205000": {
+    "OriginalText": "大丈夫かな……",
+    "Text": "",
+    "Enabled": false
+  },
+  "102010025210012": {
+    "OriginalText": "フィルディア艦長もレイヴァン副長も\n期待しているんです。頑張りましょう！",
+    "Text": "",
+    "Enabled": false
+  },
+  "102010025220012": {
+    "OriginalText": "このグラン結晶は\nサンプルとしてお持ち下さい。どうぞ！",
+    "Text": "",
+    "Enabled": false
+  },
+  "102010025230002": {
+    "OriginalText": "よーし、じゃ、行ってみるか！",
+    "Text": "",
+    "Enabled": false
+  },
+  "102010025240001": {
+    "OriginalText": "そうね。いっくわよっ！ [ruby]相棒[/ruby]！",
+    "Text": "",
+    "Enabled": false
+  },
+  "102010040010005": {
+    "OriginalText": "グラン結晶の収集、ご苦労様です。",
+    "Text": "",
+    "Enabled": false
+  },
+  "102010040020012": {
+    "OriginalText": "お陰様でグランの研究が大きく進展し、\nグラン結晶をフォトンに変換する\nシステムの完成にメドが立ちました！",
+    "Text": "",
+    "Enabled": false
+  },
+  "102010040030001": {
+    "OriginalText": "本当ですか！",
+    "Text": "",
+    "Enabled": false
+  },
+  "102010040040012": {
+    "OriginalText": "はい！ 少なくとも、コールドスリープ施設や\nブリッジ機能、再生処理設備などが\n停止する危機は脱したことになります。",
+    "Text": "",
+    "Enabled": false
+  },
+  "102010040050001": {
+    "OriginalText": "よかった！！",
+    "Text": "",
+    "Enabled": false
+  },
+  "102010040060004": {
+    "OriginalText": "ただし、そのためには\nグランの安定供給が不可欠なんだ。\n頑張ってくれよ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "102010040070001": {
+    "OriginalText": "え？ ああっ！？ つまり、あたし達が\nグランを集めまくらないとダメってこと！？",
+    "Text": "",
+    "Enabled": false
+  },
+  "102010040080005": {
+    "OriginalText": "現状、供給ルートが他にありませんからね。",
+    "Text": "",
+    "Enabled": false
+  },
+  "102010040090001": {
+    "OriginalText": "ですよねー……。",
+    "Text": "",
+    "Enabled": false
+  },
+  "102010040100004": {
+    "OriginalText": "ただ集めるだけじゃダメだからな。\n現状維持してもしょうがねえんだ！",
+    "Text": "",
+    "Enabled": false
+  },
+  "102010040110004": {
+    "OriginalText": "余るぐらいにグランをかき集めて、\n[ruby ふね]艦[/ruby]の機能を回復すれば、\nもっと動ける人員を増やせるんだよ！",
+    "Text": "",
+    "Enabled": false
+  },
+  "102010040120001": {
+    "OriginalText": "理想は分かりますけど……。\nそんな簡単にいくかなぁ？",
+    "Text": "",
+    "Enabled": false
+  },
+  "102010040130004": {
+    "OriginalText": "できるよな？",
+    "Text": "",
+    "Enabled": false
+  },
+  "102010040135000": {
+    "OriginalText": "やる！",
+    "Text": "",
+    "Enabled": false
+  },
+  "102010040140004": {
+    "OriginalText": "へっへぇ！ お前のそういうとこ、好きだぞ！",
+    "Text": "",
+    "Enabled": false
+  },
+  "102010040145000": {
+    "OriginalText": "きついです",
+    "Text": "",
+    "Enabled": false
+  },
+  "102010040150004": {
+    "OriginalText": "オレ、艦長。お前、断れない。残念だったな！",
+    "Text": "",
+    "Enabled": false
+  },
+  "102010040160001": {
+    "OriginalText": "分かってますよ。やりますよ！\nセイルもイズナも巻き込んでやる！",
+    "Text": "",
+    "Enabled": false
+  },
+  "102010040170004": {
+    "OriginalText": "その意気だ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "102010040180001": {
+    "OriginalText": "……いつか余裕っちゅ！\nって報告してやりますよ！",
+    "Text": "",
+    "Enabled": false
+  },
+  "102010040190004": {
+    "OriginalText": "ははっ、頼もしいな！",
+    "Text": "",
+    "Enabled": false
+  },
+  "102010040200007": {
+    "OriginalText": "その時はいくらでも任務のハードルを\n上げてあげるから、安心なさい。",
+    "Text": "",
+    "Enabled": false
+  },
+  "102010040210001": {
+    "OriginalText": "鬼ですか！？",
+    "Text": "",
+    "Enabled": false
+  },
+  "102010040220004": {
+    "OriginalText": "悪魔かもな？",
+    "Text": "",
+    "Enabled": false
+  },
+  "102010040230007": {
+    "OriginalText": "あら、天使よ？ よく言われるわ。\nねえ、レイヴァン？",
+    "Text": "",
+    "Enabled": false
+  },
+  "102010040240005": {
+    "OriginalText": "……ノーコメントで。",
+    "Text": "",
+    "Enabled": false
+  }
+}
