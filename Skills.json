@@ -141,7 +141,7 @@
   },
   "50028": {
     "OriginalText": "打撃力アップⅣ",
-    "Text": "S-ATK IV",
+    "Text": "S-ATK Up IV",
     "Enabled": true
   },
   "50029": {
@@ -1131,58 +1131,58 @@
   },
   "50258": {
     "OriginalText": "ソード・マスタリーⅡ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Sword Mastery II",
+    "Enabled": true
   },
   "50259": {
     "OriginalText": "パルチザン・マスタリーⅡ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Partisan Mastery II",
+    "Enabled": true
   },
   "50260": {
     "OriginalText": "Ｄセイバー・マスタリーⅡ",
-    "Text": "",
+    "Text": "Double Saber Mastery II",
     "Enabled": false
   },
   "50261": {
     "OriginalText": "ナックル・マスタリーⅡ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Knuckle Mastery II",
+    "Enabled": true
   },
   "50262": {
     "OriginalText": "Ａライフル・マスタリーⅡ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Rifle Mastery II",
+    "Enabled": true
   },
   "50263": {
     "OriginalText": "Ｔマシンガン・マスタリーⅡ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Twin Machine Gun Mastery II",
+    "Enabled": true
   },
   "50264": {
     "OriginalText": "ロッド・マスタリーⅡ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Rod Mastery II",
+    "Enabled": true
   },
   "50265": {
     "OriginalText": "タリス・マスタリーⅡ",
-    "Text": "",
+    "Text": "Talis Mastery II",
     "Enabled": false
   },
   "50266": {
     "OriginalText": "ウォンド・マスタリーⅡ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Wand Mastery II",
+    "Enabled": true
   },
   "50267": {
     "OriginalText": "パイル・マスタリーⅡ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Pile Mastery II",
+    "Enabled": true
   },
   "50268": {
     "OriginalText": "ヘイロウ・マスタリーⅡ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Halo Mastery II",
+    "Enabled": true
   },
   "50270": {
     "OriginalText": "打撃力アップ",
@@ -1301,7 +1301,7 @@
   },
   "50401": {
     "OriginalText": "ＨＰコンバート",
-    "Text": "",
-    "Enabled": false
+    "Text": "HP Convert",
+    "Enabled": true
   }
 }
