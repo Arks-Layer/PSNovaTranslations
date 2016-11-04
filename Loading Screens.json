@@ -6,12 +6,12 @@
   },
   "800001": {
     "OriginalText": "移動中、 [f 66] でカメラを動かして周りを見回せる。",
-    "Text": "When moving, [f 66] You can move the camera\nusing the right thumb stick.",
+    "Text": "When moving, you can move the\ncamera using [f 66].",
     "Enabled": true
   },
   "800002": {
     "OriginalText": "[f 75] を長く押すことで、より高くジャンプできる。",
-    "Text": "[f 75] By holding it down, you can jump higher.",
+    "Text": "By holding [f 75] down, you can jump higher.",
     "Enabled": true
   },
   "800003": {
