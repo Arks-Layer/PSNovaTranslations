@@ -6,132 +6,132 @@
   },
   "540001": {
     "OriginalText": "ジェネラリストクルー",
-    "Text": "",
-    "Enabled": false
+    "Text": "Generalist Crew",
+    "Enabled": true
   },
   "540002": {
     "OriginalText": "ソルジャークルー",
-    "Text": "",
-    "Enabled": false
+    "Text": "Soldier Crew",
+    "Enabled": true
   },
   "540003": {
     "OriginalText": "サポートクルー",
-    "Text": "",
-    "Enabled": false
+    "Text": "Support Crew",
+    "Enabled": true
   },
   "540004": {
     "OriginalText": "ヒューマンクルー",
-    "Text": "",
-    "Enabled": false
+    "Text": "Human Crew",
+    "Enabled": true
   },
   "540005": {
     "OriginalText": "ニューマンクルー",
-    "Text": "",
-    "Enabled": false
+    "Text": "Newman Crew",
+    "Enabled": true
   },
   "540006": {
     "OriginalText": "キャストクルー",
-    "Text": "",
-    "Enabled": false
+    "Text": "Cast Crew",
+    "Enabled": true
   },
   "540007": {
     "OriginalText": "ハンタークルー",
-    "Text": "",
-    "Enabled": false
+    "Text": "Hunter Crew",
+    "Enabled": true
   },
   "540008": {
     "OriginalText": "レンジャークルー",
-    "Text": "",
-    "Enabled": false
+    "Text": "Ranger Crew",
+    "Enabled": true
   },
   "540009": {
     "OriginalText": "フォースクルー",
-    "Text": "",
-    "Enabled": false
+    "Text": "Force Crew",
+    "Enabled": true
   },
   "540010": {
     "OriginalText": "アイドルクルー",
-    "Text": "",
-    "Enabled": false
+    "Text": "Idol Crew",
+    "Enabled": true
   },
   "540011": {
     "OriginalText": "匠クルー",
-    "Text": "",
-    "Enabled": false
+    "Text": "Workman Crew",
+    "Enabled": true
   },
   "540012": {
     "OriginalText": "レジェンドクルー",
-    "Text": "",
-    "Enabled": false
+    "Text": "Legendary Crew",
+    "Enabled": true
   },
   "540013": {
     "OriginalText": "PSO2クルー",
-    "Text": "",
-    "Enabled": false
+    "Text": "PSO2 Crew",
+    "Enabled": true
   },
   "540014": {
     "OriginalText": "セクションリーダークルー",
-    "Text": "",
-    "Enabled": false
+    "Text": "Section Leader Crew",
+    "Enabled": true
   },
   "540015": {
     "OriginalText": "[ruby]約束[/ruby]を繋ぐ者たち",
-    "Text": "",
+    "Text": "[ruby]Promise[/ruby] Keepers",
     "Enabled": false
   },
   "540016": {
     "OriginalText": "DLCシリーズ",
-    "Text": "",
-    "Enabled": false
+    "Text": "DLC Series",
+    "Enabled": true
   },
   "540017": {
     "OriginalText": "スペシャルシリーズ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Special Series",
+    "Enabled": true
   },
   "540018": {
     "OriginalText": "DLCシリーズ03",
-    "Text": "",
+    "Text": "DLC Series 03",
     "Enabled": false
   },
   "540019": {
     "OriginalText": "DLCシリーズ04",
-    "Text": "",
+    "Text": "DLC Series 034",
     "Enabled": false
   },
   "540020": {
     "OriginalText": "DLCシリーズ05",
-    "Text": "",
+    "Text": "DLC Series 05",
     "Enabled": false
   },
   "540021": {
     "OriginalText": "DLCシリーズ06",
-    "Text": "",
+    "Text": "DLC Series 06",
     "Enabled": false
   },
   "540022": {
     "OriginalText": "DLCシリーズ07",
-    "Text": "",
+    "Text": "DLC Series 07",
     "Enabled": false
   },
   "540023": {
     "OriginalText": "DLCシリーズ08",
-    "Text": "",
+    "Text": "DLC Series 08",
     "Enabled": false
   },
   "540024": {
     "OriginalText": "DLCシリーズ09",
-    "Text": "",
+    "Text": "DLC Series 09",
     "Enabled": false
   },
   "540025": {
     "OriginalText": "ファントムクルー",
-    "Text": "",
-    "Enabled": false
+    "Text": "Phantom Crew",
+    "Enabled": true
   },
   "540026": {
     "OriginalText": "ファイナルクルー",
-    "Text": "",
-    "Enabled": false
+    "Text": "Final Crew",
+    "Enabled": true
   }
 }
