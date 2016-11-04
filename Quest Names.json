@@ -141,8 +141,8 @@
   },
   "200129": {
     "OriginalText": "塔の上のユノ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Juno In The Top of The Tower",
+    "Enabled": true
   },
   "200130": {
     "OriginalText": "ユノの覚悟",
@@ -221,13 +221,13 @@
   },
   "200303": {
     "OriginalText": "ジャッドバンサー撃破任務",
-    "Text": "",
-    "Enabled": false
+    "Text": "Jhad Banther Subjugation Assignment",
+    "Enabled": true
   },
   "200304": {
     "OriginalText": "アグリオス撃破任務",
-    "Text": "",
-    "Enabled": false
+    "Text": "Agrious Subjugation Assignment",
+    "Enabled": true
   },
   "200305": {
     "OriginalText": "炎の高地偵察任務",
