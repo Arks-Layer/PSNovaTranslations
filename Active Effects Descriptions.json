@@ -146,12 +146,12 @@
   },
   "745029": {
     "OriginalText": "確率でリアクション無効",
-    "Text": "Chance of Nillified Knockback",
+    "Text": "Avoid Knockback Chance",
     "Enabled": true
   },
   "745030": {
     "OriginalText": "確率でダメージ無効",
-    "Text": "Chance of Nullified Damage",
+    "Text": "Avoid Damage Chance",
     "Enabled": false
   },
   "745031": {
@@ -191,7 +191,7 @@
   },
   "745038": {
     "OriginalText": "バーストゲージ初期ボーナス",
-    "Text": "Burst Gauge Initial Bonus",
+    "Text": "GB Initial Bonus",
     "Enabled": true
   },
   "745039": {
@@ -236,12 +236,12 @@
   },
   "745047": {
     "OriginalText": "バーストゲージ上昇率アップ",
-    "Text": "Burst Gauge Accumilation Up",
+    "Text": "GB Accumulation Up",
     "Enabled": true
   },
   "745048": {
     "OriginalText": "バーストゲージ上昇率アップ（小）",
-    "Text": "Burst Gauge Accumilation Up (s)",
+    "Text": "GB Accumulation Up (s)",
     "Enabled": true
   }
 }
