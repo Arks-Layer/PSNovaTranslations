@@ -230,7 +230,7 @@
   "182120": {
     "OriginalText": "フロフォンベガルフ",
     "Text": "Flo Fonbegulf",
-	"Enabled": true
+    "Enabled": true
   },
   "182130": {
     "OriginalText": "フォンベガルフ・ライオ",
@@ -320,22 +320,22 @@
   "182710": {
     "OriginalText": "マガヴルム",
     "Text": "Magavulum",
-	"Enabled": true
+    "Enabled": true
   },
   "182720": {
     "OriginalText": "バオム・マガヴルム",
     "Text": "Baum Magavulum",
-	"Enabled": true
+    "Enabled": true
   },
   "182730": {
     "OriginalText": "オルテ・マガヴルム",
     "Text": "Orte Magavulum",
-	"Enabled": true
+    "Enabled": true
   },
   "182740": {
     "OriginalText": "マガヴルム・クロウ",
     "Text": "Magavulum Crow",
-	"Enabled": true
+    "Enabled": true
   },
   "182810": {
     "OriginalText": "ラビーソ",
@@ -380,52 +380,52 @@
   "182950": {
     "OriginalText": "ロザード・トカ",
     "Text": "Rozad Toqa",
-	"Enabled": true
+    "Enabled": true
   },
   "183010": {
     "OriginalText": "マフレザール",
     "Text": "Maphrezer",
-	"Enabled": true
+    "Enabled": true
   },
   "183020": {
     "OriginalText": "ヴィマフレザール",
     "Text": "Vi Maphrezer",
-	"Enabled": true
+    "Enabled": true
   },
   "183030": {
     "OriginalText": "エルマフレザール",
     "Text": "El Maphrezer",
-	"Enabled": true
+    "Enabled": true
   },
   "183040": {
     "OriginalText": "ウイマフレザール",
     "Text": "Huy Maphrezer",
-	"Enabled": true
+    "Enabled": true
   },
   "183050": {
     "OriginalText": "マフレザール・オリヴ",
     "Text": "Maphrezer Olive",
-	"Enabled": true
+    "Enabled": true
   },
   "183110": {
     "OriginalText": "ジュラキア",
     "Text": "Jurakia",
-	"Enabled": true
+    "Enabled": true
   },
   "183120": {
     "OriginalText": "メドジュラキア",
     "Text": "Medu Jurakia",
-	"Enabled": true
+    "Enabled": true
   },
   "183130": {
     "OriginalText": "ポリジュラキア",
     "Text": "Poly Jurakia",
-	"Enabled": true
+    "Enabled": true
   },
   "183140": {
     "OriginalText": "ガンジュラキア",
     "Text": "Gun Jurakia",
-	"Enabled": true
+    "Enabled": true
   },
   "183150": {
     "OriginalText": "ジュラキア・スクア",
@@ -435,52 +435,52 @@
   "183210": {
     "OriginalText": "リバッツ",
     "Text": "Ribatts",
-	"Enabled": true
+    "Enabled": true
   },
   "183220": {
     "OriginalText": "グリバッツ",
     "Text": "Gribatts",
-	"Enabled": true
+    "Enabled": true
   },
   "183230": {
     "OriginalText": "バリバッツ",
     "Text": "Baribatts",
-	"Enabled": true
+    "Enabled": true
   },
   "183240": {
     "OriginalText": "ブリバッツ",
     "Text": "Bribatts",
-	"Enabled": true
+    "Enabled": true
   },
   "183250": {
     "OriginalText": "リバッツ・シル",
     "Text": "Ribatts Sill",
-	"Enabled": true
+    "Enabled": true
   },
   "183310": {
     "OriginalText": "グランブ",
     "Text": "Granb",
-	"Enabled": true
+    "Enabled": true
   },
   "183320": {
     "OriginalText": "ガーグランブ",
     "Text": "Gargranb",
-	"Enabled": true
+    "Enabled": true
   },
   "183330": {
     "OriginalText": "サフグランブ",
     "Text": "Sahugranb",
-	"Enabled": true
+    "Enabled": true
   },
   "183340": {
     "OriginalText": "パーグランブ",
     "Text": "Pergranb",
-	"Enabled": true
+    "Enabled": true
   },
   "183350": {
     "OriginalText": "グランブ・ダイ",
     "Text": "Granb Dai",
-	"Enabled": true
+    "Enabled": true
   },
   "183410": {
     "OriginalText": "バンクゥ",
@@ -515,27 +515,27 @@
   "183510": {
     "OriginalText": "マクロージ",
     "Text": "Makroge",
-	"Enabled": true
+    "Enabled": true
   },
   "183520": {
     "OriginalText": "レ・マクロージ",
     "Text": "Le Makroge",
-	"Enabled": true
+    "Enabled": true
   },
   "183530": {
     "OriginalText": "ブ・マクロージ",
     "Text": "Bu Makroge",
-	"Enabled": true
+    "Enabled": true
   },
   "183540": {
     "OriginalText": "ア・マクロージ",
     "Text": "A Makroge",
-	"Enabled": true
+    "Enabled": true
   },
   "183550": {
     "OriginalText": "マクロージ・ネス",
     "Text": "Makroge Ness",
-	"Enabled": true
+    "Enabled": true
   },
   "183610": {
     "OriginalText": "アビアディノ",
@@ -630,17 +630,17 @@
   "184010": {
     "OriginalText": "エデルクリトロ",
     "Text": "Eder Critter",
-	 "Enabled": true
+     "Enabled": true
   },
   "184020": {
     "OriginalText": "スマラクリトロ",
     "Text": "Smar Critter",
-	 "Enabled": true
+     "Enabled": true
   },
   "184030": {
     "OriginalText": "オーニクリトロ",
     "Text": "Oni Critter",
-	 "Enabled": true
+     "Enabled": true
   },
   "184040": {
     "OriginalText": "クリトロ・テュルレ",
@@ -650,77 +650,77 @@
   "184110": {
     "OriginalText": "エレマンデル",
     "Text": "Err Mandel",
-	 "Enabled": true
+     "Enabled": true
   },
   "184120": {
     "OriginalText": "テッラマンデル",
     "Text": "Terra Mandel",
-	 "Enabled": true
+     "Enabled": true
   },
   "184130": {
     "OriginalText": "イーグマンデル",
     "Text": "Eater Mandel",
-	 "Enabled": true
+     "Enabled": true
   },
   "184140": {
     "OriginalText": "マンデル・ナート",
     "Text": "Mandel Inert",
-	 "Enabled": true
+     "Enabled": true
   },
   "184210": {
     "OriginalText": "エクセージＴ",
     "Text": "Equsage T",
-	 "Enabled": true
+     "Enabled": true
   },
   "184220": {
     "OriginalText": "レ・エクセージＴ",
     "Text": "Le Equsage T",
-	 "Enabled": true
+     "Enabled": true
   },
   "184230": {
     "OriginalText": "エクセージＴ・ネス",
     "Text": "Equsage T Ness",
-	 "Enabled": true
+     "Enabled": true
   },
   "184310": {
     "OriginalText": "ミステルン",
     "Text": "Mysteron",
-	 "Enabled": true
+     "Enabled": true
   },
   "184320": {
     "OriginalText": "アガミステルン",
     "Text": "Aga Mysteron",
-	 "Enabled": true
+     "Enabled": true
   },
   "184330": {
     "OriginalText": "ラピミステルン",
     "Text": "Rap Mysteron",
-	 "Enabled": true
+     "Enabled": true
   },
   "184340": {
     "OriginalText": "ミステルン・オーロ",
     "Text": "Mysteron Oro",
-	 "Enabled": true
+     "Enabled": true
   },
   "184410": {
     "OriginalText": "シルブカーネベア",
     "Text": "Sirbucarnne Bear",
-	"Enabled": true
+    "Enabled": true
   },
   "184420": {
     "OriginalText": "レゾルカーネベア",
     "Text": "Resolcarnne Bear",
-	"Enabled": true
+    "Enabled": true
   },
   "184430": {
     "OriginalText": "オラルカーネベア",
     "Text": "Ololecarnne Bear",
-	 "Enabled": true
+     "Enabled": true
   },
   "184440": {
     "OriginalText": "モストカーネベア",
     "Text": "Mostcarnne Bear",
-	"Enabled": true
+    "Enabled": true
   },
   "184450": {
     "OriginalText": "カーネベア・ゴルヴァ",
@@ -730,27 +730,27 @@
   "184510": {
     "OriginalText": "アルレイバンサー",
     "Text": "Alray Banther",
-	"Enabled": true
+    "Enabled": true
   },
   "184520": {
     "OriginalText": "ゾンレイバンサー",
     "Text": "Dzongray Banther",
-	"Enabled": true
+    "Enabled": true
   },
   "184530": {
     "OriginalText": "ナールレイバンサー",
     "Text": "Nalray Banther",
-	"Enabled": true
+    "Enabled": true
   },
   "184540": {
     "OriginalText": "ファラレイバンサー",
     "Text": "Farahray Banther",
-	"Enabled": true
+    "Enabled": true
   },
   "184550": {
     "OriginalText": "レイバンサ・オクシ",
     "Text": "Ray Banther Occi",
-	"Enabled": true
+    "Enabled": true
   },
   "184560": {
     "OriginalText": "頭角",
@@ -768,17 +768,17 @@
   "184610": {
     "OriginalText": "ディートアス",
     "Text": "Ditoas",
-	"Enabled": true
+    "Enabled": true
   },
   "184620": {
     "OriginalText": "テュルトアス",
     "Text": "Tulletoas",
-	"Enabled": true
+    "Enabled": true
   },
   "184630": {
     "OriginalText": "マグネトアス",
     "Text": "Magnetoas",
-	"Enabled": true
+    "Enabled": true
   },
   "184640": {
     "OriginalText": "トアス・ヒュブオン",
@@ -788,72 +788,72 @@
   "184710": {
     "OriginalText": "ゴルドス",
     "Text": "Gordes",
-	"Enabled": true
+    "Enabled": true
   },
   "184720": {
     "OriginalText": "ディゴルドス",
     "Text": "Digordes",
-	"Enabled": true
+    "Enabled": true
   },
   "184730": {
     "OriginalText": "オルゴルドス",
     "Text": "Orgordes",
-	"Enabled": true
+    "Enabled": true
   },
   "184740": {
     "OriginalText": "ゴルドス・ビガオ",
     "Text": "Gordes Bigaoh",
-	"Enabled": true
+    "Enabled": true
   },
   "184810": {
     "OriginalText": "ファンアフォル",
     "Text": "Fan'aphol",
-	"Enabled": true
+    "Enabled": true
   },
   "184820": {
     "OriginalText": "ウィルアフォル",
     "Text": "Viluaphol",
-	"Enabled": true
+    "Enabled": true
   },
   "184830": {
     "OriginalText": "アフォル・フェイズ",
     "Text": "Aphol Phase",
-	"Enabled": true
+    "Enabled": true
   },
   "184910": {
     "OriginalText": "アグリオス",
     "Text": "Agrious",
-	"Enabled": true
+    "Enabled": true
   },
   "184911": {
     "OriginalText": "アグリオスP型",
     "Text": "Agrious P-Type",
-	"Enabled": true
+    "Enabled": true
   },
   "184912": {
     "OriginalText": "アグリオスS型",
     "Text": "Agrious S-Type",
-	"Enabled": true
+    "Enabled": true
   },
   "184920": {
     "OriginalText": "グレイオス",
     "Text": "Grayous",
-	"Enabled": true
+    "Enabled": true
   },
   "184921": {
     "OriginalText": "グレイオスS型",
     "Text": "Grayous S-Type",
-	"Enabled": true
+    "Enabled": true
   },
   "184930": {
     "OriginalText": "アルテイオス",
     "Text": "Altayous",
-	"Enabled": true
+    "Enabled": true
   },
   "185000": {
     "OriginalText": "最弱点",
     "Text": "Weakest Point",
-	"Enabled": true
+    "Enabled": true
   },
   "185010": {
     "OriginalText": "エウリュード",
@@ -942,7 +942,7 @@
   "185220": {
     "OriginalText": "デェフキュオネ",
     "Text": "Defcyone",
-	"Enabled": true
+    "Enabled": true
   },
   "185310": {
     "OriginalText": "リ・ゲンテ",
