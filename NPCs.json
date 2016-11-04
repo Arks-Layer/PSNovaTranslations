@@ -76,48 +76,48 @@
   },
   "30019": {
     "OriginalText": "？？？",
-    "Text": "???",
-    "Enabled": true
+    "Text": "",
+    "Enabled": false
   },
   "30020": {
     "OriginalText": "一同",
-    "Text": "Everyone",
-    "Enabled": true
+    "Text": "",
+    "Enabled": false
   },
   "30022": {
     "OriginalText": "ルティナ＆セイル",
-    "Text": "Lutina & Sail",
-    "Enabled": true
+    "Text": "",
+    "Enabled": false
   },
   "30030": {
     "OriginalText": "ガーネット",
-    "Text": "Garnet",
-    "Enabled": true
+    "Text": "",
+    "Enabled": false
   },
   "30031": {
     "OriginalText": "サンシャウト",
-    "Text": "Sanshaut",
-    "Enabled": true
+    "Text": "",
+    "Enabled": false
   },
   "30032": {
     "OriginalText": "グラバー",
-    "Text": "Glover",
-    "Enabled": true
+    "Text": "",
+    "Enabled": false
   },
   "30033": {
     "OriginalText": "コウエン",
-    "Text": "Kouen",
-    "Enabled": true
+    "Text": "",
+    "Enabled": false
   },
   "30034": {
     "OriginalText": "ズック",
-    "Text": "Zukk",
-    "Enabled": true
+    "Text": "",
+    "Enabled": false
   },
   "30050": {
     "OriginalText": "ブリッジクルー",
-    "Text": "Bridge Crew",
-    "Enabled": true
+    "Text": "",
+    "Enabled": false
   },
   "30051": {
     "OriginalText": "先遣隊員",
@@ -126,48 +126,48 @@
   },
   "30052": {
     "OriginalText": "男兵土Ａ",
-    "Text": "Male Solider A",
-    "Enabled": true
+    "Text": "",
+    "Enabled": false
   },
   "30053": {
     "OriginalText": "男兵土Ｂ",
-    "Text": "Male Solider B",
-    "Enabled": true
+    "Text": "",
+    "Enabled": false
   },
   "30054": {
     "OriginalText": "男兵土Ｃ",
-    "Text": "Male Solider C",
-    "Enabled": true
+    "Text": "",
+    "Enabled": false
   },
   "30055": {
     "OriginalText": "男兵土Ｄ",
-    "Text": "Male Solider D",
-    "Enabled": true
+    "Text": "",
+    "Enabled": false
   },
   "30056": {
     "OriginalText": "男兵土Ｅ",
-    "Text": "Male Solider E",
-    "Enabled": true
+    "Text": "",
+    "Enabled": false
   },
   "30057": {
     "OriginalText": "女兵土Ａ",
-    "Text": "Female Solider A",
-    "Enabled": true
+    "Text": "",
+    "Enabled": false
   },
   "30058": {
     "OriginalText": "女兵土Ｂ",
-    "Text": "Female Solider B",
-    "Enabled": true
+    "Text": "",
+    "Enabled": false
   },
   "30059": {
     "OriginalText": "古代人の意志",
-    "Text": "Ancient's Will",
-    "Enabled": true
+    "Text": "",
+    "Enabled": false
   },
   "30060": {
     "OriginalText": "ノヴァ",
-    "Text": "Nova",
-    "Enabled": true
+    "Text": "",
+    "Enabled": false
   },
   "30061": {
     "OriginalText": "通信土",
@@ -176,8 +176,8 @@
   },
   "35166": {
     "OriginalText": "リョーマ",
-    "Text": "Ryoma",
-    "Enabled": true
+    "Text": "",
+    "Enabled": false
   },
   "35167": {
     "OriginalText": "イルゲート",
@@ -186,8 +186,8 @@
   },
   "35168": {
     "OriginalText": "ブラック",
-    "Text": "Black",
-    "Enabled": true
+    "Text": "",
+    "Enabled": false
   },
   "35169": {
     "OriginalText": "ディーヴァス",
@@ -216,23 +216,23 @@
   },
   "35354": {
     "OriginalText": "ヴァルメン",
-    "Text": "Valmen",
-    "Enabled": true
+    "Text": "",
+    "Enabled": false
   },
   "35499": {
     "OriginalText": "デスマスク",
-    "Text": "Death Mask",
-    "Enabled": true
+    "Text": "",
+    "Enabled": false
   },
   "35500": {
     "OriginalText": "セガエイギョーマン",
-    "Text": "Sega Eigyo Man",
-    "Enabled": true
+    "Text": "",
+    "Enabled": false
   },
   "35501": {
     "OriginalText": "３Ｚー１０３",
-    "Text": "3Z-103",
-    "Enabled": true
+    "Text": "",
+    "Enabled": false
   },
   "35502": {
     "OriginalText": "ハルライン",
@@ -256,13 +256,13 @@
   },
   "35665": {
     "OriginalText": "ファティ",
-    "Text": "Fati",
-    "Enabled": true
+    "Text": "",
+    "Enabled": false
   },
   "35666": {
     "OriginalText": "キャサリン",
-    "Text": "Catherine",
-    "Enabled": true
+    "Text": "",
+    "Enabled": false
   },
   "35667": {
     "OriginalText": "ルーティ",
@@ -276,28 +276,28 @@
   },
   "35669": {
     "OriginalText": "リーア",
-    "Text": "Ria",
-    "Enabled": true
+    "Text": "",
+    "Enabled": false
   },
   "35850": {
     "OriginalText": "でんげきエレナ",
-    "Text": "Dengeki Erena",
-    "Enabled": true
+    "Text": "",
+    "Enabled": false
   },
   "35851": {
     "OriginalText": "でんげきのおねえさん",
-    "Text": "Dengeki Sister",
-    "Enabled": true
+    "Text": "",
+    "Enabled": false
   },
   "35852": {
     "OriginalText": "ステラ",
-    "Text": "Stella",
-    "Enabled": true
+    "Text": "",
+    "Enabled": false
   },
   "35853": {
     "OriginalText": "セイナ",
-    "Text": "Seina",
-    "Enabled": true
+    "Text": "",
+    "Enabled": false
   },
   "35854": {
     "OriginalText": "ターシャ",
@@ -316,23 +316,23 @@
   },
   "35857": {
     "OriginalText": "サリュー",
-    "Text": "Salyu",
-    "Enabled": true
+    "Text": "",
+    "Enabled": false
   },
   "35858": {
     "OriginalText": "ネキコ",
-    "Text": "Nekiko",
-    "Enabled": true
+    "Text": "",
+    "Enabled": false
   },
   "35859": {
     "OriginalText": "ネキミ",
-    "Text": "Nekimi",
-    "Enabled": true
+    "Text": "",
+    "Enabled": false
   },
   "35999": {
     "OriginalText": "デンゲキばず～こ",
-    "Text": "Dengeki Bazooko",
-    "Enabled": true
+    "Text": "",
+    "Enabled": false
   },
   "36000": {
     "OriginalText": "スプリットコロナ",
