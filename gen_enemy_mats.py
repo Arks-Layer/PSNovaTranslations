@@ -46,13 +46,13 @@ def LoadEnemies(fname):
       "鳥":       "Bird"
    }
 
-   j = json.loads("{" + open(fname, "r").read()[:-2] + "}")
+   j = json.load(open(fname, "r"))
 
    for code in j:
    #{
       obj = j[code]
 
-      if "Text" in obj and "Enabled" in obj:
+      if "Text" in obj and "Enabled" in obj and obj["Enabled"]:
          ret[obj["OriginalText"]] = obj["Text"]
    #}
 
