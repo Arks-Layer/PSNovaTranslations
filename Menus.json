@@ -3936,8 +3936,8 @@
   },
   "25000": {
     "OriginalText": "村料とコアを倉庫に預ける",
-    "Text": "",
-    "Enabled": false
+    "Text": "Deposit All Mats and Cores",
+    "Enabled": true
   },
   "25001": {
     "OriginalText": "村料とコアを\n倉庫に預けました。",
