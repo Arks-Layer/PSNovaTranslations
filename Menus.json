@@ -91,7 +91,7 @@
   },
   "10719": {
     "OriginalText": "プレイ回数順",
-    "Text": "Number of uses",
+    "Text": "Number of Uses",
     "Enabled": true
   },
   "10801": {
@@ -206,7 +206,7 @@
   },
   "10823": {
     "OriginalText": "全ての武器",
-    "Text": "All weapons",
+    "Text": "All Weapons",
     "Enabled": true
   },
   "10901": {
@@ -466,7 +466,7 @@
   },
   "20103": {
     "OriginalText": "エクスキューブ作成",
-    "Text": "Excube created",
+    "Text": "Excube Created",
     "Enabled": true
   },
   "20104": {
@@ -526,7 +526,7 @@
   },
   "20115": {
     "OriginalText": "レベルアップしました。",
-    "Text": " leveled Up!",
+    "Text": " leveled up!",
     "Enabled": true
   },
   "20116": {
@@ -596,8 +596,8 @@
   },
   "20129": {
     "OriginalText": "フォース用エクスキューブ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Force Excube",
+    "Enabled": true
   },
   "20130": {
     "OriginalText": "マナ土用エクスキューブ",
@@ -621,7 +621,7 @@
   },
   "20134": {
     "OriginalText": "アイテムパックがいっぱいなので倉庫に預けました。",
-    "Text": "Inventory was full, so item(s) were sent to storage.",
+    "Text": "Inventory was full, so item(s)\nwere sent to storage.",
     "Enabled": true
   },
   "20135": {
@@ -681,7 +681,7 @@
   },
   "20206": {
     "OriginalText": "リストに戻る",
-    "Text": "Back to the list",
+    "Text": "Back to the List",
     "Enabled": true
   },
   "20207": {
@@ -1281,7 +1281,7 @@
   },
   "21010": {
     "OriginalText": "このクルーを配属します。\nよろしいですか？",
-    "Text": "Do you really want to\nassign this crew?",
+    "Text": "Do you want to\nassign this crew?",
     "Enabled": true
   },
   "21011": {
@@ -1816,12 +1816,12 @@
   },
   "21616": {
     "OriginalText": "必要個数",
-    "Text": "Necessary Number",
+    "Text": "Needed",
     "Enabled": true
   },
   "21617": {
     "OriginalText": "所持数",
-    "Text": "Number Posessed",
+    "Text": "Amount",
     "Enabled": true
   },
   "21618": {
@@ -2076,7 +2076,7 @@
   },
   "21719": {
     "OriginalText": "パーティーに入れる",
-    "Text": "Add To Party",
+    "Text": "Add to Party",
     "Enabled": true
   },
   "21720": {
@@ -2381,7 +2381,7 @@
   },
   "22005": {
     "OriginalText": "防具ショップ",
-    "Text": "Shield Unit Shop",
+    "Text": "Shield Shop",
     "Enabled": true
   },
   "22006": {
@@ -2476,7 +2476,7 @@
   },
   "22024": {
     "OriginalText": "ショップ効果 防具ショップ",
-    "Text": "Armor Shop Effect",
+    "Text": "Shield Shop Effect",
     "Enabled": true
   },
   "22025": {
@@ -2756,7 +2756,7 @@
   },
   "22144": {
     "OriginalText": "ログにグランリンクを表示",
-    "Text": "Display Gran Link to the log",
+    "Text": "Display Gran Link in the log",
     "Enabled": true
   },
   "22145": {
@@ -3021,7 +3021,7 @@
   },
   "22234": {
     "OriginalText": "必要人数",
-    "Text": "Necessary Number of People",
+    "Text": "People Needed",
     "Enabled": true
   },
   "22235": {
@@ -3286,7 +3286,7 @@
   },
   "22723": {
     "OriginalText": "」を達成した。",
-    "Text": "was achieved.",
+    "Text": "was completed.",
     "Enabled": true
   },
   "22724": {
@@ -3546,7 +3546,7 @@
   },
   "22775": {
     "OriginalText": "このDLCを受け取ります。\nよろしいですか？",
-    "Text": "Do you really want to\nreceive this DLC?",
+    "Text": "Are you sure you want to\nreceive this DLC?",
     "Enabled": true
   },
   "22776": {
@@ -3941,13 +3941,13 @@
   },
   "25001": {
     "OriginalText": "村料とコアを\n倉庫に預けました。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Materials and Cores were\ndeposited into storage.",
+    "Enabled": true
   },
   "25002": {
     "OriginalText": "倉庫がいっぱいです。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Storage is full.",
+    "Enabled": true
   },
   "25003": {
     "OriginalText": "ver.",
@@ -3971,13 +3971,13 @@
   },
   "25007": {
     "OriginalText": "手動",
-    "Text": "",
-    "Enabled": false
+    "Text": "Manual",
+    "Enabled": true
   },
   "25008": {
     "OriginalText": "自動",
-    "Text": "",
-    "Enabled": false
+    "Text": "Automatic",
+    "Enabled": true
   },
   "25009": {
     "OriginalText": "すぐに報告しますか？",
