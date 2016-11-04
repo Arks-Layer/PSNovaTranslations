@@ -1,7 +1,7 @@
 {
   "740001": {
     "OriginalText": "施設効果0000",
-    "Text": "",
+    "Text": "Field Effects",
     "Enabled": false
   },
   "745001": {
@@ -146,17 +146,17 @@
   },
   "745029": {
     "OriginalText": "確率でリアクション無効",
-    "Text": "",
-    "Enabled": false
+    "Text": "Chance of Nillified Knockback",
+    "Enabled": true
   },
   "745030": {
     "OriginalText": "確率でダメージ無効",
-    "Text": "",
+    "Text": "Chance of Nullified Damage",
     "Enabled": false
   },
   "745031": {
     "OriginalText": "アイテム回復量 ＋５％",
-    "Text": "Heal Item Yield +5%",
+    "Text": "Heal Item Boost +5%",
     "Enabled": true
   },
   "745032": {
@@ -216,8 +216,8 @@
   },
   "745043": {
     "OriginalText": "確率でダメージアップ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Chance of Damage Up",
+    "Enabled": true
   },
   "745044": {
     "OriginalText": "状態異常耐性アップ",
@@ -226,22 +226,22 @@
   },
   "745045": {
     "OriginalText": "攻撃力＋１５％",
-    "Text": "",
-    "Enabled": false
+    "Text": "Attack Power Up +15%",
+    "Enabled": true
   },
   "745046": {
     "OriginalText": "防御力＋１５％",
-    "Text": "",
-    "Enabled": false
+    "Text": "Defense Up +15%",
+    "Enabled": true
   },
   "745047": {
     "OriginalText": "バーストゲージ上昇率アップ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Burst Gauge Accumilation Up",
+    "Enabled": true
   },
   "745048": {
     "OriginalText": "バーストゲージ上昇率アップ（小）",
-    "Text": "",
-    "Enabled": false
+    "Text": "Burst Gauge Accumilation Up (s)",
+    "Enabled": true
   }
 }
