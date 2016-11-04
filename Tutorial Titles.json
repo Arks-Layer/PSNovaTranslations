@@ -1,0 +1,477 @@
+{
+  "770000": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "770001": {
+    "OriginalText": "『移動とカメラ燥作』",
+    "Text": "[Moving and camera usage]",
+    "Enabled": true
+  },
+  "770002": {
+    "OriginalText": "『ハンターとレンジャーの攻撃』",
+    "Text": "[Attacking as a Hunter/Ranger]",
+    "Enabled": true
+  },
+  "770003": {
+    "OriginalText": "『ハンターの回避』",
+    "Text": "[Dodging as a Hunter]",
+    "Enabled": true
+  },
+  "770004": {
+    "OriginalText": "『ジャストアタックとサブパレット』",
+    "Text": "[Just attacks and subpallete]",
+    "Enabled": true
+  },
+  "770005": {
+    "OriginalText": "『武器切り替えとロックオン』",
+    "Text": "[Weapon switching and lock-on]",
+    "Enabled": true
+  },
+  "770006": {
+    "OriginalText": "『グランアーツ』",
+    "Text": "[Gran Arts]",
+    "Enabled": true
+  },
+  "770007": {
+    "OriginalText": "『テクニック』",
+    "Text": "[Techniques]",
+    "Enabled": true
+  },
+  "770008": {
+    "OriginalText": "『チェインとグランバースト』",
+    "Text": "",
+    "Enabled": false
+  },
+  "770009": {
+    "OriginalText": "『戦闘不能』",
+    "Text": "",
+    "Enabled": false
+  },
+  "770010": {
+    "OriginalText": "『状態異常』",
+    "Text": "",
+    "Enabled": false
+  },
+  "770011": {
+    "OriginalText": "『グランリンク』",
+    "Text": "",
+    "Enabled": false
+  },
+  "770012": {
+    "OriginalText": "『攻撃について』",
+    "Text": "",
+    "Enabled": false
+  },
+  "770013": {
+    "OriginalText": "『ステップアタック』",
+    "Text": "",
+    "Enabled": false
+  },
+  "770014": {
+    "OriginalText": "『ジャストガード』",
+    "Text": "",
+    "Enabled": false
+  },
+  "770015": {
+    "OriginalText": "『ハンター』",
+    "Text": "",
+    "Enabled": false
+  },
+  "770016": {
+    "OriginalText": "『レンジャー』",
+    "Text": "",
+    "Enabled": false
+  },
+  "770017": {
+    "OriginalText": "『フォース』",
+    "Text": "",
+    "Enabled": false
+  },
+  "770018": {
+    "OriginalText": "『バスター』",
+    "Text": "",
+    "Enabled": false
+  },
+  "770019": {
+    "OriginalText": "『バスター』",
+    "Text": "",
+    "Enabled": false
+  },
+  "770020": {
+    "OriginalText": "『ムービングショット』",
+    "Text": "",
+    "Enabled": false
+  },
+  "770021": {
+    "OriginalText": "『ヘイロウ』",
+    "Text": "",
+    "Enabled": false
+  },
+  "770022": {
+    "OriginalText": "『リングフィールド』",
+    "Text": "",
+    "Enabled": false
+  },
+  "770023": {
+    "OriginalText": "『パイルとバスター』",
+    "Text": "",
+    "Enabled": false
+  },
+  "770024": {
+    "OriginalText": "『ブーストエネミー』",
+    "Text": "",
+    "Enabled": false
+  },
+  "770025": {
+    "OriginalText": "『レアエネミー』",
+    "Text": "",
+    "Enabled": false
+  },
+  "770026": {
+    "OriginalText": "『部位破壊』",
+    "Text": "",
+    "Enabled": false
+  },
+  "770027": {
+    "OriginalText": "『設定とヘルプ』",
+    "Text": "",
+    "Enabled": false
+  },
+  "770028": {
+    "OriginalText": "『マルチプレイとゲストクルー』",
+    "Text": "",
+    "Enabled": false
+  },
+  "770029": {
+    "OriginalText": "『クエストの受け方』",
+    "Text": "",
+    "Enabled": false
+  },
+  "770030": {
+    "OriginalText": "『スキルボード』",
+    "Text": "",
+    "Enabled": false
+  },
+  "770031": {
+    "OriginalText": "『スキルボードの拡張と切替』",
+    "Text": "",
+    "Enabled": false
+  },
+  "770032": {
+    "OriginalText": "『コールドスリープからの解凍』",
+    "Text": "",
+    "Enabled": false
+  },
+  "770033": {
+    "OriginalText": "『施設の開発』",
+    "Text": "",
+    "Enabled": false
+  },
+  "770034": {
+    "OriginalText": "『施設の配置と移動』",
+    "Text": "",
+    "Enabled": false
+  },
+  "770035": {
+    "OriginalText": "『クルーの配属』",
+    "Text": "",
+    "Enabled": false
+  },
+  "770036": {
+    "OriginalText": "『クラスカウンター』",
+    "Text": "",
+    "Enabled": false
+  },
+  "770037": {
+    "OriginalText": "『食堂』",
+    "Text": "",
+    "Enabled": false
+  },
+  "770038": {
+    "OriginalText": "『武器ショップ』",
+    "Text": "",
+    "Enabled": false
+  },
+  "770039": {
+    "OriginalText": "『アタッチパーツ』",
+    "Text": "",
+    "Enabled": false
+  },
+  "770040": {
+    "OriginalText": "『武器カスタマイズ』",
+    "Text": "",
+    "Enabled": false
+  },
+  "770041": {
+    "OriginalText": "『防具ショップ』",
+    "Text": "",
+    "Enabled": false
+  },
+  "770042": {
+    "OriginalText": "『アイテムショップ』",
+    "Text": "",
+    "Enabled": false
+  },
+  "770043": {
+    "OriginalText": "『コスチュームショップ』",
+    "Text": "",
+    "Enabled": false
+  },
+  "770044": {
+    "OriginalText": "『エステ』",
+    "Text": "",
+    "Enabled": false
+  },
+  "770045": {
+    "OriginalText": "『スタイル』",
+    "Text": "",
+    "Enabled": false
+  },
+  "770046": {
+    "OriginalText": "『特微』",
+    "Text": "",
+    "Enabled": false
+  },
+  "770047": {
+    "OriginalText": "『倉庫と一時倉庫』",
+    "Text": "",
+    "Enabled": false
+  },
+  "770048": {
+    "OriginalText": "『メインメニュー』",
+    "Text": "",
+    "Enabled": false
+  },
+  "770049": {
+    "OriginalText": "『プロミスオーダー』",
+    "Text": "",
+    "Enabled": false
+  },
+  "770050": {
+    "OriginalText": "フィルディアの依頼",
+    "Text": "",
+    "Enabled": false
+  },
+  "770051": {
+    "OriginalText": "グランド・アクトⅡ開始！！",
+    "Text": "",
+    "Enabled": false
+  },
+  "770052": {
+    "OriginalText": "『グランブースター』",
+    "Text": "",
+    "Enabled": false
+  },
+  "770053": {
+    "OriginalText": "『アイテム探知伝置』",
+    "Text": "",
+    "Enabled": false
+  },
+  "770054": {
+    "OriginalText": "『エネミーレーダー』",
+    "Text": "",
+    "Enabled": false
+  },
+  "770055": {
+    "OriginalText": "『バースト加速伝置』",
+    "Text": "",
+    "Enabled": false
+  },
+  "770056": {
+    "OriginalText": "『探索隊』",
+    "Text": "",
+    "Enabled": false
+  },
+  "770057": {
+    "OriginalText": "『ギガンテス捕獲所』",
+    "Text": "",
+    "Enabled": false
+  },
+  "770058": {
+    "OriginalText": "『シアタースコープ』",
+    "Text": "",
+    "Enabled": false
+  },
+  "770059": {
+    "OriginalText": "クラスカウンターへ",
+    "Text": "",
+    "Enabled": false
+  },
+  "770060": {
+    "OriginalText": "新しい任務",
+    "Text": "",
+    "Enabled": false
+  },
+  "770061": {
+    "OriginalText": "上層の開放",
+    "Text": "",
+    "Enabled": false
+  },
+  "770062": {
+    "OriginalText": "下層の開放",
+    "Text": "",
+    "Enabled": false
+  },
+  "770063": {
+    "OriginalText": "フィルディアの元へ",
+    "Text": "",
+    "Enabled": false
+  },
+  "770064": {
+    "OriginalText": "レイヴァンの助手の元へ",
+    "Text": "",
+    "Enabled": false
+  },
+  "770065": {
+    "OriginalText": "クエストゲートへ",
+    "Text": "",
+    "Enabled": false
+  },
+  "770066": {
+    "OriginalText": "コールドスリープルームへ",
+    "Text": "",
+    "Enabled": false
+  },
+  "770067": {
+    "OriginalText": "マルチプレイルームへ",
+    "Text": "",
+    "Enabled": false
+  },
+  "770068": {
+    "OriginalText": "新しい世界へ",
+    "Text": "",
+    "Enabled": false
+  },
+  "770069": {
+    "OriginalText": "インフォメーション",
+    "Text": "",
+    "Enabled": false
+  },
+  "770070": {
+    "OriginalText": "『グラン』",
+    "Text": "",
+    "Enabled": false
+  },
+  "770071": {
+    "OriginalText": "『戦闘演習２：テクニック』",
+    "Text": "",
+    "Enabled": false
+  },
+  "770072": {
+    "OriginalText": "『戦闘演習３：ガード』",
+    "Text": "",
+    "Enabled": false
+  },
+  "770073": {
+    "OriginalText": "ＰＳＯ２連動特典解放",
+    "Text": "",
+    "Enabled": false
+  },
+  "770074": {
+    "OriginalText": "『クエストインフォメーション』",
+    "Text": "",
+    "Enabled": false
+  },
+  "770075": {
+    "OriginalText": "『フォースの攻撃』",
+    "Text": "",
+    "Enabled": false
+  },
+  "770076": {
+    "OriginalText": "『レンジャーの回避』",
+    "Text": "",
+    "Enabled": false
+  },
+  "770077": {
+    "OriginalText": "『フォースの回避』",
+    "Text": "",
+    "Enabled": false
+  },
+  "770078": {
+    "OriginalText": "ＰＳＯ２連動特典追加",
+    "Text": "",
+    "Enabled": false
+  },
+  "770079": {
+    "OriginalText": "『回避と防御について』",
+    "Text": "",
+    "Enabled": false
+  },
+  "770080": {
+    "OriginalText": "難易度ハード",
+    "Text": "",
+    "Enabled": false
+  },
+  "770081": {
+    "OriginalText": "難易度ベリーハード",
+    "Text": "",
+    "Enabled": false
+  },
+  "770082": {
+    "OriginalText": "グランド・アクトⅠ開始！！",
+    "Text": "",
+    "Enabled": false
+  },
+  "770083": {
+    "OriginalText": "ver.1.01アップデート！",
+    "Text": "",
+    "Enabled": false
+  },
+  "770084": {
+    "OriginalText": "ver.1.02アップデート！",
+    "Text": "",
+    "Enabled": false
+  },
+  "770085": {
+    "OriginalText": "ver.1.03アップデート！",
+    "Text": "",
+    "Enabled": false
+  },
+  "770086": {
+    "OriginalText": "ver.1.05アップデート！",
+    "Text": "",
+    "Enabled": false
+  },
+  "770087": {
+    "OriginalText": "『コア精錬所』",
+    "Text": "",
+    "Enabled": false
+  },
+  "770088": {
+    "OriginalText": "難易度スーパーハード",
+    "Text": "",
+    "Enabled": false
+  },
+  "770089": {
+    "OriginalText": "難易度エクストラハード",
+    "Text": "",
+    "Enabled": false
+  },
+  "770090": {
+    "OriginalText": "『武器エクステンド』",
+    "Text": "",
+    "Enabled": false
+  },
+  "770091": {
+    "OriginalText": "『再キャラクタークリエイト』",
+    "Text": "",
+    "Enabled": false
+  },
+  "770092": {
+    "OriginalText": "ver.1.05アップデート！ その１",
+    "Text": "",
+    "Enabled": false
+  },
+  "770093": {
+    "OriginalText": "ver.1.05アップデート！ その２",
+    "Text": "",
+    "Enabled": false
+  },
+  "770094": {
+    "OriginalText": "予備",
+    "Text": "",
+    "Enabled": false
+  }
+}

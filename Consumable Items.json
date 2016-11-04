@@ -1,0 +1,92 @@
+{
+  "370000": {
+    "OriginalText": "なし",
+    "Text": "None",
+    "Enabled": true
+  },
+  "370001": {
+    "OriginalText": "モノメイト",
+    "Text": "Monomate",
+    "Enabled": true
+  },
+  "370002": {
+    "OriginalText": "ディメイト",
+    "Text": "Dimate",
+    "Enabled": true
+  },
+  "370003": {
+    "OriginalText": "トリメイト",
+    "Text": "Trimate",
+    "Enabled": true
+  },
+  "370004": {
+    "OriginalText": "ソルアトマイザー",
+    "Text": "Sol Atomizer",
+    "Enabled": true
+  },
+  "370005": {
+    "OriginalText": "ムーンアトマイザー",
+    "Text": "Moon Atomizer",
+    "Enabled": true
+  },
+  "370006": {
+    "OriginalText": "スターアトマイザー",
+    "Text": "Star Atomizer",
+    "Enabled": true
+  },
+  "370007": {
+    "OriginalText": "コスモアトマイザー",
+    "Text": "Cosmo Atomizer",
+    "Enabled": true
+  },
+  "370008": {
+    "OriginalText": "シフタライド",
+    "Text": "Shiftaride",
+    "Enabled": true
+  },
+  "370009": {
+    "OriginalText": "デバンライド",
+    "Text": "Debanride",
+    "Enabled": true
+  },
+  "370010": {
+    "OriginalText": "グランピース",
+    "Text": "",
+    "Enabled": false
+  },
+  "370011": {
+    "OriginalText": "グランピース(炎属性)",
+    "Text": "Gran Piece (Fire)",
+    "Enabled": true
+  },
+  "370012": {
+    "OriginalText": "グランピース(劇属性)",
+    "Text": "Gran Piece (Ice)",
+    "Enabled": true
+  },
+  "370013": {
+    "OriginalText": "グランピース(雷属性)",
+    "Text": "Gran Piece (Lightning)",
+    "Enabled": true
+  },
+  "370014": {
+    "OriginalText": "グランピース(風属性)",
+    "Text": "Gran Piece (Wind)",
+    "Enabled": true
+  },
+  "370015": {
+    "OriginalText": "グランピース(光属性)",
+    "Text": "Gran Piece (Light)",
+    "Enabled": true
+  },
+  "370016": {
+    "OriginalText": "グランピース(闇属性)",
+    "Text": "Gran Piece (Dark)",
+    "Enabled": true
+  },
+  "370017": {
+    "OriginalText": "リングジェネレーター",
+    "Text": "",
+    "Enabled": false
+  }
+}

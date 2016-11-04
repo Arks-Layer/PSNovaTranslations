@@ -1,0 +1,137 @@
+{
+  "540000": {
+    "OriginalText": "なし",
+    "Text": "None",
+    "Enabled": true
+  },
+  "540001": {
+    "OriginalText": "ジェネラリストクルー",
+    "Text": "",
+    "Enabled": false
+  },
+  "540002": {
+    "OriginalText": "ソルジャークルー",
+    "Text": "",
+    "Enabled": false
+  },
+  "540003": {
+    "OriginalText": "サポートクルー",
+    "Text": "",
+    "Enabled": false
+  },
+  "540004": {
+    "OriginalText": "ヒューマンクルー",
+    "Text": "",
+    "Enabled": false
+  },
+  "540005": {
+    "OriginalText": "ニューマンクルー",
+    "Text": "",
+    "Enabled": false
+  },
+  "540006": {
+    "OriginalText": "キャストクルー",
+    "Text": "",
+    "Enabled": false
+  },
+  "540007": {
+    "OriginalText": "ハンタークルー",
+    "Text": "",
+    "Enabled": false
+  },
+  "540008": {
+    "OriginalText": "レンジャークルー",
+    "Text": "",
+    "Enabled": false
+  },
+  "540009": {
+    "OriginalText": "フォースクルー",
+    "Text": "",
+    "Enabled": false
+  },
+  "540010": {
+    "OriginalText": "アイドルクルー",
+    "Text": "",
+    "Enabled": false
+  },
+  "540011": {
+    "OriginalText": "匠クルー",
+    "Text": "",
+    "Enabled": false
+  },
+  "540012": {
+    "OriginalText": "レジェンドクルー",
+    "Text": "",
+    "Enabled": false
+  },
+  "540013": {
+    "OriginalText": "PSO2クルー",
+    "Text": "",
+    "Enabled": false
+  },
+  "540014": {
+    "OriginalText": "セクションリーダークルー",
+    "Text": "",
+    "Enabled": false
+  },
+  "540015": {
+    "OriginalText": "[ruby]約束[/ruby]を繋ぐ者たち",
+    "Text": "",
+    "Enabled": false
+  },
+  "540016": {
+    "OriginalText": "DLCシリーズ",
+    "Text": "",
+    "Enabled": false
+  },
+  "540017": {
+    "OriginalText": "スペシャルシリーズ",
+    "Text": "",
+    "Enabled": false
+  },
+  "540018": {
+    "OriginalText": "DLCシリーズ03",
+    "Text": "",
+    "Enabled": false
+  },
+  "540019": {
+    "OriginalText": "DLCシリーズ04",
+    "Text": "",
+    "Enabled": false
+  },
+  "540020": {
+    "OriginalText": "DLCシリーズ05",
+    "Text": "",
+    "Enabled": false
+  },
+  "540021": {
+    "OriginalText": "DLCシリーズ06",
+    "Text": "",
+    "Enabled": false
+  },
+  "540022": {
+    "OriginalText": "DLCシリーズ07",
+    "Text": "",
+    "Enabled": false
+  },
+  "540023": {
+    "OriginalText": "DLCシリーズ08",
+    "Text": "",
+    "Enabled": false
+  },
+  "540024": {
+    "OriginalText": "DLCシリーズ09",
+    "Text": "",
+    "Enabled": false
+  },
+  "540025": {
+    "OriginalText": "ファントムクルー",
+    "Text": "",
+    "Enabled": false
+  },
+  "540026": {
+    "OriginalText": "ファイナルクルー",
+    "Text": "",
+    "Enabled": false
+  }
+}

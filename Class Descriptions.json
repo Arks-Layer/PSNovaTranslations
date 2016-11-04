@@ -1,0 +1,27 @@
+{
+  "660000": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "660001": {
+    "OriginalText": "近距離での戦闘に真価を発揮するクラス。\n高いHPと防御力を持ち、単独での戦闘能力に\n優れる。",
+    "Text": "A class that excels at close range.\nIt has high HP and defense, and\nexcels at solo combat.",
+    "Enabled": true
+  },
+  "660002": {
+    "OriginalText": "射撃武器による攻撃を主とし、中距離での\n戦闘を得意とするクラス。\n射撃に必要な能力が軒並み高く、精密な\n射撃での攻撃が可能。",
+    "Text": "Utilizes ranged weapons to fight at mid-range.\nHigh proficiency at all shooting abilities,\nincluding precision attacks.",
+    "Enabled": true
+  },
+  "660003": {
+    "OriginalText": "フォトンを用いたテクニックの使用に長けた\n遠距離戦闘向きのクラス。\n使用可能なテクニックは強力かつ多彩で\n法撃武器を用いることでさらに強化される。",
+    "Text": "Long-ranged combat class focused on techniques.\nPowerful and versitile, and can be strengthened\nby equipping a tech weapon.",
+    "Enabled": true
+  },
+  "660004": {
+    "OriginalText": "対ギガンテス戦を想定し創設された新クラス。\n打撃、射撃、法撃ともに汰等な能力を備え、\n特殊武器パイルを含む、あらゆる武器を\n伝備でき、ダイブロールによる回避が可能。",
+    "Text": "A new class developed to battle Gigantes.\nThey possess equal ability in all stats,\nand can equip all weapons including Piles.",
+    "Enabled": true
+  }
+}
