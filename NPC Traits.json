@@ -336,22 +336,22 @@
   },
   "520081": {
     "OriginalText": "戦闘タイプ:攻撃",
-    "Text": "Combat Type: Offense",
+    "Text": "Role: Offense",
     "Enabled": true
   },
   "520082": {
     "OriginalText": "戦闘タイプ:支援",
-    "Text": "Combat Type: Support",
+    "Text": "Role: Support",
     "Enabled": true
   },
   "520083": {
     "OriginalText": "戦闘タイプ:攻撃+回復",
-    "Text": "Combat Type: Offense+Protection",
+    "Text": "Role: Offense+Recovery",
     "Enabled": true
   },
   "520084": {
     "OriginalText": "戦闘タイプ:支援+回復",
-    "Text": "Combat Type: Support+Protection",
+    "Text": "Role: Support+Recovery",
     "Enabled": true
   },
   "520085": {
