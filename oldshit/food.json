@@ -1,8 +1,6 @@
-{
   "550000": {
     "OriginalText": "//",
-    "Text": "",
-    "Enabled": false
+    "Text": ""
   },
   "550001": {
     "OriginalText": "水",
@@ -20,7 +18,7 @@
     "Enabled": true
   },
   "550004": {
-    "OriginalText": "生鑑いたまご焼き",
+    "OriginalText": "生臭いたまご焼き",
     "Text": "Fishy Rolled Omelet",
     "Enabled": true
   },
@@ -45,7 +43,7 @@
     "Enabled": true
   },
   "550009": {
-    "OriginalText": "派手な産鮮丼",
+    "OriginalText": "派手な海鮮丼",
     "Text": "Extravagant Seafood Donburi",
     "Enabled": true
   },
@@ -100,7 +98,7 @@
     "Enabled": true
   },
   "550020": {
-    "OriginalText": "祭の地獄焼き",
+    "OriginalText": "貝の地獄焼き",
     "Text": "Fried Shellfish",
     "Enabled": true
   },
@@ -195,7 +193,7 @@
     "Enabled": true
   },
   "550039": {
-    "OriginalText": "ギガ産鮮丼・特盛り",
+    "OriginalText": "ギガ海鮮丼・特盛り",
     "Text": "Giga Seafood Bowl・Extra Large Portion",
     "Enabled": true
   },
@@ -206,37 +204,5 @@
   },
   "550041": {
     "OriginalText": "",
-    "Text": "",
-    "Enabled": false
+    "Text": ""
   },
-  "550042": {
-    "OriginalText": "究冷の珍味盛り合わせ",
-    "Text": "",
-    "Enabled": false
-  },
-  "550043": {
-    "OriginalText": "究冷の融降り肉ステーキ",
-    "Text": "",
-    "Enabled": false
-  },
-  "550044": {
-    "OriginalText": "究冷の最高級魚介炒め",
-    "Text": "",
-    "Enabled": false
-  },
-  "550045": {
-    "OriginalText": "ダーカーの節スパイス炒め",
-    "Text": "",
-    "Enabled": false
-  },
-  "550046": {
-    "OriginalText": "スパイシー氷やしトマト",
-    "Text": "",
-    "Enabled": false
-  },
-  "550047": {
-    "OriginalText": "木の実のスパイスがけ",
-    "Text": "",
-    "Enabled": false
-  }
-}

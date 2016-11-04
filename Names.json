@@ -1,0 +1,2772 @@
+{
+  "750000": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "750001": {
+    "OriginalText": "出演",
+    "Text": "",
+    "Enabled": false
+  },
+  "750002": {
+    "OriginalText": "ルティナ",
+    "Text": "Lutina",
+    "Enabled": true
+  },
+  "750003": {
+    "OriginalText": "内田 真礼",
+    "Text": "",
+    "Enabled": false
+  },
+  "750004": {
+    "OriginalText": "セイル",
+    "Text": "Sail",
+    "Enabled": true
+  },
+  "750005": {
+    "OriginalText": "松岡 禎丞",
+    "Text": "",
+    "Enabled": false
+  },
+  "750006": {
+    "OriginalText": "イズナ",
+    "Text": "Izuna",
+    "Enabled": true
+  },
+  "750007": {
+    "OriginalText": "茅野 愛衣",
+    "Text": "",
+    "Enabled": false
+  },
+  "750008": {
+    "OriginalText": "フィルディア",
+    "Text": "Fildia",
+    "Enabled": true
+  },
+  "750009": {
+    "OriginalText": "沢錯 みゆき",
+    "Text": "",
+    "Enabled": false
+  },
+  "750010": {
+    "OriginalText": "ユノ",
+    "Text": "Juno",
+    "Enabled": true
+  },
+  "750011": {
+    "OriginalText": "早見 闊織",
+    "Text": "",
+    "Enabled": false
+  },
+  "750012": {
+    "OriginalText": "レイヴァン",
+    "Text": "Raven",
+    "Enabled": true
+  },
+  "750013": {
+    "OriginalText": "弔川 大輔",
+    "Text": "",
+    "Enabled": false
+  },
+  "750014": {
+    "OriginalText": "マグナス",
+    "Text": "Magnas",
+    "Enabled": true
+  },
+  "750015": {
+    "OriginalText": "銀河 万丈",
+    "Text": "",
+    "Enabled": false
+  },
+  "750016": {
+    "OriginalText": "キサラ",
+    "Text": "Kisara",
+    "Enabled": true
+  },
+  "750017": {
+    "OriginalText": "斎藤 千和",
+    "Text": "",
+    "Enabled": false
+  },
+  "750018": {
+    "OriginalText": "リーティア",
+    "Text": "Rietheia",
+    "Enabled": true
+  },
+  "750019": {
+    "OriginalText": "福圓 美里",
+    "Text": "",
+    "Enabled": false
+  },
+  "750020": {
+    "OriginalText": "シャロン",
+    "Text": "Sharon",
+    "Enabled": true
+  },
+  "750021": {
+    "OriginalText": "伊藤 かな恵",
+    "Text": "",
+    "Enabled": false
+  },
+  "750022": {
+    "OriginalText": "カリスト",
+    "Text": "",
+    "Enabled": false
+  },
+  "750023": {
+    "OriginalText": "神谷 浩史",
+    "Text": "",
+    "Enabled": false
+  },
+  "750024": {
+    "OriginalText": "ヨミ",
+    "Text": "Yomi",
+    "Enabled": true
+  },
+  "750025": {
+    "OriginalText": "梶 裕貴",
+    "Text": "",
+    "Enabled": false
+  },
+  "750026": {
+    "OriginalText": "オルクス",
+    "Text": "Orcus",
+    "Enabled": true
+  },
+  "750027": {
+    "OriginalText": "大塚 明夫",
+    "Text": "",
+    "Enabled": false
+  },
+  "750028": {
+    "OriginalText": "ヒュペリオン",
+    "Text": "Hyperion",
+    "Enabled": true
+  },
+  "750029": {
+    "OriginalText": "大塚 灸忠",
+    "Text": "",
+    "Enabled": false
+  },
+  "750030": {
+    "OriginalText": "赤羽根 健治",
+    "Text": "",
+    "Enabled": false
+  },
+  "750031": {
+    "OriginalText": "浅野 真澄",
+    "Text": "",
+    "Enabled": false
+  },
+  "750032": {
+    "OriginalText": "池水 通海",
+    "Text": "",
+    "Enabled": false
+  },
+  "750033": {
+    "OriginalText": "石塚 運昇",
+    "Text": "",
+    "Enabled": false
+  },
+  "750034": {
+    "OriginalText": "江川 臨生",
+    "Text": "",
+    "Enabled": false
+  },
+  "750035": {
+    "OriginalText": "岡本 寛志",
+    "Text": "",
+    "Enabled": false
+  },
+  "750036": {
+    "OriginalText": "置鮎 模太郎",
+    "Text": "",
+    "Enabled": false
+  },
+  "750037": {
+    "OriginalText": "神田 朱未",
+    "Text": "",
+    "Enabled": false
+  },
+  "750038": {
+    "OriginalText": "桑島 法子",
+    "Text": "",
+    "Enabled": false
+  },
+  "750039": {
+    "OriginalText": "小松 由佳",
+    "Text": "",
+    "Enabled": false
+  },
+  "750040": {
+    "OriginalText": "斉藤 佑圭",
+    "Text": "",
+    "Enabled": false
+  },
+  "750041": {
+    "OriginalText": "阪 脩",
+    "Text": "",
+    "Enabled": false
+  },
+  "750042": {
+    "OriginalText": "阪口 大助",
+    "Text": "",
+    "Enabled": false
+  },
+  "750043": {
+    "OriginalText": "佐々木 智代",
+    "Text": "",
+    "Enabled": false
+  },
+  "750044": {
+    "OriginalText": "佐藤 聡美",
+    "Text": "",
+    "Enabled": false
+  },
+  "750045": {
+    "OriginalText": "島崎 信長",
+    "Text": "",
+    "Enabled": false
+  },
+  "750046": {
+    "OriginalText": "庄司 宇芽香",
+    "Text": "",
+    "Enabled": false
+  },
+  "750047": {
+    "OriginalText": "白石 醸子",
+    "Text": "",
+    "Enabled": false
+  },
+  "750048": {
+    "OriginalText": "進藤 尚美",
+    "Text": "",
+    "Enabled": false
+  },
+  "750049": {
+    "OriginalText": "高塚 正也",
+    "Text": "",
+    "Enabled": false
+  },
+  "750050": {
+    "OriginalText": "爬田 美波",
+    "Text": "",
+    "Enabled": false
+  },
+  "750051": {
+    "OriginalText": "中井 和哉",
+    "Text": "",
+    "Enabled": false
+  },
+  "750052": {
+    "OriginalText": "野島 健児",
+    "Text": "",
+    "Enabled": false
+  },
+  "750053": {
+    "OriginalText": "野沢 雅子",
+    "Text": "",
+    "Enabled": false
+  },
+  "750054": {
+    "OriginalText": "前田 愛",
+    "Text": "",
+    "Enabled": false
+  },
+  "750055": {
+    "OriginalText": "三上 袋織",
+    "Text": "",
+    "Enabled": false
+  },
+  "750056": {
+    "OriginalText": "宮坂 俊蔵",
+    "Text": "",
+    "Enabled": false
+  },
+  "750057": {
+    "OriginalText": "レニー・ハート",
+    "Text": "",
+    "Enabled": false
+  },
+  "750058": {
+    "OriginalText": "リーンベル",
+    "Text": "",
+    "Enabled": false
+  },
+  "750059": {
+    "OriginalText": "遠藤 綾",
+    "Text": "",
+    "Enabled": false
+  },
+  "751001": {
+    "OriginalText": "ゲーム制作",
+    "Text": "",
+    "Enabled": false
+  },
+  "751002": {
+    "OriginalText": "株式会社 セガ",
+    "Text": "",
+    "Enabled": false
+  },
+  "751003": {
+    "OriginalText": "プロデューサー",
+    "Text": "",
+    "Enabled": false
+  },
+  "751004": {
+    "OriginalText": "都築 靖之",
+    "Text": "",
+    "Enabled": false
+  },
+  "751005": {
+    "OriginalText": "ディレクター",
+    "Text": "",
+    "Enabled": false
+  },
+  "751006": {
+    "OriginalText": "山下 浩平",
+    "Text": "",
+    "Enabled": false
+  },
+  "751007": {
+    "OriginalText": "アート監修",
+    "Text": "",
+    "Enabled": false
+  },
+  "751008": {
+    "OriginalText": "伊藤 俊博",
+    "Text": "",
+    "Enabled": false
+  },
+  "751009": {
+    "OriginalText": "コンセプトデザイン",
+    "Text": "",
+    "Enabled": false
+  },
+  "751010": {
+    "OriginalText": "田林 大輔",
+    "Text": "",
+    "Enabled": false
+  },
+  "751011": {
+    "OriginalText": "３Ｄ背景モデル",
+    "Text": "",
+    "Enabled": false
+  },
+  "751012": {
+    "OriginalText": "奥田 昌子",
+    "Text": "",
+    "Enabled": false
+  },
+  "751013": {
+    "OriginalText": "金澤 浩隆",
+    "Text": "",
+    "Enabled": false
+  },
+  "751014": {
+    "OriginalText": "深澤 和生",
+    "Text": "",
+    "Enabled": false
+  },
+  "751015": {
+    "OriginalText": "前田 幸成",
+    "Text": "",
+    "Enabled": false
+  },
+  "751016": {
+    "OriginalText": "嶋谷 将",
+    "Text": "",
+    "Enabled": false
+  },
+  "751017": {
+    "OriginalText": "甲斐 彰",
+    "Text": "",
+    "Enabled": false
+  },
+  "751018": {
+    "OriginalText": "プログラムマネジメント",
+    "Text": "",
+    "Enabled": false
+  },
+  "751019": {
+    "OriginalText": "鈴木 誠",
+    "Text": "",
+    "Enabled": false
+  },
+  "751020": {
+    "OriginalText": "プログラム",
+    "Text": "",
+    "Enabled": false
+  },
+  "751021": {
+    "OriginalText": "関谷 英明",
+    "Text": "",
+    "Enabled": false
+  },
+  "751022": {
+    "OriginalText": "丸山 晴",
+    "Text": "",
+    "Enabled": false
+  },
+  "751023": {
+    "OriginalText": "ロドリゲス オスカル",
+    "Text": "",
+    "Enabled": false
+  },
+  "751024": {
+    "OriginalText": "開発サポート",
+    "Text": "",
+    "Enabled": false
+  },
+  "751025": {
+    "OriginalText": "西野 陽",
+    "Text": "",
+    "Enabled": false
+  },
+  "751026": {
+    "OriginalText": "寺田 貴治",
+    "Text": "",
+    "Enabled": false
+  },
+  "751027": {
+    "OriginalText": "下里 陽一",
+    "Text": "",
+    "Enabled": false
+  },
+  "751028": {
+    "OriginalText": "円藤 義秋",
+    "Text": "",
+    "Enabled": false
+  },
+  "751029": {
+    "OriginalText": "山下 雅水",
+    "Text": "",
+    "Enabled": false
+  },
+  "751030": {
+    "OriginalText": "シリーズ監修 / 制作協力",
+    "Text": "",
+    "Enabled": false
+  },
+  "751031": {
+    "OriginalText": "「ファンタシースターオンライン２」 チーム",
+    "Text": "",
+    "Enabled": false
+  },
+  "751032": {
+    "OriginalText": "シリーズプロデューサー",
+    "Text": "",
+    "Enabled": false
+  },
+  "751033": {
+    "OriginalText": "酒井 智史",
+    "Text": "",
+    "Enabled": false
+  },
+  "751034": {
+    "OriginalText": "シリーズディレクター",
+    "Text": "",
+    "Enabled": false
+  },
+  "751035": {
+    "OriginalText": "木村 裕也",
+    "Text": "",
+    "Enabled": false
+  },
+  "751036": {
+    "OriginalText": "菅沼 裕",
+    "Text": "",
+    "Enabled": false
+  },
+  "751037": {
+    "OriginalText": "小林 孝充",
+    "Text": "",
+    "Enabled": false
+  },
+  "751038": {
+    "OriginalText": "宇野 醸平",
+    "Text": "",
+    "Enabled": false
+  },
+  "751039": {
+    "OriginalText": "濱崎 大輝",
+    "Text": "",
+    "Enabled": false
+  },
+  "751040": {
+    "OriginalText": "中山 雅晴",
+    "Text": "",
+    "Enabled": false
+  },
+  "751041": {
+    "OriginalText": "松波 進也",
+    "Text": "",
+    "Enabled": false
+  },
+  "751042": {
+    "OriginalText": "小林 秀聡",
+    "Text": "",
+    "Enabled": false
+  },
+  "751043": {
+    "OriginalText": "幸崎 達哉",
+    "Text": "",
+    "Enabled": false
+  },
+  "751044": {
+    "OriginalText": "古場 久雄",
+    "Text": "",
+    "Enabled": false
+  },
+  "751045": {
+    "OriginalText": "三宅 俊輔",
+    "Text": "",
+    "Enabled": false
+  },
+  "751046": {
+    "OriginalText": "大須賀 道明",
+    "Text": "",
+    "Enabled": false
+  },
+  "751047": {
+    "OriginalText": "鈴木 翔伍",
+    "Text": "",
+    "Enabled": false
+  },
+  "751048": {
+    "OriginalText": "(シリコンスタジオ 株式会社)",
+    "Text": "",
+    "Enabled": false
+  },
+  "752001": {
+    "OriginalText": "ゲーム開発・協力",
+    "Text": "",
+    "Enabled": false
+  },
+  "752002": {
+    "OriginalText": "株式会社 トライエース",
+    "Text": "",
+    "Enabled": false
+  },
+  "752003": {
+    "OriginalText": "シナリオ監修",
+    "Text": "",
+    "Enabled": false
+  },
+  "752004": {
+    "OriginalText": "則本 真樹",
+    "Text": "",
+    "Enabled": false
+  },
+  "752005": {
+    "OriginalText": "開発プロデューサー",
+    "Text": "",
+    "Enabled": false
+  },
+  "752006": {
+    "OriginalText": "田村 裕志",
+    "Text": "",
+    "Enabled": false
+  },
+  "752007": {
+    "OriginalText": "開発ディレクター",
+    "Text": "",
+    "Enabled": false
+  },
+  "752008": {
+    "OriginalText": "横山 修太郎",
+    "Text": "",
+    "Enabled": false
+  },
+  "752009": {
+    "OriginalText": "リードゲームデザイナー",
+    "Text": "",
+    "Enabled": false
+  },
+  "752010": {
+    "OriginalText": "白石 裕之",
+    "Text": "",
+    "Enabled": false
+  },
+  "752011": {
+    "OriginalText": "リードアーティスト",
+    "Text": "",
+    "Enabled": false
+  },
+  "752012": {
+    "OriginalText": "増田 幸紀",
+    "Text": "",
+    "Enabled": false
+  },
+  "752013": {
+    "OriginalText": "リードプログラマー",
+    "Text": "",
+    "Enabled": false
+  },
+  "752014": {
+    "OriginalText": "松木 修平",
+    "Text": "",
+    "Enabled": false
+  },
+  "752015": {
+    "OriginalText": "リードＲ＆Ｄプログラマー",
+    "Text": "",
+    "Enabled": false
+  },
+  "752016": {
+    "OriginalText": "五反田 義治",
+    "Text": "",
+    "Enabled": false
+  },
+  "752017": {
+    "OriginalText": "サウンドディレクター",
+    "Text": "",
+    "Enabled": false
+  },
+  "752018": {
+    "OriginalText": "志知 道彦",
+    "Text": "",
+    "Enabled": false
+  },
+  "752019": {
+    "OriginalText": "音楽",
+    "Text": "",
+    "Enabled": false
+  },
+  "752020": {
+    "OriginalText": "桜庭 統",
+    "Text": "",
+    "Enabled": false
+  },
+  "752021": {
+    "OriginalText": "ユーザーインターフェースアート",
+    "Text": "",
+    "Enabled": false
+  },
+  "752022": {
+    "OriginalText": "石野 達也",
+    "Text": "",
+    "Enabled": false
+  },
+  "752023": {
+    "OriginalText": "村上 愛",
+    "Text": "",
+    "Enabled": false
+  },
+  "752024": {
+    "OriginalText": "大嵩 倫礼",
+    "Text": "",
+    "Enabled": false
+  },
+  "752025": {
+    "OriginalText": "三浦 仁裕",
+    "Text": "",
+    "Enabled": false
+  },
+  "752026": {
+    "OriginalText": "３Ｄアニメーション",
+    "Text": "",
+    "Enabled": false
+  },
+  "752027": {
+    "OriginalText": "杉山 貴志",
+    "Text": "",
+    "Enabled": false
+  },
+  "752028": {
+    "OriginalText": "黒瀬 美樹",
+    "Text": "",
+    "Enabled": false
+  },
+  "752029": {
+    "OriginalText": "片木 由香",
+    "Text": "",
+    "Enabled": false
+  },
+  "752030": {
+    "OriginalText": "高田 紛",
+    "Text": "",
+    "Enabled": false
+  },
+  "752031": {
+    "OriginalText": "吉田 麻里子",
+    "Text": "",
+    "Enabled": false
+  },
+  "752032": {
+    "OriginalText": "３Ｄエフェクト",
+    "Text": "",
+    "Enabled": false
+  },
+  "752033": {
+    "OriginalText": "千葉 春輝",
+    "Text": "",
+    "Enabled": false
+  },
+  "752034": {
+    "OriginalText": "鳥酒 達郎",
+    "Text": "",
+    "Enabled": false
+  },
+  "752035": {
+    "OriginalText": "大西 弘人",
+    "Text": "",
+    "Enabled": false
+  },
+  "752036": {
+    "OriginalText": "鈴木 裕子",
+    "Text": "",
+    "Enabled": false
+  },
+  "752037": {
+    "OriginalText": "涼谷 泰彦",
+    "Text": "",
+    "Enabled": false
+  },
+  "752038": {
+    "OriginalText": "中野 弘章",
+    "Text": "",
+    "Enabled": false
+  },
+  "752039": {
+    "OriginalText": "佐藤 翔平",
+    "Text": "",
+    "Enabled": false
+  },
+  "752040": {
+    "OriginalText": "コンセプトデザイン・設定画",
+    "Text": "",
+    "Enabled": false
+  },
+  "752041": {
+    "OriginalText": "河本 理絵",
+    "Text": "",
+    "Enabled": false
+  },
+  "752042": {
+    "OriginalText": "頓所 弘毅",
+    "Text": "",
+    "Enabled": false
+  },
+  "752043": {
+    "OriginalText": "吉岡 久美子",
+    "Text": "",
+    "Enabled": false
+  },
+  "752044": {
+    "OriginalText": "キャラクターデザイン",
+    "Text": "",
+    "Enabled": false
+  },
+  "752045": {
+    "OriginalText": "渡辺 豊",
+    "Text": "",
+    "Enabled": false
+  },
+  "752046": {
+    "OriginalText": "３Ｄキャラクターモデル",
+    "Text": "",
+    "Enabled": false
+  },
+  "752047": {
+    "OriginalText": "金田 邦広",
+    "Text": "",
+    "Enabled": false
+  },
+  "752048": {
+    "OriginalText": "原 邦生臣",
+    "Text": "",
+    "Enabled": false
+  },
+  "752049": {
+    "OriginalText": "佐藤 智昭",
+    "Text": "",
+    "Enabled": false
+  },
+  "752050": {
+    "OriginalText": "木下 貴博",
+    "Text": "",
+    "Enabled": false
+  },
+  "752051": {
+    "OriginalText": "菰田 規之",
+    "Text": "",
+    "Enabled": false
+  },
+  "752052": {
+    "OriginalText": "３Ｄ背景モデル",
+    "Text": "",
+    "Enabled": false
+  },
+  "752053": {
+    "OriginalText": "濱田 直樹",
+    "Text": "",
+    "Enabled": false
+  },
+  "752054": {
+    "OriginalText": "遠藤 寛幸",
+    "Text": "",
+    "Enabled": false
+  },
+  "752055": {
+    "OriginalText": "小島 明子",
+    "Text": "",
+    "Enabled": false
+  },
+  "752056": {
+    "OriginalText": "荒谷 美雪",
+    "Text": "",
+    "Enabled": false
+  },
+  "752057": {
+    "OriginalText": "永井 一成",
+    "Text": "",
+    "Enabled": false
+  },
+  "752058": {
+    "OriginalText": "町田 篤宏",
+    "Text": "",
+    "Enabled": false
+  },
+  "752059": {
+    "OriginalText": "皆川 浩二",
+    "Text": "",
+    "Enabled": false
+  },
+  "752060": {
+    "OriginalText": "巻島 由佳",
+    "Text": "",
+    "Enabled": false
+  },
+  "752061": {
+    "OriginalText": "川端 重之",
+    "Text": "",
+    "Enabled": false
+  },
+  "752062": {
+    "OriginalText": "岡本 守弘",
+    "Text": "",
+    "Enabled": false
+  },
+  "752063": {
+    "OriginalText": "アート監修",
+    "Text": "",
+    "Enabled": false
+  },
+  "752064": {
+    "OriginalText": "金倉 傾一",
+    "Text": "",
+    "Enabled": false
+  },
+  "752065": {
+    "OriginalText": "カットシーン",
+    "Text": "",
+    "Enabled": false
+  },
+  "752066": {
+    "OriginalText": "重田 一樹",
+    "Text": "",
+    "Enabled": false
+  },
+  "752067": {
+    "OriginalText": "森 亮輔",
+    "Text": "",
+    "Enabled": false
+  },
+  "752068": {
+    "OriginalText": "大西 弘人",
+    "Text": "",
+    "Enabled": false
+  },
+  "752069": {
+    "OriginalText": "坂田 美紀",
+    "Text": "",
+    "Enabled": false
+  },
+  "752070": {
+    "OriginalText": "住岡 義和",
+    "Text": "",
+    "Enabled": false
+  },
+  "752071": {
+    "OriginalText": "プログラムマネジメント",
+    "Text": "",
+    "Enabled": false
+  },
+  "752072": {
+    "OriginalText": "吉田 稔",
+    "Text": "",
+    "Enabled": false
+  },
+  "752073": {
+    "OriginalText": "バトルプログラムユニット",
+    "Text": "",
+    "Enabled": false
+  },
+  "752074": {
+    "OriginalText": "冨山 彰之",
+    "Text": "",
+    "Enabled": false
+  },
+  "752075": {
+    "OriginalText": "高宮 裕太郎",
+    "Text": "",
+    "Enabled": false
+  },
+  "752076": {
+    "OriginalText": "宮田 陽一 ",
+    "Text": "",
+    "Enabled": false
+  },
+  "752077": {
+    "OriginalText": "産老沢 剛",
+    "Text": "",
+    "Enabled": false
+  },
+  "752078": {
+    "OriginalText": "ＵＩプログラムユニット",
+    "Text": "",
+    "Enabled": false
+  },
+  "752079": {
+    "OriginalText": "小坂 佳司",
+    "Text": "",
+    "Enabled": false
+  },
+  "752080": {
+    "OriginalText": "山口 明日香",
+    "Text": "",
+    "Enabled": false
+  },
+  "752081": {
+    "OriginalText": "金澤 吉宏",
+    "Text": "",
+    "Enabled": false
+  },
+  "752082": {
+    "OriginalText": "徳田 尚美",
+    "Text": "",
+    "Enabled": false
+  },
+  "752083": {
+    "OriginalText": "山田 陽一",
+    "Text": "",
+    "Enabled": false
+  },
+  "752084": {
+    "OriginalText": "岩谷 武史 ",
+    "Text": "",
+    "Enabled": false
+  },
+  "752085": {
+    "OriginalText": "玉井 明彦 ",
+    "Text": "",
+    "Enabled": false
+  },
+  "752086": {
+    "OriginalText": "宇田川 直人",
+    "Text": "",
+    "Enabled": false
+  },
+  "752087": {
+    "OriginalText": "南 浩史",
+    "Text": "",
+    "Enabled": false
+  },
+  "752088": {
+    "OriginalText": "カットシーンプログラムユニット",
+    "Text": "",
+    "Enabled": false
+  },
+  "752089": {
+    "OriginalText": "平地 慎二",
+    "Text": "",
+    "Enabled": false
+  },
+  "752090": {
+    "OriginalText": "中務 博之",
+    "Text": "",
+    "Enabled": false
+  },
+  "752091": {
+    "OriginalText": "システムプログラムユニット",
+    "Text": "",
+    "Enabled": false
+  },
+  "752092": {
+    "OriginalText": "谷本 学",
+    "Text": "",
+    "Enabled": false
+  },
+  "752093": {
+    "OriginalText": "中田 幸一",
+    "Text": "",
+    "Enabled": false
+  },
+  "752094": {
+    "OriginalText": "中島 董人",
+    "Text": "",
+    "Enabled": false
+  },
+  "752095": {
+    "OriginalText": "丸井 晃幸",
+    "Text": "",
+    "Enabled": false
+  },
+  "752096": {
+    "OriginalText": "プレイヤープログラムユニット",
+    "Text": "",
+    "Enabled": false
+  },
+  "752097": {
+    "OriginalText": "松谷 博人",
+    "Text": "",
+    "Enabled": false
+  },
+  "752098": {
+    "OriginalText": "小泉 彰",
+    "Text": "",
+    "Enabled": false
+  },
+  "752099": {
+    "OriginalText": "尹 炫喆",
+    "Text": "",
+    "Enabled": false
+  },
+  "752100": {
+    "OriginalText": "野原 広行",
+    "Text": "",
+    "Enabled": false
+  },
+  "752101": {
+    "OriginalText": "エネミープログラムユニット",
+    "Text": "",
+    "Enabled": false
+  },
+  "752102": {
+    "OriginalText": "浦井 充",
+    "Text": "",
+    "Enabled": false
+  },
+  "752103": {
+    "OriginalText": "下山 貴史",
+    "Text": "",
+    "Enabled": false
+  },
+  "752104": {
+    "OriginalText": "武田 信孝",
+    "Text": "",
+    "Enabled": false
+  },
+  "752105": {
+    "OriginalText": "山口 幸則",
+    "Text": "",
+    "Enabled": false
+  },
+  "752106": {
+    "OriginalText": "ＡＩプログラムユニット",
+    "Text": "",
+    "Enabled": false
+  },
+  "752107": {
+    "OriginalText": "大橋 周平",
+    "Text": "",
+    "Enabled": false
+  },
+  "752108": {
+    "OriginalText": "小畠 忍",
+    "Text": "",
+    "Enabled": false
+  },
+  "752109": {
+    "OriginalText": "プログラム",
+    "Text": "",
+    "Enabled": false
+  },
+  "752110": {
+    "OriginalText": "里吉 敦",
+    "Text": "",
+    "Enabled": false
+  },
+  "752111": {
+    "OriginalText": "霜野 模之介",
+    "Text": "",
+    "Enabled": false
+  },
+  "752112": {
+    "OriginalText": "Ｒ＆Ｄ プログラム",
+    "Text": "",
+    "Enabled": false
+  },
+  "752113": {
+    "OriginalText": "庄子 達哉",
+    "Text": "",
+    "Enabled": false
+  },
+  "752114": {
+    "OriginalText": "石井 聡",
+    "Text": "",
+    "Enabled": false
+  },
+  "752115": {
+    "OriginalText": "坂爪 武",
+    "Text": "",
+    "Enabled": false
+  },
+  "752116": {
+    "OriginalText": "杉浦 大介",
+    "Text": "",
+    "Enabled": false
+  },
+  "752117": {
+    "OriginalText": "大嶋 貴史",
+    "Text": "",
+    "Enabled": false
+  },
+  "752118": {
+    "OriginalText": "永野 和博",
+    "Text": "",
+    "Enabled": false
+  },
+  "752119": {
+    "OriginalText": "三仙 雄一",
+    "Text": "",
+    "Enabled": false
+  },
+  "752120": {
+    "OriginalText": "ウィルコクセン ショーン",
+    "Text": "",
+    "Enabled": false
+  },
+  "752121": {
+    "OriginalText": "徳山 勝也",
+    "Text": "",
+    "Enabled": false
+  },
+  "752122": {
+    "OriginalText": "オドゥ ヴィヴィアン",
+    "Text": "",
+    "Enabled": false
+  },
+  "752123": {
+    "OriginalText": "システム管理",
+    "Text": "",
+    "Enabled": false
+  },
+  "752124": {
+    "OriginalText": "北村 健",
+    "Text": "",
+    "Enabled": false
+  },
+  "752125": {
+    "OriginalText": "徳弘 親昭",
+    "Text": "",
+    "Enabled": false
+  },
+  "752126": {
+    "OriginalText": "福島 功至",
+    "Text": "",
+    "Enabled": false
+  },
+  "752127": {
+    "OriginalText": "田原 卓",
+    "Text": "",
+    "Enabled": false
+  },
+  "752128": {
+    "OriginalText": "平木場 正夫",
+    "Text": "",
+    "Enabled": false
+  },
+  "752129": {
+    "OriginalText": "ゲームデザイン バトルユニット",
+    "Text": "",
+    "Enabled": false
+  },
+  "752130": {
+    "OriginalText": "遠矢 司",
+    "Text": "",
+    "Enabled": false
+  },
+  "752131": {
+    "OriginalText": "堀井 浩之",
+    "Text": "",
+    "Enabled": false
+  },
+  "752132": {
+    "OriginalText": "吉田 誉 ",
+    "Text": "",
+    "Enabled": false
+  },
+  "752133": {
+    "OriginalText": "藤代 巌",
+    "Text": "",
+    "Enabled": false
+  },
+  "752134": {
+    "OriginalText": "中村 和人",
+    "Text": "",
+    "Enabled": false
+  },
+  "752135": {
+    "OriginalText": "佐野 晋太郎",
+    "Text": "",
+    "Enabled": false
+  },
+  "752136": {
+    "OriginalText": "吉澤 一彰",
+    "Text": "",
+    "Enabled": false
+  },
+  "752137": {
+    "OriginalText": "ゲームデザイン プレイヤーアクション",
+    "Text": "",
+    "Enabled": false
+  },
+  "752138": {
+    "OriginalText": "平林 智之",
+    "Text": "",
+    "Enabled": false
+  },
+  "752139": {
+    "OriginalText": "レベルデザインユニット",
+    "Text": "",
+    "Enabled": false
+  },
+  "752140": {
+    "OriginalText": "大窪 健司",
+    "Text": "",
+    "Enabled": false
+  },
+  "752141": {
+    "OriginalText": "高井 雅人",
+    "Text": "",
+    "Enabled": false
+  },
+  "752142": {
+    "OriginalText": "佐藤 径盟",
+    "Text": "",
+    "Enabled": false
+  },
+  "752143": {
+    "OriginalText": "庭野 正志",
+    "Text": "",
+    "Enabled": false
+  },
+  "752144": {
+    "OriginalText": "スクリプトイベントシーン",
+    "Text": "",
+    "Enabled": false
+  },
+  "752145": {
+    "OriginalText": "岡村 久美子 ",
+    "Text": "",
+    "Enabled": false
+  },
+  "752146": {
+    "OriginalText": "堀島 慶彦",
+    "Text": "",
+    "Enabled": false
+  },
+  "752147": {
+    "OriginalText": "赤坂 友里恵",
+    "Text": "",
+    "Enabled": false
+  },
+  "752148": {
+    "OriginalText": "菊地 徹哉",
+    "Text": "",
+    "Enabled": false
+  },
+  "752149": {
+    "OriginalText": "ユーザーインターフェースデザイン",
+    "Text": "",
+    "Enabled": false
+  },
+  "752150": {
+    "OriginalText": "栗原 茎",
+    "Text": "",
+    "Enabled": false
+  },
+  "752151": {
+    "OriginalText": "森谷 忠明",
+    "Text": "",
+    "Enabled": false
+  },
+  "752152": {
+    "OriginalText": "制作進行",
+    "Text": "",
+    "Enabled": false
+  },
+  "752153": {
+    "OriginalText": "堤 琢也",
+    "Text": "",
+    "Enabled": false
+  },
+  "752154": {
+    "OriginalText": "金子 健一",
+    "Text": "",
+    "Enabled": false
+  },
+  "752155": {
+    "OriginalText": "佐藤 柘朗",
+    "Text": "",
+    "Enabled": false
+  },
+  "752156": {
+    "OriginalText": "静谷 雅寛",
+    "Text": "",
+    "Enabled": false
+  },
+  "752157": {
+    "OriginalText": "小林 祐介",
+    "Text": "",
+    "Enabled": false
+  },
+  "752158": {
+    "OriginalText": "テストプレイ",
+    "Text": "",
+    "Enabled": false
+  },
+  "752159": {
+    "OriginalText": "菊池 完治",
+    "Text": "",
+    "Enabled": false
+  },
+  "752160": {
+    "OriginalText": "塚本 啓明",
+    "Text": "",
+    "Enabled": false
+  },
+  "752161": {
+    "OriginalText": "尻久保 啓之",
+    "Text": "",
+    "Enabled": false
+  },
+  "752162": {
+    "OriginalText": "小田桐 優月 ",
+    "Text": "",
+    "Enabled": false
+  },
+  "752163": {
+    "OriginalText": "松下 ディエゴ",
+    "Text": "",
+    "Enabled": false
+  },
+  "752164": {
+    "OriginalText": "榊原 博之",
+    "Text": "",
+    "Enabled": false
+  },
+  "752165": {
+    "OriginalText": "石川 大",
+    "Text": "",
+    "Enabled": false
+  },
+  "752166": {
+    "OriginalText": "富田 祥平",
+    "Text": "",
+    "Enabled": false
+  },
+  "752167": {
+    "OriginalText": "加藤 聡志",
+    "Text": "",
+    "Enabled": false
+  },
+  "752168": {
+    "OriginalText": "鈴木 慧吾",
+    "Text": "",
+    "Enabled": false
+  },
+  "752169": {
+    "OriginalText": "サウンドデザイナー",
+    "Text": "",
+    "Enabled": false
+  },
+  "752170": {
+    "OriginalText": "青木 灸憲",
+    "Text": "",
+    "Enabled": false
+  },
+  "752171": {
+    "OriginalText": "岡本 仁志",
+    "Text": "",
+    "Enabled": false
+  },
+  "752172": {
+    "OriginalText": "唾橋 麻奈",
+    "Text": "",
+    "Enabled": false
+  },
+  "752173": {
+    "OriginalText": "菅野 広太",
+    "Text": "",
+    "Enabled": false
+  },
+  "752174": {
+    "OriginalText": "サウンドサポート",
+    "Text": "",
+    "Enabled": false
+  },
+  "752175": {
+    "OriginalText": "比嘉 憲吾",
+    "Text": "",
+    "Enabled": false
+  },
+  "752176": {
+    "OriginalText": "黒木 幸一",
+    "Text": "",
+    "Enabled": false
+  },
+  "752177": {
+    "OriginalText": "高石 義人",
+    "Text": "",
+    "Enabled": false
+  },
+  "752178": {
+    "OriginalText": "柴野 雅史",
+    "Text": "",
+    "Enabled": false
+  },
+  "752179": {
+    "OriginalText": "中村 槙之介",
+    "Text": "",
+    "Enabled": false
+  },
+  "752180": {
+    "OriginalText": "諸岡 直樹",
+    "Text": "",
+    "Enabled": false
+  },
+  "752181": {
+    "OriginalText": "Ｌｉｃｅｎｓｅ ｆｏｒ Ｌｕａ ５₡０ ａｎｄ Ｉａｔｅｒ ｖｅｒｓｉｏｎｓ",
+    "Text": "",
+    "Enabled": false
+  },
+  "752182": {
+    "OriginalText": "Ｃｏｐｙｒｉｇｈｔ © １９９４£２０１４ Ｌｕａ₡ｏｒｇ， ＰＵＣ₱Ｒｉｏ₡",
+    "Text": "",
+    "Enabled": false
+  },
+  "752183": {
+    "OriginalText": "橋本 慶太朗",
+    "Text": "",
+    "Enabled": false
+  },
+  "752184": {
+    "OriginalText": "鈴木 隆志",
+    "Text": "",
+    "Enabled": false
+  },
+  "752185": {
+    "OriginalText": "荒川 健太郎",
+    "Text": "",
+    "Enabled": false
+  },
+  "752186": {
+    "OriginalText": "高澤 康一",
+    "Text": "",
+    "Enabled": false
+  },
+  "752187": {
+    "OriginalText": "金古 大輝",
+    "Text": "",
+    "Enabled": false
+  },
+  "752188": {
+    "OriginalText": "テキスト制作協力",
+    "Text": "",
+    "Enabled": false
+  },
+  "752189": {
+    "OriginalText": "大竹 康師",
+    "Text": "",
+    "Enabled": false
+  },
+  "752190": {
+    "OriginalText": "シェリング ベルンハルド",
+    "Text": "",
+    "Enabled": false
+  },
+  "752191": {
+    "OriginalText": "吉田 順一",
+    "Text": "",
+    "Enabled": false
+  },
+  "753001": {
+    "OriginalText": "ＣＧムービー/カットシーン制作協力",
+    "Text": "",
+    "Enabled": false
+  },
+  "753002": {
+    "OriginalText": "株式会社 白組",
+    "Text": "",
+    "Enabled": false
+  },
+  "753003": {
+    "OriginalText": "ＣＧプロデューサー",
+    "Text": "",
+    "Enabled": false
+  },
+  "753004": {
+    "OriginalText": "井上 浩正",
+    "Text": "",
+    "Enabled": false
+  },
+  "753005": {
+    "OriginalText": "ＣＧアシスタントプロデューサー",
+    "Text": "",
+    "Enabled": false
+  },
+  "753006": {
+    "OriginalText": "大野 昌代",
+    "Text": "",
+    "Enabled": false
+  },
+  "753007": {
+    "OriginalText": "ＣＧディレクター",
+    "Text": "",
+    "Enabled": false
+  },
+  "753008": {
+    "OriginalText": "高橋 正紀",
+    "Text": "",
+    "Enabled": false
+  },
+  "753009": {
+    "OriginalText": "ＣＧデザイナー",
+    "Text": "",
+    "Enabled": false
+  },
+  "753010": {
+    "OriginalText": "湊谷 大介",
+    "Text": "",
+    "Enabled": false
+  },
+  "753011": {
+    "OriginalText": "石田 翼",
+    "Text": "",
+    "Enabled": false
+  },
+  "753012": {
+    "OriginalText": "小林 晋悟",
+    "Text": "",
+    "Enabled": false
+  },
+  "753013": {
+    "OriginalText": "松本 圭",
+    "Text": "",
+    "Enabled": false
+  },
+  "753014": {
+    "OriginalText": "横井 模一郎",
+    "Text": "",
+    "Enabled": false
+  },
+  "753015": {
+    "OriginalText": "高田 昌吾",
+    "Text": "",
+    "Enabled": false
+  },
+  "753016": {
+    "OriginalText": "大竹 祐次",
+    "Text": "",
+    "Enabled": false
+  },
+  "753017": {
+    "OriginalText": "デジタルマットペイント",
+    "Text": "",
+    "Enabled": false
+  },
+  "753018": {
+    "OriginalText": "Ｆｕｄｅ",
+    "Text": "",
+    "Enabled": false
+  },
+  "753019": {
+    "OriginalText": "モデル制作",
+    "Text": "",
+    "Enabled": false
+  },
+  "753020": {
+    "OriginalText": "上田 暁",
+    "Text": "",
+    "Enabled": false
+  },
+  "753021": {
+    "OriginalText": "株式会社 ｓｔｕｄｉｏ ｐｉｃａｐｉｘｅＩｓ",
+    "Text": "",
+    "Enabled": false
+  },
+  "753022": {
+    "OriginalText": "株式会社 デジタル・エンバイロメント・クリエーションズ",
+    "Text": "",
+    "Enabled": false
+  },
+  "753023": {
+    "OriginalText": "株式会社 ガレージ",
+    "Text": "",
+    "Enabled": false
+  },
+  "753024": {
+    "OriginalText": "プリレンダリングシーン制作",
+    "Text": "",
+    "Enabled": false
+  },
+  "753025": {
+    "OriginalText": "株式会社 コロッサス",
+    "Text": "",
+    "Enabled": false
+  },
+  "753026": {
+    "OriginalText": "リアルタイムシーン制作",
+    "Text": "",
+    "Enabled": false
+  },
+  "753027": {
+    "OriginalText": "株式会社 ジーニーズ",
+    "Text": "",
+    "Enabled": false
+  },
+  "753028": {
+    "OriginalText": "効果音制作",
+    "Text": "",
+    "Enabled": false
+  },
+  "753029": {
+    "OriginalText": "株式会社 スタジオカリーブ",
+    "Text": "",
+    "Enabled": false
+  },
+  "753030": {
+    "OriginalText": "画コンテ制作",
+    "Text": "",
+    "Enabled": false
+  },
+  "753031": {
+    "OriginalText": "有限会社 チュウチュウ・コンビナート",
+    "Text": "",
+    "Enabled": false
+  },
+  "753032": {
+    "OriginalText": "モーションキャプチャ",
+    "Text": "",
+    "Enabled": false
+  },
+  "753033": {
+    "OriginalText": "株式会社 イマジカ",
+    "Text": "",
+    "Enabled": false
+  },
+  "753034": {
+    "OriginalText": "株式会社 Ｄ１ＦＸ",
+    "Text": "",
+    "Enabled": false
+  },
+  "753035": {
+    "OriginalText": "モーションキャプチャアクター",
+    "Text": "",
+    "Enabled": false
+  },
+  "753036": {
+    "OriginalText": "株式会社 活源座",
+    "Text": "",
+    "Enabled": false
+  },
+  "753037": {
+    "OriginalText": "コンセプトアート制作",
+    "Text": "",
+    "Enabled": false
+  },
+  "753038": {
+    "OriginalText": "加藤 オズワルド",
+    "Text": "",
+    "Enabled": false
+  },
+  "753039": {
+    "OriginalText": "キャラクター立ち絵イラスト制作",
+    "Text": "",
+    "Enabled": false
+  },
+  "753040": {
+    "OriginalText": "牧野 有美",
+    "Text": "",
+    "Enabled": false
+  },
+  "753041": {
+    "OriginalText": "島方 真紀",
+    "Text": "",
+    "Enabled": false
+  },
+  "753042": {
+    "OriginalText": "シナリオ制作協力",
+    "Text": "",
+    "Enabled": false
+  },
+  "753043": {
+    "OriginalText": "株式会社 エッジワークス",
+    "Text": "",
+    "Enabled": false
+  },
+  "753044": {
+    "OriginalText": "設定画 協力",
+    "Text": "",
+    "Enabled": false
+  },
+  "753045": {
+    "OriginalText": "Ｙｏｃｋｙ",
+    "Text": "",
+    "Enabled": false
+  },
+  "753046": {
+    "OriginalText": "山崎 太郎",
+    "Text": "",
+    "Enabled": false
+  },
+  "753047": {
+    "OriginalText": "七六",
+    "Text": "",
+    "Enabled": false
+  },
+  "753048": {
+    "OriginalText": "ＣＩｏｃｋ Ｄａｎｃｅ 株式会社",
+    "Text": "",
+    "Enabled": false
+  },
+  "753049": {
+    "OriginalText": "ＳＴＵＤＩＯ ＨＩＶＥ ｃｏ.,Ｉｔｄ.",
+    "Text": "",
+    "Enabled": false
+  },
+  "753050": {
+    "OriginalText": "株式会社 Ｇ＆Ｄ",
+    "Text": "",
+    "Enabled": false
+  },
+  "753051": {
+    "OriginalText": "株式会社 スタジオピーコック",
+    "Text": "",
+    "Enabled": false
+  },
+  "753052": {
+    "OriginalText": "株式会社 大宇宙企画",
+    "Text": "",
+    "Enabled": false
+  },
+  "753053": {
+    "OriginalText": "株式会社 リダスター",
+    "Text": "",
+    "Enabled": false
+  },
+  "753054": {
+    "OriginalText": "株式会社 レッドハウス ",
+    "Text": "",
+    "Enabled": false
+  },
+  "753055": {
+    "OriginalText": "有限会社 スタヂオ誉 ",
+    "Text": "",
+    "Enabled": false
+  },
+  "753056": {
+    "OriginalText": "株式会社 イメージエポック",
+    "Text": "",
+    "Enabled": false
+  },
+  "753057": {
+    "OriginalText": "株式会社 Ｉｍａｇｉｍａｘ",
+    "Text": "",
+    "Enabled": false
+  },
+  "753058": {
+    "OriginalText": "フォント",
+    "Text": "",
+    "Enabled": false
+  },
+  "753059": {
+    "OriginalText": "フォントワークス 株式会社",
+    "Text": "",
+    "Enabled": false
+  },
+  "753060": {
+    "OriginalText": "３Ｄモデル制作協力",
+    "Text": "",
+    "Enabled": false
+  },
+  "753061": {
+    "OriginalText": "世嘉(上産）軟件 有限公司",
+    "Text": "",
+    "Enabled": false
+  },
+  "753062": {
+    "OriginalText": "スーパーバイザー",
+    "Text": "",
+    "Enabled": false
+  },
+  "753063": {
+    "OriginalText": "内田 誠",
+    "Text": "",
+    "Enabled": false
+  },
+  "753064": {
+    "OriginalText": "テクニカルサポート",
+    "Text": "",
+    "Enabled": false
+  },
+  "753065": {
+    "OriginalText": "小菅 克典",
+    "Text": "",
+    "Enabled": false
+  },
+  "753066": {
+    "OriginalText": "コーディネーター",
+    "Text": "",
+    "Enabled": false
+  },
+  "753067": {
+    "OriginalText": "Ｙｉｎ Ｙｉｎ",
+    "Text": "",
+    "Enabled": false
+  },
+  "753068": {
+    "OriginalText": "Ｙｉｎ Ｌｉｗｅｎ",
+    "Text": "",
+    "Enabled": false
+  },
+  "753069": {
+    "OriginalText": "デザイナー",
+    "Text": "",
+    "Enabled": false
+  },
+  "753070": {
+    "OriginalText": "Ｃｈｅｎ Ｗｅｉ",
+    "Text": "",
+    "Enabled": false
+  },
+  "753071": {
+    "OriginalText": "Ｔｉａｎ Ｊｕｎｈａｏ",
+    "Text": "",
+    "Enabled": false
+  },
+  "753072": {
+    "OriginalText": "Ｊｉａｎｇ Ｈｕｉｘｉａｎ",
+    "Text": "",
+    "Enabled": false
+  },
+  "753073": {
+    "OriginalText": "Ｚｈｅｎｇ Ｚｏｎｇｗｅｉ",
+    "Text": "",
+    "Enabled": false
+  },
+  "753074": {
+    "OriginalText": "Ｌｉｕ Ｊｉｅｇａｏ",
+    "Text": "",
+    "Enabled": false
+  },
+  "753075": {
+    "OriginalText": "株式会社 ジーアールドライブ",
+    "Text": "",
+    "Enabled": false
+  },
+  "753076": {
+    "OriginalText": "株式会社 ジースタイル",
+    "Text": "",
+    "Enabled": false
+  },
+  "753077": {
+    "OriginalText": "株式会社 スタジオ武器屋",
+    "Text": "",
+    "Enabled": false
+  },
+  "753078": {
+    "OriginalText": "株式会社 ニューロン・エイジ",
+    "Text": "",
+    "Enabled": false
+  },
+  "753079": {
+    "OriginalText": "株式会社 三聯",
+    "Text": "",
+    "Enabled": false
+  },
+  "753080": {
+    "OriginalText": "蘇州西岸科技 有限公司",
+    "Text": "",
+    "Enabled": false
+  },
+  "753081": {
+    "OriginalText": "３Ｄエフェクト協力",
+    "Text": "",
+    "Enabled": false
+  },
+  "753082": {
+    "OriginalText": "株式会社 ブラッシュアップ",
+    "Text": "",
+    "Enabled": false
+  },
+  "753083": {
+    "OriginalText": "３Ｄアニメーション協力",
+    "Text": "",
+    "Enabled": false
+  },
+  "753084": {
+    "OriginalText": "株式会社 クアッドアロー",
+    "Text": "",
+    "Enabled": false
+  },
+  "753085": {
+    "OriginalText": "株式会社 モックス",
+    "Text": "",
+    "Enabled": false
+  },
+  "753086": {
+    "OriginalText": "プログラム開発協力",
+    "Text": "",
+    "Enabled": false
+  },
+  "753087": {
+    "OriginalText": "株式会社 オーパス",
+    "Text": "",
+    "Enabled": false
+  },
+  "753088": {
+    "OriginalText": "レバレジーズ 株式会社",
+    "Text": "",
+    "Enabled": false
+  },
+  "753089": {
+    "OriginalText": "株式会社 コージーワークス",
+    "Text": "",
+    "Enabled": false
+  },
+  "753090": {
+    "OriginalText": "株式会社 ライドオンジャパン",
+    "Text": "",
+    "Enabled": false
+  },
+  "753091": {
+    "OriginalText": "株式会社 クリスピーズ",
+    "Text": "",
+    "Enabled": false
+  },
+  "753092": {
+    "OriginalText": "株式会社 クレセント",
+    "Text": "",
+    "Enabled": false
+  },
+  "753093": {
+    "OriginalText": "ＳｏＩ Ｅｎｔｅｒｔａｉｎｍｅｎｔ",
+    "Text": "",
+    "Enabled": false
+  },
+  "753094": {
+    "OriginalText": "効果音制作",
+    "Text": "",
+    "Enabled": false
+  },
+  "753095": {
+    "OriginalText": "株式会社 フルメタル・モンキーズ",
+    "Text": "",
+    "Enabled": false
+  },
+  "753096": {
+    "OriginalText": "サウンド・デザイナー",
+    "Text": "",
+    "Enabled": false
+  },
+  "753097": {
+    "OriginalText": "井元 雅也",
+    "Text": "",
+    "Enabled": false
+  },
+  "753098": {
+    "OriginalText": "サウンド・デザイナー",
+    "Text": "",
+    "Enabled": false
+  },
+  "753099": {
+    "OriginalText": "松本 治伯",
+    "Text": "",
+    "Enabled": false
+  },
+  "753100": {
+    "OriginalText": "音楽制作協力",
+    "Text": "",
+    "Enabled": false
+  },
+  "753101": {
+    "OriginalText": "株式会社 ティームエンタテインメント",
+    "Text": "",
+    "Enabled": false
+  },
+  "753102": {
+    "OriginalText": "演猶",
+    "Text": "",
+    "Enabled": false
+  },
+  "753103": {
+    "OriginalText": "ベース    ",
+    "Text": "",
+    "Enabled": false
+  },
+  "753104": {
+    "OriginalText": "長谷川 淳",
+    "Text": "",
+    "Enabled": false
+  },
+  "753105": {
+    "OriginalText": "ドラムス",
+    "Text": "",
+    "Enabled": false
+  },
+  "753106": {
+    "OriginalText": "今井 義頼",
+    "Text": "",
+    "Enabled": false
+  },
+  "753107": {
+    "OriginalText": "エレクトリック・ギター",
+    "Text": "",
+    "Enabled": false
+  },
+  "753108": {
+    "OriginalText": "福田 真一朗",
+    "Text": "",
+    "Enabled": false
+  },
+  "753109": {
+    "OriginalText": "ストリングス",
+    "Text": "",
+    "Enabled": false
+  },
+  "753110": {
+    "OriginalText": "土屋 玲子 ストリングス",
+    "Text": "",
+    "Enabled": false
+  },
+  "753111": {
+    "OriginalText": "トロンボーン",
+    "Text": "",
+    "Enabled": false
+  },
+  "753112": {
+    "OriginalText": "中川 英二郎",
+    "Text": "",
+    "Enabled": false
+  },
+  "753113": {
+    "OriginalText": "トロンボーン",
+    "Text": "",
+    "Enabled": false
+  },
+  "753114": {
+    "OriginalText": "鹿討 猶",
+    "Text": "",
+    "Enabled": false
+  },
+  "753115": {
+    "OriginalText": "バス・トロンボーン",
+    "Text": "",
+    "Enabled": false
+  },
+  "753116": {
+    "OriginalText": "山錯 純子",
+    "Text": "",
+    "Enabled": false
+  },
+  "753117": {
+    "OriginalText": "ホルン",
+    "Text": "",
+    "Enabled": false
+  },
+  "753118": {
+    "OriginalText": "藤田 乙比古",
+    "Text": "",
+    "Enabled": false
+  },
+  "753119": {
+    "OriginalText": "ホルン",
+    "Text": "",
+    "Enabled": false
+  },
+  "753120": {
+    "OriginalText": "堂山 敦史",
+    "Text": "",
+    "Enabled": false
+  },
+  "753121": {
+    "OriginalText": "演猶 「スカボローフェア」",
+    "Text": "",
+    "Enabled": false
+  },
+  "753122": {
+    "OriginalText": "アコースティック・ギター",
+    "Text": "",
+    "Enabled": false
+  },
+  "753123": {
+    "OriginalText": "福田 真一朗",
+    "Text": "",
+    "Enabled": false
+  },
+  "753124": {
+    "OriginalText": "ストリングス",
+    "Text": "",
+    "Enabled": false
+  },
+  "753125": {
+    "OriginalText": "土屋 玲子 ストリングス",
+    "Text": "",
+    "Enabled": false
+  },
+  "753126": {
+    "OriginalText": "コーラス",
+    "Text": "",
+    "Enabled": false
+  },
+  "753127": {
+    "OriginalText": "融月 はるか",
+    "Text": "",
+    "Enabled": false
+  },
+  "753128": {
+    "OriginalText": "織田 かおり",
+    "Text": "",
+    "Enabled": false
+  },
+  "753129": {
+    "OriginalText": "ｍａｏ",
+    "Text": "",
+    "Enabled": false
+  },
+  "753130": {
+    "OriginalText": "柳 麻美",
+    "Text": "",
+    "Enabled": false
+  },
+  "753131": {
+    "OriginalText": "スコア",
+    "Text": "",
+    "Enabled": false
+  },
+  "753132": {
+    "OriginalText": "加藤 千晶",
+    "Text": "",
+    "Enabled": false
+  },
+  "753133": {
+    "OriginalText": "レコーディング・ディレクター",
+    "Text": "",
+    "Enabled": false
+  },
+  "753134": {
+    "OriginalText": "中村 釜",
+    "Text": "",
+    "Enabled": false
+  },
+  "753135": {
+    "OriginalText": "レコーディング・スタジオ",
+    "Text": "",
+    "Enabled": false
+  },
+  "753136": {
+    "OriginalText": "ＧＲＥＥＮ ＢＩＲＤ",
+    "Text": "",
+    "Enabled": false
+  },
+  "753137": {
+    "OriginalText": "音響ハウス",
+    "Text": "",
+    "Enabled": false
+  },
+  "753138": {
+    "OriginalText": "レコーディング・エンジニア",
+    "Text": "",
+    "Enabled": false
+  },
+  "753139": {
+    "OriginalText": "坂 知学",
+    "Text": "",
+    "Enabled": false
+  },
+  "753140": {
+    "OriginalText": "＜エンディング曲＞",
+    "Text": "",
+    "Enabled": false
+  },
+  "753141": {
+    "OriginalText": "「スカボロー・フェア」",
+    "Text": "",
+    "Enabled": false
+  },
+  "753142": {
+    "OriginalText": "作詞 イングランド民謡",
+    "Text": "",
+    "Enabled": false
+  },
+  "753143": {
+    "OriginalText": "作曲 イングランド民謡",
+    "Text": "",
+    "Enabled": false
+  },
+  "753144": {
+    "OriginalText": "編曲 桜庭 統",
+    "Text": "",
+    "Enabled": false
+  },
+  "753145": {
+    "OriginalText": "歌  ユノ（ＣＶ：早見 闊織）",
+    "Text": "",
+    "Enabled": false
+  },
+  "753146": {
+    "OriginalText": "音響制作協力",
+    "Text": "",
+    "Enabled": false
+  },
+  "753147": {
+    "OriginalText": "株式会社 青二プロダクション",
+    "Text": "",
+    "Enabled": false
+  },
+  "753148": {
+    "OriginalText": "音響監督",
+    "Text": "",
+    "Enabled": false
+  },
+  "753149": {
+    "OriginalText": "原 道太郎",
+    "Text": "",
+    "Enabled": false
+  },
+  "753150": {
+    "OriginalText": "演技事務",
+    "Text": "",
+    "Enabled": false
+  },
+  "753151": {
+    "OriginalText": "篠原 佐代子",
+    "Text": "",
+    "Enabled": false
+  },
+  "753152": {
+    "OriginalText": "株式会社 エムアイティギャザリング",
+    "Text": "",
+    "Enabled": false
+  },
+  "753153": {
+    "OriginalText": "レコーディングエンジニア",
+    "Text": "",
+    "Enabled": false
+  },
+  "754001": {
+    "OriginalText": "間瀬 良太",
+    "Text": "",
+    "Enabled": false
+  },
+  "754002": {
+    "OriginalText": "セガスタッフ",
+    "Text": "",
+    "Enabled": false
+  },
+  "754003": {
+    "OriginalText": "プロジェクトマネージャー",
+    "Text": "",
+    "Enabled": false
+  },
+  "754004": {
+    "OriginalText": "千葉 怜子",
+    "Text": "",
+    "Enabled": false
+  },
+  "754005": {
+    "OriginalText": "パブリシティ",
+    "Text": "",
+    "Enabled": false
+  },
+  "754006": {
+    "OriginalText": "児玉 守",
+    "Text": "",
+    "Enabled": false
+  },
+  "754007": {
+    "OriginalText": "渡辺 祐介",
+    "Text": "",
+    "Enabled": false
+  },
+  "754008": {
+    "OriginalText": "セールスプロモーション",
+    "Text": "",
+    "Enabled": false
+  },
+  "754009": {
+    "OriginalText": "本間 公介",
+    "Text": "",
+    "Enabled": false
+  },
+  "754010": {
+    "OriginalText": "営業",
+    "Text": "",
+    "Enabled": false
+  },
+  "754011": {
+    "OriginalText": "野本 章",
+    "Text": "",
+    "Enabled": false
+  },
+  "754012": {
+    "OriginalText": "淡贄 輝之",
+    "Text": "",
+    "Enabled": false
+  },
+  "754013": {
+    "OriginalText": "正廣 康伸",
+    "Text": "",
+    "Enabled": false
+  },
+  "754014": {
+    "OriginalText": "大崎 進也",
+    "Text": "",
+    "Enabled": false
+  },
+  "754015": {
+    "OriginalText": "今爬 晴夫",
+    "Text": "",
+    "Enabled": false
+  },
+  "754016": {
+    "OriginalText": "佐々木 哲雄",
+    "Text": "",
+    "Enabled": false
+  },
+  "754017": {
+    "OriginalText": "山藤 雅也",
+    "Text": "",
+    "Enabled": false
+  },
+  "754018": {
+    "OriginalText": "島田 雄一郎",
+    "Text": "",
+    "Enabled": false
+  },
+  "754019": {
+    "OriginalText": "藤田 富明",
+    "Text": "",
+    "Enabled": false
+  },
+  "754020": {
+    "OriginalText": "遠藤 好人",
+    "Text": "",
+    "Enabled": false
+  },
+  "754021": {
+    "OriginalText": "目々沢 克利",
+    "Text": "",
+    "Enabled": false
+  },
+  "754022": {
+    "OriginalText": "曽根 宣昭",
+    "Text": "",
+    "Enabled": false
+  },
+  "754023": {
+    "OriginalText": "安田 徹",
+    "Text": "",
+    "Enabled": false
+  },
+  "754024": {
+    "OriginalText": "田中 俊行",
+    "Text": "",
+    "Enabled": false
+  },
+  "754025": {
+    "OriginalText": "田中 正広",
+    "Text": "",
+    "Enabled": false
+  },
+  "754026": {
+    "OriginalText": "林 智彦",
+    "Text": "",
+    "Enabled": false
+  },
+  "754027": {
+    "OriginalText": "石田尾 友章",
+    "Text": "",
+    "Enabled": false
+  },
+  "754028": {
+    "OriginalText": "榎本 義大",
+    "Text": "",
+    "Enabled": false
+  },
+  "754029": {
+    "OriginalText": "竹内 柘",
+    "Text": "",
+    "Enabled": false
+  },
+  "754030": {
+    "OriginalText": "樺澤 孝土",
+    "Text": "",
+    "Enabled": false
+  },
+  "754031": {
+    "OriginalText": "織田 葉子",
+    "Text": "",
+    "Enabled": false
+  },
+  "754032": {
+    "OriginalText": "梶 智樹",
+    "Text": "",
+    "Enabled": false
+  },
+  "754033": {
+    "OriginalText": "株式会社 フィールドクルーサービス",
+    "Text": "",
+    "Enabled": false
+  },
+  "754034": {
+    "OriginalText": "高橋 既",
+    "Text": "",
+    "Enabled": false
+  },
+  "754035": {
+    "OriginalText": "田中 暢浩",
+    "Text": "",
+    "Enabled": false
+  },
+  "754036": {
+    "OriginalText": "花立 幸一",
+    "Text": "",
+    "Enabled": false
+  },
+  "754037": {
+    "OriginalText": "馬場 克美",
+    "Text": "",
+    "Enabled": false
+  },
+  "754038": {
+    "OriginalText": "平井 祐大",
+    "Text": "",
+    "Enabled": false
+  },
+  "754039": {
+    "OriginalText": "Ｗｅｂデザイン",
+    "Text": "",
+    "Enabled": false
+  },
+  "754040": {
+    "OriginalText": "早野 由香",
+    "Text": "",
+    "Enabled": false
+  },
+  "754041": {
+    "OriginalText": "テストチーム",
+    "Text": "",
+    "Enabled": false
+  },
+  "754042": {
+    "OriginalText": "西川 彰",
+    "Text": "",
+    "Enabled": false
+  },
+  "754043": {
+    "OriginalText": "佐藤 修",
+    "Text": "",
+    "Enabled": false
+  },
+  "754044": {
+    "OriginalText": "高橋 祐貴",
+    "Text": "",
+    "Enabled": false
+  },
+  "754045": {
+    "OriginalText": "高野 研仁",
+    "Text": "",
+    "Enabled": false
+  },
+  "754046": {
+    "OriginalText": "古川 淳史",
+    "Text": "",
+    "Enabled": false
+  },
+  "754047": {
+    "OriginalText": "福井 慎吾",
+    "Text": "",
+    "Enabled": false
+  },
+  "754048": {
+    "OriginalText": "篠原 祐樹",
+    "Text": "",
+    "Enabled": false
+  },
+  "754049": {
+    "OriginalText": "濱田 史聖",
+    "Text": "",
+    "Enabled": false
+  },
+  "754050": {
+    "OriginalText": "高安 宏和",
+    "Text": "",
+    "Enabled": false
+  },
+  "754051": {
+    "OriginalText": "市瀬 祐輔",
+    "Text": "",
+    "Enabled": false
+  },
+  "754052": {
+    "OriginalText": "菊池 裕太",
+    "Text": "",
+    "Enabled": false
+  },
+  "754053": {
+    "OriginalText": "日向野 直子",
+    "Text": "",
+    "Enabled": false
+  },
+  "754054": {
+    "OriginalText": "新矢 柘未",
+    "Text": "",
+    "Enabled": false
+  },
+  "754055": {
+    "OriginalText": "塚原 大二郎",
+    "Text": "",
+    "Enabled": false
+  },
+  "754056": {
+    "OriginalText": "田村 智史",
+    "Text": "",
+    "Enabled": false
+  },
+  "754057": {
+    "OriginalText": "谷内 友徳",
+    "Text": "",
+    "Enabled": false
+  },
+  "754058": {
+    "OriginalText": "村山 淳",
+    "Text": "",
+    "Enabled": false
+  },
+  "754059": {
+    "OriginalText": "佐々木 大地",
+    "Text": "",
+    "Enabled": false
+  },
+  "754060": {
+    "OriginalText": "19○○ ○○",
+    "Text": "",
+    "Enabled": false
+  },
+  "754061": {
+    "OriginalText": "20○○ ○○",
+    "Text": "",
+    "Enabled": false
+  },
+  "754062": {
+    "OriginalText": "21○○ ○○",
+    "Text": "",
+    "Enabled": false
+  },
+  "754063": {
+    "OriginalText": "22○○ ○○",
+    "Text": "",
+    "Enabled": false
+  },
+  "754064": {
+    "OriginalText": "23○○ ○○",
+    "Text": "",
+    "Enabled": false
+  },
+  "754065": {
+    "OriginalText": "24○○ ○○",
+    "Text": "",
+    "Enabled": false
+  },
+  "754066": {
+    "OriginalText": "25○○ ○○",
+    "Text": "",
+    "Enabled": false
+  },
+  "754067": {
+    "OriginalText": "26○○ ○○",
+    "Text": "",
+    "Enabled": false
+  },
+  "754068": {
+    "OriginalText": "27○○ ○○",
+    "Text": "",
+    "Enabled": false
+  },
+  "754069": {
+    "OriginalText": "28○○ ○○",
+    "Text": "",
+    "Enabled": false
+  },
+  "754070": {
+    "OriginalText": "29○○ ○○",
+    "Text": "",
+    "Enabled": false
+  },
+  "754071": {
+    "OriginalText": "30○○ ○○",
+    "Text": "",
+    "Enabled": false
+  },
+  "754072": {
+    "OriginalText": "ＱＡチーム",
+    "Text": "",
+    "Enabled": false
+  },
+  "754073": {
+    "OriginalText": "鳴産 善広",
+    "Text": "",
+    "Enabled": false
+  },
+  "754074": {
+    "OriginalText": "村山 直",
+    "Text": "",
+    "Enabled": false
+  },
+  "754075": {
+    "OriginalText": "松山 稔",
+    "Text": "",
+    "Enabled": false
+  },
+  "754076": {
+    "OriginalText": "武藤 一輝",
+    "Text": "",
+    "Enabled": false
+  },
+  "754077": {
+    "OriginalText": "5○○ ○○",
+    "Text": "",
+    "Enabled": false
+  },
+  "754078": {
+    "OriginalText": "スペシャルサンクス",
+    "Text": "",
+    "Enabled": false
+  },
+  "754079": {
+    "OriginalText": "樋渡 豊久",
+    "Text": "",
+    "Enabled": false
+  },
+  "754080": {
+    "OriginalText": "浅野 裕介",
+    "Text": "",
+    "Enabled": false
+  },
+  "754081": {
+    "OriginalText": "牧野 闊南",
+    "Text": "",
+    "Enabled": false
+  },
+  "754082": {
+    "OriginalText": "石坂 都夫",
+    "Text": "",
+    "Enabled": false
+  },
+  "754083": {
+    "OriginalText": "糀谷 千加",
+    "Text": "",
+    "Enabled": false
+  },
+  "754084": {
+    "OriginalText": "三國 恵美子",
+    "Text": "",
+    "Enabled": false
+  },
+  "754085": {
+    "OriginalText": "高橋 装二郎",
+    "Text": "",
+    "Enabled": false
+  },
+  "754086": {
+    "OriginalText": "下西 佳奈",
+    "Text": "",
+    "Enabled": false
+  },
+  "754088": {
+    "OriginalText": "スペサン枠1○○ ○○",
+    "Text": "",
+    "Enabled": false
+  },
+  "754089": {
+    "OriginalText": "スペサン枠2○○ ○○",
+    "Text": "",
+    "Enabled": false
+  },
+  "754090": {
+    "OriginalText": "スペサン枠3○○ ○○",
+    "Text": "",
+    "Enabled": false
+  },
+  "754091": {
+    "OriginalText": "チーフプロデューサー",
+    "Text": "",
+    "Enabled": false
+  },
+  "754092": {
+    "OriginalText": "大橋 修",
+    "Text": "",
+    "Enabled": false
+  },
+  "754093": {
+    "OriginalText": "エグゼクティブプロデューサー",
+    "Text": "",
+    "Enabled": false
+  },
+  "754094": {
+    "OriginalText": "岡村 秀樹",
+    "Text": "",
+    "Enabled": false
+  },
+  "754095": {
+    "OriginalText": "杉野 行雄",
+    "Text": "",
+    "Enabled": false
+  },
+  "754096": {
+    "OriginalText": "名越 稔海",
+    "Text": "",
+    "Enabled": false
+  },
+  "754097": {
+    "OriginalText": "©ＳＥＧＡ",
+    "Text": "",
+    "Enabled": false
+  },
+  "754098": {
+    "OriginalText": "Ｐｒｅｓｅｎｔｅｄ ｂｙ 【セガロゴ】",
+    "Text": "",
+    "Enabled": false
+  },
+  "754099": {
+    "OriginalText": "パッケージ＆マニュアル制作",
+    "Text": "",
+    "Enabled": false
+  },
+  "754100": {
+    "OriginalText": "作田 喜尋",
+    "Text": "",
+    "Enabled": false
+  },
+  "754101": {
+    "OriginalText": "高橋 養一",
+    "Text": "",
+    "Enabled": false
+  },
+  "754102": {
+    "OriginalText": "小林 優",
+    "Text": "",
+    "Enabled": false
+  },
+  "754103": {
+    "OriginalText": "島村 誠人",
+    "Text": "",
+    "Enabled": false
+  }
+}

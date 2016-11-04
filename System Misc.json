@@ -1,0 +1,177 @@
+{
+  "10000": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "10001": {
+    "OriginalText": "エマージェンシートライアル成功！",
+    "Text": "Emergency Trial success!",
+    "Enabled": true
+  },
+  "10002": {
+    "OriginalText": "０",
+    "Text": "",
+    "Enabled": false
+  },
+  "10003": {
+    "OriginalText": "１",
+    "Text": "",
+    "Enabled": false
+  },
+  "10004": {
+    "OriginalText": "２",
+    "Text": "",
+    "Enabled": false
+  },
+  "10005": {
+    "OriginalText": "３",
+    "Text": "",
+    "Enabled": false
+  },
+  "10006": {
+    "OriginalText": "４",
+    "Text": "",
+    "Enabled": false
+  },
+  "10007": {
+    "OriginalText": "５",
+    "Text": "",
+    "Enabled": false
+  },
+  "10008": {
+    "OriginalText": "６",
+    "Text": "",
+    "Enabled": false
+  },
+  "10009": {
+    "OriginalText": "７",
+    "Text": "",
+    "Enabled": false
+  },
+  "10010": {
+    "OriginalText": "８",
+    "Text": "",
+    "Enabled": false
+  },
+  "10011": {
+    "OriginalText": "９",
+    "Text": "",
+    "Enabled": false
+  },
+  "10012": {
+    "OriginalText": "(",
+    "Text": "",
+    "Enabled": false
+  },
+  "10013": {
+    "OriginalText": ")",
+    "Text": "",
+    "Enabled": false
+  },
+  "10014": {
+    "OriginalText": "+",
+    "Text": "",
+    "Enabled": false
+  },
+  "10015": {
+    "OriginalText": "/",
+    "Text": "",
+    "Enabled": false
+  },
+  "10016": {
+    "OriginalText": "：",
+    "Text": "",
+    "Enabled": false
+  },
+  "10017": {
+    "OriginalText": "★",
+    "Text": "",
+    "Enabled": false
+  },
+  "10018": {
+    "OriginalText": "*",
+    "Text": "",
+    "Enabled": false
+  },
+  "10019": {
+    "OriginalText": "「",
+    "Text": "",
+    "Enabled": false
+  },
+  "10020": {
+    "OriginalText": "」",
+    "Text": "",
+    "Enabled": false
+  },
+  "10021": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "10022": {
+    "OriginalText": "×",
+    "Text": "",
+    "Enabled": false
+  },
+  "10023": {
+    "OriginalText": "%",
+    "Text": "",
+    "Enabled": false
+  },
+  "10024": {
+    "OriginalText": "-",
+    "Text": "",
+    "Enabled": false
+  },
+  "10025": {
+    "OriginalText": "～",
+    "Text": "",
+    "Enabled": false
+  },
+  "10101": {
+    "OriginalText": "OK",
+    "Text": "OK",
+    "Enabled": true
+  },
+  "10102": {
+    "OriginalText": "キャンセル",
+    "Text": "Cancel",
+    "Enabled": true
+  },
+  "10103": {
+    "OriginalText": "なし",
+    "Text": "None",
+    "Enabled": true
+  },
+  "10104": {
+    "OriginalText": "グランエナジー",
+    "Text": "Gran Energy",
+    "Enabled": true
+  },
+  "10105": {
+    "OriginalText": "はい",
+    "Text": "Yes",
+    "Enabled": true
+  },
+  "10106": {
+    "OriginalText": "いいえ",
+    "Text": "No",
+    "Enabled": true
+  },
+  "10107": {
+    "OriginalText": "x",
+    "Text": "",
+    "Enabled": false
+  },
+  "10108": {
+    "OriginalText": "回",
+    "Text": "",
+    "Enabled": false
+  },
+  "10109": {
+    "OriginalText": "P",
+    "Text": "",
+    "Enabled": false
+  }
+}

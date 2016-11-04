@@ -1,0 +1,462 @@
+{
+  "430000": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "430001": {
+    "OriginalText": "決定",
+    "Text": "Accept",
+    "Enabled": true
+  },
+  "430002": {
+    "OriginalText": "キャンセル",
+    "Text": "Cancel",
+    "Enabled": true
+  },
+  "430003": {
+    "OriginalText": "ソート",
+    "Text": "Sort",
+    "Enabled": true
+  },
+  "430004": {
+    "OriginalText": "情報切替",
+    "Text": "Switch Info",
+    "Enabled": true
+  },
+  "430005": {
+    "OriginalText": "回転",
+    "Text": "Rotate",
+    "Enabled": true
+  },
+  "430006": {
+    "OriginalText": "ロック",
+    "Text": "Lock",
+    "Enabled": true
+  },
+  "430007": {
+    "OriginalText": "外す",
+    "Text": "Remove",
+    "Enabled": true
+  },
+  "430008": {
+    "OriginalText": "表示/非表示",
+    "Text": "Show/Hide",
+    "Enabled": true
+  },
+  "430009": {
+    "OriginalText": "階層切替",
+    "Text": "",
+    "Enabled": false
+  },
+  "430010": {
+    "OriginalText": "破棄",
+    "Text": "Discard",
+    "Enabled": true
+  },
+  "430011": {
+    "OriginalText": "ステータス",
+    "Text": "Status",
+    "Enabled": true
+  },
+  "430012": {
+    "OriginalText": "リーダー",
+    "Text": "Leader",
+    "Enabled": true
+  },
+  "430013": {
+    "OriginalText": "スキル一覧",
+    "Text": "Skills List",
+    "Enabled": true
+  },
+  "430014": {
+    "OriginalText": "ストーリー",
+    "Text": "Story",
+    "Enabled": true
+  },
+  "430015": {
+    "OriginalText": "約束",
+    "Text": "Promise",
+    "Enabled": true
+  },
+  "430016": {
+    "OriginalText": "リスト表示",
+    "Text": "List Display",
+    "Enabled": true
+  },
+  "430017": {
+    "OriginalText": "試着",
+    "Text": "Try On",
+    "Enabled": true
+  },
+  "430018": {
+    "OriginalText": "再生",
+    "Text": "Playback",
+    "Enabled": true
+  },
+  "430019": {
+    "OriginalText": "ボイス再生",
+    "Text": "Play Voice",
+    "Enabled": true
+  },
+  "430020": {
+    "OriginalText": "編集取消",
+    "Text": "Cancel Edits",
+    "Enabled": true
+  },
+  "430021": {
+    "OriginalText": "瞳選択",
+    "Text": "",
+    "Enabled": false
+  },
+  "430022": {
+    "OriginalText": "瞳カラー設定",
+    "Text": "Eye Color Setting",
+    "Enabled": true
+  },
+  "430023": {
+    "OriginalText": "まゆ選択",
+    "Text": "",
+    "Enabled": false
+  },
+  "430024": {
+    "OriginalText": "まゆカラー設定",
+    "Text": "",
+    "Enabled": false
+  },
+  "430025": {
+    "OriginalText": "ヘアスタイル選択",
+    "Text": "Hairstyle Selection",
+    "Enabled": true
+  },
+  "430026": {
+    "OriginalText": "ヘアカラー設定",
+    "Text": "Hair Color Settings",
+    "Enabled": true
+  },
+  "430027": {
+    "OriginalText": "ヘッドパーツ選択",
+    "Text": "",
+    "Enabled": false
+  },
+  "430028": {
+    "OriginalText": "ヘッドパーツカラー設定",
+    "Text": "Head Parts Color Settings",
+    "Enabled": true
+  },
+  "430029": {
+    "OriginalText": "コスチューム選択",
+    "Text": "",
+    "Enabled": false
+  },
+  "430030": {
+    "OriginalText": "コスチュームカラー設定",
+    "Text": "",
+    "Enabled": false
+  },
+  "430031": {
+    "OriginalText": "配置済みリスト",
+    "Text": "",
+    "Enabled": false
+  },
+  "430032": {
+    "OriginalText": "所有リスト",
+    "Text": "",
+    "Enabled": false
+  },
+  "430033": {
+    "OriginalText": "戻る",
+    "Text": "",
+    "Enabled": false
+  },
+  "430034": {
+    "OriginalText": "選択",
+    "Text": "",
+    "Enabled": false
+  },
+  "430035": {
+    "OriginalText": "位置決定",
+    "Text": "",
+    "Enabled": false
+  },
+  "430036": {
+    "OriginalText": "自動選択",
+    "Text": "",
+    "Enabled": false
+  },
+  "430037": {
+    "OriginalText": "詳細表示",
+    "Text": "",
+    "Enabled": false
+  },
+  "430038": {
+    "OriginalText": "詳細切替",
+    "Text": "",
+    "Enabled": false
+  },
+  "430039": {
+    "OriginalText": "詳細消去",
+    "Text": "",
+    "Enabled": false
+  },
+  "430040": {
+    "OriginalText": "ソート切替",
+    "Text": "Sort Switching",
+    "Enabled": true
+  },
+  "430041": {
+    "OriginalText": "移動",
+    "Text": "",
+    "Enabled": false
+  },
+  "430042": {
+    "OriginalText": "設定を初期化",
+    "Text": "",
+    "Enabled": false
+  },
+  "430043": {
+    "OriginalText": "設定完了",
+    "Text": "",
+    "Enabled": false
+  },
+  "430044": {
+    "OriginalText": "左右切替",
+    "Text": "",
+    "Enabled": false
+  },
+  "430045": {
+    "OriginalText": "ステルス",
+    "Text": "Stealth",
+    "Enabled": true
+  },
+  "430046": {
+    "OriginalText": "設置完了",
+    "Text": "",
+    "Enabled": false
+  },
+  "430047": {
+    "OriginalText": "中止",
+    "Text": "Stop",
+    "Enabled": true
+  },
+  "430048": {
+    "OriginalText": "選択",
+    "Text": "Option",
+    "Enabled": true
+  },
+  "430049": {
+    "OriginalText": "情報表示ON/OFF",
+    "Text": "",
+    "Enabled": false
+  },
+  "430050": {
+    "OriginalText": "カラー設定",
+    "Text": "",
+    "Enabled": false
+  },
+  "430051": {
+    "OriginalText": "ビジュアル表示",
+    "Text": "",
+    "Enabled": false
+  },
+  "430052": {
+    "OriginalText": "キャラクター表示",
+    "Text": "Character Display",
+    "Enabled": true
+  },
+  "430053": {
+    "OriginalText": "すべて自動選択",
+    "Text": "",
+    "Enabled": false
+  },
+  "430054": {
+    "OriginalText": "情報切替",
+    "Text": "",
+    "Enabled": false
+  },
+  "430055": {
+    "OriginalText": "方向キー左右：",
+    "Text": "",
+    "Enabled": false
+  },
+  "430056": {
+    "OriginalText": "スキルボード切替",
+    "Text": "",
+    "Enabled": false
+  },
+  "430057": {
+    "OriginalText": "呼び出す",
+    "Text": "",
+    "Enabled": false
+  },
+  "430058": {
+    "OriginalText": "お気に入り",
+    "Text": "",
+    "Enabled": false
+  },
+  "430059": {
+    "OriginalText": "おすすめ選択",
+    "Text": "",
+    "Enabled": false
+  },
+  "430060": {
+    "OriginalText": "カメラ初期化",
+    "Text": "Camera Formatting",
+    "Enabled": true
+  },
+  "430061": {
+    "OriginalText": "パーツ位置初期化",
+    "Text": "",
+    "Enabled": false
+  },
+  "430062": {
+    "OriginalText": "スキル表示",
+    "Text": "Skills Display",
+    "Enabled": true
+  },
+  "430063": {
+    "OriginalText": "退出",
+    "Text": "Leave",
+    "Enabled": true
+  },
+  "430064": {
+    "OriginalText": "コスチュームON/OFF",
+    "Text": "Costume ON/OFF",
+    "Enabled": true
+  },
+  "430065": {
+    "OriginalText": "燥作説明23",
+    "Text": "",
+    "Enabled": false
+  },
+  "430066": {
+    "OriginalText": "燥作説明24",
+    "Text": "",
+    "Enabled": false
+  },
+  "430067": {
+    "OriginalText": "燥作説明25",
+    "Text": "",
+    "Enabled": false
+  },
+  "430068": {
+    "OriginalText": "燥作説明26",
+    "Text": "",
+    "Enabled": false
+  },
+  "430069": {
+    "OriginalText": "燥作説明27",
+    "Text": "",
+    "Enabled": false
+  },
+  "430070": {
+    "OriginalText": "燥作説明28",
+    "Text": "",
+    "Enabled": false
+  },
+  "430071": {
+    "OriginalText": "燥作説明29",
+    "Text": "",
+    "Enabled": false
+  },
+  "430072": {
+    "OriginalText": "燥作説明30",
+    "Text": "",
+    "Enabled": false
+  },
+  "430073": {
+    "OriginalText": "燥作説明31",
+    "Text": "",
+    "Enabled": false
+  },
+  "430074": {
+    "OriginalText": "燥作説明32",
+    "Text": "",
+    "Enabled": false
+  },
+  "430075": {
+    "OriginalText": "燥作説明33",
+    "Text": "",
+    "Enabled": false
+  },
+  "430076": {
+    "OriginalText": "燥作説明34",
+    "Text": "",
+    "Enabled": false
+  },
+  "430077": {
+    "OriginalText": "燥作説明35",
+    "Text": "",
+    "Enabled": false
+  },
+  "430078": {
+    "OriginalText": "燥作説明36",
+    "Text": "",
+    "Enabled": false
+  },
+  "430079": {
+    "OriginalText": "燥作説明37",
+    "Text": "",
+    "Enabled": false
+  },
+  "430080": {
+    "OriginalText": "燥作説明38",
+    "Text": "",
+    "Enabled": false
+  },
+  "430081": {
+    "OriginalText": "燥作説明39",
+    "Text": "",
+    "Enabled": false
+  },
+  "430082": {
+    "OriginalText": "燥作説明40",
+    "Text": "",
+    "Enabled": false
+  },
+  "430083": {
+    "OriginalText": "燥作説明41",
+    "Text": "",
+    "Enabled": false
+  },
+  "430084": {
+    "OriginalText": "燥作説明42",
+    "Text": "",
+    "Enabled": false
+  },
+  "430085": {
+    "OriginalText": "燥作説明43",
+    "Text": "",
+    "Enabled": false
+  },
+  "430086": {
+    "OriginalText": "燥作説明44",
+    "Text": "",
+    "Enabled": false
+  },
+  "430087": {
+    "OriginalText": "燥作説明45",
+    "Text": "",
+    "Enabled": false
+  },
+  "430088": {
+    "OriginalText": "燥作説明46",
+    "Text": "",
+    "Enabled": false
+  },
+  "430089": {
+    "OriginalText": "燥作説明47",
+    "Text": "",
+    "Enabled": false
+  },
+  "430090": {
+    "OriginalText": "燥作説明48",
+    "Text": "",
+    "Enabled": false
+  },
+  "430091": {
+    "OriginalText": "燥作説明49",
+    "Text": "",
+    "Enabled": false
+  }
+}

@@ -1,0 +1,357 @@
+{
+  "30000": {
+    "OriginalText": "---",
+    "Text": "",
+    "Enabled": false
+  },
+  "30001": {
+    "OriginalText": "ルティナ",
+    "Text": "Lutina",
+    "Enabled": true
+  },
+  "30002": {
+    "OriginalText": "セイル",
+    "Text": "Sail",
+    "Enabled": true
+  },
+  "30003": {
+    "OriginalText": "イズナ",
+    "Text": "Izuna",
+    "Enabled": true
+  },
+  "30004": {
+    "OriginalText": "フィルディア",
+    "Text": "Fildia",
+    "Enabled": true
+  },
+  "30005": {
+    "OriginalText": "レイヴァン",
+    "Text": "Raven",
+    "Enabled": true
+  },
+  "30006": {
+    "OriginalText": "カリスト",
+    "Text": "Callisto",
+    "Enabled": true
+  },
+  "30007": {
+    "OriginalText": "キサラ",
+    "Text": "Kisara",
+    "Enabled": true
+  },
+  "30008": {
+    "OriginalText": "リーティア",
+    "Text": "Rietheia",
+    "Enabled": true
+  },
+  "30009": {
+    "OriginalText": "ヨミ",
+    "Text": "Yomi",
+    "Enabled": true
+  },
+  "30010": {
+    "OriginalText": "オルクス",
+    "Text": "Orcus",
+    "Enabled": true
+  },
+  "30011": {
+    "OriginalText": "ヒュペリオン",
+    "Text": "Hyperion",
+    "Enabled": true
+  },
+  "30012": {
+    "OriginalText": "シャロン",
+    "Text": "Sharon",
+    "Enabled": true
+  },
+  "30013": {
+    "OriginalText": "ユノ",
+    "Text": "Juno",
+    "Enabled": true
+  },
+  "30014": {
+    "OriginalText": "マグナス",
+    "Text": "Magnas",
+    "Enabled": true
+  },
+  "30019": {
+    "OriginalText": "？？？",
+    "Text": "",
+    "Enabled": false
+  },
+  "30020": {
+    "OriginalText": "一同",
+    "Text": "",
+    "Enabled": false
+  },
+  "30022": {
+    "OriginalText": "ルティナ＆セイル",
+    "Text": "",
+    "Enabled": false
+  },
+  "30030": {
+    "OriginalText": "ガーネット",
+    "Text": "",
+    "Enabled": false
+  },
+  "30031": {
+    "OriginalText": "サンシャウト",
+    "Text": "",
+    "Enabled": false
+  },
+  "30032": {
+    "OriginalText": "グラバー",
+    "Text": "",
+    "Enabled": false
+  },
+  "30033": {
+    "OriginalText": "コウエン",
+    "Text": "",
+    "Enabled": false
+  },
+  "30034": {
+    "OriginalText": "ズック",
+    "Text": "",
+    "Enabled": false
+  },
+  "30050": {
+    "OriginalText": "ブリッジクルー",
+    "Text": "",
+    "Enabled": false
+  },
+  "30051": {
+    "OriginalText": "先遣隊員",
+    "Text": "",
+    "Enabled": false
+  },
+  "30052": {
+    "OriginalText": "男兵土Ａ",
+    "Text": "",
+    "Enabled": false
+  },
+  "30053": {
+    "OriginalText": "男兵土Ｂ",
+    "Text": "",
+    "Enabled": false
+  },
+  "30054": {
+    "OriginalText": "男兵土Ｃ",
+    "Text": "",
+    "Enabled": false
+  },
+  "30055": {
+    "OriginalText": "男兵土Ｄ",
+    "Text": "",
+    "Enabled": false
+  },
+  "30056": {
+    "OriginalText": "男兵土Ｅ",
+    "Text": "",
+    "Enabled": false
+  },
+  "30057": {
+    "OriginalText": "女兵土Ａ",
+    "Text": "",
+    "Enabled": false
+  },
+  "30058": {
+    "OriginalText": "女兵土Ｂ",
+    "Text": "",
+    "Enabled": false
+  },
+  "30059": {
+    "OriginalText": "古代人の意志",
+    "Text": "",
+    "Enabled": false
+  },
+  "30060": {
+    "OriginalText": "ノヴァ",
+    "Text": "",
+    "Enabled": false
+  },
+  "30061": {
+    "OriginalText": "通信土",
+    "Text": "",
+    "Enabled": false
+  },
+  "35166": {
+    "OriginalText": "リョーマ",
+    "Text": "",
+    "Enabled": false
+  },
+  "35167": {
+    "OriginalText": "イルゲート",
+    "Text": "",
+    "Enabled": false
+  },
+  "35168": {
+    "OriginalText": "ブラック",
+    "Text": "",
+    "Enabled": false
+  },
+  "35169": {
+    "OriginalText": "ディーヴァス",
+    "Text": "",
+    "Enabled": false
+  },
+  "35170": {
+    "OriginalText": "ディーヴァス",
+    "Text": "",
+    "Enabled": false
+  },
+  "35350": {
+    "OriginalText": "レーヴァル",
+    "Text": "",
+    "Enabled": false
+  },
+  "35351": {
+    "OriginalText": "アーシェル",
+    "Text": "",
+    "Enabled": false
+  },
+  "35353": {
+    "OriginalText": "ディレッド",
+    "Text": "",
+    "Enabled": false
+  },
+  "35354": {
+    "OriginalText": "ヴァルメン",
+    "Text": "",
+    "Enabled": false
+  },
+  "35499": {
+    "OriginalText": "デスマスク",
+    "Text": "",
+    "Enabled": false
+  },
+  "35500": {
+    "OriginalText": "セガエイギョーマン",
+    "Text": "",
+    "Enabled": false
+  },
+  "35501": {
+    "OriginalText": "３Ｚー１０３",
+    "Text": "",
+    "Enabled": false
+  },
+  "35502": {
+    "OriginalText": "ハルライン",
+    "Text": "",
+    "Enabled": false
+  },
+  "35503": {
+    "OriginalText": "セスバルド",
+    "Text": "",
+    "Enabled": false
+  },
+  "35504": {
+    "OriginalText": "シショウ",
+    "Text": "",
+    "Enabled": false
+  },
+  "35505": {
+    "OriginalText": "ヒーベスト",
+    "Text": "",
+    "Enabled": false
+  },
+  "35665": {
+    "OriginalText": "ファティ",
+    "Text": "",
+    "Enabled": false
+  },
+  "35666": {
+    "OriginalText": "キャサリン",
+    "Text": "",
+    "Enabled": false
+  },
+  "35667": {
+    "OriginalText": "ルーティ",
+    "Text": "",
+    "Enabled": false
+  },
+  "35668": {
+    "OriginalText": "ミリザ",
+    "Text": "",
+    "Enabled": false
+  },
+  "35669": {
+    "OriginalText": "リーア",
+    "Text": "",
+    "Enabled": false
+  },
+  "35850": {
+    "OriginalText": "でんげきエレナ",
+    "Text": "",
+    "Enabled": false
+  },
+  "35851": {
+    "OriginalText": "でんげきのおねえさん",
+    "Text": "",
+    "Enabled": false
+  },
+  "35852": {
+    "OriginalText": "ステラ",
+    "Text": "",
+    "Enabled": false
+  },
+  "35853": {
+    "OriginalText": "セイナ",
+    "Text": "",
+    "Enabled": false
+  },
+  "35854": {
+    "OriginalText": "ターシャ",
+    "Text": "",
+    "Enabled": false
+  },
+  "35855": {
+    "OriginalText": "ラティス",
+    "Text": "",
+    "Enabled": false
+  },
+  "35856": {
+    "OriginalText": "リヴィ",
+    "Text": "",
+    "Enabled": false
+  },
+  "35857": {
+    "OriginalText": "サリュー",
+    "Text": "",
+    "Enabled": false
+  },
+  "35858": {
+    "OriginalText": "ネキコ",
+    "Text": "",
+    "Enabled": false
+  },
+  "35859": {
+    "OriginalText": "ネキミ",
+    "Text": "",
+    "Enabled": false
+  },
+  "35999": {
+    "OriginalText": "デンゲキばず～こ",
+    "Text": "",
+    "Enabled": false
+  },
+  "36000": {
+    "OriginalText": "スプリットコロナ",
+    "Text": "",
+    "Enabled": false
+  },
+  "36001": {
+    "OriginalText": "ティセリア",
+    "Text": "",
+    "Enabled": false
+  },
+  "36003": {
+    "OriginalText": "リューフィ",
+    "Text": "",
+    "Enabled": false
+  },
+  "36004": {
+    "OriginalText": "テニア",
+    "Text": "",
+    "Enabled": false
+  }
+}

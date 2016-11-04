@@ -1,0 +1,372 @@
+{
+  "570000": {
+    "OriginalText": "なし",
+    "Text": "None",
+    "Enabled": true
+  },
+  "570001": {
+    "OriginalText": "前方の広範囲と、近距離のエネミーに\n対して攻撃が可能。",
+    "Text": "",
+    "Enabled": false
+  },
+  "570002": {
+    "OriginalText": "目標を打ち上げて空中コンボへ\n連携する。",
+    "Text": "",
+    "Enabled": false
+  },
+  "570003": {
+    "OriginalText": "高く飛び上がり、回転攻撃を行った後に\n衝撃波を伴う降下攻撃を行う。",
+    "Text": "",
+    "Enabled": false
+  },
+  "570004": {
+    "OriginalText": "勢いよく回転しながら吹き飛ばし攻撃を\n行う。",
+    "Text": "",
+    "Enabled": false
+  },
+  "570005": {
+    "OriginalText": "グランによって具現化させた\n冷大の刃で目標を斬りつける。",
+    "Text": "",
+    "Enabled": false
+  },
+  "570006": {
+    "OriginalText": "目標を刃の腹で強打し、気絶させる。\n気絶状態の目標は無防備となる。",
+    "Text": "",
+    "Enabled": false
+  },
+  "570007": {
+    "OriginalText": "弓を引くように身体を振り絞り\n目標へ向けて斬撃を飛ばす。",
+    "Text": "",
+    "Enabled": false
+  },
+  "570008": {
+    "OriginalText": "空中にいる敵さえも叩き落とし、\n逢かなる高みから獲洋に襲いかかる。",
+    "Text": "",
+    "Enabled": false
+  },
+  "570009": {
+    "OriginalText": "攻撃できる角度が狭いが、\n空中に存在するエネミーにも\n攻撃を当てることが可能。",
+    "Text": "",
+    "Enabled": false
+  },
+  "570010": {
+    "OriginalText": "武器を振り回すことで、自身の周囲に\n存在する目標にダメージを与える。",
+    "Text": "",
+    "Enabled": false
+  },
+  "570011": {
+    "OriginalText": "長さを活かした鋭い攻撃を繰り出し\n復数の斬撃を飛ばす。",
+    "Text": "",
+    "Enabled": false
+  },
+  "570012": {
+    "OriginalText": "柄で目標を殴り、怯んだ隙に\n斬り上げて、天高く打ち上げる。",
+    "Text": "",
+    "Enabled": false
+  },
+  "570013": {
+    "OriginalText": "一閃とばかりの、真横なぎ払い攻撃。",
+    "Text": "",
+    "Enabled": false
+  },
+  "570014": {
+    "OriginalText": "一足のもと、間合いをつめた\n刺突攻撃を繰り出す。",
+    "Text": "",
+    "Enabled": false
+  },
+  "570015": {
+    "OriginalText": "二度の斬撃を見舞った後に舞うように\n攻撃し、距離を取る。",
+    "Text": "",
+    "Enabled": false
+  },
+  "570016": {
+    "OriginalText": "穂先にグランの力を集中させ、\n強力な連撃で貴く。",
+    "Text": "",
+    "Enabled": false
+  },
+  "570017": {
+    "OriginalText": "振り回して近距離のエネミーに対し\n多段攻撃を当てることが可能。",
+    "Text": "",
+    "Enabled": false
+  },
+  "570018": {
+    "OriginalText": "目標を打ち上げたのち、連撃で迎え、\n落下とともに斬り刻む。",
+    "Text": "",
+    "Enabled": false
+  },
+  "570019": {
+    "OriginalText": "両剣を弄びながら、目標に向けて\n強力な連続攻撃を見舞う。",
+    "Text": "",
+    "Enabled": false
+  },
+  "570020": {
+    "OriginalText": "肉体と両剣の輪舞によって\n目標を微塵に斬り刻む。",
+    "Text": "",
+    "Enabled": false
+  },
+  "570021": {
+    "OriginalText": "賜躍し、目標へ両剣を振り下ろす。\n攻撃と同時に、周囲に衝撃波が発生。",
+    "Text": "",
+    "Enabled": false
+  },
+  "570022": {
+    "OriginalText": "膂力を振り絞っての両剣投項攻撃。",
+    "Text": "",
+    "Enabled": false
+  },
+  "570023": {
+    "OriginalText": "素早く二度斬りつけた後、\n華魅に後方へと転進する。",
+    "Text": "",
+    "Enabled": false
+  },
+  "570024": {
+    "OriginalText": "華魅に攻撃を交わしながら、\n周囲の敵を攻撃する攻防一体の技。",
+    "Text": "",
+    "Enabled": false
+  },
+  "570025": {
+    "OriginalText": "超近距離で左ジャブ、右フック、\n左アッパーを素速く打ち込む。",
+    "Text": "",
+    "Enabled": false
+  },
+  "570026": {
+    "OriginalText": "攻撃をかいくぐる動きを見せつつ接近し\n渾身の一撃を叩き込む。",
+    "Text": "",
+    "Enabled": false
+  },
+  "570027": {
+    "OriginalText": "素早くリーチの長い攻撃で\n目標を釘付けにする。",
+    "Text": "",
+    "Enabled": false
+  },
+  "570028": {
+    "OriginalText": "８の字を描くように身体を振り回し\n腰の入った攻撃を連続で繰り出す。",
+    "Text": "",
+    "Enabled": false
+  },
+  "570029": {
+    "OriginalText": "身体をねじ込むように回転させ\nその勢いと共にアッパーを放つ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "570030": {
+    "OriginalText": "一足の下、目標との距離を詰め\n溜めた力を挙に乗せて叩き込む。",
+    "Text": "",
+    "Enabled": false
+  },
+  "570031": {
+    "OriginalText": "身体を捻りながら、目標に対して\n裏挙を三連続で放つ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "570032": {
+    "OriginalText": "左右の連打によって\n己の集中力を冷限まで高め、\n最後に強力な一撃を放つ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "570033": {
+    "OriginalText": "アサルトライフルの通常攻撃。",
+    "Text": "",
+    "Enabled": false
+  },
+  "570034": {
+    "OriginalText": "貴通性能のある弾丸を伝填、発射する。\n集束された一撃の威力は高い。",
+    "Text": "",
+    "Enabled": false
+  },
+  "570035": {
+    "OriginalText": "着弾炸裂する弾丸を伝填、発射する。\n爆発に多くの目標を巻き込む事が可能。",
+    "Text": "",
+    "Enabled": false
+  },
+  "570036": {
+    "OriginalText": "一点に射撃を集中させる。\nシンプルな分、純粋火力は高い。",
+    "Text": "",
+    "Enabled": false
+  },
+  "570037": {
+    "OriginalText": "スライディングしながら銃弾をばらまく\n移動を兼ねた技。",
+    "Text": "",
+    "Enabled": false
+  },
+  "570038": {
+    "OriginalText": "匍匐前進の後、任意のタイミングで\n不意打ち射撃を行うことが出来る。",
+    "Text": "",
+    "Enabled": false
+  },
+  "570039": {
+    "OriginalText": "銃弾を天へと向かい、ばらまいて\n無数の弾を雨のように降らせる。",
+    "Text": "",
+    "Enabled": false
+  },
+  "570040": {
+    "OriginalText": "遠距離攻撃を遮断するシールドを\n展開する。打撃攻撃には脆いので注意。",
+    "Text": "",
+    "Enabled": false
+  },
+  "570041": {
+    "OriginalText": "中近距離に対しての射撃。",
+    "Text": "",
+    "Enabled": false
+  },
+  "570042": {
+    "OriginalText": "強力な蹴撃で目標を打ち上げる。",
+    "Text": "",
+    "Enabled": false
+  },
+  "570043": {
+    "OriginalText": "目標を地に叩き伏せ、\n弾丸の雨を降らせる。",
+    "Text": "",
+    "Enabled": false
+  },
+  "570044": {
+    "OriginalText": "移動しながら無数の銃弾を放つ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "570045": {
+    "OriginalText": "深く腰を落とし、空を射貴くような\n強力な射撃を行う。",
+    "Text": "",
+    "Enabled": false
+  },
+  "570046": {
+    "OriginalText": "目標に対し、肉薄するほどの距離で\n銃と肉体の連動した連続攻撃を放つ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "570047": {
+    "OriginalText": "逆立ちの体勢をとり、\n周囲に回転蹴りを放つ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "570048": {
+    "OriginalText": "高く飛び上がり攻撃を回避し、\n近付いてきた敵をなぎ倒す。",
+    "Text": "",
+    "Enabled": false
+  },
+  "570049": {
+    "OriginalText": "振り上げと振り下ろしによって\nテクニックを発動する。リーチが長い。",
+    "Text": "",
+    "Enabled": false
+  },
+  "570050": {
+    "OriginalText": "遠距離に対してテクニックを\n撃つことが出来る。",
+    "Text": "",
+    "Enabled": false
+  },
+  "570051": {
+    "OriginalText": "振り上げと振り下ろしによって\nテクニックを発動する。リーチは短いが\n強力なダメージを与える。",
+    "Text": "",
+    "Enabled": false
+  },
+  "570052": {
+    "OriginalText": "正面に向かい、ブーストの勢いで\n体当たりのような突進で攻撃する。",
+    "Text": "",
+    "Enabled": false
+  },
+  "570053": {
+    "OriginalText": "杭を３発射出して敵に打ち込む。",
+    "Text": "",
+    "Enabled": false
+  },
+  "570054": {
+    "OriginalText": "敵に接近して杭を打ち込み、\nバーニアの勢いで吹き飛ばす。",
+    "Text": "",
+    "Enabled": false
+  },
+  "570055": {
+    "OriginalText": "周囲に杭を射出して\n復数の敵に杭を打ち込む。",
+    "Text": "",
+    "Enabled": false
+  },
+  "570056": {
+    "OriginalText": "バーニアの勢いで強力な\n体当たり攻撃を行う。",
+    "Text": "",
+    "Enabled": false
+  },
+  "570057": {
+    "OriginalText": "力を貯め込み、弾速の速い\n強力な一撃で杭を打ち込む。",
+    "Text": "",
+    "Enabled": false
+  },
+  "570058": {
+    "OriginalText": "ジャンプして空中で方向転換し、\nバーニアの勢いで蹴撃を放ちながら、\n至近距離から杭を射出して打ち込む。",
+    "Text": "",
+    "Enabled": false
+  },
+  "570059": {
+    "OriginalText": "バーニアの勢いで正面をなぎ払う。",
+    "Text": "",
+    "Enabled": false
+  },
+  "570060": {
+    "OriginalText": "活性化されたリングを射出する。",
+    "Text": "",
+    "Enabled": false
+  },
+  "570061": {
+    "OriginalText": "ギガンテスに打ち込むことで\n足場【リングフィールド】を作成する。",
+    "Text": "",
+    "Enabled": false
+  },
+  "570062": {
+    "OriginalText": "周囲に絶対防御の空間を作り出す。\nただし打撃攻撃には脆いので注意。",
+    "Text": "",
+    "Enabled": false
+  },
+  "570063": {
+    "OriginalText": "範囲内に侵入した敵に継続ダメージを\n与える空間を作り出し、目標に放つ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "570064": {
+    "OriginalText": "周囲にバインドの状態異常を\n与える空間を作り出す。",
+    "Text": "",
+    "Enabled": false
+  },
+  "570065": {
+    "OriginalText": "目標に瞬間移動し接近攻撃を行う。",
+    "Text": "",
+    "Enabled": false
+  },
+  "570066": {
+    "OriginalText": "目標へ向け追尾攻撃するグランの珪を\n頭上に発生させる。",
+    "Text": "",
+    "Enabled": false
+  },
+  "570067": {
+    "OriginalText": "腰溜めに構えてグランを蓄え、\n前方に手を突き出すと共に\nグランをレーザー状に放出する。",
+    "Text": "",
+    "Enabled": false
+  },
+  "570068": {
+    "OriginalText": "素手による殴打で左ジャブ、右フック、\n左アッパーを素速く打ち込むが、\n武器を持たないため打撃力は強くない。",
+    "Text": "",
+    "Enabled": false
+  },
+  "570069": {
+    "OriginalText": "攻撃をかいくぐる動きを見せつつ接近し\n渾身の一撃を叩き込む。",
+    "Text": "",
+    "Enabled": false
+  },
+  "570070": {
+    "OriginalText": "前方直線上への射撃。\n銃弾を3発、3段攻撃で発射する。\n広い範囲に対して攻撃が可能。",
+    "Text": "",
+    "Enabled": false
+  },
+  "570071": {
+    "OriginalText": "前方直線上への射撃。\n銃弾を1発、発射する。",
+    "Text": "",
+    "Enabled": false
+  },
+  "570072": {
+    "OriginalText": "前方直線上への射撃。\n銃弾を12発、発射する。",
+    "Text": "",
+    "Enabled": false
+  },
+  "570073": {
+    "OriginalText": "一瞬で標的との間合いを詰め、\n突きを放って隙を作らせたところに\n追撃の一太刀を浴びせる。",
+    "Text": "",
+    "Enabled": false
+  }
+}

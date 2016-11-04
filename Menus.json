@@ -1,0 +1,4247 @@
+{
+  "10701": {
+    "OriginalText": "標準ソート",
+    "Text": "Standard",
+    "Enabled": true
+  },
+  "10702": {
+    "OriginalText": "レアリティ高い順",
+    "Text": "Rarity: High to Low",
+    "Enabled": true
+  },
+  "10703": {
+    "OriginalText": "ロック付き",
+    "Text": "Lockable",
+    "Enabled": true
+  },
+  "10704": {
+    "OriginalText": "名前順",
+    "Text": "By Name",
+    "Enabled": true
+  },
+  "10705": {
+    "OriginalText": "打撃力高い順",
+    "Text": "S-ATK Descending",
+    "Enabled": true
+  },
+  "10706": {
+    "OriginalText": "射撃力高い順",
+    "Text": "R-ATK Descending",
+    "Enabled": true
+  },
+  "10707": {
+    "OriginalText": "法撃力高い順",
+    "Text": "T-ATK Descending",
+    "Enabled": true
+  },
+  "10708": {
+    "OriginalText": "打撃防御力高い順",
+    "Text": "S-DEF Descending",
+    "Enabled": true
+  },
+  "10709": {
+    "OriginalText": "射撃防御力高い順",
+    "Text": "R-DEF Descending",
+    "Enabled": true
+  },
+  "10710": {
+    "OriginalText": "法撃防御力高い順",
+    "Text": "T-DEF Descending",
+    "Enabled": true
+  },
+  "10711": {
+    "OriginalText": "未伝備優先",
+    "Text": "",
+    "Enabled": false
+  },
+  "10712": {
+    "OriginalText": "数量が多い順",
+    "Text": "",
+    "Enabled": false
+  },
+  "10713": {
+    "OriginalText": "ランク順",
+    "Text": "Rank",
+    "Enabled": true
+  },
+  "10714": {
+    "OriginalText": "性別順",
+    "Text": "Gender",
+    "Enabled": true
+  },
+  "10715": {
+    "OriginalText": "クラス順",
+    "Text": "Class",
+    "Enabled": true
+  },
+  "10716": {
+    "OriginalText": "最近プレイした順",
+    "Text": "Recently Used",
+    "Enabled": true
+  },
+  "10717": {
+    "OriginalText": "レベル順",
+    "Text": "Level",
+    "Enabled": true
+  },
+  "10718": {
+    "OriginalText": "登録順",
+    "Text": "Order Unlocked",
+    "Enabled": true
+  },
+  "10719": {
+    "OriginalText": "プレイ回数順",
+    "Text": "Number of uses",
+    "Enabled": true
+  },
+  "10801": {
+    "OriginalText": "ソード",
+    "Text": "Sword",
+    "Enabled": true
+  },
+  "10802": {
+    "OriginalText": "パルチザン",
+    "Text": "Partisan",
+    "Enabled": true
+  },
+  "10803": {
+    "OriginalText": "ダブルセイバー",
+    "Text": "Double Saber",
+    "Enabled": true
+  },
+  "10804": {
+    "OriginalText": "ナックル",
+    "Text": "Knuckles",
+    "Enabled": true
+  },
+  "10805": {
+    "OriginalText": "アサルトライフル",
+    "Text": "Assault Rifle",
+    "Enabled": true
+  },
+  "10806": {
+    "OriginalText": "ツインマシンガン",
+    "Text": "Twin Machineguns",
+    "Enabled": true
+  },
+  "10807": {
+    "OriginalText": "ロッド",
+    "Text": "Rod",
+    "Enabled": true
+  },
+  "10808": {
+    "OriginalText": "タリス",
+    "Text": "Talis",
+    "Enabled": true
+  },
+  "10809": {
+    "OriginalText": "ウォンド",
+    "Text": "Wand",
+    "Enabled": true
+  },
+  "10810": {
+    "OriginalText": "パイル",
+    "Text": "Pile",
+    "Enabled": true
+  },
+  "10811": {
+    "OriginalText": "ヘイロウ",
+    "Text": "Halo",
+    "Enabled": true
+  },
+  "10812": {
+    "OriginalText": "全員",
+    "Text": "",
+    "Enabled": false
+  },
+  "10813": {
+    "OriginalText": "あ行",
+    "Text": "",
+    "Enabled": false
+  },
+  "10814": {
+    "OriginalText": "か行",
+    "Text": "",
+    "Enabled": false
+  },
+  "10815": {
+    "OriginalText": "さ行",
+    "Text": "",
+    "Enabled": false
+  },
+  "10816": {
+    "OriginalText": "た行",
+    "Text": "",
+    "Enabled": false
+  },
+  "10817": {
+    "OriginalText": "な行",
+    "Text": "",
+    "Enabled": false
+  },
+  "10818": {
+    "OriginalText": "は行",
+    "Text": "",
+    "Enabled": false
+  },
+  "10819": {
+    "OriginalText": "ま行",
+    "Text": "",
+    "Enabled": false
+  },
+  "10820": {
+    "OriginalText": "や行",
+    "Text": "",
+    "Enabled": false
+  },
+  "10821": {
+    "OriginalText": "ら行",
+    "Text": "",
+    "Enabled": false
+  },
+  "10822": {
+    "OriginalText": "わ行",
+    "Text": "",
+    "Enabled": false
+  },
+  "10823": {
+    "OriginalText": "全ての武器",
+    "Text": "All weapons",
+    "Enabled": true
+  },
+  "10901": {
+    "OriginalText": "アクセス",
+    "Text": "Interact",
+    "Enabled": true
+  },
+  "10902": {
+    "OriginalText": "弱点",
+    "Text": "Weak",
+    "Enabled": true
+  },
+  "10903": {
+    "OriginalText": "全プレイヤーが揃うまで待機中です。\nしばらくお待ちください。\n[f 1c][a 03] で待機状態をキャンセルできます。[b]",
+    "Text": "",
+    "Enabled": false
+  },
+  "10904": {
+    "OriginalText": "次のエリアへ",
+    "Text": "To the Next Area",
+    "Enabled": true
+  },
+  "10905": {
+    "OriginalText": "前のエリアへ",
+    "Text": "Previous Area",
+    "Enabled": true
+  },
+  "10906": {
+    "OriginalText": "上層へ",
+    "Text": "",
+    "Enabled": false
+  },
+  "10907": {
+    "OriginalText": "中層へ",
+    "Text": "",
+    "Enabled": false
+  },
+  "10908": {
+    "OriginalText": "下層へ",
+    "Text": "",
+    "Enabled": false
+  },
+  "10909": {
+    "OriginalText": "クエストを終了しますか？",
+    "Text": "Finish the quest and return to base?",
+    "Enabled": true
+  },
+  "10910": {
+    "OriginalText": "ゲームを終了してタイトルに戻ります。\n\n[a 03]前回のセーブ似降のプレイ情報が失われますが、\nよろしいですか？[b]\n",
+    "Text": "This will exit the game and return to the title.\n[a 03]Any progress since your last save will be lost.\nContinue?[b]\n",
+    "Enabled": true
+  },
+  "10911": {
+    "OriginalText": "ターゲットを\nすべて撃破せよ！",
+    "Text": "",
+    "Enabled": false
+  },
+  "10912": {
+    "OriginalText": "指定位置を目指せ！",
+    "Text": "",
+    "Enabled": false
+  },
+  "10913": {
+    "OriginalText": "一時倉庫にアイテムが入っているため\nアクセスできません。\n一時倉庫を空にする必要があります。",
+    "Text": "",
+    "Enabled": false
+  },
+  "10914": {
+    "OriginalText": "クエストを開始しました。",
+    "Text": "The following quest has begun:",
+    "Enabled": true
+  },
+  "10915": {
+    "OriginalText": "拠点に戻らず、このまま\n次のクエストへ進むことができます。\n\n[a 03]拠点に戻ってもクエストを再開可能です。[b]\n\n次のクエストへ進みますか？",
+    "Text": "",
+    "Enabled": false
+  },
+  "11001": {
+    "OriginalText": "所持品",
+    "Text": "",
+    "Enabled": false
+  },
+  "11002": {
+    "OriginalText": "アイテム",
+    "Text": "Item",
+    "Enabled": true
+  },
+  "11003": {
+    "OriginalText": "伝備",
+    "Text": "Equipment",
+    "Enabled": true
+  },
+  "11004": {
+    "OriginalText": "重要アイテム",
+    "Text": "Key Items",
+    "Enabled": true
+  },
+  "11005": {
+    "OriginalText": "クエスト",
+    "Text": "Quests",
+    "Enabled": true
+  },
+  "11006": {
+    "OriginalText": "クエスト情報",
+    "Text": "Quest Info",
+    "Enabled": true
+  },
+  "11007": {
+    "OriginalText": "帰還",
+    "Text": "Return",
+    "Enabled": true
+  },
+  "11008": {
+    "OriginalText": "クラス",
+    "Text": "Class",
+    "Enabled": true
+  },
+  "11009": {
+    "OriginalText": "スキル習得",
+    "Text": "Learn Skills",
+    "Enabled": true
+  },
+  "11010": {
+    "OriginalText": "スキルボード",
+    "Text": "Skill Board",
+    "Enabled": true
+  },
+  "11011": {
+    "OriginalText": "コミュニティ",
+    "Text": "Community",
+    "Enabled": true
+  },
+  "11012": {
+    "OriginalText": "ゲストクルー",
+    "Text": "Guest Crew",
+    "Enabled": true
+  },
+  "11013": {
+    "OriginalText": "パーティー脱退",
+    "Text": "Leave Party",
+    "Enabled": true
+  },
+  "11014": {
+    "OriginalText": "システム",
+    "Text": "System",
+    "Enabled": true
+  },
+  "11015": {
+    "OriginalText": "セーブ",
+    "Text": "Save",
+    "Enabled": true
+  },
+  "11016": {
+    "OriginalText": "設定/ヘルプ",
+    "Text": "Settings/Help",
+    "Enabled": true
+  },
+  "11017": {
+    "OriginalText": "タイトルへ",
+    "Text": "Title Screen",
+    "Enabled": true
+  },
+  "11018": {
+    "OriginalText": "パーティー解散",
+    "Text": "Disband Party",
+    "Enabled": true
+  },
+  "11019": {
+    "OriginalText": "パーティー離脱",
+    "Text": "Leave Party",
+    "Enabled": true
+  },
+  "11020": {
+    "OriginalText": "プレイヤー",
+    "Text": "Player",
+    "Enabled": true
+  },
+  "11021": {
+    "OriginalText": "ゲームを終了",
+    "Text": "End Game",
+    "Enabled": true
+  },
+  "11101": {
+    "OriginalText": "預ける数を選択してください。",
+    "Text": "",
+    "Enabled": false
+  },
+  "11102": {
+    "OriginalText": "このアイテムを倉庫に預けます。\nよろしいですか？",
+    "Text": "",
+    "Enabled": false
+  },
+  "11103": {
+    "OriginalText": "捨てる数を選択してください。",
+    "Text": "Please select the number to discard.",
+    "Enabled": true
+  },
+  "11104": {
+    "OriginalText": "このアイテムを捨てます。\nよろしいですか？",
+    "Text": "This will discard the item(s).\nAre you sure?",
+    "Enabled": true
+  },
+  "11105": {
+    "OriginalText": "何も選択されていません。",
+    "Text": "Nothing has been selected.",
+    "Enabled": true
+  },
+  "11106": {
+    "OriginalText": "素手",
+    "Text": "Bare Hands",
+    "Enabled": true
+  },
+  "11107": {
+    "OriginalText": "退出",
+    "Text": "Leave",
+    "Enabled": true
+  },
+  "20001": {
+    "OriginalText": "ヒューマン  男性",
+    "Text": "Human\tMale",
+    "Enabled": true
+  },
+  "20002": {
+    "OriginalText": "ヒューマン  女性",
+    "Text": "Human\tFemale",
+    "Enabled": true
+  },
+  "20003": {
+    "OriginalText": "ニューマン  男性",
+    "Text": "Newman\tMale",
+    "Enabled": true
+  },
+  "20004": {
+    "OriginalText": "ニューマン  女性",
+    "Text": "Newman\tFemale",
+    "Enabled": true
+  },
+  "20005": {
+    "OriginalText": "キャスト   男性",
+    "Text": "Cast\tMale",
+    "Enabled": true
+  },
+  "20006": {
+    "OriginalText": "キャスト   女性",
+    "Text": "Cast\tFemale",
+    "Enabled": true
+  },
+  "20101": {
+    "OriginalText": "クラスを変更",
+    "Text": "Change Class",
+    "Enabled": true
+  },
+  "20102": {
+    "OriginalText": "GA/テクニックを習得",
+    "Text": "Learn GA/Techs",
+    "Enabled": true
+  },
+  "20103": {
+    "OriginalText": "エクスキューブ作成",
+    "Text": "Excube created",
+    "Enabled": true
+  },
+  "20104": {
+    "OriginalText": "炎属性テクニック",
+    "Text": "Fire Techniques",
+    "Enabled": true
+  },
+  "20105": {
+    "OriginalText": "劇属性テクニック",
+    "Text": "Ice Techniques",
+    "Enabled": true
+  },
+  "20106": {
+    "OriginalText": "雷属性テクニック",
+    "Text": "Lightning Techniques",
+    "Enabled": true
+  },
+  "20107": {
+    "OriginalText": "風属性テクニック",
+    "Text": "Wind Techniques",
+    "Enabled": true
+  },
+  "20108": {
+    "OriginalText": "光属性テクニック",
+    "Text": "Light Techniques",
+    "Enabled": true
+  },
+  "20109": {
+    "OriginalText": "闇属性テクニック",
+    "Text": "Dark Techniques",
+    "Enabled": true
+  },
+  "20110": {
+    "OriginalText": "この技を習得しますか？",
+    "Text": "",
+    "Enabled": false
+  },
+  "20111": {
+    "OriginalText": "この技のレベルをあげますか？",
+    "Text": "",
+    "Enabled": false
+  },
+  "20112": {
+    "OriginalText": "このテクニックを習得しますか？",
+    "Text": "",
+    "Enabled": false
+  },
+  "20113": {
+    "OriginalText": "このテクニックのレベルをあげますか？",
+    "Text": "",
+    "Enabled": false
+  },
+  "20114": {
+    "OriginalText": "習得しました。",
+    "Text": "Learned.",
+    "Enabled": true
+  },
+  "20115": {
+    "OriginalText": "レベルアップしました。",
+    "Text": "Leveled Up.",
+    "Enabled": true
+  },
+  "20116": {
+    "OriginalText": "伝備可能武器",
+    "Text": "This class can equip:",
+    "Enabled": true
+  },
+  "20117": {
+    "OriginalText": "一時倉庫にアイテムが入っているため\nアクセスできません。\n一時倉庫を空にする必要があります。",
+    "Text": "",
+    "Enabled": false
+  },
+  "20118": {
+    "OriginalText": "クラスリスト",
+    "Text": "Class List",
+    "Enabled": true
+  },
+  "20119": {
+    "OriginalText": "属性耐性",
+    "Text": "Attribute Resists",
+    "Enabled": true
+  },
+  "20120": {
+    "OriginalText": "クラスを変更します。\n\nハンター\n\nよろしいですか？",
+    "Text": "Changing class to:\r\n\r\nHunter\r\n\r\nAre you sure?",
+    "Enabled": true
+  },
+  "20121": {
+    "OriginalText": "クラスを変更します。\n\nレンジャー\n\nよろしいですか？",
+    "Text": "Changing class to:\r\n\r\nRanger\r\n\r\nAre you sure?",
+    "Enabled": true
+  },
+  "20122": {
+    "OriginalText": "クラスを変更します。\n\nフォース\n\nよろしいですか？",
+    "Text": "Changing class to:\r\n\r\nForce\r\n\r\nAre you sure?",
+    "Enabled": true
+  },
+  "20123": {
+    "OriginalText": "クラスを変更します。\n\nバスター\n\nよろしいですか？",
+    "Text": "Changing class to:\r\n\r\nBuster\r\n\r\nAre you sure?",
+    "Enabled": true
+  },
+  "20124": {
+    "OriginalText": "クラス変更を完了しました。",
+    "Text": "Class change complete.",
+    "Enabled": true
+  },
+  "20125": {
+    "OriginalText": "伝備メニューへ",
+    "Text": "Equip Menu",
+    "Enabled": true
+  },
+  "20126": {
+    "OriginalText": "クラス変更を完了しました。\n\nクラスを変更したことで\n使用不能となった伝備があります。",
+    "Text": "",
+    "Enabled": false
+  },
+  "20127": {
+    "OriginalText": "ハンター用エクスキューブ",
+    "Text": "Hunter Excube",
+    "Enabled": true
+  },
+  "20128": {
+    "OriginalText": "レンジャー用エクスキューブ",
+    "Text": "Ranger Excube",
+    "Enabled": true
+  },
+  "20129": {
+    "OriginalText": "フォース用エクスキューブ",
+    "Text": "",
+    "Enabled": false
+  },
+  "20130": {
+    "OriginalText": "マナ土用エクスキューブ",
+    "Text": "",
+    "Enabled": false
+  },
+  "20131": {
+    "OriginalText": "このエクスキューブを作成します。\n\nよろしいですか？",
+    "Text": "This will create an Excube.\n\nAre you sure?",
+    "Enabled": true
+  },
+  "20132": {
+    "OriginalText": "エクスキューブが完成しました。",
+    "Text": "Excube now complete.",
+    "Enabled": true
+  },
+  "20133": {
+    "OriginalText": "倉庫に預けて戻る",
+    "Text": "Deposit Into Storage",
+    "Enabled": true
+  },
+  "20134": {
+    "OriginalText": "アイテムパックがいっぱいなので倉庫に預けました。",
+    "Text": "Inventory was full, so item(s) were sent to storage.",
+    "Enabled": true
+  },
+  "20135": {
+    "OriginalText": "グランアーツを習得",
+    "Text": "Learn Gran Arts",
+    "Enabled": true
+  },
+  "20136": {
+    "OriginalText": "テクニックを習得",
+    "Text": "Learn Techniques",
+    "Enabled": true
+  },
+  "20137": {
+    "OriginalText": "現在のクラスではこの技は使えません。\nこの技を習得しますか？",
+    "Text": "",
+    "Enabled": false
+  },
+  "20138": {
+    "OriginalText": "現在のクラスではこの技は使えません。\nこの技のレベルを上げますか？",
+    "Text": "",
+    "Enabled": false
+  },
+  "20139": {
+    "OriginalText": "現在のクラスではこのテクニックは使えません。\nこのテクニックを習得しますか？",
+    "Text": "",
+    "Enabled": false
+  },
+  "20140": {
+    "OriginalText": "現在のクラスではこのテクニックは使えません。\nこの技のテクニックのレベルを上げますか？",
+    "Text": "",
+    "Enabled": false
+  },
+  "20201": {
+    "OriginalText": "カプセル解凍",
+    "Text": "Defrost Capsule",
+    "Enabled": true
+  },
+  "20202": {
+    "OriginalText": "パスワード入力",
+    "Text": "Enter Password",
+    "Enabled": true
+  },
+  "20203": {
+    "OriginalText": "[f 7f]",
+    "Text": "",
+    "Enabled": false
+  },
+  "20204": {
+    "OriginalText": "配属する",
+    "Text": "Assign",
+    "Enabled": true
+  },
+  "20205": {
+    "OriginalText": "３Ｄ確認する",
+    "Text": "3D Confirm",
+    "Enabled": true
+  },
+  "20206": {
+    "OriginalText": "リストに戻る",
+    "Text": "Back to the list",
+    "Enabled": true
+  },
+  "20207": {
+    "OriginalText": "パスワードを入力してください。",
+    "Text": "Please enter a password.",
+    "Enabled": true
+  },
+  "20208": {
+    "OriginalText": "スペシャルカプセルを解凍します。",
+    "Text": "Unlock the special capsule.",
+    "Enabled": true
+  },
+  "20209": {
+    "OriginalText": "パスワードが正しくありません。\n再度入力してください。",
+    "Text": "The password is incorrect.\nPlease try again.",
+    "Enabled": true
+  },
+  "20210": {
+    "OriginalText": "このパスワードは濃に使用済みです。",
+    "Text": "This password has already been used.",
+    "Enabled": true
+  },
+  "20211": {
+    "OriginalText": "[a 03]ＣＯＭＰＬＥＴＥ[b]",
+    "Text": "",
+    "Enabled": false
+  },
+  "20212": {
+    "OriginalText": "コンプリートボーナスをゲット",
+    "Text": "Complete Bonus GET",
+    "Enabled": true
+  },
+  "20213": {
+    "OriginalText": "報酬「",
+    "Text": "Reward 「",
+    "Enabled": true
+  },
+  "20214": {
+    "OriginalText": "配属メニューへ",
+    "Text": "Assign Menu",
+    "Enabled": true
+  },
+  "20215": {
+    "OriginalText": "シリーズ選択へ戻る",
+    "Text": "Back to Selection",
+    "Enabled": true
+  },
+  "20216": {
+    "OriginalText": "解凍クルー",
+    "Text": "Defrost Crew",
+    "Enabled": true
+  },
+  "20217": {
+    "OriginalText": "閉じる",
+    "Text": "Close",
+    "Enabled": true
+  },
+  "20218": {
+    "OriginalText": "コールドスリープカプセル",
+    "Text": "Cold Sleep Capsule",
+    "Enabled": true
+  },
+  "20219": {
+    "OriginalText": "コールドスリープは使用不能です",
+    "Text": "Cold Sleep is Unavailable",
+    "Enabled": true
+  },
+  "20220": {
+    "OriginalText": "解凍時に自動セーブされます。\n\nよろしいですか？",
+    "Text": "",
+    "Enabled": false
+  },
+  "20221": {
+    "OriginalText": "効果：",
+    "Text": "Effect:",
+    "Enabled": true
+  },
+  "20222": {
+    "OriginalText": "解凍する人数を選択してください。",
+    "Text": "",
+    "Enabled": false
+  },
+  "20223": {
+    "OriginalText": "全クルー情報",
+    "Text": "Crew Information",
+    "Enabled": true
+  },
+  "20301": {
+    "OriginalText": "武器伝備",
+    "Text": "Equip Weapon",
+    "Enabled": true
+  },
+  "20302": {
+    "OriginalText": "武器パレット伝備",
+    "Text": "Equip Gran Arts",
+    "Enabled": true
+  },
+  "20303": {
+    "OriginalText": "防具伝備",
+    "Text": "Equip Armor",
+    "Enabled": true
+  },
+  "20304": {
+    "OriginalText": "コスチューム伝備",
+    "Text": "Equip Costume",
+    "Enabled": true
+  },
+  "20305": {
+    "OriginalText": "サブパレット伝備",
+    "Text": "Subpalette Menu",
+    "Enabled": true
+  },
+  "20306": {
+    "OriginalText": "サブパレット１",
+    "Text": "Subpalette 1",
+    "Enabled": true
+  },
+  "20307": {
+    "OriginalText": "サブパレット２",
+    "Text": "Subpalette 2",
+    "Enabled": true
+  },
+  "20308": {
+    "OriginalText": "サブパレット３",
+    "Text": "Subpalette 3",
+    "Enabled": true
+  },
+  "20309": {
+    "OriginalText": "消費アイテム",
+    "Text": "Consumable Item",
+    "Enabled": true
+  },
+  "20310": {
+    "OriginalText": "ロビーアクション",
+    "Text": "Lobby Action",
+    "Enabled": true
+  },
+  "20311": {
+    "OriginalText": "ギガンテスブラスト",
+    "Text": "Gigantes Blast",
+    "Enabled": true
+  },
+  "20312": {
+    "OriginalText": "アクションを外しますか？",
+    "Text": "Do you wish to remove this action?",
+    "Enabled": true
+  },
+  "20313": {
+    "OriginalText": "ギガンテス",
+    "Text": "Gigantes",
+    "Enabled": true
+  },
+  "20314": {
+    "OriginalText": "サブパレット切替え 次へ",
+    "Text": "Subpalette Next",
+    "Enabled": true
+  },
+  "20315": {
+    "OriginalText": "サブパレット切替え 前へ",
+    "Text": "Subpalette Previous",
+    "Enabled": true
+  },
+  "20401": {
+    "OriginalText": "お気に入り",
+    "Text": "Favorite",
+    "Enabled": true
+  },
+  "20402": {
+    "OriginalText": "最近遊んだゲストクルー",
+    "Text": "Recently Used",
+    "Enabled": true
+  },
+  "20403": {
+    "OriginalText": "キャラクター表示",
+    "Text": "Display Character",
+    "Enabled": true
+  },
+  "20404": {
+    "OriginalText": "お気に入り登録",
+    "Text": "Save Bookmark",
+    "Enabled": true
+  },
+  "20405": {
+    "OriginalText": "お気に入り解除",
+    "Text": "",
+    "Enabled": false
+  },
+  "20406": {
+    "OriginalText": "お気に入りを解除します。\nよろしいですか？",
+    "Text": "",
+    "Enabled": false
+  },
+  "20407": {
+    "OriginalText": "お気に入りに登録しました。",
+    "Text": "",
+    "Enabled": false
+  },
+  "20408": {
+    "OriginalText": "プレイ時間",
+    "Text": "Play Time",
+    "Enabled": true
+  },
+  "20409": {
+    "OriginalText": "マルチプレイ回数",
+    "Text": "MP Play Count",
+    "Enabled": true
+  },
+  "20410": {
+    "OriginalText": "協力クリア回数",
+    "Text": "",
+    "Enabled": false
+  },
+  "20411": {
+    "OriginalText": "最終更新日",
+    "Text": "Last Updated",
+    "Enabled": true
+  },
+  "20412": {
+    "OriginalText": "なし",
+    "Text": "None",
+    "Enabled": true
+  },
+  "20501": {
+    "OriginalText": "すべて",
+    "Text": "All",
+    "Enabled": true
+  },
+  "20502": {
+    "OriginalText": "武器",
+    "Text": "Weapons",
+    "Enabled": true
+  },
+  "20503": {
+    "OriginalText": "シールドユニット",
+    "Text": "Shields",
+    "Enabled": true
+  },
+  "20504": {
+    "OriginalText": "コスチューム",
+    "Text": "Costume",
+    "Enabled": true
+  },
+  "20505": {
+    "OriginalText": "アタッチパーツ",
+    "Text": "Attachments",
+    "Enabled": true
+  },
+  "20506": {
+    "OriginalText": "村料",
+    "Text": "Materials",
+    "Enabled": true
+  },
+  "20507": {
+    "OriginalText": "消耗品",
+    "Text": "Consumables",
+    "Enabled": true
+  },
+  "20508": {
+    "OriginalText": "補助アイテム",
+    "Text": "Assist Items",
+    "Enabled": true
+  },
+  "20509": {
+    "OriginalText": "使う",
+    "Text": "Use",
+    "Enabled": true
+  },
+  "20510": {
+    "OriginalText": "倉庫に預ける( [e 02 00]/[e 03 00] )",
+    "Text": "Deposit to Storage ([e 02 00]/[e 03 00])",
+    "Enabled": true
+  },
+  "20511": {
+    "OriginalText": "捨てる",
+    "Text": "Discard",
+    "Enabled": true
+  },
+  "20512": {
+    "OriginalText": "服",
+    "Text": "Clothes",
+    "Enabled": true
+  },
+  "20513": {
+    "OriginalText": "キャストパーツ",
+    "Text": "Cast Parts",
+    "Enabled": true
+  },
+  "20514": {
+    "OriginalText": "回復アイテム",
+    "Text": "Recovery Items",
+    "Enabled": true
+  },
+  "20515": {
+    "OriginalText": "グラン結晶",
+    "Text": "Gran Crystals",
+    "Enabled": true
+  },
+  "20601": {
+    "OriginalText": "アイテムを作る",
+    "Text": "Create Items",
+    "Enabled": true
+  },
+  "20602": {
+    "OriginalText": "作成する数を選択してください。",
+    "Text": "Select the amount you wish to create.",
+    "Enabled": true
+  },
+  "20603": {
+    "OriginalText": "よろしいですか？",
+    "Text": "Is this OK?",
+    "Enabled": true
+  },
+  "20604": {
+    "OriginalText": "作成中",
+    "Text": "Is being created",
+    "Enabled": true
+  },
+  "20605": {
+    "OriginalText": "アイテムが完成しました。",
+    "Text": "The selected item was created.",
+    "Enabled": true
+  },
+  "20606": {
+    "OriginalText": "一時倉庫にアイテムが入っているため\nアクセスできません。\n一時倉庫を空にする必要があります。",
+    "Text": "",
+    "Enabled": false
+  },
+  "20607": {
+    "OriginalText": "倉庫にアイテムを作る",
+    "Text": "Create Items (Storage)",
+    "Enabled": true
+  },
+  "20701": {
+    "OriginalText": "施設の設置と移動",
+    "Text": "Facility Placement",
+    "Enabled": true
+  },
+  "20702": {
+    "OriginalText": "施設の開発",
+    "Text": "Develop Facilities",
+    "Enabled": true
+  },
+  "20703": {
+    "OriginalText": "クルー配属",
+    "Text": "Crew Assignment",
+    "Enabled": true
+  },
+  "20704": {
+    "OriginalText": "オペレーターの交代",
+    "Text": "Change Operator",
+    "Enabled": true
+  },
+  "20705": {
+    "OriginalText": "グラン精製",
+    "Text": "Purify Gran",
+    "Enabled": true
+  },
+  "20706": {
+    "OriginalText": "新兵器研究",
+    "Text": "Research New Weapons",
+    "Enabled": true
+  },
+  "20707": {
+    "OriginalText": "新武器研究",
+    "Text": "Research New Weapons",
+    "Enabled": true
+  },
+  "20708": {
+    "OriginalText": "観測伝置研究",
+    "Text": "Research Observation Device",
+    "Enabled": true
+  },
+  "20709": {
+    "OriginalText": "大型パイル研究",
+    "Text": "Research Piles",
+    "Enabled": true
+  },
+  "20710": {
+    "OriginalText": "グランドライブ研究",
+    "Text": "Research Gran",
+    "Enabled": true
+  },
+  "20711": {
+    "OriginalText": "グランドライブの研究を開始しました。",
+    "Text": "",
+    "Enabled": false
+  },
+  "20712": {
+    "OriginalText": "対ギガンテス用新兵器の研究を開始します。\nグランエナジーが [e 00 00] 必要です。\nよろしいですか？\n",
+    "Text": "",
+    "Enabled": false
+  },
+  "20713": {
+    "OriginalText": "対ギガンテス用武器の研究を開始します。\nグランエナジーが [e 00 00] 必要です。\nよろしいですか？\n",
+    "Text": "",
+    "Enabled": false
+  },
+  "20714": {
+    "OriginalText": "観測伝置の研究を開始します。\nグランエナジーが [e 00 00] 必要です。\nよろしいですか？\n",
+    "Text": "",
+    "Enabled": false
+  },
+  "20715": {
+    "OriginalText": "大型パイルの研究を開始します。\nグランエナジーが [e 00 00] 必要です。\nよろしいですか？\n",
+    "Text": "",
+    "Enabled": false
+  },
+  "20716": {
+    "OriginalText": "グランドライブの研究を開始します。\nグランエナジーが [e 00 00] 必要です。\nよろしいですか？\n",
+    "Text": "",
+    "Enabled": false
+  },
+  "20717": {
+    "OriginalText": "対ギガンテス用新兵器の研究を開始しました。",
+    "Text": "",
+    "Enabled": false
+  },
+  "20718": {
+    "OriginalText": "対ギガンテス用武器の研究を開始しました。",
+    "Text": "",
+    "Enabled": false
+  },
+  "20719": {
+    "OriginalText": "観測伝置の研究を開始しました。",
+    "Text": "",
+    "Enabled": false
+  },
+  "20720": {
+    "OriginalText": "大型パイルの研究を開始しました。",
+    "Text": "",
+    "Enabled": false
+  },
+  "20801": {
+    "OriginalText": "ショップ",
+    "Text": "Shop",
+    "Enabled": true
+  },
+  "20802": {
+    "OriginalText": "インテリア",
+    "Text": "Interior",
+    "Enabled": true
+  },
+  "20803": {
+    "OriginalText": "施設",
+    "Text": "Facility",
+    "Enabled": true
+  },
+  "20804": {
+    "OriginalText": "\n\n完成しました。\n配置しますか？",
+    "Text": "",
+    "Enabled": false
+  },
+  "20805": {
+    "OriginalText": "\n\n開発します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "20806": {
+    "OriginalText": "マルチプレイ中は\nリーダー似外はアクセスできません。\n\n[a 03]※ストーリーを進めるためにアクセスが必要な場合、\n マルチプレイを一度切断してアクセスし、\n ストーリーを進行させてから\n マルチプレイを再開してください。[b]",
+    "Text": "",
+    "Enabled": false
+  },
+  "20807": {
+    "OriginalText": "コスト",
+    "Text": "Cost",
+    "Enabled": true
+  },
+  "20901": {
+    "OriginalText": "移動",
+    "Text": "Move",
+    "Enabled": true
+  },
+  "20902": {
+    "OriginalText": "回収",
+    "Text": "Recovery",
+    "Enabled": true
+  },
+  "20903": {
+    "OriginalText": "サイズ",
+    "Text": "Size",
+    "Enabled": true
+  },
+  "20904": {
+    "OriginalText": "空き地",
+    "Text": "Vacant Lot",
+    "Enabled": true
+  },
+  "20905": {
+    "OriginalText": "上層",
+    "Text": "Upper Layer",
+    "Enabled": true
+  },
+  "20906": {
+    "OriginalText": "ラボ前広場",
+    "Text": "Lab Front Square",
+    "Enabled": true
+  },
+  "20907": {
+    "OriginalText": "中層",
+    "Text": "Middle Layer",
+    "Enabled": true
+  },
+  "20908": {
+    "OriginalText": "下層",
+    "Text": "Lower Layer",
+    "Enabled": true
+  },
+  "20909": {
+    "OriginalText": "回収しますか？",
+    "Text": "",
+    "Enabled": false
+  },
+  "20910": {
+    "OriginalText": "どの階層に配置しますか？",
+    "Text": "",
+    "Enabled": false
+  },
+  "20911": {
+    "OriginalText": "スタッフ一覧",
+    "Text": "Staff List",
+    "Enabled": true
+  },
+  "20912": {
+    "OriginalText": "\n\n続けて配置しますか？",
+    "Text": "",
+    "Enabled": false
+  },
+  "20913": {
+    "OriginalText": "床",
+    "Text": "Floor",
+    "Enabled": true
+  },
+  "20914": {
+    "OriginalText": "床を外す",
+    "Text": "Remove the Floor",
+    "Enabled": true
+  },
+  "20915": {
+    "OriginalText": "コスト順",
+    "Text": "Cost",
+    "Enabled": true
+  },
+  "20916": {
+    "OriginalText": "設置コストオーバー。設置できません。",
+    "Text": "",
+    "Enabled": false
+  },
+  "20917": {
+    "OriginalText": "\n\n[a 03]床は自動的に位置決定されます。[b]",
+    "Text": "",
+    "Enabled": false
+  },
+  "21001": {
+    "OriginalText": "適正タブ数順",
+    "Text": "",
+    "Enabled": false
+  },
+  "21002": {
+    "OriginalText": "適正レベル順",
+    "Text": "",
+    "Enabled": false
+  },
+  "21003": {
+    "OriginalText": "TOTAL",
+    "Text": "",
+    "Enabled": false
+  },
+  "21004": {
+    "OriginalText": "すでに他のクルーが配属されています。",
+    "Text": "",
+    "Enabled": false
+  },
+  "21005": {
+    "OriginalText": "交代クルーリスト",
+    "Text": "Change Crew List",
+    "Enabled": true
+  },
+  "21006": {
+    "OriginalText": "配属先",
+    "Text": "Assigned",
+    "Enabled": true
+  },
+  "21007": {
+    "OriginalText": "このクルーはすでに配属されています",
+    "Text": "",
+    "Enabled": false
+  },
+  "21008": {
+    "OriginalText": "探索隊",
+    "Text": "Search Team",
+    "Enabled": true
+  },
+  "21009": {
+    "OriginalText": "通信中です",
+    "Text": "Connecting",
+    "Enabled": true
+  },
+  "21010": {
+    "OriginalText": "このクルーを配属します。\nよろしいですか？",
+    "Text": "Do you really want to\nassign this crew?",
+    "Enabled": true
+  },
+  "21011": {
+    "OriginalText": "配属済み",
+    "Text": "Assigned",
+    "Enabled": true
+  },
+  "21012": {
+    "OriginalText": "未配属",
+    "Text": "Not Assigned",
+    "Enabled": true
+  },
+  "21013": {
+    "OriginalText": "クルーを配属からはずします。\n\nよろしいですか？",
+    "Text": "",
+    "Enabled": false
+  },
+  "21014": {
+    "OriginalText": "自動配属をおこないます。",
+    "Text": "",
+    "Enabled": false
+  },
+  "21015": {
+    "OriginalText": "空き",
+    "Text": "Empty",
+    "Enabled": true
+  },
+  "21016": {
+    "OriginalText": "自動配属をおこないました。",
+    "Text": "",
+    "Enabled": false
+  },
+  "21017": {
+    "OriginalText": "空いているクルーがいませんでした。",
+    "Text": "",
+    "Enabled": false
+  },
+  "21018": {
+    "OriginalText": "すべてのショップと施設に自動配属します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "21019": {
+    "OriginalText": "クルー情報",
+    "Text": "Crew Info",
+    "Enabled": true
+  },
+  "21020": {
+    "OriginalText": "効果：",
+    "Text": "Effect:",
+    "Enabled": true
+  },
+  "21101": {
+    "OriginalText": "パーティーを結成",
+    "Text": "Form Party",
+    "Enabled": true
+  },
+  "21102": {
+    "OriginalText": "パーティーへ参加",
+    "Text": "Join Party",
+    "Enabled": true
+  },
+  "21103": {
+    "OriginalText": "メンバー決定を押すと\n現在のメンバーでパーティーを結成します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "21104": {
+    "OriginalText": "メンバー決定",
+    "Text": "Member Decision",
+    "Enabled": true
+  },
+  "21105": {
+    "OriginalText": "パーティー集集中止",
+    "Text": "",
+    "Enabled": false
+  },
+  "21106": {
+    "OriginalText": "パーティー集集を中止します。\nよろしいですか？",
+    "Text": "",
+    "Enabled": false
+  },
+  "21107": {
+    "OriginalText": "パーティーリスト",
+    "Text": "Party List",
+    "Enabled": true
+  },
+  "21108": {
+    "OriginalText": "リスト更新",
+    "Text": "Update List",
+    "Enabled": true
+  },
+  "21109": {
+    "OriginalText": "リストを更新してください。",
+    "Text": "",
+    "Enabled": false
+  },
+  "21110": {
+    "OriginalText": "このパーティーに参加します。\nよろしいですか？",
+    "Text": "",
+    "Enabled": false
+  },
+  "21111": {
+    "OriginalText": "このパーティー集集は終了しました。",
+    "Text": "",
+    "Enabled": false
+  },
+  "21112": {
+    "OriginalText": "パーティーに参加しました。\nリーダーがメンバーを決定するまで\nしばらくお待ちください。",
+    "Text": "",
+    "Enabled": false
+  },
+  "21113": {
+    "OriginalText": "パーティー参加を中止します。\n\nよろしいですか？",
+    "Text": "",
+    "Enabled": false
+  },
+  "21114": {
+    "OriginalText": "中止",
+    "Text": "Stop",
+    "Enabled": true
+  },
+  "21115": {
+    "OriginalText": "すでにパーティーに参加しています。",
+    "Text": "",
+    "Enabled": false
+  },
+  "21116": {
+    "OriginalText": "マルチプレイ中は\nリーダー似外はアクセスできません。\n\n[a 03]※ストーリーを進めるためにアクセスが必要な場合、\n マルチプレイを一度切断してアクセスし、\n ストーリーを進行させてから\n マルチプレイを再開してください。[b]",
+    "Text": "",
+    "Enabled": false
+  },
+  "21117": {
+    "OriginalText": "[a 03]【 注 意 】[b]",
+    "Text": "[a 03]【 Caution 】[b]",
+    "Enabled": true
+  },
+  "21118": {
+    "OriginalText": "\n[a 03]ゲームのバージョンが異なると\nマッチングができないことがあります。[b]",
+    "Text": "",
+    "Enabled": false
+  },
+  "21119": {
+    "OriginalText": "パーティーへの参加に失敗しました。",
+    "Text": "",
+    "Enabled": false
+  },
+  "21120": {
+    "OriginalText": "パーティーに参加しました。",
+    "Text": "",
+    "Enabled": false
+  },
+  "21121": {
+    "OriginalText": "メンバーがいない状態では\nパーティー結成できません。",
+    "Text": "",
+    "Enabled": false
+  },
+  "21122": {
+    "OriginalText": "このパーティーの集集は終了しました。",
+    "Text": "",
+    "Enabled": false
+  },
+  "21123": {
+    "OriginalText": "パーティーの参加を依頼しました。\nリーダーがメンバーを決定するまで\nしばらくお待ちください。",
+    "Text": "",
+    "Enabled": false
+  },
+  "21124": {
+    "OriginalText": "パーティーの参加を依頼しました。\nリーダーがメンバーを決定するまで\nしばらくお待ちください。",
+    "Text": "",
+    "Enabled": false
+  },
+  "21125": {
+    "OriginalText": "[f 1c] ：パーティー解散メニューを開く",
+    "Text": "",
+    "Enabled": false
+  },
+  "21126": {
+    "OriginalText": "[f 1c] ：パーティー離脱メニューを開く",
+    "Text": "",
+    "Enabled": false
+  },
+  "21127": {
+    "OriginalText": "このクエストを終了し、\n通信を切断して自分の拠点へ戻ります。\nパーティを解散しますか？",
+    "Text": "",
+    "Enabled": false
+  },
+  "21128": {
+    "OriginalText": "このクエストを終了し、\n通信を切断して自分の拠点へ戻ります。\nパーティを離脱しますか？",
+    "Text": "",
+    "Enabled": false
+  },
+  "21201": {
+    "OriginalText": "約束",
+    "Text": "Promise Order",
+    "Enabled": true
+  },
+  "21202": {
+    "OriginalText": "頼みごとをしたい",
+    "Text": "",
+    "Enabled": false
+  },
+  "21203": {
+    "OriginalText": "話をする",
+    "Text": "Talk",
+    "Enabled": true
+  },
+  "21204": {
+    "OriginalText": "目標",
+    "Text": "Goal",
+    "Enabled": true
+  },
+  "21205": {
+    "OriginalText": "を受託します。\nよろしいですか？",
+    "Text": "",
+    "Enabled": false
+  },
+  "21206": {
+    "OriginalText": "を破棄します。\nよろしいですか？",
+    "Text": "",
+    "Enabled": false
+  },
+  "21207": {
+    "OriginalText": "を報告します。\nよろしいですか？",
+    "Text": "",
+    "Enabled": false
+  },
+  "21208": {
+    "OriginalText": "別のプロミスオーダーを受けています。",
+    "Text": "",
+    "Enabled": false
+  },
+  "21209": {
+    "OriginalText": "プロミスオーダーの目標を達成した！",
+    "Text": "You've achieved a Promise Order goal!",
+    "Enabled": true
+  },
+  "21210": {
+    "OriginalText": "受注中のクエストはありません。",
+    "Text": "No Quest Available.",
+    "Enabled": true
+  },
+  "21211": {
+    "OriginalText": "発生している効果はありません。",
+    "Text": "No Effects Active.",
+    "Enabled": true
+  },
+  "21212": {
+    "OriginalText": "を破棄しました。",
+    "Text": "was destroyed.",
+    "Enabled": true
+  },
+  "21213": {
+    "OriginalText": "依頼者より",
+    "Text": "Requester",
+    "Enabled": true
+  },
+  "21214": {
+    "OriginalText": "のプロミスオーダー",
+    "Text": "'s Promise Orders",
+    "Enabled": true
+  },
+  "21215": {
+    "OriginalText": "このプロミスオーダーは目標達成済みです。\n依頼者に報告してください。",
+    "Text": "Completed a Promise Order.\nReturn to requester.",
+    "Enabled": true
+  },
+  "21216": {
+    "OriginalText": "達成報酬",
+    "Text": "Achivement Reward",
+    "Enabled": true
+  },
+  "21217": {
+    "OriginalText": "プロミスオーダーを受託しました。",
+    "Text": "You've accepted the Promise Order.",
+    "Enabled": true
+  },
+  "21218": {
+    "OriginalText": "プロミスオーダーを破棄しました。",
+    "Text": "You've cancelled the Promise Order.",
+    "Enabled": true
+  },
+  "21219": {
+    "OriginalText": "プロミスオーダーを達成しました。",
+    "Text": "You completed the Promise Order.",
+    "Enabled": true
+  },
+  "21220": {
+    "OriginalText": "約束の確認",
+    "Text": "Promise Orders",
+    "Enabled": true
+  },
+  "21221": {
+    "OriginalText": "拠点に施設が追加されました。",
+    "Text": "",
+    "Enabled": false
+  },
+  "21222": {
+    "OriginalText": "プロミスオーダー",
+    "Text": "Promise Order",
+    "Enabled": true
+  },
+  "21223": {
+    "OriginalText": "プロミスオーダーが追加されました。",
+    "Text": "A new Promise Order is available.",
+    "Enabled": true
+  },
+  "21224": {
+    "OriginalText": "依頼人：",
+    "Text": "Client:",
+    "Enabled": true
+  },
+  "21225": {
+    "OriginalText": "達成数/目標数",
+    "Text": "Amount/Target",
+    "Enabled": true
+  },
+  "21301": {
+    "OriginalText": "ガッツ料理",
+    "Text": "Guts Cuisine",
+    "Enabled": true
+  },
+  "21302": {
+    "OriginalText": "スタミナ料理",
+    "Text": "Stamina Cuisine",
+    "Enabled": true
+  },
+  "21303": {
+    "OriginalText": "グルメ料理",
+    "Text": "Gourmet Cuisine",
+    "Enabled": true
+  },
+  "21304": {
+    "OriginalText": "攻撃力up",
+    "Text": "ATK UP",
+    "Enabled": true
+  },
+  "21305": {
+    "OriginalText": "防御力up",
+    "Text": "DEF UP",
+    "Enabled": true
+  },
+  "21306": {
+    "OriginalText": "特殊効果up",
+    "Text": "Special UP",
+    "Enabled": true
+  },
+  "21307": {
+    "OriginalText": "この料理を注文します。\nよろしいですか？",
+    "Text": "This will order the dish.\nIs that OK?",
+    "Enabled": true
+  },
+  "21308": {
+    "OriginalText": "ランク",
+    "Text": "Rank",
+    "Enabled": true
+  },
+  "21309": {
+    "OriginalText": "をおいしくいただいた。",
+    "Text": " - It was delicious.",
+    "Enabled": true
+  },
+  "21310": {
+    "OriginalText": "すでに料理を食べています。\n一度クエストを開始し、拠点に帰還するまで、\n食堂を利用することはできません。",
+    "Text": "You have already eaten food.\nYou will not be able to use the Food Shop\nuntil you have completed a quest.",
+    "Enabled": true
+  },
+  "21311": {
+    "OriginalText": "？？？",
+    "Text": "",
+    "Enabled": false
+  },
+  "21312": {
+    "OriginalText": "？？？",
+    "Text": "",
+    "Enabled": false
+  },
+  "21313": {
+    "OriginalText": "？？？？？？？？？？？\n？？？？？？？？？？？",
+    "Text": "",
+    "Enabled": false
+  },
+  "21401": {
+    "OriginalText": "ＰＲＥＳＳ ＳＴＡＲＴ ＢＵＴＴＯＮ",
+    "Text": "PRESS START BUTTON",
+    "Enabled": true
+  },
+  "21402": {
+    "OriginalText": "ＮＥＷ ＧＡＭＥ",
+    "Text": "",
+    "Enabled": false
+  },
+  "21403": {
+    "OriginalText": "ＣＯＮＴＩＮＵＥ（ＬＯＡＤ ＤＡＴＡ）",
+    "Text": "",
+    "Enabled": false
+  },
+  "21501": {
+    "OriginalText": "アイテムパックを開く",
+    "Text": "Send To Storage",
+    "Enabled": true
+  },
+  "21502": {
+    "OriginalText": "通常倉庫を開く",
+    "Text": "Withdraw From Storage",
+    "Enabled": true
+  },
+  "21503": {
+    "OriginalText": "一時倉庫を開く",
+    "Text": "Open Temp Storage",
+    "Enabled": true
+  },
+  "21504": {
+    "OriginalText": "取り出す( [e 00 00]/[e 01 00] )",
+    "Text": "Retrieve ([e 00 00]/[e 01 00])",
+    "Enabled": true
+  },
+  "21505": {
+    "OriginalText": "アイテムパックへ取り出す( [e 00 00]/[e 01 00] )",
+    "Text": "Withdraw to Item Pack ([e 00 00]/[e 01 00])",
+    "Enabled": true
+  },
+  "21506": {
+    "OriginalText": "通常倉庫へ取り出す( [e 02 00]/[e 03 00] )",
+    "Text": "Send to Storage ([e 00 00]/[e 01 00])",
+    "Enabled": true
+  },
+  "21507": {
+    "OriginalText": "所持品がいっぱいになりました。",
+    "Text": "Item Pack is full.",
+    "Enabled": true
+  },
+  "21508": {
+    "OriginalText": "倉庫に送りました。",
+    "Text": "Sent to Storage.",
+    "Enabled": true
+  },
+  "21509": {
+    "OriginalText": "倉庫がいっぱいになりました。",
+    "Text": "Storage is full.",
+    "Enabled": true
+  },
+  "21510": {
+    "OriginalText": "倉庫容量",
+    "Text": "Storage",
+    "Enabled": true
+  },
+  "21511": {
+    "OriginalText": "倉庫容量",
+    "Text": "Storage",
+    "Enabled": true
+  },
+  "21512": {
+    "OriginalText": "取り出す数を選択してください。",
+    "Text": "Delect the number to retrieve.",
+    "Enabled": true
+  },
+  "21601": {
+    "OriginalText": "武器を作る",
+    "Text": "Create Weapons",
+    "Enabled": true
+  },
+  "21602": {
+    "OriginalText": "アタッチパーツを作る",
+    "Text": "Create Attachments",
+    "Enabled": true
+  },
+  "21603": {
+    "OriginalText": "武器のカスタマイズ",
+    "Text": "Customize Weapons",
+    "Enabled": true
+  },
+  "21604": {
+    "OriginalText": "外す",
+    "Text": "Remove",
+    "Enabled": true
+  },
+  "21605": {
+    "OriginalText": "交換",
+    "Text": "Swap",
+    "Enabled": true
+  },
+  "21606": {
+    "OriginalText": "編集",
+    "Text": "Edit",
+    "Enabled": true
+  },
+  "21607": {
+    "OriginalText": "伝備する",
+    "Text": "Equip",
+    "Enabled": true
+  },
+  "21608": {
+    "OriginalText": "カスタマイズする",
+    "Text": "Customize",
+    "Enabled": true
+  },
+  "21609": {
+    "OriginalText": "戻る",
+    "Text": "Return",
+    "Enabled": true
+  },
+  "21610": {
+    "OriginalText": "武器が完成しました。",
+    "Text": "Weapon creation completed.",
+    "Enabled": true
+  },
+  "21611": {
+    "OriginalText": "この武器を作成します。\nよろしいですか？",
+    "Text": "This will create the selected weapon.\nContinue?",
+    "Enabled": true
+  },
+  "21612": {
+    "OriginalText": "カスタマイズを終了します。\n\nよろしいですか？",
+    "Text": "This will exit customization.\n\nContinue?",
+    "Enabled": true
+  },
+  "21613": {
+    "OriginalText": "コア",
+    "Text": "Cores",
+    "Enabled": true
+  },
+  "21614": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "21615": {
+    "OriginalText": "必要素村",
+    "Text": "",
+    "Enabled": false
+  },
+  "21616": {
+    "OriginalText": "必要個数",
+    "Text": "Necessary Number",
+    "Enabled": true
+  },
+  "21617": {
+    "OriginalText": "所持数",
+    "Text": "Number Posessed",
+    "Enabled": true
+  },
+  "21618": {
+    "OriginalText": "パック容量",
+    "Text": "Item Pack",
+    "Enabled": true
+  },
+  "21619": {
+    "OriginalText": "アタッチパーツを作成しますか？",
+    "Text": "",
+    "Enabled": false
+  },
+  "21620": {
+    "OriginalText": "アタッチパーツが完成しました。",
+    "Text": "",
+    "Enabled": false
+  },
+  "21621": {
+    "OriginalText": "決定",
+    "Text": "Decide",
+    "Enabled": true
+  },
+  "21622": {
+    "OriginalText": "左右確認",
+    "Text": "Left and Right Confirmation",
+    "Enabled": true
+  },
+  "21623": {
+    "OriginalText": "右武器 ",
+    "Text": "Right Weapon ",
+    "Enabled": true
+  },
+  "21624": {
+    "OriginalText": "左武器 ",
+    "Text": "Left Weapon ",
+    "Enabled": true
+  },
+  "21625": {
+    "OriginalText": "アタッチパーツを編集しますか？",
+    "Text": "",
+    "Enabled": false
+  },
+  "21626": {
+    "OriginalText": "保存して終了",
+    "Text": "Save and Exit",
+    "Enabled": true
+  },
+  "21627": {
+    "OriginalText": "保存して伝備",
+    "Text": "Equip Saved",
+    "Enabled": true
+  },
+  "21628": {
+    "OriginalText": "アタッチパーツ",
+    "Text": "Attach Parts",
+    "Enabled": true
+  },
+  "21629": {
+    "OriginalText": "スロット１",
+    "Text": "Slot 1",
+    "Enabled": true
+  },
+  "21630": {
+    "OriginalText": "スロット２",
+    "Text": "Slot 2",
+    "Enabled": true
+  },
+  "21631": {
+    "OriginalText": "スロット３",
+    "Text": "Slot 3",
+    "Enabled": true
+  },
+  "21632": {
+    "OriginalText": "スロット４",
+    "Text": "Slot 4",
+    "Enabled": true
+  },
+  "21633": {
+    "OriginalText": "アタッチパーツなし",
+    "Text": "No Attachments",
+    "Enabled": true
+  },
+  "21634": {
+    "OriginalText": "保存せずに終了",
+    "Text": "Exit Without Saving",
+    "Enabled": true
+  },
+  "21635": {
+    "OriginalText": "編集を続ける",
+    "Text": "Continue Editing",
+    "Enabled": true
+  },
+  "21636": {
+    "OriginalText": "特殊能力の効果",
+    "Text": "Special Ability Effects",
+    "Enabled": true
+  },
+  "21637": {
+    "OriginalText": "一時倉庫にアイテムが入っているため\nアクセスできません。\n一時倉庫を空にする必要があります。",
+    "Text": "",
+    "Enabled": false
+  },
+  "21638": {
+    "OriginalText": "アタッチパーツを保存せずに戻りますか？",
+    "Text": "Go back without saving Attachments?",
+    "Enabled": true
+  },
+  "21639": {
+    "OriginalText": "コアが足りません。",
+    "Text": "Not enough Cores.",
+    "Enabled": true
+  },
+  "21640": {
+    "OriginalText": "倉庫に武器を作る",
+    "Text": "Create Weapons (Storage)",
+    "Enabled": true
+  },
+  "21641": {
+    "OriginalText": "倉庫にアタッチパーツを作る",
+    "Text": "Create Attachments (Storage)",
+    "Enabled": true
+  },
+  "21642": {
+    "OriginalText": "作成する数を選択してください。",
+    "Text": "Select the amount you wish to create.",
+    "Enabled": true
+  },
+  "21643": {
+    "OriginalText": "アタッチパーツがセットされています。 \n武器とアタッチパーツを同時に預けます。 \nよろしいですか？ ",
+    "Text": "Attachments have been set.\nDeposit weapon and attachments?",
+    "Enabled": true
+  },
+  "21644": {
+    "OriginalText": "倉庫に空きがありません。 \nアタッチパーツのセットされた\n武器を預けられません。 ",
+    "Text": "",
+    "Enabled": false
+  },
+  "21645": {
+    "OriginalText": "アタッチパーツがセットされています。 \n武器とアタッチパーツを同時に取り出します。\nよろしいですか？",
+    "Text": "",
+    "Enabled": false
+  },
+  "21646": {
+    "OriginalText": "アイテムパックに空きがありません。\nアタッチパーツのセットされた \n武器を取り出せません。",
+    "Text": "",
+    "Enabled": false
+  },
+  "21647": {
+    "OriginalText": "倉庫に送れませんでした。",
+    "Text": "",
+    "Enabled": false
+  },
+  "21648": {
+    "OriginalText": "アタッチパーツがセットされています。\n武器を捨てるには、アタッチパーツを\nはずす必要があります。",
+    "Text": "",
+    "Enabled": false
+  },
+  "21649": {
+    "OriginalText": "このアタッチパーツを作成する\n条件を既たしていません。",
+    "Text": "",
+    "Enabled": false
+  },
+  "21701": {
+    "OriginalText": "ストーリー",
+    "Text": "Story",
+    "Enabled": true
+  },
+  "21702": {
+    "OriginalText": "情報",
+    "Text": "Info",
+    "Enabled": true
+  },
+  "21703": {
+    "OriginalText": "ノーマル",
+    "Text": "Normal",
+    "Enabled": true
+  },
+  "21704": {
+    "OriginalText": "ハード",
+    "Text": "Hard",
+    "Enabled": true
+  },
+  "21705": {
+    "OriginalText": "ベリーハード",
+    "Text": "Very Hard",
+    "Enabled": true
+  },
+  "21706": {
+    "OriginalText": "スーパーハード",
+    "Text": "Super Hard",
+    "Enabled": true
+  },
+  "21707": {
+    "OriginalText": "エクストラハード",
+    "Text": "Ultimate",
+    "Enabled": true
+  },
+  "21708": {
+    "OriginalText": "クエスト開始",
+    "Text": "Start Quest",
+    "Enabled": true
+  },
+  "21709": {
+    "OriginalText": "パーティーメンバー",
+    "Text": "Party Members",
+    "Enabled": true
+  },
+  "21710": {
+    "OriginalText": "拠点に戻る",
+    "Text": "Return to Base",
+    "Enabled": true
+  },
+  "21711": {
+    "OriginalText": "コメント",
+    "Text": "Comment",
+    "Enabled": true
+  },
+  "21712": {
+    "OriginalText": "他のプレイヤーが準備中です。\nしばらくお待ちください。\n[f 1c][a 03] で拠点に戻ります。[b]",
+    "Text": "",
+    "Enabled": false
+  },
+  "21713": {
+    "OriginalText": "一時倉庫にアイテムが入っているため\nアクセスできません。\n一時倉庫を空にする必要があります。",
+    "Text": "",
+    "Enabled": false
+  },
+  "21714": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "21715": {
+    "OriginalText": "あらすじ",
+    "Text": "Synopsis",
+    "Enabled": true
+  },
+  "21716": {
+    "OriginalText": "地路選択",
+    "Text": "Path Selection",
+    "Enabled": true
+  },
+  "21717": {
+    "OriginalText": "クエスト選択",
+    "Text": "Quest Selection",
+    "Enabled": true
+  },
+  "21718": {
+    "OriginalText": "パーティーからはずす",
+    "Text": "Remove From Party",
+    "Enabled": true
+  },
+  "21719": {
+    "OriginalText": "パーティーに入れる",
+    "Text": "Add To Party",
+    "Enabled": true
+  },
+  "21720": {
+    "OriginalText": "ゲストクルー",
+    "Text": "Guest Crew",
+    "Enabled": true
+  },
+  "21721": {
+    "OriginalText": "メインクルー",
+    "Text": "Main Crew",
+    "Enabled": true
+  },
+  "21722": {
+    "OriginalText": "サブクルー",
+    "Text": "Sub Crew",
+    "Enabled": true
+  },
+  "21723": {
+    "OriginalText": "場所",
+    "Text": "Location",
+    "Enabled": true
+  },
+  "21724": {
+    "OriginalText": "クエスト名",
+    "Text": "Quest Name",
+    "Enabled": true
+  },
+  "21725": {
+    "OriginalText": "クリア目標",
+    "Text": "Objective",
+    "Enabled": true
+  },
+  "21726": {
+    "OriginalText": "制限時間",
+    "Text": "Time Limit",
+    "Enabled": true
+  },
+  "21727": {
+    "OriginalText": "失敗条件",
+    "Text": "Failure",
+    "Enabled": true
+  },
+  "21728": {
+    "OriginalText": "出現エネミー",
+    "Text": "Enemies",
+    "Enabled": true
+  },
+  "21729": {
+    "OriginalText": "レコード",
+    "Text": "Record",
+    "Enabled": true
+  },
+  "21730": {
+    "OriginalText": "ハンタータイプ",
+    "Text": "Hunter-type",
+    "Enabled": true
+  },
+  "21731": {
+    "OriginalText": "レンジャータイプ",
+    "Text": "Ranger-type",
+    "Enabled": true
+  },
+  "21732": {
+    "OriginalText": "フォースタイプ",
+    "Text": "Force-type",
+    "Enabled": true
+  },
+  "21733": {
+    "OriginalText": "バスタータイプ",
+    "Text": "Buster-type",
+    "Enabled": true
+  },
+  "21734": {
+    "OriginalText": "1st",
+    "Text": "",
+    "Enabled": false
+  },
+  "21735": {
+    "OriginalText": "2nd",
+    "Text": "",
+    "Enabled": false
+  },
+  "21736": {
+    "OriginalText": "3rd",
+    "Text": "",
+    "Enabled": false
+  },
+  "21737": {
+    "OriginalText": "4th",
+    "Text": "",
+    "Enabled": false
+  },
+  "21738": {
+    "OriginalText": "5th",
+    "Text": "",
+    "Enabled": false
+  },
+  "21739": {
+    "OriginalText": "このクエストはトライアルクエストです。\nあらかじめ用意された伝備とパラメータで\nクエストに挑戦しますが、よろしいですか？",
+    "Text": "",
+    "Enabled": false
+  },
+  "21740": {
+    "OriginalText": "パーティーがいっぱいです。\nクルーをはずして空きを作ってください。",
+    "Text": "",
+    "Enabled": false
+  },
+  "21741": {
+    "OriginalText": "リーダーがトライアルクエストを受託しました。\nあらかじめ用意された伝備とパラメータで\nクエストに挑戦します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "21742": {
+    "OriginalText": "リーダーがクエストの開始を中止しました。",
+    "Text": "",
+    "Enabled": false
+  },
+  "21743": {
+    "OriginalText": "リーダーがタイプを決定していません。\nしばらくお待ちください。",
+    "Text": "",
+    "Enabled": false
+  },
+  "21744": {
+    "OriginalText": "このクエストは\nストーリーをクリアしていないプレイヤーと\n一緒にプレイすることはできません。\n\nストーリーをクリアしていないプレイヤー",
+    "Text": "",
+    "Enabled": false
+  },
+  "21745": {
+    "OriginalText": "このクエストは\n似下のクエストをクリアしていないと\nプレイできません。",
+    "Text": "",
+    "Enabled": false
+  },
+  "21746": {
+    "OriginalText": "リーダーがクエストを選択するまでお待ちください。\n\n[f 1c][a 03] で拠点に戻ります。[b]",
+    "Text": "",
+    "Enabled": false
+  },
+  "21747": {
+    "OriginalText": "クエスト状況",
+    "Text": "Quest Status",
+    "Enabled": true
+  },
+  "21748": {
+    "OriginalText": "このクエストを開始します。\nよろしいですか？",
+    "Text": "This will begin the quest.\nAre you sure?",
+    "Enabled": true
+  },
+  "21749": {
+    "OriginalText": "同行者",
+    "Text": "Companions",
+    "Enabled": true
+  },
+  "21750": {
+    "OriginalText": "クエストが選ばれました。",
+    "Text": "A Quest has been selected.",
+    "Enabled": true
+  },
+  "21751": {
+    "OriginalText": "出発する",
+    "Text": "Depart",
+    "Enabled": true
+  },
+  "21752": {
+    "OriginalText": "キャンセルしてクエスト選択に戻ります。\nよろしいですか？",
+    "Text": "Cancel and return to Quest Selection?",
+    "Enabled": true
+  },
+  "21753": {
+    "OriginalText": "クエスト選択に戻る",
+    "Text": "Return to Quest Selection.",
+    "Enabled": true
+  },
+  "21754": {
+    "OriginalText": "他のプレイヤーが準備中です。\nしばらくお待ちください。",
+    "Text": "Other Players are not ready yet.\nPlease wait.",
+    "Enabled": true
+  },
+  "21755": {
+    "OriginalText": "すべてのクルー",
+    "Text": "All crew members",
+    "Enabled": true
+  },
+  "21756": {
+    "OriginalText": "このクエストを開始します。\n\n[a 03]パーティーメンバーが選ばれていません。[b]\nよろしいですか？",
+    "Text": "This will begin the quest.\n\n[a 03]No party members have been selected.[b]\nAre you sure?",
+    "Enabled": true
+  },
+  "21757": {
+    "OriginalText": "このクエストで洋語に登場するクルーを\n自動的に選択します。\nよろしいですか？ ",
+    "Text": "",
+    "Enabled": false
+  },
+  "21758": {
+    "OriginalText": "自動選択をおこないました。",
+    "Text": "",
+    "Enabled": false
+  },
+  "21759": {
+    "OriginalText": "ゲストを外してクエスト選択に戻りますか？",
+    "Text": "",
+    "Enabled": false
+  },
+  "21760": {
+    "OriginalText": "体験版では表示されません。 ",
+    "Text": "",
+    "Enabled": false
+  },
+  "21761": {
+    "OriginalText": "デルタ・ヴァリアント",
+    "Text": "Delta Valiant",
+    "Enabled": true
+  },
+  "21762": {
+    "OriginalText": "あらすじの確認",
+    "Text": "Story Summary",
+    "Enabled": true
+  },
+  "21763": {
+    "OriginalText": "リーダーがクエストを選択するまでお待ちください。",
+    "Text": "Please wait while the leader selects a quest.",
+    "Enabled": true
+  },
+  "21764": {
+    "OriginalText": "選択されたクエストに同行できないクルーを\nパーティーからはずしました。",
+    "Text": "",
+    "Enabled": false
+  },
+  "21801": {
+    "OriginalText": "参加人数",
+    "Text": "Party Members",
+    "Enabled": true
+  },
+  "21802": {
+    "OriginalText": "発生している効果",
+    "Text": "Active Effects",
+    "Enabled": true
+  },
+  "21803": {
+    "OriginalText": "関連するプロミスオーダー",
+    "Text": "Related Promise Orders",
+    "Enabled": true
+  },
+  "21804": {
+    "OriginalText": "次のレベルまで",
+    "Text": "Until Next Level",
+    "Enabled": true
+  },
+  "21805": {
+    "OriginalText": "/",
+    "Text": "",
+    "Enabled": false
+  },
+  "21806": {
+    "OriginalText": "依頼者",
+    "Text": "Requester",
+    "Enabled": true
+  },
+  "21807": {
+    "OriginalText": "目標達成！",
+    "Text": "Goal Achieved!",
+    "Enabled": true
+  },
+  "21901": {
+    "OriginalText": "ブリッジへ",
+    "Text": "Bridge",
+    "Enabled": true
+  },
+  "21902": {
+    "OriginalText": "コールドスリープルームへ",
+    "Text": "Cold Sleep Chamber",
+    "Enabled": true
+  },
+  "21903": {
+    "OriginalText": "マルチプレイルームへ",
+    "Text": "Multiplayer Room",
+    "Enabled": true
+  },
+  "21904": {
+    "OriginalText": "外へ出る（拠点に戻る)",
+    "Text": "Go Out (Return to Base)",
+    "Enabled": true
+  },
+  "22001": {
+    "OriginalText": "ショップを呼び出す",
+    "Text": "Summon Shops",
+    "Enabled": true
+  },
+  "22002": {
+    "OriginalText": "アイテムショップ",
+    "Text": "Item Shop",
+    "Enabled": true
+  },
+  "22003": {
+    "OriginalText": "食堂",
+    "Text": "Restaurant",
+    "Enabled": true
+  },
+  "22004": {
+    "OriginalText": "武器ショップ",
+    "Text": "Weapon Shop",
+    "Enabled": true
+  },
+  "22005": {
+    "OriginalText": "防具ショップ",
+    "Text": "Shield Unit Shop",
+    "Enabled": true
+  },
+  "22006": {
+    "OriginalText": "コスチュームショップ",
+    "Text": "Costume Shop",
+    "Enabled": true
+  },
+  "22007": {
+    "OriginalText": "クラスカウンター",
+    "Text": "Class Counter",
+    "Enabled": true
+  },
+  "22008": {
+    "OriginalText": "エステ",
+    "Text": "Makeover Shop",
+    "Enabled": true
+  },
+  "22009": {
+    "OriginalText": "ショップ端末",
+    "Text": "Shop Terminal",
+    "Enabled": true
+  },
+  "22010": {
+    "OriginalText": "ギガンテス捕獲所",
+    "Text": "Captured Gigantes Plant",
+    "Enabled": true
+  },
+  "22011": {
+    "OriginalText": "グランブースター",
+    "Text": "Gran Booster",
+    "Enabled": true
+  },
+  "22012": {
+    "OriginalText": "エネミーレーダー",
+    "Text": "Enemy Radar",
+    "Enabled": true
+  },
+  "22013": {
+    "OriginalText": "バースト加速伝置",
+    "Text": "BURST Acceleration Device",
+    "Enabled": true
+  },
+  "22014": {
+    "OriginalText": "アイテム探知伝置",
+    "Text": "Item Detector",
+    "Enabled": true
+  },
+  "22015": {
+    "OriginalText": "コア精錬所",
+    "Text": "Core Refinery",
+    "Enabled": true
+  },
+  "22016": {
+    "OriginalText": "シアタースコープ",
+    "Text": "Replay Event Scenes",
+    "Enabled": true
+  },
+  "22017": {
+    "OriginalText": "倉庫",
+    "Text": "Storage",
+    "Enabled": true
+  },
+  "22018": {
+    "OriginalText": "探索隊司令部",
+    "Text": "Expedition Party HQ",
+    "Enabled": true
+  },
+  "22019": {
+    "OriginalText": "探索隊司令部",
+    "Text": "Expedition Party HQ",
+    "Enabled": true
+  },
+  "22020": {
+    "OriginalText": "有効なプロミスオーダーはありません",
+    "Text": "",
+    "Enabled": false
+  },
+  "22021": {
+    "OriginalText": "ショップ効果 アイテムショップ",
+    "Text": "Item Shop Effect",
+    "Enabled": true
+  },
+  "22022": {
+    "OriginalText": "ショップ効果 食堂",
+    "Text": "Restaurant Effect",
+    "Enabled": true
+  },
+  "22023": {
+    "OriginalText": "ショップ効果 武器ショップ",
+    "Text": "Weapon Shop Effect",
+    "Enabled": true
+  },
+  "22024": {
+    "OriginalText": "ショップ効果 防具ショップ",
+    "Text": "Armor Shop Effect",
+    "Enabled": true
+  },
+  "22025": {
+    "OriginalText": "ショップ効果 コスチュームショップ",
+    "Text": "Costume Shop Effect",
+    "Enabled": true
+  },
+  "22026": {
+    "OriginalText": "ショップ効果 クラスカウンター",
+    "Text": "Class Counter Effect",
+    "Enabled": true
+  },
+  "22027": {
+    "OriginalText": "ショップ効果 エステ",
+    "Text": "Makeover Shop Effect",
+    "Enabled": true
+  },
+  "22028": {
+    "OriginalText": "施設効果 ギガンテス捕獲所",
+    "Text": "Gigantes Capture Facility Effect",
+    "Enabled": true
+  },
+  "22029": {
+    "OriginalText": "施設効果 グランブースター",
+    "Text": "Gran Booster Facility Effect",
+    "Enabled": true
+  },
+  "22030": {
+    "OriginalText": "施設効果 エネミーレーダー",
+    "Text": "Enemy Radar Facility Effect",
+    "Enabled": true
+  },
+  "22031": {
+    "OriginalText": "施設効果 バースト加速伝置",
+    "Text": "Burst Acceleration Facility Effect",
+    "Enabled": true
+  },
+  "22032": {
+    "OriginalText": "施設効果 アイテム探知伝置",
+    "Text": "Item Detection Facility Effect",
+    "Enabled": true
+  },
+  "22033": {
+    "OriginalText": "施設効果 コア精錬所",
+    "Text": "Core Refinery Facility Effect",
+    "Enabled": true
+  },
+  "22034": {
+    "OriginalText": "施設効果 探索隊司令部",
+    "Text": "",
+    "Enabled": false
+  },
+  "22035": {
+    "OriginalText": "必要グランエナジー：",
+    "Text": "Gran Energy Needed:",
+    "Enabled": true
+  },
+  "22036": {
+    "OriginalText": "施設効果",
+    "Text": "Facility Effect",
+    "Enabled": true
+  },
+  "22101": {
+    "OriginalText": "設定",
+    "Text": "Settings",
+    "Enabled": true
+  },
+  "22102": {
+    "OriginalText": "ヘルプ",
+    "Text": "Help",
+    "Enabled": true
+  },
+  "22103": {
+    "OriginalText": "燥作設定",
+    "Text": "Button Settings",
+    "Enabled": true
+  },
+  "22104": {
+    "OriginalText": "その他の設定",
+    "Text": "Other Settings",
+    "Enabled": true
+  },
+  "22105": {
+    "OriginalText": "区目名",
+    "Text": "Action",
+    "Enabled": true
+  },
+  "22106": {
+    "OriginalText": "通常視点",
+    "Text": "Normal",
+    "Enabled": true
+  },
+  "22107": {
+    "OriginalText": "肩越し視点",
+    "Text": "3rd person",
+    "Enabled": true
+  },
+  "22108": {
+    "OriginalText": "燥作タイプ",
+    "Text": "Control type",
+    "Enabled": true
+  },
+  "22109": {
+    "OriginalText": "タイプ１",
+    "Text": "Type 1",
+    "Enabled": true
+  },
+  "22110": {
+    "OriginalText": "タイプ２",
+    "Text": "Type 2",
+    "Enabled": true
+  },
+  "22111": {
+    "OriginalText": "タイプ３",
+    "Text": "Type 3",
+    "Enabled": true
+  },
+  "22112": {
+    "OriginalText": "カスタム",
+    "Text": "Custom",
+    "Enabled": true
+  },
+  "22113": {
+    "OriginalText": "攻撃１",
+    "Text": "Attack 1",
+    "Enabled": true
+  },
+  "22114": {
+    "OriginalText": "攻撃２",
+    "Text": "Attack 2",
+    "Enabled": true
+  },
+  "22115": {
+    "OriginalText": "ジャンプ",
+    "Text": "Jump",
+    "Enabled": true
+  },
+  "22116": {
+    "OriginalText": "アクセス/＋左スティックで回避アクション",
+    "Text": "Dodge + Left Stick",
+    "Enabled": true
+  },
+  "22117": {
+    "OriginalText": "回避アクション",
+    "Text": "Avoiding/Dodging",
+    "Enabled": true
+  },
+  "22118": {
+    "OriginalText": "メインパレット切替え",
+    "Text": "Switch main palette",
+    "Enabled": true
+  },
+  "22119": {
+    "OriginalText": "ロックオン/オフの切替え",
+    "Text": "Toggle target lock ON/OFF",
+    "Enabled": true
+  },
+  "22120": {
+    "OriginalText": "視点切替え",
+    "Text": "Switch Viewpoint",
+    "Enabled": true
+  },
+  "22121": {
+    "OriginalText": "サブパレット切替え",
+    "Text": "Item Palette ",
+    "Enabled": true
+  },
+  "22122": {
+    "OriginalText": "武器パレット下へ",
+    "Text": "Weapon Palette down",
+    "Enabled": true
+  },
+  "22123": {
+    "OriginalText": "武器パレット上へ",
+    "Text": "Weapon Palette up",
+    "Enabled": true
+  },
+  "22124": {
+    "OriginalText": "メインメニュー呼出し",
+    "Text": "Open the Main Menu",
+    "Enabled": true
+  },
+  "22125": {
+    "OriginalText": "オートラン",
+    "Text": "Toggle Autorun",
+    "Enabled": true
+  },
+  "22126": {
+    "OriginalText": "変更を反映して完了",
+    "Text": "Confirmed Changes",
+    "Enabled": true
+  },
+  "22127": {
+    "OriginalText": "変更を反映せず完了",
+    "Text": "Discarded changes",
+    "Enabled": true
+  },
+  "22128": {
+    "OriginalText": "重要な燥作が未設定になっているか、\nボタンが重復しています。\n設定を完了できません。",
+    "Text": "",
+    "Enabled": false
+  },
+  "22129": {
+    "OriginalText": "設定を初期化します。\n\nよろしいですか？",
+    "Text": "",
+    "Enabled": false
+  },
+  "22130": {
+    "OriginalText": "基本設定",
+    "Text": "Basic Settings",
+    "Enabled": true
+  },
+  "22131": {
+    "OriginalText": "レーダーマップの回転方法",
+    "Text": "Map change when turning",
+    "Enabled": true
+  },
+  "22132": {
+    "OriginalText": "回転する",
+    "Text": "Rotate",
+    "Enabled": true
+  },
+  "22133": {
+    "OriginalText": "回転しない",
+    "Text": "Stay",
+    "Enabled": true
+  },
+  "22134": {
+    "OriginalText": "メインパレットの燥作",
+    "Text": "Action palette switching",
+    "Enabled": true
+  },
+  "22135": {
+    "OriginalText": "ワンプッシュ燥作",
+    "Text": "Click",
+    "Enabled": true
+  },
+  "22136": {
+    "OriginalText": "ホールド燥作",
+    "Text": "Hold",
+    "Enabled": true
+  },
+  "22137": {
+    "OriginalText": "ロックオン燥作",
+    "Text": "Lock-on targeting",
+    "Enabled": true
+  },
+  "22138": {
+    "OriginalText": "ログ表示設定",
+    "Text": "Log Settings",
+    "Enabled": true
+  },
+  "22139": {
+    "OriginalText": "ログの最大表示",
+    "Text": "Max lines to display",
+    "Enabled": true
+  },
+  "22140": {
+    "OriginalText": "ログにアイテムを表示",
+    "Text": "Display items in the log",
+    "Enabled": true
+  },
+  "22141": {
+    "OriginalText": "ログにプロミスオーダーを表示",
+    "Text": "Show Promise Orders in the log",
+    "Enabled": true
+  },
+  "22142": {
+    "OriginalText": "ログにクエストを表示",
+    "Text": "Display Current Quest in the log",
+    "Enabled": true
+  },
+  "22143": {
+    "OriginalText": "ログにバトル状況を表示",
+    "Text": "Display Battle Info in the log",
+    "Enabled": true
+  },
+  "22144": {
+    "OriginalText": "ログにグランリンクを表示",
+    "Text": "Display Gran Link to the log",
+    "Enabled": true
+  },
+  "22145": {
+    "OriginalText": "する",
+    "Text": "Show",
+    "Enabled": true
+  },
+  "22146": {
+    "OriginalText": "しない",
+    "Text": "Hide",
+    "Enabled": true
+  },
+  "22147": {
+    "OriginalText": "カメラ設定",
+    "Text": "Camera Settings",
+    "Enabled": true
+  },
+  "22148": {
+    "OriginalText": "ゲーム内カメラ左右回転",
+    "Text": "Camera (left/right) rotation",
+    "Enabled": true
+  },
+  "22149": {
+    "OriginalText": "ゲーム内カメラ上下回転",
+    "Text": "Camera (up/down) rotation",
+    "Enabled": true
+  },
+  "22150": {
+    "OriginalText": "ゲーム内カメラ左右回転速度",
+    "Text": "Camera (left/right) speed",
+    "Enabled": true
+  },
+  "22151": {
+    "OriginalText": "ゲーム内カメラ上下回転速度",
+    "Text": "Camera (up/down) speed",
+    "Enabled": true
+  },
+  "22152": {
+    "OriginalText": "標準",
+    "Text": "Normal",
+    "Enabled": true
+  },
+  "22153": {
+    "OriginalText": "反転",
+    "Text": "Inverted",
+    "Enabled": true
+  },
+  "22154": {
+    "OriginalText": "サウンド設定",
+    "Text": "Sound Settings",
+    "Enabled": true
+  },
+  "22155": {
+    "OriginalText": "BGM設定",
+    "Text": "BGM Volume",
+    "Enabled": true
+  },
+  "22156": {
+    "OriginalText": "SE設定",
+    "Text": "SE Volume",
+    "Enabled": true
+  },
+  "22157": {
+    "OriginalText": "ボイス音量",
+    "Text": "Voice Volume",
+    "Enabled": true
+  },
+  "22158": {
+    "OriginalText": "ムービー音量",
+    "Text": "Movie Volume",
+    "Enabled": true
+  },
+  "22159": {
+    "OriginalText": "燥作設定を初期化します。\n\nよろしいですか？",
+    "Text": "This will reset button settings\r\nto their defaults settings.\r\nAre you sure?",
+    "Enabled": true
+  },
+  "22160": {
+    "OriginalText": "基本設定を初期化します。\n\nよろしいですか？",
+    "Text": "This will reset Basic Settings\r\nto their defaults settings.\r\nAre you sure?",
+    "Enabled": true
+  },
+  "22161": {
+    "OriginalText": "サウンド設定を初期化します。\n\nよろしいですか？",
+    "Text": "This will reset Sound Settings\r\nto their defaults settings.\r\nAre you sure?",
+    "Enabled": true
+  },
+  "22162": {
+    "OriginalText": "燥作設定を終了します。",
+    "Text": "Edit the Button Settings.",
+    "Enabled": true
+  },
+  "22163": {
+    "OriginalText": "基本設定を終了します。",
+    "Text": "Edit the Basic Settings.",
+    "Enabled": true
+  },
+  "22164": {
+    "OriginalText": "サウンド設定を終了します。",
+    "Text": "Edit the Sound Settings.",
+    "Enabled": true
+  },
+  "22165": {
+    "OriginalText": "ログ表示設定を初期化します。\n\nよろしいですか？",
+    "Text": "This will reset log settings\r\nto their defaults settings.\r\nAre you sure?",
+    "Enabled": true
+  },
+  "22166": {
+    "OriginalText": "カメラ設定を初期化します。\n\nよろしいですか？",
+    "Text": "This will reset camera settings\r\nto their defaults settings.\r\nAre you sure?",
+    "Enabled": true
+  },
+  "22167": {
+    "OriginalText": "ログ表示設定を終了します。",
+    "Text": "Edit the Log Settings.",
+    "Enabled": true
+  },
+  "22168": {
+    "OriginalText": "カメラ設定を終了します。",
+    "Text": "Edit the Camera Settings.",
+    "Enabled": true
+  },
+  "22169": {
+    "OriginalText": "スキルボード切替え",
+    "Text": "Skill Board Switching",
+    "Enabled": true
+  },
+  "22170": {
+    "OriginalText": "ターゲットカーソルの選択方向",
+    "Text": "Target Cursor Direction",
+    "Enabled": true
+  },
+  "22171": {
+    "OriginalText": "カメラ方向",
+    "Text": "Camera",
+    "Enabled": true
+  },
+  "22172": {
+    "OriginalText": "キャラクター方向",
+    "Text": "Character",
+    "Enabled": true
+  },
+  "22201": {
+    "OriginalText": "探索",
+    "Text": "Search",
+    "Enabled": true
+  },
+  "22202": {
+    "OriginalText": "探索エリア",
+    "Text": "Search Area",
+    "Enabled": true
+  },
+  "22203": {
+    "OriginalText": "探索目的",
+    "Text": "",
+    "Enabled": false
+  },
+  "22204": {
+    "OriginalText": "必要日数",
+    "Text": "",
+    "Enabled": false
+  },
+  "22205": {
+    "OriginalText": "日",
+    "Text": "Day",
+    "Enabled": true
+  },
+  "22206": {
+    "OriginalText": "人",
+    "Text": "People",
+    "Enabled": true
+  },
+  "22207": {
+    "OriginalText": "安全",
+    "Text": "Safe",
+    "Enabled": true
+  },
+  "22208": {
+    "OriginalText": "やや危険",
+    "Text": "Somewhat Dangerous",
+    "Enabled": true
+  },
+  "22209": {
+    "OriginalText": "危険",
+    "Text": "Dangerous",
+    "Enabled": true
+  },
+  "22210": {
+    "OriginalText": "危険度MAX",
+    "Text": "MAX Risk",
+    "Enabled": true
+  },
+  "22211": {
+    "OriginalText": "探索隊報告",
+    "Text": "Search Team Report",
+    "Enabled": true
+  },
+  "22212": {
+    "OriginalText": "名",
+    "Text": "Name",
+    "Enabled": true
+  },
+  "22213": {
+    "OriginalText": "入手アイテム",
+    "Text": "Available Items",
+    "Enabled": true
+  },
+  "22214": {
+    "OriginalText": "疲労が回復するまで隊員数が滅ります。",
+    "Text": "",
+    "Enabled": false
+  },
+  "22215": {
+    "OriginalText": "探索情報",
+    "Text": "Search Information",
+    "Enabled": true
+  },
+  "22216": {
+    "OriginalText": "探索隊を派遣しますか？",
+    "Text": "Are you sure you want\nto send a search team?",
+    "Enabled": true
+  },
+  "22217": {
+    "OriginalText": "一時倉庫にアイテムが入っているため\nアクセスできません。\n一時倉庫を空にする必要があります。",
+    "Text": "",
+    "Enabled": false
+  },
+  "22218": {
+    "OriginalText": "うち疲労者",
+    "Text": "",
+    "Enabled": false
+  },
+  "22219": {
+    "OriginalText": "探索隊を派遣しました。",
+    "Text": "",
+    "Enabled": false
+  },
+  "22220": {
+    "OriginalText": "MAX",
+    "Text": "",
+    "Enabled": false
+  },
+  "22230": {
+    "OriginalText": "食村をあつめて",
+    "Text": "",
+    "Enabled": false
+  },
+  "22231": {
+    "OriginalText": "敵を倒せ",
+    "Text": "Defeat the Enemy",
+    "Enabled": true
+  },
+  "22232": {
+    "OriginalText": "調査",
+    "Text": "Survey",
+    "Enabled": true
+  },
+  "22233": {
+    "OriginalText": "収集",
+    "Text": "Collection",
+    "Enabled": true
+  },
+  "22234": {
+    "OriginalText": "必要人数",
+    "Text": "Necessary Number of People",
+    "Enabled": true
+  },
+  "22235": {
+    "OriginalText": "危険度",
+    "Text": "Risk",
+    "Enabled": true
+  },
+  "22236": {
+    "OriginalText": "隊員の状況",
+    "Text": "Personnel Status",
+    "Enabled": true
+  },
+  "22237": {
+    "OriginalText": "全員が無事帰還しました！",
+    "Text": "",
+    "Enabled": false
+  },
+  "22238": {
+    "OriginalText": "派遣した隊員数",
+    "Text": "",
+    "Enabled": false
+  },
+  "22301": {
+    "OriginalText": "一時倉庫にアイテムが入っているため\nアクセスできません。\n一時倉庫を空にする必要があります。",
+    "Text": "",
+    "Enabled": false
+  },
+  "22302": {
+    "OriginalText": "防具を作る",
+    "Text": "Create Shields",
+    "Enabled": true
+  },
+  "22303": {
+    "OriginalText": "この防具を作成します。\nよろしいですか？",
+    "Text": "This will create the selected shield.\nContinue?",
+    "Enabled": true
+  },
+  "22304": {
+    "OriginalText": "防具が完成しました。",
+    "Text": "Shield successfully created.",
+    "Enabled": true
+  },
+  "22305": {
+    "OriginalText": "倉庫に防具を作る",
+    "Text": "Create Shields (Storage)",
+    "Enabled": true
+  },
+  "22401": {
+    "OriginalText": "一時倉庫にアイテムが入っているため\nアクセスできません。\n一時倉庫を空にする必要があります。",
+    "Text": "",
+    "Enabled": false
+  },
+  "22402": {
+    "OriginalText": "コスチュームを作る",
+    "Text": "Create a Costume",
+    "Enabled": true
+  },
+  "22403": {
+    "OriginalText": "このコスチュームを作成します。\nよろしいですか？\n",
+    "Text": "",
+    "Enabled": false
+  },
+  "22404": {
+    "OriginalText": "コスチュームが完成しました。",
+    "Text": "",
+    "Enabled": false
+  },
+  "22405": {
+    "OriginalText": "チュートリアル",
+    "Text": "Tutorial",
+    "Enabled": true
+  },
+  "22406": {
+    "OriginalText": "メニューヘルプ",
+    "Text": "Help Menu",
+    "Enabled": true
+  },
+  "22407": {
+    "OriginalText": "役立つ情報",
+    "Text": "Help Info",
+    "Enabled": true
+  },
+  "22408": {
+    "OriginalText": "カラー",
+    "Text": "Color",
+    "Enabled": true
+  },
+  "22409": {
+    "OriginalText": "キャスト(男性)",
+    "Text": "Cast (Male)",
+    "Enabled": true
+  },
+  "22410": {
+    "OriginalText": "キャスト(女性)",
+    "Text": "Cast (Female)",
+    "Enabled": true
+  },
+  "22411": {
+    "OriginalText": "キャスト似外(男性)",
+    "Text": "",
+    "Enabled": false
+  },
+  "22412": {
+    "OriginalText": "キャスト似外(女性)",
+    "Text": "",
+    "Enabled": false
+  },
+  "22413": {
+    "OriginalText": "全種族(男性)",
+    "Text": "",
+    "Enabled": false
+  },
+  "22414": {
+    "OriginalText": "全種族(女性)",
+    "Text": "",
+    "Enabled": false
+  },
+  "22415": {
+    "OriginalText": "種族(性別)",
+    "Text": "",
+    "Enabled": false
+  },
+  "22416": {
+    "OriginalText": "今すぐ着替える",
+    "Text": "",
+    "Enabled": false
+  },
+  "22417": {
+    "OriginalText": "倉庫にコスチュームを作る",
+    "Text": "",
+    "Enabled": false
+  },
+  "22501": {
+    "OriginalText": "一時倉庫にアイテムが入っているため\nアクセスできません。\n一時倉庫を空にする必要があります。",
+    "Text": "",
+    "Enabled": false
+  },
+  "22601": {
+    "OriginalText": "ここまでのプレイ状況を\nセーブデータに保存しますか？",
+    "Text": "Your play data up to this point\nwill be saved. Continue?",
+    "Enabled": true
+  },
+  "22602": {
+    "OriginalText": "解凍する前にセーブを行います。\n解凍しますか？",
+    "Text": "Play data has been saved.\nAre you sure you want to defrost?",
+    "Enabled": true
+  },
+  "22700": {
+    "OriginalText": "開始",
+    "Text": "Start",
+    "Enabled": true
+  },
+  "22701": {
+    "OriginalText": "成功",
+    "Text": "Success",
+    "Enabled": true
+  },
+  "22702": {
+    "OriginalText": "失敗",
+    "Text": "Failure",
+    "Enabled": true
+  },
+  "22703": {
+    "OriginalText": "経過",
+    "Text": "Progress",
+    "Enabled": true
+  },
+  "22704": {
+    "OriginalText": "達成",
+    "Text": "Achievment",
+    "Enabled": true
+  },
+  "22705": {
+    "OriginalText": "経験値UP",
+    "Text": "EXP UP",
+    "Enabled": true
+  },
+  "22706": {
+    "OriginalText": "アイテムドロップUP",
+    "Text": "Drop Rate UP",
+    "Enabled": true
+  },
+  "22707": {
+    "OriginalText": "レアエネミー出現率UP",
+    "Text": "Rare Enemy Rate UP",
+    "Enabled": true
+  },
+  "22708": {
+    "OriginalText": "レアドロップUP",
+    "Text": "Rare Drop Rate UP",
+    "Enabled": true
+  },
+  "22709": {
+    "OriginalText": "原生種出現",
+    "Text": "Native Species Appearance",
+    "Enabled": true
+  },
+  "22710": {
+    "OriginalText": "ダーカー出現",
+    "Text": "Darker Appearance",
+    "Enabled": true
+  },
+  "22711": {
+    "OriginalText": "ワンモアセット",
+    "Text": "One More Set",
+    "Enabled": true
+  },
+  "22712": {
+    "OriginalText": "ガッツ",
+    "Text": "Guts",
+    "Enabled": true
+  },
+  "22713": {
+    "OriginalText": "ダメージカット",
+    "Text": "Damage Cut",
+    "Enabled": true
+  },
+  "22714": {
+    "OriginalText": "ダメージコンバージョン",
+    "Text": "Damage Conversion",
+    "Enabled": true
+  },
+  "22715": {
+    "OriginalText": "クリティカルUP",
+    "Text": "Critical UP",
+    "Enabled": true
+  },
+  "22716": {
+    "OriginalText": "モータルブロウ",
+    "Text": "Mortal Blow",
+    "Enabled": true
+  },
+  "22717": {
+    "OriginalText": "報酬：",
+    "Text": "Got:",
+    "Enabled": true
+  },
+  "22718": {
+    "OriginalText": "イグニッション発動！",
+    "Text": "Ignition Trigger!",
+    "Enabled": true
+  },
+  "22719": {
+    "OriginalText": "の通信が切断されました",
+    "Text": "",
+    "Enabled": false
+  },
+  "22720": {
+    "OriginalText": "が[親友]になりました",
+    "Text": "",
+    "Enabled": false
+  },
+  "22721": {
+    "OriginalText": "バーストフィニッシュ",
+    "Text": "BURST Finish",
+    "Enabled": true
+  },
+  "22722": {
+    "OriginalText": "グランリンク",
+    "Text": "Gran Link",
+    "Enabled": true
+  },
+  "22723": {
+    "OriginalText": "」を達成した。",
+    "Text": "was achieved.",
+    "Enabled": true
+  },
+  "22724": {
+    "OriginalText": "を入手した。",
+    "Text": "was obtained.",
+    "Enabled": true
+  },
+  "22725": {
+    "OriginalText": "EXP",
+    "Text": "",
+    "Enabled": false
+  },
+  "22726": {
+    "OriginalText": "着替えさせる",
+    "Text": "Change Costume",
+    "Enabled": true
+  },
+  "22727": {
+    "OriginalText": "修復前の衣伝に変更しますか？",
+    "Text": "",
+    "Enabled": false
+  },
+  "22728": {
+    "OriginalText": "修復後の衣伝に変更しますか？",
+    "Text": "",
+    "Enabled": false
+  },
+  "22729": {
+    "OriginalText": "濃にオペレーターに指定されています。",
+    "Text": "",
+    "Enabled": false
+  },
+  "22730": {
+    "OriginalText": "キサラ",
+    "Text": "Kisara",
+    "Enabled": true
+  },
+  "22731": {
+    "OriginalText": "リーティア",
+    "Text": "Rietheia",
+    "Enabled": true
+  },
+  "22732": {
+    "OriginalText": "エネミー撃破達成率",
+    "Text": "Enemies Destroyed",
+    "Enabled": true
+  },
+  "22733": {
+    "OriginalText": "最大チェイン数",
+    "Text": "Highest Number of Chains",
+    "Enabled": true
+  },
+  "22734": {
+    "OriginalText": "経過時間",
+    "Text": "Elapsed Time",
+    "Enabled": true
+  },
+  "22735": {
+    "OriginalText": "戦闘不能回数",
+    "Text": "Knocked Out Number of Times",
+    "Enabled": true
+  },
+  "22736": {
+    "OriginalText": "総合スコア",
+    "Text": "Overall Score",
+    "Enabled": true
+  },
+  "22737": {
+    "OriginalText": "報酬",
+    "Text": "Rewards",
+    "Enabled": true
+  },
+  "22738": {
+    "OriginalText": "pt",
+    "Text": "",
+    "Enabled": false
+  },
+  "22739": {
+    "OriginalText": "がレベルアップ！",
+    "Text": "Level Up!",
+    "Enabled": true
+  },
+  "22740": {
+    "OriginalText": "スキル入手：",
+    "Text": "Skills Available: ",
+    "Enabled": true
+  },
+  "22741": {
+    "OriginalText": "が[他人]になりました",
+    "Text": "",
+    "Enabled": false
+  },
+  "22742": {
+    "OriginalText": "が[知人]になりました",
+    "Text": "",
+    "Enabled": false
+  },
+  "22743": {
+    "OriginalText": "が[友人]になりました",
+    "Text": "",
+    "Enabled": false
+  },
+  "22744": {
+    "OriginalText": "が[仲間]になりました",
+    "Text": "",
+    "Enabled": false
+  },
+  "22745": {
+    "OriginalText": "が[親友]になりました",
+    "Text": "",
+    "Enabled": false
+  },
+  "22746": {
+    "OriginalText": "が[親友]になりました",
+    "Text": "",
+    "Enabled": false
+  },
+  "22747": {
+    "OriginalText": "が[悪友]になりました",
+    "Text": "",
+    "Enabled": false
+  },
+  "22748": {
+    "OriginalText": "が[腐緑]になりました",
+    "Text": "",
+    "Enabled": false
+  },
+  "22749": {
+    "OriginalText": "が[戦友]になりました",
+    "Text": "",
+    "Enabled": false
+  },
+  "22750": {
+    "OriginalText": "が[相棒]になりました",
+    "Text": "",
+    "Enabled": false
+  },
+  "22751": {
+    "OriginalText": "指定洋品を入手しました",
+    "Text": "",
+    "Enabled": false
+  },
+  "22752": {
+    "OriginalText": "UI用予約",
+    "Text": "",
+    "Enabled": false
+  },
+  "22753": {
+    "OriginalText": "UI用予約",
+    "Text": "",
+    "Enabled": false
+  },
+  "22754": {
+    "OriginalText": "UI用予約",
+    "Text": "",
+    "Enabled": false
+  },
+  "22755": {
+    "OriginalText": "ダウンロードアイテム",
+    "Text": "Download Item",
+    "Enabled": true
+  },
+  "22756": {
+    "OriginalText": "ダウンロードキャラクター",
+    "Text": "Download Character",
+    "Enabled": true
+  },
+  "22757": {
+    "OriginalText": "[a 03]追加コンテンツが無効になっています。\n有効にするには、全ての経験値ブーストの\n追加コンテンツを再度取得してください。[b]",
+    "Text": "",
+    "Enabled": false
+  },
+  "22758": {
+    "OriginalText": "ダウンロードグッズ",
+    "Text": "Download Good",
+    "Enabled": true
+  },
+  "22759": {
+    "OriginalText": "ダウンロードカーペット",
+    "Text": "Download Carpet",
+    "Enabled": true
+  },
+  "22760": {
+    "OriginalText": "オペレーターを誰にしますか？",
+    "Text": "Who do you want\nas an operator?",
+    "Enabled": true
+  },
+  "22761": {
+    "OriginalText": "：効果の開始",
+    "Text": ":Effect Start",
+    "Enabled": true
+  },
+  "22762": {
+    "OriginalText": "：残り20分",
+    "Text": ":20 Minutes Remaining",
+    "Enabled": true
+  },
+  "22763": {
+    "OriginalText": "：残り10分",
+    "Text": ":10 Minutes Remaining",
+    "Enabled": true
+  },
+  "22764": {
+    "OriginalText": "：残り1分",
+    "Text": ":1 Minute Remaining",
+    "Enabled": true
+  },
+  "22765": {
+    "OriginalText": "：効果の終了",
+    "Text": ":Effect End",
+    "Enabled": true
+  },
+  "22766": {
+    "OriginalText": "グランバースト発生",
+    "Text": "Gran Burst Generator",
+    "Enabled": true
+  },
+  "22767": {
+    "OriginalText": "効果：",
+    "Text": "Effect: ",
+    "Enabled": true
+  },
+  "22768": {
+    "OriginalText": "このアイテムを受け取ります。\nよろしいですか？",
+    "Text": "",
+    "Enabled": false
+  },
+  "22769": {
+    "OriginalText": "すでに受け取り済みです。",
+    "Text": "",
+    "Enabled": false
+  },
+  "22770": {
+    "OriginalText": "アイテムを受け取りました。",
+    "Text": "",
+    "Enabled": false
+  },
+  "22771": {
+    "OriginalText": "DLCアイテムを受け取る",
+    "Text": "",
+    "Enabled": false
+  },
+  "22772": {
+    "OriginalText": "ワンモア発動！",
+    "Text": "",
+    "Enabled": false
+  },
+  "22773": {
+    "OriginalText": "DLCを受け取る",
+    "Text": "Pickup DLC",
+    "Enabled": true
+  },
+  "22774": {
+    "OriginalText": "DLC",
+    "Text": "",
+    "Enabled": false
+  },
+  "22775": {
+    "OriginalText": "このDLCを受け取ります。\nよろしいですか？",
+    "Text": "Do you really want to\nreceive this DLC?",
+    "Enabled": true
+  },
+  "22776": {
+    "OriginalText": "アイテムパックの空き容量が\n不足しています。",
+    "Text": "Not enough space in Item Pack.",
+    "Enabled": true
+  },
+  "22777": {
+    "OriginalText": "DLCを受け取りました。",
+    "Text": "DLC received.",
+    "Enabled": true
+  },
+  "22778": {
+    "OriginalText": "[a 03]追加コンテンツが無効になっているため、\nマルチプレイを開始できません。\n有効にするには、全ての追加コンテンツを\n再度取得してください。[b]",
+    "Text": "",
+    "Enabled": false
+  },
+  "22801": {
+    "OriginalText": "ギガンテス情報はありません。",
+    "Text": "",
+    "Enabled": false
+  },
+  "22802": {
+    "OriginalText": "マルチプレイ中はアクセスできません。",
+    "Text": "",
+    "Enabled": false
+  },
+  "22803": {
+    "OriginalText": "表示するギガンテスを切り替えます。",
+    "Text": "",
+    "Enabled": false
+  },
+  "22901": {
+    "OriginalText": "所持SP",
+    "Text": "SP Possessed",
+    "Enabled": true
+  },
+  "22902": {
+    "OriginalText": "必要SP",
+    "Text": "SP Needed",
+    "Enabled": true
+  },
+  "22903": {
+    "OriginalText": "このスキルを習得しますか？",
+    "Text": "Do you want to learn\nthis skill?",
+    "Enabled": true
+  },
+  "23001": {
+    "OriginalText": "スキルボード1",
+    "Text": "Skill Board 1",
+    "Enabled": true
+  },
+  "23002": {
+    "OriginalText": "スキルボード2",
+    "Text": "Skill Board 2",
+    "Enabled": true
+  },
+  "23003": {
+    "OriginalText": "スキルボード3",
+    "Text": "Skill Board 3",
+    "Enabled": true
+  },
+  "23004": {
+    "OriginalText": "セットスキル",
+    "Text": "Set Skill",
+    "Enabled": true
+  },
+  "23005": {
+    "OriginalText": "コンボスキル",
+    "Text": "Combo Skill",
+    "Enabled": true
+  },
+  "23006": {
+    "OriginalText": "発現するコンボスキルはありません。",
+    "Text": "",
+    "Enabled": false
+  },
+  "23007": {
+    "OriginalText": "スロットからスキルをはずしますか？",
+    "Text": "",
+    "Enabled": false
+  },
+  "23008": {
+    "OriginalText": "スロットにスキルがセットされていません。",
+    "Text": "",
+    "Enabled": false
+  },
+  "23101": {
+    "OriginalText": "クラス変更により、伝備している\n武器や防具が無効になることがあります。\n無効となっている伝備は\n名前が灰色で表示されます。",
+    "Text": "Changing class may cause your\ncurrent equipment to become unusable.\nEquipment that has become unusable\nwill be displayed in gray.",
+    "Enabled": true
+  },
+  "23102": {
+    "OriginalText": "※注意※",
+    "Text": "※Caution※",
+    "Enabled": true
+  },
+  "23601": {
+    "OriginalText": "[f 01]a[f 02]a[f 03]a[f 04]a[f 07]a[f 08]\n[f 09]a[f 0a]a[f 0b]a[f 0c]a[f 1b]a[f 1c]\na[f 64]a[f 65]a[f 66]a[f 67]a[f 68]a[f 69]",
+    "Text": "",
+    "Enabled": false
+  },
+  "23602": {
+    "OriginalText": "a[f 6a]a[f 6b]a[f 6c]a[f 6d]a[f 6e]a[f 6f]\na[f 70]a[f 71]a[f 72]a[f 73]a[f 74]a[f 75]\na[f 76]a[f 77]a[f 78]a[f 79]a[f 7a]a[f 7b]\n",
+    "Text": "",
+    "Enabled": false
+  },
+  "23603": {
+    "OriginalText": "a[f 7c]a[f 7d]a[f 7e]a[f 7f]a[f 9c]\n",
+    "Text": "",
+    "Enabled": false
+  },
+  "23701": {
+    "OriginalText": "通信が切断されました。\n自分の拠点へ帰還しました。",
+    "Text": "",
+    "Enabled": false
+  },
+  "23702": {
+    "OriginalText": "通信が切断されました。\n自分の拠点へ帰還しました。",
+    "Text": "",
+    "Enabled": false
+  },
+  "23703": {
+    "OriginalText": "プレイヤーがパーティーから抜けました。",
+    "Text": "",
+    "Enabled": false
+  },
+  "23704": {
+    "OriginalText": "パーティーを解散しますか？",
+    "Text": "",
+    "Enabled": false
+  },
+  "23705": {
+    "OriginalText": "パーティーを離脱しますか？",
+    "Text": "",
+    "Enabled": false
+  },
+  "23706": {
+    "OriginalText": "通信が切断されました。\nタイトル画面へ戻りました。",
+    "Text": "",
+    "Enabled": false
+  },
+  "23707": {
+    "OriginalText": "全員が拠点に戻るまでアクセスできません。",
+    "Text": "",
+    "Enabled": false
+  },
+  "23708": {
+    "OriginalText": "アクセスできません。",
+    "Text": "",
+    "Enabled": false
+  },
+  "23801": {
+    "OriginalText": "目標達成",
+    "Text": "Goal Achievement",
+    "Enabled": true
+  },
+  "23802": {
+    "OriginalText": "報酬アイテム",
+    "Text": "Reward Items",
+    "Enabled": true
+  },
+  "23803": {
+    "OriginalText": "エマージェンシートライアル「",
+    "Text": "Emergency Trial [",
+    "Enabled": true
+  },
+  "23804": {
+    "OriginalText": "」の\n発生エリアから離脱しました。\n",
+    "Text": "]\nWas removed from the generation area.\n",
+    "Enabled": true
+  },
+  "23805": {
+    "OriginalText": "重要なエマージェンシートライアルが発生しました。\nエマージェンシートライアル「",
+    "Text": "",
+    "Enabled": false
+  },
+  "23806": {
+    "OriginalText": "」が\n終了しました。\n",
+    "Text": "",
+    "Enabled": false
+  },
+  "23901": {
+    "OriginalText": "を捕獲しました。\n",
+    "Text": "",
+    "Enabled": false
+  },
+  "23902": {
+    "OriginalText": "似後、ギガンテスブラスト「",
+    "Text": "",
+    "Enabled": false
+  },
+  "23903": {
+    "OriginalText": "」を使用できます！",
+    "Text": "",
+    "Enabled": false
+  },
+  "23904": {
+    "OriginalText": "より強力な「",
+    "Text": "",
+    "Enabled": false
+  },
+  "23905": {
+    "OriginalText": "」のレベルが上がります！",
+    "Text": "",
+    "Enabled": false
+  },
+  "24001": {
+    "OriginalText": "ギガンテス召喚中！エリア移動に時間を要します。\n[f 01] 前のエリアに戻る",
+    "Text": "",
+    "Enabled": false
+  },
+  "24002": {
+    "OriginalText": "モノメイト × １０\nスケープドール × ３  になった。 ",
+    "Text": "",
+    "Enabled": false
+  },
+  "24003": {
+    "OriginalText": "惑星から脱出する",
+    "Text": "",
+    "Enabled": false
+  },
+  "24004": {
+    "OriginalText": "惑星を脱出しますか？",
+    "Text": "",
+    "Enabled": false
+  },
+  "24005": {
+    "OriginalText": "キサラをオペレーターに指定しました。",
+    "Text": "",
+    "Enabled": false
+  },
+  "24006": {
+    "OriginalText": "リーティアをオペレーターに指定しました。",
+    "Text": "",
+    "Enabled": false
+  },
+  "24101": {
+    "OriginalText": "戦闘不能になりました。",
+    "Text": "",
+    "Enabled": false
+  },
+  "24102": {
+    "OriginalText": "スケープドールを使い復活 (所持 [e 00 00])",
+    "Text": "Use Scape Doll(s) ([e 00 00])",
+    "Enabled": true
+  },
+  "24103": {
+    "OriginalText": "拠点へ帰還する",
+    "Text": "Return to Base",
+    "Enabled": true
+  },
+  "24104": {
+    "OriginalText": "スケープドールを使用して復活します。",
+    "Text": "Revived using Scape Doll(s)",
+    "Enabled": true
+  },
+  "24105": {
+    "OriginalText": "スケープドールを持っていません。",
+    "Text": "You don't have a Scape Doll.",
+    "Enabled": true
+  },
+  "24106": {
+    "OriginalText": "拠点に帰還します。",
+    "Text": "Returned to base.",
+    "Enabled": true
+  },
+  "24107": {
+    "OriginalText": "拠点に帰還します。",
+    "Text": "Returned to base.",
+    "Enabled": true
+  },
+  "24108": {
+    "OriginalText": "パーティーから離脱する",
+    "Text": "",
+    "Enabled": false
+  },
+  "24109": {
+    "OriginalText": "パーティーから離脱して自分の拠点に戻ります。",
+    "Text": "",
+    "Enabled": false
+  },
+  "24110": {
+    "OriginalText": "復活する",
+    "Text": "Reviving",
+    "Enabled": true
+  },
+  "24111": {
+    "OriginalText": "シングルモード",
+    "Text": "Singleplayer Mode",
+    "Enabled": true
+  },
+  "24112": {
+    "OriginalText": "マルチモード",
+    "Text": "Multiplayer Mode",
+    "Enabled": true
+  },
+  "24113": {
+    "OriginalText": "チュートリアル",
+    "Text": "Tutorial",
+    "Enabled": true
+  },
+  "24114": {
+    "OriginalText": "オプション",
+    "Text": "Options",
+    "Enabled": true
+  },
+  "24115": {
+    "OriginalText": "バトルチュートリアル",
+    "Text": "",
+    "Enabled": false
+  },
+  "24116": {
+    "OriginalText": "ギガンテスチュートリアル",
+    "Text": "Gigantes Tutorial",
+    "Enabled": true
+  },
+  "24117": {
+    "OriginalText": "戦闘不能になりました\n[a 03](このクエストでは何回でも復活できます)[b]",
+    "Text": "",
+    "Enabled": false
+  },
+  "24118": {
+    "OriginalText": "下記区目をまとめてみる",
+    "Text": "",
+    "Enabled": false
+  },
+  "24119": {
+    "OriginalText": "１ 新武器「ヘイロウ」の説明",
+    "Text": "1. Halo Weapon Tutorial",
+    "Enabled": true
+  },
+  "24120": {
+    "OriginalText": "２ 新武器「パイル」の説明",
+    "Text": "2. Pile Weapon Tutorial",
+    "Enabled": true
+  },
+  "24121": {
+    "OriginalText": "３ チェインとグランバースト",
+    "Text": "3. Chain and Gran Burst",
+    "Enabled": true
+  },
+  "24122": {
+    "OriginalText": "４ ギガンテスの倒し方",
+    "Text": "4. How to Defeat the Gigantes",
+    "Enabled": true
+  },
+  "24123": {
+    "OriginalText": "５弱点（コア）の説明",
+    "Text": "5. Weak Point Tutorial (Core)",
+    "Enabled": true
+  },
+  "24124": {
+    "OriginalText": "クエストの選択を中断して、\nキャラクター選択に戻ります。\n\nよろしいですか？",
+    "Text": "",
+    "Enabled": false
+  },
+  "24125": {
+    "OriginalText": "キャラクター選択を中断して\nタイトルに戻ります。\n\nよろしいですか？",
+    "Text": "",
+    "Enabled": false
+  },
+  "24126": {
+    "OriginalText": "伝備武器",
+    "Text": "Equipped Weapon",
+    "Enabled": true
+  },
+  "24127": {
+    "OriginalText": "戦闘不能になりました。【残り復活回数:無制限】\n[a 03](このクエストでは10秒後に復活できます)[b]",
+    "Text": "",
+    "Enabled": false
+  },
+  "24128": {
+    "OriginalText": "：残り30分",
+    "Text": ":30 Minutes Remaining",
+    "Enabled": true
+  },
+  "24129": {
+    "OriginalText": "：残り5分",
+    "Text": ":5 Minutes Remaining",
+    "Enabled": true
+  },
+  "24130": {
+    "OriginalText": "メモリーカードに体験版のセーブデータがあります。\nセーブデータを引き継ぎますか？",
+    "Text": "",
+    "Enabled": false
+  },
+  "25000": {
+    "OriginalText": "村料とコアを倉庫に預ける",
+    "Text": "",
+    "Enabled": false
+  },
+  "25001": {
+    "OriginalText": "村料とコアを\n倉庫に預けました。",
+    "Text": "",
+    "Enabled": false
+  },
+  "25002": {
+    "OriginalText": "倉庫がいっぱいです。",
+    "Text": "",
+    "Enabled": false
+  },
+  "25003": {
+    "OriginalText": "ver.",
+    "Text": "",
+    "Enabled": false
+  },
+  "25004": {
+    "OriginalText": ".",
+    "Text": "",
+    "Enabled": false
+  },
+  "25005": {
+    "OriginalText": "入手した村料を自動的に倉庫に送る",
+    "Text": "",
+    "Enabled": false
+  },
+  "25006": {
+    "OriginalText": "入手したコアを自動的に倉庫に送る",
+    "Text": "",
+    "Enabled": false
+  },
+  "25007": {
+    "OriginalText": "手動",
+    "Text": "",
+    "Enabled": false
+  },
+  "25008": {
+    "OriginalText": "自動",
+    "Text": "",
+    "Enabled": false
+  },
+  "25009": {
+    "OriginalText": "すぐに報告しますか？",
+    "Text": "",
+    "Enabled": false
+  },
+  "25010": {
+    "OriginalText": "武器伝備へ",
+    "Text": "",
+    "Enabled": false
+  },
+  "25011": {
+    "OriginalText": "武器パレット伝備へ",
+    "Text": "",
+    "Enabled": false
+  },
+  "25012": {
+    "OriginalText": "この階層の施設を\nすべて回収します。\nよろしいですか？",
+    "Text": "",
+    "Enabled": false
+  },
+  "25013": {
+    "OriginalText": "回収する施設がありません。",
+    "Text": "",
+    "Enabled": false
+  },
+  "25014": {
+    "OriginalText": "防具",
+    "Text": "",
+    "Enabled": false
+  },
+  "25100": {
+    "OriginalText": "クリアタイム",
+    "Text": "",
+    "Enabled": false
+  },
+  "25101": {
+    "OriginalText": "撃破ポイント",
+    "Text": "",
+    "Enabled": false
+  },
+  "25102": {
+    "OriginalText": "PT",
+    "Text": "",
+    "Enabled": false
+  },
+  "25103": {
+    "OriginalText": "₡",
+    "Text": "",
+    "Enabled": false
+  },
+  "25104": {
+    "OriginalText": "（シングル）",
+    "Text": "",
+    "Enabled": false
+  },
+  "25105": {
+    "OriginalText": "（マルチ）",
+    "Text": "",
+    "Enabled": false
+  },
+  "25106": {
+    "OriginalText": "レコード（シングル）",
+    "Text": "",
+    "Enabled": false
+  },
+  "25107": {
+    "OriginalText": "レコード（マルチ）",
+    "Text": "",
+    "Enabled": false
+  },
+  "25200": {
+    "OriginalText": "アタッチパーツ改造",
+    "Text": "",
+    "Enabled": false
+  },
+  "25201": {
+    "OriginalText": "コア強化",
+    "Text": "",
+    "Enabled": false
+  },
+  "25202": {
+    "OriginalText": "改造を実行します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "25203": {
+    "OriginalText": "コア強化を実行します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "25204": {
+    "OriginalText": "コアが完成しました。",
+    "Text": "",
+    "Enabled": false
+  },
+  "25205": {
+    "OriginalText": "個数選択",
+    "Text": "",
+    "Enabled": false
+  },
+  "25206": {
+    "OriginalText": "アタッチパーツを持っていません。",
+    "Text": "",
+    "Enabled": false
+  },
+  "25207": {
+    "OriginalText": "コアを持っていません。",
+    "Text": "",
+    "Enabled": false
+  },
+  "25208": {
+    "OriginalText": "選択できるコアが不足しています。",
+    "Text": "",
+    "Enabled": false
+  },
+  "25209": {
+    "OriginalText": "受託します",
+    "Text": "",
+    "Enabled": false
+  },
+  "25210": {
+    "OriginalText": "破棄します",
+    "Text": "",
+    "Enabled": false
+  },
+  "25211": {
+    "OriginalText": "報告します",
+    "Text": "",
+    "Enabled": false
+  },
+  "25212": {
+    "OriginalText": "。",
+    "Text": "",
+    "Enabled": false
+  },
+  "25213": {
+    "OriginalText": "よろしいですか？",
+    "Text": "",
+    "Enabled": false
+  },
+  "25214": {
+    "OriginalText": "破棄しました",
+    "Text": "",
+    "Enabled": false
+  },
+  "25215": {
+    "OriginalText": "おいしくいただいた",
+    "Text": "",
+    "Enabled": false
+  },
+  "25216": {
+    "OriginalText": "入手した",
+    "Text": "",
+    "Enabled": false
+  },
+  "25217": {
+    "OriginalText": "捕獲しました",
+    "Text": "",
+    "Enabled": false
+  },
+  "25218": {
+    "OriginalText": "達成した",
+    "Text": "",
+    "Enabled": false
+  },
+  "25219": {
+    "OriginalText": "受しました",
+    "Text": "",
+    "Enabled": false
+  },
+  "25220": {
+    "OriginalText": "開発しました",
+    "Text": "",
+    "Enabled": false
+  },
+  "25221": {
+    "OriginalText": "施設が開発できるようになりました。",
+    "Text": "",
+    "Enabled": false
+  },
+  "25222": {
+    "OriginalText": "コア精錬所で上位コアが作成できるようになりました。",
+    "Text": "",
+    "Enabled": false
+  },
+  "25223": {
+    "OriginalText": "強化できるコアを持っていません。 ",
+    "Text": "",
+    "Enabled": false
+  },
+  "25300": {
+    "OriginalText": "[a 03]※ＤＬＣをダウンロードしたプレイヤーのみ参加可能[b]",
+    "Text": "",
+    "Enabled": false
+  },
+  "25400": {
+    "OriginalText": "アイテムパックに３似上の空きがないため選択できません。",
+    "Text": "",
+    "Enabled": false
+  },
+  "25401": {
+    "OriginalText": "マルチプレイ中は選択できません。",
+    "Text": "",
+    "Enabled": false
+  },
+  "25402": {
+    "OriginalText": "キャラクタークリエイト完了",
+    "Text": "",
+    "Enabled": false
+  },
+  "25403": {
+    "OriginalText": "クリエイトを中断します。\n編集内容は反映されません。\n\nよろしいですか？",
+    "Text": "",
+    "Enabled": false
+  },
+  "25404": {
+    "OriginalText": "再キャラクタークリエイト",
+    "Text": "",
+    "Enabled": false
+  },
+  "25450": {
+    "OriginalText": "武器エクステンド",
+    "Text": "",
+    "Enabled": false
+  },
+  "25451": {
+    "OriginalText": "伝備中の武器は合成できません。",
+    "Text": "",
+    "Enabled": false
+  },
+  "25452": {
+    "OriginalText": "ロック中の武器は合成できません。",
+    "Text": "",
+    "Enabled": false
+  },
+  "25453": {
+    "OriginalText": "ホワイトチケットが不足しています。",
+    "Text": "",
+    "Enabled": false
+  },
+  "25454": {
+    "OriginalText": "エクステンドを実行します。\n合成する武器に付いていた\nアタッチパーツは残ります。\nよろしいですか？",
+    "Text": "",
+    "Enabled": false
+  },
+  "25455": {
+    "OriginalText": "合成できる武器がありません。",
+    "Text": "",
+    "Enabled": false
+  },
+  "25456": {
+    "OriginalText": "武器を持っていません。",
+    "Text": "",
+    "Enabled": false
+  },
+  "25500": {
+    "OriginalText": "ＤＬＣパッケージが確認できないため\nオペレーターをキサラに変更します。",
+    "Text": "",
+    "Enabled": false
+  },
+  "25501": {
+    "OriginalText": "オペレーターを交代しました。",
+    "Text": "",
+    "Enabled": false
+  }
+}

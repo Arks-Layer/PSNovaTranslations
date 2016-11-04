@@ -1,0 +1,1342 @@
+{
+  "410000": {
+    "OriginalText": "//",
+    "Text": "",
+    "Enabled": false
+  },
+  "410001": {
+    "OriginalText": "謎の少女 １",
+    "Text": "",
+    "Enabled": false
+  },
+  "410002": {
+    "OriginalText": "コールドスリープからの目覚め",
+    "Text": "",
+    "Enabled": false
+  },
+  "410003": {
+    "OriginalText": "リーティアの説明",
+    "Text": "",
+    "Enabled": false
+  },
+  "410004": {
+    "OriginalText": "フィルディアとの出会い",
+    "Text": "",
+    "Enabled": false
+  },
+  "410005": {
+    "OriginalText": "ルティナとの再会",
+    "Text": "",
+    "Enabled": false
+  },
+  "410006": {
+    "OriginalText": "緊急事態",
+    "Text": "",
+    "Enabled": false
+  },
+  "410007": {
+    "OriginalText": "艦、墜落",
+    "Text": "",
+    "Enabled": false
+  },
+  "410008": {
+    "OriginalText": "墜落直後",
+    "Text": "",
+    "Enabled": false
+  },
+  "410009": {
+    "OriginalText": "調査隊の危機",
+    "Text": "",
+    "Enabled": false
+  },
+  "410010": {
+    "OriginalText": "宿るグラン",
+    "Text": "",
+    "Enabled": false
+  },
+  "410011": {
+    "OriginalText": "塊死の艦長",
+    "Text": "",
+    "Enabled": false
+  },
+  "410012": {
+    "OriginalText": "息を引き取る艦長",
+    "Text": "",
+    "Enabled": false
+  },
+  "410013": {
+    "OriginalText": "フィルディアの演説",
+    "Text": "",
+    "Enabled": false
+  },
+  "410014": {
+    "OriginalText": "仲間のコールドスリープ",
+    "Text": "",
+    "Enabled": false
+  },
+  "410015": {
+    "OriginalText": "隊員捜索任務",
+    "Text": "",
+    "Enabled": false
+  },
+  "410016": {
+    "OriginalText": "ルティナの不安",
+    "Text": "",
+    "Enabled": false
+  },
+  "410017": {
+    "OriginalText": "セイルとイズナ",
+    "Text": "",
+    "Enabled": false
+  },
+  "410018": {
+    "OriginalText": "救助成功",
+    "Text": "",
+    "Enabled": false
+  },
+  "410019": {
+    "OriginalText": "グラン習得",
+    "Text": "",
+    "Enabled": false
+  },
+  "410020": {
+    "OriginalText": "ルティナの日記①",
+    "Text": "",
+    "Enabled": false
+  },
+  "410021": {
+    "OriginalText": "新たな任務",
+    "Text": "",
+    "Enabled": false
+  },
+  "410022": {
+    "OriginalText": "グラン結晶について",
+    "Text": "",
+    "Enabled": false
+  },
+  "410023": {
+    "OriginalText": "グラン結晶を届ける",
+    "Text": "",
+    "Enabled": false
+  },
+  "410024": {
+    "OriginalText": "ルティナの引け目",
+    "Text": "",
+    "Enabled": false
+  },
+  "410025": {
+    "OriginalText": "撤退戦",
+    "Text": "",
+    "Enabled": false
+  },
+  "410026": {
+    "OriginalText": "ギガンテス対策会議",
+    "Text": "",
+    "Enabled": false
+  },
+  "410027": {
+    "OriginalText": "ヘイロウ発明",
+    "Text": "",
+    "Enabled": false
+  },
+  "410028": {
+    "OriginalText": "ユノ再び",
+    "Text": "",
+    "Enabled": false
+  },
+  "410029": {
+    "OriginalText": "ギガンテス撃破報告",
+    "Text": "",
+    "Enabled": false
+  },
+  "410030": {
+    "OriginalText": "ルティナの日記②",
+    "Text": "",
+    "Enabled": false
+  },
+  "410031": {
+    "OriginalText": "クルー増加の検討",
+    "Text": "",
+    "Enabled": false
+  },
+  "410032": {
+    "OriginalText": "仲間の解凍",
+    "Text": "",
+    "Enabled": false
+  },
+  "410033": {
+    "OriginalText": "新たな仲間",
+    "Text": "",
+    "Enabled": false
+  },
+  "410034": {
+    "OriginalText": "ケンカの仲裁",
+    "Text": "",
+    "Enabled": false
+  },
+  "410035": {
+    "OriginalText": "ケンカの原因",
+    "Text": "",
+    "Enabled": false
+  },
+  "410036": {
+    "OriginalText": "リーティアのメディカルチェック",
+    "Text": "",
+    "Enabled": false
+  },
+  "410037": {
+    "OriginalText": "メディカルチームの支援完了",
+    "Text": "",
+    "Enabled": false
+  },
+  "410038": {
+    "OriginalText": "オペレーター増強",
+    "Text": "",
+    "Enabled": false
+  },
+  "410039": {
+    "OriginalText": "カリストの指示",
+    "Text": "",
+    "Enabled": false
+  },
+  "410040": {
+    "OriginalText": "カリストの評価",
+    "Text": "",
+    "Enabled": false
+  },
+  "410041": {
+    "OriginalText": "ルティナの弱音１",
+    "Text": "",
+    "Enabled": false
+  },
+  "410042": {
+    "OriginalText": "ルティナの弱音２",
+    "Text": "",
+    "Enabled": false
+  },
+  "410043": {
+    "OriginalText": "仲間の信頼",
+    "Text": "",
+    "Enabled": false
+  },
+  "410044": {
+    "OriginalText": "英雄の勲章",
+    "Text": "",
+    "Enabled": false
+  },
+  "410045": {
+    "OriginalText": "ユノとの通信 ルティナ編",
+    "Text": "",
+    "Enabled": false
+  },
+  "410046": {
+    "OriginalText": "ルティナの日記③",
+    "Text": "",
+    "Enabled": false
+  },
+  "410047": {
+    "OriginalText": "グランニウム探し",
+    "Text": "",
+    "Enabled": false
+  },
+  "410048": {
+    "OriginalText": "エネミーの急襲",
+    "Text": "",
+    "Enabled": false
+  },
+  "410049": {
+    "OriginalText": "セイルの評価",
+    "Text": "",
+    "Enabled": false
+  },
+  "410050": {
+    "OriginalText": "ヨミのお礼",
+    "Text": "",
+    "Enabled": false
+  },
+  "410051": {
+    "OriginalText": "二手に分かれる",
+    "Text": "",
+    "Enabled": false
+  },
+  "410052": {
+    "OriginalText": "植洋発見",
+    "Text": "",
+    "Enabled": false
+  },
+  "410053": {
+    "OriginalText": "両者引き分け",
+    "Text": "",
+    "Enabled": false
+  },
+  "410054": {
+    "OriginalText": "命令違反",
+    "Text": "",
+    "Enabled": false
+  },
+  "410055": {
+    "OriginalText": "２体のギガンテス",
+    "Text": "",
+    "Enabled": false
+  },
+  "410056": {
+    "OriginalText": "違反の責任",
+    "Text": "",
+    "Enabled": false
+  },
+  "410057": {
+    "OriginalText": "セイルに認められる",
+    "Text": "",
+    "Enabled": false
+  },
+  "410058": {
+    "OriginalText": "ユノとの通信 セイル編",
+    "Text": "",
+    "Enabled": false
+  },
+  "410059": {
+    "OriginalText": "ルティナの日記④",
+    "Text": "",
+    "Enabled": false
+  },
+  "410060": {
+    "OriginalText": "グランアーツ訓練開始",
+    "Text": "",
+    "Enabled": false
+  },
+  "410061": {
+    "OriginalText": "エネミーの集まり発見",
+    "Text": "",
+    "Enabled": false
+  },
+  "410062": {
+    "OriginalText": "仲間を活かす戦い方",
+    "Text": "",
+    "Enabled": false
+  },
+  "410063": {
+    "OriginalText": "エネミー撃破",
+    "Text": "",
+    "Enabled": false
+  },
+  "410064": {
+    "OriginalText": "研究員という生き方",
+    "Text": "",
+    "Enabled": false
+  },
+  "410065": {
+    "OriginalText": "パイル完成",
+    "Text": "",
+    "Enabled": false
+  },
+  "410066": {
+    "OriginalText": "シャロンの戦い",
+    "Text": "",
+    "Enabled": false
+  },
+  "410067": {
+    "OriginalText": "張り切るイズナ",
+    "Text": "",
+    "Enabled": false
+  },
+  "410068": {
+    "OriginalText": "ギガンテス捕獲任務",
+    "Text": "",
+    "Enabled": false
+  },
+  "410069": {
+    "OriginalText": "悩みが晴れたイズナ",
+    "Text": "",
+    "Enabled": false
+  },
+  "410070": {
+    "OriginalText": "ユノとの通信 イズナ編",
+    "Text": "",
+    "Enabled": false
+  },
+  "410071": {
+    "OriginalText": "ルティナの日記⑤",
+    "Text": "",
+    "Enabled": false
+  },
+  "410072": {
+    "OriginalText": "グランドライブ開発開始",
+    "Text": "",
+    "Enabled": false
+  },
+  "410073": {
+    "OriginalText": "レイヴァンの提案",
+    "Text": "",
+    "Enabled": false
+  },
+  "410074": {
+    "OriginalText": "レイヴァンに協力",
+    "Text": "",
+    "Enabled": false
+  },
+  "410075": {
+    "OriginalText": "レイヴァンの執着",
+    "Text": "",
+    "Enabled": false
+  },
+  "410076": {
+    "OriginalText": "レイヴァンの死",
+    "Text": "",
+    "Enabled": false
+  },
+  "410077": {
+    "OriginalText": "脱出の決意",
+    "Text": "",
+    "Enabled": false
+  },
+  "410078": {
+    "OriginalText": "ルティナの日記⑥",
+    "Text": "",
+    "Enabled": false
+  },
+  "410079": {
+    "OriginalText": "脱出の日取り決定",
+    "Text": "",
+    "Enabled": false
+  },
+  "410080": {
+    "OriginalText": "拠点を襲う巨砲",
+    "Text": "",
+    "Enabled": false
+  },
+  "410081": {
+    "OriginalText": "強襲迎撃",
+    "Text": "",
+    "Enabled": false
+  },
+  "410082": {
+    "OriginalText": "ギガンテス群撃退",
+    "Text": "",
+    "Enabled": false
+  },
+  "410083": {
+    "OriginalText": "賞杓",
+    "Text": "",
+    "Enabled": false
+  },
+  "410084": {
+    "OriginalText": "フィルディアの後悔",
+    "Text": "",
+    "Enabled": false
+  },
+  "410085": {
+    "OriginalText": "仲間への別れ",
+    "Text": "",
+    "Enabled": false
+  },
+  "410086": {
+    "OriginalText": "エンジン始動",
+    "Text": "",
+    "Enabled": false
+  },
+  "410087": {
+    "OriginalText": "艦出発",
+    "Text": "",
+    "Enabled": false
+  },
+  "410088": {
+    "OriginalText": "惑星からの攻撃",
+    "Text": "",
+    "Enabled": false
+  },
+  "410089": {
+    "OriginalText": "退避命令",
+    "Text": "",
+    "Enabled": false
+  },
+  "410090": {
+    "OriginalText": "最期の輝き",
+    "Text": "",
+    "Enabled": false
+  },
+  "410091": {
+    "OriginalText": "惨禍",
+    "Text": "",
+    "Enabled": false
+  },
+  "410092": {
+    "OriginalText": "新たな艦長",
+    "Text": "",
+    "Enabled": false
+  },
+  "410093": {
+    "OriginalText": "謎の少女 ２",
+    "Text": "",
+    "Enabled": false
+  },
+  "410094": {
+    "OriginalText": "大穴の探索依頼",
+    "Text": "",
+    "Enabled": false
+  },
+  "410095": {
+    "OriginalText": "ユノの謝露",
+    "Text": "",
+    "Enabled": false
+  },
+  "410096": {
+    "OriginalText": "大穴から降りる方法",
+    "Text": "",
+    "Enabled": false
+  },
+  "410097": {
+    "OriginalText": "地底探索の開始",
+    "Text": "",
+    "Enabled": false
+  },
+  "410098": {
+    "OriginalText": "地底へ",
+    "Text": "",
+    "Enabled": false
+  },
+  "410099": {
+    "OriginalText": "敵となった男",
+    "Text": "",
+    "Enabled": false
+  },
+  "410100": {
+    "OriginalText": "沈黙のレイヴァン",
+    "Text": "",
+    "Enabled": false
+  },
+  "410101": {
+    "OriginalText": "観測伝置開発依頼",
+    "Text": "",
+    "Enabled": false
+  },
+  "410102": {
+    "OriginalText": "艦長席に立つ",
+    "Text": "",
+    "Enabled": false
+  },
+  "410103": {
+    "OriginalText": "塔探索開始",
+    "Text": "",
+    "Enabled": false
+  },
+  "410104": {
+    "OriginalText": "塔内部潜入",
+    "Text": "",
+    "Enabled": false
+  },
+  "410105": {
+    "OriginalText": "謎の宝石",
+    "Text": "",
+    "Enabled": false
+  },
+  "410106": {
+    "OriginalText": "宝石の語る事実",
+    "Text": "",
+    "Enabled": false
+  },
+  "410107": {
+    "OriginalText": "ユノとレイヴァン 回想①",
+    "Text": "",
+    "Enabled": false
+  },
+  "410108": {
+    "OriginalText": "塔探索依頼",
+    "Text": "",
+    "Enabled": false
+  },
+  "410109": {
+    "OriginalText": "散らばる記録伝置",
+    "Text": "",
+    "Enabled": false
+  },
+  "410110": {
+    "OriginalText": "滅びの歴史",
+    "Text": "",
+    "Enabled": false
+  },
+  "410111": {
+    "OriginalText": "古代人の歴史",
+    "Text": "",
+    "Enabled": false
+  },
+  "410112": {
+    "OriginalText": "ユノとレイヴァン 回想②",
+    "Text": "",
+    "Enabled": false
+  },
+  "410113": {
+    "OriginalText": "ルティナの日記⑦",
+    "Text": "",
+    "Enabled": false
+  },
+  "410114": {
+    "OriginalText": "古代都市探索開始",
+    "Text": "",
+    "Enabled": false
+  },
+  "410115": {
+    "OriginalText": "ギガンテスの工場",
+    "Text": "",
+    "Enabled": false
+  },
+  "410116": {
+    "OriginalText": "残された設計図",
+    "Text": "",
+    "Enabled": false
+  },
+  "410117": {
+    "OriginalText": "大型パイル開発開始",
+    "Text": "",
+    "Enabled": false
+  },
+  "410118": {
+    "OriginalText": "大型パイル説明１",
+    "Text": "",
+    "Enabled": false
+  },
+  "410119": {
+    "OriginalText": "大型パイル説明２",
+    "Text": "",
+    "Enabled": false
+  },
+  "410120": {
+    "OriginalText": "大型パイル着地点説明１",
+    "Text": "",
+    "Enabled": false
+  },
+  "410121": {
+    "OriginalText": "レイヴァンの待ち伏せ１",
+    "Text": "",
+    "Enabled": false
+  },
+  "410122": {
+    "OriginalText": "大型パイル発射１",
+    "Text": "",
+    "Enabled": false
+  },
+  "410123": {
+    "OriginalText": "大型パイル弾着１",
+    "Text": "",
+    "Enabled": false
+  },
+  "410124": {
+    "OriginalText": "大型パイル結果報告１",
+    "Text": "",
+    "Enabled": false
+  },
+  "410125": {
+    "OriginalText": "大型パイル着地点説明２",
+    "Text": "",
+    "Enabled": false
+  },
+  "410126": {
+    "OriginalText": "レイヴァンの待ち伏せ２",
+    "Text": "",
+    "Enabled": false
+  },
+  "410127": {
+    "OriginalText": "大型パイル発射２",
+    "Text": "",
+    "Enabled": false
+  },
+  "410128": {
+    "OriginalText": "大型パイル弾着２",
+    "Text": "",
+    "Enabled": false
+  },
+  "410129": {
+    "OriginalText": "大型パイル結果報告２",
+    "Text": "",
+    "Enabled": false
+  },
+  "410130": {
+    "OriginalText": "大型パイル着地点説明３",
+    "Text": "",
+    "Enabled": false
+  },
+  "410131": {
+    "OriginalText": "レイヴァンの待ち伏せ３",
+    "Text": "",
+    "Enabled": false
+  },
+  "410132": {
+    "OriginalText": "大型パイル発射３",
+    "Text": "",
+    "Enabled": false
+  },
+  "410133": {
+    "OriginalText": "大型パイル弾着３",
+    "Text": "",
+    "Enabled": false
+  },
+  "410134": {
+    "OriginalText": "大型パイル結果報告３",
+    "Text": "",
+    "Enabled": false
+  },
+  "410135": {
+    "OriginalText": "ルティナの日記⑧",
+    "Text": "",
+    "Enabled": false
+  },
+  "410136": {
+    "OriginalText": "ユノの元を去るレイヴァン",
+    "Text": "",
+    "Enabled": false
+  },
+  "410137": {
+    "OriginalText": "ユノからの通信",
+    "Text": "",
+    "Enabled": false
+  },
+  "410138": {
+    "OriginalText": "ユノとレイヴァン 回想③",
+    "Text": "",
+    "Enabled": false
+  },
+  "410139": {
+    "OriginalText": "ルティナの説得",
+    "Text": "",
+    "Enabled": false
+  },
+  "410140": {
+    "OriginalText": "ユノとの約束",
+    "Text": "",
+    "Enabled": false
+  },
+  "410141": {
+    "OriginalText": "ルティナの日記⑨",
+    "Text": "",
+    "Enabled": false
+  },
+  "410142": {
+    "OriginalText": "コアへ向かう決意",
+    "Text": "",
+    "Enabled": false
+  },
+  "410143": {
+    "OriginalText": "仲間からの手向け",
+    "Text": "",
+    "Enabled": false
+  },
+  "410144": {
+    "OriginalText": "ユノの決意",
+    "Text": "",
+    "Enabled": false
+  },
+  "410145": {
+    "OriginalText": "薄れゆく記憶",
+    "Text": "",
+    "Enabled": false
+  },
+  "410146": {
+    "OriginalText": "コアに侵入",
+    "Text": "",
+    "Enabled": false
+  },
+  "410147": {
+    "OriginalText": "覚酷の予随",
+    "Text": "",
+    "Enabled": false
+  },
+  "410148": {
+    "OriginalText": "取り込まれた意識",
+    "Text": "",
+    "Enabled": false
+  },
+  "410149": {
+    "OriginalText": "タイムアップ",
+    "Text": "",
+    "Enabled": false
+  },
+  "410150": {
+    "OriginalText": "ノヴァ覚酷",
+    "Text": "",
+    "Enabled": false
+  },
+  "410151": {
+    "OriginalText": "あきらめないユノ",
+    "Text": "",
+    "Enabled": false
+  },
+  "410152": {
+    "OriginalText": "レイヴァンとの対峙",
+    "Text": "",
+    "Enabled": false
+  },
+  "410153": {
+    "OriginalText": "レイヴァン敗北",
+    "Text": "",
+    "Enabled": false
+  },
+  "410154": {
+    "OriginalText": "繋がるグランリンク",
+    "Text": "",
+    "Enabled": false
+  },
+  "410155": {
+    "OriginalText": "グランリンク完成",
+    "Text": "",
+    "Enabled": false
+  },
+  "410156": {
+    "OriginalText": "果たされる約束",
+    "Text": "",
+    "Enabled": false
+  },
+  "410157": {
+    "OriginalText": "私の英雄",
+    "Text": "",
+    "Enabled": false
+  },
+  "410158": {
+    "OriginalText": "帰還",
+    "Text": "",
+    "Enabled": false
+  },
+  "410159": {
+    "OriginalText": "探索報告",
+    "Text": "",
+    "Enabled": false
+  },
+  "410160": {
+    "OriginalText": "サブストーリー ルティナ編①",
+    "Text": "",
+    "Enabled": false
+  },
+  "410161": {
+    "OriginalText": "サブストーリー ルティナ編②",
+    "Text": "",
+    "Enabled": false
+  },
+  "410162": {
+    "OriginalText": "サブストーリー ルティナ編③",
+    "Text": "",
+    "Enabled": false
+  },
+  "410163": {
+    "OriginalText": "エピローグ ルティナ",
+    "Text": "",
+    "Enabled": false
+  },
+  "410164": {
+    "OriginalText": "サブストーリー セイル編①",
+    "Text": "",
+    "Enabled": false
+  },
+  "410165": {
+    "OriginalText": "サブストーリー セイル編②",
+    "Text": "",
+    "Enabled": false
+  },
+  "410166": {
+    "OriginalText": "サブストーリー セイル編③",
+    "Text": "",
+    "Enabled": false
+  },
+  "410167": {
+    "OriginalText": "エピローグ セイル",
+    "Text": "",
+    "Enabled": false
+  },
+  "410168": {
+    "OriginalText": "サブストーリー イズナ編①",
+    "Text": "",
+    "Enabled": false
+  },
+  "410169": {
+    "OriginalText": "サブストーリー イズナ編②",
+    "Text": "",
+    "Enabled": false
+  },
+  "410170": {
+    "OriginalText": "サブストーリー イズナ編③",
+    "Text": "",
+    "Enabled": false
+  },
+  "410171": {
+    "OriginalText": "エピローグ イズナ",
+    "Text": "",
+    "Enabled": false
+  },
+  "410172": {
+    "OriginalText": "サブストーリー フィルディア編①",
+    "Text": "",
+    "Enabled": false
+  },
+  "410173": {
+    "OriginalText": "サブストーリー フィルディア編②",
+    "Text": "",
+    "Enabled": false
+  },
+  "410174": {
+    "OriginalText": "エピローグ フィルディア",
+    "Text": "",
+    "Enabled": false
+  },
+  "410175": {
+    "OriginalText": "サブストーリー レイヴァンユノ編①回想",
+    "Text": "",
+    "Enabled": false
+  },
+  "410176": {
+    "OriginalText": "サブストーリー レイヴァンユノ編①",
+    "Text": "",
+    "Enabled": false
+  },
+  "410177": {
+    "OriginalText": "サブストーリー レイヴァンユノ編②",
+    "Text": "",
+    "Enabled": false
+  },
+  "410178": {
+    "OriginalText": "エピローグ レイヴァンユノ",
+    "Text": "",
+    "Enabled": false
+  },
+  "410179": {
+    "OriginalText": "サブストーリー カリスト編①",
+    "Text": "",
+    "Enabled": false
+  },
+  "410180": {
+    "OriginalText": "サブストーリー カリスト編②",
+    "Text": "",
+    "Enabled": false
+  },
+  "410181": {
+    "OriginalText": "サブストーリー カリスト編③",
+    "Text": "",
+    "Enabled": false
+  },
+  "410182": {
+    "OriginalText": "エピローグ カリスト",
+    "Text": "",
+    "Enabled": false
+  },
+  "410183": {
+    "OriginalText": "サブストーリー キサラ編①",
+    "Text": "",
+    "Enabled": false
+  },
+  "410184": {
+    "OriginalText": "サブストーリー キサラ編②",
+    "Text": "",
+    "Enabled": false
+  },
+  "410185": {
+    "OriginalText": "エピローグ キサラ",
+    "Text": "",
+    "Enabled": false
+  },
+  "410186": {
+    "OriginalText": "サブストーリー リーティア編①",
+    "Text": "",
+    "Enabled": false
+  },
+  "410187": {
+    "OriginalText": "サブストーリー リーティア編②",
+    "Text": "",
+    "Enabled": false
+  },
+  "410188": {
+    "OriginalText": "エピローグ リーティア",
+    "Text": "",
+    "Enabled": false
+  },
+  "410189": {
+    "OriginalText": "サブストーリー ヨミ編①",
+    "Text": "",
+    "Enabled": false
+  },
+  "410190": {
+    "OriginalText": "サブストーリー ヨミ編②",
+    "Text": "",
+    "Enabled": false
+  },
+  "410191": {
+    "OriginalText": "サブストーリー ヨミ編③",
+    "Text": "",
+    "Enabled": false
+  },
+  "410192": {
+    "OriginalText": "エピローグ ヨミ",
+    "Text": "",
+    "Enabled": false
+  },
+  "410193": {
+    "OriginalText": "サブストーリー オルクス編①",
+    "Text": "",
+    "Enabled": false
+  },
+  "410194": {
+    "OriginalText": "サブストーリー オルクス編②",
+    "Text": "",
+    "Enabled": false
+  },
+  "410195": {
+    "OriginalText": "サブストーリー オルクス編③",
+    "Text": "",
+    "Enabled": false
+  },
+  "410196": {
+    "OriginalText": "エピローグ オルクス",
+    "Text": "",
+    "Enabled": false
+  },
+  "410197": {
+    "OriginalText": "サブストーリー ヒュペリオン編①",
+    "Text": "",
+    "Enabled": false
+  },
+  "410198": {
+    "OriginalText": "サブストーリー ヒュペリオン編②",
+    "Text": "",
+    "Enabled": false
+  },
+  "410199": {
+    "OriginalText": "サブストーリー ヒュペリオン編③",
+    "Text": "",
+    "Enabled": false
+  },
+  "410200": {
+    "OriginalText": "エピローグ ヒュペリオン",
+    "Text": "",
+    "Enabled": false
+  },
+  "410201": {
+    "OriginalText": "サブストーリー シャロン編①",
+    "Text": "",
+    "Enabled": false
+  },
+  "410202": {
+    "OriginalText": "サブストーリー シャロン編②",
+    "Text": "",
+    "Enabled": false
+  },
+  "410203": {
+    "OriginalText": "サブストーリー シャロン編③",
+    "Text": "",
+    "Enabled": false
+  },
+  "410204": {
+    "OriginalText": "エピローグ シャロン",
+    "Text": "",
+    "Enabled": false
+  },
+  "410205": {
+    "OriginalText": "服の修復",
+    "Text": "",
+    "Enabled": false
+  },
+  "410206": {
+    "OriginalText": "湯気の向こう側",
+    "Text": "",
+    "Enabled": false
+  },
+  "410207": {
+    "OriginalText": "最期のデート",
+    "Text": "",
+    "Enabled": false
+  },
+  "410208": {
+    "OriginalText": "受け継がれるもの",
+    "Text": "",
+    "Enabled": false
+  },
+  "410209": {
+    "OriginalText": "ルティナの日記⑩ 語り出し",
+    "Text": "",
+    "Enabled": false
+  },
+  "410210": {
+    "OriginalText": "ルティナの日記⑩ 結び ノーマル",
+    "Text": "",
+    "Enabled": false
+  },
+  "410211": {
+    "OriginalText": "ルティナの日記⑩ 結び フルコンプ",
+    "Text": "",
+    "Enabled": false
+  },
+  "410300": {
+    "OriginalText": "//",
+    "Text": "",
+    "Enabled": false
+  },
+  "410301": {
+    "OriginalText": "惑星の洗礼",
+    "Text": "",
+    "Enabled": false
+  },
+  "410302": {
+    "OriginalText": "銅焔の巨獣",
+    "Text": "",
+    "Enabled": false
+  },
+  "410303": {
+    "OriginalText": "生存への挑戦 Ⅰ",
+    "Text": "",
+    "Enabled": false
+  },
+  "410304": {
+    "OriginalText": "生存への挑戦 Ⅱ",
+    "Text": "",
+    "Enabled": false
+  },
+  "410305": {
+    "OriginalText": "生存への挑戦 Ⅲ",
+    "Text": "",
+    "Enabled": false
+  },
+  "410306": {
+    "OriginalText": "生存への挑戦 Ⅳ",
+    "Text": "",
+    "Enabled": false
+  },
+  "410307": {
+    "OriginalText": "生存への挑戦 Ⅴ",
+    "Text": "",
+    "Enabled": false
+  },
+  "410308": {
+    "OriginalText": "脱出",
+    "Text": "",
+    "Enabled": false
+  },
+  "410309": {
+    "OriginalText": "惑星の真実 Ⅰ",
+    "Text": "",
+    "Enabled": false
+  },
+  "410310": {
+    "OriginalText": "惑星の真実 Ⅱ",
+    "Text": "",
+    "Enabled": false
+  },
+  "410311": {
+    "OriginalText": "惑星の真実 Ⅲ",
+    "Text": "",
+    "Enabled": false
+  },
+  "410312": {
+    "OriginalText": "惑星の真実 Ⅳ",
+    "Text": "",
+    "Enabled": false
+  },
+  "410313": {
+    "OriginalText": "ほんとうの約束",
+    "Text": "",
+    "Enabled": false
+  },
+  "410314": {
+    "OriginalText": "惑星より永遠に",
+    "Text": "",
+    "Enabled": false
+  },
+  "410315": {
+    "OriginalText": "サブストーリー",
+    "Text": "",
+    "Enabled": false
+  },
+  "410316": {
+    "OriginalText": "//",
+    "Text": "",
+    "Enabled": false
+  },
+  "410317": {
+    "OriginalText": "The Battle for Survival Begins",
+    "Text": "",
+    "Enabled": false
+  },
+  "410318": {
+    "OriginalText": "The Demon Above Us",
+    "Text": "",
+    "Enabled": false
+  },
+  "410319": {
+    "OriginalText": "Grand Act Ⅰ -Prologue-",
+    "Text": "",
+    "Enabled": false
+  },
+  "410320": {
+    "OriginalText": "The Value of Friendship",
+    "Text": "",
+    "Enabled": false
+  },
+  "410321": {
+    "OriginalText": "Youth and Trust",
+    "Text": "",
+    "Enabled": false
+  },
+  "410322": {
+    "OriginalText": "My Choice",
+    "Text": "",
+    "Enabled": false
+  },
+  "410323": {
+    "OriginalText": "Grand Act Ⅰ -Epilogue-",
+    "Text": "",
+    "Enabled": false
+  },
+  "410324": {
+    "OriginalText": "Tipping Point",
+    "Text": "",
+    "Enabled": false
+  },
+  "410325": {
+    "OriginalText": "Grand Act Ⅱ -Prologue-",
+    "Text": "",
+    "Enabled": false
+  },
+  "410326": {
+    "OriginalText": "Juno",
+    "Text": "",
+    "Enabled": false
+  },
+  "410327": {
+    "OriginalText": "The Enemy Below",
+    "Text": "",
+    "Enabled": false
+  },
+  "410328": {
+    "OriginalText": "Grand Act Ⅱ -Epilogue-",
+    "Text": "",
+    "Enabled": false
+  },
+  "410329": {
+    "OriginalText": "A Planet's End",
+    "Text": "",
+    "Enabled": false
+  },
+  "410330": {
+    "OriginalText": "The Endless Chapter ∞",
+    "Text": "",
+    "Enabled": false
+  },
+  "410331": {
+    "OriginalText": "Sub Story",
+    "Text": "",
+    "Enabled": false
+  },
+  "410501": {
+    "OriginalText": "マキア外龍",
+    "Text": "",
+    "Enabled": false
+  },
+  "410502": {
+    "OriginalText": "Another side to the story",
+    "Text": "",
+    "Enabled": false
+  },
+  "410503": {
+    "OriginalText": "事の起こり",
+    "Text": "",
+    "Enabled": false
+  },
+  "410504": {
+    "OriginalText": "残された記憶",
+    "Text": "",
+    "Enabled": false
+  },
+  "410505": {
+    "OriginalText": "SIDE:Garnet 無敵艦隊、発進 Act.01",
+    "Text": "",
+    "Enabled": false
+  },
+  "410506": {
+    "OriginalText": "SIDE:Garnet 無敵艦隊、発進 Act.02",
+    "Text": "",
+    "Enabled": false
+  },
+  "410507": {
+    "OriginalText": "SIDE:Garnet 無敵艦隊、発進 Act.03",
+    "Text": "",
+    "Enabled": false
+  },
+  "410508": {
+    "OriginalText": "SIDE:Garnet お料理大作戦 Act.01",
+    "Text": "",
+    "Enabled": false
+  },
+  "410509": {
+    "OriginalText": "SIDE:Garnet お料理大作戦 Act.02",
+    "Text": "",
+    "Enabled": false
+  },
+  "410510": {
+    "OriginalText": "SIDE:Garnet お料理大作戦 Act.03",
+    "Text": "",
+    "Enabled": false
+  },
+  "410511": {
+    "OriginalText": "SIDE:Garnet 暴走の果て Act.01",
+    "Text": "",
+    "Enabled": false
+  },
+  "410512": {
+    "OriginalText": "SIDE:Garnet 暴走の果て Act.02",
+    "Text": "",
+    "Enabled": false
+  },
+  "410513": {
+    "OriginalText": "SIDE:Garnet 暴走の果て Act.03",
+    "Text": "",
+    "Enabled": false
+  },
+  "410514": {
+    "OriginalText": "SIDE:Sunshout 疑惑の捜査官 Act.01",
+    "Text": "",
+    "Enabled": false
+  },
+  "410515": {
+    "OriginalText": "SIDE:Sunshout 疑惑の捜査官 Act.02",
+    "Text": "",
+    "Enabled": false
+  },
+  "410516": {
+    "OriginalText": "SIDE:Sunshout 疑惑の捜査官 Act.03",
+    "Text": "",
+    "Enabled": false
+  },
+  "410517": {
+    "OriginalText": "SIDE:Sunshout 見えぬ妨害 Act.01",
+    "Text": "",
+    "Enabled": false
+  },
+  "410518": {
+    "OriginalText": "SIDE:Sunshout 見えぬ妨害 Act.02",
+    "Text": "",
+    "Enabled": false
+  },
+  "410519": {
+    "OriginalText": "SIDE:Sunshout 見えぬ妨害 Act.03",
+    "Text": "",
+    "Enabled": false
+  },
+  "410520": {
+    "OriginalText": "SIDE:Sunshout 目な追走 Act.01",
+    "Text": "",
+    "Enabled": false
+  },
+  "410521": {
+    "OriginalText": "SIDE:Sunshout 目な追走 Act.02",
+    "Text": "",
+    "Enabled": false
+  },
+  "410522": {
+    "OriginalText": "SIDE:Sunshout 目な追走 Act.03",
+    "Text": "",
+    "Enabled": false
+  },
+  "410523": {
+    "OriginalText": "語られる真相",
+    "Text": "",
+    "Enabled": false
+  },
+  "410524": {
+    "OriginalText": "もう一人の英雄",
+    "Text": "",
+    "Enabled": false
+  }
+}

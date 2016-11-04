@@ -1,0 +1,2072 @@
+{
+  "240001": {
+    "OriginalText": "クラスカウンターＢ Lv.1",
+    "Text": "Class Counter B Lv.1",
+    "Enabled": true
+  },
+  "240002": {
+    "OriginalText": "クラスカウンターＢ Lv.2",
+    "Text": "Class Counter B Lv.2",
+    "Enabled": true
+  },
+  "240003": {
+    "OriginalText": "クラスカウンターＢ Lv.3",
+    "Text": "Class Counter B Lv.3",
+    "Enabled": true
+  },
+  "240004": {
+    "OriginalText": "クラスカウンターＢ Lv.4",
+    "Text": "Class Counter B Lv.4",
+    "Enabled": true
+  },
+  "240005": {
+    "OriginalText": "クラスカウンターＢ Lv.5",
+    "Text": "Class Counter B Lv.5",
+    "Enabled": true
+  },
+  "240006": {
+    "OriginalText": "クラスカウンターＯ Lv.1",
+    "Text": "Class Counter O Lv.1",
+    "Enabled": true
+  },
+  "240007": {
+    "OriginalText": "クラスカウンターＯ Lv.2",
+    "Text": "Class Counter O Lv.2",
+    "Enabled": true
+  },
+  "240008": {
+    "OriginalText": "クラスカウンターＯ Lv.3",
+    "Text": "Class Counter O Lv.3",
+    "Enabled": true
+  },
+  "240009": {
+    "OriginalText": "クラスカウンターＯ Lv.4",
+    "Text": "Class Counter O Lv.4",
+    "Enabled": true
+  },
+  "240010": {
+    "OriginalText": "クラスカウンターＯ Lv.5",
+    "Text": "Class Counter O Lv.5",
+    "Enabled": true
+  },
+  "240011": {
+    "OriginalText": "クラスカウンターＷ Lv.1",
+    "Text": "Class Counter W Lv.1",
+    "Enabled": true
+  },
+  "240012": {
+    "OriginalText": "クラスカウンターＷ Lv.2",
+    "Text": "Class Counter W Lv.2",
+    "Enabled": true
+  },
+  "240013": {
+    "OriginalText": "クラスカウンターＷ Lv.3",
+    "Text": "Class Counter W Lv.3",
+    "Enabled": true
+  },
+  "240014": {
+    "OriginalText": "クラスカウンターＷ Lv.4",
+    "Text": "Class Counter W Lv.4",
+    "Enabled": true
+  },
+  "240015": {
+    "OriginalText": "クラスカウンターＷ Lv.5",
+    "Text": "Class Counter W Lv.5",
+    "Enabled": true
+  },
+  "240016": {
+    "OriginalText": "クラスカウンター Lv.1",
+    "Text": "Class Counter Lv.1",
+    "Enabled": true
+  },
+  "240017": {
+    "OriginalText": "クラスカウンター Lv.2",
+    "Text": "Class Counter Lv.2",
+    "Enabled": true
+  },
+  "240018": {
+    "OriginalText": "クラスカウンター Lv.3",
+    "Text": "Class Counter Lv.3",
+    "Enabled": true
+  },
+  "240019": {
+    "OriginalText": "クラスカウンター Lv.4",
+    "Text": "Class Counter Lv.4",
+    "Enabled": true
+  },
+  "240020": {
+    "OriginalText": "クラスカウンター Lv.5",
+    "Text": "Class Counter Lv.5",
+    "Enabled": true
+  },
+  "240021": {
+    "OriginalText": "ラボ",
+    "Text": "Lab",
+    "Enabled": true
+  },
+  "240022": {
+    "OriginalText": "ラボ Lv.2",
+    "Text": "Lab Lv.2",
+    "Enabled": true
+  },
+  "240023": {
+    "OriginalText": "ラボ Lv.3",
+    "Text": "Lab Lv.3",
+    "Enabled": true
+  },
+  "240024": {
+    "OriginalText": "ラボ Lv.4",
+    "Text": "Lab Lv.4",
+    "Enabled": true
+  },
+  "240025": {
+    "OriginalText": "ラボ Lv.5",
+    "Text": "Lab Lv.5",
+    "Enabled": true
+  },
+  "240041": {
+    "OriginalText": "食堂Ｂ Lv.1",
+    "Text": "Food Shop B Lv.1",
+    "Enabled": true
+  },
+  "240042": {
+    "OriginalText": "食堂Ｂ Lv.2",
+    "Text": "Food Shop B Lv.2",
+    "Enabled": true
+  },
+  "240043": {
+    "OriginalText": "食堂Ｂ Lv.3",
+    "Text": "Food Shop B Lv.3",
+    "Enabled": true
+  },
+  "240044": {
+    "OriginalText": "食堂Ｂ Lv.4",
+    "Text": "Food Shop B Lv.4",
+    "Enabled": true
+  },
+  "240045": {
+    "OriginalText": "食堂Ｂ Lv.5",
+    "Text": "Food Shop B Lv.5",
+    "Enabled": true
+  },
+  "240046": {
+    "OriginalText": "食堂Ｏ Lv.1",
+    "Text": "Food Shop O Lv.1",
+    "Enabled": true
+  },
+  "240047": {
+    "OriginalText": "食堂Ｏ Lv.2",
+    "Text": "Food Shop O Lv.2",
+    "Enabled": true
+  },
+  "240048": {
+    "OriginalText": "食堂Ｏ Lv.3",
+    "Text": "Food Shop O Lv.3",
+    "Enabled": true
+  },
+  "240049": {
+    "OriginalText": "食堂Ｏ Lv.4",
+    "Text": "Food Shop O Lv.4",
+    "Enabled": true
+  },
+  "240050": {
+    "OriginalText": "食堂Ｏ Lv.5",
+    "Text": "Food Shop O Lv.5",
+    "Enabled": true
+  },
+  "240051": {
+    "OriginalText": "食堂Ｗ Lv.1",
+    "Text": "Food Shop W Lv.1",
+    "Enabled": true
+  },
+  "240052": {
+    "OriginalText": "食堂Ｗ Lv.2",
+    "Text": "Food Shop W Lv.2",
+    "Enabled": true
+  },
+  "240053": {
+    "OriginalText": "食堂Ｗ Lv.3",
+    "Text": "Food Shop W Lv.3",
+    "Enabled": true
+  },
+  "240054": {
+    "OriginalText": "食堂Ｗ Lv.4",
+    "Text": "Food Shop W Lv.4",
+    "Enabled": true
+  },
+  "240055": {
+    "OriginalText": "食堂Ｗ Lv.5",
+    "Text": "Food Shop W Lv.5",
+    "Enabled": true
+  },
+  "240056": {
+    "OriginalText": "食堂 Lv.1",
+    "Text": "Food Shop Lv.1",
+    "Enabled": true
+  },
+  "240057": {
+    "OriginalText": "食堂 Lv.2",
+    "Text": "Food Shop Lv.2",
+    "Enabled": true
+  },
+  "240058": {
+    "OriginalText": "食堂 Lv.3",
+    "Text": "Food Shop Lv.3",
+    "Enabled": true
+  },
+  "240059": {
+    "OriginalText": "食堂 Lv.4",
+    "Text": "Food Shop Lv.4",
+    "Enabled": true
+  },
+  "240060": {
+    "OriginalText": "食堂 Lv.5",
+    "Text": "Food Shop Lv.5",
+    "Enabled": true
+  },
+  "240061": {
+    "OriginalText": "武器ショップＢ Lv.1",
+    "Text": "Weapon Shop B Lv.1",
+    "Enabled": true
+  },
+  "240062": {
+    "OriginalText": "武器ショップＢ Lv.2",
+    "Text": "Weapon Shop B Lv.2",
+    "Enabled": true
+  },
+  "240063": {
+    "OriginalText": "武器ショップＢ Lv.3",
+    "Text": "Weapon Shop B Lv.3",
+    "Enabled": true
+  },
+  "240064": {
+    "OriginalText": "武器ショップＢ Lv.4",
+    "Text": "Weapon Shop B Lv.4",
+    "Enabled": true
+  },
+  "240065": {
+    "OriginalText": "武器ショップＢ Lv.5",
+    "Text": "Weapon Shop B Lv.5",
+    "Enabled": true
+  },
+  "240066": {
+    "OriginalText": "武器ショップＯ Lv.1",
+    "Text": "Weapon Shop O Lv.1",
+    "Enabled": true
+  },
+  "240067": {
+    "OriginalText": "武器ショップＯ Lv.2",
+    "Text": "Weapon Shop O Lv.2",
+    "Enabled": true
+  },
+  "240068": {
+    "OriginalText": "武器ショップＯ Lv.3",
+    "Text": "Weapon Shop O Lv.3",
+    "Enabled": true
+  },
+  "240069": {
+    "OriginalText": "武器ショップＯ Lv.4",
+    "Text": "Weapon Shop O Lv.4",
+    "Enabled": true
+  },
+  "240070": {
+    "OriginalText": "武器ショップＯ Lv.5",
+    "Text": "Weapon Shop O Lv.5",
+    "Enabled": true
+  },
+  "240071": {
+    "OriginalText": "武器ショップＷ Lv.1",
+    "Text": "Weapon Shop W Lv.1",
+    "Enabled": true
+  },
+  "240072": {
+    "OriginalText": "武器ショップＷ Lv.2",
+    "Text": "Weapon Shop W Lv.2",
+    "Enabled": true
+  },
+  "240073": {
+    "OriginalText": "武器ショップＷ Lv.3",
+    "Text": "Weapon Shop W Lv.3",
+    "Enabled": true
+  },
+  "240074": {
+    "OriginalText": "武器ショップＷ Lv.4",
+    "Text": "Weapon Shop W Lv.4",
+    "Enabled": true
+  },
+  "240075": {
+    "OriginalText": "武器ショップＷ Lv.5",
+    "Text": "Weapon Shop W Lv.5",
+    "Enabled": true
+  },
+  "240076": {
+    "OriginalText": "武器ショップ Lv.1",
+    "Text": "Weapon Shop Lv.1",
+    "Enabled": true
+  },
+  "240077": {
+    "OriginalText": "武器ショップ Lv.2",
+    "Text": "Weapon Shop Lv.2",
+    "Enabled": true
+  },
+  "240078": {
+    "OriginalText": "武器ショップ Lv.3",
+    "Text": "Weapon Shop Lv.3",
+    "Enabled": true
+  },
+  "240079": {
+    "OriginalText": "武器ショップ Lv.4",
+    "Text": "Weapon Shop Lv.4",
+    "Enabled": true
+  },
+  "240080": {
+    "OriginalText": "武器ショップ Lv.5",
+    "Text": "Weapon Shop Lv.5",
+    "Enabled": true
+  },
+  "240081": {
+    "OriginalText": "防具ショップＢ Lv.1",
+    "Text": "Armor Shop B Lv.1",
+    "Enabled": true
+  },
+  "240082": {
+    "OriginalText": "防具ショップＢ Lv.2",
+    "Text": "Armor Shop B Lv.2",
+    "Enabled": true
+  },
+  "240083": {
+    "OriginalText": "防具ショップＢ Lv.3",
+    "Text": "Armor Shop B Lv.3",
+    "Enabled": true
+  },
+  "240084": {
+    "OriginalText": "防具ショップＢ Lv.4",
+    "Text": "Armor Shop B Lv.4",
+    "Enabled": true
+  },
+  "240085": {
+    "OriginalText": "防具ショップＢ Lv.5",
+    "Text": "Armor Shop B Lv.5",
+    "Enabled": true
+  },
+  "240086": {
+    "OriginalText": "防具ショップＯ Lv.1",
+    "Text": "Armor Shop O Lv.1",
+    "Enabled": true
+  },
+  "240087": {
+    "OriginalText": "防具ショップＯ Lv.2",
+    "Text": "Armor Shop O Lv.2",
+    "Enabled": true
+  },
+  "240088": {
+    "OriginalText": "防具ショップＯ Lv.3",
+    "Text": "Armor Shop O Lv.3",
+    "Enabled": true
+  },
+  "240089": {
+    "OriginalText": "防具ショップＯ Lv.4",
+    "Text": "Armor Shop O Lv.4",
+    "Enabled": true
+  },
+  "240090": {
+    "OriginalText": "防具ショップＯ Lv.5",
+    "Text": "Armor Shop O Lv.5",
+    "Enabled": true
+  },
+  "240091": {
+    "OriginalText": "防具ショップＷ Lv.1",
+    "Text": "Armor Shop W Lv.1",
+    "Enabled": true
+  },
+  "240092": {
+    "OriginalText": "防具ショップＷ Lv.2",
+    "Text": "Armor Shop W Lv.2",
+    "Enabled": true
+  },
+  "240093": {
+    "OriginalText": "防具ショップＷ Lv.3",
+    "Text": "Armor Shop W Lv.3",
+    "Enabled": true
+  },
+  "240094": {
+    "OriginalText": "防具ショップＷ Lv.4",
+    "Text": "Armor Shop W Lv.4",
+    "Enabled": true
+  },
+  "240095": {
+    "OriginalText": "防具ショップＷ Lv.5",
+    "Text": "Armor Shop W Lv.5",
+    "Enabled": true
+  },
+  "240096": {
+    "OriginalText": "防具ショップ Lv.1",
+    "Text": "Armor Shop Lv.1",
+    "Enabled": true
+  },
+  "240097": {
+    "OriginalText": "防具ショップ Lv.2",
+    "Text": "Armor Shop Lv.2",
+    "Enabled": true
+  },
+  "240098": {
+    "OriginalText": "防具ショップ Lv.3",
+    "Text": "Armor Shop Lv.3",
+    "Enabled": true
+  },
+  "240099": {
+    "OriginalText": "防具ショップ Lv.4",
+    "Text": "Armor Shop Lv.4",
+    "Enabled": true
+  },
+  "240100": {
+    "OriginalText": "防具ショップ Lv.5",
+    "Text": "Armor Shop Lv.5",
+    "Enabled": true
+  },
+  "240101": {
+    "OriginalText": "アイテムショップＢ Lv.1",
+    "Text": "Item Shop B Lv.1",
+    "Enabled": true
+  },
+  "240102": {
+    "OriginalText": "アイテムショップＢ Lv.2",
+    "Text": "Item Shop B Lv.2",
+    "Enabled": true
+  },
+  "240103": {
+    "OriginalText": "アイテムショップＢ Lv.3",
+    "Text": "Item Shop B Lv.3",
+    "Enabled": true
+  },
+  "240104": {
+    "OriginalText": "アイテムショップＢ Lv.4",
+    "Text": "Item Shop B Lv.4",
+    "Enabled": true
+  },
+  "240105": {
+    "OriginalText": "アイテムショップＢ Lv.5",
+    "Text": "Item Shop B Lv.5",
+    "Enabled": true
+  },
+  "240106": {
+    "OriginalText": "アイテムショップＯ Lv.1",
+    "Text": "Item Shop O Lv.1",
+    "Enabled": true
+  },
+  "240107": {
+    "OriginalText": "アイテムショップＯ Lv.2",
+    "Text": "Item Shop O Lv.2",
+    "Enabled": true
+  },
+  "240108": {
+    "OriginalText": "アイテムショップＯ Lv.3",
+    "Text": "Item Shop O Lv.3",
+    "Enabled": true
+  },
+  "240109": {
+    "OriginalText": "アイテムショップＯ Lv.4",
+    "Text": "Item Shop O Lv.4",
+    "Enabled": true
+  },
+  "240110": {
+    "OriginalText": "アイテムショップＯ Lv.5",
+    "Text": "Item Shop O Lv.5",
+    "Enabled": true
+  },
+  "240111": {
+    "OriginalText": "アイテムショップＷ Lv.1",
+    "Text": "Item Shop W Lv.1",
+    "Enabled": true
+  },
+  "240112": {
+    "OriginalText": "アイテムショップＷ Lv.2",
+    "Text": "Item Shop W Lv.2",
+    "Enabled": true
+  },
+  "240113": {
+    "OriginalText": "アイテムショップＷ Lv.3",
+    "Text": "Item Shop W Lv.3",
+    "Enabled": true
+  },
+  "240114": {
+    "OriginalText": "アイテムショップＷ Lv.4",
+    "Text": "Item Shop W Lv.4",
+    "Enabled": true
+  },
+  "240115": {
+    "OriginalText": "アイテムショップＷ Lv.5",
+    "Text": "Item Shop W Lv.5",
+    "Enabled": true
+  },
+  "240116": {
+    "OriginalText": "アイテムショップ Lv.1",
+    "Text": "Item Shop Lv.1",
+    "Enabled": true
+  },
+  "240117": {
+    "OriginalText": "アイテムショップ Lv.2",
+    "Text": "Item Shop Lv.2",
+    "Enabled": true
+  },
+  "240118": {
+    "OriginalText": "アイテムショップ Lv.3",
+    "Text": "Item Shop Lv.3",
+    "Enabled": true
+  },
+  "240119": {
+    "OriginalText": "アイテムショップ Lv.4",
+    "Text": "Item Shop Lv.4",
+    "Enabled": true
+  },
+  "240120": {
+    "OriginalText": "アイテムショップ Lv.5",
+    "Text": "Item Shop Lv.5",
+    "Enabled": true
+  },
+  "240121": {
+    "OriginalText": "コスチュームＳＢ Lv.1",
+    "Text": "Costume Shop B Lv.1",
+    "Enabled": true
+  },
+  "240122": {
+    "OriginalText": "コスチュームＳＢ Lv.2",
+    "Text": "Costume Shop B Lv.2",
+    "Enabled": true
+  },
+  "240123": {
+    "OriginalText": "コスチュームＳＢ Lv.3",
+    "Text": "Costume Shop B Lv.3",
+    "Enabled": true
+  },
+  "240124": {
+    "OriginalText": "コスチュームＳＢ Lv.4",
+    "Text": "Costume Shop B Lv.4",
+    "Enabled": true
+  },
+  "240125": {
+    "OriginalText": "コスチュームＳＢ Lv.5",
+    "Text": "Costume Shop B Lv.5",
+    "Enabled": true
+  },
+  "240126": {
+    "OriginalText": "コスチュームＳＯ Lv.1",
+    "Text": "Costume Shop S Lv.1",
+    "Enabled": true
+  },
+  "240127": {
+    "OriginalText": "コスチュームＳＯ Lv.2",
+    "Text": "Costume Shop S Lv.2",
+    "Enabled": true
+  },
+  "240128": {
+    "OriginalText": "コスチュームＳＯ Lv.3",
+    "Text": "Costume Shop S Lv.3",
+    "Enabled": true
+  },
+  "240129": {
+    "OriginalText": "コスチュームＳＯ Lv.4",
+    "Text": "Costume Shop S Lv.4",
+    "Enabled": true
+  },
+  "240130": {
+    "OriginalText": "コスチュームＳＯ Lv.5",
+    "Text": "Costume Shop S Lv.5",
+    "Enabled": true
+  },
+  "240131": {
+    "OriginalText": "コスチュームＳＷ Lv.1",
+    "Text": "Costume Shop W Lv.1",
+    "Enabled": true
+  },
+  "240132": {
+    "OriginalText": "コスチュームＳＷ Lv.2",
+    "Text": "Costume Shop W Lv.2",
+    "Enabled": true
+  },
+  "240133": {
+    "OriginalText": "コスチュームＳＷ Lv.3",
+    "Text": "Costume Shop W Lv.3",
+    "Enabled": true
+  },
+  "240134": {
+    "OriginalText": "コスチュームＳＷ Lv.4",
+    "Text": "Costume Shop W Lv.4",
+    "Enabled": true
+  },
+  "240135": {
+    "OriginalText": "コスチュームＳＷ Lv.5",
+    "Text": "Costume Shop W Lv.5",
+    "Enabled": true
+  },
+  "240136": {
+    "OriginalText": "コスチュームＳ Lv.1",
+    "Text": "Costume Shop Lv.1",
+    "Enabled": true
+  },
+  "240137": {
+    "OriginalText": "コスチュームＳ Lv.2",
+    "Text": "Costume Shop Lv.2",
+    "Enabled": true
+  },
+  "240138": {
+    "OriginalText": "コスチュームＳ Lv.3",
+    "Text": "Costume Shop Lv.3",
+    "Enabled": true
+  },
+  "240139": {
+    "OriginalText": "コスチュームＳ Lv.4",
+    "Text": "Costume Shop Lv.4",
+    "Enabled": true
+  },
+  "240140": {
+    "OriginalText": "コスチュームＳ Lv.5",
+    "Text": "Costume Shop Lv.5",
+    "Enabled": true
+  },
+  "240141": {
+    "OriginalText": "エステＢ Lv.1",
+    "Text": "Makeover Shop B Lv.1",
+    "Enabled": true
+  },
+  "240142": {
+    "OriginalText": "エステＢ Lv.2",
+    "Text": "Makeover Shop B Lv.2",
+    "Enabled": true
+  },
+  "240143": {
+    "OriginalText": "エステＢ Lv.3",
+    "Text": "Makeover Shop B Lv.3",
+    "Enabled": true
+  },
+  "240144": {
+    "OriginalText": "エステＢ Lv.4",
+    "Text": "Makeover Shop B Lv.4",
+    "Enabled": true
+  },
+  "240145": {
+    "OriginalText": "エステＢ Lv.5",
+    "Text": "Makeover Shop B Lv.5",
+    "Enabled": true
+  },
+  "240146": {
+    "OriginalText": "エステＯ Lv.1",
+    "Text": "Makeover Shop O Lv.1",
+    "Enabled": true
+  },
+  "240147": {
+    "OriginalText": "エステＯ Lv.2",
+    "Text": "Makeover Shop O Lv.2",
+    "Enabled": true
+  },
+  "240148": {
+    "OriginalText": "エステＯ Lv.3",
+    "Text": "Makeover Shop O Lv.3",
+    "Enabled": true
+  },
+  "240149": {
+    "OriginalText": "エステＯ Lv.4",
+    "Text": "Makeover Shop O Lv.4",
+    "Enabled": true
+  },
+  "240150": {
+    "OriginalText": "エステＯ Lv.5",
+    "Text": "Makeover Shop O Lv.5",
+    "Enabled": true
+  },
+  "240151": {
+    "OriginalText": "エステＷ Lv.1",
+    "Text": "Makeover Shop W Lv.1",
+    "Enabled": true
+  },
+  "240152": {
+    "OriginalText": "エステＷ Lv.2",
+    "Text": "Makeover Shop W Lv.2",
+    "Enabled": true
+  },
+  "240153": {
+    "OriginalText": "エステＷ Lv.3",
+    "Text": "Makeover Shop W Lv.3",
+    "Enabled": true
+  },
+  "240154": {
+    "OriginalText": "エステＷ Lv.4",
+    "Text": "Makeover Shop W Lv.4",
+    "Enabled": true
+  },
+  "240155": {
+    "OriginalText": "エステＷ Lv.5",
+    "Text": "Makeover Shop W Lv.5",
+    "Enabled": true
+  },
+  "240156": {
+    "OriginalText": "エステ Lv.1",
+    "Text": "Makeover Shop Lv.1",
+    "Enabled": true
+  },
+  "240157": {
+    "OriginalText": "エステ Lv.2",
+    "Text": "Makeover Shop Lv.2",
+    "Enabled": true
+  },
+  "240158": {
+    "OriginalText": "エステ Lv.3",
+    "Text": "Makeover Shop Lv.3",
+    "Enabled": true
+  },
+  "240159": {
+    "OriginalText": "エステ Lv.4",
+    "Text": "Makeover Shop Lv.4",
+    "Enabled": true
+  },
+  "240160": {
+    "OriginalText": "エステ Lv.5",
+    "Text": "Makeover Shop Lv.5",
+    "Enabled": true
+  },
+  "240166": {
+    "OriginalText": "探索隊司令部 Lv.1",
+    "Text": "Search Team Headquarters Lv.1",
+    "Enabled": true
+  },
+  "240167": {
+    "OriginalText": "探索隊司令部 Lv.2",
+    "Text": "Search Team Headquarters Lv.2",
+    "Enabled": true
+  },
+  "240168": {
+    "OriginalText": "探索隊司令部 Lv.3",
+    "Text": "Search Team Headquarters Lv.3",
+    "Enabled": true
+  },
+  "240169": {
+    "OriginalText": "探索隊司令部 Lv.4",
+    "Text": "Search Team Headquarters Lv.4",
+    "Enabled": true
+  },
+  "240170": {
+    "OriginalText": "探索隊司令部 Lv.5",
+    "Text": "Search Team Headquarters Lv.5",
+    "Enabled": true
+  },
+  "240171": {
+    "OriginalText": "グランブースター Lv.1",
+    "Text": "Gran Booster Lv.1",
+    "Enabled": true
+  },
+  "240172": {
+    "OriginalText": "グランブースター Lv.2",
+    "Text": "Gran Booster Lv.2",
+    "Enabled": true
+  },
+  "240173": {
+    "OriginalText": "グランブースター Lv.3",
+    "Text": "Gran Booster Lv.3",
+    "Enabled": true
+  },
+  "240174": {
+    "OriginalText": "グランブースター Lv.4",
+    "Text": "Gran Booster Lv.4",
+    "Enabled": true
+  },
+  "240175": {
+    "OriginalText": "グランブースター Lv.5",
+    "Text": "Gran Booster Lv.5",
+    "Enabled": true
+  },
+  "240176": {
+    "OriginalText": "アイテム探知伝置 Lv.1",
+    "Text": "Item Detection System Lv.1",
+    "Enabled": true
+  },
+  "240177": {
+    "OriginalText": "アイテム探知伝置 Lv.2",
+    "Text": "Item Detection System Lv.2",
+    "Enabled": true
+  },
+  "240178": {
+    "OriginalText": "アイテム探知伝置 Lv.3",
+    "Text": "Item Detection System Lv.3",
+    "Enabled": true
+  },
+  "240179": {
+    "OriginalText": "アイテム探知伝置 Lv.4",
+    "Text": "Item Detection System Lv.4",
+    "Enabled": true
+  },
+  "240180": {
+    "OriginalText": "アイテム探知伝置 Lv.5",
+    "Text": "Item Detection System Lv.5",
+    "Enabled": true
+  },
+  "240181": {
+    "OriginalText": "エネミーレーダー Lv.1",
+    "Text": "Enemy Radar Lv.1",
+    "Enabled": true
+  },
+  "240182": {
+    "OriginalText": "エネミーレーダー Lv.2",
+    "Text": "Enemy Radar Lv.2",
+    "Enabled": true
+  },
+  "240183": {
+    "OriginalText": "エネミーレーダー Lv.3",
+    "Text": "Enemy Radar Lv.3",
+    "Enabled": true
+  },
+  "240184": {
+    "OriginalText": "エネミーレーダー Lv.4",
+    "Text": "Enemy Radar Lv.4",
+    "Enabled": true
+  },
+  "240185": {
+    "OriginalText": "エネミーレーダー Lv.5",
+    "Text": "Enemy Radar Lv.5",
+    "Enabled": true
+  },
+  "240186": {
+    "OriginalText": "バースト加速伝置 Lv.1",
+    "Text": "Burst Acceleration Device Lv.1",
+    "Enabled": true
+  },
+  "240187": {
+    "OriginalText": "バースト加速伝置 Lv.2",
+    "Text": "Burst Acceleration Device Lv.2",
+    "Enabled": true
+  },
+  "240188": {
+    "OriginalText": "バースト加速伝置 Lv.3",
+    "Text": "Burst Acceleration Device Lv.3",
+    "Enabled": true
+  },
+  "240189": {
+    "OriginalText": "バースト加速伝置 Lv.4",
+    "Text": "Burst Acceleration Device Lv.4",
+    "Enabled": true
+  },
+  "240190": {
+    "OriginalText": "バースト加速伝置 Lv.5",
+    "Text": "Burst Acceleration Device Lv.5",
+    "Enabled": true
+  },
+  "240191": {
+    "OriginalText": "コア精錬所 Lv.1",
+    "Text": "Core Refinery Lv.1",
+    "Enabled": true
+  },
+  "240192": {
+    "OriginalText": "コア精錬所 Lv.2",
+    "Text": "Core Refinery Lv.2",
+    "Enabled": true
+  },
+  "240193": {
+    "OriginalText": "コア精錬所 Lv.3",
+    "Text": "Core Refinery Lv.3",
+    "Enabled": true
+  },
+  "240194": {
+    "OriginalText": "コア精錬所 Lv.4",
+    "Text": "Core Refinery Lv.4",
+    "Enabled": true
+  },
+  "240195": {
+    "OriginalText": "コア精錬所 Lv.5",
+    "Text": "Core Refinery Lv.5",
+    "Enabled": true
+  },
+  "240196": {
+    "OriginalText": "シアタースコープ",
+    "Text": "Theater Terminal",
+    "Enabled": true
+  },
+  "240197": {
+    "OriginalText": "倉庫",
+    "Text": "Storage",
+    "Enabled": true
+  },
+  "240198": {
+    "OriginalText": "ショップ端末",
+    "Text": "Shop Terminal",
+    "Enabled": true
+  },
+  "240199": {
+    "OriginalText": "ベースボード",
+    "Text": "",
+    "Enabled": false
+  },
+  "240200": {
+    "OriginalText": "ベースボード黒",
+    "Text": "",
+    "Enabled": false
+  },
+  "240201": {
+    "OriginalText": "オリエントボード",
+    "Text": "",
+    "Enabled": false
+  },
+  "240202": {
+    "OriginalText": "オリエントボード赤",
+    "Text": "",
+    "Enabled": false
+  },
+  "240203": {
+    "OriginalText": "ウェスタンボード",
+    "Text": "",
+    "Enabled": false
+  },
+  "240204": {
+    "OriginalText": "ウェスタンボード赤",
+    "Text": "",
+    "Enabled": false
+  },
+  "240205": {
+    "OriginalText": "ボード",
+    "Text": "",
+    "Enabled": false
+  },
+  "240206": {
+    "OriginalText": "ボード黒",
+    "Text": "",
+    "Enabled": false
+  },
+  "240207": {
+    "OriginalText": "ベースラージボード",
+    "Text": "",
+    "Enabled": false
+  },
+  "240208": {
+    "OriginalText": "ベースラージボード黒",
+    "Text": "",
+    "Enabled": false
+  },
+  "240209": {
+    "OriginalText": "オリエントラージボード",
+    "Text": "",
+    "Enabled": false
+  },
+  "240210": {
+    "OriginalText": "オリエントラージボード赤",
+    "Text": "",
+    "Enabled": false
+  },
+  "240211": {
+    "OriginalText": "ウェスタンラージボード",
+    "Text": "",
+    "Enabled": false
+  },
+  "240212": {
+    "OriginalText": "ウェスタンラージボード赤",
+    "Text": "",
+    "Enabled": false
+  },
+  "240213": {
+    "OriginalText": "ラージボード",
+    "Text": "",
+    "Enabled": false
+  },
+  "240214": {
+    "OriginalText": "ラージボード黒",
+    "Text": "",
+    "Enabled": false
+  },
+  "240215": {
+    "OriginalText": "シップのガレキ・小",
+    "Text": "",
+    "Enabled": false
+  },
+  "240216": {
+    "OriginalText": "シップのガレキ・大",
+    "Text": "",
+    "Enabled": false
+  },
+  "240217": {
+    "OriginalText": "ベーステント",
+    "Text": "",
+    "Enabled": false
+  },
+  "240218": {
+    "OriginalText": "ベーステント青",
+    "Text": "",
+    "Enabled": false
+  },
+  "240219": {
+    "OriginalText": "オリエントテント",
+    "Text": "",
+    "Enabled": false
+  },
+  "240220": {
+    "OriginalText": "オリエントテント緑",
+    "Text": "",
+    "Enabled": false
+  },
+  "240221": {
+    "OriginalText": "ウェスタンテント",
+    "Text": "",
+    "Enabled": false
+  },
+  "240222": {
+    "OriginalText": "ウェスタンテント青",
+    "Text": "",
+    "Enabled": false
+  },
+  "240223": {
+    "OriginalText": "テント",
+    "Text": "",
+    "Enabled": false
+  },
+  "240224": {
+    "OriginalText": "テント黒",
+    "Text": "",
+    "Enabled": false
+  },
+  "240225": {
+    "OriginalText": "ベースＴチェア",
+    "Text": "",
+    "Enabled": false
+  },
+  "240226": {
+    "OriginalText": "ベースＴチェア緑",
+    "Text": "",
+    "Enabled": false
+  },
+  "240227": {
+    "OriginalText": "オリエントＴチェア",
+    "Text": "",
+    "Enabled": false
+  },
+  "240228": {
+    "OriginalText": "オリエントＴチェア茶",
+    "Text": "",
+    "Enabled": false
+  },
+  "240229": {
+    "OriginalText": "ウェスタンＴチェア",
+    "Text": "",
+    "Enabled": false
+  },
+  "240230": {
+    "OriginalText": "ウェスタンＴチェア茶",
+    "Text": "",
+    "Enabled": false
+  },
+  "240231": {
+    "OriginalText": "テーブルチェア",
+    "Text": "",
+    "Enabled": false
+  },
+  "240232": {
+    "OriginalText": "テーブルチェア緑",
+    "Text": "",
+    "Enabled": false
+  },
+  "240233": {
+    "OriginalText": "ベースベッド",
+    "Text": "",
+    "Enabled": false
+  },
+  "240234": {
+    "OriginalText": "ベースベッド青",
+    "Text": "",
+    "Enabled": false
+  },
+  "240235": {
+    "OriginalText": "オリエントベッド",
+    "Text": "",
+    "Enabled": false
+  },
+  "240236": {
+    "OriginalText": "オリエントベッド緑",
+    "Text": "",
+    "Enabled": false
+  },
+  "240237": {
+    "OriginalText": "ウェスタンベッド",
+    "Text": "",
+    "Enabled": false
+  },
+  "240238": {
+    "OriginalText": "ウェスタンベッド茶",
+    "Text": "",
+    "Enabled": false
+  },
+  "240239": {
+    "OriginalText": "ベッド",
+    "Text": "",
+    "Enabled": false
+  },
+  "240240": {
+    "OriginalText": "ベッド青",
+    "Text": "",
+    "Enabled": false
+  },
+  "240241": {
+    "OriginalText": "ベースＳシェルフ",
+    "Text": "",
+    "Enabled": false
+  },
+  "240242": {
+    "OriginalText": "ベースＳシェルフ緑",
+    "Text": "",
+    "Enabled": false
+  },
+  "240243": {
+    "OriginalText": "オリエントＳシェルフ茶",
+    "Text": "",
+    "Enabled": false
+  },
+  "240244": {
+    "OriginalText": "オリエントＳシェルフ",
+    "Text": "",
+    "Enabled": false
+  },
+  "240245": {
+    "OriginalText": "ウェスタンＳシェルフ",
+    "Text": "",
+    "Enabled": false
+  },
+  "240246": {
+    "OriginalText": "ウェスタンＳシェルフ茶",
+    "Text": "",
+    "Enabled": false
+  },
+  "240247": {
+    "OriginalText": "シンプルシェルフ",
+    "Text": "",
+    "Enabled": false
+  },
+  "240248": {
+    "OriginalText": "シンプルシェルフ緑",
+    "Text": "",
+    "Enabled": false
+  },
+  "240249": {
+    "OriginalText": "ベースライト",
+    "Text": "",
+    "Enabled": false
+  },
+  "240250": {
+    "OriginalText": "ベースライト緑",
+    "Text": "",
+    "Enabled": false
+  },
+  "240251": {
+    "OriginalText": "オリエントライト",
+    "Text": "",
+    "Enabled": false
+  },
+  "240252": {
+    "OriginalText": "オリエントライト茶",
+    "Text": "",
+    "Enabled": false
+  },
+  "240253": {
+    "OriginalText": "ウェスタンライト",
+    "Text": "",
+    "Enabled": false
+  },
+  "240254": {
+    "OriginalText": "ウェスタンライト茶",
+    "Text": "",
+    "Enabled": false
+  },
+  "240255": {
+    "OriginalText": "ライト",
+    "Text": "",
+    "Enabled": false
+  },
+  "240256": {
+    "OriginalText": "ライト青",
+    "Text": "",
+    "Enabled": false
+  },
+  "240257": {
+    "OriginalText": "ベースシート",
+    "Text": "",
+    "Enabled": false
+  },
+  "240258": {
+    "OriginalText": "ベースシート青",
+    "Text": "",
+    "Enabled": false
+  },
+  "240259": {
+    "OriginalText": "オリエントシート",
+    "Text": "",
+    "Enabled": false
+  },
+  "240260": {
+    "OriginalText": "オリエントシート緑",
+    "Text": "",
+    "Enabled": false
+  },
+  "240261": {
+    "OriginalText": "ウェスタンシート",
+    "Text": "",
+    "Enabled": false
+  },
+  "240262": {
+    "OriginalText": "ウェスタンシート青",
+    "Text": "",
+    "Enabled": false
+  },
+  "240263": {
+    "OriginalText": "シート",
+    "Text": "",
+    "Enabled": false
+  },
+  "240264": {
+    "OriginalText": "シート青",
+    "Text": "",
+    "Enabled": false
+  },
+  "240265": {
+    "OriginalText": "プランター白",
+    "Text": "",
+    "Enabled": false
+  },
+  "240266": {
+    "OriginalText": "プランター",
+    "Text": "",
+    "Enabled": false
+  },
+  "240267": {
+    "OriginalText": "プランター黒",
+    "Text": "",
+    "Enabled": false
+  },
+  "240268": {
+    "OriginalText": "トイレ",
+    "Text": "",
+    "Enabled": false
+  },
+  "240269": {
+    "OriginalText": "トイレ黒",
+    "Text": "",
+    "Enabled": false
+  },
+  "240270": {
+    "OriginalText": "トイレ緑",
+    "Text": "",
+    "Enabled": false
+  },
+  "240271": {
+    "OriginalText": "キャンプファイアー",
+    "Text": "",
+    "Enabled": false
+  },
+  "240272": {
+    "OriginalText": "ウォーターサーバー",
+    "Text": "",
+    "Enabled": false
+  },
+  "240273": {
+    "OriginalText": "ミニスパ",
+    "Text": "",
+    "Enabled": false
+  },
+  "240274": {
+    "OriginalText": "スパ",
+    "Text": "",
+    "Enabled": false
+  },
+  "240275": {
+    "OriginalText": "ドラムバスタブ",
+    "Text": "",
+    "Enabled": false
+  },
+  "240276": {
+    "OriginalText": "ドラムバスタブ橙",
+    "Text": "",
+    "Enabled": false
+  },
+  "240277": {
+    "OriginalText": "ドラムバスタブ黒",
+    "Text": "",
+    "Enabled": false
+  },
+  "240278": {
+    "OriginalText": "サインボード",
+    "Text": "",
+    "Enabled": false
+  },
+  "240279": {
+    "OriginalText": "サインボード白",
+    "Text": "",
+    "Enabled": false
+  },
+  "240280": {
+    "OriginalText": "サインボード黒",
+    "Text": "",
+    "Enabled": false
+  },
+  "240281": {
+    "OriginalText": "慰霊霊",
+    "Text": "",
+    "Enabled": false
+  },
+  "240282": {
+    "OriginalText": "トークステージ",
+    "Text": "",
+    "Enabled": false
+  },
+  "240283": {
+    "OriginalText": "見張り台",
+    "Text": "",
+    "Enabled": false
+  },
+  "240284": {
+    "OriginalText": "コンテナ",
+    "Text": "",
+    "Enabled": false
+  },
+  "240285": {
+    "OriginalText": "コンテナ橙",
+    "Text": "",
+    "Enabled": false
+  },
+  "240286": {
+    "OriginalText": "コンテナ黒",
+    "Text": "",
+    "Enabled": false
+  },
+  "240287": {
+    "OriginalText": "コンテナ白",
+    "Text": "",
+    "Enabled": false
+  },
+  "240288": {
+    "OriginalText": "コンテナユニット",
+    "Text": "",
+    "Enabled": false
+  },
+  "240289": {
+    "OriginalText": "コンテナユニット橙",
+    "Text": "",
+    "Enabled": false
+  },
+  "240290": {
+    "OriginalText": "コンテナユニット黒",
+    "Text": "",
+    "Enabled": false
+  },
+  "240291": {
+    "OriginalText": "コンテナユニット白",
+    "Text": "",
+    "Enabled": false
+  },
+  "240292": {
+    "OriginalText": "ミニガーデン",
+    "Text": "",
+    "Enabled": false
+  },
+  "240293": {
+    "OriginalText": "モニュメント金",
+    "Text": "",
+    "Enabled": false
+  },
+  "240294": {
+    "OriginalText": "モニュメント銀",
+    "Text": "",
+    "Enabled": false
+  },
+  "240295": {
+    "OriginalText": "ベーシックチェア",
+    "Text": "",
+    "Enabled": false
+  },
+  "240296": {
+    "OriginalText": "ベーシックチェア青",
+    "Text": "",
+    "Enabled": false
+  },
+  "240297": {
+    "OriginalText": "ベーシックチェア碑",
+    "Text": "",
+    "Enabled": false
+  },
+  "240298": {
+    "OriginalText": "ベーシックベッド",
+    "Text": "",
+    "Enabled": false
+  },
+  "240299": {
+    "OriginalText": "ベーシックベッド青",
+    "Text": "",
+    "Enabled": false
+  },
+  "240300": {
+    "OriginalText": "ベーシックベッド碑",
+    "Text": "",
+    "Enabled": false
+  },
+  "240301": {
+    "OriginalText": "ベーシックローテーブル",
+    "Text": "",
+    "Enabled": false
+  },
+  "240302": {
+    "OriginalText": "ベーシックローテーブル青",
+    "Text": "",
+    "Enabled": false
+  },
+  "240303": {
+    "OriginalText": "ベーシックローテーブル碑",
+    "Text": "",
+    "Enabled": false
+  },
+  "240304": {
+    "OriginalText": "スタンドライト",
+    "Text": "",
+    "Enabled": false
+  },
+  "240305": {
+    "OriginalText": "スタンドライト青",
+    "Text": "",
+    "Enabled": false
+  },
+  "240306": {
+    "OriginalText": "スタンドライト碑",
+    "Text": "",
+    "Enabled": false
+  },
+  "240307": {
+    "OriginalText": "モダンベッド",
+    "Text": "",
+    "Enabled": false
+  },
+  "240308": {
+    "OriginalText": "モダンベッド橙",
+    "Text": "",
+    "Enabled": false
+  },
+  "240309": {
+    "OriginalText": "モダンベッド黒",
+    "Text": "",
+    "Enabled": false
+  },
+  "240310": {
+    "OriginalText": "モダンローテーブル",
+    "Text": "",
+    "Enabled": false
+  },
+  "240311": {
+    "OriginalText": "モダンローテーブル橙",
+    "Text": "",
+    "Enabled": false
+  },
+  "240312": {
+    "OriginalText": "モダンローテーブル黒",
+    "Text": "",
+    "Enabled": false
+  },
+  "240313": {
+    "OriginalText": "ミニモダンシェルフ",
+    "Text": "",
+    "Enabled": false
+  },
+  "240314": {
+    "OriginalText": "ミニモダンシェルフ橙",
+    "Text": "",
+    "Enabled": false
+  },
+  "240315": {
+    "OriginalText": "ミニモダンシェルフ黒",
+    "Text": "",
+    "Enabled": false
+  },
+  "240316": {
+    "OriginalText": "クラシックソファ",
+    "Text": "",
+    "Enabled": false
+  },
+  "240317": {
+    "OriginalText": "クラシックソファ碑",
+    "Text": "",
+    "Enabled": false
+  },
+  "240318": {
+    "OriginalText": "クラシックソファ茶",
+    "Text": "",
+    "Enabled": false
+  },
+  "240319": {
+    "OriginalText": "クラシックベッド",
+    "Text": "",
+    "Enabled": false
+  },
+  "240320": {
+    "OriginalText": "クラシックベッド碑",
+    "Text": "",
+    "Enabled": false
+  },
+  "240321": {
+    "OriginalText": "クラシックベッド茶",
+    "Text": "",
+    "Enabled": false
+  },
+  "240322": {
+    "OriginalText": "クラシックテーブル",
+    "Text": "",
+    "Enabled": false
+  },
+  "240323": {
+    "OriginalText": "クラシックテーブル碑",
+    "Text": "",
+    "Enabled": false
+  },
+  "240324": {
+    "OriginalText": "クラシックテーブル茶",
+    "Text": "",
+    "Enabled": false
+  },
+  "240325": {
+    "OriginalText": "クラシックナイトスタンド",
+    "Text": "",
+    "Enabled": false
+  },
+  "240326": {
+    "OriginalText": "クラシックＮスタンド碑",
+    "Text": "",
+    "Enabled": false
+  },
+  "240327": {
+    "OriginalText": "クラシックＮスタンド茶",
+    "Text": "",
+    "Enabled": false
+  },
+  "240328": {
+    "OriginalText": "クラシックキャビネット",
+    "Text": "",
+    "Enabled": false
+  },
+  "240329": {
+    "OriginalText": "ゴシックソファ",
+    "Text": "",
+    "Enabled": false
+  },
+  "240330": {
+    "OriginalText": "ゴシックソファ赤",
+    "Text": "",
+    "Enabled": false
+  },
+  "240331": {
+    "OriginalText": "ゴシックソファ黒",
+    "Text": "",
+    "Enabled": false
+  },
+  "240332": {
+    "OriginalText": "ゴシックベッド",
+    "Text": "",
+    "Enabled": false
+  },
+  "240333": {
+    "OriginalText": "ゴシックベッド赤",
+    "Text": "",
+    "Enabled": false
+  },
+  "240334": {
+    "OriginalText": "ゴシックベッド黒",
+    "Text": "",
+    "Enabled": false
+  },
+  "240335": {
+    "OriginalText": "ゴシックテーブル",
+    "Text": "",
+    "Enabled": false
+  },
+  "240336": {
+    "OriginalText": "ゴシックテーブル赤",
+    "Text": "",
+    "Enabled": false
+  },
+  "240337": {
+    "OriginalText": "ゴシックテーブル黒",
+    "Text": "",
+    "Enabled": false
+  },
+  "240338": {
+    "OriginalText": "ゴシックスタンド",
+    "Text": "",
+    "Enabled": false
+  },
+  "240339": {
+    "OriginalText": "ゴシックスタンド赤",
+    "Text": "",
+    "Enabled": false
+  },
+  "240340": {
+    "OriginalText": "ゴシックスタンド黒",
+    "Text": "",
+    "Enabled": false
+  },
+  "240341": {
+    "OriginalText": "ゴシックキャビネット",
+    "Text": "",
+    "Enabled": false
+  },
+  "240342": {
+    "OriginalText": "フトン",
+    "Text": "",
+    "Enabled": false
+  },
+  "240343": {
+    "OriginalText": "モダンフトン",
+    "Text": "",
+    "Enabled": false
+  },
+  "240344": {
+    "OriginalText": "クラシックフトン",
+    "Text": "",
+    "Enabled": false
+  },
+  "240345": {
+    "OriginalText": "オリエントローテーブル",
+    "Text": "",
+    "Enabled": false
+  },
+  "240346": {
+    "OriginalText": "オリエントローテーブル黒",
+    "Text": "",
+    "Enabled": false
+  },
+  "240347": {
+    "OriginalText": "オリエントローテーブル赤",
+    "Text": "",
+    "Enabled": false
+  },
+  "240348": {
+    "OriginalText": "オリエントスタンドライト",
+    "Text": "",
+    "Enabled": false
+  },
+  "240349": {
+    "OriginalText": "オリエントシェルフ",
+    "Text": "",
+    "Enabled": false
+  },
+  "240350": {
+    "OriginalText": "チェリーレッドテーブル",
+    "Text": "",
+    "Enabled": false
+  },
+  "240351": {
+    "OriginalText": "ソルトブルーテーブル",
+    "Text": "",
+    "Enabled": false
+  },
+  "240352": {
+    "OriginalText": "ハーブグリーンテーブル",
+    "Text": "",
+    "Enabled": false
+  },
+  "240353": {
+    "OriginalText": "ハニーイエローテーブル",
+    "Text": "",
+    "Enabled": false
+  },
+  "240354": {
+    "OriginalText": "チェリーレッドミニデスク",
+    "Text": "",
+    "Enabled": false
+  },
+  "240355": {
+    "OriginalText": "ソルトブルーミニデスク",
+    "Text": "",
+    "Enabled": false
+  },
+  "240356": {
+    "OriginalText": "ハーブグリーンミニデスク",
+    "Text": "",
+    "Enabled": false
+  },
+  "240357": {
+    "OriginalText": "ハニーイエローミニデスク",
+    "Text": "",
+    "Enabled": false
+  },
+  "240358": {
+    "OriginalText": "ストレートシェルフ",
+    "Text": "",
+    "Enabled": false
+  },
+  "240359": {
+    "OriginalText": "ベンチ",
+    "Text": "",
+    "Enabled": false
+  },
+  "240360": {
+    "OriginalText": "エレガントバスタブ",
+    "Text": "",
+    "Enabled": false
+  },
+  "240361": {
+    "OriginalText": "セン・タク・キー",
+    "Text": "",
+    "Enabled": false
+  },
+  "240362": {
+    "OriginalText": "バーカウンター",
+    "Text": "",
+    "Enabled": false
+  },
+  "240363": {
+    "OriginalText": "ロッカー",
+    "Text": "",
+    "Enabled": false
+  },
+  "240364": {
+    "OriginalText": "プライベートプール",
+    "Text": "",
+    "Enabled": false
+  },
+  "240365": {
+    "OriginalText": "シーベイジングセット",
+    "Text": "",
+    "Enabled": false
+  },
+  "240366": {
+    "OriginalText": "シャボテイン",
+    "Text": "",
+    "Enabled": false
+  },
+  "240367": {
+    "OriginalText": "コールドスリープカウンター",
+    "Text": "",
+    "Enabled": false
+  },
+  "240368": {
+    "OriginalText": "マルチプレイカウンター",
+    "Text": "",
+    "Enabled": false
+  },
+  "240369": {
+    "OriginalText": "ベースゲート",
+    "Text": "",
+    "Enabled": false
+  },
+  "240370": {
+    "OriginalText": "オリエントゲート",
+    "Text": "",
+    "Enabled": false
+  },
+  "240371": {
+    "OriginalText": "ウェスタンゲート",
+    "Text": "",
+    "Enabled": false
+  },
+  "240372": {
+    "OriginalText": "ゲート",
+    "Text": "",
+    "Enabled": false
+  },
+  "240373": {
+    "OriginalText": "ベースフェンスＳ",
+    "Text": "",
+    "Enabled": false
+  },
+  "240374": {
+    "OriginalText": "オリエントフェンスＳ",
+    "Text": "",
+    "Enabled": false
+  },
+  "240375": {
+    "OriginalText": "ウェスタンフェンスＳ",
+    "Text": "",
+    "Enabled": false
+  },
+  "240376": {
+    "OriginalText": "フェンスＳ",
+    "Text": "",
+    "Enabled": false
+  },
+  "240377": {
+    "OriginalText": "ベースフェンスＭ",
+    "Text": "",
+    "Enabled": false
+  },
+  "240378": {
+    "OriginalText": "オリエントフェンスＭ",
+    "Text": "",
+    "Enabled": false
+  },
+  "240379": {
+    "OriginalText": "ウェスタンフェンスＭ",
+    "Text": "",
+    "Enabled": false
+  },
+  "240380": {
+    "OriginalText": "フェンスＭ",
+    "Text": "",
+    "Enabled": false
+  },
+  "240381": {
+    "OriginalText": "ベースウォールＳ",
+    "Text": "",
+    "Enabled": false
+  },
+  "240382": {
+    "OriginalText": "オリエントウォールＳ",
+    "Text": "",
+    "Enabled": false
+  },
+  "240383": {
+    "OriginalText": "ウェスタンウォールＳ",
+    "Text": "",
+    "Enabled": false
+  },
+  "240384": {
+    "OriginalText": "ウォールＳ",
+    "Text": "",
+    "Enabled": false
+  },
+  "240385": {
+    "OriginalText": "ベースウォールＭ",
+    "Text": "",
+    "Enabled": false
+  },
+  "240386": {
+    "OriginalText": "オリエントウォールＭ",
+    "Text": "",
+    "Enabled": false
+  },
+  "240387": {
+    "OriginalText": "ウェスタンウォールＭ",
+    "Text": "",
+    "Enabled": false
+  },
+  "240388": {
+    "OriginalText": "ウォールＭ",
+    "Text": "",
+    "Enabled": false
+  },
+  "240389": {
+    "OriginalText": "ベースウォールＬ",
+    "Text": "",
+    "Enabled": false
+  },
+  "240390": {
+    "OriginalText": "オリエントウォールＬ",
+    "Text": "",
+    "Enabled": false
+  },
+  "240391": {
+    "OriginalText": "ウェスタンウォールＬ",
+    "Text": "",
+    "Enabled": false
+  },
+  "240392": {
+    "OriginalText": "ウォールＬ",
+    "Text": "",
+    "Enabled": false
+  },
+  "240393": {
+    "OriginalText": "ベースカーペット",
+    "Text": "",
+    "Enabled": false
+  },
+  "240396": {
+    "OriginalText": "オリエントカーペット",
+    "Text": "",
+    "Enabled": false
+  },
+  "240399": {
+    "OriginalText": "ウェスタンカーペット",
+    "Text": "",
+    "Enabled": false
+  },
+  "240402": {
+    "OriginalText": "カーペット",
+    "Text": "",
+    "Enabled": false
+  },
+  "240405": {
+    "OriginalText": "オルターカーペット",
+    "Text": "",
+    "Enabled": false
+  },
+  "240408": {
+    "OriginalText": "ビーチカーペット",
+    "Text": "",
+    "Enabled": false
+  },
+  "240412": {
+    "OriginalText": "カーペット・DLC",
+    "Text": "",
+    "Enabled": false
+  },
+  "240414": {
+    "OriginalText": "ギガンテス捕獲所",
+    "Text": "Gigantes Capture Plant",
+    "Enabled": true
+  },
+  "240415": {
+    "OriginalText": "出口：中層",
+    "Text": "Exit: Middle",
+    "Enabled": true
+  },
+  "240416": {
+    "OriginalText": "出口：下層",
+    "Text": "Exit: Lower",
+    "Enabled": true
+  },
+  "241000": {
+    "OriginalText": "アイテムショップ",
+    "Text": "Item Shop",
+    "Enabled": true
+  },
+  "241001": {
+    "OriginalText": "武器ショップ",
+    "Text": "Weapon Shop",
+    "Enabled": true
+  },
+  "241002": {
+    "OriginalText": "クラスカウンター",
+    "Text": "Class Counter",
+    "Enabled": true
+  },
+  "241003": {
+    "OriginalText": "コスチュームショップ",
+    "Text": "Costume Shop",
+    "Enabled": true
+  },
+  "241004": {
+    "OriginalText": "エステ",
+    "Text": "Makeover Shop",
+    "Enabled": true
+  },
+  "241005": {
+    "OriginalText": "防具ショップ",
+    "Text": "Shield Shop",
+    "Enabled": true
+  },
+  "241006": {
+    "OriginalText": "食堂",
+    "Text": "Food Shop",
+    "Enabled": true
+  },
+  "241007": {
+    "OriginalText": "倉庫",
+    "Text": "Storage",
+    "Enabled": true
+  },
+  "241008": {
+    "OriginalText": "ラボ",
+    "Text": "Lab",
+    "Enabled": true
+  },
+  "241009": {
+    "OriginalText": "ショップ端末",
+    "Text": "",
+    "Enabled": false
+  },
+  "241010": {
+    "OriginalText": "コア精錬所",
+    "Text": "",
+    "Enabled": false
+  },
+  "241011": {
+    "OriginalText": "ギガンテス捕獲所",
+    "Text": "",
+    "Enabled": false
+  },
+  "241012": {
+    "OriginalText": "シアタースコープ",
+    "Text": "Theater Terminal",
+    "Enabled": true
+  },
+  "241013": {
+    "OriginalText": "コールドスリープカウンター",
+    "Text": "Cold Sleep Room",
+    "Enabled": true
+  },
+  "241014": {
+    "OriginalText": "マルチプレイカウンター",
+    "Text": "Multiplayer Room",
+    "Enabled": true
+  },
+  "241015": {
+    "OriginalText": "座る",
+    "Text": "",
+    "Enabled": false
+  },
+  "241016": {
+    "OriginalText": "寝る",
+    "Text": "",
+    "Enabled": false
+  },
+  "241017": {
+    "OriginalText": "入る",
+    "Text": "",
+    "Enabled": false
+  },
+  "241020": {
+    "OriginalText": "探索隊司令部",
+    "Text": "",
+    "Enabled": false
+  },
+  "241021": {
+    "OriginalText": "ステージに立つ",
+    "Text": "",
+    "Enabled": false
+  },
+  "241022": {
+    "OriginalText": "見張り台に立つ",
+    "Text": "",
+    "Enabled": false
+  },
+  "241101": {
+    "OriginalText": "クエストゲート",
+    "Text": "Quest Gate",
+    "Enabled": true
+  },
+  "241102": {
+    "OriginalText": "艦内へ",
+    "Text": "To the Ship",
+    "Enabled": true
+  },
+  "241103": {
+    "OriginalText": "出入り口",
+    "Text": "Doorway",
+    "Enabled": true
+  },
+  "241104": {
+    "OriginalText": "上層へ",
+    "Text": "To Upper",
+    "Enabled": true
+  },
+  "241105": {
+    "OriginalText": "中層へ",
+    "Text": "To Middle",
+    "Enabled": true
+  },
+  "241106": {
+    "OriginalText": "下層へ",
+    "Text": "",
+    "Enabled": false
+  },
+  "241107": {
+    "OriginalText": "祈りをささげる",
+    "Text": "Offer Prayers",
+    "Enabled": true
+  },
+  "241108": {
+    "OriginalText": "グランブースター",
+    "Text": "Gran Booster",
+    "Enabled": true
+  },
+  "241109": {
+    "OriginalText": "アイテム探知伝置",
+    "Text": "Item Detection System",
+    "Enabled": true
+  },
+  "241110": {
+    "OriginalText": "エネミーレーダー",
+    "Text": "Enemy Radar",
+    "Enabled": true
+  },
+  "241111": {
+    "OriginalText": "バースト加速伝置",
+    "Text": "Burst Acceleration Device",
+    "Enabled": true
+  }
+}

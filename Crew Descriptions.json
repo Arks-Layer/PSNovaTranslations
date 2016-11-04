@@ -1,0 +1,137 @@
+{
+  "650000": {
+    "OriginalText": "なし",
+    "Text": "None",
+    "Enabled": true
+  },
+  "650001": {
+    "OriginalText": "広範囲にわたる知識を持つクルー。\n拠点要員としても、戦闘要員としても\n対応可能。",
+    "Text": "",
+    "Enabled": false
+  },
+  "650002": {
+    "OriginalText": "戦闘技術の高いクルー。\n共に戦場に立つ頼れる仲間となる。",
+    "Text": "",
+    "Enabled": false
+  },
+  "650003": {
+    "OriginalText": "後方支援を得意とするクルー。\n拠点施設などで活躍すること間違いなし。",
+    "Text": "",
+    "Enabled": false
+  },
+  "650004": {
+    "OriginalText": "主に後方支援を担当する\nヒューマンクルー。\n広い知識で拠点運営を支援する。",
+    "Text": "",
+    "Enabled": false
+  },
+  "650005": {
+    "OriginalText": "主に後方支援を担当する\nニューマンクルー。\n拠点施設内で活躍が期待される。",
+    "Text": "",
+    "Enabled": false
+  },
+  "650006": {
+    "OriginalText": "主に後方支援を担当する\nキャストクルー。\n高い情報分祈力で施設で活躍する。",
+    "Text": "",
+    "Enabled": false
+  },
+  "650007": {
+    "OriginalText": "ハンタークラスのクルー。\n高いHPと防御力を持ち、近接戦闘での\n活躍が期待できる。",
+    "Text": "",
+    "Enabled": false
+  },
+  "650008": {
+    "OriginalText": "レンジャークラスのクルー。\n射撃と得意とし、中距離からの\n戦闘のサポートを行う。",
+    "Text": "",
+    "Enabled": false
+  },
+  "650009": {
+    "OriginalText": "フォースクラスのクルー。\nテクニックを扱い、遠距離戦闘を\n得意とする戦闘要員。",
+    "Text": "",
+    "Enabled": false
+  },
+  "650010": {
+    "OriginalText": "最先端ファッションを身に纏うクルー。\n拠点や戦闘の華として活躍する。\n不時着時の衝撃により、伝備の損傷が\n撃しかったため、新調しているクルーもいる。",
+    "Text": "",
+    "Enabled": false
+  },
+  "650011": {
+    "OriginalText": "各技術に特化した職人肌のスペシャリスト。\n拠点運営を強力にサポートしてくれる。\n不時着時の衝撃により、伝備の損傷が\n撃しかったため、新調しているクルーもいる。",
+    "Text": "",
+    "Enabled": false
+  },
+  "650012": {
+    "OriginalText": "アークス内でも有名な歴戦の戦土。\n戦場で立ちはだかる敵を一掃してくれる。\n不時着時の衝撃により、伝備の損傷が\n撃しかったため、新調しているクルーもいる。",
+    "Text": "",
+    "Enabled": false
+  },
+  "650013": {
+    "OriginalText": "マザーシップのどこかで見かけた\nことのあるクルー。\n個性豊かな面々が戦闘をサポートする。",
+    "Text": "",
+    "Enabled": false
+  },
+  "650014": {
+    "OriginalText": "各セクションのリーダー候補のクルー。\n他のクルーからの信頼も厚い。",
+    "Text": "",
+    "Enabled": false
+  },
+  "650015": {
+    "OriginalText": "様々な思いを残し、この地を去った者たちの残滓。\n彼らの思いに耳を毛けるのもいいだろう。\n[a 03]※このカプセルのキャラは拠点配置不可[b]",
+    "Text": "",
+    "Enabled": false
+  },
+  "650016": {
+    "OriginalText": "DLCシリーズ の解説文",
+    "Text": "",
+    "Enabled": false
+  },
+  "650017": {
+    "OriginalText": "スペシャルシリーズ の解説文",
+    "Text": "",
+    "Enabled": false
+  },
+  "650018": {
+    "OriginalText": "DLCシリーズ03 の解説文",
+    "Text": "",
+    "Enabled": false
+  },
+  "650019": {
+    "OriginalText": "DLCシリーズ04 の解説文",
+    "Text": "",
+    "Enabled": false
+  },
+  "650020": {
+    "OriginalText": "DLCシリーズ05 の解説文",
+    "Text": "",
+    "Enabled": false
+  },
+  "650021": {
+    "OriginalText": "DLCシリーズ06 の解説文",
+    "Text": "",
+    "Enabled": false
+  },
+  "650022": {
+    "OriginalText": "DLCシリーズ07 の解説文",
+    "Text": "",
+    "Enabled": false
+  },
+  "650023": {
+    "OriginalText": "DLCシリーズ08 の解説文",
+    "Text": "",
+    "Enabled": false
+  },
+  "650024": {
+    "OriginalText": "DLCシリーズ09 の解説文",
+    "Text": "",
+    "Enabled": false
+  },
+  "650025": {
+    "OriginalText": "歴史の陰で活躍してきたという、幻のクルー。\nその実力は謎に包まれている。",
+    "Text": "",
+    "Enabled": false
+  },
+  "650026": {
+    "OriginalText": "デルタ・ヴァリアント実戦部隊最後の解凍クルー。\n他のクルーとは、次元の違う実力を\n見せつけてくれるはずだ。",
+    "Text": "",
+    "Enabled": false
+  }
+}

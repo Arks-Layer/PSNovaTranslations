@@ -1,0 +1,1632 @@
+{
+  "200101": {
+    "OriginalText": "惑星上陸初戦",
+    "Text": "",
+    "Enabled": false
+  },
+  "200102": {
+    "OriginalText": "仲間の捜索",
+    "Text": "Searching for Comrades",
+    "Enabled": true
+  },
+  "200103": {
+    "OriginalText": "グラン結晶を求めて",
+    "Text": "Seeking Gran Crystal",
+    "Enabled": true
+  },
+  "200104": {
+    "OriginalText": "グラン安定供給のために",
+    "Text": "Stable Supply of Gran",
+    "Enabled": true
+  },
+  "200105": {
+    "OriginalText": "雪辱の新兵器",
+    "Text": "Vindication of New Weapons",
+    "Enabled": true
+  },
+  "200106": {
+    "OriginalText": "リーティアのお願い",
+    "Text": "Ask Rietheia",
+    "Enabled": true
+  },
+  "200107": {
+    "OriginalText": "カリストの難題",
+    "Text": "Callisto's Challenge",
+    "Enabled": true
+  },
+  "200108": {
+    "OriginalText": "炎の脅威",
+    "Text": "Threat of Fire",
+    "Enabled": true
+  },
+  "200109": {
+    "OriginalText": "光線の猛威",
+    "Text": "Ray of Fury",
+    "Enabled": true
+  },
+  "200110": {
+    "OriginalText": "ヨミの要求",
+    "Text": "Yomi's Request",
+    "Enabled": true
+  },
+  "200111": {
+    "OriginalText": "ヒュペリオンのこだわり",
+    "Text": "Hyperion's Dedication",
+    "Enabled": true
+  },
+  "200112": {
+    "OriginalText": "命令違反",
+    "Text": "Disobeying Orders",
+    "Enabled": true
+  },
+  "200113": {
+    "OriginalText": "不機嫌な砲塔",
+    "Text": "Sour Turret",
+    "Enabled": true
+  },
+  "200114": {
+    "OriginalText": "オルクスの特訓",
+    "Text": "Orcus' Special Training",
+    "Enabled": true
+  },
+  "200115": {
+    "OriginalText": "屈従の巨獣",
+    "Text": "Monster Submission",
+    "Enabled": true
+  },
+  "200116": {
+    "OriginalText": "新たな大砲",
+    "Text": "Renewed Artillery",
+    "Enabled": true
+  },
+  "200117": {
+    "OriginalText": "水装を這う脚",
+    "Text": "Legs Creeping the Water Rig",
+    "Enabled": true
+  },
+  "200118": {
+    "OriginalText": "迫り来る脅威",
+    "Text": "Impending Menace",
+    "Enabled": true
+  },
+  "200119": {
+    "OriginalText": "拠点防衛",
+    "Text": "Base Defense",
+    "Enabled": true
+  },
+  "200120": {
+    "OriginalText": "未踏の奥地",
+    "Text": "Unexplored Regions",
+    "Enabled": true
+  },
+  "200121": {
+    "OriginalText": "限界の我慢",
+    "Text": "Limit of Tolerance",
+    "Enabled": true
+  },
+  "200122": {
+    "OriginalText": "地の底へ",
+    "Text": "Underground Land",
+    "Enabled": true
+  },
+  "200123": {
+    "OriginalText": "天を衝く大尖塔",
+    "Text": "Large Spire Reaching The Heavens",
+    "Enabled": true
+  },
+  "200124": {
+    "OriginalText": "記憶の断片",
+    "Text": "Memory Fragments",
+    "Enabled": true
+  },
+  "200125": {
+    "OriginalText": "静かなる都市",
+    "Text": "Silent City",
+    "Enabled": true
+  },
+  "200126": {
+    "OriginalText": "銅野に穿つ杭",
+    "Text": "Drilling the Copper Fields",
+    "Enabled": true
+  },
+  "200127": {
+    "OriginalText": "装流を塞ぐ杭",
+    "Text": "",
+    "Enabled": false
+  },
+  "200128": {
+    "OriginalText": "炎泉を断つ杭",
+    "Text": "",
+    "Enabled": false
+  },
+  "200129": {
+    "OriginalText": "塔の上のユノ",
+    "Text": "",
+    "Enabled": false
+  },
+  "200130": {
+    "OriginalText": "ユノの覚悟",
+    "Text": "Juno's Resolution",
+    "Enabled": true
+  },
+  "200131": {
+    "OriginalText": "果たすべき使命",
+    "Text": "",
+    "Enabled": false
+  },
+  "200132": {
+    "OriginalText": "惑星の未来",
+    "Text": "The Planet's Future",
+    "Enabled": true
+  },
+  "200133": {
+    "OriginalText": "約束の時",
+    "Text": "Promise of Time",
+    "Enabled": true
+  },
+  "200201": {
+    "OriginalText": "★スイーツ・メルヘン",
+    "Text": "",
+    "Enabled": false
+  },
+  "200202": {
+    "OriginalText": "★スター・ルティナックル",
+    "Text": "",
+    "Enabled": false
+  },
+  "200203": {
+    "OriginalText": "★不倒バカ一代",
+    "Text": "",
+    "Enabled": false
+  },
+  "200204": {
+    "OriginalText": "★カリスト改造計画",
+    "Text": "",
+    "Enabled": false
+  },
+  "200205": {
+    "OriginalText": "★注文の多い料理人",
+    "Text": "",
+    "Enabled": false
+  },
+  "200206": {
+    "OriginalText": "★恋するシャロン",
+    "Text": "",
+    "Enabled": false
+  },
+  "200207": {
+    "OriginalText": "★明紅の少年",
+    "Text": "",
+    "Enabled": false
+  },
+  "200208": {
+    "OriginalText": "★戦土に贈る愛",
+    "Text": "",
+    "Enabled": false
+  },
+  "200209": {
+    "OriginalText": "難：★ラスト・デート",
+    "Text": "",
+    "Enabled": false
+  },
+  "200301": {
+    "OriginalText": "銅の荒野哨戒任務",
+    "Text": "Copper Wastelands Patrol",
+    "Enabled": true
+  },
+  "200302": {
+    "OriginalText": "ダーカー討伐任務",
+    "Text": "Darker Subjugation Assignment",
+    "Enabled": true
+  },
+  "200303": {
+    "OriginalText": "ジャッドバンサー撃破任務",
+    "Text": "",
+    "Enabled": false
+  },
+  "200304": {
+    "OriginalText": "アグリオス撃破任務",
+    "Text": "",
+    "Enabled": false
+  },
+  "200305": {
+    "OriginalText": "炎の高地偵察任務",
+    "Text": "",
+    "Enabled": false
+  },
+  "200306": {
+    "OriginalText": "アルキュオネ撃破任務",
+    "Text": "",
+    "Enabled": false
+  },
+  "200307": {
+    "OriginalText": "グラン水装偵察任務",
+    "Text": "",
+    "Enabled": false
+  },
+  "200308": {
+    "OriginalText": "ディートアス撃破任務",
+    "Text": "",
+    "Enabled": false
+  },
+  "200309": {
+    "OriginalText": "エウリュード撃破任務",
+    "Text": "",
+    "Enabled": false
+  },
+  "200310": {
+    "OriginalText": "銅の荒野資村回収任務",
+    "Text": "",
+    "Enabled": false
+  },
+  "200311": {
+    "OriginalText": "銅の荒野哨戒任務２",
+    "Text": "",
+    "Enabled": false
+  },
+  "200312": {
+    "OriginalText": "銅の荒野殲滅任務",
+    "Text": "",
+    "Enabled": false
+  },
+  "200313": {
+    "OriginalText": "目を覚ます磁晶模",
+    "Text": "",
+    "Enabled": false
+  },
+  "200314": {
+    "OriginalText": "アルキュオネ追跡撃破任務",
+    "Text": "",
+    "Enabled": false
+  },
+  "200315": {
+    "OriginalText": "食村確保任務",
+    "Text": "",
+    "Enabled": false
+  },
+  "200316": {
+    "OriginalText": "アルレイバンサー撃破任務",
+    "Text": "",
+    "Enabled": false
+  },
+  "200317": {
+    "OriginalText": "ガラティオン追跡撃破任務",
+    "Text": "",
+    "Enabled": false
+  },
+  "200318": {
+    "OriginalText": "コラル・ドラゴン撃破任務",
+    "Text": "",
+    "Enabled": false
+  },
+  "200319": {
+    "OriginalText": "大尖塔深部討伐任務",
+    "Text": "",
+    "Enabled": false
+  },
+  "200320": {
+    "OriginalText": "古代都市掃討任務",
+    "Text": "",
+    "Enabled": false
+  },
+  "200321": {
+    "OriginalText": "テュルトアス撃破任務",
+    "Text": "",
+    "Enabled": false
+  },
+  "200322": {
+    "OriginalText": "古代都市哨戒任務",
+    "Text": "",
+    "Enabled": false
+  },
+  "200323": {
+    "OriginalText": "ヴィヴリュード撃破任務",
+    "Text": "",
+    "Enabled": false
+  },
+  "200324": {
+    "OriginalText": "アルキュオネ討伐任務",
+    "Text": "",
+    "Enabled": false
+  },
+  "200325": {
+    "OriginalText": "ガラティオン撃破任務",
+    "Text": "",
+    "Enabled": false
+  },
+  "200326": {
+    "OriginalText": "難：エウリュード攻略任務",
+    "Text": "",
+    "Enabled": false
+  },
+  "200327": {
+    "OriginalText": "難：銅の荒野走破任務",
+    "Text": "",
+    "Enabled": false
+  },
+  "200328": {
+    "OriginalText": "難：ノヴァ内部哨戒任務",
+    "Text": "",
+    "Enabled": false
+  },
+  "200329": {
+    "OriginalText": "難：ギュゲンテ撃破任務",
+    "Text": "",
+    "Enabled": false
+  },
+  "200330": {
+    "OriginalText": "難：古代都市殲滅任務",
+    "Text": "",
+    "Enabled": false
+  },
+  "200331": {
+    "OriginalText": "難：銅の荒野連続撃破任務",
+    "Text": "",
+    "Enabled": false
+  },
+  "200332": {
+    "OriginalText": "難：古代都市広域偵察任務",
+    "Text": "",
+    "Enabled": false
+  },
+  "200333": {
+    "OriginalText": "難：炎の高地殲滅任務",
+    "Text": "",
+    "Enabled": false
+  },
+  "200334": {
+    "OriginalText": "難：大尖塔資村回収任務",
+    "Text": "",
+    "Enabled": false
+  },
+  "200335": {
+    "OriginalText": "難：鉱脈発見任務",
+    "Text": "",
+    "Enabled": false
+  },
+  "200336": {
+    "OriginalText": "難：グレイオス攻略任務",
+    "Text": "",
+    "Enabled": false
+  },
+  "200337": {
+    "OriginalText": "難：アルキュオネ攻略任務",
+    "Text": "",
+    "Enabled": false
+  },
+  "200338": {
+    "OriginalText": "難：大尖塔殲滅任務",
+    "Text": "",
+    "Enabled": false
+  },
+  "200339": {
+    "OriginalText": "難：グラン水装哨戒任務",
+    "Text": "",
+    "Enabled": false
+  },
+  "200340": {
+    "OriginalText": "難：グラン水装殲滅任務",
+    "Text": "",
+    "Enabled": false
+  },
+  "200341": {
+    "OriginalText": "難：ヴィヴリュード決戦",
+    "Text": "",
+    "Enabled": false
+  },
+  "200342": {
+    "OriginalText": "難：デェフキュオネ決戦",
+    "Text": "",
+    "Enabled": false
+  },
+  "200343": {
+    "OriginalText": "難：アルテイオス決戦",
+    "Text": "",
+    "Enabled": false
+  },
+  "200344": {
+    "OriginalText": "難：グラヴディオン決戦",
+    "Text": "",
+    "Enabled": false
+  },
+  "200345": {
+    "OriginalText": "難：リベルゲンテ決戦",
+    "Text": "",
+    "Enabled": false
+  },
+  "200346": {
+    "OriginalText": "難：レイヴガイスト決戦",
+    "Text": "",
+    "Enabled": false
+  },
+  "200347": {
+    "OriginalText": "バトル体験版クエスト",
+    "Text": "",
+    "Enabled": false
+  },
+  "200348": {
+    "OriginalText": "パイル訓練",
+    "Text": "",
+    "Enabled": false
+  },
+  "200349": {
+    "OriginalText": "そびえ立つ二門の巨砲",
+    "Text": "",
+    "Enabled": false
+  },
+  "200350": {
+    "OriginalText": "全てを切り裂く双翼の刃",
+    "Text": "",
+    "Enabled": false
+  },
+  "200351": {
+    "OriginalText": "殲滅せし紅の砲火[高難度]",
+    "Text": "",
+    "Enabled": false
+  },
+  "200500": {
+    "OriginalText": "先遣隊の救出",
+    "Text": "",
+    "Enabled": false
+  },
+  "200501": {
+    "OriginalText": "最深部のＧキュクロナーダ撃破",
+    "Text": "",
+    "Enabled": false
+  },
+  "200502": {
+    "OriginalText": "最深部のジャッドバンサー撃破",
+    "Text": "",
+    "Enabled": false
+  },
+  "200503": {
+    "OriginalText": "医療資村の指定数回収",
+    "Text": "",
+    "Enabled": false
+  },
+  "200504": {
+    "OriginalText": "艦補修資村の指定数回収",
+    "Text": "",
+    "Enabled": false
+  },
+  "200505": {
+    "OriginalText": "最深部のアルキュオネ撃破",
+    "Text": "",
+    "Enabled": false
+  },
+  "200506": {
+    "OriginalText": "最深部のヴィヴリュード撃破",
+    "Text": "",
+    "Enabled": false
+  },
+  "200507": {
+    "OriginalText": "最深部のエウリュード撃破",
+    "Text": "",
+    "Enabled": false
+  },
+  "200508": {
+    "OriginalText": "資村の指定数回収",
+    "Text": "",
+    "Enabled": false
+  },
+  "200509": {
+    "OriginalText": "最深部のアグリオスを捕獲",
+    "Text": "",
+    "Enabled": false
+  },
+  "200510": {
+    "OriginalText": "最深部のギュゲンテ撃破",
+    "Text": "",
+    "Enabled": false
+  },
+  "200511": {
+    "OriginalText": "最深部のコラル・ドラゴン撃破",
+    "Text": "",
+    "Enabled": false
+  },
+  "200512": {
+    "OriginalText": "最深部のアルキュオネの捕獲",
+    "Text": "",
+    "Enabled": false
+  },
+  "200513": {
+    "OriginalText": "グレイオスの撃破",
+    "Text": "",
+    "Enabled": false
+  },
+  "200514": {
+    "OriginalText": "最深部のテュルトアス撃破",
+    "Text": "",
+    "Enabled": false
+  },
+  "200515": {
+    "OriginalText": "最深部のクリトロクィーン撃破",
+    "Text": "",
+    "Enabled": false
+  },
+  "200516": {
+    "OriginalText": "記録伝置の指定数回収",
+    "Text": "",
+    "Enabled": false
+  },
+  "200517": {
+    "OriginalText": "最深部のナールレイバンサー撃破",
+    "Text": "",
+    "Enabled": false
+  },
+  "200518": {
+    "OriginalText": "最深部のモストカーネベア撃破",
+    "Text": "",
+    "Enabled": false
+  },
+  "200519": {
+    "OriginalText": "最深部のレゾルカーネベア撃破",
+    "Text": "",
+    "Enabled": false
+  },
+  "200520": {
+    "OriginalText": "ギュゲンテの撃破",
+    "Text": "",
+    "Enabled": false
+  },
+  "200521": {
+    "OriginalText": "新食村の指定数回収",
+    "Text": "",
+    "Enabled": false
+  },
+  "200522": {
+    "OriginalText": "研究素村の指定数回収",
+    "Text": "",
+    "Enabled": false
+  },
+  "200523": {
+    "OriginalText": "■クリア目標予備枠■",
+    "Text": "",
+    "Enabled": false
+  },
+  "200524": {
+    "OriginalText": "デェフキュオネの撃破",
+    "Text": "",
+    "Enabled": false
+  },
+  "200525": {
+    "OriginalText": "アルテイオスの撃破",
+    "Text": "",
+    "Enabled": false
+  },
+  "200526": {
+    "OriginalText": "グラヴディオンの撃破",
+    "Text": "",
+    "Enabled": false
+  },
+  "200527": {
+    "OriginalText": "リベルゲンテの撃破",
+    "Text": "",
+    "Enabled": false
+  },
+  "200528": {
+    "OriginalText": "■クリア目標予備枠■□□□□■□",
+    "Text": "",
+    "Enabled": false
+  },
+  "200529": {
+    "OriginalText": "グラン結晶の指定数回収",
+    "Text": "",
+    "Enabled": false
+  },
+  "200530": {
+    "OriginalText": "最深部のディートアス撃破",
+    "Text": "",
+    "Enabled": false
+  },
+  "200531": {
+    "OriginalText": "最深部のアグリオス撃破",
+    "Text": "",
+    "Enabled": false
+  },
+  "200532": {
+    "OriginalText": "最深部のＧダーク・ラグネ撃破",
+    "Text": "",
+    "Enabled": false
+  },
+  "200533": {
+    "OriginalText": "クエストポイントを一定量ためる",
+    "Text": "",
+    "Enabled": false
+  },
+  "200534": {
+    "OriginalText": "最深部のギガンテス撃破",
+    "Text": "",
+    "Enabled": false
+  },
+  "200535": {
+    "OriginalText": "ガラティオンの撃破",
+    "Text": "",
+    "Enabled": false
+  },
+  "200536": {
+    "OriginalText": "アグリオスの撃破",
+    "Text": "",
+    "Enabled": false
+  },
+  "200537": {
+    "OriginalText": "アルキュオネの撃破",
+    "Text": "",
+    "Enabled": false
+  },
+  "200538": {
+    "OriginalText": "最深部への到達",
+    "Text": "",
+    "Enabled": false
+  },
+  "200539": {
+    "OriginalText": "■クリア目標予備枠■",
+    "Text": "",
+    "Enabled": false
+  },
+  "200540": {
+    "OriginalText": "ヴィヴリュードの撃破",
+    "Text": "",
+    "Enabled": false
+  },
+  "200541": {
+    "OriginalText": "ギガンテスの撃破",
+    "Text": "",
+    "Enabled": false
+  },
+  "200542": {
+    "OriginalText": "レイヴァンの撃破",
+    "Text": "",
+    "Enabled": false
+  },
+  "200543": {
+    "OriginalText": "■クリア目標予備枠■",
+    "Text": "",
+    "Enabled": false
+  },
+  "200544": {
+    "OriginalText": "最深部のエネミー撃破",
+    "Text": "",
+    "Enabled": false
+  },
+  "200545": {
+    "OriginalText": "鉱洋の指定数回収",
+    "Text": "",
+    "Enabled": false
+  },
+  "200546": {
+    "OriginalText": "■クリア目標予備枠■",
+    "Text": "",
+    "Enabled": false
+  },
+  "200547": {
+    "OriginalText": "レイヴガイストの撃破",
+    "Text": "",
+    "Enabled": false
+  },
+  "200548": {
+    "OriginalText": "食村の指定数回収",
+    "Text": "",
+    "Enabled": false
+  },
+  "200549": {
+    "OriginalText": "最深部のガラティオン撃破",
+    "Text": "",
+    "Enabled": false
+  },
+  "200550": {
+    "OriginalText": "アグリオスが指定位置に到達",
+    "Text": "",
+    "Enabled": false
+  },
+  "200551": {
+    "OriginalText": "一定時間まで敵を倒し続ける",
+    "Text": "",
+    "Enabled": false
+  },
+  "200552": {
+    "OriginalText": "最深部のアグリオス亜種撃破",
+    "Text": "",
+    "Enabled": false
+  },
+  "200553": {
+    "OriginalText": "最深部のアルレイバンサー撃破",
+    "Text": "",
+    "Enabled": false
+  },
+  "200554": {
+    "OriginalText": "最深部のデェフキュオネ撃破",
+    "Text": "",
+    "Enabled": false
+  },
+  "200555": {
+    "OriginalText": "エウリュードの撃破",
+    "Text": "",
+    "Enabled": false
+  },
+  "200556": {
+    "OriginalText": "グレイオスが指定位置に到達",
+    "Text": "",
+    "Enabled": false
+  },
+  "200557": {
+    "OriginalText": "拠点の壊滅",
+    "Text": "",
+    "Enabled": false
+  },
+  "200558": {
+    "OriginalText": "制限時間切れ",
+    "Text": "",
+    "Enabled": false
+  },
+  "200559": {
+    "OriginalText": "アグリオスの捕獲",
+    "Text": "",
+    "Enabled": false
+  },
+  "200700": {
+    "OriginalText": "なし",
+    "Text": "None",
+    "Enabled": true
+  },
+  "200701": {
+    "OriginalText": "アルキュオネが指定位置に到達",
+    "Text": "",
+    "Enabled": false
+  },
+  "200702": {
+    "OriginalText": "■失敗条件予備枠■",
+    "Text": "",
+    "Enabled": false
+  },
+  "200703": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "200800": {
+    "OriginalText": "クエストが追加されました。\n『惑星上陸初戦』",
+    "Text": "",
+    "Enabled": false
+  },
+  "200801": {
+    "OriginalText": "クエストが追加されました。\n『仲間の捜索』",
+    "Text": "",
+    "Enabled": false
+  },
+  "200802": {
+    "OriginalText": "クエストが追加されました。\n『グラン結晶を求めて』",
+    "Text": "",
+    "Enabled": false
+  },
+  "200803": {
+    "OriginalText": "クエストが追加されました。\n『グラン安定供給のために』",
+    "Text": "",
+    "Enabled": false
+  },
+  "200804": {
+    "OriginalText": "クエストが追加されました。\n『雪辱の新兵器』",
+    "Text": "",
+    "Enabled": false
+  },
+  "200805": {
+    "OriginalText": "クエストが追加されました。\n『リーティアのお願い』",
+    "Text": "",
+    "Enabled": false
+  },
+  "200806": {
+    "OriginalText": "クエストが追加されました。\n『カリストの難題』",
+    "Text": "",
+    "Enabled": false
+  },
+  "200807": {
+    "OriginalText": "クエストが追加されました。\n『炎の脅威』",
+    "Text": "",
+    "Enabled": false
+  },
+  "200808": {
+    "OriginalText": "クエストが追加されました。\n『光線の猛威』",
+    "Text": "",
+    "Enabled": false
+  },
+  "200809": {
+    "OriginalText": "クエストが追加されました。\n『ヨミの要求』",
+    "Text": "",
+    "Enabled": false
+  },
+  "200810": {
+    "OriginalText": "クエストが追加されました。\n『ヒュペリオンのこだわり』",
+    "Text": "",
+    "Enabled": false
+  },
+  "200811": {
+    "OriginalText": "クエストが追加されました。\n『命令違反』",
+    "Text": "",
+    "Enabled": false
+  },
+  "200812": {
+    "OriginalText": "クエストが追加されました。\n『不機嫌な砲塔』",
+    "Text": "",
+    "Enabled": false
+  },
+  "200813": {
+    "OriginalText": "クエストが追加されました。\n『オルクスの特訓』",
+    "Text": "",
+    "Enabled": false
+  },
+  "200814": {
+    "OriginalText": "クエストが追加されました。\n『屈従の巨獣』",
+    "Text": "",
+    "Enabled": false
+  },
+  "200815": {
+    "OriginalText": "クエストが追加されました。\n『新たな大砲』",
+    "Text": "",
+    "Enabled": false
+  },
+  "200816": {
+    "OriginalText": "クエストが追加されました。\n『水装を這う脚』",
+    "Text": "",
+    "Enabled": false
+  },
+  "200817": {
+    "OriginalText": "クエストが追加されました。\n『迫り来る脅威』",
+    "Text": "",
+    "Enabled": false
+  },
+  "200818": {
+    "OriginalText": "クエストが追加されました。\n『拠点防衛』",
+    "Text": "",
+    "Enabled": false
+  },
+  "200819": {
+    "OriginalText": "クエストが追加されました。\n『未踏の奥地』",
+    "Text": "",
+    "Enabled": false
+  },
+  "200820": {
+    "OriginalText": "クエストが追加されました。\n『限界の我慢』",
+    "Text": "",
+    "Enabled": false
+  },
+  "200821": {
+    "OriginalText": "クエストが追加されました。\n『地の底へ』",
+    "Text": "",
+    "Enabled": false
+  },
+  "200822": {
+    "OriginalText": "クエストが追加されました。\n『天を衝く大尖塔』",
+    "Text": "",
+    "Enabled": false
+  },
+  "200823": {
+    "OriginalText": "クエストが追加されました。\n『記憶の断片』",
+    "Text": "",
+    "Enabled": false
+  },
+  "200824": {
+    "OriginalText": "クエストが追加されました。\n『静かなる都市』",
+    "Text": "",
+    "Enabled": false
+  },
+  "200825": {
+    "OriginalText": "クエストが追加されました。\n『銅野に穿つ杭』",
+    "Text": "",
+    "Enabled": false
+  },
+  "200826": {
+    "OriginalText": "クエストが追加されました。\n『装流を塞ぐ杭』",
+    "Text": "",
+    "Enabled": false
+  },
+  "200827": {
+    "OriginalText": "クエストが追加されました。\n『炎泉を断つ杭』",
+    "Text": "",
+    "Enabled": false
+  },
+  "200828": {
+    "OriginalText": "クエストが追加されました。\n『塔の上のユノ』",
+    "Text": "",
+    "Enabled": false
+  },
+  "200829": {
+    "OriginalText": "クエストが追加されました。\n『ユノの覚悟』",
+    "Text": "",
+    "Enabled": false
+  },
+  "200830": {
+    "OriginalText": "クエストが追加されました。\n『果たすべき使命』",
+    "Text": "",
+    "Enabled": false
+  },
+  "200831": {
+    "OriginalText": "クエストが追加されました。\n『惑星の未来』",
+    "Text": "",
+    "Enabled": false
+  },
+  "200832": {
+    "OriginalText": "クエストが追加されました。\n『約束の時』",
+    "Text": "",
+    "Enabled": false
+  },
+  "200833": {
+    "OriginalText": "クエストが追加されました。\n『★スイーツ・メルヘン』",
+    "Text": "",
+    "Enabled": false
+  },
+  "200834": {
+    "OriginalText": "クエストが追加されました。\n『★スター・ルティナックル』",
+    "Text": "",
+    "Enabled": false
+  },
+  "200835": {
+    "OriginalText": "クエストが追加されました。\n『★不倒バカ一代』",
+    "Text": "",
+    "Enabled": false
+  },
+  "200836": {
+    "OriginalText": "クエストが追加されました。\n『★カリスト改造計画』",
+    "Text": "",
+    "Enabled": false
+  },
+  "200837": {
+    "OriginalText": "クエストが追加されました。\n『★注文の多い料理人』",
+    "Text": "",
+    "Enabled": false
+  },
+  "200838": {
+    "OriginalText": "クエストが追加されました。\n『★恋するシャロン』",
+    "Text": "",
+    "Enabled": false
+  },
+  "200839": {
+    "OriginalText": "クエストが追加されました。\n『★明紅の少年』",
+    "Text": "",
+    "Enabled": false
+  },
+  "200840": {
+    "OriginalText": "クエストが追加されました。\n『★戦土に贈る愛』",
+    "Text": "",
+    "Enabled": false
+  },
+  "200841": {
+    "OriginalText": "クエストが追加されました。\n『難：★ラスト・デート』",
+    "Text": "",
+    "Enabled": false
+  },
+  "200842": {
+    "OriginalText": "クエストが追加されました。\n『ジャッドバンサー撃破任務』",
+    "Text": "",
+    "Enabled": false
+  },
+  "200843": {
+    "OriginalText": "クエストが追加されました。\n『目を覚ます磁晶模』",
+    "Text": "",
+    "Enabled": false
+  },
+  "201000": {
+    "OriginalText": "超：棘の",
+    "Text": "",
+    "Enabled": false
+  },
+  "201001": {
+    "OriginalText": "最深部のギガンテス撃破",
+    "Text": "",
+    "Enabled": false
+  },
+  "201002": {
+    "OriginalText": "なし",
+    "Text": "",
+    "Enabled": false
+  },
+  "201003": {
+    "OriginalText": "クエストが追加されました。\n『超：棘の』",
+    "Text": "",
+    "Enabled": false
+  },
+  "201010": {
+    "OriginalText": "超：黒炎のアルテイオス",
+    "Text": "",
+    "Enabled": false
+  },
+  "201011": {
+    "OriginalText": "最深部のギガンテス撃破",
+    "Text": "",
+    "Enabled": false
+  },
+  "201012": {
+    "OriginalText": "なし",
+    "Text": "",
+    "Enabled": false
+  },
+  "201013": {
+    "OriginalText": "クエストが追加されました。\n『超：黒炎のアルテイオス』",
+    "Text": "",
+    "Enabled": false
+  },
+  "201020": {
+    "OriginalText": "超：尖塔に潜む光線獣",
+    "Text": "",
+    "Enabled": false
+  },
+  "201021": {
+    "OriginalText": "最深部のギガンテス撃破",
+    "Text": "",
+    "Enabled": false
+  },
+  "201022": {
+    "OriginalText": "なし",
+    "Text": "",
+    "Enabled": false
+  },
+  "201023": {
+    "OriginalText": "クエストが追加されました。\n『超：尖塔に潜む光線獣』",
+    "Text": "",
+    "Enabled": false
+  },
+  "201030": {
+    "OriginalText": "超：劇珪のギガティオン",
+    "Text": "",
+    "Enabled": false
+  },
+  "201031": {
+    "OriginalText": "資村の指定数回収",
+    "Text": "",
+    "Enabled": false
+  },
+  "201032": {
+    "OriginalText": "制限時間切れ",
+    "Text": "",
+    "Enabled": false
+  },
+  "201033": {
+    "OriginalText": "クエストが追加されました。\n『超：劇珪のギガティオン』",
+    "Text": "",
+    "Enabled": false
+  },
+  "201040": {
+    "OriginalText": "超：錯砦のヴィヴリュード",
+    "Text": "",
+    "Enabled": false
+  },
+  "201041": {
+    "OriginalText": "最深部のギガンテス撃破",
+    "Text": "",
+    "Enabled": false
+  },
+  "201042": {
+    "OriginalText": "なし",
+    "Text": "",
+    "Enabled": false
+  },
+  "201043": {
+    "OriginalText": "クエストが追加されました。\n『超・錯砦のヴィヴリュード』",
+    "Text": "",
+    "Enabled": false
+  },
+  "201050": {
+    "OriginalText": "超：ウィルアフォルの巣",
+    "Text": "",
+    "Enabled": false
+  },
+  "201051": {
+    "OriginalText": "最深部のギガンテス撃破",
+    "Text": "",
+    "Enabled": false
+  },
+  "201052": {
+    "OriginalText": "なし",
+    "Text": "",
+    "Enabled": false
+  },
+  "201053": {
+    "OriginalText": "クエストが追加されました。\n『超・ウィルアフォルの巣』",
+    "Text": "",
+    "Enabled": false
+  },
+  "201060": {
+    "OriginalText": "超：ウィルアフォルの巣",
+    "Text": "",
+    "Enabled": false
+  },
+  "201061": {
+    "OriginalText": "最深部のギガンテス撃破",
+    "Text": "",
+    "Enabled": false
+  },
+  "201062": {
+    "OriginalText": "なし",
+    "Text": "",
+    "Enabled": false
+  },
+  "201063": {
+    "OriginalText": "クエストが追加されました。\n『超：ウィルアフォルの巣』",
+    "Text": "",
+    "Enabled": false
+  },
+  "201070": {
+    "OriginalText": "ＰＴアタック・グラン水装",
+    "Text": "",
+    "Enabled": false
+  },
+  "201071": {
+    "OriginalText": "一定時間まで敵を倒し続ける",
+    "Text": "",
+    "Enabled": false
+  },
+  "201072": {
+    "OriginalText": "なし",
+    "Text": "",
+    "Enabled": false
+  },
+  "201073": {
+    "OriginalText": "クエスト追加メッセージ\n【201530】",
+    "Text": "",
+    "Enabled": false
+  },
+  "201074": {
+    "OriginalText": "ハンター  Lv.80",
+    "Text": "",
+    "Enabled": false
+  },
+  "201075": {
+    "OriginalText": "レンジャー Lv.80",
+    "Text": "",
+    "Enabled": false
+  },
+  "201076": {
+    "OriginalText": "フォース  Lv.80",
+    "Text": "",
+    "Enabled": false
+  },
+  "201077": {
+    "OriginalText": "バスター  Lv.80",
+    "Text": "",
+    "Enabled": false
+  },
+  "201080": {
+    "OriginalText": "クエスト名【201760】",
+    "Text": "",
+    "Enabled": false
+  },
+  "201081": {
+    "OriginalText": "クエスト目標【201760】",
+    "Text": "",
+    "Enabled": false
+  },
+  "201082": {
+    "OriginalText": "失敗条件【201760】",
+    "Text": "",
+    "Enabled": false
+  },
+  "201083": {
+    "OriginalText": "クエスト追加メッセージ\n【201760】",
+    "Text": "",
+    "Enabled": false
+  },
+  "201090": {
+    "OriginalText": "タイムアタック・銅の荒野",
+    "Text": "",
+    "Enabled": false
+  },
+  "201091": {
+    "OriginalText": "クエスト目標【201910】",
+    "Text": "",
+    "Enabled": false
+  },
+  "201092": {
+    "OriginalText": "失敗条件【201910】",
+    "Text": "",
+    "Enabled": false
+  },
+  "201093": {
+    "OriginalText": "クエストが追加されました。\n『タイムアタック・銅の荒野』",
+    "Text": "",
+    "Enabled": false
+  },
+  "201094": {
+    "OriginalText": "ハンター  Lv.50",
+    "Text": "",
+    "Enabled": false
+  },
+  "201095": {
+    "OriginalText": "レンジャー Lv.50",
+    "Text": "",
+    "Enabled": false
+  },
+  "201096": {
+    "OriginalText": "フォース  Lv.50",
+    "Text": "",
+    "Enabled": false
+  },
+  "201097": {
+    "OriginalText": "バスター  Lv.50",
+    "Text": "",
+    "Enabled": false
+  },
+  "201100": {
+    "OriginalText": "冷：弾雨下の回収作戦",
+    "Text": "",
+    "Enabled": false
+  },
+  "201101": {
+    "OriginalText": "建築資村の指定数回収",
+    "Text": "",
+    "Enabled": false
+  },
+  "201102": {
+    "OriginalText": "失敗条件【300120】",
+    "Text": "",
+    "Enabled": false
+  },
+  "201103": {
+    "OriginalText": "クエスト追加メッセージ\n【300120】",
+    "Text": "",
+    "Enabled": false
+  },
+  "201110": {
+    "OriginalText": "冷：伏す猛銃と天舞う砲凰",
+    "Text": "",
+    "Enabled": false
+  },
+  "201111": {
+    "OriginalText": "クエスト目標【300210】",
+    "Text": "",
+    "Enabled": false
+  },
+  "201112": {
+    "OriginalText": "失敗条件【300210】",
+    "Text": "",
+    "Enabled": false
+  },
+  "201113": {
+    "OriginalText": "クエスト追加メッセージ\n【300210】",
+    "Text": "",
+    "Enabled": false
+  },
+  "201120": {
+    "OriginalText": "冷：押し寄せるギガンテス",
+    "Text": "",
+    "Enabled": false
+  },
+  "201121": {
+    "OriginalText": "クエスト目標【300350】",
+    "Text": "",
+    "Enabled": false
+  },
+  "201122": {
+    "OriginalText": "ギガンテスが指定位置に到達",
+    "Text": "",
+    "Enabled": false
+  },
+  "201123": {
+    "OriginalText": "クエスト追加メッセージ\n【300350】",
+    "Text": "",
+    "Enabled": false
+  },
+  "201130": {
+    "OriginalText": "冷：漆黒の鉄馬と光線獣",
+    "Text": "",
+    "Enabled": false
+  },
+  "201131": {
+    "OriginalText": "クエスト目標【300560】",
+    "Text": "",
+    "Enabled": false
+  },
+  "201132": {
+    "OriginalText": "失敗条件【300560】",
+    "Text": "",
+    "Enabled": false
+  },
+  "201133": {
+    "OriginalText": "クエスト追加メッセージ\n【300560】",
+    "Text": "",
+    "Enabled": false
+  },
+  "201140": {
+    "OriginalText": "冷：棘と大火球の輪舞曲",
+    "Text": "",
+    "Enabled": false
+  },
+  "201141": {
+    "OriginalText": "クエスト目標【300630】",
+    "Text": "",
+    "Enabled": false
+  },
+  "201142": {
+    "OriginalText": "失敗条件【300630】",
+    "Text": "",
+    "Enabled": false
+  },
+  "201143": {
+    "OriginalText": "クエスト追加メッセージ\n【300630】",
+    "Text": "",
+    "Enabled": false
+  },
+  "201150": {
+    "OriginalText": "冷：侵食する虚の骸",
+    "Text": "",
+    "Enabled": false
+  },
+  "201151": {
+    "OriginalText": "クエスト目標【300780】",
+    "Text": "",
+    "Enabled": false
+  },
+  "201152": {
+    "OriginalText": "失敗条件【300780】",
+    "Text": "",
+    "Enabled": false
+  },
+  "201153": {
+    "OriginalText": "クエスト追加メッセージ\n【300780】",
+    "Text": "",
+    "Enabled": false
+  },
+  "201160": {
+    "OriginalText": "冷：ヘル・デート",
+    "Text": "",
+    "Enabled": false
+  },
+  "201161": {
+    "OriginalText": "クエスト目標【300450】",
+    "Text": "",
+    "Enabled": false
+  },
+  "201162": {
+    "OriginalText": "失敗条件【300450】",
+    "Text": "",
+    "Enabled": false
+  },
+  "201163": {
+    "OriginalText": "クエスト追加メッセージ\n【300450】",
+    "Text": "",
+    "Enabled": false
+  },
+  "201170": {
+    "OriginalText": "冷：魂の解放",
+    "Text": "",
+    "Enabled": false
+  },
+  "201171": {
+    "OriginalText": "ネメスガイストの撃破",
+    "Text": "",
+    "Enabled": false
+  },
+  "201172": {
+    "OriginalText": "失敗条件【301780】",
+    "Text": "",
+    "Enabled": false
+  },
+  "201173": {
+    "OriginalText": "クエスト追加メッセージ\n【301780】",
+    "Text": "",
+    "Enabled": false
+  },
+  "201180": {
+    "OriginalText": "クエスト名【301760】",
+    "Text": "",
+    "Enabled": false
+  },
+  "201181": {
+    "OriginalText": "クエスト目標【301760】",
+    "Text": "",
+    "Enabled": false
+  },
+  "201182": {
+    "OriginalText": "失敗条件【301760】",
+    "Text": "",
+    "Enabled": false
+  },
+  "201310": {
+    "OriginalText": "運命の餅方",
+    "Text": "",
+    "Enabled": false
+  },
+  "201311": {
+    "OriginalText": "グラバーを探す",
+    "Text": "",
+    "Enabled": false
+  },
+  "201312": {
+    "OriginalText": "なし",
+    "Text": "",
+    "Enabled": false
+  },
+  "201313": {
+    "OriginalText": "クエストが追加されました。\n『運命の餅方』",
+    "Text": "",
+    "Enabled": false
+  },
+  "201400": {
+    "OriginalText": "チームシグマの墓標",
+    "Text": "",
+    "Enabled": false
+  },
+  "201401": {
+    "OriginalText": "最深部のギガンテス撃破",
+    "Text": "",
+    "Enabled": false
+  },
+  "201402": {
+    "OriginalText": "なし",
+    "Text": "",
+    "Enabled": false
+  },
+  "201403": {
+    "OriginalText": "クエストが追加されました。\n『チームシグマの墓標』",
+    "Text": "",
+    "Enabled": false
+  },
+  "201404": {
+    "OriginalText": "チームシグマのを取れ",
+    "Text": "",
+    "Enabled": false
+  },
+  "201554": {
+    "OriginalText": "クエストが追加されました。\n『運命の餅方』",
+    "Text": "",
+    "Enabled": false
+  },
+  "201555": {
+    "OriginalText": "クエストが追加されました。\n『恋する無敵艦隊』",
+    "Text": "",
+    "Enabled": false
+  },
+  "201556": {
+    "OriginalText": "クエストが追加されました。\n『愛の果実』",
+    "Text": "",
+    "Enabled": false
+  },
+  "201557": {
+    "OriginalText": "クエストが追加されました。\n『恋の逃避行』",
+    "Text": "",
+    "Enabled": false
+  },
+  "201558": {
+    "OriginalText": "クエストが追加されました。\n『アルキュオネ追跡撃破任務\nガーネット編3（仮）』",
+    "Text": "",
+    "Enabled": false
+  },
+  "201559": {
+    "OriginalText": "クエストが追加されました。\n『サンシャウトを追え！』",
+    "Text": "",
+    "Enabled": false
+  },
+  "201560": {
+    "OriginalText": "クエストが追加されました。\n『真実の欠片』",
+    "Text": "",
+    "Enabled": false
+  },
+  "201561": {
+    "OriginalText": "クエストが追加されました。\n『奪われた証拠品』",
+    "Text": "",
+    "Enabled": false
+  },
+  "201562": {
+    "OriginalText": "クエストが追加されました。\n『サンシャウト編3 \nクエスト（仮）』",
+    "Text": "",
+    "Enabled": false
+  },
+  "201563": {
+    "OriginalText": "クエストが追加されました。\n『古代都市掃討任務\n共通エピローグ（仮）』",
+    "Text": "",
+    "Enabled": false
+  },
+  "201564": {
+    "OriginalText": "超：銅の荒野走破任務",
+    "Text": "",
+    "Enabled": false
+  },
+  "201565": {
+    "OriginalText": "超：ノヴァ内部哨戒任務",
+    "Text": "",
+    "Enabled": false
+  },
+  "201566": {
+    "OriginalText": "超：ファンアフォル決戦",
+    "Text": "",
+    "Enabled": false
+  },
+  "201567": {
+    "OriginalText": "超：古代都市殲滅任務",
+    "Text": "",
+    "Enabled": false
+  },
+  "201568": {
+    "OriginalText": "超：光と風の支配者",
+    "Text": "",
+    "Enabled": false
+  },
+  "201569": {
+    "OriginalText": "超：古代都市広域偵察任務",
+    "Text": "",
+    "Enabled": false
+  },
+  "201570": {
+    "OriginalText": "超：大尖塔資村回収任務",
+    "Text": "",
+    "Enabled": false
+  },
+  "201571": {
+    "OriginalText": "超：逆襲の原生種",
+    "Text": "",
+    "Enabled": false
+  },
+  "201572": {
+    "OriginalText": "超：グレイオス攻略任務",
+    "Text": "",
+    "Enabled": false
+  },
+  "201573": {
+    "OriginalText": "超：アルキュオネ攻略任務",
+    "Text": "",
+    "Enabled": false
+  },
+  "201574": {
+    "OriginalText": "超：大尖塔殲滅任務",
+    "Text": "",
+    "Enabled": false
+  },
+  "201575": {
+    "OriginalText": "超：デス・デート",
+    "Text": "",
+    "Enabled": false
+  },
+  "201576": {
+    "OriginalText": "超：錯砦のヴィヴリュード",
+    "Text": "",
+    "Enabled": false
+  },
+  "201577": {
+    "OriginalText": "恋の逃避行",
+    "Text": "",
+    "Enabled": false
+  },
+  "201578": {
+    "OriginalText": "恋の逃避行",
+    "Text": "",
+    "Enabled": false
+  },
+  "201579": {
+    "OriginalText": "超：劇産のエウリュード",
+    "Text": "",
+    "Enabled": false
+  },
+  "201580": {
+    "OriginalText": "超：昏闇のファンアフォル",
+    "Text": "",
+    "Enabled": false
+  },
+  "201581": {
+    "OriginalText": "超：狂風の暴君",
+    "Text": "",
+    "Enabled": false
+  },
+  "201582": {
+    "OriginalText": "超：撃光の伝悪鬼",
+    "Text": "",
+    "Enabled": false
+  },
+  "201583": {
+    "OriginalText": "超：猛攻のグレイオス",
+    "Text": "",
+    "Enabled": false
+  },
+  "201584": {
+    "OriginalText": "超：獄炎のアルキュオネ",
+    "Text": "",
+    "Enabled": false
+  },
+  "201585": {
+    "OriginalText": "超：神雷の磁晶模",
+    "Text": "",
+    "Enabled": false
+  },
+  "201586": {
+    "OriginalText": "難：銅の荒野殲滅任務",
+    "Text": "",
+    "Enabled": false
+  }
+}

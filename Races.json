@@ -1,0 +1,27 @@
+{
+  "10401": {
+    "OriginalText": "ヒューマン",
+    "Text": "Human",
+    "Enabled": true
+  },
+  "10402": {
+    "OriginalText": "ニューマン",
+    "Text": "Newman",
+    "Enabled": true
+  },
+  "10403": {
+    "OriginalText": "キャスト",
+    "Text": "Cast",
+    "Enabled": true
+  },
+  "10404": {
+    "OriginalText": "キャスト似外",
+    "Text": "Non-Cast",
+    "Enabled": true
+  },
+  "10405": {
+    "OriginalText": "全種族",
+    "Text": "All Races",
+    "Enabled": true
+  }
+}

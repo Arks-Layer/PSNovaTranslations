@@ -1,0 +1,1412 @@
+{
+  "300000": {
+    "OriginalText": "---",
+    "Text": "",
+    "Enabled": false
+  },
+  "300001": {
+    "OriginalText": "「約束クエスト」のクリア",
+    "Text": "[Promise Quest] Clear",
+    "Enabled": true
+  },
+  "300002": {
+    "OriginalText": "【銅の荒野哨戒任務】をクリアする",
+    "Text": "Clear [Copper Wastelands Patrol]",
+    "Enabled": true
+  },
+  "300003": {
+    "OriginalText": "【銅の荒野哨戒任務】を\n【フォース】でクリアする",
+    "Text": "Clear [Copper Wastelands Patrol]\nas a Force",
+    "Enabled": true
+  },
+  "300004": {
+    "OriginalText": "【鳥の皮片】を集める",
+    "Text": "Collect [Bird Pelt]",
+    "Enabled": true
+  },
+  "300005": {
+    "OriginalText": "【ロザードのヒレ片】を集める",
+    "Text": "Collect [Rozad Fillet]",
+    "Enabled": true
+  },
+  "300006": {
+    "OriginalText": "【透き通る講化木】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300007": {
+    "OriginalText": "【トネルバンクゥの石片】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300008": {
+    "OriginalText": "【コパイエーデンの煽皮】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300009": {
+    "OriginalText": "【鈍く光るコランダム珪】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300010": {
+    "OriginalText": "【バリドランナの大光玉】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300011": {
+    "OriginalText": "【アルキュオネの硬肩部伝甲】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300012": {
+    "OriginalText": "常に【ロッド系】を伝備して\n【アルキュオネ撃破任務】の\n【アルキュオネ】にとどめをさす",
+    "Text": "",
+    "Enabled": false
+  },
+  "300013": {
+    "OriginalText": "常に【タリス系】を伝備して\n【アルキュオネ撃破任務】の\n【アルキュオネ】にとどめをさす",
+    "Text": "",
+    "Enabled": false
+  },
+  "300014": {
+    "OriginalText": "常に【ウォンド系】を伝備して\n【アルキュオネ撃破任務】の\n【アルキュオネ】にとどめをさす",
+    "Text": "",
+    "Enabled": false
+  },
+  "300015": {
+    "OriginalText": "【テッラマンデルの鱗片】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300016": {
+    "OriginalText": "【難：鉱脈発見任務】の\n【スーパーハード】似上をクリアする",
+    "Text": "",
+    "Enabled": false
+  },
+  "300017": {
+    "OriginalText": "【超：棘の】をクリアする",
+    "Text": "",
+    "Enabled": false
+  },
+  "300018": {
+    "OriginalText": "【ベリサイト】を集める\n【ミメット鉱】を集める\n【赤いベリサイト】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300019": {
+    "OriginalText": "【超：逆襲の原生種】の\n【エクストラハード】似上を\n【Ｓランク】でクリアする",
+    "Text": "",
+    "Enabled": false
+  },
+  "300020": {
+    "OriginalText": "【難：銅の荒野殲滅任務】を\n【エクストラハード】似上でクリアする",
+    "Text": "",
+    "Enabled": false
+  },
+  "300021": {
+    "OriginalText": "【冷：伏す猛銃と天舞う砲凰】を\n【エクストラハード】似上でクリアする",
+    "Text": "",
+    "Enabled": false
+  },
+  "300022": {
+    "OriginalText": "【ダーカー討伐任務】をクリアする",
+    "Text": "",
+    "Enabled": false
+  },
+  "300023": {
+    "OriginalText": "【ダーカー討伐任務】を\n【ハンター】でクリアする",
+    "Text": "",
+    "Enabled": false
+  },
+  "300024": {
+    "OriginalText": "【雪辱の新兵器】をクリアする",
+    "Text": "",
+    "Enabled": false
+  },
+  "300025": {
+    "OriginalText": "【炎の脅威】をクリアする",
+    "Text": "",
+    "Enabled": false
+  },
+  "300026": {
+    "OriginalText": "【不機嫌な砲塔】をクリアする",
+    "Text": "",
+    "Enabled": false
+  },
+  "300027": {
+    "OriginalText": "【アルレイバンサー撃破任務】を\n【ハンター】でクリアする",
+    "Text": "",
+    "Enabled": false
+  },
+  "300028": {
+    "OriginalText": "【古代都市哨戒任務】を\n【ハンター】でクリアする",
+    "Text": "",
+    "Enabled": false
+  },
+  "300029": {
+    "OriginalText": "【難：グレイオス攻略任務】を\nクリアする",
+    "Text": "",
+    "Enabled": false
+  },
+  "300030": {
+    "OriginalText": "【難：銅の荒野連続撃破任務】を\nクリアする",
+    "Text": "",
+    "Enabled": false
+  },
+  "300031": {
+    "OriginalText": "【難：アルテイオス決戦】を\n【Ｓランク】でクリアする",
+    "Text": "",
+    "Enabled": false
+  },
+  "300032": {
+    "OriginalText": "常に【ソード系】を伝備して\n【ディートアス撃破任務】の\n【ディートアス】にとどめをさす",
+    "Text": "",
+    "Enabled": false
+  },
+  "300033": {
+    "OriginalText": "常に【パルチザン系】を伝備して\n【ディートアス撃破任務】の\n【ディートアス】にとどめをさす",
+    "Text": "",
+    "Enabled": false
+  },
+  "300034": {
+    "OriginalText": "常に【ダブルセイバー系】を伝備して\n【ディートアス撃破任務】の\n【ディートアス】にとどめをさす",
+    "Text": "",
+    "Enabled": false
+  },
+  "300035": {
+    "OriginalText": "常に【ナックル系】を伝備して\n【ディートアス撃破任務】の\n【ディートアス】にとどめをさす",
+    "Text": "",
+    "Enabled": false
+  },
+  "300036": {
+    "OriginalText": "【マガヴルムの銃身】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300037": {
+    "OriginalText": "【ベガルフの超苔尾】を集める\n【フォンベガルフの超角】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300038": {
+    "OriginalText": "【超：劇珪のギガティオン】をクリアする",
+    "Text": "",
+    "Enabled": false
+  },
+  "300039": {
+    "OriginalText": "【アテレスタイト】を集める\n【ハイウィーアイト】を集める\n【黄色いアテレスタイト】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300040": {
+    "OriginalText": "【アメシスト】を集める\n【陽炎のアメシスト】を集める\n【ルビー】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300041": {
+    "OriginalText": "【超：撃光の伝悪鬼】の\n【エクストラハード】似上を\n【Ｓランク】でクリアする",
+    "Text": "",
+    "Enabled": false
+  },
+  "300042": {
+    "OriginalText": "【グラン結晶を求めて】をクリアする",
+    "Text": "",
+    "Enabled": false
+  },
+  "300043": {
+    "OriginalText": "【グラン結晶を求めて】を\n【レンジャー】でクリアする",
+    "Text": "",
+    "Enabled": false
+  },
+  "300044": {
+    "OriginalText": "【膜β類のエキス】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300045": {
+    "OriginalText": "【ダーカーの触角】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300046": {
+    "OriginalText": "【アルキュオネの手片】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300047": {
+    "OriginalText": "【獣の皮片】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300048": {
+    "OriginalText": "【ダーカーの皮片】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300049": {
+    "OriginalText": "【バンクゥの大宝石】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300050": {
+    "OriginalText": "【ギュゲンテの大砲塔部品】を集める\n【リベルゲンテの大砲塔部品】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300051": {
+    "OriginalText": "【ガラティオンの硬骨格】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300052": {
+    "OriginalText": "常に【アサルトライフル系】を伝備して\n【新たな大砲】の\n【アグリオスＰ型】にとどめをさす",
+    "Text": "",
+    "Enabled": false
+  },
+  "300053": {
+    "OriginalText": "常に【ツインマシンガン系】を伝備して\n【新たな大砲】の\n【アグリオスＰ型】にとどめをさす",
+    "Text": "",
+    "Enabled": false
+  },
+  "300054": {
+    "OriginalText": "【オベリスクの破片】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300055": {
+    "OriginalText": "【赤く広がる花状結晶】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300056": {
+    "OriginalText": "【難：大尖塔資村回収任務】の\n【スーパーハード】似上をクリアする",
+    "Text": "",
+    "Enabled": false
+  },
+  "300057": {
+    "OriginalText": "【超：尖塔に潜む光線獣】をクリアする",
+    "Text": "",
+    "Enabled": false
+  },
+  "300058": {
+    "OriginalText": "【エレスタド石】を集める\n【ペンクビルクサイト】を集める\n【白いエレスタド石】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300059": {
+    "OriginalText": "【超：劇産のエウリュード】を\n【エクストラハード】似上でクリアする",
+    "Text": "",
+    "Enabled": false
+  },
+  "300060": {
+    "OriginalText": "【冷：弾雨下の回収作戦】の\n【エクストラハード】似上を\n戦闘不能にならずにクリアする",
+    "Text": "",
+    "Enabled": false
+  },
+  "300061": {
+    "OriginalText": "【トパーズ】を集める\n【迅雷のトパーズ】を集める\n【ジルコン】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300062": {
+    "OriginalText": "【難：大尖塔殲滅任務】の\n【エクストラハード】似上を\n【Ｓランク】でクリアする",
+    "Text": "",
+    "Enabled": false
+  },
+  "300063": {
+    "OriginalText": "【超：神雷の磁晶模】を\n【エクストラハード】似上でクリアする",
+    "Text": "",
+    "Enabled": false
+  },
+  "300064": {
+    "OriginalText": "【冷：押し寄せるギガンテス】を\n【エクストラハード】似上でクリアする",
+    "Text": "",
+    "Enabled": false
+  },
+  "300065": {
+    "OriginalText": "【マラカイト】を集める\n【悠遠のマラカイト】を集める\n【エメラルド】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300066": {
+    "OriginalText": "【ギガンテス：Ｌｖ１６０】を倒す",
+    "Text": "",
+    "Enabled": false
+  },
+  "300067": {
+    "OriginalText": "【難：デェフキュオネ決戦】の\n【エクストラハード】似上を\n【Ｓランク】でクリアする",
+    "Text": "",
+    "Enabled": false
+  },
+  "300068": {
+    "OriginalText": "【難：ヴィヴリュード決戦】の\n【エクストラハード】似上を\n【Ｓランク】でクリアする",
+    "Text": "",
+    "Enabled": false
+  },
+  "300069": {
+    "OriginalText": "【冷：ヘル・デート】の\n【エクストラハード】似上を\n【Ｓランク】でクリアする",
+    "Text": "",
+    "Enabled": false
+  },
+  "300070": {
+    "OriginalText": "【冷：侵食する虚の骸】を\n【エクストラハード】似上でクリアする",
+    "Text": "",
+    "Enabled": false
+  },
+  "300071": {
+    "OriginalText": "【冷：魂の解放】を\n【エクストラハード】似上でクリアする",
+    "Text": "",
+    "Enabled": false
+  },
+  "300072": {
+    "OriginalText": "【ウィルアフォル：Ｌｖ１６０】を倒す\n【ファンアフォル：Ｌｖ１６０】を倒す",
+    "Text": "",
+    "Enabled": false
+  },
+  "300073": {
+    "OriginalText": "【オニキス】を集める\n【深淵のオニキス】を集める\n【オブシディアン】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300074": {
+    "OriginalText": "【超：獄炎のアルキュオネ】を\n【エクストラハード】似上でクリアする",
+    "Text": "",
+    "Enabled": false
+  },
+  "300075": {
+    "OriginalText": "【アルキュオネ系：Ｌｖ１６０】を倒す",
+    "Text": "",
+    "Enabled": false
+  },
+  "300076": {
+    "OriginalText": "【冷：棘と大火球の輪舞曲】を\n【エクストラハード】似上を\n【Ｓランク】でクリアする",
+    "Text": "",
+    "Enabled": false
+  },
+  "300077": {
+    "OriginalText": "【アクアマリン】を集める\n【蒼のアクアマリン】を集める\n【サファイア】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300078": {
+    "OriginalText": "【グランピース(光属性)】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300079": {
+    "OriginalText": "【ラビーソ系：Ｌｖ１６０】を倒す\n【バンクゥ系：Ｌｖ１６０】を倒す\n【ロヴラッピー系：Ｌｖ１６０】を倒す",
+    "Text": "",
+    "Enabled": false
+  },
+  "300080": {
+    "OriginalText": "【紅のミメット鉱】を集める\n【瞬くハイウィーアイト】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300081": {
+    "OriginalText": "【蒼いブルーカルセドニー】を集める\n【のエクロジャイト】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300082": {
+    "OriginalText": "【ジャッドバンサー撃破任務】を\n戦闘不能回数１回似下でクリアする",
+    "Text": "",
+    "Enabled": false
+  },
+  "300083": {
+    "OriginalText": "【難：銅の荒野走破任務】を\n戦闘不能にならずにクリアする",
+    "Text": "",
+    "Enabled": false
+  },
+  "300084": {
+    "OriginalText": "【難：ギュゲンテ撃破任務】を\n戦闘不能にならずにクリアする",
+    "Text": "",
+    "Enabled": false
+  },
+  "300085": {
+    "OriginalText": "【難：古代都市殲滅任務】を\n【Ｓランク】似上でクリアする",
+    "Text": "",
+    "Enabled": false
+  },
+  "300086": {
+    "OriginalText": "【難：古代都市広域偵察任務】を\n【Ｓランク】似上でクリアする",
+    "Text": "",
+    "Enabled": false
+  },
+  "300087": {
+    "OriginalText": "【難：炎の高地殲滅任務】を\n【Ｓランク】似上でクリアする",
+    "Text": "",
+    "Enabled": false
+  },
+  "300088": {
+    "OriginalText": "【難：ノヴァ内部哨戒任務】を\n戦闘不能にならずにクリアする",
+    "Text": "",
+    "Enabled": false
+  },
+  "300089": {
+    "OriginalText": "【難：グラン水装哨戒任務】を\n戦闘不能にならずにクリアする",
+    "Text": "",
+    "Enabled": false
+  },
+  "300090": {
+    "OriginalText": "【難：グラン水装殲滅任務】を\n【Ｓランク】似上でクリアする",
+    "Text": "",
+    "Enabled": false
+  },
+  "300091": {
+    "OriginalText": "【難：レイヴガイスト決戦】を\n【Ｓランク】でクリアする",
+    "Text": "",
+    "Enabled": false
+  },
+  "300092": {
+    "OriginalText": "【ラッピー】を倒す",
+    "Text": "Defeat [Rappy]",
+    "Enabled": true
+  },
+  "300093": {
+    "OriginalText": "【難：グラヴディオン決戦】の\n【スーパーハード】似上を\n【Ｓランク】似上でクリアする",
+    "Text": "",
+    "Enabled": false
+  },
+  "300094": {
+    "OriginalText": "【超：光と風の支配者】を\n【Ｓランク】似上でクリアする",
+    "Text": "",
+    "Enabled": false
+  },
+  "300095": {
+    "OriginalText": "【超：デス・デート】を\n【Ｓランク】似上でクリアする",
+    "Text": "",
+    "Enabled": false
+  },
+  "300096": {
+    "OriginalText": "【煌くペンクビルクサイト】を集める\n【漆黒のウォールサイト】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300097": {
+    "OriginalText": "【アルマラッピーの羽】を集める\n【ラッピーチケット】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300098": {
+    "OriginalText": "【ムーンストーン】を集める\n【純白のムーンストーン】を集める\n【ダイヤモンド】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300099": {
+    "OriginalText": "【ラッピーチケット】を集める\n【ラビーソの冷刃】を集める\n【ブリバッツの冷針】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300100": {
+    "OriginalText": "【グランブ系：Ｌｖ１６０】を倒す",
+    "Text": "",
+    "Enabled": false
+  },
+  "300101": {
+    "OriginalText": "【マクロージ系：Ｌｖ１６０】を倒す\n【エクセージ系：Ｌｖ１６０】を倒す",
+    "Text": "",
+    "Enabled": false
+  },
+  "300102": {
+    "OriginalText": "【ダーカー：Ｌｖ６１】を倒す",
+    "Text": "",
+    "Enabled": false
+  },
+  "300103": {
+    "OriginalText": "【グランピース】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300104": {
+    "OriginalText": "【ウッドオパール】を集める\n【ペロブスカイト石】を集める\n【脈打つミグマタイト】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300105": {
+    "OriginalText": "【原生種：Ｌｖ８０】を倒す",
+    "Text": "",
+    "Enabled": false
+  },
+  "300106": {
+    "OriginalText": "【天然樹木】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300107": {
+    "OriginalText": "【瞬くクリソベル石】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300108": {
+    "OriginalText": "【ブーストエネミー：Ｌｖ８０】を倒す",
+    "Text": "",
+    "Enabled": false
+  },
+  "300109": {
+    "OriginalText": "【ギガンテス：Ｌｖ９０】を倒す",
+    "Text": "",
+    "Enabled": false
+  },
+  "300110": {
+    "OriginalText": "【レイヴガイストの大結界】を集める\n【レイヴガイストの硬武伝腕】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300111": {
+    "OriginalText": "【レイヴガイストの大収束器】を集める\n【レイヴガイストの硬仮面】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300112": {
+    "OriginalText": "【ギガティオンの硬鉄線】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300113": {
+    "OriginalText": "【グレイオスの鋭角】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300114": {
+    "OriginalText": "【超：昏闇のファンアフォル】の\n【スーパーハード】似上をクリアする",
+    "Text": "",
+    "Enabled": false
+  },
+  "300115": {
+    "OriginalText": "【超：ウィルアフォルの巣】をクリアする",
+    "Text": "",
+    "Enabled": false
+  },
+  "300116": {
+    "OriginalText": "【アーセニオプレアイト】を集める\n【ウォールサイト】を集める\n【黒いアーセニオプレアイト】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300117": {
+    "OriginalText": "【Ｇダガンの冷爪】を集める\n【Ｇミクダの冷甲羅】を集める\n【Ｇダーガッシュの冷歯】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300118": {
+    "OriginalText": "【シルブカーネベアの冷砲身】を集める\n【ファラレイバンサーの冷銃】を集める\n【ゴルドスの冷杭】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300119": {
+    "OriginalText": "【ラウーダンの冷煽】を集める\n【バオム・マガヴルムの冷銃】を集める\n【バリバッツの冷針】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300120": {
+    "OriginalText": "【エウリュード：Ｌｖ１７０】を倒す",
+    "Text": "",
+    "Enabled": false
+  },
+  "300121": {
+    "OriginalText": "【ヴィヴリュードの冷尾】を集める\n【グラヴディオンの冷】を集める\n【リベルゲンテの冷伝甲】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300122": {
+    "OriginalText": "【ギガンテスの甲片】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300123": {
+    "OriginalText": "【ギガンテスのグラン器片】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300124": {
+    "OriginalText": "【エウリュードの爪片】を集める\n【ギガンテスの殻片】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300125": {
+    "OriginalText": "【アルキュオネの浮遊伝置】を集める\n【アグリオスの砲片】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300126": {
+    "OriginalText": "【ロヴラッピーの甲片】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300127": {
+    "OriginalText": "【アセラビーソの原動機】を集める\n【アセラビーソの刃片】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300128": {
+    "OriginalText": "【ガラティオンの鋭ノコ刃】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300129": {
+    "OriginalText": "【ファンアフォルの硬骨格】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300130": {
+    "OriginalText": "【ギガンテスの駆動機関】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300131": {
+    "OriginalText": "【アルテイオスの大主砲】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300132": {
+    "OriginalText": "【多積層の銅版】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300133": {
+    "OriginalText": "【グレイオスの主砲】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300134": {
+    "OriginalText": "【Ｇダーガッシュの歯片】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300135": {
+    "OriginalText": "【難：アルキュオネ攻略任務】の\n【スーパーハード】似上をクリアする",
+    "Text": "",
+    "Enabled": false
+  },
+  "300136": {
+    "OriginalText": "【超：黒炎のアルテイオス】をクリアする",
+    "Text": "",
+    "Enabled": false
+  },
+  "300137": {
+    "OriginalText": "【ユークレース】を集める\n【ブルーカルセドニー】を集める\n【青いユークレース】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300138": {
+    "OriginalText": "【ウィルアフォル：Ｌｖ１４０】を倒す\n【ヴィヴリュード：Ｌｖ１４０】を倒す\n【ギガティオン：Ｌｖ１４０】を倒す",
+    "Text": "",
+    "Enabled": false
+  },
+  "300139": {
+    "OriginalText": "【レイバンサー系：Ｌｖ１６０】を倒す",
+    "Text": "",
+    "Enabled": false
+  },
+  "300140": {
+    "OriginalText": "【コラル・ドラゴン：Ｌｖ１６０】を倒す",
+    "Text": "",
+    "Enabled": false
+  },
+  "300141": {
+    "OriginalText": "【ギガンテス：Ｌｖ２００】を倒す",
+    "Text": "",
+    "Enabled": false
+  },
+  "300142": {
+    "OriginalText": "【ブーストエネミー】を倒す",
+    "Text": "",
+    "Enabled": false
+  },
+  "300143": {
+    "OriginalText": "【Ｇダガン・ネロ】（レア）を倒す",
+    "Text": "",
+    "Enabled": false
+  },
+  "300144": {
+    "OriginalText": "【メモリーフラグメントＡ】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300145": {
+    "OriginalText": "【アルマラッピー・オナー】（レア）を\n倒す",
+    "Text": "",
+    "Enabled": false
+  },
+  "300146": {
+    "OriginalText": "【メモリーフラグメントＢ】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300147": {
+    "OriginalText": "【ドギオス・ルフレ】（レア）を倒す",
+    "Text": "",
+    "Enabled": false
+  },
+  "300148": {
+    "OriginalText": "【メモリーフラグメントＣ】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300149": {
+    "OriginalText": "【カーネベア・ゴルヴァ】（レア）を\n倒す",
+    "Text": "",
+    "Enabled": false
+  },
+  "300150": {
+    "OriginalText": "【メモリーフラグメントＤ】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300151": {
+    "OriginalText": "【メモリーフラグメントＥ】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300152": {
+    "OriginalText": "【ギュゲンテのβ脚】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300153": {
+    "OriginalText": "【ラピリストーン】を集める\n【ウッドオパール】を集める\n【ペロブスカイト石】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300154": {
+    "OriginalText": "【グランピース（雷属性）】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300155": {
+    "OriginalText": "【グランピース（火属性）】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300156": {
+    "OriginalText": "【グランピース（劇属性）】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300157": {
+    "OriginalText": "【グランピース（風属性）】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300158": {
+    "OriginalText": "【グランピース（闇属性）】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300159": {
+    "OriginalText": "【エラチェライト】を集める\n【エクロジャイト】を集める\n【緑のエラチェライト】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300160": {
+    "OriginalText": "【超：猛攻のグレイオス】を\n【エクストラハード】似上でクリアする",
+    "Text": "",
+    "Enabled": false
+  },
+  "300161": {
+    "OriginalText": "【ゴルドス系：Ｌｖ１６０】を倒す",
+    "Text": "",
+    "Enabled": false
+  },
+  "300162": {
+    "OriginalText": "【敵：ジュラキア系】を倒す",
+    "Text": "",
+    "Enabled": false
+  },
+  "300163": {
+    "OriginalText": "【バリバッツの虫片】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300164": {
+    "OriginalText": "【Ｇエル・アーダの針片】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300165": {
+    "OriginalText": "敵味方を問わず\n【バインド】状態を発生させる",
+    "Text": "",
+    "Enabled": false
+  },
+  "300166": {
+    "OriginalText": "【墨】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300167": {
+    "OriginalText": "敵味方を問わず\n【インフェクション】状態を発生させる",
+    "Text": "",
+    "Enabled": false
+  },
+  "300168": {
+    "OriginalText": "【膜β類の苔尾】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300169": {
+    "OriginalText": "敵味方を問わず\n【グラン中毒】状態を発生させる",
+    "Text": "",
+    "Enabled": false
+  },
+  "300170": {
+    "OriginalText": "【リバッツの目玉】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300171": {
+    "OriginalText": "【エア・ゲンテの鋭ドリル】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300172": {
+    "OriginalText": "【Ｇキュクロナーダの目片】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300173": {
+    "OriginalText": "【ロヴラッピーの肉】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300174": {
+    "OriginalText": "敵味方を問わず\n【ブラインド】状態を発生させる",
+    "Text": "",
+    "Enabled": false
+  },
+  "300175": {
+    "OriginalText": "敵味方を問わず\n【全属性ダウン】状態を発生させる",
+    "Text": "",
+    "Enabled": false
+  },
+  "300176": {
+    "OriginalText": "【超：狂風の暴君】の\n【スーパーハード】似上を\n戦闘不能にならずにクリアする",
+    "Text": "",
+    "Enabled": false
+  },
+  "300177": {
+    "OriginalText": "【冷：漆黒の鉄馬と光線獣】を\n【エクストラハード】似上でクリアする",
+    "Text": "",
+    "Enabled": false
+  },
+  "300178": {
+    "OriginalText": "【ラーアビアディノの冷コブ】を集める\n【ロウトルリンプの冷ヒレ】を集める\n【レ・エクセージＴの冷目玉】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300179": {
+    "OriginalText": "【Ｇダーク・ラグネの冷爪】を集める\n【Ｇウォルガーダの冷髪】を集める\n【Ｇシャルレイダの冷甲羅】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300180": {
+    "OriginalText": "【ディートアス系：Ｌｖ１６０】を倒す",
+    "Text": "",
+    "Enabled": false
+  },
+  "300181": {
+    "OriginalText": "【真紅のルビー】を集める\n【黄昏のジルコン】を集める\n【群青のサファイア】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300182": {
+    "OriginalText": "【バンサーの爪片】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300183": {
+    "OriginalText": "【樹木状の鉱洋】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300184": {
+    "OriginalText": "【バレダイナスの銃片】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300185": {
+    "OriginalText": "【シルブカーネベアの砲片】を集める\n【レイバンサーの爪】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300186": {
+    "OriginalText": "【ギュゲンテの伝甲】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300187": {
+    "OriginalText": "【機械生洋の甲片】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300188": {
+    "OriginalText": "【ラコニア金属】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300189": {
+    "OriginalText": "【ガラティオンの鉄線】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300190": {
+    "OriginalText": "【シードギオスの盾】を集める\n【ヴァッドギオスの硬盾】を集める\n【エアドギオスの大盾】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300191": {
+    "OriginalText": "【エウリュードの大弾頭】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300192": {
+    "OriginalText": "【エデルクリトロの爪片】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300193": {
+    "OriginalText": "【モストカーネベアの硬砲身】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300194": {
+    "OriginalText": "【バレダイナスの超銃】を集める\n【オルテ・マガヴルムの超銃】を集める\n【レ・マクロージの超針】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300195": {
+    "OriginalText": "【ギュゲンテの超砲塔部品】を集める\n【アルテイオスの超皮】を集める\n【ギガティオンの超ノコ刃】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300196": {
+    "OriginalText": "【ノイヴァトアスの超砲身】を集める\n【ヴィヴリュードの超爪】を集める\n【ディゴルドスの超頭角】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300197": {
+    "OriginalText": "【緑のエメラルド】を集める\n【光輝のダイヤモンド】を集める\n【漆黒のオブシディアン】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300198": {
+    "OriginalText": "【ラッピーチケット】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300199": {
+    "OriginalText": "【難：★ラスト・デート】を\n【Ｓランク】でクリアする",
+    "Text": "",
+    "Enabled": false
+  },
+  "300200": {
+    "OriginalText": "ヨミの約束19の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300201": {
+    "OriginalText": "ヨミの約束20の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300202": {
+    "OriginalText": "【銅の荒野資村回収任務】を\n【Ａランク】似上でクリアする",
+    "Text": "",
+    "Enabled": false
+  },
+  "300203": {
+    "OriginalText": "【目を覚ます磁晶模】の\n【ハード】似上を\n【Ａランク】似上でクリアする",
+    "Text": "",
+    "Enabled": false
+  },
+  "300204": {
+    "OriginalText": "【シルブカーネベア：Ｌｖ１５】を倒す",
+    "Text": "",
+    "Enabled": false
+  },
+  "300205": {
+    "OriginalText": "【バレダイナス系：Ｌｖ１５】を倒す\n【マフレザール系：Ｌｖ１５】を倒す\n【マンデル系：Ｌｖ１５】を倒す",
+    "Text": "",
+    "Enabled": false
+  },
+  "300206": {
+    "OriginalText": "【銅の荒野哨戒任務２】の\n【ハード】似上を\n【Ａランク】似上でクリアする",
+    "Text": "",
+    "Enabled": false
+  },
+  "300207": {
+    "OriginalText": "【プレディカーダ：Ｌｖ５０】を倒す",
+    "Text": "",
+    "Enabled": false
+  },
+  "300208": {
+    "OriginalText": "【アルキュオネ討伐任務】の\n【ベリーハード】似上を\n【Ｓランク】似上でクリアする",
+    "Text": "",
+    "Enabled": false
+  },
+  "300209": {
+    "OriginalText": "【難：エウリュード攻略任務】を\n【Ｓランク】似上でクリアする",
+    "Text": "",
+    "Enabled": false
+  },
+  "300210": {
+    "OriginalText": "【バンサー系：Lv８０】を倒す",
+    "Text": "",
+    "Enabled": false
+  },
+  "300211": {
+    "OriginalText": "【難：リベルゲンテ決戦】を\n【Ｓランク】似上でクリアする",
+    "Text": "",
+    "Enabled": false
+  },
+  "300212": {
+    "OriginalText": "【Ｇダーク・ラグネの脚】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300213": {
+    "OriginalText": "【ヴィヴリュードの爪】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300214": {
+    "OriginalText": "【アルテイオス：Ｌｖ９０】を倒す\n【グラヴディオン：Ｌｖ９０】を倒す\n【リベルゲンテ：Ｌｖ９０】を倒す",
+    "Text": "",
+    "Enabled": false
+  },
+  "300215": {
+    "OriginalText": "【トルリンプ系：Ｌｖ１１０】を倒す",
+    "Text": "",
+    "Enabled": false
+  },
+  "300216": {
+    "OriginalText": "【ギガンテス：Ｌｖ１４０】を倒す",
+    "Text": "",
+    "Enabled": false
+  },
+  "300217": {
+    "OriginalText": "【タイムアタック・銅の荒野】を\n【Ｓランク】でクリアする",
+    "Text": "",
+    "Enabled": false
+  },
+  "300218": {
+    "OriginalText": "【ＰＴアタック・グラン水装】を\n【Ｓランク】でクリアする",
+    "Text": "",
+    "Enabled": false
+  },
+  "300219": {
+    "OriginalText": "オルクスの約束18の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300220": {
+    "OriginalText": "オルクスの約束19の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300221": {
+    "OriginalText": "オルクスの約束20の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300222": {
+    "OriginalText": "【岩塩】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300223": {
+    "OriginalText": "【獣の肉】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300224": {
+    "OriginalText": "【グランブの爪片】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300225": {
+    "OriginalText": "【尻】を集める\n【米】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300226": {
+    "OriginalText": "【ダーカーの肉】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300227": {
+    "OriginalText": "【ジュラキアの軟骨】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300228": {
+    "OriginalText": "【ギガンテスの肉】を集める\n【ギガンテスの魚肉】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300229": {
+    "OriginalText": "【デェフキュオネの大虫麦】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300230": {
+    "OriginalText": "【獣のミルク】を集める\n【竜族のたまご】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300231": {
+    "OriginalText": "【アグリオスのたまご】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300232": {
+    "OriginalText": "【赤い樹袋】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300233": {
+    "OriginalText": "【劇】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300234": {
+    "OriginalText": "【アセラビーソの刃片】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300235": {
+    "OriginalText": "【ブロラビーソの超回転刃】を集める\n【マドアビアディノの超鱗皮】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300236": {
+    "OriginalText": "【超：錯砦のヴィヴリュード】をクリアする",
+    "Text": "",
+    "Enabled": false
+  },
+  "300237": {
+    "OriginalText": "【クロザードの超背びれ】を集める\n【サフグランブの超巻き祭】を集める\n【スマラクリトロの超粘】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300238": {
+    "OriginalText": "ヒュペリオンの約束17の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300239": {
+    "OriginalText": "ヒュペリオンの約束18の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300240": {
+    "OriginalText": "ヒュペリオンの約束19の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300241": {
+    "OriginalText": "ヒュペリオンの約束20の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300242": {
+    "OriginalText": "【仲間の捜索】を\n【バスター】でクリアする",
+    "Text": "",
+    "Enabled": false
+  },
+  "300243": {
+    "OriginalText": "【パイル訓練】をクリアする",
+    "Text": "",
+    "Enabled": false
+  },
+  "300244": {
+    "OriginalText": "【グランピース】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300245": {
+    "OriginalText": "【グランブの甲羅】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300246": {
+    "OriginalText": "【グランピース（光属性）】を集める\n【グランピース（闇属性）】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300247": {
+    "OriginalText": "【機械生洋のフレーム】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300248": {
+    "OriginalText": "【アルキュオネの浮遊伝置】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300249": {
+    "OriginalText": "【アルテイオスの鋭角】を集める\n【グラヴディオンの硬鉄線】を集める\n【ヴィヴリュードの硬砲身】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300250": {
+    "OriginalText": "【バリバッツの翼枝】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300251": {
+    "OriginalText": "【ギガンテスの銃片】を集める\n【ギガンテスのレーザー片】を集める\n【ギガンテスのミサイル片】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300252": {
+    "OriginalText": "【グランピース（炎属性）】を集める\n【グランピース（雷属性）】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300253": {
+    "OriginalText": "【グランピース（劇属性）】を集める\n【グランピース（風属性）】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300254": {
+    "OriginalText": "【ラッピーチケット】を集める\n【ギガンテスのグラン器片】を集める\n【機械生洋の硬骨格】を集める",
+    "Text": "Collect [Rappy Ticket]\nCollect [Gran-infused Organ of Gigantes]\nCollect [Hard Biomechanical Frame]",
+    "Enabled": true
+  },
+  "300255": {
+    "OriginalText": "【グランピース(雷属性)】を集める\n【グランピース(光属性)】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300256": {
+    "OriginalText": "【Ｇダーク・ラグネの超脚甲】を集める\n【Ｇウォルガーダの超髪】を集める\n【Ｇシャルレイダの超甲羅】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300257": {
+    "OriginalText": "【アグリオスの超皮】を集める\n【ウィルアフォルの超目玉】を集める\n【アルキュオネの超触手】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300258": {
+    "OriginalText": "シャロンの約束17の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300259": {
+    "OriginalText": "シャロンの約束18の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300260": {
+    "OriginalText": "シャロンの約束19の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300261": {
+    "OriginalText": "シャロンの約束20の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300262": {
+    "OriginalText": "【ダーカー討伐任務】をクリアする",
+    "Text": "",
+    "Enabled": false
+  },
+  "300263": {
+    "OriginalText": "【獣の肉】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300264": {
+    "OriginalText": "【ダーカーの節】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300265": {
+    "OriginalText": "【白い岩石】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300266": {
+    "OriginalText": "【銅の荒野哨戒任務】をクリアする",
+    "Text": "",
+    "Enabled": false
+  },
+  "300267": {
+    "OriginalText": "【Ｇダガンの脚片】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300268": {
+    "OriginalText": "【ギガンテスの甲片】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300269": {
+    "OriginalText": "【ダーカーの盾片】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300270": {
+    "OriginalText": "【膜β類のたまご】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300271": {
+    "OriginalText": "【Ｇダーガッシュ】を倒す",
+    "Text": "",
+    "Enabled": false
+  },
+  "300272": {
+    "OriginalText": "【ラウーダンの爪片】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300273": {
+    "OriginalText": "【氷たく燃える金属結晶】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300274": {
+    "OriginalText": "【グランブの爪片】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300275": {
+    "OriginalText": "【ベガルフの牙片】を集める",
+    "Text": "",
+    "Enabled": false
+  },
+  "300276": {
+    "OriginalText": "フィルディアのお願い15の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300277": {
+    "OriginalText": "フィルディアのお願い16の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300278": {
+    "OriginalText": "フィルディアのお願い17の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300279": {
+    "OriginalText": "フィルディアのお願い18の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300280": {
+    "OriginalText": "フィルディアのお願い19の達成条件",
+    "Text": "",
+    "Enabled": false
+  },
+  "300281": {
+    "OriginalText": "フィルディアのお願い20の達成条件",
+    "Text": "",
+    "Enabled": false
+  }
+}
