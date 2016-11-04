@@ -326,102 +326,102 @@
   },
   "240081": {
     "OriginalText": "防具ショップＢ Lv.1",
-    "Text": "Armor Shop B Lv.1",
+    "Text": "Shield Shop B Lv.1",
     "Enabled": true
   },
   "240082": {
     "OriginalText": "防具ショップＢ Lv.2",
-    "Text": "Armor Shop B Lv.2",
+    "Text": "Shield Shop B Lv.2",
     "Enabled": true
   },
   "240083": {
     "OriginalText": "防具ショップＢ Lv.3",
-    "Text": "Armor Shop B Lv.3",
+    "Text": "Shield Shop B Lv.3",
     "Enabled": true
   },
   "240084": {
     "OriginalText": "防具ショップＢ Lv.4",
-    "Text": "Armor Shop B Lv.4",
+    "Text": "Shield Shop B Lv.4",
     "Enabled": true
   },
   "240085": {
     "OriginalText": "防具ショップＢ Lv.5",
-    "Text": "Armor Shop B Lv.5",
+    "Text": "Shield Shop B Lv.5",
     "Enabled": true
   },
   "240086": {
     "OriginalText": "防具ショップＯ Lv.1",
-    "Text": "Armor Shop O Lv.1",
+    "Text": "Shield Shop O Lv.1",
     "Enabled": true
   },
   "240087": {
     "OriginalText": "防具ショップＯ Lv.2",
-    "Text": "Armor Shop O Lv.2",
+    "Text": "Shield Shop O Lv.2",
     "Enabled": true
   },
   "240088": {
     "OriginalText": "防具ショップＯ Lv.3",
-    "Text": "Armor Shop O Lv.3",
+    "Text": "Shield Shop O Lv.3",
     "Enabled": true
   },
   "240089": {
     "OriginalText": "防具ショップＯ Lv.4",
-    "Text": "Armor Shop O Lv.4",
+    "Text": "Shield Shop O Lv.4",
     "Enabled": true
   },
   "240090": {
     "OriginalText": "防具ショップＯ Lv.5",
-    "Text": "Armor Shop O Lv.5",
+    "Text": "Shield Shop O Lv.5",
     "Enabled": true
   },
   "240091": {
     "OriginalText": "防具ショップＷ Lv.1",
-    "Text": "Armor Shop W Lv.1",
+    "Text": "Shield Shop W Lv.1",
     "Enabled": true
   },
   "240092": {
     "OriginalText": "防具ショップＷ Lv.2",
-    "Text": "Armor Shop W Lv.2",
+    "Text": "Shield Shop W Lv.2",
     "Enabled": true
   },
   "240093": {
     "OriginalText": "防具ショップＷ Lv.3",
-    "Text": "Armor Shop W Lv.3",
+    "Text": "Shield Shop W Lv.3",
     "Enabled": true
   },
   "240094": {
     "OriginalText": "防具ショップＷ Lv.4",
-    "Text": "Armor Shop W Lv.4",
+    "Text": "Shield Shop W Lv.4",
     "Enabled": true
   },
   "240095": {
     "OriginalText": "防具ショップＷ Lv.5",
-    "Text": "Armor Shop W Lv.5",
+    "Text": "Shield Shop W Lv.5",
     "Enabled": true
   },
   "240096": {
     "OriginalText": "防具ショップ Lv.1",
-    "Text": "Armor Shop Lv.1",
+    "Text": "Shield Shop Lv.1",
     "Enabled": true
   },
   "240097": {
     "OriginalText": "防具ショップ Lv.2",
-    "Text": "Armor Shop Lv.2",
+    "Text": "Shield Shop Lv.2",
     "Enabled": true
   },
   "240098": {
     "OriginalText": "防具ショップ Lv.3",
-    "Text": "Armor Shop Lv.3",
+    "Text": "Shield Shop Lv.3",
     "Enabled": true
   },
   "240099": {
     "OriginalText": "防具ショップ Lv.4",
-    "Text": "Armor Shop Lv.4",
+    "Text": "Shield Shop Lv.4",
     "Enabled": true
   },
   "240100": {
     "OriginalText": "防具ショップ Lv.5",
-    "Text": "Armor Shop Lv.5",
+    "Text": "Shield Shop Lv.5",
     "Enabled": true
   },
   "240101": {
@@ -826,27 +826,27 @@
   },
   "240186": {
     "OriginalText": "バースト加速伝置 Lv.1",
-    "Text": "Burst Acceleration Device Lv.1",
+    "Text": "BURST Acceleration Device Lv.1",
     "Enabled": true
   },
   "240187": {
     "OriginalText": "バースト加速伝置 Lv.2",
-    "Text": "Burst Acceleration Device Lv.2",
+    "Text": "BURST Acceleration Device Lv.2",
     "Enabled": true
   },
   "240188": {
     "OriginalText": "バースト加速伝置 Lv.3",
-    "Text": "Burst Acceleration Device Lv.3",
+    "Text": "BURST Acceleration Device Lv.3",
     "Enabled": true
   },
   "240189": {
     "OriginalText": "バースト加速伝置 Lv.4",
-    "Text": "Burst Acceleration Device Lv.4",
+    "Text": "BURST Acceleration Device Lv.4",
     "Enabled": true
   },
   "240190": {
     "OriginalText": "バースト加速伝置 Lv.5",
-    "Text": "Burst Acceleration Device Lv.5",
+    "Text": "BURST Acceleration Device Lv.5",
     "Enabled": true
   },
   "240191": {
@@ -2066,7 +2066,7 @@
   },
   "241111": {
     "OriginalText": "バースト加速伝置",
-    "Text": "Burst Acceleration Device",
+    "Text": "BURST Acceleration Device",
     "Enabled": true
   }
 }

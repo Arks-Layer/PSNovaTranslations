@@ -6,8 +6,8 @@
   },
   "750001": {
     "OriginalText": "出演",
-    "Text": "",
-    "Enabled": false
+    "Text": "Cast",
+    "Enabled": true
   },
   "750002": {
     "OriginalText": "ルティナ",

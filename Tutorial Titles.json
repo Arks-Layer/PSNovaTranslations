@@ -416,23 +416,23 @@
   },
   "770083": {
     "OriginalText": "ver.1.01アップデート！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Version 1.01 Updates!",
+    "Enabled": true
   },
   "770084": {
     "OriginalText": "ver.1.02アップデート！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Version 1.02 Updates!",
+    "Enabled": true
   },
   "770085": {
     "OriginalText": "ver.1.03アップデート！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Version 1.03 Updates!",
+    "Enabled": true
   },
   "770086": {
     "OriginalText": "ver.1.05アップデート！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Version 1.05 Updates!",
+    "Enabled": true
   },
   "770087": {
     "OriginalText": "『コア精錬所』",
@@ -461,17 +461,17 @@
   },
   "770092": {
     "OriginalText": "ver.1.05アップデート！ その１",
-    "Text": "",
-    "Enabled": false
+    "Text": "Version 1.05 Updates! Part 1",
+    "Enabled": true
   },
   "770093": {
     "OriginalText": "ver.1.05アップデート！ その２",
-    "Text": "",
-    "Enabled": false
+    "Text": "Version 1.05 Updates! Part 2",
+    "Enabled": true
   },
   "770094": {
     "OriginalText": "予備",
-    "Text": "",
-    "Enabled": false
+    "Text": "Reserved",
+    "Enabled": true
   }
 }
