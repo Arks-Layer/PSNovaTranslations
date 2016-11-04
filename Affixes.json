@@ -1906,82 +1906,82 @@
   },
   "152100": {
     "OriginalText": "エクステンド★1",
-    "Text": "",
-    "Enabled": false
+    "Text": "★1 Extension",
+    "Enabled": true
   },
   "152101": {
     "OriginalText": "エクステンド★2",
-    "Text": "",
-    "Enabled": false
+    "Text": "★2 Extension",
+    "Enabled": true
   },
   "152102": {
     "OriginalText": "エクステンド★3",
-    "Text": "",
-    "Enabled": false
+    "Text": "★3 Extension",
+    "Enabled": true
   },
   "152103": {
     "OriginalText": "エクステンド★4",
-    "Text": "",
-    "Enabled": false
+    "Text": "★4 Extension",
+    "Enabled": true
   },
   "152104": {
     "OriginalText": "エクステンド★5",
-    "Text": "",
-    "Enabled": false
+    "Text": "★5 Extension",
+    "Enabled": true
   },
   "152105": {
     "OriginalText": "エクステンド★6",
-    "Text": "",
-    "Enabled": false
+    "Text": "★6 Extension",
+    "Enabled": true
   },
   "152106": {
     "OriginalText": "エクステンド★7",
-    "Text": "",
-    "Enabled": false
+    "Text": "★7 Extension",
+    "Enabled": true
   },
   "152107": {
     "OriginalText": "エクステンド★8",
-    "Text": "",
-    "Enabled": false
+    "Text": "★8 Extension",
+    "Enabled": true
   },
   "152108": {
     "OriginalText": "エクステンド★9",
-    "Text": "",
-    "Enabled": false
+    "Text": "★9 Extension",
+    "Enabled": true
   },
   "152109": {
     "OriginalText": "エクステンド★10",
-    "Text": "",
-    "Enabled": false
+    "Text": "★10 Extension",
+    "Enabled": true
   },
   "152110": {
     "OriginalText": "エクステンド★11",
-    "Text": "",
-    "Enabled": false
+    "Text": "★11 Extension",
+    "Enabled": true
   },
   "152111": {
     "OriginalText": "エクステンド★12",
-    "Text": "",
-    "Enabled": false
+    "Text": "★12 Extension",
+    "Enabled": true
   },
   "152112": {
     "OriginalText": "エクステンド★13",
-    "Text": "",
-    "Enabled": false
+    "Text": "★13 Extension",
+    "Enabled": true
   },
   "152113": {
     "OriginalText": "エクステンド★14",
-    "Text": "",
-    "Enabled": false
+    "Text": "★14 Extension",
+    "Enabled": true
   },
   "152114": {
     "OriginalText": "エクステンド★15",
-    "Text": "",
-    "Enabled": false
+    "Text": "★15 Extension",
+    "Enabled": true
   },
   "152115": {
     "OriginalText": "エクステンド★EX",
-    "Text": "",
-    "Enabled": false
+    "Text": "★EX Extension",
+    "Enabled": true
   }
 }
