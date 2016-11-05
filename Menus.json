@@ -4081,12 +4081,12 @@
   },
   "25206": {
     "OriginalText": "アタッチパーツを持っていません。",
-    "Text": "Does not have any\nattached parts.",
+    "Text": " does not have any\nattached parts.",
     "Enabled": true
   },
   "25207": {
     "OriginalText": "コアを持っていません。",
-    "Text": "Does not have a core.",
+    "Text": " does not have a core.",
     "Enabled": true
   },
   "25208": {
