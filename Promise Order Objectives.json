@@ -31,33 +31,33 @@
   },
   "300006": {
     "OriginalText": "【透き通る講化木】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Clear Wooden Idol]",
+    "Enabled": true
   },
   "300007": {
     "OriginalText": "【トネルバンクゥの石片】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Toner Bank Stones]",
+    "Enabled": true
   },
   "300008": {
     "OriginalText": "【コパイエーデンの煽皮】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Kopa Yeden Hide]",
+    "Enabled": true
   },
   "300009": {
     "OriginalText": "【鈍く光るコランダム珪】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Dull Silica Corundum]",
+    "Enabled": true
   },
   "300010": {
     "OriginalText": "【バリドランナの大光玉】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Baridran'na Large Light Ball]",
+    "Enabled": true
   },
   "300011": {
     "OriginalText": "【アルキュオネの硬肩部伝甲】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Alcyone Shoulder Armor]",
+    "Enabled": true
   },
   "300012": {
     "OriginalText": "常に【ロッド系】を伝備して\n【アルキュオネ撃破任務】の\n【アルキュオネ】にとどめをさす",
@@ -76,8 +76,8 @@
   },
   "300015": {
     "OriginalText": "【テッラマンデルの鱗片】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Terra Mandel Scale]",
+    "Enabled": true
   },
   "300016": {
     "OriginalText": "【難：鉱脈発見任務】の\n【スーパーハード】似上をクリアする",
@@ -91,8 +91,8 @@
   },
   "300018": {
     "OriginalText": "【ベリサイト】を集める\n【ミメット鉱】を集める\n【赤いベリサイト】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Verisite]\nCollect [Mimete Ore]\nCollect [Red Verisite]",
+    "Enabled": true
   },
   "300019": {
     "OriginalText": "【超：逆襲の原生種】の\n【エクストラハード】似上を\n【Ｓランク】でクリアする",
@@ -181,8 +181,8 @@
   },
   "300036": {
     "OriginalText": "【マガヴルムの銃身】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Magavulum Barrel]",
+    "Enabled": true
   },
   "300037": {
     "OriginalText": "【ベガルフの超苔尾】を集める\n【フォンベガルフの超角】を集める",
