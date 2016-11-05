@@ -1496,23 +1496,23 @@
   },
   "21205": {
     "OriginalText": "を受託します。\nよろしいですか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "\nAre you sure you want\nto accept this order?",
+    "Enabled": true
   },
   "21206": {
     "OriginalText": "を破棄します。\nよろしいですか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "\nAre you sure you want\nto cancel this order?",
+    "Enabled": true
   },
   "21207": {
     "OriginalText": "を報告します。\nよろしいですか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "\nAre you sure you want\nto report this order?",
+    "Enabled": true
   },
   "21208": {
     "OriginalText": "別のプロミスオーダーを受けています。",
-    "Text": "",
-    "Enabled": false
+    "Text": "You already have a different Promise Order.",
+    "Enabled": true
   },
   "21209": {
     "OriginalText": "プロミスオーダーの目標を達成した！",
