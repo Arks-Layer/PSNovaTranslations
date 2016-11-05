@@ -6,272 +6,272 @@
   },
   "820001": {
     "OriginalText": "打撃力が２５上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts S-ATK by 25",
+    "Enabled": true
   },
   "820002": {
     "OriginalText": "打撃力が５０上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts S-ATK by 50",
+    "Enabled": true
   },
   "820003": {
     "OriginalText": "打撃力が１００上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts S-ATK by 100",
+    "Enabled": true
   },
   "820004": {
     "OriginalText": "打撃力が１５０上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts S-ATK by 150",
+    "Enabled": true
   },
   "820005": {
     "OriginalText": "打撃力が３００上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts S-ATK by 300",
+    "Enabled": true
   },
   "820006": {
     "OriginalText": "射撃力が２５上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts R-ATK by 25",
+    "Enabled": true
   },
   "820007": {
     "OriginalText": "射撃力が５０上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts R-ATK by 50",
+    "Enabled": true
   },
   "820008": {
     "OriginalText": "射撃力が１００上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts R-ATK by 100",
+    "Enabled": true
   },
   "820009": {
     "OriginalText": "射撃力が１５０上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts R-ATK by 150",
+    "Enabled": true
   },
   "820010": {
     "OriginalText": "射撃力が３００上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts R-ATK by 300",
+    "Enabled": true
   },
   "820011": {
     "OriginalText": "法撃力が２５上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts T-ATK by 25",
+    "Enabled": true
   },
   "820012": {
     "OriginalText": "法撃力が５０上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts T-ATK by 50",
+    "Enabled": true
   },
   "820013": {
     "OriginalText": "法撃力が１００上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts T-ATK by 100",
+    "Enabled": true
   },
   "820014": {
     "OriginalText": "法撃力が１５０上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts T-ATK by 150",
+    "Enabled": true
   },
   "820015": {
     "OriginalText": "法撃力が３００上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts T-ATK by 300",
+    "Enabled": true
   },
   "820016": {
     "OriginalText": "ＨＰの上限値が１００上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts base HP by 100",
+    "Enabled": true
   },
   "820017": {
     "OriginalText": "ＨＰの上限値が２００上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts base HP by 200",
+    "Enabled": true
   },
   "820018": {
     "OriginalText": "ＨＰの上限値が３００上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts base HP by 300",
+    "Enabled": true
   },
   "820019": {
     "OriginalText": "ＨＰの上限値が４００上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts base HP by 400",
+    "Enabled": true
   },
   "820020": {
     "OriginalText": "ＨＰの上限値が５００上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts base HP by 500",
+    "Enabled": true
   },
   "820021": {
     "OriginalText": "ＧＰの上限値が３上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts base GP by 3",
+    "Enabled": true
   },
   "820022": {
     "OriginalText": "ＧＰの上限値が６上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts base GP by 6",
+    "Enabled": true
   },
   "820023": {
     "OriginalText": "ＧＰの上限値が１０上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts base GP by 10",
+    "Enabled": true
   },
   "820024": {
     "OriginalText": "ＧＰの上限値が１５上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts base GP by 15",
+    "Enabled": true
   },
   "820025": {
     "OriginalText": "ＧＰの上限値が３０上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts base GP by 30",
+    "Enabled": true
   },
   "820026": {
     "OriginalText": "技量が１０上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts DEX by 10",
+    "Enabled": true
   },
   "820027": {
     "OriginalText": "技量が２０上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts DEX by 20",
+    "Enabled": true
   },
   "820028": {
     "OriginalText": "技量が３０上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts DEX by 30",
+    "Enabled": true
   },
   "820029": {
     "OriginalText": "技量が４０上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts DEX by 40",
+    "Enabled": true
   },
   "820030": {
     "OriginalText": "技量が８０上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts DEX by 80",
+    "Enabled": true
   },
   "820031": {
     "OriginalText": "削除",
-    "Text": "",
+    "Text": "Delete",
     "Enabled": false
   },
   "820032": {
     "OriginalText": "削除",
-    "Text": "",
+    "Text": "Delete",
     "Enabled": false
   },
   "820033": {
     "OriginalText": "削除",
-    "Text": "",
+    "Text": "Delete",
     "Enabled": false
   },
   "820034": {
     "OriginalText": "打撃力、射撃力、法撃力、\n打撃防御力、射撃防御力、法撃防御力が\n１０上昇し、技量が５上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts all Attack and Defense\nstats by 10 and DEX by 5",
+    "Enabled": true
   },
   "820035": {
     "OriginalText": "打撃力、射撃力、法撃力、\n打撃防御力、射撃防御力、法撃防御力が\n２５上昇し、技量が１０上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts all Attack and Defense\nstats by 25 and DEX by 10",
+    "Enabled": true
   },
   "820036": {
     "OriginalText": "打撃力、射撃力、法撃力、\n打撃防御力、射撃防御力、法撃防御力が\n３５上昇し、技量が１５上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts all Attack and Defense\nstats by 35 and DEX by 15",
+    "Enabled": true
   },
   "820037": {
     "OriginalText": "打撃力、射撃力、法撃力、\n打撃防御力、射撃防御力、法撃防御力が\n５０上昇し、技量が２０上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts all Attack and Defense\nstats by 50 and DEX by 20",
+    "Enabled": true
   },
   "820038": {
     "OriginalText": "打撃力、射撃力、法撃力、\n打撃防御力、射撃防御力、法撃防御力が\n１００上昇し、技量が３０上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts all Attack and Defense\nstats by 100 and DEX by 30",
+    "Enabled": true
   },
   "820039": {
     "OriginalText": "打撃防御力が２５上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts S-DEF by 25",
+    "Enabled": true
   },
   "820040": {
     "OriginalText": "打撃防御力が５０上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts S-DEF by 50",
+    "Enabled": true
   },
   "820041": {
     "OriginalText": "打撃防御力が１００上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts S-DEF by 100",
+    "Enabled": true
   },
   "820042": {
     "OriginalText": "打撃防御力が１５０上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts S-DEF by 150",
+    "Enabled": true
   },
   "820043": {
     "OriginalText": "打撃防御力が３００上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts S-DEF by 300",
+    "Enabled": true
   },
   "820044": {
     "OriginalText": "射撃防御力が２５上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts R-DEF by 25",
+    "Enabled": true
   },
   "820045": {
     "OriginalText": "射撃防御力が５０上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts R-DEF by 50",
+    "Enabled": true
   },
   "820046": {
     "OriginalText": "射撃防御力が１００上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts R-DEF by 100",
+    "Enabled": true
   },
   "820047": {
     "OriginalText": "射撃防御力が１５０上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts R-DEF by 150",
+    "Enabled": true
   },
   "820048": {
     "OriginalText": "射撃防御力が３００上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts R-DEF by 300",
+    "Enabled": true
   },
   "820049": {
     "OriginalText": "法撃防御力が２５上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts T-DEF by 25",
+    "Enabled": true
   },
   "820050": {
     "OriginalText": "法撃防御力が５０上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts T-DEF by 50",
+    "Enabled": true
   },
   "820051": {
     "OriginalText": "法撃防御力が１００上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts T-DEF by 100",
+    "Enabled": true
   },
   "820052": {
     "OriginalText": "法撃防御力が１５０上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts T-DEF by 150",
+    "Enabled": true
   },
   "820053": {
     "OriginalText": "法撃防御力が３００上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts T-DEF by 300",
+    "Enabled": true
   },
   "820054": {
     "OriginalText": "打撃によるダメージを３％軽滅する。",
-    "Text": "",
+    "Text": "Boosts ",
     "Enabled": false
   },
   "820055": {
@@ -346,423 +346,423 @@
   },
   "820069": {
     "OriginalText": "炎属性の攻撃力が１０上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts Fire elemental attack by 10.",
+    "Enabled": true
   },
   "820070": {
     "OriginalText": "炎属性の攻撃力が２０上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts Fire elemental attack by 20.",
+    "Enabled": true
   },
   "820071": {
     "OriginalText": "炎属性の攻撃力が３０上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts Fire elemental attack by 30.",
+    "Enabled": true
   },
   "820072": {
     "OriginalText": "炎属性の攻撃力が４０上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts Fire elemental attack by 40.",
+    "Enabled": true
   },
   "820073": {
     "OriginalText": "炎属性の攻撃力が５０上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts Fire elemental attack by 50.",
+    "Enabled": true
   },
   "820074": {
     "OriginalText": "劇属性の攻撃力が１０上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts Ice elemental attack by 10.",
+    "Enabled": true
   },
   "820075": {
     "OriginalText": "劇属性の攻撃力が２０上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts Ice elemental attack by 20.",
+    "Enabled": true
   },
   "820076": {
     "OriginalText": "劇属性の攻撃力が３０上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts Ice elemental attack by 30.",
+    "Enabled": true
   },
   "820077": {
     "OriginalText": "劇属性の攻撃力が４０上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts Ice elemental attack by 40.",
+    "Enabled": true
   },
   "820078": {
     "OriginalText": "劇属性の攻撃力が５０上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts Ice elemental attack by 50.",
+    "Enabled": true
   },
   "820079": {
     "OriginalText": "雷属性の攻撃力が１０上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts Lightning elemental attack by 10.",
+    "Enabled": true
   },
   "820080": {
     "OriginalText": "雷属性の攻撃力が２０上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts Lightning elemental attack by 20.",
+    "Enabled": true
   },
   "820081": {
     "OriginalText": "雷属性の攻撃力が３０上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts Lightning elemental attack by 30.",
+    "Enabled": true
   },
   "820082": {
     "OriginalText": "雷属性の攻撃力が４０上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts Lightning elemental attack by 40.",
+    "Enabled": true
   },
   "820083": {
     "OriginalText": "雷属性の攻撃力が５０上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts Lightning elemental attack by 50.",
+    "Enabled": true
   },
   "820084": {
     "OriginalText": "風属性の攻撃力が１０上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts Wind elemental attack by 10.",
+    "Enabled": true
   },
   "820085": {
     "OriginalText": "風属性の攻撃力が２０上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts Wind elemental attack by 20.",
+    "Enabled": true
   },
   "820086": {
     "OriginalText": "風属性の攻撃力が３０上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts Wind elemental attack by 30.",
+    "Enabled": true
   },
   "820087": {
     "OriginalText": "風属性の攻撃力が４０上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts Wind elemental attack by 40.",
+    "Enabled": true
   },
   "820088": {
     "OriginalText": "風属性の攻撃力が５０上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts Wind elemental attack by 50.",
+    "Enabled": true
   },
   "820089": {
     "OriginalText": "光属性の攻撃力が１０上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts Light elemental attack by 10.",
+    "Enabled": true
   },
   "820090": {
     "OriginalText": "光属性の攻撃力が２０上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts Light elemental attack by 20.",
+    "Enabled": true
   },
   "820091": {
     "OriginalText": "光属性の攻撃力が３０上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts Light elemental attack by 30.",
+    "Enabled": true
   },
   "820092": {
     "OriginalText": "光属性の攻撃力が４０上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts Light elemental attack by 40.",
+    "Enabled": true
   },
   "820093": {
     "OriginalText": "光属性の攻撃力が５０上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts Light elemental attack by 50.",
+    "Enabled": true
   },
   "820094": {
     "OriginalText": "闇属性の攻撃力が１０上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts Dark elemental attack by 10.",
+    "Enabled": true
   },
   "820095": {
     "OriginalText": "闇属性の攻撃力が２０上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts Dark elemental attack by 20.",
+    "Enabled": true
   },
   "820096": {
     "OriginalText": "闇属性の攻撃力が３０上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts Dark elemental attack by 30.",
+    "Enabled": true
   },
   "820097": {
     "OriginalText": "闇属性の攻撃力が４０上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts Dark elemental attack by 40.",
+    "Enabled": true
   },
   "820098": {
     "OriginalText": "闇属性の攻撃力が５０上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts Dark elemental attack by 50.",
+    "Enabled": true
   },
   "820099": {
     "OriginalText": "炎属性の攻撃によるダメージが\n２０％軽滅される。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts Fire elemental damage by 20%.",
+    "Enabled": true
   },
   "820100": {
     "OriginalText": "炎属性の攻撃によるダメージが\n３０％軽滅される。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts Fire elemental damage by 30%.",
+    "Enabled": true
   },
   "820101": {
     "OriginalText": "炎属性の攻撃によるダメージが\n４０％軽滅される。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts Fire elemental damage by 40%.",
+    "Enabled": true
   },
   "820102": {
     "OriginalText": "炎属性の攻撃によるダメージが\n５０％軽滅される。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts Fire elemental damage by 50%.",
+    "Enabled": true
   },
   "820103": {
     "OriginalText": "炎属性の攻撃によるダメージが\n６０％軽滅される。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts Fire elemental damage by 60%.",
+    "Enabled": true
   },
   "820104": {
     "OriginalText": "劇属性の攻撃によるダメージが\n２０％軽滅される。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts Ice elemental damage by 20%.",
+    "Enabled": true
   },
   "820105": {
     "OriginalText": "劇属性の攻撃によるダメージが\n３０％軽滅される。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts Ice elemental damage by 30%.",
+    "Enabled": true
   },
   "820106": {
     "OriginalText": "劇属性の攻撃によるダメージが\n４０％軽滅される。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts Ice elemental damage by 40%.",
+    "Enabled": true
   },
   "820107": {
     "OriginalText": "劇属性の攻撃によるダメージが\n５０％軽滅される。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts Ice elemental damage by 50%.",
+    "Enabled": true
   },
   "820108": {
     "OriginalText": "劇属性の攻撃によるダメージが\n６０％軽滅される。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts Ice elemental damage by 60%.",
+    "Enabled": true
   },
   "820109": {
     "OriginalText": "雷属性の攻撃によるダメージが\n２０％軽滅される。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts Lightning elemental damage by 20%.",
+    "Enabled": true
   },
   "820110": {
     "OriginalText": "雷属性の攻撃によるダメージが\n３０％軽滅される。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts Lightning elemental damage by 30%.",
+    "Enabled": true
   },
   "820111": {
     "OriginalText": "雷属性の攻撃によるダメージが\n４０％軽滅される。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts Lightning elemental damage by 40%.",
+    "Enabled": true
   },
   "820112": {
     "OriginalText": "雷属性の攻撃によるダメージが\n５０％軽滅される。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts Lightning elemental damage by 50%.",
+    "Enabled": true
   },
   "820113": {
     "OriginalText": "雷属性の攻撃によるダメージが\n６０％軽滅される。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts Lightning elemental damage by 60%.",
+    "Enabled": true
   },
   "820114": {
     "OriginalText": "風属性の攻撃によるダメージが\n２０％軽滅される。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts Wind elemental damage by 20%.",
+    "Enabled": true
   },
   "820115": {
     "OriginalText": "風属性の攻撃によるダメージが\n３０％軽滅される。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts Wind elemental damage by 30%.",
+    "Enabled": true
   },
   "820116": {
     "OriginalText": "風属性の攻撃によるダメージが\n４０％軽滅される。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts Wind elemental damage by 40%.",
+    "Enabled": true
   },
   "820117": {
     "OriginalText": "風属性の攻撃によるダメージが\n５０％軽滅される。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts Wind elemental damage by 50%.",
+    "Enabled": true
   },
   "820118": {
     "OriginalText": "風属性の攻撃によるダメージが\n６０％軽滅される。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts Wind elemental damage by 60%.",
+    "Enabled": true
   },
   "820119": {
     "OriginalText": "光属性の攻撃によるダメージが\n２０％軽滅される。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts Light elemental damage by 20%.",
+    "Enabled": true
   },
   "820120": {
     "OriginalText": "光属性の攻撃によるダメージが\n３０％軽滅される。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts Light elemental damage by 30%.",
+    "Enabled": true
   },
   "820121": {
     "OriginalText": "光属性の攻撃によるダメージが\n４０％軽滅される。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts Light elemental damage by 40%.",
+    "Enabled": true
   },
   "820122": {
     "OriginalText": "光属性の攻撃によるダメージが\n５０％軽滅される。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts Light elemental damage by 50%.",
+    "Enabled": true
   },
   "820123": {
     "OriginalText": "光属性の攻撃によるダメージが\n６０％軽滅される。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts Light elemental damage by 60%.",
+    "Enabled": true
   },
   "820124": {
     "OriginalText": "闇属性の攻撃によるダメージが\n２０％軽滅される。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts Dark elemental damage by 20%.",
+    "Enabled": true
   },
   "820125": {
     "OriginalText": "闇属性の攻撃によるダメージが\n３０％軽滅される。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts Dark elemental damage by 30%.",
+    "Enabled": true
   },
   "820126": {
     "OriginalText": "闇属性の攻撃によるダメージが\n４０％軽滅される。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts Dark elemental damage by 40%.",
+    "Enabled": true
   },
   "820127": {
     "OriginalText": "闇属性の攻撃によるダメージが\n５０％軽滅される。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts Dark elemental damage by 50%.",
+    "Enabled": true
   },
   "820128": {
     "OriginalText": "闇属性の攻撃によるダメージが\n６０％軽滅される。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts Dark elemental damage by 60%.",
+    "Enabled": true
   },
   "820129": {
     "OriginalText": "全属性の攻撃によるダメージが\n３％軽滅される。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts All elemental damage by 3%.",
+    "Enabled": true
   },
   "820130": {
     "OriginalText": "全属性の攻撃によるダメージが\n５％軽滅される。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts All elemental damage by 5%.",
+    "Enabled": true
   },
   "820131": {
     "OriginalText": "全属性の攻撃によるダメージが\n６％軽滅される。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts All elemental damage by 6%.",
+    "Enabled": true
   },
   "820132": {
     "OriginalText": "全属性の攻撃によるダメージが\n７％軽滅される。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts All elemental damage by 7%.",
+    "Enabled": true
   },
   "820133": {
     "OriginalText": "全属性の攻撃によるダメージが\n８％軽滅される。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts All elemental damage by 8%.",
+    "Enabled": true
   },
   "820134": {
     "OriginalText": "アイテムドロップ率が５％上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts Item Drop Rate by 5%.",
+    "Enabled": true
   },
   "820135": {
     "OriginalText": "アイテムドロップ率が１０％上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts Item Drop Rate by 10%.",
+    "Enabled": true
   },
   "820136": {
     "OriginalText": "取得する経験値が５％上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts gained EXP by 5%.",
+    "Enabled": true
   },
   "820137": {
     "OriginalText": "取得する経験値が１０％上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts gained EXP by 10%.",
+    "Enabled": true
   },
   "820138": {
     "OriginalText": "敵をバインド状態にする確率が\n３％上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Increases chance of Bind infliction\non enemies by 3%.",
+    "Enabled": true
   },
   "820139": {
     "OriginalText": "敵をバインド状態にする確率が\n４％上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Increases chance of Bind infliction\non enemies by 4%.",
+    "Enabled": true
   },
   "820140": {
     "OriginalText": "敵をバインド状態にする確率が\n５％上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Increases chance of Bind infliction\non enemies by 5%.",
+    "Enabled": true
   },
   "820141": {
     "OriginalText": "敵をバインド状態にする確率が\n６％上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Increases chance of Bind infliction\non enemies by 6%.",
+    "Enabled": true
   },
   "820142": {
     "OriginalText": "敵をバインド状態にする確率が\n７％上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Increases chance of Bind infliction\non enemies by 7%.",
+    "Enabled": true
   },
   "820143": {
     "OriginalText": "敵をインフェクション状態にする確率が\n３％上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Increases chance of Inceftion\ninfliction on enemies by 3%.",
+    "Enabled": true
   },
   "820144": {
     "OriginalText": "敵をインフェクション状態にする確率が\n４％上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Increases chance of Inceftion\ninfliction on enemies by 4%.",
+    "Enabled": true
   },
   "820145": {
     "OriginalText": "敵をインフェクション状態にする確率が\n５％上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Increases chance of Inceftion\ninfliction on enemies by 5%.",
+    "Enabled": true
   },
   "820146": {
     "OriginalText": "敵をインフェクション状態にする確率が\n６％上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Increases chance of Inceftion\ninfliction on enemies by 6%.",
+    "Enabled": true
   },
   "820147": {
     "OriginalText": "敵をインフェクション状態にする確率が\n７％上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Increases chance of Inceftion\ninfliction on enemies by 7%.",
+    "Enabled": true
   },
   "820148": {
     "OriginalText": "敵をブラインド状態にする確率が\n１％上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Increases chance of Blind infliction\non enemies by 1%.",
+    "Enabled": true
   },
   "820149": {
     "OriginalText": "敵をブラインド状態にする確率が\n２％上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Increases chance of Blind infliction\non enemies by 2%.",
+    "Enabled": true
   },
   "820150": {
     "OriginalText": "敵をブラインド状態にする確率が\n３％上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Increases chance of Blind infliction\non enemies by 3%.",
+    "Enabled": true
   },
   "820151": {
     "OriginalText": "敵をブラインド状態にする確率が\n４％上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Increases chance of Blind infliction\non enemies by 4%.",
+    "Enabled": true
   },
   "820152": {
     "OriginalText": "敵をブラインド状態にする確率が\n５％上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Increases chance of Blind infliction\non enemies by 5%.",
+    "Enabled": true
   },
   "820153": {
     "OriginalText": "敵をグラン中毒状態にする確率が\n１％上昇する。",
@@ -966,13 +966,13 @@
   },
   "820193": {
     "OriginalText": "ジャストアタックしたときの\nダメージが４％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "Increases Just Attcks damage by 4%.\n[a 03]*Abilities of the same name cannot be stacked.[b]",
+    "Enabled": true
   },
   "820194": {
     "OriginalText": "ジャストアタックしたときの\nダメージが２０％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "Increases Just Attcks damage by 20%.\n[a 03]*Abilities of the same name cannot be stacked.[b]",
+    "Enabled": true
   },
   "820195": {
     "OriginalText": "削除",
