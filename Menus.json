@@ -2116,7 +2116,7 @@
   },
   "21727": {
     "OriginalText": "失敗条件",
-    "Text": "Failure",
+    "Text": " Failure",
     "Enabled": true
   },
   "21728": {
@@ -3176,12 +3176,12 @@
   },
   "22701": {
     "OriginalText": "成功",
-    "Text": "Success",
+    "Text": " Success",
     "Enabled": true
   },
   "22702": {
     "OriginalText": "失敗",
-    "Text": "Failure",
+    "Text": " Failed",
     "Enabled": true
   },
   "22703": {
@@ -3191,7 +3191,7 @@
   },
   "22704": {
     "OriginalText": "達成",
-    "Text": "Achievment",
+    "Text": " Achieved",
     "Enabled": true
   },
   "22705": {
