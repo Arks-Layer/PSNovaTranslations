@@ -3856,8 +3856,8 @@
   },
   "350771": {
     "OriginalText": "ベガルフの超苔尾",
-    "Text": "",
-    "Enabled": false
+    "Text": "Super Mossed Begulf Tail",
+    "Enabled": true
   },
   "350772": {
     "OriginalText": "フロベガルフの超苔尾",

@@ -186,8 +186,8 @@
   },
   "300037": {
     "OriginalText": "【ベガルフの超苔尾】を集める\n【フォンベガルフの超角】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Super Mossed Begulf Tail]\nCollect [Fonbegulf Super Antler]",
+    "Enabled": true
   },
   "300038": {
     "OriginalText": "【超：劇珪のギガティオン】をクリアする",
