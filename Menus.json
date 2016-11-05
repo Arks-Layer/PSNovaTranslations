@@ -521,12 +521,12 @@
   },
   "20114": {
     "OriginalText": "習得しました。",
-    "Text": " learned!",
+    "Text": "Learned!",
     "Enabled": true
   },
   "20115": {
     "OriginalText": "レベルアップしました。",
-    "Text": " leveled up!",
+    "Text": "Leveled Up!",
     "Enabled": true
   },
   "20116": {
@@ -1001,7 +1001,7 @@
   },
   "20605": {
     "OriginalText": "アイテムが完成しました。",
-    "Text": "The selected item was created.",
+    "Text": "Created The Selected Item.",
     "Enabled": true
   },
   "20606": {
@@ -1481,8 +1481,8 @@
   },
   "21202": {
     "OriginalText": "頼みごとをしたい",
-    "Text": "",
-    "Enabled": false
+    "Text": "I Need To Ask A Favor",
+    "Enabled": true
   },
   "21203": {
     "OriginalText": "話をする",
@@ -1496,17 +1496,17 @@
   },
   "21205": {
     "OriginalText": "を受託します。\nよろしいですか？",
-    "Text": "\nAre you sure you want\nto accept this order?",
+    "Text": " was accepted.\nIs that OK?",
     "Enabled": true
   },
   "21206": {
     "OriginalText": "を破棄します。\nよろしいですか？",
-    "Text": "\nAre you sure you want\nto cancel this order?",
+    "Text": " will be cancelled.\nIs that OK?",
     "Enabled": true
   },
   "21207": {
     "OriginalText": "を報告します。\nよろしいですか？",
-    "Text": "\nAre you sure you want\nto report this order?",
+    "Text": " will be turned in.\nIs that OK?",
     "Enabled": true
   },
   "21208": {
@@ -1536,7 +1536,7 @@
   },
   "21213": {
     "OriginalText": "依頼者より",
-    "Text": "Requester",
+    "Text": "Order Description",
     "Enabled": true
   },
   "21214": {
@@ -3081,8 +3081,8 @@
   },
   "22403": {
     "OriginalText": "このコスチュームを作成します。\nよろしいですか？\n",
-    "Text": "",
-    "Enabled": false
+    "Text": "This will create a costume.\nIs that OK?\n",
+    "Enabled": true
   },
   "22404": {
     "OriginalText": "コスチュームが完成しました。",
@@ -3151,8 +3151,8 @@
   },
   "22417": {
     "OriginalText": "倉庫にコスチュームを作る",
-    "Text": "",
-    "Enabled": false
+    "Text": "Create a Costume From Storage",
+    "Enabled": true
   },
   "22501": {
     "OriginalText": "一時倉庫にアイテムが入っているため\nアクセスできません。\n一時倉庫を空にする必要があります。",
@@ -3346,7 +3346,7 @@
   },
   "22735": {
     "OriginalText": "戦闘不能回数",
-    "Text": "Knocked Out Number of Times",
+    "Text": "Incapacitation Score",
     "Enabled": true
   },
   "22736": {
@@ -3366,12 +3366,12 @@
   },
   "22739": {
     "OriginalText": "がレベルアップ！",
-    "Text": " Leveled Up!",
+    "Text": " gained a level!",
     "Enabled": true
   },
   "22740": {
     "OriginalText": "スキル入手：",
-    "Text": "Skills Available: ",
+    "Text": "Skill(s) Available:",
     "Enabled": true
   },
   "22741": {
