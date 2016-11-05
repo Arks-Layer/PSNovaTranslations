@@ -766,28 +766,28 @@
   },
   "820153": {
     "OriginalText": "敵をグラン中毒状態にする確率が\n１％上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Increases chance of Gran Poisoning\ninfliction on enemies by 1%.",
+    "Enabled": true
   },
   "820154": {
     "OriginalText": "敵をグラン中毒状態にする確率が\n２％上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Increases chance of Gran Poisoning\ninfliction on enemies by 2%.",
+    "Enabled": true
   },
   "820155": {
     "OriginalText": "敵をグラン中毒状態にする確率が\n３％上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Increases chance of Gran Poisoning\ninfliction on enemies by 3%.",
+    "Enabled": true
   },
   "820156": {
     "OriginalText": "敵をグラン中毒状態にする確率が\n４％上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Increases chance of Gran Poisoning\ninfliction on enemies by 4%.",
+    "Enabled": true
   },
   "820157": {
     "OriginalText": "敵をグラン中毒状態にする確率が\n５％上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Increases chance of Gran Poisoning\ninfliction on enemies by 5%.",
+    "Enabled": true
   },
   "820158": {
     "OriginalText": "敵の炎耐性を下げる確率が\n１０％上昇する。",
@@ -1191,18 +1191,18 @@
   },
   "820238": {
     "OriginalText": "ＧＰ自動回復速度が８％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "GP Auto-recovery rate increases by 8.%\n[a 03]※Abilities of the same name cannot be stacked.[b]",
+    "Enabled": true
   },
   "820239": {
     "OriginalText": "ＧＰ自動回復速度が１２％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "GP Auto-recovery rate increases by 12%.\n[a 03]※Abilities of the same name cannot be stacked.[b]",
+    "Enabled": true
   },
   "820240": {
     "OriginalText": "ＧＰ自動回復速度が１６％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "GP Auto-recovery rate increases by 16%.\n[a 03]※Abilities of the same name cannot be stacked.[b]",
+    "Enabled": true
   },
   "820241": {
     "OriginalText": "弱点属性で攻撃したとき\nダメージが６％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
@@ -1251,18 +1251,18 @@
   },
   "820250": {
     "OriginalText": "ＧＰの消費量が６％滅少する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "GP consumption reduced by 6%.\n[a 03]※Abilities of the same name cannot be stacked.[b]",
+    "Enabled": true
   },
   "820251": {
     "OriginalText": "ＧＰの消費量が１０％滅少する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "GP consumption reduced by 10%.\n[a 03]※Abilities of the same name cannot be stacked.[b]",
+    "Enabled": true
   },
   "820252": {
     "OriginalText": "ＧＰの消費量が１５％滅少する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "GP consumption reduced by 15%.\n[a 03]※Abilities of the same name cannot be stacked.[b]",
+    "Enabled": true
   },
   "820253": {
     "OriginalText": "８％の確率でダメージを無効化する。\n[a 03]※同名の特殊能力は重復しない[b]",
@@ -1296,8 +1296,8 @@
   },
   "820259": {
     "OriginalText": "回復アイテムの効果が３０％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "Healing item's effects are boosted by 30%.\n[a 03]※Abilities of the same name cannot be stacked.[b]",
+    "Enabled": true
   },
   "820260": {
     "OriginalText": "削除",
@@ -1446,13 +1446,13 @@
   },
   "820289": {
     "OriginalText": "原生種に与えるダメージが\n７％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "Damage against Natives increased by 7%.\n[a 03]※Abilities of the same name cannot be stacked.[b]",
+    "Enabled": true
   },
   "820290": {
     "OriginalText": "原生種に与えるダメージが\n１３％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "Damage against Natives increased by 13%.\n[a 03]※Abilities of the same name cannot be stacked.[b]",
+    "Enabled": true
   },
   "820291": {
     "OriginalText": "削除",
@@ -1506,13 +1506,13 @@
   },
   "820301": {
     "OriginalText": "ダーカーに与えるダメージが\n７％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "Damage against Darkers increased by 7%.\n[a 03]※Abilities of the same name cannot be stacked.[b]",
+    "Enabled": true
   },
   "820302": {
     "OriginalText": "ダーカーに与えるダメージが\n１３％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "Damage against Darkers increased by 7%.\n[a 03]※Abilities of the same name cannot be stacked.[b]",
+    "Enabled": true
   },
   "820303": {
     "OriginalText": "削除",
@@ -1621,13 +1621,13 @@
   },
   "820326": {
     "OriginalText": "ＧＰが５０％似下の時\n打撃力と射撃力が３００上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "When GP is 50% or lower, S-ATK and R-ATK\nincrease by 300.\n[a 03]※Abilities of the same name cannot be stacked.",
+    "Enabled": true
   },
   "820327": {
     "OriginalText": "ＧＰが５０％似下の時\n打撃力と射撃力が５００上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "When GP is 50% or lower, S-ATK and R-ATK\nincrease by 500.\n[a 03]※Abilities of the same name cannot be stacked.",
+    "Enabled": true
   },
   "820328": {
     "OriginalText": "-",
@@ -1696,13 +1696,13 @@
   },
   "820341": {
     "OriginalText": "ＨＰが２５％似下のとき、\n打撃力・射撃力・法撃力が３０００上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "When HP is 25% or lower, all ATK stats are\nboosted by 3000.\n[a 03]※Abilities of the same name cannot be stacked.[b]",
+    "Enabled": true
   },
   "820342": {
     "OriginalText": "ＧＰが２５％似下のとき、\n打撃力・射撃力・法撃力が２０００上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "When GP is 25% or lower, all ATK stats are\nboosted by 2000.\n[a 03]※Abilities of the same name cannot be stacked.",
+    "Enabled": true
   },
   "820343": {
     "OriginalText": "テクニックのダメージ量が２０％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
@@ -1711,53 +1711,53 @@
   },
   "820351": {
     "OriginalText": "打撃力が６００上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts S-ATK by 600.",
+    "Enabled": true
   },
   "820361": {
     "OriginalText": "射撃力が６００上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts R-ATK by 600.",
+    "Enabled": true
   },
   "820371": {
     "OriginalText": "法撃力が６００上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts T-ATK by 600.",
+    "Enabled": true
   },
   "820381": {
     "OriginalText": "ＨＰの上限値が６００上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts base HP by 600.",
+    "Enabled": true
   },
   "820391": {
     "OriginalText": "ＧＰの上限値が５０上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts base GP by 50.",
+    "Enabled": true
   },
   "820401": {
     "OriginalText": "技量が１６０上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts DEX by 60.",
+    "Enabled": true
   },
   "820411": {
     "OriginalText": "打撃力、射撃力、法撃力、\n打撃防御力、射撃防御力、法撃防御力が\n２００上昇し、技量が６０上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts all Attack and Defense\nstats by 200 and DEX by 60.",
+    "Enabled": true
   },
   "820421": {
     "OriginalText": "打撃防御力が６００上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts S-DEF by 600.",
+    "Enabled": true
   },
   "820431": {
     "OriginalText": "射撃防御力が６００上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts R-DEF by 600.",
+    "Enabled": true
   },
   "820441": {
     "OriginalText": "法撃防御力が６００上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts T-DEF by 600.",
+    "Enabled": true
   },
   "820501": {
     "OriginalText": "打撃によるダメージを８％軽滅する。",
@@ -1871,8 +1871,8 @@
   },
   "820761": {
     "OriginalText": "入手グラン量が１００％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "Received Gran increases by 100%.\n[a 03]※Abilities of the same name cannot be stacked.",
+    "Enabled": true
   },
   "820771": {
     "OriginalText": "別のＧＡやテクニックをジャストアタックすると\nダメージが５０％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
