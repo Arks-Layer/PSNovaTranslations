@@ -1591,7 +1591,7 @@
   },
   "21224": {
     "OriginalText": "依頼人：",
-    "Text": "Client:",
+    "Text": "Client: ",
     "Enabled": true
   },
   "21225": {
@@ -3286,12 +3286,12 @@
   },
   "22723": {
     "OriginalText": "」を達成した。",
-    "Text": "was completed.",
+    "Text": " was completed.",
     "Enabled": true
   },
   "22724": {
     "OriginalText": "を入手した。",
-    "Text": "was obtained.",
+    "Text": " was obtained.",
     "Enabled": true
   },
   "22725": {
