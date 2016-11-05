@@ -3691,12 +3691,12 @@
   },
   "23707": {
     "OriginalText": "全員が拠点に戻るまでアクセスできません。",
-    "Text": "cannot be accessed until you\nreturn to base.",
+    "Text": " cannot be accessed until you\nreturn to base.",
     "Enabled": false
   },
   "23708": {
     "OriginalText": "アクセスできません。",
-    "Text": "cannot be accessed.",
+    "Text": " cannot be accessed.",
     "Enabled": true
   },
   "23801": {
