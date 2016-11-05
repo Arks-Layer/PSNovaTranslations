@@ -56,7 +56,7 @@
   },
   "60011": {
     "OriginalText": "一定時間、打撃力を２０％、射撃力を１０％上昇し\n代わりに、受けるダメージも５％上昇する。\n[a 03]※アクティブスキルは同時に２つまで発動可[b]",
-    "Text": "Increases Striking & Ranged damage\nat the cost of your defense.\n[a 03]※Up to 2 actives at the same time.[b]",
+    "Text": "Increases Striking ＆ Ranged damage\nat the cost of your defense.\n[a 03]※Up to 2 actives at the same time.[b]",
     "Enabled": true
   },
   "60012": {
