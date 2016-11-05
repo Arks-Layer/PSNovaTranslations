@@ -51,8 +51,8 @@
   },
   "370010": {
     "OriginalText": "グランピース",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gran Piece",
+    "Enabled": true
   },
   "370011": {
     "OriginalText": "グランピース(炎属性)",
@@ -86,7 +86,7 @@
   },
   "370017": {
     "OriginalText": "リングジェネレーター",
-    "Text": "",
-    "Enabled": false
+    "Text": "Ring Generator",
+    "Enabled": true
   }
 }
