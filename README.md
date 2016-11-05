@@ -20,7 +20,6 @@ This repository is dedicated to translating PS: Nova game texts from Japanese to
  5. Hit "Create a new branch for this commit and start a pull request." (<b>DO NOT COMMIT DIRECTLY TO MASTER.</b>)
  6. Your PR request will be reviewed and accepted or denied. (Your changes will also be posted to the discord chat.)
 
- 
 ##Editing process
 
 Please put your translation in the "Text" field like so:
@@ -28,11 +27,12 @@ Please put your translation in the "Text" field like so:
 ```
   "310040": {
     "OriginalText": "ポストアタック",
-    "Text": "Post Attack"
+    "Text": "Post Attack",
+    "Enabled": false
   },
 ```
 
-  Then, add a comma to the end of your translation, and put "    "Enabled": true" on the next line, so it ends up like this:
+  Then, change the false to true, so it ends up like this:
 
 ```
   "310040": {
@@ -41,6 +41,7 @@ Please put your translation in the "Text" field like so:
     "Enabled": true
   },
 ```
+
 Please note that there may be "weird" things in the text! For example, "[c]" and "[n]". The n is a "new line".
 
 <b><i><u>PLEASE LEAVE THESE TAGS IN THERE.</b></i></u>
