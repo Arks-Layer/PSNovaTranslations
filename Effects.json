@@ -146,8 +146,8 @@
   },
   "160029": {
     "OriginalText": "消費ＧＰ",
-    "Text": "",
-    "Enabled": false
+    "Text": "GP Consumption",
+    "Enabled": true
   },
   "160030": {
     "OriginalText": "アイテムドロップ",
@@ -721,7 +721,7 @@
   },
   "160144": {
     "OriginalText": "入手グラン量",
-    "Text": "Obtained Gran",
+    "Text": "Gained Gran Boost",
     "Enabled": true
   },
   "160145": {

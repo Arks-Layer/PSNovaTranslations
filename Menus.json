@@ -521,12 +521,12 @@
   },
   "20114": {
     "OriginalText": "習得しました。",
-    "Text": " learned!",
+    "Text": "Learned!",
     "Enabled": true
   },
   "20115": {
     "OriginalText": "レベルアップしました。",
-    "Text": " leveled up!",
+    "Text": "Leveled Up!",
     "Enabled": true
   },
   "20116": {
@@ -866,18 +866,18 @@
   },
   "20405": {
     "OriginalText": "お気に入り解除",
-    "Text": "",
-    "Enabled": false
+    "Text": "Delete Bookmark",
+    "Enabled": true
   },
   "20406": {
     "OriginalText": "お気に入りを解除します。\nよろしいですか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "This will delete the Bookmark.\nIs that OK?",
+    "Enabled": true
   },
   "20407": {
     "OriginalText": "お気に入りに登録しました。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Bookmark Saved",
+    "Enabled": true
   },
   "20408": {
     "OriginalText": "プレイ時間",
@@ -1001,7 +1001,7 @@
   },
   "20605": {
     "OriginalText": "アイテムが完成しました。",
-    "Text": "The selected item was created.",
+    "Text": "Created the selected item.",
     "Enabled": true
   },
   "20606": {
@@ -1206,8 +1206,8 @@
   },
   "20912": {
     "OriginalText": "\n\n続けて配置しますか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "\n\nContinue arranging?",
+    "Enabled": true
   },
   "20913": {
     "OriginalText": "床",
@@ -1376,8 +1376,8 @@
   },
   "21109": {
     "OriginalText": "リストを更新してください。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Please update the list.",
+    "Enabled": true
   },
   "21110": {
     "OriginalText": "このパーティーに参加します。\nよろしいですか？",
@@ -1431,8 +1431,8 @@
   },
   "21120": {
     "OriginalText": "パーティーに参加しました。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Added to the party.",
+    "Enabled": true
   },
   "21121": {
     "OriginalText": "メンバーがいない状態では\nパーティー結成できません。",
@@ -1481,8 +1481,8 @@
   },
   "21202": {
     "OriginalText": "頼みごとをしたい",
-    "Text": "",
-    "Enabled": false
+    "Text": "I Need To Ask A Favor",
+    "Enabled": true
   },
   "21203": {
     "OriginalText": "話をする",
@@ -1496,23 +1496,23 @@
   },
   "21205": {
     "OriginalText": "を受託します。\nよろしいですか？",
-    "Text": "",
-    "Enabled": false
+    "Text": " was accepted.\nIs that OK?",
+    "Enabled": true
   },
   "21206": {
     "OriginalText": "を破棄します。\nよろしいですか？",
-    "Text": "",
-    "Enabled": false
+    "Text": " will be cancelled.\nIs that OK?",
+    "Enabled": true
   },
   "21207": {
     "OriginalText": "を報告します。\nよろしいですか？",
-    "Text": "",
-    "Enabled": false
+    "Text": " will be turned in.\nIs that OK?",
+    "Enabled": true
   },
   "21208": {
     "OriginalText": "別のプロミスオーダーを受けています。",
-    "Text": "",
-    "Enabled": false
+    "Text": "You already have a different Promise Order.",
+    "Enabled": true
   },
   "21209": {
     "OriginalText": "プロミスオーダーの目標を達成した！",
@@ -1536,7 +1536,7 @@
   },
   "21213": {
     "OriginalText": "依頼者より",
-    "Text": "Requester",
+    "Text": "Order Description",
     "Enabled": true
   },
   "21214": {
@@ -1831,13 +1831,13 @@
   },
   "21619": {
     "OriginalText": "アタッチパーツを作成しますか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Create Attach Parts?",
+    "Enabled": true
   },
   "21620": {
     "OriginalText": "アタッチパーツが完成しました。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Attach Parts completed.",
+    "Enabled": true
   },
   "21621": {
     "OriginalText": "決定",
@@ -2116,7 +2116,7 @@
   },
   "21727": {
     "OriginalText": "失敗条件",
-    "Text": "Failure",
+    "Text": " Failure",
     "Enabled": true
   },
   "21728": {
@@ -2191,8 +2191,8 @@
   },
   "21742": {
     "OriginalText": "リーダーがクエストの開始を中止しました。",
-    "Text": "",
-    "Enabled": false
+    "Text": "The leader has cancelled the Quest.",
+    "Enabled": true
   },
   "21743": {
     "OriginalText": "リーダーがタイプを決定していません。\nしばらくお待ちください。",
@@ -2201,8 +2201,8 @@
   },
   "21744": {
     "OriginalText": "このクエストは\nストーリーをクリアしていないプレイヤーと\n一緒にプレイすることはできません。\n\nストーリーをクリアしていないプレイヤー",
-    "Text": "",
-    "Enabled": false
+    "Text": "This Quest can't\nbe played with players who\nhaven't cleared the story.\n\nPlayers who haven't cleared the story: ",
+    "Enabled": true
   },
   "21745": {
     "OriginalText": "このクエストは\n似下のクエストをクリアしていないと\nプレイできません。",
@@ -2211,8 +2211,8 @@
   },
   "21746": {
     "OriginalText": "リーダーがクエストを選択するまでお待ちください。\n\n[f 1c][a 03] で拠点に戻ります。[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "Please wait until the leader selects a quest. \n\n[f 1c][a 03] return to base.[b]",
+    "Enabled": true
   },
   "21747": {
     "OriginalText": "クエスト状況",
@@ -2911,13 +2911,13 @@
   },
   "22203": {
     "OriginalText": "探索目的",
-    "Text": "",
-    "Enabled": false
+    "Text": "Search Goal",
+    "Enabled": true
   },
   "22204": {
     "OriginalText": "必要日数",
-    "Text": "",
-    "Enabled": false
+    "Text": "Days Needed",
+    "Enabled": true
   },
   "22205": {
     "OriginalText": "日",
@@ -2926,7 +2926,7 @@
   },
   "22206": {
     "OriginalText": "人",
-    "Text": "People",
+    "Text": "ppl",
     "Enabled": true
   },
   "22207": {
@@ -3046,8 +3046,8 @@
   },
   "22301": {
     "OriginalText": "一時倉庫にアイテムが入っているため\nアクセスできません。\n一時倉庫を空にする必要があります。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Because of the items in Temp Storage,\naccess is temporarily unavailable.\nPlease clear out Temp Storage.",
+    "Enabled": true
   },
   "22302": {
     "OriginalText": "防具を作る",
@@ -3081,8 +3081,8 @@
   },
   "22403": {
     "OriginalText": "このコスチュームを作成します。\nよろしいですか？\n",
-    "Text": "",
-    "Enabled": false
+    "Text": "This will create a Costume.\nIs that OK?\n",
+    "Enabled": true
   },
   "22404": {
     "OriginalText": "コスチュームが完成しました。",
@@ -3146,13 +3146,13 @@
   },
   "22416": {
     "OriginalText": "今すぐ着替える",
-    "Text": "",
-    "Enabled": false
+    "Text": "Wear Costume Now",
+    "Enabled": true
   },
   "22417": {
     "OriginalText": "倉庫にコスチュームを作る",
-    "Text": "",
-    "Enabled": false
+    "Text": "Create a Costume From Storage",
+    "Enabled": true
   },
   "22501": {
     "OriginalText": "一時倉庫にアイテムが入っているため\nアクセスできません。\n一時倉庫を空にする必要があります。",
@@ -3176,12 +3176,12 @@
   },
   "22701": {
     "OriginalText": "成功",
-    "Text": "Success",
+    "Text": " Success",
     "Enabled": true
   },
   "22702": {
     "OriginalText": "失敗",
-    "Text": "Failure",
+    "Text": " Failed",
     "Enabled": true
   },
   "22703": {
@@ -3191,7 +3191,7 @@
   },
   "22704": {
     "OriginalText": "達成",
-    "Text": "Achievment",
+    "Text": " Achieved",
     "Enabled": true
   },
   "22705": {
@@ -3266,8 +3266,8 @@
   },
   "22719": {
     "OriginalText": "の通信が切断されました",
-    "Text": "",
-    "Enabled": false
+    "Text": " was disconnected.",
+    "Enabled": true
   },
   "22720": {
     "OriginalText": "が[親友]になりました",
@@ -3346,7 +3346,7 @@
   },
   "22735": {
     "OriginalText": "戦闘不能回数",
-    "Text": "Knocked Out Number of Times",
+    "Text": "Incapacitation Score",
     "Enabled": true
   },
   "22736": {
@@ -3366,12 +3366,12 @@
   },
   "22739": {
     "OriginalText": "がレベルアップ！",
-    "Text": " Leveled Up!",
+    "Text": " gained a level!",
     "Enabled": true
   },
   "22740": {
     "OriginalText": "スキル入手：",
-    "Text": "Skills Available: ",
+    "Text": "Skill(s) Available: ",
     "Enabled": true
   },
   "22741": {
@@ -3461,7 +3461,7 @@
   },
   "22758": {
     "OriginalText": "ダウンロードグッズ",
-    "Text": "Download Good",
+    "Text": "Download Goods",
     "Enabled": true
   },
   "22759": {
@@ -3511,23 +3511,23 @@
   },
   "22768": {
     "OriginalText": "このアイテムを受け取ります。\nよろしいですか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Are you sure you want to\nreceive this item?",
+    "Enabled": true
   },
   "22769": {
     "OriginalText": "すでに受け取り済みです。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Already recieved.",
+    "Enabled": true
   },
   "22770": {
     "OriginalText": "アイテムを受け取りました。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Item recieved.",
+    "Enabled": true
   },
   "22771": {
     "OriginalText": "DLCアイテムを受け取る",
-    "Text": "",
-    "Enabled": false
+    "Text": "Receive DLC Item",
+    "Enabled": true
   },
   "22772": {
     "OriginalText": "ワンモア発動！",
@@ -3536,7 +3536,7 @@
   },
   "22773": {
     "OriginalText": "DLCを受け取る",
-    "Text": "Pickup DLC",
+    "Text": "Receive DLC",
     "Enabled": true
   },
   "22774": {
@@ -3566,18 +3566,18 @@
   },
   "22801": {
     "OriginalText": "ギガンテス情報はありません。",
-    "Text": "",
-    "Enabled": false
+    "Text": "No Gigantes information.",
+    "Enabled": true
   },
   "22802": {
     "OriginalText": "マルチプレイ中はアクセスできません。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Can't access during Multiplay.",
+    "Enabled": true
   },
   "22803": {
     "OriginalText": "表示するギガンテスを切り替えます。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Change the Gigantes on display.",
+    "Enabled": true
   },
   "22901": {
     "OriginalText": "所持SP",
@@ -3626,13 +3626,13 @@
   },
   "23007": {
     "OriginalText": "スロットからスキルをはずしますか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Clear the skill from this slot?",
+    "Enabled": true
   },
   "23008": {
     "OriginalText": "スロットにスキルがセットされていません。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Can't set a skill to this slot.",
+    "Enabled": true
   },
   "23101": {
     "OriginalText": "クラス変更により、伝備している\n武器や防具が無効になることがあります。\n無効となっている伝備は\n名前が灰色で表示されます。",
@@ -3721,8 +3721,8 @@
   },
   "23805": {
     "OriginalText": "重要なエマージェンシートライアルが発生しました。\nエマージェンシートライアル「",
-    "Text": "",
-    "Enabled": false
+    "Text": "An important Emergency Trial has appeared.\nEmergency Trial「",
+    "Enabled": true
   },
   "23806": {
     "OriginalText": "」が\n終了しました。\n",
@@ -3806,7 +3806,7 @@
   },
   "24105": {
     "OriginalText": "スケープドールを持っていません。",
-    "Text": "You don't have a Scape Doll.",
+    "Text": "You don't have any Scape Dolls.",
     "Enabled": true
   },
   "24106": {
@@ -3931,8 +3931,8 @@
   },
   "24130": {
     "OriginalText": "メモリーカードに体験版のセーブデータがあります。\nセーブデータを引き継ぎますか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Save data from the demo version was detected.\nImport save data?",
+    "Enabled": true
   },
   "25000": {
     "OriginalText": "村料とコアを倉庫に預ける",

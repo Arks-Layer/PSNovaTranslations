@@ -6,8 +6,8 @@
   },
   "130001": {
     "OriginalText": "エッジ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Edge",
+    "Enabled": true
   },
   "130002": {
     "OriginalText": "アルバエッジ",
