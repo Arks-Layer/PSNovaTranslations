@@ -171,27 +171,27 @@
   },
   "820034": {
     "OriginalText": "打撃力、射撃力、法撃力、\n打撃防御力、射撃防御力、法撃防御力が\n１０上昇し、技量が５上昇する。",
-    "Text": "Boosts all Attack and Defense stats by 10 and DEX by 5",
+    "Text": "Boosts all Attack and Defense\nstats by 10 and DEX by 5",
     "Enabled": true
   },
   "820035": {
     "OriginalText": "打撃力、射撃力、法撃力、\n打撃防御力、射撃防御力、法撃防御力が\n２５上昇し、技量が１０上昇する。",
-    "Text": "Boosts all Attack and Defense stats by 25 and DEX by 10",
+    "Text": "Boosts all Attack and Defense\nstats by 25 and DEX by 10",
     "Enabled": true
   },
   "820036": {
     "OriginalText": "打撃力、射撃力、法撃力、\n打撃防御力、射撃防御力、法撃防御力が\n３５上昇し、技量が１５上昇する。",
-    "Text": "Boosts all Attack and Defense stats by 35 and DEX by 15",
+    "Text": "Boosts all Attack and Defense\nstats by 35 and DEX by 15",
     "Enabled": true
   },
   "820037": {
     "OriginalText": "打撃力、射撃力、法撃力、\n打撃防御力、射撃防御力、法撃防御力が\n５０上昇し、技量が２０上昇する。",
-    "Text": "Boosts all Attack and Defense stats by 50 and DEX by 20",
+    "Text": "Boosts all Attack and Defense\nstats by 50 and DEX by 20",
     "Enabled": true
   },
   "820038": {
     "OriginalText": "打撃力、射撃力、法撃力、\n打撃防御力、射撃防御力、法撃防御力が\n１００上昇し、技量が３０上昇する。",
-    "Text": "Boosts all Attack and Defense stats by 100 and DEX by 30",
+    "Text": "Boosts all Attack and Defense\nstats by 100 and DEX by 30",
     "Enabled": true
   },
   "820039": {
@@ -271,7 +271,7 @@
   },
   "820054": {
     "OriginalText": "打撃によるダメージを３％軽滅する。",
-    "Text": "",
+    "Text": "Boosts ",
     "Enabled": false
   },
   "820055": {
@@ -496,78 +496,78 @@
   },
   "820099": {
     "OriginalText": "炎属性の攻撃によるダメージが\n２０％軽滅される。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts fire elemental damage by 20%",
+    "Enabled": true
   },
   "820100": {
     "OriginalText": "炎属性の攻撃によるダメージが\n３０％軽滅される。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts fire elemental damage by 30%",
+    "Enabled": true
   },
   "820101": {
     "OriginalText": "炎属性の攻撃によるダメージが\n４０％軽滅される。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts fire elemental damage by 40%",
+    "Enabled": true
   },
   "820102": {
     "OriginalText": "炎属性の攻撃によるダメージが\n５０％軽滅される。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts fire elemental damage by 50%",
+    "Enabled": true
   },
   "820103": {
     "OriginalText": "炎属性の攻撃によるダメージが\n６０％軽滅される。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts fire elemental damage by 60%",
+    "Enabled": true
   },
   "820104": {
     "OriginalText": "劇属性の攻撃によるダメージが\n２０％軽滅される。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts ice elemental damage by 20%",
+    "Enabled": true
   },
   "820105": {
     "OriginalText": "劇属性の攻撃によるダメージが\n３０％軽滅される。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts ice elemental damage by 30%",
+    "Enabled": true
   },
   "820106": {
     "OriginalText": "劇属性の攻撃によるダメージが\n４０％軽滅される。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts ice elemental damage by 40%",
+    "Enabled": true
   },
   "820107": {
     "OriginalText": "劇属性の攻撃によるダメージが\n５０％軽滅される。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts ice elemental damage by 50%",
+    "Enabled": true
   },
   "820108": {
     "OriginalText": "劇属性の攻撃によるダメージが\n６０％軽滅される。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts ice elemental damage by 60%",
+    "Enabled": true
   },
   "820109": {
     "OriginalText": "雷属性の攻撃によるダメージが\n２０％軽滅される。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts thunder elemental damage by 20%",
+    "Enabled": true
   },
   "820110": {
     "OriginalText": "雷属性の攻撃によるダメージが\n３０％軽滅される。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts thunder elemental damage by 30%",
+    "Enabled": true
   },
   "820111": {
     "OriginalText": "雷属性の攻撃によるダメージが\n４０％軽滅される。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts thunder elemental damage by 40%",
+    "Enabled": true
   },
   "820112": {
     "OriginalText": "雷属性の攻撃によるダメージが\n５０％軽滅される。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts thunder elemental damage by 50%",
+    "Enabled": true
   },
   "820113": {
     "OriginalText": "雷属性の攻撃によるダメージが\n６０％軽滅される。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts thunder elemental damage by 60%",
+    "Enabled": true
   },
   "820114": {
     "OriginalText": "風属性の攻撃によるダメージが\n２０％軽滅される。",
