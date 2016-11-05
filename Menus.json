@@ -2911,13 +2911,13 @@
   },
   "22203": {
     "OriginalText": "探索目的",
-    "Text": "",
-    "Enabled": false
+    "Text": "Search Goal",
+    "Enabled": true
   },
   "22204": {
     "OriginalText": "必要日数",
-    "Text": "",
-    "Enabled": false
+    "Text": "Days Needed",
+    "Enabled": true
   },
   "22205": {
     "OriginalText": "日",
@@ -2926,7 +2926,7 @@
   },
   "22206": {
     "OriginalText": "人",
-    "Text": "People",
+    "Text": "ppl",
     "Enabled": true
   },
   "22207": {
