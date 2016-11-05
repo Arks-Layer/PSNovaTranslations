@@ -6,268 +6,268 @@
   },
   "820001": {
     "OriginalText": "打撃力が２５上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts S-ATK by 25",
+    "Enabled": true
   },
   "820002": {
     "OriginalText": "打撃力が５０上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts S-ATK by 50",
+    "Enabled": true
   },
   "820003": {
     "OriginalText": "打撃力が１００上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts S-ATK by 100",
+    "Enabled": true
   },
   "820004": {
     "OriginalText": "打撃力が１５０上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts S-ATK by 150",
+    "Enabled": true
   },
   "820005": {
     "OriginalText": "打撃力が３００上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts S-ATK by 300",
+    "Enabled": true
   },
   "820006": {
     "OriginalText": "射撃力が２５上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts R-ATK by 25",
+    "Enabled": true
   },
   "820007": {
     "OriginalText": "射撃力が５０上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts R-ATK by 50",
+    "Enabled": true
   },
   "820008": {
     "OriginalText": "射撃力が１００上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts R-ATK by 100",
+    "Enabled": true
   },
   "820009": {
     "OriginalText": "射撃力が１５０上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts R-ATK by 150",
+    "Enabled": true
   },
   "820010": {
     "OriginalText": "射撃力が３００上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts R-ATK by 300",
+    "Enabled": true
   },
   "820011": {
     "OriginalText": "法撃力が２５上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts T-ATK by 25",
+    "Enabled": true
   },
   "820012": {
     "OriginalText": "法撃力が５０上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts T-ATK by 50",
+    "Enabled": true
   },
   "820013": {
     "OriginalText": "法撃力が１００上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts T-ATK by 100",
+    "Enabled": true
   },
   "820014": {
     "OriginalText": "法撃力が１５０上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts T-ATK by 150",
+    "Enabled": true
   },
   "820015": {
     "OriginalText": "法撃力が３００上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts T-ATK by 300",
+    "Enabled": true
   },
   "820016": {
     "OriginalText": "ＨＰの上限値が１００上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts base HP by 100",
+    "Enabled": true
   },
   "820017": {
     "OriginalText": "ＨＰの上限値が２００上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts base HP by 200",
+    "Enabled": true
   },
   "820018": {
     "OriginalText": "ＨＰの上限値が３００上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts base HP by 300",
+    "Enabled": true
   },
   "820019": {
     "OriginalText": "ＨＰの上限値が４００上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts base HP by 400",
+    "Enabled": true
   },
   "820020": {
     "OriginalText": "ＨＰの上限値が５００上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts base HP by 500",
+    "Enabled": true
   },
   "820021": {
     "OriginalText": "ＧＰの上限値が３上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts base GP by 3",
+    "Enabled": true
   },
   "820022": {
     "OriginalText": "ＧＰの上限値が６上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts base GP by 6",
+    "Enabled": true
   },
   "820023": {
     "OriginalText": "ＧＰの上限値が１０上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts base GP by 10",
+    "Enabled": true
   },
   "820024": {
     "OriginalText": "ＧＰの上限値が１５上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts base GP by 15",
+    "Enabled": true
   },
   "820025": {
     "OriginalText": "ＧＰの上限値が３０上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts base GP by 30",
+    "Enabled": true
   },
   "820026": {
     "OriginalText": "技量が１０上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts DEX by 10",
+    "Enabled": true
   },
   "820027": {
     "OriginalText": "技量が２０上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts DEX by 20",
+    "Enabled": true
   },
   "820028": {
     "OriginalText": "技量が３０上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts DEX by 30",
+    "Enabled": true
   },
   "820029": {
     "OriginalText": "技量が４０上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts DEX by 40",
+    "Enabled": true
   },
   "820030": {
     "OriginalText": "技量が８０上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts DEX by 80",
+    "Enabled": true
   },
   "820031": {
     "OriginalText": "削除",
-    "Text": "",
+    "Text": "Delete",
     "Enabled": false
   },
   "820032": {
     "OriginalText": "削除",
-    "Text": "",
+    "Text": "Delete",
     "Enabled": false
   },
   "820033": {
     "OriginalText": "削除",
-    "Text": "",
+    "Text": "Delete",
     "Enabled": false
   },
   "820034": {
     "OriginalText": "打撃力、射撃力、法撃力、\n打撃防御力、射撃防御力、法撃防御力が\n１０上昇し、技量が５上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts all Attack and Defense stats by 10 and DEX by 5",
+    "Enabled": true
   },
   "820035": {
     "OriginalText": "打撃力、射撃力、法撃力、\n打撃防御力、射撃防御力、法撃防御力が\n２５上昇し、技量が１０上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts all Attack and Defense stats by 25 and DEX by 10",
+    "Enabled": true
   },
   "820036": {
     "OriginalText": "打撃力、射撃力、法撃力、\n打撃防御力、射撃防御力、法撃防御力が\n３５上昇し、技量が１５上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts all Attack and Defense stats by 35 and DEX by 15",
+    "Enabled": true
   },
   "820037": {
     "OriginalText": "打撃力、射撃力、法撃力、\n打撃防御力、射撃防御力、法撃防御力が\n５０上昇し、技量が２０上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts all Attack and Defense stats by 50 and DEX by 20",
+    "Enabled": true
   },
   "820038": {
     "OriginalText": "打撃力、射撃力、法撃力、\n打撃防御力、射撃防御力、法撃防御力が\n１００上昇し、技量が３０上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts all Attack and Defense stats by 100 and DEX by 30",
+    "Enabled": true
   },
   "820039": {
     "OriginalText": "打撃防御力が２５上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts S-DEF by 25",
+    "Enabled": true
   },
   "820040": {
     "OriginalText": "打撃防御力が５０上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts S-DEF by 50",
+    "Enabled": true
   },
   "820041": {
     "OriginalText": "打撃防御力が１００上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts S-DEF by 100",
+    "Enabled": true
   },
   "820042": {
     "OriginalText": "打撃防御力が１５０上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts S-DEF by 150",
+    "Enabled": true
   },
   "820043": {
     "OriginalText": "打撃防御力が３００上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts S-DEF by 300",
+    "Enabled": true
   },
   "820044": {
     "OriginalText": "射撃防御力が２５上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts R-DEF by 25",
+    "Enabled": true
   },
   "820045": {
     "OriginalText": "射撃防御力が５０上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts R-DEF by 50",
+    "Enabled": true
   },
   "820046": {
     "OriginalText": "射撃防御力が１００上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts R-DEF by 100",
+    "Enabled": true
   },
   "820047": {
     "OriginalText": "射撃防御力が１５０上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts R-DEF by 150",
+    "Enabled": true
   },
   "820048": {
     "OriginalText": "射撃防御力が３００上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts R-DEF by 300",
+    "Enabled": true
   },
   "820049": {
     "OriginalText": "法撃防御力が２５上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts T-DEF by 25",
+    "Enabled": true
   },
   "820050": {
     "OriginalText": "法撃防御力が５０上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts T-DEF by 50",
+    "Enabled": true
   },
   "820051": {
     "OriginalText": "法撃防御力が１００上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts T-DEF by 100",
+    "Enabled": true
   },
   "820052": {
     "OriginalText": "法撃防御力が１５０上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts T-DEF by 150",
+    "Enabled": true
   },
   "820053": {
     "OriginalText": "法撃防御力が３００上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts T-DEF by 300",
+    "Enabled": true
   },
   "820054": {
     "OriginalText": "打撃によるダメージを３％軽滅する。",
