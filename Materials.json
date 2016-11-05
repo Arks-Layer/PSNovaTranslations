@@ -361,8 +361,8 @@
   },
   "350072": {
     "OriginalText": "透き通る講化木",
-    "Text": "",
-    "Enabled": false
+    "Text": "Clear Wooden Idol",
+    "Enabled": true
   },
   "350073": {
     "OriginalText": "ペロブスカイト石",
@@ -391,8 +391,8 @@
   },
   "350078": {
     "OriginalText": "鈍く光るコランダム珪",
-    "Text": "",
-    "Enabled": false
+    "Text": "Dull Silica Corundum",
+    "Enabled": true
   },
   "350079": {
     "OriginalText": "熱を蓄える捲方輝石",
@@ -1131,8 +1131,8 @@
   },
   "350226": {
     "OriginalText": "バリドランナの大光玉",
-    "Text": "",
-    "Enabled": false
+    "Text": "Baridran'na Large Light Ball",
+    "Enabled": true
   },
   "350227": {
     "OriginalText": "ロウトルリンプの硬尾ひれ",
@@ -1146,8 +1146,8 @@
   },
   "350229": {
     "OriginalText": "アルキュオネの硬肩部伝甲",
-    "Text": "",
-    "Enabled": false
+    "Text": "Alcyone Shoulder Armor",
+    "Enabled": true
   },
   "350230": {
     "OriginalText": "機械生洋の甲片",
@@ -1206,8 +1206,8 @@
   },
   "350241": {
     "OriginalText": "トネルバンクゥの石片",
-    "Text": "",
-    "Enabled": false
+    "Text": "Toner Bank Stones",
+    "Enabled": true
   },
   "350242": {
     "OriginalText": "レイバンサーの銃身",
@@ -1661,8 +1661,8 @@
   },
   "350332": {
     "OriginalText": "マガヴルムの銃身",
-    "Text": "",
-    "Enabled": false
+    "Text": "Magavulum Barrel",
+    "Enabled": true
   },
   "350333": {
     "OriginalText": "リバッツの翼枝",
@@ -1676,8 +1676,8 @@
   },
   "350335": {
     "OriginalText": "コパイエーデンの煽皮",
-    "Text": "",
-    "Enabled": false
+    "Text": "Kopa Yeden Hide",
+    "Enabled": true
   },
   "350336": {
     "OriginalText": "ポリジュラキアの骨",
@@ -3586,23 +3586,23 @@
   },
   "350717": {
     "OriginalText": "ベリサイト",
-    "Text": "",
-    "Enabled": false
+    "Text": "Verisite",
+    "Enabled": true
   },
   "350718": {
     "OriginalText": "赤いベリサイト",
-    "Text": "",
-    "Enabled": false
+    "Text": "Red Verisite",
+    "Enabled": true
   },
   "350719": {
     "OriginalText": "ミメット鉱",
-    "Text": "",
-    "Enabled": false
+    "Text": "Mimete Ore",
+    "Enabled": true
   },
   "350720": {
     "OriginalText": "紅のミメット鉱",
-    "Text": "",
-    "Enabled": false
+    "Text": "Crimson Mimete Ore",
+    "Enabled": true
   },
   "350721": {
     "OriginalText": "アテレスタイト",
