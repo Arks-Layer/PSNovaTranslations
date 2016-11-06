@@ -1696,128 +1696,128 @@
   },
   "150351": {
     "OriginalText": "パワー",
-    "Text": "",
-    "Enabled": false
+    "Text": "Power",
+    "Enabled": true
   },
   "150361": {
     "OriginalText": "シュート",
-    "Text": "",
-    "Enabled": false
+    "Text": "Shot",
+    "Enabled": true
   },
   "150371": {
     "OriginalText": "テクニック",
-    "Text": "",
-    "Enabled": false
+    "Text": "Technique",
+    "Enabled": true
   },
   "150381": {
     "OriginalText": "スタミナ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Stamina",
+    "Enabled": true
   },
   "150391": {
     "OriginalText": "スピリタ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Spirita",
+    "Enabled": true
   },
   "150401": {
     "OriginalText": "アーム",
-    "Text": "",
+    "Text": "Arm",
     "Enabled": false
   },
   "150411": {
     "OriginalText": "アビリティ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Ability",
+    "Enabled": true
   },
   "150421": {
     "OriginalText": "ボディ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Body",
+    "Enabled": true
   },
   "150431": {
     "OriginalText": "リアクト",
-    "Text": "",
-    "Enabled": false
+    "Text": "React",
+    "Enabled": true
   },
   "150441": {
     "OriginalText": "マインド",
-    "Text": "",
-    "Enabled": false
+    "Text": "Mind",
+    "Enabled":true
   },
   "150501": {
     "OriginalText": "ブロウレジスト",
-    "Text": "",
-    "Enabled": false
+    "Text": "Blow Resist",
+    "Enabled": true
   },
   "150511": {
     "OriginalText": "ショットレジスト",
-    "Text": "",
-    "Enabled": false
+    "Text": "Shot Resist",
+    "Enabled": true
   },
   "150521": {
     "OriginalText": "マインドレジスト",
-    "Text": "",
-    "Enabled": false
+    "Text": "Mind Resist",
+    "Enabled": true
   },
   "150531": {
     "OriginalText": "フレイムレジスト",
-    "Text": "",
-    "Enabled": false
+    "Text": "Flame Resist",
+    "Enabled": true
   },
   "150541": {
     "OriginalText": "アイスレジスト",
-    "Text": "",
-    "Enabled": false
+    "Text": "Ice Resist",
+    "Enabled": true
   },
   "150551": {
     "OriginalText": "ショックレジスト",
-    "Text": "",
-    "Enabled": false
+    "Text": "Shock Resist",
+    "Enabled": true
   },
   "150561": {
     "OriginalText": "ウィンドレジスト",
-    "Text": "",
-    "Enabled": false
+    "Text": "Wind Resist",
+    "Enabled": true
   },
   "150571": {
     "OriginalText": "ライトレジスト",
-    "Text": "",
-    "Enabled": false
+    "Text": "Light Resist",
+    "Enabled": true
   },
   "150581": {
     "OriginalText": "グルームレジスト",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gloom Resist",
+    "Enabled": true
   },
   "150601": {
     "OriginalText": "フレイムブースト",
-    "Text": "",
-    "Enabled": false
+    "Text": "Flame Boost",
+    "Enabled": true
   },
   "150611": {
     "OriginalText": "アイスブースト",
-    "Text": "",
-    "Enabled": false
+    "Text": "Ice Boost",
+    "Enabled": true
   },
   "150621": {
     "OriginalText": "ショックブースト",
-    "Text": "",
-    "Enabled": false
+    "Text": "Shock Boost",
+    "Enabled": true
   },
   "150631": {
     "OriginalText": "ウィンドブースト",
-    "Text": "",
-    "Enabled": false
+    "Text": "Wind Boost",
+    "Enabled": true
   },
   "150641": {
     "OriginalText": "ライトブースト",
-    "Text": "",
-    "Enabled": false
+    "Text": "Light Boost",
+    "Enabled": true
   },
   "150651": {
     "OriginalText": "グルームブースト",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gloom Boost",
+    "Enabled": true
   },
   "150701": {
     "OriginalText": "空連乱舞",
@@ -1866,43 +1866,43 @@
   },
   "150811": {
     "OriginalText": "対バインド",
-    "Text": "",
-    "Enabled": false
+    "Text": "Against Bind",
+    "Enabled": true
   },
   "150812": {
     "OriginalText": "対インフェクション",
-    "Text": "",
-    "Enabled": false
+    "Text": "Against Infection",
+    "Enabled": true
   },
   "150813": {
     "OriginalText": "対ブラインド",
-    "Text": "",
-    "Enabled": false
+    "Text": "Against Blind",
+    "Enabled": true
   },
   "150814": {
     "OriginalText": "対グラン中毒",
-    "Text": "",
-    "Enabled": false
+    "Text": "Against G.Poison",
+    "Enabled": true
   },
   "150821": {
     "OriginalText": "ハンターバースト",
-    "Text": "",
-    "Enabled": false
+    "Text": "Hunter Burst",
+    "Enabled": true
   },
   "150822": {
     "OriginalText": "レンジャーバースト",
-    "Text": "",
-    "Enabled": false
+    "Text": "Ranger Burst",
+    "Enabled": true
   },
   "150823": {
     "OriginalText": "フォースバースト",
-    "Text": "",
-    "Enabled": false
+    "Text": "Force Burst",
+    "Enabled": true
   },
   "150831": {
     "OriginalText": "ハイパーバースト",
-    "Text": "",
-    "Enabled": false
+    "Text": "Hyper Burst",
+    "Enabled": true
   },
   "152100": {
     "OriginalText": "エクステンド★1",

@@ -726,27 +726,27 @@
   },
   "240166": {
     "OriginalText": "探索隊司令部 Lv.1",
-    "Text": "Search Team Headquarters Lv.1",
+    "Text": "Search Team HQ Lv.1",
     "Enabled": true
   },
   "240167": {
     "OriginalText": "探索隊司令部 Lv.2",
-    "Text": "Search Team Headquarters Lv.2",
+    "Text": "Search Team HQ Lv.2",
     "Enabled": true
   },
   "240168": {
     "OriginalText": "探索隊司令部 Lv.3",
-    "Text": "Search Team Headquarters Lv.3",
+    "Text": "Search Team HQ Lv.3",
     "Enabled": true
   },
   "240169": {
     "OriginalText": "探索隊司令部 Lv.4",
-    "Text": "Search Team Headquarters Lv.4",
+    "Text": "Search Team HQ Lv.4",
     "Enabled": true
   },
   "240170": {
     "OriginalText": "探索隊司令部 Lv.5",
-    "Text": "Search Team Headquarters Lv.5",
+    "Text": "Search Team HQ Lv.5",
     "Enabled": true
   },
   "240171": {
@@ -826,27 +826,27 @@
   },
   "240186": {
     "OriginalText": "バースト加速伝置 Lv.1",
-    "Text": "BURST Acceleration Device Lv.1",
+    "Text": "BURST Accel. Device Lv.1",
     "Enabled": true
   },
   "240187": {
     "OriginalText": "バースト加速伝置 Lv.2",
-    "Text": "BURST Acceleration Device Lv.2",
+    "Text": "BURST Accel. Device Lv.2",
     "Enabled": true
   },
   "240188": {
     "OriginalText": "バースト加速伝置 Lv.3",
-    "Text": "BURST Acceleration Device Lv.3",
+    "Text": "BURST Accel. Device Lv.3",
     "Enabled": true
   },
   "240189": {
     "OriginalText": "バースト加速伝置 Lv.4",
-    "Text": "BURST Acceleration Device Lv.4",
+    "Text": "BURST Accel. Device Lv.4",
     "Enabled": true
   },
   "240190": {
     "OriginalText": "バースト加速伝置 Lv.5",
-    "Text": "BURST Acceleration Device Lv.5",
+    "Text": "BURST Accel. Device Lv.5",
     "Enabled": true
   },
   "240191": {
@@ -2066,7 +2066,7 @@
   },
   "241111": {
     "OriginalText": "バースト加速伝置",
-    "Text": "BURST Acceleration Device",
+    "Text": "BURST Accel. Device",
     "Enabled": true
   }
 }

@@ -816,7 +816,7 @@
   },
   "350163": {
     "OriginalText": "ギガンテスのグラン器片",
-    "Text": "Gran-infused Organ of Gigantes",
+    "Text": "G-infused Gigantes Organ ",
     "Enabled": true
   },
   "350164": {
@@ -1026,7 +1026,7 @@
   },
   "350205": {
     "OriginalText": "アルキュオネの浮遊伝置",
-    "Text": "Alcyone's Floatation Device",
+    "Text": "Alcyone's Levitator",
     "Enabled": true
   },
   "350206": {
@@ -1206,7 +1206,7 @@
   },
   "350241": {
     "OriginalText": "トネルバンクゥの石片",
-    "Text": "Toner Bank Stone Fragments",
+    "Text": "Toner Bank Stone Pieces",
     "Enabled": true
   },
   "350242": {
@@ -2156,7 +2156,7 @@
   },
   "350431": {
     "OriginalText": "機械生洋の硬骨格",
-    "Text": "Hard Biomechanical Frame",
+    "Text": "Biomechanical Frame",
     "Enabled": true
   },
   "350432": {
