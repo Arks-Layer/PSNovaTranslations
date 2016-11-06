@@ -21,8 +21,8 @@
   },
   "130004": {
     "OriginalText": "ネイル",
-    "Text": "",
-    "Enabled": false
+    "Text": "Nail",
+    "Enabled": true
   },
   "130005": {
     "OriginalText": "アルバネイル",
@@ -36,8 +36,8 @@
   },
   "130007": {
     "OriginalText": "ピック",
-    "Text": "",
-    "Enabled": false
+    "Text": "Pick",
+    "Enabled": true
   },
   "130008": {
     "OriginalText": "アルバピック",
@@ -51,8 +51,8 @@
   },
   "130010": {
     "OriginalText": "シザー",
-    "Text": "",
-    "Enabled": false
+    "Text": "Scissor",
+    "Enabled": true
   },
   "130011": {
     "OriginalText": "アルバシザー",
@@ -81,8 +81,8 @@
   },
   "130016": {
     "OriginalText": "スティール",
-    "Text": "",
-    "Enabled": false
+    "Text": "Steel",
+    "Enabled": true
   },
   "130017": {
     "OriginalText": "アルバスティール",
@@ -96,8 +96,8 @@
   },
   "130019": {
     "OriginalText": "リング",
-    "Text": "",
-    "Enabled": false
+    "Text": "Ring",
+    "Enabled": true
   },
   "130020": {
     "OriginalText": "アルバリング",
@@ -156,8 +156,8 @@
   },
   "130031": {
     "OriginalText": "レイザ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Raiser",
+    "Enabled": true
   },
   "130032": {
     "OriginalText": "アルバレイザ",
@@ -216,8 +216,8 @@
   },
   "130043": {
     "OriginalText": "シェル",
-    "Text": "",
-    "Enabled": false
+    "Text": "Shell",
+    "Enabled": true
   },
   "130044": {
     "OriginalText": "アルバシェル",
@@ -271,13 +271,13 @@
   },
   "130054": {
     "OriginalText": "グランブレードＩ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gran Blade I",
+    "Enabled": true
   },
   "130055": {
     "OriginalText": "ケース",
-    "Text": "",
-    "Enabled": false
+    "Text": "Case",
+    "Enabled": true
   },
   "130056": {
     "OriginalText": "アルバケース",
@@ -291,8 +291,8 @@
   },
   "130058": {
     "OriginalText": "シース",
-    "Text": "",
-    "Enabled": false
+    "Text": "Sheath",
+    "Enabled": true
   },
   "130059": {
     "OriginalText": "アルバシース",
@@ -306,8 +306,8 @@
   },
   "130061": {
     "OriginalText": "カバー",
-    "Text": "",
-    "Enabled": false
+    "Text": "Cover",
+    "Enabled": true
   },
   "130062": {
     "OriginalText": "アルバカバー",
@@ -321,8 +321,8 @@
   },
   "130064": {
     "OriginalText": "ラップ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Wrap",
+    "Enabled": true
   },
   "130065": {
     "OriginalText": "アルバラップ",
@@ -351,17 +351,17 @@
   },
   "130070": {
     "OriginalText": "エンベロール",
-    "Text": "Enveroll",
+    "Text": "Envelope",
     "Enabled": true
   },
   "130071": {
     "OriginalText": "アルバエンベロール",
-    "Text": "Alva Enveroll",
+    "Text": "Alva Envelope",
     "Enabled": true
   },
   "130072": {
     "OriginalText": "ヴィタエンベロール",
-    "Text": "Vita Enveroll",
+    "Text": "Vita Envelope",
     "Enabled": true
   },
   "130073": {
@@ -1236,32 +1236,32 @@
   },
   "130247": {
     "OriginalText": "赤ぷよ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Red Puyo",
+    "Enabled": true
   },
   "130248": {
     "OriginalText": "青ぷよ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Blue Puyo",
+    "Enabled": true
   },
   "130249": {
     "OriginalText": "緑ぷよ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Green Puyo",
+    "Enabled": true
   },
   "130250": {
     "OriginalText": "紫ぷよ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Purple Puyo",
+    "Enabled": true
   },
   "130251": {
     "OriginalText": "黄ぷよ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Yellow Puyo",
+    "Enabled": true
   },
   "130252": {
     "OriginalText": "リング",
-    "Text": "",
-    "Enabled": false
+    "Text": "Ring",
+    "Enabled": true
   }
 }
