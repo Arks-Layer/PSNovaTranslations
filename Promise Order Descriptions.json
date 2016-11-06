@@ -16,7 +16,7 @@
   },
   "290003": {
     "OriginalText": "フォースの動きに慣れておきたいね。\n一度、フォースで任務をクリアしてみようよ。\n習うより慣れろだよ、[ruby]相棒[/ruby]！\n[a 03]※この約束は１回のみ\n※『フォース』にクラス変更をする必要あり[b]",
-    "Text": "Let's get used to being a Force.\nClear a mission as a Force. Practice\nmakes perfect, partner!\n[a 03]※Can only be done once\n※Forces only[b]",
+    "Text": "Let's get used to being a Force.\nClear a mission as a Force. Practice\nmakes perfect, Buddy!\n[a 03]※Can only be done once\n※Forces only[b]",
     "Enabled": true
   },
   "290004": {
