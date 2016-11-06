@@ -411,8 +411,8 @@
   },
   "280082": {
     "OriginalText": "塊死の克服",
-    "Text": "",
-    "Enabled": false
+    "Text": "Overcoming Death",
+    "Enabled": true
   },
   "280083": {
     "OriginalText": "死なずに大洋原生種討伐に挑戦",
@@ -1311,43 +1311,43 @@
   },
   "280262": {
     "OriginalText": "クラスカウンター建設",
-    "Text": "",
-    "Enabled": false
+    "Text": "Class Counter Construction",
+    "Enabled": true
   },
   "280263": {
     "OriginalText": "食堂建設",
-    "Text": "",
-    "Enabled": false
+    "Text": "Restaurant Construction",
+    "Enabled": true
   },
   "280264": {
     "OriginalText": "武器ショップ建設",
-    "Text": "",
-    "Enabled": false
+    "Text": "Weapon Shop Construction",
+    "Enabled": true
   },
   "280265": {
     "OriginalText": "防具ショップ建設",
-    "Text": "",
-    "Enabled": false
+    "Text": "Shields Shop Construction",
+    "Enabled": true
   },
   "280266": {
     "OriginalText": "アイテムショップ建設",
-    "Text": "",
-    "Enabled": false
+    "Text": "Item Shop Construction",
+    "Enabled": true
   },
   "280267": {
     "OriginalText": "コスチュームショップ建設",
-    "Text": "",
-    "Enabled": false
+    "Text": "Costume Shop Construction",
+    "Enabled": true
   },
   "280268": {
     "OriginalText": "エステ建設",
-    "Text": "",
-    "Enabled": false
+    "Text": "Makeover Shop Construction",
+    "Enabled": true
   },
   "280269": {
     "OriginalText": "クラスカウンター改築",
-    "Text": "",
-    "Enabled": false
+    "Text": "Class Counter Reconstruction",
+    "Enabled": true
   },
   "280270": {
     "OriginalText": "食堂改築",
