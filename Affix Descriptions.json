@@ -1266,18 +1266,18 @@
   },
   "820253": {
     "OriginalText": "８％の確率でダメージを無効化する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gives 8% chance of Damage Nullification.\n[a 03]※Abilities of the same name cannot be stacked.[b]",
+    "Enabled": true
   },
   "820254": {
     "OriginalText": "１０％の確率でダメージを無効化する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gives 10% chance of Damage Nullification.\n[a 03]※Abilities of the same name cannot be stacked.[b]",
+    "Enabled": true
   },
   "820255": {
     "OriginalText": "１２％の確率でダメージを無効化する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gives 12% chance of Damage Nullification.\n[a 03]※Abilities of the same name cannot be stacked.[b]",
+    "Enabled": true
   },
   "820256": {
     "OriginalText": "ダメージを受けたとき\n１５％の確率で玄け反らなくなる。\n[a 03]※同名の特殊能力は重復しない[b]",
@@ -1311,13 +1311,13 @@
   },
   "820262": {
     "OriginalText": "アベレージスタンス中に、\nダメージが４％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "During Average Stance, damage increases by 4%.\n[a 03]※Abilities of the same name cannot be stacked.[b]",
+    "Enabled": true
   },
   "820263": {
     "OriginalText": "アベレージスタンス中に、\nダメージが３５％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "During Average Stance, damage increases by 35%.\n[a 03]※Abilities of the same name cannot be stacked.[b]",
+    "Enabled": true
   },
   "820264": {
     "OriginalText": "削除",
@@ -1326,28 +1326,28 @@
   },
   "820265": {
     "OriginalText": "フューリースタンス中に、\nダメージが１％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "During Fury Stance, damage increases by 1%.\n[a 03]※Abilities of the same name cannot be stacked.[b]",
+    "Enabled": true
   },
   "820266": {
     "OriginalText": "フューリースタンス中に、\nダメージが３％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "During Fury Stance, damage increases by 3%.\n[a 03]※Abilities of the same name cannot be stacked.[b]",
+    "Enabled": true
   },
   "820267": {
     "OriginalText": "フューリースタンス中に\nダメージが４０％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "During Fury Stance, damage increases by 40%.\n[a 03]※Abilities of the same name cannot be stacked.[b]",
+    "Enabled": true
   },
   "820268": {
     "OriginalText": "フューリースタンス中に、\nクリティカル率が１０％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "During Fury Stance, Critical hit ratio boosts by 10%.\n[a 03]※Abilities of the same name cannot be stacked.[b]",
+    "Enabled": true
   },
   "820269": {
     "OriginalText": "フューリースタンス中に、\nクリティカル率が１５％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "During Fury Stance, Critical hit ratio boosts by 15%.\n[a 03]※Abilities of the same name cannot be stacked.[b]",
+    "Enabled": true
   },
   "820270": {
     "OriginalText": "削除",
@@ -1356,13 +1356,13 @@
   },
   "820271": {
     "OriginalText": "ガードスタンス中に、受けるダメージを１％軽滅し\n打撃力と射撃力が１５％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "During Guard Stance, damage received reduced by 1%\nand S-ATK and R-ATK increased by 15%.\n[a 03]※Abilities of the same name cannot be stacked.[b]",
+    "Enabled": true
   },
   "820272": {
     "OriginalText": "ガードスタンス中に、受けるダメージを３％軽滅し\n打撃力と射撃力が２５％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "During Guard Stance, damage received reduced by 3%\nand S-ATK and R-ATK increased by 25%.\n[a 03]※Abilities of the same name cannot be stacked.[b]",
+    "Enabled": true
   },
   "820273": {
     "OriginalText": "削除",

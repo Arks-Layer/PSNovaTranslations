@@ -431,13 +431,13 @@
   },
   "520100": {
     "OriginalText": "ファントムアークス",
-    "Text": "",
-    "Enabled": false
+    "Text": "Phantom ARKS",
+    "Enabled": true
   },
   "520101": {
     "OriginalText": "アークスオブアークス",
-    "Text": "",
-    "Enabled": false
+    "Text": "ARKS of ARKS",
+    "Enabled": true
   },
   "520102": {
     "OriginalText": "医学知識",
@@ -446,8 +446,8 @@
   },
   "520103": {
     "OriginalText": "Ｓ属性",
-    "Text": "",
-    "Enabled": false
+    "Text": "S Element",
+    "Enabled": true
   },
   "520104": {
     "OriginalText": "箱入り娘",
@@ -716,8 +716,8 @@
   },
   "520185": {
     "OriginalText": "死神",
-    "Text": "",
-    "Enabled": false
+    "Text": "Grim Reaper",
+    "Enabled": true
   },
   "520186": {
     "OriginalText": "コア工作土",
@@ -746,53 +746,53 @@
   },
   "520201": {
     "OriginalText": "攻撃力アップ+1",
-    "Text": "",
-    "Enabled": false
+    "Text": "ATK Up +1",
+    "Enabled": true
   },
   "520202": {
     "OriginalText": "攻撃力アップ+2",
-    "Text": "",
-    "Enabled": false
+    "Text": "ATK Up +2",
+    "Enabled": true
   },
   "520203": {
     "OriginalText": "攻撃力アップ+3",
-    "Text": "",
-    "Enabled": false
+    "Text": "ATK Up +3",
+    "Enabled": true
   },
   "520204": {
     "OriginalText": "攻撃力アップ+4",
-    "Text": "",
-    "Enabled": false
+    "Text": "ATK Up +4",
+    "Enabled": true
   },
   "520205": {
     "OriginalText": "攻撃力アップ+5",
-    "Text": "",
-    "Enabled": false
+    "Text": "ATK Up +5",
+    "Enabled": true
   },
   "520206": {
     "OriginalText": "防御力アップ+1",
-    "Text": "",
-    "Enabled": false
+    "Text": "DEF Up +1",
+    "Enabled": true
   },
   "520207": {
     "OriginalText": "防御力アップ+2",
-    "Text": "",
-    "Enabled": false
+    "Text": "DEF Up +2",
+    "Enabled": true
   },
   "520208": {
     "OriginalText": "防御力アップ+3",
-    "Text": "",
-    "Enabled": false
+    "Text": "DEF Up +3",
+    "Enabled": true
   },
   "520209": {
     "OriginalText": "防御力アップ+4",
-    "Text": "",
-    "Enabled": false
+    "Text": "DEF Up +4",
+    "Enabled": true
   },
   "520210": {
     "OriginalText": "防御力アップ+5",
-    "Text": "",
-    "Enabled": false
+    "Text": "DEF Up +5",
+    "Enabled": true
   },
   "520211": {
     "OriginalText": "アイテム効果アップ+1",
@@ -926,63 +926,63 @@
   },
   "520237": {
     "OriginalText": "アイテムドロップUP+0",
-    "Text": "",
-    "Enabled": false
+    "Text": "Item Drop Up +0",
+    "Enabled": true
   },
   "520238": {
     "OriginalText": "アイテムドロップUP+1",
-    "Text": "",
-    "Enabled": false
+    "Text": "Item Drop Up +1",
+    "Enabled": true
   },
   "520239": {
     "OriginalText": "アイテムドロップUP+2",
-    "Text": "",
-    "Enabled": false
+    "Text": "Item Drop Up +2",
+    "Enabled": true
   },
   "520240": {
     "OriginalText": "アイテムドロップUP+3",
-    "Text": "",
-    "Enabled": false
+    "Text": "Item Drop Up +3",
+    "Enabled": true
   },
   "520241": {
     "OriginalText": "アイテムドロップUP+4",
-    "Text": "",
-    "Enabled": false
+    "Text": "Item Drop Up +4",
+    "Enabled": true
   },
   "520242": {
     "OriginalText": "アイテムドロップUP+5",
-    "Text": "",
-    "Enabled": false
+    "Text": "Item Drop Up +5",
+    "Enabled": true
   },
   "520243": {
     "OriginalText": "レアアイテムドロップUP+0",
-    "Text": "",
-    "Enabled": false
+    "Text": "Rare Item Drop Up +0",
+    "Enabled": true
   },
   "520244": {
     "OriginalText": "レアアイテムドロップUP+1",
-    "Text": "",
-    "Enabled": false
+    "Text": "Rare Item Drop Up +1",
+    "Enabled": true
   },
   "520245": {
     "OriginalText": "レアアイテムドロップUP+2",
-    "Text": "",
-    "Enabled": false
+    "Text": "Rare Item Drop Up +2",
+    "Enabled": true
   },
   "520246": {
     "OriginalText": "レアアイテムドロップUP+3",
-    "Text": "",
-    "Enabled": false
+    "Text": "Rare Item Drop Up +3",
+    "Enabled": true
   },
   "520247": {
     "OriginalText": "レアアイテムドロップUP+4",
-    "Text": "",
-    "Enabled": false
+    "Text": "Rare Item Drop Up +4",
+    "Enabled": true
   },
   "520248": {
     "OriginalText": "レアアイテムドロップUP+5",
-    "Text": "",
-    "Enabled": false
+    "Text": "Rare Item Drop Up +5",
+    "Enabled": true
   },
   "520249": {
     "OriginalText": "Eレーダーランク1適応地路",
