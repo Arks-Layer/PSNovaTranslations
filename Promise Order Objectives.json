@@ -31,12 +31,12 @@
   },
   "300006": {
     "OriginalText": "【透き通る講化木】を集める",
-    "Text": "Collect [Clear Wooden Idol]",
+    "Text": "Collect [Silicified Wood]",
     "Enabled": true
   },
   "300007": {
     "OriginalText": "【トネルバンクゥの石片】を集める",
-    "Text": "Collect [Toner Bank Stones]",
+    "Text": "Collect [Toner Bank Stone Fragments]",
     "Enabled": true
   },
   "300008": {
@@ -51,7 +51,7 @@
   },
   "300010": {
     "OriginalText": "【バリドランナの大光玉】を集める",
-    "Text": "Collect [Baridran'na Large Light Ball]",
+    "Text": "Collect [Baridran'na Large Glowing Ball]",
     "Enabled": true
   },
   "300011": {
@@ -196,8 +196,8 @@
   },
   "300039": {
     "OriginalText": "【アテレスタイト】を集める\n【ハイウィーアイト】を集める\n【黄色いアテレスタイト】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Atelestite]\nCollect [Haiwite]\nCollect [Yellow Atelestite]",
+    "Enabled": true
   },
   "300040": {
     "OriginalText": "【アメシスト】を集める\n【陽炎のアメシスト】を集める\n【ルビー】を集める",

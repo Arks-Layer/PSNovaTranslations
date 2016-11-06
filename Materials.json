@@ -361,7 +361,7 @@
   },
   "350072": {
     "OriginalText": "透き通る講化木",
-    "Text": "Clear Wooden Idol",
+    "Text": "Silicified Wood",
     "Enabled": true
   },
   "350073": {
@@ -1131,7 +1131,7 @@
   },
   "350226": {
     "OriginalText": "バリドランナの大光玉",
-    "Text": "Baridran'na Large Light Ball",
+    "Text": "Baridran'na Large Glowing Ball",
     "Enabled": true
   },
   "350227": {
@@ -1206,7 +1206,7 @@
   },
   "350241": {
     "OriginalText": "トネルバンクゥの石片",
-    "Text": "Toner Bank Stones",
+    "Text": "Toner Bank Stone Fragments",
     "Enabled": true
   },
   "350242": {
@@ -3606,18 +3606,18 @@
   },
   "350721": {
     "OriginalText": "アテレスタイト",
-    "Text": "",
-    "Enabled": false
+    "Text": "Atelestite",
+    "Enabled": true
   },
   "350722": {
     "OriginalText": "黄色いアテレスタイト",
-    "Text": "",
-    "Enabled": false
+    "Text": "Yellow Atelestite",
+    "Enabled": true
   },
   "350723": {
     "OriginalText": "ハイウィーアイト",
-    "Text": "",
-    "Enabled": false
+    "Text": "Haiwite",
+    "Enabled": true
   },
   "350724": {
     "OriginalText": "瞬くハイウィーアイト",
@@ -3876,8 +3876,8 @@
   },
   "350775": {
     "OriginalText": "フォンベガルフの超角",
-    "Text": "",
-    "Enabled": false
+    "Text": "Fonbegulf Super Antler",
+    "Enabled": true
   },
   "350776": {
     "OriginalText": "フロフォンベガルフの超角",
