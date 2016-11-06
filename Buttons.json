@@ -106,7 +106,7 @@
   },
   "430021": {
     "OriginalText": "瞳選択",
-    "Text": "",
+    "Text": "Eye Selection",
     "Enabled": false
   },
   "430022": {
@@ -116,13 +116,13 @@
   },
   "430023": {
     "OriginalText": "まゆ選択",
-    "Text": "",
-    "Enabled": false
+    "Text": "Eyebrow Selection",
+    "Enabled": true
   },
   "430024": {
     "OriginalText": "まゆカラー設定",
-    "Text": "",
-    "Enabled": false
+    "Text": "Eyebrow Color Setting",
+    "Enabled": true
   },
   "430025": {
     "OriginalText": "ヘアスタイル選択",
@@ -136,8 +136,8 @@
   },
   "430027": {
     "OriginalText": "ヘッドパーツ選択",
-    "Text": "",
-    "Enabled": false
+    "Text": "Head Part Selection",
+    "Enabled": true
   },
   "430028": {
     "OriginalText": "ヘッドパーツカラー設定",
@@ -146,58 +146,58 @@
   },
   "430029": {
     "OriginalText": "コスチューム選択",
-    "Text": "",
-    "Enabled": false
+    "Text": "Costume Selection",
+    "Enabled": true
   },
   "430030": {
     "OriginalText": "コスチュームカラー設定",
-    "Text": "",
-    "Enabled": false
+    "Text": "Costume Color Setting",
+    "Enabled": true
   },
   "430031": {
     "OriginalText": "配置済みリスト",
-    "Text": "",
-    "Enabled": false
+    "Text": "Deployed List",
+    "Enabled": true
   },
   "430032": {
     "OriginalText": "所有リスト",
-    "Text": "",
-    "Enabled": false
+    "Text": "Owner List",
+    "Enabled": true
   },
   "430033": {
     "OriginalText": "戻る",
-    "Text": "",
-    "Enabled": false
+    "Text": "Return",
+    "Enabled": true
   },
   "430034": {
     "OriginalText": "選択",
-    "Text": "",
-    "Enabled": false
+    "Text": "Select",
+    "Enabled": true
   },
   "430035": {
     "OriginalText": "位置決定",
-    "Text": "",
-    "Enabled": false
+    "Text": "Position Select",
+    "Enabled": true
   },
   "430036": {
     "OriginalText": "自動選択",
-    "Text": "",
-    "Enabled": false
+    "Text": "Auto Select",
+    "Enabled": true
   },
   "430037": {
     "OriginalText": "詳細表示",
-    "Text": "",
-    "Enabled": false
+    "Text": "Detail View",
+    "Enabled": true
   },
   "430038": {
     "OriginalText": "詳細切替",
-    "Text": "",
-    "Enabled": false
+    "Text": "Switch Details",
+    "Enabled": true
   },
   "430039": {
     "OriginalText": "詳細消去",
-    "Text": "",
-    "Enabled": false
+    "Text": "Clear Details",
+    "Enabled": true
   },
   "430040": {
     "OriginalText": "ソート切替",
@@ -206,23 +206,23 @@
   },
   "430041": {
     "OriginalText": "移動",
-    "Text": "",
-    "Enabled": false
+    "Text": "Move",
+    "Enabled": true
   },
   "430042": {
     "OriginalText": "設定を初期化",
-    "Text": "",
-    "Enabled": false
+    "Text": "Initial Settings",
+    "Enabled": true
   },
   "430043": {
     "OriginalText": "設定完了",
-    "Text": "",
-    "Enabled": false
+    "Text": "Complete Settings",
+    "Enabled": true
   },
   "430044": {
     "OriginalText": "左右切替",
-    "Text": "",
-    "Enabled": false
+    "Text": "Left/Right",
+    "Enabled": true
   },
   "430045": {
     "OriginalText": "ステルス",
@@ -231,8 +231,8 @@
   },
   "430046": {
     "OriginalText": "設置完了",
-    "Text": "",
-    "Enabled": false
+    "Text": "Install Complete",
+    "Enabled": true
   },
   "430047": {
     "OriginalText": "中止",
@@ -246,18 +246,18 @@
   },
   "430049": {
     "OriginalText": "情報表示ON/OFF",
-    "Text": "",
-    "Enabled": false
+    "Text": "Info ON/OFF",
+    "Enabled": true
   },
   "430050": {
     "OriginalText": "カラー設定",
-    "Text": "",
-    "Enabled": false
+    "Text": "Color Setting",
+    "Enabled": true
   },
   "430051": {
     "OriginalText": "ビジュアル表示",
-    "Text": "",
-    "Enabled": false
+    "Text": "Visual Display",
+    "Enabled": true
   },
   "430052": {
     "OriginalText": "キャラクター表示",
@@ -266,38 +266,38 @@
   },
   "430053": {
     "OriginalText": "すべて自動選択",
-    "Text": "",
-    "Enabled": false
+    "Text": "All Auto Select",
+    "Enabled": true
   },
   "430054": {
     "OriginalText": "情報切替",
-    "Text": "",
-    "Enabled": false
+    "Text": "Switch Info",
+    "Enabled": true
   },
   "430055": {
     "OriginalText": "方向キー左右：",
-    "Text": "",
-    "Enabled": false
+    "Text": "D-Pad Left/Right",
+    "Enabled": true
   },
   "430056": {
     "OriginalText": "スキルボード切替",
-    "Text": "",
-    "Enabled": false
+    "Text": "Switch Skill Board",
+    "Enabled": true
   },
   "430057": {
     "OriginalText": "呼び出す",
-    "Text": "",
-    "Enabled": false
+    "Text": "Call",
+    "Enabled": true
   },
   "430058": {
     "OriginalText": "お気に入り",
-    "Text": "",
-    "Enabled": false
+    "Text": "Favorite",
+    "Enabled": true
   },
   "430059": {
     "OriginalText": "おすすめ選択",
-    "Text": "",
-    "Enabled": false
+    "Text": "Recommended Selection",
+    "Enabled": true
   },
   "430060": {
     "OriginalText": "カメラ初期化",
@@ -306,8 +306,8 @@
   },
   "430061": {
     "OriginalText": "パーツ位置初期化",
-    "Text": "",
-    "Enabled": false
+    "Text": "Initial Part Position",
+    "Enabled": true
   },
   "430062": {
     "OriginalText": "スキル表示",
