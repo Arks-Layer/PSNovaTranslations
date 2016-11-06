@@ -791,8 +791,8 @@
   },
   "350158": {
     "OriginalText": "ギガンテスの甲片",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gigantes Shell Fragment",
+    "Enabled": true
   },
   "350159": {
     "OriginalText": "獣の皮片",

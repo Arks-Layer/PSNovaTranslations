@@ -111,8 +111,8 @@
   },
   "300022": {
     "OriginalText": "【ダーカー討伐任務】をクリアする",
-    "Text": "",
-    "Enabled": false
+    "Text": "Clear [Darker Subjugation Assignment]",
+    "Enabled": true
   },
   "300023": {
     "OriginalText": "【ダーカー討伐任務】を\n【ハンター】でクリアする",
@@ -411,8 +411,8 @@
   },
   "300082": {
     "OriginalText": "【ジャッドバンサー撃破任務】を\n戦闘不能回数１回似下でクリアする",
-    "Text": "",
-    "Enabled": false
+    "Text": "Clear [Jhad Banther Subjugation Assignment]\nwith 1 incapacitation or less.",
+    "Enabled": true
   },
   "300083": {
     "OriginalText": "【難：銅の荒野走破任務】を\n戦闘不能にならずにクリアする",
@@ -611,8 +611,8 @@
   },
   "300122": {
     "OriginalText": "【ギガンテスの甲片】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Gigantes Shell Fragment]",
+    "Enabled": true
   },
   "300123": {
     "OriginalText": "【ギガンテスのグラン器片】を集める",
@@ -1116,8 +1116,8 @@
   },
   "300223": {
     "OriginalText": "【獣の肉】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Monster Flesh]",
+    "Enabled": true
   },
   "300224": {
     "OriginalText": "【グランブの爪片】を集める",
@@ -1311,43 +1311,43 @@
   },
   "300262": {
     "OriginalText": "【ダーカー討伐任務】をクリアする",
-    "Text": "",
-    "Enabled": false
+    "Text": "Clear [Darker Subjugation Assignment]",
+    "Enabled": true
   },
   "300263": {
     "OriginalText": "【獣の肉】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Monster Flesh]",
+    "Enabled": true
   },
   "300264": {
     "OriginalText": "【ダーカーの節】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Darker Node]",
+    "Enabled": true
   },
   "300265": {
     "OriginalText": "【白い岩石】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [White Rock]",
+    "Enabled": true
   },
   "300266": {
     "OriginalText": "【銅の荒野哨戒任務】をクリアする",
-    "Text": "",
-    "Enabled": false
+    "Text": "Clear [Copper Wastelands Patrol]",
+    "Enabled": true
   },
   "300267": {
     "OriginalText": "【Ｇダガンの脚片】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [G-Dagan Leg]",
+    "Enabled": true
   },
   "300268": {
     "OriginalText": "【ギガンテスの甲片】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Gigantes Shell Fragment]",
+    "Enabled": true
   },
   "300269": {
     "OriginalText": "【ダーカーの盾片】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Darker Exoskeleton]",
+    "Enabled": true
   },
   "300270": {
     "OriginalText": "【膜β類のたまご】を集める",
