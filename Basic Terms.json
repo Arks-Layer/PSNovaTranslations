@@ -166,26 +166,32 @@
   },
   "10334": {
     "OriginalText": "炎耐性",
+    "Text": "Fire Resistance",
     "Enabled": true
   },
   "10335": {
     "OriginalText": "劇耐性",
+    "Text": "Ice Resistance",
     "Enabled": true
   },
   "10336": {
     "OriginalText": "雷耐性",
+    "Text": "Lightning Resistance",
     "Enabled": true
   },
   "10337": {
     "OriginalText": "風耐性",
+    "Text": "Wind Resistance",
     "Enabled": true
   },
   "10338": {
     "OriginalText": "光耐性",
+    "Text": "Light Resistance",
     "Enabled": true
   },
   "10339": {
     "OriginalText": "闇耐性",
+    "Text": "Dark Resistance",
     "Enabled": true
   },
   "10340": {
