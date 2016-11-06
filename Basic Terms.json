@@ -81,8 +81,8 @@
   },
   "10317": {
     "OriginalText": "特殊能力",
-    "Text": "",
-    "Enabled": false
+    "Text": "Special Ability",
+    "Enabled": true
   },
   "10318": {
     "OriginalText": "スキル",
@@ -136,62 +136,56 @@
   },
   "10328": {
     "OriginalText": "炎属性",
-    "Text": "",
-    "Enabled": false
+    "Text": "Fire",
+    "Enabled": true
   },
   "10329": {
     "OriginalText": "劇属性",
-    "Text": "",
-    "Enabled": false
+    "Text": "Ice",
+    "Enabled": true
   },
   "10330": {
     "OriginalText": "雷属性",
-    "Text": "",
-    "Enabled": false
+    "Text": "Lightning",
+    "Enabled": true
   },
   "10331": {
     "OriginalText": "風属性",
-    "Text": "",
-    "Enabled": false
+    "Text": "Wind",
+    "Enabled": true
   },
   "10332": {
     "OriginalText": "光属性",
-    "Text": "",
-    "Enabled": false
+    "Text": "Light",
+    "Enabled": true
   },
   "10333": {
     "OriginalText": "闇属性",
-    "Text": "",
-    "Enabled": false
+    "Text": "Dark",
+    "Enabled": true
   },
   "10334": {
     "OriginalText": "炎耐性",
-    "Text": "Resist",
     "Enabled": true
   },
   "10335": {
     "OriginalText": "劇耐性",
-    "Text": "Resist",
     "Enabled": true
   },
   "10336": {
     "OriginalText": "雷耐性",
-    "Text": "Resist",
     "Enabled": true
   },
   "10337": {
     "OriginalText": "風耐性",
-    "Text": "Resist",
     "Enabled": true
   },
   "10338": {
     "OriginalText": "光耐性",
-    "Text": "Resist",
     "Enabled": true
   },
   "10339": {
     "OriginalText": "闇耐性",
-    "Text": "Resist",
     "Enabled": true
   },
   "10340": {
