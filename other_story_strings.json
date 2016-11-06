@@ -1,0 +1,18 @@
+{
+  "400000030100410": {
+    "OriginalText": "おっし、まずは基本の移動の確認だ。\n準備は出来てるか、新人！",
+    "Text": "First, we'll go over the movement basics.\nLet's get to it, rookie!",
+  },
+  "400000030100420": {
+    "OriginalText": "次は攻撃動作の確認だな。\nシミュレーターで敵を出すから\n倒していけ！",
+    "Text": "Next, we'll review attacking.\nI'm going to spawn some enemies in\nthe simulator. Defeat them!",
+  },
+  "400000030100430": {
+    "OriginalText": "そろそろ体が起きてきただろ？\n今度は敵の攻撃からの\n回避方法の確認をするぞ。",
+    "Text": "Has your body adjusted by now?\nI'm going to spawn some attacking\nenemies. Avoid or block their attacks.",
+  },
+  "400000030100440": {
+    "OriginalText": "よし、これで最後だ。\n後は好きなように敵をぶっ倒してやれ。\nもちろんアイテムの使用も自由だ。",
+    "Text": "Well, this ends the training.\nI'll spawn some more enemies, feel free to\ndefeat them any way you choose.",
+  }
+}
