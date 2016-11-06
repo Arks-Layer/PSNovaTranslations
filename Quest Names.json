@@ -446,8 +446,8 @@
   },
   "200348": {
     "OriginalText": "パイル訓練",
-    "Text": "",
-    "Enabled": false
+    "Text": "Pile Training",
+    "Enabled": true
   },
   "200349": {
     "OriginalText": "そびえ立つ二門の巨砲",
