@@ -1,4 +1,39 @@
 {
+  "200000": {
+    "OriginalText": "---",
+    "Text": "",
+    "Enabled": false
+  },
+  "200024": {
+    "OriginalText": "//クエスト名",
+    "Text": "",
+    "Enabled": false
+  },
+  "200025": {
+    "OriginalText": "移動について",
+    "Text": "Movement basics",
+    "Enabled": true
+  },
+  "200026": {
+    "OriginalText": "攻撃について",
+    "Text": "Attacking",
+    "Enabled": true
+  },
+  "200027": {
+    "OriginalText": "回避と防御について",
+    "Text": "Avoiding and defending",
+    "Enabled": true
+  },
+  "200028": {
+    "OriginalText": "総合演習",
+    "Text": "",
+    "Enabled": false
+  },
+  "200029": {
+    "OriginalText": "ヘイロウ訓練",
+    "Text": "Halo Training",
+    "Enabled": true
+  },
   "200101": {
     "OriginalText": "惑星上陸初戦",
     "Text": "",
