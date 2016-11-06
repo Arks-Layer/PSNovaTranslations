@@ -21,63 +21,63 @@
   },
   "280004": {
     "OriginalText": "鳥の皮片を調達しよう",
-    "Text": "Procuring Bird Pelts",
+    "Text": "Let’s Supply Bird Pelts",
     "Enabled": true
   },
   "280005": {
     "OriginalText": "ヒレ片を調達しよう",
-    "Text": "",
-    "Enabled": false
+    "Text": "Let’s Supply Rozad Fillet",
+    "Enabled": true
   },
   "280006": {
     "OriginalText": "講化木を調達しよう",
-    "Text": "",
-    "Enabled": false
+    "Text": "Let’s Supply Silicified Wood",
+    "Enabled": true
   },
   "280007": {
     "OriginalText": "石片を調達しよう",
-    "Text": "",
-    "Enabled": false
+    "Text": "Let’s Supply Stone Fragments",
+    "Enabled": true
   },
   "280008": {
     "OriginalText": "煽皮を調達しよう",
-    "Text": "",
-    "Enabled": false
+    "Text": "Let's Supply Fur Hides",
+    "Enabled": true
   },
   "280009": {
     "OriginalText": "コランダム珪を調達しよう",
-    "Text": "",
-    "Enabled": false
+    "Text": "Let’s Supply Corundum",
+    "Enabled": true
   },
   "280010": {
     "OriginalText": "大光玉を調達しよう",
-    "Text": "",
-    "Enabled": false
+    "Text": "Let’s Supply Glowing Orbs",
+    "Enabled": true
   },
   "280011": {
     "OriginalText": "伝甲を調達しよう",
-    "Text": "",
-    "Enabled": false
+    "Text": "Let’s Supply Shields",
+    "Enabled": true
   },
   "280012": {
     "OriginalText": "ロッドを使いこなそう",
-    "Text": "",
-    "Enabled": false
+    "Text": "Let’s Master the Rod",
+    "Enabled": true
   },
   "280013": {
     "OriginalText": "タリスを使いこなそう",
-    "Text": "",
-    "Enabled": false
+    "Text": "Let’s Master the Talis",
+    "Enabled": true
   },
   "280014": {
     "OriginalText": "ウォンドを使いこなそう",
-    "Text": "",
-    "Enabled": false
+    "Text": "Let’s Master the Rod",
+    "Enabled": true
   },
   "280015": {
     "OriginalText": "★鱗片の調達",
-    "Text": "",
-    "Enabled": false
+    "Text": "★ Supplying Scales",
+    "Enabled": true
   },
   "280016": {
     "OriginalText": "ＳＨに挑戦・銅の荒野",
