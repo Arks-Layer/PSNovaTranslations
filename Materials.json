@@ -1056,7 +1056,7 @@
   },
   "350211": {
     "OriginalText": "グランブの爪片",
-    "Text": "Granb Claw Part",
+    "Text": "Granv Claws",
     "Enabled": true
   },
   "350212": {
@@ -1226,8 +1226,8 @@
   },
   "350245": {
     "OriginalText": "Ｇダーガッシュの歯片",
-    "Text": "",
-    "Enabled": false
+    "Text": "G-Dagash Tooth Piece",
+    "Enabled": true
   },
   "350246": {
     "OriginalText": "Ｇウォルガーダのヒレ片",
