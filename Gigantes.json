@@ -111,7 +111,7 @@
   },
   "680011": {
     "OriginalText": "イグニッション",
-    "Text": "",
-    "Enabled": false
+    "Text": "Ignition",
+    "Enabled": true
   }
 }
