@@ -226,7 +226,7 @@
   },
   "500045": {
     "OriginalText": "瞳カラーを設定",
-    "Text": "Setting Eye Color",
+    "Text": "Select Eye Color",
     "Enabled": true
   },
   "500046": {
@@ -441,7 +441,7 @@
   },
   "500088": {
     "OriginalText": "脚の太さ",
-    "Text": "Leg Lhickness",
+    "Text": "Leg Thickness",
     "Enabled": true
   },
   "500089": {
