@@ -526,7 +526,7 @@
   },
   "20115": {
     "OriginalText": "レベルアップしました。",
-    "Text": "Leveled Up!",
+    "Text": "Leveled up.",
     "Enabled": true
   },
   "20116": {
@@ -1836,7 +1836,7 @@
   },
   "21620": {
     "OriginalText": "アタッチパーツが完成しました。",
-    "Text": "Attach Parts completed.",
+    "Text": "Attachment completed.",
     "Enabled": true
   },
   "21621": {
@@ -1976,12 +1976,12 @@
   },
   "21648": {
     "OriginalText": "アタッチパーツがセットされています。\n武器を捨てるには、アタッチパーツを\nはずす必要があります。",
-    "Text": "",
-    "Enabled": false
+    "Text": "To discard the Weapon\nyou must remove it's\nAttachments first.",
+    "Enabled": true
   },
   "21649": {
     "OriginalText": "このアタッチパーツを作成する\n条件を既たしていません。",
-    "Text": "",
+    "Text": "You do not meet the\nconditions to create\nthis attachment.",
     "Enabled": false
   },
   "21701": {
@@ -2261,7 +2261,7 @@
   },
   "21756": {
     "OriginalText": "このクエストを開始します。\n\n[a 03]パーティーメンバーが選ばれていません。[b]\nよろしいですか？",
-    "Text": "This will begin the quest.\n\n[a 03]No party members have been selected.[b]\nAre you sure?",
+    "Text": "This will begin the quest.\n\n[a 03]No party members have been selected.[b]\n\nAre you sure?",
     "Enabled": true
   },
   "21757": {
@@ -3286,7 +3286,7 @@
   },
   "22723": {
     "OriginalText": "」を達成した。",
-    "Text": " was completed.",
+    "Text": "] was completed.",
     "Enabled": true
   },
   "22724": {
@@ -3426,7 +3426,7 @@
   },
   "22751": {
     "OriginalText": "指定洋品を入手しました",
-    "Text": " Clothing obtained",
+    "Text": "Clothing Available",
     "Enabled": true
   },
   "22752": {
@@ -3786,7 +3786,7 @@
   },
   "24101": {
     "OriginalText": "戦闘不能になりました。",
-    "Text": " disabled in combat.",
+    "Text": "Incapacitated during combat.",
     "Enabled": true
   },
   "24102": {
