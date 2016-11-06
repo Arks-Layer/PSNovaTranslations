@@ -1191,7 +1191,7 @@
   },
   "820238": {
     "OriginalText": "ＧＰ自動回復速度が８％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "GP Auto-recovery rate increases by 8.%\n[a 03]※Abilities of the same name cannot be stacked.[b]",
+    "Text": "GP Auto-recovery rate increases by 8%.\n[a 03]※Abilities of the same name cannot be stacked.[b]",
     "Enabled": true
   },
   "820239": {
