@@ -6,42 +6,42 @@
   },
   "500001": {
     "OriginalText": "種族と性別を選択",
-    "Text": "Select race and sex",
+    "Text": "Select Race and Sex",
     "Enabled": true
   },
   "500002": {
     "OriginalText": "クラスを選択",
-    "Text": "Select class",
+    "Text": "Select Class",
     "Enabled": true
   },
   "500003": {
     "OriginalText": "キャラベースを選択",
-    "Text": "Select base character",
+    "Text": "Select Base Character",
     "Enabled": true
   },
   "500004": {
     "OriginalText": "ボイスを選択",
-    "Text": "Select voice",
+    "Text": "Select Voice",
     "Enabled": true
   },
   "500005": {
     "OriginalText": "キャラクター名入力",
-    "Text": "Enter character name",
+    "Text": "Enter Character Name",
     "Enabled": true
   },
   "500006": {
     "OriginalText": "スタイルを選択",
-    "Text": "Select style",
+    "Text": "Select Style",
     "Enabled": true
   },
   "500007": {
     "OriginalText": "キャラクター特微選択",
-    "Text": "Select skills",
+    "Text": "Select Skills",
     "Enabled": true
   },
   "500008": {
     "OriginalText": "こだわり編集",
-    "Text": "Edit character",
+    "Text": "Edit Character",
     "Enabled": true
   },
   "500009": {
@@ -51,52 +51,52 @@
   },
   "500010": {
     "OriginalText": "顔と髪を編集",
-    "Text": "Change face and hair",
+    "Text": "Change Face and Hair",
     "Enabled": true
   },
   "500011": {
     "OriginalText": "体型の編集",
-    "Text": "Change body",
+    "Text": "Change Body",
     "Enabled": true
   },
   "500012": {
     "OriginalText": "ファッションを選択",
-    "Text": "Change clothes",
+    "Text": "Change Clothes",
     "Enabled": true
   },
   "500013": {
     "OriginalText": "編集内容の確認と取消",
-    "Text": "Review changes",
+    "Text": "Review Changes",
     "Enabled": true
   },
   "500014": {
     "OriginalText": "ストーリー開始",
-    "Text": "Start the game",
+    "Text": "Start the Game",
     "Enabled": true
   },
   "500015": {
     "OriginalText": "編集完了",
-    "Text": "Finish editing",
+    "Text": "Finish Editing",
     "Enabled": true
   },
   "500016": {
     "OriginalText": "ボイスピッチを調整",
-    "Text": "Adjust the voice pitch",
+    "Text": "Adjust Voice Pitch",
     "Enabled": true
   },
   "500017": {
     "OriginalText": "顔バリエーション選択",
-    "Text": "Face variant selection",
+    "Text": "Face Variant Selection",
     "Enabled": true
   },
   "500018": {
     "OriginalText": "顔の詳細を編集",
-    "Text": "Edit facial details",
+    "Text": "Edit Facial Details",
     "Enabled": true
   },
   "500019": {
     "OriginalText": "ヘアスタイル編集",
-    "Text": "Hairstyle editing",
+    "Text": "Hairstyle Editing",
     "Enabled": true
   },
   "500020": {
@@ -116,7 +116,7 @@
   },
   "500023": {
     "OriginalText": "体型の詳細を編集",
-    "Text": "Edit body details",
+    "Text": "Edit Body Details",
     "Enabled": true
   },
   "500024": {
@@ -156,22 +156,22 @@
   },
   "500031": {
     "OriginalText": "メインカラーを設定",
-    "Text": "Set the main color",
+    "Text": "Set Main Color",
     "Enabled": true
   },
   "500032": {
     "OriginalText": "サブカラー１を設定",
-    "Text": "Set the sub-color 1",
+    "Text": "Set Sub Color 1",
     "Enabled": true
   },
   "500033": {
     "OriginalText": "サブカラー２を設定",
-    "Text": "Set the sub-color 2",
+    "Text": "Set Sub Color 2",
     "Enabled": true
   },
   "500034": {
     "OriginalText": "サブカラー３を設定",
-    "Text": "Set the sub-color 3",
+    "Text": "Set Sub Color 3",
     "Enabled": true
   },
   "500035": {
@@ -191,152 +191,152 @@
   },
   "500038": {
     "OriginalText": "オールランダム選択",
-    "Text": "Randomize everything",
+    "Text": "Randomize Everything",
     "Enabled": true
   },
   "500039": {
     "OriginalText": "顔をランダム選択",
-    "Text": "Randomize the face",
+    "Text": "Randomize Face",
     "Enabled": true
   },
   "500040": {
     "OriginalText": "体をランダム選択",
-    "Text": "Randomize the body",
+    "Text": "Randomize Body",
     "Enabled": true
   },
   "500041": {
     "OriginalText": "ファッションランダム選択",
-    "Text": "Randomize the clothing",
+    "Text": "Randomize Clothing",
     "Enabled": true
   },
   "500042": {
     "OriginalText": "顔全体を調整",
-    "Text": "Adjust the face",
+    "Text": "Adjust Face",
     "Enabled": true
   },
   "500043": {
     "OriginalText": "目を調整",
-    "Text": "Adjust the eyes",
+    "Text": "Adjust Eyes",
     "Enabled": true
   },
   "500044": {
     "OriginalText": "瞳を選択",
-    "Text": "Select an eye variation",
+    "Text": "Select Eye Variation",
     "Enabled": true
   },
   "500045": {
     "OriginalText": "瞳カラーを設定",
-    "Text": "Setting a eye color",
+    "Text": "Select Eye Color",
     "Enabled": true
   },
   "500046": {
     "OriginalText": "まゆを選択",
-    "Text": "Select the eyebrows",
+    "Text": "Select Eyebrows",
     "Enabled": true
   },
   "500047": {
     "OriginalText": "まゆカラーを設定",
-    "Text": "Set the eyebrow color",
+    "Text": "Set Eyebrow Color",
     "Enabled": true
   },
   "500048": {
     "OriginalText": "まつげを選択",
-    "Text": "Select the eyelashes",
+    "Text": "Select Eyelashes",
     "Enabled": true
   },
   "500049": {
     "OriginalText": "鼻を調整",
-    "Text": "Adjust the nose",
+    "Text": "Adjust Nose",
     "Enabled": true
   },
   "500050": {
     "OriginalText": "耳を調整",
-    "Text": "Adjust the ears",
+    "Text": "Adjust Ears",
     "Enabled": true
   },
   "500051": {
     "OriginalText": "口を調整",
-    "Text": "Adjust the lips",
+    "Text": "Adjust Lips",
     "Enabled": true
   },
   "500052": {
     "OriginalText": "肌カラーを設定",
-    "Text": "Set the skin color",
+    "Text": "Set Skin Color",
     "Enabled": true
   },
   "500053": {
     "OriginalText": "ヘアスタイルを選択",
-    "Text": "Select the hair style",
+    "Text": "Select Hairstyle",
     "Enabled": true
   },
   "500054": {
     "OriginalText": "ヘアカラーを設定",
-    "Text": "Set the hair color",
+    "Text": "Set Hair Color",
     "Enabled": true
   },
   "500055": {
     "OriginalText": "ヘッドパーツを選択",
-    "Text": "Select a head part",
+    "Text": "Select Head Part",
     "Enabled": true
   },
   "500056": {
     "OriginalText": "ヘッドパーツカラー設定",
-    "Text": "Head part color settings",
+    "Text": "Head Part Color Settings",
     "Enabled": true
   },
   "500057": {
     "OriginalText": "体全体を調整",
-    "Text": "Adjust the entire body",
+    "Text": "Adjust Entire Body",
     "Enabled": true
   },
   "500058": {
     "OriginalText": "腕を調整",
-    "Text": "Adjust the arms",
+    "Text": "Adjust Arms",
     "Enabled": true
   },
   "500059": {
     "OriginalText": "脚を調整",
-    "Text": "Adjust the legs",
+    "Text": "Adjust Legs",
     "Enabled": true
   },
   "500060": {
     "OriginalText": "バストを調整",
-    "Text": "Adjust the breasts",
+    "Text": "Adjust Breasts",
     "Enabled": true
   },
   "500061": {
     "OriginalText": "筋肉表現を調整",
-    "Text": "Adjust the muscle mass",
+    "Text": "Adjust Muscle Mass",
     "Enabled": true
   },
   "500062": {
     "OriginalText": "顔の長さ",
-    "Text": "Face length",
+    "Text": "Face Length",
     "Enabled": true
   },
   "500063": {
     "OriginalText": "顔の横幅",
-    "Text": "Face width",
+    "Text": "Face Width",
     "Enabled": true
   },
   "500064": {
     "OriginalText": "アゴの大きさ",
-    "Text": "Jaw size",
+    "Text": "Jaw Size",
     "Enabled": true
   },
   "500065": {
     "OriginalText": "目鼻口の距離",
-    "Text": "Position of the eyes",
+    "Text": "Eye Position",
     "Enabled": true
   },
   "500066": {
     "OriginalText": "両目の間隔",
-    "Text": "Distance between eyes",
+    "Text": "Eye Distance",
     "Enabled": true
   },
   "500067": {
     "OriginalText": "まゆの位置",
-    "Text": "Position of the eyebrows",
+    "Text": "Eyebrows Position",
     "Enabled": true
   },
   "500068": {
@@ -346,32 +346,32 @@
   },
   "500069": {
     "OriginalText": "目の大きさ",
-    "Text": "Size of the eye",
+    "Text": "Eye Size",
     "Enabled": true
   },
   "500070": {
     "OriginalText": "瑞り目/践れ目",
-    "Text": "Hanging/drooping eyes",
+    "Text": "Eye Hanging/Drooping",
     "Enabled": true
   },
   "500071": {
     "OriginalText": "鼻の横幅",
-    "Text": "Nose width",
+    "Text": "Nose Width",
     "Enabled": true
   },
   "500072": {
     "OriginalText": "鼻筋の長さ",
-    "Text": "Nose bridge length",
+    "Text": "Nose Bridge Length",
     "Enabled": true
   },
   "500073": {
     "OriginalText": "鼻の高さ",
-    "Text": "Nose depth",
+    "Text": "Nose Depth",
     "Enabled": true
   },
   "500074": {
     "OriginalText": "鼻の丸み",
-    "Text": "Nose roundness",
+    "Text": "Nose Roundness",
     "Enabled": true
   },
   "500075": {
@@ -396,17 +396,17 @@
   },
   "500079": {
     "OriginalText": "唇の厚さ",
-    "Text": "Lips thickness",
+    "Text": "Lips Thickness",
     "Enabled": true
   },
   "500080": {
     "OriginalText": "口の横幅",
-    "Text": "Lips width",
+    "Text": "Lips Width",
     "Enabled": true
   },
   "500081": {
     "OriginalText": "口元の表情",
-    "Text": "Mouth expression",
+    "Text": "Mouth Expression",
     "Enabled": true
   },
   "500082": {
@@ -421,47 +421,47 @@
   },
   "500084": {
     "OriginalText": "上半身の大きさ",
-    "Text": "Upper body height",
+    "Text": "Upper Body Height",
     "Enabled": true
   },
   "500085": {
     "OriginalText": "腕の長さ",
-    "Text": "Arm length",
+    "Text": "Arm Length",
     "Enabled": true
   },
   "500086": {
     "OriginalText": "腕の太さ",
-    "Text": "Arm thickness",
+    "Text": "Arm Thickness",
     "Enabled": true
   },
   "500087": {
     "OriginalText": "脚の長さ",
-    "Text": "Leg length",
+    "Text": "Leg Length",
     "Enabled": true
   },
   "500088": {
     "OriginalText": "脚の太さ",
-    "Text": "Leg thickness",
+    "Text": "Leg Thickness",
     "Enabled": true
   },
   "500089": {
     "OriginalText": "大きさのバランス",
-    "Text": "Weight distribution",
+    "Text": "Weight Distribution",
     "Enabled": true
   },
   "500090": {
     "OriginalText": "バストの大きさ",
-    "Text": "Breast size",
+    "Text": "Breast Size",
     "Enabled": true
   },
   "500091": {
     "OriginalText": "バストの高さ",
-    "Text": "Breast height",
+    "Text": "Breast Height",
     "Enabled": true
   },
   "500092": {
     "OriginalText": "バストの向き",
-    "Text": "Breast orientation",
+    "Text": "Breast Orientation",
     "Enabled": true
   },
   "500093": {
@@ -471,7 +471,7 @@
   },
   "500094": {
     "OriginalText": "二足歩行",
-    "Text": "Run on two legs",
+    "Text": "Run on Two Legs",
     "Enabled": true
   },
   "500095": {
@@ -481,27 +481,27 @@
   },
   "500096": {
     "OriginalText": "色を選択する",
-    "Text": "Select a color",
+    "Text": "Select Color",
     "Enabled": true
   },
   "500097": {
     "OriginalText": "ヘアカラーに合わせる",
-    "Text": "Match with hair color",
+    "Text": "Match With Hair Color",
     "Enabled": true
   },
   "500098": {
     "OriginalText": "発光カラー設定",
-    "Text": "Detail color setting",
+    "Text": "Detail Color Setting",
     "Enabled": true
   },
   "500099": {
     "OriginalText": "小鼻の大きさ",
-    "Text": "Nostril size",
+    "Text": "Nostril Size",
     "Enabled": true
   },
   "500100": {
     "OriginalText": "ヘッドパーツカラーに合わせる",
-    "Text": "Match to head part color",
+    "Text": "Match to Head Part Color",
     "Enabled": true
   },
   "500107": {
@@ -511,22 +511,22 @@
   },
   "500108": {
     "OriginalText": "キャラクターの名前を入力してください。\n倣字、半角カナ、一部記号は使えません。\n入力された場合、その文字は省かれます。",
-    "Text": "Please enter the name of your character.\r\nIf you enter an invalid symbol, it\r\nwill be removed.",
+    "Text": "Please enter the name of your character.\nIf you enter an invalid symbol, it\nwill be removed.",
     "Enabled": true
   },
   "500109": {
     "OriginalText": "チェックをはずした区目を\nベース状態に戻して表示します。",
-    "Text": "Select an item to toggle on/off.\r\n",
+    "Text": "Select an item to toggle on/off.\n",
     "Enabled": true
   },
   "500110": {
     "OriginalText": "編集した区目はありません。",
-    "Text": "Edited item not available",
+    "Text": "Edited item not available.",
     "Enabled": true
   },
   "500111": {
     "OriginalText": "この名前で登録します。\n\nよろしいですか？",
-    "Text": "This will register the name.\r\n\r\nAre you sure?",
+    "Text": "This will register the name.\n\nAre you sure?",
     "Enabled": true
   },
   "500112": {
@@ -536,53 +536,53 @@
   },
   "500113": {
     "OriginalText": "現在おこなっている編集作業を\n編集開始の状態に戻します。\nよろしいですか？",
-    "Text": "By doing this, all your current\r\nedits and changes will be lost.\r\nAre you sure?",
+    "Text": "By doing this, all your current\nedits and changes will be lost.\nAre you sure?",
     "Enabled": true
   },
   "500114": {
     "OriginalText": "チェックをはずした区目を\nベース状態に戻して\nトップメニューに戻ります。\nよろしいですか？",
-    "Text": "This will save only the checked\r\nchanges. All others will be lost.\r\nAre you sure?",
+    "Text": "This will save only the checked\nchanges. All others will be lost.\nAre you sure?",
     "Enabled": true
   },
   "500115": {
     "OriginalText": "キャラクタークリエイトを\n中断しタイトルに戻ります。\n\nよろしいですか？",
-    "Text": "This will cancel character editing\r\nand move back to the main menu.\r\nAll edits will be lost.\r\nAre you sure?",
+    "Text": "This will cancel character editing\nand move back to the main menu.\nAll edits will be lost.\nAre you sure?",
     "Enabled": true
   },
   "500116": {
     "OriginalText": "エステを中断します。\n編集内容は反映されません。\n\nよろしいですか？",
-    "Text": "This will end the Makeover.\r\nChanges will not be saved.\r\n\r\nAre you sure?",
+    "Text": "This will end the Makeover.\nChanges will not be saved.\n\nAre you sure?",
     "Enabled": true
   },
   "500117": {
     "OriginalText": "この情報でキャラクターを\n決定します。\n\nよろしいですか？",
-    "Text": "The character you have\r\ndesigned will be saved.\r\n\r\nAre you sure?",
+    "Text": "The character you have\ndesigned will be saved.\n\nAre you sure?",
     "Enabled": true
   },
   "500118": {
     "OriginalText": "この内容をキャラクターに\n反映します。\n\nよろしいですか？",
-    "Text": "The changes you've made\r\nwill be saved.\r\n\r\nAre you sure?",
+    "Text": "The changes you've made\nwill be saved.\n\nAre you sure?",
     "Enabled": true
   },
   "500119": {
     "OriginalText": "種族やクラスを変更しようとしています。\nこだわり編集でおこなった編集内容は\n破棄されますがよろしいですか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Edits will be discarded\nif you change your race/class.\nAre you sure?",
+    "Enabled": true
   },
   "500120": {
     "OriginalText": "ベースタイプを変更しようとしています。\nこだわり編集でおこなった編集内容は\n破棄されますがよろしいですか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Edits will be discarded\nif you change your base type.\nAre you sure?",
+    "Enabled": true
   },
   "500121": {
     "OriginalText": "使用できない単語が含まれています。\n名前を修正してください。",
-    "Text": "Your name contains characters\r\nthat cannot be used.",
+    "Text": "Your name contains characters\nthat cannot be used.",
     "Enabled": true
   },
   "500122": {
     "OriginalText": "取り消しを反映",
-    "Text": "",
-    "Enabled": false
+    "Text": "Confirm Cancel",
+    "Enabled": true
   },
   "500123": {
     "OriginalText": "戻る",
@@ -591,23 +591,23 @@
   },
   "500124": {
     "OriginalText": "ランダム選択メニューを開きます。\n\nランダム選択をおこなうと、\nカスタマイズした各要素が\nすべてランダムに書きかえられます。",
-    "Text": "This will open the random menu.\r\n\r\nWhen you choose a random\r\nselection, each element\r\nselected will be randomized.",
+    "Text": "This will open the random menu.\n\nWhen you choose a random\nselection, each element\nselected will be randomized.",
     "Enabled": true
   },
   "500125": {
     "OriginalText": "まゆの色をヘアカラーと同じにしました。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Eyebrow color\nmatched to hair.",
+    "Enabled": true
   },
   "500126": {
     "OriginalText": "キャラクターセレクトを\n中断しメニューに戻ります。\n\nよろしいですか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Leaving character select to return to the menu.\nAre you sure?",
+    "Enabled": true
   },
   "500127": {
     "OriginalText": "倣字、半角カナ、一部記号は使えません。\n入力された場合、その文字は省かれます。",
-    "Text": "",
-    "Enabled": false
+    "Text": "You have entered invalid characters\nwhich have been omitted.",
+    "Enabled": true
   },
   "500260": {
     "OriginalText": "全体的な能力のバランスに優れ、環境への適応能力が\n高い種族。\n身体の強さとフォトンへの適合力の釣り合いが取れて\nおり、あらゆるクラスに適応することが可能で、安定\n性に優れている。",
