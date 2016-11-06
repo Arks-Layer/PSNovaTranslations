@@ -111,7 +111,7 @@
   },
   "100010020130008": {
     "OriginalText": "まもなく惑星マキアの衛星軌道に到着し、\n戦闘部隊員を含む第一次探査隊が\n惑星地表へ降下します。",
-    "Text": "Once we enter Makia's orbit, the primary\nexploration team—including combat personnel—\nmay then safely descend to the surface.",
+    "Text": "Once we enter Makia's orbit, the primary\nexploration team, including combat personnel,\nmay then safely descend to the surface.",
     "Enabled": true
   },
   "100010020140008": {
@@ -121,7 +121,7 @@
   },
   "100010020150008": {
     "OriginalText": "記憶に問題がなければ\nフィジカルチェックに進み、出撃準備後\nブリーフィングに参加してください。",
-    "Text": "Your recollection appears to be fine!\nPlease proceed to your physical checkup and promptly\nto briefing.",
+    "Text": "Your memory appears to be fine!\nPlease proceed to your physical checkup\nand promptly to briefing.",
     "Enabled": true
   },
   "100010020160008": {
@@ -151,7 +151,7 @@
   },
   "100010020190008": {
     "OriginalText": "問題はなさそうですね？",
-    "Text": "It doesn't seem like...?",
+    "Text": "Therefore, it doesn't seem likely...?",
     "Enabled": true
   },
   "100010020200008": {
@@ -161,17 +161,17 @@
   },
   "100010020210008": {
     "OriginalText": "ここだけの話、たまに失敗もあるんですよ……。",
-    "Text": "Seems alright, but they said problems\ncould arise in the rare case...",
+    "Text": "Every once in a while, the process\ndoesn't go right, and...",
     "Enabled": true
   },
   "100010020220008": {
     "OriginalText": "そっ、それでもだいたいは\n大丈夫なんですけどね！",
-    "Text": "A-anyway, you're good in my books!",
+    "Text": "A-anyway, the point is that you\nmade it safe and sound!",
     "Enabled": true
   },
   "100010020230008": {
     "OriginalText": "驚きましたか？ 今のは感情のチェックです。\nあなたの感情は正常なようですね。\nふふっ、メンタルチェック、完了です！",
-    "Text": "Did I scare you? Well, then your emotional responses\nseem quite normal as well. Fufu! Mental check...complete!",
+    "Text": "Did I scare you? Good! I was checking on your\nemotions. It seems they are in order.\nHaha, mental check complete!",
     "Enabled": true
   },
   "100010020240008": {
@@ -236,7 +236,7 @@
   },
   "100010035040001": {
     "OriginalText": "周りは見ず知らずの人ばっかなんだからさ、\nせめてあたし達ぐらいは気楽にやろうよ！\nそんな堅苦しい部隊じゃないみたいだし、ね？",
-    "Text": "There're strangers all around us right now.\nLet's be carefree with each other!\nThat way, things will be easier for our troop.",
+    "Text": "There are strangers all around us right now.\nLet's be carefree with each other!\nThat way, things will be easier for our troop.",
     "Enabled": true
   },
   "100010035050001": {
@@ -301,7 +301,7 @@
   },
   "100010035160004": {
     "OriginalText": "冗談だ。お前らと一緒なら、\n楽しい探索になりそうだよ。\nさて、そろそろ降下の準備を……。",
-    "Text": "Just kidding. Looks like we'll have\nlot's of fun during our search.\nAlright, let's prepare to descend-",
+    "Text": "Just kidding. Looks like we'll have\nlots of fun during our search.\nAlright, let's prepare to descend-",
     "Enabled": true
   },
   "100010035170001": {
@@ -351,7 +351,7 @@
   },
   "100010040080050": {
     "OriginalText": "艦長！ [ruby ふね]艦[/ruby]が惑星に引き寄せられています！",
-    "Text": "Captain! The ship is being drawn towards the planet!",
+    "Text": "Captain! The ship is being drawn towards\nthe planet!",
     "Enabled": true
   },
   "100010040090014": {
