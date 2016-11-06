@@ -3426,8 +3426,8 @@
   },
   "22751": {
     "OriginalText": "指定洋品を入手しました",
-    "Text": "",
-    "Enabled": false
+    "Text": " Clothing obtained",
+    "Enabled": true
   },
   "22752": {
     "OriginalText": "UI用予約",
