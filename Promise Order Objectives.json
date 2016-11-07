@@ -116,33 +116,33 @@
   },
   "300023": {
     "OriginalText": "【ダーカー討伐任務】を\n【ハンター】でクリアする",
-    "Text": "",
-    "Enabled": false
+    "Text": "Clear [Darker Subjugation Assignment]\nas a Hunter",
+    "Enabled": true
   },
   "300024": {
     "OriginalText": "【雪辱の新兵器】をクリアする",
-    "Text": "",
-    "Enabled": false
+    "Text": "Clear [Vindication of New Weapons]",
+    "Enabled": true
   },
   "300025": {
     "OriginalText": "【炎の脅威】をクリアする",
-    "Text": "",
-    "Enabled": false
+    "Text": "Clear [Threat of Fire]",
+    "Enabled": true
   },
   "300026": {
     "OriginalText": "【不機嫌な砲塔】をクリアする",
-    "Text": "",
-    "Enabled": false
+    "Text": "Clear [Sour Turret]",
+    "Enabled": true
   },
   "300027": {
     "OriginalText": "【アルレイバンサー撃破任務】を\n【ハンター】でクリアする",
-    "Text": "",
-    "Enabled": false
+    "Text": "Clear [Arlay Banther Subjugation Assignment]\nas a Hunter.",
+    "Enabled": true
   },
   "300028": {
     "OriginalText": "【古代都市哨戒任務】を\n【ハンター】でクリアする",
-    "Text": "",
-    "Enabled": false
+    "Text": "Clear the Quest [Ancient City Patrol]\nas a Hunter.",
+    "Enabled": true
   },
   "300029": {
     "OriginalText": "【難：グレイオス攻略任務】を\nクリアする",

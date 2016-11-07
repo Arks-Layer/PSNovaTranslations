@@ -251,8 +251,8 @@
   },
   "350050": {
     "OriginalText": "ラコニア金属",
-    "Text": "",
-    "Enabled": false
+    "Text": "Laconia Metal",
+    "Enabled": true
   },
   "350051": {
     "OriginalText": "赤い樹袋",
