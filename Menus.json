@@ -1831,7 +1831,7 @@
   },
   "21619": {
     "OriginalText": "アタッチパーツを作成しますか？",
-    "Text": "Create Attach Parts?",
+    "Text": "Create Attachment parts?",
     "Enabled": true
   },
   "21620": {
@@ -1982,7 +1982,7 @@
   "21649": {
     "OriginalText": "このアタッチパーツを作成する\n条件を既たしていません。",
     "Text": "You do not meet the\nconditions to create\nthis attachment.",
-    "Enabled": false
+    "Enabled": true
   },
   "21701": {
     "OriginalText": "ストーリー",
@@ -3086,8 +3086,8 @@
   },
   "22404": {
     "OriginalText": "コスチュームが完成しました。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Created the selected costume.",
+    "Enabled": true
   },
   "22405": {
     "OriginalText": "チュートリアル",
