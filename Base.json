@@ -2041,8 +2041,8 @@
   },
   "241106": {
     "OriginalText": "下層へ",
-    "Text": "",
-    "Enabled": false
+    "Text": "To Lower",
+    "Enabled": true
   },
   "241107": {
     "OriginalText": "祈りをささげる",

@@ -761,7 +761,7 @@
   },
   "300152": {
     "OriginalText": "【ギュゲンテのβ脚】を集める",
-    "Text": "Collect [Kyugent Insectoid Legs]",
+    "Text": "Collect [Kyugante Insectoid Legs]",
     "Enabled": true
   },
   "300153": {
@@ -816,68 +816,68 @@
   },
   "300163": {
     "OriginalText": "【バリバッツの虫片】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Baribatts Ink]",
+    "Enabled": true
   },
   "300164": {
     "OriginalText": "【Ｇエル・アーダの針片】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [G-El Ahda Stinger]",
+    "Enabled": true
   },
   "300165": {
     "OriginalText": "敵味方を問わず\n【バインド】状態を発生させる",
-    "Text": "",
-    "Enabled": false
+    "Text": "Let the [Bind] status effect\noccur on allies or enemies.",
+    "Enabled": true
   },
   "300166": {
     "OriginalText": "【墨】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Moss]",
+    "Enabled": true
   },
   "300167": {
     "OriginalText": "敵味方を問わず\n【インフェクション】状態を発生させる",
-    "Text": "",
-    "Enabled": false
+    "Text": "Let the [Infection] status effect\noccur on allies or enemies.",
+    "Enabled": true
   },
   "300168": {
     "OriginalText": "【膜β類の苔尾】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Reptile Tail]",
+    "Enabled": true
   },
   "300169": {
     "OriginalText": "敵味方を問わず\n【グラン中毒】状態を発生させる",
-    "Text": "",
-    "Enabled": false
+    "Text": "Let the [Gran Poisoning] status effect\noccur on allies or enemies.",
+    "Enabled": true
   },
   "300170": {
     "OriginalText": "【リバッツの目玉】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Ribatts Eyeball]",
+    "Enabled": true
   },
   "300171": {
     "OriginalText": "【エア・ゲンテの鋭ドリル】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Libergante Sharp Drill]",
+    "Enabled": true
   },
   "300172": {
     "OriginalText": "【Ｇキュクロナーダの目片】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [G-Kuklonahda Eyeball]",
+    "Enabled": true
   },
   "300173": {
     "OriginalText": "【ロヴラッピーの肉】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Love Rappy Meat]",
+    "Enabled": true
   },
   "300174": {
     "OriginalText": "敵味方を問わず\n【ブラインド】状態を発生させる",
-    "Text": "",
-    "Enabled": false
+    "Text": "Let the [Blind] status effect\noccur on allies or enemies.",
+    "Enabled": true
   },
   "300175": {
     "OriginalText": "敵味方を問わず\n【全属性ダウン】状態を発生させる",
-    "Text": "",
-    "Enabled": false
+    "Text": "Let the [All Element Down] status\neffect occur on allies or enemies.",
+    "Enabled": true
   },
   "300176": {
     "OriginalText": "【超：狂風の暴君】の\n【スーパーハード】似上を\n戦闘不能にならずにクリアする",

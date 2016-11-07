@@ -721,42 +721,42 @@
   },
   "280144": {
     "OriginalText": "メモリーフラグメントの入手１",
-    "Text": "Acquire Memory Fragments 1",
+    "Text": "Acquire Memory Fragments I",
     "Enabled": true
   },
   "280145": {
     "OriginalText": "レアエネミー討伐１",
-    "Text": "Rare Enemy Subjugation 1",
+    "Text": "Rare Enemy Subjugation I",
     "Enabled": true
   },
   "280146": {
     "OriginalText": "メモリーフラグメントの入手２",
-    "Text": "Acquire Memory Fragments 2",
+    "Text": "Acquire Memory Fragments II",
     "Enabled": true
   },
   "280147": {
     "OriginalText": "レアエネミー討伐２",
-    "Text": "Rare Enemy Subjugation 2",
+    "Text": "Rare Enemy Subjugation II",
     "Enabled": true
   },
   "280148": {
     "OriginalText": "メモリーフラグメントの入手３",
-    "Text": "Acquire Memory Fragments 3",
+    "Text": "Acquire Memory Fragments III",
     "Enabled": true
   },
   "280149": {
     "OriginalText": "レアエネミー討伐３",
-    "Text": "Rare Enemy Subjugation 3",
+    "Text": "Rare Enemy Subjugation III",
     "Enabled": true
   },
   "280150": {
     "OriginalText": "メモリーフラグメントの入手４",
-    "Text": "Acquire Memory Fragments 4",
+    "Text": "Acquire Memory Fragments IV",
     "Enabled": true
   },
   "280151": {
     "OriginalText": "メモリーフラグメントの入手５",
-    "Text": "Acquire Memory Fragments 5",
+    "Text": "Acquire Memory Fragments V",
     "Enabled": true
   },
   "280152": {
@@ -771,27 +771,27 @@
   },
   "280154": {
     "OriginalText": "メモリーフラグメント変換１",
-    "Text": "Memory Fragment Conversion 1",
+    "Text": "Memory Fragment Conversion I",
     "Enabled": true
   },
   "280155": {
     "OriginalText": "メモリーフラグメント変換２",
-    "Text": "Memory Fragment Conversion 2",
+    "Text": "Memory Fragment Conversion II",
     "Enabled": true
   },
   "280156": {
     "OriginalText": "メモリーフラグメント変換３",
-    "Text": "Memory Fragment Conversion 3",
+    "Text": "Memory Fragment Conversion III",
     "Enabled": true
   },
   "280157": {
     "OriginalText": "メモリーフラグメント変換４",
-    "Text": "Memory Fragment Conversion 4",
+    "Text": "Memory Fragment Conversion IV",
     "Enabled": true
   },
   "280158": {
     "OriginalText": "メモリーフラグメント変換５",
-    "Text": "Memory Fragment Conversion 5",
+    "Text": "Memory Fragment Conversion V",
     "Enabled": true
   },
   "280159": {
@@ -816,68 +816,68 @@
   },
   "280163": {
     "OriginalText": "虫片の調達",
-    "Text": "",
-    "Enabled": false
+    "Text": "Supplying Ink",
+    "Enabled": true
   },
   "280164": {
     "OriginalText": "針片の調達",
-    "Text": "",
-    "Enabled": false
+    "Text": "Supplying Stingers",
+    "Enabled": true
   },
   "280165": {
     "OriginalText": "状態異常の調査",
-    "Text": "",
-    "Enabled": false
+    "Text": "Status Effect Examination",
+    "Enabled": true
   },
   "280166": {
     "OriginalText": "墨の調達",
-    "Text": "",
-    "Enabled": false
+    "Text": "Supplying Moss",
+    "Enabled": true
   },
   "280167": {
     "OriginalText": "感染症の調査",
-    "Text": "",
-    "Enabled": false
+    "Text": "Infection Examination",
+    "Enabled": true
   },
   "280168": {
     "OriginalText": "苔尾の調達",
-    "Text": "",
-    "Enabled": false
+    "Text": "Supplying Tails",
+    "Enabled": true
   },
   "280169": {
     "OriginalText": "中毒症の調査",
-    "Text": "",
-    "Enabled": false
+    "Text": "Poison Examination",
+    "Enabled": true
   },
   "280170": {
     "OriginalText": "目玉の調達",
-    "Text": "",
-    "Enabled": false
+    "Text": "Supplying Eyeballs",
+    "Enabled": true
   },
   "280171": {
     "OriginalText": "鋭ドリルの調達",
-    "Text": "",
-    "Enabled": false
+    "Text": "Supplying Sharp Drills",
+    "Enabled": true
   },
   "280172": {
     "OriginalText": "★目片の調達",
-    "Text": "",
-    "Enabled": false
+    "Text": "★ Supplying Eye Pieces",
+    "Enabled": true
   },
   "280173": {
     "OriginalText": "★肉の調達",
-    "Text": "",
-    "Enabled": false
+    "Text": "★ Supplying Meat",
+    "Enabled": true
   },
   "280174": {
     "OriginalText": "視界不良の調査",
-    "Text": "",
-    "Enabled": false
+    "Text": "Poor Vision Examination",
+    "Enabled": true
   },
   "280175": {
     "OriginalText": "属性耐性弱化の調査",
-    "Text": "",
-    "Enabled": false
+    "Text": "Elemental Resist Weakening",
+    "Enabled": true
   },
   "280176": {
     "OriginalText": "ＳＨ生還訓練",
@@ -1361,8 +1361,8 @@
   },
   "280272": {
     "OriginalText": "防具ショップ改築",
-    "Text": "",
-    "Enabled": false
+    "Text": "Shields Shop Reconstruction",
+    "Enabled": true
   },
   "280273": {
     "OriginalText": "アイテムショップ改築",
@@ -1371,8 +1371,8 @@
   },
   "280274": {
     "OriginalText": "コスチュームショップ改築",
-    "Text": "",
-    "Enabled": false
+    "Text": "Costume Shop Reconstruction",
+    "Enabled": true
   },
   "280275": {
     "OriginalText": "エステ改築",

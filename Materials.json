@@ -71,7 +71,7 @@
   },
   "350014": {
     "OriginalText": "ロヴラッピーの肉",
-    "Text": "Lov-Rappy Meat",
+    "Text": "Love Rappy Meat",
     "Enabled": true
   },
   "350015": {
@@ -726,7 +726,7 @@
   },
   "350145": {
     "OriginalText": "Ｇキュクロナーダの目片",
-    "Text": "G-Kuklonahda Eye Piece",
+    "Text": "G-Kuklonahda Eyeball",
     "Enabled": true
   },
   "350146": {
@@ -1051,8 +1051,8 @@
   },
   "350210": {
     "OriginalText": "バリバッツの虫片",
-    "Text": "",
-    "Enabled": false
+    "Text": "Baribatts Ink",
+    "Enabled": true
   },
   "350211": {
     "OriginalText": "グランブの爪片",
@@ -1446,7 +1446,7 @@
   },
   "350289": {
     "OriginalText": "ギュゲンテのβ脚",
-    "Text": "Kyugent Insectoid Legs",
+    "Text": "Kyugante Insectoid Legs",
     "Enabled": true
   },
   "350290": {
@@ -1706,8 +1706,8 @@
   },
   "350341": {
     "OriginalText": "リバッツの目玉",
-    "Text": "",
-    "Enabled": false
+    "Text": "Ribatts Eyeball",
+    "Enabled": true
   },
   "350342": {
     "OriginalText": "ウィ・ロヴラッピーの大機",
@@ -2721,8 +2721,8 @@
   },
   "350544": {
     "OriginalText": "エア・ゲンテの鋭ドリル",
-    "Text": "",
-    "Enabled": false
+    "Text": "Libergante Sharp Drill",
+    "Enabled": true
   },
   "350545": {
     "OriginalText": "ネメスガイストの仮面破片",
