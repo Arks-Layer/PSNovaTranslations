@@ -721,42 +721,42 @@
   },
   "280144": {
     "OriginalText": "メモリーフラグメントの入手１",
-    "Text": "Acquire Memory Fragments 1",
+    "Text": "Acquire Memory Fragments I",
     "Enabled": true
   },
   "280145": {
     "OriginalText": "レアエネミー討伐１",
-    "Text": "Rare Enemy Subjugation 1",
+    "Text": "Rare Enemy Subjugation I",
     "Enabled": true
   },
   "280146": {
     "OriginalText": "メモリーフラグメントの入手２",
-    "Text": "Acquire Memory Fragments 2",
+    "Text": "Acquire Memory Fragments II",
     "Enabled": true
   },
   "280147": {
     "OriginalText": "レアエネミー討伐２",
-    "Text": "Rare Enemy Subjugation 2",
+    "Text": "Rare Enemy Subjugation II",
     "Enabled": true
   },
   "280148": {
     "OriginalText": "メモリーフラグメントの入手３",
-    "Text": "Acquire Memory Fragments 3",
+    "Text": "Acquire Memory Fragments III",
     "Enabled": true
   },
   "280149": {
     "OriginalText": "レアエネミー討伐３",
-    "Text": "Rare Enemy Subjugation 3",
+    "Text": "Rare Enemy Subjugation III",
     "Enabled": true
   },
   "280150": {
     "OriginalText": "メモリーフラグメントの入手４",
-    "Text": "Acquire Memory Fragments 4",
+    "Text": "Acquire Memory Fragments IV",
     "Enabled": true
   },
   "280151": {
     "OriginalText": "メモリーフラグメントの入手５",
-    "Text": "Acquire Memory Fragments 5",
+    "Text": "Acquire Memory Fragments V",
     "Enabled": true
   },
   "280152": {
@@ -771,27 +771,27 @@
   },
   "280154": {
     "OriginalText": "メモリーフラグメント変換１",
-    "Text": "Memory Fragment Conversion 1",
+    "Text": "Memory Fragment Conversion I",
     "Enabled": true
   },
   "280155": {
     "OriginalText": "メモリーフラグメント変換２",
-    "Text": "Memory Fragment Conversion 2",
+    "Text": "Memory Fragment Conversion II",
     "Enabled": true
   },
   "280156": {
     "OriginalText": "メモリーフラグメント変換３",
-    "Text": "Memory Fragment Conversion 3",
+    "Text": "Memory Fragment Conversion III",
     "Enabled": true
   },
   "280157": {
     "OriginalText": "メモリーフラグメント変換４",
-    "Text": "Memory Fragment Conversion 4",
+    "Text": "Memory Fragment Conversion IV",
     "Enabled": true
   },
   "280158": {
     "OriginalText": "メモリーフラグメント変換５",
-    "Text": "Memory Fragment Conversion 5",
+    "Text": "Memory Fragment Conversion V",
     "Enabled": true
   },
   "280159": {
@@ -1361,8 +1361,8 @@
   },
   "280272": {
     "OriginalText": "防具ショップ改築",
-    "Text": "",
-    "Enabled": false
+    "Text": "Shields Shop Reconstruction",
+    "Enabled": true
   },
   "280273": {
     "OriginalText": "アイテムショップ改築",
@@ -1371,8 +1371,8 @@
   },
   "280274": {
     "OriginalText": "コスチュームショップ改築",
-    "Text": "",
-    "Enabled": false
+    "Text": "Costume Shop Reconstruction",
+    "Enabled": true
   },
   "280275": {
     "OriginalText": "エステ改築",
