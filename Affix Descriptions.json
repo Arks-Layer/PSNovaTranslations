@@ -966,12 +966,12 @@
   },
   "820193": {
     "OriginalText": "ジャストアタックしたときの\nダメージが４％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "Increases Just Attacks damage by 4%.\n[a 03]※Abilities of the same name cannot be stacked.[b]",
+    "Text": "Increases Just Attacks damage by 4%.\n[n 03]※Abilities of the same name cannot be stacked.[b]",
     "Enabled": true
   },
   "820194": {
     "OriginalText": "ジャストアタックしたときの\nダメージが２０％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "Increases Just Attacks damage by 20%.\n[a 03]※Abilities of the same name cannot be stacked.[b]",
+    "Text": "Increases Just Attacks damage by 20%.\n[n 03]※Abilities of the same name cannot be stacked.[b]",
     "Enabled": true
   },
   "820195": {
@@ -1071,12 +1071,12 @@
   },
   "820214": {
     "OriginalText": "ＨＰが５０％のとき、\n打撃力と射撃力が１８０上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "When HP is at 50%, S-ATK and R-ATK\nincreases by 180.\n[a 03]※Abilities of the same name cannot be stacked.[b]",
+    "Text": "When HP is at 50%, S-ATK and R-ATK\nincreases by 180.\n[n 03]※Abilities of the same name cannot be stacked.[b]",
     "Enabled": true
   },
   "820215": {
     "OriginalText": "ＨＰが半分似下のとき、\n打撃力と射撃力が３００上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "When HP reaches half or lower,\nS-ATK and R-ATK increases by 300.\n[a 03]※Abilities of the same name cannot be stacked.[b]",
+    "Text": "When HP reaches half or lower,\nS-ATK and R-ATK increases by 300.\n[n 03]※Abilities of the same name cannot be stacked.[b]",
     "Enabled": true
   },
   "820216": {
@@ -1311,7 +1311,7 @@
   },
   "820262": {
     "OriginalText": "アベレージスタンス中に、\nダメージが４％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "During Average Stance, damage increases by 4%.\n[a 03]※Abilities of the same name cannot be stacked.[b]",
+    "Text": "During Average Stance, damage increases by 4%.\n[n 03]※Abilities of the same name cannot be stacked.[b]",
     "Enabled": true
   },
   "820263": {
@@ -1326,12 +1326,12 @@
   },
   "820265": {
     "OriginalText": "フューリースタンス中に、\nダメージが１％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "During Fury Stance, damage increases by 1%.\n[a 03]※Abilities of the same name cannot be stacked.[b]",
+    "Text": "During Fury Stance, damage increases by 1%.\n[n 03]※Abilities of the same name cannot be stacked.[b]",
     "Enabled": true
   },
   "820266": {
     "OriginalText": "フューリースタンス中に、\nダメージが３％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "During Fury Stance, damage increases by 3%.\n[a 03]※Abilities of the same name cannot be stacked.[b]",
+    "Text": "During Fury Stance, damage increases by 3%.\n[n 03]※Abilities of the same name cannot be stacked.[b]",
     "Enabled": true
   },
   "820267": {
@@ -1341,7 +1341,7 @@
   },
   "820268": {
     "OriginalText": "フューリースタンス中に、\nクリティカル率が１０％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "During Fury Stance, Critical hit ratio boosts by 10%.\n[a 03]※Abilities of the same name cannot be stacked.[b]",
+    "Text": "During Fury Stance, Critical hit\nratio boosts by 10%.\n[n 03]※Abilities of the same name cannot be stacked.[b]",
     "Enabled": true
   },
   "820269": {
@@ -1356,12 +1356,12 @@
   },
   "820271": {
     "OriginalText": "ガードスタンス中に、受けるダメージを１％軽滅し\n打撃力と射撃力が１５％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "During Guard Stance, damage received reduced by 1%\nand S-ATK and R-ATK increased by 15%.\n[a 03]※Abilities of the same name cannot be stacked.[b]",
+    "Text": "During Guard Stance, damage received reduced\nby 1% and S-ATK and R-ATK increased by 15%.\n[n 03]※Abilities of the same name cannot be stacked.[b]",
     "Enabled": true
   },
   "820272": {
     "OriginalText": "ガードスタンス中に、受けるダメージを３％軽滅し\n打撃力と射撃力が２５％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "During Guard Stance, damage received reduced by 3%\nand S-ATK and R-ATK increased by 25%.\n[a 03]※Abilities of the same name cannot be stacked.[b]",
+    "Text": "During Guard Stance, damage received reduced\nby 3% and S-ATK and R-ATK increased by 25%.\n[n 03]※Abilities of the same name cannot be stacked.[b]",
     "Enabled": true
   },
   "820273": {
@@ -1371,12 +1371,12 @@
   },
   "820274": {
     "OriginalText": "ブレイブスタンス中に、正面から与えるダメージが\n４％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "During Brave Stance, damage from the\nfront increases by 4%.\n[a 03]※Abilities of the same name cannot be stacked.",
+    "Text": "During Brave Stance, damage from the\nfront increases by 4%.\n[n 03]※Abilities of the same name cannot be stacked.",
     "Enabled": true
   },
   "820275": {
     "OriginalText": "ブレイブスタンス中に、正面から与えるダメージが\n６％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "During Brave Stance, damage from the\nfront increases by 6%.\n[a 03]※Abilities of the same name cannot be stacked.",
+    "Text": "During Brave Stance, damage from the\nfront increases by 6%.\n[n 03]※Abilities of the same name cannot be stacked.",
     "Enabled": true
   },
   "820276": {
@@ -1416,17 +1416,17 @@
   },
   "820283": {
     "OriginalText": "ワイズスタンス中に、背後から与えるダメージが\n８％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "During Wise Stance, damage from behind\nincreases by 8%.\n[a 03]※Abilities of the same name cannot be stacked.",
+    "Text": "During Wise Stance, damage from behind\nincreases by 8%.\n[n 03]※Abilities of the same name cannot be stacked.",
     "Enabled": true
   },
   "820284": {
     "OriginalText": "ワイズスタンス中に、背後から与えるダメージが\n１２％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "During Wise Stance, damage from behind\nincreases by 12%.\n[a 03]※Abilities of the same name cannot be stacked.",
+    "Text": "During Wise Stance, damage from behind\nincreases by 12%.\n[n 03]※Abilities of the same name cannot be stacked.",
     "Enabled": true
   },
   "820285": {
     "OriginalText": "ワイズスタンス中に、背後から与えるダメージを\n８０％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "During Wise Stance, damage from behind\nincreases by 80%.\n[a 03]※Abilities of the same name cannot be stacked.",
+    "Text": "During Wise Stance, damage from behind\nincreases by 80%.\n[n 03]※Abilities of the same name cannot be stacked.",
     "Enabled": true
   },
   "820286": {
