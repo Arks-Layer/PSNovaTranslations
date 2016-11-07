@@ -106,7 +106,7 @@
   },
   "210021": {
     "OriginalText": "アグリオスＰ型討伐",
-    "Text": "Subdue Agrious P-Type",
+    "Text": "Subdue Agrios P-Type",
     "Enabled": true
   },
   "210022": {
@@ -211,7 +211,7 @@
   },
   "210097": {
     "OriginalText": "迫るアグリオスを止めろ",
-    "Text": "Stop Agrious",
+    "Text": "Stop Agrios",
     "Enabled": true
   },
   "210098": {
@@ -231,12 +231,12 @@
   },
   "210101": {
     "OriginalText": "アグリオス討伐",
-    "Text": "Subdue Agrious",
+    "Text": "Subdue Agrios",
     "Enabled": true
   },
   "210102": {
     "OriginalText": "アグリオス捕獲",
-    "Text": "Capture Agrious",
+    "Text": "Capture Agrios",
     "Enabled": true
   },
   "210103": {
@@ -296,7 +296,7 @@
   },
   "210114": {
     "OriginalText": "ガラティオン討伐",
-    "Text": "Subdue Gratian",
+    "Text": "Subdue Gration",
     "Enabled": true
   },
   "210115": {
