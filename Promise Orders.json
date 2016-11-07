@@ -151,13 +151,13 @@
   },
   "280030": {
     "OriginalText": "ギガンテス２体撃破勝負",
-    "Text": "",
-    "Enabled": false
+    "Text": "2 Gigantes Slaying Competition",
+    "Enabled": true
   },
   "280031": {
     "OriginalText": "アルテイオス撃破勝負",
-    "Text": "",
-    "Enabled": false
+    "Text": "Altios Slaying Competition",
+    "Enabled": true
   },
   "280032": {
     "OriginalText": "ソードで戦え！",
@@ -172,22 +172,22 @@
   "280034": {
     "OriginalText": "ダブルセイバーで戦え！",
     "Text": "Fight with the Double Saber!",
-    "Enabled": false
+    "Enabled": true
   },
   "280035": {
     "OriginalText": "ナックルで戦え！",
     "Text": "Fight with Knuckles!",
-    "Enabled": false
+    "Enabled": true
   },
   "280036": {
     "OriginalText": "★銃身の回収",
     "Text": "★ Gun barrel Retrieval",
-    "Enabled": false
+    "Enabled": true
   },
   "280037": {
     "OriginalText": "グラン水装の新素村",
-    "Text": "",
-    "Enabled": false
+    "Text": "Advanced Gran Water Source Materials",
+    "Enabled": true
   },
   "280038": {
     "OriginalText": "ギガティオンの蛇張りに突入",
@@ -211,8 +211,8 @@
   },
   "280042": {
     "OriginalText": "イズナの訓練",
-    "Text": "",
-    "Enabled": false
+    "Text": "Izuna’s Training",
+    "Enabled": true
   },
   "280043": {
     "OriginalText": "レンジャーの訓練",
@@ -221,63 +221,63 @@
   },
   "280044": {
     "OriginalText": "エキスの調達",
-    "Text": "",
-    "Enabled": false
+    "Text": "Supplying Extract",
+    "Enabled": true
   },
   "280045": {
     "OriginalText": "触角の調達",
-    "Text": "",
-    "Enabled": false
+    "Text": "Supplying Antennae",
+    "Enabled": true
   },
   "280046": {
     "OriginalText": "手片の調達",
-    "Text": "",
-    "Enabled": false
+    "Text": "Supplying Arm Fragments",
+    "Enabled": true
   },
   "280047": {
     "OriginalText": "獣の皮片の調達",
-    "Text": "",
-    "Enabled": false
+    "Text": "Supplying Beast Hide",
+    "Enabled": true
   },
   "280048": {
     "OriginalText": "皮片の調達",
-    "Text": "",
-    "Enabled": false
+    "Text": "Supplying Hide Scraps",
+    "Enabled": true
   },
   "280049": {
     "OriginalText": "バンクゥの大宝石の調達",
-    "Text": "",
-    "Enabled": false
+    "Text": "Supplying Banku Gems",
+    "Enabled": true
   },
   "280050": {
     "OriginalText": "大砲塔部品の調達",
-    "Text": "",
-    "Enabled": false
+    "Text": "Supplying Large Artillery Parts",
+    "Enabled": true
   },
   "280051": {
     "OriginalText": "硬骨格の調達",
-    "Text": "",
-    "Enabled": false
+    "Text": "Supplying Skeleton",
+    "Enabled": true
   },
   "280052": {
     "OriginalText": "アサルトライフルで対象を撃破",
-    "Text": "",
-    "Enabled": false
+    "Text": "Defeat the target with Assault Rifles",
+    "Enabled": true
   },
   "280053": {
     "OriginalText": "ツインマシンガンで対象を撃破",
-    "Text": "",
-    "Enabled": false
+    "Text": "Defeat the Target with Twin Machineguns",
+    "Enabled": true
   },
   "280054": {
     "OriginalText": "オベリスクの破片回収",
-    "Text": "",
-    "Enabled": false
+    "Text": "Obelisk Fragment Retrieval",
+    "Enabled": true
   },
   "280055": {
     "OriginalText": "★花状結晶の調達",
-    "Text": "",
-    "Enabled": false
+    "Text": "★ Supplying Flower-shaped Crystals",
+    "Enabled": true
   },
   "280056": {
     "OriginalText": "ＳＨに挑戦・大尖塔",
@@ -1211,8 +1211,8 @@
   },
   "280242": {
     "OriginalText": "バスターの訓練",
-    "Text": "",
-    "Enabled": false
+    "Text": "Buster Training",
+    "Enabled": true
   },
   "280243": {
     "OriginalText": "パイルの訓練",
@@ -1261,13 +1261,13 @@
   },
   "280252": {
     "OriginalText": "リングジェネレーター改良",
-    "Text": "",
-    "Enabled": false
+    "Text": "Ring Generator Improvements",
+    "Enabled": true
   },
   "280253": {
     "OriginalText": "属性グランピース研究",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gran Piece Element Research",
+    "Enabled": true
   },
   "280254": {
     "OriginalText": "服の修理",

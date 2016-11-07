@@ -46,7 +46,7 @@
   },
   "350009": {
     "OriginalText": "ダーカーの触角",
-    "Text": "Darker Tentacle",
+    "Text": "Darker Antennae",
     "Enabled": true
   },
   "350010": {
@@ -271,8 +271,8 @@
   },
   "350054": {
     "OriginalText": "赤く広がる花状結晶",
-    "Text": "",
-    "Enabled": false
+    "Text": "Red Growing Flower Crystal",
+    "Enabled": true
   },
   "350055": {
     "OriginalText": "青い鉱石",
@@ -796,7 +796,7 @@
   },
   "350159": {
     "OriginalText": "獣の皮片",
-    "Text": "Monster Pelt",
+    "Text": "Beast Pelt",
     "Enabled": true
   },
   "350160": {
@@ -811,12 +811,12 @@
   },
   "350162": {
     "OriginalText": "巨大獣の皮片",
-    "Text": "Giant Monster Pelt",
+    "Text": "Giant Beast Pelt",
     "Enabled": true
   },
   "350163": {
     "OriginalText": "ギガンテスのグラン器片",
-    "Text": "G-infused Gigantes Organ ",
+    "Text": "G-infused Gigantes Organ",
     "Enabled": true
   },
   "350164": {
@@ -1076,8 +1076,8 @@
   },
   "350215": {
     "OriginalText": "アルキュオネの手片",
-    "Text": "",
-    "Enabled": false
+    "Text": "Alcyone Arm Piece",
+    "Enabled": true
   },
   "350216": {
     "OriginalText": "ノイ・ウィンディラスの尾",
@@ -1461,8 +1461,8 @@
   },
   "350292": {
     "OriginalText": "ギュゲンテの大砲塔部品",
-    "Text": "",
-    "Enabled": false
+    "Text": "Large Kyugante Gun Parts",
+    "Enabled": true
   },
   "350293": {
     "OriginalText": "リ・ゲンテのドリル",
@@ -1851,8 +1851,8 @@
   },
   "350370": {
     "OriginalText": "バンクゥの大宝石",
-    "Text": "",
-    "Enabled": false
+    "Text": "Banku Gems",
+    "Enabled": true
   },
   "350371": {
     "OriginalText": "レウ・ロヴラッピーの主翼",
@@ -1946,8 +1946,8 @@
   },
   "350389": {
     "OriginalText": "ガラティオンの硬骨格",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gration Frame",
+    "Enabled": true
   },
   "350390": {
     "OriginalText": "ラーアビアディノのコブ",
@@ -2511,8 +2511,8 @@
   },
   "350502": {
     "OriginalText": "スォロバンクゥの大宝石",
-    "Text": "",
-    "Enabled": false
+    "Text": "Swole Banku Gems",
+    "Enabled": true
   },
   "350503": {
     "OriginalText": "スマラクリトロの大煽皮",
@@ -2531,8 +2531,8 @@
   },
   "350506": {
     "OriginalText": "ヴェンバンクゥの大宝石",
-    "Text": "",
-    "Enabled": false
+    "Text": "Venn Banku Gems",
+    "Enabled": true
   },
   "350507": {
     "OriginalText": "エレマンデルの大髭",
@@ -2566,8 +2566,8 @@
   },
   "350513": {
     "OriginalText": "フレスバンクゥの大宝石",
-    "Text": "",
-    "Enabled": false
+    "Text": "Fresc Banku Gems",
+    "Enabled": true
   },
   "350514": {
     "OriginalText": "ブリバッツの硬翼枝",
@@ -2601,8 +2601,8 @@
   },
   "350520": {
     "OriginalText": "リベルゲンテの大砲塔部品",
-    "Text": "",
-    "Enabled": false
+    "Text": " Large Libelgante Gun Parts",
+    "Enabled": true
   },
   "350521": {
     "OriginalText": "ネメスヒュフテの仮面破片",
@@ -3486,8 +3486,8 @@
   },
   "350697": {
     "OriginalText": "ギガンテスの銃片",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gigantes Gun Piece",
+    "Enabled": true
   },
   "350698": {
     "OriginalText": "点火伝置",
@@ -3496,13 +3496,13 @@
   },
   "350699": {
     "OriginalText": "ギガンテスのレーザー片",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gigantes Laser Piece",
+    "Enabled": true
   },
   "350700": {
     "OriginalText": "ギガンテスのミサイル片",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gigantes Missile Piece",
+    "Enabled": true
   },
   "350701": {
     "OriginalText": "マクロージの抗体",

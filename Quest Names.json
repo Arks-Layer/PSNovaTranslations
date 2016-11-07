@@ -281,8 +281,8 @@
   },
   "200308": {
     "OriginalText": "ディートアス撃破任務",
-    "Text": "",
-    "Enabled": false
+    "Text": "Ditoas Subjugation Assignment",
+    "Enabled": true
   },
   "200309": {
     "OriginalText": "エウリュード撃破任務",
@@ -396,7 +396,7 @@
   },
   "200331": {
     "OriginalText": "難：銅の荒野連続撃破任務",
-    "Text": "",
+    "Text": "Danger: Copper Wastelands Destroy",
     "Enabled": false
   },
   "200332": {
@@ -421,8 +421,8 @@
   },
   "200336": {
     "OriginalText": "難：グレイオス攻略任務",
-    "Text": "",
-    "Enabled": false
+    "Text": "Danger: Grios Capture",
+    "Enabled": true
   },
   "200337": {
     "OriginalText": "難：アルキュオネ攻略任務",
@@ -456,8 +456,8 @@
   },
   "200343": {
     "OriginalText": "難：アルテイオス決戦",
-    "Text": "",
-    "Enabled": false
+    "Text": "Danger: Altios Duel",
+    "Enabled": true
   },
   "200344": {
     "OriginalText": "難：グラヴディオン決戦",
