@@ -416,8 +416,8 @@
   },
   "280083": {
     "OriginalText": "死なずに大洋原生種討伐に挑戦",
-    "Text": "",
-    "Enabled": false
+    "Text": "Native Slayer Survival Challenge",
+    "Enabled": true
   },
   "280084": {
     "OriginalText": "死なずにギガンテス撃破に挑戦",
@@ -711,8 +711,8 @@
   },
   "280142": {
     "OriginalText": "ブーストエネミー撃破訓練",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosted Enemy Annihilation Training",
+    "Enabled": true
   },
   "280143": {
     "OriginalText": "レアエネミー撃破訓練",
@@ -721,8 +721,8 @@
   },
   "280144": {
     "OriginalText": "メモリーフラグメントの入手１",
-    "Text": "",
-    "Enabled": false
+    "Text": "Acquire Memory Fragments (1)",
+    "Enabled": true
   },
   "280145": {
     "OriginalText": "レアエネミー討伐１",
@@ -1351,13 +1351,13 @@
   },
   "280270": {
     "OriginalText": "食堂改築",
-    "Text": "",
-    "Enabled": false
+    "Text": "Restaurant Reconstruction",
+    "Enabled": true
   },
   "280271": {
     "OriginalText": "武器ショップ改築",
-    "Text": "",
-    "Enabled": false
+    "Text": "Weapon Shop Reconstruction",
+    "Enabled": true
   },
   "280272": {
     "OriginalText": "防具ショップ改築",
@@ -1366,8 +1366,8 @@
   },
   "280273": {
     "OriginalText": "アイテムショップ改築",
-    "Text": "",
-    "Enabled": false
+    "Text": "Item Shop Reconstruction",
+    "Enabled": true
   },
   "280274": {
     "OriginalText": "コスチュームショップ改築",
@@ -1376,8 +1376,8 @@
   },
   "280275": {
     "OriginalText": "エステ改築",
-    "Text": "",
-    "Enabled": false
+    "Text": "Makeover Shop Reconstruction",
+    "Enabled": true
   },
   "280276": {
     "OriginalText": "フィルディアのお願い 予備枠 01",

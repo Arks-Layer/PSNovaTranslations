@@ -671,8 +671,8 @@
   },
   "300134": {
     "OriginalText": "【Ｇダーガッシュの歯片】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [G-Dagash Tooth Piece]",
+    "Enabled": true
   },
   "300135": {
     "OriginalText": "【難：アルキュオネ攻略任務】の\n【スーパーハード】似上をクリアする",
@@ -711,8 +711,8 @@
   },
   "300142": {
     "OriginalText": "【ブーストエネミー】を倒す",
-    "Text": "",
-    "Enabled": false
+    "Text": "Defeat any Boosted Enemy",
+    "Enabled": true
   },
   "300143": {
     "OriginalText": "【Ｇダガン・ネロ】（レア）を倒す",
@@ -721,8 +721,8 @@
   },
   "300144": {
     "OriginalText": "【メモリーフラグメントＡ】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Memory Fragment A]",
+    "Enabled": true
   },
   "300145": {
     "OriginalText": "【アルマラッピー・オナー】（レア）を\n倒す",
@@ -731,8 +731,8 @@
   },
   "300146": {
     "OriginalText": "【メモリーフラグメントＢ】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Memory Fragment B]",
+    "Enabled": true
   },
   "300147": {
     "OriginalText": "【ドギオス・ルフレ】（レア）を倒す",
@@ -741,8 +741,8 @@
   },
   "300148": {
     "OriginalText": "【メモリーフラグメントＣ】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Memory Fragment C]",
+    "Enabled": true
   },
   "300149": {
     "OriginalText": "【カーネベア・ゴルヴァ】（レア）を\n倒す",
@@ -751,13 +751,13 @@
   },
   "300150": {
     "OriginalText": "【メモリーフラグメントＤ】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Memory Fragment D]",
+    "Enabled": true
   },
   "300151": {
     "OriginalText": "【メモリーフラグメントＥ】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Memory Fragment E]",
+    "Enabled": true
   },
   "300152": {
     "OriginalText": "【ギュゲンテのβ脚】を集める",
@@ -1351,13 +1351,13 @@
   },
   "300270": {
     "OriginalText": "【膜β類のたまご】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Reptile Eggs]",
+    "Enabled": true
   },
   "300271": {
     "OriginalText": "【Ｇダーガッシュ】を倒す",
-    "Text": "",
-    "Enabled": false
+    "Text": "Defeat [G-Dagash]",
+    "Enabled": true
   },
   "300272": {
     "OriginalText": "【ラウーダンの爪片】を集める",
@@ -1366,8 +1366,8 @@
   },
   "300273": {
     "OriginalText": "【氷たく燃える金属結晶】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Frigid Burning Metal Crystal]",
+    "Enabled": true
   },
   "300274": {
     "OriginalText": "【グランブの爪片】を集める",
@@ -1376,8 +1376,8 @@
   },
   "300275": {
     "OriginalText": "【ベガルフの牙片】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Begulf Fang]",
+    "Enabled": true
   },
   "300276": {
     "OriginalText": "フィルディアのお願い15の達成条件",
