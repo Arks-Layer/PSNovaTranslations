@@ -2256,7 +2256,7 @@
   },
   "21755": {
     "OriginalText": "すべてのクルー",
-    "Text": "All crew members",
+    "Text": "All Crew Members",
     "Enabled": true
   },
   "21756": {
@@ -3176,7 +3176,7 @@
   },
   "22701": {
     "OriginalText": "成功",
-    "Text": " Success",
+    "Text": "Success",
     "Enabled": true
   },
   "22702": {
@@ -4241,7 +4241,7 @@
   },
   "25501": {
     "OriginalText": "オペレーターを交代しました。",
-    "Text": "Changed the operator.",
+    "Text": "Changed the operator to",
     "Enabled": true
   }
 }
