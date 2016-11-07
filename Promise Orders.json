@@ -816,68 +816,68 @@
   },
   "280163": {
     "OriginalText": "虫片の調達",
-    "Text": "",
-    "Enabled": false
+    "Text": "Supplying Ink",
+    "Enabled": true
   },
   "280164": {
     "OriginalText": "針片の調達",
-    "Text": "",
-    "Enabled": false
+    "Text": "Supplying Stingers",
+    "Enabled": true
   },
   "280165": {
     "OriginalText": "状態異常の調査",
-    "Text": "",
-    "Enabled": false
+    "Text": "Status Effect Examination",
+    "Enabled": true
   },
   "280166": {
     "OriginalText": "墨の調達",
-    "Text": "",
-    "Enabled": false
+    "Text": "Supplying Moss",
+    "Enabled": true
   },
   "280167": {
     "OriginalText": "感染症の調査",
-    "Text": "",
-    "Enabled": false
+    "Text": "Infection Examination",
+    "Enabled": true
   },
   "280168": {
     "OriginalText": "苔尾の調達",
-    "Text": "",
-    "Enabled": false
+    "Text": "Supplying Tails",
+    "Enabled": true
   },
   "280169": {
     "OriginalText": "中毒症の調査",
-    "Text": "",
-    "Enabled": false
+    "Text": "Poison Examination",
+    "Enabled": true
   },
   "280170": {
     "OriginalText": "目玉の調達",
-    "Text": "",
-    "Enabled": false
+    "Text": "Supplying Eyeballs",
+    "Enabled": true
   },
   "280171": {
     "OriginalText": "鋭ドリルの調達",
-    "Text": "",
-    "Enabled": false
+    "Text": "Supplying Sharp Drills",
+    "Enabled": true
   },
   "280172": {
     "OriginalText": "★目片の調達",
-    "Text": "",
-    "Enabled": false
+    "Text": "★ Supplying Eye Pieces",
+    "Enabled": true
   },
   "280173": {
     "OriginalText": "★肉の調達",
-    "Text": "",
-    "Enabled": false
+    "Text": "★ Supplying Meat",
+    "Enabled": true
   },
   "280174": {
     "OriginalText": "視界不良の調査",
-    "Text": "",
-    "Enabled": false
+    "Text": "Poor Vision Examination",
+    "Enabled": true
   },
   "280175": {
     "OriginalText": "属性耐性弱化の調査",
-    "Text": "",
-    "Enabled": false
+    "Text": "Elemental Resist Weakening",
+    "Enabled": true
   },
   "280176": {
     "OriginalText": "ＳＨ生還訓練",
