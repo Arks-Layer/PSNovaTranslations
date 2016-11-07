@@ -1831,7 +1831,7 @@
   },
   "21619": {
     "OriginalText": "アタッチパーツを作成しますか？",
-    "Text": "Create Attach Parts?",
+    "Text": "Create Attachment parts?",
     "Enabled": true
   },
   "21620": {
@@ -1981,8 +1981,8 @@
   },
   "21649": {
     "OriginalText": "このアタッチパーツを作成する\n条件を既たしていません。",
-    "Text": "You do not meet the\nconditions to create\nthis attachment.",
-    "Enabled": false
+    "Text": "You do not meet the\nconditions to create\nthis Attachment.",
+    "Enabled": true
   },
   "21701": {
     "OriginalText": "ストーリー",
@@ -2256,7 +2256,7 @@
   },
   "21755": {
     "OriginalText": "すべてのクルー",
-    "Text": "All crew members",
+    "Text": "All Crew Members",
     "Enabled": true
   },
   "21756": {
@@ -3086,8 +3086,8 @@
   },
   "22404": {
     "OriginalText": "コスチュームが完成しました。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Created the selected costume.",
+    "Enabled": true
   },
   "22405": {
     "OriginalText": "チュートリアル",
@@ -3176,7 +3176,7 @@
   },
   "22701": {
     "OriginalText": "成功",
-    "Text": " Success",
+    "Text": "Success",
     "Enabled": true
   },
   "22702": {
@@ -4241,7 +4241,7 @@
   },
   "25501": {
     "OriginalText": "オペレーターを交代しました。",
-    "Text": "Changed the operator.",
+    "Text": "Changed your operator to:",
     "Enabled": true
   }
 }
