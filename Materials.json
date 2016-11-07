@@ -1086,13 +1086,13 @@
   },
   "350217": {
     "OriginalText": "バリバッツの翼枝",
-    "Text": "",
-    "Enabled": false
+    "Text": "Baribatts Wings",
+    "Enabled": true
   },
   "350218": {
     "OriginalText": "グランブの甲羅",
-    "Text": "",
-    "Enabled": false
+    "Text": "Granv Carapace",
+    "Enabled": true
   },
   "350219": {
     "OriginalText": "バリドランナの朽爪",
@@ -1161,8 +1161,8 @@
   },
   "350232": {
     "OriginalText": "機械生洋のフレーム",
-    "Text": "",
-    "Enabled": false
+    "Text": "Crude Engine Frame",
+    "Enabled": true
   },
   "350233": {
     "OriginalText": "獣の牙",
@@ -1946,7 +1946,7 @@
   },
   "350389": {
     "OriginalText": "ガラティオンの硬骨格",
-    "Text": "Gration Frame",
+    "Text": "Garation Frame",
     "Enabled": true
   },
   "350390": {
@@ -2061,8 +2061,8 @@
   },
   "350412": {
     "OriginalText": "ヴィヴリュードの硬砲身",
-    "Text": "",
-    "Enabled": false
+    "Text": "Vivrude Gun Barrel",
+    "Enabled": true
   },
   "350413": {
     "OriginalText": "デェフキュオネの大虫麦",
@@ -2591,13 +2591,13 @@
   },
   "350518": {
     "OriginalText": "アルテイオスの鋭角",
-    "Text": "",
-    "Enabled": false
+    "Text": "Altios Bladed Horn",
+    "Enabled": true
   },
   "350519": {
     "OriginalText": "グラヴディオンの硬鉄線",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gravdion Steel Wire",
+    "Enabled": true
   },
   "350520": {
     "OriginalText": "リベルゲンテの大砲塔部品",
@@ -3781,8 +3781,8 @@
   },
   "350756": {
     "OriginalText": "Ｇダーク・ラグネの超脚甲",
-    "Text": "",
-    "Enabled": false
+    "Text": "G-Dark Ragne Leg Carapace",
+    "Enabled": true
   },
   "350757": {
     "OriginalText": "Ｇミクダの超甲羅",
@@ -3806,8 +3806,8 @@
   },
   "350761": {
     "OriginalText": "Ｇウォルガーダの超髪",
-    "Text": "",
-    "Enabled": false
+    "Text": "G-Wolgahda Hair",
+    "Enabled": true
   },
   "350762": {
     "OriginalText": "Ｇキュクロナーダの超腕",
@@ -3816,8 +3816,8 @@
   },
   "350763": {
     "OriginalText": "Ｇシャルレイダの超甲羅",
-    "Text": "",
-    "Enabled": false
+    "Text": "G-Shalurayda Shell",
+    "Enabled": true
   },
   "350764": {
     "OriginalText": "バリドランナの超光玉",
@@ -4301,13 +4301,13 @@
   },
   "350860": {
     "OriginalText": "ウィルアフォルの超目玉",
-    "Text": "",
-    "Enabled": false
+    "Text": "Viluaphol Eyeballs",
+    "Enabled": true
   },
   "350861": {
     "OriginalText": "アグリオスの超皮",
-    "Text": "",
-    "Enabled": false
+    "Text": "Agrios Hide",
+    "Enabled": true
   },
   "350862": {
     "OriginalText": "グレイオスの超皮",
@@ -4346,8 +4346,8 @@
   },
   "350869": {
     "OriginalText": "アルキュオネの超触手",
-    "Text": "",
-    "Enabled": false
+    "Text": "Alcyone Tentacle",
+    "Enabled": true
   },
   "350870": {
     "OriginalText": "デェフキュオネの超触手",

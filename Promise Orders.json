@@ -146,7 +146,7 @@
   },
   "280029": {
     "OriginalText": "グレイオス撃破勝負",
-    "Text": "Grios Slaying Competition",
+    "Text": "Greios Slaying Competition",
     "Enabled": true
   },
   "280030": {
@@ -1011,33 +1011,33 @@
   },
   "280202": {
     "OriginalText": "スキルボード拡張",
-    "Text": "",
-    "Enabled": false
+    "Text": "Skill Board Expansion",
+    "Enabled": true
   },
   "280203": {
     "OriginalText": "スキルボード再拡張",
-    "Text": "",
-    "Enabled": false
+    "Text": "Skill Board Re-expansion",
+    "Enabled": true
   },
   "280204": {
     "OriginalText": "シルブカーネベア撃破訓練",
-    "Text": "",
-    "Enabled": false
+    "Text": "Silvcarne Bear Annihilation Training",
+    "Enabled": true
   },
   "280205": {
     "OriginalText": "エネミー撃破訓練",
-    "Text": "",
-    "Enabled": false
+    "Text": "Enemy Annihilation  Training",
+    "Enabled": true
   },
   "280206": {
     "OriginalText": "クエストＡランク訓練",
-    "Text": "",
-    "Enabled": false
+    "Text": "A-Rank Training",
+    "Enabled": true
   },
   "280207": {
     "OriginalText": "プレディカーダ撃破訓練",
-    "Text": "",
-    "Enabled": false
+    "Text": "G-Predicahda Annihilation Training",
+    "Enabled": true
   },
   "280208": {
     "OriginalText": "ギガンテス戦Ｓランク訓練",
@@ -1216,48 +1216,48 @@
   },
   "280243": {
     "OriginalText": "パイルの訓練",
-    "Text": "",
-    "Enabled": false
+    "Text": "Pile Training",
+    "Enabled": true
   },
   "280244": {
     "OriginalText": "グランピースの調達１",
-    "Text": "",
-    "Enabled": false
+    "Text": "Supplying Gran Pieces I",
+    "Enabled": true
   },
   "280245": {
     "OriginalText": "甲羅の調達",
-    "Text": "",
-    "Enabled": false
+    "Text": "Supplying Hard Shells",
+    "Enabled": true
   },
   "280246": {
     "OriginalText": "グランピースの調達２",
-    "Text": "",
-    "Enabled": false
+    "Text": "Supplying Gran Pieces II",
+    "Enabled": true
   },
   "280247": {
     "OriginalText": "フレームの調達",
-    "Text": "",
-    "Enabled": false
+    "Text": "Supplying Frames",
+    "Enabled": true
   },
   "280248": {
     "OriginalText": "浮遊伝置の調達",
-    "Text": "",
-    "Enabled": false
+    "Text": "Supplying Floating Equipment",
+    "Enabled": true
   },
   "280249": {
     "OriginalText": "最強ギガンテスのパーツの調達",
-    "Text": "",
-    "Enabled": false
+    "Text": "Supplying the Strongest Gigantes Parts",
+    "Enabled": true
   },
   "280250": {
     "OriginalText": "★翼枝の回収",
-    "Text": "",
-    "Enabled": false
+    "Text": "★ Wing Retrieval",
+    "Enabled": true
   },
   "280251": {
     "OriginalText": "★ギガンテスパーツの調達",
-    "Text": "",
-    "Enabled": false
+    "Text": "★ Supplying Gigantes Parts",
+    "Enabled": true
   },
   "280252": {
     "OriginalText": "リングジェネレーター改良",
@@ -1271,13 +1271,13 @@
   },
   "280254": {
     "OriginalText": "服の修理",
-    "Text": "",
-    "Enabled": false
+    "Text": "Clothing Repair",
+    "Enabled": true
   },
   "280255": {
     "OriginalText": "コア精錬研究",
-    "Text": "",
-    "Enabled": false
+    "Text": "Core Refining Research",
+    "Enabled": true
   },
   "280256": {
     "OriginalText": "ダーカー素村研究",

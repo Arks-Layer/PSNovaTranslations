@@ -246,7 +246,7 @@
   },
   "200301": {
     "OriginalText": "銅の荒野哨戒任務",
-    "Text": "Copper Wastelands Patrol",
+    "Text": "Copper Wastelands Patrol I",
     "Enabled": true
   },
   "200302": {
@@ -291,13 +291,13 @@
   },
   "200310": {
     "OriginalText": "銅の荒野資村回収任務",
-    "Text": "",
-    "Enabled": false
+    "Text": "Copper Wastelands Outskirts Recovery",
+    "Enabled": true
   },
   "200311": {
     "OriginalText": "銅の荒野哨戒任務２",
-    "Text": "",
-    "Enabled": false
+    "Text": "Copper Wasteland Patrol II",
+    "Enabled": true
   },
   "200312": {
     "OriginalText": "銅の荒野殲滅任務",
@@ -306,8 +306,8 @@
   },
   "200313": {
     "OriginalText": "目を覚ます磁晶模",
-    "Text": "",
-    "Enabled": false
+    "Text": "Awaken the Magnetic Crystal",
+    "Enabled": true
   },
   "200314": {
     "OriginalText": "アルキュオネ追跡撃破任務",
@@ -421,7 +421,7 @@
   },
   "200336": {
     "OriginalText": "難：グレイオス攻略任務",
-    "Text": "Danger: Grios Capture",
+    "Text": "Danger: Greios Capture",
     "Enabled": true
   },
   "200337": {

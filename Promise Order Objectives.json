@@ -146,7 +146,7 @@
   },
   "300029": {
     "OriginalText": "【難：グレイオス攻略任務】を\nクリアする",
-    "Text": "Clear [Danger: Grios Capture]",
+    "Text": "Clear [Danger: Greios Capture]",
     "Enabled": true
   },
   "300030": {
@@ -256,7 +256,7 @@
   },
   "300051": {
     "OriginalText": "【ガラティオンの硬骨格】を集める",
-    "Text": "Collect [Gration Frame]",
+    "Text": "Collect [Garation Frame]",
     "Enabled": true
   },
   "300052": {
@@ -1011,33 +1011,33 @@
   },
   "300202": {
     "OriginalText": "【銅の荒野資村回収任務】を\n【Ａランク】似上でクリアする",
-    "Text": "",
-    "Enabled": false
+    "Text": "A-Rank clear [Copper Wastelands Outskirts Recovery]",
+    "Enabled": true
   },
   "300203": {
     "OriginalText": "【目を覚ます磁晶模】の\n【ハード】似上を\n【Ａランク】似上でクリアする",
-    "Text": "",
-    "Enabled": false
+    "Text": "A-Rank clear the quest\n[Awaken the Magnetic Crystal]\non [Hard]",
+    "Enabled": true
   },
   "300204": {
     "OriginalText": "【シルブカーネベア：Ｌｖ１５】を倒す",
-    "Text": "",
-    "Enabled": false
+    "Text": "Defeat [Sirbucarnne Bear] Lv.15",
+    "Enabled": true
   },
   "300205": {
     "OriginalText": "【バレダイナス系：Ｌｖ１５】を倒す\n【マフレザール系：Ｌｖ１５】を倒す\n【マンデル系：Ｌｖ１５】を倒す",
-    "Text": "",
-    "Enabled": false
+    "Text": "Defeat [Vale-Dynas] Lv.15\nDefeat [Maphrezer] Lv.15\nDefeat [Mandel] Lv.15",
+    "Enabled": true
   },
   "300206": {
     "OriginalText": "【銅の荒野哨戒任務２】の\n【ハード】似上を\n【Ａランク】似上でクリアする",
-    "Text": "",
-    "Enabled": false
+    "Text": "A-Rank clear the quest\n[Copper Wasteland Patrol II]\non [Hard]",
+    "Enabled": true
   },
   "300207": {
     "OriginalText": "【プレディカーダ：Ｌｖ５０】を倒す",
-    "Text": "",
-    "Enabled": false
+    "Text": "Defeat [G-Predicahda] Lv.50",
+    "Enabled": true
   },
   "300208": {
     "OriginalText": "【アルキュオネ討伐任務】の\n【ベリーハード】似上を\n【Ｓランク】似上でクリアする",
@@ -1216,8 +1216,8 @@
   },
   "300243": {
     "OriginalText": "【パイル訓練】をクリアする",
-    "Text": "",
-    "Enabled": false
+    "Text": "Clear [Pile Training]",
+    "Enabled": true
   },
   "300244": {
     "OriginalText": "【グランピース】を集める",
@@ -1226,8 +1226,8 @@
   },
   "300245": {
     "OriginalText": "【グランブの甲羅】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Granv Carapace]",
+    "Enabled": true
   },
   "300246": {
     "OriginalText": "【グランピース（光属性）】を集める\n【グランピース（闇属性）】を集める",
@@ -1236,23 +1236,23 @@
   },
   "300247": {
     "OriginalText": "【機械生洋のフレーム】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Crude Engine Frame]",
+    "Enabled": true
   },
   "300248": {
     "OriginalText": "【アルキュオネの浮遊伝置】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Alcyone's Levitator]",
+    "Enabled": true
   },
   "300249": {
     "OriginalText": "【アルテイオスの鋭角】を集める\n【グラヴディオンの硬鉄線】を集める\n【ヴィヴリュードの硬砲身】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Altios Bladed Horn]\nCollect [Gravdion Steel Wire]\nCollect [Vivrude Gun Barrel]",
+    "Enabled": true
   },
   "300250": {
     "OriginalText": "【バリバッツの翼枝】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Baribatts Wings]",
+    "Enabled": true
   },
   "300251": {
     "OriginalText": "【ギガンテスの銃片】を集める\n【ギガンテスのレーザー片】を集める\n【ギガンテスのミサイル片】を集める",
@@ -1281,12 +1281,12 @@
   },
   "300256": {
     "OriginalText": "【Ｇダーク・ラグネの超脚甲】を集める\n【Ｇウォルガーダの超髪】を集める\n【Ｇシャルレイダの超甲羅】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [G-Dark Ragne Leg Carapace]\nCollect [G-Wolgahda Hair]\nCollect [G-Shalurayda Shell]",
+    "Enabled": true
   },
   "300257": {
     "OriginalText": "【アグリオスの超皮】を集める\n【ウィルアフォルの超目玉】を集める\n【アルキュオネの超触手】を集める",
-    "Text": "",
+    "Text": "Collect [Agrios Hide]\nCollect [Viluaphol Eyeballs]\nCollect [Alcyone Tentacle]",
     "Enabled": false
   },
   "300258": {

@@ -721,7 +721,7 @@
   },
   "184410": {
     "OriginalText": "シルブカーネベア",
-    "Text": "Sirbucarnne Bear",
+    "Text": "Silvcarnne Bear",
     "Enabled": true
   },
   "184420": {
@@ -731,7 +731,7 @@
   },
   "184430": {
     "OriginalText": "オラルカーネベア",
-    "Text": "Ololecarnne Bear",
+    "Text": "Oralecarnne Bear",
     "Enabled": true
   },
   "184440": {
@@ -856,12 +856,12 @@
   },
   "184920": {
     "OriginalText": "グレイオス",
-    "Text": "Grios",
+    "Text": "Greios",
     "Enabled": true
   },
   "184921": {
     "OriginalText": "グレイオスＳ型",
-    "Text": "Grios S-Type",
+    "Text": "Greios S-Type",
     "Enabled": true
   },
   "184930": {
@@ -876,28 +876,28 @@
   },
   "185010": {
     "OriginalText": "エウリュード",
-    "Text": "Elude",
+    "Text": "Eurude",
     "Enabled": true
   },
   "185020": {
     "OriginalText": "換伝武器：ガトリング",
-    "Text": "",
-    "Enabled": false
+    "Text": "Weapon Attachment: Gatling",
+    "Enabled": true
   },
   "185030": {
     "OriginalText": "換伝武器：クロー",
-    "Text": "",
-    "Enabled": false
+    "Text": "Weapon Attachment: Claw",
+    "Enabled": true
   },
   "185040": {
     "OriginalText": "換伝武器：ビーム",
-    "Text": "",
-    "Enabled": false
+    "Text": "Weapon Attachment: Beam",
+    "Enabled": true
   },
   "185050": {
     "OriginalText": "換伝武器：ミサイル",
-    "Text": "",
-    "Enabled": false
+    "Text": "Weapon Attachment: Missile",
+    "Enabled": true
   },
   "185060": {
     "OriginalText": "レーザー射出口",
@@ -926,7 +926,7 @@
   },
   "185110": {
     "OriginalText": "ガラティオン",
-    "Text": "Gration",
+    "Text": "Garation",
     "Enabled": true
   },
   "185120": {
@@ -946,12 +946,12 @@
   },
   "185140": {
     "OriginalText": "角",
-    "Text": "",
-    "Enabled": false
+    "Text": "Horn",
+    "Enabled": true
   },
   "185145": {
     "OriginalText": "チェーンソー",
-    "Text": "Chenso",
+    "Text": "Chainsaw",
     "Enabled": true
   },
   "185150": {
@@ -1011,7 +1011,7 @@
   },
   "185381": {
     "OriginalText": "キャノン砲",
-    "Text": "Hou Cannon",
+    "Text": "Cannon Mortar",
     "Enabled": true
   },
   "185382": {
@@ -1146,13 +1146,13 @@
   },
   "189007": {
     "OriginalText": "アンテナ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Antenna",
+    "Enabled": true
   },
   "189008": {
     "OriginalText": "ミサイルポッド",
-    "Text": "",
-    "Enabled": false
+    "Text": "Missile Pod",
+    "Enabled": true
   },
   "189009": {
     "OriginalText": "２連機関砲",
@@ -1191,8 +1191,8 @@
   },
   "189016": {
     "OriginalText": "タンク",
-    "Text": "",
-    "Enabled": false
+    "Text": "Tank",
+    "Enabled": true
   },
   "189017": {
     "OriginalText": "砲台",
@@ -1201,13 +1201,13 @@
   },
   "189018": {
     "OriginalText": "角",
-    "Text": "",
-    "Enabled": false
+    "Text": "Horn",
+    "Enabled": true
   },
   "189019": {
     "OriginalText": "牙",
-    "Text": "",
-    "Enabled": false
+    "Text": "Fang",
+    "Enabled": true
   },
   "189020": {
     "OriginalText": "虚の骸Ｇダーク・ラグネ",
@@ -1526,7 +1526,7 @@
   },
   "189083": {
     "OriginalText": "ヴィヴリュード",
-    "Text": "",
+    "Text": "Vivrude",
     "Enabled": false
   },
   "189084": {
@@ -1566,13 +1566,13 @@
   },
   "189091": {
     "OriginalText": "ヴィヴリュードＳ型",
-    "Text": "",
-    "Enabled": false
+    "Text": "Vivrude S-type",
+    "Enabled": true
   },
   "189092": {
     "OriginalText": "メガ・ラッピー",
-    "Text": "",
-    "Enabled": false
+    "Text": "Mega Rappy",
+    "Enabled": true
   },
   "189093": {
     "OriginalText": "ノイヴァトアス",
@@ -1611,23 +1611,23 @@
   },
   "189100": {
     "OriginalText": "アルテイオスＵ型",
-    "Text": "",
-    "Enabled": false
+    "Text": "Altios U-Type",
+    "Enabled": true
   },
   "189101": {
     "OriginalText": "ヴィヴリュードＷ型",
-    "Text": "",
-    "Enabled": false
+    "Text": "Vivrude W-Type",
+    "Enabled": true
   },
   "189102": {
     "OriginalText": "グラヴディオンＵ型",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gravdion U-Type",
+    "Enabled": true
   },
   "189103": {
     "OriginalText": "デェフキュオネＷ型",
-    "Text": "",
-    "Enabled": false
+    "Text": "Defcyone W-Type",
+    "Enabled": true
   },
   "189104": {
     "OriginalText": "メガ・アルマラッピー",
