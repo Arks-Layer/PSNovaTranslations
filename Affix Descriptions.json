@@ -1071,13 +1071,13 @@
   },
   "820214": {
     "OriginalText": "ＨＰが５０％のとき、\n打撃力と射撃力が１８０上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "When HP is at 50%, S-ATK and R-ATK\nincreases by 180.\n[a 03]※Abilities of the same name cannot be stacked.[b]",
+    "Enabled": true
   },
   "820215": {
     "OriginalText": "ＨＰが半分似下のとき、\n打撃力と射撃力が３００上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "When HP reaches half or lower,\nS-ATK and R-ATK increases by 300.\n[a 03]※Abilities of the same name cannot be stacked.[b]",
+    "Enabled": true
   },
   "820216": {
     "OriginalText": "削除",
@@ -1116,18 +1116,18 @@
   },
   "820223": {
     "OriginalText": "空中にいるエネミーへの\n射撃攻撃によるダメージが６％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "When hitting aerial enemies, ranged attack\ndamage increases by 6%.\n[a 03]※Abilities of the same name cannot be stacked.[b]",
+    "Enabled": true
   },
   "820224": {
     "OriginalText": "空中にいるエネミーへの\n射撃攻撃によるダメージが１０％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "When hitting aerial enemies, ranged attack\ndamage increases by 10%.\n[a 03]※Abilities of the same name cannot be stacked.[b]",
+    "Enabled": true
   },
   "820225": {
     "OriginalText": "空中にいるエネミーへの\n射撃攻撃によるダメージが４０％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "When hitting aerial enemies, ranged attack\ndamage increases by 40%.\n[a 03]※Abilities of the same name cannot be stacked.[b]",
+    "Enabled": true
   },
   "820226": {
     "OriginalText": "通常攻撃のＧＰ回復量が\n２０％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
@@ -1146,48 +1146,48 @@
   },
   "820229": {
     "OriginalText": "炎属性テクニックのダメージが\n１２％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "Fire Technique damage increases by 12%.\n[a 03]※Abilities of the same name cannot be stacked.[b]",
+    "Enabled": true
   },
   "820230": {
     "OriginalText": "炎属性テクニックのダメージが\n１６％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "Fire Technique damage increases by 16%.\n[a 03]※Abilities of the same name cannot be stacked.[b]",
+    "Enabled": true
   },
   "820231": {
     "OriginalText": "炎属性テクニックのダメージが\n２０％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "Fire Technique damage increases by 20%.\n[a 03]※Abilities of the same name cannot be stacked.[b]",
+    "Enabled": true
   },
   "820232": {
     "OriginalText": "劇属性テクニックのダメージが\n１２％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "Ice Technique damage increases by 12%.\n[a 03]※Abilities of the same name cannot be stacked.[b]",
+    "Enabled": true
   },
   "820233": {
     "OriginalText": "劇属性テクニックのダメージが\n１６％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "Ice Technique damage increases by 12%.\n[a 03]※Abilities of the same name cannot be stacked.[b]",
+    "Enabled": true
   },
   "820234": {
     "OriginalText": "劇属性テクニックのダメージが\n２０％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "Ice Technique damage increases by 12%.\n[a 03]※Abilities of the same name cannot be stacked.[b]",
+    "Enabled": true
   },
   "820235": {
     "OriginalText": "雷属性テクニックのダメージが\n１２％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "Lightning Technique damage increases by 12%.\n[a 03]※Abilities of the same name cannot be stacked.[b]",
+    "Enabled": true
   },
   "820236": {
     "OriginalText": "雷属性テクニックのダメージが\n１６％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "Lightning Technique damage increases by 12%.\n[a 03]※Abilities of the same name cannot be stacked.[b]",
+    "Enabled": true
   },
   "820237": {
     "OriginalText": "雷属性テクニックのダメージが\n２０％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "Lightning Technique damage increases by 12%.\n[a 03]※Abilities of the same name cannot be stacked.[b]",
+    "Enabled": true
   },
   "820238": {
     "OriginalText": "ＧＰ自動回復速度が８％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
@@ -1266,18 +1266,18 @@
   },
   "820253": {
     "OriginalText": "８％の確率でダメージを無効化する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gives 8% chance of Damage Nullification.\n[a 03]※Abilities of the same name cannot be stacked.[b]",
+    "Enabled": true
   },
   "820254": {
     "OriginalText": "１０％の確率でダメージを無効化する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gives 10% chance of Damage Nullification.\n[a 03]※Abilities of the same name cannot be stacked.[b]",
+    "Enabled": true
   },
   "820255": {
     "OriginalText": "１２％の確率でダメージを無効化する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gives 12% chance of Damage Nullification.\n[a 03]※Abilities of the same name cannot be stacked.[b]",
+    "Enabled": true
   },
   "820256": {
     "OriginalText": "ダメージを受けたとき\n１５％の確率で玄け反らなくなる。\n[a 03]※同名の特殊能力は重復しない[b]",
@@ -1311,13 +1311,13 @@
   },
   "820262": {
     "OriginalText": "アベレージスタンス中に、\nダメージが４％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "During Average Stance, damage increases by 4%.\n[a 03]※Abilities of the same name cannot be stacked.[b]",
+    "Enabled": true
   },
   "820263": {
     "OriginalText": "アベレージスタンス中に、\nダメージが３５％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "During Average Stance, damage increases by 35%.\n[a 03]※Abilities of the same name cannot be stacked.[b]",
+    "Enabled": true
   },
   "820264": {
     "OriginalText": "削除",
@@ -1326,28 +1326,28 @@
   },
   "820265": {
     "OriginalText": "フューリースタンス中に、\nダメージが１％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "During Fury Stance, damage increases by 1%.\n[a 03]※Abilities of the same name cannot be stacked.[b]",
+    "Enabled": true
   },
   "820266": {
     "OriginalText": "フューリースタンス中に、\nダメージが３％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "During Fury Stance, damage increases by 3%.\n[a 03]※Abilities of the same name cannot be stacked.[b]",
+    "Enabled": true
   },
   "820267": {
     "OriginalText": "フューリースタンス中に\nダメージが４０％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "During Fury Stance, damage increases by 40%.\n[a 03]※Abilities of the same name cannot be stacked.[b]",
+    "Enabled": true
   },
   "820268": {
     "OriginalText": "フューリースタンス中に、\nクリティカル率が１０％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "During Fury Stance, Critical hit ratio boosts by 10%.\n[a 03]※Abilities of the same name cannot be stacked.[b]",
+    "Enabled": true
   },
   "820269": {
     "OriginalText": "フューリースタンス中に、\nクリティカル率が１５％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "During Fury Stance, Critical hit ratio boosts by 15%.\n[a 03]※Abilities of the same name cannot be stacked.[b]",
+    "Enabled": true
   },
   "820270": {
     "OriginalText": "削除",
@@ -1356,13 +1356,13 @@
   },
   "820271": {
     "OriginalText": "ガードスタンス中に、受けるダメージを１％軽滅し\n打撃力と射撃力が１５％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "During Guard Stance, damage received reduced by 1%\nand S-ATK and R-ATK increased by 15%.\n[a 03]※Abilities of the same name cannot be stacked.[b]",
+    "Enabled": true
   },
   "820272": {
     "OriginalText": "ガードスタンス中に、受けるダメージを３％軽滅し\n打撃力と射撃力が２５％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "During Guard Stance, damage received reduced by 3%\nand S-ATK and R-ATK increased by 25%.\n[a 03]※Abilities of the same name cannot be stacked.[b]",
+    "Enabled": true
   },
   "820273": {
     "OriginalText": "削除",
@@ -1371,13 +1371,13 @@
   },
   "820274": {
     "OriginalText": "ブレイブスタンス中に、正面から与えるダメージが\n４％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "During Brave Stance, damage from the\nfront increases by 4%.\n[a 03]※Abilities of the same name cannot be stacked.",
+    "Enabled": true
   },
   "820275": {
     "OriginalText": "ブレイブスタンス中に、正面から与えるダメージが\n６％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "During Brave Stance, damage from the\nfront increases by 6%.\n[a 03]※Abilities of the same name cannot be stacked.",
+    "Enabled": true
   },
   "820276": {
     "OriginalText": "削除",
@@ -1386,8 +1386,8 @@
   },
   "820277": {
     "OriginalText": "ブレイブスタンス中に、正面から与えるダメージが\n５０％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "During Brave Stance, damage from the\nfront increases by 50%.\n[a 03]※Abilities of the same name cannot be stacked.",
+    "Enabled": true
   },
   "820278": {
     "OriginalText": "削除",
@@ -1416,18 +1416,18 @@
   },
   "820283": {
     "OriginalText": "ワイズスタンス中に、背後から与えるダメージが\n８％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "During Wise Stance, damage from behind\nincreases by 8%.\n[a 03]※Abilities of the same name cannot be stacked.",
+    "Enabled": true
   },
   "820284": {
     "OriginalText": "ワイズスタンス中に、背後から与えるダメージが\n１２％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "During Wise Stance, damage from behind\nincreases by 12%.\n[a 03]※Abilities of the same name cannot be stacked.",
+    "Enabled": true
   },
   "820285": {
     "OriginalText": "ワイズスタンス中に、背後から与えるダメージを\n８０％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "During Wise Stance, damage from behind\nincreases by 80%.\n[a 03]※Abilities of the same name cannot be stacked.",
+    "Enabled": true
   },
   "820286": {
     "OriginalText": "スタンディングスナイプの効果が\n７％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
@@ -1566,48 +1566,48 @@
   },
   "820315": {
     "OriginalText": "風属性テクニックのダメージが\n１２％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "Wind Technique damage increases by 12%.\n[a 03]※Abilities of the same name cannot be stacked.[b]",
+    "Enabled": true
   },
   "820316": {
     "OriginalText": "風属性テクニックのダメージが\n１６％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "Wind Technique damage increases by 16%.\n[a 03]※Abilities of the same name cannot be stacked.[b]",
+    "Enabled": true
   },
   "820317": {
     "OriginalText": "風属性テクニックのダメージが\n２０％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "Wind Technique damage increases by 20%.\n[a 03]※Abilities of the same name cannot be stacked.[b]",
+    "Enabled": true
   },
   "820318": {
     "OriginalText": "光属性テクニックのダメージが\n１２％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "Light Technique damage increases by 12%.\n[a 03]※Abilities of the same name cannot be stacked.[b]",
+    "Enabled": true
   },
   "820319": {
     "OriginalText": "光属性テクニックのダメージが\n１６％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "Light Technique damage increases by 16%.\n[a 03]※Abilities of the same name cannot be stacked.[b]",
+    "Enabled": true
   },
   "820320": {
     "OriginalText": "光属性テクニックのダメージが\n２０％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "Light Technique damage increases by 20%.\n[a 03]※Abilities of the same name cannot be stacked.[b]",
+    "Enabled": true
   },
   "820321": {
     "OriginalText": "闇属性テクニックのダメージが\n１２％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "Dark Technique damage increases by 12%.\n[a 03]※Abilities of the same name cannot be stacked.[b]",
+    "Enabled": true
   },
   "820322": {
     "OriginalText": "闇属性テクニックのダメージが\n１６％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "Dark Technique damage increases by 16%.\n[a 03]※Abilities of the same name cannot be stacked.[b]",
+    "Enabled": true
   },
   "820323": {
     "OriginalText": "闇属性テクニックのダメージが\n２０％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "Dark Technique damage increases by 20%.\n[a 03]※Abilities of the same name cannot be stacked.[b]",
+    "Enabled": true
   },
   "820324": {
     "OriginalText": "射撃攻撃時\nクリティカル率が５％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",

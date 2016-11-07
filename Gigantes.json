@@ -6,33 +6,33 @@
   },
   "670001": {
     "OriginalText": "アグリオス",
-    "Text": "",
-    "Enabled": false
+    "Text": "Agrios",
+    "Enabled": true
   },
   "670002": {
     "OriginalText": "グレイオス",
-    "Text": "",
-    "Enabled": false
+    "Text": "Greios",
+    "Enabled": true
   },
   "670003": {
     "OriginalText": "アルテイオス",
-    "Text": "",
-    "Enabled": false
+    "Text": "Altios",
+    "Enabled": true
   },
   "670004": {
     "OriginalText": "ガラティオン",
-    "Text": "Gratian",
+    "Text": "Garation",
     "Enabled": true
   },
   "670005": {
     "OriginalText": "ギガティオン",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gigation",
+    "Enabled": true
   },
   "670006": {
     "OriginalText": "グラヴディオン",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gravdion",
+    "Enabled": true
   },
   "670007": {
     "OriginalText": "エウリュード",
@@ -41,8 +41,8 @@
   },
   "670008": {
     "OriginalText": "ヴィヴリュード",
-    "Text": "",
-    "Enabled": false
+    "Text": "Vivrude",
+    "Enabled": true
   },
   "670009": {
     "OriginalText": "アルキュオネ",
@@ -51,8 +51,8 @@
   },
   "670010": {
     "OriginalText": "デェフキュオネ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Defcyone",
+    "Enabled": true
   },
   "680000": {
     "OriginalText": "",
@@ -61,53 +61,53 @@
   },
   "680001": {
     "OriginalText": "アグリカノーネ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Agri Cannon",
+    "Enabled": true
   },
   "680002": {
     "OriginalText": "エウルスタンプ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Eur Stomp",
+    "Enabled": true
   },
   "680003": {
     "OriginalText": "ガラテエーレ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Garati Aere",
+    "Enabled": true
   },
   "680004": {
     "OriginalText": "アルキインフェアノ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Alcy Inferno",
+    "Enabled": true
   },
   "680005": {
     "OriginalText": "グレイホルン",
-    "Text": "",
-    "Enabled": false
+    "Text": "Grei Horn",
+    "Enabled": true
   },
   "680006": {
     "OriginalText": "ヴィヴシュラック",
-    "Text": "",
-    "Enabled": false
+    "Text": "Viv Shrack",
+    "Enabled": true
   },
   "680007": {
     "OriginalText": "ギガテシュトルム",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gigati Storm",
+    "Enabled": true
   },
   "680008": {
     "OriginalText": "デェフヴォルカン",
-    "Text": "",
-    "Enabled": false
+    "Text": "Def Vulcan",
+    "Enabled": true
   },
   "680009": {
     "OriginalText": "アルトカノーネ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Alt Cannon",
+    "Enabled": true
   },
   "680010": {
     "OriginalText": "グラヴシュトルム",
-    "Text": "",
-    "Enabled": false
+    "Text": "Grav Storm",
+    "Enabled": true
   },
   "680011": {
     "OriginalText": "イグニッション",
