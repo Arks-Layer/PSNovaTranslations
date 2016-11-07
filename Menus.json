@@ -221,12 +221,12 @@
   },
   "10903": {
     "OriginalText": "全プレイヤーが揃うまで待機中です。\nしばらくお待ちください。\n[f 1c][a 03] で待機状態をキャンセルできます。[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "Waiting for all players\nto connect.\n\n[f 1c][a 03] to cancel.[b]",
+    "Enabled": true
   },
   "10904": {
     "OriginalText": "次のエリアへ",
-    "Text": "To the Next Area",
+    "Text": "Next Area",
     "Enabled": true
   },
   "10905": {
