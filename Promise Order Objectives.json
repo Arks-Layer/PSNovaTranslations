@@ -716,8 +716,8 @@
   },
   "300143": {
     "OriginalText": "【Ｇダガン・ネロ】（レア）を倒す",
-    "Text": "",
-    "Enabled": false
+    "Text": "Defeat [G-Dagan Nero]",
+    "Enabled": true
   },
   "300144": {
     "OriginalText": "【メモリーフラグメントＡ】を集める",
@@ -726,8 +726,8 @@
   },
   "300145": {
     "OriginalText": "【アルマラッピー・オナー】（レア）を\n倒す",
-    "Text": "",
-    "Enabled": false
+    "Text": "Defeat [Alma-Rappy Onna]",
+    "Enabled": true
   },
   "300146": {
     "OriginalText": "【メモリーフラグメントＢ】を集める",
@@ -736,8 +736,8 @@
   },
   "300147": {
     "OriginalText": "【ドギオス・ルフレ】（レア）を倒す",
-    "Text": "",
-    "Enabled": false
+    "Text": "Defeat [Dogios Reflet]",
+    "Enabled": true
   },
   "300148": {
     "OriginalText": "【メモリーフラグメントＣ】を集める",
@@ -746,8 +746,8 @@
   },
   "300149": {
     "OriginalText": "【カーネベア・ゴルヴァ】（レア）を\n倒す",
-    "Text": "",
-    "Enabled": false
+    "Text": "Defeat [Carnnebear Gorva]",
+    "Enabled": true
   },
   "300150": {
     "OriginalText": "【メモリーフラグメントＤ】を集める",
@@ -761,38 +761,38 @@
   },
   "300152": {
     "OriginalText": "【ギュゲンテのβ脚】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Kyugent Insectoid Legs]",
+    "Enabled": true
   },
   "300153": {
     "OriginalText": "【ラピリストーン】を集める\n【ウッドオパール】を集める\n【ペロブスカイト石】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Rapiliston]\nCollect [Wood Opal]\nCollect [Perovuskite Stone]",
+    "Enabled": true
   },
   "300154": {
     "OriginalText": "【グランピース（雷属性）】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Gran Piece (Lightning)]",
+    "Enabled": true
   },
   "300155": {
     "OriginalText": "【グランピース（火属性）】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Gran Piece (Fire)]",
+    "Enabled": true
   },
   "300156": {
     "OriginalText": "【グランピース（劇属性）】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Gran Piece (Ice)]",
+    "Enabled": true
   },
   "300157": {
     "OriginalText": "【グランピース（風属性）】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Gran Piece (Wind)]",
+    "Enabled": true
   },
   "300158": {
     "OriginalText": "【グランピース（闇属性）】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Gran Piece (Dark)]",
+    "Enabled": true
   },
   "300159": {
     "OriginalText": "【エラチェライト】を集める\n【エクロジャイト】を集める\n【緑のエラチェライト】を集める",
@@ -811,8 +811,8 @@
   },
   "300162": {
     "OriginalText": "【敵：ジュラキア系】を倒す",
-    "Text": "",
-    "Enabled": false
+    "Text": "Defeat [Jurrakia]",
+    "Enabled": true
   },
   "300163": {
     "OriginalText": "【バリバッツの虫片】を集める",

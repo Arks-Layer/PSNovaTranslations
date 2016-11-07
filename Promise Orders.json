@@ -716,83 +716,83 @@
   },
   "280143": {
     "OriginalText": "レアエネミー撃破訓練",
-    "Text": "",
-    "Enabled": false
+    "Text": "Rare Enemy Annihilation Training",
+    "Enabled": true
   },
   "280144": {
     "OriginalText": "メモリーフラグメントの入手１",
-    "Text": "Acquire Memory Fragments (1)",
+    "Text": "Acquire Memory Fragments 1",
     "Enabled": true
   },
   "280145": {
     "OriginalText": "レアエネミー討伐１",
-    "Text": "",
-    "Enabled": false
+    "Text": "Rare Enemy Subjugation 1",
+    "Enabled": true
   },
   "280146": {
     "OriginalText": "メモリーフラグメントの入手２",
-    "Text": "",
-    "Enabled": false
+    "Text": "Acquire Memory Fragments 2",
+    "Enabled": true
   },
   "280147": {
     "OriginalText": "レアエネミー討伐２",
-    "Text": "",
-    "Enabled": false
+    "Text": "Rare Enemy Subjugation 2",
+    "Enabled": true
   },
   "280148": {
     "OriginalText": "メモリーフラグメントの入手３",
-    "Text": "",
-    "Enabled": false
+    "Text": "Acquire Memory Fragments 3",
+    "Enabled": true
   },
   "280149": {
     "OriginalText": "レアエネミー討伐３",
-    "Text": "",
-    "Enabled": false
+    "Text": "Rare Enemy Subjugation 3",
+    "Enabled": true
   },
   "280150": {
     "OriginalText": "メモリーフラグメントの入手４",
-    "Text": "",
-    "Enabled": false
+    "Text": "Acquire Memory Fragments 4",
+    "Enabled": true
   },
   "280151": {
     "OriginalText": "メモリーフラグメントの入手５",
-    "Text": "",
-    "Enabled": false
+    "Text": "Acquire Memory Fragments 5",
+    "Enabled": true
   },
   "280152": {
     "OriginalText": "★β脚の回収",
-    "Text": "",
-    "Enabled": false
+    "Text": "★ Insect Leg Retrieval",
+    "Enabled": true
   },
   "280153": {
     "OriginalText": "★鉱石の回収",
-    "Text": "",
-    "Enabled": false
+    "Text": "★ Mineral Retrieval",
+    "Enabled": true
   },
   "280154": {
     "OriginalText": "メモリーフラグメント変換１",
-    "Text": "",
-    "Enabled": false
+    "Text": "Memory Fragment Conversion 1",
+    "Enabled": true
   },
   "280155": {
     "OriginalText": "メモリーフラグメント変換２",
-    "Text": "",
-    "Enabled": false
+    "Text": "Memory Fragment Conversion 2",
+    "Enabled": true
   },
   "280156": {
     "OriginalText": "メモリーフラグメント変換３",
-    "Text": "",
-    "Enabled": false
+    "Text": "Memory Fragment Conversion 3",
+    "Enabled": true
   },
   "280157": {
     "OriginalText": "メモリーフラグメント変換４",
-    "Text": "",
-    "Enabled": false
+    "Text": "Memory Fragment Conversion 4",
+    "Enabled": true
   },
   "280158": {
     "OriginalText": "メモリーフラグメント変換５",
-    "Text": "",
-    "Enabled": false
+    "Text": "Memory Fragment Conversion 5",
+    "Enabled": true
   },
   "280159": {
     "OriginalText": "古代都市の新鉱洋",
@@ -811,8 +811,8 @@
   },
   "280162": {
     "OriginalText": "状態異常訓練",
-    "Text": "",
-    "Enabled": false
+    "Text": "Status Effect Training",
+    "Enabled": true
   },
   "280163": {
     "OriginalText": "虫片の調達",

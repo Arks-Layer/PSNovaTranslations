@@ -96,7 +96,7 @@
   },
   "350019": {
     "OriginalText": "ジュラキアの軟骨",
-    "Text": "Jurakia Cartilage",
+    "Text": "Jurrakia Cartilage",
     "Enabled": true
   },
   "350020": {
@@ -1446,8 +1446,8 @@
   },
   "350289": {
     "OriginalText": "ギュゲンテのβ脚",
-    "Text": "",
-    "Enabled": false
+    "Text": "Kyugent Insectoid Legs",
+    "Enabled": true
   },
   "350290": {
     "OriginalText": "ギュゲンテの尾",
@@ -1681,7 +1681,7 @@
   },
   "350336": {
     "OriginalText": "ポリジュラキアの骨",
-    "Text": "Poly Jurakia Bone",
+    "Text": "Poly Jurrakia Bone",
     "Enabled": true
   },
   "350337": {
@@ -1776,7 +1776,7 @@
   },
   "350355": {
     "OriginalText": "ガンジュラキアの羽片",
-    "Text": "Gun Jurakia Wing",
+    "Text": "Gun Jurrakia Wing",
     "Enabled": true
   },
   "350356": {
@@ -3141,7 +3141,7 @@
   },
   "350628": {
     "OriginalText": "ジュラキア・スクアの骨",
-    "Text": "Jurakia Skuah Bone",
+    "Text": "Jurrakia Skuah Bone",
     "Enabled": true
   },
   "350629": {
