@@ -146,38 +146,38 @@
   },
   "300029": {
     "OriginalText": "【難：グレイオス攻略任務】を\nクリアする",
-    "Text": "",
-    "Enabled": false
+    "Text": "Clear [Danger: Grios Capture]",
+    "Enabled": true
   },
   "300030": {
     "OriginalText": "【難：銅の荒野連続撃破任務】を\nクリアする",
-    "Text": "",
-    "Enabled": false
+    "Text": "Clear [Danger: Copper Wastelands Destroy]",
+    "Enabled": true
   },
   "300031": {
     "OriginalText": "【難：アルテイオス決戦】を\n【Ｓランク】でクリアする",
-    "Text": "",
-    "Enabled": false
+    "Text": "S-Rank clear [Danger: Altios Duel]",
+    "Enabled": true
   },
   "300032": {
     "OriginalText": "常に【ソード系】を伝備して\n【ディートアス撃破任務】の\n【ディートアス】にとどめをさす",
-    "Text": "",
-    "Enabled": false
+    "Text": "Defeat [Ditoas] in the quest\n[Ditoas Subjugation Assignment]\nwith [Swords] only.",
+    "Enabled": true
   },
   "300033": {
     "OriginalText": "常に【パルチザン系】を伝備して\n【ディートアス撃破任務】の\n【ディートアス】にとどめをさす",
-    "Text": "",
-    "Enabled": false
+    "Text": "Defeat [Ditoas] in the quest\n[Ditoas Subjugation Assignment]\nwith [Partizans] only.",
+    "Enabled": true
   },
   "300034": {
     "OriginalText": "常に【ダブルセイバー系】を伝備して\n【ディートアス撃破任務】の\n【ディートアス】にとどめをさす",
-    "Text": "",
-    "Enabled": false
+    "Text": "Defeat [Ditoas] in the quest\n[Ditoas Subjugation Assignment]\nwith [Double Sabers] only.",
+    "Enabled": true
   },
   "300035": {
     "OriginalText": "常に【ナックル系】を伝備して\n【ディートアス撃破任務】の\n【ディートアス】にとどめをさす",
-    "Text": "",
-    "Enabled": false
+    "Text": "Defeat [Ditoas] in the quest\n[Ditoas Subjugation Assignment]\nwith [Knuckles] only.",
+    "Enabled": true
   },
   "300036": {
     "OriginalText": "【マガヴルムの銃身】を集める",
@@ -211,73 +211,73 @@
   },
   "300042": {
     "OriginalText": "【グラン結晶を求めて】をクリアする",
-    "Text": "",
-    "Enabled": false
+    "Text": "Clear [Seeking Gran Crystal]",
+    "Enabled": true
   },
   "300043": {
     "OriginalText": "【グラン結晶を求めて】を\n【レンジャー】でクリアする",
-    "Text": "",
-    "Enabled": false
+    "Text": "Clear [Seeking Gran Crystal]\nas a [Ranger]",
+    "Enabled": true
   },
   "300044": {
     "OriginalText": "【膜β類のエキス】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Reptile Extract]",
+    "Enabled": true
   },
   "300045": {
     "OriginalText": "【ダーカーの触角】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Darker Antennae]",
+    "Enabled": true
   },
   "300046": {
     "OriginalText": "【アルキュオネの手片】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Alcyone Arm Piece]",
+    "Enabled": true
   },
   "300047": {
     "OriginalText": "【獣の皮片】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Beast Pelt]",
+    "Enabled": true
   },
   "300048": {
     "OriginalText": "【ダーカーの皮片】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Darker Pelt]",
+    "Enabled": true
   },
   "300049": {
     "OriginalText": "【バンクゥの大宝石】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Banku Gems]",
+    "Enabled": true
   },
   "300050": {
     "OriginalText": "【ギュゲンテの大砲塔部品】を集める\n【リベルゲンテの大砲塔部品】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Large Kyugante Gun Parts]\nCollect [Large Libelgante Gun Parts]",
+    "Enabled": true
   },
   "300051": {
     "OriginalText": "【ガラティオンの硬骨格】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Gration Frame]",
+    "Enabled": true
   },
   "300052": {
     "OriginalText": "常に【アサルトライフル系】を伝備して\n【新たな大砲】の\n【アグリオスＰ型】にとどめをさす",
-    "Text": "",
-    "Enabled": false
+    "Text": "Defeat [Agrios P-Type] in the quest\n[Renewed Artillery]\nwith Assault Rifles only",
+    "Enabled": true
   },
   "300053": {
     "OriginalText": "常に【ツインマシンガン系】を伝備して\n【新たな大砲】の\n【アグリオスＰ型】にとどめをさす",
-    "Text": "",
-    "Enabled": false
+    "Text": "Defeat [Agrios P-Type] in the quest\n[Renewed Artillery]\nwith Twin Machineguns only",
+    "Enabled": true
   },
   "300054": {
     "OriginalText": "【オベリスクの破片】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Obelisk Fragment]",
+    "Enabled": true
   },
   "300055": {
     "OriginalText": "【赤く広がる花状結晶】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Red Growing Flower Crystal]",
+    "Enabled": true
   },
   "300056": {
     "OriginalText": "【難：大尖塔資村回収任務】の\n【スーパーハード】似上をクリアする",
@@ -391,8 +391,8 @@
   },
   "300078": {
     "OriginalText": "【グランピース(光属性)】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Gran Piece (Light)]",
+    "Enabled": true
   },
   "300079": {
     "OriginalText": "【ラビーソ系：Ｌｖ１６０】を倒す\n【バンクゥ系：Ｌｖ１６０】を倒す\n【ロヴラッピー系：Ｌｖ１６０】を倒す",
@@ -516,8 +516,8 @@
   },
   "300103": {
     "OriginalText": "【グランピース】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Gran Piece]",
+    "Enabled": true
   },
   "300104": {
     "OriginalText": "【ウッドオパール】を集める\n【ペロブスカイト石】を集める\n【脈打つミグマタイト】を集める",
@@ -1211,8 +1211,8 @@
   },
   "300242": {
     "OriginalText": "【仲間の捜索】を\n【バスター】でクリアする",
-    "Text": "",
-    "Enabled": false
+    "Text": "Clear [Searching for Comrades]\nas a [Buster]",
+    "Enabled": true
   },
   "300243": {
     "OriginalText": "【パイル訓練】をクリアする",
@@ -1221,8 +1221,8 @@
   },
   "300244": {
     "OriginalText": "【グランピース】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Gran Piece]",
+    "Enabled": true
   },
   "300245": {
     "OriginalText": "【グランブの甲羅】を集める",
@@ -1231,7 +1231,7 @@
   },
   "300246": {
     "OriginalText": "【グランピース（光属性）】を集める\n【グランピース（闇属性）】を集める",
-    "Text": "",
+    "Text": "Collect [Gran Piece (Light)\nCollect [Gran Piece (Dark)]",
     "Enabled": false
   },
   "300247": {
@@ -1256,18 +1256,18 @@
   },
   "300251": {
     "OriginalText": "【ギガンテスの銃片】を集める\n【ギガンテスのレーザー片】を集める\n【ギガンテスのミサイル片】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Gigantes Gun Piece]\nCollect [Gigantes Laser Piece]\nCollect [Gigantes Missle Piece]",
+    "Enabled": true
   },
   "300252": {
     "OriginalText": "【グランピース（炎属性）】を集める\n【グランピース（雷属性）】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Gran Piece (Fire)]\nCollect [Gran Piece (Lightning)]",
+    "Enabled": true
   },
   "300253": {
     "OriginalText": "【グランピース（劇属性）】を集める\n【グランピース（風属性）】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Gran Piece (Ice)]\nCollect [Gran Piece (Wind)]",
+    "Enabled": true
   },
   "300254": {
     "OriginalText": "【ラッピーチケット】を集める\n【ギガンテスのグラン器片】を集める\n【機械生洋の硬骨格】を集める",
@@ -1276,8 +1276,8 @@
   },
   "300255": {
     "OriginalText": "【グランピース(雷属性)】を集める\n【グランピース(光属性)】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Gran Piece (Lightning)]\nCollect [Gran Piece (Light)]",
+    "Enabled": true
   },
   "300256": {
     "OriginalText": "【Ｇダーク・ラグネの超脚甲】を集める\n【Ｇウォルガーダの超髪】を集める\n【Ｇシャルレイダの超甲羅】を集める",
