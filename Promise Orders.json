@@ -111,8 +111,8 @@
   },
   "280022": {
     "OriginalText": "セイルの訓練",
-    "Text": "",
-    "Enabled": false
+    "Text": "Sail’s Training",
+    "Enabled": true
   },
   "280023": {
     "OriginalText": "ハンターの訓練",
@@ -121,33 +121,33 @@
   },
   "280024": {
     "OriginalText": "アグリオス撃破勝負",
-    "Text": "",
-    "Enabled": false
+    "Text": "Agrios Slaying Competition",
+    "Enabled": true
   },
   "280025": {
     "OriginalText": "アルキュオネ撃破勝負",
-    "Text": "",
-    "Enabled": false
+    "Text": "Alcyone Slaying Competition",
+    "Enabled": true
   },
   "280026": {
     "OriginalText": "エウリュード撃破勝負",
-    "Text": "",
-    "Enabled": false
+    "Text": "Eurude Slaying Competition",
+    "Enabled": true
   },
   "280027": {
     "OriginalText": "アルレイバンサー撃破勝負",
-    "Text": "",
-    "Enabled": false
+    "Text": "Arlay Banther Slaying Competition",
+    "Enabled": true
   },
   "280028": {
     "OriginalText": "原生種撃破勝負",
-    "Text": "",
-    "Enabled": false
+    "Text": "Native-type Slaying Competition",
+    "Enabled": true
   },
   "280029": {
     "OriginalText": "グレイオス撃破勝負",
-    "Text": "",
-    "Enabled": false
+    "Text": "Grios Slaying Competition",
+    "Enabled": true
   },
   "280030": {
     "OriginalText": "ギガンテス２体撃破勝負",
@@ -161,27 +161,27 @@
   },
   "280032": {
     "OriginalText": "ソードで戦え！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Fight with the Sword!",
+    "Enabled": true
   },
   "280033": {
     "OriginalText": "パルチザンで戦え！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Fight with the Partisan!",
+    "Enabled": true
   },
   "280034": {
     "OriginalText": "ダブルセイバーで戦え！",
-    "Text": "",
+    "Text": "Fight with the Double Saber!",
     "Enabled": false
   },
   "280035": {
     "OriginalText": "ナックルで戦え！",
-    "Text": "",
+    "Text": "Fight with Knuckles!",
     "Enabled": false
   },
   "280036": {
     "OriginalText": "★銃身の回収",
-    "Text": "",
+    "Text": "★ Gun barrel Retrieval",
     "Enabled": false
   },
   "280037": {

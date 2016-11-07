@@ -256,7 +256,7 @@
   },
   "200303": {
     "OriginalText": "ジャッドバンサー撃破任務",
-    "Text": "Jhad Banther Subjugation Assignment",
+    "Text": "Jhad Banther ",
     "Enabled": true
   },
   "200304": {
@@ -321,8 +321,8 @@
   },
   "200316": {
     "OriginalText": "アルレイバンサー撃破任務",
-    "Text": "",
-    "Enabled": false
+    "Text": "Arlay Banther Subjugation Assignment",
+    "Enabled": true
   },
   "200317": {
     "OriginalText": "ガラティオン追跡撃破任務",
@@ -351,8 +351,8 @@
   },
   "200322": {
     "OriginalText": "古代都市哨戒任務",
-    "Text": "",
-    "Enabled": false
+    "Text": "Ancient City Patrol",
+    "Enabled": true
   },
   "200323": {
     "OriginalText": "ヴィヴリュード撃破任務",
