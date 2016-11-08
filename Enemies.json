@@ -181,13 +181,13 @@
   },
   "181710": {
     "OriginalText": "コラル・ドラゴン",
-    "Text": "",
-    "Enabled": false
+    "Text": "Coral Dragon",
+    "Enabled": true
   },
   "181720": {
     "OriginalText": "ディアマ・ドラール",
-    "Text": "",
-    "Enabled": false
+    "Text": "Diama Dragon",
+    "Enabled": true
   },
   "181810": {
     "OriginalText": "ラウーダン",
