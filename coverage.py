@@ -19,11 +19,8 @@ for files in json_files:
             for rmid in djson:
                 countin += 1
                 if ("Text" in djson[rmid] and (djson[rmid]["Text"] != "")):
-                    if (djson[rmid]["Text"] != "Delete" and "DLC Series" not in djson[rmid]["Text"]):
-                        if ("Enabled" in djson[rmid] and (djson[rmid]["Enabled"] == True)):
-                           countout += 1
-                    else:
-                        countin -= 1
+                    if ("Enabled" in djson[rmid] and (djson[rmid]["Enabled"] == True)):
+                       countout += 1
             #print ("%s/%s" % (countin, countout))
             if (countin):
                 countper = "{:06.1%}".format(float(countout)/float(countin))
