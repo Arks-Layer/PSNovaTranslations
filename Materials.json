@@ -56,17 +56,17 @@
   },
   "350011": {
     "OriginalText": "膜β類のたまご",
-    "Text": "Reptile Eggs",
+    "Text": "Reptile Egg",
     "Enabled": true
   },
   "350012": {
     "OriginalText": "竜族のたまご",
-    "Text": "Dragonkin Eggs",
+    "Text": "Dragonkin Egg",
     "Enabled": true
   },
   "350013": {
     "OriginalText": "獣の肉",
-    "Text": "Monster Flesh",
+    "Text": "Beast Flesh",
     "Enabled": true
   },
   "350014": {
@@ -76,7 +76,7 @@
   },
   "350015": {
     "OriginalText": "巨大獣の肉",
-    "Text": "Giant Monster Meat",
+    "Text": "Giant Beast Meat",
     "Enabled": true
   },
   "350016": {
@@ -141,7 +141,7 @@
   },
   "350028": {
     "OriginalText": "獣のミルク",
-    "Text": "Monster Milk",
+    "Text": "Beast Milk",
     "Enabled": true
   },
   "350029": {
@@ -196,18 +196,18 @@
   },
   "350039": {
     "OriginalText": "アグリオスのたまご",
-    "Text": "",
-    "Enabled": false
+    "Text": "Agrios Egg",
+    "Enabled": true
   },
   "350040": {
     "OriginalText": "ギガンテスの骨",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gigantes Rib",
+    "Enabled": true
   },
   "350041": {
     "OriginalText": "ギガンテスの魚肉",
-    "Text": "",
-    "Enabled": false
+    "Text": "Fish Gigantes Meat",
+    "Enabled": true
   },
   "350042": {
     "OriginalText": "岩塩",
@@ -256,13 +256,13 @@
   },
   "350051": {
     "OriginalText": "赤い樹袋",
-    "Text": "",
-    "Enabled": false
+    "Text": "Red Branch",
+    "Enabled": true
   },
   "350052": {
     "OriginalText": "緑の結晶石",
-    "Text": "",
-    "Enabled": false
+    "Text": "Green Stone Crystal",
+    "Enabled": true
   },
   "350053": {
     "OriginalText": "ウッドオパール",
@@ -1196,7 +1196,7 @@
   },
   "350239": {
     "OriginalText": "アセラビーソの刃片",
-    "Text": "Ase Rabbis Blade",
+    "Text": "Ase Rabbisaw Blades",
     "Enabled": true
   },
   "350240": {
@@ -1761,7 +1761,7 @@
   },
   "350352": {
     "OriginalText": "ラビーソの刃片",
-    "Text": "Rabbis Blade",
+    "Text": "Rabbisaw Blades",
     "Enabled": true
   },
   "350353": {
@@ -2066,8 +2066,8 @@
   },
   "350413": {
     "OriginalText": "デェフキュオネの大虫麦",
-    "Text": "",
-    "Enabled": false
+    "Text": "Defcyone Ink Sac",
+    "Enabled": true
   },
   "350414": {
     "OriginalText": "ラーアビアディノの鋭歯",
@@ -3931,8 +3931,8 @@
   },
   "350786": {
     "OriginalText": "ブロラビーソの超回転刃",
-    "Text": "",
-    "Enabled": false
+    "Text": "Bro Rabbisaw's Rotating Blades",
+    "Enabled": true
   },
   "350787": {
     "OriginalText": "アセラビーソの超回転刃",
@@ -4096,8 +4096,8 @@
   },
   "350819": {
     "OriginalText": "マドアビアディノの超鱗皮",
-    "Text": "",
-    "Enabled": false
+    "Text": "Mad Aviadino Scaled Hide",
+    "Enabled": true
   },
   "350820": {
     "OriginalText": "バレダイナスの超銃",

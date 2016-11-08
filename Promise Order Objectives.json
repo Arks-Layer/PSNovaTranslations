@@ -1111,73 +1111,73 @@
   },
   "300222": {
     "OriginalText": "【岩塩】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Rock Salt]",
+    "Enabled": true
   },
   "300223": {
     "OriginalText": "【獣の肉】を集める",
-    "Text": "Collect [Monster Flesh]",
+    "Text": "Collect [Beast Flesh]",
     "Enabled": true
   },
   "300224": {
     "OriginalText": "【グランブの爪片】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Granv Claws]",
+    "Enabled": true
   },
   "300225": {
     "OriginalText": "【尻】を集める\n【米】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Rice]\nCollect [Wheat]",
+    "Enabled": true
   },
   "300226": {
     "OriginalText": "【ダーカーの肉】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Darker Meat]",
+    "Enabled": true
   },
   "300227": {
     "OriginalText": "【ジュラキアの軟骨】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Jurrakia Cartilage]",
+    "Enabled": true
   },
   "300228": {
     "OriginalText": "【ギガンテスの肉】を集める\n【ギガンテスの魚肉】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Gigantes Meat]\nCollect [Fish Gigantes Meat]",
+    "Enabled": true
   },
   "300229": {
     "OriginalText": "【デェフキュオネの大虫麦】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Defcyone Ink Sac]",
+    "Enabled": true
   },
   "300230": {
     "OriginalText": "【獣のミルク】を集める\n【竜族のたまご】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Beast Milk]\nCollect [Dragonkin Egg]",
+    "Enabled": true
   },
   "300231": {
     "OriginalText": "【アグリオスのたまご】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Agrios Egg]",
+    "Enabled": true
   },
   "300232": {
     "OriginalText": "【赤い樹袋】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Red Branch]",
+    "Enabled": true
   },
   "300233": {
     "OriginalText": "【劇】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Ice]",
+    "Enabled": true
   },
   "300234": {
     "OriginalText": "【アセラビーソの刃片】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Ase Rabbisaw Blade]",
+    "Enabled": true
   },
   "300235": {
     "OriginalText": "【ブロラビーソの超回転刃】を集める\n【マドアビアディノの超鱗皮】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Bro Rabbisaw's Rotating Blades]\nCollect [Mad Aviadino Scaled Hide]",
+    "Enabled": true
   },
   "300236": {
     "OriginalText": "【超：錯砦のヴィヴリュード】をクリアする",
@@ -1316,7 +1316,7 @@
   },
   "300263": {
     "OriginalText": "【獣の肉】を集める",
-    "Text": "Collect [Monster Flesh]",
+    "Text": "Collect [Beast Flesh]",
     "Enabled": true
   },
   "300264": {

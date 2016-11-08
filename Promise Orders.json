@@ -961,7 +961,7 @@
   },
   "280192": {
     "OriginalText": "★爪片の調達",
-    "Text": "",
+    "Text": "★ Supplying Blade Fragments",
     "Enabled": false
   },
   "280193": {
@@ -1111,68 +1111,68 @@
   },
   "280222": {
     "OriginalText": "岩塩の調達",
-    "Text": "",
-    "Enabled": false
+    "Text": "Supplying Rock Salt",
+    "Enabled": true
   },
   "280223": {
     "OriginalText": "獣の肉の調達",
-    "Text": "",
-    "Enabled": false
+    "Text": "Supplying Beast Meat",
+    "Enabled": true
   },
   "280224": {
     "OriginalText": "爪片の調達",
-    "Text": "",
-    "Enabled": false
+    "Text": "Supplying Claw Fragments",
+    "Enabled": true
   },
   "280225": {
     "OriginalText": "尻と米の調達",
-    "Text": "",
-    "Enabled": false
+    "Text": "Supplying Rice and Wheat",
+    "Enabled": true
   },
   "280226": {
     "OriginalText": "ダーカーの肉の調達",
-    "Text": "",
-    "Enabled": false
+    "Text": "Supplying Darker Meat",
+    "Enabled": true
   },
   "280227": {
     "OriginalText": "軟骨の調達",
-    "Text": "",
-    "Enabled": false
+    "Text": "Supplying Cartilage",
+    "Enabled": true
   },
   "280228": {
     "OriginalText": "巨大な肉と魚肉の調達",
-    "Text": "",
-    "Enabled": false
+    "Text": "Supplying Gigantic Meat and Fish",
+    "Enabled": true
   },
   "280229": {
     "OriginalText": "大虫麦の調達",
-    "Text": "",
-    "Enabled": false
+    "Text": "Supplying Large Inc Sacs",
+    "Enabled": true
   },
   "280230": {
     "OriginalText": "ミルクとたまごの調達",
-    "Text": "",
-    "Enabled": false
+    "Text": "Supplying Milk and Eggs",
+    "Enabled": true
   },
   "280231": {
     "OriginalText": "たまごの調達",
-    "Text": "",
-    "Enabled": false
+    "Text": "Supplying Eggs",
+    "Enabled": true
   },
   "280232": {
     "OriginalText": "赤い樹袋探し",
-    "Text": "",
-    "Enabled": false
+    "Text": "Seeking Red Branches",
+    "Enabled": true
   },
   "280233": {
     "OriginalText": "★劇の調達",
-    "Text": "",
-    "Enabled": false
+    "Text": "★ Supplying Ice",
+    "Enabled": true
   },
   "280234": {
     "OriginalText": "★刃片の調達",
-    "Text": "",
-    "Enabled": false
+    "Text": "★ Supplying Blade Pieces",
+    "Enabled": true
   },
   "280235": {
     "OriginalText": "古代都市の新素村",
