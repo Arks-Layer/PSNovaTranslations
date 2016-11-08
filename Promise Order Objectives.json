@@ -1121,7 +1121,7 @@
   },
   "300224": {
     "OriginalText": "【グランブの爪片】を集める",
-    "Text": "Collect [Granv Claws]",
+    "Text": "Collect [Granv Claw]",
     "Enabled": true
   },
   "300225": {
@@ -1176,7 +1176,7 @@
   },
   "300235": {
     "OriginalText": "【ブロラビーソの超回転刃】を集める\n【マドアビアディノの超鱗皮】を集める",
-    "Text": "Collect [Bro Rabbisaw's Rotating Blades]\nCollect [Mad Aviadino Scaled Hide]",
+    "Text": "Collect [Bro Rabbisaw's Rotating Blade]\nCollect [Mad Aviadino Scaled Hide]",
     "Enabled": true
   },
   "300236": {
