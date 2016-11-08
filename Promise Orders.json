@@ -656,8 +656,8 @@
   },
   "280131": {
     "OriginalText": "大主砲の入手",
-    "Text": "",
-    "Enabled": false
+    "Text": "Obtained Large Main Cannon",
+    "Enabled": true
   },
   "280132": {
     "OriginalText": "多積層の銅板の入手",
@@ -666,8 +666,8 @@
   },
   "280133": {
     "OriginalText": "★赤い主砲の入手",
-    "Text": "",
-    "Enabled": false
+    "Text": "Obtained ★Red Main Cannon",
+    "Enabled": true
   },
   "280134": {
     "OriginalText": "★歯片の入手",

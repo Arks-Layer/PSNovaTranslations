@@ -1511,8 +1511,8 @@
   },
   "350302": {
     "OriginalText": "グレイオスの主砲",
-    "Text": "",
-    "Enabled": false
+    "Text": "Greios's Main Cannon",
+    "Enabled": true
   },
   "350303": {
     "OriginalText": "フロベガルフの体煽",
@@ -2471,8 +2471,8 @@
   },
   "350494": {
     "OriginalText": "アルテイオスの大主砲",
-    "Text": "",
-    "Enabled": false
+    "Text": "Altios's Large Main Cannon",
+    "Enabled": true
   },
   "350495": {
     "OriginalText": "グラヴディオンの鋭刃",
