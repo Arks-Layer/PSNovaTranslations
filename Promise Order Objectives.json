@@ -1232,7 +1232,7 @@
   "300246": {
     "OriginalText": "【グランピース（光属性）】を集める\n【グランピース（闇属性）】を集める",
     "Text": "Collect [Gran Piece (Light)\nCollect [Gran Piece (Dark)]",
-    "Enabled": false
+    "Enabled": true
   },
   "300247": {
     "OriginalText": "【機械生洋のフレーム】を集める",
@@ -1287,7 +1287,7 @@
   "300257": {
     "OriginalText": "【アグリオスの超皮】を集める\n【ウィルアフォルの超目玉】を集める\n【アルキュオネの超触手】を集める",
     "Text": "Collect [Agrios Hide]\nCollect [Viluaphol Eyeballs]\nCollect [Alcyone Tentacle]",
-    "Enabled": false
+    "Enabled": true
   },
   "300258": {
     "OriginalText": "シャロンの約束17の達成条件",

@@ -3692,7 +3692,7 @@
   "23707": {
     "OriginalText": "全員が拠点に戻るまでアクセスできません。",
     "Text": " cannot be accessed until you\nreturn to base.",
-    "Enabled": false
+    "Enabled": true
   },
   "23708": {
     "OriginalText": "アクセスできません。",
@@ -4007,7 +4007,7 @@
   "25014": {
     "OriginalText": "防具",
     "Text": "Shield",
-    "Enabled": false
+    "Enabled": true
   },
   "25100": {
     "OriginalText": "クリアタイム",
@@ -4067,7 +4067,7 @@
   "25203": {
     "OriginalText": "コア強化を実行します。",
     "Text": "Performed Core strengthing.",
-    "Enabled": false
+    "Enabled": true
   },
   "25204": {
     "OriginalText": "コアが完成しました。",
@@ -4152,7 +4152,7 @@
   "25220": {
     "OriginalText": "開発しました",
     "Text": " was developed",
-    "Enabled": false
+    "Enabled": true
   },
   "25221": {
     "OriginalText": "施設が開発できるようになりました。",

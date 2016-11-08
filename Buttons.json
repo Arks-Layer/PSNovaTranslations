@@ -107,7 +107,7 @@
   "430021": {
     "OriginalText": "瞳選択",
     "Text": "Eye Selection",
-    "Enabled": false
+    "Enabled": true
   },
   "430022": {
     "OriginalText": "瞳カラー設定",

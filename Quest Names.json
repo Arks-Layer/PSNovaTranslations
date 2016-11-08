@@ -256,7 +256,7 @@
   },
   "200303": {
     "OriginalText": "ジャッドバンサー撃破任務",
-    "Text": "Jhad Banther ",
+    "Text": "Jhad Banther Subjugation Assignment",
     "Enabled": true
   },
   "200304": {
@@ -306,7 +306,7 @@
   },
   "200313": {
     "OriginalText": "目を覚ます磁晶模",
-    "Text": "Awaken the Magnetic Crystal",
+    "Text": "Awaken the Magnetic Obelisk",
     "Enabled": true
   },
   "200314": {
@@ -316,12 +316,12 @@
   },
   "200315": {
     "OriginalText": "食村確保任務",
-    "Text": "",
-    "Enabled": false
+    "Text": "Securing Food Supplies",
+    "Enabled": true
   },
   "200316": {
     "OriginalText": "アルレイバンサー撃破任務",
-    "Text": "Arlay Banther Subjugation Assignment",
+    "Text": "Arlay Banther Subjugation Mission",
     "Enabled": true
   },
   "200317": {
@@ -336,13 +336,13 @@
   },
   "200319": {
     "OriginalText": "大尖塔深部討伐任務",
-    "Text": "",
-    "Enabled": false
+    "Text": "Large Spire Subjugation",
+    "Enabled": true
   },
   "200320": {
     "OriginalText": "古代都市掃討任務",
-    "Text": "",
-    "Enabled": false
+    "Text": "Ancient City Sweep",
+    "Enabled": true
   },
   "200321": {
     "OriginalText": "テュルトアス撃破任務",
@@ -397,7 +397,7 @@
   "200331": {
     "OriginalText": "難：銅の荒野連続撃破任務",
     "Text": "Danger: Copper Wastelands Destroy",
-    "Enabled": false
+    "Enabled": true
   },
   "200332": {
     "OriginalText": "難：古代都市広域偵察任務",
@@ -516,8 +516,8 @@
   },
   "200503": {
     "OriginalText": "医療資村の指定数回収",
-    "Text": "",
-    "Enabled": false
+    "Text": "Retrieve Base Medical Supplies",
+    "Enabled": true
   },
   "200504": {
     "OriginalText": "艦補修資村の指定数回収",
