@@ -1116,8 +1116,8 @@
   },
   "189001": {
     "OriginalText": "主砲",
-    "Text": "",
-    "Enabled": false
+    "Text": "Main Cannon",
+    "Enabled": true
   },
   "189002": {
     "OriginalText": "副砲",
