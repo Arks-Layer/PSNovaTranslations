@@ -1,6 +1,8 @@
 #!/usr/bin/python
+# coding=utf8
 import re
 import os
+import pprint
 import simplejson
 import sys
 
@@ -15,6 +17,7 @@ for files in json_files:
                     if ("Enabled" not in djson[rmid] or (djson[rmid]["Enabled"] == False)):
                         if (djson[rmid]["Text"] != "Delete" and "DLC Series" not in djson[rmid]["Text"]):
                            print ("%s:%s" % (files, rmid))
+                           pprint.pprint(djson[rmid])
         except ValueError as e:
             print("%s: %s") % (files, e)
             invalid_json_files.append(files)
