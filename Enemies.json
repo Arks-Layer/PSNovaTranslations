@@ -577,72 +577,72 @@
   "183710": {
     "OriginalText": "バレダイナス",
     "Text": "Vale-Dynas",
-    "Enable": true
+    "Enabled": true
   },
   "183720": {
     "OriginalText": "ラーバレダイナス",
     "Text": "Lar Vale-Dynas",
-    "Enable": true
+    "Enabled": true
   },
   "183730": {
     "OriginalText": "マーバレダイナス",
     "Text": "Mar Vale-Dynas",
-    "Enable": true
+    "Enabled": true
   },
   "183740": {
     "OriginalText": "ヴィバレダイナス",
     "Text": "Vi Vale-Dynas",
-    "Enable": true
+    "Enabled": true
   },
   "183750": {
     "OriginalText": "ダイナス・タングス",
     "Text": "Dynas Tungs",
-    "Enable": true
+    "Enabled": true
   },
   "183810": {
     "OriginalText": "シードギオス",
     "Text": "Xie Dogios",
-    "Enable": true
+    "Enabled": true
   },
   "183820": {
     "OriginalText": "フォードギオス",
     "Text": "Pho Dogios",
-    "Enable": true
+    "Enabled": true
   },
   "183830": {
     "OriginalText": "ヴァッドギオス",
     "Text": "Valle Dogios",
-    "Enable": true
+    "Enabled": true
   },
   "183840": {
     "OriginalText": "エアドギオス",
     "Text": "Air Dogios",
-    "Enable": true
+    "Enabled": true
   },
   "183850": {
     "OriginalText": "ドギオス・ルフレ",
     "Text": "Dogios Reflet",
-    "Enable": true
+    "Enabled": true
   },
   "183910": {
     "OriginalText": "トルリンプ",
     "Text": "Torrimp",
-    "Enable": true
+    "Enabled": true
   },
   "183920": {
     "OriginalText": "ロウトルリンプ",
     "Text": "Rol Torrimp",
-    "Enable": true
+    "Enabled": true
   },
   "183930": {
     "OriginalText": "ポルトルリンプ",
     "Text": "Pol Torrimp",
-    "Enable": true
+    "Enabled": true
   },
   "183940": {
     "OriginalText": "トルリンプ・ゴウル",
     "Text": "Torrimp Gorr",
-    "Enable": true
+    "Enabled": true
   },
   "184010": {
     "OriginalText": "エデルクリトロ",
@@ -1527,7 +1527,7 @@
   "189083": {
     "OriginalText": "ヴィヴリュード",
     "Text": "Vivrude",
-    "Enabled": false
+    "Enabled": true
   },
   "189084": {
     "OriginalText": "ミステルンナイト",
