@@ -3986,12 +3986,12 @@
   },
   "25010": {
     "OriginalText": "武器伝備へ",
-    "Text": "Weapon Transfer Started",
+    "Text": "To Weapons",
     "Enabled": true
   },
   "25011": {
     "OriginalText": "武器パレット伝備へ",
-    "Text": "Weapon Palette Transfer Started",
+    "Text": "To Palettes",
     "Enabled": true
   },
   "25012": {
