@@ -6,24 +6,38 @@ import pprint
 import simplejson
 import sys
 
-count = 0
+counterr = 0
+bufout = "000.0%:0FILE\n"
 invalid_json_files = []
 json_files = [f for f in os.listdir('.') if re.match(r'.*\.json', f)]
 for files in json_files:
     with open(files) as json_file:
         try:
+            countin = 0
+            countout = 0
             djson = simplejson.load(json_file)
             for rmid in djson:
+                countin += 1
                 if ("Text" in djson[rmid] and (djson[rmid]["Text"] != "")):
-                    if ("Enabled" not in djson[rmid] or (djson[rmid]["Enabled"] == False)):
-                        if (djson[rmid]["Text"] != "Delete" and "DLC Series" not in djson[rmid]["Text"]):
+                    if (djson[rmid]["Text"] != "Delete" and "DLC Series" not in djson[rmid]["Text"]):
+                        if ("Enabled" not in djson[rmid] or (djson[rmid]["Enabled"] == False)):
                            print ("%s:%s" % (files, rmid))
                            pprint.pprint(djson[rmid])
-                           #count += 1
+                           #counterr += 1
+                        if ("Enabled" in djson[rmid] and (djson[rmid]["Enabled"] == True)):
+                           countout += 1
+            #print ("%s/%s" % (countin, countout))
+            if (countin):
+                countper = "{:06.1%}".format(float(countout)/float(countin))
+                bufout += '{0}:{1}\n'.format(countper,files)
+            else:
+                bufout += '{0}:{1}\n'.format("ERROR ",files)
         except ValueError as e:
             print("%s: %s") % (files, e)
             invalid_json_files.append(files)
 
-count += len(invalid_json_files)
-if count != 0:
+counterr += len(invalid_json_files)
+if counterr != 0:
     sys.exit("=============\nJSON files with issues: %d" % count)
+else:
+    print bufout
