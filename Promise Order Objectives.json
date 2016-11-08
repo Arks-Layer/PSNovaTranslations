@@ -111,12 +111,12 @@
   },
   "300022": {
     "OriginalText": "【ダーカー討伐任務】をクリアする",
-    "Text": "Clear [Darker Subjugation Assignment]",
+    "Text": "Clear [Darker Subjugation]",
     "Enabled": true
   },
   "300023": {
     "OriginalText": "【ダーカー討伐任務】を\n【ハンター】でクリアする",
-    "Text": "Clear [Darker Subjugation Assignment]\nas a Hunter",
+    "Text": "Clear [Darker Subjugation] as a Hunter",
     "Enabled": true
   },
   "300024": {
@@ -136,7 +136,7 @@
   },
   "300027": {
     "OriginalText": "【アルレイバンサー撃破任務】を\n【ハンター】でクリアする",
-    "Text": "Clear [Arlay Banther Subjugation Assignment]\nas a Hunter.",
+    "Text": "Clear [Arlay Banther Subjugation] as a Hunter.",
     "Enabled": true
   },
   "300028": {
@@ -161,22 +161,22 @@
   },
   "300032": {
     "OriginalText": "常に【ソード系】を伝備して\n【ディートアス撃破任務】の\n【ディートアス】にとどめをさす",
-    "Text": "Defeat [Ditoas] in the quest\n[Ditoas Subjugation Assignment]\nwith [Swords] only.",
+    "Text": "Defeat [Ditoas] in the quest\n[Ditoas Subjugation]\nwith [Swords] only.",
     "Enabled": true
   },
   "300033": {
     "OriginalText": "常に【パルチザン系】を伝備して\n【ディートアス撃破任務】の\n【ディートアス】にとどめをさす",
-    "Text": "Defeat [Ditoas] in the quest\n[Ditoas Subjugation Assignment]\nwith [Partizans] only.",
+    "Text": "Defeat [Ditoas] in the quest\n[Ditoas Subjugation]\nwith [Partizans] only.",
     "Enabled": true
   },
   "300034": {
     "OriginalText": "常に【ダブルセイバー系】を伝備して\n【ディートアス撃破任務】の\n【ディートアス】にとどめをさす",
-    "Text": "Defeat [Ditoas] in the quest\n[Ditoas Subjugation Assignment]\nwith [Double Sabers] only.",
+    "Text": "Defeat [Ditoas] in the quest\n[Ditoas Subjugation]\nwith [Double Sabers] only.",
     "Enabled": true
   },
   "300035": {
     "OriginalText": "常に【ナックル系】を伝備して\n【ディートアス撃破任務】の\n【ディートアス】にとどめをさす",
-    "Text": "Defeat [Ditoas] in the quest\n[Ditoas Subjugation Assignment]\nwith [Knuckles] only.",
+    "Text": "Defeat [Ditoas] in the quest\n[Ditoas Subjugation]\nwith [Knuckles] only.",
     "Enabled": true
   },
   "300036": {
@@ -411,7 +411,7 @@
   },
   "300082": {
     "OriginalText": "【ジャッドバンサー撃破任務】を\n戦闘不能回数１回似下でクリアする",
-    "Text": "Clear [Jhad Banther Subjugation Assignment]\nwith 1 incapacitation or less.",
+    "Text": "Clear [Jhad Banther Subjugation]\nwith 1 incapacitation or less.",
     "Enabled": true
   },
   "300083": {
@@ -1311,7 +1311,7 @@
   },
   "300262": {
     "OriginalText": "【ダーカー討伐任務】をクリアする",
-    "Text": "Clear [Darker Subjugation Assignment]",
+    "Text": "Clear [Darker Subjugation]",
     "Enabled": true
   },
   "300263": {
