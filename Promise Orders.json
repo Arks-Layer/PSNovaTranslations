@@ -962,7 +962,7 @@
   "280192": {
     "OriginalText": "★爪片の調達",
     "Text": "★ Supplying Blade Fragments",
-    "Enabled": false
+    "Enabled": true
   },
   "280193": {
     "OriginalText": "★硬砲身の調達",
