@@ -271,402 +271,402 @@
   },
   "820054": {
     "OriginalText": "打撃によるダメージを３％軽滅する。",
-    "Text": "Boosts ",
+    "Text": "Reduces Strike Attack damage by 3%.",
     "Enabled": true
   },
   "820055": {
     "OriginalText": "打撃によるダメージを４％軽滅する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Reduces Strike Attack damage by 4%.",
+    "Enabled": true
   },
   "820056": {
     "OriginalText": "打撃によるダメージを５％軽滅する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Reduces Strike Attack damage by 5%.",
+    "Enabled": true
   },
   "820057": {
     "OriginalText": "打撃によるダメージを６％軽滅する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Reduces Strike Attack damage by 6%.",
+    "Enabled": true
   },
   "820058": {
     "OriginalText": "打撃によるダメージを７％軽滅する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Reduces Strike Attack damage by 7%.",
+    "Enabled": true
   },
   "820059": {
     "OriginalText": "射撃によるダメージを３％軽滅する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Reduces Ranged Attack damage by 3%.",
+    "Enabled": true
   },
   "820060": {
     "OriginalText": "射撃によるダメージを４％軽滅する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Reduces Ranged Attack damage by 4%.",
+    "Enabled": true
   },
   "820061": {
     "OriginalText": "射撃によるダメージを５％軽滅する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Reduces Ranged Attack damage by 5%.",
+    "Enabled": true
   },
   "820062": {
     "OriginalText": "射撃によるダメージを６％軽滅する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Reduces Ranged Attack damage by 6%.",
+    "Enabled": true
   },
   "820063": {
     "OriginalText": "射撃によるダメージを７％軽滅する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Reduces Ranged Attack damage by 7%.",
+    "Enabled": true
   },
   "820064": {
     "OriginalText": "法撃によるダメージを３％軽滅する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Reduces Technique Attack damage by 3%.",
+    "Enabled": true
   },
   "820065": {
     "OriginalText": "法撃によるダメージを４％軽滅する。",
-    "Text": "",
+    "Text": "Reduces Technique Attack damage by 4%.",
     "Enabled": false
   },
   "820066": {
     "OriginalText": "法撃によるダメージを５％軽滅する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Reduces Technique Attack damage by 5%.",
+    "Enabled": true
   },
   "820067": {
     "OriginalText": "法撃によるダメージを６％軽滅する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Reduces Technique Attack damage by 6%.",
+    "Enabled": true
   },
   "820068": {
     "OriginalText": "法撃によるダメージを７％軽滅する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Reduces Technique Attack damage by 7%.",
+    "Enabled": true
   },
   "820069": {
     "OriginalText": "炎属性の攻撃力が１０上昇する。",
-    "Text": "Boosts Fire elemental attack by 10.",
+    "Text": "Boosts Fire-attributed attack power by 10.",
     "Enabled": true
   },
   "820070": {
     "OriginalText": "炎属性の攻撃力が２０上昇する。",
-    "Text": "Boosts Fire elemental attack by 20.",
+    "Text": "Boosts Fire-attributed attack power by 20.",
     "Enabled": true
   },
   "820071": {
     "OriginalText": "炎属性の攻撃力が３０上昇する。",
-    "Text": "Boosts Fire elemental attack by 30.",
+    "Text": "Boosts Fire-attributed attack power by 30.",
     "Enabled": true
   },
   "820072": {
     "OriginalText": "炎属性の攻撃力が４０上昇する。",
-    "Text": "Boosts Fire elemental attack by 40.",
+    "Text": "Boosts Fire-attributed attack power by 40.",
     "Enabled": true
   },
   "820073": {
     "OriginalText": "炎属性の攻撃力が５０上昇する。",
-    "Text": "Boosts Fire elemental attack by 50.",
+    "Text": "Boosts Fire-attributed attack power by 50.",
     "Enabled": true
   },
   "820074": {
     "OriginalText": "劇属性の攻撃力が１０上昇する。",
-    "Text": "Boosts Ice elemental attack by 10.",
+    "Text": "Boosts Ice-attributed attack power by 10.",
     "Enabled": true
   },
   "820075": {
     "OriginalText": "劇属性の攻撃力が２０上昇する。",
-    "Text": "Boosts Ice elemental attack by 20.",
+    "Text": "Boosts Ice-attributed attack power by 20.",
     "Enabled": true
   },
   "820076": {
     "OriginalText": "劇属性の攻撃力が３０上昇する。",
-    "Text": "Boosts Ice elemental attack by 30.",
+    "Text": "Boosts Ice-attributed attack power by 30.",
     "Enabled": true
   },
   "820077": {
     "OriginalText": "劇属性の攻撃力が４０上昇する。",
-    "Text": "Boosts Ice elemental attack by 40.",
+    "Text": "Boosts Ice-attributed attack power by 40.",
     "Enabled": true
   },
   "820078": {
     "OriginalText": "劇属性の攻撃力が５０上昇する。",
-    "Text": "Boosts Ice elemental attack by 50.",
+    "Text": "Boosts Ice-attributed attack power by 50.",
     "Enabled": true
   },
   "820079": {
     "OriginalText": "雷属性の攻撃力が１０上昇する。",
-    "Text": "Boosts Lightning elemental attack by 10.",
+    "Text": "Boosts Lightning-attributed attack power by 10.",
     "Enabled": true
   },
   "820080": {
     "OriginalText": "雷属性の攻撃力が２０上昇する。",
-    "Text": "Boosts Lightning elemental attack by 20.",
+    "Text": "Boosts Lightning-attributed attack power by 20.",
     "Enabled": true
   },
   "820081": {
     "OriginalText": "雷属性の攻撃力が３０上昇する。",
-    "Text": "Boosts Lightning elemental attack by 30.",
+    "Text": "Boosts Lightning-attributed attack power by 30.",
     "Enabled": true
   },
   "820082": {
     "OriginalText": "雷属性の攻撃力が４０上昇する。",
-    "Text": "Boosts Lightning elemental attack by 40.",
+    "Text": "Boosts Lightning-attributed attack power by 40.",
     "Enabled": true
   },
   "820083": {
     "OriginalText": "雷属性の攻撃力が５０上昇する。",
-    "Text": "Boosts Lightning elemental attack by 50.",
+    "Text": "Boosts Lightning-attributed attack power by 50.",
     "Enabled": true
   },
   "820084": {
     "OriginalText": "風属性の攻撃力が１０上昇する。",
-    "Text": "Boosts Wind elemental attack by 10.",
+    "Text": "Boosts Wind-attributed attack power by 10.",
     "Enabled": true
   },
   "820085": {
     "OriginalText": "風属性の攻撃力が２０上昇する。",
-    "Text": "Boosts Wind elemental attack by 20.",
+    "Text": "Boosts Wind-attributed attack power by 20.",
     "Enabled": true
   },
   "820086": {
     "OriginalText": "風属性の攻撃力が３０上昇する。",
-    "Text": "Boosts Wind elemental attack by 30.",
+    "Text": "Boosts Wind-attributed attack power by 30.",
     "Enabled": true
   },
   "820087": {
     "OriginalText": "風属性の攻撃力が４０上昇する。",
-    "Text": "Boosts Wind elemental attack by 40.",
+    "Text": "Boosts Wind-attributed attack power by 40.",
     "Enabled": true
   },
   "820088": {
     "OriginalText": "風属性の攻撃力が５０上昇する。",
-    "Text": "Boosts Wind elemental attack by 50.",
+    "Text": "Boosts Wind-attributed attack power by 50.",
     "Enabled": true
   },
   "820089": {
     "OriginalText": "光属性の攻撃力が１０上昇する。",
-    "Text": "Boosts Light elemental attack by 10.",
+    "Text": "Boosts Light-attributed attack power by 10.",
     "Enabled": true
   },
   "820090": {
     "OriginalText": "光属性の攻撃力が２０上昇する。",
-    "Text": "Boosts Light elemental attack by 20.",
+    "Text": "Boosts Light-attributed attack power by 20.",
     "Enabled": true
   },
   "820091": {
     "OriginalText": "光属性の攻撃力が３０上昇する。",
-    "Text": "Boosts Light elemental attack by 30.",
+    "Text": "Boosts Light-attributed attack power by 30.",
     "Enabled": true
   },
   "820092": {
     "OriginalText": "光属性の攻撃力が４０上昇する。",
-    "Text": "Boosts Light elemental attack by 40.",
+    "Text": "Boosts Light-attributed attack power by 40.",
     "Enabled": true
   },
   "820093": {
     "OriginalText": "光属性の攻撃力が５０上昇する。",
-    "Text": "Boosts Light elemental attack by 50.",
+    "Text": "Boosts Light-attributed attack power by 50.",
     "Enabled": true
   },
   "820094": {
     "OriginalText": "闇属性の攻撃力が１０上昇する。",
-    "Text": "Boosts Dark elemental attack by 10.",
+    "Text": "Boosts Dark-attributed attack power by 10.",
     "Enabled": true
   },
   "820095": {
     "OriginalText": "闇属性の攻撃力が２０上昇する。",
-    "Text": "Boosts Dark elemental attack by 20.",
+    "Text": "Boosts Dark-attributed attack power by 20.",
     "Enabled": true
   },
   "820096": {
     "OriginalText": "闇属性の攻撃力が３０上昇する。",
-    "Text": "Boosts Dark elemental attack by 30.",
+    "Text": "Boosts Dark-attributed attack power by 30.",
     "Enabled": true
   },
   "820097": {
     "OriginalText": "闇属性の攻撃力が４０上昇する。",
-    "Text": "Boosts Dark elemental attack by 40.",
+    "Text": "Boosts Dark-attributed attack power by 40.",
     "Enabled": true
   },
   "820098": {
     "OriginalText": "闇属性の攻撃力が５０上昇する。",
-    "Text": "Boosts Dark elemental attack by 50.",
+    "Text": "Boosts Dark-attributed attack power by 50.",
     "Enabled": true
   },
   "820099": {
     "OriginalText": "炎属性の攻撃によるダメージが\n２０％軽滅される。",
-    "Text": "Boosts Fire elemental damage by 20%.",
+    "Text": "Reduces Fire-attributed damage by 20%.",
     "Enabled": true
   },
   "820100": {
     "OriginalText": "炎属性の攻撃によるダメージが\n３０％軽滅される。",
-    "Text": "Boosts Fire elemental damage by 30%.",
+    "Text": "Reduces Fire-attributed damage by 30%.",
     "Enabled": true
   },
   "820101": {
     "OriginalText": "炎属性の攻撃によるダメージが\n４０％軽滅される。",
-    "Text": "Boosts Fire elemental damage by 40%.",
+    "Text": "Reduces Fire-attributed damage by 40%.",
     "Enabled": true
   },
   "820102": {
     "OriginalText": "炎属性の攻撃によるダメージが\n５０％軽滅される。",
-    "Text": "Boosts Fire elemental damage by 50%.",
+    "Text": "Reduces Fire-attributed damage by 50%.",
     "Enabled": true
   },
   "820103": {
     "OriginalText": "炎属性の攻撃によるダメージが\n６０％軽滅される。",
-    "Text": "Boosts Fire elemental damage by 60%.",
+    "Text": "Reduces Fire-attributed damage by 60%.",
     "Enabled": true
   },
   "820104": {
     "OriginalText": "劇属性の攻撃によるダメージが\n２０％軽滅される。",
-    "Text": "Boosts Ice elemental damage by 20%.",
+    "Text": "Reduces Ice-attributed damage by 20%.",
     "Enabled": true
   },
   "820105": {
     "OriginalText": "劇属性の攻撃によるダメージが\n３０％軽滅される。",
-    "Text": "Boosts Ice elemental damage by 30%.",
+    "Text": "Reduces Ice-attributed damage by 30%.",
     "Enabled": true
   },
   "820106": {
     "OriginalText": "劇属性の攻撃によるダメージが\n４０％軽滅される。",
-    "Text": "Boosts Ice elemental damage by 40%.",
+    "Text": "Reduces Ice-attributed damage by 40%.",
     "Enabled": true
   },
   "820107": {
     "OriginalText": "劇属性の攻撃によるダメージが\n５０％軽滅される。",
-    "Text": "Boosts Ice elemental damage by 50%.",
+    "Text": "Reduces Ice-attributed damage by 50%.",
     "Enabled": true
   },
   "820108": {
     "OriginalText": "劇属性の攻撃によるダメージが\n６０％軽滅される。",
-    "Text": "Boosts Ice elemental damage by 60%.",
+    "Text": "Reduces Ice-attributed damage by 60%.",
     "Enabled": true
   },
   "820109": {
     "OriginalText": "雷属性の攻撃によるダメージが\n２０％軽滅される。",
-    "Text": "Boosts Lightning elemental damage by 20%.",
+    "Text": "Reduces Lightning-attributed damage by 20%.",
     "Enabled": true
   },
   "820110": {
     "OriginalText": "雷属性の攻撃によるダメージが\n３０％軽滅される。",
-    "Text": "Boosts Lightning elemental damage by 30%.",
+    "Text": "Reduces Lightning-attributed damage by 30%.",
     "Enabled": true
   },
   "820111": {
     "OriginalText": "雷属性の攻撃によるダメージが\n４０％軽滅される。",
-    "Text": "Boosts Lightning elemental damage by 40%.",
+    "Text": "Reduces Lightning-attributed damage by 40%.",
     "Enabled": true
   },
   "820112": {
     "OriginalText": "雷属性の攻撃によるダメージが\n５０％軽滅される。",
-    "Text": "Boosts Lightning elemental damage by 50%.",
+    "Text": "Reduces Lightning-attributed damage by 50%.",
     "Enabled": true
   },
   "820113": {
     "OriginalText": "雷属性の攻撃によるダメージが\n６０％軽滅される。",
-    "Text": "Boosts Lightning elemental damage by 60%.",
+    "Text": "Reduces Lightning-attributed damage by 60%.",
     "Enabled": true
   },
   "820114": {
     "OriginalText": "風属性の攻撃によるダメージが\n２０％軽滅される。",
-    "Text": "Boosts Wind elemental damage by 20%.",
+    "Text": "Reduces Wind-attributed damage by 20%.",
     "Enabled": true
   },
   "820115": {
     "OriginalText": "風属性の攻撃によるダメージが\n３０％軽滅される。",
-    "Text": "Boosts Wind elemental damage by 30%.",
+    "Text": "Reduces Wind-attributed damage by 30%.",
     "Enabled": true
   },
   "820116": {
     "OriginalText": "風属性の攻撃によるダメージが\n４０％軽滅される。",
-    "Text": "Boosts Wind elemental damage by 40%.",
+    "Text": "Reduces Wind-attributed damage by 40%.",
     "Enabled": true
   },
   "820117": {
     "OriginalText": "風属性の攻撃によるダメージが\n５０％軽滅される。",
-    "Text": "Boosts Wind elemental damage by 50%.",
+    "Text": "Reduces Wind-attributed damage by 50%.",
     "Enabled": true
   },
   "820118": {
     "OriginalText": "風属性の攻撃によるダメージが\n６０％軽滅される。",
-    "Text": "Boosts Wind elemental damage by 60%.",
+    "Text": "Reduces Wind-attributed damage by 60%.",
     "Enabled": true
   },
   "820119": {
     "OriginalText": "光属性の攻撃によるダメージが\n２０％軽滅される。",
-    "Text": "Boosts Light elemental damage by 20%.",
+    "Text": "Reduces Light-attributed damage by 20%.",
     "Enabled": true
   },
   "820120": {
     "OriginalText": "光属性の攻撃によるダメージが\n３０％軽滅される。",
-    "Text": "Boosts Light elemental damage by 30%.",
+    "Text": "Reduces Light-attributed damage by 30%.",
     "Enabled": true
   },
   "820121": {
     "OriginalText": "光属性の攻撃によるダメージが\n４０％軽滅される。",
-    "Text": "Boosts Light elemental damage by 40%.",
+    "Text": "Reduces Light-attributed damage by 40%.",
     "Enabled": true
   },
   "820122": {
     "OriginalText": "光属性の攻撃によるダメージが\n５０％軽滅される。",
-    "Text": "Boosts Light elemental damage by 50%.",
+    "Text": "Reduces Light-attributed damage by 50%.",
     "Enabled": true
   },
   "820123": {
     "OriginalText": "光属性の攻撃によるダメージが\n６０％軽滅される。",
-    "Text": "Boosts Light elemental damage by 60%.",
+    "Text": "Reduces Light-attributed damage by 60%.",
     "Enabled": true
   },
   "820124": {
     "OriginalText": "闇属性の攻撃によるダメージが\n２０％軽滅される。",
-    "Text": "Boosts Dark elemental damage by 20%.",
+    "Text": "Reduces Dark-attributed damage by 20%.",
     "Enabled": true
   },
   "820125": {
     "OriginalText": "闇属性の攻撃によるダメージが\n３０％軽滅される。",
-    "Text": "Boosts Dark elemental damage by 30%.",
+    "Text": "Reduces Dark-attributed damage by 30%.",
     "Enabled": true
   },
   "820126": {
     "OriginalText": "闇属性の攻撃によるダメージが\n４０％軽滅される。",
-    "Text": "Boosts Dark elemental damage by 40%.",
+    "Text": "Reduces Dark-attributed damage by 40%.",
     "Enabled": true
   },
   "820127": {
     "OriginalText": "闇属性の攻撃によるダメージが\n５０％軽滅される。",
-    "Text": "Boosts Dark elemental damage by 50%.",
+    "Text": "Reduces Dark-attributed damage by 50%.",
     "Enabled": true
   },
   "820128": {
     "OriginalText": "闇属性の攻撃によるダメージが\n６０％軽滅される。",
-    "Text": "Boosts Dark elemental damage by 60%.",
+    "Text": "Reduces Dark-attributed damage by 60%.",
     "Enabled": true
   },
   "820129": {
     "OriginalText": "全属性の攻撃によるダメージが\n３％軽滅される。",
-    "Text": "Boosts All elemental damage by 3%.",
+    "Text": "Reduces All elemental damage by 3%.",
     "Enabled": true
   },
   "820130": {
     "OriginalText": "全属性の攻撃によるダメージが\n５％軽滅される。",
-    "Text": "Boosts All elemental damage by 5%.",
+    "Text": "Reduces All elemental damage by 5%.",
     "Enabled": true
   },
   "820131": {
     "OriginalText": "全属性の攻撃によるダメージが\n６％軽滅される。",
-    "Text": "Boosts All elemental damage by 6%.",
+    "Text": "Reduces All elemental damage by 6%.",
     "Enabled": true
   },
   "820132": {
     "OriginalText": "全属性の攻撃によるダメージが\n７％軽滅される。",
-    "Text": "Boosts All elemental damage by 7%.",
+    "Text": "Reduces All elemental damage by 7%.",
     "Enabled": true
   },
   "820133": {
     "OriginalText": "全属性の攻撃によるダメージが\n８％軽滅される。",
-    "Text": "Boosts All elemental damage by 8%.",
+    "Text": "Reduces All elemental damage by 8%.",
     "Enabled": true
   },
   "820134": {
@@ -1761,78 +1761,78 @@
   },
   "820501": {
     "OriginalText": "打撃によるダメージを８％軽滅する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Reduces Strike Attack damage by 8%.",
+    "Enabled": true
   },
   "820511": {
     "OriginalText": "射撃によるダメージを８％軽滅する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Reduces Ranged Attack damage by 8%.",
+    "Enabled": true
   },
   "820521": {
     "OriginalText": "法撃によるダメージを８％軽滅する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Reduces Technique damage by 8%.",
+    "Enabled": true
   },
   "820531": {
     "OriginalText": "炎属性の攻撃によるダメージを\n８０％軽滅する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Reduces Fire-attributed damage by 80%.",
+    "Enabled": true
   },
   "820541": {
     "OriginalText": "劇属性の攻撃によるダメージを\n８０％軽滅する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Reduces Ice-attributed damage by 80%.",
+    "Enabled": true
   },
   "820551": {
     "OriginalText": "雷属性の攻撃によるダメージを\n８０％軽滅する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Reduces Lightning-attributed damage by 80%.",
+    "Enabled": true
   },
   "820561": {
     "OriginalText": "風属性の攻撃によるダメージを\n８０％軽滅する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Reduces Wind-attributed damage by 80%.",
+    "Enabled": true
   },
   "820571": {
     "OriginalText": "光属性の攻撃によるダメージを\n８０％軽滅する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Reduces Light-attributed damage by 80%.",
+    "Enabled": true
   },
   "820581": {
     "OriginalText": "闇属性の攻撃によるダメージを\n８０％軽滅する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Reduces Dark-attributed damage by 80%.",
+    "Enabled": true
   },
   "820601": {
     "OriginalText": "炎属性攻撃のダメージが\n２０％上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts Fire-attributed damage by 20%.",
+    "Enabled": true
   },
   "820611": {
     "OriginalText": "劇属性攻撃のダメージが\n２０％上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts Ice-attributed damage by 20%.",
+    "Enabled": true
   },
   "820621": {
     "OriginalText": "雷属性攻撃のダメージが\n２０％上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts Lightning-attributed damage by 20%.",
+    "Enabled": true
   },
   "820631": {
     "OriginalText": "風属性攻撃のダメージが\n２０％上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts Wind-attributed damage by 20%.",
+    "Enabled": true
   },
   "820641": {
     "OriginalText": "光属性攻撃のダメージが\n２０％上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts Light-attributed damage by 20%.",
+    "Enabled": true
   },
   "820651": {
     "OriginalText": "闇属性攻撃のダメージが\n２０％上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Boosts Dark-attributed damage by 20%.",
+    "Enabled": true
   },
   "820701": {
     "OriginalText": "空中にいるエネミーへの\n打撃攻撃によるダメージが１００％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
@@ -1881,23 +1881,23 @@
   },
   "820811": {
     "OriginalText": "バインドを完全に無効化する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gives immunity to Bind status.\n[a 03]＊Abilities of the same name cannot be stacked.",
+    "Enabled": true
   },
   "820812": {
     "OriginalText": "インフェクションを完全に無効化する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gives immunity to Infection status.\n[a 03]＊Abilities of the same name cannot be stacked.",
+    "Enabled": true
   },
   "820813": {
     "OriginalText": "ブラインドを完全に無効化する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gives immunity to Blind status.\n[a 03]＊Abilities of the same name cannot be stacked.",
+    "Enabled": true
   },
   "820814": {
     "OriginalText": "グラン中毒を完全に無効化する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gives immunity to Gran Poisoning status.\n[a 03]＊Abilities of the same name cannot be stacked.",
+    "Enabled": true
   },
   "820821": {
     "OriginalText": "バースト発動中に打撃力が大幅に上昇し\nさらに防御力が上昇する。",
