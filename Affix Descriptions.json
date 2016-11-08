@@ -327,7 +327,7 @@
   "820065": {
     "OriginalText": "法撃によるダメージを４％軽滅する。",
     "Text": "Reduces Technique Attack damage by 4%.",
-    "Enabled": false
+    "Enabled": true
   },
   "820066": {
     "OriginalText": "法撃によるダメージを５％軽滅する。",
