@@ -651,13 +651,13 @@
   },
   "130130": {
     "OriginalText": "アルバラグ",
-    "Text": "Vita Rug",
+    "Text": "Alva Rug",
     "Enabled": true
   },
   "130131": {
     "OriginalText": "ヴィタラグ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Vita Rug",
+    "Enabled": true
   },
   "130132": {
     "OriginalText": "シャフト",
