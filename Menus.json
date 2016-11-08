@@ -4067,7 +4067,7 @@
   "25203": {
     "OriginalText": "コア強化を実行します。",
     "Text": "Performed Core strengthening.",
-    "Enabled": false
+    "Enabled": true
   },
   "25204": {
     "OriginalText": "コアが完成しました。",
