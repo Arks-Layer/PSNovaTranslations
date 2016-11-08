@@ -2,7 +2,7 @@
   "740001": {
     "OriginalText": "施設効果0000",
     "Text": "Field Effects",
-    "Enabled": false
+    "Enabled": true
   },
   "745001": {
     "OriginalText": "攻撃力アップ ＋１％",
@@ -152,7 +152,7 @@
   "745030": {
     "OriginalText": "確率でダメージ無効",
     "Text": "Avoid Damage Chance",
-    "Enabled": false
+    "Enabled": true
   },
   "745031": {
     "OriginalText": "アイテム回復量 ＋５％",
