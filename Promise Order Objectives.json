@@ -656,8 +656,8 @@
   },
   "300131": {
     "OriginalText": "【アルテイオスの大主砲】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Altios's Large Main Cannon",
+    "Enabled": true
   },
   "300132": {
     "OriginalText": "【多積層の銅版】を集める",
@@ -666,8 +666,8 @@
   },
   "300133": {
     "OriginalText": "【グレイオスの主砲】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Greios's Cannon]",
+    "Enabled": true
   },
   "300134": {
     "OriginalText": "【Ｇダーガッシュの歯片】を集める",
