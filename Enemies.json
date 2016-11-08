@@ -1121,23 +1121,23 @@
   },
   "189002": {
     "OriginalText": "副砲",
-    "Text": "",
-    "Enabled": false
+    "Text": "Sub Cannon",
+    "Enabled": true
   },
   "189003": {
     "OriginalText": "ファランクス",
-    "Text": "",
-    "Enabled": false
+    "Text": "Phalanx",
+    "Enabled": true
   },
   "189004": {
     "OriginalText": "機銃",
-    "Text": "",
-    "Enabled": false
+    "Text": "Machine Gun",
+    "Enabled": true
   },
   "189005": {
     "OriginalText": "グランジェネレーター",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gran Generator",
+    "Enabled": true
   },
   "189006": {
     "OriginalText": "背板",
