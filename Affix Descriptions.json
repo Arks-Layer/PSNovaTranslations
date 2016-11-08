@@ -272,7 +272,7 @@
   "820054": {
     "OriginalText": "打撃によるダメージを３％軽滅する。",
     "Text": "Boosts ",
-    "Enabled": false
+    "Enabled": true
   },
   "820055": {
     "OriginalText": "打撃によるダメージを４％軽滅する。",
