@@ -1041,48 +1041,48 @@
   },
   "280208": {
     "OriginalText": "ギガンテス戦Ｓランク訓練",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gigantes S-Rank Training",
+    "Enabled": true
   },
   "280209": {
     "OriginalText": "ギガンテス戦Ｓランク再訓練",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gigantes S-Rank Retraining",
+    "Enabled": true
   },
   "280210": {
     "OriginalText": "バンサー撃破訓練",
-    "Text": "",
-    "Enabled": false
+    "Text": "Banther Annihilation Training",
+    "Enabled": true
   },
   "280211": {
     "OriginalText": "拠点防衛Ｓランク訓練",
-    "Text": "",
-    "Enabled": false
+    "Text": "Base Defense S-Rank Training",
+    "Enabled": true
   },
   "280212": {
     "OriginalText": "★脚の回収",
-    "Text": "",
-    "Enabled": false
+    "Text": "★ Leg Retreival",
+    "Enabled": true
   },
   "280213": {
     "OriginalText": "★爪の回収",
-    "Text": "",
-    "Enabled": false
+    "Text": "★ Nail Retrieval",
+    "Enabled": true
   },
   "280214": {
     "OriginalText": "スーパーハード開放",
-    "Text": "",
-    "Enabled": false
+    "Text": "Unlocking Super Hard",
+    "Enabled": true
   },
   "280215": {
     "OriginalText": "ＳＨトルリンプ系討伐",
-    "Text": "",
-    "Enabled": false
+    "Text": "SH Subdue Torrimp",
+    "Enabled": true
   },
   "280216": {
     "OriginalText": "ＳＨギガンテス討伐",
-    "Text": "",
-    "Enabled": false
+    "Text": "SH Subdue Gigantes",
+    "Enabled": true
   },
   "280217": {
     "OriginalText": "タイムアタックＳランク",

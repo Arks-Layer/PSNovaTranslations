@@ -2001,8 +2001,8 @@
   },
   "350400": {
     "OriginalText": "ヴィヴリュードの爪",
-    "Text": "",
-    "Enabled": false
+    "Text": "Vivrude Claw",
+    "Enabled": true
   },
   "350401": {
     "OriginalText": "デェフキュオネの触手",
@@ -3051,8 +3051,8 @@
   },
   "350610": {
     "OriginalText": "Ｇダーク・ラグネの脚",
-    "Text": "",
-    "Enabled": false
+    "Text": "G-Dark Ragne Leg",
+    "Enabled": true
   },
   "350611": {
     "OriginalText": "バンサーの鋭牙",

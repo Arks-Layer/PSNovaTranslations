@@ -146,7 +146,7 @@
   },
   "300029": {
     "OriginalText": "【難：グレイオス攻略任務】を\nクリアする",
-    "Text": "Clear [Danger: Greios Capture]",
+    "Text": "Clear [Danger: Capture Greios]",
     "Enabled": true
   },
   "300030": {
@@ -1031,7 +1031,7 @@
   },
   "300206": {
     "OriginalText": "【銅の荒野哨戒任務２】の\n【ハード】似上を\n【Ａランク】似上でクリアする",
-    "Text": "A-Rank clear the quest\n[Copper Wasteland Patrol II]\non [Hard]",
+    "Text": "A-Rank clear the quest [Copper Wasteland Patrol II]\non [Hard]",
     "Enabled": true
   },
   "300207": {
@@ -1041,48 +1041,48 @@
   },
   "300208": {
     "OriginalText": "【アルキュオネ討伐任務】の\n【ベリーハード】似上を\n【Ｓランク】似上でクリアする",
-    "Text": "",
-    "Enabled": false
+    "Text": "S-rank clear the quest [Alcyone Subjugation]\non [Very Hard]",
+    "Enabled": true
   },
   "300209": {
     "OriginalText": "【難：エウリュード攻略任務】を\n【Ｓランク】似上でクリアする",
-    "Text": "",
-    "Enabled": false
+    "Text": "S-rank clear the quest [Danger: Capture Eurude]",
+    "Enabled": true
   },
   "300210": {
     "OriginalText": "【バンサー系：Lv８０】を倒す",
-    "Text": "",
-    "Enabled": false
+    "Text": "Defeat any [Banther-type] enemy Lv.80",
+    "Enabled": true
   },
   "300211": {
     "OriginalText": "【難：リベルゲンテ決戦】を\n【Ｓランク】似上でクリアする",
-    "Text": "",
-    "Enabled": false
+    "Text": "S-rank clear the quest [Danger: Libelgante Duel]",
+    "Enabled": true
   },
   "300212": {
     "OriginalText": "【Ｇダーク・ラグネの脚】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [G-Dark Ragne Leg]",
+    "Enabled": true
   },
   "300213": {
     "OriginalText": "【ヴィヴリュードの爪】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Vivrude Claw]",
+    "Enabled": true
   },
   "300214": {
     "OriginalText": "【アルテイオス：Ｌｖ９０】を倒す\n【グラヴディオン：Ｌｖ９０】を倒す\n【リベルゲンテ：Ｌｖ９０】を倒す",
-    "Text": "",
-    "Enabled": false
+    "Text": "Defeat [Altios] Lv.90\nDefeat [Gravdion] Lv.90\nDefeat [Libelgante] Lv.90",
+    "Enabled": true
   },
   "300215": {
     "OriginalText": "【トルリンプ系：Ｌｖ１１０】を倒す",
-    "Text": "",
-    "Enabled": false
+    "Text": "Defeat [Torrimp] Lv.110",
+    "Enabled": true
   },
   "300216": {
     "OriginalText": "【ギガンテス：Ｌｖ１４０】を倒す",
-    "Text": "",
-    "Enabled": false
+    "Text": "Defeat any [Gigantes] Lv.140",
+    "Enabled": true
   },
   "300217": {
     "OriginalText": "【タイムアタック・銅の荒野】を\n【Ｓランク】でクリアする",
