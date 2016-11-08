@@ -1722,7 +1722,7 @@
   "150401": {
     "OriginalText": "アーム",
     "Text": "Arm",
-    "Enabled": false
+    "Enabled": true
   },
   "150411": {
     "OriginalText": "アビリティ",

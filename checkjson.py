@@ -11,8 +11,10 @@ for files in json_files:
         try:
             djson = simplejson.load(json_file)
             for rmid in djson:
-                if (not ("Text" in djson[rmid]) or (djson[rmid]["Text"] != "")) and (not ("Enabled" in djson[rmid]) or (djson[rmid]["Enabled"] == False)):
-                    print ("%s:%s" % (files, rmid))
+                if ("Text" in djson[rmid] and (djson[rmid]["Text"] != "")):
+                    if ("Enabled" not in djson[rmid] or (djson[rmid]["Enabled"] == False)):
+                        if (djson[rmid]["Text"] != "Delete" and "DLC Series" not in djson[rmid]["Text"]):
+                           print ("%s:%s" % (files, rmid))
         except ValueError as e:
             print("%s: %s") % (files, e)
             invalid_json_files.append(files)

@@ -397,7 +397,7 @@
   "200331": {
     "OriginalText": "難：銅の荒野連続撃破任務",
     "Text": "Danger: Copper Wastelands Destroy",
-    "Enabled": false
+    "Enabled": true
   },
   "200332": {
     "OriginalText": "難：古代都市広域偵察任務",
