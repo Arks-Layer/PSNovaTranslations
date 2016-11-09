@@ -36,7 +36,7 @@
   },
   "300007": {
     "OriginalText": "【トネルバンクゥの石片】を集める",
-    "Text": "Collect [Toner Bank Stone Pieces]",
+    "Text": "Collect [Toner Banku Stone Piece]",
     "Enabled": true
   },
   "300008": {
@@ -246,7 +246,7 @@
   },
   "300049": {
     "OriginalText": "【バンクゥの大宝石】を集める",
-    "Text": "Collect [Banku Gems]",
+    "Text": "Collect [Banku Gem]",
     "Enabled": true
   },
   "300050": {
@@ -616,28 +616,28 @@
   },
   "300123": {
     "OriginalText": "【ギガンテスのグラン器片】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [G-infused Gigantes Organ]",
+    "Enabled": true
   },
   "300124": {
     "OriginalText": "【エウリュードの爪片】を集める\n【ギガンテスの殻片】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Eurude Claw Part]\nCollect [Gigantes Shell]",
+    "Enabled": true
   },
   "300125": {
     "OriginalText": "【アルキュオネの浮遊伝置】を集める\n【アグリオスの砲片】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Alcyone's Levitator]\nCollect [Agrios's Gun]",
+    "Enabled": true
   },
   "300126": {
     "OriginalText": "【ロヴラッピーの甲片】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Love Rappy Armor Fragment]",
+    "Enabled": true
   },
   "300127": {
     "OriginalText": "【アセラビーソの原動機】を集める\n【アセラビーソの刃片】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Ase Rabbisaw Motor]\nCollect [Ase Rabbisaw Blade]",
+    "Enabled": true
   },
   "300128": {
     "OriginalText": "【ガラティオンの鋭ノコ刃】を集める",

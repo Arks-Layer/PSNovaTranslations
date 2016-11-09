@@ -616,28 +616,28 @@
   },
   "280123": {
     "OriginalText": "グラン器片の入手",
-    "Text": "",
-    "Enabled": false
+    "Text": "Acquire Gran Weapon Parts",
+    "Enabled": true
   },
   "280124": {
     "OriginalText": "爪片と殻片の入手",
-    "Text": "",
-    "Enabled": false
+    "Text": "Acquire Claw and Shell Fragments",
+    "Enabled": true
   },
   "280125": {
     "OriginalText": "機械部品の入手",
-    "Text": "",
-    "Enabled": false
+    "Text": "Acquire Machine Parts",
+    "Enabled": true
   },
   "280126": {
     "OriginalText": "甲片の入手",
-    "Text": "",
-    "Enabled": false
+    "Text": "Acquire Armor Fragments",
+    "Enabled": true
   },
   "280127": {
     "OriginalText": "原動機と刃片の入手",
-    "Text": "",
-    "Enabled": false
+    "Text": "Motor and Blade Fragments",
+    "Enabled": true
   },
   "280128": {
     "OriginalText": "鋭ノコ刃の入手",
