@@ -886,8 +886,8 @@
   },
   "350177": {
     "OriginalText": "アグリオスの砲片",
-    "Text": "",
-    "Enabled": false
+    "Text": "Agrios's Gun",
+    "Enabled": true
   },
   "350178": {
     "OriginalText": "ラウーダンの大煽皮",
@@ -1176,8 +1176,8 @@
   },
   "350235": {
     "OriginalText": "ギガンテスの殻片",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gigantes Shell",
+    "Enabled": true
   },
   "350236": {
     "OriginalText": "巨大な触角",
@@ -1206,7 +1206,7 @@
   },
   "350241": {
     "OriginalText": "トネルバンクゥの石片",
-    "Text": "Toner Bank Stone Pieces",
+    "Text": "Toner Bank Stone Piece",
     "Enabled": true
   },
   "350242": {
@@ -1236,7 +1236,7 @@
   },
   "350247": {
     "OriginalText": "エウリュードの爪片",
-    "Text": "Elude Claw Part",
+    "Text": "Eurude Claw Part",
     "Enabled": true
   },
   "350248": {
@@ -1251,8 +1251,8 @@
   },
   "350250": {
     "OriginalText": "アセラビーソの原動機",
-    "Text": "",
-    "Enabled": false
+    "Text": "Ase Rabbisaw Motor",
+    "Enabled": true
   },
   "350251": {
     "OriginalText": "エデルクリトロの煽皮",
@@ -1356,8 +1356,8 @@
   },
   "350271": {
     "OriginalText": "ロヴラッピーの甲片",
-    "Text": "",
-    "Enabled": false
+    "Text": "Love Rappy Armor Fragment",
+    "Enabled": true
   },
   "350272": {
     "OriginalText": "ヴィマフレザールの皮片",
@@ -2511,7 +2511,7 @@
   },
   "350502": {
     "OriginalText": "スォロバンクゥの大宝石",
-    "Text": "Swole Banku Gems",
+    "Text": "Swole Banku Gem",
     "Enabled": true
   },
   "350503": {
@@ -2531,7 +2531,7 @@
   },
   "350506": {
     "OriginalText": "ヴェンバンクゥの大宝石",
-    "Text": "Venn Banku Gems",
+    "Text": "Venn Banku Gem",
     "Enabled": true
   },
   "350507": {
@@ -2566,7 +2566,7 @@
   },
   "350513": {
     "OriginalText": "フレスバンクゥの大宝石",
-    "Text": "Fresc Banku Gems",
+    "Text": "Fresc Banku Gem",
     "Enabled": true
   },
   "350514": {
