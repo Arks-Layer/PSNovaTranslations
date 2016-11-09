@@ -157,17 +157,17 @@
   "820031": {
     "OriginalText": "削除",
     "Text": "Delete",
-    "Enabled": false
+    "Enabled": true
   },
   "820032": {
     "OriginalText": "削除",
     "Text": "Delete",
-    "Enabled": false
+    "Enabled": true
   },
   "820033": {
     "OriginalText": "削除",
     "Text": "Delete",
-    "Enabled": false
+    "Enabled": true
   },
   "820034": {
     "OriginalText": "打撃力、射撃力、法撃力、\n打撃防御力、射撃防御力、法撃防御力が\n１０上昇し、技量が５上昇する。",

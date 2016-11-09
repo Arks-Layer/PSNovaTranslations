@@ -9,7 +9,7 @@ install:
   - pip install simplejson
 
 script:
-  - python checkjson.py | sort -n
+  - python checkjson.py && python coverage.py | sort -n
 
 before_cache:
   - rm -f $HOME/.cache/pip/log/debug.log

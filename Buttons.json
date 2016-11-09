@@ -281,7 +281,7 @@
   },
   "430056": {
     "OriginalText": "スキルボード切替",
-    "Text": "Switch Skill Board",
+    "Text": "Switch SB",
     "Enabled": true
   },
   "430057": {
@@ -311,7 +311,7 @@
   },
   "430062": {
     "OriginalText": "スキル表示",
-    "Text": "Skills Display",
+    "Text": "Skills",
     "Enabled": true
   },
   "430063": {
