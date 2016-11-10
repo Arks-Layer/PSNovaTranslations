@@ -641,18 +641,18 @@
   },
   "300128": {
     "OriginalText": "【ガラティオンの鋭ノコ刃】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Garation's Sharp Saw Blade]",
+    "Enabled": true
   },
   "300129": {
     "OriginalText": "【ファンアフォルの硬骨格】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Fan'aphol Skeleton]",
+    "Enabled": true
   },
   "300130": {
     "OriginalText": "【ギガンテスの駆動機関】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Gigantes Engine Gear]",
+    "Enabled": true
   },
   "300131": {
     "OriginalText": "【アルテイオスの大主砲】を集める",
@@ -661,12 +661,12 @@
   },
   "300132": {
     "OriginalText": "【多積層の銅版】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Steel Layered Sheet]",
+    "Enabled": true
   },
   "300133": {
     "OriginalText": "【グレイオスの主砲】を集める",
-    "Text": "Collect [Greios's Cannon]",
+    "Text": "Collect [Greios's Main Cannon]",
     "Enabled": true
   },
   "300134": {
@@ -916,8 +916,8 @@
   },
   "300183": {
     "OriginalText": "【樹木状の鉱洋】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Dendritic Material]",
+    "Enabled": true
   },
   "300184": {
     "OriginalText": "【バレダイナスの銃片】を集める",
