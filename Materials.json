@@ -311,8 +311,8 @@
   },
   "350062": {
     "OriginalText": "多積層の銅板",
-    "Text": "",
-    "Enabled": false
+    "Text": "Steel Layered Sheet",
+    "Enabled": true
   },
   "350063": {
     "OriginalText": "成長する金属外殻",
@@ -836,8 +836,8 @@
   },
   "350167": {
     "OriginalText": "ギガンテスの駆動機関",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gigantes Engine Gear",
+    "Enabled": true
   },
   "350168": {
     "OriginalText": "ランチャーの破片",
@@ -1806,8 +1806,8 @@
   },
   "350361": {
     "OriginalText": "ガラティオンの鋭ノコ刃",
-    "Text": "",
-    "Enabled": false
+    "Text": "Garation's Sharp Saw Blade",
+    "Enabled": true
   },
   "350362": {
     "OriginalText": "クロザードの爪",
@@ -2176,8 +2176,8 @@
   },
   "350435": {
     "OriginalText": "ファンアフォルの硬骨格",
-    "Text": "",
-    "Enabled": false
+    "Text": "Fan'aphol Skeleton",
+    "Enabled": true
   },
   "350436": {
     "OriginalText": "レイヴガイストの大結界",

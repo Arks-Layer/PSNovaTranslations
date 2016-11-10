@@ -636,43 +636,43 @@
   },
   "280127": {
     "OriginalText": "原動機と刃片の入手",
-    "Text": "Motor and Blade Fragments",
+    "Text": "Acquire Motor and Blade Fragments",
     "Enabled": true
   },
   "280128": {
     "OriginalText": "鋭ノコ刃の入手",
-    "Text": "",
-    "Enabled": false
+    "Text": "Acquire Sharp Saw Blades",
+    "Enabled": true
   },
   "280129": {
     "OriginalText": "硬骨格の入手",
-    "Text": "",
-    "Enabled": false
+    "Text": "Acquire Skeletons",
+    "Enabled": true
   },
   "280130": {
     "OriginalText": "駆動機関の入手",
-    "Text": "",
-    "Enabled": false
+    "Text": "Acquire Engines",
+    "Enabled": true
   },
   "280131": {
     "OriginalText": "大主砲の入手",
-    "Text": "Obtained Large Main Cannon",
+    "Text": "Acquire the Main Battery",
     "Enabled": true
   },
   "280132": {
     "OriginalText": "多積層の銅板の入手",
-    "Text": "",
-    "Enabled": false
+    "Text": "Acquire Laminated Steel Sheets",
+    "Enabled": true
   },
   "280133": {
     "OriginalText": "★赤い主砲の入手",
-    "Text": "Obtained ★Red Main Cannon",
+    "Text": "★ Acquire Red Main Cannon",
     "Enabled": true
   },
   "280134": {
     "OriginalText": "★歯片の入手",
-    "Text": "",
-    "Enabled": false
+    "Text": "★ Acquire Teeth",
+    "Enabled": true
   },
   "280135": {
     "OriginalText": "ＳＨに挑戦・炎の高地",
@@ -916,8 +916,8 @@
   },
   "280183": {
     "OriginalText": "鉱洋の調達",
-    "Text": "",
-    "Enabled": false
+    "Text": "Supplying Minerals",
+    "Enabled": true
   },
   "280184": {
     "OriginalText": "銃片の調達",
