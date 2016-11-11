@@ -1,6 +1,13 @@
 language: python
 
+dist: trusty
 sudo: false
+group: beta
+
+addons:
+  apt:
+    packages:
+    - jq
 
 cache:
   - pip
@@ -10,6 +17,7 @@ install:
 
 script:
   - python checkjson.py && python coverage.py | sort -n
+  - ./tidy-json.sh && git diff --exit-code
 
 before_cache:
   - rm -f $HOME/.cache/pip/log/debug.log
