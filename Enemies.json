@@ -181,13 +181,13 @@
   },
   "181710": {
     "OriginalText": "コラル・ドラゴン",
-    "Text": "",
-    "Enabled": false
+    "Text": "Coral Dragon",
+    "Enabled": true
   },
   "181720": {
     "OriginalText": "ディアマ・ドラール",
-    "Text": "",
-    "Enabled": false
+    "Text": "Diama Dragon",
+    "Enabled": true
   },
   "181810": {
     "OriginalText": "ラウーダン",
@@ -356,22 +356,22 @@
   },
   "182810": {
     "OriginalText": "ラビーソ",
-    "Text": "Rabbis",
+    "Text": "Rabbisaw",
     "Enabled": true
   },
   "182820": {
     "OriginalText": "ブロラビーソ",
-    "Text": "Bro Rabbis",
+    "Text": "Bro Rabbisaw",
     "Enabled": true
   },
   "182830": {
     "OriginalText": "アセラビーソ",
-    "Text": "Ase Rabbis",
+    "Text": "Ase Rabbisaw",
     "Enabled": true
   },
   "182840": {
     "OriginalText": "ラビーソ・プラテ",
-    "Text": "Rabbis Platen",
+    "Text": "Rabbisaw Platen",
     "Enabled": true
   },
   "182910": {

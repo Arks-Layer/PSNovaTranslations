@@ -36,7 +36,7 @@
   },
   "300007": {
     "OriginalText": "【トネルバンクゥの石片】を集める",
-    "Text": "Collect [Toner Bank Stone Pieces]",
+    "Text": "Collect [Toner Banku Stone Piece]",
     "Enabled": true
   },
   "300008": {
@@ -246,7 +246,7 @@
   },
   "300049": {
     "OriginalText": "【バンクゥの大宝石】を集める",
-    "Text": "Collect [Banku Gems]",
+    "Text": "Collect [Banku Gem]",
     "Enabled": true
   },
   "300050": {
@@ -616,43 +616,43 @@
   },
   "300123": {
     "OriginalText": "【ギガンテスのグラン器片】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [G-infused Gigantes Organ]",
+    "Enabled": true
   },
   "300124": {
     "OriginalText": "【エウリュードの爪片】を集める\n【ギガンテスの殻片】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Eurude Claw Part]\nCollect [Gigantes Shell]",
+    "Enabled": true
   },
   "300125": {
     "OriginalText": "【アルキュオネの浮遊伝置】を集める\n【アグリオスの砲片】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Alcyone's Levitator]\nCollect [Agrios's Gun]",
+    "Enabled": true
   },
   "300126": {
     "OriginalText": "【ロヴラッピーの甲片】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Love Rappy Armor Fragment]",
+    "Enabled": true
   },
   "300127": {
     "OriginalText": "【アセラビーソの原動機】を集める\n【アセラビーソの刃片】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Ase Rabbisaw Motor]\nCollect [Ase Rabbisaw Blade]",
+    "Enabled": true
   },
   "300128": {
     "OriginalText": "【ガラティオンの鋭ノコ刃】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Garation's Sharp Saw Blade]",
+    "Enabled": true
   },
   "300129": {
     "OriginalText": "【ファンアフォルの硬骨格】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Fan'aphol Skeleton]",
+    "Enabled": true
   },
   "300130": {
     "OriginalText": "【ギガンテスの駆動機関】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Gigantes Engine Gear]",
+    "Enabled": true
   },
   "300131": {
     "OriginalText": "【アルテイオスの大主砲】を集める",
@@ -661,12 +661,12 @@
   },
   "300132": {
     "OriginalText": "【多積層の銅版】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Steel Layered Sheet]",
+    "Enabled": true
   },
   "300133": {
     "OriginalText": "【グレイオスの主砲】を集める",
-    "Text": "Collect [Greios's Cannon]",
+    "Text": "Collect [Greios's Main Cannon]",
     "Enabled": true
   },
   "300134": {
@@ -916,8 +916,8 @@
   },
   "300183": {
     "OriginalText": "【樹木状の鉱洋】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Dendritic Material]",
+    "Enabled": true
   },
   "300184": {
     "OriginalText": "【バレダイナスの銃片】を集める",
@@ -1111,73 +1111,73 @@
   },
   "300222": {
     "OriginalText": "【岩塩】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Rock Salt]",
+    "Enabled": true
   },
   "300223": {
     "OriginalText": "【獣の肉】を集める",
-    "Text": "Collect [Monster Flesh]",
+    "Text": "Collect [Beast Flesh]",
     "Enabled": true
   },
   "300224": {
     "OriginalText": "【グランブの爪片】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Granv Claw]",
+    "Enabled": true
   },
   "300225": {
     "OriginalText": "【尻】を集める\n【米】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Rice]\nCollect [Wheat]",
+    "Enabled": true
   },
   "300226": {
     "OriginalText": "【ダーカーの肉】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Darker Meat]",
+    "Enabled": true
   },
   "300227": {
     "OriginalText": "【ジュラキアの軟骨】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Jurrakia Cartilage]",
+    "Enabled": true
   },
   "300228": {
     "OriginalText": "【ギガンテスの肉】を集める\n【ギガンテスの魚肉】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Gigantes Meat]\nCollect [Fish Gigantes Meat]",
+    "Enabled": true
   },
   "300229": {
     "OriginalText": "【デェフキュオネの大虫麦】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Defcyone Ink Sac]",
+    "Enabled": true
   },
   "300230": {
     "OriginalText": "【獣のミルク】を集める\n【竜族のたまご】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Beast Milk]\nCollect [Dragonkin Egg]",
+    "Enabled": true
   },
   "300231": {
     "OriginalText": "【アグリオスのたまご】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Agrios Egg]",
+    "Enabled": true
   },
   "300232": {
     "OriginalText": "【赤い樹袋】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Red Branch]",
+    "Enabled": true
   },
   "300233": {
     "OriginalText": "【劇】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Ice]",
+    "Enabled": true
   },
   "300234": {
     "OriginalText": "【アセラビーソの刃片】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Ase Rabbisaw Blade]",
+    "Enabled": true
   },
   "300235": {
     "OriginalText": "【ブロラビーソの超回転刃】を集める\n【マドアビアディノの超鱗皮】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Bro Rabbisaw's Rotating Blade]\nCollect [Mad Aviadino Scaled Hide]",
+    "Enabled": true
   },
   "300236": {
     "OriginalText": "【超：錯砦のヴィヴリュード】をクリアする",
@@ -1316,7 +1316,7 @@
   },
   "300263": {
     "OriginalText": "【獣の肉】を集める",
-    "Text": "Collect [Monster Flesh]",
+    "Text": "Collect [Beast Flesh]",
     "Enabled": true
   },
   "300264": {

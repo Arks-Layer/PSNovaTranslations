@@ -111,7 +111,7 @@
   },
   "430022": {
     "OriginalText": "瞳カラー設定",
-    "Text": "Eye Color Setting",
+    "Text": "Set Eye Color",
     "Enabled": true
   },
   "430023": {
@@ -121,7 +121,7 @@
   },
   "430024": {
     "OriginalText": "まゆカラー設定",
-    "Text": "Eyebrow Color Setting",
+    "Text": "Set Eyebrow Color",
     "Enabled": true
   },
   "430025": {
@@ -131,7 +131,7 @@
   },
   "430026": {
     "OriginalText": "ヘアカラー設定",
-    "Text": "Hair Color Settings",
+    "Text": "Set Hair Color",
     "Enabled": true
   },
   "430027": {
@@ -141,7 +141,7 @@
   },
   "430028": {
     "OriginalText": "ヘッドパーツカラー設定",
-    "Text": "Head Parts Color Settings",
+    "Text": "Set Head Part Color",
     "Enabled": true
   },
   "430029": {
@@ -151,7 +151,7 @@
   },
   "430030": {
     "OriginalText": "コスチュームカラー設定",
-    "Text": "Costume Color Setting",
+    "Text": "Set Costume Color",
     "Enabled": true
   },
   "430031": {
@@ -251,7 +251,7 @@
   },
   "430050": {
     "OriginalText": "カラー設定",
-    "Text": "Color Setting",
+    "Text": "Set Color",
     "Enabled": true
   },
   "430051": {
@@ -281,7 +281,7 @@
   },
   "430056": {
     "OriginalText": "スキルボード切替",
-    "Text": "Switch Skill Board",
+    "Text": "Switch SB",
     "Enabled": true
   },
   "430057": {
@@ -301,7 +301,7 @@
   },
   "430060": {
     "OriginalText": "カメラ初期化",
-    "Text": "Camera Formatting",
+    "Text": "Camera Reset",
     "Enabled": true
   },
   "430061": {
@@ -311,7 +311,7 @@
   },
   "430062": {
     "OriginalText": "スキル表示",
-    "Text": "Skills Display",
+    "Text": "Skills",
     "Enabled": true
   },
   "430063": {

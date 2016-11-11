@@ -1491,7 +1491,7 @@
   },
   "21204": {
     "OriginalText": "目標",
-    "Text": "Goal",
+    "Text": "Objective",
     "Enabled": true
   },
   "21205": {
@@ -1536,7 +1536,7 @@
   },
   "21213": {
     "OriginalText": "依頼者より",
-    "Text": "Order Description",
+    "Text": "Description",
     "Enabled": true
   },
   "21214": {
@@ -1551,7 +1551,7 @@
   },
   "21216": {
     "OriginalText": "達成報酬",
-    "Text": "Achievement Reward",
+    "Text": "Reward",
     "Enabled": true
   },
   "21217": {
@@ -2116,7 +2116,7 @@
   },
   "21727": {
     "OriginalText": "失敗条件",
-    "Text": " Failure",
+    "Text": "Failure",
     "Enabled": true
   },
   "21728": {
@@ -3986,12 +3986,12 @@
   },
   "25010": {
     "OriginalText": "武器伝備へ",
-    "Text": "Weapon Transfer Started",
+    "Text": "To Weapons",
     "Enabled": true
   },
   "25011": {
     "OriginalText": "武器パレット伝備へ",
-    "Text": "Weapon Palette Transfer Started",
+    "Text": "To Palettes",
     "Enabled": true
   },
   "25012": {
