@@ -176,7 +176,7 @@
   },
   "430035": {
     "OriginalText": "位置決定",
-    "Text": "Position Select",
+    "Text": "Confirm",
     "Enabled": true
   },
   "430036": {
@@ -306,7 +306,7 @@
   },
   "430061": {
     "OriginalText": "パーツ位置初期化",
-    "Text": "Initial Part Position",
+    "Text": "Reset Position",
     "Enabled": true
   },
   "430062": {
