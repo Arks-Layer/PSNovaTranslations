@@ -921,8 +921,8 @@
   },
   "280184": {
     "OriginalText": "銃片の調達",
-    "Text": "",
-    "Enabled": false
+    "Text": "Supplying Gun Fragments",
+    "Enabled": true
   },
   "280185": {
     "OriginalText": "砲片と爪の調達",

@@ -921,8 +921,8 @@
   },
   "300184": {
     "OriginalText": "【バレダイナスの銃片】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Vale-Dynas Gun Piece]",
+    "Enabled": true
   },
   "300185": {
     "OriginalText": "【シルブカーネベアの砲片】を集める\n【レイバンサーの爪】を集める",
