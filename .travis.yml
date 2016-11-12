@@ -4,11 +4,6 @@ dist: trusty
 sudo: false
 group: beta
 
-addons:
-  apt:
-    packages:
-    - jq
-
 cache:
   - pip
 
