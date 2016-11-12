@@ -1541,27 +1541,27 @@
   },
   "91000": {
     "OriginalText": "ＳＲＦブレード",
-    "Text": "",
-    "Enabled": false
+    "Text": "SRF Blade",
+    "Enabled": true
   },
   "91001": {
     "OriginalText": "人の剣 神を斬獲せし者",
-    "Text": "",
-    "Enabled": false
+    "Text": "Angel Slayer",
+    "Enabled": true
   },
   "91002": {
     "OriginalText": "４５₱ＡＵＴＯ",
-    "Text": "",
-    "Enabled": false
+    "Text": "45-AUTO",
+    "Enabled": true
   },
   "91003": {
     "OriginalText": "ＳＭＧ₱０５",
-    "Text": "",
-    "Enabled": false
+    "Text": "SMG-05",
+    "Enabled": true
   },
   "91004": {
     "OriginalText": "Ｂ₱８４",
-    "Text": "",
-    "Enabled": false
+    "Text": "B-N84",
+    "Enabled": true
   }
 }
