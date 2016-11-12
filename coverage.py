@@ -9,7 +9,7 @@ import sys
 counterr = 0
 bufout = "000.0%:0FILE"
 invalid_json_files = []
-json_files = [f for f in os.listdir('.') if re.match(r'.*\.json', f)]
+json_files = [f for f in os.listdir('./rmd') if re.match(r'.*\.json', f)]
 for files in json_files:
     with open(files) as json_file:
         try:

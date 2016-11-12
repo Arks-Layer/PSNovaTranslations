@@ -138,10 +138,10 @@ def ProcFile(fp, out, enemies, items):
 ##
 def Main():
 #{
-   enemies = LoadEnemies("Enemies.json")
+   enemies = LoadEnemies("rmd/Enemies.json")
 
-   with open("Materials.json", "r", newline = "") as fp:
-      with open("Materials.json.1", "w", newline = "") as out:
+   with open("rmd/Materials.json", "r", newline = "") as fp:
+      with open("rmd/Materials.json.1", "w", newline = "") as out:
          ProcFile(fp, out, enemies,
          {
             "甲殻":   "Shell",
@@ -165,8 +165,8 @@ def Main():
             "ミルク": "Milk"
          })
 
-   with open("Enemy Cores.json", "r", newline = "") as fp:
-      with open("Enemy Cores.json.1", "w", newline = "") as out:
+   with open("rmd/Enemy Cores.json", "r", newline = "") as fp:
+      with open("rmd/Enemy Cores.json.1", "w", newline = "") as out:
          ProcFile(fp, out, enemies, { "・コア": "Core" })
 #}
 
