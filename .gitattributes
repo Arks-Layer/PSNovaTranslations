@@ -1,3 +1,7 @@
-*.json  text=auto eol=crlf
-*.txt text=auto eol=crlf
-*.doom text=auto eol=crlf
+*.json  text=auto eol=native
+*.txt text=auto eol=native
+*.doom text=auto eol=native
+*.sh text=auto eol=lf
+*.py text=auto eol=native
+*.csv text=auto eol=native
+README.md text=auto eol=native
