@@ -7,7 +7,7 @@ group: beta
 addons:
   apt:
     packages:
-    - jq
+    - dos2unix
 
 cache:
   - pip
