@@ -211,12 +211,12 @@
   },
   "430042": {
     "OriginalText": "設定を初期化",
-    "Text": "Initial Settings",
+    "Text": "Default Settings",
     "Enabled": true
   },
   "430043": {
     "OriginalText": "設定完了",
-    "Text": "Complete Settings",
+    "Text": "Confirm Settings",
     "Enabled": true
   },
   "430044": {
