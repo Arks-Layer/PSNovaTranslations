@@ -2466,38 +2466,38 @@
   },
   "330502": {
     "OriginalText": "ＳＲＦアーマー",
-    "Text": "",
-    "Enabled": false
+    "Text": "SRF Armor",
+    "Enabled": true
   },
   "330503": {
     "OriginalText": "ＳＲＦプロテクター",
-    "Text": "",
-    "Enabled": false
+    "Text": "SRF Protector",
+    "Enabled": true
   },
   "330504": {
     "OriginalText": "ヴァルキリーガーブ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Valkyrie Garb",
+    "Enabled": true
   },
   "330505": {
     "OriginalText": "ヴァシュロンジャケット",
-    "Text": "",
-    "Enabled": false
+    "Text": "Vashyron Jacket",
+    "Enabled": true
   },
   "330506": {
     "OriginalText": "ゼファージャケット",
-    "Text": "",
-    "Enabled": false
+    "Text": "Zephyr Jacket",
+    "Enabled": true
   },
   "330507": {
     "OriginalText": "リーンベルコート",
-    "Text": "",
-    "Enabled": false
+    "Text": "Reanbell Coat",
+    "Enabled": true
   },
   "330508": {
     "OriginalText": "ヴァルキュリア・ドレス",
-    "Text": "",
-    "Enabled": false
+    "Text": "Valkyria Dress",
+    "Enabled": true
   },
   "330509": {
     "OriginalText": "ダイヤモンドネイヴＫ",

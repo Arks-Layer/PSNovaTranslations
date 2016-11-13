@@ -1241,8 +1241,8 @@
   },
   "201090": {
     "OriginalText": "タイムアタック・銅の荒野",
-    "Text": "",
-    "Enabled": false
+    "Text": "Time Attack: Steel Desert",
+    "Enabled": true
   },
   "201091": {
     "OriginalText": "クエスト目標【201910】",
@@ -1456,8 +1456,8 @@
   },
   "201310": {
     "OriginalText": "運命の餅方",
-    "Text": "",
-    "Enabled": false
+    "Text": "Destined Man",
+    "Enabled": true
   },
   "201311": {
     "OriginalText": "グラバーを探す",
