@@ -527,7 +527,7 @@
   "300105": {
     "OriginalText": "【原生種：Ｌｖ８０】を倒す",
     "Text": "Defeat [Natives] Lv.80",
-    "Enabled": false
+    "Enabled": true
   },
   "300106": {
     "OriginalText": "【天然樹木】を集める",
