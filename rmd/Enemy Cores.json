@@ -1016,148 +1016,148 @@
   },
   "110203": {
     "OriginalText": "コラル・ドラゴンの超コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Coral Dragon Pure Core",
+    "Enabled": true
   },
   "110204": {
     "OriginalText": "バンサーの超コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Banther Pure Core",
+    "Enabled": true
   },
   "110205": {
     "OriginalText": "クリトロの超コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Critter Pure Core",
+    "Enabled": true
   },
   "110206": {
     "OriginalText": "カーネベアの超コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Carnnebear Pure Core",
+    "Enabled": true
   },
   "110207": {
     "OriginalText": "レイバンサーの超コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Ray Banther Pure Core",
+    "Enabled": true
   },
   "110208": {
     "OriginalText": "ディートアスの超コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Ditoas Pure Core",
+    "Enabled": true
   },
   "110209": {
     "OriginalText": "テュルトアスの超コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Tulletoas Pure Core",
+    "Enabled": true
   },
   "110210": {
     "OriginalText": "マグネトアスの超コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Magnetoas Pure Core",
+    "Enabled": true
   },
   "110211": {
     "OriginalText": "ノイヴァトアスの超コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Neuvatoas Pure Core",
+    "Enabled": true
   },
   "110212": {
     "OriginalText": "ゴルドスの超コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gordes Pure Core",
+    "Enabled": true
   },
   "110213": {
     "OriginalText": "ディゴルドスの超コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Digordes Pure Core",
+    "Enabled": true
   },
   "110214": {
     "OriginalText": "オルゴルドスの超コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Orgordes Pure Core",
+    "Enabled": true
   },
   "110215": {
     "OriginalText": "ヴァリゴルドスの超コア",
-    "Text": "",
+    "Text": "Valigordes Pure Core",
     "Enabled": false
   },
   "110216": {
     "OriginalText": "ファンアフォルの超コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Fan'aphol Pure Core",
+    "Enabled": true
   },
   "110217": {
     "OriginalText": "ウィルアフォルの超コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Viluaphol Pure Core",
+    "Enabled": true
   },
   "110218": {
     "OriginalText": "アグリオスの超コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Agrios Pure Core",
+    "Enabled": true
   },
   "110219": {
     "OriginalText": "グレイオスの超コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Greios Pure Core",
+    "Enabled": true
   },
   "110220": {
     "OriginalText": "アルテイオスの超コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Altios Pure Core",
+    "Enabled": true
   },
   "110221": {
     "OriginalText": "エウリュードの超コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Eurude Pure Core",
+    "Enabled": true
   },
   "110222": {
     "OriginalText": "ヴィヴリュードの超コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Vivrude Pure Core",
+    "Enabled": true
   },
   "110223": {
     "OriginalText": "ガラティオンの超コア",
-    "Text": "Garation's Pure Core",
+    "Text": "Garation Pure Core",
     "Enabled": true
   },
   "110224": {
     "OriginalText": "ギガティオンの超コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gigation Pure Core",
+    "Enabled": true
   },
   "110225": {
     "OriginalText": "グラヴディオンの超コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gravdion Pure Core",
+    "Enabled": true
   },
   "110226": {
     "OriginalText": "アルキュオネの超コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Alcyone Pure Core",
+    "Enabled": true
   },
   "110227": {
     "OriginalText": "デェフキュオネの超コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Defcyone Pure Core",
+    "Enabled": true
   },
   "110228": {
     "OriginalText": "ギュゲンテの超コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gygante Pure Core",
+    "Enabled": true
   },
   "110229": {
     "OriginalText": "リベルゲンテの超コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Libelgante Pure Core",
+    "Enabled": true
   },
   "110230": {
     "OriginalText": "レイヴガイストの超コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Rave Geist Pure Core",
+    "Enabled": true
   },
   "110231": {
     "OriginalText": "ネメスガイストの超コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Nemes Geist Pure Core",
+    "Enabled": true
   },
   "110232": {
     "OriginalText": "",
@@ -1391,7 +1391,7 @@
   },
   "110278": {
     "OriginalText": "ガラティオンの冷コア",
-    "Text": "Garation's Pure Core",
+    "Text": "Garation Pure Core",
     "Enabled": true
   },
   "110279": {
