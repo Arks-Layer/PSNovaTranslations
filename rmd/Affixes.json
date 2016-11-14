@@ -1101,18 +1101,18 @@
   },
   "150220": {
     "OriginalText": "零の手",
-    "Text": "",
-    "Enabled": false
+    "Text": "Hand of Cipher",
+    "Enabled": true
   },
   "150221": {
     "OriginalText": "零の腕",
-    "Text": "",
-    "Enabled": false
+    "Text": "Arm of Cipher",
+    "Enabled": true
   },
   "150222": {
     "OriginalText": "零の挙",
-    "Text": "",
-    "Enabled": false
+    "Text": "Fist of Cipher",
+    "Enabled": true
   },
   "150223": {
     "OriginalText": "飛練撃",
@@ -1146,63 +1146,63 @@
   },
   "150229": {
     "OriginalText": "紅蓮結晶",
-    "Text": "",
-    "Enabled": false
+    "Text": "Crimson Crystal",
+    "Enabled": true
   },
   "150230": {
     "OriginalText": "紅蓮双結晶",
-    "Text": "",
-    "Enabled": false
+    "Text": "Crimson Twin Crystal",
+    "Enabled": true
   },
   "150231": {
     "OriginalText": "紅蓮多結晶",
-    "Text": "",
-    "Enabled": false
+    "Text": "Crimson Polycrystallite",
+    "Enabled": true
   },
   "150232": {
     "OriginalText": "劇縛結晶",
-    "Text": "",
-    "Enabled": false
+    "Text": "Ice Crystal",
+    "Enabled": true
   },
   "150233": {
     "OriginalText": "劇縛双結晶",
-    "Text": "",
-    "Enabled": false
+    "Text": "Ice Twin Crystal",
+    "Enabled": true
   },
   "150234": {
     "OriginalText": "劇縛多結晶",
-    "Text": "",
-    "Enabled": false
+    "Text": "Ice Polycrystalline",
+    "Enabled": true
   },
   "150235": {
     "OriginalText": "雷鳴結晶",
-    "Text": "",
-    "Enabled": false
+    "Text": "Thunder Crystal",
+    "Enabled": true
   },
   "150236": {
     "OriginalText": "雷鳴双結晶",
-    "Text": "",
-    "Enabled": false
+    "Text": "Thunder Twin Crystal",
+    "Enabled": true
   },
   "150237": {
     "OriginalText": "雷鳴多結晶",
-    "Text": "",
-    "Enabled": false
+    "Text": "Thunder Polycrystalline",
+    "Enabled": true
   },
   "150238": {
     "OriginalText": "光輝の癒し",
-    "Text": "",
-    "Enabled": false
+    "Text": "Healing Splendor",
+    "Enabled": true
   },
   "150239": {
     "OriginalText": "光輝の快癒",
-    "Text": "",
-    "Enabled": false
+    "Text": "Recovery Splendor",
+    "Enabled": true
   },
   "150240": {
     "OriginalText": "光輝の神癒",
-    "Text": "",
-    "Enabled": false
+    "Text": "Divine Splendor",
+    "Enabled": true
   },
   "150241": {
     "OriginalText": "観理眼",
@@ -1221,8 +1221,8 @@
   },
   "150244": {
     "OriginalText": "古の誓い",
-    "Text": "",
-    "Enabled": false
+    "Text": "Old Vow",
+    "Enabled": true
   },
   "150245": {
     "OriginalText": "- 予備枠",
@@ -1266,18 +1266,18 @@
   },
   "150253": {
     "OriginalText": "幸運の羽根",
-    "Text": "",
-    "Enabled": false
+    "Text": "Feathers of Fortune",
+    "Enabled": true
   },
   "150254": {
     "OriginalText": "幸運の翼",
-    "Text": "",
-    "Enabled": false
+    "Text": "Wings of Fortune",
+    "Enabled": true
   },
   "150255": {
     "OriginalText": "幸運の輝翼",
-    "Text": "",
-    "Enabled": false
+    "Text": "Shining Wings of Fortune",
+    "Enabled": true
   },
   "150256": {
     "OriginalText": "不動の手盾",
@@ -1311,13 +1311,13 @@
   },
   "150262": {
     "OriginalText": "審判の時",
-    "Text": "",
-    "Enabled": false
+    "Text": "Hour of Judgement",
+    "Enabled": true
   },
   "150263": {
     "OriginalText": "運命の時",
-    "Text": "",
-    "Enabled": false
+    "Text": "Hour of Destiny",
+    "Enabled": true
   },
   "150264": {
     "OriginalText": "- 予備枠",
@@ -1341,13 +1341,13 @@
   },
   "150268": {
     "OriginalText": "捨身の証",
-    "Text": "",
-    "Enabled": false
+    "Text": "Sacrifical Proof",
+    "Enabled": true
   },
   "150269": {
     "OriginalText": "捨身の印",
-    "Text": "",
-    "Enabled": false
+    "Text": "Sacrifical Mark",
+    "Enabled": true
   },
   "150270": {
     "OriginalText": "- 予備枠",
@@ -1386,8 +1386,8 @@
   },
   "150277": {
     "OriginalText": "炎獄",
-    "Text": "",
-    "Enabled": false
+    "Text": "Flaming Prison",
+    "Enabled": true
   },
   "150278": {
     "OriginalText": "- 予備枠",
@@ -1541,42 +1541,42 @@
   },
   "150310": {
     "OriginalText": "星天弾",
-    "Text": "",
-    "Enabled": false
+    "Text": "Stardust Bullet",
+    "Enabled": true
   },
   "150311": {
     "OriginalText": "星天玉",
-    "Text": "",
-    "Enabled": false
+    "Text": "Stardust Jewel",
+    "Enabled": true
   },
   "150312": {
     "OriginalText": "狐月蝕",
-    "Text": "",
-    "Enabled": false
+    "Text": "Brown Eclipse",
+    "Enabled": true
   },
   "150313": {
     "OriginalText": "双月蝕",
-    "Text": "",
-    "Enabled": false
+    "Text": "Twin Eclipse",
+    "Enabled": true
   },
   "150314": {
     "OriginalText": "朧月蝕",
-    "Text": "",
-    "Enabled": false
+    "Text": "Hazy Eclipse",
+    "Enabled": true
   },
   "150315": {
     "OriginalText": "西風の恵み",
-    "Text": "",
+    "Text": "Wind's Grace",
     "Enabled": false
   },
   "150316": {
     "OriginalText": "西風の加護",
-    "Text": "",
+    "Text": "Wind's Protection",
     "Enabled": false
   },
   "150317": {
     "OriginalText": "西風の天恵",
-    "Text": "",
+    "Text": "Wind's Blessing",
     "Enabled": false
   },
   "150318": {
@@ -1596,18 +1596,18 @@
   },
   "150321": {
     "OriginalText": "悪魔の微笑",
-    "Text": "",
-    "Enabled": false
+    "Text": "Devil's Smile",
+    "Enabled": true
   },
   "150322": {
     "OriginalText": "悪魔のささやき",
-    "Text": "",
-    "Enabled": false
+    "Text": "Devil's Whisper",
+    "Enabled": true
   },
   "150323": {
     "OriginalText": "悪魔の涙",
-    "Text": "",
-    "Enabled": false
+    "Text": "Devil's Tears",
+    "Enabled": true
   },
   "150324": {
     "OriginalText": "会心一項",
@@ -1856,8 +1856,8 @@
   },
   "150761": {
     "OriginalText": "グランセンサー",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gran Senser",
+    "Enabled": true
   },
   "150771": {
     "OriginalText": "復合連牙",
