@@ -2016,8 +2016,8 @@
   },
   "530408": {
     "OriginalText": "えっと、あたし、実は\n戦場での記憶ってあんまりなくて……。\nどうなってもしりませんよお？",
-    "Text": "",
-    "Enabled": false
+    "Text": "I'm not sure how I...\nI don't recall anything before arriving here...\nWhat will become of me now...?",
+    "Enabled": true
   },
   "530409": {
     "OriginalText": "なんじゃ、この[ruby ふね]艦[/ruby]は若いモンばっかりじゃのう……\nシブ～いジイさまのアークスはおらんのかいえ？",
