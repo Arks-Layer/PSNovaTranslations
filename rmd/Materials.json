@@ -296,8 +296,8 @@
   },
   "350059": {
     "OriginalText": "天然樹木",
-    "Text": "",
-    "Enabled": false
+    "Text": "Wild Tree",
+    "Enabled": true
   },
   "350060": {
     "OriginalText": "遺跡石村",
@@ -406,13 +406,13 @@
   },
   "350081": {
     "OriginalText": "瞬くクリソベル石",
-    "Text": "",
-    "Enabled": false
+    "Text": "Twinkling Cymophane Stone",
+    "Enabled": true
   },
   "350082": {
     "OriginalText": "脈打つミグマタイト",
-    "Text": "",
-    "Enabled": false
+    "Text": "Pulsating Migmatite",
+    "Enabled": true
   },
   "350083": {
     "OriginalText": "メモリーフラグメントＨ",
@@ -1151,8 +1151,8 @@
   },
   "350230": {
     "OriginalText": "機械生洋の甲片",
-    "Text": "",
-    "Enabled": false
+    "Text": "Mech Armor Fragment",
+    "Enabled": true
   },
   "350231": {
     "OriginalText": "機械生洋の油片",
@@ -1201,7 +1201,7 @@
   },
   "350240": {
     "OriginalText": "エデルクリトロの爪片",
-    "Text": "Eder Critter Claw Part",
+    "Text": "Eder Critter Claw",
     "Enabled": true
   },
   "350241": {
@@ -1321,8 +1321,8 @@
   },
   "350264": {
     "OriginalText": "レイバンサーの爪",
-    "Text": "",
-    "Enabled": false
+    "Text": "Ray Banther Claw",
+    "Enabled": true
   },
   "350265": {
     "OriginalText": "ディートアスの大吸引麦",
@@ -1336,18 +1336,18 @@
   },
   "350267": {
     "OriginalText": "Ｇダーガッシュの大胸ビレ",
-    "Text": "",
-    "Enabled": false
+    "Text": "G-Dahgash Dorsal Fin",
+    "Enabled": true
   },
   "350268": {
     "OriginalText": "Ｇウォルガーダの鋭牙",
-    "Text": "",
-    "Enabled": false
+    "Text": "Sharp G-Wolgahda Fang",
+    "Enabled": true
   },
   "350269": {
     "OriginalText": "エウリュードの大弾頭",
-    "Text": "",
-    "Enabled": false
+    "Text": "Large Eurude Warhead",
+    "Enabled": true
   },
   "350270": {
     "OriginalText": "獣の爪",
@@ -1371,8 +1371,8 @@
   },
   "350274": {
     "OriginalText": "シルブカーネベアの砲片",
-    "Text": "",
-    "Enabled": false
+    "Text": "Silvcarnne Bear Cannon Piece",
+    "Enabled": true
   },
   "350275": {
     "OriginalText": "ダーカーの盾片",
@@ -1446,22 +1446,22 @@
   },
   "350289": {
     "OriginalText": "ギュゲンテのβ脚",
-    "Text": "Kyugante Insectoid Legs",
+    "Text": "Gygante Insectoid Legs",
     "Enabled": true
   },
   "350290": {
     "OriginalText": "ギュゲンテの尾",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gygante Tail",
+    "Enabled": true
   },
   "350291": {
     "OriginalText": "ギュゲンテの伝甲",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gygante Armor",
+    "Enabled": true
   },
   "350292": {
     "OriginalText": "ギュゲンテの大砲塔部品",
-    "Text": "Large Kyugante Gun Parts",
+    "Text": "Large Gygante Gun Part",
     "Enabled": true
   },
   "350293": {
@@ -1556,8 +1556,8 @@
   },
   "350311": {
     "OriginalText": "グレイオスの鋭角",
-    "Text": "",
-    "Enabled": false
+    "Text": "Sharp Greios Horn",
+    "Enabled": true
   },
   "350312": {
     "OriginalText": "フロベガルフの爪",
@@ -1661,7 +1661,7 @@
   },
   "350332": {
     "OriginalText": "マガヴルムの銃身",
-    "Text": "Magavulum Barrel",
+    "Text": "Magavulum Cannon",
     "Enabled": true
   },
   "350333": {
@@ -1791,13 +1791,13 @@
   },
   "350358": {
     "OriginalText": "シードギオスの盾",
-    "Text": "",
-    "Enabled": false
+    "Text": "Xie Dogios Shield",
+    "Enabled": true
   },
   "350359": {
     "OriginalText": "モストカーネベアの硬砲身",
-    "Text": "",
-    "Enabled": false
+    "Text": "Mostcarnne Bear Cannon",
+    "Enabled": true
   },
   "350360": {
     "OriginalText": "マドアビアディノの大コブ",
@@ -1876,8 +1876,8 @@
   },
   "350375": {
     "OriginalText": "ガラティオンの鉄線",
-    "Text": "",
-    "Enabled": false
+    "Text": "Garation Metal Wire",
+    "Enabled": true
   },
   "350376": {
     "OriginalText": "クロザードの完全な背びれ",
@@ -1971,8 +1971,8 @@
   },
   "350394": {
     "OriginalText": "ヴァッドギオスの硬盾",
-    "Text": "",
-    "Enabled": false
+    "Text": "Valle Dogios Shield",
+    "Enabled": true
   },
   "350395": {
     "OriginalText": "スロザードのヒレ",
@@ -2171,8 +2171,8 @@
   },
   "350434": {
     "OriginalText": "レイヴガイストの硬武伝腕",
-    "Text": "",
-    "Enabled": false
+    "Text": "Rave Geist Arm Weapon",
+    "Enabled": true
   },
   "350435": {
     "OriginalText": "ファンアフォルの硬骨格",
@@ -2181,8 +2181,8 @@
   },
   "350436": {
     "OriginalText": "レイヴガイストの大結界",
-    "Text": "",
-    "Enabled": false
+    "Text": "Rave Geist Barrier",
+    "Enabled": true
   },
   "350437": {
     "OriginalText": "Ｇキュクロナーダのしっぽ",
@@ -2191,8 +2191,8 @@
   },
   "350438": {
     "OriginalText": "レイヴガイストの大収束器",
-    "Text": "",
-    "Enabled": false
+    "Text": "Rave Geist Focus Container",
+    "Enabled": true
   },
   "350439": {
     "OriginalText": "ウロザードの硬ヒレ",
@@ -2226,8 +2226,8 @@
   },
   "350445": {
     "OriginalText": "エアドギオスの大盾",
-    "Text": "",
-    "Enabled": false
+    "Text": "Air Dogios Shield",
+    "Enabled": true
   },
   "350446": {
     "OriginalText": "エクセージＴの小腕",
@@ -2296,8 +2296,8 @@
   },
   "350459": {
     "OriginalText": "ギガティオンの硬鉄線",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gigation Wire",
+    "Enabled": true
   },
   "350460": {
     "OriginalText": "レイヴヒュフテの仮面破片",
@@ -2351,8 +2351,8 @@
   },
   "350470": {
     "OriginalText": "レイヴガイストの硬仮面",
-    "Text": "",
-    "Enabled": false
+    "Text": "Rave Geist Mask",
+    "Enabled": true
   },
   "350471": {
     "OriginalText": "赤い甲殻",
@@ -2601,7 +2601,7 @@
   },
   "350520": {
     "OriginalText": "リベルゲンテの大砲塔部品",
-    "Text": " Large Libelgante Gun Parts",
+    "Text": " Large Libelgante Gun Part",
     "Enabled": true
   },
   "350521": {
@@ -3921,8 +3921,8 @@
   },
   "350784": {
     "OriginalText": "オルテ・マガヴルムの超銃",
-    "Text": "",
-    "Enabled": false
+    "Text": "Orte Magavulum Super Gun",
+    "Enabled": true
   },
   "350785": {
     "OriginalText": "ラビーソの超回転刃",
@@ -4071,8 +4071,8 @@
   },
   "350814": {
     "OriginalText": "レ・マクロージの超針",
-    "Text": "",
-    "Enabled": false
+    "Text": "Le Makroge Stinger",
+    "Enabled": true
   },
   "350815": {
     "OriginalText": "ブ・マクロージの超針",
@@ -4101,23 +4101,23 @@
   },
   "350820": {
     "OriginalText": "バレダイナスの超銃",
-    "Text": "",
-    "Enabled": false
+    "Text": "Vale-Dynas Super Gun",
+    "Enabled": true
   },
   "350821": {
     "OriginalText": "ラーバレダイナスの超銃",
-    "Text": "",
-    "Enabled": false
+    "Text": "Lar Vale-Dynas Super Gun",
+    "Enabled": true
   },
   "350822": {
     "OriginalText": "マーバレダイナスの超銃",
-    "Text": "",
-    "Enabled": false
+    "Text": "Mar Vale-Dynas Super Gun",
+    "Enabled": true
   },
   "350823": {
     "OriginalText": "ヴィバレダイナスの超銃",
-    "Text": "",
-    "Enabled": false
+    "Text": "Vi Vale-Dynas Super Gun",
+    "Enabled": true
   },
   "350824": {
     "OriginalText": "シードギオスの超盾",
@@ -4271,8 +4271,8 @@
   },
   "350854": {
     "OriginalText": "ノイヴァトアスの超砲身",
-    "Text": "",
-    "Enabled": false
+    "Text": "Neuvatoas Cannon",
+    "Enabled": true
   },
   "350855": {
     "OriginalText": "ゴルドスの超頭角",
@@ -4281,8 +4281,8 @@
   },
   "350856": {
     "OriginalText": "ディゴルドスの超頭角",
-    "Text": "",
-    "Enabled": false
+    "Text": "Digordes Shield",
+    "Enabled": true
   },
   "350857": {
     "OriginalText": "オルゴルドスの超頭角",
@@ -4316,8 +4316,8 @@
   },
   "350863": {
     "OriginalText": "アルテイオスの超皮",
-    "Text": "",
-    "Enabled": false
+    "Text": "Altios Hide",
+    "Enabled": true
   },
   "350864": {
     "OriginalText": "エウリュードの超爪",
@@ -4326,23 +4326,23 @@
   },
   "350865": {
     "OriginalText": "ヴィヴリュードの超爪",
-    "Text": "",
-    "Enabled": false
+    "Text": "Vivrude Claw",
+    "Enabled": true
   },
   "350866": {
     "OriginalText": "ガラティオンの超ノコ刃",
-    "Text": "",
-    "Enabled": false
+    "Text": "Garation Saw Blade",
+    "Enabled": true
   },
   "350867": {
     "OriginalText": "ギガティオンの超ノコ刃",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gigation Saw Blade",
+    "Enabled": true
   },
   "350868": {
     "OriginalText": "グラヴディオンの超ノコ刃",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gravdion Saw Blade",
+    "Enabled": true
   },
   "350869": {
     "OriginalText": "アルキュオネの超触手",
@@ -4356,13 +4356,13 @@
   },
   "350871": {
     "OriginalText": "ギュゲンテの超砲塔部品",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gygante Turret Part",
+    "Enabled": true
   },
   "350872": {
     "OriginalText": "リベルゲンテの超砲塔部品",
-    "Text": "",
-    "Enabled": false
+    "Text": "Libelgante Turret Part",
+    "Enabled": true
   },
   "350873": {
     "OriginalText": "レイヴガイストの超仮面",
@@ -4586,123 +4586,123 @@
   },
   "350917": {
     "OriginalText": "アメシスト",
-    "Text": "",
-    "Enabled": false
+    "Text": "Amethyst",
+    "Enabled": true
   },
   "350918": {
     "OriginalText": "陽炎のアメシスト",
-    "Text": "",
-    "Enabled": false
+    "Text": "Shimmering Amethyst",
+    "Enabled": true
   },
   "350919": {
     "OriginalText": "ルビー",
-    "Text": "",
-    "Enabled": false
+    "Text": "Ruby",
+    "Enabled": true
   },
   "350920": {
     "OriginalText": "真紅のルビー",
-    "Text": "",
-    "Enabled": false
+    "Text": "Crimson Ruby",
+    "Enabled": true
   },
   "350921": {
     "OriginalText": "トパーズ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Topaz",
+    "Enabled": true
   },
   "350922": {
     "OriginalText": "迅雷のトパーズ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Thundering Topaz",
+    "Enabled": true
   },
   "350923": {
     "OriginalText": "ジルコン",
-    "Text": "",
-    "Enabled": false
+    "Text": "Zircon",
+    "Enabled": true
   },
   "350924": {
     "OriginalText": "黄昏のジルコン",
-    "Text": "",
-    "Enabled": false
+    "Text": "Twilight Zircon",
+    "Enabled": true
   },
   "350925": {
     "OriginalText": "アクアマリン",
-    "Text": "",
-    "Enabled": false
+    "Text": "Aquamarine",
+    "Enabled": true
   },
   "350926": {
     "OriginalText": "蒼のアクアマリン",
-    "Text": "",
-    "Enabled": false
+    "Text": "Blue Aquamarine",
+    "Enabled": true
   },
   "350927": {
     "OriginalText": "サファイア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Sapphire",
+    "Enabled": true
   },
   "350928": {
     "OriginalText": "群青のサファイア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Ultramarine Sapphire",
+    "Enabled": true
   },
   "350929": {
     "OriginalText": "マラカイト",
-    "Text": "",
-    "Enabled": false
+    "Text": "Malachite",
+    "Enabled": true
   },
   "350930": {
     "OriginalText": "悠遠のマラカイト",
-    "Text": "",
-    "Enabled": false
+    "Text": "Remote Malachite",
+    "Enabled": true
   },
   "350931": {
     "OriginalText": "エメラルド",
-    "Text": "",
-    "Enabled": false
+    "Text": "Emerald",
+    "Enabled": true
   },
   "350932": {
     "OriginalText": "緑のエメラルド",
-    "Text": "",
-    "Enabled": false
+    "Text": "Green Emerald",
+    "Enabled": true
   },
   "350933": {
     "OriginalText": "ムーンストーン",
-    "Text": "",
-    "Enabled": false
+    "Text": "Moonstone",
+    "Enabled": true
   },
   "350934": {
     "OriginalText": "純白のムーンストーン",
-    "Text": "",
-    "Enabled": false
+    "Text": "Pure White Moonstone",
+    "Enabled": true
   },
   "350935": {
     "OriginalText": "ダイヤモンド",
-    "Text": "",
-    "Enabled": false
+    "Text": "Diamond",
+    "Enabled": true
   },
   "350936": {
     "OriginalText": "光輝のダイヤモンド",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gleaming Diamond",
+    "Enabled": true
   },
   "350937": {
     "OriginalText": "オニキス",
-    "Text": "",
-    "Enabled": false
+    "Text": "Onyx",
+    "Enabled": true
   },
   "350938": {
     "OriginalText": "深淵のオニキス",
-    "Text": "",
-    "Enabled": false
+    "Text": "Void Onyx",
+    "Enabled": true
   },
   "350939": {
     "OriginalText": "オブシディアン",
-    "Text": "",
-    "Enabled": false
+    "Text": "Obsidian",
+    "Enabled": true
   },
   "350940": {
     "OriginalText": "漆黒のオブシディアン",
-    "Text": "",
-    "Enabled": false
+    "Text": "Ebony Obsidian",
+    "Enabled": true
   },
   "350941": {
     "OriginalText": "",

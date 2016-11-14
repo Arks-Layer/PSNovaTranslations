@@ -181,7 +181,7 @@
   },
   "280036": {
     "OriginalText": "★銃身の回収",
-    "Text": "★ Gun barrel Retrieval",
+    "Text": "★ Gun Barrel Retrieval",
     "Enabled": true
   },
   "280037": {
@@ -511,37 +511,37 @@
   },
   "280102": {
     "OriginalText": "ダーカー研究",
-    "Text": "",
-    "Enabled": false
+    "Text": "Darker Research",
+    "Enabled": true
   },
   "280103": {
     "OriginalText": "グラン研究",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gran Research",
+    "Enabled": true
   },
   "280104": {
     "OriginalText": "鉱石研究",
-    "Text": "",
-    "Enabled": false
+    "Text": "Ore Research",
+    "Enabled": true
   },
   "280105": {
     "OriginalText": "原生種研究",
-    "Text": "",
-    "Enabled": false
+    "Text": "Natives Research",
+    "Enabled": true
   },
   "280106": {
     "OriginalText": "植洋研究",
-    "Text": "",
-    "Enabled": false
+    "Text": "Plant Research",
+    "Enabled": true
   },
   "280107": {
     "OriginalText": "地質研究",
-    "Text": "",
-    "Enabled": false
+    "Text": "Geological Research",
+    "Enabled": true
   },
   "280108": {
     "OriginalText": "ブーストエネミー研究",
-    "Text": "Boost Enemy Research",
+    "Text": "Boosted Enemy Research",
     "Enabled": true
   },
   "280109": {
@@ -551,23 +551,23 @@
   },
   "280110": {
     "OriginalText": "ノヴァ研究序",
-    "Text": "",
-    "Enabled": false
+    "Text": "Nova Research β",
+    "Enabled": true
   },
   "280111": {
     "OriginalText": "ノヴァ研究α",
-    "Text": "",
-    "Enabled": false
+    "Text": "Nova Research α",
+    "Enabled": true
   },
   "280112": {
     "OriginalText": "★ギガンテスの武伝研究",
-    "Text": "",
-    "Enabled": false
+    "Text": "★ Gigantes’ Weapon Research",
+    "Enabled": true
   },
   "280113": {
     "OriginalText": "★ギガンテスの伝甲研究",
-    "Text": "",
-    "Enabled": false
+    "Text": "★ Gigantes’ Armor Research",
+    "Enabled": true
   },
   "280114": {
     "OriginalText": "ＳＨに挑戦・ノヴァ内部",
@@ -926,42 +926,42 @@
   },
   "280185": {
     "OriginalText": "砲片と爪の調達",
-    "Text": "",
-    "Enabled": false
+    "Text": "Supplying Cannon Pieces and Claws",
+    "Enabled": true
   },
   "280186": {
     "OriginalText": "ギュゲンテの伝甲の調達",
-    "Text": "",
-    "Enabled": false
+    "Text": "Supplying Gygantia Armor",
+    "Enabled": true
   },
   "280187": {
     "OriginalText": "機械生洋の甲片の調達",
-    "Text": "",
-    "Enabled": false
+    "Text": "Supplying Mech Armor Fragments",
+    "Enabled": true
   },
   "280188": {
     "OriginalText": "金属の調達",
-    "Text": "",
-    "Enabled": false
+    "Text": "Supplying Metal",
+    "Enabled": true
   },
   "280189": {
     "OriginalText": "鉄線の調達",
-    "Text": "",
-    "Enabled": false
+    "Text": "Supplying Metal Wire",
+    "Enabled": true
   },
   "280190": {
     "OriginalText": "盾素村の調達",
-    "Text": "",
-    "Enabled": false
+    "Text": "Supplying Shield Materials",
+    "Enabled": true
   },
   "280191": {
     "OriginalText": "大弾頭の調達",
-    "Text": "",
-    "Enabled": false
+    "Text": "Supplying Large Warheads",
+    "Enabled": true
   },
   "280192": {
     "OriginalText": "★爪片の調達",
-    "Text": "★ Supplying Blade Fragments",
+    "Text": "★ Supplying Claw Fragments",
     "Enabled": true
   },
   "280193": {
