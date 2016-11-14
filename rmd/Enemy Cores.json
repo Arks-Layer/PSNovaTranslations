@@ -16,13 +16,13 @@
   },
   "110003": {
     "OriginalText": "獰猛な巨大獣・コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Giant Vicious Beast Core",
+    "Enabled": true
   },
   "110004": {
     "OriginalText": "水晶竜族・コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Dragon Crystal Core",
+    "Enabled": true
   },
   "110005": {
     "OriginalText": "スモール・コア",
@@ -36,23 +36,23 @@
   },
   "110007": {
     "OriginalText": "巨大獣・コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Giant Beast Core",
+    "Enabled": true
   },
   "110008": {
     "OriginalText": "リザード・コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Lizard Core",
+    "Enabled": true
   },
   "110009": {
     "OriginalText": "大型兵器・コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Large Weapon Core",
+    "Enabled": true
   },
   "110010": {
     "OriginalText": "機械生命体・コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Mech Core",
+    "Enabled": true
   },
   "110011": {
     "OriginalText": "ダーカー・コア",
@@ -66,43 +66,43 @@
   },
   "110013": {
     "OriginalText": "輝く結晶竜族・コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Shining Dragon Crystal Core",
+    "Enabled": true
   },
   "110014": {
     "OriginalText": "輝く水晶竜族・コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Shining Crystal Dragon Core",
+    "Enabled": true
   },
   "110015": {
     "OriginalText": "輝く飛行魚・コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Shining Flying Fish Core",
+    "Enabled": true
   },
   "110016": {
     "OriginalText": "輝く鳥・コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Shining Bird Core",
+    "Enabled": true
   },
   "110017": {
     "OriginalText": "輝くビースト・コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Shining Beast Core",
+    "Enabled": true
   },
   "110018": {
     "OriginalText": "輝くリザード・コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Shining Lizard Core",
+    "Enabled": true
   },
   "110019": {
     "OriginalText": "輝く機械生洋・コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Shining Machine Core",
+    "Enabled": true
   },
   "110020": {
     "OriginalText": "重厚な大型兵器・コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Heavy Weapon Core",
+    "Enabled": true
   },
   "110021": {
     "OriginalText": "深淵のダーカー・コア",
@@ -111,13 +111,13 @@
   },
   "110022": {
     "OriginalText": "漆黒のダーカー・コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Ebony Darker Core",
+    "Enabled": true
   },
   "110023": {
     "OriginalText": "闇のダーカー・コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Void Darker Core",
+    "Enabled": true
   },
   "110024": {
     "OriginalText": "ラウーダン・コア",
@@ -136,8 +136,8 @@
   },
   "110027": {
     "OriginalText": "ジュラキア・コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Jurrakia Core",
+    "Enabled": true
   },
   "110028": {
     "OriginalText": "ジャッドバンサー・コア",
@@ -146,8 +146,8 @@
   },
   "110029": {
     "OriginalText": "テッラマンデル・コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Terra Mandel Core",
+    "Enabled": true
   },
   "110030": {
     "OriginalText": "ロヴラッピー・コア",
@@ -166,18 +166,18 @@
   },
   "110033": {
     "OriginalText": "シルブカーネベア・コア",
-    "Text": "Sirbucarnne Bear Core",
+    "Text": "Silvcarnne Bear Core",
     "Enabled": true
   },
   "110034": {
     "OriginalText": "ラーアビアディノ・コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Lar Aviadino Core",
+    "Enabled": true
   },
   "110035": {
     "OriginalText": "メドジュラキア・コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Medu Jurrakia Core",
+    "Enabled": true
   },
   "110036": {
     "OriginalText": "ウロザード・コア",
@@ -186,12 +186,12 @@
   },
   "110037": {
     "OriginalText": "カーネベアの純コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Carnnebear Gorva Core",
+    "Enabled": true
   },
   "110038": {
     "OriginalText": "ガーグランブ・コア",
-    "Text": "Gargranb Core",
+    "Text": "Gargranv Core",
     "Enabled": true
   },
   "110039": {
@@ -216,27 +216,27 @@
   },
   "110043": {
     "OriginalText": "アセラビーソ・コア",
-    "Text": "Ase Rabbis Core",
+    "Text": "Ase Rabbisaw Core",
     "Enabled": true
   },
   "110044": {
     "OriginalText": "クリトロの純コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Critter Ture Core",
+    "Enabled": true
   },
   "110045": {
     "OriginalText": "トネルバンクゥ・コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Toner Banku Core",
+    "Enabled": true
   },
   "110046": {
     "OriginalText": "レイバンサーの純コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Ray Banther Core",
+    "Enabled": true
   },
   "110047": {
     "OriginalText": "サフグランブ・コア",
-    "Text": "Sahugranb Core",
+    "Text": "Sahugranv Core",
     "Enabled": true
   },
   "110048": {
@@ -251,18 +251,18 @@
   },
   "110050": {
     "OriginalText": "ウィ・ロヴラッピー・コア",
-    "Text": "Vi Lov-Rappy Core",
+    "Text": "Vi Love Rappy Core",
     "Enabled": true
   },
   "110051": {
     "OriginalText": "バンサーの純コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Banther Core",
+    "Enabled": true
   },
   "110052": {
     "OriginalText": "ラピミステルン・コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Rap Mysteron Core",
+    "Enabled": true
   },
   "110053": {
     "OriginalText": "グリバッツ・コア",
@@ -271,13 +271,13 @@
   },
   "110054": {
     "OriginalText": "スォロバンクゥ・コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Swole Banku Core",
+    "Enabled": true
   },
   "110055": {
     "OriginalText": "スマラクリトロ・コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Smar Critter Core",
+    "Enabled": true
   },
   "110056": {
     "OriginalText": "ゾンレイバンサー・コア",
@@ -296,7 +296,7 @@
   },
   "110059": {
     "OriginalText": "グランブ・コア",
-    "Text": "Granb Core",
+    "Text": "Granv Core",
     "Enabled": true
   },
   "110060": {
@@ -306,8 +306,8 @@
   },
   "110061": {
     "OriginalText": "ロウトルリンプ・コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Rol Torrimp Core",
+    "Enabled": true
   },
   "110062": {
     "OriginalText": "テュルトアスの純コア",
@@ -321,8 +321,8 @@
   },
   "110064": {
     "OriginalText": "ポリジュラキア・コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Poly Jurrakia Core",
+    "Enabled": true
   },
   "110065": {
     "OriginalText": "マーバレダイナス・コア",
@@ -351,18 +351,18 @@
   },
   "110070": {
     "OriginalText": "ヴェンバンクゥ・コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Venn Banku Core",
+    "Enabled": true
   },
   "110071": {
     "OriginalText": "エレマンデル・コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Err Mandel Core",
+    "Enabled": true
   },
   "110072": {
     "OriginalText": "オラルカーネベア・コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Oralecarnne Bear Core",
+    "Enabled": true
   },
   "110073": {
     "OriginalText": "フリラウーダン・コア",
@@ -371,12 +371,12 @@
   },
   "110074": {
     "OriginalText": "ミステルン・コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Mysteron Core",
+    "Enabled": true
   },
   "110075": {
     "OriginalText": "ラビーソ・コア",
-    "Text": "Rabbis Core",
+    "Text": "Rabbisaw Core",
     "Enabled": true
   },
   "110076": {
@@ -421,13 +421,13 @@
   },
   "110084": {
     "OriginalText": "アビアディノ・コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Aviadino Core",
+    "Enabled": true
   },
   "110085": {
     "OriginalText": "アガミステルン・コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Aga Mysteron Core",
+    "Enabled": true
   },
   "110086": {
     "OriginalText": "ディゴルドスの純コア",
@@ -436,8 +436,8 @@
   },
   "110087": {
     "OriginalText": "ポルトルリンプ・コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Pol Torrimp Core",
+    "Enabled": true
   },
   "110088": {
     "OriginalText": "フロベガルフ・コア",
@@ -456,18 +456,18 @@
   },
   "110091": {
     "OriginalText": "ブロラビーソ・コア",
-    "Text": "Bro Rabbis Core",
+    "Text": "Bro Rabbisaw Core",
     "Enabled": true
   },
   "110092": {
     "OriginalText": "オーニクリトロ・コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Oni Critter Core",
+    "Enabled": true
   },
   "110093": {
     "OriginalText": "クリトロ・クィーン・コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Critter Queen Core",
+    "Enabled": true
   },
   "110094": {
     "OriginalText": "ディートアスの純コア",
@@ -476,22 +476,22 @@
   },
   "110095": {
     "OriginalText": "トルリンプ・コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Torrimp Core",
+    "Enabled": true
   },
   "110096": {
     "OriginalText": "ガンジュラキア・コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gun Jurrakia Core",
+    "Enabled": true
   },
   "110097": {
     "OriginalText": "バンクゥ・コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Banku Core",
+    "Enabled": true
   },
   "110098": {
     "OriginalText": "レウ・ロヴラッピー・コア",
-    "Text": "Leu Lov-Rappy Core",
+    "Text": "Leu Love Rappy Core",
     "Enabled": true
   },
   "110099": {
@@ -506,13 +506,13 @@
   },
   "110101": {
     "OriginalText": "マドアビアディノ・コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Mad Aviadino Core",
+    "Enabled": true
   },
   "110102": {
     "OriginalText": "フレスバンクゥ・コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Fresc Banku Core",
+    "Enabled": true
   },
   "110103": {
     "OriginalText": "ブリバッツ・コア",
@@ -536,13 +536,13 @@
   },
   "110107": {
     "OriginalText": "パーグランブ・コア",
-    "Text": "Pergranb Core",
+    "Text": "Pergranv Core",
     "Enabled": true
   },
   "110108": {
     "OriginalText": "イーグマンデル・コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Eater Mandel Core",
+    "Enabled": true
   },
   "110109": {
     "OriginalText": "マクロージ・コア",
@@ -556,8 +556,8 @@
   },
   "110111": {
     "OriginalText": "エクセージＴ・コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Equsage T Core",
+    "Enabled": true
   },
   "110112": {
     "OriginalText": "ファンアフォルの純コア",
@@ -591,8 +591,8 @@
   },
   "110118": {
     "OriginalText": "レ・エクセージＴ・コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Le Equsage T Core",
+    "Enabled": true
   },
   "110119": {
     "OriginalText": "Ｇダガン・コア",
@@ -676,12 +676,12 @@
   },
   "110135": {
     "OriginalText": "グレイオスの純コア",
-    "Text": "Grayous' Pure Core",
+    "Text": "Greios' Pure Core",
     "Enabled": true
   },
   "110136": {
     "OriginalText": "アルテイオスの純コア",
-    "Text": "Altayous' Pure Core",
+    "Text": "Altios' Pure Core",
     "Enabled": true
   },
   "110137": {
@@ -691,12 +691,12 @@
   },
   "110138": {
     "OriginalText": "ヴィヴリュードの純コア",
-    "Text": "Vivurude's Pure Core",
+    "Text": "Vivrude's Pure Core",
     "Enabled": true
   },
   "110139": {
     "OriginalText": "ガラティオンの純コア",
-    "Text": "Gratian's Pure Core",
+    "Text": "Garation's Pure Core",
     "Enabled": true
   },
   "110140": {
@@ -721,13 +721,13 @@
   },
   "110144": {
     "OriginalText": "ギュゲンテの純コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gygante's Pure Core",
+    "Enabled": true
   },
   "110145": {
     "OriginalText": "リベルゲンテの純コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Libelgante's Pure Core",
+    "Enabled": true
   },
   "110146": {
     "OriginalText": "レイヴガイストの純コア",
@@ -741,7 +741,7 @@
   },
   "110148": {
     "OriginalText": "アルテイオス・コア",
-    "Text": "Altayous Core",
+    "Text": "Altios Core",
     "Enabled": true
   },
   "110149": {
@@ -796,8 +796,8 @@
   },
   "110159": {
     "OriginalText": "ミステルン・オーロ・コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Mysteron Oro Core",
+    "Enabled": true
   },
   "110160": {
     "OriginalText": "ベガルフ・ライオ・コア",
@@ -816,13 +816,13 @@
   },
   "110163": {
     "OriginalText": "ラビーソ・プラテ・コア",
-    "Text": "Rabbis Platen Core",
+    "Text": "Rabbisaw Platen Core",
     "Enabled": true
   },
   "110164": {
     "OriginalText": "クリトロ・テュルレ・コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Critter Ture Core",
+    "Enabled": true
   },
   "110165": {
     "OriginalText": "アルマラッピー・オナー・コア",
@@ -831,17 +831,17 @@
   },
   "110166": {
     "OriginalText": "トルリンプ・ゴウル・コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Torrimp Gorr Core",
+    "Enabled": true
   },
   "110167": {
     "OriginalText": "ジュラキア・スクア・コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Jurrakia Skuah Core",
+    "Enabled": true
   },
   "110168": {
     "OriginalText": "ロヴラッピー・ロセ・コア",
-    "Text": "Lov-Rappy Rosset Core",
+    "Text": "Love Rappy Rosset Core",
     "Enabled": true
   },
   "110169": {
@@ -851,13 +851,13 @@
   },
   "110170": {
     "OriginalText": "アビアディノ・ロクサ・コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Aviadino Roxa Core",
+    "Enabled": true
   },
   "110171": {
     "OriginalText": "バンクゥ・フリュ・コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Banku Flu Core",
+    "Enabled": true
   },
   "110172": {
     "OriginalText": "リバッツ・シル・コア",
@@ -876,23 +876,23 @@
   },
   "110175": {
     "OriginalText": "グランブ・ダイ・コア",
-    "Text": "Granb Dai Core",
+    "Text": "Granv Dai Core",
     "Enabled": true
   },
   "110176": {
     "OriginalText": "マンデル・ナート・コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Mandel Inert Core",
+    "Enabled": true
   },
   "110177": {
     "OriginalText": "ドギオス・ルフレ・コア",
-    "Text": "",
+    "Text": "Dogios Reflet Core",
     "Enabled": false
   },
   "110178": {
     "OriginalText": "アフォル・フェイズ・コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Aphol Phase Core",
+    "Enabled": true
   },
   "110179": {
     "OriginalText": "マクロージ・ネス・コア",
@@ -901,8 +901,8 @@
   },
   "110180": {
     "OriginalText": "エクセージＴ・ネス・コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Equsage T Ness Core",
+    "Enabled": true
   },
   "110181": {
     "OriginalText": "Ｇダガン・ネロ・コア",
@@ -911,8 +911,8 @@
   },
   "110182": {
     "OriginalText": "Ｇミ・ミクダ・コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "G-Mi Micda Core",
+    "Enabled": true
   },
   "110183": {
     "OriginalText": "Ｇプレディカーダ・ネロ・コア",
@@ -921,8 +921,8 @@
   },
   "110184": {
     "OriginalText": "Gパイクロナーダ・コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "G-Piklonahda Core",
+    "Enabled": true
   },
   "110185": {
     "OriginalText": "Ｇエル・アーダ・ネロ・コア",
@@ -986,33 +986,33 @@
   },
   "110197": {
     "OriginalText": "Ｇプレディカーダの超コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "G-Predicahda Pure Core",
+    "Enabled": true
   },
   "110198": {
     "OriginalText": "Ｇダーク・ラグネの超コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "G-Dark Ragne Pure Core",
+    "Enabled": true
   },
   "110199": {
     "OriginalText": "Ｇガウォンダの超コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "G-Ga Wonda Pure Core",
+    "Enabled": true
   },
   "110200": {
     "OriginalText": "Ｇグウォンダの超コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "G-Gu Wonda Pure Core",
+    "Enabled": true
   },
   "110201": {
     "OriginalText": "Ｇウォルガーダの超コア",
-    "Text": "",
+    "Text": "G-Wolgahda Pure Core",
     "Enabled": false
   },
   "110202": {
     "OriginalText": "Ｇキュクロナーダの超コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "G-Kuklonahda Pure Core",
+    "Enabled": true
   },
   "110203": {
     "OriginalText": "コラル・ドラゴンの超コア",
@@ -1116,8 +1116,8 @@
   },
   "110223": {
     "OriginalText": "ガラティオンの超コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Garation's Pure Core",
+    "Enabled": true
   },
   "110224": {
     "OriginalText": "ギガティオンの超コア",
@@ -1391,8 +1391,8 @@
   },
   "110278": {
     "OriginalText": "ガラティオンの冷コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Garation's Pure Core",
+    "Enabled": true
   },
   "110279": {
     "OriginalText": "ギガティオンの冷コア",
