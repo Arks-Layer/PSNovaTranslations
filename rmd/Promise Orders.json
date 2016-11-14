@@ -6,8 +6,8 @@
   },
   "280001": {
     "OriginalText": "あのクエストをクリアしてきて！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Let's do that Quest!",
+    "Enabled": true
   },
   "280002": {
     "OriginalText": "ルティナの訓練",
@@ -81,8 +81,8 @@
   },
   "280016": {
     "OriginalText": "ＳＨに挑戦・銅の荒野",
-    "Text": "",
-    "Enabled": false
+    "Text": "SH Challenge: Copper Wastelands",
+    "Enabled": true
   },
   "280017": {
     "OriginalText": "新種のギガンテスに挑戦",
