@@ -1006,7 +1006,7 @@
   },
   "185380": {
     "OriginalText": "ギュゲンテ",
-    "Text": "Kyugante",
+    "Text": "Gygante",
     "Enabled": true
   },
   "185381": {
@@ -1576,8 +1576,8 @@
   },
   "189093": {
     "OriginalText": "ノイヴァトアス",
-    "Text": "",
-    "Enabled": false
+    "Text": "Neuvatoas",
+    "Enabled": true
   },
   "189094": {
     "OriginalText": "猛銃ノイヴァトアス",

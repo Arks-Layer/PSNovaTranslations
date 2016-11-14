@@ -241,8 +241,8 @@
   },
   "200209": {
     "OriginalText": "難：★ラスト・デート",
-    "Text": "",
-    "Enabled": false
+    "Text": "Danger: ★ Last Date",
+    "Enabled": true
   },
   "200301": {
     "OriginalText": "銅の荒野哨戒任務",

@@ -181,7 +181,7 @@
   },
   "300036": {
     "OriginalText": "【マガヴルムの銃身】を集める",
-    "Text": "Collect [Magavulum Barrel]",
+    "Text": "Collect [Magavulum Cannon]",
     "Enabled": true
   },
   "300037": {
@@ -251,7 +251,7 @@
   },
   "300050": {
     "OriginalText": "【ギュゲンテの大砲塔部品】を集める\n【リベルゲンテの大砲塔部品】を集める",
-    "Text": "Collect [Large Kyugante Gun Parts]\nCollect [Large Libelgante Gun Parts]",
+    "Text": "Collect [Large Gygante Gun Parts]\nCollect [Large Libelgante Gun Parts]",
     "Enabled": true
   },
   "300051": {
@@ -511,8 +511,8 @@
   },
   "300102": {
     "OriginalText": "【ダーカー：Ｌｖ６１】を倒す",
-    "Text": "",
-    "Enabled": false
+    "Text": "Defeat [Darkers] Lv.61",
+    "Enabled": true
   },
   "300103": {
     "OriginalText": "【グランピース】を集める",
@@ -521,53 +521,53 @@
   },
   "300104": {
     "OriginalText": "【ウッドオパール】を集める\n【ペロブスカイト石】を集める\n【脈打つミグマタイト】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Wood Opal]\nCollect [Perovuskite Stone]\nCollect [Pulsating Migmatite]",
+    "Enabled": true
   },
   "300105": {
     "OriginalText": "【原生種：Ｌｖ８０】を倒す",
-    "Text": "",
+    "Text": "Defeat [Natives] Lv.80",
     "Enabled": false
   },
   "300106": {
     "OriginalText": "【天然樹木】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Wild Tree]",
+    "Enabled": true
   },
   "300107": {
     "OriginalText": "【瞬くクリソベル石】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Twinkling Cymophane Stone]",
+    "Enabled": true
   },
   "300108": {
     "OriginalText": "【ブーストエネミー：Ｌｖ８０】を倒す",
-    "Text": "",
-    "Enabled": false
+    "Text": "Defeat [Boosted Enemies] Lv.80",
+    "Enabled": true
   },
   "300109": {
     "OriginalText": "【ギガンテス：Ｌｖ９０】を倒す",
-    "Text": "",
-    "Enabled": false
+    "Text": "Defeat [Gigantes] Lv.90",
+    "Enabled": true
   },
   "300110": {
     "OriginalText": "【レイヴガイストの大結界】を集める\n【レイヴガイストの硬武伝腕】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Rave Geist Barrier]\nCollect [Rave Geist Arm Weapon]",
+    "Enabled": true
   },
   "300111": {
     "OriginalText": "【レイヴガイストの大収束器】を集める\n【レイヴガイストの硬仮面】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Rave Geist Focus Container]\nCollect [Rave Geist Mask]",
+    "Enabled": true
   },
   "300112": {
     "OriginalText": "【ギガティオンの硬鉄線】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Gigation Wire]",
+    "Enabled": true
   },
   "300113": {
     "OriginalText": "【グレイオスの鋭角】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Sharp Greios Horn]",
+    "Enabled": true
   },
   "300114": {
     "OriginalText": "【超：昏闇のファンアフォル】の\n【スーパーハード】似上をクリアする",
@@ -761,7 +761,7 @@
   },
   "300152": {
     "OriginalText": "【ギュゲンテのβ脚】を集める",
-    "Text": "Collect [Kyugante Insectoid Legs]",
+    "Text": "Collect [Gygante Insectoid Legs]",
     "Enabled": true
   },
   "300153": {
@@ -926,78 +926,78 @@
   },
   "300185": {
     "OriginalText": "【シルブカーネベアの砲片】を集める\n【レイバンサーの爪】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Silvcarnne Bear Cannon Piece]\nCollect [Ray Banther Claw]",
+    "Enabled": true
   },
   "300186": {
     "OriginalText": "【ギュゲンテの伝甲】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Gygante Armor]",
+    "Enabled": true
   },
   "300187": {
     "OriginalText": "【機械生洋の甲片】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Mech Armor Fragments]",
+    "Enabled": true
   },
   "300188": {
     "OriginalText": "【ラコニア金属】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Laconia Metal]",
+    "Enabled": true
   },
   "300189": {
     "OriginalText": "【ガラティオンの鉄線】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Garation Metal Wire]",
+    "Enabled": true
   },
   "300190": {
     "OriginalText": "【シードギオスの盾】を集める\n【ヴァッドギオスの硬盾】を集める\n【エアドギオスの大盾】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Xie Dogios Shield]\nCollect [Valle Dogios Shield]\nCollect [Air Dogios Shield]",
+    "Enabled": true
   },
   "300191": {
     "OriginalText": "【エウリュードの大弾頭】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Large Eurude Warhead]",
+    "Enabled": true
   },
   "300192": {
     "OriginalText": "【エデルクリトロの爪片】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Eder Critter Claw]",
+    "Enabled": true
   },
   "300193": {
     "OriginalText": "【モストカーネベアの硬砲身】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Mostcarnne Bear Cannon]",
+    "Enabled": true
   },
   "300194": {
     "OriginalText": "【バレダイナスの超銃】を集める\n【オルテ・マガヴルムの超銃】を集める\n【レ・マクロージの超針】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Vale-Dynas Super Gun]\nCollect [Orte Magavulum Super Gun]\nCollect [Le Makroge Stinger]",
+    "Enabled": true
   },
   "300195": {
     "OriginalText": "【ギュゲンテの超砲塔部品】を集める\n【アルテイオスの超皮】を集める\n【ギガティオンの超ノコ刃】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Gygante Turret Parts]\nCollect [Altios Hide]\nCollect [Gigation Saw Blade]",
+    "Enabled": true
   },
   "300196": {
     "OriginalText": "【ノイヴァトアスの超砲身】を集める\n【ヴィヴリュードの超爪】を集める\n【ディゴルドスの超頭角】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Neuvatoas Cannon]\nCollect [Vivrude Claw]\nCollect [Digordes Shield]",
+    "Enabled": true
   },
   "300197": {
     "OriginalText": "【緑のエメラルド】を集める\n【光輝のダイヤモンド】を集める\n【漆黒のオブシディアン】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Green Emerald]\nCollect [Gleaming Diamond]\nCollect [Ebony Obsidian]",
+    "Enabled": true
   },
   "300198": {
     "OriginalText": "【ラッピーチケット】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Rappy Ticket]",
+    "Enabled": true
   },
   "300199": {
     "OriginalText": "【難：★ラスト・デート】を\n【Ｓランク】でクリアする",
-    "Text": "",
-    "Enabled": false
+    "Text": "S-rank clear the quest [Danger: ★ Last Date]",
+    "Enabled": true
   },
   "300200": {
     "OriginalText": "ヨミの約束19の達成条件",
