@@ -1581,33 +1581,33 @@
   },
   "189094": {
     "OriginalText": "猛銃ノイヴァトアス",
-    "Text": "",
-    "Enabled": false
+    "Text": "Violent Neuvatoas",
+    "Enabled": true
   },
   "189095": {
     "OriginalText": "ヴァリゴルドス ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Valigordes",
+    "Enabled": true
   },
   "189096": {
     "OriginalText": "狂戦棘ヴァリゴルドス ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Berserk Valigordes",
+    "Enabled": true
   },
   "189097": {
     "OriginalText": "ウィルアフォル",
-    "Text": "",
-    "Enabled": false
+    "Text": "Viluaphol",
+    "Enabled": true
   },
   "189098": {
     "OriginalText": "砲凰ウィルアフォル",
-    "Text": "",
-    "Enabled": false
+    "Text": "Phoenix Cannon Viluaphol",
+    "Enabled": true
   },
   "189099": {
     "OriginalText": "穿火のノイヴァトアス",
-    "Text": "",
-    "Enabled": false
+    "Text": "Igniting Neuvatoas",
+    "Enabled": true
   },
   "189100": {
     "OriginalText": "アルテイオスＵ型",
@@ -1631,7 +1631,7 @@
   },
   "189104": {
     "OriginalText": "メガ・アルマラッピー",
-    "Text": "",
-    "Enabled": false
+    "Text": "Mega Alma Rappy",
+    "Enabled": true
   }
 }
