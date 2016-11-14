@@ -61,17 +61,17 @@
   },
   "300012": {
     "OriginalText": "常に【ロッド系】を伝備して\n【アルキュオネ撃破任務】の\n【アルキュオネ】にとどめをさす",
-    "Text": "Defeat [Alcyone] in the quest\n[Alcyone"Subjugation] using Rods only",
+    "Text": "Defeat [Alcyone] in the quest\n[Alcyone Subjugation] using Rods only",
     "Enabled": true
   },
   "300013": {
     "OriginalText": "常に【タリス系】を伝備して\n【アルキュオネ撃破任務】の\n【アルキュオネ】にとどめをさす",
-    "Text": "Defeat [Alcyone] in the quest\n[Alcyone"Subjugation] using Talises only",
+    "Text": "Defeat [Alcyone] in the quest\n[Alcyone Subjugation] using Talises only",
     "Enabled": true
   },
   "300014": {
     "OriginalText": "常に【ウォンド系】を伝備して\n【アルキュオネ撃破任務】の\n【アルキュオネ】にとどめをさす",
-    "Text": "Defeat [Alcyone] in the quest\n[Alcyone"Subjugation] using Wands only",
+    "Text": "Defeat [Alcyone] in the quest\n[Alcyone Subjugation] using Wands only",
     "Enabled": true
   },
   "300015": {
