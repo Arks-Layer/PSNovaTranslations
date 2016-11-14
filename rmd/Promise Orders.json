@@ -86,28 +86,28 @@
   },
   "280017": {
     "OriginalText": "新種のギガンテスに挑戦",
-    "Text": "",
-    "Enabled": false
+    "Text": "New Gigantes Challenge",
+    "Enabled": true
   },
   "280018": {
     "OriginalText": "銅の荒野の新鉱石",
-    "Text": "",
-    "Enabled": false
+    "Text": "Copper Wastelands Ore",
+    "Enabled": true
   },
   "280019": {
     "OriginalText": "オペレーターに挑戦",
-    "Text": "",
-    "Enabled": false
+    "Text": "Operator Challenge",
+    "Enabled": true
   },
   "280020": {
     "OriginalText": "ＸＨに挑戦・銅の荒野",
-    "Text": "",
-    "Enabled": false
+    "Text": "SX Challenge: Copper Wastelands",
+    "Enabled": true
   },
   "280021": {
     "OriginalText": "ギガンテスコンビに挑戦",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gigantes Duo Challenge",
+    "Enabled": true
   },
   "280022": {
     "OriginalText": "セイルの訓練",
