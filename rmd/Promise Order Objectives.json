@@ -61,18 +61,18 @@
   },
   "300012": {
     "OriginalText": "常に【ロッド系】を伝備して\n【アルキュオネ撃破任務】の\n【アルキュオネ】にとどめをさす",
-    "Text": "",
-    "Enabled": false
+    "Text": "Defeat [Alcyone] in the quest\n[Alcyone"Subjugation] using Rods only",
+    "Enabled": true
   },
   "300013": {
     "OriginalText": "常に【タリス系】を伝備して\n【アルキュオネ撃破任務】の\n【アルキュオネ】にとどめをさす",
-    "Text": "",
-    "Enabled": false
+    "Text": "Defeat [Alcyone] in the quest\n[Alcyone"Subjugation] using Talises only",
+    "Enabled": true
   },
   "300014": {
     "OriginalText": "常に【ウォンド系】を伝備して\n【アルキュオネ撃破任務】の\n【アルキュオネ】にとどめをさす",
-    "Text": "",
-    "Enabled": false
+    "Text": "Defeat [Alcyone] in the quest\n[Alcyone"Subjugation] using Wands only",
+    "Enabled": true
   },
   "300015": {
     "OriginalText": "【テッラマンデルの鱗片】を集める",
@@ -81,13 +81,13 @@
   },
   "300016": {
     "OriginalText": "【難：鉱脈発見任務】の\n【スーパーハード】似上をクリアする",
-    "Text": "",
-    "Enabled": false
+    "Text": "Clear the quest [Danger: Discover Ore Veins]\nin [Super Hard] only",
+    "Enabled": true
   },
   "300017": {
     "OriginalText": "【超：棘の】をクリアする",
-    "Text": "",
-    "Enabled": false
+    "Text": "Clear [XH: Thorns]",
+    "Enabled": true
   },
   "300018": {
     "OriginalText": "【ベリサイト】を集める\n【ミメット鉱】を集める\n【赤いベリサイト】を集める",

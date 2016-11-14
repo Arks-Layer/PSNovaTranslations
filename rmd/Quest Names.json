@@ -26,8 +26,8 @@
   },
   "200028": {
     "OriginalText": "総合演習",
-    "Text": "",
-    "Enabled": false
+    "Text": "General Exercise",
+    "Enabled": true
   },
   "200029": {
     "OriginalText": "ヘイロウ訓練",
@@ -36,8 +36,8 @@
   },
   "200101": {
     "OriginalText": "惑星上陸初戦",
-    "Text": "",
-    "Enabled": false
+    "Text": "First Landing Battle",
+    "Enabled": true
   },
   "200102": {
     "OriginalText": "仲間の捜索",
@@ -166,13 +166,13 @@
   },
   "200127": {
     "OriginalText": "装流を塞ぐ杭",
-    "Text": "",
-    "Enabled": false
+    "Text": "Breaking the Obstruction",
+    "Enabled": true
   },
   "200128": {
     "OriginalText": "炎泉を断つ杭",
-    "Text": "",
-    "Enabled": false
+    "Text": "Breaking the Fire Fountain",
+    "Enabled": true
   },
   "200129": {
     "OriginalText": "塔の上のユノ",
@@ -186,8 +186,8 @@
   },
   "200131": {
     "OriginalText": "果たすべき使命",
-    "Text": "",
-    "Enabled": false
+    "Text": "Fulfilling the Mission",
+    "Enabled": true
   },
   "200132": {
     "OriginalText": "惑星の未来",
@@ -266,18 +266,18 @@
   },
   "200305": {
     "OriginalText": "炎の高地偵察任務",
-    "Text": "",
-    "Enabled": false
+    "Text": "Flame Highlands Recon",
+    "Enabled": true
   },
   "200306": {
     "OriginalText": "アルキュオネ撃破任務",
-    "Text": "",
-    "Enabled": false
+    "Text": "Alcyone"Subjugation",
+    "Enabled": true
   },
   "200307": {
     "OriginalText": "グラン水装偵察任務",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gran Water Rig Recon",
+    "Enabled": true
   },
   "200308": {
     "OriginalText": "ディートアス撃破任務",
@@ -286,8 +286,8 @@
   },
   "200309": {
     "OriginalText": "エウリュード撃破任務",
-    "Text": "",
-    "Enabled": false
+    "Text": "Eurude Subjugation",
+    "Enabled": true
   },
   "200310": {
     "OriginalText": "銅の荒野資村回収任務",
@@ -301,8 +301,8 @@
   },
   "200312": {
     "OriginalText": "銅の荒野殲滅任務",
-    "Text": "",
-    "Enabled": false
+    "Text": "Copper Wastelands Recon",
+    "Enabled": true
   },
   "200313": {
     "OriginalText": "目を覚ます磁晶模",
@@ -311,8 +311,8 @@
   },
   "200314": {
     "OriginalText": "アルキュオネ追跡撃破任務",
-    "Text": "",
-    "Enabled": false
+    "Text": "Alcyone Subjugation",
+    "Enabled": true
   },
   "200315": {
     "OriginalText": "食村確保任務",
@@ -416,8 +416,8 @@
   },
   "200335": {
     "OriginalText": "難：鉱脈発見任務",
-    "Text": "",
-    "Enabled": false
+    "Text": "Danger: Discover Ore Veins",
+    "Enabled": true
   },
   "200336": {
     "OriginalText": "難：グレイオス攻略任務",
@@ -671,8 +671,8 @@
   },
   "200534": {
     "OriginalText": "最深部のギガンテス撃破",
-    "Text": "",
-    "Enabled": false
+    "Text": "The Deepest Gigantes",
+    "Enabled": true
   },
   "200535": {
     "OriginalText": "ガラティオンの撃破",
@@ -1041,13 +1041,13 @@
   },
   "201000": {
     "OriginalText": "超：棘の",
-    "Text": "",
-    "Enabled": false
+    "Text": "Super: Thorn's",
+    "Enabled": true
   },
   "201001": {
     "OriginalText": "最深部のギガンテス撃破",
-    "Text": "",
-    "Enabled": false
+    "Text": "The Deepest Gigantes",
+    "Enabled": true
   },
   "201002": {
     "OriginalText": "なし",
@@ -1061,13 +1061,13 @@
   },
   "201010": {
     "OriginalText": "超：黒炎のアルテイオス",
-    "Text": "",
-    "Enabled": false
+    "Text": "XH: Black Flame of Altios",
+    "Enabled": true
   },
   "201011": {
     "OriginalText": "最深部のギガンテス撃破",
-    "Text": "",
-    "Enabled": false
+    "Text": "The Deepest Gigantes",
+    "Enabled": true
   },
   "201012": {
     "OriginalText": "なし",
@@ -1086,8 +1086,8 @@
   },
   "201021": {
     "OriginalText": "最深部のギガンテス撃破",
-    "Text": "",
-    "Enabled": false
+    "Text": "The Deepest Gigantes",
+    "Enabled": true
   },
   "201022": {
     "OriginalText": "なし",
@@ -1126,8 +1126,8 @@
   },
   "201041": {
     "OriginalText": "最深部のギガンテス撃破",
-    "Text": "",
-    "Enabled": false
+    "Text": "The Deepest Gigantes",
+    "Enabled": true
   },
   "201042": {
     "OriginalText": "なし",
@@ -1146,8 +1146,8 @@
   },
   "201051": {
     "OriginalText": "最深部のギガンテス撃破",
-    "Text": "",
-    "Enabled": false
+    "Text": "The Deepest Gigantes",
+    "Enabled": true
   },
   "201052": {
     "OriginalText": "なし",
@@ -1166,8 +1166,8 @@
   },
   "201061": {
     "OriginalText": "最深部のギガンテス撃破",
-    "Text": "",
-    "Enabled": false
+    "Text": "The Deepest Gigantes",
+    "Enabled": true
   },
   "201062": {
     "OriginalText": "なし",
@@ -1481,8 +1481,8 @@
   },
   "201401": {
     "OriginalText": "最深部のギガンテス撃破",
-    "Text": "",
-    "Enabled": false
+    "Text": "The Deepest Gigantes",
+    "Enabled": true
   },
   "201402": {
     "OriginalText": "なし",
