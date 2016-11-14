@@ -276,8 +276,8 @@
   },
   "182410": {
     "OriginalText": "ラッピー",
-    "Text": "",
-    "Enabled": false
+    "Text": "Rappy",
+    "Enabled": true
   },
   "182420": {
     "OriginalText": "ニグ・ラッピー",
@@ -661,7 +661,7 @@
   },
   "184040": {
     "OriginalText": "クリトロ・テュルレ",
-    "Text": "Critter True",
+    "Text": "Critter Ture",
     "Enabled": true
   },
   "184110": {
@@ -1521,8 +1521,8 @@
   },
   "189082": {
     "OriginalText": "クリトロクィーン",
-    "Text": "",
-    "Enabled": false
+    "Text": "Critter Queen",
+    "Enabled": true
   },
   "189083": {
     "OriginalText": "ヴィヴリュード",

@@ -1471,13 +1471,13 @@
   },
   "350294": {
     "OriginalText": "フロベガルフの牙",
-    "Text": "",
-    "Enabled": false
+    "Text": "Flobegulf Fang",
+    "Enabled": true
   },
   "350295": {
     "OriginalText": "フロフォンベガルフの牙",
-    "Text": "",
-    "Enabled": false
+    "Text": "Flo Fonbegulf Fang",
+    "Enabled": true
   },
   "350296": {
     "OriginalText": "イエーデンの爪",
