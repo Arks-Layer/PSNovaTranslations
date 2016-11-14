@@ -1151,7 +1151,7 @@
   },
   "350230": {
     "OriginalText": "機械生洋の甲片",
-    "Text": "Mech Armor Fragments",
+    "Text": "Mech Armor Fragment",
     "Enabled": true
   },
   "350231": {
@@ -1461,7 +1461,7 @@
   },
   "350292": {
     "OriginalText": "ギュゲンテの大砲塔部品",
-    "Text": "Large Gygante Gun Parts",
+    "Text": "Large Gygante Gun Part",
     "Enabled": true
   },
   "350293": {
@@ -2601,7 +2601,7 @@
   },
   "350520": {
     "OriginalText": "リベルゲンテの大砲塔部品",
-    "Text": " Large Libelgante Gun Parts",
+    "Text": " Large Libelgante Gun Part",
     "Enabled": true
   },
   "350521": {
@@ -4356,12 +4356,12 @@
   },
   "350871": {
     "OriginalText": "ギュゲンテの超砲塔部品",
-    "Text": "Gygante Turret Parts",
+    "Text": "Gygante Turret Part",
     "Enabled": true
   },
   "350872": {
     "OriginalText": "リベルゲンテの超砲塔部品",
-    "Text": "Libelgante Turret Parts",
+    "Text": "Libelgante Turret Part",
     "Enabled": true
   },
   "350873": {
