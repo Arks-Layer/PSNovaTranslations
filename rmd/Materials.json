@@ -866,8 +866,8 @@
   },
   "350173": {
     "OriginalText": "バンサーの爪片",
-    "Text": "",
-    "Enabled": false
+    "Text": "Banther Claw",
+    "Enabled": true
   },
   "350174": {
     "OriginalText": "テッラマンデルの鱗片",
@@ -3951,8 +3951,8 @@
   },
   "350790": {
     "OriginalText": "クロザードの超背びれ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gu Rozad Spine",
+    "Enabled": true
   },
   "350791": {
     "OriginalText": "スロザードの超背びれ",
@@ -4031,8 +4031,8 @@
   },
   "350806": {
     "OriginalText": "サフグランブの超巻き祭",
-    "Text": "",
-    "Enabled": false
+    "Text": "Sahugranv Phlegm Crystal",
+    "Enabled": true
   },
   "350807": {
     "OriginalText": "パーグランブの超巻き祭",
@@ -4161,8 +4161,8 @@
   },
   "350832": {
     "OriginalText": "スマラクリトロの超粘",
-    "Text": "",
-    "Enabled": false
+    "Text": "Smar Critter Juices",
+    "Enabled": true
   },
   "350833": {
     "OriginalText": "クリトロクィーンの超粘",
@@ -4781,8 +4781,8 @@
   },
   "350956": {
     "OriginalText": "Ｇダーク・ラグネの冷爪",
-    "Text": "",
-    "Enabled": false
+    "Text": "G-Dark Ragne Claw",
+    "Enabled": true
   },
   "350957": {
     "OriginalText": "Ｇミクダの冷甲羅",
@@ -4806,8 +4806,8 @@
   },
   "350961": {
     "OriginalText": "Ｇウォルガーダの冷髪",
-    "Text": "",
-    "Enabled": false
+    "Text": "G-Wolgahda Hair",
+    "Enabled": true
   },
   "350962": {
     "OriginalText": "Ｇキュクロナーダの冷目",
@@ -4816,8 +4816,8 @@
   },
   "350963": {
     "OriginalText": "Ｇシャルレイダの冷甲羅",
-    "Text": "",
-    "Enabled": false
+    "Text": "G-Shalurayda Shell",
+    "Enabled": true
   },
   "350964": {
     "OriginalText": "バリドランナの冷粘玉",
@@ -5091,8 +5091,8 @@
   },
   "351018": {
     "OriginalText": "ラーアビアディノの冷コブ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Lar Aviadino Cob",
+    "Enabled": true
   },
   "351019": {
     "OriginalText": "マドアビアディノの冷コブ",
@@ -5146,8 +5146,8 @@
   },
   "351029": {
     "OriginalText": "ロウトルリンプの冷ヒレ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Rol Torrimp Fillet",
+    "Enabled": true
   },
   "351030": {
     "OriginalText": "ポルトルリンプの冷ヒレ",
@@ -5196,8 +5196,8 @@
   },
   "351039": {
     "OriginalText": "レ・エクセージＴの冷目玉",
-    "Text": "",
-    "Enabled": false
+    "Text": "Le Equsage T Eyeball",
+    "Enabled": true
   },
   "351040": {
     "OriginalText": "ミステルンの冷角",
