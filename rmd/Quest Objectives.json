@@ -71,8 +71,8 @@
   },
   "210014": {
     "OriginalText": "時間まで敵を倒しまくれ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Kill against the clock",
+    "Enabled": true
   },
   "210015": {
     "OriginalText": "ファンアフォル討伐",
@@ -96,13 +96,13 @@
   },
   "210019": {
     "OriginalText": "時間内に最深部へ到達せよ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Move to the deepest within time",
+    "Enabled": true
   },
   "210020": {
     "OriginalText": "資村を回収しろ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect the data",
+    "Enabled": true
   },
   "210021": {
     "OriginalText": "アグリオスＰ型討伐",
@@ -111,7 +111,7 @@
   },
   "210022": {
     "OriginalText": "迫るグレイオスを止めろ",
-    "Text": "Stop Grayous",
+    "Text": "Stop Greios",
     "Enabled": true
   },
   "210023": {
@@ -216,18 +216,18 @@
   },
   "210098": {
     "OriginalText": "観測ポッドを回収しろ",
-    "Text": "",
+    "Text": "Collect the Observation Pod",
     "Enabled": false
   },
   "210099": {
     "OriginalText": "研究資村を回収しろ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect the Research Data",
+    "Enabled": true
   },
   "210100": {
     "OriginalText": "艦補修資村を回収しろ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect Ship Repair Data",
+    "Enabled": true
   },
   "210101": {
     "OriginalText": "アグリオス討伐",
