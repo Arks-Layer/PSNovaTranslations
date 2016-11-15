@@ -291,7 +291,7 @@
   },
   "200310": {
     "OriginalText": "銅の荒野資村回収任務",
-    "Text": "Copper Wastelands Outskirts Recovery",
+    "Text": "Copper Wastelands Data Recovery",
     "Enabled": true
   },
   "200311": {
@@ -516,7 +516,7 @@
   },
   "200503": {
     "OriginalText": "医療資村の指定数回収",
-    "Text": "Retrieve Base Medical Supplies",
+    "Text": "Retrieve Medical Data",
     "Enabled": true
   },
   "200504": {
@@ -1041,7 +1041,7 @@
   },
   "201000": {
     "OriginalText": "超：棘の",
-    "Text": "Super: Thorn's",
+    "Text": "XH: Thorn's",
     "Enabled": true
   },
   "201001": {
