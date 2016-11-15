@@ -86,7 +86,7 @@
   },
   "300017": {
     "OriginalText": "【超：棘の】をクリアする",
-    "Text": "Clear [XH: Thorns]",
+    "Text": "Clear the quest [Ultra: Thorns]",
     "Enabled": true
   },
   "300018": {
@@ -96,17 +96,17 @@
   },
   "300019": {
     "OriginalText": "【超：逆襲の原生種】の\n【エクストラハード】似上を\n【Ｓランク】でクリアする",
-    "Text": "",
-    "Enabled": false
+    "Text": "S-rank clear the quest [Ultra: Primordial Counterattack]\non Extra Hard only",
+    "Enabled": true
   },
   "300020": {
     "OriginalText": "【難：銅の荒野殲滅任務】を\n【エクストラハード】似上でクリアする",
-    "Text": "",
-    "Enabled": false
+    "Text": "Clear the quest\n[Danger: Copper Wastelands Elimination] on XH only",
+    "Enabled": true
   },
   "300021": {
     "OriginalText": "【冷：伏す猛銃と天舞う砲凰】を\n【エクストラハード】似上でクリアする",
-    "Text": "",
+    "Text": "Clear the quest [Ultra: Ferocious Godly Cannons] on Extra Hard only",
     "Enabled": false
   },
   "300022": {
@@ -191,8 +191,8 @@
   },
   "300038": {
     "OriginalText": "【超：劇珪のギガティオン】をクリアする",
-    "Text": "",
-    "Enabled": false
+    "Text": "Clear the quest [Ultra: Ferocious Jade Gigation]",
+    "Enabled": true
   },
   "300039": {
     "OriginalText": "【アテレスタイト】を集める\n【ハイウィーアイト】を集める\n【黄色いアテレスタイト】を集める",
@@ -201,13 +201,13 @@
   },
   "300040": {
     "OriginalText": "【アメシスト】を集める\n【陽炎のアメシスト】を集める\n【ルビー】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Amethyst]\nCollect [Shimmering Amethyst]\nCollect [Ruby]",
+    "Enabled": true
   },
   "300041": {
     "OriginalText": "【超：撃光の伝悪鬼】の\n【エクストラハード】似上を\n【Ｓランク】でクリアする",
-    "Text": "",
-    "Enabled": false
+    "Text": "S-rank clear the quest\n[Ultra: Defeat the Legendary Fiend] on Extra Hard only",
+    "Enabled": true
   },
   "300042": {
     "OriginalText": "【グラン結晶を求めて】をクリアする",
@@ -881,38 +881,38 @@
   },
   "300176": {
     "OriginalText": "【超：狂風の暴君】の\n【スーパーハード】似上を\n戦闘不能にならずにクリアする",
-    "Text": "",
-    "Enabled": false
+    "Text": "Clear the quest [Ultra: Lunatic Despot]\non Super Hard without dying",
+    "Enabled": true
   },
   "300177": {
     "OriginalText": "【冷：漆黒の鉄馬と光線獣】を\n【エクストラハード】似上でクリアする",
-    "Text": "",
-    "Enabled": false
+    "Text": "Clear the quest [Ultra: Ebony Armored Horse]\non Extra Hard only",
+    "Enabled": true
   },
   "300178": {
     "OriginalText": "【ラーアビアディノの冷コブ】を集める\n【ロウトルリンプの冷ヒレ】を集める\n【レ・エクセージＴの冷目玉】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Lar Aviadino Cob]\nCollect [Rol Torrimp Fillet]\nCollect [Le Equsage T Eyeball]",
+    "Enabled": true
   },
   "300179": {
     "OriginalText": "【Ｇダーク・ラグネの冷爪】を集める\n【Ｇウォルガーダの冷髪】を集める\n【Ｇシャルレイダの冷甲羅】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [G-Dark Ragne Claw]\nCollect [G-Wolgahda Hair]\nCollect [G-Shalurayda Shell]",
+    "Enabled": true
   },
   "300180": {
     "OriginalText": "【ディートアス系：Ｌｖ１６０】を倒す",
-    "Text": "",
-    "Enabled": false
+    "Text": "Defeat any [Toas-species] Lv.160",
+    "Enabled": true
   },
   "300181": {
     "OriginalText": "【真紅のルビー】を集める\n【黄昏のジルコン】を集める\n【群青のサファイア】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Crimson Ruby]\nCollect [Twilight Zircon]\nCollect [Ultramarine Sapphire]",
+    "Enabled": true
   },
   "300182": {
     "OriginalText": "【バンサーの爪片】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Banther Claw]",
+    "Enabled": true
   },
   "300183": {
     "OriginalText": "【樹木状の鉱洋】を集める",
@@ -1181,13 +1181,13 @@
   },
   "300236": {
     "OriginalText": "【超：錯砦のヴィヴリュード】をクリアする",
-    "Text": "",
-    "Enabled": false
+    "Text": "Clear the quest [Ultra: Vivrude Stronghold]",
+    "Enabled": true
   },
   "300237": {
     "OriginalText": "【クロザードの超背びれ】を集める\n【サフグランブの超巻き祭】を集める\n【スマラクリトロの超粘】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Gu Rozad Spine]\nCollect [Sahugranv Phlegm Crystal]\nCollect [Smar Critter Juices]",
+    "Enabled": true
   },
   "300238": {
     "OriginalText": "ヒュペリオンの約束17の達成条件",
@@ -1361,8 +1361,8 @@
   },
   "300272": {
     "OriginalText": "【ラウーダンの爪片】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Ra Oodan Claw Part]",
+    "Enabled": true
   },
   "300273": {
     "OriginalText": "【氷たく燃える金属結晶】を集める",
@@ -1371,8 +1371,8 @@
   },
   "300274": {
     "OriginalText": "【グランブの爪片】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Granv Claw]",
+    "Enabled": true
   },
   "300275": {
     "OriginalText": "【ベガルフの牙片】を集める",
