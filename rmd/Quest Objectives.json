@@ -217,7 +217,7 @@
   "210098": {
     "OriginalText": "観測ポッドを回収しろ",
     "Text": "Collect the Observation Pod",
-    "Enabled": false
+    "Enabled": true
   },
   "210099": {
     "OriginalText": "研究資村を回収しろ",

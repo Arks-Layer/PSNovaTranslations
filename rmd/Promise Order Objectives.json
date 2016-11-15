@@ -107,7 +107,7 @@
   "300021": {
     "OriginalText": "【冷：伏す猛銃と天舞う砲凰】を\n【エクストラハード】似上でクリアする",
     "Text": "Clear the quest [Ultra: Ferocious Godly Cannons] on Extra Hard only",
-    "Enabled": false
+    "Enabled": true
   },
   "300022": {
     "OriginalText": "【ダーカー討伐任務】をクリアする",
