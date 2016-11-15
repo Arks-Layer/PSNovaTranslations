@@ -981,13 +981,13 @@
   },
   "150196": {
     "OriginalText": "瞬刻の理",
-    "Text": "",
-    "Enabled": false
+    "Text": "Moment of Truth",
+    "Enabled": true
   },
   "150197": {
     "OriginalText": "瞬刻の天理",
-    "Text": "",
-    "Enabled": false
+    "Text": "Moment of Absolute",
+    "Enabled": true
   },
   "150198": {
     "OriginalText": "- 予備枠",
@@ -996,13 +996,13 @@
   },
   "150199": {
     "OriginalText": "人導体",
-    "Text": "",
-    "Enabled": false
+    "Text": "Conductor",
+    "Enabled": true
   },
   "150200": {
     "OriginalText": "超人導体",
-    "Text": "",
-    "Enabled": false
+    "Text": "Strong Conductor",
+    "Enabled": true
   },
   "150201": {
     "OriginalText": "- 予備枠",
@@ -1026,18 +1026,18 @@
   },
   "150205": {
     "OriginalText": "不屈の心",
-    "Text": "",
-    "Enabled": false
+    "Text": "Indomitable Heart",
+    "Enabled": true
   },
   "150206": {
     "OriginalText": "不屈の決意",
-    "Text": "",
-    "Enabled": false
+    "Text": "Indomitable Will",
+    "Enabled": true
   },
   "150207": {
     "OriginalText": "不屈の闘志",
-    "Text": "",
-    "Enabled": false
+    "Text": "Indomitable Spirit",
+    "Enabled": true
   },
   "150208": {
     "OriginalText": "護攻陣",
@@ -1086,13 +1086,13 @@
   },
   "150217": {
     "OriginalText": "痛打必倒",
-    "Text": "",
-    "Enabled": false
+    "Text": "Inevitable Pain",
+    "Enabled": true
   },
   "150218": {
     "OriginalText": "痛打必殺",
-    "Text": "",
-    "Enabled": false
+    "Text": "Fatal Pain",
+    "Enabled": true
   },
   "150219": {
     "OriginalText": "- 予備枠",
@@ -1101,17 +1101,17 @@
   },
   "150220": {
     "OriginalText": "零の手",
-    "Text": "Hand of Cipher",
+    "Text": "Cipher Hand",
     "Enabled": true
   },
   "150221": {
     "OriginalText": "零の腕",
-    "Text": "Arm of Cipher",
+    "Text": "Cipher Arm",
     "Enabled": true
   },
   "150222": {
     "OriginalText": "零の挙",
-    "Text": "Fist of Cipher",
+    "Text": "Cipher Fist",
     "Enabled": true
   },
   "150223": {
@@ -1131,13 +1131,13 @@
   },
   "150226": {
     "OriginalText": "集気光",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gathering Light",
+    "Enabled": true
   },
   "150227": {
     "OriginalText": "煌気光",
-    "Text": "",
-    "Enabled": false
+    "Text": "Glittering Light",
+    "Enabled": true
   },
   "150228": {
     "OriginalText": "- 予備枠",
@@ -1236,13 +1236,13 @@
   },
   "150247": {
     "OriginalText": "奪命剣",
-    "Text": "",
-    "Enabled": false
+    "Text": "Deprived Sword",
+    "Enabled": true
   },
   "150248": {
     "OriginalText": "奪命刃",
-    "Text": "",
-    "Enabled": false
+    "Text": "Deprived Blade",
+    "Enabled": true
   },
   "150249": {
     "OriginalText": "- 予備枠",
@@ -1281,23 +1281,23 @@
   },
   "150256": {
     "OriginalText": "不動の手盾",
-    "Text": "",
-    "Enabled": false
+    "Text": "Immovable Buckler",
+    "Enabled": true
   },
   "150257": {
     "OriginalText": "不動の盾",
-    "Text": "",
-    "Enabled": false
+    "Text": "Immovable Shield",
+    "Enabled": true
   },
   "150258": {
     "OriginalText": "不動の大盾",
-    "Text": "",
-    "Enabled": false
+    "Text": "Immovable Aegis",
+    "Enabled": true
   },
   "150259": {
     "OriginalText": "薬の心得",
-    "Text": "",
-    "Enabled": false
+    "Text": "Medical Knowledge",
+    "Enabled": true
   },
   "150260": {
     "OriginalText": "- 予備枠",
@@ -1416,43 +1416,43 @@
   },
   "150283": {
     "OriginalText": "背撃の証",
-    "Text": "",
-    "Enabled": false
+    "Text": "Proof of Rebellion",
+    "Enabled": true
   },
   "150284": {
     "OriginalText": "背撃の印",
-    "Text": "",
-    "Enabled": false
+    "Text": "Mark of Rebellion",
+    "Enabled": true
   },
   "150285": {
     "OriginalText": "背撃の誓",
-    "Text": "",
-    "Enabled": false
+    "Text": "Vow of Rebellion",
+    "Enabled": true
   },
   "150286": {
     "OriginalText": "不動の死使",
-    "Text": "",
-    "Enabled": false
+    "Text": "Immovable Ghoul",
+    "Enabled": true
   },
   "150287": {
     "OriginalText": "不動の死神",
-    "Text": "",
-    "Enabled": false
+    "Text": "Immovable Reaper",
+    "Enabled": true
   },
   "150288": {
     "OriginalText": "不動の死姫",
-    "Text": "",
-    "Enabled": false
+    "Text": "Immovable Styx",
+    "Enabled": true
   },
   "150289": {
     "OriginalText": "原生滅牙",
-    "Text": "",
-    "Enabled": false
+    "Text": "Native Destroyer",
+    "Enabled": true
   },
   "150290": {
     "OriginalText": "原生王滅牙",
-    "Text": "",
-    "Enabled": false
+    "Text": "Primeval Destroyer",
+    "Enabled": true
   },
   "150291": {
     "OriginalText": "- 予備枠",
@@ -1491,13 +1491,13 @@
   },
   "150298": {
     "OriginalText": "機甲滅牙",
-    "Text": "",
-    "Enabled": false
+    "Text": "Armor Destroyer",
+    "Enabled": true
   },
   "150299": {
     "OriginalText": "機甲王滅牙",
-    "Text": "",
-    "Enabled": false
+    "Text": "Tank Destroyer",
+    "Enabled": true
   },
   "150300": {
     "OriginalText": "- 予備枠",
@@ -1581,18 +1581,18 @@
   },
   "150318": {
     "OriginalText": "月夜の尊",
-    "Text": "",
-    "Enabled": false
+    "Text": "Noble Moonlight",
+    "Enabled": true
   },
   "150319": {
     "OriginalText": "天照の尊",
-    "Text": "",
-    "Enabled": false
+    "Text": "Noble Amaterasu",
+    "Enabled": true
   },
   "150320": {
     "OriginalText": "月夜天照の尊",
-    "Text": "",
-    "Enabled": false
+    "Text": "Noble Divine",
+    "Enabled": true
   },
   "150321": {
     "OriginalText": "悪魔の微笑",
@@ -1621,13 +1621,13 @@
   },
   "150326": {
     "OriginalText": "暗心舞踏",
-    "Text": "",
-    "Enabled": false
+    "Text": "Bitter Dance",
+    "Enabled": true
   },
   "150327": {
     "OriginalText": "虚心舞踏",
-    "Text": "",
-    "Enabled": false
+    "Text": "Hollow Dance",
+    "Enabled": true
   },
   "150328": {
     "OriginalText": "明擲止水",
@@ -1636,13 +1636,13 @@
   },
   "150329": {
     "OriginalText": "一意専心",
-    "Text": "",
-    "Enabled": false
+    "Text": "Unique Devotion",
+    "Enabled": true
   },
   "150330": {
     "OriginalText": "虚心鏡懐",
-    "Text": "",
-    "Enabled": false
+    "Text": "Ambient Mirror",
+    "Enabled": true
   },
   "150331": {
     "OriginalText": "光風晴月",
@@ -1666,23 +1666,23 @@
   },
   "150335": {
     "OriginalText": "力の預言",
-    "Text": "",
-    "Enabled": false
+    "Text": "Prophecy of Power",
+    "Enabled": true
   },
   "150336": {
     "OriginalText": "祈願の形",
-    "Text": "",
-    "Enabled": false
+    "Text": "Hope's Form",
+    "Enabled": true
   },
   "150337": {
     "OriginalText": "祈念の形",
-    "Text": "",
-    "Enabled": false
+    "Text": "Prayer's Form",
+    "Enabled": true
   },
   "150338": {
     "OriginalText": "心願の形",
-    "Text": "",
-    "Enabled": false
+    "Text": "Wish's Form",
+    "Enabled": true
   },
   "150339": {
     "OriginalText": "- 予備枠",
@@ -1821,13 +1821,13 @@
   },
   "150701": {
     "OriginalText": "空連乱舞",
-    "Text": "",
-    "Enabled": false
+    "Text": "Fierce Dance",
+    "Enabled": true
   },
   "150711": {
     "OriginalText": "零の壁",
-    "Text": "",
-    "Enabled": false
+    "Text": "Cipher Wall",
+    "Enabled": true
   },
   "150721": {
     "OriginalText": "回贄掟進",
@@ -1836,23 +1836,23 @@
   },
   "150731": {
     "OriginalText": "最後の防壁",
-    "Text": "",
-    "Enabled": false
+    "Text": "Final Barrier",
+    "Enabled": true
   },
   "150741": {
     "OriginalText": "天運の一撃",
-    "Text": "",
-    "Enabled": false
+    "Text": "Divine Blow",
+    "Enabled": true
   },
   "150742": {
     "OriginalText": "天運の剛撃",
-    "Text": "",
-    "Enabled": false
+    "Text": "Divine Strike",
+    "Enabled": true
   },
   "150751": {
     "OriginalText": "無謀の型",
-    "Text": "",
-    "Enabled": false
+    "Text": "Reckless Stance",
+    "Enabled": true
   },
   "150761": {
     "OriginalText": "グランセンサー",
