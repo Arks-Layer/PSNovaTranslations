@@ -191,13 +191,13 @@
   },
   "280038": {
     "OriginalText": "ギガティオンの蛇張りに突入",
-    "Text": "",
-    "Enabled": false
+    "Text": "Rush Into the Serpent, Gigation",
+    "Enabled": true
   },
   "280039": {
     "OriginalText": "グラン水装の新鉱洋",
-    "Text": "",
-    "Enabled": false
+    "Text": "Neo Gran Water Rig",
+    "Enabled": true
   },
   "280040": {
     "OriginalText": "究冷の素村・銅の荒野",
@@ -206,8 +206,8 @@
   },
   "280041": {
     "OriginalText": "オペレーター研修",
-    "Text": "",
-    "Enabled": false
+    "Text": "Operator Training",
+    "Enabled": true
   },
   "280042": {
     "OriginalText": "イズナの訓練",
@@ -281,48 +281,48 @@
   },
   "280056": {
     "OriginalText": "ＳＨに挑戦・大尖塔",
-    "Text": "",
-    "Enabled": false
+    "Text": "SH Challenge: Large Spire",
+    "Enabled": true
   },
   "280057": {
     "OriginalText": "新種のギガンテスを討伐",
-    "Text": "",
-    "Enabled": false
+    "Text": "New Gigantes Challenge",
+    "Enabled": true
   },
   "280058": {
     "OriginalText": "大尖塔の新素村",
-    "Text": "",
-    "Enabled": false
+    "Text": "New Large Spire City",
+    "Enabled": true
   },
   "280059": {
     "OriginalText": "ＸＨに挑戦・グラン水装",
-    "Text": "",
-    "Enabled": false
+    "Text": "XH Challenge: Gran Water Rig",
+    "Enabled": true
   },
   "280060": {
     "OriginalText": "不倒の約束",
-    "Text": "",
-    "Enabled": false
+    "Text": "Unrequited Promises",
+    "Enabled": true
   },
   "280061": {
     "OriginalText": "究冷の鉱洋・グラン水装",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gran Water Rig Minerals",
+    "Enabled": true
   },
   "280062": {
     "OriginalText": "オペレーター志願",
-    "Text": "",
-    "Enabled": false
+    "Text": "Operator Application",
+    "Enabled": true
   },
   "280063": {
     "OriginalText": "ＸＨに挑戦・大尖塔",
-    "Text": "",
-    "Enabled": false
+    "Text": "XH Challenge: Large Spire",
+    "Enabled": true
   },
   "280064": {
     "OriginalText": "絶対防衛線",
-    "Text": "",
-    "Enabled": false
+    "Text": "Absolute Defense",
+    "Enabled": true
   },
   "280065": {
     "OriginalText": "究冷の資村・大尖塔",
@@ -331,8 +331,8 @@
   },
   "280066": {
     "OriginalText": "オペレーター代行",
-    "Text": "",
-    "Enabled": false
+    "Text": "Acting Operator",
+    "Enabled": true
   },
   "280067": {
     "OriginalText": "ＸＨ・Ｓランククリア・上",
