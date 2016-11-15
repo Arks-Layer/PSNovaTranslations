@@ -887,7 +887,7 @@
   "110177": {
     "OriginalText": "ドギオス・ルフレ・コア",
     "Text": "Dogios Reflet Core",
-    "Enabled": false
+    "Enabled": true
   },
   "110178": {
     "OriginalText": "アフォル・フェイズ・コア",
@@ -1007,7 +1007,7 @@
   "110201": {
     "OriginalText": "Ｇウォルガーダの超コア",
     "Text": "G-Wolgahda Pure Core",
-    "Enabled": false
+    "Enabled": true
   },
   "110202": {
     "OriginalText": "Ｇキュクロナーダの超コア",
@@ -1077,7 +1077,7 @@
   "110215": {
     "OriginalText": "ヴァリゴルドスの超コア",
     "Text": "Valigordes Pure Core",
-    "Enabled": false
+    "Enabled": true
   },
   "110216": {
     "OriginalText": "ファンアフォルの超コア",

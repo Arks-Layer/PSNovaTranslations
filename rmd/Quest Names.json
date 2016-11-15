@@ -1041,7 +1041,7 @@
   },
   "201000": {
     "OriginalText": "超：棘の",
-    "Text": "XH: Thorn's",
+    "Text": "Ultra: Thorn's",
     "Enabled": true
   },
   "201001": {
@@ -1061,7 +1061,7 @@
   },
   "201010": {
     "OriginalText": "超：黒炎のアルテイオス",
-    "Text": "XH: Black Flame of Altios",
+    "Text": "Ultra: Black Flame of Altios",
     "Enabled": true
   },
   "201011": {
@@ -1101,8 +1101,8 @@
   },
   "201030": {
     "OriginalText": "超：劇珪のギガティオン",
-    "Text": "",
-    "Enabled": false
+    "Text": "Ultra: Ferocious Jade Gigation",
+    "Enabled": true
   },
   "201031": {
     "OriginalText": "資村の指定数回収",
@@ -1121,8 +1121,8 @@
   },
   "201040": {
     "OriginalText": "超：錯砦のヴィヴリュード",
-    "Text": "",
-    "Enabled": false
+    "Text": "Ultra: Vivrude Stronghold",
+    "Enabled": true
   },
   "201041": {
     "OriginalText": "最深部のギガンテス撃破",
@@ -1301,8 +1301,8 @@
   },
   "201110": {
     "OriginalText": "冷：伏す猛銃と天舞う砲凰",
-    "Text": "",
-    "Enabled": false
+    "Text": "Ultra: Ferocious Godly Cannons",
+    "Enabled": true
   },
   "201111": {
     "OriginalText": "クエスト目標【300210】",
@@ -1341,8 +1341,8 @@
   },
   "201130": {
     "OriginalText": "冷：漆黒の鉄馬と光線獣",
-    "Text": "",
-    "Enabled": false
+    "Text": "Ultra: Ebony Armored Horse",
+    "Enabled": true
   },
   "201131": {
     "OriginalText": "クエスト目標【300560】",
@@ -1586,8 +1586,8 @@
   },
   "201571": {
     "OriginalText": "超：逆襲の原生種",
-    "Text": "",
-    "Enabled": false
+    "Text": "Ultra: Primordial Counterattack",
+    "Enabled": true
   },
   "201572": {
     "OriginalText": "超：グレイオス攻略任務",
@@ -1611,8 +1611,8 @@
   },
   "201576": {
     "OriginalText": "超：錯砦のヴィヴリュード",
-    "Text": "",
-    "Enabled": false
+    "Text": "Ultra: Vivrude Stronghold",
+    "Enabled": true
   },
   "201577": {
     "OriginalText": "恋の逃避行",
@@ -1636,13 +1636,13 @@
   },
   "201581": {
     "OriginalText": "超：狂風の暴君",
-    "Text": "",
-    "Enabled": false
+    "Text": "Ultra: Lunatic Despot",
+    "Enabled": true
   },
   "201582": {
     "OriginalText": "超：撃光の伝悪鬼",
-    "Text": "",
-    "Enabled": false
+    "Text": "Ultra: Defeat the Legendary Fiend",
+    "Enabled": true
   },
   "201583": {
     "OriginalText": "超：猛攻のグレイオス",
@@ -1661,7 +1661,7 @@
   },
   "201586": {
     "OriginalText": "難：銅の荒野殲滅任務",
-    "Text": "",
-    "Enabled": false
+    "Text": "Danger: Copper Wastelands Elimination",
+    "Enabled": true
   }
 }
