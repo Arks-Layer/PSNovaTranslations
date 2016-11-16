@@ -971,13 +971,13 @@
   },
   "240215": {
     "OriginalText": "シップのガレキ・小",
-    "Text": "",
-    "Enabled": false
+    "Text": "Ship Model (S)",
+    "Enabled": true
   },
   "240216": {
     "OriginalText": "シップのガレキ・大",
-    "Text": "",
-    "Enabled": false
+    "Text": "Ship Model (L)",
+    "Enabled": true
   },
   "240217": {
     "OriginalText": "ベーステント",
@@ -1181,58 +1181,58 @@
   },
   "240257": {
     "OriginalText": "ベースシート",
-    "Text": "",
-    "Enabled": false
+    "Text": "Base Sheet",
+    "Enabled": true
   },
   "240258": {
     "OriginalText": "ベースシート青",
-    "Text": "",
-    "Enabled": false
+    "Text": "Blue Base Sheet",
+    "Enabled": true
   },
   "240259": {
     "OriginalText": "オリエントシート",
-    "Text": "",
-    "Enabled": false
+    "Text": "Oriental Sheet",
+    "Enabled": true
   },
   "240260": {
     "OriginalText": "オリエントシート緑",
-    "Text": "",
-    "Enabled": false
+    "Text": "Green Oritenal Sheet",
+    "Enabled": true
   },
   "240261": {
     "OriginalText": "ウェスタンシート",
-    "Text": "",
-    "Enabled": false
+    "Text": "Western Sheet",
+    "Enabled": true
   },
   "240262": {
     "OriginalText": "ウェスタンシート青",
-    "Text": "",
-    "Enabled": false
+    "Text": "Blue Western Sheet",
+    "Enabled": true
   },
   "240263": {
     "OriginalText": "シート",
-    "Text": "",
-    "Enabled": false
+    "Text": "Sheet",
+    "Enabled": true
   },
   "240264": {
     "OriginalText": "シート青",
-    "Text": "",
-    "Enabled": false
+    "Text": "Blue Sheet",
+    "Enabled": true
   },
   "240265": {
     "OriginalText": "プランター白",
-    "Text": "",
-    "Enabled": false
+    "Text": "White Planter",
+    "Enabled": true
   },
   "240266": {
     "OriginalText": "プランター",
-    "Text": "",
-    "Enabled": false
+    "Text": "Planter",
+    "Enabled": true
   },
   "240267": {
     "OriginalText": "プランター黒",
-    "Text": "",
-    "Enabled": false
+    "Text": "Black Planter",
+    "Enabled": true
   },
   "240268": {
     "OriginalText": "トイレ",
@@ -1256,8 +1256,8 @@
   },
   "240272": {
     "OriginalText": "ウォーターサーバー",
-    "Text": "",
-    "Enabled": false
+    "Text": "Water Cooler",
+    "Enabled": true
   },
   "240273": {
     "OriginalText": "ミニスパ",
@@ -1381,153 +1381,153 @@
   },
   "240297": {
     "OriginalText": "ベーシックチェア桃",
-    "Text": "",
-    "Enabled": false
+    "Text": "Pink Basic Chair",
+    "Enabled": true
   },
   "240298": {
     "OriginalText": "ベーシックベッド",
-    "Text": "",
-    "Enabled": false
+    "Text": "Basic Bed",
+    "Enabled": true
   },
   "240299": {
     "OriginalText": "ベーシックベッド青",
-    "Text": "",
-    "Enabled": false
+    "Text": "Blue Basic Bed",
+    "Enabled": true
   },
   "240300": {
     "OriginalText": "ベーシックベッド桃",
-    "Text": "",
-    "Enabled": false
+    "Text": "Pink Basic Bed",
+    "Enabled": true
   },
   "240301": {
     "OriginalText": "ベーシックローテーブル",
-    "Text": "",
-    "Enabled": false
+    "Text": "Basic Long Table",
+    "Enabled": true
   },
   "240302": {
     "OriginalText": "ベーシックローテーブル青",
-    "Text": "",
-    "Enabled": false
+    "Text": "Blue B.Long Table",
+    "Enabled": true
   },
   "240303": {
     "OriginalText": "ベーシックローテーブル桃",
-    "Text": "",
-    "Enabled": false
+    "Text": "Pink B.Long Table",
+    "Enabled": true
   },
   "240304": {
     "OriginalText": "スタンドライト",
-    "Text": "",
-    "Enabled": false
+    "Text": "Floor Lamp",
+    "Enabled": true
   },
   "240305": {
     "OriginalText": "スタンドライト青",
-    "Text": "",
-    "Enabled": false
+    "Text": "Blue Floor Lamp",
+    "Enabled": true
   },
   "240306": {
     "OriginalText": "スタンドライト桃",
-    "Text": "",
-    "Enabled": false
+    "Text": "Pink Floor Lamp",
+    "Enabled": true
   },
   "240307": {
     "OriginalText": "モダンベッド",
-    "Text": "",
-    "Enabled": false
+    "Text": "Modern Bed",
+    "Enabled": true
   },
   "240308": {
     "OriginalText": "モダンベッド橙",
-    "Text": "",
-    "Enabled": false
+    "Text": "Orange Modern Bed",
+    "Enabled": true
   },
   "240309": {
     "OriginalText": "モダンベッド黒",
-    "Text": "",
-    "Enabled": false
+    "Text": "Black Modern Bed",
+    "Enabled": true
   },
   "240310": {
     "OriginalText": "モダンローテーブル",
-    "Text": "",
-    "Enabled": false
+    "Text": "Modern Long Table",
+    "Enabled": true
   },
   "240311": {
     "OriginalText": "モダンローテーブル橙",
-    "Text": "",
-    "Enabled": false
+    "Text": "Orange M.Long Table",
+    "Enabled": true
   },
   "240312": {
     "OriginalText": "モダンローテーブル黒",
-    "Text": "",
-    "Enabled": false
+    "Text": "Black M.Long Table",
+    "Enabled": true
   },
   "240313": {
     "OriginalText": "ミニモダンシェルフ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Mini Modern Shelf",
+    "Enabled": true
   },
   "240314": {
     "OriginalText": "ミニモダンシェルフ橙",
-    "Text": "",
-    "Enabled": false
+    "Text": "Orange Mini M.Shelf",
+    "Enabled": true
   },
   "240315": {
     "OriginalText": "ミニモダンシェルフ黒",
-    "Text": "",
-    "Enabled": false
+    "Text": "Black Mini M.Shelf",
+    "Enabled": true
   },
   "240316": {
     "OriginalText": "クラシックソファ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Classic Sofa",
+    "Enabled": true
   },
   "240317": {
     "OriginalText": "クラシックソファ桃",
-    "Text": "",
-    "Enabled": false
+    "Text": "Pink Classic Sofa",
+    "Enabled": true
   },
   "240318": {
     "OriginalText": "クラシックソファ茶",
-    "Text": "",
-    "Enabled": false
+    "Text": "Brown Classic Sofa",
+    "Enabled": true
   },
   "240319": {
     "OriginalText": "クラシックベッド",
-    "Text": "",
-    "Enabled": false
+    "Text": "Classic Bed",
+    "Enabled": true
   },
   "240320": {
     "OriginalText": "クラシックベッド桃",
-    "Text": "",
-    "Enabled": false
+    "Text": "Pink Classic Bed",
+    "Enabled": true
   },
   "240321": {
     "OriginalText": "クラシックベッド茶",
-    "Text": "",
-    "Enabled": false
+    "Text": "Brown Classic Bed",
+    "Enabled": true
   },
   "240322": {
     "OriginalText": "クラシックテーブル",
-    "Text": "",
-    "Enabled": false
+    "Text": "Classic Table",
+    "Enabled": true
   },
   "240323": {
     "OriginalText": "クラシックテーブル桃",
-    "Text": "",
-    "Enabled": false
+    "Text": "Pink Classic Table",
+    "Enabled": true
   },
   "240324": {
     "OriginalText": "クラシックテーブル茶",
-    "Text": "",
-    "Enabled": false
+    "Text": "Brown Classic Table",
+    "Enabled": true
   },
   "240325": {
     "OriginalText": "クラシックナイトスタンド",
-    "Text": "",
-    "Enabled": false
+    "Text": "Classic Nightstand",
+    "Enabled": true
   },
   "240326": {
     "OriginalText": "クラシックＮスタンド桃",
-    "Text": "",
-    "Enabled": false
+    "Text": "Pink Classic N.Stand",
+    "Enabled": true
   },
   "240327": {
     "OriginalText": "クラシックＮスタンド茶",
@@ -1721,8 +1721,8 @@
   },
   "240365": {
     "OriginalText": "シーベイジングセット",
-    "Text": "",
-    "Enabled": false
+    "Text": "Sea Bathing Set",
+    "Enabled": true
   },
   "240366": {
     "OriginalText": "シャボテイン",
