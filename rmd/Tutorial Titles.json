@@ -47,7 +47,7 @@
   "770009": {
     "OriginalText": "『戦闘不能』",
     "Text": "[Incapacitation]",
-    "Enabled": false
+    "Enabled": true
   },
   "770010": {
     "OriginalText": "『状態異常』",
