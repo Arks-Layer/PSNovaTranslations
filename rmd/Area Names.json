@@ -1,22 +1,22 @@
 {
   "790001": {
     "OriginalText": "銅の荒野 1",
-    "Text": "Copper Wastelands 1",
+    "Text": "Steel Wastelands 1",
     "Enabled": true
   },
   "790002": {
     "OriginalText": "銅の荒野 2",
-    "Text": "Copper Wastelands 2",
+    "Text": "Steel Wastelands 2",
     "Enabled": true
   },
   "790003": {
     "OriginalText": "銅の荒野 3",
-    "Text": "Copper Wastelands 3",
+    "Text": "Steel Wastelands 3",
     "Enabled": true
   },
   "790004": {
     "OriginalText": "追加クエスト",
-    "Text": "Copper Wastelands 4",
+    "Text": "Steel Wastelands 4",
     "Enabled": true
   },
   "790005": {
@@ -156,7 +156,7 @@
   },
   "790032": {
     "OriginalText": "銅の荒野",
-    "Text": "Copper Wastelands",
+    "Text": "Steel Wastelands",
     "Enabled": true
   },
   "790033": {
