@@ -91,8 +91,8 @@
   },
   "510045": {
     "OriginalText": "お風呂好き",
-    "Text": "",
-    "Enabled": false
+    "Text": "Loves Baths",
+    "Enabled": true
   },
   "510046": {
     "OriginalText": "用心棒",
@@ -131,12 +131,12 @@
   },
   "510053": {
     "OriginalText": "社長",
-    "Text": "",
-    "Enabled": false
+    "Text": "Manager",
+    "Enabled": true
   },
   "510054": {
     "OriginalText": "マシュマロ",
-    "Text": "Marshmellow",
+    "Text": "Marshmallow",
     "Enabled": true
   },
   "510055": {
@@ -156,7 +156,7 @@
   },
   "510058": {
     "OriginalText": "サブリーダー",
-    "Text": "Sub Leader",
+    "Text": "Vice Leader",
     "Enabled": true
   },
   "510059": {
@@ -216,13 +216,13 @@
   },
   "510070": {
     "OriginalText": "女将",
-    "Text": "",
-    "Enabled": false
+    "Text": "Mistress",
+    "Enabled": true
   },
   "510071": {
     "OriginalText": "王将",
-    "Text": "",
-    "Enabled": false
+    "Text": "King",
+    "Enabled": true
   },
   "510072": {
     "OriginalText": "なし",
@@ -331,7 +331,7 @@
   },
   "510093": {
     "OriginalText": "バトル好き",
-    "Text": "Likes Battle",
+    "Text": "Likes Battles",
     "Enabled": true
   },
   "510094": {
@@ -381,13 +381,13 @@
   },
   "510103": {
     "OriginalText": "男爵",
-    "Text": "",
-    "Enabled": false
+    "Text": "Baron",
+    "Enabled": true
   },
   "510104": {
     "OriginalText": "将軍",
-    "Text": "",
-    "Enabled": false
+    "Text": "Shogun",
+    "Enabled": true
   },
   "510105": {
     "OriginalText": "女帝",
@@ -416,13 +416,13 @@
   },
   "510110": {
     "OriginalText": "議長",
-    "Text": "",
-    "Enabled": false
+    "Text": "Chairman",
+    "Enabled": true
   },
   "510111": {
     "OriginalText": "弔人",
-    "Text": "",
-    "Enabled": false
+    "Text": "Mourner",
+    "Enabled": true
   },
   "510112": {
     "OriginalText": "プロデューサー",
@@ -456,8 +456,8 @@
   },
   "510118": {
     "OriginalText": "貴婦人",
-    "Text": "",
-    "Enabled": false
+    "Text": "Lady",
+    "Enabled": true
   },
   "510119": {
     "OriginalText": "レタッチャー",
@@ -466,13 +466,13 @@
   },
   "510120": {
     "OriginalText": "絵師",
-    "Text": "",
-    "Enabled": false
+    "Text": "Artist",
+    "Enabled": true
   },
   "510121": {
     "OriginalText": "熱血倣",
-    "Text": "",
-    "Enabled": false
+    "Text": "Hot-blooded",
+    "Enabled": true
   },
   "510122": {
     "OriginalText": "なし",
@@ -486,7 +486,7 @@
   },
   "510124": {
     "OriginalText": "アークスおねえさん",
-    "Text": "",
+    "Text": "ARKS Sister",
     "Enabled": false
   },
   "510125": {
@@ -526,8 +526,8 @@
   },
   "510132": {
     "OriginalText": "素直クール",
-    "Text": "",
-    "Enabled": false
+    "Text": "Chill",
+    "Enabled": true
   },
   "510133": {
     "OriginalText": "ツンデレ",
@@ -536,8 +536,8 @@
   },
   "510134": {
     "OriginalText": "ブシドー",
-    "Text": "",
-    "Enabled": false
+    "Text": "Bushido",
+    "Enabled": true
   },
   "510135": {
     "OriginalText": "姉御肌",
@@ -731,8 +731,8 @@
   },
   "510173": {
     "OriginalText": "難攻不落",
-    "Text": "",
-    "Enabled": false
+    "Text": "Impregnable",
+    "Enabled": true
   },
   "510174": {
     "OriginalText": "博識多才",
@@ -761,13 +761,13 @@
   },
   "510179": {
     "OriginalText": "鉄面皮デカ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gumshoe",
+    "Enabled": true
   },
   "510180": {
     "OriginalText": "黙な証人",
-    "Text": "",
-    "Enabled": false
+    "Text": "Silent Witness",
+    "Enabled": true
   },
   "510181": {
     "OriginalText": "隠れた英雄",
@@ -776,7 +776,7 @@
   },
   "510182": {
     "OriginalText": "眠れる子（仮）",
-    "Text": "",
-    "Enabled": false
+    "Text": "Sleepy Kid (Temp.)",
+    "Enabled": true
   }
 }
