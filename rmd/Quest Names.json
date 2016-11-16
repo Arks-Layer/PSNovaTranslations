@@ -161,7 +161,7 @@
   },
   "200126": {
     "OriginalText": "銅野に穿つ杭",
-    "Text": "Drilling the Copper Fields",
+    "Text": "Drilling the Steel Fields",
     "Enabled": true
   },
   "200127": {
@@ -246,7 +246,7 @@
   },
   "200301": {
     "OriginalText": "銅の荒野哨戒任務",
-    "Text": "Copper Wastelands Patrol I",
+    "Text": "Steel Wastelands Patrol I",
     "Enabled": true
   },
   "200302": {
@@ -290,18 +290,18 @@
     "Enabled": true
   },
   "200310": {
-    "OriginalText": "銅の荒野資村回収任務",
-    "Text": "Copper Wastelands Data Recovery",
+    "OriginalText": "銅の荒野資材回収任務",
+    "Text": "Steel Wastelands Materials Recovery",
     "Enabled": true
   },
   "200311": {
     "OriginalText": "銅の荒野哨戒任務２",
-    "Text": "Copper Wasteland Patrol II",
+    "Text": "Steel Wasteland Patrol II",
     "Enabled": true
   },
   "200312": {
     "OriginalText": "銅の荒野殲滅任務",
-    "Text": "Copper Wastelands Recon",
+    "Text": "Steel Wastelands Recon",
     "Enabled": true
   },
   "200313": {
@@ -315,8 +315,8 @@
     "Enabled": true
   },
   "200315": {
-    "OriginalText": "食村確保任務",
-    "Text": "Securing Food Supplies",
+    "OriginalText": "食材確保任務",
+    "Text": "Securing Food Materials",
     "Enabled": true
   },
   "200316": {
@@ -396,7 +396,7 @@
   },
   "200331": {
     "OriginalText": "難：銅の荒野連続撃破任務",
-    "Text": "Danger: Copper Wastelands Destroy",
+    "Text": "Danger: Steel Wastelands Destroy",
     "Enabled": true
   },
   "200332": {
@@ -410,7 +410,7 @@
     "Enabled": false
   },
   "200334": {
-    "OriginalText": "難：大尖塔資村回収任務",
+    "OriginalText": "難：大尖塔資材回収任務",
     "Text": "",
     "Enabled": false
   },
@@ -515,12 +515,12 @@
     "Enabled": false
   },
   "200503": {
-    "OriginalText": "医療資村の指定数回収",
-    "Text": "Retrieve Medical Data",
+    "OriginalText": "医療資材の指定数回収",
+    "Text": "Retrieve Medical Materials",
     "Enabled": true
   },
   "200504": {
-    "OriginalText": "艦補修資村の指定数回収",
+    "OriginalText": "艦補修資材の指定数回収",
     "Text": "",
     "Enabled": false
   },
@@ -540,7 +540,7 @@
     "Enabled": false
   },
   "200508": {
-    "OriginalText": "資村の指定数回収",
+    "OriginalText": "資材の指定数回収",
     "Text": "",
     "Enabled": false
   },
@@ -605,12 +605,12 @@
     "Enabled": false
   },
   "200521": {
-    "OriginalText": "新食村の指定数回収",
+    "OriginalText": "新食材の指定数回収",
     "Text": "",
     "Enabled": false
   },
   "200522": {
-    "OriginalText": "研究素村の指定数回収",
+    "OriginalText": "研究素材の指定数回収",
     "Text": "",
     "Enabled": false
   },
@@ -740,7 +740,7 @@
     "Enabled": false
   },
   "200548": {
-    "OriginalText": "食村の指定数回収",
+    "OriginalText": "食材の指定数回収",
     "Text": "",
     "Enabled": false
   },
@@ -1105,7 +1105,7 @@
     "Enabled": true
   },
   "201031": {
-    "OriginalText": "資村の指定数回収",
+    "OriginalText": "資材の指定数回収",
     "Text": "",
     "Enabled": false
   },
@@ -1285,7 +1285,7 @@
     "Enabled": false
   },
   "201101": {
-    "OriginalText": "建築資村の指定数回収",
+    "OriginalText": "建築資材の指定数回収",
     "Text": "",
     "Enabled": false
   },
@@ -1580,7 +1580,7 @@
     "Enabled": false
   },
   "201570": {
-    "OriginalText": "超：大尖塔資村回収任務",
+    "OriginalText": "超：大尖塔資材回収任務",
     "Text": "",
     "Enabled": false
   },
@@ -1661,7 +1661,7 @@
   },
   "201586": {
     "OriginalText": "難：銅の荒野殲滅任務",
-    "Text": "Danger: Copper Wastelands Elimination",
+    "Text": "Danger: Steel Wastelands Elimination",
     "Enabled": true
   }
 }

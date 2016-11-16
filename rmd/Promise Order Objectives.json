@@ -11,12 +11,12 @@
   },
   "300002": {
     "OriginalText": "【銅の荒野哨戒任務】をクリアする",
-    "Text": "Clear [Copper Wastelands Patrol]",
+    "Text": "Clear [Steel Wastelands Patrol]",
     "Enabled": true
   },
   "300003": {
     "OriginalText": "【銅の荒野哨戒任務】を\n【フォース】でクリアする",
-    "Text": "Clear [Copper Wastelands Patrol]\nas a Force",
+    "Text": "Clear [Steel Wastelands Patrol]\nas a Force",
     "Enabled": true
   },
   "300004": {
@@ -280,7 +280,7 @@
     "Enabled": true
   },
   "300056": {
-    "OriginalText": "【難：大尖塔資村回収任務】の\n【スーパーハード】似上をクリアする",
+    "OriginalText": "【難：大尖塔資材回収任務】の\n【スーパーハード】似上をクリアする",
     "Text": "",
     "Enabled": false
   },
@@ -1010,8 +1010,8 @@
     "Enabled": false
   },
   "300202": {
-    "OriginalText": "【銅の荒野資村回収任務】を\n【Ａランク】似上でクリアする",
-    "Text": "A-Rank clear [Copper Wastelands Data Recovery]",
+    "OriginalText": "【鋼の荒野資材回収任務】を\n【Ａランク】似上でクリアする",
+    "Text": "A-Rank clear [Steel Wastelands Materials Recovery]",
     "Enabled": true
   },
   "300203": {
@@ -1031,7 +1031,7 @@
   },
   "300206": {
     "OriginalText": "【銅の荒野哨戒任務２】の\n【ハード】似上を\n【Ａランク】似上でクリアする",
-    "Text": "A-Rank clear the quest [Copper Wasteland Patrol II]\non [Hard]",
+    "Text": "A-Rank clear the quest [Steel Wasteland Patrol II]\non [Hard]",
     "Enabled": true
   },
   "300207": {
@@ -1331,7 +1331,7 @@
   },
   "300266": {
     "OriginalText": "【銅の荒野哨戒任務】をクリアする",
-    "Text": "Clear [Copper Wastelands Patrol]",
+    "Text": "Clear [Steel Wastelands Patrol]",
     "Enabled": true
   },
   "300267": {
