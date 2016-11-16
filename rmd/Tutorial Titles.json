@@ -281,8 +281,8 @@
   },
   "770056": {
     "OriginalText": "『探索隊』",
-    "Text": "",
-    "Enabled": false
+    "Text": "[Search Team]",
+    "Enabled": true
   },
   "770057": {
     "OriginalText": "『ギガンテス捕獲所』",
