@@ -981,13 +981,13 @@
   },
   "820196": {
     "OriginalText": "テクニックでジャストアタックしたときの\nダメージが４％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "A Technique's Just Attack damage\nincreases by 4%.n[a 03]＊Abilities of the same name cannot be stacked.[b]",
+    "Enabled": true
   },
   "820197": {
     "OriginalText": "テクニックでジャストアタックしたときの\nダメージが２５％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "A Technique's Just Attack damage\nincreases by 25%.n[a 03]＊Abilities of the same name cannot be stacked.[b]",
+    "Enabled": true
   },
   "820198": {
     "OriginalText": "削除",
@@ -1131,13 +1131,13 @@
   },
   "820226": {
     "OriginalText": "通常攻撃のＧＰ回復量が\n２０％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "A standard attack's GP recovery increases\nby 20%.\n[a 03]＊Abilities of the same name cannot be stacked.[b]",
+    "Enabled": true
   },
   "820227": {
     "OriginalText": "通常攻撃のＧＰ回復量が\n４０％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "A standard attack's GP recovery increases\nby 40%.\n[a 03]＊Abilities of the same name cannot be stacked.[b]",
+    "Enabled": true
   },
   "820228": {
     "OriginalText": "削除",

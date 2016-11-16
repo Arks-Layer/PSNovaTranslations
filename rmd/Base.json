@@ -891,83 +891,83 @@
   },
   "240199": {
     "OriginalText": "ベースボード",
-    "Text": "",
-    "Enabled": false
+    "Text": "Base Board",
+    "Enabled": true
   },
   "240200": {
     "OriginalText": "ベースボード黒",
-    "Text": "",
-    "Enabled": false
+    "Text": "Black Base Board",
+    "Enabled": true
   },
   "240201": {
     "OriginalText": "オリエントボード",
-    "Text": "",
-    "Enabled": false
+    "Text": "Oriental Board",
+    "Enabled": true
   },
   "240202": {
     "OriginalText": "オリエントボード赤",
-    "Text": "",
-    "Enabled": false
+    "Text": "Red Oriental Board",
+    "Enabled": true
   },
   "240203": {
     "OriginalText": "ウェスタンボード",
-    "Text": "",
-    "Enabled": false
+    "Text": "Western Board",
+    "Enabled": true
   },
   "240204": {
     "OriginalText": "ウェスタンボード赤",
-    "Text": "",
-    "Enabled": false
+    "Text": "Red Western Board",
+    "Enabled": true
   },
   "240205": {
     "OriginalText": "ボード",
-    "Text": "",
-    "Enabled": false
+    "Text": "Board",
+    "Enabled": true
   },
   "240206": {
     "OriginalText": "ボード黒",
-    "Text": "",
-    "Enabled": false
+    "Text": "Black Board",
+    "Enabled": true
   },
   "240207": {
     "OriginalText": "ベースラージボード",
-    "Text": "",
-    "Enabled": false
+    "Text": "Large Base Board",
+    "Enabled": true
   },
   "240208": {
     "OriginalText": "ベースラージボード黒",
-    "Text": "",
-    "Enabled": false
+    "Text": "Large Black Base Board",
+    "Enabled": true
   },
   "240209": {
     "OriginalText": "オリエントラージボード",
-    "Text": "",
-    "Enabled": false
+    "Text": "Large Oriental Board",
+    "Enabled": true
   },
   "240210": {
     "OriginalText": "オリエントラージボード赤",
-    "Text": "",
-    "Enabled": false
+    "Text": "Large Red Oriental Board",
+    "Enabled": true
   },
   "240211": {
     "OriginalText": "ウェスタンラージボード",
-    "Text": "",
-    "Enabled": false
+    "Text": "Large Western Board",
+    "Enabled": true
   },
   "240212": {
     "OriginalText": "ウェスタンラージボード赤",
-    "Text": "",
-    "Enabled": false
+    "Text": "Large Red Western Board",
+    "Enabled": true
   },
   "240213": {
     "OriginalText": "ラージボード",
-    "Text": "",
-    "Enabled": false
+    "Text": "Large Board",
+    "Enabled": true
   },
   "240214": {
     "OriginalText": "ラージボード黒",
-    "Text": "",
-    "Enabled": false
+    "Text": "Large Black Board",
+    "Enabled": true
   },
   "240215": {
     "OriginalText": "シップのガレキ・小",
@@ -981,203 +981,203 @@
   },
   "240217": {
     "OriginalText": "ベーステント",
-    "Text": "",
-    "Enabled": false
+    "Text": "Base Tent",
+    "Enabled": true
   },
   "240218": {
     "OriginalText": "ベーステント青",
-    "Text": "",
-    "Enabled": false
+    "Text": "Blue Base Tent",
+    "Enabled": true
   },
   "240219": {
     "OriginalText": "オリエントテント",
-    "Text": "",
-    "Enabled": false
+    "Text": "Oriental Tent",
+    "Enabled": true
   },
   "240220": {
     "OriginalText": "オリエントテント緑",
-    "Text": "",
-    "Enabled": false
+    "Text": "Green Oriental Tent",
+    "Enabled": true
   },
   "240221": {
     "OriginalText": "ウェスタンテント",
-    "Text": "",
-    "Enabled": false
+    "Text": "Western Tent",
+    "Enabled": true
   },
   "240222": {
     "OriginalText": "ウェスタンテント青",
-    "Text": "",
-    "Enabled": false
+    "Text": "Blue Western Tent",
+    "Enabled": true
   },
   "240223": {
     "OriginalText": "テント",
-    "Text": "",
-    "Enabled": false
+    "Text": "Tent",
+    "Enabled": true
   },
   "240224": {
     "OriginalText": "テント黒",
-    "Text": "",
-    "Enabled": false
+    "Text": "Black Tent",
+    "Enabled": true
   },
   "240225": {
     "OriginalText": "ベースＴチェア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Base Chair",
+    "Enabled": true
   },
   "240226": {
     "OriginalText": "ベースＴチェア緑",
-    "Text": "",
-    "Enabled": false
+    "Text": "Green Base Chair",
+    "Enabled": true
   },
   "240227": {
     "OriginalText": "オリエントＴチェア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Oriental T.Chair",
+    "Enabled": true
   },
   "240228": {
     "OriginalText": "オリエントＴチェア茶",
-    "Text": "",
-    "Enabled": false
+    "Text": "Brown Oriental T.Chair",
+    "Enabled": true
   },
   "240229": {
     "OriginalText": "ウェスタンＴチェア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Western T.Chair",
+    "Enabled": true
   },
   "240230": {
     "OriginalText": "ウェスタンＴチェア茶",
-    "Text": "",
-    "Enabled": false
+    "Text": "Brown Western T.Chair",
+    "Enabled": true
   },
   "240231": {
     "OriginalText": "テーブルチェア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Table Chair",
+    "Enabled": true
   },
   "240232": {
     "OriginalText": "テーブルチェア緑",
-    "Text": "",
-    "Enabled": false
+    "Text": "Green Table Chair",
+    "Enabled": true
   },
   "240233": {
     "OriginalText": "ベースベッド",
-    "Text": "",
-    "Enabled": false
+    "Text": "Base Bed",
+    "Enabled": true
   },
   "240234": {
     "OriginalText": "ベースベッド青",
-    "Text": "",
-    "Enabled": false
+    "Text": "Blue Base Bed",
+    "Enabled": true
   },
   "240235": {
     "OriginalText": "オリエントベッド",
-    "Text": "",
-    "Enabled": false
+    "Text": "Oriental Bed",
+    "Enabled": true
   },
   "240236": {
     "OriginalText": "オリエントベッド緑",
-    "Text": "",
-    "Enabled": false
+    "Text": "Green Oriental Bed",
+    "Enabled": true
   },
   "240237": {
     "OriginalText": "ウェスタンベッド",
-    "Text": "",
-    "Enabled": false
+    "Text": "Western Bed",
+    "Enabled": true
   },
   "240238": {
     "OriginalText": "ウェスタンベッド茶",
-    "Text": "",
-    "Enabled": false
+    "Text": "Brown Western Bed",
+    "Enabled": true
   },
   "240239": {
     "OriginalText": "ベッド",
-    "Text": "",
-    "Enabled": false
+    "Text": "Bed",
+    "Enabled": true
   },
   "240240": {
     "OriginalText": "ベッド青",
-    "Text": "",
-    "Enabled": false
+    "Text": "Blue Bed",
+    "Enabled": true
   },
   "240241": {
     "OriginalText": "ベースＳシェルフ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Base S.Shelf",
+    "Enabled": true
   },
   "240242": {
     "OriginalText": "ベースＳシェルフ緑",
-    "Text": "",
-    "Enabled": false
+    "Text": "Green Base S.Shelf",
+    "Enabled": true
   },
   "240243": {
     "OriginalText": "オリエントＳシェルフ茶",
-    "Text": "",
-    "Enabled": false
+    "Text": "Brown Oriental S.Shelf",
+    "Enabled": true
   },
   "240244": {
     "OriginalText": "オリエントＳシェルフ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Oriental S.Shelf",
+    "Enabled": true
   },
   "240245": {
     "OriginalText": "ウェスタンＳシェルフ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Western S.Shelf",
+    "Enabled": true
   },
   "240246": {
     "OriginalText": "ウェスタンＳシェルフ茶",
-    "Text": "",
-    "Enabled": false
+    "Text": "Brown Western S.Shelf",
+    "Enabled": true
   },
   "240247": {
     "OriginalText": "シンプルシェルフ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Simple Shelf",
+    "Enabled": true
   },
   "240248": {
     "OriginalText": "シンプルシェルフ緑",
-    "Text": "",
-    "Enabled": false
+    "Text": "Green Simple Shelf",
+    "Enabled": true
   },
   "240249": {
     "OriginalText": "ベースライト",
-    "Text": "",
-    "Enabled": false
+    "Text": "Base Light",
+    "Enabled": true
   },
   "240250": {
     "OriginalText": "ベースライト緑",
-    "Text": "",
-    "Enabled": false
+    "Text": "Green Base Light",
+    "Enabled": true
   },
   "240251": {
     "OriginalText": "オリエントライト",
-    "Text": "",
-    "Enabled": false
+    "Text": "Oriental Light",
+    "Enabled": true
   },
   "240252": {
     "OriginalText": "オリエントライト茶",
-    "Text": "",
-    "Enabled": false
+    "Text": "Brown Oriental Light",
+    "Enabled": true
   },
   "240253": {
     "OriginalText": "ウェスタンライト",
-    "Text": "",
-    "Enabled": false
+    "Text": "Western Light",
+    "Enabled": true
   },
   "240254": {
     "OriginalText": "ウェスタンライト茶",
-    "Text": "",
-    "Enabled": false
+    "Text": "Brown Western Light",
+    "Enabled": true
   },
   "240255": {
     "OriginalText": "ライト",
-    "Text": "",
-    "Enabled": false
+    "Text": "Light",
+    "Enabled": true
   },
   "240256": {
     "OriginalText": "ライト青",
-    "Text": "",
-    "Enabled": false
+    "Text": "Blue Light",
+    "Enabled": true
   },
   "240257": {
     "OriginalText": "ベースシート",
@@ -1236,23 +1236,23 @@
   },
   "240268": {
     "OriginalText": "トイレ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Porta Potty",
+    "Enabled": true
   },
   "240269": {
     "OriginalText": "トイレ黒",
-    "Text": "",
-    "Enabled": false
+    "Text": "Black Porta Potty",
+    "Enabled": true
   },
   "240270": {
     "OriginalText": "トイレ緑",
-    "Text": "",
-    "Enabled": false
+    "Text": "Green Porta Potty",
+    "Enabled": true
   },
   "240271": {
     "OriginalText": "キャンプファイアー",
-    "Text": "",
-    "Enabled": false
+    "Text": "Campfire",
+    "Enabled": true
   },
   "240272": {
     "OriginalText": "ウォーターサーバー",
@@ -1261,123 +1261,123 @@
   },
   "240273": {
     "OriginalText": "ミニスパ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Mini Spa",
+    "Enabled": true
   },
   "240274": {
     "OriginalText": "スパ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Spa",
+    "Enabled": true
   },
   "240275": {
     "OriginalText": "ドラムバスタブ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Bathtub Drum",
+    "Enabled": true
   },
   "240276": {
     "OriginalText": "ドラムバスタブ橙",
-    "Text": "",
-    "Enabled": false
+    "Text": "Orange Bathtub Drum",
+    "Enabled": true
   },
   "240277": {
     "OriginalText": "ドラムバスタブ黒",
-    "Text": "",
-    "Enabled": false
+    "Text": "Black Bathtub Drum",
+    "Enabled": true
   },
   "240278": {
     "OriginalText": "サインボード",
-    "Text": "",
-    "Enabled": false
+    "Text": "Signboard",
+    "Enabled": true
   },
   "240279": {
     "OriginalText": "サインボード白",
-    "Text": "",
-    "Enabled": false
+    "Text": "White Signboard",
+    "Enabled": true
   },
   "240280": {
     "OriginalText": "サインボード黒",
-    "Text": "",
-    "Enabled": false
+    "Text": "Black Signboard",
+    "Enabled": true
   },
   "240281": {
     "OriginalText": "慰霊霊",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gravestone",
+    "Enabled": true
   },
   "240282": {
     "OriginalText": "トークステージ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Podium",
+    "Enabled": true
   },
   "240283": {
     "OriginalText": "見張り台",
-    "Text": "",
-    "Enabled": false
+    "Text": "Lookout",
+    "Enabled": true
   },
   "240284": {
     "OriginalText": "コンテナ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Container",
+    "Enabled": true
   },
   "240285": {
     "OriginalText": "コンテナ橙",
-    "Text": "",
-    "Enabled": false
+    "Text": "Orange Container",
+    "Enabled": true
   },
   "240286": {
     "OriginalText": "コンテナ黒",
-    "Text": "",
-    "Enabled": false
+    "Text": "Black Container",
+    "Enabled": true
   },
   "240287": {
     "OriginalText": "コンテナ白",
-    "Text": "",
-    "Enabled": false
+    "Text": "White Container",
+    "Enabled": true
   },
   "240288": {
     "OriginalText": "コンテナユニット",
-    "Text": "",
-    "Enabled": false
+    "Text": "Container Unit",
+    "Enabled": true
   },
   "240289": {
     "OriginalText": "コンテナユニット橙",
-    "Text": "",
-    "Enabled": false
+    "Text": "Orange Container Unit",
+    "Enabled": true
   },
   "240290": {
     "OriginalText": "コンテナユニット黒",
-    "Text": "",
-    "Enabled": false
+    "Text": "Black Container Unit",
+    "Enabled": true
   },
   "240291": {
     "OriginalText": "コンテナユニット白",
-    "Text": "",
-    "Enabled": false
+    "Text": "White Container Unit",
+    "Enabled": true
   },
   "240292": {
     "OriginalText": "ミニガーデン",
-    "Text": "",
-    "Enabled": false
+    "Text": "Mini Garden",
+    "Enabled": true
   },
   "240293": {
     "OriginalText": "モニュメント金",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gold Monument",
+    "Enabled": true
   },
   "240294": {
     "OriginalText": "モニュメント銀",
-    "Text": "",
-    "Enabled": false
+    "Text": "Silver Monument",
+    "Enabled": true
   },
   "240295": {
     "OriginalText": "ベーシックチェア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Basic Chair",
+    "Enabled": true
   },
   "240296": {
     "OriginalText": "ベーシックチェア青",
-    "Text": "",
-    "Enabled": false
+    "Text": "Blue Basic Chair",
+    "Enabled": true
   },
   "240297": {
     "OriginalText": "ベーシックチェア碑",
@@ -1531,193 +1531,193 @@
   },
   "240327": {
     "OriginalText": "クラシックＮスタンド茶",
-    "Text": "",
-    "Enabled": false
+    "Text": "Brown Classic N.Stand",
+    "Enabled": true
   },
   "240328": {
     "OriginalText": "クラシックキャビネット",
-    "Text": "",
-    "Enabled": false
+    "Text": "Classic Cabinet",
+    "Enabled": true
   },
   "240329": {
     "OriginalText": "ゴシックソファ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gothic Sofa",
+    "Enabled": true
   },
   "240330": {
     "OriginalText": "ゴシックソファ赤",
-    "Text": "",
-    "Enabled": false
+    "Text": "Red Gothic Sofa",
+    "Enabled": true
   },
   "240331": {
     "OriginalText": "ゴシックソファ黒",
-    "Text": "",
-    "Enabled": false
+    "Text": "Black Gothic Sofa",
+    "Enabled": true
   },
   "240332": {
     "OriginalText": "ゴシックベッド",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gothic Bed",
+    "Enabled": true
   },
   "240333": {
     "OriginalText": "ゴシックベッド赤",
-    "Text": "",
-    "Enabled": false
+    "Text": "Red Gothic Bed",
+    "Enabled": true
   },
   "240334": {
     "OriginalText": "ゴシックベッド黒",
-    "Text": "",
-    "Enabled": false
+    "Text": "Black Gothic Bed",
+    "Enabled": true
   },
   "240335": {
     "OriginalText": "ゴシックテーブル",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gothic Table",
+    "Enabled": true
   },
   "240336": {
     "OriginalText": "ゴシックテーブル赤",
-    "Text": "",
-    "Enabled": false
+    "Text": "Red G. Table",
+    "Enabled": true
   },
   "240337": {
     "OriginalText": "ゴシックテーブル黒",
-    "Text": "",
-    "Enabled": false
+    "Text": "Black G. Table",
+    "Enabled": true
   },
   "240338": {
     "OriginalText": "ゴシックスタンド",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gothic Stand",
+    "Enabled": true
   },
   "240339": {
     "OriginalText": "ゴシックスタンド赤",
-    "Text": "",
-    "Enabled": false
+    "Text": "Red G. Stand",
+    "Enabled": true
   },
   "240340": {
     "OriginalText": "ゴシックスタンド黒",
-    "Text": "",
-    "Enabled": false
+    "Text": "Black G. Stand",
+    "Enabled": true
   },
   "240341": {
     "OriginalText": "ゴシックキャビネット",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gothic Cabinet",
+    "Enabled": true
   },
   "240342": {
     "OriginalText": "フトン",
-    "Text": "",
-    "Enabled": false
+    "Text": "Futon",
+    "Enabled": true
   },
   "240343": {
     "OriginalText": "モダンフトン",
-    "Text": "",
-    "Enabled": false
+    "Text": "Mordern Futon",
+    "Enabled": true
   },
   "240344": {
     "OriginalText": "クラシックフトン",
-    "Text": "",
-    "Enabled": false
+    "Text": "Classic Futon",
+    "Enabled": true
   },
   "240345": {
     "OriginalText": "オリエントローテーブル",
-    "Text": "",
-    "Enabled": false
+    "Text": "O. Long Table",
+    "Enabled": true
   },
   "240346": {
     "OriginalText": "オリエントローテーブル黒",
-    "Text": "",
-    "Enabled": false
+    "Text": "Black Long O. Table",
+    "Enabled": true
   },
   "240347": {
     "OriginalText": "オリエントローテーブル赤",
-    "Text": "",
-    "Enabled": false
+    "Text": "Red Long O. Table",
+    "Enabled": true
   },
   "240348": {
     "OriginalText": "オリエントスタンドライト",
-    "Text": "",
-    "Enabled": false
+    "Text": "O. Stand Light",
+    "Enabled": true
   },
   "240349": {
     "OriginalText": "オリエントシェルフ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Oriental Shelf",
+    "Enabled": true
   },
   "240350": {
     "OriginalText": "チェリーレッドテーブル",
-    "Text": "",
-    "Enabled": false
+    "Text": "Cherry Red Table",
+    "Enabled": true
   },
   "240351": {
     "OriginalText": "ソルトブルーテーブル",
-    "Text": "",
-    "Enabled": false
+    "Text": "Sea Blue Table",
+    "Enabled": true
   },
   "240352": {
     "OriginalText": "ハーブグリーンテーブル",
-    "Text": "",
-    "Enabled": false
+    "Text": "Herb Green Table",
+    "Enabled": true
   },
   "240353": {
     "OriginalText": "ハニーイエローテーブル",
-    "Text": "",
-    "Enabled": false
+    "Text": "Honey Yellow Table",
+    "Enabled": true
   },
   "240354": {
     "OriginalText": "チェリーレッドミニデスク",
-    "Text": "",
-    "Enabled": false
+    "Text": "Cherry Red Minidesk",
+    "Enabled": true
   },
   "240355": {
     "OriginalText": "ソルトブルーミニデスク",
-    "Text": "",
-    "Enabled": false
+    "Text": "Sea Blue Minidesk",
+    "Enabled": true
   },
   "240356": {
     "OriginalText": "ハーブグリーンミニデスク",
-    "Text": "",
-    "Enabled": false
+    "Text": "Herb Green Minidesk",
+    "Enabled": true
   },
   "240357": {
     "OriginalText": "ハニーイエローミニデスク",
-    "Text": "",
-    "Enabled": false
+    "Text": "Honey Yellow Minidesk",
+    "Enabled": true
   },
   "240358": {
     "OriginalText": "ストレートシェルフ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Straight Shelf",
+    "Enabled": true
   },
   "240359": {
     "OriginalText": "ベンチ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Bench",
+    "Enabled": true
   },
   "240360": {
     "OriginalText": "エレガントバスタブ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Elegant Bathtub",
+    "Enabled": true
   },
   "240361": {
     "OriginalText": "セン・タク・キー",
-    "Text": "",
-    "Enabled": false
+    "Text": "Washing Machine",
+    "Enabled": true
   },
   "240362": {
     "OriginalText": "バーカウンター",
-    "Text": "",
-    "Enabled": false
+    "Text": "Bar Counter",
+    "Enabled": true
   },
   "240363": {
     "OriginalText": "ロッカー",
-    "Text": "",
-    "Enabled": false
+    "Text": "Locker",
+    "Enabled": true
   },
   "240364": {
     "OriginalText": "プライベートプール",
-    "Text": "",
-    "Enabled": false
+    "Text": "Private Pool",
+    "Enabled": true
   },
   "240365": {
     "OriginalText": "シーベイジングセット",
@@ -1726,177 +1726,177 @@
   },
   "240366": {
     "OriginalText": "シャボテイン",
-    "Text": "",
-    "Enabled": false
+    "Text": "Catcus",
+    "Enabled": true
   },
   "240367": {
     "OriginalText": "コールドスリープカウンター",
-    "Text": "",
-    "Enabled": false
+    "Text": "Cold Sleep Counter",
+    "Enabled": true
   },
   "240368": {
     "OriginalText": "マルチプレイカウンター",
-    "Text": "",
-    "Enabled": false
+    "Text": "Multiplay Counter",
+    "Enabled": true
   },
   "240369": {
     "OriginalText": "ベースゲート",
-    "Text": "",
-    "Enabled": false
+    "Text": "Base Gate",
+    "Enabled": true
   },
   "240370": {
     "OriginalText": "オリエントゲート",
-    "Text": "",
-    "Enabled": false
+    "Text": "Oriental Gate",
+    "Enabled": true
   },
   "240371": {
     "OriginalText": "ウェスタンゲート",
-    "Text": "",
-    "Enabled": false
+    "Text": "Western Gate",
+    "Enabled": true
   },
   "240372": {
     "OriginalText": "ゲート",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gate",
+    "Enabled": true
   },
   "240373": {
     "OriginalText": "ベースフェンスＳ",
-    "Text": "",
-    "Enabled": false
+    "Text": "S.Base Fence",
+    "Enabled": true
   },
   "240374": {
     "OriginalText": "オリエントフェンスＳ",
-    "Text": "",
-    "Enabled": false
+    "Text": "S.Oriental Fence",
+    "Enabled": true
   },
   "240375": {
     "OriginalText": "ウェスタンフェンスＳ",
-    "Text": "",
-    "Enabled": false
+    "Text": "S.Western Fence",
+    "Enabled": true
   },
   "240376": {
     "OriginalText": "フェンスＳ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Small Fence",
+    "Enabled": true
   },
   "240377": {
     "OriginalText": "ベースフェンスＭ",
-    "Text": "",
-    "Enabled": false
+    "Text": "M.Base Fence",
+    "Enabled": true
   },
   "240378": {
     "OriginalText": "オリエントフェンスＭ",
-    "Text": "",
-    "Enabled": false
+    "Text": "M.Oriental Fence",
+    "Enabled": true
   },
   "240379": {
     "OriginalText": "ウェスタンフェンスＭ",
-    "Text": "",
-    "Enabled": false
+    "Text": "M.Western Fence",
+    "Enabled": true
   },
   "240380": {
     "OriginalText": "フェンスＭ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Medium Fence",
+    "Enabled": true
   },
   "240381": {
     "OriginalText": "ベースウォールＳ",
-    "Text": "",
-    "Enabled": false
+    "Text": "S.Base Wall",
+    "Enabled": true
   },
   "240382": {
     "OriginalText": "オリエントウォールＳ",
-    "Text": "",
-    "Enabled": false
+    "Text": "S.Oriental Wall",
+    "Enabled": true
   },
   "240383": {
     "OriginalText": "ウェスタンウォールＳ",
-    "Text": "",
-    "Enabled": false
+    "Text": "S.Western Wall",
+    "Enabled": true
   },
   "240384": {
     "OriginalText": "ウォールＳ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Small Wall",
+    "Enabled": true
   },
   "240385": {
     "OriginalText": "ベースウォールＭ",
-    "Text": "",
-    "Enabled": false
+    "Text": "M.Base Wall",
+    "Enabled": true
   },
   "240386": {
     "OriginalText": "オリエントウォールＭ",
-    "Text": "",
-    "Enabled": false
+    "Text": "M.Oriental Wall",
+    "Enabled": true
   },
   "240387": {
     "OriginalText": "ウェスタンウォールＭ",
-    "Text": "",
-    "Enabled": false
+    "Text": "M.Western Wall",
+    "Enabled": true
   },
   "240388": {
     "OriginalText": "ウォールＭ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Medium Wall",
+    "Enabled": true
   },
   "240389": {
     "OriginalText": "ベースウォールＬ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Large Base Wall",
+    "Enabled": true
   },
   "240390": {
     "OriginalText": "オリエントウォールＬ",
-    "Text": "",
-    "Enabled": false
+    "Text": "L.Oriental Wall",
+    "Enabled": true
   },
   "240391": {
     "OriginalText": "ウェスタンウォールＬ",
-    "Text": "",
-    "Enabled": false
+    "Text": "L.Western Wall",
+    "Enabled": true
   },
   "240392": {
     "OriginalText": "ウォールＬ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Large Wall",
+    "Enabled": true
   },
   "240393": {
     "OriginalText": "ベースカーペット",
-    "Text": "",
-    "Enabled": false
+    "Text": "Base Carpet",
+    "Enabled": true
   },
   "240396": {
     "OriginalText": "オリエントカーペット",
-    "Text": "",
-    "Enabled": false
+    "Text": "Oriental Carpet",
+    "Enabled": true
   },
   "240399": {
     "OriginalText": "ウェスタンカーペット",
-    "Text": "",
-    "Enabled": false
+    "Text": "Western Carpet",
+    "Enabled": true
   },
   "240402": {
     "OriginalText": "カーペット",
-    "Text": "",
-    "Enabled": false
+    "Text": "Carpet",
+    "Enabled": true
   },
   "240405": {
     "OriginalText": "オルターカーペット",
-    "Text": "",
-    "Enabled": false
+    "Text": "Alter Carpet",
+    "Enabled": true
   },
   "240408": {
     "OriginalText": "ビーチカーペット",
-    "Text": "",
-    "Enabled": false
+    "Text": "Beach Carpet",
+    "Enabled": true
   },
   "240412": {
     "OriginalText": "カーペット・DLC",
-    "Text": "",
-    "Enabled": false
+    "Text": "Carpet DLC",
+    "Enabled": true
   },
   "240414": {
     "OriginalText": "ギガンテス捕獲所",
-    "Text": "Gigantes Capture Plant",
+    "Text": "Gigantes Capture Unit",
     "Enabled": true
   },
   "240415": {
@@ -1956,18 +1956,18 @@
   },
   "241009": {
     "OriginalText": "ショップ端末",
-    "Text": "",
-    "Enabled": false
+    "Text": "Shop Terminal",
+    "Enabled": true
   },
   "241010": {
     "OriginalText": "コア精錬所",
-    "Text": "",
-    "Enabled": false
+    "Text": "Core Refinery",
+    "Enabled": true
   },
   "241011": {
     "OriginalText": "ギガンテス捕獲所",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gigantes Containment Unit",
+    "Enabled": true
   },
   "241012": {
     "OriginalText": "シアタースコープ",
@@ -1986,33 +1986,33 @@
   },
   "241015": {
     "OriginalText": "座る",
-    "Text": "",
-    "Enabled": false
+    "Text": "Sit",
+    "Enabled": true
   },
   "241016": {
     "OriginalText": "寝る",
-    "Text": "",
-    "Enabled": false
+    "Text": "Lie Down",
+    "Enabled": true
   },
   "241017": {
     "OriginalText": "入る",
-    "Text": "",
-    "Enabled": false
+    "Text": "Enter",
+    "Enabled": true
   },
   "241020": {
     "OriginalText": "探索隊司令部",
-    "Text": "",
-    "Enabled": false
+    "Text": "Search Team HQ",
+    "Enabled": true
   },
   "241021": {
     "OriginalText": "ステージに立つ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Stand on Podium",
+    "Enabled": true
   },
   "241022": {
     "OriginalText": "見張り台に立つ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Stand on Lookout",
+    "Enabled": true
   },
   "241101": {
     "OriginalText": "クエストゲート",

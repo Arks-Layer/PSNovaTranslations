@@ -1326,18 +1326,18 @@
   },
   "150265": {
     "OriginalText": "慎怒の構え",
-    "Text": "",
-    "Enabled": false
+    "Text": "Angry Style",
+    "Enabled": true
   },
   "150266": {
     "OriginalText": "慎怒の型",
-    "Text": "",
-    "Enabled": false
+    "Text": "Angry Stance",
+    "Enabled": true
   },
   "150267": {
     "OriginalText": "慎怒の業",
-    "Text": "",
-    "Enabled": false
+    "Text": "Angry Act",
+    "Enabled": true
   },
   "150268": {
     "OriginalText": "捨身の証",
@@ -1567,17 +1567,17 @@
   "150315": {
     "OriginalText": "西風の恵み",
     "Text": "Wind's Grace",
-    "Enabled": false
+    "Enabled": true
   },
   "150316": {
     "OriginalText": "西風の加護",
     "Text": "Wind's Protection",
-    "Enabled": false
+    "Enabled": true
   },
   "150317": {
     "OriginalText": "西風の天恵",
     "Text": "Wind's Blessing",
-    "Enabled": false
+    "Enabled": true
   },
   "150318": {
     "OriginalText": "月夜の尊",
