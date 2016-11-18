@@ -166,13 +166,13 @@
   },
   "770033": {
     "OriginalText": "『施設の開発』",
-    "Text": "",
-    "Enabled": false
+    "Text": "[Facility Development]",
+    "Enabled": true
   },
   "770034": {
     "OriginalText": "『施設の配置と移動』",
-    "Text": "",
-    "Enabled": false
+    "Text": "[Facility Moving and Placing]",
+    "Enabled": true
   },
   "770035": {
     "OriginalText": "『クルーの配属』",
@@ -231,8 +231,8 @@
   },
   "770046": {
     "OriginalText": "『特微』",
-    "Text": "",
-    "Enabled": false
+    "Text": "[Specialty]",
+    "Enabled": true
   },
   "770047": {
     "OriginalText": "『倉庫と一時倉庫』",
@@ -356,18 +356,18 @@
   },
   "770071": {
     "OriginalText": "『戦闘演習２：テクニック』",
-    "Text": "",
-    "Enabled": false
+    "Text": "[Battle Excerise 2: Techniques]",
+    "Enabled": true
   },
   "770072": {
     "OriginalText": "『戦闘演習３：ガード』",
-    "Text": "",
-    "Enabled": false
+    "Text": "[Battle Excerise 3: Guard]",
+    "Enabled": true
   },
   "770073": {
     "OriginalText": "ＰＳＯ２連動特典解放",
-    "Text": "",
-    "Enabled": false
+    "Text": "PSO2 Save Bonus Award",
+    "Enabled": true
   },
   "770074": {
     "OriginalText": "『クエストインフォメーション』",
@@ -376,28 +376,28 @@
   },
   "770075": {
     "OriginalText": "『フォースの攻撃』",
-    "Text": "",
-    "Enabled": false
+    "Text": "[Attacking as a Force]",
+    "Enabled": true
   },
   "770076": {
     "OriginalText": "『レンジャーの回避』",
-    "Text": "",
-    "Enabled": false
+    "Text": "[Dodging as a Ranger]",
+    "Enabled": true
   },
   "770077": {
     "OriginalText": "『フォースの回避』",
-    "Text": "",
-    "Enabled": false
+    "Text": "[Dodging as a Force]",
+    "Enabled": true
   },
   "770078": {
     "OriginalText": "ＰＳＯ２連動特典追加",
-    "Text": "",
-    "Enabled": false
+    "Text": "PSO2 Save Bonus Added",
+    "Enabled": true
   },
   "770079": {
     "OriginalText": "『回避と防御について』",
-    "Text": "",
-    "Enabled": false
+    "Text": "[About Dodging and Defense]",
+    "Enabled": true
   },
   "770080": {
     "OriginalText": "難易度ハード",

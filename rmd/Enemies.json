@@ -316,22 +316,22 @@
   },
   "182610": {
     "OriginalText": "ロヴラッピー",
-    "Text": "Love Rappy",
+    "Text": "Rove Rappy",
     "Enabled": true
   },
   "182620": {
     "OriginalText": "ウィ・ロヴラッピー",
-    "Text": "Vi Love Rappy",
+    "Text": "Vi Rove Rappy",
     "Enabled": true
   },
   "182630": {
     "OriginalText": "レウ・ロヴラッピー",
-    "Text": "Leu Love Rappy",
+    "Text": "Leu Rove Rappy",
     "Enabled": true
   },
   "182640": {
     "OriginalText": "ロヴラッピー・ロセ",
-    "Text": "Love Rappy Rosset",
+    "Text": "Rove Rappy Rosset",
     "Enabled": true
   },
   "182710": {
@@ -956,8 +956,8 @@
   },
   "185150": {
     "OriginalText": "アンカー発射伝置",
-    "Text": "",
-    "Enabled": false
+    "Text": "Anchor Launcher",
+    "Enabled": true
   },
   "185210": {
     "OriginalText": "アルキュオネ",
@@ -1141,8 +1141,8 @@
   },
   "189006": {
     "OriginalText": "背板",
-    "Text": "",
-    "Enabled": false
+    "Text": "Tergum",
+    "Enabled": true
   },
   "189007": {
     "OriginalText": "アンテナ",
@@ -1161,23 +1161,23 @@
   },
   "189010": {
     "OriginalText": "伝甲:腹",
-    "Text": "",
-    "Enabled": false
+    "Text": "Armor: Abdomen",
+    "Enabled": true
   },
   "189011": {
     "OriginalText": "伝甲:もも",
-    "Text": "",
-    "Enabled": false
+    "Text": "Armor: Thigh",
+    "Enabled": true
   },
   "189012": {
     "OriginalText": "伝甲:後部",
-    "Text": "",
-    "Enabled": false
+    "Text": "Armor: Rear End",
+    "Enabled": true
   },
   "189013": {
     "OriginalText": "砲台",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gun Battery",
+    "Enabled": true
   },
   "189014": {
     "OriginalText": "クラッカー発射口",
@@ -1196,8 +1196,8 @@
   },
   "189017": {
     "OriginalText": "砲台",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gun Battery",
+    "Enabled": true
   },
   "189018": {
     "OriginalText": "角",
