@@ -36,8 +36,8 @@
   },
   "210007": {
     "OriginalText": "最深部に到達せよ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Head to the deepest",
+    "Enabled": true
   },
   "210008": {
     "OriginalText": "シードギオス討伐",
@@ -56,8 +56,8 @@
   },
   "210011": {
     "OriginalText": "時間内に目標を達成せよ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Reach the goal within time",
+    "Enabled": true
   },
   "210012": {
     "OriginalText": "ネメスガイスト討伐",
@@ -121,8 +121,8 @@
   },
   "210024": {
     "OriginalText": "最速でクエストクリアせよ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Finish with your fastest time",
+    "Enabled": true
   },
   "210025": {
     "OriginalText": "グラバーを探せ",
@@ -256,13 +256,13 @@
   },
   "210106": {
     "OriginalText": "一定時間生き延びろ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Survive the clock",
+    "Enabled": true
   },
   "210107": {
     "OriginalText": "医療施設資村を回収しろ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect Medical Facility materials",
+    "Enabled": true
   },
   "210108": {
     "OriginalText": "ヴィヴリュード討伐",
@@ -281,13 +281,13 @@
   },
   "210111": {
     "OriginalText": "大型原生種討伐",
-    "Text": "",
-    "Enabled": false
+    "Text": "Subdue the Natives",
+    "Enabled": true
   },
   "210112": {
     "OriginalText": "オラルカーネベア討伐",
-    "Text": "",
-    "Enabled": false
+    "Text": "Subdue Oralecarnne Bear",
+    "Enabled": true
   },
   "210113": {
     "OriginalText": "Ｇガウォンダ討伐",
@@ -311,8 +311,8 @@
   },
   "210117": {
     "OriginalText": "救援が来るまで耐えろ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Survive until backup arrives",
+    "Enabled": true
   },
   "210118": {
     "OriginalText": "Ｇキュクロナーダ討伐",
@@ -356,18 +356,18 @@
   },
   "210126": {
     "OriginalText": "原生種殲滅",
-    "Text": "",
-    "Enabled": false
+    "Text": "Exterminate",
+    "Enabled": true
   },
   "210127": {
     "OriginalText": "原生種殲滅",
-    "Text": "",
-    "Enabled": false
+    "Text": "Exterminate",
+    "Enabled": true
   },
   "210128": {
     "OriginalText": "原生種殲滅",
-    "Text": "",
-    "Enabled": false
+    "Text": "Exterminate",
+    "Enabled": true
   },
   "210129": {
     "OriginalText": "コラル・ドラゴン討伐",
@@ -391,18 +391,18 @@
   },
   "210133": {
     "OriginalText": "食村を回収しろ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect the Materials",
+    "Enabled": true
   },
   "210134": {
     "OriginalText": "時間まで敵を倒しまくれ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Defeat the enemies until time",
+    "Enabled": true
   },
   "210135": {
     "OriginalText": "時間まで敵を倒しまくれ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Defeat the enemies until time",
+    "Enabled": true
   },
   "210136": {
     "OriginalText": "ダーカー殲滅",
@@ -481,8 +481,8 @@
   },
   "210151": {
     "OriginalText": "鉱洋を回収しろ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect the ore",
+    "Enabled": true
   },
   "210152": {
     "OriginalText": "拠点を守れ   拠点耐久",
@@ -491,13 +491,13 @@
   },
   "210153": {
     "OriginalText": "ヴァリゴルドス討伐",
-    "Text": "",
-    "Enabled": false
+    "Text": "Subdue Valigordes",
+    "Enabled": true
   },
   "210154": {
     "OriginalText": "ノイヴァトアス討伐",
-    "Text": "",
-    "Enabled": false
+    "Text": "Subdue Neuvatoas",
+    "Enabled": true
   },
   "210155": {
     "OriginalText": "現状不要",
@@ -506,13 +506,13 @@
   },
   "210156": {
     "OriginalText": "果洋を集めろ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect Fruit",
+    "Enabled": true
   },
   "210157": {
     "OriginalText": "グレイオスから逃げ延びろ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Run away from Greios",
+    "Enabled": true
   },
   "210158": {
     "OriginalText": "中継伝置を回収しろ",
