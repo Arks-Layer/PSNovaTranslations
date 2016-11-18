@@ -6,53 +6,53 @@
   },
   "410001": {
     "OriginalText": "謎の少女 １",
-    "Text": "",
-    "Enabled": false
+    "Text": "The Enigmatic Girl 1",
+    "Enabled": true
   },
   "410002": {
     "OriginalText": "コールドスリープからの目覚め",
-    "Text": "",
-    "Enabled": false
+    "Text": "Awakening From Cold Sleep",
+    "Enabled": true
   },
   "410003": {
     "OriginalText": "リーティアの説明",
-    "Text": "",
-    "Enabled": false
+    "Text": "Rietheia's Explanation",
+    "Enabled": true
   },
   "410004": {
     "OriginalText": "フィルディアとの出会い",
-    "Text": "",
-    "Enabled": false
+    "Text": "Meet Fildia",
+    "Enabled": true
   },
   "410005": {
     "OriginalText": "ルティナとの再会",
-    "Text": "",
-    "Enabled": false
+    "Text": "Meet Lutina",
+    "Enabled": true
   },
   "410006": {
     "OriginalText": "緊急事態",
-    "Text": "",
-    "Enabled": false
+    "Text": "Emergency Situation",
+    "Enabled": true
   },
   "410007": {
     "OriginalText": "艦、墜落",
-    "Text": "",
-    "Enabled": false
+    "Text": "Ship, Crashed",
+    "Enabled": true
   },
   "410008": {
     "OriginalText": "墜落直後",
-    "Text": "",
-    "Enabled": false
+    "Text": "Following the Crash",
+    "Enabled": true
   },
   "410009": {
     "OriginalText": "調査隊の危機",
-    "Text": "",
-    "Enabled": false
+    "Text": "Search Team's Crisis",
+    "Enabled": true
   },
   "410010": {
     "OriginalText": "宿るグラン",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gran Dwelling",
+    "Enabled": true
   },
   "410011": {
     "OriginalText": "塊死の艦長",
@@ -66,13 +66,13 @@
   },
   "410013": {
     "OriginalText": "フィルディアの演説",
-    "Text": "",
-    "Enabled": false
+    "Text": "Fildia's Speech",
+    "Enabled": true
   },
   "410014": {
     "OriginalText": "仲間のコールドスリープ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Cold Sleep Comrades",
+    "Enabled": true
   },
   "410015": {
     "OriginalText": "隊員捜索任務",
@@ -81,13 +81,13 @@
   },
   "410016": {
     "OriginalText": "ルティナの不安",
-    "Text": "",
-    "Enabled": false
+    "Text": "Restless Lutina",
+    "Enabled": true
   },
   "410017": {
     "OriginalText": "セイルとイズナ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Sail and Izuna",
+    "Enabled": true
   },
   "410018": {
     "OriginalText": "救助成功",
@@ -96,13 +96,13 @@
   },
   "410019": {
     "OriginalText": "グラン習得",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gran Training",
+    "Enabled": true
   },
   "410020": {
     "OriginalText": "ルティナの日記①",
-    "Text": "",
-    "Enabled": false
+    "Text": "Lutina's Diary 1",
+    "Enabled": true
   },
   "410021": {
     "OriginalText": "新たな任務",
@@ -131,8 +131,8 @@
   },
   "410026": {
     "OriginalText": "ギガンテス対策会議",
-    "Text": "",
-    "Enabled": false
+    "Text": "The Gigantes Encounter",
+    "Enabled": true
   },
   "410027": {
     "OriginalText": "ヘイロウ発明",
@@ -146,8 +146,8 @@
   },
   "410029": {
     "OriginalText": "ギガンテス撃破報告",
-    "Text": "",
-    "Enabled": false
+    "Text": "Reporting the Defeat of Gigantes",
+    "Enabled": true
   },
   "410030": {
     "OriginalText": "ルティナの日記②",
@@ -421,48 +421,48 @@
   },
   "410084": {
     "OriginalText": "フィルディアの後悔",
-    "Text": "",
-    "Enabled": false
+    "Text": "Fildia's Regret",
+    "Enabled": true
   },
   "410085": {
     "OriginalText": "仲間への別れ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Farewell to Comrades",
+    "Enabled": true
   },
   "410086": {
     "OriginalText": "エンジン始動",
-    "Text": "",
-    "Enabled": false
+    "Text": "Start Engines",
+    "Enabled": true
   },
   "410087": {
     "OriginalText": "艦出発",
-    "Text": "",
-    "Enabled": false
+    "Text": "The Ship's Departure",
+    "Enabled": true
   },
   "410088": {
     "OriginalText": "惑星からの攻撃",
-    "Text": "",
-    "Enabled": false
+    "Text": "The Planet's Attack",
+    "Enabled": true
   },
   "410089": {
     "OriginalText": "退避命令",
-    "Text": "",
-    "Enabled": false
+    "Text": "Orders to Withdraw",
+    "Enabled": true
   },
   "410090": {
     "OriginalText": "最期の輝き",
-    "Text": "",
-    "Enabled": false
+    "Text": "Radiance of Death",
+    "Enabled": true
   },
   "410091": {
     "OriginalText": "惨禍",
-    "Text": "",
-    "Enabled": false
+    "Text": "Disaster",
+    "Enabled": true
   },
   "410092": {
     "OriginalText": "新たな艦長",
-    "Text": "",
-    "Enabled": false
+    "Text": "The New Captain",
+    "Enabled": true
   },
   "410093": {
     "OriginalText": "謎の少女 ２",
