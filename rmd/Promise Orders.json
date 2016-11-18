@@ -326,8 +326,8 @@
   },
   "280065": {
     "OriginalText": "究冷の資村・大尖塔",
-    "Text": "",
-    "Enabled": false
+    "Text": "Research Materials: Large Spire",
+    "Enabled": true
   },
   "280066": {
     "OriginalText": "オペレーター代行",
@@ -336,33 +336,33 @@
   },
   "280067": {
     "OriginalText": "ＸＨ・Ｓランククリア・上",
-    "Text": "",
-    "Enabled": false
+    "Text": "XH: S-rank Clear Top",
+    "Enabled": true
   },
   "280068": {
     "OriginalText": "ＸＨ・Ｓランククリア・下",
-    "Text": "",
-    "Enabled": false
+    "Text": "XH: S-rank Clear Bottom",
+    "Enabled": true
   },
   "280069": {
     "OriginalText": "地獄のデート・Ｓランククリア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Hell's Date: S-rank Clear",
+    "Enabled": true
   },
   "280070": {
     "OriginalText": "ＸＨに挑戦・ノヴァ内部",
-    "Text": "",
-    "Enabled": false
+    "Text": "XH Challenge: Nova Interior",
+    "Enabled": true
   },
   "280071": {
     "OriginalText": "惑星の真の安寧のために",
-    "Text": "",
-    "Enabled": false
+    "Text": "For the Sake of the Planet",
+    "Enabled": true
   },
   "280072": {
     "OriginalText": "抗体ギガンテス研究",
-    "Text": "",
-    "Enabled": false
+    "Text": "Research Gigantes Antibodies",
+    "Enabled": true
   },
   "280073": {
     "OriginalText": "究冷の洋質・ノヴァ内部",
