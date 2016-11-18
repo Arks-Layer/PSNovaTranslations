@@ -441,8 +441,8 @@
   },
   "520102": {
     "OriginalText": "医学知識",
-    "Text": "",
-    "Enabled": false
+    "Text": "Medical Knowledge",
+    "Enabled": true
   },
   "520103": {
     "OriginalText": "Ｓ属性",
