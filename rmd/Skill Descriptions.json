@@ -56,22 +56,22 @@
   },
   "60011": {
     "OriginalText": "一定時間、打撃力を２０％、射撃力を１０％上昇し\n代わりに、受けるダメージも５％上昇する。\n[a 03]※アクティブスキルは同時に２つまで発動可[b]",
-    "Text": "Increases Striking ＆ Ranged damage\nat the cost of your defense.\n[a 03]※Up to 2 actives at the same time.[b]",
+    "Text": "Increases Striking damage by 20%,\nRanged by 10% and damage taken by 5%.\n[a 03]※Up to 2 actives at the same time.[b]",
     "Enabled": true
   },
   "60012": {
     "OriginalText": "一定時間、打撃防御力を２００上昇し、\n更に、受けるダメージを２０％軽滅する。\n[a 03]※アクティブスキルは同時に２つまで発動可[b]",
-    "Text": "Raises Striking Defense\nand reduces all damage.\n[a 03]※Up to 2 actives at the same time.[b]",
+    "Text": "Raises Striking Defense by 200\nand reduces all damage by 20%.\n[a 03]※Up to 2 actives at the same time.[b]",
     "Enabled": true
   },
   "60013": {
     "OriginalText": "ＨＰが１０％似上で\n戦闘不能となるダメージを受けたとき\n３０％の確率でＨＰが１残ることがある。",
-    "Text": "May survive with 1 HP when\nreceiving damage that would kill you.",
+    "Text": "When HP is at 10% or lower, gain a 30%\nchance to survive with 1 HP when hit with\nan attack that would normally kill you.",
     "Enabled": true
   },
   "60014": {
     "OriginalText": "打撃・射撃ダメージを\n３０％の確率で無効化する。",
-    "Text": "Chance to nullify\nStriking and Ranged damage.",
+    "Text": "30% chance to nullify\nStriking and Ranged damage.",
     "Enabled": true
   },
   "60015": {
@@ -86,12 +86,12 @@
   },
   "60017": {
     "OriginalText": "一定時間、正面から与えるダメージを\n２５％上昇する。\n[a 03]※アクティブスキルは同時に２つまで発動可[b]",
-    "Text": "Increases damage when attacking enemies from the front.\n[a 03]※Up to 2 actives at the same time.[b]",
+    "Text": "Increases damage by 25% when attacking\nenemies from the front.\n[a 03]※Up to 2 actives at the same time.[b]",
     "Enabled": true
   },
   "60018": {
     "OriginalText": "一定時間、背後から与えるダメージを\n３５％上昇する。\n[a 03]※アクティブスキルは同時に２つまで発動可[b]",
-    "Text": "Increases damage when attacking enemies from the rear.\n[a 03]※Up to 2 actives at the same time.[b]",
+    "Text": "Increases damage by 35% when attacking\nenemies from the rear.\n[a 03]※Up to 2 actives at the same time.[b]",
     "Enabled": true
   },
   "60019": {
@@ -121,12 +121,12 @@
   },
   "60024": {
     "OriginalText": "ジャストアタックしたときの\nダメージが２０％上昇する。",
-    "Text": "Gain a damage bonus upon\nperforming a Just Attack.",
+    "Text": "Gain a 20% damage bonus upon\nperforming a Just Attack.",
     "Enabled": true
   },
   "60025": {
     "OriginalText": "ＨＰが５０％似下になったとき、\n自動でメイト系アイテムを使用する。",
-    "Text": "When HP is below a certain amount,\nautomatically use a mate item on yourself.",
+    "Text": "When HP is at 50% or below,\nautomatically use a mate item on yourself.",
     "Enabled": true
   },
   "60026": {
@@ -136,7 +136,7 @@
   },
   "60027": {
     "OriginalText": "一定時間、射撃力と法撃力の合計の\n７５％を打撃力として使用する。\n[a 03]※アクティブスキルは同時に２つまで発動可[b]",
-    "Text": "A portion of your R-ATK and\nT-ATK is converted into S-ATK.",
+    "Text": "A portion of your R-ATK and\nT-ATK is converted into S-ATK.\n[a 03]※Up to 2 actives at the same time.[b]",
     "Enabled": true
   },
   "60028": {
@@ -191,12 +191,12 @@
   },
   "60038": {
     "OriginalText": "一定時間、ダメージを受けたとき\n玄け反らなくなる。\n[a 03]※アクティブスキルは同時に２つまで発動可[b]",
-    "Text": "Increases your striking and\nshooting attacks during\nFury Stance.",
+    "Text": "For a period of time, prevent knockback damage.[a 03]※Up to 2 actives at the same time.[b]",
     "Enabled": true
   },
   "60039": {
     "OriginalText": "打撃攻撃による\n弱点属性へのダメージが６０％上昇する。",
-    "Text": "Attracts the attention of enemies.",
+    "Text": "Attacking Weakspots recieves a\n60% damage bonus when hit with Striking Attacks.",
     "Enabled": true
   },
   "60040": {
@@ -206,8 +206,8 @@
   },
   "60042": {
     "OriginalText": "クロスバーストが発生しやすくなる。\nさらに、バースト中の\nダメージが６０％上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Increases the probability of crossburts.\nIn addition, gain a 60% damage bonus.",
+    "Enabled": true
   },
   "60051": {
     "OriginalText": "射撃力が２５上昇する。",
@@ -301,17 +301,17 @@
   },
   "60069": {
     "OriginalText": "通常攻撃のＧＰ回復量が\n１０％増加する。",
-    "Text": "Increases the amount of GP restored\nwhen normal attacks hit the enemy.",
+    "Text": "Increases the amount of GP restored by\n10% when using normal attacks.",
     "Enabled": true
   },
   "60070": {
     "OriginalText": "近距離での射撃攻撃の\nダメージが５０％上昇する。",
-    "Text": "Boosts damage when shots\nhit at close range.",
+    "Text": "Boosts damage by 50% when\nshots hit at close range.",
     "Enabled": true
   },
   "60071": {
     "OriginalText": "空中にいるエネミーへの\nダメージが２０％上昇する。",
-    "Text": "Increases damage when attacks\nhit the enemies in the air.",
+    "Text": "Increases damage by 20% when attacks\nhit the enemies in the air.",
     "Enabled": true
   },
   "60072": {
@@ -336,7 +336,7 @@
   },
   "60076": {
     "OriginalText": "スタイリッシュロール及び\nダイブロールからジャストアタックしたときに\nダメージが１５％上昇する。",
-    "Text": "Boosts power to Just Attacks\nfollowing a Stylish or Dive Roll.",
+    "Text": "Boosts power by 15% to Just Attacks\nfollowing a Stylish or Dive Roll.",
     "Enabled": true
   },
   "60077": {
@@ -356,7 +356,7 @@
   },
   "60080": {
     "OriginalText": "射撃力が３００上昇する。",
-    "Text": "Increases your R-ATK by 200.",
+    "Text": "Increases your R-ATK by 300.",
     "Enabled": true
   },
   "60081": {
@@ -366,7 +366,7 @@
   },
   "60082": {
     "OriginalText": "技量が８０上昇する。",
-    "Text": "Increases your DEX by 50.",
+    "Text": "Increases your DEX by 80.",
     "Enabled": true
   },
   "60083": {
@@ -381,12 +381,12 @@
   },
   "60085": {
     "OriginalText": "空中にいるエネミーへの\nダメージが１００％上昇し\n通常攻撃のＧＰ回復量が１００％増加する。",
-    "Text": "Increases shooting damage\nwhen attacking the same spot.",
+    "Text": "Increases damage by 100%\nwhile in the air\nNormal Attacks GP recovery rate boosted by 100%.",
     "Enabled": true
   },
   "60086": {
     "OriginalText": "ＨＰが３５％似下になったとき、\n自動でメイト系アイテムを使用する。",
-    "Text": "When your HP falls below 25%,\nautomatically use a\nmate item on yourself.",
+    "Text": "When your HP falls is 35% or lower,\nautomatically use a mate item on yourself.",
     "Enabled": true
   },
   "60087": {
@@ -406,7 +406,7 @@
   },
   "60090": {
     "OriginalText": "一定時間、射撃力が４０００上昇する。\n\n[a 03]※アクティブスキルは同時に２つまで発動可[b]",
-    "Text": "Temporarily boosts your R-ATK by 4000.",
+    "Text": "Temporarily boosts your R-ATK by 4000.\n\n[a 03]※Up to 2 actives at the same time.[b]",
     "Enabled": true
   },
   "60091": {
@@ -441,7 +441,7 @@
   },
   "60104": {
     "OriginalText": "弱点属性へのダメージが５０％上昇する。",
-    "Text": "Increases damage dealt\ntowards the elemental weakness.",
+    "Text": "Increases damage dealt by 50%\ntowards the elemental weakness.",
     "Enabled": true
   },
   "60105": {
@@ -551,7 +551,7 @@
   },
   "60126": {
     "OriginalText": "一定時間、打撃力と射撃力の合計の\n７５％を法撃力として使用する。\n[a 03]※アクティブスキルは同時に２つまで発動可[b]",
-    "Text": "A set portion of the S-ATK\nand R-ATK is converted\ninto T-ATK.",
+    "Text": "Converts 75% of your S-ATK\nand R-ATK into T-ATK.\n[a 03]※Up to 2 actives at the same time.[b]",
     "Enabled": true
   },
   "60127": {
@@ -561,7 +561,7 @@
   },
   "60128": {
     "OriginalText": "一時的に法撃力が１００％上昇する。\n代わりにＨＰ最大値が１０％低下する。\n[a 03]※アクティブスキルは同時に２つまで発動可[b]",
-    "Text": "Increase T-ATK while decreasing\nyour max HP for a limited time.",
+    "Text": "Increase T-ATK by 100% while lowering\n10% of your HP for a limited time.\n[a 03]※Up to 2 actives at the same time.[b]",
     "Enabled": true
   },
   "60129": {
@@ -661,12 +661,12 @@
   },
   "60157": {
     "OriginalText": "一定時間、ＧＰ回復量が１００％上昇し\n最大ＨＰが５０％滅少する。\n[a 03]※アクティブスキルは同時に２つまで発動可[b]",
-    "Text": "GP Recovery is increased by 100%\nmaximum HP reduced by 50%,\nfor a limited time.",
+    "Text": "For a limited time, GP Recovery is\nboosted by 100% and Max HP reduced by 50%\n[a 03]※Up to 2 actives at the same time.[b]",
     "Enabled": true
   },
   "60158": {
     "OriginalText": "ＧＰが５０％似下になったとき、\n打撃力と射撃力が２０％上昇する。",
-    "Text": "Raises S-ATK and R-ATK\nwhen GP is at 50% or lower.",
+    "Text": "Raises S-ATK and R-ATK by 20%\nwhen GP is at 50% or lower.",
     "Enabled": true
   },
   "60159": {
@@ -681,22 +681,22 @@
   },
   "60161": {
     "OriginalText": "消費ＧＰが２０％上がる代わりに\n攻撃のダメージが５０％上昇する。",
-    "Text": "Increases GP Consumption\nfor stronger Gran Arts",
+    "Text": "Increases GP Consumption by 20%\nfor a 50% boost in GA damage.",
     "Enabled": true
   },
   "60162": {
     "OriginalText": "状態異常を受けているエネミーへの\nダメージが２０％上昇する。",
-    "Text": "Deals bonus damage to enemies\nunder a status effect.",
+    "Text": "Deals a 20% bonus damage to\nenemies under a status effect.",
     "Enabled": true
   },
   "60163": {
     "OriginalText": "テクニックのチャージ時間を２倍に延長する\n代わりにダメージが５０％上昇する。",
-    "Text": "Increases Tech power, but\nextends charged casting\ntimes in return.",
+    "Text": "Tech Damage boosted by 50%\nwhile doubling Tech charge time.",
     "Enabled": true
   },
   "60164": {
     "OriginalText": "テクニックのチャージ時間を半分に短温する\n代わりにダメージが２０％低下する。",
-    "Text": "Reduces charged casting times\nwhile decreasing Tech power in return.",
+    "Text": "Reduces charged casting times\nwhile lowering Tech damage by 20%.",
     "Enabled": true
   },
   "60165": {
@@ -751,7 +751,7 @@
   },
   "60175": {
     "OriginalText": "ＨＰが５０％似下になったとき\n打撃力・射撃力・法撃力が\n１０００上昇する。",
-    "Text": "Raises S-ATK and R-ATK when HP is at 50% or lower.",
+    "Text": "Raises S-ATK and R-ATK by 1000\nwhen HP is at 50% or lower.",
     "Enabled": true
   },
   "60176": {
@@ -791,7 +791,7 @@
   },
   "60183": {
     "OriginalText": "法撃防御力が３００上昇する。",
-    "Text": "Increases your T-DEF by 200.",
+    "Text": "Increases your T-DEF by 300.",
     "Enabled": true
   },
   "60184": {
@@ -801,7 +801,7 @@
   },
   "60185": {
     "OriginalText": "ＧＰの上限値が３０上昇する。",
-    "Text": "Increases your max GP by 20.",
+    "Text": "Increases your max GP by 30.",
     "Enabled": true
   },
   "60186": {
@@ -851,7 +851,7 @@
   },
   "60201": {
     "OriginalText": "フューリースタンス中、\n打撃力と射撃力が１０％上昇する。",
-    "Text": "Boosts Striking and Ranged\ndamage during Fury Stance.",
+    "Text": "Boosts Striking and Ranged\ndamage by 10% during Fury Stance.",
     "Enabled": true
   },
   "60202": {
@@ -861,22 +861,22 @@
   },
   "60203": {
     "OriginalText": "ブレイブスタンス中、正面から攻撃したときの\nクリティカルヒット確率が５％上昇する。",
-    "Text": "Increases your Critical Hit\nRate during Brave Stance\nwhile attacking from the front.",
+    "Text": "Increases your Critical Hit\nRate by 5% during Brave Stance\nwhile attacking from the front.",
     "Enabled": true
   },
   "60204": {
     "OriginalText": "ワイズスタンス中、背後から攻撃したときの\nクリティカルヒット確率が１０％上昇する。",
-    "Text": "Increases your Critical Hit\nRate during Wise Stance\nwhile attacking from the rear.",
+    "Text": "Increases your Critical Hit\nRate by 10% during Wise Stance\nwhile attacking from the rear.",
     "Enabled": true
   },
   "60205": {
     "OriginalText": "ブレイブスタンス中、\n正面から与えるダメージが２０％上昇し、\nクリティカルヒット確率も５％上昇する。",
-    "Text": "During Brave Stance, gain a\nDamage Bonus when attacking\nfrom the front.",
+    "Text": "During Brave Stance, damage is\nboosted by 20%, while Critical Rate is boosted\nby 5% while attacking from the front.",
     "Enabled": true
   },
   "60206": {
     "OriginalText": "ワイズスタンス中、\n背後から与えるダメージが４０％上昇し、\nクリティカルヒット確率も１０％上昇する。",
-    "Text": "During Wise Stance, gain a\nDamage Bonus when attacking\nfrom the rear.",
+    "Text": "During Wise Stance, damage is\nboosted by 40%, while Critical Rate is boosted\nby 10% while attacking from behind.",
     "Enabled": true
   },
   "60207": {
@@ -891,7 +891,7 @@
   },
   "60209": {
     "OriginalText": "最大ＨＰに対して１０％未既の\nダメージを受けたとき、\n玄け反らなくなる。",
-    "Text": "Prevents flinching when receiving\ndamage that’s less than a certain\npercentage of your max HP.",
+    "Text": "Prevents flinching when receiving\ndamage that’s 10% or less than your max HP.",
     "Enabled": true
   },
   "60210": {
@@ -901,12 +901,12 @@
   },
   "60211": {
     "OriginalText": "アベレージスタンス中に\nダメージが１０％上昇する。",
-    "Text": "Attacks give bonus damage\nduring Average Stance.",
+    "Text": "Attacks deal a 10% damage\nbonus during Average Stance.",
     "Enabled": true
   },
   "60212": {
     "OriginalText": "射撃で弱点部位を攻撃したときに\n技量が３０％、ダメージが２０％上昇する。",
-    "Text": "Continuously shooting at the\nenemy’s weakpoint increases\nDEX and power.",
+    "Text": "Continuously shooting at the\nenemy’s weakpoint increases\nDEX by 30% and damage by 20%.",
     "Enabled": true
   },
   "60213": {
@@ -926,7 +926,7 @@
   },
   "60216": {
     "OriginalText": "テクニックのダメージが５０％上昇する。",
-    "Text": "Boosts damage when Just\nAttacking with different\nGran Arts or Techs.",
+    "Text": "Boosts damage by 50% when Just\nAttacking with different GAs or Techs.",
     "Enabled": true
   },
   "60217": {
@@ -936,7 +936,7 @@
   },
   "60218": {
     "OriginalText": "法撃ダメージを\n３０％の確率で無効化する。",
-    "Text": "Reduces tech damage taken.",
+    "Text": "Reduces tech damage taken by 30%.",
     "Enabled": true
   },
   "60219": {
