@@ -206,7 +206,7 @@
   },
   "60042": {
     "OriginalText": "クロスバーストが発生しやすくなる。\nさらに、バースト中の\nダメージが６０％上昇する。",
-    "Text": "Increases the probability of crossburts.\nIn addition, gain a 60% damage bonus.",
+    "Text": "Increases the probability of cross-bursts.\nIn addition, gain a 60% damage bonus.",
     "Enabled": true
   },
   "60051": {
