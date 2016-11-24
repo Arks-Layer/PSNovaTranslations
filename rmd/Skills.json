@@ -206,8 +206,8 @@
   },
   "50042": {
     "OriginalText": "バーストマスタリー",
-    "Text": "",
-    "Enabled": false
+    "Text": "Burst Mastery",
+    "Enabled": true
   },
   "50051": {
     "OriginalText": "射撃力アップⅠ",
