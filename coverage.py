@@ -7,7 +7,7 @@ import simplejson
 import sys
 
 counterr = 0
-bufout = "000.0%:0FILE"
+bufout = "000.0%\t0FILE"
 invalid_json_files = []
 os.chdir(os.getcwd() + "/rmd")
 json_files = [f for f in os.listdir('./') if re.match(r'.*\.json', f)]
@@ -25,9 +25,9 @@ for files in json_files:
             #print ("%s/%s" % (countin, countout))
             if (countin):
                 countper = "{:06.1%}".format(float(countout)/float(countin))
-                bufout += '\n{0}:{1}'.format(countper,files)
+                bufout += '\n{0}\t{1}'.format(countper,files)
             else:
-                bufout += '\n{0}:{1}'.format("ERROR ",files)
+                bufout += '\n{0}\t:{1}'.format("ERROR ",files)
         except ValueError as e:
             print("%s: %s") % (files, e)
             invalid_json_files.append(files)
