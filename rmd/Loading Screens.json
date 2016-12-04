@@ -746,7 +746,7 @@
   },
   "800149": {
     "OriginalText": "ギガンテスは、\n破壊した部位に応じてアイテムがドロップする。",
-    "Text": "Gigantes will drop items\nbased off the destroyed site.",
+    "Text": "Gigantes will drop items\nbased off their destroyed parts.",
     "Enabled": true
   },
   "800150": {
