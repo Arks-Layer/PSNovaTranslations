@@ -326,13 +326,13 @@
   },
   "200317": {
     "OriginalText": "ガラティオン追跡撃破任務",
-    "Text": "",
-    "Enabled": false
+    "Text": "Garation Subjugation and Destroy",
+    "Enabled": true
   },
   "200318": {
     "OriginalText": "コラル・ドラゴン撃破任務",
-    "Text": "",
-    "Enabled": false
+    "Text": "Coral Dragon Subjugation",
+    "Enabled": true
   },
   "200319": {
     "OriginalText": "大尖塔深部討伐任務",
@@ -346,8 +346,8 @@
   },
   "200321": {
     "OriginalText": "テュルトアス撃破任務",
-    "Text": "",
-    "Enabled": false
+    "Text": "Tulletoas Subjugation",
+    "Enabled": true
   },
   "200322": {
     "OriginalText": "古代都市哨戒任務",
@@ -356,8 +356,8 @@
   },
   "200323": {
     "OriginalText": "ヴィヴリュード撃破任務",
-    "Text": "",
-    "Enabled": false
+    "Text": "Vivrude Subjugation",
+    "Enabled": true
   },
   "200324": {
     "OriginalText": "アルキュオネ討伐任務",
@@ -366,8 +366,8 @@
   },
   "200325": {
     "OriginalText": "ガラティオン撃破任務",
-    "Text": "",
-    "Enabled": false
+    "Text": "Garation Subjugation",
+    "Enabled": true
   },
   "200326": {
     "OriginalText": "難：エウリュード攻略任務",
@@ -376,23 +376,23 @@
   },
   "200327": {
     "OriginalText": "難：銅の荒野走破任務",
-    "Text": "",
-    "Enabled": false
+    "Text": "Danger: Steel Wastelands Coverage",
+    "Enabled": true
   },
   "200328": {
     "OriginalText": "難：ノヴァ内部哨戒任務",
-    "Text": "",
-    "Enabled": false
+    "Text": "Danger: Nova Interior Patrol",
+    "Enabled": true
   },
   "200329": {
     "OriginalText": "難：ギュゲンテ撃破任務",
-    "Text": "",
-    "Enabled": false
+    "Text": "Danger: Gygante Subjugation",
+    "Enabled": true
   },
   "200330": {
     "OriginalText": "難：古代都市殲滅任務",
-    "Text": "",
-    "Enabled": false
+    "Text": "Danger: Ancient City Extermination",
+    "Enabled": true
   },
   "200331": {
     "OriginalText": "難：銅の荒野連続撃破任務",
@@ -401,8 +401,8 @@
   },
   "200332": {
     "OriginalText": "難：古代都市広域偵察任務",
-    "Text": "",
-    "Enabled": false
+    "Text": "Danger: Ancient City Reconnaissance",
+    "Enabled": true
   },
   "200333": {
     "OriginalText": "難：炎の高地殲滅任務",
