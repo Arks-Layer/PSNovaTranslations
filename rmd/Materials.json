@@ -55,7 +55,7 @@
     "Enabled": true
   },
   "350011": {
-    "OriginalText": "膜β類のたまご",
+    "OriginalText": "爬虫類のたまご",
     "Text": "Reptile Egg",
     "Enabled": true
   },
@@ -90,7 +90,7 @@
     "Enabled": true
   },
   "350018": {
-    "OriginalText": "膜β類の肉",
+    "OriginalText": "爬虫類の肉",
     "Text": "Reptile Meat",
     "Enabled": true
   },
@@ -110,12 +110,12 @@
     "Enabled": true
   },
   "350022": {
-    "OriginalText": "膜β類の苔尾",
+    "OriginalText": "爬虫類の苔尾",
     "Text": "Reptile Tail",
     "Enabled": true
   },
   "350023": {
-    "OriginalText": "膜β類のトサカ",
+    "OriginalText": "爬虫類のトサカ",
     "Text": "Reptile Crest",
     "Enabled": true
   },
@@ -135,7 +135,7 @@
     "Enabled": true
   },
   "350027": {
-    "OriginalText": "膜β類のエキス",
+    "OriginalText": "爬虫類のエキス",
     "Text": "Reptile Extract",
     "Enabled": true
   },
@@ -276,8 +276,8 @@
   },
   "350055": {
     "OriginalText": "青い鉱石",
-    "Text": "",
-    "Enabled": false
+    "Text": "Blue Ore",
+    "Enabled": true
   },
   "350056": {
     "OriginalText": "メモリーフラグメントＢ",
@@ -286,13 +286,13 @@
   },
   "350057": {
     "OriginalText": "凍った葉",
-    "Text": "",
-    "Enabled": false
+    "Text": "Frozen Leaves",
+    "Enabled": true
   },
   "350058": {
     "OriginalText": "棘状の結晶体",
-    "Text": "",
-    "Enabled": false
+    "Text": "Thorny Crystal",
+    "Enabled": true
   },
   "350059": {
     "OriginalText": "天然樹木",
@@ -300,9 +300,9 @@
     "Enabled": true
   },
   "350060": {
-    "OriginalText": "遺跡石村",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "遺跡石材",
+    "Text": "Stone Ruins Material",
+    "Enabled": true
   },
   "350061": {
     "OriginalText": "オベリスクの破片",
@@ -316,18 +316,18 @@
   },
   "350063": {
     "OriginalText": "成長する金属外殻",
-    "Text": "",
-    "Enabled": false
+    "Text": "Growing Metallic Shell",
+    "Enabled": true
   },
   "350064": {
     "OriginalText": "赤く光る鉱石",
-    "Text": "",
-    "Enabled": false
+    "Text": "Red Ore",
+    "Enabled": true
   },
   "350065": {
     "OriginalText": "湯縞の記憶",
-    "Text": "",
-    "Enabled": false
+    "Text": "Hot Spring Memory",
+    "Enabled": true
   },
   "350066": {
     "OriginalText": "メモリーフラグメントＣ",
@@ -376,8 +376,8 @@
   },
   "350075": {
     "OriginalText": "貝ちない黒い鉄柱",
-    "Text": "",
-    "Enabled": false
+    "Text": "Black Shell-less Shellfish",
+    "Enabled": true
   },
   "350076": {
     "OriginalText": "大尖塔のワイヤー",
@@ -386,8 +386,8 @@
   },
   "350077": {
     "OriginalText": "パイロープ結晶体",
-    "Text": "",
-    "Enabled": false
+    "Text": "Crystalline Pyrope",
+    "Enabled": true
   },
   "350078": {
     "OriginalText": "鈍く光るコランダム珪",
@@ -396,13 +396,13 @@
   },
   "350079": {
     "OriginalText": "熱を蓄える捲方輝石",
-    "Text": "",
-    "Enabled": false
+    "Text": "Heated Rhodium Pyroxene",
+    "Enabled": true
   },
   "350080": {
     "OriginalText": "墨むしたセラミックス",
-    "Text": "",
-    "Enabled": false
+    "Text": "Dyed Ceramics",
+    "Enabled": true
   },
   "350081": {
     "OriginalText": "瞬くクリソベル石",
@@ -416,271 +416,271 @@
   },
   "350083": {
     "OriginalText": "メモリーフラグメントＨ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Memory Fragment H",
+    "Enabled": true
   },
   "350084": {
     "OriginalText": "メモリーフラグメントＩ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Memory Fragment I",
+    "Enabled": true
   },
   "350085": {
-    "OriginalText": "リージョン3難易度3村料3",
+    "OriginalText": "リージョン3難易度3材料3",
     "Text": "",
     "Enabled": false
   },
   "350086": {
-    "OriginalText": "リージョン3難易度4村料1",
+    "OriginalText": "リージョン3難易度4材料1",
     "Text": "",
     "Enabled": false
   },
   "350087": {
-    "OriginalText": "リージョン3難易度4村料2",
+    "OriginalText": "リージョン3難易度4材料2",
     "Text": "",
     "Enabled": false
   },
   "350088": {
-    "OriginalText": "リージョン3難易度4村料3",
+    "OriginalText": "リージョン3難易度4材料3",
     "Text": "",
     "Enabled": false
   },
   "350089": {
-    "OriginalText": "リージョン3難易度5村料1",
+    "OriginalText": "リージョン3難易度5材料1",
     "Text": "",
     "Enabled": false
   },
   "350090": {
-    "OriginalText": "リージョン3難易度5村料2",
+    "OriginalText": "リージョン3難易度5材料2",
     "Text": "",
     "Enabled": false
   },
   "350091": {
-    "OriginalText": "リージョン3難易度5村料3",
+    "OriginalText": "リージョン3難易度5材料3",
     "Text": "",
     "Enabled": false
   },
   "350092": {
-    "OriginalText": "リージョン5難易度1村料1",
+    "OriginalText": "リージョン5難易度1材料1",
     "Text": "",
     "Enabled": false
   },
   "350093": {
-    "OriginalText": "リージョン5難易度1村料2",
+    "OriginalText": "リージョン5難易度1材料2",
     "Text": "",
     "Enabled": false
   },
   "350094": {
-    "OriginalText": "リージョン5難易度1村料3",
+    "OriginalText": "リージョン5難易度1材料3",
     "Text": "",
     "Enabled": false
   },
   "350095": {
-    "OriginalText": "リージョン5難易度2村料1",
+    "OriginalText": "リージョン5難易度2材料1",
     "Text": "",
     "Enabled": false
   },
   "350096": {
-    "OriginalText": "リージョン5難易度2村料2",
+    "OriginalText": "リージョン5難易度2材料2",
     "Text": "",
     "Enabled": false
   },
   "350097": {
-    "OriginalText": "リージョン5難易度2村料3",
+    "OriginalText": "リージョン5難易度2材料3",
     "Text": "",
     "Enabled": false
   },
   "350098": {
-    "OriginalText": "リージョン5難易度3村料1",
+    "OriginalText": "リージョン5難易度3材料1",
     "Text": "",
     "Enabled": false
   },
   "350099": {
-    "OriginalText": "リージョン5難易度3村料2",
+    "OriginalText": "リージョン5難易度3材料2",
     "Text": "",
     "Enabled": false
   },
   "350100": {
-    "OriginalText": "リージョン5難易度3村料3",
+    "OriginalText": "リージョン5難易度3材料3",
     "Text": "",
     "Enabled": false
   },
   "350101": {
-    "OriginalText": "リージョン5難易度4村料1",
+    "OriginalText": "リージョン5難易度4材料1",
     "Text": "",
     "Enabled": false
   },
   "350102": {
-    "OriginalText": "リージョン5難易度4村料2",
+    "OriginalText": "リージョン5難易度4材料2",
     "Text": "",
     "Enabled": false
   },
   "350103": {
-    "OriginalText": "リージョン5難易度4村料3",
+    "OriginalText": "リージョン5難易度4材料3",
     "Text": "",
     "Enabled": false
   },
   "350104": {
-    "OriginalText": "リージョン5難易度5村料1",
+    "OriginalText": "リージョン5難易度5材料1",
     "Text": "",
     "Enabled": false
   },
   "350105": {
-    "OriginalText": "リージョン5難易度5村料2",
+    "OriginalText": "リージョン5難易度5材料2",
     "Text": "",
     "Enabled": false
   },
   "350106": {
-    "OriginalText": "リージョン5難易度5村料3",
+    "OriginalText": "リージョン5難易度5材料3",
     "Text": "",
     "Enabled": false
   },
   "350107": {
-    "OriginalText": "リージョン6難易度1村料1",
+    "OriginalText": "リージョン6難易度1材料1",
     "Text": "",
     "Enabled": false
   },
   "350108": {
-    "OriginalText": "リージョン6難易度1村料2",
+    "OriginalText": "リージョン6難易度1材料2",
     "Text": "",
     "Enabled": false
   },
   "350109": {
-    "OriginalText": "リージョン6難易度1村料3",
+    "OriginalText": "リージョン6難易度1材料3",
     "Text": "",
     "Enabled": false
   },
   "350110": {
-    "OriginalText": "リージョン6難易度2村料1",
+    "OriginalText": "リージョン6難易度2材料1",
     "Text": "",
     "Enabled": false
   },
   "350111": {
-    "OriginalText": "リージョン6難易度2村料2",
+    "OriginalText": "リージョン6難易度2材料2",
     "Text": "",
     "Enabled": false
   },
   "350112": {
-    "OriginalText": "リージョン6難易度2村料3",
+    "OriginalText": "リージョン6難易度2材料3",
     "Text": "",
     "Enabled": false
   },
   "350113": {
-    "OriginalText": "リージョン6難易度3村料1",
+    "OriginalText": "リージョン6難易度3材料1",
     "Text": "",
     "Enabled": false
   },
   "350114": {
-    "OriginalText": "リージョン6難易度3村料2",
+    "OriginalText": "リージョン6難易度3材料2",
     "Text": "",
     "Enabled": false
   },
   "350115": {
-    "OriginalText": "リージョン6難易度3村料3",
+    "OriginalText": "リージョン6難易度3材料3",
     "Text": "",
     "Enabled": false
   },
   "350116": {
-    "OriginalText": "リージョン6難易度4村料1",
+    "OriginalText": "リージョン6難易度4材料1",
     "Text": "",
     "Enabled": false
   },
   "350117": {
-    "OriginalText": "リージョン6難易度4村料2",
+    "OriginalText": "リージョン6難易度4材料2",
     "Text": "",
     "Enabled": false
   },
   "350118": {
-    "OriginalText": "リージョン6難易度4村料3",
+    "OriginalText": "リージョン6難易度4材料3",
     "Text": "",
     "Enabled": false
   },
   "350119": {
-    "OriginalText": "リージョン6難易度5村料1",
+    "OriginalText": "リージョン6難易度5材料1",
     "Text": "",
     "Enabled": false
   },
   "350120": {
-    "OriginalText": "リージョン6難易度5村料2",
+    "OriginalText": "リージョン6難易度5材料2",
     "Text": "",
     "Enabled": false
   },
   "350121": {
-    "OriginalText": "リージョン6難易度5村料3",
+    "OriginalText": "リージョン6難易度5材料3",
     "Text": "",
     "Enabled": false
   },
   "350122": {
-    "OriginalText": "リージョン8難易度1村料1",
+    "OriginalText": "リージョン8難易度1材料1",
     "Text": "",
     "Enabled": false
   },
   "350123": {
-    "OriginalText": "リージョン8難易度1村料2",
+    "OriginalText": "リージョン8難易度1材料2",
     "Text": "",
     "Enabled": false
   },
   "350124": {
-    "OriginalText": "リージョン8難易度1村料3",
+    "OriginalText": "リージョン8難易度1材料3",
     "Text": "",
     "Enabled": false
   },
   "350125": {
-    "OriginalText": "リージョン8難易度2村料1",
+    "OriginalText": "リージョン8難易度2材料1",
     "Text": "",
     "Enabled": false
   },
   "350126": {
-    "OriginalText": "リージョン8難易度2村料2",
+    "OriginalText": "リージョン8難易度2材料2",
     "Text": "",
     "Enabled": false
   },
   "350127": {
-    "OriginalText": "リージョン8難易度2村料3",
+    "OriginalText": "リージョン8難易度2材料3",
     "Text": "",
     "Enabled": false
   },
   "350128": {
-    "OriginalText": "リージョン8難易度3村料1",
+    "OriginalText": "リージョン8難易度3材料1",
     "Text": "",
     "Enabled": false
   },
   "350129": {
-    "OriginalText": "リージョン8難易度3村料2",
+    "OriginalText": "リージョン8難易度3材料2",
     "Text": "",
     "Enabled": false
   },
   "350130": {
-    "OriginalText": "リージョン8難易度3村料3",
+    "OriginalText": "リージョン8難易度3材料3",
     "Text": "",
     "Enabled": false
   },
   "350131": {
-    "OriginalText": "リージョン8難易度4村料1",
+    "OriginalText": "リージョン8難易度4材料1",
     "Text": "",
     "Enabled": false
   },
   "350132": {
-    "OriginalText": "リージョン8難易度4村料2",
+    "OriginalText": "リージョン8難易度4材料2",
     "Text": "",
     "Enabled": false
   },
   "350133": {
-    "OriginalText": "リージョン8難易度4村料3",
+    "OriginalText": "リージョン8難易度4材料3",
     "Text": "",
     "Enabled": false
   },
   "350134": {
-    "OriginalText": "リージョン8難易度5村料1",
+    "OriginalText": "リージョン8難易度5材料1",
     "Text": "",
     "Enabled": false
   },
   "350135": {
-    "OriginalText": "リージョン8難易度5村料2",
+    "OriginalText": "リージョン8難易度5材料2",
     "Text": "",
     "Enabled": false
   },
   "350136": {
-    "OriginalText": "リージョン8難易度5村料3",
+    "OriginalText": "リージョン8難易度5材料3",
     "Text": "",
     "Enabled": false
   },
@@ -761,33 +761,33 @@
   },
   "350152": {
     "OriginalText": "Ｇダガンの鋭爪",
-    "Text": "",
-    "Enabled": false
+    "Text": "G-Dagan Claw",
+    "Enabled": true
   },
   "350153": {
     "OriginalText": "Ｇプレディカーダの鋭腕刃",
-    "Text": "",
-    "Enabled": false
+    "Text": "G-Predicahda Blade",
+    "Enabled": true
   },
   "350154": {
     "OriginalText": "Ｇキュクロナーダの腕",
-    "Text": "",
-    "Enabled": false
+    "Text": "G-Kuklonahda Arm",
+    "Enabled": true
   },
   "350155": {
     "OriginalText": "するどい爪",
-    "Text": "",
-    "Enabled": false
+    "Text": "Sharp Claw",
+    "Enabled": true
   },
   "350156": {
-    "OriginalText": "膜β類の鱗片",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "爬虫類の鱗片",
+    "Text": "Reptile Scale",
+    "Enabled": true
   },
   "350157": {
     "OriginalText": "鳥類の爪",
-    "Text": "",
-    "Enabled": false
+    "Text": "Bird Claw",
+    "Enabled": true
   },
   "350158": {
     "OriginalText": "ギガンテスの甲片",
@@ -801,8 +801,8 @@
   },
   "350160": {
     "OriginalText": "するどい牙",
-    "Text": "",
-    "Enabled": false
+    "Text": "Sharp Fang",
+    "Enabled": true
   },
   "350161": {
     "OriginalText": "鳥の皮片",
@@ -821,13 +821,13 @@
   },
   "350164": {
     "OriginalText": "鳥の羽煽",
-    "Text": "",
-    "Enabled": false
+    "Text": "Bird Feather",
+    "Enabled": true
   },
   "350165": {
     "OriginalText": "獣の大型の牙",
-    "Text": "",
-    "Enabled": false
+    "Text": "Large Beast Fang",
+    "Enabled": true
   },
   "350166": {
     "OriginalText": "ダーカーの殻",
@@ -841,8 +841,8 @@
   },
   "350168": {
     "OriginalText": "ランチャーの破片",
-    "Text": "",
-    "Enabled": false
+    "Text": "Launcher Fragment",
+    "Enabled": true
   },
   "350169": {
     "OriginalText": "ラウーダンの爪片",
@@ -861,8 +861,8 @@
   },
   "350172": {
     "OriginalText": "ジュラキアの大羽",
-    "Text": "",
-    "Enabled": false
+    "Text": "Large Jurrakia Quill",
+    "Enabled": true
   },
   "350173": {
     "OriginalText": "バンサーの爪片",
@@ -985,7 +985,7 @@
     "Enabled": false
   },
   "350197": {
-    "OriginalText": "膜β類の小さな甲殻",
+    "OriginalText": "爬虫類の小さな甲殻",
     "Text": "",
     "Enabled": false
   },
@@ -1605,7 +1605,7 @@
     "Enabled": false
   },
   "350321": {
-    "OriginalText": "膜β類の牙",
+    "OriginalText": "爬虫類の牙",
     "Text": "",
     "Enabled": false
   },
