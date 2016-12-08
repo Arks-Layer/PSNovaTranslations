@@ -66,7 +66,7 @@
   },
   "350013": {
     "OriginalText": "獣の肉",
-    "Text": "Beast Flesh",
+    "Text": "Monster Flesh",
     "Enabled": true
   },
   "350014": {
@@ -76,7 +76,7 @@
   },
   "350015": {
     "OriginalText": "巨大獣の肉",
-    "Text": "Giant Beast Meat",
+    "Text": "Giant Monster Flesh",
     "Enabled": true
   },
   "350016": {
@@ -141,7 +141,7 @@
   },
   "350028": {
     "OriginalText": "獣のミルク",
-    "Text": "Beast Milk",
+    "Text": "Monster Milk",
     "Enabled": true
   },
   "350029": {
@@ -726,7 +726,7 @@
   },
   "350145": {
     "OriginalText": "Ｇキュクロナーダの目片",
-    "Text": "G-Kuklonahda Eyeball",
+    "Text": "G-Kuklonahda Eye Piece",
     "Enabled": true
   },
   "350146": {
@@ -796,7 +796,7 @@
   },
   "350159": {
     "OriginalText": "獣の皮片",
-    "Text": "Beast Pelt",
+    "Text": "Monster Pelt",
     "Enabled": true
   },
   "350160": {
@@ -811,7 +811,7 @@
   },
   "350162": {
     "OriginalText": "巨大獣の皮片",
-    "Text": "Giant Beast Pelt",
+    "Text": "Giant Monster Pelt",
     "Enabled": true
   },
   "350163": {
@@ -1056,7 +1056,7 @@
   },
   "350211": {
     "OriginalText": "グランブの爪片",
-    "Text": "Granv Claw",
+    "Text": "Granv Claw Part",
     "Enabled": true
   },
   "350212": {
@@ -1066,8 +1066,8 @@
   },
   "350213": {
     "OriginalText": "ロウトルリンプのヒレ片",
-    "Text": "",
-    "Enabled": false
+    "Text": "Rol Torrimp Fillet",
+    "Enabled": true
   },
   "350214": {
     "OriginalText": "テュルトアスの皮片",
@@ -1201,7 +1201,7 @@
   },
   "350240": {
     "OriginalText": "エデルクリトロの爪片",
-    "Text": "Eder Critter Claw",
+    "Text": "Eder Critter Claw Part",
     "Enabled": true
   },
   "350241": {
@@ -1496,8 +1496,8 @@
   },
   "350299": {
     "OriginalText": "クリトロクィーンの爪",
-    "Text": "",
-    "Enabled": false
+    "Text": "Critter Queen Claw",
+    "Enabled": true
   },
   "350300": {
     "OriginalText": "トルリンプのヒレ",
@@ -1616,7 +1616,7 @@
   },
   "350323": {
     "OriginalText": "サフグランブの爪",
-    "Text": "Sahugranb Claw",
+    "Text": "Sahugranv Claw",
     "Enabled": true
   },
   "350324": {
@@ -2916,7 +2916,7 @@
   },
   "350583": {
     "OriginalText": "クリトロ・テュルレの爪",
-    "Text": "Critter True Claw",
+    "Text": "Critter Ture Claw",
     "Enabled": true
   },
   "350584": {
@@ -2966,7 +2966,7 @@
   },
   "350593": {
     "OriginalText": "グランブ・ダイの爪",
-    "Text": "Granb Dai Claw",
+    "Text": "Granv Dai Claw",
     "Enabled": true
   },
   "350594": {
