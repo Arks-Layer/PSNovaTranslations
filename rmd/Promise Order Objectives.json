@@ -220,7 +220,7 @@
     "Enabled": true
   },
   "300044": {
-    "OriginalText": "【膜β類のエキス】を集める",
+    "OriginalText": "【爬虫類のエキス】を集める",
     "Text": "Collect [Reptile Extract]",
     "Enabled": true
   },
@@ -840,7 +840,7 @@
     "Enabled": true
   },
   "300168": {
-    "OriginalText": "【膜β類の苔尾】を集める",
+    "OriginalText": "【爬虫類の苔尾】を集める",
     "Text": "Collect [Reptile Tail]",
     "Enabled": true
   },
@@ -1350,7 +1350,7 @@
     "Enabled": true
   },
   "300270": {
-    "OriginalText": "【膜β類のたまご】を集める",
+    "OriginalText": "【爬虫類のたまご】を集める",
     "Text": "Collect [Reptile Eggs]",
     "Enabled": true
   },
