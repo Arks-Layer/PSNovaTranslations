@@ -946,8 +946,8 @@
   },
   "350189": {
     "OriginalText": "マフレザールの皮枝",
-    "Text": "",
-    "Enabled": false
+    "Text": "Maphrezer Leather",
+    "Enabled": true
   },
   "350190": {
     "OriginalText": "ジュラキアの尾羽",
@@ -956,8 +956,8 @@
   },
   "350191": {
     "OriginalText": "バンサーの角片",
-    "Text": "",
-    "Enabled": false
+    "Text": "Banther Horn Fragment",
+    "Enabled": true
   },
   "350192": {
     "OriginalText": "テッラマンデルの頭骨",
