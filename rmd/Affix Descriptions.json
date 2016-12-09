@@ -271,27 +271,27 @@
   },
   "820054": {
     "OriginalText": "打撃によるダメージを３％軽滅する。",
-    "Text": "Reduces Strike Attack damage by 3%.",
+    "Text": "Reduces Striking Attack damage by 3%.",
     "Enabled": true
   },
   "820055": {
     "OriginalText": "打撃によるダメージを４％軽滅する。",
-    "Text": "Reduces Strike Attack damage by 4%.",
+    "Text": "Reduces Striking Attack damage by 4%.",
     "Enabled": true
   },
   "820056": {
     "OriginalText": "打撃によるダメージを５％軽滅する。",
-    "Text": "Reduces Strike Attack damage by 5%.",
+    "Text": "Reduces Striking Attack damage by 5%.",
     "Enabled": true
   },
   "820057": {
     "OriginalText": "打撃によるダメージを６％軽滅する。",
-    "Text": "Reduces Strike Attack damage by 6%.",
+    "Text": "Reduces Striking Attack damage by 6%.",
     "Enabled": true
   },
   "820058": {
     "OriginalText": "打撃によるダメージを７％軽滅する。",
-    "Text": "Reduces Strike Attack damage by 7%.",
+    "Text": "Reduces Striking Attack damage by 7%.",
     "Enabled": true
   },
   "820059": {
@@ -996,12 +996,12 @@
   },
   "820199": {
     "OriginalText": "エネミーに対するヘイト上昇率が５０％増加し、\n更に、受けるダメージを５％軽滅する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "Increases enemy hate accumulation by 50%\nand reduces all damage by 5%.\n[a 03]＊Abilities of the same name cannot be stacked.[b]",
+    "Text": "Increases enemy hate accumulation by 50%\nand reduces damage received by 5%.\n[a 03]＊Abilities of the same name cannot be stacked.[b]",
     "Enabled": true
   },
   "820200": {
     "OriginalText": "エネミーに対するヘイト上昇率が８０％増加し、\n更に、受けるダメージを１０％軽滅する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "Increases enemy hate accumulation by 80%\nand reduces all damage by 10%.\n[a 03]＊Abilities of the same name cannot be stacked.[b]",
+    "Text": "Increases enemy hate accumulation by 80%\nand reduces damage received by 10%.\n[a 03]＊Abilities of the same name cannot be stacked.[b]",
     "Enabled": true
   },
   "820201": {
@@ -1041,32 +1041,32 @@
   },
   "820208": {
     "OriginalText": "打撃と射撃によるダメージを\n２０％の確率で２０％軽滅する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "20% chance to reduce\nS-ATK and R-ATK damage by 20%.\n[a 03]＊Abilities of the same name cannot be stacked.[b]",
+    "Text": "20% chance of reducing\nStriking and Ranged damage by 20%.\n[a 03]＊Abilities of the same name cannot be stacked.[b]",
     "Enabled": true
   },
   "820209": {
     "OriginalText": "打撃と射撃によるダメージを\n３０％の確率で２０％軽滅する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "30% chance to reduce\nS-ATK and R-ATK damage by 20%.\n[a 03]＊Abilities of the same name cannot be stacked.[b]",
+    "Text": "30% chance of reducing\nStriking and Ranged damage by 20%.\n[a 03]＊Abilities of the same name cannot be stacked.[b]",
     "Enabled": true
   },
   "820210": {
     "OriginalText": "打撃と射撃によるダメージを\n４０％の確率で２０％軽滅する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "40% chance to reduce\nS-ATK and R-ATK damage by 20%.\n[a 03]＊Abilities of the same name cannot be stacked.[b]",
+    "Text": "40% chance of reducing\nStriking and Ranged damage by 20%.\n[a 03]＊Abilities of the same name cannot be stacked.[b]",
     "Enabled": true
   },
   "820211": {
     "OriginalText": "法撃によるダメージを\n２０％の確率で２０％軽滅する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "20% chance to reduce\nT-ATK damage by 20%.\n[a 03]＊Abilities of the same name cannot be stacked.[b]",
+    "Text": "20% chance of reducing\nTechnique damage by 20%.\n[a 03]＊Abilities of the same name cannot be stacked.[b]",
     "Enabled": true
   },
   "820212": {
     "OriginalText": "法撃によるダメージを\n３０％の確率で２０％軽滅する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "30% chance to reduce\nT-ATK damage by 20%.\n[a 03]＊Abilities of the same name cannot be stacked.[b]",
+    "Text": "30% chance of reducing\nTechnique damage by 20%.\n[a 03]＊Abilities of the same name cannot be stacked.[b]",
     "Enabled": true
   },
   "820213": {
     "OriginalText": "法撃によるダメージを\n４０％の確率で２０％軽滅する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "40% chance to reduce\nT-ATK damage by 20%.\n[a 03]＊Abilities of the same name cannot be stacked.[b]",
+    "Text": "40% chance of reducing\nTechnique damage by 20%.\n[a 03]＊Abilities of the same name cannot be stacked.[b]",
     "Enabled": true
   },
   "820214": {
@@ -1086,12 +1086,12 @@
   },
   "820217": {
     "OriginalText": "射撃で弱点部位を攻撃したときの\nダメージが５％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "Ranged attack damage to weak points\nincreased by 5%.\n[a 03]＊Abilities of the same name cannot be stacked.[b]",
+    "Text": "Damage done to weak points\nusing Ranged attacks increased by 5%.\n[a 03]＊Abilities of the same name cannot be stacked.[b]",
     "Enabled": true
   },
   "820218": {
     "OriginalText": "射撃で弱点部位を攻撃したときの\nダメージが９％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "Ranged attack damage to weak points\nincreased by 9%.\n[a 03]＊Abilities of the same name cannot be stacked.[b]",
+    "Text": "Damage done to weak points\nusing Ranged attacks increased by 9%.\n[a 03]＊Abilities of the same name cannot be stacked.[b]",
     "Enabled": true
   },
   "820219": {
@@ -1101,32 +1101,32 @@
   },
   "820220": {
     "OriginalText": "至近距離での射撃攻撃の\nダメージが１０％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "Ranged attack damage at close range\nincreased by 10%.\n[a 03]＊Abilities of the same name cannot be stacked.[b]",
+    "Text": "Damage done at close range from\nRanged attacks increased by 10%.\n[a 03]＊Abilities of the same name cannot be stacked.[b]",
     "Enabled": true
   },
   "820221": {
     "OriginalText": "至近距離での射撃攻撃の\nダメージが１４％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "Ranged attack damage at close range\nincreased by 10%.\n[a 03]＊Abilities of the same name cannot be stacked.[b]",
+    "Text": "Damage done at close range from\nRanged attacks increased by 14%.\n[a 03]＊Abilities of the same name cannot be stacked.[b]",
     "Enabled": true
   },
   "820222": {
     "OriginalText": "至近距離での射撃攻撃の\nダメージが６０％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "Ranged attack damage at close range\nincreased by 10%.\n[a 03]＊Abilities of the same name cannot be stacked.[b]",
+    "Text": "Damage done at close range from\nRanged attacks increased by 60%.\n[a 03]＊Abilities of the same name cannot be stacked.[b]",
     "Enabled": true
   },
   "820223": {
     "OriginalText": "空中にいるエネミーへの\n射撃攻撃によるダメージが６％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "When hitting aerial enemies, ranged attack\ndamage increases by 6%.\n[a 03]＊Abilities of the same name cannot be stacked.[b]",
+    "Text": "When hitting aerial enemies, Ranged attack\ndamage increases by 6%.\n[a 03]＊Abilities of the same name cannot be stacked.[b]",
     "Enabled": true
   },
   "820224": {
     "OriginalText": "空中にいるエネミーへの\n射撃攻撃によるダメージが１０％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "When hitting aerial enemies, ranged attack\ndamage increases by 10%.\n[a 03]＊Abilities of the same name cannot be stacked.[b]",
+    "Text": "When hitting aerial enemies, Ranged attack\ndamage increases by 10%.\n[a 03]＊Abilities of the same name cannot be stacked.[b]",
     "Enabled": true
   },
   "820225": {
     "OriginalText": "空中にいるエネミーへの\n射撃攻撃によるダメージが４０％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "When hitting aerial enemies, ranged attack\ndamage increases by 40%.\n[a 03]＊Abilities of the same name cannot be stacked.[b]",
+    "Text": "When hitting aerial enemies, Ranged attack\ndamage increases by 40%.\n[a 03]＊Abilities of the same name cannot be stacked.[b]",
     "Enabled": true
   },
   "820226": {
@@ -1236,12 +1236,12 @@
   },
   "820247": {
     "OriginalText": "打撃で与えたダメージの２％を\nＨＰとして吸収する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "2% of striking damage\nis absorbed as HP.\n[a 03]＊Abilities of the same name cannot be stacked.[b]",
+    "Text": "Recover 2% of your Striking damage back as HP.\n[a 03]＊Abilities of the same name cannot be stacked.[b]",
     "Enabled": true
   },
   "820248": {
     "OriginalText": "打撃で与えたダメージの３％を\nＨＰとして吸収する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "3% of striking damage\nis absorbed as HP.\n[a 03]＊Abilities of the same name cannot be stacked.[b]",
+    "Text": "Recover 3% of your Striking damage back as HP.\n[a 03]＊Abilities of the same name cannot be stacked.[b]",
     "Enabled": true
   },
   "820249": {
@@ -1541,12 +1541,12 @@
   },
   "820310": {
     "OriginalText": "射撃で与えたダメージの２％を\nＨＰとして吸収する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "2% of ranged damage\nis absorbed as HP.\n[a 03]＊Abilities of the same name cannot be stacked.[b]",
+    "Text": "Recover 2% of your Ranged damage back as HP.\n[a 03]＊Abilities of the same name cannot be stacked.[b]",
     "Enabled": true
   },
   "820311": {
     "OriginalText": "射撃で与えたダメージの３％を\nＨＰとして吸収する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "3% of ranged damage\nis absorbed as HP.\n[a 03]＊Abilities of the same name cannot be stacked.[b]",
+    "Text": "Recover 3% of your Ranged damage back as HP.\n[a 03]＊Abilities of the same name cannot be stacked.[b]",
     "Enabled": true
   },
   "820312": {
@@ -1651,12 +1651,12 @@
   },
   "820332": {
     "OriginalText": "ガードスタンスの発動中、一定範囲内で\nエネミー死亡時ＨＰが微回復する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "During Guard Stance, HP recovers slightly\non each enemy death within a certain range.\n[a 03]＊Abilities of the same name cannot be stacked.[b]",
+    "Text": "During Guard Stance, enemies killed within range\nslightly recovers your HP.\n[a 03]＊Abilities of the same name cannot be stacked.[b]",
     "Enabled": true
   },
   "820333": {
     "OriginalText": "ガードスタンスの発動中、一定範囲内で\nエネミー死亡時ＨＰが少回復する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "During Guard Stance, HP recovers a little\non each enemy death within a certain range.\n[a 03]＊Abilities of the same name cannot be stacked.[b]",
+    "Text": "During Guard Stance, enemies killed within range\nrecovers some of your HP.\n[a 03]＊Abilities of the same name cannot be stacked.[b]",
     "Enabled": true
   },
   "820334": {
@@ -1671,17 +1671,17 @@
   },
   "820336": {
     "OriginalText": "テクニックのダメージ量が２％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "Technique damage increased\nby 2%.\n[a 03]＊Abilities of the same name cannot be stacked.[b]",
+    "Text": "Damage done by Techniques\nare increased by 2%.\n[a 03]＊Abilities of the same name cannot be stacked.[b]",
     "Enabled": true
   },
   "820337": {
     "OriginalText": "テクニックのダメージ量が５％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "Technique damage increased\nby 5%.\n[a 03]＊Abilities of the same name cannot be stacked.[b]",
+    "Text": "Damage done by Techniques\nare increased by 5%.\n[a 03]＊Abilities of the same name cannot be stacked.[b]",
     "Enabled": true
   },
   "820338": {
     "OriginalText": "テクニックのダメージ量が８％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "Technique damage increased\nby 8%.\n[a 03]＊Abilities of the same name cannot be stacked.[b]",
+    "Text": "Damage done by Techniques\nare increased by 8%.\n[a 03]＊Abilities of the same name cannot be stacked.[b]",
     "Enabled": true
   },
   "820339": {
@@ -1706,7 +1706,7 @@
   },
   "820343": {
     "OriginalText": "テクニックのダメージ量が２０％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "Technique damage increased\nby 20%.\n[a 03]＊Abilities of the same name cannot be stacked.[b]",
+    "Text": "Damage done by Techniques\nare increased by 20%.\n[a 03]＊Abilities of the same name cannot be stacked.[b]",
     "Enabled": true
   },
   "820351": {
@@ -1761,7 +1761,7 @@
   },
   "820501": {
     "OriginalText": "打撃によるダメージを８％軽滅する。",
-    "Text": "Reduces Strike Attack damage by 8%.",
+    "Text": "Reduces Striking Attack damage by 8%.",
     "Enabled": true
   },
   "820511": {
@@ -1841,12 +1841,12 @@
   },
   "820711": {
     "OriginalText": "近距離でのエネミーから受けるダメージを\n３０％軽滅する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "Damage recieved from enemies\nat close distance is reduced by 30%.\n[a 03]＊Abilities of the same name cannot be stacked.[b]",
+    "Text": "Damage received from enemies\nat close range is reduced by 30%.\n[a 03]＊Abilities of the same name cannot be stacked.[b]",
     "Enabled": true
   },
   "820721": {
     "OriginalText": "グランフレア中に\nテクニックのチャージ時間を短温する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "Shorten the charge time of techniques\nduring Gran Flare.\n[a 03]＊Abilities of the same name cannot be stacked.[b]",
+    "Text": "Reduces the charge time of Techniques\nwhen using Gran Flare.\n[a 03]＊Abilities of the same name cannot be stacked.[b]",
     "Enabled": true
   },
   "820731": {
@@ -1866,7 +1866,7 @@
   },
   "820751": {
     "OriginalText": "ダメージが１００％上昇する。\n代わりに最大ＨＰが２０％になる。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "Damage increased by 100%,\nbut maximum HP reduced to 20%.\n[a 03]＊Abilities of the same name cannot be stacked.[b]",
+    "Text": "Damage increased by 100%,\nbut max HP reduced to 20%.\n[a 03]＊Abilities of the same name cannot be stacked.[b]",
     "Enabled": true
   },
   "820761": {
@@ -1901,17 +1901,17 @@
   },
   "820821": {
     "OriginalText": "バースト発動中に打撃力が大幅に上昇し\nさらに防御力が上昇する。",
-    "Text": "Striking damage rises significantly and\ndefense is increased during bursts.",
+    "Text": "Upon activating a Burst, Striking damage is\nboosted significantly and defensive power is increased.",
     "Enabled": true
   },
   "820822": {
     "OriginalText": "バースト発動中に射撃力が大幅に上昇し\nさらにバーストゲージの上昇率がアップする。",
-    "Text": "Shooting damage increases significantly and\nburst gauge accumulation rate increases during bursts.",
+    "Text": "Upon activating a Burst, Ranged damage is\nboosted significantly and Burst gauge accumulation rate is increased.",
     "Enabled": true
   },
   "820823": {
     "OriginalText": "バースト発動中に法撃力が大幅に上昇し\nさらに最大ＧＰが上昇する。",
-    "Text": "Technique damage increases significantly and\nmaximum GP increases during bursts.",
+    "Text": "Upon activating a Burst, Technique damage is\nboosted significantly and max GP is increased.",
     "Enabled": true
   },
   "820831": {
