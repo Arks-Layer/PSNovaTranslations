@@ -1086,12 +1086,12 @@
   },
   "820217": {
     "OriginalText": "射撃で弱点部位を攻撃したときの\nダメージが５％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "Damage done to weak points\nusing Ranged attacks increased by 5%.\n[a 03]＊Abilities of the same name cannot be stacked.[b]",
+    "Text": "Damage done to weak points\nusing Ranged attacks is increased by 5%.\n[a 03]＊Abilities of the same name cannot be stacked.[b]",
     "Enabled": true
   },
   "820218": {
     "OriginalText": "射撃で弱点部位を攻撃したときの\nダメージが９％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "Damage done to weak points\nusing Ranged attacks increased by 9%.\n[a 03]＊Abilities of the same name cannot be stacked.[b]",
+    "Text": "Damage done to weak points\nusing Ranged attacks is increased by 9%.\n[a 03]＊Abilities of the same name cannot be stacked.[b]",
     "Enabled": true
   },
   "820219": {
@@ -1101,32 +1101,32 @@
   },
   "820220": {
     "OriginalText": "至近距離での射撃攻撃の\nダメージが１０％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "Damage done at close range from\nRanged attacks increased by 10%.\n[a 03]＊Abilities of the same name cannot be stacked.[b]",
+    "Text": "Damage done at close range from\nRanged attacks is increased by 10%.\n[a 03]＊Abilities of the same name cannot be stacked.[b]",
     "Enabled": true
   },
   "820221": {
     "OriginalText": "至近距離での射撃攻撃の\nダメージが１４％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "Damage done at close range from\nRanged attacks increased by 14%.\n[a 03]＊Abilities of the same name cannot be stacked.[b]",
+    "Text": "Damage done at close range from\nRanged attacks is increased by 14%.\n[a 03]＊Abilities of the same name cannot be stacked.[b]",
     "Enabled": true
   },
   "820222": {
     "OriginalText": "至近距離での射撃攻撃の\nダメージが６０％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "Damage done at close range from\nRanged attacks increased by 60%.\n[a 03]＊Abilities of the same name cannot be stacked.[b]",
+    "Text": "Damage done at close range from\nRanged attacks is increased by 60%.\n[a 03]＊Abilities of the same name cannot be stacked.[b]",
     "Enabled": true
   },
   "820223": {
     "OriginalText": "空中にいるエネミーへの\n射撃攻撃によるダメージが６％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "When hitting aerial enemies, Ranged attack\ndamage increases by 6%.\n[a 03]＊Abilities of the same name cannot be stacked.[b]",
+    "Text": "When hitting aerial enemies, Ranged attack\ndamage is increases by 6%.\n[a 03]＊Abilities of the same name cannot be stacked.[b]",
     "Enabled": true
   },
   "820224": {
     "OriginalText": "空中にいるエネミーへの\n射撃攻撃によるダメージが１０％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "When hitting aerial enemies, Ranged attack\ndamage increases by 10%.\n[a 03]＊Abilities of the same name cannot be stacked.[b]",
+    "Text": "When hitting aerial enemies, Ranged attack\ndamage is increases by 10%.\n[a 03]＊Abilities of the same name cannot be stacked.[b]",
     "Enabled": true
   },
   "820225": {
     "OriginalText": "空中にいるエネミーへの\n射撃攻撃によるダメージが４０％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "When hitting aerial enemies, Ranged attack\ndamage increases by 40%.\n[a 03]＊Abilities of the same name cannot be stacked.[b]",
+    "Text": "When hitting aerial enemies, Ranged attack\ndamage is increases by 40%.\n[a 03]＊Abilities of the same name cannot be stacked.[b]",
     "Enabled": true
   },
   "820226": {
