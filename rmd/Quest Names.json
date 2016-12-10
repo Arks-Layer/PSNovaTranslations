@@ -1051,8 +1051,8 @@
   },
   "201002": {
     "OriginalText": "なし",
-    "Text": "",
-    "Enabled": false
+    "Text": "None",
+    "Enabled": true
   },
   "201003": {
     "OriginalText": "クエストが追加されました。\n『超：棘の』",
@@ -1071,8 +1071,8 @@
   },
   "201012": {
     "OriginalText": "なし",
-    "Text": "",
-    "Enabled": false
+    "Text": "None",
+    "Enabled": true
   },
   "201013": {
     "OriginalText": "クエストが追加されました。\n『超：黒炎のアルテイオス』",
@@ -1091,8 +1091,8 @@
   },
   "201022": {
     "OriginalText": "なし",
-    "Text": "",
-    "Enabled": false
+    "Text": "None",
+    "Enabled": true
   },
   "201023": {
     "OriginalText": "クエストが追加されました。\n『超：尖塔に潜む光線獣』",
@@ -1131,8 +1131,8 @@
   },
   "201042": {
     "OriginalText": "なし",
-    "Text": "",
-    "Enabled": false
+    "Text": "None",
+    "Enabled": true
   },
   "201043": {
     "OriginalText": "クエストが追加されました。\n『超・錯砦のヴィヴリュード』",
@@ -1151,8 +1151,8 @@
   },
   "201052": {
     "OriginalText": "なし",
-    "Text": "",
-    "Enabled": false
+    "Text": "None",
+    "Enabled": true
   },
   "201053": {
     "OriginalText": "クエストが追加されました。\n『超・ウィルアフォルの巣』",
@@ -1171,8 +1171,8 @@
   },
   "201062": {
     "OriginalText": "なし",
-    "Text": "",
-    "Enabled": false
+    "Text": "None",
+    "Enabled": true
   },
   "201063": {
     "OriginalText": "クエストが追加されました。\n『超：ウィルアフォルの巣』",
@@ -1191,8 +1191,8 @@
   },
   "201072": {
     "OriginalText": "なし",
-    "Text": "",
-    "Enabled": false
+    "Text": "None",
+    "Enabled": true
   },
   "201073": {
     "OriginalText": "クエスト追加メッセージ\n【201530】",
@@ -1466,8 +1466,8 @@
   },
   "201312": {
     "OriginalText": "なし",
-    "Text": "",
-    "Enabled": false
+    "Text": "None",
+    "Enabled": true
   },
   "201313": {
     "OriginalText": "クエストが追加されました。\n『運命の餅方』",
@@ -1486,8 +1486,8 @@
   },
   "201402": {
     "OriginalText": "なし",
-    "Text": "",
-    "Enabled": false
+    "Text": "None",
+    "Enabled": true
   },
   "201403": {
     "OriginalText": "クエストが追加されました。\n『チームシグマの墓標』",
