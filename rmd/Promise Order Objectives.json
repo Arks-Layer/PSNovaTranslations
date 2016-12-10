@@ -396,18 +396,18 @@
   },
   "300079": {
     "OriginalText": "【ラビーソ系：Ｌｖ１６０】を倒す\n【バンクゥ系：Ｌｖ１６０】を倒す\n【ロヴラッピー系：Ｌｖ１６０】を倒す",
-    "Text": "",
-    "Enabled": false
+    "Text": "Defeat any [Rappy] Lv.160\nDefeat any [Banku] Lv.160\nDefeat any [Rove Rappy] Lv.160",
+    "Enabled": true
   },
   "300080": {
     "OriginalText": "【紅のミメット鉱】を集める\n【瞬くハイウィーアイト】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Crimson Mimete Ore]\nCollect [Sparkling Haiwite]",
+    "Enabled": true
   },
   "300081": {
-    "OriginalText": "【蒼いブルーカルセドニー】を集める\n【のエクロジャイト】を集める",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "【蒼いブルーカルセドニー】を集める\n【翠のエクロジャイト】を集める",
+    "Text": "Collect [Deep Blue Chalcedony]\nCollect [Jade Eclogite]",
+    "Enabled": true
   },
   "300082": {
     "OriginalText": "【ジャッドバンサー撃破任務】を\n戦闘不能回数１回似下でクリアする",
@@ -491,13 +491,13 @@
   },
   "300098": {
     "OriginalText": "【ムーンストーン】を集める\n【純白のムーンストーン】を集める\n【ダイヤモンド】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Moonstone]\nCollect [Pure White Moonstone]\nCollect [Diamond]",
+    "Enabled": true
   },
   "300099": {
-    "OriginalText": "【ラッピーチケット】を集める\n【ラビーソの冷刃】を集める\n【ブリバッツの冷針】を集める",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "【ラッピーチケット】を集める\n【ラビーソの極刃】を集める\n【ブリバッツの極針】を集める",
+    "Text": "Collect [Rappy Ticket]\nCollect [Rabbisaw Polarized Blade]\nCollect [Bribatts Polarized Needle]",
+    "Enabled": true
   },
   "300100": {
     "OriginalText": "【グランブ系：Ｌｖ１６０】を倒す",
@@ -595,7 +595,7 @@
     "Enabled": false
   },
   "300119": {
-    "OriginalText": "【ラウーダンの冷煽】を集める\n【バオム・マガヴルムの冷銃】を集める\n【バリバッツの冷針】を集める",
+    "OriginalText": "【ラウーダンの冷煽】を集める\n【バオム・マガヴルムの冷銃】を集める\n【バリバッツの極針】を集める",
     "Text": "",
     "Enabled": false
   },
@@ -691,23 +691,23 @@
   },
   "300138": {
     "OriginalText": "【ウィルアフォル：Ｌｖ１４０】を倒す\n【ヴィヴリュード：Ｌｖ１４０】を倒す\n【ギガティオン：Ｌｖ１４０】を倒す",
-    "Text": "",
-    "Enabled": false
+    "Text": "Defeat [Viluaphol] Lv.140\nDefeat [Vivrude] Lv.140\nDefeat [Gigation] Lv.140",
+    "Enabled": true
   },
   "300139": {
     "OriginalText": "【レイバンサー系：Ｌｖ１６０】を倒す",
-    "Text": "",
-    "Enabled": false
+    "Text": "Defeat any [Ray Banther] Lv.160",
+    "Enabled": true
   },
   "300140": {
     "OriginalText": "【コラル・ドラゴン：Ｌｖ１６０】を倒す",
-    "Text": "",
-    "Enabled": false
+    "Text": "Defeat [Coral Dragon] Lv.160",
+    "Enabled": true
   },
   "300141": {
     "OriginalText": "【ギガンテス：Ｌｖ２００】を倒す",
-    "Text": "",
-    "Enabled": false
+    "Text": "Defeat any [Gigantes] Lv.200",
+    "Enabled": true
   },
   "300142": {
     "OriginalText": "【ブーストエネミー】を倒す",
@@ -796,18 +796,18 @@
   },
   "300159": {
     "OriginalText": "【エラチェライト】を集める\n【エクロジャイト】を集める\n【緑のエラチェライト】を集める",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect [Elachelite]\nCollect [Eclogite]\nCollect [Green Elachelite]",
+    "Enabled": true
   },
   "300160": {
     "OriginalText": "【超：猛攻のグレイオス】を\n【エクストラハード】似上でクリアする",
-    "Text": "",
-    "Enabled": false
+    "Text": "Clear the quest [Ultra: Ferocious Greios]\non [Extra Hard]",
+    "Enabled": true
   },
   "300161": {
     "OriginalText": "【ゴルドス系：Ｌｖ１６０】を倒す",
-    "Text": "",
-    "Enabled": false
+    "Text": "Defeat any [Gordes-type] Lv.160",
+    "Enabled": true
   },
   "300162": {
     "OriginalText": "【敵：ジュラキア系】を倒す",
@@ -1086,13 +1086,13 @@
   },
   "300217": {
     "OriginalText": "【タイムアタック・銅の荒野】を\n【Ｓランク】でクリアする",
-    "Text": "",
-    "Enabled": false
+    "Text": "S-rank clear the quest [Time Attack: Steel Desert]",
+    "Enabled": true
   },
   "300218": {
     "OriginalText": "【ＰＴアタック・グラン水装】を\n【Ｓランク】でクリアする",
-    "Text": "",
-    "Enabled": false
+    "Text": "S-rank clear the quest [PT Attack Gran Water Rig]",
+    "Enabled": true
   },
   "300219": {
     "OriginalText": "オルクスの約束18の達成条件",
