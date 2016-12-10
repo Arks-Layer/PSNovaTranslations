@@ -1181,8 +1181,8 @@
   },
   "201070": {
     "OriginalText": "ＰＴアタック・グラン水装",
-    "Text": "",
-    "Enabled": false
+    "Text": "PT Attack Gran Water Rig",
+    "Enabled": true
   },
   "201071": {
     "OriginalText": "一定時間まで敵を倒し続ける",
@@ -1646,18 +1646,18 @@
   },
   "201583": {
     "OriginalText": "超：猛攻のグレイオス",
-    "Text": "",
-    "Enabled": false
+    "Text": "Ultra: Ferocious Greios",
+    "Enabled": true
   },
   "201584": {
     "OriginalText": "超：獄炎のアルキュオネ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Ultra: Fiery Prison of Alcyone",
+    "Enabled": true
   },
   "201585": {
     "OriginalText": "超：神雷の磁晶模",
-    "Text": "",
-    "Enabled": false
+    "Text": "Ultra: Magnetic Thunder",
+    "Enabled": true
   },
   "201586": {
     "OriginalText": "難：銅の荒野殲滅任務",
