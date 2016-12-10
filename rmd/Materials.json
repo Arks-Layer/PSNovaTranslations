@@ -3621,88 +3621,88 @@
   },
   "350724": {
     "OriginalText": "瞬くハイウィーアイト",
-    "Text": "",
-    "Enabled": false
+    "Text": "Sparkling Haiwite",
+    "Enabled": true
   },
   "350725": {
     "OriginalText": "ユークレース",
-    "Text": "",
-    "Enabled": false
+    "Text": "Euclace",
+    "Enabled": true
   },
   "350726": {
     "OriginalText": "青いユークレース",
-    "Text": "",
-    "Enabled": false
+    "Text": "Blue Euclace",
+    "Enabled": true
   },
   "350727": {
     "OriginalText": "ブルーカルセドニー",
-    "Text": "",
-    "Enabled": false
+    "Text": "Blue Chalcedony",
+    "Enabled": true
   },
   "350728": {
     "OriginalText": "蒼いブルーカルセドニー",
-    "Text": "",
-    "Enabled": false
+    "Text": "Deep Blue Chalcedony",
+    "Enabled": true
   },
   "350729": {
     "OriginalText": "エラチェライト",
-    "Text": "",
-    "Enabled": false
+    "Text": "Elachelite",
+    "Enabled": true
   },
   "350730": {
     "OriginalText": "緑のエラチェライト",
-    "Text": "",
-    "Enabled": false
+    "Text": "Green Elachelite",
+    "Enabled": true
   },
   "350731": {
     "OriginalText": "エクロジャイト",
-    "Text": "",
-    "Enabled": false
+    "Text": "Eclogite",
+    "Enabled": true
   },
   "350732": {
-    "OriginalText": "のエクロジャイト",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "翠のエクロジャイト",
+    "Text": "Jade Eclogite",
+    "Enabled": true
   },
   "350733": {
     "OriginalText": "エレスタド石",
-    "Text": "",
-    "Enabled": false
+    "Text": "Ellestadite",
+    "Enabled": true
   },
   "350734": {
     "OriginalText": "白いエレスタド石",
-    "Text": "",
-    "Enabled": false
+    "Text": "White Ellestadite",
+    "Enabled": true
   },
   "350735": {
     "OriginalText": "ペンクビルクサイト",
-    "Text": "",
-    "Enabled": false
+    "Text": "Penkvilksite",
+    "Enabled": true
   },
   "350736": {
     "OriginalText": "煌くペンクビルクサイト",
-    "Text": "",
-    "Enabled": false
+    "Text": "Glistening Penkvilksite",
+    "Enabled": true
   },
   "350737": {
     "OriginalText": "アーセニオプレアイト",
-    "Text": "",
-    "Enabled": false
+    "Text": "Arseniopryte",
+    "Enabled": true
   },
   "350738": {
     "OriginalText": "黒いアーセニオプレアイト",
-    "Text": "",
-    "Enabled": false
+    "Text": "Black Arseniopryte",
+    "Enabled": true
   },
   "350739": {
     "OriginalText": "ウォールサイト",
-    "Text": "",
-    "Enabled": false
+    "Text": "Walsite",
+    "Enabled": true
   },
   "350740": {
     "OriginalText": "漆黒のウォールサイト",
-    "Text": "",
-    "Enabled": false
+    "Text": "Ebony Walsite",
+    "Enabled": true
   },
   "350741": {
     "OriginalText": "",
@@ -4925,17 +4925,17 @@
     "Enabled": false
   },
   "350985": {
-    "OriginalText": "ラビーソの冷刃",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "ラビーソの極刃",
+    "Text": "Rabbisaw Polarized Blade",
+    "Enabled": true
   },
   "350986": {
-    "OriginalText": "ブロラビーソの冷刃",
+    "OriginalText": "ブロラビーソの極刃",
     "Text": "",
     "Enabled": false
   },
   "350987": {
-    "OriginalText": "アセラビーソの冷刃",
+    "OriginalText": "アセラビーソの極刃",
     "Text": "",
     "Enabled": false
   },
@@ -5000,24 +5000,24 @@
     "Enabled": false
   },
   "351000": {
-    "OriginalText": "リバッツの冷針",
+    "OriginalText": "リバッツの極針",
     "Text": "",
     "Enabled": false
   },
   "351001": {
-    "OriginalText": "グリバッツの冷針",
+    "OriginalText": "グリバッツの極針",
     "Text": "",
     "Enabled": false
   },
   "351002": {
-    "OriginalText": "バリバッツの冷針",
+    "OriginalText": "バリバッツの極針",
     "Text": "",
     "Enabled": false
   },
   "351003": {
-    "OriginalText": "ブリバッツの冷針",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "ブリバッツの極針",
+    "Text": "Bribatts Polarized Needle",
+    "Enabled": true
   },
   "351004": {
     "OriginalText": "グランブの冷巻き祭",
@@ -5065,22 +5065,22 @@
     "Enabled": false
   },
   "351013": {
-    "OriginalText": "マクロージの冷針",
+    "OriginalText": "マクロージの極針",
     "Text": "",
     "Enabled": false
   },
   "351014": {
-    "OriginalText": "レ・マクロージの冷針",
+    "OriginalText": "レ・マクロージの極針",
     "Text": "",
     "Enabled": false
   },
   "351015": {
-    "OriginalText": "ブ・マクロージの冷針",
+    "OriginalText": "ブ・マクロージの極針",
     "Text": "",
     "Enabled": false
   },
   "351016": {
-    "OriginalText": "ア・マクロージの冷針",
+    "OriginalText": "ア・マクロージの極針",
     "Text": "",
     "Enabled": false
   },
