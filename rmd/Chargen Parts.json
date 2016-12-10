@@ -496,8 +496,8 @@
   },
   "440099": {
     "OriginalText": "まゆなし",
-    "Text": "",
-    "Enabled": false
+    "Text": "No Eyebrows",
+    "Enabled": true
   },
   "440100": {
     "OriginalText": "タイプＡ",
