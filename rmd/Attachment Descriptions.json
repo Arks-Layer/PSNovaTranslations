@@ -1,8 +1,8 @@
 {
   "140000": {
     "OriginalText": "なし の解説文",
-    "Text": "",
-    "Enabled": false
+    "Text": "Comment on None",
+    "Enabled": true
   },
   "140001": {
     "OriginalText": "刃先を強化するアタッチパーツ。\nブレード形状の基礎的なモデル。",
