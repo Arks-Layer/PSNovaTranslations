@@ -776,18 +776,18 @@
   },
   "800155": {
     "OriginalText": "ギガンテスのグランジェネレーターに近づきすぎると\nグラン中毒にかかるので注意。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Take care to not get too close to the\nGigantes' Gran Generator, or you may suffer Gran Poisoning.",
+    "Enabled": true
   },
   "800156": {
     "OriginalText": "ギガンテスの身体に付いている\nグランジェネレーターを破壊するとダウンが狙える。",
-    "Text": "",
-    "Enabled": false
+    "Text": "If you destroy the Gran Generator on a\nGigantes, you can momentarily bring it down.",
+    "Enabled": true
   },
   "800157": {
     "OriginalText": "ギガンテスをダウンさせると、最弱点が露出する。\n最弱点の色が変化したら捕獲可能のチャンス。",
-    "Text": "",
-    "Enabled": false
+    "Text": "When a Gigantes is down, the Weakest Point is exposed.\nYou can proceed to capture it once the color has changed.",
+    "Enabled": true
   },
   "800158": {
     "OriginalText": "ギガンテスのダウンには、\nダウン時間が長い時と短い時がある。",
