@@ -2336,7 +2336,7 @@
   },
   "21807": {
     "OriginalText": "目標達成！",
-    "Text": "Goal Achieved!",
+    "Text": "Objective Completed!",
     "Enabled": true
   },
   "21901": {
@@ -3701,7 +3701,7 @@
   },
   "23801": {
     "OriginalText": "目標達成",
-    "Text": "Goal Achievement",
+    "Text": "Objective Completed",
     "Enabled": true
   },
   "23802": {
