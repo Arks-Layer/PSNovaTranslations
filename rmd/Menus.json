@@ -261,13 +261,13 @@
   },
   "10911": {
     "OriginalText": "ターゲットを\nすべて撃破せよ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Defeat all targets!",
+    "Enabled": true
   },
   "10912": {
     "OriginalText": "指定位置を目指せ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Aim at the specified position!",
+    "Enabled": true
   },
   "10913": {
     "OriginalText": "一時倉庫にアイテムが入っているため\nアクセスできません。\n一時倉庫を空にする必要があります。",
@@ -691,7 +691,7 @@
   },
   "20208": {
     "OriginalText": "スペシャルカプセルを解凍します。",
-    "Text": "Unlock the special capsule.",
+    "Text": "Unlock a special capsule.",
     "Enabled": true
   },
   "20209": {
@@ -706,8 +706,8 @@
   },
   "20211": {
     "OriginalText": "[a 03]ＣＯＭＰＬＥＴＥ[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "[a 03]COMPLETE[b]",
+    "Enabled": true
   },
   "20212": {
     "OriginalText": "コンプリートボーナスをゲット",
@@ -891,8 +891,8 @@
   },
   "20410": {
     "OriginalText": "協力クリア回数",
-    "Text": "",
-    "Enabled": false
+    "Text": "Co-op Clear Times",
+    "Enabled": true
   },
   "20411": {
     "OriginalText": "最終更新日",
@@ -1241,8 +1241,8 @@
   },
   "21002": {
     "OriginalText": "適正レベル順",
-    "Text": "",
-    "Enabled": false
+    "Text": "Alphabetical Order",
+    "Enabled": true
   },
   "21003": {
     "OriginalText": "TOTAL",
@@ -1296,13 +1296,13 @@
   },
   "21013": {
     "OriginalText": "クルーを配属からはずします。\n\nよろしいですか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Removing crew from this assignment.\n\nIs this OK?",
+    "Enabled": true
   },
   "21014": {
     "OriginalText": "自動配属をおこないます。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Perform automatic crew assignment?",
+    "Enabled": true
   },
   "21015": {
     "OriginalText": "空き",
@@ -1311,18 +1311,18 @@
   },
   "21016": {
     "OriginalText": "自動配属をおこないました。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Performed automatic crew assignment.",
+    "Enabled": true
   },
   "21017": {
     "OriginalText": "空いているクルーがいませんでした。",
-    "Text": "",
-    "Enabled": false
+    "Text": "There are no crew available.",
+    "Enabled": true
   },
   "21018": {
     "OriginalText": "すべてのショップと施設に自動配属します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Automatically assign crew to all shops and facilities?",
+    "Enabled": true
   },
   "21019": {
     "OriginalText": "クルー情報",
