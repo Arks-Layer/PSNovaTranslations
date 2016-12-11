@@ -21,22 +21,22 @@
   },
   "280004": {
     "OriginalText": "鳥の皮片を調達しよう",
-    "Text": "Let’s Supply Bird Pelts",
+    "Text": "Let's Supply Bird Pelts",
     "Enabled": true
   },
   "280005": {
     "OriginalText": "ヒレ片を調達しよう",
-    "Text": "Let’s Supply Rozad Fillet",
+    "Text": "Let's Supply Rozad Fillet",
     "Enabled": true
   },
   "280006": {
     "OriginalText": "講化木を調達しよう",
-    "Text": "Let’s Supply Silicified Wood",
+    "Text": "Let's Supply Silicified Wood",
     "Enabled": true
   },
   "280007": {
     "OriginalText": "石片を調達しよう",
-    "Text": "Let’s Supply Stone Pieces",
+    "Text": "Let's Supply Stone Pieces",
     "Enabled": true
   },
   "280008": {
@@ -46,32 +46,32 @@
   },
   "280009": {
     "OriginalText": "コランダム珪を調達しよう",
-    "Text": "Let’s Supply Corundum",
+    "Text": "Let's Supply Corundum",
     "Enabled": true
   },
   "280010": {
     "OriginalText": "大光玉を調達しよう",
-    "Text": "Let’s Supply Glowing Orbs",
+    "Text": "Let's Supply Glowing Orbs",
     "Enabled": true
   },
   "280011": {
     "OriginalText": "伝甲を調達しよう",
-    "Text": "Let’s Supply Shields",
+    "Text": "Let's Supply Shields",
     "Enabled": true
   },
   "280012": {
     "OriginalText": "ロッドを使いこなそう",
-    "Text": "Let’s Master the Rod",
+    "Text": "Let's Master the Rod",
     "Enabled": true
   },
   "280013": {
     "OriginalText": "タリスを使いこなそう",
-    "Text": "Let’s Master the Talis",
+    "Text": "Let's Master the Talis",
     "Enabled": true
   },
   "280014": {
     "OriginalText": "ウォンドを使いこなそう",
-    "Text": "Let’s Master the Wand",
+    "Text": "Let's Master the Wand",
     "Enabled": true
   },
   "280015": {
@@ -211,7 +211,7 @@
   },
   "280042": {
     "OriginalText": "イズナの訓練",
-    "Text": "Izuna’s Training",
+    "Text": "Izuna's Training",
     "Enabled": true
   },
   "280043": {
@@ -561,12 +561,12 @@
   },
   "280112": {
     "OriginalText": "★ギガンテスの武伝研究",
-    "Text": "★ Gigantes’ Weapon Research",
+    "Text": "★ Gigantes' Weapon Research",
     "Enabled": true
   },
   "280113": {
     "OriginalText": "★ギガンテスの伝甲研究",
-    "Text": "★ Gigantes’ Armor Research",
+    "Text": "★ Gigantes' Armor Research",
     "Enabled": true
   },
   "280114": {
