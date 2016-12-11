@@ -256,7 +256,7 @@
   },
   "60060": {
     "OriginalText": "射撃で弱点部位を攻撃したときの\nダメージが５０％上昇する。",
-    "Text": "Increases the damage dealt when\nshooting at the enemy’s weak points.",
+    "Text": "Increases the damage dealt when\nshooting at the enemy's weak points.",
     "Enabled": true
   },
   "60061": {
@@ -486,32 +486,32 @@
   },
   "60113": {
     "OriginalText": "攻撃がヒットしたエネミーの\n炎耐性がダウンする。",
-    "Text": "Attacks lowers the\nenemy’s Fire resistance.",
+    "Text": "Attacks lowers the\nenemy's Fire resistance.",
     "Enabled": true
   },
   "60114": {
     "OriginalText": "攻撃がヒットしたエネミーの\n劇耐性がダウンする。",
-    "Text": "Attacks lowers the\nenemy’s Ice resistance.",
+    "Text": "Attacks lowers the\nenemy's Ice resistance.",
     "Enabled": true
   },
   "60115": {
     "OriginalText": "攻撃がヒットしたエネミーの\n雷耐性がダウンする。",
-    "Text": "Attacks lowers the\nenemy’s Lightning resistance.",
+    "Text": "Attacks lowers the\nenemy's Lightning resistance.",
     "Enabled": true
   },
   "60116": {
     "OriginalText": "攻撃がヒットしたエネミーの\n風耐性がダウンする。",
-    "Text": "Attacks lowers the\nenemy’s Wind resistance.",
+    "Text": "Attacks lowers the\nenemy's Wind resistance.",
     "Enabled": true
   },
   "60117": {
     "OriginalText": "攻撃がヒットしたエネミーの\n光耐性がダウンする。",
-    "Text": "Attacks lowers the\nenemy’s Light resistance.",
+    "Text": "Attacks lowers the\nenemy's Light resistance.",
     "Enabled": true
   },
   "60118": {
     "OriginalText": "攻撃がヒットしたエネミーの\n闇耐性がダウンする。",
-    "Text": "Attacks lowers the\nenemy’s Dark resistance.",
+    "Text": "Attacks lowers the\nenemy's Dark resistance.",
     "Enabled": true
   },
   "60119": {
@@ -891,7 +891,7 @@
   },
   "60209": {
     "OriginalText": "最大ＨＰに対して１０％未既の\nダメージを受けたとき、\n玄け反らなくなる。",
-    "Text": "Prevents flinching when receiving\ndamage that’s 10% or less than your max HP.",
+    "Text": "Prevents flinching when receiving\ndamage that's 10% or less than your max HP.",
     "Enabled": true
   },
   "60210": {
@@ -906,7 +906,7 @@
   },
   "60212": {
     "OriginalText": "射撃で弱点部位を攻撃したときに\n技量が３０％、ダメージが２０％上昇する。",
-    "Text": "Continuously shooting at the\nenemy’s weakpoint increases\nDEX by 30% and damage by 20%.",
+    "Text": "Continuously shooting at the\nenemy's weakpoint increases\nDEX by 30% and damage by 20%.",
     "Enabled": true
   },
   "60213": {
@@ -1081,7 +1081,7 @@
   },
   "60247": {
     "OriginalText": "射撃力・法撃力の４０％をウォンドの打撃力に加算する。\nＧＰ回復量が２０％上昇し\nスタンの発生確率も上昇する。",
-    "Text": "Boosts the wand’s S-ATK\nusing T-ATK as reference.",
+    "Text": "Boosts the wand's S-ATK\nusing T-ATK as reference.",
     "Enabled": true
   },
   "60248": {
