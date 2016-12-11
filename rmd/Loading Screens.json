@@ -81,28 +81,28 @@
   },
   "800016": {
     "OriginalText": "スキルボード上で隣りあったスキルの組み合わせで\nコンボスキルが発生することがある。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Linking skills on the Skill Board\nmay create Combo Skills.",
+    "Enabled": true
   },
   "800017": {
     "OriginalText": "キャラクターはHPが0になると戦闘不能になる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "When your HP reaches 0, you become incapacitated.",
+    "Enabled": true
   },
   "800018": {
     "OriginalText": "パーティーメンバーは戦闘不能後、一定時間で復活する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Party members will be automatically\nrevived when a battle is over.",
+    "Enabled": true
   },
   "800019": {
     "OriginalText": "プレイヤーキャラクターが戦闘不能となった時、\nスケープドールを持っていればその場で復活できる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "If you become incapacitated, you\ncan use a Scape Doll to revive yourself.",
+    "Enabled": true
   },
   "800020": {
     "OriginalText": "戦闘不能から復活して数秒の間は敵の攻撃を受けない。",
-    "Text": "",
-    "Enabled": false
+    "Text": "You won't be attacked by enemies\nfor a few seconds after a revive.",
+    "Enabled": true
   },
   "800021": {
     "OriginalText": "攻撃、回復、ダメージ軽滅など\nさままなテクニックが存在する。",
@@ -111,38 +111,38 @@
   },
   "800022": {
     "OriginalText": "テクニックは攻撃ボタンを長押しして、\nチャージ完了後にボタンを離すと発動する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Charge Techniques by holding the\nbutton down. Release to complete the charge.",
+    "Enabled": true
   },
   "800023": {
     "OriginalText": "テクニックは攻撃ボタンを長押しチャージしたまま移動もできる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "You can also move while charging a Technique.",
+    "Enabled": true
   },
   "800024": {
     "OriginalText": "一部のグランアーツは、攻撃ボタン長押しで\nチャージして発動すると威力が増大する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Some Gran Arts increase\ntheir power when charged up.",
+    "Enabled": true
   },
   "800025": {
     "OriginalText": "モノメイト、ディメイト、トリメイトを使うとHPが回復する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Using Monomates, Dimates and\nTrimates will heal your HP.",
+    "Enabled": true
   },
   "800026": {
     "OriginalText": "ムーンアトマイザーは\n周囲にいる戦闘不能状態のメンバーを全員復活させる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Using Moon Atomizers will\nrevive everyone within a radius.",
+    "Enabled": true
   },
   "800027": {
     "OriginalText": "「リングジェネレーター」をサブパレットから使用すれば\nヘイロウを伝備しなくてもリングフィールドを作成できる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "If you use the Ring Generators, you can create Ring Platforms without a Halo.",
+    "Enabled": true
   },
   "800028": {
     "OriginalText": "他のクラスで入手したスキルでも、\nスキルボードにセットすれば使用できる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Skills acquired from other classes can\nbe used if they're set on the Skill Board.",
+    "Enabled": true
   },
   "800029": {
     "OriginalText": "グランド・アクトでは、プレイヤーの好きな順番で\n洋語を進めることができる。",
@@ -151,13 +151,13 @@
   },
   "800030": {
     "OriginalText": "HPが足りないと感じたら、クラスレベルを上げるか\nハンターのスキル「HPアップ」をセットするとよい。",
-    "Text": "",
-    "Enabled": false
+    "Text": "If you feel that your HP is lacking,\ntry leveling up, or use the Hunter skill \"HP UP\".",
+    "Enabled": true
   },
   "800031": {
     "OriginalText": "ラッピーは経験値大量獲得のチャンス！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Rappies are a great way\nof gaining a large amount of EXP.",
+    "Enabled": true
   },
   "800032": {
     "OriginalText": "ストーリーが進行する場所やクエストには\n赤いガイドアイコンが付く。",
@@ -196,8 +196,8 @@
   },
   "800039": {
     "OriginalText": "ショップ端末を使って\n拠点に設置されたショップに遠隔アクセスできる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Using Shop Terminals,\nYou can access shops in your base.",
+    "Enabled": true
   },
   "800040": {
     "OriginalText": "ハンターは近接攻撃を得意とし、打撃武器である\nソード・パルチザン・ダブルセイバー・ナックルを使いこなす。",
@@ -206,13 +206,13 @@
   },
   "800041": {
     "OriginalText": "レンジャーは中～遠距離からの攻撃を得意とし、射撃武器\nであるアサルトライフル・ツインマシンガンを使いこなす。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Rangers are excellent at long to medium range\ncombat by mastering the Assault Rifle or Twin Machinegun.",
+    "Enabled": true
   },
   "800042": {
     "OriginalText": "フォースは遠距離からの攻撃を得意とし、\n法撃武器であるロッド・タリス・ウォンドを使いこなす。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Forces are pros at long range combat.\nUse Techniques along with a Rod, Wand, or Talis.",
+    "Enabled": true
   },
   "800043": {
     "OriginalText": "メインメニューの［設定/ヘルプ］では\nゲームの設定やチュートリアルの確認ができる。",
@@ -711,7 +711,7 @@
   },
   "800142": {
     "OriginalText": "バスターはすべての武器種を伝備できる。\nまた、グランアーツとテクニックの両方を使うことができる。",
-    "Text": "Busters can use all weapon types.\nIt can also use every Gran Art and Techniques.",
+    "Text": "Busters can use all weapon types.\nThey can even use every Gran Art and Techniques available.",
     "Enabled": true
   },
   "800143": {
