@@ -316,8 +316,8 @@
   },
   "160063": {
     "OriginalText": "周囲ＨＰ回復",
-    "Text": "",
-    "Enabled": false
+    "Text": "Area HP Recovery",
+    "Enabled": true
   },
   "160064": {
     "OriginalText": "周囲状態異常回復",
@@ -1030,27 +1030,27 @@
     "Enabled": true
   },
   "160206": {
-    "OriginalText": "習得LV1～6の素村滅",
+    "OriginalText": "習得LV1～6の素材滅",
     "Text": "",
     "Enabled": false
   },
   "160207": {
-    "OriginalText": "習得LV7～12の素村滅",
+    "OriginalText": "習得LV7～12の素材滅",
     "Text": "",
     "Enabled": false
   },
   "160208": {
-    "OriginalText": "習得LV13～19の素村滅",
+    "OriginalText": "習得LV13～19の素材滅",
     "Text": "",
     "Enabled": false
   },
   "160209": {
-    "OriginalText": "習得LV20～25の素村滅",
+    "OriginalText": "習得LV20～25の素材滅",
     "Text": "",
     "Enabled": false
   },
   "160210": {
-    "OriginalText": "習得LV26～30の素村滅",
+    "OriginalText": "習得LV26～30の素材滅",
     "Text": "",
     "Enabled": false
   },
@@ -1080,17 +1080,17 @@
     "Enabled": true
   },
   "160216": {
-    "OriginalText": "料理★1の素村滅",
+    "OriginalText": "料理★1の素材滅",
     "Text": "",
     "Enabled": false
   },
   "160217": {
-    "OriginalText": "料理★2の素村滅",
+    "OriginalText": "料理★2の素材滅",
     "Text": "",
     "Enabled": false
   },
   "160218": {
-    "OriginalText": "料理★3の素村滅",
+    "OriginalText": "料理★3の素材滅",
     "Text": "",
     "Enabled": false
   },
@@ -1130,32 +1130,32 @@
     "Enabled": true
   },
   "160226": {
-    "OriginalText": "武器★5の素村滅",
+    "OriginalText": "武器★5の素材滅",
     "Text": "",
     "Enabled": false
   },
   "160227": {
-    "OriginalText": "武器★6の素村滅",
+    "OriginalText": "武器★6の素材滅",
     "Text": "",
     "Enabled": false
   },
   "160228": {
-    "OriginalText": "武器★7の素村滅",
+    "OriginalText": "武器★7の素材滅",
     "Text": "",
     "Enabled": false
   },
   "160229": {
-    "OriginalText": "武器★8の素村滅",
+    "OriginalText": "武器★8の素材滅",
     "Text": "",
     "Enabled": false
   },
   "160230": {
-    "OriginalText": "武器★9の素村滅",
+    "OriginalText": "武器★9の素材滅",
     "Text": "",
     "Enabled": false
   },
   "160231": {
-    "OriginalText": "武器★10の素村滅",
+    "OriginalText": "武器★10の素材滅",
     "Text": "",
     "Enabled": false
   },
@@ -1180,32 +1180,32 @@
     "Enabled": true
   },
   "160236": {
-    "OriginalText": "防具★5の素村滅",
+    "OriginalText": "防具★5の素材滅",
     "Text": "",
     "Enabled": false
   },
   "160237": {
-    "OriginalText": "防具★6の素村滅",
+    "OriginalText": "防具★6の素材滅",
     "Text": "",
     "Enabled": false
   },
   "160238": {
-    "OriginalText": "防具★7の素村滅",
+    "OriginalText": "防具★7の素材滅",
     "Text": "",
     "Enabled": false
   },
   "160239": {
-    "OriginalText": "防具★8の素村滅",
+    "OriginalText": "防具★8の素材滅",
     "Text": "",
     "Enabled": false
   },
   "160240": {
-    "OriginalText": "防具★9の素村滅",
+    "OriginalText": "防具★9の素材滅",
     "Text": "",
     "Enabled": false
   },
   "160241": {
-    "OriginalText": "防具★10の素村滅",
+    "OriginalText": "防具★10の素材滅",
     "Text": "",
     "Enabled": false
   },
@@ -1230,27 +1230,27 @@
     "Enabled": true
   },
   "160246": {
-    "OriginalText": "道具★1の素村滅",
+    "OriginalText": "道具★1の素材滅",
     "Text": "",
     "Enabled": false
   },
   "160247": {
-    "OriginalText": "道具★2の素村滅",
+    "OriginalText": "道具★2の素材滅",
     "Text": "",
     "Enabled": false
   },
   "160248": {
-    "OriginalText": "道具★3の素村滅",
+    "OriginalText": "道具★3の素材滅",
     "Text": "",
     "Enabled": false
   },
   "160249": {
-    "OriginalText": "道具★4の素村滅",
+    "OriginalText": "道具★4の素材滅",
     "Text": "",
     "Enabled": false
   },
   "160250": {
-    "OriginalText": "道具★5の素村滅",
+    "OriginalText": "道具★5の素材滅",
     "Text": "",
     "Enabled": false
   },
@@ -1275,32 +1275,32 @@
     "Enabled": true
   },
   "160255": {
-    "OriginalText": "衣伝★5の素村滅",
+    "OriginalText": "衣伝★5の素材滅",
     "Text": "",
     "Enabled": false
   },
   "160256": {
-    "OriginalText": "衣伝★6の素村滅",
+    "OriginalText": "衣伝★6の素材滅",
     "Text": "",
     "Enabled": false
   },
   "160257": {
-    "OriginalText": "衣伝★7の素村滅",
+    "OriginalText": "衣伝★7の素材滅",
     "Text": "",
     "Enabled": false
   },
   "160258": {
-    "OriginalText": "衣伝★8の素村滅",
+    "OriginalText": "衣伝★8の素材滅",
     "Text": "",
     "Enabled": false
   },
   "160259": {
-    "OriginalText": "衣伝★9の素村滅",
+    "OriginalText": "衣伝★9の素材滅",
     "Text": "",
     "Enabled": false
   },
   "160260": {
-    "OriginalText": "衣伝★10の素村滅",
+    "OriginalText": "衣伝★10の素材滅",
     "Text": "",
     "Enabled": false
   },
@@ -1320,52 +1320,52 @@
     "Enabled": false
   },
   "160264": {
-    "OriginalText": "武器★11の素村滅",
+    "OriginalText": "武器★11の素材滅",
     "Text": "",
     "Enabled": false
   },
   "160265": {
-    "OriginalText": "武器★12の素村滅",
+    "OriginalText": "武器★12の素材滅",
     "Text": "",
     "Enabled": false
   },
   "160266": {
-    "OriginalText": "武器★13の素村滅",
+    "OriginalText": "武器★13の素材滅",
     "Text": "",
     "Enabled": false
   },
   "160267": {
-    "OriginalText": "武器★14の素村滅",
+    "OriginalText": "武器★14の素材滅",
     "Text": "",
     "Enabled": false
   },
   "160268": {
-    "OriginalText": "武器★15の素村滅",
+    "OriginalText": "武器★15の素材滅",
     "Text": "",
     "Enabled": false
   },
   "160269": {
-    "OriginalText": "防具★11の素村滅",
+    "OriginalText": "防具★11の素材滅",
     "Text": "",
     "Enabled": false
   },
   "160270": {
-    "OriginalText": "防具★12の素村滅",
+    "OriginalText": "防具★12の素材滅",
     "Text": "",
     "Enabled": false
   },
   "160271": {
-    "OriginalText": "防具★13の素村滅",
+    "OriginalText": "防具★13の素材滅",
     "Text": "",
     "Enabled": false
   },
   "160272": {
-    "OriginalText": "防具★14の素村滅",
+    "OriginalText": "防具★14の素材滅",
     "Text": "",
     "Enabled": false
   },
   "160273": {
-    "OriginalText": "防具★15の素村滅",
+    "OriginalText": "防具★15の素材滅",
     "Text": "",
     "Enabled": false
   },
@@ -1380,7 +1380,7 @@
     "Enabled": false
   },
   "160276": {
-    "OriginalText": "エクステンド素村滅",
+    "OriginalText": "エクステンド素材滅",
     "Text": "",
     "Enabled": false
   },

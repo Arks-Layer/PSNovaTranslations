@@ -721,18 +721,18 @@
   },
   "520186": {
     "OriginalText": "コア工作土",
-    "Text": "",
-    "Enabled": false
+    "Text": "Core Worker",
+    "Enabled": true
   },
   "520187": {
     "OriginalText": "コア造土",
-    "Text": "",
-    "Enabled": false
+    "Text": "Core Builder",
+    "Enabled": true
   },
   "520188": {
     "OriginalText": "コア精錬土",
-    "Text": "",
-    "Enabled": false
+    "Text": "Core Smelter",
+    "Enabled": true
   },
   "520189": {
     "OriginalText": "武器進化の名工",
