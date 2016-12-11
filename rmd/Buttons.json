@@ -201,7 +201,7 @@
   },
   "430040": {
     "OriginalText": "ソート切替",
-    "Text": "Sort Switching",
+    "Text": "Switch Sorting",
     "Enabled": true
   },
   "430041": {
@@ -266,7 +266,7 @@
   },
   "430053": {
     "OriginalText": "すべて自動選択",
-    "Text": "All Auto Select",
+    "Text": "Auto Select All",
     "Enabled": true
   },
   "430054": {
