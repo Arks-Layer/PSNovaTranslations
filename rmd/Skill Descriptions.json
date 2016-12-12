@@ -311,7 +311,7 @@
   },
   "60071": {
     "OriginalText": "空中にいるエネミーへの\nダメージが２０％上昇する。",
-    "Text": "Increases damage by 20% when attacks\nhit the enemies in the air.",
+    "Text": "Increases damage by 20% when attacks\nhit enemies in the air.",
     "Enabled": true
   },
   "60072": {
@@ -441,7 +441,7 @@
   },
   "60104": {
     "OriginalText": "弱点属性へのダメージが５０％上昇する。",
-    "Text": "Increases damage dealt by 50%\ntowards the elemental weakness.",
+    "Text": "Increases damage dealt by 50%\ntowards elemental weaknesses.",
     "Enabled": true
   },
   "60105": {
@@ -701,7 +701,7 @@
   },
   "60165": {
     "OriginalText": "吹き飛ばされてダウンしたときに\nジャンプ燥作で素早く起き上がることができる。",
-    "Text": "Press the Jump button to\nquickly ascend when knocked down.",
+    "Text": "Press the Jump button to quickly\nget back up when knocked down.",
     "Enabled": true
   },
   "60166": {
