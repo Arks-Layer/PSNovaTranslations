@@ -1516,7 +1516,7 @@
   },
   "21209": {
     "OriginalText": "プロミスオーダーの目標を達成した！",
-    "Text": "You've achieved a Promise Order goal!",
+    "Text": "You've completed a Promise Order goal!",
     "Enabled": true
   },
   "21210": {
@@ -3191,7 +3191,7 @@
   },
   "22704": {
     "OriginalText": "達成",
-    "Text": " Achieved",
+    "Text": " Completed",
     "Enabled": true
   },
   "22705": {
@@ -4141,7 +4141,7 @@
   },
   "25218": {
     "OriginalText": "達成した",
-    "Text": " was achieved",
+    "Text": " was completed",
     "Enabled": true
   },
   "25219": {
