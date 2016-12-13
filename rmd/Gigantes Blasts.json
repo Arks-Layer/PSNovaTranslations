@@ -1,0 +1,62 @@
+{
+  "680000": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "680001": {
+    "OriginalText": "アグリカノーネ",
+    "Text": "Agri Cannon",
+    "Enabled": true
+  },
+  "680002": {
+    "OriginalText": "エウルスタンプ",
+    "Text": "Eur Stomp",
+    "Enabled": true
+  },
+  "680003": {
+    "OriginalText": "ガラテエーレ",
+    "Text": "Garati Aere",
+    "Enabled": true
+  },
+  "680004": {
+    "OriginalText": "アルキインフェアノ",
+    "Text": "Alcy Inferno",
+    "Enabled": true
+  },
+  "680005": {
+    "OriginalText": "グレイホルン",
+    "Text": "Grei Horn",
+    "Enabled": true
+  },
+  "680006": {
+    "OriginalText": "ヴィヴシュラック",
+    "Text": "Viv Shrack",
+    "Enabled": true
+  },
+  "680007": {
+    "OriginalText": "ギガテシュトルム",
+    "Text": "Gigati Storm",
+    "Enabled": true
+  },
+  "680008": {
+    "OriginalText": "デェフヴォルカン",
+    "Text": "Def Vulcan",
+    "Enabled": true
+  },
+  "680009": {
+    "OriginalText": "アルトカノーネ",
+    "Text": "Alt Cannon",
+    "Enabled": true
+  },
+  "680010": {
+    "OriginalText": "グラヴシュトルム",
+    "Text": "Grav Storm",
+    "Enabled": true
+  },
+  "680011": {
+    "OriginalText": "イグニッション",
+    "Text": "Ignition",
+    "Enabled": true
+  }
+}
