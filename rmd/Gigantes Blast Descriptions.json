@@ -6,12 +6,12 @@
   },
   "690001": {
     "OriginalText": "上空に発射したアグリオスの主砲が\n広範囲に降り注ぎ、散開する敵に\n中規物のダメージを与える。",
-    "Text": "Agrios fires its main guns\ninto the sky, doing moderate\ndamage to all enemies\nin a wide area.",
+    "Text": "Agrios fires its main guns into the sky\ndoing moderate damage to all enemies in\na wide area.",
     "Enabled": true
   },
   "690002": {
     "OriginalText": "践直に賜ね飛ぶエウリュードが着地時に\n衝撃波を発し、周囲の敵をなぎ払い\n大ダメージを与える。",
-    "Text": "Eurude jumps into the air,\nwhen hitting the ground,\nit emits a shockwave that\ngreatly damages enemies.",
+    "Text": "Eurude jumps into the air, when hitting\nthe ground, it emits a shockwave that\ngreatly damages enemies.",
     "Enabled": true
   },
   "690003": {
@@ -21,7 +21,7 @@
   },
   "690004": {
     "OriginalText": "アルキュオネの触腕から正面方向に\n特大の火炎弾を発射し、\n標的に大ダメージを与える。",
-    "Text": "Alcyone launches a large\nfireball in front of it\nwith it's tentacles,\ndealing a great deal of\ndamage to all targets.",
+    "Text": "Alcyone launches a large fireball in\nfront of it with it's tentacles, dealing\na great deal of damage to all targets.",
     "Enabled": true
   },
   "690005": {
@@ -56,7 +56,7 @@
   },
   "690011": {
     "OriginalText": "刺した杭を爆発させて、ギガンテスと\nグランリンクするためのスキル。\n杭の数が多いほど大ダメージを与えられる。",
-    "Text": "Detonates Piles attached to\nGigantes and perform a\nGran Link. More attached\nPiles deal more damage.",
+    "Text": "Detonates Piles attached to Gigantes and\nperforms a Gran Link. More attached\nPiles will deal more damage.",
     "Enabled": true
   }
 }
