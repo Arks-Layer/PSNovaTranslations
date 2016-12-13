@@ -6,12 +6,12 @@
   },
   "690001": {
     "OriginalText": "上空に発射したアグリオスの主砲が\n広範囲に降り注ぎ、散開する敵に\n中規物のダメージを与える。",
-    "Text": "Agrios fires its main guns into the sky\ndoing moderate damage to all enemies in\na wide area.",
+    "Text": "Agrios fires its main guns into the sky,\ndoing moderate damage to all enemies in\na wide area.",
     "Enabled": true
   },
   "690002": {
     "OriginalText": "践直に賜ね飛ぶエウリュードが着地時に\n衝撃波を発し、周囲の敵をなぎ払い\n大ダメージを与える。",
-    "Text": "Eurude jumps into the air, when hitting\nthe ground, it emits a shockwave that\ngreatly damages enemies.",
+    "Text": "Eurude jumps into the air. When hitting\nthe ground, it emits a shockwave that\ngreatly damages enemies.",
     "Enabled": true
   },
   "690003": {
