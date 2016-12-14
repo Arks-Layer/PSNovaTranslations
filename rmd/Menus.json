@@ -256,7 +256,7 @@
   },
   "10910": {
     "OriginalText": "ゲームを終了してタイトルに戻ります。\n\n[a 03]前回のセーブ似降のプレイ情報が失われますが、\nよろしいですか？[b]\n",
-    "Text": "This will exit the game and return to the title.\n[a 03]Any progress since your last save will be lost.\nIs this OK?[b]\n",
+    "Text": "Exit the game and return to the title.\n[a 03]Any progress since your last save will be lost.\nIs this OK?[b]\n",
     "Enabled": true
   },
   "10911": {
