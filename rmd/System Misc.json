@@ -11,53 +11,53 @@
   },
   "10002": {
     "OriginalText": "０",
-    "Text": "0",
-    "Enabled": true
+    "Text": "",
+    "Enabled": false
   },
   "10003": {
     "OriginalText": "１",
-    "Text": "1",
-    "Enabled": true
+    "Text": "",
+    "Enabled": false
   },
   "10004": {
     "OriginalText": "２",
-    "Text": "2",
-    "Enabled": true
+    "Text": "",
+    "Enabled": false
   },
   "10005": {
     "OriginalText": "３",
-    "Text": "3",
-    "Enabled": true
+    "Text": "",
+    "Enabled": false
   },
   "10006": {
     "OriginalText": "４",
-    "Text": "4",
-    "Enabled": true
+    "Text": "",
+    "Enabled": false
   },
   "10007": {
     "OriginalText": "５",
-    "Text": "5",
-    "Enabled": true
+    "Text": "",
+    "Enabled": false
   },
   "10008": {
     "OriginalText": "６",
-    "Text": "6",
-    "Enabled": true
+    "Text": "",
+    "Enabled": false
   },
   "10009": {
     "OriginalText": "７",
-    "Text": "7",
-    "Enabled": true
+    "Text": "",
+    "Enabled": false
   },
   "10010": {
     "OriginalText": "８",
-    "Text": "8",
-    "Enabled": true
+    "Text": "",
+    "Enabled": false
   },
   "10011": {
     "OriginalText": "９",
-    "Text": "9",
-    "Enabled": true
+    "Text": "",
+    "Enabled": false
   },
   "10012": {
     "OriginalText": "(",
