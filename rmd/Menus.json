@@ -2866,7 +2866,7 @@
   },
   "22166": {
     "OriginalText": "カメラ設定を初期化します。\n\nよろしいですか？",
-    "Text": "Reset camera settings\r\nto default.\r\Is this OK?",
+    "Text": "Reset camera settings\r\nto default.\r\nIs this OK?",
     "Enabled": true
   },
   "22167": {
