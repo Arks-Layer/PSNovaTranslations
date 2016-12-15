@@ -1651,18 +1651,18 @@
   },
   "21311": {
     "OriginalText": "？？？",
-    "Text": "",
-    "Enabled": false
+    "Text": "???",
+    "Enabled": true
   },
   "21312": {
     "OriginalText": "？？？",
-    "Text": "",
-    "Enabled": false
+    "Text": "???",
+    "Enabled": true
   },
   "21313": {
     "OriginalText": "？？？？？？？？？？？\n？？？？？？？？？？？",
-    "Text": "",
-    "Enabled": false
+    "Text": "???????????\n????????????",
+    "Enabled": true
   },
   "21401": {
     "OriginalText": "ＰＲＥＳＳ ＳＴＡＲＴ ＢＵＴＴＯＮ",
@@ -1671,17 +1671,17 @@
   },
   "21402": {
     "OriginalText": "ＮＥＷ ＧＡＭＥ",
-    "Text": "",
-    "Enabled": false
+    "Text": "NEW GAME",
+    "Enabled": true
   },
   "21403": {
     "OriginalText": "ＣＯＮＴＩＮＵＥ（ＬＯＡＤ ＤＡＴＡ）",
-    "Text": "",
-    "Enabled": false
+    "Text": "CONTINUE (LOAD DATA)",
+    "Enabled": true
   },
   "21501": {
     "OriginalText": "アイテムパックを開く",
-    "Text": "Send To Storage",
+    "Text": "Send to Storage",
     "Enabled": true
   },
   "21502": {
