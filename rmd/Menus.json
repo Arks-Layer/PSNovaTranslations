@@ -21,32 +21,32 @@
   },
   "10705": {
     "OriginalText": "打撃力高い順",
-    "Text": "S-ATK Descending",
+    "Text": "S-ATK High to Low",
     "Enabled": true
   },
   "10706": {
     "OriginalText": "射撃力高い順",
-    "Text": "R-ATK Descending",
+    "Text": "R-ATK High to Low",
     "Enabled": true
   },
   "10707": {
     "OriginalText": "法撃力高い順",
-    "Text": "T-ATK Descending",
+    "Text": "T-ATK High to Low",
     "Enabled": true
   },
   "10708": {
     "OriginalText": "打撃防御力高い順",
-    "Text": "S-DEF Descending",
+    "Text": "S-DEF High to Low",
     "Enabled": true
   },
   "10709": {
     "OriginalText": "射撃防御力高い順",
-    "Text": "R-DEF Descending",
+    "Text": "R-DEF High to Low",
     "Enabled": true
   },
   "10710": {
     "OriginalText": "法撃防御力高い順",
-    "Text": "T-DEF Descending",
+    "Text": "T-DEF High to Low",
     "Enabled": true
   },
   "10711": {
@@ -56,12 +56,12 @@
   },
   "10712": {
     "OriginalText": "数量が多い順",
-    "Text": "Quantity Descending",
+    "Text": "Quantity High to Low",
     "Enabled": true
   },
   "10713": {
     "OriginalText": "ランク順",
-    "Text": "Rank Descending",
+    "Text": "Rank High to Low",
     "Enabled": true
   },
   "10714": {
@@ -86,7 +86,7 @@
   },
   "10718": {
     "OriginalText": "登録順",
-    "Text": "Order Unlocked",
+    "Text": "Unlock Order",
     "Enabled": true
   },
   "10719": {
@@ -151,8 +151,8 @@
   },
   "10812": {
     "OriginalText": "全員",
-    "Text": "",
-    "Enabled": false
+    "Text": "All",
+    "Enabled": true
   },
   "10813": {
     "OriginalText": "あ行",
@@ -221,7 +221,7 @@
   },
   "10903": {
     "OriginalText": "全プレイヤーが揃うまで待機中です。\nしばらくお待ちください。\n[f 1c][a 03] で待機状態をキャンセルできます。[b]",
-    "Text": "Waiting for all players\nto connect.\n\n[f 1c][a 03] to cancel.[b]",
+    "Text": "Waiting for all players\nto connect.\nPress [f 1c][a 03] to cancel.[b]",
     "Enabled": true
   },
   "10904": {
@@ -236,17 +236,17 @@
   },
   "10906": {
     "OriginalText": "上層へ",
-    "Text": "To Upper",
+    "Text": "To Top Level",
     "Enabled": true
   },
   "10907": {
     "OriginalText": "中層へ",
-    "Text": "To Middle",
+    "Text": "To Middle Level",
     "Enabled": true
   },
   "10908": {
     "OriginalText": "下層へ",
-    "Text": "To Lower",
+    "Text": "To Bottom Level",
     "Enabled": true
   },
   "10909": {
@@ -256,7 +256,7 @@
   },
   "10910": {
     "OriginalText": "ゲームを終了してタイトルに戻ります。\n\n[a 03]前回のセーブ似降のプレイ情報が失われますが、\nよろしいですか？[b]\n",
-    "Text": "This will exit the game and return to the title.\n[a 03]Any progress since your last save will be lost.\nContinue?[b]\n",
+    "Text": "Exit the game and return to the title.\n\n[a 03]Any progress since your last save will be lost.\nContinue?[b]\n",
     "Enabled": true
   },
   "10911": {
@@ -271,8 +271,8 @@
   },
   "10913": {
     "OriginalText": "一時倉庫にアイテムが入っているため\nアクセスできません。\n一時倉庫を空にする必要があります。",
-    "Text": "",
-    "Enabled": false
+    "Text": "You can't access this due to items in your Temp storage.\nPlease remove the items from your Temp storage first.",
+    "Enabled": true
   },
   "10914": {
     "OriginalText": "クエストを開始しました。",
@@ -281,8 +281,8 @@
   },
   "10915": {
     "OriginalText": "拠点に戻らず、このまま\n次のクエストへ進むことができます。\n\n[a 03]拠点に戻ってもクエストを再開可能です。[b]\n\n次のクエストへ進みますか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "You can proceed to the next quest\nwithout returning to base.\n\n[a 03]Quest can be started if you return to base.[b]\n\nDo you want to proceed to the next quest?",
+    "Enabled": true
   },
   "11001": {
     "OriginalText": "所持品",
@@ -636,23 +636,23 @@
   },
   "20137": {
     "OriginalText": "現在のクラスではこの技は使えません。\nこの技を習得しますか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Techs are not usable for this class.\nDo you want to learn this Technique?",
+    "Enabled": true
   },
   "20138": {
     "OriginalText": "現在のクラスではこの技は使えません。\nこの技のレベルを上げますか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Techs are not usable for this class.\nDo you want to level this Technique?",
+    "Enabled": true
   },
   "20139": {
     "OriginalText": "現在のクラスではこのテクニックは使えません。\nこのテクニックを習得しますか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Techs are not usable for this class.\nDo you want to learn this Technique?",
+    "Enabled": true
   },
   "20140": {
     "OriginalText": "現在のクラスではこのテクニックは使えません。\nこの技のテクニックのレベルを上げますか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Techs are not usable for this class.\nDo you want to level this Technique?",
+    "Enabled": true
   },
   "20201": {
     "OriginalText": "カプセル解凍",
@@ -721,7 +721,7 @@
   },
   "20214": {
     "OriginalText": "配属メニューへ",
-    "Text": "Assign Menu",
+    "Text": "Assignment Menu",
     "Enabled": true
   },
   "20215": {
