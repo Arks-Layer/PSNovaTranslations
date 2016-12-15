@@ -156,53 +156,53 @@
   },
   "10813": {
     "OriginalText": "あ行",
-    "Text": "Line 1",
-    "Enabled": true
+    "Text": "",
+    "Enabled": false
   },
   "10814": {
     "OriginalText": "か行",
-    "Text": "Line 2",
-    "Enabled": true
+    "Text": "",
+    "Enabled": false
   },
   "10815": {
     "OriginalText": "さ行",
-    "Text": "Line 3",
-    "Enabled": true
+    "Text": "",
+    "Enabled": false
   },
   "10816": {
     "OriginalText": "た行",
-    "Text": "Line 4",
-    "Enabled": true
+    "Text": "",
+    "Enabled": false
   },
   "10817": {
     "OriginalText": "な行",
-    "Text": "Line 5",
-    "Enabled": true
+    "Text": "",
+    "Enabled": false
   },
   "10818": {
     "OriginalText": "は行",
-    "Text": "Line 6",
-    "Enabled": true
+    "Text": "",
+    "Enabled": false
   },
   "10819": {
     "OriginalText": "ま行",
-    "Text": "Line 7",
-    "Enabled": true
+    "Text": "",
+    "Enabled": false
   },
   "10820": {
     "OriginalText": "や行",
-    "Text": "Line 8",
-    "Enabled": true
+    "Text": "",
+    "Enabled": false
   },
   "10821": {
     "OriginalText": "ら行",
-    "Text": "Line 9",
-    "Enabled": true
+    "Text": "",
+    "Enabled": false
   },
   "10822": {
     "OriginalText": "わ行",
-    "Text": "Line 10",
-    "Enabled": true
+    "Text": "",
+    "Enabled": false
   },
   "10823": {
     "OriginalText": "全ての武器",
@@ -221,7 +221,7 @@
   },
   "10903": {
     "OriginalText": "全プレイヤーが揃うまで待機中です。\nしばらくお待ちください。\n[f 1c][a 03] で待機状態をキャンセルできます。[b]",
-    "Text": "Waiting for all players\nto connect.\n\n[f 1c][a 03] to cancel.[b]",
+    "Text": "Waiting for all players\nto connect.\n[f 1c][a 03] to cancel.[b]",
     "Enabled": true
   },
   "10904": {
@@ -3431,18 +3431,18 @@
   },
   "22752": {
     "OriginalText": "UI用予約",
-    "Text": "UI Placeholder",
-    "Enabled": true
+    "Text": "",
+    "Enabled": false
   },
   "22753": {
     "OriginalText": "UI用予約",
-    "Text": "UI Placeholder",
-    "Enabled": true
+    "Text": "",
+    "Enabled": false
   },
   "22754": {
     "OriginalText": "UI用予約",
-    "Text": "UI Placeholder",
-    "Enabled": true
+    "Text": "",
+    "Enabled": false
   },
   "22755": {
     "OriginalText": "ダウンロードアイテム",
