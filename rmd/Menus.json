@@ -1140,9 +1140,9 @@
     "Enabled": true
   },
   "20806": {
-    "OriginalText": "マルチプレイ中は\nリーダー似外はアクセスできません。\n\n[a 03]※ストーリーを進めるためにアクセスが必要な場合、\n マルチプレイを一度切断してアクセスし、\n ストーリーを進行させてから\n マルチプレイを再開してください。[b]",
-    "Text":	"Main Crew are not Availible\nduring multiplayer.\n\n[a 03]※If you need to advance the story,\ndisconnect from multiplayer to do so,\nthen restart multiplayer.[b]",
-    "Enabled": true
+    "OriginalText": "マルチプレイ中は\nリーダー似外はアクセスできません。\n\n[a 03]※ストーリーを進めるためにアクセスが必要な場合、\nマルチプレイを一度切断してアクセスし、\nストーリーを進行させてから\nマルチプレイを再開してください。[b]",
+    "Text":	"",
+    "Enabled": false
   },
   "20807": {
     "OriginalText": "コスト",
@@ -1511,17 +1511,17 @@
   },
   "21208": {
     "OriginalText": "別のプロミスオーダーを受けています。",
-    "Text": "YOu already accepted a Promise Order.",
+    "Text": "You already accepted a Promise Order.",
     "Enabled": true
   },
   "21209": {
     "OriginalText": "プロミスオーダーの目標を達成した！",
-    "Text": "You've completed a Promise Order goal!",
+    "Text": "Completed a Promise Order objective!",
     "Enabled": true
   },
   "21210": {
     "OriginalText": "受注中のクエストはありません。",
-    "Text": "No Quest Available.",
+    "Text": "No Quests Available.",
     "Enabled": true
   },
   "21211": {
@@ -1531,7 +1531,7 @@
   },
   "21212": {
     "OriginalText": "を破棄しました。",
-    "Text": "was destroyed.",
+    "Text": " was destroyed.",
     "Enabled": true
   },
   "21213": {
