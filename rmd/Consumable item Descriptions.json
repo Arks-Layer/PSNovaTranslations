@@ -86,7 +86,7 @@
   },
   "380017": {
     "OriginalText": "使い捨ての簡易式ヘイロウ。伝備を\n変更せずにアイテムとして使用できる。\n足場【リングフィールド】を作成する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A disposable Ring Generator without the\nneed of a Halo. Can be used without\ncharging to create a [Ring Platform].",
+    "Enabled": true
   }
 }
