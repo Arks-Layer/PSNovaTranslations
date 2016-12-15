@@ -3056,7 +3056,7 @@
   },
   "22303": {
     "OriginalText": "この防具を作成します。\nよろしいですか？",
-    "Text": "This will create the selected shield.\nContinue?",
+    "Text": "Creating the selected shield.\nIs this OK?",
     "Enabled": true
   },
   "22304": {
@@ -3071,8 +3071,8 @@
   },
   "22401": {
     "OriginalText": "一時倉庫にアイテムが入っているため\nアクセスできません。\n一時倉庫を空にする必要があります。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Because of the items in Temp Storage,\naccess is temporarily unavailable.\nPlease clear out Temp Storage.",
+    "Enabled": true
   },
   "22402": {
     "OriginalText": "コスチュームを作る",
@@ -3081,7 +3081,7 @@
   },
   "22403": {
     "OriginalText": "このコスチュームを作成します。\nよろしいですか？\n",
-    "Text": "This will create a Costume.\nIs that OK?\n",
+    "Text": "Creating the selected costume.\nIs this OK?\n",
     "Enabled": true
   },
   "22404": {
@@ -3096,7 +3096,7 @@
   },
   "22406": {
     "OriginalText": "メニューヘルプ",
-    "Text": "Help Menu",
+    "Text": "Tips",
     "Enabled": true
   },
   "22407": {
@@ -3151,13 +3151,13 @@
   },
   "22417": {
     "OriginalText": "倉庫にコスチュームを作る",
-    "Text": "Create a Costume From Storage",
+    "Text": "Create Costume From Storage",
     "Enabled": true
   },
   "22501": {
     "OriginalText": "一時倉庫にアイテムが入っているため\nアクセスできません。\n一時倉庫を空にする必要があります。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Because of the items in Temp Storage,\naccess is temporarily unavailable.\nPlease clear out Temp Storage",
+    "Enabled": true
   },
   "22601": {
     "OriginalText": "ここまでのプレイ状況を\nセーブデータに保存しますか？",
@@ -3256,12 +3256,12 @@
   },
   "22717": {
     "OriginalText": "報酬：",
-    "Text": "Got:",
+    "Text": "Got: ",
     "Enabled": true
   },
   "22718": {
     "OriginalText": "イグニッション発動！",
-    "Text": "Ignition Triggered!",
+    "Text": "Ignition triggered!",
     "Enabled": true
   },
   "22719": {
@@ -3476,27 +3476,27 @@
   },
   "22761": {
     "OriginalText": "：効果の開始",
-    "Text": ":Effect Start",
+    "Text": ": Effect Start",
     "Enabled": true
   },
   "22762": {
     "OriginalText": "：残り20分",
-    "Text": ":20 Minutes Remaining",
+    "Text": ": 20 Minutes Remaining",
     "Enabled": true
   },
   "22763": {
     "OriginalText": "：残り10分",
-    "Text": ":10 Minutes Remaining",
+    "Text": ": 10 Minutes Remaining",
     "Enabled": true
   },
   "22764": {
     "OriginalText": "：残り1分",
-    "Text": ":1 Minute Remaining",
+    "Text": ": 1 Minute Remaining",
     "Enabled": true
   },
   "22765": {
     "OriginalText": "：効果の終了",
-    "Text": ":Effect End",
+    "Text": ": Effect End",
     "Enabled": true
   },
   "22766": {
@@ -3511,7 +3511,7 @@
   },
   "22768": {
     "OriginalText": "このアイテムを受け取ります。\nよろしいですか？",
-    "Text": "Are you sure you want to\nreceive this item?",
+    "Text": "Receive the selected item.\nIs this OK?",
     "Enabled": true
   },
   "22769": {
@@ -3546,7 +3546,7 @@
   },
   "22775": {
     "OriginalText": "このDLCを受け取ります。\nよろしいですか？",
-    "Text": "Are you sure you want to\nreceive this DLC?",
+    "Text": "Receive the selected DLC.\nIs this OK?",
     "Enabled": true
   },
   "22776": {
@@ -3571,7 +3571,7 @@
   },
   "22802": {
     "OriginalText": "マルチプレイ中はアクセスできません。",
-    "Text": "Can't access during Multiplay.",
+    "Text": "Can't access during Multiplayer.",
     "Enabled": true
   },
   "22803": {
@@ -3581,7 +3581,7 @@
   },
   "22901": {
     "OriginalText": "所持SP",
-    "Text": "SP Possessed",
+    "Text": "Current SP",
     "Enabled": true
   },
   "22902": {
@@ -3621,7 +3621,7 @@
   },
   "23006": {
     "OriginalText": "発現するコンボスキルはありません。",
-    "Text": "There are no combo skills to morph.",
+    "Text": "There are no combo skills to change.",
     "Enabled": true
   },
   "23007": {
@@ -3676,17 +3676,17 @@
   },
   "23704": {
     "OriginalText": "パーティーを解散しますか？",
-    "Text": "Are you sure you want\nto disband the party?",
+    "Text": "Do you want to\ndisband the party?",
     "Enabled": true
   },
   "23705": {
     "OriginalText": "パーティーを離脱しますか？",
-    "Text": "Are you sure you want\nto leave the party?",
+    "Text": "Do you want to\nleave the party?",
     "Enabled": true
   },
   "23706": {
     "OriginalText": "通信が切断されました。\nタイトル画面へ戻りました。",
-    "Text": "Communication has been inturrupted.\nSent back to the title screen.",
+    "Text": "Communication has been inturrupted.\nYou will be sent back to the title screen.",
     "Enabled": true
   },
   "23707": {
@@ -3766,23 +3766,23 @@
   },
   "24003": {
     "OriginalText": "惑星から脱出する",
-    "Text": "",
-    "Enabled": false
+    "Text": "Escape from the Planet",
+    "Enabled": true
   },
   "24004": {
     "OriginalText": "惑星を脱出しますか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Do you want to\nescape from the planet?",
+    "Enabled": true
   },
   "24005": {
     "OriginalText": "キサラをオペレーターに指定しました。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Kisara was chosen as\nyour operator.",
+    "Enabled": true
   },
   "24006": {
     "OriginalText": "リーティアをオペレーターに指定しました。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Rietheia was chosen as\nyour operator.",
+    "Enabled": true
   },
   "24101": {
     "OriginalText": "戦闘不能になりました。",
@@ -3791,7 +3791,7 @@
   },
   "24102": {
     "OriginalText": "スケープドールを使い復活 (所持 [e 00 00])",
-    "Text": "Use Scape Doll(s) ([e 00 00])",
+    "Text": "Use Scape Doll ([e 00 00])",
     "Enabled": true
   },
   "24103": {
@@ -3801,7 +3801,7 @@
   },
   "24104": {
     "OriginalText": "スケープドールを使用して復活します。",
-    "Text": "Revived using Scape Doll(s)",
+    "Text": "Revived using a Scape Doll",
     "Enabled": true
   },
   "24105": {
@@ -3821,13 +3821,13 @@
   },
   "24108": {
     "OriginalText": "パーティーから離脱する",
-    "Text": "",
-    "Enabled": false
+    "Text": "Leave the Party",
+    "Enabled": true
   },
   "24109": {
     "OriginalText": "パーティーから離脱して自分の拠点に戻ります。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Leaving the party and returning to base.",
+    "Enabled": true
   },
   "24110": {
     "OriginalText": "復活する",
@@ -3921,12 +3921,12 @@
   },
   "24128": {
     "OriginalText": "：残り30分",
-    "Text": ":30 Minutes Remaining",
+    "Text": ": 30 Minutes Remaining",
     "Enabled": true
   },
   "24129": {
     "OriginalText": "：残り5分",
-    "Text": ":5 Minutes Remaining",
+    "Text": ": 5 Minutes Remaining",
     "Enabled": true
   },
   "24130": {
@@ -3941,7 +3941,7 @@
   },
   "25001": {
     "OriginalText": "材料とコアを\n倉庫に預けました。",
-    "Text": "Materials and Cores were\ndeposited into storage.",
+    "Text": "All Materials and Cores were\ndeposited into Storage.",
     "Enabled": true
   },
   "25002": {
@@ -3961,12 +3961,12 @@
   },
   "25005": {
     "OriginalText": "入手した材料を自動的に倉庫に送る",
-    "Text": "Automatically Send Materials to Storage",
+    "Text": "Automatically send Materials to Storage",
     "Enabled": true
   },
   "25006": {
     "OriginalText": "入手したコアを自動的に倉庫に送る",
-    "Text": "Automatically Send Cores to Storage",
+    "Text": "Automatically send Cores to Storage",
     "Enabled": true
   },
   "25007": {
@@ -3981,7 +3981,7 @@
   },
   "25009": {
     "OriginalText": "すぐに報告しますか？",
-    "Text": "Are you sure you want\nto report immediately?",
+    "Text": "do you want to report immediately?",
     "Enabled": true
   },
   "25010": {
@@ -3996,13 +3996,13 @@
   },
   "25012": {
     "OriginalText": "この階層の施設を\nすべて回収します。\nよろしいですか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Putting away all facilities\non this level.\nIs this OK?",
+    "Enabled": true
   },
   "25013": {
     "OriginalText": "回収する施設がありません。",
-    "Text": "",
-    "Enabled": false
+    "Text": "There are no facilities to put away.",
+    "Enabled": true
   },
   "25014": {
     "OriginalText": "防具",
@@ -4111,8 +4111,8 @@
   },
   "25212": {
     "OriginalText": "。",
-    "Text": "",
-    "Enabled": false
+    "Text": ".",
+    "Enabled": true
   },
   "25213": {
     "OriginalText": "よろしいですか？",
@@ -4126,8 +4126,8 @@
   },
   "25215": {
     "OriginalText": "おいしくいただいた",
-    "Text": "",
-    "Enabled": false
+    "Text": " - It was delicious",
+    "Enabled": true
   },
   "25216": {
     "OriginalText": "入手した",
@@ -4156,7 +4156,7 @@
   },
   "25221": {
     "OriginalText": "施設が開発できるようになりました。",
-    "Text": "Facility can now\nbe developed.",
+    "Text": "A new Facility can now be developed: ",
     "Enabled": true
   },
   "25222": {
@@ -4191,7 +4191,7 @@
   },
   "25403": {
     "OriginalText": "クリエイトを中断します。\n編集内容は反映されません。\n\nよろしいですか？",
-    "Text": "Are you sure you want\nto cancel creation?\nEdits will not be saved.",
+    "Text": "Canceling creation,\nedits will not be saved.\n\nIs this OK?",
     "Enabled": true
   },
   "25404": {
@@ -4221,7 +4221,7 @@
   },
   "25454": {
     "OriginalText": "エクステンドを実行します。\n合成する武器に付いていた\nアタッチパーツは残ります。\nよろしいですか？",
-    "Text": "Extending this weapon.\nAttachments will not be removed.\nIs this OK?",
+    "Text": "Extending the selected weapon.\nAttachments will not be removed.\nIs this OK?",
     "Enabled": true
   },
   "25455": {
@@ -4236,8 +4236,8 @@
   },
   "25500": {
     "OriginalText": "ＤＬＣパッケージが確認できないため\nオペレーターをキサラに変更します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "DLC cannot be verified.\nChanging operator to Kisara.",
+    "Enabled": true
   },
   "25501": {
     "OriginalText": "オペレーターを交代しました。",
