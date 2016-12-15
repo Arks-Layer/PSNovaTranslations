@@ -96,13 +96,13 @@
   },
   "10019": {
     "OriginalText": "「",
-    "Text": "[",
-    "Enabled": true
+    "Text": "",
+    "Enabled": false
   },
   "10020": {
     "OriginalText": "」",
-    "Text": "]",
-    "Enabled": true
+    "Text": "",
+    "Enabled": false
   },
   "10021": {
     "OriginalText": "",
