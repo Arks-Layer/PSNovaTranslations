@@ -1411,7 +1411,7 @@
   },
   "21116": {
     "OriginalText": "マルチプレイ中は\nリーダー似外はアクセスできません。\n\n[a 03]※ストーリーを進めるためにアクセスが必要な場合、\n マルチプレイを一度切断してアクセスし、\n ストーリーを進行させてから\n マルチプレイを再開してください。[b]",
-    "Text": "Main Crew not available\nduring multiplayer.\n\n[a 03]※If you need to advance the story,\ndisconnect from multiplayer to do so,\nthen restart multiplayer.[b]"",
+    "Text": "Main Crew not available\nduring multiplayer.\n\n[a 03]※If you need to advance the story,\ndisconnect from multiplayer to do so,\nthen restart multiplayer.[b]",
     "Enabled": true
   },
   "21117": {
