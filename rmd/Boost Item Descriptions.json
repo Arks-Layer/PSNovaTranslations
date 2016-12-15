@@ -6,7 +6,7 @@
   },
   "400001": {
     "OriginalText": "自己鍛錬用アイテム。\nエネミー撃破の経験値を+100%させる。\n３０分経過、またはクエスト終了まで有効。\n[a 03]※シングルプレイのクエスト中のみ使用可能[b]",
-    "Text": "",
+    "Text": "A Self-Boost Item.\nFor 30 minutes, or until the end of a quest.\nIncreases EXP gained by +100%\n[a 03]※Only available during Single Player[b]",
     "Enabled": true
   },
   "400002": {
