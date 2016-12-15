@@ -1141,8 +1141,8 @@
   },
   "20806": {
     "OriginalText": "マルチプレイ中は\nリーダー似外はアクセスできません。\n\n[a 03]※ストーリーを進めるためにアクセスが必要な場合、\nマルチプレイを一度切断してアクセスし、\nストーリーを進行させてから\nマルチプレイを再開してください。[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "Main Crew are not Availible\nduring multiplayer.\n\n[a 03]※If you need to advance the story,\ndisconnect from multiplayer to do so,\nthen restart multiplayer.[b]",
+    "Enabled": true
   },
   "20807": {
     "OriginalText": "コスト",
@@ -1671,12 +1671,12 @@
   },
   "21402": {
     "OriginalText": "ＮＥＷ ＧＡＭＥ",
-    "Text": "NEW GAME",
+    "Text": "NEW GAME SHIT",
     "Enabled": true
   },
   "21403": {
     "OriginalText": "ＣＯＮＴＩＮＵＥ（ＬＯＡＤ ＤＡＴＡ）",
-    "Text": "CONTINUE (LOAD DATA)",
+    "Text": "CONTINUE SHIT (LOAD DATA)",
     "Enabled": true
   },
   "21501": {
@@ -3431,18 +3431,18 @@
   },
   "22752": {
     "OriginalText": "UI用予約",
-    "Text": "",
-    "Enabled": false
+    "Text": "UI Placeholder",
+    "Enabled": true
   },
   "22753": {
     "OriginalText": "UI用予約",
-    "Text": "",
-    "Enabled": false
+    "Text": "UI Placeholder",
+    "Enabled": true
   },
   "22754": {
     "OriginalText": "UI用予約",
-    "Text": "",
-    "Enabled": false
+    "Text": "UI Placeholder",
+    "Enabled": true
   },
   "22755": {
     "OriginalText": "ダウンロードアイテム",
