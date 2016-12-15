@@ -2861,12 +2861,12 @@
   },
   "22165": {
     "OriginalText": "ログ表示設定を初期化します。\n\nよろしいですか？",
-    "Text": "This will reset log settings\r\nto their defaults settings.\r\nAre you sure?",
+    "Text": "Reset log settings\r\nto default.\r\ns this OK?",
     "Enabled": true
   },
   "22166": {
     "OriginalText": "カメラ設定を初期化します。\n\nよろしいですか？",
-    "Text": "This will reset camera settings\r\nto their defaults settings.\r\nAre you sure?",
+    "Text": "Reset camera settings\r\nto default.\r\Is this OK?",
     "Enabled": true
   },
   "22167": {
