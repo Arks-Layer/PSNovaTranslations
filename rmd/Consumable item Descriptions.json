@@ -51,38 +51,38 @@
   },
   "380010": {
     "OriginalText": "グランのエネルギーを蓄えた鉱洋結晶。\n未知の惑星マキアにおいて、あらゆる\n洋資に加工が可能な城一の村料となる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A Crystaline Ore that contains Gran Energy.\nNative to Mahkia, it can be processed\ninto materials for equipment.",
+    "Enabled": true
   },
   "380011": {
     "OriginalText": "グランのエネルギーを蓄えた鉱洋結晶。\n火の粉が舞うような灼熱の環境下で\n炎属性を帯び、赤く輝いている。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A Crystaline Ore that contains Gran Energy.\nWhen exposed to heat, it shines red\nas it's imbued with the power of Fire.",
+    "Enabled": true
   },
   "380012": {
     "OriginalText": "グランのエネルギーを蓄えた鉱洋結晶。\n劇雪地帯のような冷寒の環境下で\n劇属性を帯び、青く輝いている。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A Crystaline Ore that contains Gran Energy.\nWhen exposed to arctic conditions, it shines blue\nas it's imbued with the power of Ice.",
+    "Enabled": true
   },
   "380013": {
     "OriginalText": "グランのエネルギーを蓄えた鉱洋結晶。\n落雷の影響を受けやすい降雨時に\n雷属性を帯び、黄色く輝いている。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A Crystaline Ore that contains Gran Energy.\nWhen exposed to lightning strikes, it shines yellow\nas it's imbued with the power of Lightning.",
+    "Enabled": true
   },
   "380014": {
     "OriginalText": "グランのエネルギーを蓄えた鉱洋結晶。\n砂塵の影響を受けやすい強風時に\n風属性を帯び、緑色に輝いている。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A Crystaline Ore that contains Gran Energy.\nWhen exposed to strong wind, it shines green\nas it's imbued with the power of Wind.",
+    "Enabled": true
   },
   "380015": {
     "OriginalText": "グランのエネルギーを蓄えた鉱洋結晶。\n光属性を帯び、橙色に輝いている。\n原生種の舌の影響らしいが詳細は不明。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A Crystaline Ore that contains Gran Energy.\nThe native species seem to be influenced by it. It's details are unknown,\nhowever it glows orange with the power of Light.",
+    "Enabled": true
   },
   "380016": {
     "OriginalText": "グランのエネルギーを蓄えた鉱洋結晶。\n闇属性を帯び、紫色に輝いている。\n原生種の舌の影響らしいが詳細は不明。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A Crystaline Ore that contains Gran Energy.\nThe native species seem to be influenced by it. It's details are unknown,\nhowever it glows purple with the power of Dark.",
+    "Enabled": true
   },
   "380017": {
     "OriginalText": "使い捨ての簡易式ヘイロウ。伝備を\n変更せずにアイテムとして使用できる。\n足場【リングフィールド】を作成する。",
