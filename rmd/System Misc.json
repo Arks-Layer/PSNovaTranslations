@@ -11,53 +11,53 @@
   },
   "10002": {
     "OriginalText": "０",
-    "Text": "",
-    "Enabled": false
+    "Text": "0",
+    "Enabled": true
   },
   "10003": {
     "OriginalText": "１",
-    "Text": "",
-    "Enabled": false
+    "Text": "1",
+    "Enabled": true
   },
   "10004": {
     "OriginalText": "２",
-    "Text": "",
-    "Enabled": false
+    "Text": "2",
+    "Enabled": true
   },
   "10005": {
     "OriginalText": "３",
-    "Text": "",
-    "Enabled": false
+    "Text": "3",
+    "Enabled": true
   },
   "10006": {
     "OriginalText": "４",
-    "Text": "",
-    "Enabled": false
+    "Text": "4",
+    "Enabled": true
   },
   "10007": {
     "OriginalText": "５",
-    "Text": "",
-    "Enabled": false
+    "Text": "5",
+    "Enabled": true
   },
   "10008": {
     "OriginalText": "６",
-    "Text": "",
-    "Enabled": false
+    "Text": "6",
+    "Enabled": true
   },
   "10009": {
     "OriginalText": "７",
-    "Text": "",
-    "Enabled": false
+    "Text": "7",
+    "Enabled": true
   },
   "10010": {
     "OriginalText": "８",
-    "Text": "",
-    "Enabled": false
+    "Text": "8",
+    "Enabled": true
   },
   "10011": {
     "OriginalText": "９",
-    "Text": "",
-    "Enabled": false
+    "Text": "9",
+    "Enabled": true
   },
   "10012": {
     "OriginalText": "(",
@@ -96,13 +96,13 @@
   },
   "10019": {
     "OriginalText": "「",
-    "Text": "",
-    "Enabled": false
+    "Text": "[",
+    "Enabled": true
   },
   "10020": {
     "OriginalText": "」",
-    "Text": "",
-    "Enabled": false
+    "Text": "]",
+    "Enabled": true
   },
   "10021": {
     "OriginalText": "",
