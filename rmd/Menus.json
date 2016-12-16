@@ -271,7 +271,7 @@
   },
   "10913": {
     "OriginalText": "一時倉庫にアイテムが入っているため\nアクセスできません。\n一時倉庫を空にする必要があります。",
-    "Text": "You can't access this due to items in your Temp storage.\nPlease remove the items from your Temp storage first.",
+    "Text": "You can't access this due to items in your Temp Storage.\nPlease remove the items from your Temp Storage first.",
     "Enabled": true
   },
   "10914": {
@@ -536,7 +536,7 @@
   },
   "20117": {
     "OriginalText": "一時倉庫にアイテムが入っているため\nアクセスできません。\n一時倉庫を空にする必要があります。",
-    "Text": "Items are in your Temp storage.\nPlease remove the items from\nyour Temp storage first.",
+    "Text": "You can't access this due to items in your Temp Storage.\nPlease remove the items from your Temp Storage first.",
     "Enabled": true
   },
   "20118": {
@@ -551,22 +551,22 @@
   },
   "20120": {
     "OriginalText": "クラスを変更します。\n\nハンター\n\nよろしいですか？",
-    "Text": "Changing class to:\r\n\r\nHunter\r\n\r\nIs this OK?",
+    "Text": "Changing class to:\n\nHunter\n\nIs this OK?",
     "Enabled": true
   },
   "20121": {
     "OriginalText": "クラスを変更します。\n\nレンジャー\n\nよろしいですか？",
-    "Text": "Changing class to:\r\n\r\nRanger\r\n\r\nIs this OK?",
+    "Text": "Changing class to:\n\nRanger\n\nIs this OK?",
     "Enabled": true
   },
   "20122": {
     "OriginalText": "クラスを変更します。\n\nフォース\n\nよろしいですか？",
-    "Text": "Changing class to:\r\n\r\nForce\r\n\r\nIs this OK?",
+    "Text": "Changing class to:\n\nForce\n\nIs this OK?",
     "Enabled": true
   },
   "20123": {
     "OriginalText": "クラスを変更します。\n\nバスター\n\nよろしいですか？",
-    "Text": "Changing class to:\r\n\r\nBuster\r\n\r\nIs this OK?",
+    "Text": "Changing class to:\n\nBuster\n\nIs this OK?",
     "Enabled": true
   },
   "20124": {
@@ -621,7 +621,7 @@
   },
   "20134": {
     "OriginalText": "アイテムパックがいっぱいなので倉庫に預けました。",
-    "Text": "Inventory was full, so item(s)\nwere sent to storage.",
+    "Text": "Inventory was full, so item(s)\nwere sent to Storage.",
     "Enabled": true
   },
   "20135": {
@@ -1006,7 +1006,7 @@
   },
   "20606": {
     "OriginalText": "一時倉庫にアイテムが入っているため\nアクセスできません。\n一時倉庫を空にする必要があります。",
-    "Text": "Items are in your Temp storage.\nPlease remove the items from\nyour Temp storage first.",
+    "Text": "You can't access this due to items in your Temp Storage.\nPlease remove the items from your Temp Storage first.",
     "Enabled": true
   },
   "20607": {
@@ -1671,12 +1671,12 @@
   },
   "21402": {
     "OriginalText": "ＮＥＷ ＧＡＭＥ",
-    "Text": "NEW GAME SHIT",
+    "Text": "NEW GAME",
     "Enabled": true
   },
   "21403": {
     "OriginalText": "ＣＯＮＴＩＮＵＥ（ＬＯＡＤ ＤＡＴＡ）",
-    "Text": "CONTINUE SHIT (LOAD DATA)",
+    "Text": "CONTINUE (LOAD DATA)",
     "Enabled": true
   },
   "21501": {
@@ -1921,7 +1921,7 @@
   },
   "21637": {
     "OriginalText": "一時倉庫にアイテムが入っているため\nアクセスできません。\n一時倉庫を空にする必要があります。",
-    "Text": "Items are in your Temp storage.\nPlease remove the items from\nyour Temp storage first.",
+    "Text": "You can't access this due to items in your Temp Storage.\nPlease remove the items from your Temp Storage first.",
     "Enabled": true
   },
   "21638": {
@@ -1971,7 +1971,7 @@
   },
   "21647": {
     "OriginalText": "倉庫に送れませんでした。",
-    "Text": "Could not send to storage.",
+    "Text": "Could not send to Storage.",
     "Enabled": true
   },
   "21648": {
@@ -2046,7 +2046,7 @@
   },
   "21713": {
     "OriginalText": "一時倉庫にアイテムが入っているため\nアクセスできません。\n一時倉庫を空にする必要があります。",
-    "Text": "Items are in your Temp storage.\nPlease remove the items from your Temp storage first.",
+    "Text": "You can't access this due to items in your Temp Storage.\nPlease remove the items from your Temp Storage first.",
     "Enabled": true
   },
   "21714": {
@@ -2831,17 +2831,17 @@
   },
   "22159": {
     "OriginalText": "燥作設定を初期化します。\n\nよろしいですか？",
-    "Text": "Reset button settings\r\nto default.\r\nIs this OK?",
+    "Text": "Reset Button Settings to default.\nIs this OK?",
     "Enabled": true
   },
   "22160": {
     "OriginalText": "基本設定を初期化します。\n\nよろしいですか？",
-    "Text": "Reset Basic Settings\r\nto default.\r\nIs this OK?",
+    "Text": "Reset Basic Settings to default.\nIs this OK?",
     "Enabled": true
   },
   "22161": {
     "OriginalText": "サウンド設定を初期化します。\n\nよろしいですか？",
-    "Text": "Reset Sound Settings\r\nto default.\r\nIs this OK?",
+    "Text": "Reset Sound Settings to default.\nIs this OK?",
     "Enabled": true
   },
   "22162": {
@@ -2861,12 +2861,12 @@
   },
   "22165": {
     "OriginalText": "ログ表示設定を初期化します。\n\nよろしいですか？",
-    "Text": "Reset log settings\r\nto default.\r\ns this OK?",
+    "Text": "Reset Log Settings to default.\ns this OK?",
     "Enabled": true
   },
   "22166": {
     "OriginalText": "カメラ設定を初期化します。\n\nよろしいですか？",
-    "Text": "Reset camera settings\r\nto default.\r\nIs this OK?",
+    "Text": "Reset Camera Settings to default.\nIs this OK?",
     "Enabled": true
   },
   "22167": {
@@ -2981,8 +2981,8 @@
   },
   "22217": {
     "OriginalText": "一時倉庫にアイテムが入っているため\nアクセスできません。\n一時倉庫を空にする必要があります。",
-    "Text": "",
-    "Enabled": false
+    "Text": "You can't access this due to items in your Temp Storage.\nPlease remove the items from your Temp Storage first.",
+    "Enabled": true
   },
   "22218": {
     "OriginalText": "うち疲労者",
@@ -3046,7 +3046,7 @@
   },
   "22301": {
     "OriginalText": "一時倉庫にアイテムが入っているため\nアクセスできません。\n一時倉庫を空にする必要があります。",
-    "Text": "Because of the items in Temp Storage,\naccess is temporarily unavailable.\nPlease clear out Temp Storage.",
+    "Text": "You can't access this due to items in your Temp Storage.\nPlease remove the items from your Temp Storage first.",
     "Enabled": true
   },
   "22302": {
@@ -3071,7 +3071,7 @@
   },
   "22401": {
     "OriginalText": "一時倉庫にアイテムが入っているため\nアクセスできません。\n一時倉庫を空にする必要があります。",
-    "Text": "Because of the items in Temp Storage,\naccess is temporarily unavailable.\nPlease clear out Temp Storage.",
+    "Text": "You can't access this due to items in your Temp Storage.\nPlease remove the items from your Temp Storage first.",
     "Enabled": true
   },
   "22402": {
@@ -3156,7 +3156,7 @@
   },
   "22501": {
     "OriginalText": "一時倉庫にアイテムが入っているため\nアクセスできません。\n一時倉庫を空にする必要があります。",
-    "Text": "Because of the items in Temp Storage,\naccess is temporarily unavailable.\nPlease clear out Temp Storage",
+    "Text": "You can't access this due to items in your Temp Storage.\nPlease remove the items from your Temp Storage first.",
     "Enabled": true
   },
   "22601": {
