@@ -711,12 +711,12 @@
   },
   "20212": {
     "OriginalText": "コンプリートボーナスをゲット",
-    "Text": "Complete Bonus GET",
+    "Text": "Completion Bonus",
     "Enabled": true
   },
   "20213": {
     "OriginalText": "報酬「",
-    "Text": "Reward [",
+    "Text": "[",
     "Enabled": true
   },
   "20214": {
