@@ -2031,17 +2031,17 @@
   },
   "241104": {
     "OriginalText": "上層へ",
-    "Text": "To Upper",
+    "Text": "To Top Level",
     "Enabled": true
   },
   "241105": {
     "OriginalText": "中層へ",
-    "Text": "To Middle",
+    "Text": "To Middle Level",
     "Enabled": true
   },
   "241106": {
     "OriginalText": "下層へ",
-    "Text": "To Lower",
+    "Text": "To Lower Level",
     "Enabled": true
   },
   "241107": {
@@ -2066,7 +2066,7 @@
   },
   "241111": {
     "OriginalText": "バースト加速伝置",
-    "Text": "BURST Accel. Device",
+    "Text": "BURST Acceleration Device",
     "Enabled": true
   }
 }
