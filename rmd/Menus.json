@@ -601,8 +601,8 @@
   },
   "20130": {
     "OriginalText": "マナ土用エクスキューブ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Earth Mana Excube",
+    "Enabled": true
   },
   "20131": {
     "OriginalText": "このエクスキューブを作成します。\n\nよろしいですか？",
