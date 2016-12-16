@@ -1361,7 +1361,7 @@
   },
   "21106": {
     "OriginalText": "パーティー集集を中止します。\nよろしいですか？",
-    "Text": "disband your party?",
+    "Text": "Disband your party?",
     "Enabled": true
   },
   "21107": {
@@ -4191,7 +4191,7 @@
   },
   "25403": {
     "OriginalText": "クリエイトを中断します。\n編集内容は反映されません。\n\nよろしいですか？",
-    "Text": "Cancel re-creation?\nEdits will not be saved!",
+    "Text": "Cancel re-creation?\n[a 03]Edits will not be saved![b]",
     "Enabled": true
   },
   "25404": {
