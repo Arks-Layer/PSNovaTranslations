@@ -521,12 +521,12 @@
   },
   "20114": {
     "OriginalText": "習得しました。",
-    "Text": " learned.",
+    "Text": "Learned.",
     "Enabled": true
   },
   "20115": {
     "OriginalText": "レベルアップしました。",
-    "Text": " leveled up.",
+    "Text": "Leveled up.",
     "Enabled": true
   },
   "20116": {
@@ -3261,12 +3261,12 @@
   },
   "22718": {
     "OriginalText": "イグニッション発動！",
-    "Text": "Ignition triggered!",
+    "Text": "Ignition Triggered!",
     "Enabled": true
   },
   "22719": {
     "OriginalText": "の通信が切断されました",
-    "Text": " was disconnected.",
+    "Text": " Was Disconnected",
     "Enabled": true
   },
   "22720": {
