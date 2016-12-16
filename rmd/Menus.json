@@ -1951,7 +1951,7 @@
   },
   "21643": {
     "OriginalText": "アタッチパーツがセットされています。 \n武器とアタッチパーツを同時に預けます。 \nよろしいですか？ ",
-    "Text": "Attachments are still equipped.\nDeposit the weapon and it's attachments?",
+    "Text": "Attachments are still equipped.\nDeposit the weapon and its attachments?",
     "Enabled": true
   },
   "21644": {
@@ -1976,7 +1976,7 @@
   },
   "21648": {
     "OriginalText": "アタッチパーツがセットされています。\n武器を捨てるには、アタッチパーツを\nはずす必要があります。",
-    "Text": "To discard the weapon,\nyou must remove it's\nattachments first.",
+    "Text": "To discard the weapon,\nyou must remove its\nattachments first.",
     "Enabled": true
   },
   "21649": {
