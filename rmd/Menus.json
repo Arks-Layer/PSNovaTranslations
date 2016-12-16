@@ -156,53 +156,53 @@
   },
   "10813": {
     "OriginalText": "あ行",
-    "Text": "",
-    "Enabled": false
+    "Text": "Line 1",
+    "Enabled": true
   },
   "10814": {
     "OriginalText": "か行",
-    "Text": "",
-    "Enabled": false
+    "Text": "Line 2",
+    "Enabled": true
   },
   "10815": {
     "OriginalText": "さ行",
-    "Text": "",
-    "Enabled": false
+    "Text": "Line 3",
+    "Enabled": true
   },
   "10816": {
     "OriginalText": "た行",
-    "Text": "",
-    "Enabled": false
+    "Text": "Line 4",
+    "Enabled": true
   },
   "10817": {
     "OriginalText": "な行",
-    "Text": "",
-    "Enabled": false
+    "Text": "Line 5",
+    "Enabled": true
   },
   "10818": {
     "OriginalText": "は行",
-    "Text": "",
-    "Enabled": false
+    "Text": "Line 6",
+    "Enabled": true
   },
   "10819": {
     "OriginalText": "ま行",
-    "Text": "",
-    "Enabled": false
+    "Text": "Line 7",
+    "Enabled": true
   },
   "10820": {
     "OriginalText": "や行",
-    "Text": "",
-    "Enabled": false
+    "Text": "Line 8",
+    "Enabled": true
   },
   "10821": {
     "OriginalText": "ら行",
-    "Text": "",
-    "Enabled": false
+    "Text": "Line 9",
+    "Enabled": true
   },
   "10822": {
     "OriginalText": "わ行",
-    "Text": "",
-    "Enabled": false
+    "Text": "Line 10",
+    "Enabled": true
   },
   "10823": {
     "OriginalText": "全ての武器",
