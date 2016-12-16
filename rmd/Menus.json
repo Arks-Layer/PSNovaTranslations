@@ -641,7 +641,7 @@
   },
   "20138": {
     "OriginalText": "現在のクラスではこの技は使えません。\nこの技のレベルを上げますか？",
-    "Text": "Techs are not usable for this class.\nDo you want to level this Technique?",
+    "Text": "Techs are not usable for this class.\nDo you want to raise this Technique's level?",
     "Enabled": true
   },
   "20139": {
@@ -651,7 +651,7 @@
   },
   "20140": {
     "OriginalText": "現在のクラスではこのテクニックは使えません。\nこの技のテクニックのレベルを上げますか？",
-    "Text": "Techs are not usable for this class.\nDo you want to level this Technique?",
+    "Text": "Techs are not usable for this class.\nDo you want to raise this Technique's level?",
     "Enabled": true
   },
   "20201": {
