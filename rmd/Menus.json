@@ -271,7 +271,7 @@
   },
   "10913": {
     "OriginalText": "一時倉庫にアイテムが入っているため\nアクセスできません。\n一時倉庫を空にする必要があります。",
-    "Text": "You can't access this due to items in your Temp storage.\nPlease remove the items from your Temp storage first.",
+    "Text": "You can't access this due to items in your Temp Storage.\nPlease remove the items from your Temp Storage first.",
     "Enabled": true
   },
   "10914": {
@@ -536,7 +536,7 @@
   },
   "20117": {
     "OriginalText": "一時倉庫にアイテムが入っているため\nアクセスできません。\n一時倉庫を空にする必要があります。",
-    "Text": "Items are in your Temp storage.\nPlease remove the items from\nyour Temp storage first.",
+    "Text": "You can't access this due to items in your Temp Storage.\nPlease remove the items from your Temp Storage first.",
     "Enabled": true
   },
   "20118": {
@@ -621,7 +621,7 @@
   },
   "20134": {
     "OriginalText": "アイテムパックがいっぱいなので倉庫に預けました。",
-    "Text": "Inventory was full, so item(s)\nwere sent to storage.",
+    "Text": "Inventory was full, so item(s)\nwere sent to Storage.",
     "Enabled": true
   },
   "20135": {
@@ -1006,7 +1006,7 @@
   },
   "20606": {
     "OriginalText": "一時倉庫にアイテムが入っているため\nアクセスできません。\n一時倉庫を空にする必要があります。",
-    "Text": "Items are in your Temp storage.\nPlease remove the items from\nyour Temp storage first.",
+    "Text": "You can't access this due to items in your Temp Storage.\nPlease remove the items from your Temp Storage first.",
     "Enabled": true
   },
   "20607": {
@@ -1921,7 +1921,7 @@
   },
   "21637": {
     "OriginalText": "一時倉庫にアイテムが入っているため\nアクセスできません。\n一時倉庫を空にする必要があります。",
-    "Text": "Items are in your Temp storage.\nPlease remove the items from\nyour Temp storage first.",
+    "Text": "You can't access this due to items in your Temp Storage.\nPlease remove the items from your Temp Storage first.",
     "Enabled": true
   },
   "21638": {
@@ -1971,7 +1971,7 @@
   },
   "21647": {
     "OriginalText": "倉庫に送れませんでした。",
-    "Text": "Could not send to storage.",
+    "Text": "Could not send to Storage.",
     "Enabled": true
   },
   "21648": {
@@ -2046,7 +2046,7 @@
   },
   "21713": {
     "OriginalText": "一時倉庫にアイテムが入っているため\nアクセスできません。\n一時倉庫を空にする必要があります。",
-    "Text": "Items are in your Temp storage.\nPlease remove the items from your Temp storage first.",
+    "Text": "You can't access this due to items in your Temp Storage.\nPlease remove the items from your Temp Storage first.",
     "Enabled": true
   },
   "21714": {
@@ -2981,8 +2981,8 @@
   },
   "22217": {
     "OriginalText": "一時倉庫にアイテムが入っているため\nアクセスできません。\n一時倉庫を空にする必要があります。",
-    "Text": "",
-    "Enabled": false
+    "Text": "You can't access this due to items in your Temp Storage.\nPlease remove the items from your Temp Storage first.",
+    "Enabled": true
   },
   "22218": {
     "OriginalText": "うち疲労者",
@@ -3046,7 +3046,7 @@
   },
   "22301": {
     "OriginalText": "一時倉庫にアイテムが入っているため\nアクセスできません。\n一時倉庫を空にする必要があります。",
-    "Text": "Because of the items in Temp Storage,\naccess is temporarily unavailable.\nPlease clear out Temp Storage.",
+    "Text": "You can't access this due to items in your Temp Storage.\nPlease remove the items from your Temp Storage first.",
     "Enabled": true
   },
   "22302": {
@@ -3071,7 +3071,7 @@
   },
   "22401": {
     "OriginalText": "一時倉庫にアイテムが入っているため\nアクセスできません。\n一時倉庫を空にする必要があります。",
-    "Text": "Because of the items in Temp Storage,\naccess is temporarily unavailable.\nPlease clear out Temp Storage.",
+    "Text": "You can't access this due to items in your Temp Storage.\nPlease remove the items from your Temp Storage first.",
     "Enabled": true
   },
   "22402": {
@@ -3156,7 +3156,7 @@
   },
   "22501": {
     "OriginalText": "一時倉庫にアイテムが入っているため\nアクセスできません。\n一時倉庫を空にする必要があります。",
-    "Text": "Because of the items in Temp Storage,\naccess is temporarily unavailable.\nPlease clear out Temp Storage",
+    "Text": "You can't access this due to items in your Temp Storage.\nPlease remove the items from your Temp Storage first.",
     "Enabled": true
   },
   "22601": {
