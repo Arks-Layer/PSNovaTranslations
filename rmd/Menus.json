@@ -551,22 +551,22 @@
   },
   "20120": {
     "OriginalText": "クラスを変更します。\n\nハンター\n\nよろしいですか？",
-    "Text": "Changing class to:\n\nHunter\n\nIs this OK?",
+    "Text": "Changing class to:\n\nHunter\n\nContinue?",
     "Enabled": true
   },
   "20121": {
     "OriginalText": "クラスを変更します。\n\nレンジャー\n\nよろしいですか？",
-    "Text": "Changing class to:\n\nRanger\n\nIs this OK?",
+    "Text": "Changing class to:\n\nRanger\n\nContinue?",
     "Enabled": true
   },
   "20122": {
     "OriginalText": "クラスを変更します。\n\nフォース\n\nよろしいですか？",
-    "Text": "Changing class to:\n\nForce\n\nIs this OK?",
+    "Text": "Changing class to:\n\nForce\n\nContinue?",
     "Enabled": true
   },
   "20123": {
     "OriginalText": "クラスを変更します。\n\nバスター\n\nよろしいですか？",
-    "Text": "Changing class to:\n\nBuster\n\nIs this OK?",
+    "Text": "Changing class to:\n\nBuster\n\nContinue?",
     "Enabled": true
   },
   "20124": {
@@ -751,7 +751,7 @@
   },
   "20220": {
     "OriginalText": "解凍時に自動セーブされます。\n\nよろしいですか？",
-    "Text": "Data will be automatically\nsaved before defrosting.\n\nIs this OK?",
+    "Text": "Data will be automatically\nsaved before defrosting.\n\nContinue?",
     "Enabled": true
   },
   "20221": {
@@ -991,7 +991,7 @@
   },
   "20603": {
     "OriginalText": "よろしいですか？",
-    "Text": "Is this OK?",
+    "Text": "Continue?",
     "Enabled": true
   },
   "20604": {
@@ -1396,7 +1396,7 @@
   },
   "21113": {
     "OriginalText": "パーティー参加を中止します。\n\nよろしいですか？",
-    "Text": "You will leave the party.\n\nIs that OK?",
+    "Text": "Leave the party?",
     "Enabled": true
   },
   "21114": {
@@ -4116,7 +4116,7 @@
   },
   "25213": {
     "OriginalText": "よろしいですか？",
-    "Text": "Is this OK?",
+    "Text": "Continue?",
     "Enabled": true
   },
   "25214": {
@@ -4191,7 +4191,7 @@
   },
   "25403": {
     "OriginalText": "クリエイトを中断します。\n編集内容は反映されません。\n\nよろしいですか？",
-    "Text": "Cancel re-creation?\n[a 03]Edits will not be saved![b]",
+    "Text": "Cancel re-creation?\n\n[a 03]Edits will not be saved![b]",
     "Enabled": true
   },
   "25404": {
