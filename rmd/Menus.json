@@ -2426,7 +2426,7 @@
   },
   "22014": {
     "OriginalText": "アイテム探知伝置",
-    "Text": "Item Detector",
+    "Text": "Item Detection System",
     "Enabled": true
   },
   "22015": {
@@ -2516,7 +2516,7 @@
   },
   "22032": {
     "OriginalText": "施設効果 アイテム探知伝置",
-    "Text": "Item Detector Facility Effect",
+    "Text": "Item Detection System Facility Effect",
     "Enabled": true
   },
   "22033": {
