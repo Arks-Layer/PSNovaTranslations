@@ -826,7 +826,7 @@
   },
   "20312": {
     "OriginalText": "アクションを外しますか？",
-    "Text": "Do you wish to remove this action?",
+    "Text": "Do you want to remove this action?",
     "Enabled": true
   },
   "20313": {
@@ -1576,7 +1576,7 @@
   },
   "21221": {
     "OriginalText": "拠点に施設が追加されました。",
-    "Text": "A facility has been added.",
+    "Text": "A facility has been added:",
     "Enabled": true
   },
   "21222": {
@@ -1831,7 +1831,7 @@
   },
   "21619": {
     "OriginalText": "アタッチパーツを作成しますか？",
-    "Text": "Create Attachment?",
+    "Text": "Create attachment?",
     "Enabled": true
   },
   "21620": {
@@ -1861,7 +1861,7 @@
   },
   "21625": {
     "OriginalText": "アタッチパーツを編集しますか？",
-    "Text": "Do you want to\nedit the attached parts?",
+    "Text": "Do you want to edit the attachments?",
     "Enabled": true
   },
   "21626": {
@@ -1876,7 +1876,7 @@
   },
   "21628": {
     "OriginalText": "アタッチパーツ",
-    "Text": "Attach Parts",
+    "Text": "Attachments",
     "Enabled": true
   },
   "21629": {
@@ -1926,7 +1926,7 @@
   },
   "21638": {
     "OriginalText": "アタッチパーツを保存せずに戻りますか？",
-    "Text": "Go back without saving Attachments?",
+    "Text": "Go back without saving attachments?",
     "Enabled": true
   },
   "21639": {
@@ -1951,7 +1951,7 @@
   },
   "21643": {
     "OriginalText": "アタッチパーツがセットされています。 \n武器とアタッチパーツを同時に預けます。 \nよろしいですか？ ",
-    "Text": "Attachments are still equipped.\nDeposit the weapon and attachments?",
+    "Text": "Attachments are still equipped.\nDeposit the weapon and it's attachments?",
     "Enabled": true
   },
   "21644": {
@@ -1976,12 +1976,12 @@
   },
   "21648": {
     "OriginalText": "アタッチパーツがセットされています。\n武器を捨てるには、アタッチパーツを\nはずす必要があります。",
-    "Text": "To discard the Weapon\nyou must remove it's\nAttachments first.",
+    "Text": "To discard the weapon,\nyou must remove it's\nattachments first.",
     "Enabled": true
   },
   "21649": {
     "OriginalText": "このアタッチパーツを作成する\n条件を既たしていません。",
-    "Text": "You do not meet the\nconditions to create\nthis Attachment.",
+    "Text": "You do not meet the\nconditions to create\nthis attachment.",
     "Enabled": true
   },
   "21701": {
@@ -2241,7 +2241,7 @@
   },
   "21752": {
     "OriginalText": "キャンセルしてクエスト選択に戻ります。\nよろしいですか？",
-    "Text": "Cancel and return to Quest Selection?",
+    "Text": "Cancel and return to quest selection?",
     "Enabled": true
   },
   "21753": {
@@ -2336,7 +2336,7 @@
   },
   "21807": {
     "OriginalText": "目標達成！",
-    "Text": "Objective Completed!",
+    "Text": "Objective completed!",
     "Enabled": true
   },
   "21901": {
@@ -2511,7 +2511,7 @@
   },
   "22031": {
     "OriginalText": "施設効果 バースト加速伝置",
-    "Text": "BURST Acceleration Facility Effect",
+    "Text": "BURST Acceleration Device Facility Effect",
     "Enabled": true
   },
   "22032": {
@@ -2736,27 +2736,27 @@
   },
   "22140": {
     "OriginalText": "ログにアイテムを表示",
-    "Text": "Display items in the log",
+    "Text": "Log item pickups",
     "Enabled": true
   },
   "22141": {
     "OriginalText": "ログにプロミスオーダーを表示",
-    "Text": "Show Promise Orders in the log",
+    "Text": "Log Promise Orders",
     "Enabled": true
   },
   "22142": {
     "OriginalText": "ログにクエストを表示",
-    "Text": "Display current quest in the log",
+    "Text": "Log quest info",
     "Enabled": true
   },
   "22143": {
     "OriginalText": "ログにバトル状況を表示",
-    "Text": "Display battle logging",
+    "Text": "Log battle info",
     "Enabled": true
   },
   "22144": {
     "OriginalText": "ログにグランリンクを表示",
-    "Text": "Display Gran Link in the log",
+    "Text": "Log Gran Links",
     "Enabled": true
   },
   "22145": {
@@ -3181,7 +3181,7 @@
   },
   "22702": {
     "OriginalText": "失敗",
-    "Text": " Failed",
+    "Text": " failed",
     "Enabled": true
   },
   "22703": {
@@ -3191,7 +3191,7 @@
   },
   "22704": {
     "OriginalText": "達成",
-    "Text": " Completed",
+    "Text": " completed",
     "Enabled": true
   },
   "22705": {
@@ -3276,7 +3276,7 @@
   },
   "22721": {
     "OriginalText": "バーストフィニッシュ",
-    "Text": "BURST Finish",
+    "Text": "Burst Finish",
     "Enabled": true
   },
   "22722": {
@@ -3426,7 +3426,7 @@
   },
   "22751": {
     "OriginalText": "指定洋品を入手しました",
-    "Text": "Clothing Available",
+    "Text": "Item Collected",
     "Enabled": true
   },
   "22752": {
@@ -3466,7 +3466,7 @@
   },
   "22759": {
     "OriginalText": "ダウンロードカーペット",
-    "Text": "Download Carpet",
+    "Text": "Download Floor",
     "Enabled": true
   },
   "22760": {
@@ -3831,7 +3831,7 @@
   },
   "24110": {
     "OriginalText": "復活する",
-    "Text": "Reviving",
+    "Text": "Revived",
     "Enabled": true
   },
   "24111": {
@@ -4061,17 +4061,17 @@
   },
   "25202": {
     "OriginalText": "改造を実行します。",
-    "Text": "Performed remodeling.",
+    "Text": "Remodeling completed.",
     "Enabled": true
   },
   "25203": {
     "OriginalText": "コア強化を実行します。",
-    "Text": "Performed Core strengthening.",
+    "Text": "Core strengthening completed.",
     "Enabled": true
   },
   "25204": {
     "OriginalText": "コアが完成しました。",
-    "Text": "Core is now complete.",
+    "Text": "Core completed.",
     "Enabled": true
   },
   "25205": {
@@ -4081,12 +4081,12 @@
   },
   "25206": {
     "OriginalText": "アタッチパーツを持っていません。",
-    "Text": " does not have any\nattached parts.",
+    "Text": " does not have any attachments.",
     "Enabled": true
   },
   "25207": {
     "OriginalText": "コアを持っていません。",
-    "Text": " does not have a core.",
+    "Text": " does not have a Core.",
     "Enabled": true
   },
   "25208": {
@@ -4166,7 +4166,7 @@
   },
   "25223": {
     "OriginalText": "強化できるコアを持っていません。 ",
-    "Text": "You do not have a core\nthat can be enhanced.",
+    "Text": "You do not have a Core\nthat can be enhanced.",
     "Enabled": true
   },
   "25300": {
@@ -4201,7 +4201,7 @@
   },
   "25450": {
     "OriginalText": "武器エクステンド",
-    "Text": "Weapon Extend",
+    "Text": "Extend Weapon",
     "Enabled": true
   },
   "25451": {
