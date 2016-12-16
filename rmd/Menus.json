@@ -2196,7 +2196,7 @@
   },
   "21743": {
     "OriginalText": "リーダーがタイプを決定していません。\nしばらくお待ちください。",
-    "Text": "Please wait while the leader\nselects a Quest.",
+    "Text": "Please wait while the leader\nselects a quest.",
     "Enabled": true
   },
   "21744": {
@@ -2221,7 +2221,7 @@
   },
   "21748": {
     "OriginalText": "このクエストを開始します。\nよろしいですか？",
-    "Text": "Beginning the quest.\nIs that OK?",
+    "Text": "Start the current quest?",
     "Enabled": true
   },
   "21749": {
@@ -2261,7 +2261,7 @@
   },
   "21756": {
     "OriginalText": "このクエストを開始します。\n\n[a 03]パーティーメンバーが選ばれていません。[b]\nよろしいですか？",
-    "Text": "Beginning the quest.\n\n[a 03]No party members have been selected.[b]\n\nIs that OK?",
+    "Text": "Start the current quest?\n\n[a 03]No party members have been selected.[b]",
     "Enabled": true
   },
   "21757": {
