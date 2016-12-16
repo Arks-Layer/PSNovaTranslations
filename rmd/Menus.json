@@ -1001,7 +1001,7 @@
   },
   "20605": {
     "OriginalText": "アイテムが完成しました。",
-    "Text": "Created the selected item.",
+    "Text": "Item(s) created.",
     "Enabled": true
   },
   "20606": {
@@ -1786,12 +1786,12 @@
   },
   "21610": {
     "OriginalText": "武器が完成しました。",
-    "Text": "Weapon creation completed.",
+    "Text": "Weapon created.",
     "Enabled": true
   },
   "21611": {
     "OriginalText": "この武器を作成します。\nよろしいですか？",
-    "Text": "Creating the selected weapon.\nIs this OK?",
+    "Text": "Create weapon?",
     "Enabled": true
   },
   "21612": {
@@ -1831,12 +1831,12 @@
   },
   "21619": {
     "OriginalText": "アタッチパーツを作成しますか？",
-    "Text": "Create Attachment parts?",
+    "Text": "Create Attachment?",
     "Enabled": true
   },
   "21620": {
     "OriginalText": "アタッチパーツが完成しました。",
-    "Text": "Attachment completed.",
+    "Text": "Attachment created.",
     "Enabled": true
   },
   "21621": {
@@ -3056,12 +3056,12 @@
   },
   "22303": {
     "OriginalText": "この防具を作成します。\nよろしいですか？",
-    "Text": "Creating the selected shield.\nIs this OK?",
+    "Text": "Create shield?",
     "Enabled": true
   },
   "22304": {
     "OriginalText": "防具が完成しました。",
-    "Text": "Shield successfully created.",
+    "Text": "Shield created.",
     "Enabled": true
   },
   "22305": {
@@ -3081,12 +3081,12 @@
   },
   "22403": {
     "OriginalText": "このコスチュームを作成します。\nよろしいですか？\n",
-    "Text": "Creating the selected costume.\nIs this OK?\n",
+    "Text": "Create costume?\n",
     "Enabled": true
   },
   "22404": {
     "OriginalText": "コスチュームが完成しました。",
-    "Text": "Created the selected costume.",
+    "Text": "Costume created.",
     "Enabled": true
   },
   "22405": {
