@@ -291,7 +291,7 @@
   },
   "11002": {
     "OriginalText": "アイテム",
-    "Text": "Item",
+    "Text": "Items",
     "Enabled": true
   },
   "11003": {
@@ -1571,7 +1571,7 @@
   },
   "21220": {
     "OriginalText": "約束の確認",
-    "Text": "Confirm Promise Orders",
+    "Text": "Promise Orders",
     "Enabled": true
   },
   "21221": {
@@ -1876,7 +1876,7 @@
   },
   "21628": {
     "OriginalText": "アタッチパーツ",
-    "Text": "Attachments",
+    "Text": "Attachment ",
     "Enabled": true
   },
   "21629": {
@@ -2886,7 +2886,7 @@
   },
   "22170": {
     "OriginalText": "ターゲットカーソルの選択方向",
-    "Text": "Target Cursor Selection Direction",
+    "Text": "Target cursor selection direction",
     "Enabled": true
   },
   "22171": {
