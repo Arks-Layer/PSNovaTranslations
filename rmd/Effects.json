@@ -166,7 +166,7 @@
   },
   "160033": {
     "OriginalText": "ヘイト上昇率アップ",
-    "Text": "Hate Rate",
+    "Text": "Hate Accum.",
     "Enabled": true
   },
   "160034": {
@@ -261,8 +261,8 @@
   },
   "160052": {
     "OriginalText": "全属性耐性ダウン発生率",
-    "Text": "",
-    "Enabled": false
+    "Text": "All Resist Down",
+    "Enabled": true
   },
   "160053": {
     "OriginalText": "状態異常発生率補正",
@@ -301,8 +301,8 @@
   },
   "160060": {
     "OriginalText": "敵のヘイト値",
-    "Text": "",
-    "Enabled": false
+    "Text": "Enemy Hate Value",
+    "Enabled": true
   },
   "160061": {
     "OriginalText": "",
@@ -311,8 +311,8 @@
   },
   "160062": {
     "OriginalText": "自分ＨＰ回復",
-    "Text": "",
-    "Enabled": false
+    "Text": "HP Recovery",
+    "Enabled": true
   },
   "160063": {
     "OriginalText": "周囲ＨＰ回復",
@@ -321,8 +321,8 @@
   },
   "160064": {
     "OriginalText": "周囲状態異常回復",
-    "Text": "",
-    "Enabled": false
+    "Text": "Area Status Recovery",
+    "Enabled": true
   },
   "160065": {
     "OriginalText": "周囲戦闘不能回復",
@@ -331,8 +331,8 @@
   },
   "160066": {
     "OriginalText": "効果範囲",
-    "Text": "",
-    "Enabled": false
+    "Text": "Effect Range",
+    "Enabled": true
   },
   "160067": {
     "OriginalText": "自分戦闘不能回復",
@@ -741,8 +741,8 @@
   },
   "160148": {
     "OriginalText": "エステ選択区目UP",
-    "Text": "",
-    "Enabled": false
+    "Text": "Makeover Selection UP",
+    "Enabled": true
   },
   "160149": {
     "OriginalText": "アイテム探索",
@@ -871,8 +871,8 @@
   },
   "160174": {
     "OriginalText": "攻撃アクション再生速度",
-    "Text": "",
-    "Enabled": false
+    "Text": "Attack Speed",
+    "Enabled": true
   },
   "160175": {
     "OriginalText": "ＧＰ回復",
@@ -986,7 +986,7 @@
   },
   "160197": {
     "OriginalText": "弱点ダメージアップ",
-    "Text": "Weakness Damage",
+    "Text": "Weak Pt. Damage",
     "Enabled": true
   },
   "160198": {
@@ -1031,28 +1031,28 @@
   },
   "160206": {
     "OriginalText": "習得LV1～6の素材滅",
-    "Text": "",
-    "Enabled": false
+    "Text": "Lv. 1-6 Reduced Cost",
+    "Enabled": true
   },
   "160207": {
     "OriginalText": "習得LV7～12の素材滅",
-    "Text": "",
-    "Enabled": false
+    "Text": "Lv. 7-12 Reduced Cost",
+    "Enabled": true
   },
   "160208": {
     "OriginalText": "習得LV13～19の素材滅",
-    "Text": "",
-    "Enabled": false
+    "Text": "Lv. 13-19 Reduced Cost",
+    "Enabled": true
   },
   "160209": {
     "OriginalText": "習得LV20～25の素材滅",
-    "Text": "",
-    "Enabled": false
+    "Text": "Lv. 20-25 Reduced Cost",
+    "Enabled": true
   },
   "160210": {
     "OriginalText": "習得LV26～30の素材滅",
-    "Text": "",
-    "Enabled": false
+    "Text": "Lv. 26-30 Reduced Cost",
+    "Enabled": true
   },
   "160211": {
     "OriginalText": "保留",
@@ -1081,18 +1081,18 @@
   },
   "160216": {
     "OriginalText": "料理★1の素材滅",
-    "Text": "",
-    "Enabled": false
+    "Text": "1★ Dish Reduced Cost",
+    "Enabled": true
   },
   "160217": {
     "OriginalText": "料理★2の素材滅",
-    "Text": "",
-    "Enabled": false
+    "Text": "2★ Dish Reduced Cost",
+    "Enabled": true
   },
   "160218": {
     "OriginalText": "料理★3の素材滅",
-    "Text": "",
-    "Enabled": false
+    "Text": "3★ Dish Reduced Cost",
+    "Enabled": true
   },
   "160219": {
     "OriginalText": "保留",
@@ -1131,33 +1131,33 @@
   },
   "160226": {
     "OriginalText": "武器★5の素材滅",
-    "Text": "",
-    "Enabled": false
+    "Text": "5★ Weapon Reduced Cost",
+    "Enabled": true
   },
   "160227": {
     "OriginalText": "武器★6の素材滅",
-    "Text": "",
-    "Enabled": false
+    "Text": "6★ Weapon Reduced Cost",
+    "Enabled": true
   },
   "160228": {
     "OriginalText": "武器★7の素材滅",
-    "Text": "",
-    "Enabled": false
+    "Text": "7★ Weapon Reduced Cost",
+    "Enabled": true
   },
   "160229": {
     "OriginalText": "武器★8の素材滅",
-    "Text": "",
-    "Enabled": false
+    "Text": "8★ Weapon Reduced Cost",
+    "Enabled": true
   },
   "160230": {
     "OriginalText": "武器★9の素材滅",
-    "Text": "",
-    "Enabled": false
+    "Text": "9★ Weapon Reduced Cost",
+    "Enabled": true
   },
   "160231": {
     "OriginalText": "武器★10の素材滅",
-    "Text": "",
-    "Enabled": false
+    "Text": "10★ Weapon Reduced Cost",
+    "Enabled": true
   },
   "160232": {
     "OriginalText": "保留",
@@ -1181,33 +1181,33 @@
   },
   "160236": {
     "OriginalText": "防具★5の素材滅",
-    "Text": "",
-    "Enabled": false
+    "Text": "5★ Shield Reduced Cost",
+    "Enabled": true
   },
   "160237": {
     "OriginalText": "防具★6の素材滅",
-    "Text": "",
-    "Enabled": false
+    "Text": "6★ Shield Reduced Cost",
+    "Enabled": true
   },
   "160238": {
     "OriginalText": "防具★7の素材滅",
-    "Text": "",
-    "Enabled": false
+    "Text": "7★ Shield Reduced Cost",
+    "Enabled": true
   },
   "160239": {
     "OriginalText": "防具★8の素材滅",
-    "Text": "",
-    "Enabled": false
+    "Text": "8★ Shield Reduced Cost",
+    "Enabled": true
   },
   "160240": {
     "OriginalText": "防具★9の素材滅",
-    "Text": "",
-    "Enabled": false
+    "Text": "9★ Shield Reduced Cost",
+    "Enabled": true
   },
   "160241": {
     "OriginalText": "防具★10の素材滅",
-    "Text": "",
-    "Enabled": false
+    "Text": "10★ Shield Reduced Cost",
+    "Enabled": true
   },
   "160242": {
     "OriginalText": "保留",
@@ -1231,28 +1231,28 @@
   },
   "160246": {
     "OriginalText": "道具★1の素材滅",
-    "Text": "",
-    "Enabled": false
+    "Text": "1★ Item Reduced Cost",
+    "Enabled": true
   },
   "160247": {
     "OriginalText": "道具★2の素材滅",
-    "Text": "",
-    "Enabled": false
+    "Text": "2★ Item Reduced Cost",
+    "Enabled": true
   },
   "160248": {
     "OriginalText": "道具★3の素材滅",
-    "Text": "",
-    "Enabled": false
+    "Text": "3★ Item Reduced Cost",
+    "Enabled": true
   },
   "160249": {
     "OriginalText": "道具★4の素材滅",
-    "Text": "",
-    "Enabled": false
+    "Text": "4★ Item Reduced Cost",
+    "Enabled": true
   },
   "160250": {
     "OriginalText": "道具★5の素材滅",
-    "Text": "",
-    "Enabled": false
+    "Text": "5★ Item Reduced Cost",
+    "Enabled": true
   },
   "160251": {
     "OriginalText": "保留",
@@ -1276,33 +1276,33 @@
   },
   "160255": {
     "OriginalText": "衣伝★5の素材滅",
-    "Text": "",
-    "Enabled": false
+    "Text": "5★ Costume Reduced Cost",
+    "Enabled": true
   },
   "160256": {
     "OriginalText": "衣伝★6の素材滅",
-    "Text": "",
-    "Enabled": false
+    "Text": "6★ Costume Reduced Cost",
+    "Enabled": true
   },
   "160257": {
     "OriginalText": "衣伝★7の素材滅",
-    "Text": "",
-    "Enabled": false
+    "Text": "7★ Costume Reduced Cost",
+    "Enabled": true
   },
   "160258": {
     "OriginalText": "衣伝★8の素材滅",
-    "Text": "",
-    "Enabled": false
+    "Text": "8★ Costume Reduced Cost",
+    "Enabled": true
   },
   "160259": {
     "OriginalText": "衣伝★9の素材滅",
-    "Text": "",
-    "Enabled": false
+    "Text": "9★ Costume Reduced Cost",
+    "Enabled": true
   },
   "160260": {
     "OriginalText": "衣伝★10の素材滅",
-    "Text": "",
-    "Enabled": false
+    "Text": "10★ Costume Reduced Cost",
+    "Enabled": true
   },
   "160261": {
     "OriginalText": "[a 07]経験値      +100%[b]",
@@ -1316,128 +1316,128 @@
   },
   "160263": {
     "OriginalText": "精錬所エナジー滅",
-    "Text": "",
-    "Enabled": false
+    "Text": "Core Refinery Reduced Energy",
+    "Enabled": true
   },
   "160264": {
     "OriginalText": "武器★11の素材滅",
-    "Text": "",
-    "Enabled": false
+    "Text": "11★ Weapon Reduced Cost",
+    "Enabled": true
   },
   "160265": {
     "OriginalText": "武器★12の素材滅",
-    "Text": "",
-    "Enabled": false
+    "Text": "12★ Weapon Reduced Cost",
+    "Enabled": true
   },
   "160266": {
     "OriginalText": "武器★13の素材滅",
-    "Text": "",
-    "Enabled": false
+    "Text": "13★ Weapon Reduced Cost",
+    "Enabled": true
   },
   "160267": {
     "OriginalText": "武器★14の素材滅",
-    "Text": "",
-    "Enabled": false
+    "Text": "14★ Weapon Reduced Cost",
+    "Enabled": true
   },
   "160268": {
     "OriginalText": "武器★15の素材滅",
-    "Text": "",
-    "Enabled": false
+    "Text": "15★ Weapon Reduced Cost",
+    "Enabled": true
   },
   "160269": {
     "OriginalText": "防具★11の素材滅",
-    "Text": "",
-    "Enabled": false
+    "Text": "11★ Shield Reduced Cost",
+    "Enabled": true
   },
   "160270": {
     "OriginalText": "防具★12の素材滅",
-    "Text": "",
-    "Enabled": false
+    "Text": "12★ Shield Reduced Cost",
+    "Enabled": true
   },
   "160271": {
     "OriginalText": "防具★13の素材滅",
-    "Text": "",
-    "Enabled": false
+    "Text": "13★ Shield Reduced Cost",
+    "Enabled": true
   },
   "160272": {
     "OriginalText": "防具★14の素材滅",
-    "Text": "",
-    "Enabled": false
+    "Text": "14★ Shield Reduced Cost",
+    "Enabled": true
   },
   "160273": {
     "OriginalText": "防具★15の素材滅",
-    "Text": "",
-    "Enabled": false
+    "Text": "15★ Shield Reduced Cost",
+    "Enabled": true
   },
   "160274": {
     "OriginalText": "弱点部位ダメージアップ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Weak Part Damage",
+    "Enabled": true
   },
   "160275": {
     "OriginalText": "弱点属性ダメージアップ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Weak Attr. Damage",
+    "Enabled": true
   },
   "160276": {
     "OriginalText": "エクステンド素材滅",
-    "Text": "",
-    "Enabled": false
+    "Text": "More Materials",
+    "Enabled": true
   },
   "160277": {
     "OriginalText": "精錬所機能拡張",
-    "Text": "",
-    "Enabled": false
+    "Text": "Core Refinary Expansion",
+    "Enabled": true
   },
   "160278": {
     "OriginalText": "バーストゲージ上昇",
-    "Text": "",
-    "Enabled": false
+    "Text": "BURST Gauge Rise",
+    "Enabled": true
   },
   "160501": {
     "OriginalText": "射撃耐性",
-    "Text": "",
-    "Enabled": false
+    "Text": "Shot Resist",
+    "Enabled": true
   },
   "160502": {
     "OriginalText": "法撃耐性",
-    "Text": "",
-    "Enabled": false
+    "Text": "Tech Resist",
+    "Enabled": true
   },
   "160503": {
     "OriginalText": "炎属性攻撃力アップ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Flame Attack",
+    "Enabled": true
   },
   "160504": {
     "OriginalText": "劇属性攻撃力アップ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Ice Attack",
+    "Enabled": true
   },
   "160505": {
     "OriginalText": "雷属性攻撃力アップ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Lightning Attack",
+    "Enabled": true
   },
   "160506": {
     "OriginalText": "風属性攻撃力アップ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Wind Attack",
+    "Enabled": true
   },
   "160507": {
     "OriginalText": "光属性攻撃力アップ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Light Attack",
+    "Enabled": true
   },
   "160508": {
     "OriginalText": "闇属性攻撃力アップ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Dark Attack",
+    "Enabled": true
   },
   "160509": {
     "OriginalText": "全属性耐性",
-    "Text": "",
-    "Enabled": false
+    "Text": "All Resist",
+    "Enabled": true
   },
   "160510": {
     "OriginalText": "確率でダメージ無効",
@@ -1446,17 +1446,17 @@
   },
   "160511": {
     "OriginalText": "ＨＰ低下で防御力アップ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Lower HP Raises Defense",
+    "Enabled": true
   },
   "160512": {
     "OriginalText": "ＨＰ低下で防御力ダウン",
-    "Text": "",
-    "Enabled": false
+    "Text": "Lower HP Lowers Defense",
+    "Enabled": true
   },
   "160513": {
     "OriginalText": "ヘイト上昇率ダウン",
-    "Text": "",
+    "Text": "Hate Accum. Down",
     "Enabled": false
   },
   "160514": {
@@ -1556,13 +1556,13 @@
   },
   "160533": {
     "OriginalText": "確率でダメージアップ",
-    "Text": "Damage Increase",
+    "Text": "Damage Increase Chance",
     "Enabled": true
   },
   "160534": {
     "OriginalText": "ＨＰ低下で攻撃力アップ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Lower HP Raises Attack",
+    "Enabled": true
   },
   "160535": {
     "OriginalText": "",
@@ -1571,8 +1571,8 @@
   },
   "160536": {
     "OriginalText": "ＨＰ低下で攻撃力ダウン",
-    "Text": "",
-    "Enabled": false
+    "Text": "Lower HP Lowers Attack",
+    "Enabled": true
   },
   "160537": {
     "OriginalText": "",
@@ -1621,18 +1621,18 @@
   },
   "160546": {
     "OriginalText": "ＨＰ低下で攻撃力アップ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Lower HP Raises Attack",
+    "Enabled": true
   },
   "160547": {
     "OriginalText": "ＨＰ低下で防御力ダウン",
-    "Text": "",
+    "Text": "Lower HP Lowers Attack",
     "Enabled": false
   },
   "160548": {
     "OriginalText": "ＨＰ低下で防御力アップ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Lower HP Raises Defense",
+    "Enabled": true
   },
   "160549": {
     "OriginalText": "",
@@ -1641,63 +1641,63 @@
   },
   "160550": {
     "OriginalText": "時間経過で攻撃力アップ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Increased Attack Over Time",
+    "Enabled": true
   },
   "160551": {
     "OriginalText": "時間経過で防御力アップ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Increased Defense Over Time",
+    "Enabled": true
   },
   "160552": {
     "OriginalText": "時間経過で攻撃力ダウン",
-    "Text": "",
-    "Enabled": false
+    "Text": "Decreased Attack Over Time",
+    "Enabled": true
   },
   "160553": {
     "OriginalText": "時間経過で防御力ダウン",
-    "Text": "",
-    "Enabled": false
+    "Text": "Decreased Defense Over Time",
+    "Enabled": true
   },
   "160554": {
     "OriginalText": "追加：炎属性ダウン",
-    "Text": "",
-    "Enabled": false
+    "Text": "Add: Flame Resist Down",
+    "Enabled": true
   },
   "160555": {
     "OriginalText": "追加：劇属性ダウン",
-    "Text": "",
+    "Text": "Add: Ice Resist Down.",
     "Enabled": false
   },
   "160556": {
     "OriginalText": "追加：雷属性ダウン",
-    "Text": "",
-    "Enabled": false
+    "Text": "Add: Ltn. Resist Down",
+    "Enabled": true
   },
   "160557": {
     "OriginalText": "追加：風属性ダウン",
-    "Text": "",
-    "Enabled": false
+    "Text": "Add: Wind Resist Down",
+    "Enabled": true
   },
   "160558": {
     "OriginalText": "追加：光属性ダウン",
-    "Text": "",
-    "Enabled": false
+    "Text": "Add: Light Resist Down",
+    "Enabled": true
   },
   "160559": {
     "OriginalText": "追加：闇属性ダウン",
-    "Text": "",
-    "Enabled": false
+    "Text": "Add: Dark Resist Down",
+    "Enabled": true
   },
   "160560": {
     "OriginalText": "追加：全属性ダウン",
-    "Text": "",
-    "Enabled": false
+    "Text": "Add: All Resist Down",
+    "Enabled": true
   },
   "160561": {
     "OriginalText": "攻撃速度",
-    "Text": "",
-    "Enabled": false
+    "Text": "Attack Speed",
+    "Enabled": true
   },
   "160562": {
     "OriginalText": "状態異常耐性アップ",
@@ -1706,8 +1706,8 @@
   },
   "160563": {
     "OriginalText": "補助テクニック範囲",
-    "Text": "",
-    "Enabled": false
+    "Text": "Support Tech Range",
+    "Enabled": true
   },
   "160564": {
     "OriginalText": "劇属性テクニックアップ",
@@ -1716,7 +1716,7 @@
   },
   "160700": {
     "OriginalText": "探索：日数軽滅",
-    "Text": "",
-    "Enabled": false
+    "Text": "Search: Days Left",
+    "Enabled": true
   }
 }
