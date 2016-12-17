@@ -51,22 +51,22 @@
   },
   "500010": {
     "OriginalText": "顔と髪を編集",
-    "Text": "Change Face and Hair",
+    "Text": "Edit Face and Hair",
     "Enabled": true
   },
   "500011": {
     "OriginalText": "体型の編集",
-    "Text": "Change Body",
+    "Text": "Edit Body",
     "Enabled": true
   },
   "500012": {
     "OriginalText": "ファッションを選択",
-    "Text": "Change Clothes",
+    "Text": "Edit Costume",
     "Enabled": true
   },
   "500013": {
     "OriginalText": "編集内容の確認と取消",
-    "Text": "Review Changes",
+    "Text": "Review Edits",
     "Enabled": true
   },
   "500014": {
@@ -81,12 +81,12 @@
   },
   "500016": {
     "OriginalText": "ボイスピッチを調整",
-    "Text": "Adjust Voice Pitch",
+    "Text": "Edit Voice Pitch",
     "Enabled": true
   },
   "500017": {
     "OriginalText": "顔バリエーション選択",
-    "Text": "Face Variant Selection",
+    "Text": "Select Face Type",
     "Enabled": true
   },
   "500018": {
@@ -96,7 +96,7 @@
   },
   "500019": {
     "OriginalText": "ヘアスタイル編集",
-    "Text": "Hairstyle Editing",
+    "Text": "Edit Hair",
     "Enabled": true
   },
   "500020": {
@@ -121,57 +121,57 @@
   },
   "500024": {
     "OriginalText": "ボディ選択",
-    "Text": "Body Selection",
+    "Text": "Select Body Part",
     "Enabled": true
   },
   "500025": {
     "OriginalText": "アーム選択",
-    "Text": "Arm Selection",
+    "Text": "Select Arm Part",
     "Enabled": true
   },
   "500026": {
     "OriginalText": "レッグ選択",
-    "Text": "Leg Selection",
+    "Text": "Select Leg Part",
     "Enabled": true
   },
   "500027": {
     "OriginalText": "走行方法選択",
-    "Text": "Running Method Selection",
+    "Text": "Select Running Animation",
     "Enabled": true
   },
   "500028": {
     "OriginalText": "ボディペイント選択",
-    "Text": "Tattoo Selection",
+    "Text": "Select Tattoo",
     "Enabled": true
   },
   "500029": {
     "OriginalText": "コスチューム選択",
-    "Text": "Costume Selection",
+    "Text": "Select Costume",
     "Enabled": true
   },
   "500030": {
     "OriginalText": "コスチュームカラー設定",
-    "Text": "Costume Color Setting",
+    "Text": "Edit Costume Color",
     "Enabled": true
   },
   "500031": {
     "OriginalText": "メインカラーを設定",
-    "Text": "Set Main Color",
+    "Text": "Edit Main Color",
     "Enabled": true
   },
   "500032": {
     "OriginalText": "サブカラー１を設定",
-    "Text": "Set Sub Color 1",
+    "Text": "Edit Sub Color 1",
     "Enabled": true
   },
   "500033": {
     "OriginalText": "サブカラー２を設定",
-    "Text": "Set Sub Color 2",
+    "Text": "Edit Sub Color 2",
     "Enabled": true
   },
   "500034": {
     "OriginalText": "サブカラー３を設定",
-    "Text": "Set Sub Color 3",
+    "Text": "Edit Sub Color 3",
     "Enabled": true
   },
   "500035": {
@@ -206,27 +206,27 @@
   },
   "500041": {
     "OriginalText": "ファッションランダム選択",
-    "Text": "Randomize Clothing",
+    "Text": "Randomize Costume",
     "Enabled": true
   },
   "500042": {
     "OriginalText": "顔全体を調整",
-    "Text": "Adjust Face",
+    "Text": "Edit Entire Face",
     "Enabled": true
   },
   "500043": {
     "OriginalText": "目を調整",
-    "Text": "Adjust Eyes",
+    "Text": "Edit Eyes",
     "Enabled": true
   },
   "500044": {
     "OriginalText": "瞳を選択",
-    "Text": "Select Eye Variation",
+    "Text": "Select Eye Type",
     "Enabled": true
   },
   "500045": {
     "OriginalText": "瞳カラーを設定",
-    "Text": "Select Eye Color",
+    "Text": "Edit Eye Color",
     "Enabled": true
   },
   "500046": {
@@ -236,7 +236,7 @@
   },
   "500047": {
     "OriginalText": "まゆカラーを設定",
-    "Text": "Set Eyebrow Color",
+    "Text": "Edit Eyebrow Color",
     "Enabled": true
   },
   "500048": {
@@ -246,22 +246,22 @@
   },
   "500049": {
     "OriginalText": "鼻を調整",
-    "Text": "Adjust Nose",
+    "Text": "Edit Nose",
     "Enabled": true
   },
   "500050": {
     "OriginalText": "耳を調整",
-    "Text": "Adjust Ears",
+    "Text": "Edit Ears",
     "Enabled": true
   },
   "500051": {
     "OriginalText": "口を調整",
-    "Text": "Adjust Lips",
+    "Text": "Edit Lips",
     "Enabled": true
   },
   "500052": {
     "OriginalText": "肌カラーを設定",
-    "Text": "Set Skin Color",
+    "Text": "Edit Skin Color",
     "Enabled": true
   },
   "500053": {
@@ -271,7 +271,7 @@
   },
   "500054": {
     "OriginalText": "ヘアカラーを設定",
-    "Text": "Set Hair Color",
+    "Text": "Edit Hair Color",
     "Enabled": true
   },
   "500055": {
@@ -281,32 +281,32 @@
   },
   "500056": {
     "OriginalText": "ヘッドパーツカラー設定",
-    "Text": "Head Part Color Settings",
+    "Text": "Edit Head Part Color",
     "Enabled": true
   },
   "500057": {
     "OriginalText": "体全体を調整",
-    "Text": "Adjust Entire Body",
+    "Text": "Edit Entire Body",
     "Enabled": true
   },
   "500058": {
     "OriginalText": "腕を調整",
-    "Text": "Adjust Arms",
+    "Text": "Edit Arms",
     "Enabled": true
   },
   "500059": {
     "OriginalText": "脚を調整",
-    "Text": "Adjust Legs",
+    "Text": "Edit Legs",
     "Enabled": true
   },
   "500060": {
     "OriginalText": "バストを調整",
-    "Text": "Adjust Breasts",
+    "Text": "Edit Breasts",
     "Enabled": true
   },
   "500061": {
     "OriginalText": "筋肉表現を調整",
-    "Text": "Adjust Muscle Mass",
+    "Text": "Edit Muscle Mass",
     "Enabled": true
   },
   "500062": {
@@ -471,7 +471,7 @@
   },
   "500094": {
     "OriginalText": "二足歩行",
-    "Text": "Run on Two Legs",
+    "Text": "Bipedal Walking",
     "Enabled": true
   },
   "500095": {
@@ -481,7 +481,7 @@
   },
   "500096": {
     "OriginalText": "色を選択する",
-    "Text": "Select Color",
+    "Text": "Edit Color",
     "Enabled": true
   },
   "500097": {
@@ -491,7 +491,7 @@
   },
   "500098": {
     "OriginalText": "発光カラー設定",
-    "Text": "Detail Color Setting",
+    "Text": "Edit Detail Color",
     "Enabled": true
   },
   "500099": {
@@ -511,22 +511,22 @@
   },
   "500108": {
     "OriginalText": "キャラクターの名前を入力してください。\n倣字、半角カナ、一部記号は使えません。\n入力された場合、その文字は省かれます。",
-    "Text": "Please enter the name of your character.\nIf you enter an invalid symbol, it\nwill be removed.",
+    "Text": "Please enter the name of your character.\nIf you enter an invalid symbol, it will be removed.",
     "Enabled": true
   },
   "500109": {
     "OriginalText": "チェックをはずした項目を\nベース状態に戻して表示します。",
-    "Text": "Select an item to toggle on/off.\n",
+    "Text": "Select an item to toggle ON/OFF.",
     "Enabled": true
   },
   "500110": {
     "OriginalText": "編集した項目はありません。",
-    "Text": "Edited item not available.",
+    "Text": "No edited items.",
     "Enabled": true
   },
   "500111": {
     "OriginalText": "この名前で登録します。\n\nよろしいですか？",
-    "Text": "This will register the name.\n\nAre you sure?",
+    "Text": "Do you want to register this name?",
     "Enabled": true
   },
   "500112": {
@@ -546,7 +546,7 @@
   },
   "500115": {
     "OriginalText": "キャラクタークリエイトを\n中断しタイトルに戻ります。\n\nよろしいですか？",
-    "Text": "This will cancel character editing\nand move back to the main menu.\nAll edits will be lost.\nAre you sure?",
+    "Text": "This will cancel character editing\nand go back to the main menu.\nAll edits will be lost.\nAre you sure?",
     "Enabled": true
   },
   "500116": {
@@ -596,7 +596,7 @@
   },
   "500125": {
     "OriginalText": "まゆの色をヘアカラーと同じにしました。",
-    "Text": "Eyebrow color\nmatched to hair.",
+    "Text": "Eyebrow color matched to hair.",
     "Enabled": true
   },
   "500126": {
