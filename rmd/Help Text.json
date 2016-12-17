@@ -937,7 +937,7 @@
   "170187": {
     "OriginalText": "発光カラーを選択します。",
     "Text": "Edit your costume's detail color.",
-    "Enabled": false
+    "Enabled": true
   },
   "170188": {
     "OriginalText": "キャラクターのスタイルを選択します。",
