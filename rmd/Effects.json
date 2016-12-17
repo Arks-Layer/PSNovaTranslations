@@ -1371,12 +1371,12 @@
   },
   "160274": {
     "OriginalText": "弱点部位ダメージアップ",
-    "Text": "Weak Part Damage",
+    "Text": "Weakness Damage",
     "Enabled": true
   },
   "160275": {
     "OriginalText": "弱点属性ダメージアップ",
-    "Text": "Weak Attr. Damage",
+    "Text": "Weak Att. Damage",
     "Enabled": true
   },
   "160276": {
@@ -1391,7 +1391,7 @@
   },
   "160278": {
     "OriginalText": "バーストゲージ上昇",
-    "Text": "BURST Gauge Rise",
+    "Text": "BURST Gauge Boost",
     "Enabled": true
   },
   "160501": {
