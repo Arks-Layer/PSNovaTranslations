@@ -1136,7 +1136,7 @@
   },
   "20805": {
     "OriginalText": "\n\n開発します。",
-    "Text": "\n\nAmount to develop.",
+    "Text": "\n\nWill be developed.",
     "Enabled": true
   },
   "20806": {
@@ -1206,7 +1206,7 @@
   },
   "20912": {
     "OriginalText": "\n\n続けて配置しますか？",
-    "Text": "\n\nContinue arranging?",
+    "Text": "\n\nContinue placing?",
     "Enabled": true
   },
   "20913": {
