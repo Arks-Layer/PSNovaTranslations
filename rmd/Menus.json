@@ -2560,7 +2560,7 @@
     "Enabled": true
   },
   "22105": {
-    "OriginalText": "区目名",
+    "OriginalText": "項目名",
     "Text": "Action",
     "Enabled": true
   },
@@ -3870,7 +3870,7 @@
     "Enabled": false
   },
   "24118": {
-    "OriginalText": "下記区目をまとめてみる",
+    "OriginalText": "下記項目をまとめてみる",
     "Text": "",
     "Enabled": false
   },

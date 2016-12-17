@@ -175,27 +175,27 @@
     "Enabled": false
   },
   "170035": {
-    "OriginalText": "確認したい区目を選択します。",
+    "OriginalText": "確認したい項目を選択します。",
     "Text": "",
     "Enabled": false
   },
   "170036": {
-    "OriginalText": "確認したい区目を選択します。",
+    "OriginalText": "確認したい項目を選択します。",
     "Text": "",
     "Enabled": false
   },
   "170037": {
-    "OriginalText": "確認したい区目を選択します。",
+    "OriginalText": "確認したい項目を選択します。",
     "Text": "",
     "Enabled": false
   },
   "170038": {
-    "OriginalText": "確認したい区目を選択します。",
+    "OriginalText": "確認したい項目を選択します。",
     "Text": "",
     "Enabled": false
   },
   "170039": {
-    "OriginalText": "確認したい区目を選択します。",
+    "OriginalText": "確認したい項目を選択します。",
     "Text": "",
     "Enabled": false
   },
@@ -576,117 +576,117 @@
   },
   "170115": {
     "OriginalText": "声質と声の高さを選択します。",
-    "Text": "Choose the voice and the pitch.",
+    "Text": "Choose your voice and pitch.",
     "Enabled": true
   },
   "170116": {
-    "OriginalText": "各区目を細かく編集します。",
-    "Text": "Fine edit each item.",
+    "OriginalText": "各項目を細かく編集します。",
+    "Text": "Precisely edit each item.",
     "Enabled": true
   },
   "170117": {
-    "OriginalText": "各区目をランダムで選択します。",
-    "Text": "Each item will be selected at random.",
+    "OriginalText": "各項目をランダムで選択します。",
+    "Text": "Each item will be randomized.",
     "Enabled": true
   },
   "170118": {
     "OriginalText": "編集内容の確認と取消をおこないます。",
-    "Text": "This will allow you to toggle edits.",
+    "Text": "Toggle edited items.",
     "Enabled": true
   },
   "170119": {
     "OriginalText": "キャラクター編集を完了し、ストーリーを開始します。",
-    "Text": "Please make sure your character looks as desired.",
+    "Text": "Please make sure your character looks\nas desired before starting the game.",
     "Enabled": true
   },
   "170120": {
-    "OriginalText": "顔の各区目を編集します。",
-    "Text": "Edit the facial features.",
+    "OriginalText": "顔の各項目を編集します。",
+    "Text": "Edit your face and hair.",
     "Enabled": true
   },
   "170121": {
     "OriginalText": "顔の外見バリエーションを選択します。",
-    "Text": "Select a face to use.",
+    "Text": "Select your face type.",
     "Enabled": true
   },
   "170122": {
-    "OriginalText": "顔の各区目を編集します。",
-    "Text": "Edit the facial features.",
+    "OriginalText": "顔の各項目を編集します。",
+    "Text": "Edit your facial features.",
     "Enabled": true
   },
   "170123": {
     "OriginalText": "顔の輪郭と目鼻の位置を編集します。",
-    "Text": "Edit the position and contour of facial features.",
+    "Text": "Edit your general facial features.",
     "Enabled": true
   },
   "170124": {
     "OriginalText": "目の形と大きさを編集します。",
-    "Text": "Edit the shape and size of the eyes.",
+    "Text": "Edit your eyes.",
     "Enabled": true
   },
   "170125": {
     "OriginalText": "瞳のバリエーションを選択します。",
-    "Text": "Select a variation of eyes.",
+    "Text": "Select your eye type.",
     "Enabled": true
   },
   "170126": {
     "OriginalText": "瞳の色を設定します。",
-    "Text": "Select the color of the eyes.",
+    "Text": "Edit your eye color.",
     "Enabled": true
   },
   "170127": {
     "OriginalText": "まゆのバリエーションを選択します。",
-    "Text": "Select a variation of eyebrows.",
+    "Text": "Select your eyebrow type.",
     "Enabled": true
   },
   "170128": {
     "OriginalText": "まゆの色を設定します。",
-    "Text": "Select the color of the eyebrows.",
+    "Text": "Edit your eyebrow color.",
     "Enabled": true
   },
   "170129": {
     "OriginalText": "まつげのバリエーションを選択します。",
-    "Text": "Select a variation of eyelashes.",
+    "Text": "Select your eyelash type.",
     "Enabled": true
   },
   "170130": {
     "OriginalText": "鼻の高さ、大きさなどを調整します。",
-    "Text": "Adjust the size and height of the nose.",
+    "Text": "Edit your nose.",
     "Enabled": true
   },
   "170131": {
     "OriginalText": "口の形やサイズを調整します。",
-    "Text": "Adjust the shape and size of the lips.",
+    "Text": "Edit your lips.",
     "Enabled": true
   },
   "170132": {
     "OriginalText": "耳の大きさや角度を調整します。",
-    "Text": "Adjust the shape and size of the ears.",
+    "Text": "Edit your ears.",
     "Enabled": true
   },
   "170133": {
     "OriginalText": "肌の色を設定します。",
-    "Text": "Set the color of your skin.",
+    "Text": "Edit your skin color.",
     "Enabled": true
   },
   "170134": {
     "OriginalText": "ヘアスタイルと髪の色を編集します。",
-    "Text": "Edit the color of your hair.",
+    "Text": "Edit your hairstyle and hair color.",
     "Enabled": true
   },
   "170135": {
     "OriginalText": "ヘアスタイルを選択します。",
-    "Text": "Select your hair style.",
+    "Text": "Select your hairstyle.",
     "Enabled": true
   },
   "170136": {
     "OriginalText": "髪の色を設定します。",
-    "Text": "Edit your hair features.",
+    "Text": "Edit your hair color.",
     "Enabled": true
   },
   "170137": {
     "OriginalText": "ヘッドパーツの形状と色を編集します。",
-    "Text": "Edit your head part features.",
+    "Text": "Edit your head part.",
     "Enabled": true
   },
   "170138": {
@@ -696,7 +696,7 @@
   },
   "170139": {
     "OriginalText": "ヘッドパーツの色を設定します。",
-    "Text": "Set the color of your head part.",
+    "Text": "Edit your head part color.",
     "Enabled": true
   },
   "170140": {
@@ -705,38 +705,38 @@
     "Enabled": true
   },
   "170141": {
-    "OriginalText": "体の各区目を編集します。",
-    "Text": "Edit each item of the body.",
+    "OriginalText": "体の各項目を編集します。",
+    "Text": "Edit your body features.",
     "Enabled": true
   },
   "170142": {
     "OriginalText": "体型のバランスを調整します。",
-    "Text": "Adjust the balance of the body type.",
+    "Text": "Edit your general body features.",
     "Enabled": true
   },
   "170143": {
     "OriginalText": "腕のバランスを調整します。",
-    "Text": "Adjust the balance of the arm.",
+    "Text": "Edit your arms.",
     "Enabled": true
   },
   "170144": {
     "OriginalText": "脚のバランスを調整します。",
-    "Text": "Adjust the balance of the legs.",
+    "Text": "Edit your legs.",
     "Enabled": true
   },
   "170145": {
     "OriginalText": "胸のバランスを調整します。",
-    "Text": "Adjust the balance of the chest.",
+    "Text": "Edit your breasts.",
     "Enabled": true
   },
   "170146": {
     "OriginalText": "肌の色を設定します。",
-    "Text": "Set the color of your skin.",
+    "Text": "Edit your skin color.",
     "Enabled": true
   },
   "170147": {
     "OriginalText": "筋肉表現を調整します。",
-    "Text": "Adjust your muscle mass.",
+    "Text": "Edit your muscle mass.",
     "Enabled": true
   },
   "170148": {
@@ -751,37 +751,37 @@
   },
   "170150": {
     "OriginalText": "アームパーツを選択します。",
-    "Text": "Select your arm parts.",
+    "Text": "Select your arm part.",
     "Enabled": true
   },
   "170151": {
     "OriginalText": "レッグパーツを選択します。",
-    "Text": "Select your leg parts.",
+    "Text": "Select your leg part.",
     "Enabled": true
   },
   "170152": {
     "OriginalText": "走行モーションを選択します。",
-    "Text": "Select a running motion.",
+    "Text": "Select a running animation.",
     "Enabled": true
   },
   "170153": {
-    "OriginalText": "ファッションの各区目を編集します。",
-    "Text": "Edit each fashion item.",
+    "OriginalText": "ファッションの各項目を編集します。",
+    "Text": "Edit your costume.",
     "Enabled": true
   },
   "170154": {
     "OriginalText": "コスチュームを選択します。",
-    "Text": "Choose a costume.",
+    "Text": "Choose your costume.",
     "Enabled": true
   },
   "170155": {
     "OriginalText": "コスチュームのカラーを設定します。",
-    "Text": "Set the color of the costume.",
+    "Text": "Edit your costume color.",
     "Enabled": true
   },
   "170156": {
     "OriginalText": "メインカラーを選択します。",
-    "Text": "Select the main color.",
+    "Text": "Edit your costume's main color.",
     "Enabled": true
   },
   "170157": {
@@ -906,8 +906,8 @@
   },
   "170181": {
     "OriginalText": "キャラクターの外見やボイスを変更します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Change your character's appearance and voice.",
+    "Enabled": true
   },
   "170182": {
     "OriginalText": "Ｖｉｔａ ＴＶ で遊ぶ設定に切り替えます。",
@@ -931,13 +931,13 @@
   },
   "170186": {
     "OriginalText": "サブカラーを選択します。",
-    "Text": "Select the sub color.",
+    "Text": "Edit your sub color.",
     "Enabled": true
   },
   "170187": {
     "OriginalText": "発光カラーを選択します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Edit your costume's detail color.",
+    "Enabled": true
   },
   "170188": {
     "OriginalText": "キャラクターのスタイルを選択します。",
