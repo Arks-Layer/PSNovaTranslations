@@ -1116,27 +1116,27 @@
   },
   "20801": {
     "OriginalText": "ショップ",
-    "Text": "Shop",
+    "Text": "Shops",
     "Enabled": true
   },
   "20802": {
     "OriginalText": "インテリア",
-    "Text": "Interior",
+    "Text": "Decorations",
     "Enabled": true
   },
   "20803": {
     "OriginalText": "施設",
-    "Text": "Facility",
+    "Text": "Facilities",
     "Enabled": true
   },
   "20804": {
     "OriginalText": "\n\n完成しました。\n配置しますか？",
-    "Text": "\n\nWas completed.\nDo you want to place it?",
+    "Text": "\n\nWas developed.\nDo you want to place it?",
     "Enabled": true
   },
   "20805": {
     "OriginalText": "\n\n開発します。",
-    "Text": "\n\nDeveloped.",
+    "Text": "\n\nWill be developed.",
     "Enabled": true
   },
   "20806": {
@@ -1206,12 +1206,12 @@
   },
   "20912": {
     "OriginalText": "\n\n続けて配置しますか？",
-    "Text": "\n\nContinue arranging?",
+    "Text": "\n\nContinue placing?",
     "Enabled": true
   },
   "20913": {
     "OriginalText": "床",
-    "Text": "Floor",
+    "Text": "Floors",
     "Enabled": true
   },
   "20914": {
@@ -1661,7 +1661,7 @@
   },
   "21313": {
     "OriginalText": "？？？？？？？？？？？\n？？？？？？？？？？？",
-    "Text": "???????????\n????????????",
+    "Text": "????????????????????\n????????????????????",
     "Enabled": true
   },
   "21401": {
@@ -3276,7 +3276,7 @@
   },
   "22721": {
     "OriginalText": "バーストフィニッシュ",
-    "Text": "Burst Finish",
+    "Text": "BURST Finish",
     "Enabled": true
   },
   "22722": {
