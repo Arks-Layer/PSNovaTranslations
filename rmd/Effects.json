@@ -1457,7 +1457,7 @@
   "160513": {
     "OriginalText": "ヘイト上昇率ダウン",
     "Text": "Hate Accum. Down",
-    "Enabled": false
+    "Enabled": true
   },
   "160514": {
     "OriginalText": "原生種に有利",
@@ -1627,7 +1627,7 @@
   "160547": {
     "OriginalText": "ＨＰ低下で防御力ダウン",
     "Text": "Lower HP Lowers Attack",
-    "Enabled": false
+    "Enabled": true
   },
   "160548": {
     "OriginalText": "ＨＰ低下で防御力アップ",
@@ -1667,7 +1667,7 @@
   "160555": {
     "OriginalText": "追加：劇属性ダウン",
     "Text": "Add: Ice Resist Down.",
-    "Enabled": false
+    "Enabled": true
   },
   "160556": {
     "OriginalText": "追加：雷属性ダウン",
