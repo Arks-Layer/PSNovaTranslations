@@ -786,7 +786,7 @@
   },
   "170157": {
     "OriginalText": "アクセサリーを選択します。",
-    "Text": "Select your accessories.",
+    "Text": "Select an accessory.",
     "Enabled": true
   },
   "170158": {
@@ -941,13 +941,13 @@
   },
   "170188": {
     "OriginalText": "キャラクターのスタイルを選択します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Select your style.",
+    "Enabled": true
   },
   "170189": {
     "OriginalText": "キャラクターの特微を選択します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Select your skills.",
+    "Enabled": true
   },
   "170190": {
     "OriginalText": "ゲームの設定を変更したり、役に立つ情報を閲覧できます。",
