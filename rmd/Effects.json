@@ -136,7 +136,7 @@
   },
   "160027": {
     "OriginalText": "リキャスト短温時間補正",
-    "Text": "Recast Time",
+    "Text": "Shorten Cast Time",
     "Enabled": true
   },
   "160028": {
@@ -851,7 +851,7 @@
   },
   "160170": {
     "OriginalText": "探索：疲労防止",
-    "Text": "Search: Fatigue",
+    "Text": "Search: Fatigue -",
     "Enabled": true
   },
   "160171": {
