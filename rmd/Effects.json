@@ -851,17 +851,17 @@
   },
   "160170": {
     "OriginalText": "探索：疲労防止",
-    "Text": "Search: Anti-Fatigue",
+    "Text": "Search: Fatigue -",
     "Enabled": true
   },
   "160171": {
     "OriginalText": "探索：大成功",
-    "Text": "Search: Great Success",
+    "Text": "Search: G. Success",
     "Enabled": true
   },
   "160172": {
     "OriginalText": "探索：日数",
-    "Text": "Search: Number of Days",
+    "Text": "Search: Days",
     "Enabled": true
   },
   "160173": {
