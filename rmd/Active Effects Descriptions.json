@@ -1,27 +1,27 @@
 {
   "740001": {
     "OriginalText": "施設効果0000",
-    "Text": "Field Effects",
+    "Text": "Facility Effect",
     "Enabled": true
   },
   "745001": {
     "OriginalText": "攻撃力アップ ＋１％",
-    "Text": "Attack Power Up +1%",
+    "Text": "Attack +1%",
     "Enabled": true
   },
   "745002": {
     "OriginalText": "攻撃力アップ ＋３％",
-    "Text": "Attack Power Up +3%",
+    "Text": "Attack +3%",
     "Enabled": true
   },
   "745003": {
     "OriginalText": "攻撃力アップ ＋５％",
-    "Text": "Attack Power Up +5%",
+    "Text": "Attack +5%",
     "Enabled": true
   },
   "745004": {
     "OriginalText": "攻撃力アップ ＋１０％",
-    "Text": "Attack Power Up +10%",
+    "Text": "Attack +10%",
     "Enabled": true
   },
   "745005": {
@@ -76,32 +76,32 @@
   },
   "745015": {
     "OriginalText": "弱点ダメージアップ",
-    "Text": "Weakness Damage Up",
+    "Text": "Weakness Damage",
     "Enabled": true
   },
   "745016": {
     "OriginalText": "クリティカル率アップ",
-    "Text": "Critical Rate Up",
+    "Text": "Critical Rate",
     "Enabled": true
   },
   "745017": {
     "OriginalText": "防御力アップ ＋１％",
-    "Text": "Defense Up +1%",
+    "Text": "Defense +1%",
     "Enabled": true
   },
   "745018": {
     "OriginalText": "防御力アップ ＋３％",
-    "Text": "Defense Up +3%",
+    "Text": "Defense +3%",
     "Enabled": true
   },
   "745019": {
     "OriginalText": "防御力アップ ＋５％",
-    "Text": "Defense Up +5%",
+    "Text": "Defense +5%",
     "Enabled": true
   },
   "745020": {
     "OriginalText": "防御力アップ ＋１０％",
-    "Text": "Defense Up +10%",
+    "Text": "Defense +10%",
     "Enabled": true
   },
   "745021": {
@@ -136,7 +136,7 @@
   },
   "745027": {
     "OriginalText": "GP回復量アップ",
-    "Text": "GP Recovery Up",
+    "Text": "GP Recovery",
     "Enabled": true
   },
   "745028": {
@@ -146,12 +146,12 @@
   },
   "745029": {
     "OriginalText": "確率でリアクション無効",
-    "Text": "Avoid Knockback Chance",
+    "Text": "Avoid Knockback",
     "Enabled": true
   },
   "745030": {
     "OriginalText": "確率でダメージ無効",
-    "Text": "Avoid Damage Chance",
+    "Text": "Avoid Damage",
     "Enabled": true
   },
   "745031": {
@@ -161,27 +161,27 @@
   },
   "745032": {
     "OriginalText": "復活＋１",
-    "Text": "Revival +1",
+    "Text": "Revive +1",
     "Enabled": true
   },
   "745033": {
     "OriginalText": "ＨＰアップ ＋１％",
-    "Text": "HP Up +1%",
+    "Text": "HP +1%",
     "Enabled": true
   },
   "745034": {
     "OriginalText": "ＧＰアップ ＋１％",
-    "Text": "GP Up +1%",
+    "Text": "GP +1%",
     "Enabled": true
   },
   "745035": {
     "OriginalText": "ＨＰアップ ＋５％",
-    "Text": "HP Up +5%",
+    "Text": "HP +5%",
     "Enabled": true
   },
   "745036": {
     "OriginalText": "ＧＰアップ ＋２％",
-    "Text": "GP Up +2%",
+    "Text": "GP +2%",
     "Enabled": true
   },
   "745037": {
@@ -191,17 +191,17 @@
   },
   "745038": {
     "OriginalText": "バーストゲージ初期ボーナス",
-    "Text": "GB Initial Bonus",
+    "Text": "Initial GB Bonus",
     "Enabled": true
   },
   "745039": {
     "OriginalText": "チェイン時間延長",
-    "Text": "Chain Time Extension",
+    "Text": "Chain Time",
     "Enabled": true
   },
   "745040": {
     "OriginalText": "バースト時間延長",
-    "Text": "BURST Time Extension",
+    "Text": "BURST Time",
     "Enabled": true
   },
   "745041": {
@@ -216,32 +216,32 @@
   },
   "745043": {
     "OriginalText": "確率でダメージアップ",
-    "Text": "Chance of Damage Up",
+    "Text": "Damage Increase",
     "Enabled": true
   },
   "745044": {
     "OriginalText": "状態異常耐性アップ",
-    "Text": "Status Effect Resist Up",
+    "Text": "Status Resist",
     "Enabled": true
   },
   "745045": {
     "OriginalText": "攻撃力＋１５％",
-    "Text": "Attack Power Up +15%",
+    "Text": "Attack +15%",
     "Enabled": true
   },
   "745046": {
     "OriginalText": "防御力＋１５％",
-    "Text": "Defense Up +15%",
+    "Text": "Defense +15%",
     "Enabled": true
   },
   "745047": {
     "OriginalText": "バーストゲージ上昇率アップ",
-    "Text": "GB Accumulation Up",
+    "Text": "BURST Accumulation Rate",
     "Enabled": true
   },
   "745048": {
     "OriginalText": "バーストゲージ上昇率アップ（小）",
-    "Text": "GB Accumulation Up (s)",
+    "Text": "BURST Accumulation Rate (Small)",
     "Enabled": true
   }
 }
