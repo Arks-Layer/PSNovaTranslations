@@ -6,13 +6,13 @@
   },
   "160001": {
     "OriginalText": "ＨＰ",
-    "Text": "",
-    "Enabled": false
+    "Text": "HP",
+    "Enabled": true
   },
   "160002": {
     "OriginalText": "ＧＰ",
-    "Text": "",
-    "Enabled": false
+    "Text": "GP",
+    "Enabled": true
   },
   "160003": {
     "OriginalText": "打撃力",
@@ -86,12 +86,12 @@
   },
   "160017": {
     "OriginalText": "ＨＰアップ",
-    "Text": "HP Up",
+    "Text": "HP",
     "Enabled": true
   },
   "160018": {
     "OriginalText": "攻撃力アップ",
-    "Text": "Attack Power Up",
+    "Text": "Attack",
     "Enabled": true
   },
   "160019": {
@@ -106,7 +106,7 @@
   },
   "160021": {
     "OriginalText": "防御力アップ",
-    "Text": "Defense Up",
+    "Text": "Defense",
     "Enabled": true
   },
   "160022": {
@@ -116,37 +116,37 @@
   },
   "160023": {
     "OriginalText": "効果範囲倍率",
-    "Text": "Effect Range Amplification",
+    "Text": "Effect Range",
     "Enabled": true
   },
   "160024": {
     "OriginalText": "シフタ発生回数加算",
-    "Text": "Shifta Burst Supplement",
+    "Text": "Shifta Burst",
     "Enabled": true
   },
   "160025": {
     "OriginalText": "デバンド発生回数加算",
-    "Text": "Deband Burst Supplement",
+    "Text": "Deband Burst",
     "Enabled": true
   },
   "160026": {
     "OriginalText": "ＧＰ回復量アップ",
-    "Text": "GP Recovery Up",
+    "Text": "GP Recovery",
     "Enabled": true
   },
   "160027": {
     "OriginalText": "リキャスト短温時間補正",
-    "Text": "Shortened Recast Time",
+    "Text": "Recast Time",
     "Enabled": true
   },
   "160028": {
     "OriginalText": "GBポイント上昇量",
-    "Text": "GB Point Increase Amount",
+    "Text": "GB Rise Amount",
     "Enabled": true
   },
   "160029": {
     "OriginalText": "消費ＧＰ",
-    "Text": "GP Consumption",
+    "Text": "GP Cost",
     "Enabled": true
   },
   "160030": {
@@ -166,7 +166,7 @@
   },
   "160033": {
     "OriginalText": "ヘイト上昇率アップ",
-    "Text": "Hate Rate Up",
+    "Text": "Hate Rate",
     "Enabled": true
   },
   "160034": {
@@ -181,8 +181,8 @@
   },
   "160036": {
     "OriginalText": "確率でリアクション無効",
-    "Text": "",
-    "Enabled": false
+    "Text": "Avoid Knockback",
+    "Enabled": true
   },
   "160037": {
     "OriginalText": "与ダメージ倍率補正",
@@ -191,7 +191,7 @@
   },
   "160038": {
     "OriginalText": "打撃耐性",
-    "Text": "Blow Resistance",
+    "Text": "Blow Resist",
     "Enabled": true
   },
   "160039": {
@@ -206,37 +206,37 @@
   },
   "160041": {
     "OriginalText": "クリティカル率アップ",
-    "Text": "Critical Rate Up",
+    "Text": "Critical Rate",
     "Enabled": true
   },
   "160042": {
     "OriginalText": "炎属性ダウン発生率",
-    "Text": "Flame Resist Down Rate",
+    "Text": "Flame Resist Down",
     "Enabled": true
   },
   "160043": {
     "OriginalText": "劇属性ダウン発生率",
-    "Text": "Ice Resist Down Rate",
+    "Text": "Ice Resist Down",
     "Enabled": true
   },
   "160044": {
     "OriginalText": "雷属性ダウン発生率",
-    "Text": "Lightning Resist Down Rate",
+    "Text": "Ltn. Resist Down",
     "Enabled": true
   },
   "160045": {
     "OriginalText": "風属性ダウン発生率",
-    "Text": "Wind Resist Down Rate",
+    "Text": "Wind Resist Down",
     "Enabled": true
   },
   "160046": {
     "OriginalText": "光属性ダウン発生率",
-    "Text": "Light Resist Down Rate",
+    "Text": "Light Resist Down",
     "Enabled": true
   },
   "160047": {
     "OriginalText": "闇属性ダウン発生率",
-    "Text": "Dark Resist Down Rate",
+    "Text": "Dark Resist Down",
     "Enabled": true
   },
   "160048": {
@@ -266,12 +266,12 @@
   },
   "160053": {
     "OriginalText": "状態異常発生率補正",
-    "Text": "Status Infliction Rate",
+    "Text": "Status Hit Rate",
     "Enabled": true
   },
   "160054": {
     "OriginalText": "状態異常レベル",
-    "Text": "Status Infliction Severity",
+    "Text": "Status Hit Time",
     "Enabled": true
   },
   "160055": {
@@ -656,7 +656,7 @@
   },
   "160131": {
     "OriginalText": "バースト時間延長",
-    "Text": "BURST Time Extension",
+    "Text": "BURST Time",
     "Enabled": true
   },
   "160132": {
@@ -726,17 +726,17 @@
   },
   "160145": {
     "OriginalText": "Gブースター効果",
-    "Text": "G Booster Effect",
+    "Text": "G. Booster Effect",
     "Enabled": true
   },
   "160146": {
     "OriginalText": "Gブースター範囲",
-    "Text": "G Booster Range",
+    "Text": "G. Booster Range",
     "Enabled": true
   },
   "160147": {
     "OriginalText": "Eレーダー適用地路",
-    "Text": "Enemy Radar Visible Range",
+    "Text": "E. Radar Range",
     "Enabled": true
   },
   "160148": {
@@ -781,17 +781,17 @@
   },
   "160156": {
     "OriginalText": "BURST：レアドロップ",
-    "Text": "BURST: Rare Drop Rate",
+    "Text": "BURST: Rare Drop",
     "Enabled": true
   },
   "160157": {
     "OriginalText": "BURST：原生種",
-    "Text": "BURST: Native Species",
+    "Text": "BURST: Natives",
     "Enabled": true
   },
   "160158": {
     "OriginalText": "BURST：ダーカー",
-    "Text": "BURST: Darker",
+    "Text": "BURST: Darkers",
     "Enabled": true
   },
   "160159": {
@@ -851,7 +851,7 @@
   },
   "160170": {
     "OriginalText": "探索：疲労防止",
-    "Text": "Search: Fatigue -",
+    "Text": "Search: Fatigue",
     "Enabled": true
   },
   "160171": {
@@ -881,17 +881,17 @@
   },
   "160176": {
     "OriginalText": "同箇所ヒット回数",
-    "Text": "Same Place Hit Count",
+    "Text": "Same Place Hits",
     "Enabled": true
   },
   "160177": {
     "OriginalText": "JA効果時間補正",
-    "Text": "JA Effect Time Correction",
+    "Text": "JA Window Time",
     "Enabled": true
   },
   "160178": {
     "OriginalText": "移動速度アップ",
-    "Text": "Movement Speed Up",
+    "Text": "Movement Speed",
     "Enabled": true
   },
   "160179": {
@@ -986,12 +986,12 @@
   },
   "160197": {
     "OriginalText": "弱点ダメージアップ",
-    "Text": "Weakness Damage Up",
+    "Text": "Weakness Damage",
     "Enabled": true
   },
   "160198": {
     "OriginalText": "バーストゲージ初期ボーナス",
-    "Text": "GB Initial Bonus",
+    "Text": "Initial GB Bonus",
     "Enabled": true
   },
   "160199": {
@@ -1011,7 +1011,7 @@
   },
   "160202": {
     "OriginalText": "怪我率アップ",
-    "Text": "Injury Rate Up",
+    "Text": "Injury Rate",
     "Enabled": true
   },
   "160203": {
@@ -1441,8 +1441,8 @@
   },
   "160510": {
     "OriginalText": "確率でダメージ無効",
-    "Text": "",
-    "Enabled": false
+    "Text": "Avoid Damage",
+    "Enabled": true
   },
   "160511": {
     "OriginalText": "ＨＰ低下で防御力アップ",
@@ -1556,8 +1556,8 @@
   },
   "160533": {
     "OriginalText": "確率でダメージアップ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Damage Increase",
+    "Enabled": true
   },
   "160534": {
     "OriginalText": "ＨＰ低下で攻撃力アップ",
@@ -1701,8 +1701,8 @@
   },
   "160562": {
     "OriginalText": "状態異常耐性アップ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Status Resist",
+    "Enabled": true
   },
   "160563": {
     "OriginalText": "補助テクニック範囲",
