@@ -175,27 +175,27 @@
     "Enabled": false
   },
   "170035": {
-    "OriginalText": "確認したい区目を選択します。",
+    "OriginalText": "確認したい項目を選択します。",
     "Text": "",
     "Enabled": false
   },
   "170036": {
-    "OriginalText": "確認したい区目を選択します。",
+    "OriginalText": "確認したい項目を選択します。",
     "Text": "",
     "Enabled": false
   },
   "170037": {
-    "OriginalText": "確認したい区目を選択します。",
+    "OriginalText": "確認したい項目を選択します。",
     "Text": "",
     "Enabled": false
   },
   "170038": {
-    "OriginalText": "確認したい区目を選択します。",
+    "OriginalText": "確認したい項目を選択します。",
     "Text": "",
     "Enabled": false
   },
   "170039": {
-    "OriginalText": "確認したい区目を選択します。",
+    "OriginalText": "確認したい項目を選択します。",
     "Text": "",
     "Enabled": false
   },
@@ -580,12 +580,12 @@
     "Enabled": true
   },
   "170116": {
-    "OriginalText": "各区目を細かく編集します。",
+    "OriginalText": "各項目を細かく編集します。",
     "Text": "Fine edit each item.",
     "Enabled": true
   },
   "170117": {
-    "OriginalText": "各区目をランダムで選択します。",
+    "OriginalText": "各項目をランダムで選択します。",
     "Text": "Each item will be selected at random.",
     "Enabled": true
   },
@@ -600,7 +600,7 @@
     "Enabled": true
   },
   "170120": {
-    "OriginalText": "顔の各区目を編集します。",
+    "OriginalText": "顔の各項目を編集します。",
     "Text": "Edit the facial features.",
     "Enabled": true
   },
@@ -610,7 +610,7 @@
     "Enabled": true
   },
   "170122": {
-    "OriginalText": "顔の各区目を編集します。",
+    "OriginalText": "顔の各項目を編集します。",
     "Text": "Edit the facial features.",
     "Enabled": true
   },
@@ -705,7 +705,7 @@
     "Enabled": true
   },
   "170141": {
-    "OriginalText": "体の各区目を編集します。",
+    "OriginalText": "体の各項目を編集します。",
     "Text": "Edit each item of the body.",
     "Enabled": true
   },
@@ -765,7 +765,7 @@
     "Enabled": true
   },
   "170153": {
-    "OriginalText": "ファッションの各区目を編集します。",
+    "OriginalText": "ファッションの各項目を編集します。",
     "Text": "Edit each fashion item.",
     "Enabled": true
   },

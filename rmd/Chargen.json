@@ -515,12 +515,12 @@
     "Enabled": true
   },
   "500109": {
-    "OriginalText": "チェックをはずした区目を\nベース状態に戻して表示します。",
+    "OriginalText": "チェックをはずした項目を\nベース状態に戻して表示します。",
     "Text": "Select an item to toggle on/off.\n",
     "Enabled": true
   },
   "500110": {
-    "OriginalText": "編集した区目はありません。",
+    "OriginalText": "編集した項目はありません。",
     "Text": "Edited item not available.",
     "Enabled": true
   },
@@ -540,7 +540,7 @@
     "Enabled": true
   },
   "500114": {
-    "OriginalText": "チェックをはずした区目を\nベース状態に戻して\nトップメニューに戻ります。\nよろしいですか？",
+    "OriginalText": "チェックをはずした項目を\nベース状態に戻して\nトップメニューに戻ります。\nよろしいですか？",
     "Text": "This will save only the checked\nchanges. All others will be lost.\nAre you sure?",
     "Enabled": true
   },
