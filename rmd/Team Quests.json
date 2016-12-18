@@ -5,184 +5,184 @@
     "Enabled": false
   },
   "700001": {
-    "OriginalText": "［食村調達］原生膜β類食村調達",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "［食材調達］原生膜β類食材調達",
+    "Text": "[Gather] Native Ingredients",
+    "Enabled": true
   },
   "700002": {
     "OriginalText": "［調査］銅の荒野開柘調査",
-    "Text": "",
-    "Enabled": false
+    "Text": "[Survey] Steel Wastelands Wilderness",
+    "Enabled": true
   },
   "700003": {
     "OriginalText": "［調査］グラン水装の調査",
-    "Text": "",
-    "Enabled": false
+    "Text": "[Survey] Gran Water Rigs",
+    "Enabled": true
   },
   "700004": {
     "OriginalText": "［採集］銅の荒野グランピース採集",
-    "Text": "",
-    "Enabled": false
+    "Text": "[Collect] Steel Wastelands Gran Pieces",
+    "Enabled": true
   },
   "700005": {
-    "OriginalText": "［食村調達］ダーカー食村調達",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "［食材調達］ダーカー食材調達",
+    "Text": "[Gather] Darker Ingredients",
+    "Enabled": true
   },
   "700006": {
     "OriginalText": "［エネミー］グラン水装機械生洋討伐",
-    "Text": "",
-    "Enabled": false
+    "Text": "[Enemy] Gran Water Rig Machine Suppression",
+    "Enabled": true
   },
   "700007": {
     "OriginalText": "［調査］惑星の概要調査",
-    "Text": "",
-    "Enabled": false
+    "Text": "[Survey] Planet Overview",
+    "Enabled": true
   },
   "700008": {
     "OriginalText": "［採集］グラン水装グランピース採集",
-    "Text": "",
-    "Enabled": false
+    "Text": "[Collect] Gran Pieces (Ice)",
+    "Enabled": true
   },
   "700009": {
-    "OriginalText": "［食村調達］炎の高地食村回収",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "［食材調達］炎の高地食材回収",
+    "Text": "[Gather] Flame Highlands Ingredients",
+    "Enabled": true
   },
   "700010": {
     "OriginalText": "［エネミー］コラル・ドラゴン討伐",
-    "Text": "",
-    "Enabled": false
+    "Text": "[Enemy] Coral Dragon Suppression",
+    "Enabled": true
   },
   "700011": {
     "OriginalText": "［調査］惑星の大気調査",
-    "Text": "",
-    "Enabled": false
+    "Text": "[Survey] Planet Atmosphere",
+    "Enabled": true
   },
   "700012": {
     "OriginalText": "［採集］炎の高地グランピース採集",
-    "Text": "",
-    "Enabled": false
+    "Text": "[Collect] Gran Pieces (Fire)",
+    "Enabled": true
   },
   "700013": {
-    "OriginalText": "［食村調達］銅の荒野ダーカー食村調達",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "［食材調達］銅の荒野ダーカー食材調達",
+    "Text": "[Gather] Steel Wastelands Darker Ingredients",
+    "Enabled": true
   },
   "700014": {
     "OriginalText": "［エネミー］銅の荒野原生種討伐",
-    "Text": "",
-    "Enabled": false
+    "Text": "[Enemy] Steel Wastelands Natives Suppression",
+    "Enabled": true
   },
   "700015": {
     "OriginalText": "［調査］銅の荒野生態系調査",
-    "Text": "",
-    "Enabled": false
+    "Text": "[Survey] Steel Wastelands Ecosystem",
+    "Enabled": true
   },
   "700016": {
     "OriginalText": "［採集］銅の荒野鉱石採集",
-    "Text": "",
-    "Enabled": false
+    "Text": "[Collect] Steel Wastelands Ore",
+    "Enabled": true
   },
   "700017": {
     "OriginalText": "［エネミー］銅の荒野アグリオス討伐",
-    "Text": "",
-    "Enabled": false
+    "Text": "[Enemy] Steel Wastelands Agrios Suppression",
+    "Enabled": true
   },
   "700018": {
-    "OriginalText": "［食村調達］グラン水装原生種食村調達",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "［食材調達］グラン水装原生種食材調達",
+    "Text": "[Gather] Gran Water Rig Species Ingredients",
+    "Enabled": true
   },
   "700019": {
     "OriginalText": "［エネミー］Ｇダーク・ラグネ討伐",
-    "Text": "",
-    "Enabled": false
+    "Text": "[Enemy] G-Dark Ragne Suppression",
+    "Enabled": true
   },
   "700020": {
     "OriginalText": "［調査］惑星の気候調査",
-    "Text": "",
-    "Enabled": false
+    "Text": "[Survey] Planet Climate",
+    "Enabled": true
   },
   "700021": {
     "OriginalText": "［採集］グラン水装鉱石採集",
-    "Text": "",
-    "Enabled": false
+    "Text": "[Collect] Gran Water Rig Ore",
+    "Enabled": true
   },
   "700022": {
     "OriginalText": "［エネミー］エウリュード討伐",
-    "Text": "",
-    "Enabled": false
+    "Text": "[Enemy] Eurude Suppression",
+    "Enabled": true
   },
   "700023": {
-    "OriginalText": "［食村調達］炎の高地原生種食村調達",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "［食材調達］炎の高地原生種食材調達",
+    "Text": "[Gather] Flame Highlands Plant Ingredients",
+    "Enabled": true
   },
   "700024": {
     "OriginalText": "［エネミー］炎の高地原生生洋討伐",
-    "Text": "",
-    "Enabled": false
+    "Text": "[Enemy] Flame Highlands Natives Suppression",
+    "Enabled": true
   },
   "700025": {
     "OriginalText": "［調査］惑星の地質調査",
-    "Text": "",
-    "Enabled": false
+    "Text": "[Survey] Planet Geology",
+    "Enabled": true
   },
   "700026": {
     "OriginalText": "［採集］炎の高地結晶採集",
-    "Text": "",
-    "Enabled": false
+    "Text": "[Collect] Flame Highlands Crystals",
+    "Enabled": true
   },
   "700027": {
     "OriginalText": "［エネミー］アルキュオネ討伐",
-    "Text": "",
-    "Enabled": false
+    "Text": "[Enemy] Alcyone Suppression",
+    "Enabled": true
   },
   "700028": {
-    "OriginalText": "［食村調達］銅の荒野食村調達",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "［食材調達］銅の荒野食材調達",
+    "Text": "[Gather] Steel Wastelands Ingredients",
+    "Enabled": true
   },
   "700029": {
     "OriginalText": "［エネミー］ギガンテス捜索討伐",
-    "Text": "",
-    "Enabled": false
+    "Text": "[Enemy] Gigantes Search and Suppress",
+    "Enabled": true
   },
   "700030": {
     "OriginalText": "［調査］古代都市生態調査",
-    "Text": "",
-    "Enabled": false
+    "Text": "[Survey] Ancient City Ecology",
+    "Enabled": true
   },
   "700031": {
     "OriginalText": "［採集］銅の荒野稀少鉱石採集",
-    "Text": "",
-    "Enabled": false
+    "Text": "[Collect] Steel Wastelands Rare Ore",
+    "Enabled": true
   },
   "700032": {
     "OriginalText": "［エネミー］原生種討伐",
-    "Text": "",
-    "Enabled": false
+    "Text": "[Enemy] Natives Suppression",
+    "Enabled": true
   },
   "700033": {
-    "OriginalText": "［食村調達］グラン水装食村調達",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "［食材調達］グラン水装食材調達",
+    "Text": "[Gather] Gran Water Rig Ingredients",
+    "Enabled": true
   },
   "700034": {
     "OriginalText": "［エネミー］グラン水装機械生洋討伐",
-    "Text": "",
-    "Enabled": false
+    "Text": "[Enemy] Gran Water Rig Machine Suppression",
+    "Enabled": true
   },
   "700035": {
     "OriginalText": "［調査］原生種の牙採集調査",
-    "Text": "",
-    "Enabled": false
+    "Text": "[Survey] Native Fangs",
+    "Enabled": true
   },
   "700036": {
     "OriginalText": "［採集］グラン水装稀少鉱石採集",
-    "Text": "",
-    "Enabled": false
+    "Text": "[Collect] Gran Water Rig Rare Ore",
+    "Enabled": true
   },
   "700037": {
     "OriginalText": "［エネミー］大尖塔原生膜β類討伐",
@@ -190,353 +190,353 @@
     "Enabled": false
   },
   "700038": {
-    "OriginalText": "［食村調達］炎の高地高難度食村採集",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "［食材調達］炎の高地高難度食材採集",
+    "Text": "[Gather] Flame Highlands Rare Ingredients",
+    "Enabled": true
   },
   "700039": {
     "OriginalText": "［エネミー］惑星本体ギガンテス討伐",
-    "Text": "",
-    "Enabled": false
+    "Text": "[Enemy] Planet Gigantes Suppression",
+    "Enabled": true
   },
   "700040": {
-    "OriginalText": "［調査］ギガンテス素村調査",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "［調査］ギガンテス素材調査",
+    "Text": "[Survey] Gigantes Material",
+    "Enabled": true
   },
   "700041": {
     "OriginalText": "［採集］炎の高地輝石採集",
-    "Text": "",
-    "Enabled": false
+    "Text": "[Collect] Flame Highlands Pyroxene",
+    "Enabled": true
   },
   "700042": {
     "OriginalText": "［エネミー］エネミー危険調査討伐",
-    "Text": "",
-    "Enabled": false
+    "Text": "[Enemy] Dangerous Enemies Suppression",
+    "Enabled": true
   },
   "700043": {
-    "OriginalText": "［食村調達］大尖塔植洋食村採集",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "［食材調達］大尖塔植洋食材採集",
+    "Text": "[Gather] Large Spire Plant Ingredients",
+    "Enabled": true
   },
   "700044": {
     "OriginalText": "［エネミー］大尖塔エネミー討伐",
-    "Text": "",
-    "Enabled": false
+    "Text": "[Enemy] Large Spire Suppression",
+    "Enabled": true
   },
   "700045": {
     "OriginalText": "［調査］古代都市地質調査",
-    "Text": "",
-    "Enabled": false
+    "Text": "[Survey] Ancient City Geology",
+    "Enabled": true
   },
   "700046": {
     "OriginalText": "［採集］大尖塔遺洋調査採集",
-    "Text": "",
-    "Enabled": false
+    "Text": "[Collect] Large Spire Ore",
+    "Enabled": true
   },
   "700047": {
-    "OriginalText": "［食村調達］古代都市食村調達",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "［食材調達］古代都市食材調達",
+    "Text": "[Gather] Ancient City Ingredients",
+    "Enabled": true
   },
   "700048": {
     "OriginalText": "［エネミー］モストカーネベア討伐",
-    "Text": "",
-    "Enabled": false
+    "Text": "[Enemy] Mostcarnne Bear Suppression",
+    "Enabled": true
   },
   "700049": {
-    "OriginalText": "［調査］ダーカー素村調査",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "［調査］ダーカー素材調査",
+    "Text": "[Survey] Darker Material",
+    "Enabled": true
   },
   "700050": {
-    "OriginalText": "［採集］古代都市資村回収",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "［採集］古代都市資材回収",
+    "Text": "[Collect] Ancient City Materials",
+    "Enabled": true
   },
   "700051": {
-    "OriginalText": "［食村調達］銅の荒野膜β類食村調達",
+    "OriginalText": "［食材調達］銅の荒野膜β類食材調達",
     "Text": "",
     "Enabled": false
   },
   "700052": {
     "OriginalText": "［エネミー］銅の荒野原生種大量討伐",
-    "Text": "",
-    "Enabled": false
+    "Text": "[Enemy] Steel Wastelands Natives Extermination",
+    "Enabled": true
   },
   "700053": {
-    "OriginalText": "［調査］膜β類エネミー素村調査",
+    "OriginalText": "［調査］膜β類エネミー素材調査",
     "Text": "",
     "Enabled": false
   },
   "700054": {
-    "OriginalText": "［食村調達］グラン水装肉食村調達",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "［食材調達］グラン水装肉食材調達",
+    "Text": "[Gather] Gran Water Rig Meat",
+    "Enabled": true
   },
   "700055": {
     "OriginalText": "［エネミー］グラン水装ギガンテス討伐",
-    "Text": "",
-    "Enabled": false
+    "Text": "[Enemy] Gran Water Rig Gigantes Suppression",
+    "Enabled": true
   },
   "700056": {
-    "OriginalText": "［調査］エネミー素村調査",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "［調査］エネミー素材調査",
+    "Text": "[Survey] Enemy Material",
+    "Enabled": true
   },
   "700057": {
-    "OriginalText": "［食村調達］炎の高地水晶竜食村調達",
+    "OriginalText": "［食材調達］炎の高地水晶竜食材調達",
     "Text": "",
     "Enabled": false
   },
   "700058": {
     "OriginalText": "［エネミー］炎の高地大型エネミー討伐",
-    "Text": "",
-    "Enabled": false
+    "Text": "[Enemy] Flame Highlands Large Enemies Suppression",
+    "Enabled": true
   },
   "700059": {
     "OriginalText": "［エネミー］大尖塔大型エネミー討伐",
-    "Text": "",
-    "Enabled": false
+    "Text": "[Enemy] Large Spire Large Enemies Suppression",
+    "Enabled": true
   },
   "700060": {
-    "OriginalText": "［食村調達］大尖塔食村調査",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "［食材調達］大尖塔食材調査",
+    "Text": "[Gather] Large Spire Ingredients",
+    "Enabled": true
   },
   "700061": {
     "OriginalText": "［エネミー］ゴルドス討伐",
-    "Text": "",
-    "Enabled": false
+    "Text": "[Enemy] Gordes Suppression",
+    "Enabled": true
   },
   "700062": {
     "OriginalText": "［エネミー］ガラティオン討伐",
-    "Text": "",
-    "Enabled": false
+    "Text": "[Enemy] Garation Suppression",
+    "Enabled": true
   },
   "700063": {
-    "OriginalText": "［食村調達］古代都市鳥食村調達",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "［食材調達］古代都市鳥食材調達",
+    "Text": "[Gather] Ancient City Bird Ingredients",
+    "Enabled": true
   },
   "700064": {
     "OriginalText": "［エネミー］古代都市掃討作戦",
-    "Text": "",
-    "Enabled": false
+    "Text": "[Enemy] Ancient City Suppression",
+    "Enabled": true
   },
   "700065": {
     "OriginalText": "［調査］高難度鉱石回収",
-    "Text": "",
-    "Enabled": false
+    "Text": "[Survey] Rare Ore Collection",
+    "Enabled": true
   },
   "700066": {
-    "OriginalText": "［食村調達］アグリオスのたまご調達",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "［食材調達］アグリオスのたまご調達",
+    "Text": "[Gather] Agrios Eggs",
+    "Enabled": true
   },
   "700067": {
     "OriginalText": "［エネミー］銅の荒野原生種討伐",
-    "Text": "",
-    "Enabled": false
+    "Text": "[Enemy] Steel Wastelands Suppression",
+    "Enabled": true
   },
   "700068": {
     "OriginalText": "［調査］銅の荒野広域調査",
-    "Text": "",
-    "Enabled": false
+    "Text": "[Survey] Steel Wastelands Area",
+    "Enabled": true
   },
   "700069": {
     "OriginalText": "［採集］銅の荒野鉱石採集",
-    "Text": "",
-    "Enabled": false
+    "Text": "[Collect] Steel Wastelands Ore",
+    "Enabled": true
   },
   "700070": {
     "OriginalText": "［エネミー］銅の荒野機械生洋討伐",
-    "Text": "",
-    "Enabled": false
+    "Text": "[Enemy] Steel Wastelands Machine Suppression",
+    "Enabled": true
   },
   "700071": {
-    "OriginalText": "［食村調達］グラン水装大量食村調達",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "［食材調達］グラン水装大量食材調達",
+    "Text": "[Gather] Gran Water Rig Numerous Ingredients",
+    "Enabled": true
   },
   "700072": {
     "OriginalText": "［エネミー］グラン水装ギガンテス捜索",
-    "Text": "",
-    "Enabled": false
+    "Text": "[Enemy] Gran Water Rig Gigantes Search",
+    "Enabled": true
   },
   "700073": {
     "OriginalText": "［調査］グラン水装の生態系調査",
-    "Text": "",
-    "Enabled": false
+    "Text": "[Survey] Gran Ecosystem",
+    "Enabled": true
   },
   "700074": {
     "OriginalText": "［採集］グラン水装鉱石大捜索採集",
-    "Text": "",
-    "Enabled": false
+    "Text": "[Collect] Gran Water Rig Large Ore",
+    "Enabled": true
   },
   "700075": {
     "OriginalText": "［エネミー］グラン水装原生種討伐",
-    "Text": "",
-    "Enabled": false
+    "Text": "[Enemy] Gran Water Rig Natives Suppression",
+    "Enabled": true
   },
   "700076": {
-    "OriginalText": "［食村調達］竜族のたまご調達",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "［食材調達］竜族のたまご調達",
+    "Text": "[Gather] Dragon Eggs",
+    "Enabled": true
   },
   "700077": {
     "OriginalText": "［エネミー］炎の高地アルキュオネ討伐",
-    "Text": "",
-    "Enabled": false
+    "Text": "[Enemy] Flame Highlands Alcyone Suppression",
+    "Enabled": true
   },
   "700078": {
-    "OriginalText": "［調査］炎の高地機械生洋素村調査",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "［調査］炎の高地機械生洋素材調査",
+    "Text": "[Survey] Flame Highlands Machine Materials",
+    "Enabled": true
   },
   "700079": {
     "OriginalText": "［採集］炎の高地輝石大捜索採集",
-    "Text": "",
-    "Enabled": false
+    "Text": "[Collect] Flame Highlands Large Pyroxene",
+    "Enabled": true
   },
   "700080": {
     "OriginalText": "［エネミー］惑星ギガンテス捜索討伐",
-    "Text": "",
-    "Enabled": false
+    "Text": "[Enemy] Planet Gigantes Search and Suppress",
+    "Enabled": true
   },
   "700081": {
-    "OriginalText": "［食村調達］大尖塔食村調達",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "［食材調達］大尖塔食材調達",
+    "Text": "[Gather] Large Spire Ingredients",
+    "Enabled": true
   },
   "700082": {
     "OriginalText": "［エネミー］大尖塔原生種クリーン作戦",
-    "Text": "",
-    "Enabled": false
+    "Text": "[Enemy] Large Spire Natives Clean Suppression",
+    "Enabled": true
   },
   "700083": {
     "OriginalText": "［調査］大尖塔で調査用樹木伐採",
-    "Text": "",
-    "Enabled": false
+    "Text": "[Survey] Large Spire Trees",
+    "Enabled": true
   },
   "700084": {
-    "OriginalText": "［採集］大尖塔資村採集",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "［採集］大尖塔資材採集",
+    "Text": "[Collect] Large Spire Materials",
+    "Enabled": true
   },
   "700085": {
     "OriginalText": "［エネミー］大尖塔原生種討伐",
-    "Text": "",
-    "Enabled": false
+    "Text": "[Enemy] Large Spire Natives Suppression",
+    "Enabled": true
   },
   "700086": {
-    "OriginalText": "［食村調達］古代都市食村調達",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "［食材調達］古代都市食材調達",
+    "Text": "[Gather] Ancient City Ingredients",
+    "Enabled": true
   },
   "700087": {
     "OriginalText": "［エネミー］古代都市大型エネミー討伐",
-    "Text": "",
-    "Enabled": false
+    "Text": "[Enemy] Ancient City Large Enemies Suppression",
+    "Enabled": true
   },
   "700088": {
     "OriginalText": "［エネミー］デェフキュオネ討伐",
-    "Text": "",
-    "Enabled": false
+    "Text": "[Enemy] Defcyone Suppression",
+    "Enabled": true
   },
   "700089": {
     "OriginalText": "［採集］古代都市鉄柱採集",
-    "Text": "",
-    "Enabled": false
+    "Text": "[Collect] Ancient City Shellfish",
+    "Enabled": true
   },
   "700090": {
     "OriginalText": "［エネミー］ギガンテス討伐",
-    "Text": "",
-    "Enabled": false
+    "Text": "[Enemy] Gigantes Suppression",
+    "Enabled": true
   },
   "700091": {
-    "OriginalText": "［食村調達］ノヴァ内部食村調達",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "［食材調達］ノヴァ内部食材調達",
+    "Text": "[Gather] Nova Interior Ingredients",
+    "Enabled": true
   },
   "700092": {
     "OriginalText": "［エネミー］ノヴァ内部エネミー討伐",
-    "Text": "",
-    "Enabled": false
+    "Text": "[Enemy] Nova Interior Suppression",
+    "Enabled": true
   },
   "700093": {
     "OriginalText": "［調査］ノヴァ内部地質調査",
-    "Text": "",
-    "Enabled": false
+    "Text": "[Survey] Nova Interior Geology",
+    "Enabled": true
   },
   "700094": {
     "OriginalText": "［採集］ミグマタイト採集",
-    "Text": "",
-    "Enabled": false
+    "Text": "[Collect] Migmatite",
+    "Enabled": true
   },
   "700095": {
     "OriginalText": "［エネミー］ノヴァ内部掃討作戦",
-    "Text": "",
-    "Enabled": false
+    "Text": "[Enemy] Nova Interior Extermination",
+    "Enabled": true
   },
   "700096": {
-    "OriginalText": "［食村調達］ノヴァ内部食村調達",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "［食材調達］ノヴァ内部食材調達",
+    "Text": "[Gather] Nova Interior Ingredients",
+    "Enabled": true
   },
   "700097": {
     "OriginalText": "［エネミー］ファンアフォル討伐",
-    "Text": "",
-    "Enabled": false
+    "Text": "[Enemy] Fan'aphol Suppression",
+    "Enabled": true
   },
   "700098": {
     "OriginalText": "［調査］ノヴァ内部危険度調査",
-    "Text": "",
-    "Enabled": false
+    "Text": "[Survey] Nova Interior Risk",
+    "Enabled": true
   },
   "700099": {
     "OriginalText": "［採集］クリソベル石採集",
-    "Text": "",
-    "Enabled": false
+    "Text": "[Collect] Cymophane Stone",
+    "Enabled": true
   },
   "700100": {
     "OriginalText": "［エネミー］ギガティオン討伐",
-    "Text": "",
-    "Enabled": false
+    "Text": "[Enemy] Gigation Suppression",
+    "Enabled": true
   },
   "700101": {
     "OriginalText": "［採集］フラグメント採集",
-    "Text": "",
-    "Enabled": false
+    "Text": "[Collect] Fragments",
+    "Enabled": true
   },
   "700102": {
     "OriginalText": "［採集］地上フラグメント採集",
-    "Text": "",
-    "Enabled": false
+    "Text": "[Collect] Ground Fragments",
+    "Enabled": true
   },
   "700103": {
     "OriginalText": "［採集］惑星本体フラグメント採集",
-    "Text": "",
-    "Enabled": false
+    "Text": "[Collect] Planet Fragments",
+    "Enabled": true
   },
   "700104": {
     "OriginalText": "［採集］フラグメントＣ～Ｄ採集",
-    "Text": "",
-    "Enabled": false
+    "Text": "[Collect] C and D Fragments",
+    "Enabled": true
   },
   "700105": {
     "OriginalText": "［採集］フラグメントＥ～Ｆ採集",
-    "Text": "",
-    "Enabled": false
+    "Text": "[Collect] E and F Fragments",
+    "Enabled": true
   },
   "700106": {
     "OriginalText": "［採集］フラグメントＧ～Ｈ採集",
-    "Text": "",
-    "Enabled": false
+    "Text": "[Collect] G and H Fragments",
+    "Enabled": true
   },
   "700107": {
     "OriginalText": "［採集］フラグメントＩ～Ｊ採集",
-    "Text": "",
-    "Enabled": false
+    "Text": "[Collect I and J Fragments",
+    "Enabled": true
   }
 }

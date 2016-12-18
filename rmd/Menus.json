@@ -3001,12 +3001,12 @@
   },
   "22230": {
     "OriginalText": "食材をあつめて",
-    "Text": "Gather Ingredients",
+    "Text": "Gather",
     "Enabled": true
   },
   "22231": {
     "OriginalText": "敵を倒せ",
-    "Text": "Defeat the Enemy",
+    "Text": "Defeat Enemy",
     "Enabled": true
   },
   "22232": {
@@ -3016,7 +3016,7 @@
   },
   "22233": {
     "OriginalText": "収集",
-    "Text": "Collection",
+    "Text": "Collect",
     "Enabled": true
   },
   "22234": {
