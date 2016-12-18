@@ -521,22 +521,22 @@
   },
   "700104": {
     "OriginalText": "［採集］フラグメントＣ～Ｄ採集",
-    "Text": "[Collect] C and D Fragments",
+    "Text": "[Collect] C～D Fragments",
     "Enabled": true
   },
   "700105": {
     "OriginalText": "［採集］フラグメントＥ～Ｆ採集",
-    "Text": "[Collect] E and F Fragments",
+    "Text": "[Collect] E～F Fragments",
     "Enabled": true
   },
   "700106": {
     "OriginalText": "［採集］フラグメントＧ～Ｈ採集",
-    "Text": "[Collect] G and H Fragments",
+    "Text": "[Collect] G～H Fragments",
     "Enabled": true
   },
   "700107": {
     "OriginalText": "［採集］フラグメントＩ～Ｊ採集",
-    "Text": "[Collect] I and J Fragments",
+    "Text": "[Collect] I～J Fragments",
     "Enabled": true
   }
 }
