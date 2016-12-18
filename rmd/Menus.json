@@ -2966,7 +2966,7 @@
   },
   "22214": {
     "OriginalText": "疲労が回復するまで隊員数が滅ります。",
-    "Text": "These personnel will be unavailable\nuntil their fatigue is recovered.",
+    "Text": "These personnel will be unavailable until their fatigue is recovered.",
     "Enabled": true
   },
   "22215": {
@@ -3001,12 +3001,12 @@
   },
   "22230": {
     "OriginalText": "食材をあつめて",
-    "Text": "Gather Ingredients",
+    "Text": "Gather",
     "Enabled": true
   },
   "22231": {
     "OriginalText": "敵を倒せ",
-    "Text": "Defeat the Enemy",
+    "Text": "Defeat Enemy",
     "Enabled": true
   },
   "22232": {
@@ -3016,7 +3016,7 @@
   },
   "22233": {
     "OriginalText": "収集",
-    "Text": "Collection",
+    "Text": "Collect",
     "Enabled": true
   },
   "22234": {
