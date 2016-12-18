@@ -6,7 +6,7 @@
   },
   "700001": {
     "OriginalText": "［食材調達］原生膜β類食材調達",
-    "Text": "[Gather] Native Ingredients",
+    "Text": "[Gather] Native β Ingredients",
     "Enabled": true
   },
   "700002": {
@@ -186,8 +186,8 @@
   },
   "700037": {
     "OriginalText": "［エネミー］大尖塔原生膜β類討伐",
-    "Text": "",
-    "Enabled": false
+    "Text": "[Enemy] Large Spire Natives β Suppression",
+    "Enabled": true
   },
   "700038": {
     "OriginalText": "［食材調達］炎の高地高難度食材採集",
@@ -256,8 +256,8 @@
   },
   "700051": {
     "OriginalText": "［食材調達］銅の荒野膜β類食材調達",
-    "Text": "",
-    "Enabled": false
+    "Text": "[Gather] Steel Wastelands Natives β Suppression",
+    "Enabled": true
   },
   "700052": {
     "OriginalText": "［エネミー］銅の荒野原生種大量討伐",
@@ -266,8 +266,8 @@
   },
   "700053": {
     "OriginalText": "［調査］膜β類エネミー素材調査",
-    "Text": "",
-    "Enabled": false
+    "Text": "[Survey] β Enemy Material",
+    "Enabled": true
   },
   "700054": {
     "OriginalText": "［食材調達］グラン水装肉食材調達",
@@ -286,8 +286,8 @@
   },
   "700057": {
     "OriginalText": "［食材調達］炎の高地水晶竜食材調達",
-    "Text": "",
-    "Enabled": false
+    "Text": "[Gather] Flame Highlands Quartz Dragon Ingredients",
+    "Enabled": true
   },
   "700058": {
     "OriginalText": "［エネミー］炎の高地大型エネミー討伐",
