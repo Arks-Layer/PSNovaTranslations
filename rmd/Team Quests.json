@@ -41,7 +41,7 @@
   },
   "700008": {
     "OriginalText": "［採集］グラン水装グランピース採集",
-    "Text": "[Collect] Gran Pieces (Ice)",
+    "Text": "[Collect] Gran Water Rig Gran Pieces",
     "Enabled": true
   },
   "700009": {
@@ -61,7 +61,7 @@
   },
   "700012": {
     "OriginalText": "［採集］炎の高地グランピース採集",
-    "Text": "[Collect] Gran Pieces (Fire)",
+    "Text": "[Collect] Flame Highlands Gran Pieces",
     "Enabled": true
   },
   "700013": {
