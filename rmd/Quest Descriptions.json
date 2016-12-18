@@ -11,17 +11,17 @@
   },
   "230002": {
     "OriginalText": "依頼者：フィルディア\n銅の荒野に取り残された先遣隊の生存者を\n捜索してくれ。\nダーカーがウヨウヨいて、どんなタイプが出て来るか\nオレにもわからんが、生存者の救出は絶対だ！\n今、戦えるのはお前たちしかいない。頼むぞ！\n\n同行者：ルティナ",
-    "Text": "Requestor: Fildia\nHelp me search for the missing survivors\nof the Advance Team. I don't know what type\nof Darkers you may find, but rescue the\nsurvivors at all costs.\nYou are the only ones who can do this!\n\nRecommended: Lutina",
+    "Text": "Requestor: Fildia\nSearch for the survivors\nof the Advance Team. There may be\nsome strange Darkers out there,\nbut rescue the team at all costs!\nWe can only count on you!\n\nRecommended: Lutina",
     "Enabled": true
   },
   "230003": {
     "OriginalText": "依頼者：シャロン\n銅の荒野で艦のエネルギーとなるグラン結晶を\n集めてください。\nこの惑星の原生種かもしれない未知の生命反応が\n出ています。\n交戦の可能性もありますので警戒を怠らないで\nください。\n同行者：ルティナ セイル イズナ",
-    "Text": "Requestor: Sharon\nThere's a Gran Crystal that we can use as\nenergy for the Ship located in the Steel Wastelands.\nPlease retrieve it for analysis.\nThere's a possibility you may enter combat, so please be careful.\n\nRecommended: Lutina, Sail, Izuna",
+    "Text": "Requestor: Sharon\nThere's Gran Crystal that we can use as\nenergy for the Ship, please retrieve it.\nThere's a possibility you may enter combat, so please be careful.\n\nRecommended: Lutina, Sail, Izuna",
     "Enabled": true
   },
   "230004": {
     "OriginalText": "\n銅の荒野における哨戒作戦を任せる。\n指定地域を周回探索せよ。\n原生種に遭遇した場合は速やかに撃破するよう。\n経贄を制圧し、治安確保を確認次第、\n帰還許可を与える。\n",
-    "Text": "\nExplore and Patrol the Steel Wastelands.\nIf you encounter the native wildlife,\nyou must promptly destroy them.\nOnce we establish our security, you'll have permission to return.\n",
+    "Text": "\nExplore and Patrol the Steel Wastelands.\nDefeat the native wildlife you may encounter.\nOnce we build our security, please return.\n",
     "Enabled": true
   },
   "230005": {
