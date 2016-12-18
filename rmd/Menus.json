@@ -2956,18 +2956,18 @@
   },
   "22212": {
     "OriginalText": "名",
-    "Text": "Name",
+    "Text": "\t",
     "Enabled": true
   },
   "22213": {
     "OriginalText": "入手アイテム",
-    "Text": "Available Items",
+    "Text": "Items Obtained",
     "Enabled": true
   },
   "22214": {
     "OriginalText": "疲労が回復するまで隊員数が滅ります。",
-    "Text": "",
-    "Enabled": false
+    "Text": "These personnel will be unavailable\nuntil their fatigue is recovered.",
+    "Enabled": true
   },
   "22215": {
     "OriginalText": "探索情報",
@@ -2986,13 +2986,13 @@
   },
   "22218": {
     "OriginalText": "うち疲労者",
-    "Text": "",
-    "Enabled": false
+    "Text": "Personnel Fatigued",
+    "Enabled": true
   },
   "22219": {
     "OriginalText": "探索隊を派遣しました。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Search team dispatched.",
+    "Enabled": true
   },
   "22220": {
     "OriginalText": "MAX",
@@ -3041,7 +3041,7 @@
   },
   "22238": {
     "OriginalText": "派遣した隊員数",
-    "Text": "Dispatched Personnel",
+    "Text": "Personnel Dispatched",
     "Enabled": true
   },
   "22301": {
