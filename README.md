@@ -46,7 +46,7 @@ Then, change the false to true, so it ends up like this:
 
 Please note that there may be "weird" things in the text! For example, `\n`. These will be detailed below.
 
-We welcome your contributions in form of pull requests. You may create new issues to discuss the translations with other translators. Please note that issues not related to translation may be deleted without notice.
+We welcome your contributions in the form of pull requests. You may create new issues to discuss the translations with other translators. Please note that issues not related to translation may be deleted without notice.
 
 ![3]
 
@@ -78,7 +78,7 @@ These control codes are used to do various things, such as change the text color
 
 #### Ruby
 
-Ruby is a special control code with special handling. Ruby control codes place the specified text on top of the surrounding text. it begins with `[ruby ` and then is proceeded with the text to place over top of the surrounding text and then a closing `]`. Use `[/ruby]` to close the Ruby block. An example:
+Ruby is a special control code with special handling. Ruby control codes place the specified text on top of the surrounding text. It begins with `[ruby ` and then is proceeded with the text to place over top of the surrounding text and then a closing `]`. Use `[/ruby]` to close the Ruby block. An example:
 
 ```
 msg_100000010010013.rmd:
