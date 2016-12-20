@@ -63,7 +63,7 @@ will show up as:
 
 <b><i><u>PLEASE LEAVE THESE TAGS IN THERE.</b></i></u>
 
-We welcome your contributions in form of pull requests. You may create new issues to discuss the translations with other translators. Please note that issues not related to translation may be deleted without notice.
+We welcome your contributions in form of pull requests. You may create new issues to discuss the translations with other translators. Please note that issues not related to translation may be deleted without notice!
 
 ![3]
 
