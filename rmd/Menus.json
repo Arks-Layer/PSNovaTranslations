@@ -3811,12 +3811,12 @@
   },
   "24106": {
     "OriginalText": "拠点に帰還します。",
-    "Text": "Returned to base.",
+    "Text": "Return to base?",
     "Enabled": true
   },
   "24107": {
     "OriginalText": "拠点に帰還します。",
-    "Text": "Returned to base.",
+    "Text": "Return to base?",
     "Enabled": true
   },
   "24108": {
@@ -4196,7 +4196,7 @@
   },
   "25404": {
     "OriginalText": "再キャラクタークリエイト",
-    "Text": "Re-Create Character",
+    "Text": "Recreate Character",
     "Enabled": true
   },
   "25450": {
