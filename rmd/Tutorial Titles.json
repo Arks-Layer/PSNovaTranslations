@@ -316,13 +316,13 @@
   },
   "770063": {
     "OriginalText": "フィルディアの元へ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Fildia's Position",
+    "Enabled": true
   },
   "770064": {
     "OriginalText": "レイヴァンの助手の元へ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Raven's Assistant's Position",
+    "Enabled": true
   },
   "770065": {
     "OriginalText": "クエストゲートへ",
