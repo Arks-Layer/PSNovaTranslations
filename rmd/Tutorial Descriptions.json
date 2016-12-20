@@ -36,8 +36,8 @@
   },
   "780007": {
     "OriginalText": "\nテクニックは繰り出す度に\n[a 07]ＰＰ（フォトンポイント）を消費[b]します。\n\nＰＰは[a 07]時間経過[b]、または[a 07]通常攻撃をヒット[b]させる\nことで回復します。\n\n通常攻撃とテクニックをうまく組み合わせて\n戦いましょう。",
-    "Text": "",
-    "Enabled": false
+    "Text": "\nTechniques [a 07]consume PP (Photon Points)[b]\nwhen they are used.\n\nPP will [a 07]slowly recover over time[b],\nor by hitting enemies with [a 07]normal attacks[b].\n\nYou can fight using both normal attacks\nand Techniques.",
+    "Enabled": true
   },
   "780008": {
     "OriginalText": "『ハンターの回避アクション』\n\n[f 77] の入力で、[a 07]移動方向へ回避[b]を行います。\n\nハンターの回避アクション「[a 07]ステップ[b]」は、\n最小限の移動距離ですばやく身をかわします。\n\nクラスによって回避アクションは異なります。",
@@ -101,13 +101,13 @@
   },
   "780020": {
     "OriginalText": "『テクニック』\n\nテクニックとは、フォースがグランの力を用いて\n放つ強力な法術です。\n\nテクニックは [f 74][a 07] 長押し溜めで発動[b]します。\n\nテクニックは裏パレットにもセットされて\nいます。",
-    "Text": "",
-    "Enabled": false
+    "Text": "[Techniques]\n\nTechniques are powerful skills utilized by Force\nvia harnessing the power of Gran.\n\nYou can [a 07]charge[b] a Technique by\nholding down [f 74].\n\nTechniques can be placed on either a\n[a 07]weapon Palette[b] or on a [a 07]Subpalette[b].",
+    "Enabled": true
   },
   "780021": {
     "OriginalText": "\nテクニックは繰り出す度に\n[a 07]ＧＰ（グランポイント）を消費[b]します。\n\nＧＰは[a 07]時間経過[b]、または[a 07]通常攻撃をヒット[b]させる\nことで回復します。\n\n通常攻撃とテクニックをうまく組み合わせて\n戦いましょう。",
-    "Text": "",
-    "Enabled": false
+    "Text": "\nTechniques [a 07]consume GP (Gran Points)[b]\nwhen they are used.\n\nGP will [a 07]slowly recover over time[b],\nor by hitting enemies with [a 07]normal attacks[b].\n\nYou can fight using both normal attacks\nand Techniques.",
+    "Enabled": true
   },
   "780022": {
     "OriginalText": "『チェイン』\n\n[a 07]一定時間似内に敵に攻撃を当てる[b]ことで\n[a 07]チェインがカウントアップ[b]されます。\n\nチェイン数が増えると、より大きなダメージ\nを与えられます。\n\nジャストアタックでチェインに成功すると\nよりチェインがつながりやすくなり、\n与えるダメージにもボーナスがつきます。",
