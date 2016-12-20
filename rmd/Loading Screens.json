@@ -16,43 +16,43 @@
   },
   "800003": {
     "OriginalText": "[f 73] で通常攻撃をおこなう。 \nボタンを連打または押し続けることで、連続攻撃が出る。",
-    "Text": "",
-    "Enabled": false
+    "Text": "[f 66] [f 67] [f 68] [f 69] [f 70]\n[f 71] [f 72] [f 73] [f 74] [f 75] [f 76]",
+    "Enabled": true
   },
   "800004": {
     "OriginalText": "[f 79] を押し続けることで、エネミーをロックオンできる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "[f 77] [f 78] [f 79] [f 80]",
+    "Enabled": true
   },
   "800005": {
     "OriginalText": "[f 79] を押すとカメラの向きがリセットされる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "[f 7a] [f 7b] [f 7c] [f 7d]",
+    "Enabled": true
   },
   "800006": {
     "OriginalText": "ハンターはガードで攻撃ダメージを軽滅できる。",
-    "Text": "",
-    "Enabled": false
+    "Text": " [f 01] [f 02]",
+    "Enabled": true
   },
   "800007": {
     "OriginalText": "攻撃後に表示される円が赤く光ったタイミングで\n攻撃ボタンを押せばジャストアタックとなる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "a[f 7c]a[f 7d]a[f 7e]a[f 7f]a[f 9c]",
+    "Enabled": true
   },
   "800008": {
     "OriginalText": "ジャストアタックに成功すると大ダメージが与えられる。\nまた、チェインの受付時間が伸びる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "[f 01]a[f 02]a[f 03]a[f 04]a[f 07]a[f 08]\n[f 09]a[f 0a]a[f 0b]a[f 0c]a[f 1b]a[f 1c]",
+    "Enabled": true
   },
   "800009": {
     "OriginalText": "[f 79] で敵をロックオン中、\n[f 66] でロックオン対象を切り替えることができる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "a[f 6a]a[f 6b]a[f 6c]a[f 6d]a[f 6e]a[f 6f]\na[f 70]a[f 71]a[f 72]a[f 73]a[f 74]a[f 75]",
+    "Enabled": true
   },
   "800010": {
     "OriginalText": "攻撃に使うボタンと、それぞれに設定された攻撃が\n画面右下のメインパレットに表示されている。",
-    "Text": "",
-    "Enabled": false
+    "Text": "a[f 76]a[f 77]a[f 78]a[f 79]a[f 7a]a[f 7b]\na[f 64]a[f 65]a[f 66]a[f 67]a[f 68]a[f 69]",
+    "Enabled": true
   },
   "800011": {
     "OriginalText": "[f 78] を押している間、攻撃が裏パレットに切り替わる。",
