@@ -6,7 +6,7 @@
   },
   "770001": {
     "OriginalText": "『移動とカメラ燥作』",
-    "Text": "[Moving and camera usage]",
+    "Text": "[Moving and Camera Usage]",
     "Enabled": true
   },
   "770002": {
@@ -21,12 +21,12 @@
   },
   "770004": {
     "OriginalText": "『ジャストアタックとサブパレット』",
-    "Text": "[Just attacks and subpallete]",
+    "Text": "[Just attacks and Subpallete]",
     "Enabled": true
   },
   "770005": {
     "OriginalText": "『武器切り替えとロックオン』",
-    "Text": "[Weapon switching and lock-on]",
+    "Text": "[Weapon Switching and Lock-on]",
     "Enabled": true
   },
   "770006": {
@@ -131,8 +131,8 @@
   },
   "770026": {
     "OriginalText": "『部位破壊』",
-    "Text": "",
-    "Enabled": false
+    "Text": "[Part Destruction]",
+    "Enabled": true
   },
   "770027": {
     "OriginalText": "『設定とヘルプ』",
@@ -146,8 +146,8 @@
   },
   "770029": {
     "OriginalText": "『クエストの受け方』",
-    "Text": "",
-    "Enabled": false
+    "Text": "[Starting Quests]",
+    "Enabled": true
   },
   "770030": {
     "OriginalText": "『スキルボード』",
@@ -161,7 +161,7 @@
   },
   "770032": {
     "OriginalText": "『コールドスリープからの解凍』",
-    "Text": "[Defrosting from Cold Sleep]",
+    "Text": "[Defrosting From Cold Sleep]",
     "Enabled": true
   },
   "770033": {
@@ -171,7 +171,7 @@
   },
   "770034": {
     "OriginalText": "『施設の配置と移動』",
-    "Text": "[Facility Moving and Placing]",
+    "Text": "[Moving and Placing Facilities]",
     "Enabled": true
   },
   "770035": {
@@ -231,12 +231,12 @@
   },
   "770046": {
     "OriginalText": "『特微』",
-    "Text": "[Specialty]",
+    "Text": "[Skills]",
     "Enabled": true
   },
   "770047": {
     "OriginalText": "『倉庫と一時倉庫』",
-    "Text": "[Storage and Temp. Storage]",
+    "Text": "[Storage and Temp Storage]",
     "Enabled": true
   },
   "770048": {
@@ -266,8 +266,8 @@
   },
   "770053": {
     "OriginalText": "『アイテム探知伝置』",
-    "Text": "",
-    "Enabled": false
+    "Text": "[Item Detection System]",
+    "Enabled": true
   },
   "770054": {
     "OriginalText": "『エネミーレーダー』",
@@ -276,8 +276,8 @@
   },
   "770055": {
     "OriginalText": "『バースト加速伝置』",
-    "Text": "",
-    "Enabled": false
+    "Text": "[BURST Acceleration Device]",
+    "Enabled": true
   },
   "770056": {
     "OriginalText": "『探索隊』",
@@ -286,7 +286,7 @@
   },
   "770057": {
     "OriginalText": "『ギガンテス捕獲所』",
-    "Text": "[Gigantes Capture Unit]",
+    "Text": "[Gigantes Capture Facility]",
     "Enabled": true
   },
   "770058": {
@@ -336,7 +336,7 @@
   },
   "770067": {
     "OriginalText": "マルチプレイルームへ",
-    "Text": "To Multiplay Room",
+    "Text": "To Multiplayer Room",
     "Enabled": true
   },
   "770068": {
@@ -456,8 +456,8 @@
   },
   "770091": {
     "OriginalText": "『再キャラクタークリエイト』",
-    "Text": "",
-    "Enabled": false
+    "Text": "[Recreate Character]",
+    "Enabled": true
   },
   "770092": {
     "OriginalText": "ver.1.05アップデート！ その１",
