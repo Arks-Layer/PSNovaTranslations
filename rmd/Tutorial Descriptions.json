@@ -31,8 +31,8 @@
   },
   "780006": {
     "OriginalText": "『テクニック』\n\nテクニックとは、フォースがフォトンの力を\n用いて扱う強力な法術です。\n\n[a 07]遠隔攻撃[b]をはじめ、[a 07]パーティーメンバーの\n治癒[b]や[a 07]戦闘ダメージの軽滅[b]など、\nさままなテクニックが存在します。\n\nテクニックは [f 74][a 07] 長押し溜めで発動[b]します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "[Techniques]\n\nTechniques are powerful skills utilized by Force\nvia harnessing the power of photons.\n\nThey include things such as [a 07]ranged attacks[b], [a 07]healing party members[b],\nand [a 07]offensive and defensive buffs[b].\n\nYou can [a 07]charge[b] A Technique by\nholding down [f 74].",
+    "Enabled": true
   },
   "780007": {
     "OriginalText": "\nテクニックは繰り出す度に\n[a 07]ＰＰ（フォトンポイント）を消費[b]します。\n\nＰＰは[a 07]時間経過[b]、または[a 07]通常攻撃をヒット[b]させる\nことで回復します。\n\n通常攻撃とテクニックをうまく組み合わせて\n戦いましょう。",
