@@ -21,13 +21,13 @@
   },
   "690004": {
     "OriginalText": "アルキュオネの触腕から正面方向に\n特大の火炎弾を発射し、\n標的に大ダメージを与える。",
-    "Text": "Alcyone launches a large fireball in\nfront of it with it's tentacles, dealing\na great deal of damage to all targets.",
+    "Text": "Alcyone launches a large fireball in\nfront of it with its tentacles, dealing\na great deal of damage to all targets.",
     "Enabled": true
   },
   "690005": {
     "OriginalText": "グレイオスが前足にため込んだ\n力を周囲に放電させて広い範囲に\n余波攻撃を与える。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Greios discharges a shockwave from its\nfront legs, dealing damage to all\nenemies within a wide area.",
+    "Enabled": true
   },
   "690006": {
     "OriginalText": "ヴィヴリュードが両足で上空に\n向かって、多弾頭ミサイルを発射し\n全方位に攻撃する。",
