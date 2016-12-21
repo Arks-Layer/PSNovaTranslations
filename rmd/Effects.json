@@ -1031,27 +1031,27 @@
   },
   "160206": {
     "OriginalText": "習得LV1～6の素材滅",
-    "Text": "Lv. 1-6 Reduced Cost",
+    "Text": "GA/Tech Lv. 1-6 Reduced Cost",
     "Enabled": true
   },
   "160207": {
     "OriginalText": "習得LV7～12の素材滅",
-    "Text": "Lv. 7-12 Reduced Cost",
+    "Text": "GA/Tech Lv. 7-12 Reduced Cost",
     "Enabled": true
   },
   "160208": {
     "OriginalText": "習得LV13～19の素材滅",
-    "Text": "Lv. 13-19 Reduced Cost",
+    "Text": "GA/Tech Lv. 13-19 Reduced Cost",
     "Enabled": true
   },
   "160209": {
     "OriginalText": "習得LV20～25の素材滅",
-    "Text": "Lv. 20-25 Reduced Cost",
+    "Text": "GA/Tech Lv. 20-25 Reduced Cost",
     "Enabled": true
   },
   "160210": {
     "OriginalText": "習得LV26～30の素材滅",
-    "Text": "Lv. 26-30 Reduced Cost",
+    "Text": "GA/Tech Lv. 26-30 Reduced Cost",
     "Enabled": true
   },
   "160211": {
@@ -1316,7 +1316,7 @@
   },
   "160263": {
     "OriginalText": "精錬所エナジー滅",
-    "Text": "Core Ref. Reduced Cost",
+    "Text": "Core Ref. Cost",
     "Enabled": true
   },
   "160264": {
@@ -1666,7 +1666,7 @@
   },
   "160555": {
     "OriginalText": "追加：劇属性ダウン",
-    "Text": "Add: Ice Resist Down.",
+    "Text": "Add: Ice Resist Down",
     "Enabled": true
   },
   "160556": {
