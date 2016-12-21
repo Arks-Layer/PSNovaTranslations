@@ -282,7 +282,7 @@
   "160056": {
     "OriginalText": "スタイリッシュロール実行",
     "Text": "",
-    "Enabled": s
+    "Enabled": false
   },
   "160057": {
     "OriginalText": "スウェー実行",
