@@ -2966,7 +2966,7 @@
   },
   "22214": {
     "OriginalText": "疲労が回復するまで隊員数が滅ります。",
-    "Text": "These personnel will be unavailable until their fatigue is recovered.",
+    "Text": "Fatigued crew will be unavailable until they recover.",
     "Enabled": true
   },
   "22215": {
@@ -2976,7 +2976,7 @@
   },
   "22216": {
     "OriginalText": "探索隊を派遣しますか？",
-    "Text": "Are you sure you want\nto send a search team?",
+    "Text": "Do you want to dispatch a search team?",
     "Enabled": true
   },
   "22217": {
@@ -2986,7 +2986,7 @@
   },
   "22218": {
     "OriginalText": "うち疲労者",
-    "Text": "Personnel Fatigued",
+    "Text": "Crew Fatigued",
     "Enabled": true
   },
   "22219": {
@@ -3021,7 +3021,7 @@
   },
   "22234": {
     "OriginalText": "必要人数",
-    "Text": "People Needed",
+    "Text": "Crew Needed",
     "Enabled": true
   },
   "22235": {
@@ -3031,7 +3031,7 @@
   },
   "22236": {
     "OriginalText": "隊員の状況",
-    "Text": "Personnel Status",
+    "Text": "Crew Status",
     "Enabled": true
   },
   "22237": {
@@ -3041,7 +3041,7 @@
   },
   "22238": {
     "OriginalText": "派遣した隊員数",
-    "Text": "Personnel Dispatched",
+    "Text": "Crew Dispatched",
     "Enabled": true
   },
   "22301": {
