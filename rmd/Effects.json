@@ -282,7 +282,7 @@
   "160056": {
     "OriginalText": "スタイリッシュロール実行",
     "Text": "",
-    "Enabled": false
+    "Enabled": s
   },
   "160057": {
     "OriginalText": "スウェー実行",
@@ -1666,7 +1666,7 @@
   },
   "160555": {
     "OriginalText": "追加：劇属性ダウン",
-    "Text": "Add: Ice Resist Down.",
+    "Text": "Add: Ice Resist Down",
     "Enabled": true
   },
   "160556": {
