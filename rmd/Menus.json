@@ -2176,8 +2176,8 @@
   },
   "21739": {
     "OriginalText": "このクエストはトライアルクエストです。\nあらかじめ用意された伝備とパラメータで\nクエストに挑戦しますが、よろしいですか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Accept this Time Attack quest?\n\n[a 03]Time Attack quests use premade classes\nwith their own skills and equipment.[b]",
+    "Enabled": true
   },
   "21740": {
     "OriginalText": "パーティーがいっぱいです。\nクルーをはずして空きを作ってください。",
