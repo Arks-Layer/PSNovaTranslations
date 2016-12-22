@@ -536,47 +536,47 @@
   },
   "500113": {
     "OriginalText": "現在おこなっている編集作業を\n編集開始の状態に戻します。\nよろしいですか？",
-    "Text": "By doing this, all your current\nedits and changes will be lost.\nAre you sure?",
+    "Text": "By doing this, all your current edits and changes will be lost.\n\nContinue?",
     "Enabled": true
   },
   "500114": {
     "OriginalText": "チェックをはずした項目を\nベース状態に戻して\nトップメニューに戻ります。\nよろしいですか？",
-    "Text": "This will save only the checked\nchanges. All others will be lost.\nAre you sure?",
+    "Text": "This will save only the checked changes. All others will be lost.\n\nContinue?",
     "Enabled": true
   },
   "500115": {
     "OriginalText": "キャラクタークリエイトを\n中断しタイトルに戻ります。\n\nよろしいですか？",
-    "Text": "This will cancel character editing\nand go back to the main menu.\nAll edits will be lost.\nAre you sure?",
+    "Text": "This will cancel character editing and go back to the main menu.\nAll edits will be lost.\n\nContinue?",
     "Enabled": true
   },
   "500116": {
     "OriginalText": "エステを中断します。\n編集内容は反映されません。\n\nよろしいですか？",
-    "Text": "This will end the Makeover.\nChanges will not be saved.\n\nAre you sure?",
+    "Text": "This will end the Makeover. Changes will not be saved.\n\nContinue?",
     "Enabled": true
   },
   "500117": {
     "OriginalText": "この情報でキャラクターを\n決定します。\n\nよろしいですか？",
-    "Text": "The character you have\ndesigned will be saved.\n\nAre you sure?",
+    "Text": "The character you have designed will be saved.\n\nContinue?",
     "Enabled": true
   },
   "500118": {
     "OriginalText": "この内容をキャラクターに\n反映します。\n\nよろしいですか？",
-    "Text": "The changes you've made\nwill be saved.\n\nAre you sure?",
+    "Text": "The changes you've made will be saved.\n\nContinue?",
     "Enabled": true
   },
   "500119": {
     "OriginalText": "種族やクラスを変更しようとしています。\nこだわり編集でおこなった編集内容は\n破棄されますがよろしいですか？",
-    "Text": "Edits will be discarded\nif you change your race/class.\nAre you sure?",
+    "Text": "Edits will be discarded if you change your race/class.\n\nContinue?",
     "Enabled": true
   },
   "500120": {
     "OriginalText": "ベースタイプを変更しようとしています。\nこだわり編集でおこなった編集内容は\n破棄されますがよろしいですか？",
-    "Text": "Edits will be discarded\nif you change your base type.\nAre you sure?",
+    "Text": "Edits will be discarded if you change your base type.\n\nContinue?",
     "Enabled": true
   },
   "500121": {
     "OriginalText": "使用できない単語が含まれています。\n名前を修正してください。",
-    "Text": "Your name contains characters\nthat cannot be used.",
+    "Text": "Your name contains characters that cannot be used.",
     "Enabled": true
   },
   "500122": {
@@ -591,7 +591,7 @@
   },
   "500124": {
     "OriginalText": "ランダム選択メニューを開きます。\n\nランダム選択をおこなうと、\nカスタマイズした各要素が\nすべてランダムに書きかえられます。",
-    "Text": "This will open the random menu.\n\nWhen you choose a random\nselection, each element\nselected will be randomized.",
+    "Text": "This will open the random menu.\nWhen you choose a random selection, each item selected will be randomized.",
     "Enabled": true
   },
   "500125": {
@@ -601,12 +601,12 @@
   },
   "500126": {
     "OriginalText": "キャラクターセレクトを\n中断しメニューに戻ります。\n\nよろしいですか？",
-    "Text": "Leaving character select to return to the menu.\nAre you sure?",
+    "Text": "Leaving character select to return to the menu.\n\nContinue?",
     "Enabled": true
   },
   "500127": {
     "OriginalText": "倣字、半角カナ、一部記号は使えません。\n入力された場合、その文字は省かれます。",
-    "Text": "You have entered invalid characters\nwhich have been omitted.",
+    "Text": "You have entered invalid characters which have been omitted.",
     "Enabled": true
   },
   "500260": {
