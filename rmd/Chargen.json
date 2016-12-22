@@ -534,7 +534,7 @@
     "Text": "An invalid name has been entered.",
     "Enabled": true
   },
-  "500113": {
+ "500113": {
     "OriginalText": "現在おこなっている編集作業を\n編集開始の状態に戻します。\nよろしいですか？",
     "Text": "By doing this, all your current edits and changes will be lost.\n\nContinue?",
     "Enabled": true
