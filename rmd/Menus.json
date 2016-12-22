@@ -581,7 +581,7 @@
 	},
 	"20126": {
 		"OriginalText": "クラス変更を完了しました。\n\nクラスを変更したことで\n使用不能となった伝備があります。",
-		"Text": "Class change complete.\n\n[a 03]By changing your class, some equipment may become unusable.[b]",
+		"Text": "Class change complete.\n\n[a 03]By changing your class, some equipment may become unusable.[b]s",
 		"Enabled": true
 	},
 	"20127": {
