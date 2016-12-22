@@ -1646,7 +1646,7 @@
   },
   "21310": {
     "OriginalText": "すでに料理を食べています。\n一度クエストを開始し、拠点に帰還するまで、\n食堂を利用することはできません。",
-    "Text": "You have already eaten food.\nYou will not be able to use the Restaurant until you have\ncompleted a quest.",
+    "Text": "You have already eaten food.\nYou will not be able to use the Restaurant until you have completed a quest.",
     "Enabled": true
   },
   "21311": {
@@ -2176,7 +2176,7 @@
   },
   "21739": {
     "OriginalText": "このクエストはトライアルクエストです。\nあらかじめ用意された伝備とパラメータで\nクエストに挑戦しますが、よろしいですか？",
-    "Text": "Accept this Time Attack quest?\n\n[a 03]Time Attack quests use premade classes with their own skills\nand equipment.[b]",
+    "Text": "Accept this Time Attack quest?\n\n[a 03]Time Attack quests use premade classes with their own skills and equipment.[b]",
     "Enabled": true
   },
   "21740": {
