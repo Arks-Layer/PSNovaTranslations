@@ -51,7 +51,7 @@
   },
   "10711": {
     "OriginalText": "未伝備優先",
-    "Text": "",
+    "Text": "Equippable",
     "Enabled": false
   },
   "10712": {
@@ -3226,7 +3226,7 @@
   },
   "22711": {
     "OriginalText": "ワンモアセット",
-    "Text": "One More Set",
+    "Text": "One More",
     "Enabled": true
   },
   "22712": {
@@ -3266,7 +3266,7 @@
   },
   "22719": {
     "OriginalText": "の通信が切断されました",
-    "Text": " Was Disconnected",
+    "Text": " Has Disconnected",
     "Enabled": true
   },
   "22720": {
