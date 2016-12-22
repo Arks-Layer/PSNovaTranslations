@@ -256,7 +256,7 @@
   },
   "10910": {
     "OriginalText": "ゲームを終了してタイトルに戻ります。\n\n[a 03]前回のセーブ似降のプレイ情報が失われますが、\nよろしいですか？[b]\n",
-    "Text": "Exit the game and return to the title screen?\n\n[a 03]Any progress since your last save will be lost![b]",
+    "Text": "Exit the game and return to the title screen?\n\n[a 03]Any progress since your last save will be lost![b]\n",
     "Enabled": true
   },
   "10911": {
@@ -581,7 +581,7 @@
   },
   "20126": {
     "OriginalText": "クラス変更を完了しました。\n\nクラスを変更したことで\n使用不能となった伝備があります。",
-    "Text": "Class change complete.\n\n[a 03]By changing your class, some equipment may become unusable.[b]",
+    "Text": "Class change complete.\n\n[a 03]By changing your class, some\nequipment may become unusable.[b]",
     "Enabled": true
   },
   "20127": {
@@ -621,7 +621,7 @@
   },
   "20134": {
     "OriginalText": "アイテムパックがいっぱいなので倉庫に預けました。",
-    "Text": "Inventory was full, so item(s) were sent to Storage.",
+    "Text": "Inventory was full, so item(s)\nwere sent to Storage.",
     "Enabled": true
   },
   "20135": {
@@ -636,22 +636,22 @@
   },
   "20137": {
     "OriginalText": "現在のクラスではこの技は使えません。\nこの技を習得しますか？",
-    "Text": "Techniques are not usable by this class.\nDo you want to learn this Technique?",
+    "Text": "Techs are not usable for this class.\nDo you want to learn this Technique?",
     "Enabled": true
   },
   "20138": {
     "OriginalText": "現在のクラスではこの技は使えません。\nこの技のレベルを上げますか？",
-    "Text": "Techniques are not usable by this class.\nDo you want to raise this Technique's level?",
+    "Text": "Techs are not usable for this class.\nDo you want to raise this Technique's level?",
     "Enabled": true
   },
   "20139": {
     "OriginalText": "現在のクラスではこのテクニックは使えません。\nこのテクニックを習得しますか？",
-    "Text": "Techniques are not usable by this class.\nDo you want to learn this Technique?",
+    "Text": "Techs are not usable for this class.\nDo you want to learn this Technique?",
     "Enabled": true
   },
   "20140": {
     "OriginalText": "現在のクラスではこのテクニックは使えません。\nこの技のテクニックのレベルを上げますか？",
-    "Text": "Techniques are not usable by this class.\nDo you want to raise this Technique's level?",
+    "Text": "Techs are not usable for this class.\nDo you want to raise this Technique's level?",
     "Enabled": true
   },
   "20201": {
@@ -696,7 +696,7 @@
   },
   "20209": {
     "OriginalText": "パスワードが正しくありません。\n再度入力してください。",
-    "Text": "The password you entered is incorrect.\nPlease try again.",
+    "Text": "The password you've entered is incorrect.\nPlease try again.",
     "Enabled": true
   },
   "20210": {
@@ -761,7 +761,7 @@
   },
   "20222": {
     "OriginalText": "解凍する人数を選択してください。",
-    "Text": "Please select the number of people to defrost.",
+    "Text": "Please select the number\nof people to defrost.",
     "Enabled": true
   },
   "20223": {
@@ -1141,7 +1141,7 @@
   },
   "20806": {
     "OriginalText": "マルチプレイ中は\nリーダー似外はアクセスできません。\n\n[a 03]※ストーリーを進めるためにアクセスが必要な場合、\nマルチプレイを一度切断してアクセスし、\nストーリーを進行させてから\nマルチプレイを再開してください。[b]",
-    "Text": "Main Crew are not available during multiplayer.\n\n[a 03]If you need to advance the story, disconnect from multiplayer\nto do so, then restart multiplayer.[b]",
+    "Text": "Main Crew are not available during multiplayer.\n\n[a 03]※If you need to advance the story,\ndisconnect from multiplayer\nto do so, then restart multiplayer.[b]",
     "Enabled": true
   },
   "20807": {
@@ -1281,7 +1281,7 @@
   },
   "21010": {
     "OriginalText": "このクルーを配属します。\nよろしいですか？",
-    "Text": "Do you want to assign this crew?",
+    "Text": "Do you want to\nassign this crew?",
     "Enabled": true
   },
   "21011": {
@@ -1411,7 +1411,7 @@
   },
   "21116": {
     "OriginalText": "マルチプレイ中は\nリーダー似外はアクセスできません。\n\n[a 03]※ストーリーを進めるためにアクセスが必要な場合、\n マルチプレイを一度切断してアクセスし、\n ストーリーを進行させてから\n マルチプレイを再開してください。[b]",
-    "Text": "Main Crew are not available during multiplayer.\n\n[a 03]If you need to advance the story, disconnect from multiplayer\nto do so, then restart multiplayer.[b]",
+    "Text": "Main Crew are not available during multiplayer.\n\n[a 03]※If you need to advance the story, disconnect from multiplayer\nto do so, then restart multiplayer.[b]",
     "Enabled": true
   },
   "21117": {
@@ -1436,7 +1436,7 @@
   },
   "21121": {
     "OriginalText": "メンバーがいない状態では\nパーティー結成できません。",
-    "Text": "Cannot form a party with no members.",
+    "Text": "Cannot form a party\nwith no members.",
     "Enabled": true
   },
   "21122": {
@@ -1951,7 +1951,7 @@
   },
   "21643": {
     "OriginalText": "アタッチパーツがセットされています。 \n武器とアタッチパーツを同時に預けます。 \nよろしいですか？ ",
-    "Text": "Attachments are still equipped.\n\nDeposit the weapon and its attachments?",
+    "Text": "Attachments are still equipped.\nDeposit the weapon\nand its attachments?",
     "Enabled": true
   },
   "21644": {
@@ -1976,12 +1976,12 @@
   },
   "21648": {
     "OriginalText": "アタッチパーツがセットされています。\n武器を捨てるには、アタッチパーツを\nはずす必要があります。",
-    "Text": "To discard the weapon, you must remove its attachments first.",
+    "Text": "To discard the weapon,\nyou must remove its\nattachments first.",
     "Enabled": true
   },
   "21649": {
     "OriginalText": "このアタッチパーツを作成する\n条件を既たしていません。",
-    "Text": "You do not meet the conditions to create this attachment.",
+    "Text": "You do not meet the\nconditions to create\nthis attachment.",
     "Enabled": true
   },
   "21701": {
@@ -2181,7 +2181,7 @@
   },
   "21740": {
     "OriginalText": "パーティーがいっぱいです。\nクルーをはずして空きを作ってください。",
-    "Text": "The party is full. Please remove someone to make room.",
+    "Text": "The party is full.\nPlease remove someone to make room.",
     "Enabled": true
   },
   "21741": {
@@ -3081,7 +3081,7 @@
   },
   "22403": {
     "OriginalText": "このコスチュームを作成します。\nよろしいですか？\n",
-    "Text": "Create costume?",
+    "Text": "Create costume?\n",
     "Enabled": true
   },
   "22404": {
@@ -3161,7 +3161,7 @@
   },
   "22601": {
     "OriginalText": "ここまでのプレイ状況を\nセーブデータに保存しますか？",
-    "Text": "Your play data up to this point will be saved.\n\nContinue?",
+    "Text": "Your play data up to this point\nwill be saved. Continue?",
     "Enabled": true
   },
   "22602": {
@@ -3366,7 +3366,7 @@
   },
   "22739": {
     "OriginalText": "がレベルアップ！",
-    "Text": " Gained a Level!",
+    "Text": " gained a Level!",
     "Enabled": true
   },
   "22740": {
@@ -3711,22 +3711,22 @@
   },
   "23803": {
     "OriginalText": "エマージェンシートライアル「",
-    "Text": "Emergency Trial [",
+    "Text": "Emergency Trial 「",
     "Enabled": true
   },
   "23804": {
     "OriginalText": "」の\n発生エリアから離脱しました。\n",
-    "Text": "]\nWas removed from the generation area.\n",
+    "Text": "」\nWas removed from the generation area.\n",
     "Enabled": true
   },
   "23805": {
     "OriginalText": "重要なエマージェンシートライアルが発生しました。\nエマージェンシートライアル「",
-    "Text": "An important Emergency Trial has appeared.\nEmergency Trial [",
+    "Text": "An important Emergency Trial has appeared.\nEmergency Trial 「",
     "Enabled": true
   },
   "23806": {
     "OriginalText": "」が\n終了しました。\n",
-    "Text": "] has ended.\n",
+    "Text": "」 has ended.\n",
     "Enabled": true
   },
   "23901": {
@@ -3736,22 +3736,22 @@
   },
   "23902": {
     "OriginalText": "似後、ギガンテスブラスト「",
-    "Text": "Gigantes Blast [",
+    "Text": "Gigantes Blast 「",
     "Enabled": true
   },
   "23903": {
     "OriginalText": "」を使用できます！",
-    "Text": "] can be used!",
+    "Text": "」 can be used!",
     "Enabled": true
   },
   "23904": {
     "OriginalText": "より強力な「",
-    "Text": "Level of [",
+    "Text": "Level of 「",
     "Enabled": true
   },
   "23905": {
-    "OriginalText": "」のレベルが上がります！",
-    "Text": "] has gone up!",
+    "OriginalText": "のレベルが上がります！",
+    "Text": "」 has gone up!",
     "Enabled": true
   },
   "24001": {
@@ -3931,7 +3931,7 @@
   },
   "24130": {
     "OriginalText": "メモリーカードに体験版のセーブデータがあります。\nセーブデータを引き継ぎますか？",
-    "Text": "Save data from the demo version was detected.\n\nImport save data?",
+    "Text": "Save data from the demo version was detected.\nImport save data?",
     "Enabled": true
   },
   "25000": {
@@ -3941,7 +3941,7 @@
   },
   "25001": {
     "OriginalText": "材料とコアを\n倉庫に預けました。",
-    "Text": "All Materials and Cores were deposited into Storage.",
+    "Text": "All Materials and Cores were\ndeposited into Storage.",
     "Enabled": true
   },
   "25002": {
@@ -4161,12 +4161,12 @@
   },
   "25222": {
     "OriginalText": "コア精錬所で上位コアが作成できるようになりました。",
-    "Text": "Higher level Cores can now be created at the Core Refinery.",
+    "Text": "Higher level Cores can now\nbe created at the Core Refinery.",
     "Enabled": true
   },
   "25223": {
     "OriginalText": "強化できるコアを持っていません。 ",
-    "Text": "You do not have a Core that can be enhanced.",
+    "Text": "You do not have a Core\nthat can be enhanced.",
     "Enabled": true
   },
   "25300": {
