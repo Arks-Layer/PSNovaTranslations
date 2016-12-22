@@ -52,7 +52,7 @@
   "10711": {
     "OriginalText": "未伝備優先",
     "Text": "Equippable",
-    "Enabled": false
+    "Enabled": true
   },
   "10712": {
     "OriginalText": "数量が多い順",
