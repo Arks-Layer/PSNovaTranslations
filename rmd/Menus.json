@@ -51,8 +51,8 @@
   },
   "10711": {
     "OriginalText": "未伝備優先",
-    "Text": "",
-    "Enabled": false
+    "Text": "Equippable",
+    "Enabled": true
   },
   "10712": {
     "OriginalText": "数量が多い順",
@@ -601,7 +601,7 @@
   },
   "20130": {
     "OriginalText": "マナ土用エクスキューブ",
-    "Text": "Earth Mana Excube",
+    "Text": "Buster Excube",
     "Enabled": true
   },
   "20131": {
@@ -1646,7 +1646,7 @@
   },
   "21310": {
     "OriginalText": "すでに料理を食べています。\n一度クエストを開始し、拠点に帰還するまで、\n食堂を利用することはできません。",
-    "Text": "You have already eaten food.\nYou will not be able to use the Restaurant until you have completed a quest.",
+    "Text": "You have already eaten food.\nYou will not be able to use the Restaurant\nuntil you have completed a quest.",
     "Enabled": true
   },
   "21311": {
@@ -2176,7 +2176,7 @@
   },
   "21739": {
     "OriginalText": "このクエストはトライアルクエストです。\nあらかじめ用意された伝備とパラメータで\nクエストに挑戦しますが、よろしいですか？",
-    "Text": "Accept this Time Attack quest?\n\n[a 03]Time Attack quests use premade classes with their own skills and equipment.[b]",
+    "Text": "Accept this Time Attack quest?\n\n[a 03]Time Attack quests use premade classes\nwith their own skills and equipment.[b]",
     "Enabled": true
   },
   "21740": {
@@ -3226,7 +3226,7 @@
   },
   "22711": {
     "OriginalText": "ワンモアセット",
-    "Text": "One More Set",
+    "Text": "One More",
     "Enabled": true
   },
   "22712": {
@@ -3266,7 +3266,7 @@
   },
   "22719": {
     "OriginalText": "の通信が切断されました",
-    "Text": " Was Disconnected",
+    "Text": " Has Disconnected",
     "Enabled": true
   },
   "22720": {
@@ -3501,7 +3501,7 @@
   },
   "22766": {
     "OriginalText": "グランバースト発生",
-    "Text": "Gran Burst Generator",
+    "Text": "BURST Started",
     "Enabled": true
   },
   "22767": {

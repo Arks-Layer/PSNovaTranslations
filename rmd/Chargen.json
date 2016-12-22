@@ -551,7 +551,7 @@
   },
   "500116": {
     "OriginalText": "エステを中断します。\n編集内容は反映されません。\n\nよろしいですか？",
-    "Text": "This will end the Makeover. Changes will not be saved.\n\nContinue?",
+    "Text": "This will end the makeover. Changes will not be saved.\n\nContinue?",
     "Enabled": true
   },
   "500117": {
@@ -591,7 +591,7 @@
   },
   "500124": {
     "OriginalText": "ランダム選択メニューを開きます。\n\nランダム選択をおこなうと、\nカスタマイズした各要素が\nすべてランダムに書きかえられます。",
-    "Text": "This will open the random menu.\nWhen you choose a random selection, each item selected will be randomized.",
+    "Text": "This will open the randomization menu.\nWhen you choose a random selection, each item selected will be randomized.",
     "Enabled": true
   },
   "500125": {
