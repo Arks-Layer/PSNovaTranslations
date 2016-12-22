@@ -166,7 +166,7 @@
   },
   "160033": {
     "OriginalText": "ヘイト上昇率アップ",
-    "Text": "Hate Accum.",
+    "Text": "Increased Hate Accum.",
     "Enabled": true
   },
   "160034": {
@@ -181,7 +181,7 @@
   },
   "160036": {
     "OriginalText": "確率でリアクション無効",
-    "Text": "Avoid Knockback",
+    "Text": "Decreased Knockback",
     "Enabled": true
   },
   "160037": {
@@ -206,7 +206,7 @@
   },
   "160041": {
     "OriginalText": "クリティカル率アップ",
-    "Text": "Critical Rate",
+    "Text": "Increased Critical Rate",
     "Enabled": true
   },
   "160042": {
@@ -781,7 +781,7 @@
   },
   "160156": {
     "OriginalText": "BURST：レアドロップ",
-    "Text": "BURST: Rare Drop",
+    "Text": "BURST: Rare Drop Rate",
     "Enabled": true
   },
   "160157": {
@@ -1031,27 +1031,27 @@
   },
   "160206": {
     "OriginalText": "習得LV1～6の素材滅",
-    "Text": "Lv. 1-6 Reduced Cost",
+    "Text": "GA/Tech Lv. 1-6 Reduced Cost",
     "Enabled": true
   },
   "160207": {
     "OriginalText": "習得LV7～12の素材滅",
-    "Text": "Lv. 7-12 Reduced Cost",
+    "Text": "GA/Tech Lv. 7-12 Reduced Cost",
     "Enabled": true
   },
   "160208": {
     "OriginalText": "習得LV13～19の素材滅",
-    "Text": "Lv. 13-19 Reduced Cost",
+    "Text": "GA/Tech Lv. 13-19 Reduced Cost",
     "Enabled": true
   },
   "160209": {
     "OriginalText": "習得LV20～25の素材滅",
-    "Text": "Lv. 20-25 Reduced Cost",
+    "Text": "GA/Tech Lv. 20-25 Reduced Cost",
     "Enabled": true
   },
   "160210": {
     "OriginalText": "習得LV26～30の素材滅",
-    "Text": "Lv. 26-30 Reduced Cost",
+    "Text": "GA/Tech Lv. 26-30 Reduced Cost",
     "Enabled": true
   },
   "160211": {
@@ -1316,7 +1316,7 @@
   },
   "160263": {
     "OriginalText": "精錬所エナジー滅",
-    "Text": "Core Refinery Reduced Energy",
+    "Text": "Core Ref. Cost",
     "Enabled": true
   },
   "160264": {
@@ -1371,12 +1371,12 @@
   },
   "160274": {
     "OriginalText": "弱点部位ダメージアップ",
-    "Text": "Weakness Damage",
+    "Text": "Increased Weak Point/Part Damage",
     "Enabled": true
   },
   "160275": {
     "OriginalText": "弱点属性ダメージアップ",
-    "Text": "Weak Att. Damage",
+    "Text": "Increased Weak Attribute Damage",
     "Enabled": true
   },
   "160276": {
@@ -1456,7 +1456,7 @@
   },
   "160513": {
     "OriginalText": "ヘイト上昇率ダウン",
-    "Text": "Hate Accum. Down",
+    "Text": "Decreased Hate Accum.",
     "Enabled": true
   },
   "160514": {
@@ -1666,7 +1666,7 @@
   },
   "160555": {
     "OriginalText": "追加：劇属性ダウン",
-    "Text": "Add: Ice Resist Down.",
+    "Text": "Add: Ice Resist Down",
     "Enabled": true
   },
   "160556": {
@@ -1701,12 +1701,12 @@
   },
   "160562": {
     "OriginalText": "状態異常耐性アップ",
-    "Text": "Status Resist",
+    "Text": "Status Effect Resist",
     "Enabled": true
   },
   "160563": {
     "OriginalText": "補助テクニック範囲",
-    "Text": "Support Tech Range",
+    "Text": "Supp. Tech Range",
     "Enabled": true
   },
   "160564": {
@@ -1716,7 +1716,7 @@
   },
   "160700": {
     "OriginalText": "探索：日数軽滅",
-    "Text": "Search: Days Left",
+    "Text": "Search: Less Days",
     "Enabled": true
   }
 }

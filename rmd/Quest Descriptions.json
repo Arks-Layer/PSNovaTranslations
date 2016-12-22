@@ -11,27 +11,27 @@
   },
   "230002": {
     "OriginalText": "依頼者：フィルディア\n銅の荒野に取り残された先遣隊の生存者を\n捜索してくれ。\nダーカーがウヨウヨいて、どんなタイプが出て来るか\nオレにもわからんが、生存者の救出は絶対だ！\n今、戦えるのはお前たちしかいない。頼むぞ！\n\n同行者：ルティナ",
-    "Text": "Requestor: Fildia\nSearch for the survivors\nof the Advance Team. There may be\nsome strange Darkers out there,\nbut rescue the team at all costs!\nWe can only count on you!\n\nRecommended: Lutina",
+    "Text": "Requester: Fildia\n\nRecommended: Lutina",
     "Enabled": true
   },
   "230003": {
     "OriginalText": "依頼者：シャロン\n銅の荒野で艦のエネルギーとなるグラン結晶を\n集めてください。\nこの惑星の原生種かもしれない未知の生命反応が\n出ています。\n交戦の可能性もありますので警戒を怠らないで\nください。\n同行者：ルティナ セイル イズナ",
-    "Text": "Requestor: Sharon\nThere's Gran Crystal that we can use as\nenergy for the Ship, please retrieve it.\nThere's a possibility you may enter combat, so please be careful.\n\nRecommended: Lutina, Sail, Izuna",
+    "Text": "Requester: Sharon\n\nRecommended: Lutina, Sail, Izuna",
     "Enabled": true
   },
   "230004": {
     "OriginalText": "\n銅の荒野における哨戒作戦を任せる。\n指定地域を周回探索せよ。\n原生種に遭遇した場合は速やかに撃破するよう。\n経贄を制圧し、治安確保を確認次第、\n帰還許可を与える。\n",
-    "Text": "\nＥｘｐｌｏｒｅ ａｎｄ ｐａｔｒｏｌ ｔｈｅ Ｓｔｅｅｌ Ｗａｓｔｅｌａｎｄｓ.\nＤｅｆｅａｔ ａｎｙ ｎａｔｉｖｅ ｗｉｌｄｌｉｆｅ ｙｏｕ ｍａｙ ｅｎｃｏｕｎｔｅｒ.\nＯｎｃｅ ｏｕｒ ｓｅｃｕｒｉｔｙ ｉｓ ｅｓｔａｂｌｉｓｈｅｄ、ｙｏｕ ｃａｎ ｒｅｔｕｒｎ.\n",
-    "Enabled": true
+    "Text": "",
+    "Enabled": false
   },
   "230005": {
     "OriginalText": "\n銅の荒野におけるダーカー討伐作戦を任せる。\nダーカーの反応を多数確認している指定地域へ\n速やかに向かうよう。\nこの作戦は素村として利用するダーカーの確保が\n目的である。\n",
-    "Text": "\nＴｈｉｓ ｉｓ ａ ｔｅｓｔ ｄｅｓｃｒｉｐｔｉｏｎ Ｔｈｉｓ ｉｓ ａ ｔｅｓｔ ｄｅｓｃｒｉｐｔｉｏｎ\nＴｈｉｓ ｉｓ ａ ｔｅｓｔ ｄｅｓｃｒｉｐｔｉｏｎ Ｔｈｉｓ ｉｓ ａ ｔｅｓｔ ｄｅｓｃｒｉｐｔｉｏｎ\nＴｈｉｓ ｉｓ ａ ｔｅｓｔ ｄｅｓｃｒｉｐ",
-    "Enabled": true
+    "Text": "",
+    "Enabled": false
   },
   "230006": {
     "OriginalText": "依頼者：フィルディア\n銅の荒野でグラン結晶を集めてくれ。\n新たに感知したヤツを全部頼むぞ。\nそれぐらい集めないと艦のエネルギーには全然\n足りないそうだ。ただし警戒は怠るな。\n生きて戻れなきゃ意味ないからな！\n\n同行者：ルティナ セイル イズナ",
-    "Text": "Requester: Fildia\n銅の荒野でグラン結晶を集めてくれ。\n新たに感知したヤツを全部頼むぞ。\nそれぐらい集めないと艦のエネルギーには全然\n足りないそうだ。ただし警戒は怠るな。\n生きて戻れなきゃ意味ないからな！\n\nRecommended: Lutina, Sail, Izuna",
+    "Text": "Requester: Fildia\n\nRecommended: Lutina, Sail, Izuna",
     "Enabled": true
   },
   "230007": {
@@ -41,8 +41,8 @@
   },
   "230008": {
     "OriginalText": "依頼者：フィルディア\n銅の荒野へアグリオスを倒しに行く！\nヘイロウの威力を見せてやろうじゃねえか。\n足場を展開・包囲したら、攻撃有効箇所を\n見つけ集中攻撃だ！\n\n\n同行者：ルティナ セイル イズナ フィルディア\n[a 03]※この任務のみ一度クリアまでフィルディアが同行[b]",
-    "Text": "依頼者：フィルディア\n銅の荒野へアグリオスを倒しに行く！\nヘイロウの威力を見せてやろうじゃねえか。\n足場を展開・包囲したら、攻撃有効箇所を\n見つけ集中攻撃だ！\n\n\n同行者：ルティナ セイル イズナ フィルディア\n[a 03]※この任務のみ一度クリアまでフィルディアが同行[b]",
-    "Enabled": true
+    "Text": "",
+    "Enabled": false
   },
   "230009": {
     "OriginalText": "\n銅の荒野におけるアグリオス撃破作戦を任せる。\n似前、撃破したものとは別の個体を確認した。\n新兵器ヘイロウを使用し、足場を展開して\n標的を包囲し、弱点を集中攻撃せよ。\n",
