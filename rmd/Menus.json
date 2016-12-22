@@ -3711,22 +3711,22 @@
   },
   "23803": {
     "OriginalText": "エマージェンシートライアル「",
-    "Text": "Emergency Trial 「",
+    "Text": "Emergency Trial [",
     "Enabled": true
   },
   "23804": {
     "OriginalText": "」の\n発生エリアから離脱しました。\n",
-    "Text": "」\nWas removed from the generation area.\n",
+    "Text": "]\nWas removed from the generation area.\n",
     "Enabled": true
   },
   "23805": {
     "OriginalText": "重要なエマージェンシートライアルが発生しました。\nエマージェンシートライアル「",
-    "Text": "An important Emergency Trial has appeared.\nEmergency Trial 「",
+    "Text": "An important Emergency Trial has appeared.\nEmergency Trial [",
     "Enabled": true
   },
   "23806": {
     "OriginalText": "」が\n終了しました。\n",
-    "Text": "」 has ended.\n",
+    "Text": "] has ended.\n",
     "Enabled": true
   },
   "23901": {
@@ -3736,22 +3736,22 @@
   },
   "23902": {
     "OriginalText": "似後、ギガンテスブラスト「",
-    "Text": "Gigantes Blast 「",
+    "Text": "Gigantes Blast [",
     "Enabled": true
   },
   "23903": {
     "OriginalText": "」を使用できます！",
-    "Text": "」 can be used!",
+    "Text": "] can be used!",
     "Enabled": true
   },
   "23904": {
     "OriginalText": "より強力な「",
-    "Text": "Level of 「",
+    "Text": "Level of [",
     "Enabled": true
   },
   "23905": {
     "OriginalText": "のレベルが上がります！",
-    "Text": "」 has gone up!",
+    "Text": "] has gone up!",
     "Enabled": true
   },
   "24001": {
