@@ -51,8 +51,8 @@
   },
   "10711": {
     "OriginalText": "未伝備優先",
-    "Text": "Equippable",
-    "Enabled": true
+    "Text": "",
+    "Enabled": false
   },
   "10712": {
     "OriginalText": "数量が多い順",
@@ -256,7 +256,7 @@
   },
   "10910": {
     "OriginalText": "ゲームを終了してタイトルに戻ります。\n\n[a 03]前回のセーブ似降のプレイ情報が失われますが、\nよろしいですか？[b]\n",
-    "Text": "Exit the game and return to the title screen?\n\n[a 03]Any progress since your last save will be lost![b]",
+    "Text": "Exit the game and return to the title screen?\n\n[a 03]Any progress since your last save will be lost![b]\n",
     "Enabled": true
   },
   "10911": {
@@ -391,7 +391,7 @@
   },
   "11101": {
     "OriginalText": "預ける数を選択してください。",
-    "Text": "Please select the number to deposit.",
+    "Text": "Please select a number to deposit.",
     "Enabled": true
   },
   "11102": {
@@ -401,7 +401,7 @@
   },
   "11103": {
     "OriginalText": "捨てる数を選択してください。",
-    "Text": "Please select the number to discard.",
+    "Text": "Please select a number to discard.",
     "Enabled": true
   },
   "11104": {
@@ -501,7 +501,7 @@
   },
   "20110": {
     "OriginalText": "この技を習得しますか？",
-    "Text": "Do you want to learn this Attack?",
+    "Text": "Do you want to raise this Attack?",
     "Enabled": true
   },
   "20111": {
@@ -511,7 +511,7 @@
   },
   "20112": {
     "OriginalText": "このテクニックを習得しますか？",
-    "Text": "Do you want to learn this Technique?",
+    "Text": "Do you want to raise this Technique?",
     "Enabled": true
   },
   "20113": {
@@ -601,7 +601,7 @@
   },
   "20130": {
     "OriginalText": "マナ土用エクスキューブ",
-    "Text": "Buster Excube",
+    "Text": "Earth Mana Excube",
     "Enabled": true
   },
   "20131": {
@@ -696,7 +696,7 @@
   },
   "20209": {
     "OriginalText": "パスワードが正しくありません。\n再度入力してください。",
-    "Text": "The password you entered is incorrect.\nPlease try again.",
+    "Text": "The password you've entered is incorrect.\nPlease try again.",
     "Enabled": true
   },
   "20210": {
@@ -1646,7 +1646,7 @@
   },
   "21310": {
     "OriginalText": "すでに料理を食べています。\n一度クエストを開始し、拠点に帰還するまで、\n食堂を利用することはできません。",
-    "Text": "You have already eaten food.\nYou will not be able to use the Restaurant\nuntil you have completed a quest.",
+    "Text": "You have already eaten food.\nYou will not be able to use the Restaurant untill you have completed a quest.",
     "Enabled": true
   },
   "21311": {
@@ -2181,7 +2181,7 @@
   },
   "21740": {
     "OriginalText": "パーティーがいっぱいです。\nクルーをはずして空きを作ってください。",
-    "Text": "The party is full. Please remove someone to make room.",
+    "Text": "The party is full.\nPlease remove someone to make room.",
     "Enabled": true
   },
   "21741": {
@@ -3161,12 +3161,12 @@
   },
   "22601": {
     "OriginalText": "ここまでのプレイ状況を\nセーブデータに保存しますか？",
-    "Text": "Your play data up to this point will be saved.\n\nContinue?",
+    "Text": "Your play data up to this point will be saved.\nContinue?",
     "Enabled": true
   },
   "22602": {
     "OriginalText": "解凍する前にセーブを行います。\n解凍しますか？",
-    "Text": "Play data has been saved.\n\nDo you want to defrost?",
+    "Text": "Play data has been saved.\nDo you want to defrost?",
     "Enabled": true
   },
   "22700": {
@@ -3226,7 +3226,7 @@
   },
   "22711": {
     "OriginalText": "ワンモアセット",
-    "Text": "One More",
+    "Text": "One More Set",
     "Enabled": true
   },
   "22712": {
@@ -3266,7 +3266,7 @@
   },
   "22719": {
     "OriginalText": "の通信が切断されました",
-    "Text": " Has Disconnected",
+    "Text": " Was Disconnected",
     "Enabled": true
   },
   "22720": {
@@ -3366,7 +3366,7 @@
   },
   "22739": {
     "OriginalText": "がレベルアップ！",
-    "Text": " Gained a Level!",
+    "Text": " gained a Level!",
     "Enabled": true
   },
   "22740": {
