@@ -556,7 +556,7 @@
 	},
 	"20121": {
 		"OriginalText": "クラスを変更します。\n\nレンジャー\n\nよろしいですか？",
-		"Text": "Changing class to:\n\n[a 07]Ranger[b]\n\nContinue?",
+		"Text": "Changing class to:\n\n[a 07]Ranger[b]\n\nContinue",
 		"Enabled": true
 	},
 	"20122": {
