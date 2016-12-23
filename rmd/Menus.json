@@ -1041,17 +1041,17 @@
   },
   "20706": {
     "OriginalText": "新兵器研究",
-    "Text": "Research Piles",
+    "Text": "Research New Weapons",
     "Enabled": true
   },
   "20707": {
     "OriginalText": "新武器研究",
-    "Text": "Research Halos",
+    "Text": "Research New Weapons",
     "Enabled": true
   },
   "20708": {
     "OriginalText": "観測伝置研究",
-    "Text": "Research BURST Accel. Device",
+    "Text": "Research Observation Device",
     "Enabled": true
   },
   "20709": {
@@ -1066,53 +1066,53 @@
   },
   "20711": {
     "OriginalText": "グランドライブの研究を開始しました。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gran Drive research started.",
+    "Enabled": true
   },
   "20712": {
     "OriginalText": "対ギガンテス用新兵器の研究を開始します。\nグランエナジーが [e 00 00] 必要です。\nよろしいですか？\n",
-    "Text": "",
-    "Enabled": false
+    "Text": "Begin research on new weapons for Gigantes?\n\n[e 00 00] Gran Energy required.",
+    "Enabled": true
   },
   "20713": {
     "OriginalText": "対ギガンテス用武器の研究を開始します。\nグランエナジーが [e 00 00] 必要です。\nよろしいですか？\n",
-    "Text": "",
-    "Enabled": false
+    "Text": "Begin research on new weapons for Gigantes?\n\n[e 00 00] Gran Energy required.",
+    "Enabled": true
   },
   "20714": {
     "OriginalText": "観測伝置の研究を開始します。\nグランエナジーが [e 00 00] 必要です。\nよろしいですか？\n",
-    "Text": "",
-    "Enabled": false
+    "Text": "Begin research on the Observation Device?\n\n[e 00 00] Gran Energy required.",
+    "Enabled": true
   },
   "20715": {
     "OriginalText": "大型パイルの研究を開始します。\nグランエナジーが [e 00 00] 必要です。\nよろしいですか？\n",
-    "Text": "",
-    "Enabled": false
+    "Text": "Begin research on large Piles?\n\n[e 00 00] Gran Energy required.",
+    "Enabled": true
   },
   "20716": {
     "OriginalText": "グランドライブの研究を開始します。\nグランエナジーが [e 00 00] 必要です。\nよろしいですか？\n",
-    "Text": "",
-    "Enabled": false
+    "Text": "Begin research on the Gran Drive?\n\n[e 00 00] Gran Energy required.",
+    "Enabled": true
   },
   "20717": {
     "OriginalText": "対ギガンテス用新兵器の研究を開始しました。",
-    "Text": "",
-    "Enabled": false
+    "Text": "New weapons for Gigantes research started.",
+    "Enabled": true
   },
   "20718": {
     "OriginalText": "対ギガンテス用武器の研究を開始しました。",
-    "Text": "",
-    "Enabled": false
+    "Text": "New weapons for Gigantes research started.",
+    "Enabled": true
   },
   "20719": {
     "OriginalText": "観測伝置の研究を開始しました。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Observation Device research started.",
+    "Enabled": true
   },
   "20720": {
     "OriginalText": "大型パイルの研究を開始しました。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Large Piles research started.",
+    "Enabled": true
   },
   "20801": {
     "OriginalText": "ショップ",
