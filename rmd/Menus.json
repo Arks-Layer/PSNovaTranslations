@@ -2176,7 +2176,7 @@
   },
   "21739": {
     "OriginalText": "このクエストはトライアルクエストです。\nあらかじめ用意された伝備とパラメータで\nクエストに挑戦しますが、よろしいですか？",
-    "Text": "Accept this Time Attack quest?\n\n[a 03]Time Attack quests use premade classes with their own\nskills\nand equipment.[b]",
+    "Text": "Accept this Time Attack quest?\n\n[a 03]Time Attack quests use premade classes with their own\nskills and equipment.[b]",
     "Enabled": true
   },
   "21740": {
