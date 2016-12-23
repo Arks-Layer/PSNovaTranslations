@@ -276,7 +276,7 @@
   },
   "10914": {
     "OriginalText": "クエストを開始しました。",
-    "Text": "The following quest has begun:",
+    "Text": "The following quest has begun: ",
     "Enabled": true
   },
   "10915": {
@@ -636,22 +636,22 @@
   },
   "20137": {
     "OriginalText": "現在のクラスではこの技は使えません。\nこの技を習得しますか？",
-    "Text": "Techniques are not usable for this class.\nDo you want to learn this Technique?",
+    "Text": "Do you want to learn this Technique?\n\n[a 03]Techniques are not usable by this class.[b]",
     "Enabled": true
   },
   "20138": {
     "OriginalText": "現在のクラスではこの技は使えません。\nこの技のレベルを上げますか？",
-    "Text": "Techniques are not usable for this class.\nDo you want to raise this Technique's level?",
+    "Text": "Do you want to raise this Technique's level?\n\n[a 03]Techniques are not usable by this class.[b]",
     "Enabled": true
   },
   "20139": {
     "OriginalText": "現在のクラスではこのテクニックは使えません。\nこのテクニックを習得しますか？",
-    "Text": "Techniques are not usable for this class.\nDo you want to learn this Technique?",
+    "Text": "Do you want to learn this Technique?\n\n[a 03]Techniques are not usable by this class.[b]",
     "Enabled": true
   },
   "20140": {
     "OriginalText": "現在のクラスではこのテクニックは使えません。\nこの技のテクニックのレベルを上げますか？",
-    "Text": "Techniques are not usable for this class.\nDo you want to raise this Technique's level?",
+    "Text": "Do you want to raise this Technique's level?\n\n[a 03]Techniques are not usable by this class.[b]",
     "Enabled": true
   },
   "20201": {
@@ -756,7 +756,7 @@
   },
   "20221": {
     "OriginalText": "効果：",
-    "Text": "Effect:",
+    "Text": "Effect: ",
     "Enabled": true
   },
   "20222": {
@@ -1051,7 +1051,7 @@
   },
   "20708": {
     "OriginalText": "観測伝置研究",
-    "Text": "Research Observation Device",
+    "Text": "Research BURST Accel. Device",
     "Enabled": true
   },
   "20709": {
@@ -1141,7 +1141,7 @@
   },
   "20806": {
     "OriginalText": "マルチプレイ中は\nリーダー似外はアクセスできません。\n\n[a 03]※ストーリーを進めるためにアクセスが必要な場合、\nマルチプレイを一度切断してアクセスし、\nストーリーを進行させてから\nマルチプレイを再開してください。[b]",
-    "Text": "Main Crew are not available during multiplayer.\n\n[a 03]If you need to advance the story,\ndisconnect from multiplayer\nto do so, then restart multiplayer.[b]",
+    "Text": "Main Crew are not available during multiplayer.\n\n[a 03]If you need to advance the story, disconnect from multiplayer\nto do so, then restart multiplayer.[b]",
     "Enabled": true
   },
   "20807": {
@@ -1416,7 +1416,7 @@
   },
   "21117": {
     "OriginalText": "[a 03]【 注 意 】[b]",
-    "Text": "[a 03]【 Caution 】[b]",
+    "Text": "[a 03]【 CAUTION 】[b]",
     "Enabled": true
   },
   "21118": {
@@ -1556,17 +1556,17 @@
   },
   "21217": {
     "OriginalText": "プロミスオーダーを受託しました。",
-    "Text": "Accepted the Promise Order:",
+    "Text": "Accepted the Promise Order: ",
     "Enabled": true
   },
   "21218": {
     "OriginalText": "プロミスオーダーを破棄しました。",
-    "Text": "Cancelled the Promise Order:",
+    "Text": "Cancelled the Promise Order: ",
     "Enabled": true
   },
   "21219": {
     "OriginalText": "プロミスオーダーを達成しました。",
-    "Text": "Completed the Promise Order:",
+    "Text": "Completed the Promise Order: ",
     "Enabled": true
   },
   "21220": {
@@ -1576,7 +1576,7 @@
   },
   "21221": {
     "OriginalText": "拠点に施設が追加されました。",
-    "Text": "A facility has been added:",
+    "Text": "A facility has been added: ",
     "Enabled": true
   },
   "21222": {
@@ -1586,7 +1586,7 @@
   },
   "21223": {
     "OriginalText": "プロミスオーダーが追加されました。",
-    "Text": "New Promise Orders are available:",
+    "Text": "New Promise Orders are available: ",
     "Enabled": true
   },
   "21224": {
@@ -3161,7 +3161,7 @@
   },
   "22601": {
     "OriginalText": "ここまでのプレイ状況を\nセーブデータに保存しますか？",
-    "Text": "Your play data up to this point will be saved\n\nContinue?",
+    "Text": "Your play data up to this point will be saved.\n\nContinue?",
     "Enabled": true
   },
   "22602": {
@@ -3306,13 +3306,13 @@
   },
   "22727": {
     "OriginalText": "修復前の衣伝に変更しますか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Do you want to change your costume before repairing?",
+    "Enabled": true
   },
   "22728": {
     "OriginalText": "修復後の衣伝に変更しますか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Do you want to wear the repaired costume?",
+    "Enabled": true
   },
   "22729": {
     "OriginalText": "濃にオペレーターに指定されています。",
@@ -3501,7 +3501,7 @@
   },
   "22766": {
     "OriginalText": "グランバースト発生",
-    "Text": "Gran Burst Generator",
+    "Text": "BURST Started",
     "Enabled": true
   },
   "22767": {
@@ -3716,12 +3716,12 @@
   },
   "23804": {
     "OriginalText": "」の\n発生エリアから離脱しました。\n",
-    "Text": "」\nWas removed from the generation area.\n",
+    "Text": "」\nWas removed from its generation area.\n",
     "Enabled": true
   },
   "23805": {
     "OriginalText": "重要なエマージェンシートライアルが発生しました。\nエマージェンシートライアル「",
-    "Text": "An important Emergency Trial has appeared.\nEmergency Trial 「",
+    "Text": "An important Emergency Trial has appeared!\nEmergency Trial 「",
     "Enabled": true
   },
   "23806": {
@@ -3756,8 +3756,8 @@
   },
   "24001": {
     "OriginalText": "ギガンテス召喚中！エリア移動に時間を要します。\n[f 01] 前のエリアに戻る",
-    "Text": "",
-    "Enabled": false
+    "Text": "A Gigantes is being summoned!\nPlease wait before moving to the next area.\n[f 01] to return to the previous area.",
+    "Enabled": true
   },
   "24002": {
     "OriginalText": "モノメイト × １０\nスケープドール × ３  になった。 ",
@@ -3801,7 +3801,7 @@
   },
   "24104": {
     "OriginalText": "スケープドールを使用して復活します。",
-    "Text": "Revived using a Scape Doll",
+    "Text": "Revive using a Scape Doll?",
     "Enabled": true
   },
   "24105": {
@@ -3866,13 +3866,13 @@
   },
   "24117": {
     "OriginalText": "戦闘不能になりました\n[a 03](このクエストでは何回でも復活できます)[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "Incapacited during combat.\n\n[a 03]You can always revive during this quest.[b]",
+    "Enabled": true
   },
   "24118": {
     "OriginalText": "下記項目をまとめてみる",
-    "Text": "",
-    "Enabled": false
+    "Text": "Item Summary",
+    "Enabled": true
   },
   "24119": {
     "OriginalText": "１ 新武器「ヘイロウ」の説明",
@@ -3901,13 +3901,13 @@
   },
   "24124": {
     "OriginalText": "クエストの選択を中断して、\nキャラクター選択に戻ります。\n\nよろしいですか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Cancel quest selection and return to character selection?",
+    "Enabled": true
   },
   "24125": {
     "OriginalText": "キャラクター選択を中断して\nタイトルに戻ります。\n\nよろしいですか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Cancel character creation and return to the title screen?",
+    "Enabled": true
   },
   "24126": {
     "OriginalText": "伝備武器",
@@ -3916,8 +3916,8 @@
   },
   "24127": {
     "OriginalText": "戦闘不能になりました。【残り復活回数:無制限】\n[a 03](このクエストでは10秒後に復活できます)[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "Incapacited during combat.\n【Revives: Unlimited】\n\n[a 03]In this quest, you can revive after 10 seconds.[b]",
+    "Enabled": true
   },
   "24128": {
     "OriginalText": "：残り30分",
@@ -4176,8 +4176,8 @@
   },
   "25400": {
     "OriginalText": "アイテムパックに３似上の空きがないため選択できません。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Cannot be selected because there is no more room in your\nItem Pack.",
+    "Enabled": true
   },
   "25401": {
     "OriginalText": "マルチプレイ中は選択できません。",
