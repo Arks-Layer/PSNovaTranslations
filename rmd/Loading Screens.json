@@ -16,68 +16,68 @@
   },
   "800003": {
     "OriginalText": "[f 73] で通常攻撃をおこなう。 \nボタンを連打または押し続けることで、連続攻撃が出る。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Press [f 73] to attack.\nBy pressing it repeatively, you can perform continous attacks.",
+    "Enabled": true
   },
   "800004": {
     "OriginalText": "[f 79] を押し続けることで、エネミーをロックオンできる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "By pressing and holding [f 79],\nyou can lock on to enemies.",
+    "Enabled": true
   },
   "800005": {
     "OriginalText": "[f 79] を押すとカメラの向きがリセットされる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Pressing [f 79] can reset the camera.",
+    "Enabled": true
   },
   "800006": {
     "OriginalText": "ハンターはガードで攻撃ダメージを軽滅できる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Hunters can block attacks by using Guard.",
+    "Enabled": true
   },
   "800007": {
     "OriginalText": "攻撃後に表示される円が赤く光ったタイミングで\n攻撃ボタンを押せばジャストアタックとなる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "By timing your attacks on the red\ncircle, you can perform a Just Attack.",
+    "Enabled": true
   },
   "800008": {
     "OriginalText": "ジャストアタックに成功すると大ダメージが与えられる。\nまた、チェインの受付時間が伸びる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "By performing multiple Just Attacks, not only will\nyour damage increase, but the Chain Timer will increase.",
+    "Enabled": true
   },
   "800009": {
     "OriginalText": "[f 79] で敵をロックオン中、\n[f 66] でロックオン対象を切り替えることができる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "While using [f 79] to lock on,\nyou can switch targets by using [f 66].",
+    "Enabled": true
   },
   "800010": {
     "OriginalText": "攻撃に使うボタンと、それぞれに設定された攻撃が\n画面右下のメインパレットに表示されている。",
-    "Text": "",
-    "Enabled": false
+    "Text": "The buttons used for attacking are located\non the bottom right hand of the screen.",
+    "Enabled": true
   },
   "800011": {
     "OriginalText": "[f 78] を押している間、攻撃が裏パレットに切り替わる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "You can select items on the palette by pressing [f 78].",
+    "Enabled": true
   },
   "800012": {
     "OriginalText": "サブパレットにタッチすることで\nアイテムやスキル、テクニックを使用できる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "By touching the subpalette,\nyou can use Items, Skills and Techniques.",
+    "Enabled": true
   },
   "800013": {
     "OriginalText": "[f 7a] [f 7b] でサブパレットを切り替えることができる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "By pressing [f 7a] or [f 7b], you can swap subpalettes.",
+    "Enabled": true
   },
   "800014": {
     "OriginalText": "[f 7c] [f 7d] と [f 02] で武器を切り替えることができる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "By pressing [f 7c] or [f 7d], you can switch weapons.\nPressing [f 02] will confirm your selection.",
+    "Enabled": true
   },
   "800015": {
     "OriginalText": "スキルはレベルが上がると自動的に入手できる。\nスキルを使うにはスキルボードにセットする必要がある。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Skills will be obtained automatically when you reach a\ncertain level. Utilizing the Skill Board allows the use of them.",
+    "Enabled": true
   },
   "800016": {
     "OriginalText": "スキルボード上で隣りあったスキルの組み合わせで\nコンボスキルが発生することがある。",
