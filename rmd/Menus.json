@@ -51,8 +51,8 @@
   },
   "10711": {
     "OriginalText": "未伝備優先",
-    "Text": "",
-    "Enabled": false
+    "Text": "Equippable",
+    "Enabled": true
   },
   "10712": {
     "OriginalText": "数量が多い順",
