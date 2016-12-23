@@ -20,9 +20,17 @@ for files in json_files:
                 countin += 1
                 if ("Text" in djson[rmid] and (djson[rmid]["Text"] != "")):
                     if ("Enabled" not in djson[rmid] or (djson[rmid]["Enabled"] == False)):
-                       print ("%s:%s" % (files, rmid))
+                       print ("%s:%s entry not enabled" % (files, rmid))
                        pprint.pprint(djson[rmid])
                        #counterr += 1
+                    if ("[" in djson[rmid]["Text"]) and not ("]" in djson[rmid]["Text"]):
+                       print ("%s:%s unclosed [" % (files, rmid))
+                       pprint.pprint(djson[rmid])
+                       counterr += 1
+                    if ("]" in djson[rmid]["Text"]) and not ("[" in djson[rmid]["Text"]):
+                       print ("%s:%s unclosed ]" % (files, rmid))
+                       pprint.pprint(djson[rmid])
+                       counterr += 1
         except ValueError as e:
             print("%s: %s") % (files, e)
             invalid_json_files.append(files)
