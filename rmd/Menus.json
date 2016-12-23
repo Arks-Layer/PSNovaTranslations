@@ -3901,7 +3901,7 @@
   },
   "24124": {
     "OriginalText": "クエストの選択を中断して、\nキャラクター選択に戻ります。\n\nよろしいですか？",
-    "Text": "Cancel quest selection and return to character selection?",
+    "Text": "Cancel quest selection and return to character creation?",
     "Enabled": true
   },
   "24125": {
