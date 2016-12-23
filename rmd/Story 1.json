@@ -506,8 +506,8 @@
   },
   "101010010010001": {
     "OriginalText": "わっ！？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Eek!?",
+    "Enabled": true
   },
   "101010010011001": {
     "OriginalText": "いきなり起きないでよ！！ びっくりするじゃない！",
