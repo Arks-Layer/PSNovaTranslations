@@ -1496,17 +1496,17 @@
   },
   "21205": {
     "OriginalText": "を受託します。\nよろしいですか？",
-    "Text": " will be accepted.\n\nContinue?",
+    "Text": "\n\nWill be accepted.\n\nContinue?",
     "Enabled": true
   },
   "21206": {
     "OriginalText": "を破棄します。\nよろしいですか？",
-    "Text": " will be cancelled.\n\nContinue?",
+    "Text": "\n\nWill be cancelled.\n\nContinue?",
     "Enabled": true
   },
   "21207": {
     "OriginalText": "を報告します。\nよろしいですか？",
-    "Text": " will be turned in.\n\nContinue?",
+    "Text": "\n\nWill be turned in.\n\nContinue?",
     "Enabled": true
   },
   "21208": {
