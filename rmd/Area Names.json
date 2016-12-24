@@ -96,7 +96,7 @@
   },
   "790020": {
     "OriginalText": "上層",
-    "Text": "Upper Levels",
+    "Text": "Top Level",
     "Enabled": true
   },
   "790021": {
@@ -106,7 +106,7 @@
   },
   "790022": {
     "OriginalText": "下層",
-    "Text": "Lower Levels",
+    "Text": "Bottom Level",
     "Enabled": true
   },
   "790023": {
