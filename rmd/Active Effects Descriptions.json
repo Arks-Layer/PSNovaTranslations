@@ -146,12 +146,12 @@
   },
   "745029": {
     "OriginalText": "確率でリアクション無効",
-    "Text": "Decreased Knockback",
+    "Text": "Nullify Knockback Chance",
     "Enabled": true
   },
   "745030": {
     "OriginalText": "確率でダメージ無効",
-    "Text": "Decreased Damage",
+    "Text": "Nullify Damage Chance",
     "Enabled": true
   },
   "745031": {
