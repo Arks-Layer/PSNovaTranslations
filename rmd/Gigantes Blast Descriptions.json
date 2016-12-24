@@ -16,8 +16,8 @@
   },
   "690003": {
     "OriginalText": "ガラティオンからエネルギーが放射され、\n仲間全体に蘇生・HP・状態異常回復と\nパワーアップをもたらす。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Garation appears and radiates energy\nwhich heals, revives and powers up the\nentire party.",
+    "Enabled": true
   },
   "690004": {
     "OriginalText": "アルキュオネの触腕から正面方向に\n特大の火炎弾を発射し、\n標的に大ダメージを与える。",
