@@ -371,18 +371,18 @@
   },
   "280074": {
     "OriginalText": "ＸＨに挑戦・炎の高地",
-    "Text": "",
-    "Enabled": false
+    "Text": "XH Challenge: Flame Highlands",
+    "Enabled": true
   },
   "280075": {
     "OriginalText": "一流の仕事",
-    "Text": "",
-    "Enabled": false
+    "Text": "Top Notch Work",
+    "Enabled": true
   },
   "280076": {
     "OriginalText": "超一流の仕事",
-    "Text": "",
-    "Enabled": false
+    "Text": "Superior Class Work",
+    "Enabled": true
   },
   "280077": {
     "OriginalText": "究冷の鉱石・炎の高地",
@@ -391,8 +391,8 @@
   },
   "280078": {
     "OriginalText": "メモリーフラグメント変換６",
-    "Text": "",
-    "Enabled": false
+    "Text": "Memory Fragment Conversion 6",
+    "Enabled": true
   },
   "280079": {
     "OriginalText": "個人的なお願い",
@@ -401,13 +401,13 @@
   },
   "280080": {
     "OriginalText": "メモリーフラグメント変換７",
-    "Text": "",
-    "Enabled": false
+    "Text": "Memory Fragment Conversion 7",
+    "Enabled": true
   },
   "280081": {
     "OriginalText": "メモリーフラグメント変換８",
-    "Text": "",
-    "Enabled": false
+    "Text": "Memory Fragment Conversion 8",
+    "Enabled": true
   },
   "280082": {
     "OriginalText": "塊死の克服",
@@ -481,8 +481,8 @@
   },
   "280096": {
     "OriginalText": "メモリーフラグメント変換９",
-    "Text": "",
-    "Enabled": false
+    "Text": "Memory Fragment Conversion 9",
+    "Enabled": true
   },
   "280097": {
     "OriginalText": "ラッピーのおとしもの",
@@ -496,8 +496,8 @@
   },
   "280099": {
     "OriginalText": "コールドスリープ改造",
-    "Text": "",
-    "Enabled": false
+    "Text": "Cold Sleep Remodel",
+    "Enabled": true
   },
   "280100": {
     "OriginalText": "リーティア、戦場に立つ",
