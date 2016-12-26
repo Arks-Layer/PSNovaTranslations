@@ -106,8 +106,8 @@
   },
   "800021": {
     "OriginalText": "攻撃、回復、ダメージ軽滅など\nさままなテクニックが存在する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Different Technique types exist,\nsuch as Offensive, Recovery or Support.",
+    "Enabled": true
   },
   "800022": {
     "OriginalText": "テクニックは攻撃ボタンを長押しして、\nチャージ完了後にボタンを離すと発動する。",
@@ -171,8 +171,8 @@
   },
   "800034": {
     "OriginalText": "アイテムパックの容量上限は200個。\nそれを超えて入手したアイテムは倉庫に送られる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Your inventory has a capacity limit of 200.\nItems recieved past this will be sent to storage.",
+    "Enabled": true
   },
   "800035": {
     "OriginalText": "肩越し視点では、より精密な射撃をおこなえる。",
@@ -186,13 +186,13 @@
   },
   "800037": {
     "OriginalText": "ゲストクルーは50人を超えると古い記録から消去される。\nお気に入りに登録すれば消去されなくなる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Guest List will be deleted once you've hit 50 players.\nPlayers set as favorites will not be deleted.",
+    "Enabled": true
   },
   "800038": {
     "OriginalText": "敵が強くクエストがクリアできないときは、\nレベルを上げたり、武器や防具を見直そう。",
-    "Text": "",
-    "Enabled": false
+    "Text": "If you're unable to defeat an enemy,\nupgrade your gear or raise your level.",
+    "Enabled": true
   },
   "800039": {
     "OriginalText": "ショップ端末を使って\n拠点に設置されたショップに遠隔アクセスできる。",
@@ -221,83 +221,83 @@
   },
   "800044": {
     "OriginalText": "敵に攻撃を当て続けてチェイン数が増えると、\nより大きなダメージを与えられるようになる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "As you keep hitting enemies, your chain will\nrise, allowing you to deal more damage.",
+    "Enabled": true
   },
   "800045": {
     "OriginalText": "チェインをつなげると画面上部のバーストゲージがたまる。\nゲージがいっぱいになるとグランバーストが発生する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "As your chain increases, the burst gauge also increases.\nOnce your burst gauge is maxed, a Gran BURST occurs.",
+    "Enabled": true
   },
   "800046": {
     "OriginalText": "グランバースト発生中は、経験値UP、アイテムドロップUP、\nレアエネミー出現率UPなどの効果が発生することがある。",
-    "Text": "During a Gran Burst, EXP UP, Item Drop UP &\nRare Enemy Occurence Effects may occur.",
+    "Text": "During a Gran BURST, EXP UP, Item Drop UP &\nRare Enemy Occurence Effects may occur.",
     "Enabled": true
   },
   "800047": {
     "OriginalText": "グランバースト発生中はチェインが途切れない。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Your chain cannot be interrupted during a Gran BURST.",
+    "Enabled": true
   },
   "800048": {
     "OriginalText": "チェインは、単体の敵だけでなく\n一定範囲内の別の敵に対してもつながる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A chain is not focused on just one enemy,\nothers within a certain range of you are included.",
+    "Enabled": true
   },
   "800049": {
     "OriginalText": "通常よりダメージ量の多いクリティカルヒットが出ることがある。\nクリティカルヒットのダメージ数値は青で表示される。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Damage that is higher than usual are Critical Hits.\nA Critical Hit is displayed in blue.",
+    "Enabled": true
   },
   "800050": {
     "OriginalText": "パーティーメンバーの戦闘行動は持っている武器によって変わる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "The behavior of your NPC characters\ndepend on the weapon they have equipped.",
+    "Enabled": true
   },
   "800051": {
     "OriginalText": "スモール・コアはアタッチパーツの作成に使うことができる。\n武器や防具の作成には使えない。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Small cores are used to create attachment parts.\nThey cannot be used to create Weapons or Armor.",
+    "Enabled": true
   },
   "800052": {
     "OriginalText": "レアエネミーはホワイトチケットを落とす。\n大切にとっておこう。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Rare Enemies can drop White Tickets.\nThey're quite rare.",
+    "Enabled": true
   },
   "800053": {
     "OriginalText": "クルーとの友好度は、約束を達成したり\n一緒にクエストをクリアすることで上がる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "You can increase your friendliness with the\ncrew by completing quests and Promise Orders with them.",
+    "Enabled": true
   },
   "800054": {
     "OriginalText": "頼み事があるクルーは頭上に水色の吹き出しが表示される。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Crew Members with a request have\na light blue icon displayed above them.",
+    "Enabled": true
   },
   "800055": {
     "OriginalText": "エマージェンシートライアルを完了すると\nレーザーフェンスが消え、先に進めるようになる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Laser fences can be lowered when completing\nthe Emergency Trial associated with them.",
+    "Enabled": true
   },
   "800056": {
     "OriginalText": "敵の攻撃によって、プレイヤーも状態異常になることがある。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Certain enemies can apply a status effect on you.",
+    "Enabled": true
   },
   "800057": {
     "OriginalText": "状態異常は一定時間たてば自動的に回復するが、\nソルアトマイザーやアンティを使えば即座に回復できる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "You can cure status ailments by waiting a certain period of\ntime, or by using a Sol Atomizer or using the technique Anti.",
+    "Enabled": true
   },
   "800058": {
     "OriginalText": "状態異常「グラン中毒」\n攻撃などの行動ができなくなり、移動速度が低下する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "The status effect \"Gran Poisoning\" will temporarily\ndisable the use of attacks and decrease your speed.",
+    "Enabled": true
   },
   "800059": {
     "OriginalText": "状態異常「バインド」\nその場に拘束され、移動ができなくなる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "The status effect \"Bind,\" binds you to a\nsingle spot, making you unable to move.",
+    "Enabled": true
   },
   "800060": {
     "OriginalText": "状態異常「インフェクション」\n一定時間ダメージを受け続ける。近くの仲間にも感染する。",
@@ -336,23 +336,23 @@
   },
   "800067": {
     "OriginalText": "ハンターの回避アクション「ステップ」は、\n最小限の移動距離ですばやく身をかわす。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Hunters can utilize \"Step\" to\nmove out of an incoming attack.",
+    "Enabled": true
   },
   "800068": {
     "OriginalText": "レンジャーの回避アクション「ダイブロール」は\nジャストアタックにつなげることができる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Rangers can \"Dive Roll\" out of attacks\nand perform a Just Attack.",
+    "Enabled": true
   },
   "800069": {
     "OriginalText": "フォースの回避アクション「ミラージュエスケープ」は\n姿が消えている間、敵の攻撃を受けない。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Forces have a unique dodge called\n\"Mirage Escape,\" which prevents them from taking damage.",
+    "Enabled": true
   },
   "800070": {
     "OriginalText": "フォースのテクニックは\nサブパレットにセットして長押しで発動する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Forces can set Techniques on the\nsubpalette and activate them via long press.",
+    "Enabled": true
   },
   "800071": {
     "OriginalText": "サブパレットにセットし、\nタッチすることで発動するスキルがある。",
@@ -371,8 +371,8 @@
   },
   "800074": {
     "OriginalText": "アサルトライフルや一部のグランアーツでは、\n移動しながら射撃するムービングショットが使える。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Assault Rifles have the ability to\nmove while performing a Gran Art.",
+    "Enabled": true
   },
   "800075": {
     "OriginalText": "ムービングショットは、安全に立ち回れるかわりに\n発射する弾丸がバラけやすい。",
@@ -466,8 +466,8 @@
   },
   "800093": {
     "OriginalText": "クラスカウンターでは、クラスを自由に変更できる。\nクラスを変更しても元のクラスのレベルは記録される。",
-    "Text": "",
-    "Enabled": false
+    "Text": "By using the Class Counter, you can change your class.\nClasses have their own individual levels.",
+    "Enabled": true
   },
   "800094": {
     "OriginalText": "パーティーメンバーに入れたクルーのレベルは\nプレイヤーの一番高いクラスレベルにあわせて変化する。",
