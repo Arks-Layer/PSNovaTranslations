@@ -76,12 +76,12 @@
   },
   "745015": {
     "OriginalText": "弱点ダメージアップ",
-    "Text": "Weakness Damage",
+    "Text": "Weak Point Damage",
     "Enabled": true
   },
   "745016": {
     "OriginalText": "クリティカル率アップ",
-    "Text": "Critical Rate",
+    "Text": "Increased Critical Rate",
     "Enabled": true
   },
   "745017": {
@@ -146,12 +146,12 @@
   },
   "745029": {
     "OriginalText": "確率でリアクション無効",
-    "Text": "Avoid Knockback",
+    "Text": "Nullify Knockback Chance",
     "Enabled": true
   },
   "745030": {
     "OriginalText": "確率でダメージ無効",
-    "Text": "Avoid Damage",
+    "Text": "Nullify Damage Chance",
     "Enabled": true
   },
   "745031": {
