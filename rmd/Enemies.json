@@ -271,7 +271,7 @@
   },
   "182330": {
     "OriginalText": "バンサ・ブライネス",
-    "Text": "Banther Braines",
+    "Text": "Banther Braynes",
     "Enabled": true
   },
   "182410": {
@@ -771,8 +771,8 @@
   },
   "184560": {
     "OriginalText": "頭角",
-    "Text": "",
-    "Enabled": false
+    "Text": "Stand Out",
+    "Enabled": true
   },
   "184570": {
     "OriginalText": "腰角",
@@ -1061,12 +1061,12 @@
   },
   "185510": {
     "OriginalText": "レイヴフース",
-    "Text": "",
-    "Enabled": false
+    "Text": "Rave Fus",
+    "Enabled": true
   },
   "185520": {
     "OriginalText": "レイヴヒュフテ",
-    "Text": "",
+    "Text": "Rave Hufte",
     "Enabled": false
   },
   "185530": {
@@ -1086,7 +1086,7 @@
   },
   "185550": {
     "OriginalText": "ネメスヒュフテ",
-    "Text": "Nemes Bufte",
+    "Text": "Nemes Hufte",
     "Enabled": true
   },
   "185560": {
@@ -1156,8 +1156,8 @@
   },
   "189009": {
     "OriginalText": "２連機関砲",
-    "Text": "",
-    "Enabled": false
+    "Text": "Twin Guns",
+    "Enabled": true
   },
   "189010": {
     "OriginalText": "伝甲:腹",
@@ -1181,13 +1181,13 @@
   },
   "189014": {
     "OriginalText": "クラッカー発射口",
-    "Text": "",
-    "Enabled": false
+    "Text": "Cracker Launch Port",
+    "Enabled": true
   },
   "189015": {
     "OriginalText": "バーナー",
-    "Text": "",
-    "Enabled": false
+    "Text": "Burner",
+    "Enabled": true
   },
   "189016": {
     "OriginalText": "タンク",
@@ -1211,148 +1211,148 @@
   },
   "189020": {
     "OriginalText": "虚の骸Ｇダーク・ラグネ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Hollow Shell: G-Dark Ragne",
+    "Enabled": true
   },
   "189021": {
     "OriginalText": "虚の骸Ｇダーク・アグラニ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Hollow Shell: G-Dark Agrani",
+    "Enabled": true
   },
   "189022": {
     "OriginalText": "沌の骸Ｇウォルガーダ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Primal Shell: G-Wolgahda",
+    "Enabled": true
   },
   "189023": {
     "OriginalText": "沌の骸Ｇアロナガーダ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Primal Shell: G-Alonagahda",
+    "Enabled": true
   },
   "189024": {
     "OriginalText": "沌の骸Ｇキュクロナーダ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Primal Shell: G-Kuklonahda",
+    "Enabled": true
   },
   "189025": {
     "OriginalText": "沌の骸Ｇパイクロナーダ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Primal Shell: G-Piklonahda",
+    "Enabled": true
   },
   "189026": {
     "OriginalText": "磁晶模コラル・ドラゴン",
-    "Text": "",
-    "Enabled": false
+    "Text": "Magnetic Crystal: Coral Dragon",
+    "Enabled": true
   },
   "189027": {
     "OriginalText": "磁晶模ディアマ・ドラール",
-    "Text": "",
-    "Enabled": false
+    "Text": "Magnetic Crystal: Diama Dragon",
+    "Enabled": true
   },
   "189028": {
     "OriginalText": "暴君グルナバンサー",
-    "Text": "",
-    "Enabled": false
+    "Text": "Tyrant: Gluna Banther",
+    "Enabled": true
   },
   "189029": {
     "OriginalText": "暴君ジャッドバンサー",
-    "Text": "",
-    "Enabled": false
+    "Text": "Tyrant: Jhad Banther",
+    "Enabled": true
   },
   "189030": {
     "OriginalText": "暴君バンサ・ブライネス",
-    "Text": "",
-    "Enabled": false
+    "Text": "Tyrant: Banther Braines",
+    "Enabled": true
   },
   "189031": {
     "OriginalText": "伝悪鬼バレダイナス",
-    "Text": "",
-    "Enabled": false
+    "Text": "Legendary Demon: Vale-Dynas",
+    "Enabled": true
   },
   "189032": {
     "OriginalText": "伝悪鬼ラーバレダイナス",
-    "Text": "",
-    "Enabled": false
+    "Text": "Legendary Demon: Lar Vale-Dynas",
+    "Enabled": true
   },
   "189033": {
     "OriginalText": "伝悪鬼マーバレダイナス",
-    "Text": "",
-    "Enabled": false
+    "Text": "Legendary Demon: Mar Vale-Dynas",
+    "Enabled": true
   },
   "189034": {
     "OriginalText": "伝悪鬼ヴィバレダイナス",
-    "Text": "",
-    "Enabled": false
+    "Text": "Legendary Demon: Vi Vale-Dynas",
+    "Enabled": true
   },
   "189035": {
     "OriginalText": "伝悪鬼ダイナス・タングス",
-    "Text": "",
-    "Enabled": false
+    "Text": "Legendary Demon: Dynas Tungs",
+    "Enabled": true
   },
   "189036": {
     "OriginalText": "伝悪鬼シードギオス",
-    "Text": "",
-    "Enabled": false
+    "Text": "Legendary Demon: Xie Dogios",
+    "Enabled": true
   },
   "189037": {
     "OriginalText": "伝悪鬼フォードギオス",
-    "Text": "",
-    "Enabled": false
+    "Text": "Legendary Demon: Pho Dogios",
+    "Enabled": true
   },
   "189038": {
     "OriginalText": "伝悪鬼ヴァッドギオス",
-    "Text": "",
-    "Enabled": false
+    "Text": "Legendary Demon: Valle Dogios",
+    "Enabled": true
   },
   "189039": {
     "OriginalText": "伝悪鬼エアドギオス",
-    "Text": "",
-    "Enabled": false
+    "Text": "Legendary Demon: Air Dogios",
+    "Enabled": true
   },
   "189040": {
     "OriginalText": "伝悪鬼ドギオス・ルフレ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Legendary Demon: Dogios Reflet",
+    "Enabled": true
   },
   "189041": {
     "OriginalText": "伝悪鬼トルリンプ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Legendary Demon: Torrimp",
+    "Enabled": true
   },
   "189042": {
     "OriginalText": "伝悪鬼ロウトルリンプ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Legendary Demon: Rol Torrimp",
+    "Enabled": true
   },
   "189043": {
     "OriginalText": "伝悪鬼ポルトルリンプ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Legendary Demon: Pol Torrimp",
+    "Enabled": true
   },
   "189044": {
     "OriginalText": "伝悪鬼トルリンプ・ゴウル",
-    "Text": "",
-    "Enabled": false
+    "Text": "Legendary Demon: Torrimp Gorr",
+    "Enabled": true
   },
   "189045": {
     "OriginalText": "怠帝エデルクリトロ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Laziness King: Eder Critter",
+    "Enabled": true
   },
   "189046": {
     "OriginalText": "怠帝スマラクリトロ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Laziness King: Smar Critter",
+    "Enabled": true
   },
   "189047": {
     "OriginalText": "怠帝オーニクリトロ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Laziness King: Oni Critter",
+    "Enabled": true
   },
   "189048": {
     "OriginalText": "怠帝クリトロ・テュルレ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Laziness King: Critter Ture",
+    "Enabled": true
   },
   "189049": {
     "OriginalText": "兇星エレマンデル",
