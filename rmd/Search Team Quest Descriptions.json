@@ -21,7 +21,7 @@
   },
   "710004": {
     "OriginalText": "銅の荒野へグランピースの採集に向かう。\n現時点で多数の反応を確認しており、\n属性を帯びた個体の発見が見込まれている。\n結果は追って報告する。",
-    "Text": "G-El Ahda Stinger × 4\nG-Dagan Shell × 4G-El Ahda Stinger × 4\nG-Dagan Shell × 4",
+    "Text": "\t",
     "Enabled": true
   },
   "710005": {
@@ -41,7 +41,7 @@
   },
   "710008": {
     "OriginalText": "グラン水装でグランピースを採集する。\n現時点で多数の反応を確認しており、\n属性を帯びた個体の発見が見込まれている。\n結果は追って報告する。",
-    "Text": "Memory Fragment E × 4\nGigantes Meat × 4Memory Fragment E × 4\nGigantes Meat × 4",
+    "Text": "\t",
     "Enabled": true
   },
   "710009": {
@@ -61,7 +61,7 @@
   },
   "710012": {
     "OriginalText": "炎の高地でグランピースを採集する。\n現時点で多数の反応を確認しており、\n属性を帯びた個体の発見が見込まれている。\n結果は追って報告する。",
-    "Text": "Torrimp Meat × 4\nRapiliston × 4Torrimp Meat × 4\nRapiliston × 4",
+    "Text": "\t",
     "Enabled": true
   },
   "710013": {
