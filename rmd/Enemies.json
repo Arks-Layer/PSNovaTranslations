@@ -1462,42 +1462,42 @@
   "189070": {
     "OriginalText": "猛銃ディートアス",
     "Text": "Ferocious Gun: Ditoas",
-    "Enabled": false
+    "Enabled": true
   },
   "189071": {
     "OriginalText": "猛銃テュルトアス",
     "Text": "Ferocious Gun: Tulletoas",
-    "Enabled": false
+    "Enabled": true
   },
   "189072": {
     "OriginalText": "猛銃マグネトアス",
     "Text": "Ferocious Gun: Magnetoas",
-    "Enabled": false
+    "Enabled": true
   },
   "189073": {
     "OriginalText": "猛銃トアス・ヒュブオン",
     "Text": "Ferocious Gun: Toas Biubon",
-    "Enabled": false
+    "Enabled": true
   },
   "189074": {
     "OriginalText": "狂戦棘ゴルドス",
     "Text": "Berserk Thorn: Gordes",
-    "Enabled": false
+    "Enabled": true
   },
   "189075": {
     "OriginalText": "狂戦棘ディゴルドス",
     "Text": "Berserk Thorn: Digordes",
-    "Enabled": false
+    "Enabled": true
   },
   "189076": {
     "OriginalText": "狂戦棘オルゴルドス",
     "Text": "Berserk Thorn: Orgordes",
-    "Enabled": false
+    "Enabled": true
   },
   "189077": {
     "OriginalText": "狂戦棘ゴルドス・ビガオ",
     "Text": "Berserk Thorn: Gordes Bigaoh",
-    "Enabled": false
+    "Enabled": true
   },
   "189078": {
     "OriginalText": "砲凰ファンアフォル",
