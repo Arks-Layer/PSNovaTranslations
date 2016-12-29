@@ -95,15 +95,11 @@ def ProcFile(fp, out, enemies, items, delimiters):
       for delim in delimiters:
       #{
          match = re.match("\\s+\"OriginalText\": \"(.+)" + delim + "(.+)\",\n", ln)
-         
-         if match is not None and match.group(1) in enemies: print(match.group(1) + " " + match.group(2) + " yes")
-         if match is not None and match.group(2) in items:   print("yeah")
 
          if match is not None and         \
             match.group(1) in enemies and \
             match.group(2) in items:
          #{
-            print("yes??")
             ln1 = next(fp)
 
             name = enemies[match.group(1)]
