@@ -751,8 +751,8 @@
   },
   "110150": {
     "OriginalText": "トアス・ヒュブオン・コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Toas Biubon Core",
+    "Enabled": true
   },
   "110151": {
     "OriginalText": "ディアマ・ドラール・コア",
@@ -1261,38 +1261,38 @@
   },
   "110252": {
     "OriginalText": "Ｇプレディカーダの極コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "G-Predicahda Climax Core",
+    "Enabled": true
   },
   "110253": {
     "OriginalText": "Ｇダーク・ラグネの極コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "G-Dark Ragne Climax Core",
+    "Enabled": true
   },
   "110254": {
     "OriginalText": "Ｇガウォンダの極コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "G-Ga Wonda Climax Core",
+    "Enabled": true
   },
   "110255": {
     "OriginalText": "Ｇグウォンダの極コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "G-Gu Wonda Climax Core",
+    "Enabled": true
   },
   "110256": {
     "OriginalText": "Ｇウォルガーダの極コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "G-Wolgahda Climax Core",
+    "Enabled": true
   },
   "110257": {
     "OriginalText": "Ｇキュクロナーダの極コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "G-Kuklonahda Climax Core",
+    "Enabled": true
   },
   "110258": {
     "OriginalText": "コラル・ドラゴンの極コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Coral Dragon Climax Core",
+    "Enabled": true
   },
   "110259": {
     "OriginalText": "バンサーの極コア",
@@ -1316,38 +1316,38 @@
   },
   "110263": {
     "OriginalText": "ディートアスの極コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Ditoas Climax Core",
+    "Enabled": true
   },
   "110264": {
     "OriginalText": "テュルトアスの極コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Tulletoas Climax Core",
+    "Enabled": true
   },
   "110265": {
     "OriginalText": "マグネトアスの極コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Magnetoas Climax Core",
+    "Enabled": true
   },
   "110266": {
     "OriginalText": "ノイヴァトアスの極コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Neuvatoas Climax Core",
+    "Enabled": true
   },
   "110267": {
     "OriginalText": "ゴルドスの極コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gordes Climax Core",
+    "Enabled": true
   },
   "110268": {
     "OriginalText": "ディゴルドスの極コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Digordes Climax Core",
+    "Enabled": true
   },
   "110269": {
     "OriginalText": "オルゴルドスの極コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Orgordes Climax Core",
+    "Enabled": true
   },
   "110270": {
     "OriginalText": "ヴァリゴルドスの極コア",
@@ -1356,83 +1356,83 @@
   },
   "110271": {
     "OriginalText": "ファンアフォルの極コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Fan'aphol Climax Core",
+    "Enabled": true
   },
   "110272": {
     "OriginalText": "ウィルアフォルの極コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Viluaphol Climax Core",
+    "Enabled": true
   },
   "110273": {
     "OriginalText": "アグリオスの極コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Agrios Climax Core",
+    "Enabled": true
   },
   "110274": {
     "OriginalText": "グレイオスの極コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Greios Climax Core",
+    "Enabled": true
   },
   "110275": {
     "OriginalText": "アルテイオスの極コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Altios Climax Core",
+    "Enabled": true
   },
   "110276": {
     "OriginalText": "エウリュードの極コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Eurude Climax Core",
+    "Enabled": true
   },
   "110277": {
     "OriginalText": "ヴィヴリュードの極コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Vivrude Climax Core",
+    "Enabled": true
   },
   "110278": {
     "OriginalText": "ガラティオンの極コア",
-    "Text": "Garation Super Core",
+    "Text": "Garation Climax Core",
     "Enabled": true
   },
   "110279": {
     "OriginalText": "ギガティオンの極コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gigation Climax Core",
+    "Enabled": true
   },
   "110280": {
     "OriginalText": "グラヴディオンの極コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gravdion Climax Core",
+    "Enabled": true
   },
   "110281": {
     "OriginalText": "アルキュオネの極コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Alcyone Climax Core",
+    "Enabled": true
   },
   "110282": {
     "OriginalText": "デェフキュオネの極コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Defcyone Climax Core",
+    "Enabled": true
   },
   "110283": {
     "OriginalText": "ギュゲンテの極コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gygante Climax Core",
+    "Enabled": true
   },
   "110284": {
     "OriginalText": "リベルゲンテの極コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Libelgante Climax Core",
+    "Enabled": true
   },
   "110285": {
     "OriginalText": "レイヴガイストの極コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Rave Geist Climax Core",
+    "Enabled": true
   },
   "110286": {
     "OriginalText": "ネメスガイストの極コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Nemes Geist Climax Core",
+    "Enabled": true
   },
   "110287": {
     "OriginalText": "",
