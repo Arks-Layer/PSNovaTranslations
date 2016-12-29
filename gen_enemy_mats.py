@@ -86,49 +86,41 @@ def UpToDateItem(ln, item):
 #}
 
 ##
-## UpToDate
-##
-def UpToDate(ln, name, item):
-#{
-   if ln.find("\"Enabled\"") != -1 or \
-      ln.find(name) == -1 or \
-      not UpToDateItem(ln, item):
-      return False
-
-   return True
-#}
-
-##
 ## ProcFile
 ##
-def ProcFile(fp, out, enemies, items):
+def ProcFile(fp, out, enemies, items, delimiters):
 #{
    for ln in fp:
    #{
-      match = re.match("\\s+\"OriginalText\": \"(.+)の(.+)\",\r\n", ln)
-
-      if match is not None and         \
-         match.group(1) in enemies and \
-         match.group(2) in items:
+      for delim in delimiters:
       #{
-         ln1 = next(fp)
+         match = re.match("\\s+\"OriginalText\": \"(.+)" + delim + "(.+)\",\n", ln)
 
-         name = enemies[match.group(1)]
-         item = Item(items, match.group(2))
-
-         if not UpToDate(ln1, name, items[match.group(2)]):
+         if match is not None and         \
+            match.group(1) in enemies and \
+            match.group(2) in items:
          #{
-            ln = ln + \
-                 "    \"Text\": \"" + name + " " + item + "\",\r\n" + \
-                 "    \"Enabled\": true\r\n"
+            ln1 = next(fp)
 
-            ln2 = next(fp)
-            if ln2.find("\"Enabled\"") == -1: ln = ln + ln2
+            name = enemies[match.group(1)]
+            item = Item(items, match.group(2))
+
+            if not UpToDateItem(ln1, items[match.group(2)]):
+            #{
+               ln = ln + \
+                    "    \"Text\": \"" + name + " " + item + "\",\n" + \
+                    "    \"Enabled\": true\r\n"
+
+               ln2 = next(fp)
+               if ln2.find("\"Enabled\"") == -1: ln = ln + ln2
+            #}
+            else:
+               ln = ln + ln1
+            
+            break
          #}
-         else:
-            ln = ln + ln1
       #}
-
+      
       out.write(ln)
    #}
 #}
@@ -163,11 +155,16 @@ def Main():
             "骨":     "Bone",
             "肉":     [ "Flesh", "Meat" ],
             "ミルク": "Milk"
-         })
+         }, ["の"])
 
    with open("rmd/Enemy Cores.json", "r", newline = "") as fp:
       with open("rmd/Enemy Cores.json.1", "w", newline = "") as out:
-         ProcFile(fp, out, enemies, { "・コア": "Core" })
+         ProcFile(fp, out, enemies,
+         {
+            "コア":   "Core",
+            "超コア": "Super Core",
+            "極コア": "Climax Core"
+         }, ["の", "・"])
 #}
 
 
