@@ -40,10 +40,10 @@ import sys
 def LoadEnemies(fname):
 #{
    ret = {
-      "ダーカー": "Darker",
-      "獣":       "Monster",
-      "巨大獣":   "Giant Monster",
-      "鳥":       "Bird"
+      "ダーカー":   "Darker",
+      "獣":      "Monster",
+      "巨大獣":    "Giant Monster",
+      "鳥":      "Bird"
    }
 
    j = json.load(open(fname, "r"))
@@ -136,25 +136,28 @@ def Main():
       with open("rmd/Materials.json.1", "w", newline = "") as out:
          ProcFile(fp, out, enemies,
          {
-            "甲殻":   "Shell",
+            "甲殻":   "Carapace",
+            "甲羅":   "Shell",
             "目片":   "Eye Piece",
             "眼片":   "Eyeball",
-            "刃片":   "Blade",
+            "刃":    "Blade",
+            "刃片":   "Blades",
             "脚片":   "Leg",
             "鱗片":   "Scale",
+            "殻":    "Husk",
             "殻片":   "Husk Part",
-            "殻":     "Husk",
             "皮片":   "Pelt",
+            "爪":    "Claw",
             "爪片":   "Claw Part",
-            "爪":     "Claw",
-            "ヒレ片": "Fillet",
+            "ヒレ片":  "Fillet",
             "羽片":   "Wing",
             "針片":   "Stinger",
             "牙片":   "Fang",
             "盾片":   "Exoskeleton",
-            "骨":     "Bone",
-            "肉":     [ "Flesh", "Meat" ],
-            "ミルク": "Milk"
+            "骨":    "Bone",
+            "肉":    [ "Flesh", "Meat" ],
+            "ミルク":  "Milk",
+            "体煽":   "Trunk"
          }, ["の"])
 
    with open("rmd/Enemy Cores.json", "r", newline = "") as fp:
