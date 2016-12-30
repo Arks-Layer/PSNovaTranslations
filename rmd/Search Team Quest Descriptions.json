@@ -16,12 +16,12 @@
   },
   "710003": {
     "OriginalText": "グラン水装の調査に向かう。\n未調査エリアも含めた本格調査であり、\n回避不可能な事態との遭遇も予想される。\n帰還後、速やかに調査結果をまとめて提出する。",
-    "Text": "G-El Ahda Stinger × 4\nG-Dagan Shell × 4",
+    "Text": "G-El Ahda Stinger × 4\nG-Dagan Shell × 4\nGran Piece (Light) × 4",
     "Enabled": true
   },
   "710004": {
     "OriginalText": "銅の荒野へグランピースの採集に向かう。\n現時点で多数の反応を確認しており、\n属性を帯びた個体の発見が見込まれている。\n結果は追って報告する。",
-    "Text": "\t",
+    "Text": "Gran Piece (Light) × 4\nGran Piece (Lightning) × 4",
     "Enabled": true
   },
   "710005": {
@@ -41,7 +41,7 @@
   },
   "710008": {
     "OriginalText": "グラン水装でグランピースを採集する。\n現時点で多数の反応を確認しており、\n属性を帯びた個体の発見が見込まれている。\n結果は追って報告する。",
-    "Text": "\t",
+    "Text": "Gran Piece (Ice) × 4\nGran Piece (Wind) × 4",
     "Enabled": true
   },
   "710009": {
@@ -61,7 +61,7 @@
   },
   "710012": {
     "OriginalText": "炎の高地でグランピースを採集する。\n現時点で多数の反応を確認しており、\n属性を帯びた個体の発見が見込まれている。\n結果は追って報告する。",
-    "Text": "\t",
+    "Text": "Gran Piece (Fire) × 4\nGran Piece (Dark) × 4",
     "Enabled": true
   },
   "710013": {
@@ -76,7 +76,7 @@
   },
   "710015": {
     "OriginalText": "銅の荒野全域の生態系調査に向かう。\n未調査エリアも含めた本格調査であり、\n未確認生命体との遭遇も予想される。\n帰還後、速やかに調査結果をまとめて提出する。",
-    "Text": "Darker Antennae × 4\nGigantes Missile Piece × 4",
+    "Text": "Darker Antennae × 4\nGran Piece (Lightning) × 4\nGigantes Missile Piece × 4",
     "Enabled": true
   },
   "710016": {
@@ -156,7 +156,7 @@
   },
   "710031": {
     "OriginalText": "銅の荒野へ鉱石の採集に向かう。\n現時点で多数の反応を確認しており、\n希少な鉱石の発見が見込まれている。\n結果は追って報告する。",
-    "Text": "Crystalline Pyrope × 5",
+    "Text": "Gran Piece (Light) × 5\nGran Piece (Lightning) × 5\nCrystalline Pyrope × 5",
     "Enabled": true
   },
   "710032": {
@@ -181,7 +181,7 @@
   },
   "710036": {
     "OriginalText": "グラン水装へ岩石の採集に向かう。\n現地にて反応を確認済みだが、\n同時に強めのエネミー反応も確認している。\n安全確保に留意しつつ作戦を遂行する。",
-    "Text": "Dull Silica Corundum × 5",
+    "Text": "Gran Piece (Wind) × 5\nGran Piece (Ice) × 5\nDull Silica Corundum × 5",
     "Enabled": true
   },
   "710037": {
@@ -206,7 +206,7 @@
   },
   "710041": {
     "OriginalText": "炎の高地へ輝石の採集に向かう。\n現地にて確認されているエネミー反応が非常に大きく\n大いなる危険を伴う任務になると予想される。\n結果は追って報告する。",
-    "Text": "Heated Rhodium Pyroxene × 5",
+    "Text": "Gran Piece (Dark) × 5\nGran Piece (Fire) × 5\nHeated Rhodium Pyroxene × 5",
     "Enabled": true
   },
   "710042": {
@@ -346,7 +346,7 @@
   },
   "710069": {
     "OriginalText": "銅の荒野へ岩石の採集に向かう。\n現地にて反応を確認済みだが、\n同時に強めのエネミー反応も確認している。\n安全確保に留意しつつ作戦を遂行する。",
-    "Text": "Crystalline Pyrope × 6",
+    "Text": "Gran Piece (Light) × 6\nGran Piece (Lightning) × 6\nCrystalline Pyrope × 6",
     "Enabled": true
   },
   "710070": {
@@ -371,7 +371,7 @@
   },
   "710074": {
     "OriginalText": "グラン水装で広域の鉱洋の採集に向かう。\n人産戦術による早期鉱洋発見を目指すが、\nエネミーとの遭遇の確率も上がってしまう。\n安全確保に留意しつつ作戦を遂行する。",
-    "Text": "Dull Silica Corundum × 6",
+    "Text": "Gran Piece (Wind) × 6\nGran Piece (Ice) × 6\nDull Silica Corundum × 6",
     "Enabled": true
   },
   "710075": {
@@ -396,7 +396,7 @@
   },
   "710079": {
     "OriginalText": "炎の高地で広域の鉱洋の採集に向かう。\n人産戦術による早期鉱洋発見を目指すが、\nエネミーとの遭遇の確率も上がってしまう。\n安全確保に留意しつつ作戦を遂行する。",
-    "Text": "Heated Rhodium Pyroxene × 6",
+    "Text": "Gran Piece (Dark) × 6\nGran Piece (Fire) × 6\nHeated Rhodium Pyroxene × 6",
     "Enabled": true
   },
   "710080": {
@@ -421,7 +421,7 @@
   },
   "710084": {
     "OriginalText": "大尖塔へ資村採集に向かう。\n現地を調査し収集可能な資村を回収する。\n場合によっては危険領域に侵入する。\n結果は追って報告する。",
-    "Text": "Dyed Ceramics × 8",
+    "Text": "Gran Piece (Light) × 8\nDyed Ceramics × 8",
     "Enabled": true
   },
   "710085": {
@@ -446,7 +446,7 @@
   },
   "710089": {
     "OriginalText": "古代都市へ貝ちない黒い鉄柱の採集に向かう。\n調査報告によると現地に反応が認められるが、\nエネミー反応が非常に大きく\n大いなる危険を伴う任務になると予想される。",
-    "Text": "Black Shell-less Shellfish × 8",
+    "Text": "Gran Piece (Dark) × 8\nBlack Shell-less Shellfish × 8",
     "Enabled": true
   },
   "710090": {
@@ -466,12 +466,12 @@
   },
   "710093": {
     "OriginalText": "ノヴァ内部の調査に向かう。\n未調査エリアも含めた本格調査であり、\n回避不可能な事態との遭遇も予想される。\n帰還後、速やかに調査結果をまとめて提出する。",
-    "Text": "Reptile Meat × 6\nPulsating Migmatite × 6",
+    "Text": "Gran Piece (Dark) × 6\nReptile Meat × 6\nPulsating Migmatite × 6",
     "Enabled": true
   },
   "710094": {
     "OriginalText": "ノヴァ内部で鉱石を採集する。\n現地にて反応を確認済みだが、\n同時に強いエネミー反応も確認している。\n安全確保に留意しつつ作戦を遂行する。",
-    "Text": "Pulsating Migmatite × 8",
+    "Text": "Gran Piece (Fire) × 8\nPulsating Migmatite × 8",
     "Enabled": true
   },
   "710095": {
@@ -496,7 +496,7 @@
   },
   "710099": {
     "OriginalText": "ノヴァ内部で瞬くクリソベル石を採集する。\n現地にて確認されているエネミー反応が非常に大きく\n大いなる危険を伴う任務になると予想される。\n結果は追って報告する。",
-    "Text": "Twinkling Cymophane Stone × 6",
+    "Text": "Gran Piece (Ice) × 6\nTwinkling Cymophane Stone × 6",
     "Enabled": true
   },
   "710100": {
