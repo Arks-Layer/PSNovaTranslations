@@ -820,7 +820,7 @@
     "Enabled": true
   },
   "350164": {
-    "OriginalText": "鳥の羽煽",
+    "OriginalText": "鳥の羽毛",
     "Text": "Bird Feather",
     "Enabled": true
   },
@@ -890,7 +890,7 @@
     "Enabled": true
   },
   "350178": {
-    "OriginalText": "ラウーダンの大煽皮",
+    "OriginalText": "ラウーダンの大毛皮",
     "Text": "",
     "Enabled": false
   },
@@ -1240,12 +1240,12 @@
     "Enabled": true
   },
   "350248": {
-    "OriginalText": "ベガルフの体煽",
+    "OriginalText": "ベガルフの体毛",
     "Text": "",
     "Enabled": false
   },
   "350249": {
-    "OriginalText": "フォンベガルフの体煽",
+    "OriginalText": "フォンベガルフの体毛",
     "Text": "",
     "Enabled": false
   },
@@ -1255,7 +1255,7 @@
     "Enabled": true
   },
   "350251": {
-    "OriginalText": "エデルクリトロの煽皮",
+    "OriginalText": "エデルクリトロの毛皮",
     "Text": "",
     "Enabled": false
   },
@@ -1400,7 +1400,7 @@
     "Enabled": false
   },
   "350280": {
-    "OriginalText": "シルブカーネベアの煽皮",
+    "OriginalText": "シルブカーネベアの毛皮",
     "Text": "",
     "Enabled": false
   },
@@ -1515,17 +1515,17 @@
     "Enabled": true
   },
   "350303": {
-    "OriginalText": "フロベガルフの体煽",
+    "OriginalText": "フロベガルフの体毛",
     "Text": "",
     "Enabled": false
   },
   "350304": {
-    "OriginalText": "フロフォンベガルフの体煽",
+    "OriginalText": "フロフォンベガルフの体毛",
     "Text": "",
     "Enabled": false
   },
   "350305": {
-    "OriginalText": "イエーデンの煽皮",
+    "OriginalText": "イエーデンの毛皮",
     "Text": "",
     "Enabled": false
   },
@@ -1535,12 +1535,12 @@
     "Enabled": false
   },
   "350307": {
-    "OriginalText": "オーニクリトロの煽皮",
+    "OriginalText": "オーニクリトロの毛皮",
     "Text": "",
     "Enabled": false
   },
   "350308": {
-    "OriginalText": "クリトロクィーンの煽皮",
+    "OriginalText": "クリトロクィーンの毛皮",
     "Text": "",
     "Enabled": false
   },
@@ -1675,7 +1675,7 @@
     "Enabled": false
   },
   "350335": {
-    "OriginalText": "コパイエーデンの煽皮",
+    "OriginalText": "コパイエーデンの毛皮",
     "Text": "Kopa Yeden Hide",
     "Enabled": true
   },
@@ -1820,7 +1820,7 @@
     "Enabled": false
   },
   "350364": {
-    "OriginalText": "フリラウーダンの煽皮",
+    "OriginalText": "フリラウーダンの毛皮",
     "Text": "",
     "Enabled": false
   },
@@ -1865,7 +1865,7 @@
     "Enabled": false
   },
   "350373": {
-    "OriginalText": "モストカーネベアの煽皮",
+    "OriginalText": "モストカーネベアの毛皮",
     "Text": "",
     "Enabled": false
   },
@@ -2255,7 +2255,7 @@
     "Enabled": false
   },
   "350451": {
-    "OriginalText": "レゾルカーネベアの大煽皮",
+    "OriginalText": "レゾルカーネベアの大毛皮",
     "Text": "",
     "Enabled": false
   },
@@ -2515,7 +2515,7 @@
     "Enabled": true
   },
   "350503": {
-    "OriginalText": "スマラクリトロの大煽皮",
+    "OriginalText": "スマラクリトロの大毛皮",
     "Text": "",
     "Enabled": false
   },
@@ -2540,7 +2540,7 @@
     "Enabled": false
   },
   "350508": {
-    "OriginalText": "オラルカーネベアの大煽皮",
+    "OriginalText": "オラルカーネベアの大毛皮",
     "Text": "",
     "Enabled": false
   },
@@ -3070,7 +3070,7 @@
     "Enabled": false
   },
   "350614": {
-    "OriginalText": "ラウーダン・リアスの煽皮",
+    "OriginalText": "ラウーダン・リアスの毛皮",
     "Text": "",
     "Enabled": false
   },
@@ -3110,17 +3110,17 @@
     "Enabled": false
   },
   "350622": {
-    "OriginalText": "ベガルフ・ライオの体煽",
+    "OriginalText": "ベガルフ・ライオの体毛",
     "Text": "",
     "Enabled": false
   },
   "350623": {
-    "OriginalText": "フォンベガルフ・ライオの体煽",
+    "OriginalText": "フォンベガルフ・ライオの体毛",
     "Text": "",
     "Enabled": false
   },
   "350624": {
-    "OriginalText": "イエーデン・アイエの煽皮",
+    "OriginalText": "イエーデン・アイエの毛皮",
     "Text": "",
     "Enabled": false
   },
@@ -3130,7 +3130,7 @@
     "Enabled": false
   },
   "350626": {
-    "OriginalText": "クリトロ・テュルレの煽皮",
+    "OriginalText": "クリトロ・テュルレの毛皮",
     "Text": "",
     "Enabled": false
   },
@@ -3150,7 +3150,7 @@
     "Enabled": false
   },
   "350630": {
-    "OriginalText": "カーネベア・ゴルヴァの煽皮",
+    "OriginalText": "カーネベア・ゴルヴァの毛皮",
     "Text": "",
     "Enabled": false
   },
@@ -3865,12 +3865,12 @@
     "Enabled": false
   },
   "350773": {
-    "OriginalText": "イエーデンの超煽皮",
+    "OriginalText": "イエーデンの超毛皮",
     "Text": "",
     "Enabled": false
   },
   "350774": {
-    "OriginalText": "コパイエーデンの超煽皮",
+    "OriginalText": "コパイエーデンの超毛皮",
     "Text": "",
     "Enabled": false
   },
@@ -3980,22 +3980,22 @@
     "Enabled": false
   },
   "350796": {
-    "OriginalText": "ジュラキアの超羽煽",
+    "OriginalText": "ジュラキアの超羽毛",
     "Text": "",
     "Enabled": false
   },
   "350797": {
-    "OriginalText": "メドジュラキアの超羽煽",
+    "OriginalText": "メドジュラキアの超羽毛",
     "Text": "",
     "Enabled": false
   },
   "350798": {
-    "OriginalText": "ポリジュラキアの超羽煽",
+    "OriginalText": "ポリジュラキアの超羽毛",
     "Text": "",
     "Enabled": false
   },
   "350799": {
-    "OriginalText": "ガンジュラキアの超羽煽",
+    "OriginalText": "ガンジュラキアの超羽毛",
     "Text": "",
     "Enabled": false
   },
@@ -4845,12 +4845,12 @@
     "Enabled": false
   },
   "350969": {
-    "OriginalText": "ラウーダンの冷煽",
+    "OriginalText": "ラウーダンの冷毛",
     "Text": "",
     "Enabled": false
   },
   "350970": {
-    "OriginalText": "フリラウーダンの冷煽",
+    "OriginalText": "フリラウーダンの冷毛",
     "Text": "",
     "Enabled": false
   },
@@ -4865,12 +4865,12 @@
     "Enabled": false
   },
   "350973": {
-    "OriginalText": "イエーデンの冷煽皮",
+    "OriginalText": "イエーデンの冷毛皮",
     "Text": "",
     "Enabled": false
   },
   "350974": {
-    "OriginalText": "コパイエーデンの冷煽皮",
+    "OriginalText": "コパイエーデンの冷毛皮",
     "Text": "",
     "Enabled": false
   },
@@ -4980,22 +4980,22 @@
     "Enabled": false
   },
   "350996": {
-    "OriginalText": "ジュラキアの冷羽煽",
+    "OriginalText": "ジュラキアの冷羽毛",
     "Text": "",
     "Enabled": false
   },
   "350997": {
-    "OriginalText": "メドジュラキアの冷羽煽",
+    "OriginalText": "メドジュラキアの冷羽毛",
     "Text": "",
     "Enabled": false
   },
   "350998": {
-    "OriginalText": "ポリジュラキアの冷羽煽",
+    "OriginalText": "ポリジュラキアの冷羽毛",
     "Text": "",
     "Enabled": false
   },
   "350999": {
-    "OriginalText": "ガンジュラキアの冷羽煽",
+    "OriginalText": "ガンジュラキアの冷羽毛",
     "Text": "",
     "Enabled": false
   },
@@ -5155,22 +5155,22 @@
     "Enabled": false
   },
   "351031": {
-    "OriginalText": "エデルクリトロの冷煽皮",
+    "OriginalText": "エデルクリトロの冷毛皮",
     "Text": "",
     "Enabled": false
   },
   "351032": {
-    "OriginalText": "スマラクリトロの冷煽皮",
+    "OriginalText": "スマラクリトロの冷毛皮",
     "Text": "",
     "Enabled": false
   },
   "351033": {
-    "OriginalText": "クリトロクィーンの冷煽皮",
+    "OriginalText": "クリトロクィーンの冷毛皮",
     "Text": "",
     "Enabled": false
   },
   "351034": {
-    "OriginalText": "オーニクリトロの冷煽皮",
+    "OriginalText": "オーニクリトロの冷毛皮",
     "Text": "",
     "Enabled": false
   },
