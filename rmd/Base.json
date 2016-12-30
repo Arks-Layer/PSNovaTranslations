@@ -1,77 +1,77 @@
 {
   "240001": {
     "OriginalText": "クラスカウンターＢ Lv.1",
-    "Text": "Class Counter B Lv.1",
+    "Text": "Class Counter B. Lv.1",
     "Enabled": true
   },
   "240002": {
     "OriginalText": "クラスカウンターＢ Lv.2",
-    "Text": "Class Counter B Lv.2",
+    "Text": "Class Counter B. Lv.2",
     "Enabled": true
   },
   "240003": {
     "OriginalText": "クラスカウンターＢ Lv.3",
-    "Text": "Class Counter B Lv.3",
+    "Text": "Class Counter B. Lv.3",
     "Enabled": true
   },
   "240004": {
     "OriginalText": "クラスカウンターＢ Lv.4",
-    "Text": "Class Counter B Lv.4",
+    "Text": "Class Counter B. Lv.4",
     "Enabled": true
   },
   "240005": {
     "OriginalText": "クラスカウンターＢ Lv.5",
-    "Text": "Class Counter B Lv.5",
+    "Text": "Class Counter B. Lv.5",
     "Enabled": true
   },
   "240006": {
     "OriginalText": "クラスカウンターＯ Lv.1",
-    "Text": "Class Counter O Lv.1",
+    "Text": "Class Counter O. Lv.1",
     "Enabled": true
   },
   "240007": {
     "OriginalText": "クラスカウンターＯ Lv.2",
-    "Text": "Class Counter O Lv.2",
+    "Text": "Class Counter O. Lv.2",
     "Enabled": true
   },
   "240008": {
     "OriginalText": "クラスカウンターＯ Lv.3",
-    "Text": "Class Counter O Lv.3",
+    "Text": "Class Counter O. Lv.3",
     "Enabled": true
   },
   "240009": {
     "OriginalText": "クラスカウンターＯ Lv.4",
-    "Text": "Class Counter O Lv.4",
+    "Text": "Class Counter O. Lv.4",
     "Enabled": true
   },
   "240010": {
     "OriginalText": "クラスカウンターＯ Lv.5",
-    "Text": "Class Counter O Lv.5",
+    "Text": "Class Counter O. Lv.5",
     "Enabled": true
   },
   "240011": {
     "OriginalText": "クラスカウンターＷ Lv.1",
-    "Text": "Class Counter W Lv.1",
+    "Text": "Class Counter W. Lv.1",
     "Enabled": true
   },
   "240012": {
     "OriginalText": "クラスカウンターＷ Lv.2",
-    "Text": "Class Counter W Lv.2",
+    "Text": "Class Counter W. Lv.2",
     "Enabled": true
   },
   "240013": {
     "OriginalText": "クラスカウンターＷ Lv.3",
-    "Text": "Class Counter W Lv.3",
+    "Text": "Class Counter W. Lv.3",
     "Enabled": true
   },
   "240014": {
     "OriginalText": "クラスカウンターＷ Lv.4",
-    "Text": "Class Counter W Lv.4",
+    "Text": "Class Counter W. Lv.4",
     "Enabled": true
   },
   "240015": {
     "OriginalText": "クラスカウンターＷ Lv.5",
-    "Text": "Class Counter W Lv.5",
+    "Text": "Class Counter W. Lv.5",
     "Enabled": true
   },
   "240016": {
@@ -126,77 +126,77 @@
   },
   "240041": {
     "OriginalText": "食堂Ｂ Lv.1",
-    "Text": "Restaurant B Lv.1",
+    "Text": "Restaurant B. Lv.1",
     "Enabled": true
   },
   "240042": {
     "OriginalText": "食堂Ｂ Lv.2",
-    "Text": "Restaurant B Lv.2",
+    "Text": "Restaurant B. Lv.2",
     "Enabled": true
   },
   "240043": {
     "OriginalText": "食堂Ｂ Lv.3",
-    "Text": "Restaurant B Lv.3",
+    "Text": "Restaurant B. Lv.3",
     "Enabled": true
   },
   "240044": {
     "OriginalText": "食堂Ｂ Lv.4",
-    "Text": "Restaurant B Lv.4",
+    "Text": "Restaurant B. Lv.4",
     "Enabled": true
   },
   "240045": {
     "OriginalText": "食堂Ｂ Lv.5",
-    "Text": "Restaurant B Lv.5",
+    "Text": "Restaurant B. Lv.5",
     "Enabled": true
   },
   "240046": {
     "OriginalText": "食堂Ｏ Lv.1",
-    "Text": "Restaurant O Lv.1",
+    "Text": "Restaurant O. Lv.1",
     "Enabled": true
   },
   "240047": {
     "OriginalText": "食堂Ｏ Lv.2",
-    "Text": "Restaurant O Lv.2",
+    "Text": "Restaurant O. Lv.2",
     "Enabled": true
   },
   "240048": {
     "OriginalText": "食堂Ｏ Lv.3",
-    "Text": "Restaurant O Lv.3",
+    "Text": "Restaurant O. Lv.3",
     "Enabled": true
   },
   "240049": {
     "OriginalText": "食堂Ｏ Lv.4",
-    "Text": "Restaurant O Lv.4",
+    "Text": "Restaurant O. Lv.4",
     "Enabled": true
   },
   "240050": {
     "OriginalText": "食堂Ｏ Lv.5",
-    "Text": "Restaurant O Lv.5",
+    "Text": "Restaurant O. Lv.5",
     "Enabled": true
   },
   "240051": {
     "OriginalText": "食堂Ｗ Lv.1",
-    "Text": "Restaurant W Lv.1",
+    "Text": "Restaurant W. Lv.1",
     "Enabled": true
   },
   "240052": {
     "OriginalText": "食堂Ｗ Lv.2",
-    "Text": "Restaurant W Lv.2",
+    "Text": "Restaurant W. Lv.2",
     "Enabled": true
   },
   "240053": {
     "OriginalText": "食堂Ｗ Lv.3",
-    "Text": "Restaurant W Lv.3",
+    "Text": "Restaurant W. Lv.3",
     "Enabled": true
   },
   "240054": {
     "OriginalText": "食堂Ｗ Lv.4",
-    "Text": "Restaurant W Lv.4",
+    "Text": "Restaurant W. Lv.4",
     "Enabled": true
   },
   "240055": {
     "OriginalText": "食堂Ｗ Lv.5",
-    "Text": "Restaurant W Lv.5",
+    "Text": "Restaurant W. Lv.5",
     "Enabled": true
   },
   "240056": {
@@ -226,77 +226,77 @@
   },
   "240061": {
     "OriginalText": "武器ショップＢ Lv.1",
-    "Text": "Weapon Shop B Lv.1",
+    "Text": "Weapon Shop B. Lv.1",
     "Enabled": true
   },
   "240062": {
     "OriginalText": "武器ショップＢ Lv.2",
-    "Text": "Weapon Shop B Lv.2",
+    "Text": "Weapon Shop B. Lv.2",
     "Enabled": true
   },
   "240063": {
     "OriginalText": "武器ショップＢ Lv.3",
-    "Text": "Weapon Shop B Lv.3",
+    "Text": "Weapon Shop B. Lv.3",
     "Enabled": true
   },
   "240064": {
     "OriginalText": "武器ショップＢ Lv.4",
-    "Text": "Weapon Shop B Lv.4",
+    "Text": "Weapon Shop B. Lv.4",
     "Enabled": true
   },
   "240065": {
     "OriginalText": "武器ショップＢ Lv.5",
-    "Text": "Weapon Shop B Lv.5",
+    "Text": "Weapon Shop B. Lv.5",
     "Enabled": true
   },
   "240066": {
     "OriginalText": "武器ショップＯ Lv.1",
-    "Text": "Weapon Shop O Lv.1",
+    "Text": "Weapon Shop O. Lv.1",
     "Enabled": true
   },
   "240067": {
     "OriginalText": "武器ショップＯ Lv.2",
-    "Text": "Weapon Shop O Lv.2",
+    "Text": "Weapon Shop O. Lv.2",
     "Enabled": true
   },
   "240068": {
     "OriginalText": "武器ショップＯ Lv.3",
-    "Text": "Weapon Shop O Lv.3",
+    "Text": "Weapon Shop O. Lv.3",
     "Enabled": true
   },
   "240069": {
     "OriginalText": "武器ショップＯ Lv.4",
-    "Text": "Weapon Shop O Lv.4",
+    "Text": "Weapon Shop O. Lv.4",
     "Enabled": true
   },
   "240070": {
     "OriginalText": "武器ショップＯ Lv.5",
-    "Text": "Weapon Shop O Lv.5",
+    "Text": "Weapon Shop O. Lv.5",
     "Enabled": true
   },
   "240071": {
     "OriginalText": "武器ショップＷ Lv.1",
-    "Text": "Weapon Shop W Lv.1",
+    "Text": "Weapon Shop W. Lv.1",
     "Enabled": true
   },
   "240072": {
     "OriginalText": "武器ショップＷ Lv.2",
-    "Text": "Weapon Shop W Lv.2",
+    "Text": "Weapon Shop W. Lv.2",
     "Enabled": true
   },
   "240073": {
     "OriginalText": "武器ショップＷ Lv.3",
-    "Text": "Weapon Shop W Lv.3",
+    "Text": "Weapon Shop W. Lv.3",
     "Enabled": true
   },
   "240074": {
     "OriginalText": "武器ショップＷ Lv.4",
-    "Text": "Weapon Shop W Lv.4",
+    "Text": "Weapon Shop W. Lv.4",
     "Enabled": true
   },
   "240075": {
     "OriginalText": "武器ショップＷ Lv.5",
-    "Text": "Weapon Shop W Lv.5",
+    "Text": "Weapon Shop W. Lv.5",
     "Enabled": true
   },
   "240076": {
@@ -326,77 +326,77 @@
   },
   "240081": {
     "OriginalText": "防具ショップＢ Lv.1",
-    "Text": "Shield Shop B Lv.1",
+    "Text": "Shield Shop B. Lv.1",
     "Enabled": true
   },
   "240082": {
     "OriginalText": "防具ショップＢ Lv.2",
-    "Text": "Shield Shop B Lv.2",
+    "Text": "Shield Shop B. Lv.2",
     "Enabled": true
   },
   "240083": {
     "OriginalText": "防具ショップＢ Lv.3",
-    "Text": "Shield Shop B Lv.3",
+    "Text": "Shield Shop B. Lv.3",
     "Enabled": true
   },
   "240084": {
     "OriginalText": "防具ショップＢ Lv.4",
-    "Text": "Shield Shop B Lv.4",
+    "Text": "Shield Shop B. Lv.4",
     "Enabled": true
   },
   "240085": {
     "OriginalText": "防具ショップＢ Lv.5",
-    "Text": "Shield Shop B Lv.5",
+    "Text": "Shield Shop B. Lv.5",
     "Enabled": true
   },
   "240086": {
     "OriginalText": "防具ショップＯ Lv.1",
-    "Text": "Shield Shop O Lv.1",
+    "Text": "Shield Shop O. Lv.1",
     "Enabled": true
   },
   "240087": {
     "OriginalText": "防具ショップＯ Lv.2",
-    "Text": "Shield Shop O Lv.2",
+    "Text": "Shield Shop O. Lv.2",
     "Enabled": true
   },
   "240088": {
     "OriginalText": "防具ショップＯ Lv.3",
-    "Text": "Shield Shop O Lv.3",
+    "Text": "Shield Shop O. Lv.3",
     "Enabled": true
   },
   "240089": {
     "OriginalText": "防具ショップＯ Lv.4",
-    "Text": "Shield Shop O Lv.4",
+    "Text": "Shield Shop O. Lv.4",
     "Enabled": true
   },
   "240090": {
     "OriginalText": "防具ショップＯ Lv.5",
-    "Text": "Shield Shop O Lv.5",
+    "Text": "Shield Shop O. Lv.5",
     "Enabled": true
   },
   "240091": {
     "OriginalText": "防具ショップＷ Lv.1",
-    "Text": "Shield Shop W Lv.1",
+    "Text": "Shield Shop W. Lv.1",
     "Enabled": true
   },
   "240092": {
     "OriginalText": "防具ショップＷ Lv.2",
-    "Text": "Shield Shop W Lv.2",
+    "Text": "Shield Shop W. Lv.2",
     "Enabled": true
   },
   "240093": {
     "OriginalText": "防具ショップＷ Lv.3",
-    "Text": "Shield Shop W Lv.3",
+    "Text": "Shield Shop W. Lv.3",
     "Enabled": true
   },
   "240094": {
     "OriginalText": "防具ショップＷ Lv.4",
-    "Text": "Shield Shop W Lv.4",
+    "Text": "Shield Shop W. Lv.4",
     "Enabled": true
   },
   "240095": {
     "OriginalText": "防具ショップＷ Lv.5",
-    "Text": "Shield Shop W Lv.5",
+    "Text": "Shield Shop W. Lv.5",
     "Enabled": true
   },
   "240096": {
@@ -426,77 +426,77 @@
   },
   "240101": {
     "OriginalText": "アイテムショップＢ Lv.1",
-    "Text": "Item Shop B Lv.1",
+    "Text": "Item Shop B. Lv.1",
     "Enabled": true
   },
   "240102": {
     "OriginalText": "アイテムショップＢ Lv.2",
-    "Text": "Item Shop B Lv.2",
+    "Text": "Item Shop B. Lv.2",
     "Enabled": true
   },
   "240103": {
     "OriginalText": "アイテムショップＢ Lv.3",
-    "Text": "Item Shop B Lv.3",
+    "Text": "Item Shop B. Lv.3",
     "Enabled": true
   },
   "240104": {
     "OriginalText": "アイテムショップＢ Lv.4",
-    "Text": "Item Shop B Lv.4",
+    "Text": "Item Shop B. Lv.4",
     "Enabled": true
   },
   "240105": {
     "OriginalText": "アイテムショップＢ Lv.5",
-    "Text": "Item Shop B Lv.5",
+    "Text": "Item Shop B. Lv.5",
     "Enabled": true
   },
   "240106": {
     "OriginalText": "アイテムショップＯ Lv.1",
-    "Text": "Item Shop O Lv.1",
+    "Text": "Item Shop O. Lv.1",
     "Enabled": true
   },
   "240107": {
     "OriginalText": "アイテムショップＯ Lv.2",
-    "Text": "Item Shop O Lv.2",
+    "Text": "Item Shop O. Lv.2",
     "Enabled": true
   },
   "240108": {
     "OriginalText": "アイテムショップＯ Lv.3",
-    "Text": "Item Shop O Lv.3",
+    "Text": "Item Shop O. Lv.3",
     "Enabled": true
   },
   "240109": {
     "OriginalText": "アイテムショップＯ Lv.4",
-    "Text": "Item Shop O Lv.4",
+    "Text": "Item Shop O. Lv.4",
     "Enabled": true
   },
   "240110": {
     "OriginalText": "アイテムショップＯ Lv.5",
-    "Text": "Item Shop O Lv.5",
+    "Text": "Item Shop O. Lv.5",
     "Enabled": true
   },
   "240111": {
     "OriginalText": "アイテムショップＷ Lv.1",
-    "Text": "Item Shop W Lv.1",
+    "Text": "Item Shop W. Lv.1",
     "Enabled": true
   },
   "240112": {
     "OriginalText": "アイテムショップＷ Lv.2",
-    "Text": "Item Shop W Lv.2",
+    "Text": "Item Shop W. Lv.2",
     "Enabled": true
   },
   "240113": {
     "OriginalText": "アイテムショップＷ Lv.3",
-    "Text": "Item Shop W Lv.3",
+    "Text": "Item Shop W. Lv.3",
     "Enabled": true
   },
   "240114": {
     "OriginalText": "アイテムショップＷ Lv.4",
-    "Text": "Item Shop W Lv.4",
+    "Text": "Item Shop W. Lv.4",
     "Enabled": true
   },
   "240115": {
     "OriginalText": "アイテムショップＷ Lv.5",
-    "Text": "Item Shop W Lv.5",
+    "Text": "Item Shop W. Lv.5",
     "Enabled": true
   },
   "240116": {
@@ -526,77 +526,77 @@
   },
   "240121": {
     "OriginalText": "コスチュームＳＢ Lv.1",
-    "Text": "Costume Shop B Lv.1",
+    "Text": "Costume Shop B. Lv.1",
     "Enabled": true
   },
   "240122": {
     "OriginalText": "コスチュームＳＢ Lv.2",
-    "Text": "Costume Shop B Lv.2",
+    "Text": "Costume Shop B. Lv.2",
     "Enabled": true
   },
   "240123": {
     "OriginalText": "コスチュームＳＢ Lv.3",
-    "Text": "Costume Shop B Lv.3",
+    "Text": "Costume Shop B. Lv.3",
     "Enabled": true
   },
   "240124": {
     "OriginalText": "コスチュームＳＢ Lv.4",
-    "Text": "Costume Shop B Lv.4",
+    "Text": "Costume Shop B. Lv.4",
     "Enabled": true
   },
   "240125": {
     "OriginalText": "コスチュームＳＢ Lv.5",
-    "Text": "Costume Shop B Lv.5",
+    "Text": "Costume Shop B. Lv.5",
     "Enabled": true
   },
   "240126": {
     "OriginalText": "コスチュームＳＯ Lv.1",
-    "Text": "Costume Shop O Lv.1",
+    "Text": "Costume Shop O. Lv.1",
     "Enabled": true
   },
   "240127": {
     "OriginalText": "コスチュームＳＯ Lv.2",
-    "Text": "Costume Shop O Lv.2",
+    "Text": "Costume Shop O. Lv.2",
     "Enabled": true
   },
   "240128": {
     "OriginalText": "コスチュームＳＯ Lv.3",
-    "Text": "Costume Shop O Lv.3",
+    "Text": "Costume Shop O. Lv.3",
     "Enabled": true
   },
   "240129": {
     "OriginalText": "コスチュームＳＯ Lv.4",
-    "Text": "Costume Shop O Lv.4",
+    "Text": "Costume Shop O. Lv.4",
     "Enabled": true
   },
   "240130": {
     "OriginalText": "コスチュームＳＯ Lv.5",
-    "Text": "Costume Shop O Lv.5",
+    "Text": "Costume Shop O. Lv.5",
     "Enabled": true
   },
   "240131": {
     "OriginalText": "コスチュームＳＷ Lv.1",
-    "Text": "Costume Shop W Lv.1",
+    "Text": "Costume Shop W. Lv.1",
     "Enabled": true
   },
   "240132": {
     "OriginalText": "コスチュームＳＷ Lv.2",
-    "Text": "Costume Shop W Lv.2",
+    "Text": "Costume Shop W. Lv.2",
     "Enabled": true
   },
   "240133": {
     "OriginalText": "コスチュームＳＷ Lv.3",
-    "Text": "Costume Shop W Lv.3",
+    "Text": "Costume Shop W. Lv.3",
     "Enabled": true
   },
   "240134": {
     "OriginalText": "コスチュームＳＷ Lv.4",
-    "Text": "Costume Shop W Lv.4",
+    "Text": "Costume Shop W. Lv.4",
     "Enabled": true
   },
   "240135": {
     "OriginalText": "コスチュームＳＷ Lv.5",
-    "Text": "Costume Shop W Lv.5",
+    "Text": "Costume Shop W. Lv.5",
     "Enabled": true
   },
   "240136": {
@@ -626,77 +626,77 @@
   },
   "240141": {
     "OriginalText": "エステＢ Lv.1",
-    "Text": "Makeover Shop B Lv.1",
+    "Text": "Makeover Shop B. Lv.1",
     "Enabled": true
   },
   "240142": {
     "OriginalText": "エステＢ Lv.2",
-    "Text": "Makeover Shop B Lv.2",
+    "Text": "Makeover Shop B. Lv.2",
     "Enabled": true
   },
   "240143": {
     "OriginalText": "エステＢ Lv.3",
-    "Text": "Makeover Shop B Lv.3",
+    "Text": "Makeover Shop B. Lv.3",
     "Enabled": true
   },
   "240144": {
     "OriginalText": "エステＢ Lv.4",
-    "Text": "Makeover Shop B Lv.4",
+    "Text": "Makeover Shop B. Lv.4",
     "Enabled": true
   },
   "240145": {
     "OriginalText": "エステＢ Lv.5",
-    "Text": "Makeover Shop B Lv.5",
+    "Text": "Makeover Shop B. Lv.5",
     "Enabled": true
   },
   "240146": {
     "OriginalText": "エステＯ Lv.1",
-    "Text": "Makeover Shop O Lv.1",
+    "Text": "Makeover Shop O. Lv.1",
     "Enabled": true
   },
   "240147": {
     "OriginalText": "エステＯ Lv.2",
-    "Text": "Makeover Shop O Lv.2",
+    "Text": "Makeover Shop O. Lv.2",
     "Enabled": true
   },
   "240148": {
     "OriginalText": "エステＯ Lv.3",
-    "Text": "Makeover Shop O Lv.3",
+    "Text": "Makeover Shop O. Lv.3",
     "Enabled": true
   },
   "240149": {
     "OriginalText": "エステＯ Lv.4",
-    "Text": "Makeover Shop O Lv.4",
+    "Text": "Makeover Shop O. Lv.4",
     "Enabled": true
   },
   "240150": {
     "OriginalText": "エステＯ Lv.5",
-    "Text": "Makeover Shop O Lv.5",
+    "Text": "Makeover Shop O. Lv.5",
     "Enabled": true
   },
   "240151": {
     "OriginalText": "エステＷ Lv.1",
-    "Text": "Makeover Shop W Lv.1",
+    "Text": "Makeover Shop W. Lv.1",
     "Enabled": true
   },
   "240152": {
     "OriginalText": "エステＷ Lv.2",
-    "Text": "Makeover Shop W Lv.2",
+    "Text": "Makeover Shop W. Lv.2",
     "Enabled": true
   },
   "240153": {
     "OriginalText": "エステＷ Lv.3",
-    "Text": "Makeover Shop W Lv.3",
+    "Text": "Makeover Shop W. Lv.3",
     "Enabled": true
   },
   "240154": {
     "OriginalText": "エステＷ Lv.4",
-    "Text": "Makeover Shop W Lv.4",
+    "Text": "Makeover Shop W. Lv.4",
     "Enabled": true
   },
   "240155": {
     "OriginalText": "エステＷ Lv.5",
-    "Text": "Makeover Shop W Lv.5",
+    "Text": "Makeover Shop W. Lv.5",
     "Enabled": true
   },
   "240156": {
@@ -1031,22 +1031,22 @@
   },
   "240227": {
     "OriginalText": "オリエントＴチェア",
-    "Text": "Oriental T.Chair",
+    "Text": "Oriental T. Chair",
     "Enabled": true
   },
   "240228": {
     "OriginalText": "オリエントＴチェア茶",
-    "Text": "Brown Oriental T.Chair",
+    "Text": "Brown Oriental T. Chair",
     "Enabled": true
   },
   "240229": {
     "OriginalText": "ウェスタンＴチェア",
-    "Text": "Western T.Chair",
+    "Text": "Western T. Chair",
     "Enabled": true
   },
   "240230": {
     "OriginalText": "ウェスタンＴチェア茶",
-    "Text": "Brown Western T.Chair",
+    "Text": "Brown Western T. Chair",
     "Enabled": true
   },
   "240231": {
@@ -1101,32 +1101,32 @@
   },
   "240241": {
     "OriginalText": "ベースＳシェルフ",
-    "Text": "Base S.Shelf",
+    "Text": "Base S. Shelf",
     "Enabled": true
   },
   "240242": {
     "OriginalText": "ベースＳシェルフ緑",
-    "Text": "Green Base S.Shelf",
+    "Text": "Green Base S. Shelf",
     "Enabled": true
   },
   "240243": {
     "OriginalText": "オリエントＳシェルフ茶",
-    "Text": "Brown Oriental S.Shelf",
+    "Text": "Brown Oriental S. Shelf",
     "Enabled": true
   },
   "240244": {
     "OriginalText": "オリエントＳシェルフ",
-    "Text": "Oriental S.Shelf",
+    "Text": "Oriental S. Shelf",
     "Enabled": true
   },
   "240245": {
     "OriginalText": "ウェスタンＳシェルフ",
-    "Text": "Western S.Shelf",
+    "Text": "Western S. Shelf",
     "Enabled": true
   },
   "240246": {
     "OriginalText": "ウェスタンＳシェルフ茶",
-    "Text": "Brown Western S.Shelf",
+    "Text": "Brown Western S. Shelf",
     "Enabled": true
   },
   "240247": {
@@ -1406,12 +1406,12 @@
   },
   "240302": {
     "OriginalText": "ベーシックローテーブル青",
-    "Text": "Blue B.Long Table",
+    "Text": "Blue B. Long Table",
     "Enabled": true
   },
   "240303": {
     "OriginalText": "ベーシックローテーブル桃",
-    "Text": "Pink B.Long Table",
+    "Text": "Pink B. Long Table",
     "Enabled": true
   },
   "240304": {
@@ -1451,12 +1451,12 @@
   },
   "240311": {
     "OriginalText": "モダンローテーブル橙",
-    "Text": "Orange M.Long Table",
+    "Text": "Orange M. Long Table",
     "Enabled": true
   },
   "240312": {
     "OriginalText": "モダンローテーブル黒",
-    "Text": "Black M.Long Table",
+    "Text": "Black M. Long Table",
     "Enabled": true
   },
   "240313": {
@@ -1466,12 +1466,12 @@
   },
   "240314": {
     "OriginalText": "ミニモダンシェルフ橙",
-    "Text": "Orange Mini M.Shelf",
+    "Text": "Orange Mini M. Shelf",
     "Enabled": true
   },
   "240315": {
     "OriginalText": "ミニモダンシェルフ黒",
-    "Text": "Black Mini M.Shelf",
+    "Text": "Black Mini M. Shelf",
     "Enabled": true
   },
   "240316": {
@@ -1526,12 +1526,12 @@
   },
   "240326": {
     "OriginalText": "クラシックＮスタンド桃",
-    "Text": "Pink Classic N.Stand",
+    "Text": "Pink Classic N. Stand",
     "Enabled": true
   },
   "240327": {
     "OriginalText": "クラシックＮスタンド茶",
-    "Text": "Brown Classic N.Stand",
+    "Text": "Brown Classic N. Stand",
     "Enabled": true
   },
   "240328": {
@@ -1761,17 +1761,17 @@
   },
   "240373": {
     "OriginalText": "ベースフェンスＳ",
-    "Text": "S.Base Fence",
+    "Text": "S. Base Fence",
     "Enabled": true
   },
   "240374": {
     "OriginalText": "オリエントフェンスＳ",
-    "Text": "S.Oriental Fence",
+    "Text": "S. Oriental Fence",
     "Enabled": true
   },
   "240375": {
     "OriginalText": "ウェスタンフェンスＳ",
-    "Text": "S.Western Fence",
+    "Text": "S. Western Fence",
     "Enabled": true
   },
   "240376": {
@@ -1781,17 +1781,17 @@
   },
   "240377": {
     "OriginalText": "ベースフェンスＭ",
-    "Text": "M.Base Fence",
+    "Text": "M. Base Fence",
     "Enabled": true
   },
   "240378": {
     "OriginalText": "オリエントフェンスＭ",
-    "Text": "M.Oriental Fence",
+    "Text": "M. Oriental Fence",
     "Enabled": true
   },
   "240379": {
     "OriginalText": "ウェスタンフェンスＭ",
-    "Text": "M.Western Fence",
+    "Text": "M. Western Fence",
     "Enabled": true
   },
   "240380": {
@@ -1801,17 +1801,17 @@
   },
   "240381": {
     "OriginalText": "ベースウォールＳ",
-    "Text": "S.Base Wall",
+    "Text": "S. Base Wall",
     "Enabled": true
   },
   "240382": {
     "OriginalText": "オリエントウォールＳ",
-    "Text": "S.Oriental Wall",
+    "Text": "S. Oriental Wall",
     "Enabled": true
   },
   "240383": {
     "OriginalText": "ウェスタンウォールＳ",
-    "Text": "S.Western Wall",
+    "Text": "S. Western Wall",
     "Enabled": true
   },
   "240384": {
@@ -1821,17 +1821,17 @@
   },
   "240385": {
     "OriginalText": "ベースウォールＭ",
-    "Text": "M.Base Wall",
+    "Text": "M. Base Wall",
     "Enabled": true
   },
   "240386": {
     "OriginalText": "オリエントウォールＭ",
-    "Text": "M.Oriental Wall",
+    "Text": "M. Oriental Wall",
     "Enabled": true
   },
   "240387": {
     "OriginalText": "ウェスタンウォールＭ",
-    "Text": "M.Western Wall",
+    "Text": "M. Western Wall",
     "Enabled": true
   },
   "240388": {
@@ -1846,12 +1846,12 @@
   },
   "240390": {
     "OriginalText": "オリエントウォールＬ",
-    "Text": "L.Oriental Wall",
+    "Text": "L. Oriental Wall",
     "Enabled": true
   },
   "240391": {
     "OriginalText": "ウェスタンウォールＬ",
-    "Text": "L.Western Wall",
+    "Text": "L. Western Wall",
     "Enabled": true
   },
   "240392": {
