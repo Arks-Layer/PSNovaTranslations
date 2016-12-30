@@ -1501,18 +1501,18 @@
   },
   "189078": {
     "OriginalText": "砲凰ファンアフォル",
-    "Text": "",
-    "Enabled": false
+    "Text": "Armed Phoenix: Fan'aphol",
+    "Enabled": true
   },
   "189079": {
     "OriginalText": "砲凰ウィルアフォル",
-    "Text": "",
-    "Enabled": false
+    "Text": "Armed Phoenix: Viluaphol",
+    "Enabled": true
   },
   "189080": {
     "OriginalText": "砲凰アフォル・フェイズ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Armed Phoenix: Aphol Phase",
+    "Enabled": true
   },
   "189081": {
     "OriginalText": "クラーダ",
@@ -1536,33 +1536,33 @@
   },
   "189085": {
     "OriginalText": "？？？",
-    "Text": "",
-    "Enabled": false
+    "Text": "???",
+    "Enabled": true
   },
   "189086": {
     "OriginalText": "追撃のＧアロナガーダ",
-    "Text": "",
-    "Enabled": false
+    "Text": "G-Alonagahda Pursuit",
+    "Enabled": true
   },
   "189087": {
     "OriginalText": "メガ・ロザード",
-    "Text": "",
-    "Enabled": false
+    "Text": "Mega Rozad",
+    "Enabled": true
   },
   "189088": {
     "OriginalText": "メガ・ウロザード",
-    "Text": "",
-    "Enabled": false
+    "Text": "Mega Pa Rozad",
+    "Enabled": true
   },
   "189089": {
     "OriginalText": "メガ・クロザード",
-    "Text": "",
-    "Enabled": false
+    "Text": "Mega Gu Rozad",
+    "Enabled": true
   },
   "189090": {
     "OriginalText": "メガ・スロザード",
-    "Text": "",
-    "Enabled": false
+    "Text": "Mega Su Rozad",
+    "Enabled": true
   },
   "189091": {
     "OriginalText": "ヴィヴリュードＳ型",
