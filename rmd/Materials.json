@@ -721,7 +721,7 @@
   },
   "350144": {
     "OriginalText": "Ｇプレディカーダの刃片",
-    "Text": "G-Predicahda Blade",
+    "Text": "G-Predicahda Blades",
     "Enabled": true
   },
   "350145": {
@@ -736,12 +736,12 @@
   },
   "350147": {
     "OriginalText": "Ｇクラーダの甲殻",
-    "Text": "G-Krahda Shell",
+    "Text": "G-Krahda Carapace",
     "Enabled": true
   },
   "350148": {
     "OriginalText": "Ｇダガンの甲殻",
-    "Text": "G-Dagan Shell",
+    "Text": "G-Dagan Carapace",
     "Enabled": true
   },
   "350149": {
@@ -921,8 +921,8 @@
   },
   "350184": {
     "OriginalText": "Ｇミクダの甲羅",
-    "Text": "",
-    "Enabled": false
+    "Text": "G-Micda Shell",
+    "Enabled": true
   },
   "350185": {
     "OriginalText": "Ｇエル・アーダの羽根",
@@ -1091,7 +1091,7 @@
   },
   "350218": {
     "OriginalText": "グランブの甲羅",
-    "Text": "Granv Carapace",
+    "Text": "Granv Shell",
     "Enabled": true
   },
   "350219": {
@@ -1196,7 +1196,7 @@
   },
   "350239": {
     "OriginalText": "アセラビーソの刃片",
-    "Text": "Ase Rabbisaw Blade",
+    "Text": "Ase Rabbisaw Blades",
     "Enabled": true
   },
   "350240": {
@@ -1486,8 +1486,8 @@
   },
   "350297": {
     "OriginalText": "ブロラビーソの刃",
-    "Text": "",
-    "Enabled": false
+    "Text": "Bro Rabbisaw Blade",
+    "Enabled": true
   },
   "350298": {
     "OriginalText": "オーニクリトロの爪",
@@ -1506,8 +1506,8 @@
   },
   "350301": {
     "OriginalText": "Ｇシャルレイダの甲羅",
-    "Text": "",
-    "Enabled": false
+    "Text": "G-Shalurayda Shell",
+    "Enabled": true
   },
   "350302": {
     "OriginalText": "グレイオスの主砲",
@@ -1596,8 +1596,8 @@
   },
   "350319": {
     "OriginalText": "Ｇシャルレイダの甲羅",
-    "Text": "",
-    "Enabled": false
+    "Text": "G-Shalurayda Shell",
+    "Enabled": true
   },
   "350320": {
     "OriginalText": "グレイオスの完全な剣板",
@@ -1656,8 +1656,8 @@
   },
   "350331": {
     "OriginalText": "サフグランブの甲羅",
-    "Text": "",
-    "Enabled": false
+    "Text": "Sahugranv Shell",
+    "Enabled": true
   },
   "350332": {
     "OriginalText": "マガヴルムの銃身",
@@ -1761,7 +1761,7 @@
   },
   "350352": {
     "OriginalText": "ラビーソの刃片",
-    "Text": "Rabbisaw Blade",
+    "Text": "Rabbisaw Blades",
     "Enabled": true
   },
   "350353": {
@@ -3181,8 +3181,8 @@
   },
   "350636": {
     "OriginalText": "グランブ・ダイの甲羅",
-    "Text": "",
-    "Enabled": false
+    "Text": "Granv Dai Shell",
+    "Enabled": true
   },
   "350637": {
     "OriginalText": "マンデル・ナートのたてがみ",
@@ -3211,7 +3211,7 @@
   },
   "350642": {
     "OriginalText": "Ｇダガン・ネロの甲殻",
-    "Text": "G-Dagan Nero Shell",
+    "Text": "G-Dagan Nero Carapace",
     "Enabled": true
   },
   "350643": {
@@ -3221,8 +3221,8 @@
   },
   "350644": {
     "OriginalText": "Ｇミ・ミクダの甲羅",
-    "Text": "",
-    "Enabled": false
+    "Text": "G-Mi Micda Shell",
+    "Enabled": true
   },
   "350645": {
     "OriginalText": "Ｇプレディカーダ・ネロの脚",
