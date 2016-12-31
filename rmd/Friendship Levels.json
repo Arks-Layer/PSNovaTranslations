@@ -1,52 +1,52 @@
 {
   "10601": {
     "OriginalText": "他人",
-    "Text": "Distant",
+    "Text": "Lv. 3",
     "Enabled": true
   },
   "10602": {
     "OriginalText": "知人",
-    "Text": "Neutral",
+    "Text": "Lv. 4",
     "Enabled": true
   },
   "10603": {
     "OriginalText": "友人",
-    "Text": "Friend",
+    "Text": "Lv. 5",
     "Enabled": true
   },
   "10604": {
     "OriginalText": "仲間",
-    "Text": "Friend",
+    "Text": "Lv. 6",
     "Enabled": true
   },
   "10605": {
     "OriginalText": "親友",
-    "Text": "Good\nFriend",
+    "Text": "Lv. 7",
     "Enabled": true
   },
   "10606": {
     "OriginalText": "親友",
-    "Text": "Good\nFriend",
+    "Text": "Lv. 8",
     "Enabled": true
   },
   "10607": {
     "OriginalText": "悪友",
-    "Text": "Hate",
+    "Text": "Lv. 1",
     "Enabled": true
   },
   "10608": {
     "OriginalText": "腐緑",
-    "Text": "Detest",
+    "Text": "Lv. 2",
     "Enabled": true
   },
   "10609": {
     "OriginalText": "戦友",
-    "Text": "Comrade",
+    "Text": "Lv. 9",
     "Enabled": true
   },
   "10610": {
     "OriginalText": "相棒",
-    "Text": "Partner",
+    "Text": "Lv. 10",
     "Enabled": true
   }
 }
