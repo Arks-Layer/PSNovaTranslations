@@ -31,8 +31,8 @@
   },
   "690006": {
     "OriginalText": "ヴィヴリュードが両足で上空に\n向かって、多弾頭ミサイルを発射し\n全方位に攻撃する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Vivrude points its guns into the sky,\nfiring multiple missiles in all\ndirections to damage nearby enemies.",
+    "Enabled": true
   },
   "690007": {
     "OriginalText": "ギガティオンが翼の１０本の\nチェーンソーを大きく振り上げ、\n周辺の敵を切り裂く。",
