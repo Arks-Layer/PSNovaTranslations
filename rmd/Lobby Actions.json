@@ -21,12 +21,12 @@
   },
   "600004": {
     "OriginalText": "肯定",
-    "Text": "Yes",
+    "Text": "Agree",
     "Enabled": true
   },
   "600005": {
     "OriginalText": "否定",
-    "Text": "No",
+    "Text": "Disagree",
     "Enabled": true
   },
   "600006": {
@@ -36,7 +36,7 @@
   },
   "600007": {
     "OriginalText": "挑発する",
-    "Text": "Provocate",
+    "Text": "Provoke",
     "Enabled": true
   },
   "600008": {
@@ -66,12 +66,12 @@
   },
   "600013": {
     "OriginalText": "任せておけ！",
-    "Text": "Leave it to me, OK!",
+    "Text": "Leave It To Me!",
     "Enabled": true
   },
   "600014": {
     "OriginalText": "喜ぶ",
-    "Text": "Rejoice",
+    "Text": "Happy",
     "Enabled": true
   },
   "600015": {
@@ -81,32 +81,32 @@
   },
   "600016": {
     "OriginalText": "哀しい",
-    "Text": "Happy",
+    "Text": "Sad",
     "Enabled": true
   },
   "600017": {
     "OriginalText": "楽しい",
-    "Text": "Sad",
+    "Text": "Pleased",
     "Enabled": true
   },
   "600018": {
     "OriginalText": "呆れ",
-    "Text": "Disgusted",
+    "Text": "Amazed",
     "Enabled": true
   },
   "600019": {
     "OriginalText": "照れる",
-    "Text": "Act Shy",
+    "Text": "Shy",
     "Enabled": true
   },
   "600020": {
     "OriginalText": "驚く",
-    "Text": "Surprise",
+    "Text": "Surprised",
     "Enabled": true
   },
   "600021": {
     "OriginalText": "地団太",
-    "Text": "Impatient",
+    "Text": "Stomp Foot",
     "Enabled": true
   },
   "600022": {
@@ -146,7 +146,7 @@
   },
   "600029": {
     "OriginalText": "ポーズ",
-    "Text": "Pose 1",
+    "Text": "Pose",
     "Enabled": true
   },
   "600030": {

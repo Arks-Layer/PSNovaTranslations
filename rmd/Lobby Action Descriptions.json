@@ -6,152 +6,152 @@
   },
   "610001": {
     "OriginalText": "ロビーアクション 手を振る",
-    "Text": "",
-    "Enabled": false
+    "Text": "Wave lobby action",
+    "Enabled": true
   },
   "610002": {
     "OriginalText": "ロビーアクション 礼をする",
-    "Text": "",
-    "Enabled": false
+    "Text": "Bow lobby action",
+    "Enabled": true
   },
   "610003": {
     "OriginalText": "ロビーアクション 敬礼をする",
-    "Text": "",
-    "Enabled": false
+    "Text": "Salute lobby action",
+    "Enabled": true
   },
   "610004": {
     "OriginalText": "ロビーアクション 肯定する",
-    "Text": "",
-    "Enabled": false
+    "Text": "Agree lobby action",
+    "Enabled": true
   },
   "610005": {
     "OriginalText": "ロビーアクション 否定する",
-    "Text": "",
-    "Enabled": false
+    "Text": "Disagree lobby action",
+    "Enabled": true
   },
   "610006": {
     "OriginalText": "ロビーアクション 謝る",
-    "Text": "",
-    "Enabled": false
+    "Text": "Apologize lobby action",
+    "Enabled": true
   },
   "610007": {
     "OriginalText": "ロビーアクション 挑発をする",
-    "Text": "",
-    "Enabled": false
+    "Text": "Provoke lobby action",
+    "Enabled": true
   },
   "610008": {
     "OriginalText": "ロビーアクション 燭手をする",
-    "Text": "",
-    "Enabled": false
+    "Text": "Clap lobby action",
+    "Enabled": true
   },
   "610009": {
     "OriginalText": "ロビーアクション 投げキッスをする",
-    "Text": "",
-    "Enabled": false
+    "Text": "Kiss lobby action",
+    "Enabled": true
   },
   "610010": {
     "OriginalText": "ロビーアクション グッジョブのサインを出す",
-    "Text": "",
-    "Enabled": false
+    "Text": "Good job lobby action",
+    "Enabled": true
   },
   "610011": {
     "OriginalText": "ロビーアクション 指をさす",
-    "Text": "",
-    "Enabled": false
+    "Text": "Point lobby action",
+    "Enabled": true
   },
   "610012": {
     "OriginalText": "ロビーアクション 気合を入れる",
-    "Text": "",
-    "Enabled": false
+    "Text": "Fighting spirit lobby action",
+    "Enabled": true
   },
   "610013": {
     "OriginalText": "ロビーアクション 自信を示す",
-    "Text": "",
-    "Enabled": false
+    "Text": "Leave it to me lobby action",
+    "Enabled": true
   },
   "610014": {
     "OriginalText": "ロビーアクション 喜ぶ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Happy lobby action",
+    "Enabled": true
   },
   "610015": {
     "OriginalText": "ロビーアクション 怒る",
-    "Text": "",
-    "Enabled": false
+    "Text": "Angry lobby action",
+    "Enabled": true
   },
   "610016": {
     "OriginalText": "ロビーアクション 哀しむ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Sad lobby action",
+    "Enabled": true
   },
   "610017": {
     "OriginalText": "ロビーアクション はしゃぐ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Pleased lobby action",
+    "Enabled": true
   },
   "610018": {
     "OriginalText": "ロビーアクション 呆れる",
-    "Text": "",
-    "Enabled": false
+    "Text": "Amazed lobby action",
+    "Enabled": true
   },
   "610019": {
     "OriginalText": "ロビーアクション 照れる",
-    "Text": "",
-    "Enabled": false
+    "Text": "Shy lobby action",
+    "Enabled": true
   },
   "610020": {
     "OriginalText": "ロビーアクション 驚く",
-    "Text": "",
-    "Enabled": false
+    "Text": "Surprised lobby action",
+    "Enabled": true
   },
   "610021": {
     "OriginalText": "ロビーアクション 地団太を踏む",
-    "Text": "",
-    "Enabled": false
+    "Text": "Stomp foot lobby action",
+    "Enabled": true
   },
   "610022": {
     "OriginalText": "ロビーアクション 泣く",
-    "Text": "",
-    "Enabled": false
+    "Text": "Cry lobby action",
+    "Enabled": true
   },
   "610023": {
     "OriginalText": "ロビーアクション 座る その１",
-    "Text": "",
-    "Enabled": false
+    "Text": "Sit 1 lobby action",
+    "Enabled": true
   },
   "610024": {
     "OriginalText": "ロビーアクション 座る その２",
-    "Text": "",
-    "Enabled": false
+    "Text": "Sit 2 lobby action",
+    "Enabled": true
   },
   "610025": {
     "OriginalText": "ロビーアクション 寝ころぶ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Bed lobby action",
+    "Enabled": true
   },
   "610026": {
     "OriginalText": "ロビーアクション ダンスをする その１",
-    "Text": "",
-    "Enabled": false
+    "Text": "Dance 1 lobby action",
+    "Enabled": true
   },
   "610027": {
     "OriginalText": "ロビーアクション ダンスをする その２",
-    "Text": "",
-    "Enabled": false
+    "Text": "Dance 2 lobby action",
+    "Enabled": true
   },
   "610028": {
     "OriginalText": "ロビーアクション セクシーポーズをとる",
-    "Text": "",
-    "Enabled": false
+    "Text": "Sexy lobby action",
+    "Enabled": true
   },
   "610029": {
     "OriginalText": "ロビーアクション 決めポーズをとる",
-    "Text": "",
-    "Enabled": false
+    "Text": "Pose lobby action",
+    "Enabled": true
   },
   "610030": {
     "OriginalText": "ロビーアクション 決めポーズをとる その２",
-    "Text": "",
-    "Enabled": false
+    "Text": "Pose 2 lobby action",
+    "Enabled": true
   }
 }
