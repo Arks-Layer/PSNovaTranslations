@@ -109,7 +109,7 @@ def ProcFile(fp, out, enemies, items, delimiters):
             #{
                ln = ln + \
                     "    \"Text\": \"" + name + " " + item + "\",\n" + \
-                    "    \"Enabled\": true\r\n"
+                    "    \"Enabled\": true\n"
 
                ln2 = next(fp)
                if ln2.find("\"Enabled\"") == -1: ln = ln + ln2

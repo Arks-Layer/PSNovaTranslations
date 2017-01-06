@@ -2176,7 +2176,7 @@
   },
   "21739": {
     "OriginalText": "このクエストはトライアルクエストです。\nあらかじめ用意された伝備とパラメータで\nクエストに挑戦しますが、よろしいですか？",
-    "Text": "Accept this Time Attack quest?\n\n[a 03]Time Attack quests use premade classes with their own\nskills and equipment.[b]",
+    "Text": "Accept this trial quest?\n\n[a 03]Trial quests use premade classes with their own skills and\nequipment.[b]",
     "Enabled": true
   },
   "21740": {
@@ -2971,7 +2971,7 @@
   },
   "22215": {
     "OriginalText": "探索情報",
-    "Text": "Search Information",
+    "Text": "Obtainable Materials",
     "Enabled": true
   },
   "22216": {
