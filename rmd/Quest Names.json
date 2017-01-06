@@ -201,43 +201,43 @@
   },
   "200201": {
     "OriginalText": "★スイーツ・メルヘン",
-    "Text": "",
-    "Enabled": false
+    "Text": "★ Sweet Fairy Tale",
+    "Enabled": true
   },
   "200202": {
     "OriginalText": "★スター・ルティナックル",
-    "Text": "",
-    "Enabled": false
+    "Text": "★ Star Luntinakulu",
+    "Enabled": true
   },
   "200203": {
     "OriginalText": "★不倒バカ一代",
-    "Text": "",
-    "Enabled": false
+    "Text": "★ I'm an Idiot",
+    "Enabled": true
   },
   "200204": {
     "OriginalText": "★カリスト改造計画",
-    "Text": "",
-    "Enabled": false
+    "Text": "★ Calisto's Remodelling Plan",
+    "Enabled": true
   },
   "200205": {
     "OriginalText": "★注文の多い料理人",
-    "Text": "",
-    "Enabled": false
+    "Text": "★ A Demanding Chef",
+    "Enabled": true
   },
   "200206": {
     "OriginalText": "★恋するシャロン",
-    "Text": "",
-    "Enabled": false
+    "Text": "★ Sharon is in Love",
+    "Enabled": true
   },
   "200207": {
     "OriginalText": "★明紅の少年",
-    "Text": "",
-    "Enabled": false
+    "Text": "★ The Crimson Boy",
+    "Enabled": true
   },
   "200208": {
     "OriginalText": "★戦土に贈る愛",
-    "Text": "",
-    "Enabled": false
+    "Text": "★ Giving Love in Battle",
+    "Enabled": true
   },
   "200209": {
     "OriginalText": "難：★ラスト・デート",
@@ -406,12 +406,12 @@
   },
   "200333": {
     "OriginalText": "難：炎の高地殲滅任務",
-    "Text": "",
-    "Enabled": false
+    "Text": "Danger: Flame Highlands Extermination",
+    "Enabled": true
   },
   "200334": {
     "OriginalText": "難：大尖塔資材回収任務",
-    "Text": "",
+    "Text": "Danger: Large Spire Materials Recovery",
     "Enabled": false
   },
   "200335": {
@@ -426,58 +426,58 @@
   },
   "200337": {
     "OriginalText": "難：アルキュオネ攻略任務",
-    "Text": "",
-    "Enabled": false
+    "Text": "Danger: Capture Alcyone",
+    "Enabled": true
   },
   "200338": {
     "OriginalText": "難：大尖塔殲滅任務",
-    "Text": "",
-    "Enabled": false
+    "Text": "Danger: Large Spire Extermination",
+    "Enabled": true
   },
   "200339": {
     "OriginalText": "難：グラン水装哨戒任務",
-    "Text": "",
-    "Enabled": false
+    "Text": "Danger: Gran Water Rig Patrol",
+    "Enabled": true
   },
   "200340": {
     "OriginalText": "難：グラン水装殲滅任務",
-    "Text": "",
-    "Enabled": false
+    "Text": "Danger: Gran Water Rig Extermination",
+    "Enabled": true
   },
   "200341": {
     "OriginalText": "難：ヴィヴリュード決戦",
-    "Text": "",
-    "Enabled": false
+    "Text": "Danger: Vivrude Subjugation",
+    "Enabled": true
   },
   "200342": {
     "OriginalText": "難：デェフキュオネ決戦",
-    "Text": "",
-    "Enabled": false
+    "Text": "Danger: Defcyone Subjugation",
+    "Enabled": true
   },
   "200343": {
     "OriginalText": "難：アルテイオス決戦",
-    "Text": "Danger: Altios Duel",
+    "Text": "Danger: Altios Subjugation",
     "Enabled": true
   },
   "200344": {
     "OriginalText": "難：グラヴディオン決戦",
-    "Text": "",
-    "Enabled": false
+    "Text": "Danger: Gravdion Subjugation",
+    "Enabled": true
   },
   "200345": {
     "OriginalText": "難：リベルゲンテ決戦",
-    "Text": "Danger: Libelgante Duel",
+    "Text": "Danger: Libelgante Subjugation",
     "Enabled": true
   },
   "200346": {
     "OriginalText": "難：レイヴガイスト決戦",
-    "Text": "",
-    "Enabled": false
+    "Text": "Danger: Rave Geist Subjugation",
+    "Enabled": true
   },
   "200347": {
     "OriginalText": "バトル体験版クエスト",
-    "Text": "",
-    "Enabled": false
+    "Text": "Battle Trial Version Quest",
+    "Enabled": true
   },
   "200348": {
     "OriginalText": "パイル訓練",
@@ -486,8 +486,8 @@
   },
   "200349": {
     "OriginalText": "そびえ立つ二門の巨砲",
-    "Text": "",
-    "Enabled": false
+    "Text": "Towering Twin Cannons",
+    "Enabled": true
   },
   "200350": {
     "OriginalText": "全てを切り裂く双翼の刃",
@@ -501,18 +501,18 @@
   },
   "200500": {
     "OriginalText": "先遣隊の救出",
-    "Text": "",
-    "Enabled": false
+    "Text": "Rescue Advance Team",
+    "Enabled": true
   },
   "200501": {
     "OriginalText": "最深部のＧキュクロナーダ撃破",
-    "Text": "",
-    "Enabled": false
+    "Text": "The Deepest G-Kuklonahda",
+    "Enabled": true
   },
   "200502": {
     "OriginalText": "最深部のジャッドバンサー撃破",
-    "Text": "",
-    "Enabled": false
+    "Text": "The Deepest Jhad Banther",
+    "Enabled": true
   },
   "200503": {
     "OriginalText": "医療資材の指定数回収",
@@ -521,63 +521,63 @@
   },
   "200504": {
     "OriginalText": "艦補修資材の指定数回収",
-    "Text": "",
-    "Enabled": false
+    "Text": "Recovery Ship Materials",
+    "Enabled": true
   },
   "200505": {
     "OriginalText": "最深部のアルキュオネ撃破",
-    "Text": "",
-    "Enabled": false
+    "Text": "The Deepest Alcyone",
+    "Enabled": true
   },
   "200506": {
     "OriginalText": "最深部のヴィヴリュード撃破",
-    "Text": "",
-    "Enabled": false
+    "Text": "The Deepest Vivrude",
+    "Enabled": true
   },
   "200507": {
     "OriginalText": "最深部のエウリュード撃破",
-    "Text": "",
-    "Enabled": false
+    "Text": "The Deepest Eurude",
+    "Enabled": true
   },
   "200508": {
     "OriginalText": "資材の指定数回収",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect the Materials",
+    "Enabled": true
   },
   "200509": {
     "OriginalText": "最深部のアグリオスを捕獲",
-    "Text": "",
-    "Enabled": false
+    "Text": "The Deepest Agrios",
+    "Enabled": true
   },
   "200510": {
     "OriginalText": "最深部のギュゲンテ撃破",
-    "Text": "",
-    "Enabled": false
+    "Text": "The Deepest Gygante",
+    "Enabled": true
   },
   "200511": {
     "OriginalText": "最深部のコラル・ドラゴン撃破",
-    "Text": "",
-    "Enabled": false
+    "Text": "The Deepest Coral Dragon",
+    "Enabled": true
   },
   "200512": {
     "OriginalText": "最深部のアルキュオネの捕獲",
-    "Text": "",
-    "Enabled": false
+    "Text": "Capture the Deepest Alcyone",
+    "Enabled": true
   },
   "200513": {
     "OriginalText": "グレイオスの撃破",
-    "Text": "",
-    "Enabled": false
+    "Text": "Greios Subjugation",
+    "Enabled": true
   },
   "200514": {
     "OriginalText": "最深部のテュルトアス撃破",
-    "Text": "",
-    "Enabled": false
+    "Text": "The Deepest Tulletoas",
+    "Enabled": true
   },
   "200515": {
     "OriginalText": "最深部のクリトロクィーン撃破",
-    "Text": "",
-    "Enabled": false
+    "Text": "The Deepest Critter Queen",
+    "Enabled": true
   },
   "200516": {
     "OriginalText": "記録伝置の指定数回収",
@@ -586,33 +586,33 @@
   },
   "200517": {
     "OriginalText": "最深部のナールレイバンサー撃破",
-    "Text": "",
-    "Enabled": false
+    "Text": "The Deepest Nalray Banther",
+    "Enabled": true
   },
   "200518": {
     "OriginalText": "最深部のモストカーネベア撃破",
-    "Text": "",
-    "Enabled": false
+    "Text": "The Deepest Mostcarnne Bear",
+    "Enabled": true
   },
   "200519": {
     "OriginalText": "最深部のレゾルカーネベア撃破",
-    "Text": "",
-    "Enabled": false
+    "Text": "The Deepest Resolcarnne Bear",
+    "Enabled": true
   },
   "200520": {
     "OriginalText": "ギュゲンテの撃破",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gygante Subjugation",
+    "Enabled": true
   },
   "200521": {
     "OriginalText": "新食材の指定数回収",
-    "Text": "",
-    "Enabled": false
+    "Text": "Recover the New Ingredients",
+    "Enabled": true
   },
   "200522": {
     "OriginalText": "研究素材の指定数回収",
-    "Text": "",
-    "Enabled": false
+    "Text": "Recover the Research Material",
+    "Enabled": true
   },
   "200523": {
     "OriginalText": "■クリア目標予備枠■",
@@ -1581,7 +1581,7 @@
   },
   "201570": {
     "OriginalText": "超：大尖塔資材回収任務",
-    "Text": "",
+    "Text": "Ultra: Large Spire Materials Recovery",
     "Enabled": false
   },
   "201571": {
