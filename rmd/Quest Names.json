@@ -412,7 +412,7 @@
   "200334": {
     "OriginalText": "難：大尖塔資材回収任務",
     "Text": "Danger: Large Spire Materials Recovery",
-    "Enabled": false
+    "Enabled": true
   },
   "200335": {
     "OriginalText": "難：鉱脈発見任務",
@@ -1582,7 +1582,7 @@
   "201570": {
     "OriginalText": "超：大尖塔資材回収任務",
     "Text": "Ultra: Large Spire Materials Recovery",
-    "Enabled": false
+    "Enabled": true
   },
   "201571": {
     "OriginalText": "超：逆襲の原生種",
