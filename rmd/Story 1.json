@@ -516,12 +516,12 @@
   },
   "101010010020001": {
     "OriginalText": "デルタ・ヴァリアントが墜落したのよ",
-    "Text": "The ship just crash-landed",
+    "Text": "The ship just crash-landed.",
     "Enabled": true
   },
   "101010010021001": {
     "OriginalText": "その時あんたはあたしをかばって、頭ぶつけたわけ",
-    "Text": "You must've hit your head then",
+    "Text": "When we crashed, you protected me./nYou must've hit your head then.",
     "Enabled": true
   },
   "101010010022001": {
@@ -586,7 +586,7 @@
   },
   "101010020060004": {
     "OriginalText": "惑星探査隊は観光じゃないんだぞ。\n事故も戦死も覚悟の上さ。\nもっとも、戦う前に死ぬのはやりきれないがな。",
-    "Text": "This isn't a sighseeing trip, they were prepared to die.\nThough, dying before even seeing battle...",
+    "Text": "This isn't a sightseeing trip, they were prepared to die.\nThough, dying before even seeing battle...",
     "Enabled": true
   },
   "101010020070004": {
@@ -611,7 +611,7 @@
   },
   "101010020110004": {
     "OriginalText": "マグナス艦長は先遣隊を率いて\n周辺地域の調査に出ている。\nこの[ruby ほし]惑星[/ruby]に文明はないと聞いているが……。",
-    "Text": "Captain Magnus left with a survey team earlier.\nThough I've heard there are no civilizations in the planet...",
+    "Text": "Captain Magnus left with a survey team earlier.\nThough I've heard there are no civilizations on the planet...",
     "Enabled": true
   },
   "101010020120051": {
