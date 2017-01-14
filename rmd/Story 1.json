@@ -511,108 +511,108 @@
   },
   "101010010011001": {
     "OriginalText": "いきなり起きないでよ！！ びっくりするじゃない！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Don't get up so suddenly!\nYou startled me!",
+    "Enabled": true
   },
   "101010010020001": {
     "OriginalText": "デルタ・ヴァリアントが墜落したのよ",
-    "Text": "",
-    "Enabled": false
+    "Text": "The ship just crash-landed",
+    "Enabled": true
   },
   "101010010021001": {
     "OriginalText": "その時あんたはあたしをかばって、頭ぶつけたわけ",
-    "Text": "",
-    "Enabled": false
+    "Text": "You must've hit your head then",
+    "Enabled": true
   },
   "101010010022001": {
     "OriginalText": "覚えてる？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Do you remember?",
+    "Enabled": true
   },
   "101010010030001": {
     "OriginalText": "お陰であたしは無事だけど……",
-    "Text": "",
-    "Enabled": false
+    "Text": "It's thanks to you I'm safe",
+    "Enabled": true
   },
   "101010010031001": {
     "OriginalText": "ありがと",
-    "Text": "",
-    "Enabled": false
+    "Text": "Thank you",
+    "Enabled": true
   },
   "101010010040004": {
     "OriginalText": "災難だったな、新人！",
-    "Text": "",
-    "Enabled": false
+    "Text": "What a mess. Hey, rookie!",
+    "Enabled": true
   },
   "101010010050001": {
     "OriginalText": "フィルディア隊長！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Captain Fildia!",
+    "Enabled": true
   },
   "101010010060004": {
     "OriginalText": "見ろ、この装備！ まったくひでえ着陸しやがって！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Look at this!\nWhat a horrible crash it was!",
+    "Enabled": true
   },
   "101010010070004": {
     "OriginalText": "もっとも、あの[ruby ふね]艦[/ruby]の状態じゃ、生きてるだけマシってとこだがな",
-    "Text": "",
-    "Enabled": false
+    "Text": "What's more, with the ship in this state\nit'd be a miracle to even survive",
+    "Enabled": true
   },
   "101010020010001": {
     "OriginalText": "墜落後の状況はどんな感じですか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "What's the situation after the crash?",
+    "Enabled": true
   },
   "101010020020004": {
     "OriginalText": "最悪の一歩手前って所だな。死傷者も出ているが\nコールドスリープ中だった１７５０名は\n全員無事、艦長似下ブリッジクルーも健在だ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "It's disastrous. We've had some causalties,/nbut 1750 of the people in cold sleep are safe./nThe captain and the bridge crew are also safe",
+    "Enabled": true
   },
   "101010020030004": {
     "OriginalText": "最悪の一歩手前って所だな。死傷者も出ているが\nコールドスリープ中だった８７５名は全員無事、\n艦長似下ブリッジクルーも健在だ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "It's disastrous. We've had some causalties,/nbut 875 of the people in cold sleep are safe./nThe captain and the bridge crew are also safe",
+    "Enabled": true
   },
   "101010020040004": {
     "OriginalText": "最悪の一歩手前って所だな。死傷者も出ているが\nコールドスリープ中だった４３７名は全員無事、\n艦長似下ブリッジクルーも健在だ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "It's disastrous. We've had some causalties,/nbut 437 of the people in cold sleep are safe./nThe captain and the bridge crew are also safe",
+    "Enabled": true
   },
   "101010020050001": {
     "OriginalText": "亡くなった方もいるんですか……。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Some people died...",
+    "Enabled": true
   },
   "101010020060004": {
     "OriginalText": "惑星探査隊は観光じゃないんだぞ。\n事故も戦死も覚悟の上さ。\nもっとも、戦う前に死ぬのはやりきれないがな。",
-    "Text": "",
-    "Enabled": false
+    "Text": "This isn't a sighseeing trip, they were prepared to die.\nThough, dying before even seeing battle...",
+    "Enabled": true
   },
   "101010020070004": {
     "OriginalText": "問題は[ruby ふね]艦[/ruby]の方だ。\nフォトンドライブが完全に死んで、\nまったく動かないらしい。",
-    "Text": "",
-    "Enabled": false
+    "Text": "As for the ship, the Photon Drive is completely dead.\nIt can't move at all.",
+    "Enabled": true
   },
   "101010020080001": {
     "OriginalText": "直るんですか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Can it be fixed?",
+    "Enabled": true
   },
   "101010020090004": {
     "OriginalText": "オレは戦闘部隊の隊長だ。わからん。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I'm the Captain of the Combat Unit. I have no idea.",
+    "Enabled": true
   },
   "101010020100004": {
     "OriginalText": "[ruby ふね]艦[/ruby]の設備が全部機能しないケースも考えて、\nこうして[ruby せんがい]艦外[/ruby]に野営地を作るってことは、\nかなりまずいんだろうな。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Then there's the fact that the ship's facilities aren't operational.\nWe will have to set up camp outside the ship.",
+    "Enabled": true
   },
   "101010020110004": {
     "OriginalText": "マグナス艦長は先遣隊を率いて\n周辺地域の調査に出ている。\nこの[ruby ほし]惑星[/ruby]に文明はないと聞いているが……。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Captain Magnus left with a survey team earlier.\nThough I've heard there are no civilizations in the planet...",
+    "Enabled": true
   },
   "101010020120051": {
     "OriginalText": "フィルディア隊長！ 緊急事態です！",
