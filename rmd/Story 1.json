@@ -626,7 +626,7 @@
   },
   "101010020140051": {
     "OriginalText": "先遣隊がダーカーと接触、\n交戦を開始したのですが、\nフォトンが！ フォトンが使えません！",
-    "Text": "The survey team has encountered a group of Darkers!\nAfight broke out but...\nThey- they can't use Photon!",
+    "Text": "The survey team has encountered a group of Darkers!\nA fight broke out but...\nThey- they can't use Photons!",
     "Enabled": true
   },
   "101010020150004": {
@@ -636,7 +636,7 @@
   },
   "101010020160051": {
     "OriginalText": "武器もフォトンアーツも使えないんです！\nマグナス艦長を中心に防衛線を展開し、\n撤退を開始していますが、長くは保ちません！",
-    "Text": "Their weapons are no good too!/nThey're holding a defensive line around the Captain and attempting retreat,\n but they won't last long like this!",
+    "Text": "Their weapons are no good too!\nThey're holding a defensive line around the Captain and attempting retreat,\nbut they won't last long like this!",
     "Enabled": true
   },
   "101010020170051": {
@@ -651,7 +651,7 @@
   },
   "101010020190004": {
     "OriginalText": "おい！ 近くにいる戦闘員で\n戦える者はオレに続け！\n先遣隊の救援に行くぞ！",
-    "Text": "Hey! Anyone around that can still fight, follow me!\n We're going to save the survey team!",
+    "Text": "Hey! Anyone around that can still fight, follow me!\nWe're going to save the survey team!",
     "Enabled": true
   },
   "101010020200052": {
@@ -691,7 +691,7 @@
   },
   "101010020270001": {
     "OriginalText": "すごい……ケガ人もいるのに、\nみんなやる気だ！！\nあたし達も行こう！！",
-    "Text": "Amazing, even though they're hurt...\nEveryone's really feeling it!!/nHey, We should go too!!",
+    "Text": "Amazing, even though they're hurt...\nEveryone's really feeling it!!\nHey, We should go too!!",
     "Enabled": true
   },
   "101010030010001": {
@@ -706,7 +706,7 @@
   },
   "101010030012001": {
     "OriginalText": "本当だったんだ……",
-    "Text": "We can't use Photon.",
+    "Text": "We can't use Photons.",
     "Enabled": true
   },
   "101010030020001": {
@@ -836,7 +836,7 @@
   },
   "101010040050014": {
     "OriginalText": "この[ruby ほし]惑星[/ruby]ではフォトンが使えん！ 戦うのは無理だ……！",
-    "Text": "We can't use Photon in this planet! Fighting is impossible...",
+    "Text": "We can't use Photons in this planet! Fighting is impossible...",
     "Enabled": true
   },
   "101010040060001": {
@@ -876,7 +876,7 @@
   },
   "101010050031014": {
     "OriginalText": "いいか、デルタ・ヴァリアントの全権をお前に託す",
-    "Text": "Good. I grant you full authority over Delta Variant.",
+    "Text": "Good. I grant you full authority over Delta Valiant.",
     "Enabled": true
   },
   "101010050040004": {
@@ -916,7 +916,7 @@
   },
   "101010050090014": {
     "OriginalText": "仲間を生きて帰してやってくれ、頼んだぞ……！",
-    "Text": "Lead you comrades, and take them back home!",
+    "Text": "Lead your comrades, and take them back home!",
     "Enabled": true
   },
   "101010050100004": {
@@ -936,7 +936,7 @@
   },
   "101010060010004": {
     "OriginalText": "デルタ・ヴァリアント艦長、\nフィルディアより、全乗組員に告ぐ！",
-    "Text": "To all crew members, this is the Captain of Delta Variant, Fildia!",
+    "Text": "To all crew members, this is the Captain of Delta Valiant, Fildia!",
     "Enabled": true
   },
   "101010070010004": {
@@ -946,7 +946,7 @@
   },
   "101010070015004": {
     "OriginalText": "諸君も知っての通り、\nこの[ruby ほし]惑星[/ruby]ではフォトンが使えない",
-    "Text": "As many of you have heard, we can't use Photon in this planet.",
+    "Text": "As many of you have heard,\nwe can't use Photons in this planet.",
     "Enabled": true
   },
   "101010070020004": {
@@ -971,7 +971,7 @@
   },
   "101010070045004": {
     "OriginalText": "いいかお前ら！ 生き残るぞ！",
-    "Text": "Listen up! We're gonna make outta here!",
+    "Text": "Listen up! We're gonna make it outta here!",
     "Enabled": true
   },
   "101010070050004": {
