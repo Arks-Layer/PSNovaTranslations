@@ -521,7 +521,7 @@
   },
   "101010010021001": {
     "OriginalText": "その時あんたはあたしをかばって、頭ぶつけたわけ",
-    "Text": "When we crashed, you protected me./nYou must've hit your head then.",
+    "Text": "When we crashed, you protected me.\nYou must've hit your head then.",
     "Enabled": true
   },
   "101010010022001": {
@@ -531,7 +531,7 @@
   },
   "101010010030001": {
     "OriginalText": "お陰であたしは無事だけど……",
-    "Text": "It's thanks to you I'm safe",
+    "Text": "It's thanks to you I'm safe....",
     "Enabled": true
   },
   "101010010031001": {
@@ -551,12 +551,12 @@
   },
   "101010010060004": {
     "OriginalText": "見ろ、この装備！ まったくひでえ着陸しやがって！",
-    "Text": "Look at this!\nWhat a horrible crash it was!",
+    "Text": "Look at this! What a horrible crash it was!",
     "Enabled": true
   },
   "101010010070004": {
     "OriginalText": "もっとも、あの[ruby ふね]艦[/ruby]の状態じゃ、生きてるだけマシってとこだがな",
-    "Text": "What's more, with the ship in this state\nit'd be a miracle to even survive",
+    "Text": "What's more, with the\nship in this state\nit'd be a miracle to even survive.",
     "Enabled": true
   },
   "101010020010001": {
@@ -566,17 +566,17 @@
   },
   "101010020020004": {
     "OriginalText": "最悪の一歩手前って所だな。死傷者も出ているが\nコールドスリープ中だった１７５０名は\n全員無事、艦長似下ブリッジクルーも健在だ。",
-    "Text": "It's disastrous. We've had some causalties,\nbut 1750 of the people in cold sleep are safe.\nThe captain and the bridge crew are also safe.",
+    "Text": "It's disastrous. We've had some casualties,\nbut 1750 of the people in cold sleep are safe.\nThe captain and bridge crew are also safe.",
     "Enabled": true
   },
   "101010020030004": {
     "OriginalText": "最悪の一歩手前って所だな。死傷者も出ているが\nコールドスリープ中だった８７５名は全員無事、\n艦長似下ブリッジクルーも健在だ。",
-    "Text": "It's disastrous. We've had some causalties,\nbut 875 of the people in cold sleep are safe.\nThe captain and the bridge crew are also safe.",
+    "Text": "It's disastrous. We've had some casualties,\nbut 875 of the people in cold sleep are safe.\nThe captain and bridge crew are also safe.",
     "Enabled": true
   },
   "101010020040004": {
     "OriginalText": "最悪の一歩手前って所だな。死傷者も出ているが\nコールドスリープ中だった４３７名は全員無事、\n艦長似下ブリッジクルーも健在だ。",
-    "Text": "It's disastrous. We've had some causalties,\nbut 437 of the people in cold sleep are safe.\nThe captain and the bridge crew are also safe.",
+    "Text": "It's disastrous. We've had some casualties,\nbut 437 of the people in cold sleep are safe.\nThe captain and bridge crew are also safe.",
     "Enabled": true
   },
   "101010020050001": {
@@ -636,7 +636,7 @@
   },
   "101010020160051": {
     "OriginalText": "武器もフォトンアーツも使えないんです！\nマグナス艦長を中心に防衛線を展開し、\n撤退を開始していますが、長くは保ちません！",
-    "Text": "Their weapons are no good too!\nThey're holding a defensive line around the Captain,\nattempting retreat, but they won't last long like this!",
+    "Text": "Their weapons are no good too!\nThey're holding around the Captain, attempting retreat,\nbut they won't last long like this!",
     "Enabled": true
   },
   "101010020170051": {
@@ -756,7 +756,7 @@
   },
   "101010030081013": {
     "OriginalText": "あなたに『グラン』の力を授けます",
-    "Text": "I'll grant you the power of Gran",
+    "Text": "I'll grant you the power of Gran.",
     "Enabled": true
   },
   "101010030090001": {
@@ -781,17 +781,17 @@
   },
   "101010030120001": {
     "OriginalText": "よく分からないけど、この力で戦えっていうのね？",
-    "Text": "I don't really understand, but we can fight with this, right?",
+    "Text": "I don't understand, but we can fight with this, right?",
     "Enabled": true
   },
   "101010030130001": {
     "OriginalText": "そっか……ありがとう！",
-    "Text": "Alright! Thanks!",
+    "Text": "Alright...thanks!",
     "Enabled": true
   },
   "101010030131001": {
     "OriginalText": "このお礼は必ずするから！ ",
-    "Text": "I will definitely make this up to you!",
+    "Text": "We'll make this up to you!",
     "Enabled": true
   },
   "101010030132001": {
@@ -836,7 +836,7 @@
   },
   "101010040050014": {
     "OriginalText": "この[ruby ほし]惑星[/ruby]ではフォトンが使えん！ 戦うのは無理だ……！",
-    "Text": "We can't use Photons in this planet! Fighting is impossible...",
+    "Text": "We can't use Photons here! Fighting is impossible...",
     "Enabled": true
   },
   "101010040060001": {
