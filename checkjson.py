@@ -31,6 +31,12 @@ for files in json_files:
                        print ("%s:%s unclosed ]" % (files, rmid))
                        pprint.pprint(djson[rmid])
                        counterr += 1
+                    if ("Story" in files and "Summaries" not in files):
+                       for strs in djson[rmid]["Text"].split('\n'):
+                           if (len(strs) > 110):
+                               print ("%s:%s too long" % (files, rmid))
+                               #pprint.pprint(djson[rmid])
+                               counterr += 1
         except ValueError as e:
             print("%s: %s") % (files, e)
             invalid_json_files.append(files)
