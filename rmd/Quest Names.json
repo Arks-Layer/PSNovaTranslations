@@ -491,13 +491,13 @@
   },
   "200350": {
     "OriginalText": "全てを切り裂く双翼の刃",
-    "Text": "",
-    "Enabled": false
+    "Text": "Tearing the Bladed Wings",
+    "Enabled": true
   },
   "200351": {
     "OriginalText": "殲滅せし紅の砲火[高難度]",
-    "Text": "",
-    "Enabled": false
+    "Text": "Exterminating the Crimson Gunfire [High Difficulty]",
+    "Enabled": true
   },
   "200500": {
     "OriginalText": "先遣隊の救出",
@@ -581,8 +581,8 @@
   },
   "200516": {
     "OriginalText": "記録伝置の指定数回収",
-    "Text": "",
-    "Enabled": false
+    "Text": "Recall the Record Transfer Amount",
+    "Enabled": true
   },
   "200517": {
     "OriginalText": "最深部のナールレイバンサー撃破",
@@ -621,23 +621,23 @@
   },
   "200524": {
     "OriginalText": "デェフキュオネの撃破",
-    "Text": "",
-    "Enabled": false
+    "Text": "Defcyone Subjugation",
+    "Enabled": true
   },
   "200525": {
     "OriginalText": "アルテイオスの撃破",
-    "Text": "",
-    "Enabled": false
+    "Text": "Altios Subjugation",
+    "Enabled": true
   },
   "200526": {
     "OriginalText": "グラヴディオンの撃破",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gravdion Subjugation",
+    "Enabled": true
   },
   "200527": {
     "OriginalText": "リベルゲンテの撃破",
-    "Text": "",
-    "Enabled": false
+    "Text": "Libelgante Subjugation",
+    "Enabled": true
   },
   "200528": {
     "OriginalText": "■クリア目標予備枠■□□□□■□",
@@ -646,28 +646,28 @@
   },
   "200529": {
     "OriginalText": "グラン結晶の指定数回収",
-    "Text": "",
-    "Enabled": false
+    "Text": "Recover the Gran Crystals",
+    "Enabled": true
   },
   "200530": {
     "OriginalText": "最深部のディートアス撃破",
-    "Text": "",
-    "Enabled": false
+    "Text": "Defeat the Deepest Enemy",
+    "Enabled": true
   },
   "200531": {
     "OriginalText": "最深部のアグリオス撃破",
-    "Text": "",
-    "Enabled": false
+    "Text": "The Deepest Agrios",
+    "Enabled": true
   },
   "200532": {
     "OriginalText": "最深部のＧダーク・ラグネ撃破",
-    "Text": "",
-    "Enabled": false
+    "Text": "The Deepest G-Dark Ragne",
+    "Enabled": true
   },
   "200533": {
     "OriginalText": "クエストポイントを一定量ためる",
-    "Text": "",
-    "Enabled": false
+    "Text": "Obtain the Quest Points",
+    "Enabled": true
   },
   "200534": {
     "OriginalText": "最深部のギガンテス撃破",
@@ -676,13 +676,13 @@
   },
   "200535": {
     "OriginalText": "ガラティオンの撃破",
-    "Text": "",
-    "Enabled": false
+    "Text": "Garation Subjugation",
+    "Enabled": true
   },
   "200536": {
     "OriginalText": "アグリオスの撃破",
-    "Text": "",
-    "Enabled": false
+    "Text": "Agrios Subjugation",
+    "Enabled": true
   },
   "200537": {
     "OriginalText": "アルキュオネの撃破",
