@@ -301,8 +301,8 @@
   },
   "800060": {
     "OriginalText": "状態異常「インフェクション」\n一定時間ダメージを受け続ける。近くの仲間にも感染する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "The status effect \"Infection,\" will temporarily\ndamage you over time. It can also spread to to others.",
+    "Enabled": true
   },
   "800061": {
     "OriginalText": "状態異常「ブラインド」\n視覚を阻害され、視界が狭くなる。",
