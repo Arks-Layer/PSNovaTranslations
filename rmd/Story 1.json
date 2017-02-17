@@ -519,7 +519,7 @@
     "Text": "The ship just crash-landed.",
     "Enabled": true
   },
-"101010010021001": {
+  "101010010021001": {
     "OriginalText": "その時あんたはあたしをかばって、頭ぶつけたわけ",
     "Text": "You protected me.\nYou must've hit your head.",
     "Enabled": true
@@ -564,7 +564,7 @@
     "Text": "What's the situation after the crash?",
     "Enabled": true
   },
-"101010020020004": {
+  "101010020020004": {
     "OriginalText": "最悪の一歩手前って所だな。死傷者も出ているが\nコールドスリープ中だった１７５０名は\n全員無事、艦長似下ブリッジクルーも健在だ。",
     "Text": "It's disastrous. We've had some casualties,\nbut the 1750 in cold sleep are safe.\nThe captain and bridge crew are also safe.",
     "Enabled": true
