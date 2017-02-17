@@ -521,27 +521,27 @@
   },
   "101010010021001": {
     "OriginalText": "その時あんたはあたしをかばって、頭ぶつけたわけ",
-    "Text": "You protected me.\nYou must've hit your head.",
+    "Text": "When we crashed, you protected me.\nYou must've hit your head then.",
     "Enabled": true
   },
   "101010010022001": {
     "OriginalText": "覚えてる？",
-    "Text": "Remember?",
+    "Text": "Do you remember?",
     "Enabled": true
   },
   "101010010030001": {
     "OriginalText": "お陰であたしは無事だけど……",
-    "Text": "It's thanks to you I'm safe....",
+    "Text": "It's thanks to you I'm safe",
     "Enabled": true
   },
   "101010010031001": {
     "OriginalText": "ありがと",
-    "Text": "Thank you.",
+    "Text": "Thank you",
     "Enabled": true
   },
   "101010010040004": {
     "OriginalText": "災難だったな、新人！",
-    "Text": "What a mess.\nHey, rookie!",
+    "Text": "What a mess. Hey, rookie!",
     "Enabled": true
   },
   "101010010050001": {
@@ -551,12 +551,12 @@
   },
   "101010010060004": {
     "OriginalText": "見ろ、この装備！ まったくひでえ着陸しやがって！",
-    "Text": "Look at this!\nWhat a horrible crash!",
+    "Text": "Look at this!\nWhat a horrible crash it was!",
     "Enabled": true
   },
   "101010010070004": {
     "OriginalText": "もっとも、あの[ruby ふね]艦[/ruby]の状態じゃ、生きてるだけマシってとこだがな",
-    "Text": "With the ship in this state,\nit's a miracle we survived.",
+    "Text": "What's more, with the ship in this state\nit'd be a miracle to even survive",
     "Enabled": true
   },
   "101010020010001": {
@@ -566,17 +566,17 @@
   },
   "101010020020004": {
     "OriginalText": "最悪の一歩手前って所だな。死傷者も出ているが\nコールドスリープ中だった１７５０名は\n全員無事、艦長似下ブリッジクルーも健在だ。",
-    "Text": "It's disastrous. We've had some casualties,\nbut the 1750 in cold sleep are safe.\nThe captain and bridge crew are also safe.",
+    "Text": "Disastrous. We've had causalties, but\n1750 of the people in cold sleep are safe.\nThe captain and the bridge are also safe",
     "Enabled": true
   },
   "101010020030004": {
     "OriginalText": "最悪の一歩手前って所だな。死傷者も出ているが\nコールドスリープ中だった８７５名は全員無事、\n艦長似下ブリッジクルーも健在だ。",
-    "Text": "It's disastrous. We've had some casualties,\nbut the 875 in cold sleep are safe.\nThe captain and bridge crew are also safe.",
+    "Text": "Disastrous. We've had causalties, but\n875 of the people in cold sleep are safe.\nThe captain and the bridge are also safe",
     "Enabled": true
   },
   "101010020040004": {
     "OriginalText": "最悪の一歩手前って所だな。死傷者も出ているが\nコールドスリープ中だった４３７名は全員無事、\n艦長似下ブリッジクルーも健在だ。",
-    "Text": "It's disastrous. We've had some casualties,\nbut the 437 in cold sleep are safe.\nThe captain and bridge crew are also safe.",
+    "Text": "Disastrous. We've had causalties, but\n437 of the people in cold sleep are safe.\nThe captain and the bridge are also safe",
     "Enabled": true
   },
   "101010020050001": {
@@ -586,7 +586,7 @@
   },
   "101010020060004": {
     "OriginalText": "惑星探査隊は観光じゃないんだぞ。\n事故も戦死も覚悟の上さ。\nもっとも、戦う前に死ぬのはやりきれないがな。",
-    "Text": "This isn't a sightseeing trip,\nthey were prepared to die.\nThough, dying before even seeing battle...",
+    "Text": "This isn't a sightseeing trip, they were\nprepared to die on duty.\nThough, dying before even seeing battle...",
     "Enabled": true
   },
   "101010020070004": {
@@ -606,12 +606,12 @@
   },
   "101010020100004": {
     "OriginalText": "[ruby ふね]艦[/ruby]の設備が全部機能しないケースも考えて、\nこうして[ruby せんがい]艦外[/ruby]に野営地を作るってことは、\nかなりまずいんだろうな。",
-    "Text": "Then there's the fact that the\nship's facilities aren't operational.\nWe will have to set up camp outside the ship.",
+    "Text": "Then there's the fact that the ship's\nfacilities aren't operational.\nWe will have to set up camp outside.",
     "Enabled": true
   },
   "101010020110004": {
     "OriginalText": "マグナス艦長は先遣隊を率いて\n周辺地域の調査に出ている。\nこの[ruby ほし]惑星[/ruby]に文明はないと聞いているが……。",
-    "Text": "Captain Magnus left with a survey team earlier.\nThough I've heard there are no civilizations on the planet...",
+    "Text": "Captain Magnus left with a survey team\nearlier. Though I've heard there are no\ncivilizations on the planet...",
     "Enabled": true
   },
   "101010020120051": {
@@ -626,7 +626,7 @@
   },
   "101010020140051": {
     "OriginalText": "先遣隊がダーカーと接触、\n交戦を開始したのですが、\nフォトンが！ フォトンが使えません！",
-    "Text": "The survey team has encountered a group of Darkers!\nA fight broke out but...\nThey- they can't use Photons!",
+    "Text": "The survey team has encountered a group\nof Darkers! A fight broke out but...\nThey- they can't use Photons!",
     "Enabled": true
   },
   "101010020150004": {
@@ -636,12 +636,12 @@
   },
   "101010020160051": {
     "OriginalText": "武器もフォトンアーツも使えないんです！\nマグナス艦長を中心に防衛線を展開し、\n撤退を開始していますが、長くは保ちません！",
-    "Text": "Their weapons are no good too!\nThey're holding around the Captain, attempting retreat,\nbut they won't last long like this!",
+    "Text": "Their weapons are no good too!\nThey're holding a defensive formation\nand retreating, but they won't last long!",
     "Enabled": true
   },
   "101010020170051": {
     "OriginalText": "このままでは先遣隊は全滅します！",
-    "Text": "At this rate, the survey team will be annihilated!",
+    "Text": "At this rate,\nthe survey team will be annihilated!",
     "Enabled": true
   },
   "101010020180004": {
@@ -651,7 +651,7 @@
   },
   "101010020190004": {
     "OriginalText": "おい！ 近くにいる戦闘員で\n戦える者はオレに続け！\n先遣隊の救援に行くぞ！",
-    "Text": "Hey! Anyone around that can still fight, follow me!\nWe're going to save the survey team!",
+    "Text": "Hey! Anyone around that can still fight,\nfollow me!\nWe're going to save the survey team!",
     "Enabled": true
   },
   "101010020200052": {
@@ -731,7 +731,7 @@
   },
   "101010030050001": {
     "OriginalText": "先遣隊の人だ……",
-    "Text": "It's someone from the survey team",
+    "Text": "It's someone from the survey team.",
     "Enabled": true
   },
   "101010030051001": {
@@ -756,7 +756,7 @@
   },
   "101010030081013": {
     "OriginalText": "あなたに『グラン』の力を授けます",
-    "Text": "I'll grant you the power of Gran.",
+    "Text": "I'll grant you the power of Gran",
     "Enabled": true
   },
   "101010030090001": {
@@ -781,17 +781,17 @@
   },
   "101010030120001": {
     "OriginalText": "よく分からないけど、この力で戦えっていうのね？",
-    "Text": "I don't understand, but we can fight with this, right?",
+    "Text": "I don't really understand,\nbut we can fight with this, right?",
     "Enabled": true
   },
   "101010030130001": {
     "OriginalText": "そっか……ありがとう！",
-    "Text": "Alright...thanks!",
+    "Text": "Alright! Thanks!",
     "Enabled": true
   },
   "101010030131001": {
     "OriginalText": "このお礼は必ずするから！ ",
-    "Text": "We'll make this up to you!",
+    "Text": "I will definitely make this up to you!",
     "Enabled": true
   },
   "101010030132001": {
@@ -836,7 +836,7 @@
   },
   "101010040050014": {
     "OriginalText": "この[ruby ほし]惑星[/ruby]ではフォトンが使えん！ 戦うのは無理だ……！",
-    "Text": "We can't use Photons here! Fighting is impossible...",
+    "Text": "We can't use Photons in this planet!\nFighting is impossible...",
     "Enabled": true
   },
   "101010040060001": {
@@ -851,12 +851,12 @@
   },
   "101010040070004": {
     "OriginalText": "お前達！？ その武器はどうした！？",
-    "Text": "You guys!? But how is your weapon working?",
+    "Text": "You guys!?\nBut how are your weapons working?",
     "Enabled": true
   },
   "101010040080001": {
     "OriginalText": "話はあとです！ 早く！",
-    "Text": "I'll explain later! Go!",
+    "Text": "I'll explain later!\nGo!",
     "Enabled": true
   },
   "101010050010014": {
@@ -866,7 +866,7 @@
   },
   "101010050020004": {
     "OriginalText": "戻ってから聞きます",
-    "Text": "It can wait until you're back at the ship.",
+    "Text": "It can wait until you're back at the\nship.",
     "Enabled": true
   },
   "101010050030014": {
@@ -876,7 +876,7 @@
   },
   "101010050031014": {
     "OriginalText": "いいか、デルタ・ヴァリアントの全権をお前に託す",
-    "Text": "Good. I grant you full authority over Delta Valiant.",
+    "Text": "Good.\nI hereby grant you full authority over\nDelta Valiant.",
     "Enabled": true
   },
   "101010050040004": {
@@ -886,12 +886,12 @@
   },
   "101010050050014": {
     "OriginalText": "この絶望的状況で後を任せられるのは",
-    "Text": "It's the last thing I can do in this despairful situation.",
+    "Text": "It's the last thing I can do in this\ndespairful situation.",
     "Enabled": true
   },
   "101010050051014": {
     "OriginalText": "『[ruby ぎょうこう]暁紅[/ruby]のフィルディア』と呼ばれた英雄のお前しかいない",
-    "Text": "I leave it to the hero Fildia, the Crimson Dawn of ARKS.",
+    "Text": "I leave it to the hero Fildia,\nthe Crimson Dawn of ARKS.",
     "Enabled": true
   },
   "101010050060004": {
@@ -906,7 +906,7 @@
   },
   "101010050071014": {
     "OriginalText": "能力ではない、分かるな？",
-    "Text": "What you need is hope. Understand?",
+    "Text": "What you need is hope.\nUnderstand?",
     "Enabled": true
   },
   "101010050080004": {
@@ -916,12 +916,12 @@
   },
   "101010050090014": {
     "OriginalText": "仲間を生きて帰してやってくれ、頼んだぞ……！",
-    "Text": "Lead your comrades, and take them back home!",
+    "Text": "Lead your comrades,\nand take them back home!",
     "Enabled": true
   },
   "101010050100004": {
     "OriginalText": "……はい、ご心配なく、我が[ruby しんめい]身命[/ruby]に代えても守ってみせましょう",
-    "Text": "... Don't worry, I'll get them home, no matter what.",
+    "Text": "... Don't worry, I'll get them home,\nno matter what.",
     "Enabled": true
   },
   "101010050110014": {
@@ -936,7 +936,7 @@
   },
   "101010060010004": {
     "OriginalText": "デルタ・ヴァリアント艦長、\nフィルディアより、全乗組員に告ぐ！",
-    "Text": "To all crew members, this is the Captain of Delta Valiant, Fildia!",
+    "Text": "To all crew members,\nthis is the Captain of Delta Valiant, Fildia!",
     "Enabled": true
   },
   "101010070010004": {
@@ -946,32 +946,32 @@
   },
   "101010070015004": {
     "OriginalText": "諸君も知っての通り、\nこの[ruby ほし]惑星[/ruby]ではフォトンが使えない",
-    "Text": "As many of you have heard,\nwe can't use Photons in this planet.",
+    "Text": "As many of you have heard,\nwe can't use Photons on this planet.",
     "Enabled": true
   },
   "101010070020004": {
     "OriginalText": "それがどれだけ危機的状況であるか、\n理解していると思う",
-    "Text": "I think you all understand why this is a crisis.",
+    "Text": "I think you all understand why this is a\ncrisis.",
     "Enabled": true
   },
   "101010070030004": {
     "OriginalText": "このままでは遠からず部隊は窮乏し、\n全滅するだろう",
-    "Text": "As it stands, the little troops we have will be annihilated.",
+    "Text": "As it stands,\nthe little troops we have will be\nannihilated.",
     "Enabled": true
   },
   "101010070035004": {
     "OriginalText": "それを回避するため、\n私は……あー、えーと……",
-    "Text": "To prevent that, I will- uh, uhm....",
+    "Text": "To prevent that,\nI will- uh, uhm....",
     "Enabled": true
   },
   "101010070040004": {
     "OriginalText": "だめだ！ いつも通りでやる！",
-    "Text": "Ah screw it! I'll just talk like always!",
+    "Text": "Ah screw it!\nI'll just talk like always!",
     "Enabled": true
   },
   "101010070045004": {
     "OriginalText": "いいかお前ら！ 生き残るぞ！",
-    "Text": "Listen up! We're gonna make it outta here!",
+    "Text": "Listen up!\nWe're gonna make it outta here!",
     "Enabled": true
   },
   "101010070050004": {
@@ -986,17 +986,17 @@
   },
   "101010070055004": {
     "OriginalText": "オレも本気でがラでもねえ艦長をやってやる！",
-    "Text": "Me too of course! I'll get serious with this Captain thing!",
+    "Text": "Me too of course!\nI'll get serious with this Captain thing!",
     "Enabled": true
   },
   "101010070060004": {
     "OriginalText": "この[ruby ふね]艦[/ruby]で絶対に帰るからな！",
-    "Text": "No matter what, we will definitely return!",
+    "Text": "No matter what,\nwe will definitely return!",
     "Enabled": true
   },
   "101010070065004": {
     "OriginalText": "諦めんじゃねえぞ！ オレとお前らの約束だ！",
-    "Text": "No giving up! You guys better not!",
+    "Text": "No giving up!\nYou guys better not!",
     "Enabled": true
   },
   "101010070070004": {
@@ -1006,553 +1006,553 @@
   },
   "101010080005008": {
     "OriginalText": "こうして活動人員を減らすことで",
-    "Text": "",
-    "Enabled": false
+    "Text": "With this,\nwe reduce the number of active members.",
+    "Enabled": true
   },
   "101010080006008": {
     "OriginalText": "残り少ないエネルギーでもしばらくは持つと思います",
-    "Text": "",
-    "Enabled": false
+    "Text": "We still have a little energy.\nIt should last us a while longer.",
+    "Enabled": true
   },
   "101010080010004": {
     "OriginalText": "あとは任せる",
-    "Text": "",
-    "Enabled": false
+    "Text": "I'll leave the rest to you.",
+    "Enabled": true
   },
   "101010080015004": {
     "OriginalText": "はぁ……",
-    "Text": "",
-    "Enabled": false
+    "Text": "Huh...",
+    "Enabled": true
   },
   "101020020010004": {
     "OriginalText": "呼ばれた理由は分かっているな？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Do you know why I called you guys over?",
+    "Enabled": true
   },
   "101020020015000": {
     "OriginalText": "もちろんです",
-    "Text": "",
-    "Enabled": false
+    "Text": "Of course.",
+    "Enabled": true
   },
   "101020020020004": {
     "OriginalText": "ならいい。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Then it's fine.",
+    "Enabled": true
   },
   "101020020025000": {
     "OriginalText": "悪いことはしていません",
-    "Text": "",
-    "Enabled": false
+    "Text": "It wasn't me.",
+    "Enabled": true
   },
   "101020020030004": {
     "OriginalText": "何をやったんだ、お前……。\nまあいい、そんな用件じゃねえよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "What did you do...?\nNevermind that,\nthat's not the reason I called you.",
+    "Enabled": true
   },
   "101020020040004": {
     "OriginalText": "お前達だけが武器とフォトンアーツを\nまともに使えた。なぜだ？",
-    "Text": "",
-    "Enabled": false
+    "Text": "You guys are the only ones able to use Photons.\nWhy is that?",
+    "Enabled": true
   },
   "101020020050001": {
     "OriginalText": "フォトンじゃないと思います。\n『グラン』、て言ってました。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I don't think it's Photons.\nI think she called it Gran.",
+    "Enabled": true
   },
   "101020020060004": {
     "OriginalText": "誰がだ？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Who did?",
+    "Enabled": true
   },
   "101020020070001": {
     "OriginalText": "それが、よく分からないんですけど、\nこの宝石から立体映像が出て、\nユノっていう女の子が……。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I don't really get it, but a hologram\nof a girl came out of this.\nShe said her name was Juno.",
+    "Enabled": true
   },
   "101020020080004": {
     "OriginalText": "その女の子とやらは今出てくるのか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Can she come out now?",
+    "Enabled": true
   },
   "101020020090001": {
     "OriginalText": "いえ、それっきり何の反応もなくて。",
-    "Text": "",
-    "Enabled": false
+    "Text": "No, it's not responding for some reason.",
+    "Enabled": true
   },
   "101020020100005": {
     "OriginalText": "その宝石、調べさせて下さい。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I would like to have a look at it.\n If possible.",
+    "Enabled": true
   },
   "101020020110001": {
     "OriginalText": "分かりました。どうぞ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Understood. Please do.",
+    "Enabled": true
   },
   "101020020120004": {
     "OriginalText": "宝石はレイヴァンに任せる。\nそんなことより\nお前達にはすぐやってもらいたいことがある。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I'll leave that to Raven.\nThat aside,\nI have something I need you guys to do.",
+    "Enabled": true
   },
   "101020020130004": {
     "OriginalText": "先の戦闘で[ruby ふね]艦[/ruby]に戻ってこなかった\n先遣隊員が何人もいる。\nお前達ふたりに探しに行ってもらいたい。",
-    "Text": "",
-    "Enabled": false
+    "Text": "There's a number of people from the\nsurvey team that are still missing.\nI'd like for the two of you to find them.",
+    "Enabled": true
   },
   "101020020140001": {
     "OriginalText": "えっ？ ふたりでですか！？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Huh? Just the two of us?",
+    "Enabled": true
   },
   "101020020150004": {
     "OriginalText": "他に戦える奴がいないんだ。やってくれ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Nobody else can fight.\nThere's no choice.",
+    "Enabled": true
   },
   "101020020160005": {
     "OriginalText": "これは私からもぜひお願いしたいですね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I have a request as well.",
+    "Enabled": true
   },
   "101020020170001": {
     "OriginalText": "レイヴァン副長も？",
-    "Text": "",
-    "Enabled": false
+    "Text": "You too, Deputy Raven?",
+    "Enabled": true
   },
   "101020020180005": {
     "OriginalText": "確か『グラン』、と言いましたね？\nそれは我々が生き残るための鍵となるでしょう。",
-    "Text": "",
-    "Enabled": false
+    "Text": "This Gran you speak of might just be\nthe key to our survival.",
+    "Enabled": true
   },
   "101020020190005": {
     "OriginalText": "君達の探索行動を観測して、\n『グラン』というものを分祈すれば、\n他の者も使う方法が見つかるかもしれません。",
-    "Text": "",
-    "Enabled": false
+    "Text": "If we can observe and analyze how you\nuse Gran during the mission, we might be\nable learn how to harness it.",
+    "Enabled": true
   },
   "101020020200001": {
     "OriginalText": "そうなんですか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Really?",
+    "Enabled": true
   },
   "101020020210005": {
     "OriginalText": "本来フォトンをエネルギーとする我々の武器や、\nフォイエやレスタが『グラン』で使えたのです。\nその可能性は冷めて高いでしょう。",
-    "Text": "",
-    "Enabled": false
+    "Text": "There is a possibility that we can use\nGran for our weapons and Techniques,\njust like we use Photons.",
+    "Enabled": true
   },
   "101020020220001": {
     "OriginalText": "なるほど！ そうだったら希望が見えますね！",
-    "Text": "",
-    "Enabled": false
+    "Text": "I get it!\nIf we can do that,\nI can definitely see hope!",
+    "Enabled": true
   },
   "101020020230004": {
     "OriginalText": "どこかで救助を待っている仲間がきっといる。\n頼むぞ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I'm sure our comrades are there somewhere,\nwaiting for you guys to save them.\nGood luck.",
+    "Enabled": true
   },
   "101020020240001": {
     "OriginalText": "はい！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Roger!",
+    "Enabled": true
   },
   "101020025010001": {
     "OriginalText": "あのさ、さっきは勢いでやります！\nなんて言っちゃったけど、本当は……恐いな。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Y'know, just now I was all like,\n\"Yeah let's do it\",\nbut truth is, I'm scared. ",
+    "Enabled": true
   },
   "101020025020001": {
     "OriginalText": "あんたは？ 平気？",
-    "Text": "",
-    "Enabled": false
+    "Text": "What about you? Are you scared?",
+    "Enabled": true
   },
   "101020025025000": {
     "OriginalText": "平気",
-    "Text": "",
-    "Enabled": false
+    "Text": "Not really.",
+    "Enabled": true
   },
   "101020025030001": {
     "OriginalText": "ふぅん。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Huuh...",
+    "Enabled": true
   },
   "101020025035000": {
     "OriginalText": "何が？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Scared of what again?",
+    "Enabled": true
   },
   "101020025040001": {
     "OriginalText": "人の話を聞けっ！！ \nまったく、聞くだけ無駄だったよ！ もう！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Were you even listening!? Ugh, why am I even asking!",
+    "Enabled": true
   },
   "101020025050001": {
     "OriginalText": "そうなんだ……うん！ やるしかないもんね！",
-    "Text": "",
-    "Enabled": false
+    "Text": "You're right! We're the only ones that can do this after all!",
+    "Enabled": true
   },
   "101020025051001": {
     "OriginalText": "まぁ、でも、やるしかないもんね！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Yeah. It's hard, but we have to do it!",
+    "Enabled": true
   },
   "101020025060001": {
     "OriginalText": "頼りにしてるよ！ [ruby]相棒[/ruby]！",
-    "Text": "",
-    "Enabled": false
+    "Text": "I'm counting on you, buddy!",
+    "Enabled": true
   },
   "101020030010000": {
     "OriginalText": "ここには『クエストチュートリアル』が入る予定です。",
-    "Text": "",
-    "Enabled": false
+    "Text": "From now on, you will enter the \"Quest Tutorial\".",
+    "Enabled": true
   },
   "101020040005001": {
     "OriginalText": "うおおお！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Haah!",
+    "Enabled": true
   },
   "101020040010001": {
     "OriginalText": "奥から声が！ 何かいるよ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Did you hear that? There's something there!",
+    "Enabled": true
   },
   "101020040020002": {
     "OriginalText": "うおおっ！ まだだ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Hyaah! I ain't going down!",
+    "Enabled": true
   },
   "101020040030002": {
     "OriginalText": "くそっ、フォトンが使えればお前なんかッ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Ugh, If only I could use Photons...",
+    "Enabled": true
   },
   "101020040040003": {
     "OriginalText": "あうぅっ……",
-    "Text": "",
-    "Enabled": false
+    "Text": "Uhh...",
+    "Enabled": true
   },
   "101020040050001": {
     "OriginalText": "あそこ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "There!",
+    "Enabled": true
   },
   "101020040060001": {
     "OriginalText": "はあぁぁっ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Hyaah!",
+    "Enabled": true
   },
   "101020040070001": {
     "OriginalText": "初爆！",
-    "Text": "",
-    "Enabled": false
+    "Text": "One hit!",
+    "Enabled": true
   },
   "101020040071001": {
     "OriginalText": "連爆！ ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Two hits!",
+    "Enabled": true
   },
   "101020040072001": {
     "OriginalText": "おまけっ！！",
-    "Text": "",
-    "Enabled": false
+    "Text": "One more!",
+    "Enabled": true
   },
   "101020040080002": {
     "OriginalText": "お前……何だ今のは！？",
-    "Text": "",
-    "Enabled": false
+    "Text": "What was that?",
+    "Enabled": true
   },
   "101020040081002": {
     "OriginalText": "フォトン？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Photons?",
+    "Enabled": true
   },
   "101020040082002": {
     "OriginalText": "下がって！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Stand back!",
+    "Enabled": true
   },
   "101020040085002": {
     "OriginalText": "いや、何なんだ！",
     "Text": "",
-    "Enabled": false
+    "Enabled": true
   },
   "101020040090001": {
     "OriginalText": "あれはあたし達がぶっ飛ばす！！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Leave it to us!",
+    "Enabled": true
   },
   "101020040100002": {
     "OriginalText": "やれるんだな？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Can you?",
+    "Enabled": true
   },
   "101020040110003": {
     "OriginalText": "はいぃっ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Roger!",
+    "Enabled": true
   },
   "101020040115002": {
     "OriginalText": "よし、退くぞイズナ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Okay, let's fall back, Izuna!",
+    "Enabled": true
   },
   "101020040120001": {
     "OriginalText": "さーて",
-    "Text": "",
-    "Enabled": false
+    "Text": "Alright then,",
+    "Enabled": true
   },
   "101020040121001": {
     "OriginalText": "名コンビって奴をお見せしますか！",
-    "Text": "",
-    "Enabled": false
+    "Text": "let's show them our combined strength!",
+    "Enabled": true
   },
   "101020040130001": {
     "OriginalText": "生存者、助けてみせるっ！！",
-    "Text": "",
-    "Enabled": false
+    "Text": "We will save them!",
+    "Enabled": true
   },
   "101020050010001": {
     "OriginalText": "よかった、無事……じゃないわね。\nあんたボロボロじゃない！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Whew, done.\n Great job holding on, you're pretty strong!",
+    "Enabled": true
   },
   "101020050020002": {
     "OriginalText": "どこが？ どう見たって無事だろ！ \nなあイズナ？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Not really, I couldn't even hurt them...",
+    "Enabled": true
   },
   "101020050030003": {
     "OriginalText": "わたしは……\nセイルさんが守ってくれましたから。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I'm only safe because of you, Sail.",
+    "Enabled": true
   },
   "101020050040002": {
     "OriginalText": "ほらみろ！ 無事じゃないか。\nオレ様は力押しだけのザコには\nやられないんだよ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Were you looking?\nNo matter how you look at it,\nI couldn't even handle small fry.",
+    "Enabled": true
   },
   "101020050050001": {
     "OriginalText": "あんた、セイルって……\nもしかして『[ruby ふとう]不倒[/ruby]のセイル』？\n訓練校の教練では一度も倒れなかったっていう。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Sail, was it?\nAs in Sail the Unyielding?\nThe guy that blazed through all of the training drills?",
+    "Enabled": true
   },
   "101020050060002": {
     "OriginalText": "何だお前、知ってるのか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "What? You know of me?",
+    "Enabled": true
   },
   "101020050070001": {
     "OriginalText": "知ってるも何も同期だってば！\nあたしとこの[ruby]相棒[/ruby]も同じ代だよ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Of course I know you!\nWe were from the same year as you.",
+    "Enabled": true
   },
   "101020050075000": {
     "OriginalText": "うん、知ってる",
-    "Text": "",
-    "Enabled": false
+    "Text": "Yeah, I know you.",
+    "Enabled": true
   },
   "101020050080001": {
     "OriginalText": "卒業式で挨拶もしてたもんね！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Yeah, he gave the graduation speech after all!",
+    "Enabled": true
   },
   "101020050085000": {
     "OriginalText": "知らないけど？",
-    "Text": "",
-    "Enabled": false
+    "Text": "I don't remember him, though.",
+    "Enabled": true
   },
   "101020050090001": {
     "OriginalText": "ウソだ！ 有名だったって！\n卒業式で挨拶もしてたじゃん！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Liar! He was super famous!\nHe even gave the graduation speech!",
+    "Enabled": true
   },
   "101020050100002": {
     "OriginalText": "イズナも同期なんだぜ。年はふたつ下だけどな。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Izuna was in school too,\nbut she was a year below us.",
+    "Enabled": true
   },
   "101020050110003": {
     "OriginalText": "お恥ずかしながら……はい。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Yes...That's right.",
+    "Enabled": true
   },
   "101020050120001": {
     "OriginalText": "飛び級生かぁ、優秀なんだね！\nあたし達のことは知ってる？",
-    "Text": "",
-    "Enabled": false
+    "Text": "So you skipped a grade?\nYou must be good!\nMaybe you remember your upperclassmen?",
+    "Enabled": true
   },
   "101020050130002": {
     "OriginalText": "知るわけないだろ。\n同期って何人いると思ってんだ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "There's no way she would, honestly.\nThere were way too many of us",
+    "Enabled": true
   },
   "101020050140001": {
     "OriginalText": "だよねー。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Yeah, you're right.",
+    "Enabled": true
   },
   "101020050150003": {
     "OriginalText": "助けてくれて、ありがとうごいました。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Thank you very much for saving us.",
+    "Enabled": true
   },
   "101020050160002": {
     "OriginalText": "ま、礼は言っておく。\nお前らが来なければ今頃オレ様が\nパーフェクトに仕留めてたがな！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Yeah, thanks for the help.\nThough even without it we would've been fine.",
+    "Enabled": true
   },
   "101020050170001": {
     "OriginalText": "その傷だらけの姿でよく言うね。\nモノメイトいくつ使ったのよ？",
-    "Text": "",
-    "Enabled": false
+    "Text": "You say that, but you're all beat up.\nJust how many Monomates did you use?",
+    "Enabled": true
   },
   "101020050180003": {
     "OriginalText": "わたしのも全部……。",
-    "Text": "",
-    "Enabled": false
+    "Text": "All of mine....",
+    "Enabled": true
   },
   "101020050190002": {
     "OriginalText": "おい！ 言うなよ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Hey! Don't tell her that!",
+    "Enabled": true
   },
   "101020050200001": {
     "OriginalText": "ふたり分使い切ってるじゃない……。",
-    "Text": "",
-    "Enabled": false
+    "Text": "So you used up everything you two had...",
+    "Enabled": true
   },
   "101020050210001": {
     "OriginalText": "ところで、他に生存者は？ 見かけてない？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Speaking of which,\nWhere's the rest of the advance team?",
+    "Enabled": true
   },
   "101020050220002": {
     "OriginalText": "『若造は引っ込んでろ』って、\nベテランはみんな無茶しやがってな……。",
-    "Text": "",
-    "Enabled": false
+    "Text": "\"You youngsters run away\",\nis what they said.\nThey refused to take no for an answer...",
+    "Enabled": true
   },
   "101020050230003": {
     "OriginalText": "何もできませんでした……。",
-    "Text": "",
-    "Enabled": false
+    "Text": "We couldn't do anything...",
+    "Enabled": true
   },
   "101020050240001": {
     "OriginalText": "そう……[ruby ふね]艦[/ruby]に戻ろう。\nフィルディア艦長に報告を。",
-    "Text": "",
-    "Enabled": false
+    "Text": "So that's what happened...\nLet's return to the ship.\nWe need to report to Captain Fildia.",
+    "Enabled": true
   },
   "101020050250002": {
     "OriginalText": "フィルディア艦長？\nマグナス艦長は！？ まさか！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Captain Fildia?\n What about Captain magnus\nYou don't mean he...?",
+    "Enabled": true
   },
   "101020050260001": {
     "OriginalText": "ええ……フィルディア隊長が後を継いだの。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Yes...\n Fildia is the new Captain.",
+    "Enabled": true
   },
   "101020050270003": {
     "OriginalText": "そんな！？ 艦長が……？",
-    "Text": "",
-    "Enabled": false
+    "Text": "The Captain is...?",
+    "Enabled": true
   },
   "101020050280002": {
     "OriginalText": "……そうか。すぐ戻ろう！\nそれと、帰ったらお前達の力のことを教えろ！\nいいな？",
-    "Text": "",
-    "Enabled": false
+    "Text": "...dead, huh. Let's head back now.\nWhen we get there,\nteach me to fight like you did just now.",
+    "Enabled": true
   },
   "101020060010004": {
     "OriginalText": "よくやってくれた。\nセイルとイズナは現在メディカルチェック中だ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Good job, you two.\nSail and Izuna are being tended to\nas we speak",
+    "Enabled": true
   },
   "101020060020001": {
     "OriginalText": "健康だと思いますよ。イズナは無傷でしたし、\nセイルは帰りの道中でずーっと\n『オレが艦長を支える』って語ってましたから。",
-    "Text": "",
-    "Enabled": false
+    "Text": "They're not heavily injured\n Izuna seemed to be uninjured too.\n Sail took the brunt of it.",
+    "Enabled": true
   },
   "101020060030004": {
     "OriginalText": "そいつは頼もしいな。経歴を見たが、\nお前達とセイル、イズナは同期なんだって？",
-    "Text": "",
-    "Enabled": false
+    "Text": "He's quite dependable, isn't he?\nI looked them up,\n you guys were in school together?",
+    "Enabled": true
   },
   "101020060040001": {
     "OriginalText": "科も違いますし、交流はなかったんですけどね。\nでもセイルは有名でした。\nすごいタフなのがいるって。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Yes. But we were in different departments,\nso it's not like we knew each other.\nSail was well known for being really tough.",
+    "Enabled": true
   },
   "101020060050004": {
     "OriginalText": "ただタフなんじゃないさ。\nしぶとく戦えるのもセンスだ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Not just tough.\nHe's got great battle sense as well.",
+    "Enabled": true
   },
   "101020060060001": {
     "OriginalText": "そうですね。体力だけなら\nあたしの方があるんじゃないかな？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Yeah. If it was strenght alone,\n even I have that.",
+    "Enabled": true
   },
   "101020060070004": {
     "OriginalText": "格闘技の真似事が趣味ってのは本当か？",
-    "Text": "",
-    "Enabled": false
+    "Text": "So that's really your hobby,huh.\nPracticing martial arts and stuff?",
+    "Enabled": true
   },
   "101020060080001": {
     "OriginalText": "はい！ マネだけでも\n結構な運動能力が必要なんですよ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Yes! It's mostly for fun,\nbut it's also great training!",
+    "Enabled": true
   },
   "101020060090001": {
     "OriginalText": "フォトンを扱う戦闘には\nあんまり役立たないんですけどね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Not that it matters,\bsince we have photons and all.",
+    "Enabled": true
   },
   "101020060100004": {
     "OriginalText": "そうでもないさ。\n現に今、フォトンが使えない状況だ。\nこうなると生身の体力は重要だぞ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "That's not necessarily true.\nSay, right now, we can't use Photons.\nYou never know when that training will be useful.",
+    "Enabled": true
   },
   "101020060110001": {
     "OriginalText": "えっ！？",
-    "Text": "",
-    "Enabled": false
+    "Text": "What!?",
+    "Enabled": true
   },
   "101020060120004": {
     "OriginalText": "何だ？",
-    "Text": "",
-    "Enabled": false
+    "Text": "What is it?",
+    "Enabled": true
   },
   "101020060130002": {
     "OriginalText": "フィルディア艦長！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Captain Fildia",
+    "Enabled": true
   },
   "101020060140004": {
     "OriginalText": "セイル？ 何があった？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Sail?\nWhat's up?",
+    "Enabled": true
   },
   "101020060150002": {
     "OriginalText": "これでオレも戦えますよ！ ぉおっ！！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Time to teach me that power!!",
+    "Enabled": true
   },
   "101020060160001": {
     "OriginalText": "セイル！？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Sail!?",
+    "Enabled": true
   },
   "101020060170005": {
     "OriginalText": "彼は心配ありません。\n疲労が溜まっている時に無理をしたので、\n予想似上に体に負担がかかっただけです。",
-    "Text": "",
-    "Enabled": false
+    "Text": "There is nothing to worry about.\nIt appears that he wasn't seriously hurt,\njust fatigued.",
+    "Enabled": true
   },
   "101020060180003": {
     "OriginalText": "休んでからにしましょうって言ったのに……。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I told him we should be resting...",
+    "Enabled": true
   },
   "101020060190004": {
     "OriginalText": "何をやったんだ？",
-    "Text": "",
-    "Enabled": false
+    "Text": "What are you doing?",
+    "Enabled": true
   },
   "101020060200005": {
     "OriginalText": "セイル君がグラン研究の実験台になると言って\nきかないので、やってもらいました。\n……ご覧の通りです。",
