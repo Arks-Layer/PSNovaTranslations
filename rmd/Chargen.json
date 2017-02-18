@@ -511,7 +511,7 @@
   },
   "500108": {
     "OriginalText": "キャラクターの名前を入力してください。\n倣字、半角カナ、一部記号は使えません。\n入力された場合、その文字は省かれます。",
-    "Text": "Please enter the name of your character.\nIf you enter an invalid symbol, it will be removed.",
+    "Text": "Please enter the name of your character.\nIf you enter an invalid symbol, it will\nbe removed.",
     "Enabled": true
   },
   "500109": {

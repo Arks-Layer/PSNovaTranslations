@@ -8,6 +8,11 @@ import sys
 
 counterr = 0
 invalid_json_files = []
+
+misplaced = [f for f in os.listdir('.') if re.match(r'.*\.json', f)]
+if misplaced:
+    sys.exit ("JSON files found in root folder, misplaced?")
+
 os.chdir(os.getcwd() + "/rmd")
 json_files = [f for f in os.listdir('.') if re.match(r'.*\.json', f)]
 for files in json_files:
