@@ -1486,7 +1486,7 @@
   },
   "101020060060001": {
     "OriginalText": "そうですね。体力だけなら\nあたしの方があるんじゃないかな？",
-    "Text": "Yeah. If it was strenght alone,\n even I have that.",
+    "Text": "Yeah. If it was strength alone,\n even I have that.",
     "Enabled": true
   },
   "101020060070004": {
@@ -1521,7 +1521,7 @@
   },
   "101020060130002": {
     "OriginalText": "フィルディア艦長！",
-    "Text": "Captain Fildia",
+    "Text": "Captain Fildia!",
     "Enabled": true
   },
   "101020060140004": {
@@ -1531,7 +1531,7 @@
   },
   "101020060150002": {
     "OriginalText": "これでオレも戦えますよ！ ぉおっ！！",
-    "Text": "Time to teach me that power!!",
+    "Text": "I can fight now!!\n Haaaah!",
     "Enabled": true
   },
   "101020060160001": {
@@ -1546,7 +1546,7 @@
   },
   "101020060180003": {
     "OriginalText": "休んでからにしましょうって言ったのに……。",
-    "Text": "I told him we should be resting...",
+    "Text": "I told him he should be resting...",
     "Enabled": true
   },
   "101020060190004": {
@@ -1556,53 +1556,53 @@
   },
   "101020060200005": {
     "OriginalText": "セイル君がグラン研究の実験台になると言って\nきかないので、やってもらいました。\n……ご覧の通りです。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Sail volunteered to be a guinea pig\nto better understand Gran.\nWithout being asked, he said he wanted to.",
+    "Enabled": true
   },
   "101020060210001": {
     "OriginalText": "あんなボコボコにされた後だってのに……。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Even after getting so beaten up...",
+    "Enabled": true
   },
   "101020060220005": {
     "OriginalText": "お陰で私とイズナ君は\nグランの習得に成功しました。\nおそらく……彼もね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Thanks to that,\nIzuna and myself can now use Gran.\nIt's possible he can, as well.",
+    "Enabled": true
   },
   "101020060230004": {
     "OriginalText": "本当か！！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Really?!",
+    "Enabled": true
   },
   "101020060240004": {
     "OriginalText": "よくやった！\nセイル、今夜デートしてやる！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Good Job!\nSail, We're going out tonight!",
+    "Enabled": true
   },
   "101020060250007": {
     "OriginalText": "無理無理。今夜はメディカルで絶対安静。\nリーティアが彼を独占よ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Not tonight he won't. If he's going\nout with anyone tonight, it'll be\bRietheia. He needs some serious rest",
+    "Enabled": true
   },
   "101020060260007": {
     "OriginalText": "それにフィルのデートはハードよ？\nデートという名のただの戦闘訓練だもの。",
-    "Text": "",
-    "Enabled": false
+    "Text": "And anyways, aren't your \"dates\"\njust hard training sessions?",
+    "Enabled": true
   },
   "101020060270004": {
     "OriginalText": "レイヴァン、次はオレだ！\nグランとやらを使わせろ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Raven, I'll be next! I wanna use Gran\ntoo!",
+    "Enabled": true
   },
   "101020060280001": {
     "OriginalText": "ちょっと艦長！？ 危ないじゃないですか！",
-    "Text": "",
-    "Enabled": false
+    "Text": "But Captain, isn't that dangerous?",
+    "Enabled":true
   },
   "101020060290004": {
     "OriginalText": "うるさい！ 起動してない剣なんかにびびるな！\nこいつさえ使えれば……希望が……！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Shut it! This isn't time to be afraid!\nAs long as I can use this, there's\nhope...",
+    "Enabled": true
   },
   "101030010010001": {
     "OriginalText": "惑星マキアでの第一日目が始まった。\nこれから、日記をつけていくことにします。",
