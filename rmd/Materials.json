@@ -891,8 +891,8 @@
   },
   "350178": {
     "OriginalText": "ラウーダンの大毛皮",
-    "Text": "",
-    "Enabled": false
+    "Text": "Ra Oodan Large Pelt",
+    "Enabled": true
   },
   "350179": {
     "OriginalText": "ロザードの爪",
@@ -901,23 +901,23 @@
   },
   "350180": {
     "OriginalText": "マフレザールの鋭朽爪",
-    "Text": "",
-    "Enabled": false
+    "Text": "Maphrezer Sharp Claw",
+    "Enabled": true
   },
   "350181": {
     "OriginalText": "ジュラキアの硬骨",
-    "Text": "",
-    "Enabled": false
+    "Text": "Jurrakia Bone",
+    "Enabled": true
   },
   "350182": {
     "OriginalText": "バンサーの牙片",
-    "Text": "",
-    "Enabled": false
+    "Text": "Arlay Fang",
+    "Enabled": true
   },
   "350183": {
     "OriginalText": "テッラマンデルの大髭",
-    "Text": "",
-    "Enabled": false
+    "Text": "Terra Mandel Large Whisker",
+    "Enabled": true
   },
   "350184": {
     "OriginalText": "Ｇミクダの甲羅",
@@ -926,13 +926,13 @@
   },
   "350185": {
     "OriginalText": "Ｇエル・アーダの羽根",
-    "Text": "",
-    "Enabled": false
+    "Text": "G-El Ahda Wings",
+    "Enabled": true
   },
   "350186": {
     "OriginalText": "アグリオスの角",
-    "Text": "",
-    "Enabled": false
+    "Text": "Agrios Horn",
+    "Enabled": true
   },
   "350187": {
     "OriginalText": "ラウーダンの骨",
@@ -941,8 +941,8 @@
   },
   "350188": {
     "OriginalText": "ロザードの完全な背びれ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Perfect Rozad Dorsal Fin​",
+    "Enabled": true
   },
   "350189": {
     "OriginalText": "マフレザールの皮枝",
@@ -951,8 +951,8 @@
   },
   "350190": {
     "OriginalText": "ジュラキアの尾羽",
-    "Text": "",
-    "Enabled": false
+    "Text": "Jurrakia Tail Feather​",
+    "Enabled": true
   },
   "350191": {
     "OriginalText": "バンサーの角片",
@@ -961,68 +961,68 @@
   },
   "350192": {
     "OriginalText": "テッラマンデルの頭骨",
-    "Text": "",
-    "Enabled": false
+    "Text": "Terra Mandel Skull",
+    "Enabled": true
   },
   "350193": {
     "OriginalText": "Ｇミクダの鋭角",
-    "Text": "",
-    "Enabled": false
+    "Text": "Sharp G-Micda Horn",
+    "Enabled": true
   },
   "350194": {
     "OriginalText": "Ｇエル・アーダの硬触角",
-    "Text": "",
-    "Enabled": false
+    "Text": "Hard G-El Ahda Feeler",
+    "Enabled": true
   },
   "350195": {
     "OriginalText": "アグリオスの鋭剣板",
-    "Text": "",
-    "Enabled": false
+    "Text": "Agrios Blade Platform",
+    "Enabled": true
   },
   "350196": {
     "OriginalText": "水晶竜族の鱗",
-    "Text": "",
-    "Enabled": false
+    "Text": "Crystallized Dragon Scale",
+    "Enabled": true
   },
   "350197": {
     "OriginalText": "爬虫類の小さな甲殻",
-    "Text": "",
-    "Enabled": false
+    "Text": "Small Reptilian Shell",
+    "Enabled": true
   },
   "350198": {
     "OriginalText": "トルリンプの鱗",
-    "Text": "",
-    "Enabled": false
+    "Text": "Torrimp Scale",
+    "Enabled": true
   },
   "350199": {
     "OriginalText": "原生種の牙",
-    "Text": "",
-    "Enabled": false
+    "Text": "Primal Fang",
+    "Enabled": true
   },
   "350200": {
     "OriginalText": "原生種の爪",
-    "Text": "",
-    "Enabled": false
+    "Text": "Primal Claw",
+    "Enabled": true
   },
   "350201": {
     "OriginalText": "グランブの大鉤固凝液",
-    "Text": "",
-    "Enabled": false
+    "Text": "Large Granv Needle",
+    "Enabled": true
   },
   "350202": {
     "OriginalText": "トルリンプの鋭牙",
-    "Text": "",
-    "Enabled": false
+    "Text": "Sharp Torrimp Fang",
+    "Enabled": true
   },
   "350203": {
     "OriginalText": "ウィンディラスの結晶角",
-    "Text": "",
-    "Enabled": false
+    "Text": "Crystallized Windiras Horn",
+    "Enabled": true
   },
   "350204": {
     "OriginalText": "ギガンテスの骨格",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gigantes Skeleton",
+    "Enabled": true
   },
   "350205": {
     "OriginalText": "アルキュオネの浮遊伝置",
@@ -1031,23 +1031,23 @@
   },
   "350206": {
     "OriginalText": "ギガンテスの皮片",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gigantes Hide",
+    "Enabled": true
   },
   "350207": {
     "OriginalText": "耐火凝液",
-    "Text": "",
-    "Enabled": false
+    "Text": "Fireproof Gel",
+    "Enabled": true
   },
   "350208": {
     "OriginalText": "ギガンテスのクラッカー片",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gigantes Cracker Fragment",
+    "Enabled": true
   },
   "350209": {
     "OriginalText": "ノイ・ウィンディラスの翼",
-    "Text": "",
-    "Enabled": false
+    "Text": "Noiwindiras Wing",
+    "Enabled": true
   },
   "350210": {
     "OriginalText": "バリバッツの虫片",
@@ -1060,9 +1060,9 @@
     "Enabled": true
   },
   "350212": {
-    "OriginalText": "バリドランナの粘片",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "バリドランナの鋭爪",
+    "Text": "Sharp Baridran'na Nail",
+    "Enabled": true
   },
   "350213": {
     "OriginalText": "ロウトルリンプのヒレ片",
@@ -1081,8 +1081,8 @@
   },
   "350216": {
     "OriginalText": "ノイ・ウィンディラスの尾",
-    "Text": "",
-    "Enabled": false
+    "Text": "Noiwindiras Tail",
+    "Enabled": true
   },
   "350217": {
     "OriginalText": "バリバッツの翼枝",
@@ -1096,8 +1096,8 @@
   },
   "350219": {
     "OriginalText": "バリドランナの朽爪",
-    "Text": "",
-    "Enabled": false
+    "Text": "Baridran'na Claw",
+    "Enabled": true
   },
   "350220": {
     "OriginalText": "ロウトルリンプの胸ビレ",
