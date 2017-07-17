@@ -1606,8 +1606,8 @@
   },
   "101030010010001": {
     "OriginalText": "惑星マキアでの第一日目が始まった。\nこれから、日記をつけていくことにします。",
-    "Text": "",
-    "Enabled": false
+    "Text": "It's first day on the planet Makia.\nI've decided to start a diary, from\nthis point forward.",
+    "Enabled": true
   },
   "101030010020001": {
     "OriginalText": "あたし達の[ruby ふね]艦[/ruby]、デルタ・ヴァリアントは\n惑星マキアに墜落……あ、違った！ 不時着し、\nここでの生活……いや、サバイバルが始まった。",
