@@ -306,8 +306,8 @@
   },
   "800061": {
     "OriginalText": "状態異常「ブラインド」\n視覚を阻害され、視界が狭くなる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "The status effect \"Blind,\" will temporarily\ndisrupt your vision and your field of view is distorted.",
+    "Enabled": true
   },
   "800062": {
     "OriginalText": "状態異常「属性異常」\n炎、劇、雷など各属性に対する耐性が滅少する。",
@@ -326,13 +326,13 @@
   },
   "800065": {
     "OriginalText": "スタン状態になった時は\n[f 65] を上下左右に動かすと早く回復する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Pressing [f 65] Left, right, up or down\nrapidly will get you out of Stun faster.",
+    "Enabled": true
   },
   "800066": {
     "OriginalText": "ラッピーよりさらに大量の経験値が獲得できる\n「幻のラッピー」がいるらしい。",
-    "Text": "",
-    "Enabled": false
+    "Text": "There seems to be a \"Phantom Rappy\" which\ngives off a whole lot more EXP than a regular Rappy.",
+    "Enabled": true
   },
   "800067": {
     "OriginalText": "ハンターの回避アクション「ステップ」は、\n最小限の移動距離ですばやく身をかわす。",
@@ -356,8 +356,8 @@
   },
   "800071": {
     "OriginalText": "サブパレットにセットし、\nタッチすることで発動するスキルがある。",
-    "Text": "",
-    "Enabled": false
+    "Text": "There are skills that can be placed\non the subpalette in order to activate them.",
+    "Enabled": true
   },
   "800072": {
     "OriginalText": "グランアーツはグランの力を用いた強力な攻撃。\n繰り出すごとにGP（グランポイント）を消費する。",
@@ -546,8 +546,8 @@
   },
   "800109": {
     "OriginalText": "エステはショップレベルが上がると編集できるメニューが増える。",
-    "Text": "",
-    "Enabled": false
+    "Text": "As the shop level increases,\nso do the features of the shop.",
+    "Enabled": true
   },
   "800110": {
     "OriginalText": "エステは、適した特微を持つクルーを配属することで\n選べる髪型やアクセサリーが増える。",
@@ -601,28 +601,28 @@
   },
   "800120": {
     "OriginalText": "メインクルーは［クルー配属］をしなくても\n自分の担当する施設へ自動的に移動する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Main Crew members will automatically be assigned\nto their respective facility without having to set them.",
+    "Enabled": true
   },
   "800121": {
     "OriginalText": "アサルトライフルのグランアーツ「グローリーレイン」は\n壁越しでも当たるため、障害洋に隠れながら攻撃できる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "The Assault Rifle Gran Art \"Glorious Rain\" will\nhit through walls, allowing you to attack while hidden.",
+    "Enabled": true
   },
   "800122": {
     "OriginalText": "スキル「ステップアタック」は\n回避後、素早く攻撃開始できるようになる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "The Skill \"Step Attack\" allows for the\nability to attack immediately after dodging with Step.",
+    "Enabled": true
   },
   "800123": {
     "OriginalText": "スキル「ジャストガード」は受けるダメージを0にして、\nさらに近距離の敵に反撃ダメージを与える。",
-    "Text": "",
-    "Enabled": false
+    "Text": "The Skill \"Just Guard\" allows for the\nability to receive zero damage upon a successful counter.",
+    "Enabled": true
   },
   "800124": {
     "OriginalText": "アサルトライフルのグランアーツ「インパクトスライダー」は\nスライディング中、進行方向を左右に微調整できる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "The Assault Rifle Gran Art \"Impact Slider\" allows\nyou to choose a direction while sliding.",
+    "Enabled": true
   },
   "800125": {
     "OriginalText": "ツインマシンガンのグランアーツ「リバースタップ」は\n地上でのみ、ぶつかるまで前方に少し移動する。",
