@@ -1611,23 +1611,23 @@
   },
   "101030010020001": {
     "OriginalText": "あたし達の[ruby ふね]艦[/ruby]、デルタ・ヴァリアントは\n惑星マキアに墜落……あ、違った！ 不時着し、\nここでの生活……いや、サバイバルが始まった。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Our ship, the Delta Valiant, has crashed into\nthe planet Makia... is that right? Emergency\nlanding... living here... no our survival begins.",
+    "Enabled": true
   },
   "101030010030001": {
     "OriginalText": "この[ruby ほし]惑星[/ruby]ではあたし達が普段\nあらゆるエネルギー装として\n利用しているフォトンが使えません。",
-    "Text": "",
-    "Enabled": false
+    "Text": "On this planet, we cannot use our Photons,\nbut instead the strange energy that is\nnative around here.",
+    "Enabled": true
   },
   "101030010040001": {
     "OriginalText": "[ruby ふね]艦[/ruby]も動かなければ、\n武器も、フォトンアーツも使えない。",
-    "Text": "",
-    "Enabled": false
+    "Text": "If our ship cannot use Photons, then\nour weapons and Photon Arts cannot be\nused here as well.",
+    "Enabled": true
   },
   "101030010050001": {
     "OriginalText": "だけどあたしが偶然見つけた宝石から\n謎の少女の立体映像が現れて、グランとかいう\nフォトンに似た力を扱えるようになりました。",
-    "Text": "",
-    "Enabled": false
+    "Text": "However, by chance, we were granted the\nability to use a new source of energy called\nGran, by a strange holographic image of a girl.",
+    "Enabled": true
   },
   "101030010060001": {
     "OriginalText": "それも何で？ って感じだけど、\nお陰で仲間も助けられたし、グランを使える人が\n増えれば、少しはマシになりそう！",
@@ -1641,8 +1641,8 @@
   },
   "101030010080001": {
     "OriginalText": "フォトンドライブは完全に壊れてるみたい。",
-    "Text": "",
-    "Enabled": false
+    "Text": "The Photon Drive seems to be completely\nbroken.",
+    "Enabled": true
   },
   "101030010090001": {
     "OriginalText": "あたし達、ずっとこの[ruby ほし]惑星[/ruby]で\n暮らすことになるかも……？\nいやいや、その前に生き延びられるのかな！？",
