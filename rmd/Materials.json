@@ -891,7 +891,7 @@
   },
   "350178": {
     "OriginalText": "ラウーダンの大毛皮",
-    "Text": "Ra Oodan Large Pelt",
+    "Text": "Large Ra Oodan Pelt",
     "Enabled": true
   },
   "350179": {
@@ -1106,38 +1106,38 @@
   },
   "350221": {
     "OriginalText": "テュルトアスの硬レンズ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Tulletoas Solid Lens",
+    "Enabled": true
   },
   "350222": {
-    "OriginalText": "アルキュオネの虫麦",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "アルキュオネの墨袋",
+    "Text": "Alcyone Ink Sac",
+    "Enabled": true
   },
   "350223": {
     "OriginalText": "ノイ・ウィンディラスの角",
-    "Text": "",
-    "Enabled": false
+    "Text": "Noiwindiras Horn",
+    "Enabled": true
   },
   "350224": {
     "OriginalText": "バリバッツの大目玉",
-    "Text": "",
-    "Enabled": false
+    "Text": "Large Baribatts Eyeball",
+    "Enabled": true
   },
   "350225": {
-    "OriginalText": "グランブの硬凝液結晶",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "グランブの大凝固粘液",
+    "Text": "Coagulating Granv Mucus",
+    "Enabled": true
   },
   "350226": {
     "OriginalText": "バリドランナの大光玉",
-    "Text": "Baridran'na Large Glowing Ball",
+    "Text": "Large Baridran'na Glowing Ball",
     "Enabled": true
   },
   "350227": {
     "OriginalText": "ロウトルリンプの硬尾ひれ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Solid Rol Torrimp Tail Fin",
+    "Enabled": true
   },
   "350228": {
     "OriginalText": "テュルトアスの吸引麦",
@@ -1211,8 +1211,8 @@
   },
   "350242": {
     "OriginalText": "レイバンサーの銃身",
-    "Text": "",
-    "Enabled": false
+    "Text": "Ray Banther Barrel",
+    "Enabled": true
   },
   "350243": {
     "OriginalText": "ディートアスの皮片",
@@ -1241,13 +1241,13 @@
   },
   "350248": {
     "OriginalText": "ベガルフの体毛",
-    "Text": "",
-    "Enabled": false
+    "Text": "Begulf Fur",
+    "Enabled": true
   },
   "350249": {
     "OriginalText": "フォンベガルフの体毛",
-    "Text": "",
-    "Enabled": false
+    "Text": "Fonbegulf Fur",
+    "Enabled": true
   },
   "350250": {
     "OriginalText": "アセラビーソの原動機",
@@ -1256,43 +1256,43 @@
   },
   "350251": {
     "OriginalText": "エデルクリトロの毛皮",
-    "Text": "",
-    "Enabled": false
+    "Text": "Eder Critter Fur",
+    "Enabled": true
   },
   "350252": {
     "OriginalText": "トネルバンクゥの宝石",
-    "Text": "",
-    "Enabled": false
+    "Text": "Toner Banku Gem",
+    "Enabled": true
   },
   "350253": {
     "OriginalText": "レイバンサーの角",
-    "Text": "",
-    "Enabled": false
+    "Text": "Ray Banther Horn",
+    "Enabled": true
   },
   "350254": {
     "OriginalText": "ディートアスのレンズ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Ditoas Lens",
+    "Enabled": true
   },
   "350255": {
     "OriginalText": "Ｇエル・ダガンの硬甲殻",
-    "Text": "",
-    "Enabled": false
+    "Text": "Hard G-El Dagan Shell",
+    "Enabled": true
   },
   "350256": {
     "OriginalText": "Ｇダーガッシュの尾ひれ",
-    "Text": "",
-    "Enabled": false
+    "Text": "G-Dahgash Tail Fin",
+    "Enabled": true
   },
   "350257": {
     "OriginalText": "Ｇウォルガーダの目玉",
-    "Text": "",
-    "Enabled": false
+    "Text": "G-Wolgahda Eyeball",
+    "Enabled": true
   },
   "350258": {
     "OriginalText": "エウリュードの砲身",
-    "Text": "",
-    "Enabled": false
+    "Text": "Eurude Barrel",
+    "Enabled": true
   },
   "350259": {
     "OriginalText": "ベガルフの爪",
@@ -1301,23 +1301,23 @@
   },
   "350260": {
     "OriginalText": "フォンベガルフの鋭爪",
-    "Text": "",
-    "Enabled": false
+    "Text": "Sharp Fonbegulf Claw",
+    "Enabled": true
   },
   "350261": {
     "OriginalText": "アセラビーソの硬耳部鎖",
-    "Text": "",
-    "Enabled": false
+    "Text": "Ase Rabbisaw Chain",
+    "Enabled": true
   },
   "350262": {
     "OriginalText": "クリトロの頭骨",
-    "Text": "",
-    "Enabled": false
+    "Text": "Critter Skull",
+    "Enabled": true
   },
   "350263": {
     "OriginalText": "トネルバンクゥの第三の目",
-    "Text": "",
-    "Enabled": false
+    "Text": "Toner Banku Eye",
+    "Enabled": true
   },
   "350264": {
     "OriginalText": "レイバンサーの爪",
@@ -1325,9 +1325,9 @@
     "Enabled": true
   },
   "350265": {
-    "OriginalText": "ディートアスの大吸引麦",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "ディートアスの大吸引袋",
+    "Text": "Ditoas Compression Bag",
+    "Enabled": true
   },
   "350266": {
     "OriginalText": "Ｇエル・ダガンの爪",
@@ -1381,43 +1381,43 @@
   },
   "350276": {
     "OriginalText": "ダーカーの完全な大盾",
-    "Text": "",
-    "Enabled": false
+    "Text": "Perfect Large Darker Shield",
+    "Enabled": true
   },
   "350277": {
     "OriginalText": "ロヴラッピーの主翼",
-    "Text": "",
-    "Enabled": false
+    "Text": "Main Rove Rappy Wing",
+    "Enabled": true
   },
   "350278": {
     "OriginalText": "ヴィマフレザールの朽爪",
-    "Text": "",
-    "Enabled": false
+    "Text": "Vi Maphrezer Claw",
+    "Enabled": true
   },
   "350279": {
     "OriginalText": "バレダイナスの弾倉",
-    "Text": "",
-    "Enabled": false
+    "Text": "Vale-Dynas Magazine",
+    "Enabled": true
   },
   "350280": {
     "OriginalText": "シルブカーネベアの毛皮",
-    "Text": "",
-    "Enabled": false
+    "Text": "Silvcarnne Bear Fur",
+    "Enabled": true
   },
   "350281": {
     "OriginalText": "ダーカーのヒレ刀",
-    "Text": "",
+    "Text": "Darker Sword Fin",
     "Enabled": false
   },
   "350282": {
     "OriginalText": "ダーカーの完全な鋭ヒレ刀",
-    "Text": "",
-    "Enabled": false
+    "Text": "Pefect Sharp Darker Fin",
+    "Enabled": true
   },
   "350283": {
     "OriginalText": "ロヴラッピーの大機",
-    "Text": "",
-    "Enabled": false
+    "Text": "Large Rove Rappy Machine Part",
+    "Enabled": true
   },
   "350284": {
     "OriginalText": "ヴィマフレザールの硬皮枝",
@@ -2620,7 +2620,7 @@
     "Enabled": false
   },
   "350524": {
-    "OriginalText": "マグネトアスの大吸引麦",
+    "OriginalText": "マグネトアスの大吸引袋",
     "Text": "",
     "Enabled": false
   },
@@ -5356,22 +5356,22 @@
   },
   "351071": {
     "OriginalText": "ギュゲンテの硬伝甲",
-    "Text": "Gygante Hard Armor",
+    "Text": "Hard Gygante Armor",
     "Enabled": true
   },
   "351072": {
     "OriginalText": "リベルゲンテの硬装甲",
-    "Text": "Libelgante Hard Armor",
+    "Text": "Hard Libelgante Armor",
     "Enabled": true
   },
   "351073": {
     "OriginalText": "レイヴガイストの硬結界",
-    "Text": "Rave Geist Hard Barrier",
+    "Text": "Hard Rave Geist Barrier",
     "Enabled": true
   },
   "351074": {
     "OriginalText": "ネメスガイストの硬結界",
-    "Text": "Nemes Geist Hard Barrier",
+    "Text": "Hard Nemes Geist Barrier",
     "Enabled": true
   },
   "351075": {
