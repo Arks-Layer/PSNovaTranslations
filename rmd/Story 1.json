@@ -836,7 +836,7 @@
   },
   "101010040050014": {
     "OriginalText": "この[ruby ほし]惑星[/ruby]ではフォトンが使えん！ 戦うのは無理だ……！",
-    "Text": "We can't use Photons here! Fighting is impossible...",
+    "Text": "We can't use Photons here!\nFighting is impossible...",
     "Enabled": true
   },
   "101010040060001": {
@@ -846,12 +846,12 @@
   },
   "101010040061001": {
     "OriginalText": "艦長を連れて下がってください！",
-    "Text": "Please take the Captain and stand back!",
+    "Text": "Please take the Captain and\nstand back!",
     "Enabled": true
   },
   "101010040070004": {
     "OriginalText": "お前達！？ その武器はどうした！？",
-    "Text": "You guys!? But how is your weapon working?",
+    "Text": "You guys!?\nBut how is your weapon working?",
     "Enabled": true
   },
   "101010040080001": {
@@ -861,12 +861,12 @@
   },
   "101010050010014": {
     "OriginalText": "フィルディア、ひとつ……頼みがある",
-    "Text": "Fildia... I have a request.",
+    "Text": "Fildia...\nI have a request.",
     "Enabled": true
   },
   "101010050020004": {
     "OriginalText": "戻ってから聞きます",
-    "Text": "It can wait until you're back at the ship.",
+    "Text": "It can wait until\nyou're back at the ship.",
     "Enabled": true
   },
   "101010050030014": {
@@ -876,7 +876,7 @@
   },
   "101010050031014": {
     "OriginalText": "いいか、デルタ・ヴァリアントの全権をお前に託す",
-    "Text": "Good. I grant you full authority over Delta Valiant.",
+    "Text": "I grant you full\nrights to the Delta Valiant.",
     "Enabled": true
   },
   "101010050040004": {
@@ -886,12 +886,12 @@
   },
   "101010050050014": {
     "OriginalText": "この絶望的状況で後を任せられるのは",
-    "Text": "It's the last thing I can do in this\ndespairful situation.",
+    "Text": "It's the least I can\ndo in this situation.",
     "Enabled": true
   },
   "101010050051014": {
     "OriginalText": "『[ruby ぎょうこう]暁紅[/ruby]のフィルディア』と呼ばれた英雄のお前しかいない",
-    "Text": "I leave it to the hero Fildia,\nthe Crimson Dawn of ARKS.",
+    "Text": "I leave it to Fildia,\nthe Crimson Dawn of ARKS.",
     "Enabled": true
   },
   "101010050060004": {
@@ -901,12 +901,12 @@
   },
   "101010050070014": {
     "OriginalText": "今、必用なのは希望だ",
-    "Text": "What you need right now is not talent.",
+    "Text": "What you need right\nnow is not talent.",
     "Enabled": true
   },
   "101010050071014": {
     "OriginalText": "能力ではない、分かるな？",
-    "Text": "What you need is hope.\nUnderstand?",
+    "Text": "What you need is\nhope. Understand?",
     "Enabled": true
   },
   "101010050080004": {
@@ -916,12 +916,12 @@
   },
   "101010050090014": {
     "OriginalText": "仲間を生きて帰してやってくれ、頼んだぞ……！",
-    "Text": "Lead your comrades,\nand take them back home!",
+    "Text": "Lead your comrades,\nand take them home!",
     "Enabled": true
   },
   "101010050100004": {
     "OriginalText": "……はい、ご心配なく、我が[ruby しんめい]身命[/ruby]に代えても守ってみせましょう",
-    "Text": "... Don't worry, I'll get them home,\nno matter what.",
+    "Text": "... Don't worry,\nI'll get them home,\nno matter what.",
     "Enabled": true
   },
   "101010050110014": {
@@ -936,27 +936,27 @@
   },
   "101010060010004": {
     "OriginalText": "デルタ・ヴァリアント艦長、\nフィルディアより、全乗組員に告ぐ！",
-    "Text": "To all crew members,\nthis is the Captain of Delta Valiant, Fildia!",
+    "Text": "To all crew members,\nthis is the Captain of\nDelta Valiant, Fildia!",
     "Enabled": true
   },
   "101010070010004": {
     "OriginalText": "作業の手を止めずに聞いてほしい",
-    "Text": "Please continue to work as you hear this.",
+    "Text": "Please continue to work\nas you hear this.",
     "Enabled": true
   },
   "101010070015004": {
     "OriginalText": "諸君も知っての通り、\nこの[ruby ほし]惑星[/ruby]ではフォトンが使えない",
-    "Text": "As many of you have heard,\nwe can't use Photons on this planet.",
+    "Text": "As many of you have heard,\nwe can't use Photons on\nthis planet.",
     "Enabled": true
   },
   "101010070020004": {
     "OriginalText": "それがどれだけ危機的状況であるか、\n理解していると思う",
-    "Text": "I think you all understand why this is a\ncrisis.",
+    "Text": "I think you all understand\nwhy this is a crisis.",
     "Enabled": true
   },
   "101010070030004": {
     "OriginalText": "このままでは遠からず部隊は窮乏し、\n全滅するだろう",
-    "Text": "As it stands,\nthe little troops we have will be\nannihilated.",
+    "Text": "As it stands,\nthe little troops we have, will be\nannihilated.",
     "Enabled": true
   },
   "101010070035004": {
@@ -976,17 +976,17 @@
   },
   "101010070050004": {
     "OriginalText": "どうすりゃいいかはまだ分からん！",
-    "Text": "I dont know how, but we'll do this!",
+    "Text": "I dont know how,\nbut we'll do this!",
     "Enabled": true
   },
   "101010070052004": {
     "OriginalText": "どいつもこいつも全力を出せ！",
-    "Text": "So somehow or other, do your best!",
+    "Text": "So somehow or other,\ndo your best!",
     "Enabled": true
   },
   "101010070055004": {
     "OriginalText": "オレも本気でがラでもねえ艦長をやってやる！",
-    "Text": "Me too of course!\nI'll get serious with this Captain thing!",
+    "Text": "Me too of course!\nI'll get serious with this\nCaptain thing!",
     "Enabled": true
   },
   "101010070060004": {
@@ -1006,12 +1006,12 @@
   },
   "101010080005008": {
     "OriginalText": "こうして活動人員を減らすことで",
-    "Text": "With this,\nwe reduce the number of active members.",
+    "Text": "With this, we'll reduce\nthe number of active members.",
     "Enabled": true
   },
   "101010080006008": {
     "OriginalText": "残り少ないエネルギーでもしばらくは持つと思います",
-    "Text": "We still have a little energy.\nIt should last us a while longer.",
+    "Text": "We still have a\nlittle energy. It should\nlast us a while longer.",
     "Enabled": true
   },
   "101010080010004": {
@@ -1081,7 +1081,7 @@
   },
   "101020020100005": {
     "OriginalText": "その宝石、調べさせて下さい。",
-    "Text": "I would like to have a look at it.\n If possible.",
+    "Text": "I would like to have a look at it.\nIf possible.",
     "Enabled": true
   },
   "101020020110001": {
@@ -1091,7 +1091,7 @@
   },
   "101020020120004": {
     "OriginalText": "宝石はレイヴァンに任せる。\nそんなことより\nお前達にはすぐやってもらいたいことがある。",
-    "Text": "I'll leave that to Raven.\nThat aside,\nI have something I need you guys to do.",
+    "Text": "I'll leave that to Raven.\nThat aside, I have something\nI need you guys to do.",
     "Enabled": true
   },
   "101020020130004": {
@@ -1136,7 +1136,7 @@
   },
   "101020020210005": {
     "OriginalText": "本来フォトンをエネルギーとする我々の武器や、\nフォイエやレスタが『グラン』で使えたのです。\nその可能性は冷めて高いでしょう。",
-    "Text": "There is a possibility that we can use\nGran for our weapons and Techniques,\njust like we use Photons.",
+    "Text": "There is a possibility that we can use\n\"Gran\" for our weapons and Techniques,\nlike Foie and Resta.",
     "Enabled": true
   },
   "101020020220001": {
