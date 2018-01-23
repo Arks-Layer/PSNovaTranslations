@@ -2401,8 +2401,8 @@
   },
   "350480": {
     "OriginalText": "レイバンサーの大機関砲",
-    "Text": "",
-    "Enabled": false
+    "Text": "Large Ray Banther Cannon",
+    "Enabled": true
   },
   "350481": {
     "OriginalText": "バオム・マガヴルムの硬手",
@@ -4756,28 +4756,28 @@
   },
   "350951": {
     "OriginalText": "Ｇクラーダの硬脚",
-    "Text": "",
-    "Enabled": false
+    "Text": "Hard G-Krahda Leg",
+    "Enabled": true
   },
   "350952": {
     "OriginalText": "Ｇダガンの硬爪",
-    "Text": "",
-    "Enabled": false
+    "Text": "Hard G-Dagan Claw",
+    "Enabled": true
   },
   "350953": {
     "OriginalText": "Ｇエル・ダガンの硬爪",
-    "Text": "",
-    "Enabled": false
+    "Text": "Hard G-El Dagan Claw",
+    "Enabled": true
   },
   "350954": {
     "OriginalText": "Ｇエル・アーダの硬触角",
-    "Text": "",
-    "Enabled": false
+    "Text": "Hard G-El Ahda Antenna",
+    "Enabled": true
   },
   "350955": {
     "OriginalText": "Ｇプレディカーダの硬腕刃",
-    "Text": "",
-    "Enabled": false
+    "Text": "Hard G-Predicahda Arm Blade",
+    "Enabled": true
   },
   "350956": {
     "OriginalText": "Ｇダーク・ラグネの硬爪",
@@ -4786,23 +4786,23 @@
   },
   "350957": {
     "OriginalText": "Ｇミクダの硬甲羅",
-    "Text": "",
-    "Enabled": false
+    "Text": "Hard G-Micda Shell",
+    "Enabled": true
   },
   "350958": {
     "OriginalText": "Ｇダーガッシュの硬歯",
-    "Text": "",
-    "Enabled": false
+    "Text": "Hard G-Dahgash Teeth",
+    "Enabled": true
   },
   "350959": {
     "OriginalText": "Ｇガウォンダの硬盾",
-    "Text": "",
-    "Enabled": false
+    "Text": "Hard G-Ga Wonda Shield",
+    "Enabled": true
   },
   "350960": {
     "OriginalText": "Ｇグウォンダの硬盾",
-    "Text": "",
-    "Enabled": false
+    "Text": "Hard G-Gu Wonda Shield",
+    "Enabled": true
   },
   "350961": {
     "OriginalText": "Ｇウォルガーダの硬髪",
@@ -4811,8 +4811,8 @@
   },
   "350962": {
     "OriginalText": "Ｇキュクロナーダの硬目",
-    "Text": "",
-    "Enabled": false
+    "Text": "Hard G-Kuklonahda Eye",
+    "Enabled": true
   },
   "350963": {
     "OriginalText": "Ｇシャルレイダの硬甲羅",
