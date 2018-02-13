@@ -1511,7 +1511,7 @@
   },
   "820302": {
     "OriginalText": "ダーカーに与えるダメージが\n１３％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "Damage against Darkers increased by 7%.\n[a 03]＊Abilities of the same name cannot be stacked.[b]",
+    "Text": "Damage against Darkers increased by 13%.\n[a 03]＊Abilities of the same name cannot be stacked.[b]",
     "Enabled": true
   },
   "820303": {
