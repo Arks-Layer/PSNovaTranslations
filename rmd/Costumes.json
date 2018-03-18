@@ -11,48 +11,48 @@
   },
   "330002": {
     "OriginalText": "アンダーウェア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Underwear",
+    "Enabled": true
   },
   "330003": {
     "OriginalText": "ヘヴィスクードＢ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Heavy Scudo B",
+    "Enabled": true
   },
   "330004": {
     "OriginalText": "ヘヴィスクードＯ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Heavy Scudo O",
+    "Enabled": true
   },
   "330005": {
     "OriginalText": "ヘヴィスクードＲ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Heavy Scudo R",
+    "Enabled": true
   },
   "330006": {
     "OriginalText": "ヘヴィスクードＧ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Heavy Scudo G",
+    "Enabled": true
   },
   "330007": {
     "OriginalText": "アドヴェントス破Ｙ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Adventos Y (Damaged)",
+    "Enabled": true
   },
   "330008": {
     "OriginalText": "アドヴェントス破Ｏ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Adventos O (Damaged)",
+    "Enabled": true
   },
   "330009": {
     "OriginalText": "アドヴェントス破Ｂ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Adventos B (Damaged)",
+    "Enabled": true
   },
   "330010": {
     "OriginalText": "アドヴェントス破Ｗ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Adventos W (Damaged)",
+    "Enabled": true
   },
   "330011": {
     "OriginalText": "ヘイズソーサラーＫ",
@@ -666,27 +666,27 @@
   },
   "330133": {
     "OriginalText": "ヴィテスシュタルクＫ",
-    "Text": "Vites Schtark K",
+    "Text": "Vitesse Stark K",
     "Enabled": true
   },
   "330134": {
     "OriginalText": "ヴィテスシュタルクＲ",
-    "Text": "Vites Schtark R",
+    "Text": "Vitesse Stark R",
     "Enabled": true
   },
   "330135": {
     "OriginalText": "ヴィテスシュタルクＹ",
-    "Text": "Vites Schtark Y",
+    "Text": "Vitesse Stark Y",
     "Enabled": true
   },
   "330136": {
     "OriginalText": "ヴィテスシュタルクＢ",
-    "Text": "Vites Schtark B",
+    "Text": "Vitesse Stark B",
     "Enabled": true
   },
   "330137": {
     "OriginalText": "ヴィテスシュタルクＧ",
-    "Text": "Vites Schtark G",
+    "Text": "Vitesse Stark G",
     "Enabled": true
   },
   "330138": {
@@ -1471,27 +1471,27 @@
   },
   "330294": {
     "OriginalText": "グラスフォーアネームＰ",
-    "Text": "Grass Phorename P",
+    "Text": "Glas Vornehm P",
     "Enabled": true
   },
   "330295": {
     "OriginalText": "グラスフォーアネームＹ",
-    "Text": "Grass Phorename Y",
+    "Text": "Glas Vornehm Y",
     "Enabled": true
   },
   "330296": {
     "OriginalText": "グラスフォーアネームＢ",
-    "Text": "Grass Phorename B",
+    "Text": "Glas Vornehm B",
     "Enabled": true
   },
   "330297": {
     "OriginalText": "グラスフォーアネームＫ",
-    "Text": "Grass Phorename K",
+    "Text": "Glas Vornehm K",
     "Enabled": true
   },
   "330298": {
     "OriginalText": "グラスフォーアネームＶ",
-    "Text": "Grass Phorename V",
+    "Text": "Glas Vornehm V",
     "Enabled": true
   },
   "330299": {
@@ -1761,7 +1761,7 @@
   },
   "330352": {
     "OriginalText": "クリスト・アーム",
-    "Text": "Culisto Arms",
+    "Text": "Crysto Arms",
     "Enabled": true
   },
   "330353": {
@@ -1996,7 +1996,7 @@
   },
   "330399": {
     "OriginalText": "クリスト・ボディ",
-    "Text": "Culisto Body",
+    "Text": "Crysto Body",
     "Enabled": true
   },
   "330400": {
@@ -2231,7 +2231,7 @@
   },
   "330446": {
     "OriginalText": "クリスト・レッグ",
-    "Text": "Culisto Legs",
+    "Text": "Crysto Legs",
     "Enabled": true
   },
   "330447": {
@@ -2386,83 +2386,83 @@
   },
   "330477": {
     "OriginalText": "ヴィテスシュタルクW",
-    "Text": "Vites Schtark W",
+    "Text": "Vitesse Stark W",
     "Enabled": true
   },
   "330478": {
     "OriginalText": "グラスフォーアネームG",
-    "Text": "Grass Phorename G",
+    "Text": "Glas Vornehm G",
     "Enabled": true
   },
   "330479": {
     "OriginalText": "ダイヤモンドネイヴＫ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Diamond Knave K",
+    "Enabled": true
   },
   "330480": {
     "OriginalText": "ダイヤモンドネイヴＷ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Diamond Knave W",
+    "Enabled": true
   },
   "330481": {
     "OriginalText": "ダイヤモンドネイヴＲ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Diamond Knave R",
+    "Enabled": true
   },
   "330482": {
     "OriginalText": "ダイヤモンドネイヴＹ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Diamond Knave Y",
+    "Enabled": true
   },
   "330483": {
     "OriginalText": "ダイヤモンドネイヴＢ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Diamond Knave B",
+    "Enabled": true
   },
   "330484": {
     "OriginalText": "ダイヤモンドクイーンＫ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Diamond Queen K",
+    "Enabled": true
   },
   "330485": {
     "OriginalText": "ダイヤモンドクイーンＢ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Diamond Queen B",
+    "Enabled": true
   },
   "330486": {
     "OriginalText": "ダイヤモンドクイーンＲ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Diamond Queen R",
+    "Enabled": true
   },
   "330487": {
     "OriginalText": "ダイヤモンドクイーンＹ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Diamond Queen Y",
+    "Enabled": true
   },
   "330488": {
     "OriginalText": "ダイヤモンドクイーンＷ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Diamond Queen W",
+    "Enabled": true
   },
   "330489": {
     "OriginalText": "ヴィテスシュタルクＷ２",
-    "Text": "",
-    "Enabled": false
+    "Text": "Vitesse Stark W2",
+    "Enabled": true
   },
   "330490": {
     "OriginalText": "グラスフォーアネームＧ２",
-    "Text": "",
-    "Enabled": false
+    "Text": "Glas Vornehm G2",
+    "Enabled": true
   },
   "330500": {
     "OriginalText": "ヴィテスシュタルクＷ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Vitesse Stark W",
+    "Enabled": true
   },
   "330501": {
     "OriginalText": "グラスフォーアネームＧ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Glas Vornehm G",
+    "Enabled": true
   },
   "330502": {
     "OriginalText": "ＳＲＦアーマー",
@@ -2501,42 +2501,42 @@
   },
   "330509": {
     "OriginalText": "ダイヤモンドネイヴＫ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Diamond Knave K",
+    "Enabled": true
   },
   "330510": {
     "OriginalText": "ダイヤモンドネイヴＷ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Diamond Knave W",
+    "Enabled": true
   },
   "330511": {
     "OriginalText": "ダイヤモンドクイーンＫ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Diamond Queen K",
+    "Enabled": true
   },
   "330512": {
     "OriginalText": "ダイヤモンドクイーンＷ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Diamond Queen W",
+    "Enabled": true
   },
   "330513": {
     "OriginalText": "ダイヤモンドネイヴＲ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Diamond Knave R",
+    "Enabled": true
   },
   "330514": {
     "OriginalText": "ダイヤモンドネイヴＢ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Diamond Knave B",
+    "Enabled": true
   },
   "330515": {
     "OriginalText": "ダイヤモンドクイーンＢ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Diamond Queen B",
+    "Enabled": true
   },
   "330516": {
     "OriginalText": "ダイヤモンドクイーンＲ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Diamond Queen R",
+    "Enabled": true
   }
 }
