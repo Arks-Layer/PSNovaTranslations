@@ -210,33 +210,33 @@
     "Enabled": false
   },
   "550042": {
-    "OriginalText": "究冷の珍味盛り合わせ",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "究極の珍味盛り合わせ",
+    "Text": "Ultimate Assorted Delicacies",
+    "Enabled": true
   },
   "550043": {
-    "OriginalText": "究冷の融降り肉ステーキ",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "究極の霜降り肉ステーキ",
+    "Text": "Ultimate Frozen Meat Stick",
+    "Enabled": true
   },
   "550044": {
-    "OriginalText": "究冷の最高級魚介炒め",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "究極の最高級魚介炒め",
+    "Text": "Ultimate Stir-fried Seafood",
+    "Enabled": true
   },
   "550045": {
     "OriginalText": "ダーカーの節スパイス炒め",
-    "Text": "",
-    "Enabled": false
+    "Text": "Darker Core Stir-fry",
+    "Enabled": true
   },
   "550046": {
-    "OriginalText": "スパイシー氷やしトマト",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "スパイシー冷やしトマト",
+    "Text": "Spicy Fresh Tomatoes",
+    "Enabled": true
   },
   "550047": {
-    "OriginalText": "木の実のスパイスがけ",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "木の実スパイスがけ",
+    "Text": "Spiced Nut",
+    "Enabled": true
   }
 }
