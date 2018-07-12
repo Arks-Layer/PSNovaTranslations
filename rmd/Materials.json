@@ -1156,8 +1156,8 @@
   },
   "350231": {
     "OriginalText": "機械生洋の油片",
-    "Text": "",
-    "Enabled": false
+    "Text": "Machinery Fragment",
+    "Enabled": true
   },
   "350232": {
     "OriginalText": "機械生洋のフレーム",
@@ -1181,8 +1181,8 @@
   },
   "350236": {
     "OriginalText": "巨大な触角",
-    "Text": "",
-    "Enabled": false
+    "Text": "Large Antenna",
+    "Enabled": true
   },
   "350237": {
     "OriginalText": "ベガルフの牙片",
@@ -1407,7 +1407,7 @@
   "350281": {
     "OriginalText": "ダーカーのヒレ刀",
     "Text": "Darker Sword Fin",
-    "Enabled": false
+    "Enabled": true
   },
   "350282": {
     "OriginalText": "ダーカーの完全な鋭ヒレ刀",
@@ -1420,29 +1420,29 @@
     "Enabled": true
   },
   "350284": {
-    "OriginalText": "ヴィマフレザールの硬皮枝",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "ヴィマフレザールの硬皮膜",
+    "Text": "Hard Vi Maphrezer Membrane",
+    "Enabled": true
   },
   "350285": {
     "OriginalText": "バレダイナスのサイト",
-    "Text": "",
-    "Enabled": false
+    "Text": "Vale-Dynas Eye",
+    "Enabled": true
   },
   "350286": {
     "OriginalText": "シルブカーネベアの頭骨",
-    "Text": "",
-    "Enabled": false
+    "Text": "Silvcarnne Bear Skull",
+    "Enabled": true
   },
   "350287": {
     "OriginalText": "Ｇガウォンダの大盾破片",
-    "Text": "",
-    "Enabled": false
+    "Text": "Large G-Ga Wonda Shield",
+    "Enabled": true
   },
   "350288": {
     "OriginalText": "Ｇグウォンダの大盾破片",
-    "Text": "",
-    "Enabled": false
+    "Text": "Large G-Gu Wonda Shield",
+    "Enabled": true
   },
   "350289": {
     "OriginalText": "ギュゲンテのβ脚",
@@ -1466,8 +1466,8 @@
   },
   "350293": {
     "OriginalText": "リ・ゲンテのドリル",
-    "Text": "",
-    "Enabled": false
+    "Text": "Regante Drill",
+    "Enabled": true
   },
   "350294": {
     "OriginalText": "フロベガルフの牙",
@@ -1501,8 +1501,8 @@
   },
   "350300": {
     "OriginalText": "トルリンプのヒレ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Torrimp",
+    "Enabled": true
   },
   "350301": {
     "OriginalText": "Ｇシャルレイダの甲羅",
@@ -1516,42 +1516,42 @@
   },
   "350303": {
     "OriginalText": "フロベガルフの体毛",
-    "Text": "",
-    "Enabled": false
+    "Text": "Flobegulf Hair",
+    "Enabled": true
   },
   "350304": {
     "OriginalText": "フロフォンベガルフの体毛",
-    "Text": "",
-    "Enabled": false
+    "Text": "Flo Fonbegulf Hair",
+    "Enabled": true
   },
   "350305": {
     "OriginalText": "イエーデンの毛皮",
-    "Text": "",
-    "Enabled": false
+    "Text": "Yeden Pelt",
+    "Enabled": true
   },
   "350306": {
     "OriginalText": "ブロラビーソの原動機",
-    "Text": "",
-    "Enabled": false
+    "Text": "Main Bro Rabbisaw Motor",
+    "Enabled": true
   },
   "350307": {
     "OriginalText": "オーニクリトロの毛皮",
-    "Text": "",
-    "Enabled": false
+    "Text": "Oni Critter Pelt",
+    "Enabled": true
   },
   "350308": {
     "OriginalText": "クリトロクィーンの毛皮",
-    "Text": "",
-    "Enabled": false
+    "Text": "Critter Queen Pelt",
+    "Enabled": true
   },
   "350309": {
     "OriginalText": "トルリンプの大胸ビレ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Large Torrimp Pectoral Fin​",
+    "Enabled": true
   },
   "350310": {
     "OriginalText": "Ｇシャルレイダの鋭腕刃",
-    "Text": "",
+    "Text": "Sharp G-Shalurayda Arm Blade",
     "Enabled": false
   },
   "350311": {
@@ -1571,28 +1571,28 @@
   },
   "350314": {
     "OriginalText": "イエーデンの硬頭骨",
-    "Text": "",
-    "Enabled": false
+    "Text": "Hard Yeden Skull",
+    "Enabled": true
   },
   "350315": {
     "OriginalText": "ブロラビーソの耳部鎖",
-    "Text": "",
-    "Enabled": false
+    "Text": "Bro Rabbisaw Ear Chain",
+    "Enabled": true
   },
   "350316": {
     "OriginalText": "オーニクリトロの頭骨",
-    "Text": "",
-    "Enabled": false
+    "Text": "Oni Critter Skull",
+    "Enabled": true
   },
   "350317": {
     "OriginalText": "クリトロ・クィーンの頭骨",
-    "Text": "",
-    "Enabled": false
+    "Text": "Critter Queen Skull",
+    "Enabled": true
   },
   "350318": {
     "OriginalText": "トルリンプの尾ひれ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Torrimp Tail Fin",
+    "Enabled": true
   },
   "350319": {
     "OriginalText": "Ｇシャルレイダの甲羅",
@@ -1601,18 +1601,18 @@
   },
   "350320": {
     "OriginalText": "グレイオスの完全な剣板",
-    "Text": "",
-    "Enabled": false
+    "Text": "Perfect Greios Blade",
+    "Enabled": true
   },
   "350321": {
     "OriginalText": "爬虫類の牙",
-    "Text": "",
-    "Enabled": false
+    "Text": "Reptile Fang",
+    "Enabled": true
   },
   "350322": {
     "OriginalText": "ドギオスの骨",
-    "Text": "",
-    "Enabled": false
+    "Text": "Dogios Bone",
+    "Enabled": true
   },
   "350323": {
     "OriginalText": "サフグランブの爪",
