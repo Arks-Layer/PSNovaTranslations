@@ -1876,7 +1876,7 @@
   },
   "21628": {
     "OriginalText": "アタッチパーツ",
-    "Text": "Attachment ",
+    "Text": "Attachments",
     "Enabled": true
   },
   "21629": {
@@ -3641,7 +3641,7 @@
   },
   "23102": {
     "OriginalText": "※注意※",
-    "Text": "[a 03]※CAUTION※[b]",
+    "Text": "[a 03]＊CAUTION＊[b]",
     "Enabled": true
   },
   "23601": {
