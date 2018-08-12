@@ -2050,9 +2050,9 @@
     "Enabled": true
   },
   "210132": {
-    "OriginalText": "記録伝置を回収しろ",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "記録装置を回収しろ",
+    "Text": "Recover the Recording Equipment",
+    "Enabled": true
   },
   "210133": {
     "OriginalText": "食村を回収しろ",
@@ -2145,8 +2145,8 @@
     "Enabled": true
   },
   "210151": {
-    "OriginalText": "鉱洋を回収しろ",
-    "Text": "Collect the ore",
+    "OriginalText": "鉱物を回収しろ",
+    "Text": "Collect the minerals",
     "Enabled": true
   },
   "210152": {

@@ -5530,7 +5530,7 @@
     "Enabled": true
   },
   "360001": {
-    "OriginalText": "グランの力を蓄えた鉱洋結晶。\n未知の惑星マキアにおいて、あらゆる\n洋資に加工が可能な城一の村料となる。",
+    "OriginalText": "グランの力を蓄えた鉱洋結晶。\n未知の惑星マキアにおいて、あらゆる\n洋資に加工が可能な城一の材料となる。",
     "Text": "A crystalline ore that contains Gran Energy.\nNative to Mahkia, it can be processed\ninto materials for equipment.",
     "Enabled": true
   },
@@ -5950,262 +5950,262 @@
     "Enabled": false
   },
   "360085": {
-    "OriginalText": "リージョン3難易度3村料3の解説文",
+    "OriginalText": "リージョン3難易度3材料3の解説文",
     "Text": "",
     "Enabled": false
   },
   "360086": {
-    "OriginalText": "リージョン3難易度4村料1の解説文",
+    "OriginalText": "リージョン3難易度4材料1の解説文",
     "Text": "",
     "Enabled": false
   },
   "360087": {
-    "OriginalText": "リージョン3難易度4村料2の解説文",
+    "OriginalText": "リージョン3難易度4材料2の解説文",
     "Text": "",
     "Enabled": false
   },
   "360088": {
-    "OriginalText": "リージョン3難易度4村料3の解説文",
+    "OriginalText": "リージョン3難易度4材料3の解説文",
     "Text": "",
     "Enabled": false
   },
   "360089": {
-    "OriginalText": "リージョン3難易度5村料1の解説文",
+    "OriginalText": "リージョン3難易度5材料1の解説文",
     "Text": "",
     "Enabled": false
   },
   "360090": {
-    "OriginalText": "リージョン3難易度5村料2の解説文",
+    "OriginalText": "リージョン3難易度5材料2の解説文",
     "Text": "",
     "Enabled": false
   },
   "360091": {
-    "OriginalText": "リージョン3難易度5村料3の解説文",
+    "OriginalText": "リージョン3難易度5材料3の解説文",
     "Text": "",
     "Enabled": false
   },
   "360092": {
-    "OriginalText": "リージョン5難易度1村料1の解説文",
+    "OriginalText": "リージョン5難易度1材料1の解説文",
     "Text": "",
     "Enabled": false
   },
   "360093": {
-    "OriginalText": "リージョン5難易度1村料2の解説文",
+    "OriginalText": "リージョン5難易度1材料2の解説文",
     "Text": "",
     "Enabled": false
   },
   "360094": {
-    "OriginalText": "リージョン5難易度1村料3の解説文",
+    "OriginalText": "リージョン5難易度1材料3の解説文",
     "Text": "",
     "Enabled": false
   },
   "360095": {
-    "OriginalText": "リージョン5難易度2村料1の解説文",
+    "OriginalText": "リージョン5難易度2材料1の解説文",
     "Text": "",
     "Enabled": false
   },
   "360096": {
-    "OriginalText": "リージョン5難易度2村料2の解説文",
+    "OriginalText": "リージョン5難易度2材料2の解説文",
     "Text": "",
     "Enabled": false
   },
   "360097": {
-    "OriginalText": "リージョン5難易度2村料3の解説文",
+    "OriginalText": "リージョン5難易度2材料3の解説文",
     "Text": "",
     "Enabled": false
   },
   "360098": {
-    "OriginalText": "リージョン5難易度3村料1の解説文",
+    "OriginalText": "リージョン5難易度3材料1の解説文",
     "Text": "",
     "Enabled": false
   },
   "360099": {
-    "OriginalText": "リージョン5難易度3村料2の解説文",
+    "OriginalText": "リージョン5難易度3材料2の解説文",
     "Text": "",
     "Enabled": false
   },
   "360100": {
-    "OriginalText": "リージョン5難易度3村料3の解説文",
+    "OriginalText": "リージョン5難易度3材料3の解説文",
     "Text": "",
     "Enabled": false
   },
   "360101": {
-    "OriginalText": "リージョン5難易度4村料1の解説文",
+    "OriginalText": "リージョン5難易度4材料1の解説文",
     "Text": "",
     "Enabled": false
   },
   "360102": {
-    "OriginalText": "リージョン5難易度4村料2の解説文",
+    "OriginalText": "リージョン5難易度4材料2の解説文",
     "Text": "",
     "Enabled": false
   },
   "360103": {
-    "OriginalText": "リージョン5難易度4村料3の解説文",
+    "OriginalText": "リージョン5難易度4材料3の解説文",
     "Text": "",
     "Enabled": false
   },
   "360104": {
-    "OriginalText": "リージョン5難易度5村料1の解説文",
+    "OriginalText": "リージョン5難易度5材料1の解説文",
     "Text": "",
     "Enabled": false
   },
   "360105": {
-    "OriginalText": "リージョン5難易度5村料2の解説文",
+    "OriginalText": "リージョン5難易度5材料2の解説文",
     "Text": "",
     "Enabled": false
   },
   "360106": {
-    "OriginalText": "リージョン5難易度5村料3の解説文",
+    "OriginalText": "リージョン5難易度5材料3の解説文",
     "Text": "",
     "Enabled": false
   },
   "360107": {
-    "OriginalText": "リージョン6難易度1村料1の解説文",
+    "OriginalText": "リージョン6難易度1材料1の解説文",
     "Text": "",
     "Enabled": false
   },
   "360108": {
-    "OriginalText": "リージョン6難易度1村料2の解説文",
+    "OriginalText": "リージョン6難易度1材料2の解説文",
     "Text": "",
     "Enabled": false
   },
   "360109": {
-    "OriginalText": "リージョン6難易度1村料3の解説文",
+    "OriginalText": "リージョン6難易度1材料3の解説文",
     "Text": "",
     "Enabled": false
   },
   "360110": {
-    "OriginalText": "リージョン6難易度2村料1の解説文",
+    "OriginalText": "リージョン6難易度2材料1の解説文",
     "Text": "",
     "Enabled": false
   },
   "360111": {
-    "OriginalText": "リージョン6難易度2村料2の解説文",
+    "OriginalText": "リージョン6難易度2材料2の解説文",
     "Text": "",
     "Enabled": false
   },
   "360112": {
-    "OriginalText": "リージョン6難易度2村料3の解説文",
+    "OriginalText": "リージョン6難易度2材料3の解説文",
     "Text": "",
     "Enabled": false
   },
   "360113": {
-    "OriginalText": "リージョン6難易度3村料1の解説文",
+    "OriginalText": "リージョン6難易度3材料1の解説文",
     "Text": "",
     "Enabled": false
   },
   "360114": {
-    "OriginalText": "リージョン6難易度3村料2の解説文",
+    "OriginalText": "リージョン6難易度3材料2の解説文",
     "Text": "",
     "Enabled": false
   },
   "360115": {
-    "OriginalText": "リージョン6難易度3村料3の解説文",
+    "OriginalText": "リージョン6難易度3材料3の解説文",
     "Text": "",
     "Enabled": false
   },
   "360116": {
-    "OriginalText": "リージョン6難易度4村料1の解説文",
+    "OriginalText": "リージョン6難易度4材料1の解説文",
     "Text": "",
     "Enabled": false
   },
   "360117": {
-    "OriginalText": "リージョン6難易度4村料2の解説文",
+    "OriginalText": "リージョン6難易度4材料2の解説文",
     "Text": "",
     "Enabled": false
   },
   "360118": {
-    "OriginalText": "リージョン6難易度4村料3の解説文",
+    "OriginalText": "リージョン6難易度4材料3の解説文",
     "Text": "",
     "Enabled": false
   },
   "360119": {
-    "OriginalText": "リージョン6難易度5村料1の解説文",
+    "OriginalText": "リージョン6難易度5材料1の解説文",
     "Text": "",
     "Enabled": false
   },
   "360120": {
-    "OriginalText": "リージョン6難易度5村料2の解説文",
+    "OriginalText": "リージョン6難易度5材料2の解説文",
     "Text": "",
     "Enabled": false
   },
   "360121": {
-    "OriginalText": "リージョン6難易度5村料3の解説文",
+    "OriginalText": "リージョン6難易度5材料3の解説文",
     "Text": "",
     "Enabled": false
   },
   "360122": {
-    "OriginalText": "リージョン8難易度1村料1の解説文",
+    "OriginalText": "リージョン8難易度1材料1の解説文",
     "Text": "",
     "Enabled": false
   },
   "360123": {
-    "OriginalText": "リージョン8難易度1村料2の解説文",
+    "OriginalText": "リージョン8難易度1材料2の解説文",
     "Text": "",
     "Enabled": false
   },
   "360124": {
-    "OriginalText": "リージョン8難易度1村料3の解説文",
+    "OriginalText": "リージョン8難易度1材料3の解説文",
     "Text": "",
     "Enabled": false
   },
   "360125": {
-    "OriginalText": "リージョン8難易度2村料1の解説文",
+    "OriginalText": "リージョン8難易度2材料1の解説文",
     "Text": "",
     "Enabled": false
   },
   "360126": {
-    "OriginalText": "リージョン8難易度2村料2の解説文",
+    "OriginalText": "リージョン8難易度2材料2の解説文",
     "Text": "",
     "Enabled": false
   },
   "360127": {
-    "OriginalText": "リージョン8難易度2村料3の解説文",
+    "OriginalText": "リージョン8難易度2材料3の解説文",
     "Text": "",
     "Enabled": false
   },
   "360128": {
-    "OriginalText": "リージョン8難易度3村料1の解説文",
+    "OriginalText": "リージョン8難易度3材料1の解説文",
     "Text": "",
     "Enabled": false
   },
   "360129": {
-    "OriginalText": "リージョン8難易度3村料2の解説文",
+    "OriginalText": "リージョン8難易度3材料2の解説文",
     "Text": "",
     "Enabled": false
   },
   "360130": {
-    "OriginalText": "リージョン8難易度3村料3の解説文",
+    "OriginalText": "リージョン8難易度3材料3の解説文",
     "Text": "",
     "Enabled": false
   },
   "360131": {
-    "OriginalText": "リージョン8難易度4村料1の解説文",
+    "OriginalText": "リージョン8難易度4材料1の解説文",
     "Text": "",
     "Enabled": false
   },
   "360132": {
-    "OriginalText": "リージョン8難易度4村料2の解説文",
+    "OriginalText": "リージョン8難易度4材料2の解説文",
     "Text": "",
     "Enabled": false
   },
   "360133": {
-    "OriginalText": "リージョン8難易度4村料3の解説文",
+    "OriginalText": "リージョン8難易度4材料3の解説文",
     "Text": "",
     "Enabled": false
   },
   "360134": {
-    "OriginalText": "リージョン8難易度5村料1の解説文",
+    "OriginalText": "リージョン8難易度5材料1の解説文",
     "Text": "",
     "Enabled": false
   },
   "360135": {
-    "OriginalText": "リージョン8難易度5村料2の解説文",
+    "OriginalText": "リージョン8難易度5材料2の解説文",
     "Text": "",
     "Enabled": false
   },
   "360136": {
-    "OriginalText": "リージョン8難易度5村料3の解説文",
+    "OriginalText": "リージョン8難易度5材料3の解説文",
     "Text": "",
     "Enabled": false
   },

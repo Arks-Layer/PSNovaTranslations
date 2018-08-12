@@ -1135,7 +1135,7 @@
     "Enabled": true
   },
   "101020020210005": {
-    "OriginalText": "本来フォトンをエネルギーとする我々の武器や、\nフォイエやレスタが『グラン』で使えたのです。\nその可能性は冷めて高いでしょう。",
+    "OriginalText": "本来フォトンをエネルギーとする我々の武器や、\nフォイエやレスタが『グラン』で使えたのです。\nその可能性は極めて高いでしょう。。",
     "Text": "There is a possibility that we can use\n\"Gran\" for our weapons and Techniques,\nlike Foie and Resta.",
     "Enabled": true
   },
@@ -1615,7 +1615,7 @@
     "Enabled": true
   },
   "101030010030001": {
-    "OriginalText": "この[ruby ほし]惑星[/ruby]ではあたし達が普段\nあらゆるエネルギー装として\n利用しているフォトンが使えません。",
+    "OriginalText": "この[ruby ほし]惑星[/ruby]ではあたし達が普段\nあらゆるエネルギー源として\n利用しているフォトンが使えません。",
     "Text": "On this planet, we cannot use our Photons,\nbut instead the strange energy that is\nnative around here.",
     "Enabled": true
   },
@@ -1750,7 +1750,7 @@
     "Enabled": false
   },
   "102010020180001": {
-    "OriginalText": "うるさいわね！ 冷端なのよあんたは！",
+    "OriginalText": "うるさいわね！ 極端なのよあんたは！",
     "Text": "",
     "Enabled": false
   },
@@ -1840,7 +1840,7 @@
     "Enabled": false
   },
   "102010025050003": {
-    "OriginalText": "わ、綺魅……。",
+    "OriginalText": "わ、綺麗……。",
     "Text": "",
     "Enabled": false
   },
@@ -1855,12 +1855,12 @@
     "Enabled": false
   },
   "102010025080002": {
-    "OriginalText": "結晶化って、これはエネルギー洋質なのか？",
+    "OriginalText": "結晶化って、これはエネルギー物質なのか？",
     "Text": "",
     "Enabled": false
   },
   "102010025090012": {
-    "OriginalText": "ええ、グランは結晶化しやすい性質があり、\nエネルギー装として利用できそうなんです。",
+    "OriginalText": "ええ、グランは結晶化しやすい性質があり、\nエネルギー源として利用できそうなんです。",
     "Text": "",
     "Enabled": false
   },
@@ -1875,7 +1875,7 @@
     "Enabled": false
   },
   "102010025120002": {
-    "OriginalText": "こいつを動力装にするのか！？",
+    "OriginalText": "こいつを動力源にするのか！？",
     "Text": "",
     "Enabled": false
   },
@@ -2415,7 +2415,7 @@
     "Enabled": false
   },
   "102030010150007": {
-    "OriginalText": "ああ、そうそう。あの巨大な洋体のことだけど、\n名称はギガンテスとします。",
+    "OriginalText": "ああ、そうそう。あの巨大な物体のことだけど、\n名称はギガンテスとします。",
     "Text": "",
     "Enabled": false
   },
