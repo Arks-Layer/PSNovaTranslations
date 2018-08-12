@@ -1351,7 +1351,7 @@
   },
   "60009": {
     "OriginalText": "エネミーの注意を引き付ける。\n\n[a 03]※アクティブスキルは同時に２つまで発動可[b]",
-    "Text": "Attract the attention of enemies.\n[a 03]※Up to 2 actives at the same time.[b]",
+    "Text": "Attract the attention of enemies.\n[a 03]＊Up to 2 actives at the same time.[b]",
     "Enabled": true
   },
   "60010": {
@@ -1361,12 +1361,12 @@
   },
   "60011": {
     "OriginalText": "一定時間、打撃力を２０％、射撃力を１０％上昇し\n代わりに、受けるダメージも５％上昇する。\n[a 03]※アクティブスキルは同時に２つまで発動可[b]",
-    "Text": "Increases Striking damage by 20%,\nRanged by 10% and damage taken by 5%.\n[a 03]※Up to 2 actives at the same time.[b]",
+    "Text": "Increases Striking damage by 20%,\nRanged by 10% and damage taken by 5%.\n[a 03]＊Up to 2 actives at the same time.[b]",
     "Enabled": true
   },
   "60012": {
     "OriginalText": "一定時間、打撃防御力を２００上昇し、\n更に、受けるダメージを２０％軽滅する。\n[a 03]※アクティブスキルは同時に２つまで発動可[b]",
-    "Text": "Raises Striking Defense by 200 and\nreduces all damage by 20%.\n[a 03]※Up to 2 actives at the same time.[b]",
+    "Text": "Raises Striking Defense by 200 and\nreduces all damage by 20%.\n[a 03]＊Up to 2 actives at the same time.[b]",
     "Enabled": true
   },
   "60013": {
@@ -1391,12 +1391,12 @@
   },
   "60017": {
     "OriginalText": "一定時間、正面から与えるダメージを\n２５％上昇する。\n[a 03]※アクティブスキルは同時に２つまで発動可[b]",
-    "Text": "Increases damage by 25% when attacking\nenemies from the front.\n[a 03]※Up to 2 actives at the same time.[b]",
+    "Text": "Increases damage by 25% when attacking\nenemies from the front.\n[a 03]＊Up to 2 actives at the same time.[b]",
     "Enabled": true
   },
   "60018": {
     "OriginalText": "一定時間、背後から与えるダメージを\n３５％上昇する。\n[a 03]※アクティブスキルは同時に２つまで発動可[b]",
-    "Text": "Increases damage by 35% when attacking\nenemies from the rear.\n[a 03]※Up to 2 actives at the same time.[b]",
+    "Text": "Increases damage by 35% when attacking\nenemies from the rear.\n[a 03]＊Up to 2 actives at the same time.[b]",
     "Enabled": true
   },
   "60019": {
@@ -1441,7 +1441,7 @@
   },
   "60027": {
     "OriginalText": "一定時間、射撃力と法撃力の合計の\n７５％を打撃力として使用する。\n[a 03]※アクティブスキルは同時に２つまで発動可[b]",
-    "Text": "A portion of your R-ATK and T-ATK is\nconverted into S-ATK.\n[a 03]※Up to 2 actives at the same time.[b]",
+    "Text": "A portion of your R-ATK and T-ATK is\nconverted into S-ATK.\n[a 03]＊Up to 2 actives at the same time.[b]",
     "Enabled": true
   },
   "60028": {
@@ -1496,7 +1496,7 @@
   },
   "60038": {
     "OriginalText": "一定時間、ダメージを受けたとき\n玄け反らなくなる。\n[a 03]※アクティブスキルは同時に２つまで発動可[b]",
-    "Text": "For a period of time, prevent knockback\ndamage.\n[a 03]※Up to 2 actives at the same time.[b]",
+    "Text": "For a period of time, prevent knockback\ndamage.\n[a 03]＊Up to 2 actives at the same time.[b]",
     "Enabled": true
   },
   "60039": {
@@ -1571,7 +1571,7 @@
   },
   "60062": {
     "OriginalText": "一定時間、射撃攻撃ＧＡの\nＧＰ消費量が２０％滅少する。\n[a 03]※アクティブスキルは同時に２つまで発動可[b]",
-    "Text": "Reduces GP consumption for Ranged Gran\nArts for a limited time.\n[a 03]※Up to 2 actives at the same time.[b]",
+    "Text": "Reduces GP consumption for Ranged Gran\nArts for a limited time.\n[a 03]＊Up to 2 actives at the same time.[b]",
     "Enabled": true
   },
   "60063": {
@@ -1581,7 +1581,7 @@
   },
   "60064": {
     "OriginalText": "一定時間、打撃力と法撃力の合計の\n７５％を射撃力として使用する。\n[a 03]※アクティブスキルは同時に２つまで発動可[b]",
-    "Text": "Converts a percentage of your S-ATK and\nT-ATK into R-ATK.\n[a 03]※Up to 2 actives at the same time.[b]",
+    "Text": "Converts a percentage of your S-ATK and\nT-ATK into R-ATK.\n[a 03]＊Up to 2 actives at the same time.[b]",
     "Enabled": true
   },
   "60065": {
@@ -1651,7 +1651,7 @@
   },
   "60078": {
     "OriginalText": "一定時間、射撃力が２５０上昇する。\n\n[a 03]※アクティブスキルは同時に２つまで発動可[b]",
-    "Text": "Temporarily boosts R-ATK by 250.\n[a 03]※Up to 2 actives at the same time.[b]",
+    "Text": "Temporarily boosts R-ATK by 250.\n[a 03]＊Up to 2 actives at the same time.[b]",
     "Enabled": true
   },
   "60079": {
@@ -1696,7 +1696,7 @@
   },
   "60087": {
     "OriginalText": "一定時間、射撃攻撃ＧＡの\nＧＰ消費量が０になる。\n[a 03]※アクティブスキルは同時に２つまで発動可[b]",
-    "Text": "GP consumption for Ranged Gran Arts is 0\nfor a limited time.\n[a 03]※Up to 2 actives at the same time.[b]",
+    "Text": "GP consumption for Ranged Gran Arts is 0\nfor a limited time.\n[a 03]＊Up to 2 actives at the same time.[b]",
     "Enabled": true
   },
   "60088": {
@@ -1711,7 +1711,7 @@
   },
   "60090": {
     "OriginalText": "一定時間、射撃力が４０００上昇する。\n\n[a 03]※アクティブスキルは同時に２つまで発動可[b]",
-    "Text": "Temporarily boosts your R-ATK by 4000.\n[a 03]※Up to 2 actives at the same time.[b]",
+    "Text": "Temporarily boosts your R-ATK by 4000.\n[a 03]＊Up to 2 actives at the same time.[b]",
     "Enabled": true
   },
   "60091": {
@@ -1851,12 +1851,12 @@
   },
   "60125": {
     "OriginalText": "テクニックの使用が可能になる。\n[a 03]※法撃武器のみ武器パレットにセット可能[b]",
-    "Text": "Grants Tech usage.\n[a 03]※Up to 2 actives at the same time.[b]",
+    "Text": "Grants Tech usage.\n[a 03]＊Up to 2 actives at the same time.[b]",
     "Enabled": true
   },
   "60126": {
     "OriginalText": "一定時間、打撃力と射撃力の合計の\n７５％を法撃力として使用する。\n[a 03]※アクティブスキルは同時に２つまで発動可[b]",
-    "Text": "Converts 75% of your S-ATK and R-ATK\ninto T-ATK.\n[a 03]※Up to 2 actives at the same time.[b]",
+    "Text": "Converts 75% of your S-ATK and R-ATK\ninto T-ATK.\n[a 03]＊Up to 2 actives at the same time.[b]",
     "Enabled": true
   },
   "60127": {
@@ -1866,7 +1866,7 @@
   },
   "60128": {
     "OriginalText": "一時的に法撃力が１００％上昇する。\n代わりにＨＰ最大値が１０％低下する。\n[a 03]※アクティブスキルは同時に２つまで発動可[b]",
-    "Text": "Increase T-ATK by 100% while lowering\n10% of your HP for a limited time.\n[a 03]※Up to 2 actives at the same time.[b]",
+    "Text": "Increase T-ATK by 100% while lowering\n10% of your HP for a limited time.\n[a 03]＊Up to 2 actives at the same time.[b]",
     "Enabled": true
   },
   "60129": {
@@ -1966,7 +1966,7 @@
   },
   "60157": {
     "OriginalText": "一定時間、ＧＰ回復量が１００％上昇し\n最大ＨＰが５０％滅少する。\n[a 03]※アクティブスキルは同時に２つまで発動可[b]",
-    "Text": "For a limited time, GP Recovery is\nboosted by 100% and Max HP reduced by\n50%.\n[a 03]※Up to 2 actives at the same time.[b]",
+    "Text": "For a limited time, GP Recovery is\nboosted by 100% and Max HP reduced by\n50%.\n[a 03]＊Up to 2 actives at the same time.[b]",
     "Enabled": true
   },
   "60158": {
@@ -2061,7 +2061,7 @@
   },
   "60176": {
     "OriginalText": "一定時間、無条件に\nダメージが１５％上昇する。\n[a 03]※アクティブスキルは同時に２つまで発動可[b]",
-    "Text": "Increases all damage by 15%.\n[a 03]※Up to 2 actives at the same time.[b]",
+    "Text": "Increases all damage by 15%.\n[a 03]＊Up to 2 actives at the same time.[b]",
     "Enabled": true
   },
   "60177": {
