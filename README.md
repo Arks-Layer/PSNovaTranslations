@@ -55,6 +55,14 @@ We welcome your contributions in the form of pull requests. You may create new i
 
 If you don't understand Japanese, but still want to help out, you can look over the translated lines and make sure all grammar and spelling is correct. (US English, please!)
 
+## Line Lengths
+
+Here is a list of the average line lengths a region will accept before it starts to resize. These should be kept as close to as possible so that text doesn't appear too small due to the automatic resizing.
+
+```
+Item/Skill/Affix Descriptions - 40 Characters
+```
+
 ## Message (RMD) System
 
 The following is some basic information about RMD, the format the game uses to store and handle its string entries and string table.

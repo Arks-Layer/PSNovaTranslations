@@ -238,5 +238,485 @@
     "OriginalText": "木の実スパイスがけ",
     "Text": "Spiced Nut",
     "Enabled": true
+  },
+  "630001": {
+    "OriginalText": "デルタ・ヴァリアント艦内で使用される\n飲料水。高純度濾過で循環利用される。",
+    "Text": "",
+    "Enabled": false
+  },
+  "630002": {
+    "OriginalText": "力をつけるためのガッツあふれる料理。\n肉食こそあらゆるパワーの装泉。",
+    "Text": "",
+    "Enabled": false
+  },
+  "630003": {
+    "OriginalText": "力をつけるためのガッツあふれる料理。\nオムレツの上の黒いソースが味の決め手。",
+    "Text": "",
+    "Enabled": false
+  },
+  "630004": {
+    "OriginalText": "力をつけるためのガッツあふれる料理。\n鼻にツーンとくる隠し味が印象的。",
+    "Text": "",
+    "Enabled": false
+  },
+  "630005": {
+    "OriginalText": "力をつけるためのガッツあふれる料理。\n腹に収まればどうせ一緒という考え方。",
+    "Text": "",
+    "Enabled": false
+  },
+  "630006": {
+    "OriginalText": "力をつけるためのガッツあふれる料理。\n普通すぎて洋足りないと食通には不評。",
+    "Text": "",
+    "Enabled": false
+  },
+  "630007": {
+    "OriginalText": "力をつけるためのガッツあふれる料理。\n何でもぶっこめばいいのがアークス流。",
+    "Text": "",
+    "Enabled": false
+  },
+  "630008": {
+    "OriginalText": "力をつけるためのガッツあふれる料理。\n火照った身体のクールダウンに最適。",
+    "Text": "",
+    "Enabled": false
+  },
+  "630009": {
+    "OriginalText": "力をつけるためのガッツあふれる料理。\n「鮮」は新鮮というより色鮮やかの意。",
+    "Text": "",
+    "Enabled": false
+  },
+  "630010": {
+    "OriginalText": "力をつけるためのガッツあふれる料理。\n具が多いとそれが何かは気にならない。",
+    "Text": "",
+    "Enabled": false
+  },
+  "630011": {
+    "OriginalText": "力をつけるためのガッツあふれる料理。\n子供はダメ、ということはないらしい。",
+    "Text": "",
+    "Enabled": false
+  },
+  "630012": {
+    "OriginalText": "力をつけるためのガッツあふれる料理。\n本洋の寿司職人には叱られるかも。",
+    "Text": "",
+    "Enabled": false
+  },
+  "630013": {
+    "OriginalText": "力をつけるためのガッツあふれる料理。\nこうも大きいとうまくゆでるのは大変。",
+    "Text": "",
+    "Enabled": false
+  },
+  "630014": {
+    "OriginalText": "デルタ・ヴァリアント艦内の焼き謹で\n焼かれているパン。オルター標準食。",
+    "Text": "",
+    "Enabled": false
+  },
+  "630015": {
+    "OriginalText": "体を丈夫にするスタミナたっぷり料理。\n色鮮やかな刺身は栄養成分もよりどり。",
+    "Text": "",
+    "Enabled": false
+  },
+  "630016": {
+    "OriginalText": "体を丈夫にするスタミナたっぷり料理。\n良薬は口に苦しを地でいく薬膳スープ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "630017": {
+    "OriginalText": "体を丈夫にするスタミナたっぷり料理。\n膜β類はしっぽが美味いらしい。",
+    "Text": "",
+    "Enabled": false
+  },
+  "630018": {
+    "OriginalText": "体を丈夫にするスタミナたっぷり料理。\nアークスも飲料もねばりが大事。",
+    "Text": "",
+    "Enabled": false
+  },
+  "630019": {
+    "OriginalText": "体を丈夫にするスタミナたっぷり料理。\nあっさりとした味わいで、男女問わず人気。",
+    "Text": "",
+    "Enabled": false
+  },
+  "630020": {
+    "OriginalText": "体を丈夫にするスタミナたっぷり料理。\n美味いが、焼かれる祭は地獄の苦しみ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "630021": {
+    "OriginalText": "体を丈夫にするスタミナたっぷり料理。\n強い鑑みは味わった者にしかわからない。",
+    "Text": "",
+    "Enabled": false
+  },
+  "630022": {
+    "OriginalText": "体を丈夫にするスタミナたっぷり料理。\nつまみ食いをすると粘が光ってばれる。",
+    "Text": "",
+    "Enabled": false
+  },
+  "630023": {
+    "OriginalText": "体を丈夫にするスタミナたっぷり料理。\n無心に食べきることで新境地に達する。",
+    "Text": "",
+    "Enabled": false
+  },
+  "630024": {
+    "OriginalText": "体を丈夫にするスタミナたっぷり料理。\n普通のたまごとじが懐かしくなる新味。",
+    "Text": "",
+    "Enabled": false
+  },
+  "630025": {
+    "OriginalText": "体を丈夫にするスタミナたっぷり料理。\n煮込んで煮込んで煮込み倒したうどん。",
+    "Text": "",
+    "Enabled": false
+  },
+  "630026": {
+    "OriginalText": "体を丈夫にするスタミナたっぷり料理。\n長い夜をアクティブに過ごしたい。",
+    "Text": "",
+    "Enabled": false
+  },
+  "630027": {
+    "OriginalText": "デルタ・ヴァリアント艦内で燻製された\n標準食。原村料は不問に付されている。",
+    "Text": "",
+    "Enabled": false
+  },
+  "630028": {
+    "OriginalText": "デルタ・ヴァリアント艦内で栽培された\n標準食。貴重なビタミン装となる。",
+    "Text": "",
+    "Enabled": false
+  },
+  "630029": {
+    "OriginalText": "艦内生活に芝いを与えるグルメ料理。\n大きな肉はそれだけで確かな既足感。",
+    "Text": "",
+    "Enabled": false
+  },
+  "630030": {
+    "OriginalText": "艦内生活に芝いを与えるグルメ料理。\n大きなケーキは子どもの頃の皆の夢。",
+    "Text": "",
+    "Enabled": false
+  },
+  "630031": {
+    "OriginalText": "艦内生活に芝いを与えるグルメ料理。\n焼加滅はレアで血の滴りを味わいたい。",
+    "Text": "",
+    "Enabled": false
+  },
+  "630032": {
+    "OriginalText": "艦内生活に芝いを与えるグルメ料理。\n焼けば大抵食べられるという方針。",
+    "Text": "",
+    "Enabled": false
+  },
+  "630033": {
+    "OriginalText": "艦内生活に芝いを与えるグルメ料理。\n出所の怪しい肉もおいしくいただける。",
+    "Text": "",
+    "Enabled": false
+  },
+  "630034": {
+    "OriginalText": "艦内生活に芝いを与えるグルメ料理。\n長時間煮込めば大抵おいしくなるもの。",
+    "Text": "",
+    "Enabled": false
+  },
+  "630035": {
+    "OriginalText": "艦内生活に芝いを与えるグルメ料理。\nデンプン質に依らないとろみが新味。",
+    "Text": "",
+    "Enabled": false
+  },
+  "630036": {
+    "OriginalText": "艦内生活に芝いを与えるグルメ料理。\n食感を楽しむことの贅沢さを再確認。",
+    "Text": "",
+    "Enabled": false
+  },
+  "630037": {
+    "OriginalText": "艦内生活に芝いを与えるグルメ料理。\n揚げ洋は高カロリーだからこそ美味い。",
+    "Text": "",
+    "Enabled": false
+  },
+  "630038": {
+    "OriginalText": "艦内生活に芝いを与えるグルメ料理。\nこれをババロアと呼べるかは杓否両論。",
+    "Text": "",
+    "Enabled": false
+  },
+  "630039": {
+    "OriginalText": "艦内生活に芝いを与えるグルメ料理。\n特盛りという言葉の響きこそが贅沢。",
+    "Text": "",
+    "Enabled": false
+  },
+  "630040": {
+    "OriginalText": "艦内生活に芝いを与えるグルメ料理。\n栄養不足を補うには何でも食べないと。",
+    "Text": "",
+    "Enabled": false
+  },
+  "630041": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "630042": {
+    "OriginalText": "この惑星でしか味わえない美食。\n見た目と味わいは必ずしも一致しない。",
+    "Text": "",
+    "Enabled": false
+  },
+  "630043": {
+    "OriginalText": "この惑星でしか味わえない美食。\nさぞいい洋を食べて育ったに違いない。",
+    "Text": "",
+    "Enabled": false
+  },
+  "630044": {
+    "OriginalText": "この惑星でしか味わえない美食。\n希少性が高いと味にバイアスがかかる。",
+    "Text": "",
+    "Enabled": false
+  },
+  "630045": {
+    "OriginalText": "弾ける食感を味わえる料理。\nおかずにもつまみにもなる。",
+    "Text": "",
+    "Enabled": false
+  },
+  "630046": {
+    "OriginalText": "弾ける食感を味わえる料理。\n食べ過ぎるとお腹を壊すかもしれない。",
+    "Text": "",
+    "Enabled": false
+  },
+  "630047": {
+    "OriginalText": "弾ける食感を味わえる料理。\n食べ始めたら止まらない。",
+    "Text": "",
+    "Enabled": false
+  },
+  "740001": {
+    "OriginalText": "施設効果0000",
+    "Text": "Facility Effect",
+    "Enabled": true
+  },
+  "745001": {
+    "OriginalText": "攻撃力アップ ＋１％",
+    "Text": "Attack +1%",
+    "Enabled": true
+  },
+  "745002": {
+    "OriginalText": "攻撃力アップ ＋３％",
+    "Text": "Attack +3%",
+    "Enabled": true
+  },
+  "745003": {
+    "OriginalText": "攻撃力アップ ＋５％",
+    "Text": "Attack +5%",
+    "Enabled": true
+  },
+  "745004": {
+    "OriginalText": "攻撃力アップ ＋１０％",
+    "Text": "Attack +10%",
+    "Enabled": true
+  },
+  "745005": {
+    "OriginalText": "炎属性ダメージ ＋７％",
+    "Text": "Fire Damage +7%",
+    "Enabled": true
+  },
+  "745006": {
+    "OriginalText": "劇属性ダメージ ＋７％",
+    "Text": "Ice Damage +7%",
+    "Enabled": true
+  },
+  "745007": {
+    "OriginalText": "雷属性ダメージ ＋７％",
+    "Text": "Lightning Damage +7%",
+    "Enabled": true
+  },
+  "745008": {
+    "OriginalText": "風属性ダメージ ＋７％",
+    "Text": "Wind Damage +7%",
+    "Enabled": true
+  },
+  "745009": {
+    "OriginalText": "光属性ダメージ ＋７％",
+    "Text": "Light Damage +7%",
+    "Enabled": true
+  },
+  "745010": {
+    "OriginalText": "闇属性ダメージ ＋７％",
+    "Text": "Dark Damage +7%",
+    "Enabled": true
+  },
+  "745011": {
+    "OriginalText": "追加：グラン中毒",
+    "Text": "Add: Gran Poisoning",
+    "Enabled": true
+  },
+  "745012": {
+    "OriginalText": "追加：バインド",
+    "Text": "Add: Bind",
+    "Enabled": true
+  },
+  "745013": {
+    "OriginalText": "追加：インフェクション",
+    "Text": "Add: Infection",
+    "Enabled": true
+  },
+  "745014": {
+    "OriginalText": "追加：ブラインド",
+    "Text": "Add: Blind",
+    "Enabled": true
+  },
+  "745015": {
+    "OriginalText": "弱点ダメージアップ",
+    "Text": "Weak Point Damage",
+    "Enabled": true
+  },
+  "745016": {
+    "OriginalText": "クリティカル率アップ",
+    "Text": "Increased Critical Rate",
+    "Enabled": true
+  },
+  "745017": {
+    "OriginalText": "防御力アップ ＋１％",
+    "Text": "Defense +1%",
+    "Enabled": true
+  },
+  "745018": {
+    "OriginalText": "防御力アップ ＋３％",
+    "Text": "Defense +3%",
+    "Enabled": true
+  },
+  "745019": {
+    "OriginalText": "防御力アップ ＋５％",
+    "Text": "Defense +5%",
+    "Enabled": true
+  },
+  "745020": {
+    "OriginalText": "防御力アップ ＋１０％",
+    "Text": "Defense +10%",
+    "Enabled": true
+  },
+  "745021": {
+    "OriginalText": "炎耐性 ＋８％",
+    "Text": "Flame Resist +7%",
+    "Enabled": true
+  },
+  "745022": {
+    "OriginalText": "劇耐性 ＋８％",
+    "Text": "Ice Resist +7%",
+    "Enabled": true
+  },
+  "745023": {
+    "OriginalText": "雷耐性 ＋８％",
+    "Text": "Lightning Resist +7%",
+    "Enabled": true
+  },
+  "745024": {
+    "OriginalText": "風耐性 ＋８％",
+    "Text": "Wind Resist +7%",
+    "Enabled": true
+  },
+  "745025": {
+    "OriginalText": "光耐性 ＋８％",
+    "Text": "Light Resist +7%",
+    "Enabled": true
+  },
+  "745026": {
+    "OriginalText": "闇耐性 ＋８％",
+    "Text": "Dark Resist +7%",
+    "Enabled": true
+  },
+  "745027": {
+    "OriginalText": "GP回復量アップ",
+    "Text": "GP Recovery",
+    "Enabled": true
+  },
+  "745028": {
+    "OriginalText": "チャージ短温",
+    "Text": "Charge Reduction",
+    "Enabled": true
+  },
+  "745029": {
+    "OriginalText": "確率でリアクション無効",
+    "Text": "Nullify Knockback Chance",
+    "Enabled": true
+  },
+  "745030": {
+    "OriginalText": "確率でダメージ無効",
+    "Text": "Nullify Damage Chance",
+    "Enabled": true
+  },
+  "745031": {
+    "OriginalText": "アイテム回復量 ＋５％",
+    "Text": "Heal Item Boost +5%",
+    "Enabled": true
+  },
+  "745032": {
+    "OriginalText": "復活＋１",
+    "Text": "Revive +1",
+    "Enabled": true
+  },
+  "745033": {
+    "OriginalText": "ＨＰアップ ＋１％",
+    "Text": "HP +1%",
+    "Enabled": true
+  },
+  "745034": {
+    "OriginalText": "ＧＰアップ ＋１％",
+    "Text": "GP +1%",
+    "Enabled": true
+  },
+  "745035": {
+    "OriginalText": "ＨＰアップ ＋５％",
+    "Text": "HP +5%",
+    "Enabled": true
+  },
+  "745036": {
+    "OriginalText": "ＧＰアップ ＋２％",
+    "Text": "GP +2%",
+    "Enabled": true
+  },
+  "745037": {
+    "OriginalText": "経験値 ＋１０％",
+    "Text": "EXP +10%",
+    "Enabled": true
+  },
+  "745038": {
+    "OriginalText": "バーストゲージ初期ボーナス",
+    "Text": "Initial GB Bonus",
+    "Enabled": true
+  },
+  "745039": {
+    "OriginalText": "チェイン時間延長",
+    "Text": "Chain Time",
+    "Enabled": true
+  },
+  "745040": {
+    "OriginalText": "バースト時間延長",
+    "Text": "BURST Time",
+    "Enabled": true
+  },
+  "745041": {
+    "OriginalText": "アイテムドロップ ＋５％",
+    "Text": "Drop Rate +5%",
+    "Enabled": true
+  },
+  "745042": {
+    "OriginalText": "レアドロップ ＋５％",
+    "Text": "Rare Drop Rate +5%",
+    "Enabled": true
+  },
+  "745043": {
+    "OriginalText": "確率でダメージアップ",
+    "Text": "Damage Increase Chance",
+    "Enabled": true
+  },
+  "745044": {
+    "OriginalText": "状態異常耐性アップ",
+    "Text": "Status Resist",
+    "Enabled": true
+  },
+  "745045": {
+    "OriginalText": "攻撃力＋１５％",
+    "Text": "Attack +15%",
+    "Enabled": true
+  },
+  "745046": {
+    "OriginalText": "防御力＋１５％",
+    "Text": "Defense +15%",
+    "Enabled": true
+  },
+  "745047": {
+    "OriginalText": "バーストゲージ上昇率アップ",
+    "Text": "BURST Accumulation Rate",
+    "Enabled": true
+  },
+  "745048": {
+    "OriginalText": "バーストゲージ上昇率アップ（小）",
+    "Text": "BURST Accumulation Rate (Small)",
+    "Enabled": true
   }
 }

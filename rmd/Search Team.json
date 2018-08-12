@@ -1,4 +1,544 @@
 {
+  "700000": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "700001": {
+    "OriginalText": "［食材調達］原生膜β類食材調達",
+    "Text": "[Gather] Native β Ingredients",
+    "Enabled": true
+  },
+  "700002": {
+    "OriginalText": "［調査］銅の荒野開柘調査",
+    "Text": "[Survey] Steel Wastelands Wilderness",
+    "Enabled": true
+  },
+  "700003": {
+    "OriginalText": "［調査］グラン水装の調査",
+    "Text": "[Survey] Gran Water Rig",
+    "Enabled": true
+  },
+  "700004": {
+    "OriginalText": "［採集］銅の荒野グランピース採集",
+    "Text": "[Collect] Steel Wastelands Gran Pieces",
+    "Enabled": true
+  },
+  "700005": {
+    "OriginalText": "［食材調達］ダーカー食材調達",
+    "Text": "[Gather] Darker Ingredients",
+    "Enabled": true
+  },
+  "700006": {
+    "OriginalText": "［エネミー］グラン水装機械生洋討伐",
+    "Text": "[Enemy] Gran Water Rig Machine Suppression",
+    "Enabled": true
+  },
+  "700007": {
+    "OriginalText": "［調査］惑星の概要調査",
+    "Text": "[Survey] Planet Overview",
+    "Enabled": true
+  },
+  "700008": {
+    "OriginalText": "［採集］グラン水装グランピース採集",
+    "Text": "[Collect] Gran Water Rig Gran Pieces",
+    "Enabled": true
+  },
+  "700009": {
+    "OriginalText": "［食材調達］炎の高地食材回収",
+    "Text": "[Gather] Flame Highlands Ingredients",
+    "Enabled": true
+  },
+  "700010": {
+    "OriginalText": "［エネミー］コラル・ドラゴン討伐",
+    "Text": "[Enemy] Coral Dragon Suppression",
+    "Enabled": true
+  },
+  "700011": {
+    "OriginalText": "［調査］惑星の大気調査",
+    "Text": "[Survey] Planet Atmosphere",
+    "Enabled": true
+  },
+  "700012": {
+    "OriginalText": "［採集］炎の高地グランピース採集",
+    "Text": "[Collect] Flame Highlands Gran Pieces",
+    "Enabled": true
+  },
+  "700013": {
+    "OriginalText": "［食材調達］銅の荒野ダーカー食材調達",
+    "Text": "[Gather] Steel Wastelands Darker Ingredients",
+    "Enabled": true
+  },
+  "700014": {
+    "OriginalText": "［エネミー］銅の荒野原生種討伐",
+    "Text": "[Enemy] Steel Wastelands Natives Suppression",
+    "Enabled": true
+  },
+  "700015": {
+    "OriginalText": "［調査］銅の荒野生態系調査",
+    "Text": "[Survey] Steel Wastelands Ecosystem",
+    "Enabled": true
+  },
+  "700016": {
+    "OriginalText": "［採集］銅の荒野鉱石採集",
+    "Text": "[Collect] Steel Wastelands Ore",
+    "Enabled": true
+  },
+  "700017": {
+    "OriginalText": "［エネミー］銅の荒野アグリオス討伐",
+    "Text": "[Enemy] Steel Wastelands Agrios Suppression",
+    "Enabled": true
+  },
+  "700018": {
+    "OriginalText": "［食材調達］グラン水装原生種食材調達",
+    "Text": "[Gather] Gran Water Rig Species Ingredients",
+    "Enabled": true
+  },
+  "700019": {
+    "OriginalText": "［エネミー］Ｇダーク・ラグネ討伐",
+    "Text": "[Enemy] G-Dark Ragne Suppression",
+    "Enabled": true
+  },
+  "700020": {
+    "OriginalText": "［調査］惑星の気候調査",
+    "Text": "[Survey] Planet Climate",
+    "Enabled": true
+  },
+  "700021": {
+    "OriginalText": "［採集］グラン水装鉱石採集",
+    "Text": "[Collect] Gran Water Rig Ore",
+    "Enabled": true
+  },
+  "700022": {
+    "OriginalText": "［エネミー］エウリュード討伐",
+    "Text": "[Enemy] Eurude Suppression",
+    "Enabled": true
+  },
+  "700023": {
+    "OriginalText": "［食材調達］炎の高地原生種食材調達",
+    "Text": "[Gather] Flame Highlands Plant Ingredients",
+    "Enabled": true
+  },
+  "700024": {
+    "OriginalText": "［エネミー］炎の高地原生生洋討伐",
+    "Text": "[Enemy] Flame Highlands Natives Suppression",
+    "Enabled": true
+  },
+  "700025": {
+    "OriginalText": "［調査］惑星の地質調査",
+    "Text": "[Survey] Planet Geology",
+    "Enabled": true
+  },
+  "700026": {
+    "OriginalText": "［採集］炎の高地結晶採集",
+    "Text": "[Collect] Flame Highlands Crystals",
+    "Enabled": true
+  },
+  "700027": {
+    "OriginalText": "［エネミー］アルキュオネ討伐",
+    "Text": "[Enemy] Alcyone Suppression",
+    "Enabled": true
+  },
+  "700028": {
+    "OriginalText": "［食材調達］銅の荒野食材調達",
+    "Text": "[Gather] Steel Wastelands Ingredients",
+    "Enabled": true
+  },
+  "700029": {
+    "OriginalText": "［エネミー］ギガンテス捜索討伐",
+    "Text": "[Enemy] Gigantes Search and Suppress",
+    "Enabled": true
+  },
+  "700030": {
+    "OriginalText": "［調査］古代都市生態調査",
+    "Text": "[Survey] Ancient City Ecology",
+    "Enabled": true
+  },
+  "700031": {
+    "OriginalText": "［採集］銅の荒野稀少鉱石採集",
+    "Text": "[Collect] Steel Wastelands Rare Ore",
+    "Enabled": true
+  },
+  "700032": {
+    "OriginalText": "［エネミー］原生種討伐",
+    "Text": "[Enemy] Natives Suppression",
+    "Enabled": true
+  },
+  "700033": {
+    "OriginalText": "［食材調達］グラン水装食材調達",
+    "Text": "[Gather] Gran Water Rig Ingredients",
+    "Enabled": true
+  },
+  "700034": {
+    "OriginalText": "［エネミー］グラン水装機械生洋討伐",
+    "Text": "[Enemy] Gran Water Rig Machine Suppression",
+    "Enabled": true
+  },
+  "700035": {
+    "OriginalText": "［調査］原生種の牙採集調査",
+    "Text": "[Survey] Native Fangs",
+    "Enabled": true
+  },
+  "700036": {
+    "OriginalText": "［採集］グラン水装稀少鉱石採集",
+    "Text": "[Collect] Gran Water Rig Rare Ore",
+    "Enabled": true
+  },
+  "700037": {
+    "OriginalText": "［エネミー］大尖塔原生膜β類討伐",
+    "Text": "[Enemy] Large Spire Natives β Suppression",
+    "Enabled": true
+  },
+  "700038": {
+    "OriginalText": "［食材調達］炎の高地高難度食材採集",
+    "Text": "[Gather] Flame Highlands Rare Ingredients",
+    "Enabled": true
+  },
+  "700039": {
+    "OriginalText": "［エネミー］惑星本体ギガンテス討伐",
+    "Text": "[Enemy] Planet Gigantes Suppression",
+    "Enabled": true
+  },
+  "700040": {
+    "OriginalText": "［調査］ギガンテス素材調査",
+    "Text": "[Survey] Gigantes Material",
+    "Enabled": true
+  },
+  "700041": {
+    "OriginalText": "［採集］炎の高地輝石採集",
+    "Text": "[Collect] Flame Highlands Pyroxene",
+    "Enabled": true
+  },
+  "700042": {
+    "OriginalText": "［エネミー］エネミー危険調査討伐",
+    "Text": "[Enemy] Dangerous Enemies Suppression",
+    "Enabled": true
+  },
+  "700043": {
+    "OriginalText": "［食材調達］大尖塔植洋食材採集",
+    "Text": "[Gather] Large Spire Plant Ingredients",
+    "Enabled": true
+  },
+  "700044": {
+    "OriginalText": "［エネミー］大尖塔エネミー討伐",
+    "Text": "[Enemy] Large Spire Suppression",
+    "Enabled": true
+  },
+  "700045": {
+    "OriginalText": "［調査］古代都市地質調査",
+    "Text": "[Survey] Ancient City Geology",
+    "Enabled": true
+  },
+  "700046": {
+    "OriginalText": "［採集］大尖塔遺洋調査採集",
+    "Text": "[Collect] Large Spire Ore",
+    "Enabled": true
+  },
+  "700047": {
+    "OriginalText": "［食材調達］古代都市食材調達",
+    "Text": "[Gather] Ancient City Ingredients",
+    "Enabled": true
+  },
+  "700048": {
+    "OriginalText": "［エネミー］モストカーネベア討伐",
+    "Text": "[Enemy] Mostcarnne Bear Suppression",
+    "Enabled": true
+  },
+  "700049": {
+    "OriginalText": "［調査］ダーカー素材調査",
+    "Text": "[Survey] Darker Material",
+    "Enabled": true
+  },
+  "700050": {
+    "OriginalText": "［採集］古代都市資材回収",
+    "Text": "[Collect] Ancient City Materials",
+    "Enabled": true
+  },
+  "700051": {
+    "OriginalText": "［食材調達］銅の荒野膜β類食材調達",
+    "Text": "[Gather] Steel Wastelands Natives β Suppression",
+    "Enabled": true
+  },
+  "700052": {
+    "OriginalText": "［エネミー］銅の荒野原生種大量討伐",
+    "Text": "[Enemy] Steel Wastelands Natives Extermination",
+    "Enabled": true
+  },
+  "700053": {
+    "OriginalText": "［調査］膜β類エネミー素材調査",
+    "Text": "[Survey] β Enemy Material",
+    "Enabled": true
+  },
+  "700054": {
+    "OriginalText": "［食材調達］グラン水装肉食材調達",
+    "Text": "[Gather] Gran Water Rig Meat",
+    "Enabled": true
+  },
+  "700055": {
+    "OriginalText": "［エネミー］グラン水装ギガンテス討伐",
+    "Text": "[Enemy] Gran Water Rig Gigantes Suppression",
+    "Enabled": true
+  },
+  "700056": {
+    "OriginalText": "［調査］エネミー素材調査",
+    "Text": "[Survey] Enemy Material",
+    "Enabled": true
+  },
+  "700057": {
+    "OriginalText": "［食材調達］炎の高地水晶竜食材調達",
+    "Text": "[Gather] Flame Highlands Earth Crystal Dragon Ingredients",
+    "Enabled": true
+  },
+  "700058": {
+    "OriginalText": "［エネミー］炎の高地大型エネミー討伐",
+    "Text": "[Enemy] Flame Highlands Large Enemies Suppression",
+    "Enabled": true
+  },
+  "700059": {
+    "OriginalText": "［エネミー］大尖塔大型エネミー討伐",
+    "Text": "[Enemy] Large Spire Large Enemies Suppression",
+    "Enabled": true
+  },
+  "700060": {
+    "OriginalText": "［食材調達］大尖塔食材調査",
+    "Text": "[Gather] Large Spire Ingredients",
+    "Enabled": true
+  },
+  "700061": {
+    "OriginalText": "［エネミー］ゴルドス討伐",
+    "Text": "[Enemy] Gordes Suppression",
+    "Enabled": true
+  },
+  "700062": {
+    "OriginalText": "［エネミー］ガラティオン討伐",
+    "Text": "[Enemy] Garation Suppression",
+    "Enabled": true
+  },
+  "700063": {
+    "OriginalText": "［食材調達］古代都市鳥食材調達",
+    "Text": "[Gather] Ancient City Bird Ingredients",
+    "Enabled": true
+  },
+  "700064": {
+    "OriginalText": "［エネミー］古代都市掃討作戦",
+    "Text": "[Enemy] Ancient City Suppression",
+    "Enabled": true
+  },
+  "700065": {
+    "OriginalText": "［調査］高難度鉱石回収",
+    "Text": "[Survey] Rare Ore Collection",
+    "Enabled": true
+  },
+  "700066": {
+    "OriginalText": "［食材調達］アグリオスのたまご調達",
+    "Text": "[Gather] Agrios Eggs",
+    "Enabled": true
+  },
+  "700067": {
+    "OriginalText": "［エネミー］銅の荒野原生種討伐",
+    "Text": "[Enemy] Steel Wastelands Suppression",
+    "Enabled": true
+  },
+  "700068": {
+    "OriginalText": "［調査］銅の荒野広域調査",
+    "Text": "[Survey] Steel Wastelands Area",
+    "Enabled": true
+  },
+  "700069": {
+    "OriginalText": "［採集］銅の荒野鉱石採集",
+    "Text": "[Collect] Steel Wastelands Ore",
+    "Enabled": true
+  },
+  "700070": {
+    "OriginalText": "［エネミー］銅の荒野機械生洋討伐",
+    "Text": "[Enemy] Steel Wastelands Machine Suppression",
+    "Enabled": true
+  },
+  "700071": {
+    "OriginalText": "［食材調達］グラン水装大量食材調達",
+    "Text": "[Gather] Gran Water Rig Numerous Ingredients",
+    "Enabled": true
+  },
+  "700072": {
+    "OriginalText": "［エネミー］グラン水装ギガンテス捜索",
+    "Text": "[Enemy] Gran Water Rig Gigantes Search",
+    "Enabled": true
+  },
+  "700073": {
+    "OriginalText": "［調査］グラン水装の生態系調査",
+    "Text": "[Survey] Gran Ecosystem",
+    "Enabled": true
+  },
+  "700074": {
+    "OriginalText": "［採集］グラン水装鉱石大捜索採集",
+    "Text": "[Collect] Gran Water Rig Large Ore",
+    "Enabled": true
+  },
+  "700075": {
+    "OriginalText": "［エネミー］グラン水装原生種討伐",
+    "Text": "[Enemy] Gran Water Rig Natives Suppression",
+    "Enabled": true
+  },
+  "700076": {
+    "OriginalText": "［食材調達］竜族のたまご調達",
+    "Text": "[Gather] Dragon Eggs",
+    "Enabled": true
+  },
+  "700077": {
+    "OriginalText": "［エネミー］炎の高地アルキュオネ討伐",
+    "Text": "[Enemy] Flame Highlands Alcyone Suppression",
+    "Enabled": true
+  },
+  "700078": {
+    "OriginalText": "［調査］炎の高地機械生洋素材調査",
+    "Text": "[Survey] Flame Highlands Machine Materials",
+    "Enabled": true
+  },
+  "700079": {
+    "OriginalText": "［採集］炎の高地輝石大捜索採集",
+    "Text": "[Collect] Flame Highlands Large Pyroxene",
+    "Enabled": true
+  },
+  "700080": {
+    "OriginalText": "［エネミー］惑星ギガンテス捜索討伐",
+    "Text": "[Enemy] Planet Gigantes Search and Suppress",
+    "Enabled": true
+  },
+  "700081": {
+    "OriginalText": "［食材調達］大尖塔食材調達",
+    "Text": "[Gather] Large Spire Ingredients",
+    "Enabled": true
+  },
+  "700082": {
+    "OriginalText": "［エネミー］大尖塔原生種クリーン作戦",
+    "Text": "[Enemy] Large Spire Natives Clean Suppression",
+    "Enabled": true
+  },
+  "700083": {
+    "OriginalText": "［調査］大尖塔で調査用樹木伐採",
+    "Text": "[Survey] Large Spire Trees",
+    "Enabled": true
+  },
+  "700084": {
+    "OriginalText": "［採集］大尖塔資材採集",
+    "Text": "[Collect] Large Spire Materials",
+    "Enabled": true
+  },
+  "700085": {
+    "OriginalText": "［エネミー］大尖塔原生種討伐",
+    "Text": "[Enemy] Large Spire Natives Suppression",
+    "Enabled": true
+  },
+  "700086": {
+    "OriginalText": "［食材調達］古代都市食材調達",
+    "Text": "[Gather] Ancient City Ingredients",
+    "Enabled": true
+  },
+  "700087": {
+    "OriginalText": "［エネミー］古代都市大型エネミー討伐",
+    "Text": "[Enemy] Ancient City Large Enemies Suppression",
+    "Enabled": true
+  },
+  "700088": {
+    "OriginalText": "［エネミー］デェフキュオネ討伐",
+    "Text": "[Enemy] Defcyone Suppression",
+    "Enabled": true
+  },
+  "700089": {
+    "OriginalText": "［採集］古代都市鉄柱採集",
+    "Text": "[Collect] Ancient City Shellfish",
+    "Enabled": true
+  },
+  "700090": {
+    "OriginalText": "［エネミー］ギガンテス討伐",
+    "Text": "[Enemy] Gigantes Suppression",
+    "Enabled": true
+  },
+  "700091": {
+    "OriginalText": "［食材調達］ノヴァ内部食材調達",
+    "Text": "[Gather] Nova Interior Ingredients",
+    "Enabled": true
+  },
+  "700092": {
+    "OriginalText": "［エネミー］ノヴァ内部エネミー討伐",
+    "Text": "[Enemy] Nova Interior Suppression",
+    "Enabled": true
+  },
+  "700093": {
+    "OriginalText": "［調査］ノヴァ内部地質調査",
+    "Text": "[Survey] Nova Interior Geology",
+    "Enabled": true
+  },
+  "700094": {
+    "OriginalText": "［採集］ミグマタイト採集",
+    "Text": "[Collect] Migmatite",
+    "Enabled": true
+  },
+  "700095": {
+    "OriginalText": "［エネミー］ノヴァ内部掃討作戦",
+    "Text": "[Enemy] Nova Interior Extermination",
+    "Enabled": true
+  },
+  "700096": {
+    "OriginalText": "［食材調達］ノヴァ内部食材調達",
+    "Text": "[Gather] Nova Interior Ingredients",
+    "Enabled": true
+  },
+  "700097": {
+    "OriginalText": "［エネミー］ファンアフォル討伐",
+    "Text": "[Enemy] Fan'aphol Suppression",
+    "Enabled": true
+  },
+  "700098": {
+    "OriginalText": "［調査］ノヴァ内部危険度調査",
+    "Text": "[Survey] Nova Interior Risk",
+    "Enabled": true
+  },
+  "700099": {
+    "OriginalText": "［採集］クリソベル石採集",
+    "Text": "[Collect] Cymophane Stone",
+    "Enabled": true
+  },
+  "700100": {
+    "OriginalText": "［エネミー］ギガティオン討伐",
+    "Text": "[Enemy] Gigation Suppression",
+    "Enabled": true
+  },
+  "700101": {
+    "OriginalText": "［採集］フラグメント採集",
+    "Text": "[Collect] Fragments",
+    "Enabled": true
+  },
+  "700102": {
+    "OriginalText": "［採集］地上フラグメント採集",
+    "Text": "[Collect] Ground Fragments",
+    "Enabled": true
+  },
+  "700103": {
+    "OriginalText": "［採集］惑星本体フラグメント採集",
+    "Text": "[Collect] Planet Fragments",
+    "Enabled": true
+  },
+  "700104": {
+    "OriginalText": "［採集］フラグメントＣ～Ｄ採集",
+    "Text": "[Collect] C～D Fragments",
+    "Enabled": true
+  },
+  "700105": {
+    "OriginalText": "［採集］フラグメントＥ～Ｆ採集",
+    "Text": "[Collect] E～F Fragments",
+    "Enabled": true
+  },
+  "700106": {
+    "OriginalText": "［採集］フラグメントＧ～Ｈ採集",
+    "Text": "[Collect] G～H Fragments",
+    "Enabled": true
+  },
+  "700107": {
+    "OriginalText": "［採集］フラグメントＩ～Ｊ採集",
+    "Text": "[Collect] I～J Fragments",
+    "Enabled": true
+  },
   "710000": {
     "OriginalText": "",
     "Text": "",
@@ -538,5 +1078,565 @@
     "OriginalText": "メモリーフラグメントＩ、Ｊの採集に向かう。\n高レベルのエネミーが対象になるため、\n危険を伴う任務になると予想される。\n結果は追って報告する。",
     "Text": "Memory Fragment I × 20\nメモリーフラグメントＪ × 5\nメモリーフラグメントＫ × 3",
     "Enabled": true
+  },
+  "730101": {
+    "OriginalText": "準備万端です！\nいつでも声かけてくださいね。",
+    "Text": "",
+    "Enabled": false
+  },
+  "730102": {
+    "OriginalText": "探索隊を出動させるの？\nまぁかまわないよ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "730103": {
+    "OriginalText": "今度はどこに探索しに行けばいいんだ？",
+    "Text": "",
+    "Enabled": false
+  },
+  "730104": {
+    "OriginalText": "知らない場所にいくのってワクワクするよな。",
+    "Text": "",
+    "Enabled": false
+  },
+  "730105": {
+    "OriginalText": "僕が探索隊のリーダーだなんて……。",
+    "Text": "",
+    "Enabled": false
+  },
+  "730106": {
+    "OriginalText": "ここからなら、シャロンさんが\n見えるかな？",
+    "Text": "",
+    "Enabled": false
+  },
+  "730107": {
+    "OriginalText": "探索隊を動かしたいのかい？",
+    "Text": "",
+    "Enabled": false
+  },
+  "730108": {
+    "OriginalText": "なんだ、出撃でもさせんのか？",
+    "Text": "",
+    "Enabled": false
+  },
+  "730109": {
+    "OriginalText": "何なりとお命じください。",
+    "Text": "",
+    "Enabled": false
+  },
+  "730110": {
+    "OriginalText": "ん、探索隊を出すのか？",
+    "Text": "",
+    "Enabled": false
+  },
+  "730111": {
+    "OriginalText": "ワシの探索隊の実力を見たいのじゃろう。",
+    "Text": "",
+    "Enabled": false
+  },
+  "730112": {
+    "OriginalText": "探索中の動きは俺に任せてもらおう。\nとやかく言われる好きではない。",
+    "Text": "",
+    "Enabled": false
+  },
+  "730113": {
+    "OriginalText": "探索にはいい頃合い。\nあなたもそう思うでしょ？",
+    "Text": "",
+    "Enabled": false
+  },
+  "730114": {
+    "OriginalText": "探索活動向きの人や\nそうでない人もいます。\nそれを見冷めるのがあなたの仕事ですよ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "730115": {
+    "OriginalText": "そろそろ探索したく\nなっちゃたんじゃないですか？\nどんどん任せてください！",
+    "Text": "",
+    "Enabled": false
+  },
+  "730116": {
+    "OriginalText": "探索隊に任せっきりじゃなく\nちょっとは手龍ってよね。",
+    "Text": "",
+    "Enabled": false
+  },
+  "730117": {
+    "OriginalText": "探索隊を出撃させますか？",
+    "Text": "",
+    "Enabled": false
+  },
+  "730118": {
+    "OriginalText": "ガンガン探索行っちゃうよ！\nせっかくなら一緒に行かない？",
+    "Text": "",
+    "Enabled": false
+  },
+  "730119": {
+    "OriginalText": "あらあらっ、探索いっちゃう？",
+    "Text": "",
+    "Enabled": false
+  },
+  "730120": {
+    "OriginalText": "私を探索隊のリーダーに据えるとは\n見る目あるんじゃないかしら。",
+    "Text": "",
+    "Enabled": false
+  },
+  "730121": {
+    "OriginalText": "探索への出撃準備は出来ています。\nいつでもご指示をお願いします。",
+    "Text": "",
+    "Enabled": false
+  },
+  "730122": {
+    "OriginalText": "探索とはなかなか\n忍耐のいる任務なんだぞ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "730123": {
+    "OriginalText": "良き探索者とは、探索におけるあらゆる\n失敗を冒した人洋のことかもしれんの。\n要は臆せず、まずは試してみることじゃ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "730124": {
+    "OriginalText": "心配しなくでも準備は万端さね。",
+    "Text": "",
+    "Enabled": false
+  },
+  "730125": {
+    "OriginalText": "なんだ、探索隊を出撃させるのか？",
+    "Text": "",
+    "Enabled": false
+  },
+  "730126": {
+    "OriginalText": "探索隊の準備は出来てるよ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "730127": {
+    "OriginalText": "へへっ、探索隊の準備は\nいつでも万全だぜ！",
+    "Text": "",
+    "Enabled": false
+  },
+  "730128": {
+    "OriginalText": "探索隊にお手龍いできることある？",
+    "Text": "",
+    "Enabled": false
+  },
+  "730201": {
+    "OriginalText": "それでは行ってきます！",
+    "Text": "",
+    "Enabled": false
+  },
+  "730202": {
+    "OriginalText": "まぁ、期待しないで待っててよ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "730203": {
+    "OriginalText": "じゃっ、行ってくる！",
+    "Text": "",
+    "Enabled": false
+  },
+  "730204": {
+    "OriginalText": "おーっし！ 行ってくるぜ！",
+    "Text": "",
+    "Enabled": false
+  },
+  "730205": {
+    "OriginalText": "えっと……、た、探索隊行ってきます！",
+    "Text": "",
+    "Enabled": false
+  },
+  "730206": {
+    "OriginalText": "この探索から帰ったら、\nシャロンさんに……。",
+    "Text": "",
+    "Enabled": false
+  },
+  "730207": {
+    "OriginalText": "別にかまわないよ、行って来るね。",
+    "Text": "",
+    "Enabled": false
+  },
+  "730208": {
+    "OriginalText": "しゃあねぇな、行って来てやるよ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "730209": {
+    "OriginalText": "かしこまりました。\nふふ、期待には応えますよ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "730210": {
+    "OriginalText": "探索隊、一同出撃！ってか\nさすがにガラじゃねぇな。",
+    "Text": "",
+    "Enabled": false
+  },
+  "730211": {
+    "OriginalText": "ワシに任せておけば、万事問題なしじゃ。\n大船に乗ったつもりで待つが良い！",
+    "Text": "",
+    "Enabled": false
+  },
+  "730212": {
+    "OriginalText": "まぁ、いいだろう。\n出撃する。",
+    "Text": "",
+    "Enabled": false
+  },
+  "730213": {
+    "OriginalText": "そう、あなたの決断を信じるわ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "730214": {
+    "OriginalText": "命令ならば仕方ないわね。",
+    "Text": "",
+    "Enabled": false
+  },
+  "730215": {
+    "OriginalText": "まだ見ぬ新天地へ～！！\n頑張りますよ！",
+    "Text": "",
+    "Enabled": false
+  },
+  "730216": {
+    "OriginalText": "しょうがないわね。\n行って来るから待ってなさい。",
+    "Text": "",
+    "Enabled": false
+  },
+  "730217": {
+    "OriginalText": "何事になければ良いのですが。",
+    "Text": "",
+    "Enabled": false
+  },
+  "730218": {
+    "OriginalText": "それでは行ってきまーす！",
+    "Text": "",
+    "Enabled": false
+  },
+  "730219": {
+    "OriginalText": "じゃあ、楽しみに待ってね！",
+    "Text": "",
+    "Enabled": false
+  },
+  "730220": {
+    "OriginalText": "たまにはあなたに従って\nあげてもよくってよ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "730221": {
+    "OriginalText": "ご期待に敷えるように\n頑張りますね。",
+    "Text": "",
+    "Enabled": false
+  },
+  "730222": {
+    "OriginalText": "では、いってきてやろう。",
+    "Text": "",
+    "Enabled": false
+  },
+  "730223": {
+    "OriginalText": "心配することはない。\nおぬしは目的地を示した。そこへ至る道は\nわしら探索隊が柘いていってやろうて。",
+    "Text": "",
+    "Enabled": false
+  },
+  "730224": {
+    "OriginalText": "まっ、そんな心配しなくて大丈夫だよ。\nいい結果を持ってきてあげるからさ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "730225": {
+    "OriginalText": "大将は心配せずに\nどーんと構えて待ってろってな。",
+    "Text": "",
+    "Enabled": false
+  },
+  "730226": {
+    "OriginalText": "それじゃ頑張って来るね。",
+    "Text": "",
+    "Enabled": false
+  },
+  "730227": {
+    "OriginalText": "期待して待ってろよ！",
+    "Text": "",
+    "Enabled": false
+  },
+  "730228": {
+    "OriginalText": "それじゃあ、しゅっぱーつ！",
+    "Text": "",
+    "Enabled": false
+  },
+  "730301": {
+    "OriginalText": "探索の結果をお話しさせていただきます。",
+    "Text": "",
+    "Enabled": false
+  },
+  "730302": {
+    "OriginalText": "探索結果を報告するよ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "730303": {
+    "OriginalText": "探索隊、無事帰ったぜ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "730304": {
+    "OriginalText": "今回の探索もなかなかおもしろかったぜ！",
+    "Text": "",
+    "Enabled": false
+  },
+  "730305": {
+    "OriginalText": "はぁぁ、なんとか無事帰ってきました……。",
+    "Text": "",
+    "Enabled": false
+  },
+  "730306": {
+    "OriginalText": "探索の成果を聞きたいのかい？\nぜひシャロンさんに話したいところだけど\nまぁキミでもいいか。",
+    "Text": "",
+    "Enabled": false
+  },
+  "730307": {
+    "OriginalText": "まずまずの成果なんじゃないかな？",
+    "Text": "",
+    "Enabled": false
+  },
+  "730308": {
+    "OriginalText": "探索の結果報告？\n何だ、めんどくせぇな。",
+    "Text": "",
+    "Enabled": false
+  },
+  "730309": {
+    "OriginalText": "無事戻りました。\n結果をお聞きになられますか？",
+    "Text": "",
+    "Enabled": false
+  },
+  "730310": {
+    "OriginalText": "探索結果出てるぜ、聞いてけよ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "730311": {
+    "OriginalText": "探索の結果じゃ。\n心して聞くのじゃぞ！",
+    "Text": "",
+    "Enabled": false
+  },
+  "730312": {
+    "OriginalText": "探索の結果報告だ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "730313": {
+    "OriginalText": "ふふ、この結果は探索に行く前から\n見えていたわ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "730314": {
+    "OriginalText": "探索の報告が欲しいの？",
+    "Text": "",
+    "Enabled": false
+  },
+  "730315": {
+    "OriginalText": "はい、探索の結果報告であります！",
+    "Text": "",
+    "Enabled": false
+  },
+  "730316": {
+    "OriginalText": "無事、帰ってきたわよ。\n……って別にそのことを褒めて欲しい\nとかそういうのじゃないからね。",
+    "Text": "",
+    "Enabled": false
+  },
+  "730317": {
+    "OriginalText": "探索の結果、お聞きになりますか？",
+    "Text": "",
+    "Enabled": false
+  },
+  "730318": {
+    "OriginalText": "ねぇねぇ、探索の成果聞いてってよ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "730319": {
+    "OriginalText": "じゃあ、探索の結果を\n披露しちゃうわね。",
+    "Text": "",
+    "Enabled": false
+  },
+  "730320": {
+    "OriginalText": "結果を報告？\nふぅ、面倒ね。",
+    "Text": "",
+    "Enabled": false
+  },
+  "730321": {
+    "OriginalText": "それでは探索の結果報告を\nさせていただきますね。",
+    "Text": "",
+    "Enabled": false
+  },
+  "730322": {
+    "OriginalText": "よく聞け、探索の結果報告だ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "730323": {
+    "OriginalText": "失敗に失敗を重ねた先に\n成功があるとしたら、\n失敗も成功も等価言えんかの。",
+    "Text": "",
+    "Enabled": false
+  },
+  "730324": {
+    "OriginalText": "結果報告だね、待ってたよ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "730325": {
+    "OriginalText": "探索の成果でも聞きたいのか？",
+    "Text": "",
+    "Enabled": false
+  },
+  "730326": {
+    "OriginalText": "えっと、探索の結果報告だよね。",
+    "Text": "",
+    "Enabled": false
+  },
+  "730327": {
+    "OriginalText": "探索の結果報告するぜ！",
+    "Text": "",
+    "Enabled": false
+  },
+  "730328": {
+    "OriginalText": "あっ、探索報告だよね、ええっと……。",
+    "Text": "",
+    "Enabled": false
+  },
+  "730401": {
+    "OriginalText": "今は探索の命令は出ていません。",
+    "Text": "",
+    "Enabled": false
+  },
+  "730402": {
+    "OriginalText": "今は外に出る気にはならないね。",
+    "Text": "",
+    "Enabled": false
+  },
+  "730403": {
+    "OriginalText": "今は探索隊は休憩中だぞ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "730404": {
+    "OriginalText": "今の間にトレーニングにでも\n行ってこよっかな？",
+    "Text": "",
+    "Enabled": false
+  },
+  "730405": {
+    "OriginalText": "このままずっと出撃命令が\nなければいいのに……。",
+    "Text": "",
+    "Enabled": false
+  },
+  "730406": {
+    "OriginalText": "探索から帰った時にボクを迎えてくれる\nシャロンさんの笑顔……。\nいやーたまらないね！！",
+    "Text": "",
+    "Enabled": false
+  },
+  "730407": {
+    "OriginalText": "今は休憩中。\n出撃命令は受け付けてないよ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "730408": {
+    "OriginalText": "なんだよ、探索の命令はないのか。",
+    "Text": "",
+    "Enabled": false
+  },
+  "730409": {
+    "OriginalText": "穏やかな時間は良いですよね。\nまぁ戦場も嫌いではないのですが。",
+    "Text": "",
+    "Enabled": false
+  },
+  "730410": {
+    "OriginalText": "今は出撃命令がないんでね。\n骨休めって奴だ",
+    "Text": "",
+    "Enabled": false
+  },
+  "730411": {
+    "OriginalText": "なぬっ、さぼっている訳ではないぞ、\n休息も仕事のうちじゃ！",
+    "Text": "",
+    "Enabled": false
+  },
+  "730412": {
+    "OriginalText": "命令のない時間は\n俺の好きにさせてもらう。",
+    "Text": "",
+    "Enabled": false
+  },
+  "730413": {
+    "OriginalText": "休み、英気を養う。\n探索の成功に不可欠なものね。",
+    "Text": "",
+    "Enabled": false
+  },
+  "730414": {
+    "OriginalText": "こんなところで待ちぼうけなんて……。\n人村の有効活用に関して、提案する\n必要があるかもしれないですね。",
+    "Text": "",
+    "Enabled": false
+  },
+  "730415": {
+    "OriginalText": "あれれ、今日は探索の命令は\nないんですね。",
+    "Text": "",
+    "Enabled": false
+  },
+  "730416": {
+    "OriginalText": "私達、探索隊の成果で\nここでの生活が支えられてるって\nあんたちゃんとわかってるの？",
+    "Text": "",
+    "Enabled": false
+  },
+  "730417": {
+    "OriginalText": "探索の命令がない時間は\n気が緩んでいけませんね。",
+    "Text": "",
+    "Enabled": false
+  },
+  "730418": {
+    "OriginalText": "暇だよね、\nちょっと遊びにいってきていい？",
+    "Text": "",
+    "Enabled": false
+  },
+  "730419": {
+    "OriginalText": "命令はまだなの？\nもう、待ちくたびれちゃうわ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "730420": {
+    "OriginalText": "はぁぁ……。\n探索の命令がないと眠くなっていけないわ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "730421": {
+    "OriginalText": "現在、探索隊は休憩中です。\nまたの機会を。",
+    "Text": "",
+    "Enabled": false
+  },
+  "730422": {
+    "OriginalText": "まぁそう急く必要はなかろう。",
+    "Text": "",
+    "Enabled": false
+  },
+  "730423": {
+    "OriginalText": "出発をそう急かすものではないよ。\n最初の踏み出す足の向きが\n任務の出来を左右したりすることもある。",
+    "Text": "",
+    "Enabled": false
+  },
+  "730424": {
+    "OriginalText": "よく働いて、よく休む。\nいいアークスの基本だよ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "730425": {
+    "OriginalText": "お前もちょっとは休めよ。\n気を張りすぎるってのは良くねえからな。",
+    "Text": "",
+    "Enabled": false
+  },
+  "730426": {
+    "OriginalText": "今の時間は探索隊は休憩中だよ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "730427": {
+    "OriginalText": "えっ、さぼってるって？\nち、違うよ、身体を休めるのは\n仕事のうちってやつだろ？",
+    "Text": "",
+    "Enabled": false
+  },
+  "730428": {
+    "OriginalText": "しー、今は探索隊はお休み中だから\n静かにしてあげてね。",
+    "Text": "",
+    "Enabled": false
   }
 }

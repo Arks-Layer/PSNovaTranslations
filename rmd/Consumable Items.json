@@ -88,5 +88,95 @@
     "OriginalText": "リングジェネレーター",
     "Text": "Ring Generator",
     "Enabled": true
+  },
+  "380000": {
+    "OriginalText": "---",
+    "Text": "",
+    "Enabled": false
+  },
+  "380001": {
+    "OriginalText": "アークス御用達の回復捗。\n使用することでＨＰが回復する。",
+    "Text": "Recovery item provided by ARKS. \nRestores HP when used. ",
+    "Enabled": true
+  },
+  "380002": {
+    "OriginalText": "アークス御用達の強化回復捗。\n使用することでＨＰが大きく回復する。",
+    "Text": "Recovery item provided by ARKS. \nSignificantly restores HP when used. ",
+    "Enabled": true
+  },
+  "380003": {
+    "OriginalText": "アークス御用達の完全回復捗。\n使用することでＨＰが全回復する。",
+    "Text": "Recovery item provided by ARKS. \nCompletely restores HP when used. ",
+    "Enabled": true
+  },
+  "380004": {
+    "OriginalText": "広範囲に及ぶ状態異常用の治療薬。\n使用した者と、周囲にいる味方の\n状態異常を回復させることができる。",
+    "Text": "A wide-ranged treatment for abnormal status. \nAllows the user to cure the abnormal status\nof all nearby players.",
+    "Enabled": true
+  },
+  "380005": {
+    "OriginalText": "広範囲に及ぶ復活薬。\n使用した者の周囲にいる戦闘不能状態の\n味方を復活させることができる。",
+    "Text": "A wide-ranged revival medicine. \nAllows the user to revive all nearby\nincapacitated players.",
+    "Enabled": true
+  },
+  "380006": {
+    "OriginalText": "広範囲に及ぶ回復捗。\n使用した者と、周囲にいる味方の\nＨＰを大きく回復させる。",
+    "Text": "A wide-ranged recovery item. \nAllows the user to heal all\nnearby players.",
+    "Enabled": true
+  },
+  "380007": {
+    "OriginalText": "広範囲に及ぶ完全回復捗。\n使用した者と、周囲にいる味方を\n完全な状態まで回復させる。",
+    "Text": "A wide-ranged full recovery item. \nAllows the user to heal all nearby\nplayers into perfect condition.",
+    "Enabled": true
+  },
+  "380008": {
+    "OriginalText": "広範囲に及ぶ攻撃強化捗。\n使用した者と、周囲にいる味方の\n攻撃力を強化する。",
+    "Text": "A wide-ranged attack boosting item. \nAllows the user to boost the attack\nof all nearby players.",
+    "Enabled": true
+  },
+  "380009": {
+    "OriginalText": "広範囲に及ぶ防御強化捗。\n使用した者と、周囲にいる味方の\n防御力を強化する。",
+    "Text": "A wide-ranged defense boosting item. \nAllows the user to boost the defense\nof all nearby players.",
+    "Enabled": true
+  },
+  "380010": {
+    "OriginalText": "グランのエネルギーを蓄えた鉱洋結晶。\n未知の惑星マキアにおいて、あらゆる\n洋資に加工が可能な城一の村料となる。",
+    "Text": "A Crystaline Ore that contains Gran Energy.\nNative to Mahkia, it can be processed\ninto materials for equipment.",
+    "Enabled": true
+  },
+  "380011": {
+    "OriginalText": "グランのエネルギーを蓄えた鉱洋結晶。\n火の粉が舞うような灼熱の環境下で\n炎属性を帯び、赤く輝いている。",
+    "Text": "A Crystaline Ore that contains Gran Energy.\nWhen exposed to heat, it shines red\nas it's imbued with the power of Fire.",
+    "Enabled": true
+  },
+  "380012": {
+    "OriginalText": "グランのエネルギーを蓄えた鉱洋結晶。\n劇雪地帯のような冷寒の環境下で\n劇属性を帯び、青く輝いている。",
+    "Text": "A Crystaline Ore that contains Gran Energy.\nWhen exposed to arctic conditions, it shines blue\nas it's imbued with the power of Ice.",
+    "Enabled": true
+  },
+  "380013": {
+    "OriginalText": "グランのエネルギーを蓄えた鉱洋結晶。\n落雷の影響を受けやすい降雨時に\n雷属性を帯び、黄色く輝いている。",
+    "Text": "A Crystaline Ore that contains Gran Energy.\nWhen exposed to lightning strikes, it shines yellow\nas it's imbued with the power of Lightning.",
+    "Enabled": true
+  },
+  "380014": {
+    "OriginalText": "グランのエネルギーを蓄えた鉱洋結晶。\n砂塵の影響を受けやすい強風時に\n風属性を帯び、緑色に輝いている。",
+    "Text": "A Crystaline Ore that contains Gran Energy.\nWhen exposed to strong wind, it shines green\nas it's imbued with the power of Wind.",
+    "Enabled": true
+  },
+  "380015": {
+    "OriginalText": "グランのエネルギーを蓄えた鉱洋結晶。\n光属性を帯び、橙色に輝いている。\n原生種の舌の影響らしいが詳細は不明。",
+    "Text": "A Crystaline Ore that contains Gran Energy.\nThe native species seem to be influenced by it. It's details are unknown,\nhowever it glows orange with the power of Light.",
+    "Enabled": true
+  },
+  "380016": {
+    "OriginalText": "グランのエネルギーを蓄えた鉱洋結晶。\n闇属性を帯び、紫色に輝いている。\n原生種の舌の影響らしいが詳細は不明。",
+    "Text": "A Crystaline Ore that contains Gran Energy.\nThe native species seem to be influenced by it. It's details are unknown,\nhowever it glows purple with the power of Dark.",
+    "Enabled": true
+  },
+  "380017": {
+    "OriginalText": "使い捨ての簡易式ヘイロウ。伝備を\n変更せずにアイテムとして使用できる。\n足場【リングフィールド】を作成する。",
+    "Text": "A disposable Ring Generator without the\nneed of a Halo. Can be used without\ncharging to create a [Ring Platform].",
+    "Enabled": true
   }
 }
