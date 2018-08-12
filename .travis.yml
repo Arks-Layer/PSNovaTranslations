@@ -4,6 +4,11 @@ dist: trusty
 sudo: false
 group: beta
 
+cache:
+  - pip
+
+install:
+  - pip install simplejson
 
 script:
   - ./EOL.py rmd/*.json
