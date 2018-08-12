@@ -821,7 +821,7 @@
   },
   "710056": {
     "OriginalText": "惑星全域の生態系調査に向かう。\n未確認エリアも含めた本格調査であり\n回避不可能な事態との遭遇も予想される。\n帰還後、速やかに調査結果をまとめて提出する。",
-    "Text": "Eder Critter Fur × 5\nSwole Banku Gem × 5\nエルマフレザールの鋭朽爪 × 5",
+    "Text": "Eder Critter Fur × 5\nSwole Ban'qu Gem × 5\nエルマフレザールの鋭朽爪 × 5",
     "Enabled": true
   },
   "710057": {
@@ -1076,7 +1076,7 @@
   },
   "710107": {
     "OriginalText": "メモリーフラグメントＩ、Ｊの採集に向かう。\n高レベルのエネミーが対象になるため、\n危険を伴う任務になると予想される。\n結果は追って報告する。",
-    "Text": "Memory Fragment I × 20\nメモリーフラグメントＪ × 5\nメモリーフラグメントＫ × 3",
+    "Text": "Memory Fragment I × 20\nMemory Fragment J × 5\nMemory Fragment K × 3",
     "Enabled": true
   },
   "730101": {
