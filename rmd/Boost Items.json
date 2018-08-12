@@ -161,7 +161,7 @@
   },
   "400002": {
     "OriginalText": "自律起動の自己復活用アイテム。\n所持者が戦闘不能になった際に\n一度だけ身代わりになってくれる。",
-    "Text": "Recovery medicine for ARKS.\nRevives the user to maximum Health.",
+    "Text": "Recovery medicine for ARKS. Revives the\nuser to maximum Health.",
     "Enabled": true
   },
   "400003": {

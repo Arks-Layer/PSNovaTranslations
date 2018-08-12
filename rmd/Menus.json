@@ -3456,7 +3456,7 @@
   },
   "22757": {
     "OriginalText": "[a 03]追加コンテンツが無効になっています。\n有効にするには、全ての経験値ブーストの\n追加コンテンツを再度取得してください。[b]",
-    "Text": "[a 03]Additional content has been disabled.\nTo enable it, please\nobtain all of the EXP Boosters again.[b]",
+    "Text": "[a 03]Additional content has been disabled. To\nenable it, please obtain all of the EXP\nBoosters again.[b]",
     "Enabled": true
   },
   "22758": {
