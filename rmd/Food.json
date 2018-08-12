@@ -195,8 +195,8 @@
     "Enabled": true
   },
   "550039": {
-    "OriginalText": "ギガ産鮮丼・特盛り",
-    "Text": "Giga Seafood Bowl・XL Portion",
+    "OriginalText": "ギガ海鮮丼・特盛り",
+    "Text": "Giga Sashimi Bowl・XL Portion",
     "Enabled": true
   },
   "550040": {
@@ -245,7 +245,7 @@
     "Enabled": false
   },
   "630002": {
-    "OriginalText": "力をつけるためのガッツあふれる料理。\n肉食こそあらゆるパワーの装泉。",
+    "OriginalText": "力をつけるためのガッツあふれる料理。\n肉食こそあらゆるパワーの源泉。",
     "Text": "",
     "Enabled": false
   },
@@ -265,7 +265,7 @@
     "Enabled": false
   },
   "630006": {
-    "OriginalText": "力をつけるためのガッツあふれる料理。\n普通すぎて洋足りないと食通には不評。",
+    "OriginalText": "力をつけるためのガッツあふれる料理。\n普通すぎて物足りないと食通には不評。",
     "Text": "",
     "Enabled": false
   },
@@ -295,7 +295,7 @@
     "Enabled": false
   },
   "630012": {
-    "OriginalText": "力をつけるためのガッツあふれる料理。\n本洋の寿司職人には叱られるかも。",
+    "OriginalText": "力をつけるためのガッツあふれる料理。\n本物の寿司職人には叱られるかも。",
     "Text": "",
     "Enabled": false
   },
@@ -305,7 +305,7 @@
     "Enabled": false
   },
   "630014": {
-    "OriginalText": "デルタ・ヴァリアント艦内の焼き謹で\n焼かれているパン。オルター標準食。",
+    "OriginalText": "デルタ・ヴァリアント艦内の焼き釜で\n焼かれているパン。オルター標準食。",
     "Text": "",
     "Enabled": false
   },
@@ -320,7 +320,7 @@
     "Enabled": false
   },
   "630017": {
-    "OriginalText": "体を丈夫にするスタミナたっぷり料理。\n膜β類はしっぽが美味いらしい。",
+    "OriginalText": "体を丈夫にするスタミナたっぷり料理。\n爬虫類はしっぽが美味いらしい。",
     "Text": "",
     "Enabled": false
   },
@@ -335,17 +335,17 @@
     "Enabled": false
   },
   "630020": {
-    "OriginalText": "体を丈夫にするスタミナたっぷり料理。\n美味いが、焼かれる祭は地獄の苦しみ。",
+    "OriginalText": "体を丈夫にするスタミナたっぷり料理。\n美味いが、焼かれる貝は地獄の苦しみ。",
     "Text": "",
     "Enabled": false
   },
   "630021": {
-    "OriginalText": "体を丈夫にするスタミナたっぷり料理。\n強い鑑みは味わった者にしかわからない。",
+    "OriginalText": "体を丈夫にするスタミナたっぷり料理。\n強い臭みは味わった者にしかわからない。",
     "Text": "",
     "Enabled": false
   },
   "630022": {
-    "OriginalText": "体を丈夫にするスタミナたっぷり料理。\nつまみ食いをすると粘が光ってばれる。",
+    "OriginalText": "体を丈夫にするスタミナたっぷり料理。\nつまみ食いをすると舌が光ってばれる。",
     "Text": "",
     "Enabled": false
   },
@@ -375,67 +375,67 @@
     "Enabled": false
   },
   "630028": {
-    "OriginalText": "デルタ・ヴァリアント艦内で栽培された\n標準食。貴重なビタミン装となる。",
+    "OriginalText": "デルタ・ヴァリアント艦内で栽培された\n標準食。貴重なビタミン源となる。",
     "Text": "",
     "Enabled": false
   },
   "630029": {
-    "OriginalText": "艦内生活に芝いを与えるグルメ料理。\n大きな肉はそれだけで確かな既足感。",
+    "OriginalText": "艦内生活に潤いを与えるグルメ料理。\n大きなケーキは子どもの頃の皆の夢。",
     "Text": "",
     "Enabled": false
   },
   "630030": {
-    "OriginalText": "艦内生活に芝いを与えるグルメ料理。\n大きなケーキは子どもの頃の皆の夢。",
+    "OriginalText": "艦内生活に潤いを与えるグルメ料理。\n大きなケーキは子どもの頃の皆の夢。",
     "Text": "",
     "Enabled": false
   },
   "630031": {
-    "OriginalText": "艦内生活に芝いを与えるグルメ料理。\n焼加滅はレアで血の滴りを味わいたい。",
+    "OriginalText": "艦内生活に潤いを与えるグルメ料理。\n焼加滅はレアで血の滴りを味わいたい。",
     "Text": "",
     "Enabled": false
   },
   "630032": {
-    "OriginalText": "艦内生活に芝いを与えるグルメ料理。\n焼けば大抵食べられるという方針。",
+    "OriginalText": "艦内生活に潤いを与えるグルメ料理。\n焼けば大抵食べられるという方針。",
     "Text": "",
     "Enabled": false
   },
   "630033": {
-    "OriginalText": "艦内生活に芝いを与えるグルメ料理。\n出所の怪しい肉もおいしくいただける。",
+    "OriginalText": "艦内生活に潤いを与えるグルメ料理。\n出所の怪しい肉もおいしくいただける。",
     "Text": "",
     "Enabled": false
   },
   "630034": {
-    "OriginalText": "艦内生活に芝いを与えるグルメ料理。\n長時間煮込めば大抵おいしくなるもの。",
+    "OriginalText": "艦内生活に潤いを与えるグルメ料理。\n長時間煮込めば大抵おいしくなるもの。",
     "Text": "",
     "Enabled": false
   },
   "630035": {
-    "OriginalText": "艦内生活に芝いを与えるグルメ料理。\nデンプン質に依らないとろみが新味。",
+    "OriginalText": "艦内生活に潤いを与えるグルメ料理。\nデンプン質に依らないとろみが新味。",
     "Text": "",
     "Enabled": false
   },
   "630036": {
-    "OriginalText": "艦内生活に芝いを与えるグルメ料理。\n食感を楽しむことの贅沢さを再確認。",
+    "OriginalText": "艦内生活に潤いを与えるグルメ料理。\n食感を楽しむことの贅沢さを再確認。",
     "Text": "",
     "Enabled": false
   },
   "630037": {
-    "OriginalText": "艦内生活に芝いを与えるグルメ料理。\n揚げ洋は高カロリーだからこそ美味い。",
+    "OriginalText": "艦内生活に潤いを与えるグルメ料理。\n揚げ物は高カロリーだからこそ美味い。",
     "Text": "",
     "Enabled": false
   },
   "630038": {
-    "OriginalText": "艦内生活に芝いを与えるグルメ料理。\nこれをババロアと呼べるかは杓否両論。",
+    "OriginalText": "艦内生活に潤いを与えるグルメ料理。\nこれをババロアと呼べるかは賛否両論。",
     "Text": "",
     "Enabled": false
   },
   "630039": {
-    "OriginalText": "艦内生活に芝いを与えるグルメ料理。\n特盛りという言葉の響きこそが贅沢。",
+    "OriginalText": "艦内生活に潤いを与えるグルメ料理。\n特盛りという言葉の響きこそが贅沢。",
     "Text": "",
     "Enabled": false
   },
   "630040": {
-    "OriginalText": "艦内生活に芝いを与えるグルメ料理。\n栄養不足を補うには何でも食べないと。",
+    "OriginalText": "艦内生活に潤いを与えるグルメ料理。\n栄養不足を補うには何でも食べないと。",
     "Text": "",
     "Enabled": false
   },

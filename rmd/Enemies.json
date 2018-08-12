@@ -880,23 +880,23 @@
     "Enabled": true
   },
   "185020": {
-    "OriginalText": "換伝武器：ガトリング",
-    "Text": "Weapon Attachment: Gatling",
+    "OriginalText": "換装武器：ガトリング",
+    "Text": "Retrofitted Gatling",
     "Enabled": true
   },
   "185030": {
-    "OriginalText": "換伝武器：クロー",
-    "Text": "Weapon Attachment: Claw",
+    "OriginalText": "換装武器：クロー",
+    "Text": "Retrofitted Claw",
     "Enabled": true
   },
   "185040": {
-    "OriginalText": "換伝武器：ビーム",
-    "Text": "Weapon Attachment: Beam",
+    "OriginalText": "換装武器：ビーム",
+    "Text": "Retrofitted Beam",
     "Enabled": true
   },
   "185050": {
-    "OriginalText": "換伝武器：ミサイル",
-    "Text": "Weapon Attachment: Missile",
+    "OriginalText": "換装武器：ミサイル",
+    "Text": "Retrofitted Missile",
     "Enabled": true
   },
   "185060": {
@@ -956,7 +956,7 @@
   },
   "185150": {
     "OriginalText": "アンカー発射伝置",
-    "Text": "Anchor Launcher",
+    "Text": "Anchor Launch Mechanism",
     "Enabled": true
   },
   "185210": {
@@ -1096,7 +1096,7 @@
   },
   "185561": {
     "OriginalText": "ミサイル発射伝置",
-    "Text": "Missile Firing Device",
+    "Text": "Missile Firing Mechanism",
     "Enabled": true
   },
   "185562": {
