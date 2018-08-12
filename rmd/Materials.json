@@ -3551,13 +3551,13 @@
   },
   "350710": {
     "OriginalText": "メモリーフラグメントＪ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Memory Fragment J",
+    "Enabled": true
   },
   "350711": {
     "OriginalText": "メモリーフラグメントＫ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Memory Fragment K",
+    "Enabled": true
   },
   "350712": {
     "OriginalText": "",
@@ -4551,13 +4551,13 @@
   },
   "350910": {
     "OriginalText": "メモリーフラグメントＬ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Memory Fragment L",
+    "Enabled": true
   },
   "350911": {
     "OriginalText": "メモリーフラグメントＭ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Memory Fragment M",
+    "Enabled": true
   },
   "350912": {
     "OriginalText": "",
