@@ -11,6 +11,7 @@ install:
   - pip install simplejson
 
 script:
+  - ./EOL.py rmd/*.json
   - python checkjson.py && ./coverage.sh
   - ./tidy-json.sh && git diff --exit-code
 
