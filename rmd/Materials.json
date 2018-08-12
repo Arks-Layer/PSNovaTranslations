@@ -5531,37 +5531,37 @@
   },
   "360001": {
     "OriginalText": "グランの力を蓄えた鉱洋結晶。\n未知の惑星マキアにおいて、あらゆる\n洋資に加工が可能な城一の材料となる。",
-    "Text": "A crystalline ore that contains Gran Energy.\nNative to Mahkia, it can be processed\ninto materials for equipment.",
+    "Text": "A Crystaline Ore that contains Gran\nEnergy. Native to Mahkia, it can be\nprocessed into materials for equipment.",
     "Enabled": true
   },
   "360002": {
     "OriginalText": "グランの力を蓄えた鉱洋結晶。\n火の粉が舞うような灼熱の環境下で\n炎属性を帯び、赤く輝いている。",
-    "Text": "A crystalline ore that contains Gran Energy.\nWhen exposed to heat, it shines red,\nIt's imbued with the power of Fire.",
+    "Text": "A Crystaline Ore that contains Gran\nEnergy. When exposed to heat, it shines\nred as it's imbued with the power of\nFire.",
     "Enabled": true
   },
   "360003": {
     "OriginalText": "グランの力を蓄えた鉱洋結晶。\n劇雪地帯のような冷寒の環境下で\n劇属性を帯び、青く輝いている。",
-    "Text": "A crystalline ore that contains Gran Energy.\nWhen exposed to the cold, it shines blue.\nIt's imbued with the power of Ice.",
+    "Text": "A Crystaline Ore that contains Gran\nEnergy. When exposed to arctic\nconditions, it shines blue as it's\nimbued with the power of Ice.",
     "Enabled": true
   },
   "360004": {
     "OriginalText": "グランの力を蓄えた鉱洋結晶。\n落雷の影響を受けやすい降雨時に\n雷属性を帯び、黄色く輝いている。",
-    "Text": "A crystalline ore that contains Gran Energy.\nWhen exposed to lightning, it shines yellow.\nIt's imbued with the power of Lightning.",
+    "Text": "A Crystaline Ore that contains Gran\nEnergy. When exposed to lightning\nstrikes, it shines yellow as it's imbued\nwith the power of Lightning.",
     "Enabled": true
   },
   "360005": {
     "OriginalText": "グランの力を蓄えた鉱洋結晶。\n砂塵の影響を受けやすい強風時に\n風属性を帯び、緑色に輝いている。",
-    "Text": "A crystalline ore that contains Gran Energy.\nWhen exposed to strong wind, it shines green.\nIt's imbued with the power of Wind.",
+    "Text": "A Crystaline Ore that contains Gran\nEnergy. When exposed to strong wind, it\nshines green as it's imbued with the\npower of Wind.",
     "Enabled": true
   },
   "360006": {
     "OriginalText": "グランの力を蓄えた鉱洋結晶。\n光属性を帯び、橙色に輝いている。\n原生種の舌の影響らしいが詳細は不明。",
-    "Text": "A crystalline ore that contains Gran Energy.\nThe native species seem to be governed by it.\nIt glows orange with the power of Light.",
+    "Text": "A Crystaline Ore that contains Gran\nEnergy. The native species seem to be influenced\nby it. It's details are unknown, however\nit glows orange with the power of Light.",
     "Enabled": true
   },
   "360007": {
     "OriginalText": "グランの力を蓄えた鉱洋結晶。\n闇属性を帯び、紫色に輝いている。\n原生種の舌の影響らしいが詳細は不明。",
-    "Text": "A crystalline ore that contains Gran Energy.\nThe native species seem to be governed by it.\nIt glows purple with the power of Dark.",
+    "Text": "A Crystaline Ore that contains Gran\nEnergy. The native species seem to be influenced\nby it. It's details are unknown, however\nit glows purple with the power of Dark.",
     "Enabled": true
   },
   "360008": {
