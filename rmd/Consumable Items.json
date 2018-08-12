@@ -96,7 +96,7 @@
   },
   "380001": {
     "OriginalText": "アークス御用達の回復剤。\n使用することでＨＰが回復する。",
-    "Text": "Recovery item provided by ARKS.\nRestores HP when used.",
+    "Text": "Recovery item provided by ARKS. Restores\nHP when used.",
     "Enabled": true
   },
   "380002": {
