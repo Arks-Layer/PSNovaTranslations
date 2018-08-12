@@ -580,12 +580,12 @@
     "Enabled": true
   },
   "440116": {
-    "OriginalText": "太飼",
+    "OriginalText": "太眉",
     "Text": "",
     "Enabled": false
   },
   "440117": {
-    "OriginalText": "太飼（△型）",
+    "OriginalText": "太眉（△型）",
     "Text": "",
     "Enabled": false
   },
@@ -1240,8 +1240,8 @@
     "Enabled": true
   },
   "440263": {
-    "OriginalText": "麗いメイク",
-    "Text": "Dark Makeup",
+    "OriginalText": "濃いメイク",
+    "Text": "Thick Makeup",
     "Enabled": true
   },
   "440264": {
@@ -1330,7 +1330,7 @@
     "Enabled": true
   },
   "440281": {
-    "OriginalText": "胸煽",
+    "OriginalText": "胸毛",
     "Text": "",
     "Enabled": false
   },
@@ -1450,7 +1450,7 @@
     "Enabled": true
   },
   "440305": {
-    "OriginalText": "アイハット銅",
+    "OriginalText": "アイハット鋼",
     "Text": "",
     "Enabled": false
   },
@@ -1475,9 +1475,9 @@
     "Enabled": true
   },
   "440310": {
-    "OriginalText": "ウィオラキャップ銅",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "ウィオラキャップ鋼",
+    "Text": "Viola Cap Steel",
+    "Enabled": true
   },
   "440311": {
     "OriginalText": "背高帽",
@@ -1490,9 +1490,9 @@
     "Enabled": true
   },
   "440313": {
-    "OriginalText": "背高帽 産",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "背高帽 海",
+    "Text": "Tall Hat Sea",
+    "Enabled": true
   },
   "440314": {
     "OriginalText": "背高帽 葉",
@@ -1785,27 +1785,27 @@
     "Enabled": true
   },
   "440372": {
-    "OriginalText": "アホ煽Ａ",
+    "OriginalText": "アホ毛Ａ",
     "Text": "Ahoge A",
     "Enabled": true
   },
   "440373": {
-    "OriginalText": "アホ煽Ｂ",
+    "OriginalText": "アホ毛Ｂ",
     "Text": "Ahoge B",
     "Enabled": true
   },
   "440374": {
-    "OriginalText": "ふわふわ煽 小",
+    "OriginalText": "ふわふわ毛 小",
     "Text": "Fluffy Hair Small",
     "Enabled": true
   },
   "440375": {
-    "OriginalText": "ふわふわ煽 中",
+    "OriginalText": "ふわふわ毛 中",
     "Text": "Fluffy Hair Medium",
     "Enabled": true
   },
   "440376": {
-    "OriginalText": "ふわふわ煽 大",
+    "OriginalText": "ふわふわ毛 大",
     "Text": "Fluffy Hair Large",
     "Enabled": true
   },
@@ -1830,7 +1830,7 @@
     "Enabled": false
   },
   "440381": {
-    "OriginalText": "践れうさ耳",
+    "OriginalText": "垂れうさ耳",
     "Text": "",
     "Enabled": false
   },
@@ -1985,7 +1985,7 @@
     "Enabled": true
   },
   "440412": {
-    "OriginalText": "銅メダル",
+    "OriginalText": "鋼メダル",
     "Text": "Bronze Medal",
     "Enabled": true
   },
@@ -2040,7 +2040,7 @@
     "Enabled": true
   },
   "440423": {
-    "OriginalText": "ウサギの苔尾",
+    "OriginalText": "ウサギの尻尾",
     "Text": "",
     "Enabled": false
   },
@@ -2560,9 +2560,9 @@
     "Enabled": true
   },
   "440527": {
-    "OriginalText": "グラン発生伝置：ユノ",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "グラン発生装置：ユノ",
+    "Text": "Gran Generator: Juno",
+    "Enabled": true
   },
   "440528": {
     "OriginalText": "ジョーカ・ヘッド破",
