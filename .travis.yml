@@ -13,7 +13,7 @@ install:
 script:
   - ./EOL.py rmd/*.json
   - python checkjson.py && ./coverage.sh
-  - ./tidy-json.sh && git diff --exit-code
+  - ./tidy-json.py && git diff --exit-code
 
 before_cache:
   - rm -f $HOME/.cache/pip/log/debug.log
