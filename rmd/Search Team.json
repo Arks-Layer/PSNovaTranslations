@@ -551,12 +551,12 @@
   },
   "710002": {
     "OriginalText": "銅の荒野全域の危険度調査に向かう。\n大きな反応を示す未調査エリアを含めた本格調査で\n未確認生命体との遭遇も予想される。\n帰還後、速やかに調査結果をまとめて提出する。",
-    "Text": "Ｇエル・アーダの羽根 × 4\nヴィマフレザールの朽爪 × 4\nGigantes Laser Piece × 4",
+    "Text": "G-El Ahda Wings × 4\nVi Maphrezer Claw × 4\nGigantes Laser Piece × 4",
     "Enabled": true
   },
   "710003": {
     "OriginalText": "グラン水装の調査に向かう。\n未調査エリアも含めた本格調査であり、\n回避不可能な事態との遭遇も予想される。\n帰還後、速やかに調査結果をまとめて提出する。",
-    "Text": "G-El Ahda Stinger × 4\nG-Dagan Shell × 4\nGran Piece (Light) × 4",
+    "Text": "G-El Ahda Stinger × 4\nG-Dagan Carapace × 4\nGran Piece (Light) × 4",
     "Enabled": true
   },
   "710004": {
@@ -611,7 +611,7 @@
   },
   "710014": {
     "OriginalText": "銅の荒野へ原生種の撃破に向かう。\n現地における反応はそれほど強くなく、大きな危険は\nないと予想するが、慎重に作戦を遂行する。\n結果は追って報告する。",
-    "Text": "Lar Aviadino Claw × 4\nダーカーのヒレ刀 × 4\nシルブカーネベアの煽皮 × 4",
+    "Text": "Lar Aviadino Claw × 4\nDarker Sword Fin × 4\nSilvcarnne Bear Fur × 4",
     "Enabled": true
   },
   "710015": {
@@ -626,7 +626,7 @@
   },
   "710017": {
     "OriginalText": "銅の荒野へアグリオスの撃破に向かう。\n現地にて確認されている反応は非常に大きく\n大いなる危険を伴う任務になると予想される。\n結果は追って報告する。",
-    "Text": "Darker Exoskeleton × 4\nGigantes Missile Piece × 4\nアグリオスの角 × 4",
+    "Text": "Darker Exoskeleton × 4\nGigantes Missile Piece × 4\nAgrios Horn × 4",
     "Enabled": true
   },
   "710018": {
@@ -636,7 +636,7 @@
   },
   "710019": {
     "OriginalText": "グラン水装へＧダーク・ラグネの撃破に向かう。\n現地にて強い反応を確認しており、\nかなりの危険を伴う任務になると予想される。\n結果は追って報告する。",
-    "Text": "Ｇダーク・ラグネの朽爪 × 4\nエデルクリトロの煽皮 × 4\nＧダーク・ラグネの硬触角 × 4",
+    "Text": "Ｇダーク・ラグネの朽爪 × 4\nEder Critter Fur × 4\nＧダーク・ラグネの硬触角 × 4",
     "Enabled": true
   },
   "710020": {
@@ -651,7 +651,7 @@
   },
   "710022": {
     "OriginalText": "グラン水装へエウリュードの撃破に向かう。\n現地にて確認されている反応は非常に大きく\n大いなる危険を伴う任務になると予想される。\n結果は追って報告する。",
-    "Text": "エウリュードの砲身 × 4\nGigantes Laser Piece × 4\nLarge Eurude Warhead × 4",
+    "Text": "Eurude Barrel × 4\nGigantes Laser Piece × 4\nLarge Eurude Warhead × 4",
     "Enabled": true
   },
   "710023": {
@@ -661,7 +661,7 @@
   },
   "710024": {
     "OriginalText": "炎の高地へ原生種の撃破に向かう。\n現地において大量の反応を確認しているが、\nそれほど強くなく危険は少ないと予想される。\n結果は追って報告する。",
-    "Text": "Poly Jurrakia Bone × 4\nマーバレダイナスの弾倉 × 4\nギガンテスのクラッカー片 × 4",
+    "Text": "Poly Jurrakia Bone × 4\nマーバレダイナスの弾倉 × 4\nGigantes Cracker Fragment × 4",
     "Enabled": true
   },
   "710025": {
@@ -676,7 +676,7 @@
   },
   "710027": {
     "OriginalText": "炎の高地へアルキュオネの撃破に向かう。\n現地にて確認されている反応は非常に大きく\n大いなる危険を伴う任務になると予想される。\n結果は追って報告する。",
-    "Text": "Alcyone's Levitator × 1\nAlcyone Arm Piece × 1\nアルキュオネの虫麦 × 1",
+    "Text": "Alcyone's Levitator × 1\nAlcyone Arm Piece × 1\nAlcyone Ink Sac × 1",
     "Enabled": true
   },
   "710028": {
@@ -686,12 +686,12 @@
   },
   "710029": {
     "OriginalText": "ギガンテスの捜索討伐に向かう。\n行き先は限定せず、反応の探索、\n追跡と殲滅を行う。\n結果は追って報告する。",
-    "Text": "Large Gygante Gun Part × 5\nAlcyone Arm Piece × 5\nアグリオスの鋭剣板 × 5",
+    "Text": "Large Gygante Gun Part × 5\nAlcyone Arm Piece × 5\nAgrios Blade Platform × 5",
     "Enabled": true
   },
   "710030": {
     "OriginalText": "古代都市の調査に向かう。\n生息するエネミーの調査を行う。\n未確認生命体との遭遇も予想される。\n帰還後、速やかに調査結果をまとめて提出する。",
-    "Text": "フロベガルフの体煽 × 4\nジュラキアの硬骨 × 4\nマドアビアディノの鋭爪 × 4",
+    "Text": "Flobegulf Hair × 4\nJurrakia Bone × 4\nマドアビアディノの鋭爪 × 4",
     "Enabled": true
   },
   "710031": {
@@ -751,7 +751,7 @@
   },
   "710042": {
     "OriginalText": "大尖塔へ原生生洋の撃破に向かう。\n現地にて確認されている反応は非常に大きく\n大いなる危険を伴う任務になると予想される。\n結果は追って報告する。",
-    "Text": "Ｇダーガッシュの尾ひれ × 4\nレウ・ロヴラッピーの大油 × 4\nレウ・ロヴラッピーの主翼 × 4",
+    "Text": "G-Dahgash Tail Fin × 4\nレウ・ロヴラッピーの大油 × 4\nレウ・ロヴラッピーの主翼 × 4",
     "Enabled": true
   },
   "710043": {
@@ -761,12 +761,12 @@
   },
   "710044": {
     "OriginalText": "大尖塔へ原生種の撃破に向かう。\n現地にて確認されている反応は非常に大きく\n大いなる危険を伴う任務になると予想される。\n結果は追って報告する。",
-    "Text": "フリラウーダンの煽皮 × 4\nミステルンの鋭翼角 × 4\nＧエル・アーダの硬触角 × 4",
+    "Text": "フリラウーダンの毛皮 × 4\nミステルンの鋭翼角 × 4\nHard G-El Ahda Feeler × 4",
     "Enabled": true
   },
   "710045": {
     "OriginalText": "古代都市の地域の調査に向かう。\n予備調査データでは未確認のエリアが点在しており\n若干の危険を伴う任務になると予想される。\n帰還後、速やかに調査結果をまとめて提出する。",
-    "Text": "フロベガルフの体煽 × 5\nイエーデンの煽皮 × 5\nフロフォンベガルフの体煽 × 5",
+    "Text": "Flobegulf Hair × 5\nYeden Pelt × 5\nFlo Fonbegulf Hair × 5",
     "Enabled": true
   },
   "710046": {
@@ -781,7 +781,7 @@
   },
   "710048": {
     "OriginalText": "古代都市へモストカーネベアの撃破に向かう。\n現地にて強い反応を確認しており、\nかなりの危険を伴う任務になると予想される。\n結果は追って報告する。",
-    "Text": "イエーデンの煽皮 × 5\nモストカーネベアの煽皮 × 5\nMostcarnne Bear Cannon × 5",
+    "Text": "Yeden Pelt × 5\nモストカーネベアの毛皮 × 5\nMostcarnne Bear Cannon × 5",
     "Enabled": true
   },
   "710049": {
@@ -801,12 +801,12 @@
   },
   "710052": {
     "OriginalText": "銅の荒野で大量発生した原生種の討伐に向かう。\nかなりの危険を伴う任務になると予想される。\n結果は追って報告する。",
-    "Text": "Monster Flesh × 5\nGu Rozad Claw × 5\nラウーダンの大煽皮 × 5",
+    "Text": "Monster Flesh × 5\nGu Rozad Claw × 5\nLarge Ra Oodan Pelt × 5",
     "Enabled": true
   },
   "710053": {
     "OriginalText": "膜β類の生態系調査に向かう。\n未確認エリアも含めた本格調査であり\n回避不可能な事態との遭遇も予想される。\n帰還後、速やかに調査結果をまとめて提出する。",
-    "Text": "Reptile Meat × 5\nヴィマフレザールの硬皮枝 × 5\nBaridran'na Large Glowing Ball × 5",
+    "Text": "Reptile Meat × 5\nHard Vi Maphrezer Membrane × 5\nLarge Baridran'na Glowing Ball × 5",
     "Enabled": true
   },
   "710054": {
@@ -816,12 +816,12 @@
   },
   "710055": {
     "OriginalText": "グラン水装に出現した巨大な反応の撃破に向かう。\nどのタイプかは確定できていないが\n大いなる危険を伴う任務になると予想される。\n結果は追って報告する。",
-    "Text": "ギガンテスの皮片 × 5\nディートアスの大吸引麦 × 5\nVivrude Gun Barrel × 5",
+    "Text": "Gigantes Hide × 5\nDitoas Compression Bag × 5\nVivrude Gun Barrel × 5",
     "Enabled": true
   },
   "710056": {
     "OriginalText": "惑星全域の生態系調査に向かう。\n未確認エリアも含めた本格調査であり\n回避不可能な事態との遭遇も予想される。\n帰還後、速やかに調査結果をまとめて提出する。",
-    "Text": "エデルクリトロの煽皮 × 5\nSwole Banku Gem × 5\nエルマフレザールの鋭朽爪 × 5",
+    "Text": "Eder Critter Fur × 5\nSwole Banku Gem × 5\nエルマフレザールの鋭朽爪 × 5",
     "Enabled": true
   },
   "710057": {
@@ -836,7 +836,7 @@
   },
   "710059": {
     "OriginalText": "大尖塔へ大型エネミーの撃破に向かう。\n現地にてかなり強い反応を確認しており、\n若干の危険を伴う任務になると予想される。\n結果は追って報告する。",
-    "Text": "バンサーの鋭頭角 × 5\nレイバンサーの鋭朽爪 × 5\nレゾルカーネベアの大煽皮 × 5",
+    "Text": "バンサーの鋭頭角 × 5\nレイバンサーの鋭朽爪 × 5\nレゾルカーネベアの大毛皮 × 5",
     "Enabled": true
   },
   "710060": {
@@ -861,7 +861,7 @@
   },
   "710064": {
     "OriginalText": "古代都市のエネミー掃討作戦に向かう。\n現地にて強い反応を確認しており、\nかなりの危険を伴う任務になると予想される。\n結果は追って報告する。",
-    "Text": "トルリンプの大胸ビレ × 5\nジュラキアの硬骨 × 5\nＧシャルレイダの鋭腕刃 × 5",
+    "Text": "Large Torrimp Pectoral Fin​ × 5\nJurrakia Bone × 5\nSharp G-Shalurayda Arm Blade × 5",
     "Enabled": true
   },
   "710065": {
@@ -891,7 +891,7 @@
   },
   "710070": {
     "OriginalText": "銅の荒野へ機械生洋の撃破に向かう。\n現地において大量の反応を確認しているが、\nそれほど強くなく危険は少ないと予想される。\n結果は追って報告する。",
-    "Text": "Gigantes Missile Piece × 8\nラーバレダイナスの大照準 × 8\nレイバンサーの大機関砲 × 8",
+    "Text": "Gigantes Missile Piece × 8\nラーバレダイナスの大照準 × 8\nLarge Ray Banther Cannon × 8",
     "Enabled": true
   },
   "710071": {
@@ -901,12 +901,12 @@
   },
   "710072": {
     "OriginalText": "復数のギガンテスの目撃されている地域の捜索と\nその撃破に向かう。\n大いなる危険を伴う任務になると予想される。\n結果は追って報告する。",
-    "Text": "ディートアスの大吸引麦 × 8\nLarge Gygante Gun Part × 8\nディートアスのレンズ × 8",
+    "Text": "Ditoas Compression Bag × 8\nLarge Gygante Gun Part × 8\nDitoas Lens × 8",
     "Enabled": true
   },
   "710073": {
     "OriginalText": "グラン水装全域の生態系調査に向かう。\n未調査エリアも含めた本格調査であり、\n未確認生命体との遭遇も予想される。\n帰還後、速やかに調査結果をまとめて提出する。",
-    "Text": "エデルクリトロの煽皮 × 6\nレイバンサーの大機関砲 × 6",
+    "Text": "Eder Critter Fur × 6\nLarge Ray Banther Cannon × 6",
     "Enabled": true
   },
   "710074": {
@@ -931,7 +931,7 @@
   },
   "710078": {
     "OriginalText": "炎の高地全域の機械生洋調査に向かう。\n未調査エリアも含めた本格調査であり、\n未確認生命体との遭遇も予想される。\n帰還後、速やかに調査結果をまとめて提出する。",
-    "Text": "Mech Armor Fragment × 6\n機械生洋の油片 × 6\nCrude Engine Frame × 6",
+    "Text": "Mech Armor Fragment × 6\nMachinery Fragment × 6\nCrude Engine Frame × 6",
     "Enabled": true
   },
   "710079": {
@@ -941,7 +941,7 @@
   },
   "710080": {
     "OriginalText": "ギガンテスの広範囲捜索討伐に向かう。\n行き先は限定せず、反応の探索、\n追跡と殲滅を行う。\n結果は追って報告する。",
-    "Text": "ギガンテスのクラッカー片 × 8\nGigantes Missile Piece × 8\nGigantes Laser Piece × 8",
+    "Text": "Gigantes Cracker Fragment × 8\nGigantes Missile Piece × 8\nGigantes Laser Piece × 8",
     "Enabled": true
   },
   "710081": {
@@ -951,7 +951,7 @@
   },
   "710082": {
     "OriginalText": "大尖塔へ大型原生種の撃破に向かう。\n現地において大量の反応を確認しているが、\nこちらも大量の人員を繰り出すので恐れるに足りない。\n結果は追って報告する。",
-    "Text": "レイバンサーの大機関砲 × 6\nノイバリドランナの鋭爪 × 6\nゴルドスの鋭攻撃杭 × 6",
+    "Text": "Large Ray Banther Cannon × 6\nノイバリドランナの鋭爪 × 6\nゴルドスの鋭攻撃杭 × 6",
     "Enabled": true
   },
   "710083": {
@@ -976,7 +976,7 @@
   },
   "710087": {
     "OriginalText": "古代都市で検知された大型エネミー撃破に向かう。\n現地にて確認されている反応は非常に大きく\n大いなる危険を伴う任務になると予想される。\n結果は追って報告する。",
-    "Text": "Ｇダーク・ラグネの大脚甲 × 8\nヴィバレダイナスの大弾倉 × 8\nレゾルカーネベアの大煽皮 × 8",
+    "Text": "Ｇダーク・ラグネの大脚甲 × 8\nヴィバレダイナスの大弾倉 × 8\nレゾルカーネベアの大毛皮 × 8",
     "Enabled": true
   },
   "710088": {
@@ -991,7 +991,7 @@
   },
   "710090": {
     "OriginalText": "古代都市へ復数のギガンテスの撃破に向かう。\n現地にて確認されている反応は非常に大きく\n大いなる危険を伴う任務になると予想される。\n結果は追って報告する。",
-    "Text": "Gigantes Shell × 10\nGigantes Meat × 10\nギガンテスの皮片 × 10",
+    "Text": "Gigantes Shell × 10\nGigantes Meat × 10\nGigantes Hide × 10",
     "Enabled": true
   },
   "710091": {
@@ -1078,7 +1078,7 @@
     "OriginalText": "メモリーフラグメントＩ、Ｊの採集に向かう。\n高レベルのエネミーが対象になるため、\n危険を伴う任務になると予想される。\n結果は追って報告する。",
     "Text": "Memory Fragment I × 20\nメモリーフラグメントＪ × 5\nメモリーフラグメントＫ × 3",
     "Enabled": true
-  },
+  }
   "730101": {
     "OriginalText": "準備万端です！\nいつでも声かけてくださいね。",
     "Text": "",
