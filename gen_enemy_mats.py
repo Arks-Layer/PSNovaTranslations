@@ -46,7 +46,7 @@ def LoadEnemies(fname):
       "鳥":      "Bird"
    }
 
-   j = json.load(open(fname, "r"))
+   j = json.load(open(fname, "r", encoding = "utf8"))
 
    for code in j:
    #{
@@ -132,8 +132,8 @@ def Main():
 #{
    enemies = LoadEnemies("rmd/Enemies.json")
 
-   with open("rmd/Materials.json", "r", newline = "") as fp:
-      with open("rmd/Materials.json.1", "w", newline = "") as out:
+   with open("rmd/Materials.json", "r", newline = "", encoding = "utf8") as fp:
+      with open("rmd/Materials.json.1", "w", newline = "", encoding = "utf8") as out:
          ProcFile(fp, out, enemies,
          {
             "甲殻":   "Carapace",
@@ -160,8 +160,8 @@ def Main():
             "体煽":   "Trunk"
          }, ["の"])
 
-   with open("rmd/Enemy Cores.json", "r", newline = "") as fp:
-      with open("rmd/Enemy Cores.json.1", "w", newline = "") as out:
+   with open("rmd/Enemy Cores.json", "r", newline = "", encoding = "utf8") as fp:
+      with open("rmd/Enemy Cores.json.1", "w", newline = "", encoding = "utf8") as out:
          ProcFile(fp, out, enemies,
          {
             "コア":   "Core",
