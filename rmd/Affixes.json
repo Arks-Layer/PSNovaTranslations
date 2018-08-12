@@ -1160,17 +1160,17 @@
     "Enabled": true
   },
   "150232": {
-    "OriginalText": "劇縛結晶",
+    "OriginalText": "氷縛結晶",
     "Text": "Ice Crystal",
     "Enabled": true
   },
   "150233": {
-    "OriginalText": "劇縛双結晶",
+    "OriginalText": "氷縛双結晶",
     "Text": "Ice Twin Crystal",
     "Enabled": true
   },
   "150234": {
-    "OriginalText": "劇縛多結晶",
+    "OriginalText": "氷縛多結晶",
     "Text": "Ice Polycrystalline",
     "Enabled": true
   },
@@ -1260,7 +1260,7 @@
     "Enabled": false
   },
   "150252": {
-    "OriginalText": "究冷の加護",
+    "OriginalText": "究極の加護",
     "Text": "",
     "Enabled": false
   },
@@ -1460,12 +1460,12 @@
     "Enabled": true
   },
   "150292": {
-    "OriginalText": "模滅牙",
+    "OriginalText": "龍滅牙",
     "Text": "",
     "Enabled": false
   },
   "150293": {
-    "OriginalText": "模王滅牙",
+    "OriginalText": "龍王滅牙",
     "Text": "",
     "Enabled": false
   },
@@ -1475,12 +1475,12 @@
     "Enabled": true
   },
   "150295": {
-    "OriginalText": "絶模印",
+    "OriginalText": "絶龍印",
     "Text": "",
     "Enabled": false
   },
   "150296": {
-    "OriginalText": "絶模誓",
+    "OriginalText": "絶龍誓",
     "Text": "",
     "Enabled": false
   },
