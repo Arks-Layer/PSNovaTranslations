@@ -611,32 +611,32 @@
   },
   "500260": {
     "OriginalText": "全体的な能力のバランスに優れ、環境への適応能力が\n高い種族。\n身体の強さとフォトンへの適合力の釣り合いが取れて\nおり、あらゆるクラスに適応することが可能で、安定\n性に優れている。",
-    "Text": "Balanced traits allow survival in any situation.\nCapable in the use of striking weapons, firearms,\nand techniques.",
+    "Text": "Balanced traits allow survival in any\nsituation. Capable in the use of\nstriking weapons, firearms, and\ntechniques.",
     "Enabled": true
   },
   "500261": {
     "OriginalText": "全体的な能力のバランスに優れ、環境への適応能力が\n高い種族。\n身体の強さとフォトンへの適合性を活かし、あらゆる\nクラスへの適性を見せ、満用性に富んだ能力を持つ。",
-    "Text": "Balanced traits allow survival in any situation.\n\nPhysically tough and capable of utilizing photons,\nand is rich in versatility.",
+    "Text": "Balanced traits allow survival in any\nsituation. Physically tough and capable\nof utilizing photons, and is rich in\nversatility.",
     "Enabled": true
   },
   "500262": {
     "OriginalText": "フォトンの扱いに長けており、その使役、適応に才を\n見せる種族。\n身体の脆弱さを補って余りあるフォトンに対する感応\n力の高さを見せ、その扱いに関しては他の種族の追祟\nを許さない。",
-    "Text": "Heavily adapted towards the handling of photons.\n\nPhysically frail, but unmatched by any other race\nat the Force class.",
+    "Text": "Heavily adapted towards the handling of\nphotons. Physically frail, but unmatched\nby any other race at the Force class.",
     "Enabled": true
   },
   "500263": {
     "OriginalText": "フォトンの扱いに長けており、その使役、適応に才を\n見せる種族。\nことフォトンの扱いにおいては、どの種族よりも繊細\nで丁寧であり、非力な身体をフォトンの使役により強\n化し、補っている。",
-    "Text": "Heavily adapted towards the handling of photons.\n\nDainty and frail, but shows great ability at the\nForce class.",
+    "Text": "Heavily adapted towards the handling of\nphotons. Dainty and frail, but shows\ngreat ability at the Force class.",
     "Enabled": true
   },
   "500264": {
     "OriginalText": "機械によって構成された屈強な身体を持ち、継戦性に\n優れた種族。\n人工的な身体であるため、若干フォトンの扱いを苦手\nとしているが、それを補って余りあるほどの精緻かつ\n強固な身体をウリとしている。",
-    "Text": "Machine-made, machine tough.\nDue to artificial nature, has weak photon ability,\nbut can achieve great physical strength.",
+    "Text": "Machine-made, machine tough. Due to\ntheir artificial nature, has weak photon\nability, but can achieve great physical\nstrength.",
     "Enabled": true
   },
   "500265": {
     "OriginalText": "機械によって構成された屈強な身体を持ち、継戦性に\n優れた種族。\nその身体は堅固な機械によるもので、近接戦闘や射撃\n戦において高いポテンシャルを発揮する。\n反面、フォトンの扱いは苦手。",
-    "Text": "Machine-made, machine tough.\nShows great potential in both close-range and\nfirearms combat, but is poor at utilizing photons.",
+    "Text": "Machine-made, machine tough. Shows great\npotential in both close-range and\nfirearms combat, but is poor at\nutilizing photons.",
     "Enabled": true
   },
   "500266": {
