@@ -55,15 +55,15 @@ We welcome your contributions in the form of pull requests. You may create new i
 
 If you don't understand Japanese, but still want to help out, you can look over the translated lines and make sure all grammar and spelling is correct. (US English, please!)
 
-## Line Lengths
+## Entry Sizes
 
-Here is a list of the average line lengths a region will accept before it starts to resize. These should be kept as close to as possible so that text doesn't appear too small due to the automatic resizing.
+Here is a list of sizes a region will accept before it starts to resize. These should be kept as close to as possible so that text doesn't appear too small due to the automatic resizing.
 
 ```
-Affix Descriptions - 40 Characters
-Class Descriptions - 40 Characters
-Item Descriptions - 40 Characters
-Skill/GA/Technique Descriptions - 40 Characters
+Affix Descriptions - 40 Characters, 4 Lines
+Class Descriptions - 40 Characters, 4 Lines
+Item Descriptions - 40 Characters, 4 Lines
+Skill/GA/Technique Descriptions - 40 Characters, 4 Lines
 ```
 
 ## Message (RMD) System
