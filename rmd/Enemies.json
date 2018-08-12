@@ -776,8 +776,8 @@
   },
   "184570": {
     "OriginalText": "腰角",
-    "Text": "",
-    "Enabled": false
+    "Text": "Hip Bone",
+    "Enabled": true
   },
   "184580": {
     "OriginalText": "ガトリング",
