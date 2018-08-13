@@ -7,37 +7,37 @@
   "640001": {
     "OriginalText": "炎属性状態異常",
     "Text": "Abnormal Fire Condition",
-    "Enabled": false
+    "Enabled": true
   },
   "640002": {
     "OriginalText": "氷属性状態異常",
     "Text": "Abnormal Ice Condition",
-    "Enabled": false
+    "Enabled": true
   },
   "640003": {
     "OriginalText": "雷属性状態異常",
     "Text": "Abnormal Electric Condition",
-    "Enabled": false
+    "Enabled": true
   },
   "640004": {
     "OriginalText": "光属性状態異常",
     "Text": "Abnormal Light Condition",
-    "Enabled": false
+    "Enabled": true
   },
   "640005": {
     "OriginalText": "闇属性状態異常",
     "Text": "Abnormal Dark Condition",
-    "Enabled": false
+    "Enabled": true
   },
   "640006": {
     "OriginalText": "風属性状態異常",
     "Text": "Abnormal Wind Condition",
-    "Enabled": false
+    "Enabled": true
   },
   "640007": {
     "OriginalText": "全属性状態異常",
     "Text": "Abnormal Condition",
-    "Enabled": false
+    "Enabled": true
   },
   "640008": {
     "OriginalText": "グラン中毒",
