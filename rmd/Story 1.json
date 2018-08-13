@@ -66,17 +66,17 @@
   },
   "100010020040008": {
     "OriginalText": "私はアークス特殊惑星探査隊オルター所属艦、\nデルタ・ヴァリアントのメディカルスタッフ、\nリーティアと申します。",
-    "Text": "We are on the ARKS Special Planetary Exploration\nGroup 'Alter' ship, \"Delta Valiant\". I'm Rietheia,\npart of the medical staff.",
+    "Text": "This ship is the \"Delta Valiant\". We're the ARKS Special Planetary Exploration Team, \"Alter\". I'm Rietheia, I'm with the medical staff.",
     "Enabled": true
   },
   "100010020050008": {
     "OriginalText": "これより、簡単な記憶確認を行います。",
-    "Text": "Let's briefly check to ensure your memories are in order.",
+    "Text": "Let's check to ensure that your memories\nare in working order.",
     "Enabled": true
   },
   "100010020060008": {
     "OriginalText": "あなたは現在、アークス特殊惑星探査隊\nオルターの戦闘部隊に所属し、新たに\n発見された惑星、マキアへ向かっています。",
-    "Text": "You are a new member of the ARKS Special Planetary\nExploration Group 'Alter'. We are heading for\na newly discovered planet: Makia.",
+    "Text": "You are the newest member of the ARKS Special Planetary\nExploration Group \"Alter\". We are heading for the newly discovered planet, Makhia.",
     "Enabled": true
   },
   "100010020070008": {
@@ -111,7 +111,7 @@
   },
   "100010020130008": {
     "OriginalText": "まもなく惑星マキアの衛星軌道に到着し、\n戦闘部隊員を含む第一次探査隊が\n惑星地表へ降下します。",
-    "Text": "Once we enter Makia's orbit, the primary\nexploration team, including combat personnel,\nmay then safely descend to the surface.",
+    "Text": "Once we enter Makhia's orbit, the primary\nexploration team, including combat personnel,\nmay then safely descend to the surface.",
     "Enabled": true
   },
   "100010020140008": {
@@ -386,7 +386,7 @@
   },
   "100010050010007": {
     "OriginalText": "全クルーへ。本艦はこれより惑星マキアに緊急着陸します。\n各自、衝撃に備えなさい。",
-    "Text": "To all the crew. Our ship is undergoing an\nemergency landing on the planet Makia.\nPlease prepare for impact.",
+    "Text": "To all the crew. Our ship is undergoing an\nemergency landing on the planet Makhia.\nPlease prepare for impact.",
     "Enabled": true
   },
   "100010050020005": {
@@ -1606,12 +1606,12 @@
   },
   "101030010010001": {
     "OriginalText": "惑星マキアでの第一日目が始まった。\nこれから、日記をつけていくことにします。",
-    "Text": "It's first day on the planet Makia.\nI've decided to start a diary, from\nthis point forward.",
+    "Text": "It's first day on the planet Makhia.\nI've decided to start a diary, from\nthis point forward.",
     "Enabled": true
   },
   "101030010020001": {
     "OriginalText": "あたし達の[ruby ふね]艦[/ruby]、デルタ・ヴァリアントは\n惑星マキアに墜落……あ、違った！ 不時着し、\nここでの生活……いや、サバイバルが始まった。",
-    "Text": "Our ship, the Delta Valiant, has crashed into\nthe planet Makia... is that right? Emergency\nlanding... living here... no our survival begins.",
+    "Text": "Our ship, the Delta Valiant, has crashed into\nthe planet Makhia... is that right? Emergency\nlanding... living here... no our survival begins.",
     "Enabled": true
   },
   "101030010030001": {
