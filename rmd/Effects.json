@@ -86,7 +86,7 @@
   },
   "160017": {
     "OriginalText": "ＨＰアップ",
-    "Text": "HP",
+    "Text": "HP Up",
     "Enabled": true
   },
   "160018": {
@@ -181,7 +181,7 @@
   },
   "160036": {
     "OriginalText": "確率でリアクション無効",
-    "Text": "Nullify Knockback Chance",
+    "Text": "No Knockback Chance",
     "Enabled": true
   },
   "160037": {
@@ -206,7 +206,7 @@
   },
   "160041": {
     "OriginalText": "クリティカル率アップ",
-    "Text": "Increased Critical Rate",
+    "Text": "Increased Crit Rate",
     "Enabled": true
   },
   "160042": {
@@ -741,7 +741,7 @@
   },
   "160148": {
     "OriginalText": "エステ選択項目UP",
-    "Text": "Makeover Items",
+    "Text": "Makeover Items UP",
     "Enabled": true
   },
   "160149": {
@@ -851,7 +851,7 @@
   },
   "160170": {
     "OriginalText": "探索：疲労防止",
-    "Text": "Search: Anti-Ftg.",
+    "Text": "Search: Anti-ftg.",
     "Enabled": true
   },
   "160171": {
@@ -1441,7 +1441,7 @@
   },
   "160510": {
     "OriginalText": "確率でダメージ無効",
-    "Text": "Nullify Damage Chance",
+    "Text": "No Damage Chance",
     "Enabled": true
   },
   "160511": {
@@ -1461,53 +1461,53 @@
   },
   "160514": {
     "OriginalText": "原生種に有利",
-    "Text": "",
-    "Enabled": false
+    "Text": "Native Enemy Affinity",
+    "Enabled": true
   },
   "160515": {
     "OriginalText": "模族に有利",
-    "Text": "",
-    "Enabled": false
+    "Text": "Large Enemy Affinity",
+    "Enabled": true
   },
   "160516": {
     "OriginalText": "機甲種に有利",
-    "Text": "",
-    "Enabled": false
+    "Text": "Armored Enemy Affinity",
+    "Enabled": true
   },
   "160517": {
     "OriginalText": "ヒューマンがいると有利",
-    "Text": "",
-    "Enabled": false
+    "Text": "Human Affinity",
+    "Enabled": true
   },
   "160518": {
     "OriginalText": "ニューマンがいると有利",
-    "Text": "",
-    "Enabled": false
+    "Text": "Newman Affinity",
+    "Enabled": true
   },
   "160519": {
     "OriginalText": "キャストがいると有利",
-    "Text": "",
-    "Enabled": false
+    "Text": "Cast Affinity",
+    "Enabled": true
   },
   "160520": {
     "OriginalText": "ハンターがいると有利",
-    "Text": "",
-    "Enabled": false
+    "Text": "Hunter Affinity",
+    "Enabled": true
   },
   "160521": {
     "OriginalText": "フォースがいると有利",
-    "Text": "",
-    "Enabled": false
+    "Text": "Force Affinity",
+    "Enabled": true
   },
   "160522": {
     "OriginalText": "レンジャーがいると有利",
-    "Text": "",
-    "Enabled": false
+    "Text": "Ranger Affinity",
+    "Enabled": true
   },
   "160523": {
     "OriginalText": "バスターがいると有利",
-    "Text": "",
-    "Enabled": false
+    "Text": "Buster Affinity",
+    "Enabled": true
   },
   "160524": {
     "OriginalText": "",
@@ -1541,18 +1541,18 @@
   },
   "160530": {
     "OriginalText": "ヒューマンがいると不利",
-    "Text": "",
-    "Enabled": false
+    "Text": "Human Aversion",
+    "Enabled": true
   },
   "160531": {
     "OriginalText": "ニューマンがいると不利",
-    "Text": "",
-    "Enabled": false
+    "Text": "Newman Aversion",
+    "Enabled": true
   },
   "160532": {
     "OriginalText": "キャストがいると不利",
-    "Text": "",
-    "Enabled": false
+    "Text": "Cast Aversion",
+    "Enabled": true
   },
   "160533": {
     "OriginalText": "確率でダメージアップ",
@@ -1586,22 +1586,22 @@
   },
   "160539": {
     "OriginalText": "ダーカーに有利",
-    "Text": "",
-    "Enabled": false
+    "Text": "Darker Enemy Affinity",
+    "Enabled": true
   },
   "160540": {
     "OriginalText": "ギガンテスに有利",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gigantes Enemy Affinity",
+    "Enabled": true
   },
   "160541": {
     "OriginalText": "男がいると有利",
-    "Text": "",
-    "Enabled": false
+    "Text": "Male Affinity",
+    "Enabled": true
   },
   "160542": {
     "OriginalText": "女がいると有利",
-    "Text": "",
+    "Text": "Female Affinity",
     "Enabled": false
   },
   "160543": {
@@ -1711,8 +1711,8 @@
   },
   "160564": {
     "OriginalText": "劇属性テクニックアップ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Large Tech Attrib. Up",
+    "Enabled": true
   },
   "160700": {
     "OriginalText": "探索：日数軽滅",

@@ -971,7 +971,7 @@
   },
   "510150": {
     "OriginalText": "一所懸命",
-    "Text": "Sticks To Their Guns",
+    "Text": "Sticks to Their Guns",
     "Enabled": true
   },
   "510151": {
@@ -1136,8 +1136,8 @@
   },
   "520000": {
     "OriginalText": "テキスト不要箇所\nこれが出たらパラメーター担当者に報告",
-    "Text": "",
-    "Enabled": false
+    "Text": "Invalid text.\nPlease report this if it appears.",
+    "Enabled": true
   },
   "520001": {
     "OriginalText": "見習いアークス",
@@ -1206,7 +1206,7 @@
   },
   "520015": {
     "OriginalText": "ピンチに強い",
-    "Text": "Strong during a Bind",
+    "Text": "Strong During a Bind",
     "Enabled": true
   },
   "520016": {
@@ -1301,7 +1301,7 @@
   },
   "520035": {
     "OriginalText": "目立ちたがり",
-    "Text": "Show-Off",
+    "Text": "Show-off",
     "Enabled": true
   },
   "520036": {
@@ -1316,7 +1316,7 @@
   },
   "520038": {
     "OriginalText": "団体行動が苦手",
-    "Text": "Poor during Group Activities",
+    "Text": "Poor During Group Activities",
     "Enabled": true
   },
   "520041": {
@@ -1396,7 +1396,7 @@
   },
   "520061": {
     "OriginalText": "熱血倣",
-    "Text": "Hot-Blooded",
+    "Text": "Hot-blooded",
     "Enabled": true
   },
   "520062": {
@@ -1421,12 +1421,12 @@
   },
   "520066": {
     "OriginalText": "口下手",
-    "Text": "Tongue-Tied",
+    "Text": "Tongue-tied",
     "Enabled": true
   },
   "520067": {
     "OriginalText": "打たれ強い",
-    "Text": "Can Take A Hit",
+    "Text": "Can Take a Hit",
     "Enabled": true
   },
   "520068": {
@@ -1931,28 +1931,28 @@
   },
   "520211": {
     "OriginalText": "アイテム効果アップ+1",
-    "Text": "",
-    "Enabled": false
+    "Text": "Item Effect Up +1",
+    "Enabled": true
   },
   "520212": {
     "OriginalText": "アイテム効果アップ+2",
-    "Text": "",
-    "Enabled": false
+    "Text": "Item Effect Up +2",
+    "Enabled": true
   },
   "520213": {
     "OriginalText": "アイテム効果アップ+3",
-    "Text": "",
-    "Enabled": false
+    "Text": "Item Effect Up +3",
+    "Enabled": true
   },
   "520214": {
     "OriginalText": "アイテム効果アップ+4",
-    "Text": "",
-    "Enabled": false
+    "Text": "Item Effect Up +4",
+    "Enabled": true
   },
   "520215": {
     "OriginalText": "アイテム効果アップ+5",
-    "Text": "",
-    "Enabled": false
+    "Text": "Item Effect Up +5",
+    "Enabled": true
   },
   "520216": {
     "OriginalText": "Gブースターランク1適応地路",

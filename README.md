@@ -64,6 +64,9 @@ Affix Descriptions - 40 Characters, 4 Lines
 Class Descriptions - 40 Characters, 4 Lines
 Item Descriptions - 40 Characters, 4 Lines
 Skill/GA/Technique Descriptions - 40 Characters, 4 Lines
+
+Effects - 20 Characters
+          15-18 Characters if it's a numeric effect to make room for the maximum potential number/percentage
 ```
 
 ## Message (RMD) System
