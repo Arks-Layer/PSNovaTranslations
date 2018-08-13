@@ -1602,7 +1602,7 @@
   "160542": {
     "OriginalText": "女がいると有利",
     "Text": "Female Affinity",
-    "Enabled": false
+    "Enabled": true
   },
   "160543": {
     "OriginalText": "",
