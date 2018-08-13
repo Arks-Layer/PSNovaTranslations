@@ -71,7 +71,7 @@
   },
   "90014": {
     "OriginalText": "マダムノアマガサ",
-    "Text": "Madam's Umbrella",
+    "Text": "Madame Umbrella",
     "Enabled": true
   },
   "90015": {
@@ -116,22 +116,22 @@
   },
   "90023": {
     "OriginalText": "ゴルニードル",
-    "Text": "Gollneedle",
+    "Text": "Golneedle",
     "Enabled": true
   },
   "90024": {
     "OriginalText": "ノヴァヌーク",
-    "Text": "Nova Nuhk",
+    "Text": "Novanuhk",
     "Enabled": true
   },
   "90025": {
     "OriginalText": "ヴァルムンク",
-    "Text": "Varmunhk",
+    "Text": "Valmunhk",
     "Enabled": true
   },
   "90026": {
     "OriginalText": "ノーボリー",
-    "Text": "Nohvori",
+    "Text": "Novori",
     "Enabled": true
   },
   "90027": {
@@ -151,7 +151,7 @@
   },
   "90030": {
     "OriginalText": "フォスティオリット",
-    "Text": "Faustauritt",
+    "Text": "Faustiolitt",
     "Enabled": true
   },
   "90031": {
@@ -276,7 +276,7 @@
   },
   "90055": {
     "OriginalText": "リルソレイラ",
-    "Text": "Rirslayla",
+    "Text": "Lirsoleila",
     "Enabled": true
   },
   "90056": {
@@ -381,7 +381,7 @@
   },
   "90076": {
     "OriginalText": "ガッドレイ",
-    "Text": "Gardrei",
+    "Text": "Gardray",
     "Enabled": true
   },
   "90077": {
@@ -416,7 +416,7 @@
   },
   "90083": {
     "OriginalText": "ガッドレオ",
-    "Text": "Gadrei",
+    "Text": "Gadray",
     "Enabled": true
   },
   "90084": {
@@ -551,7 +551,7 @@
   },
   "90110": {
     "OriginalText": "イーグマンドーグ",
-    "Text": "Igmandig",
+    "Text": "Eagmandig",
     "Enabled": true
   },
   "90111": {
@@ -1001,7 +1001,7 @@
   },
   "90200": {
     "OriginalText": "アルテイーグラ",
-    "Text": "Altigula",
+    "Text": "Alteagula",
     "Enabled": true
   },
   "90201": {
@@ -1101,7 +1101,7 @@
   },
   "90220": {
     "OriginalText": "フローレイ",
-    "Text": "Florei",
+    "Text": "Floray",
     "Enabled": true
   },
   "90221": {
@@ -1111,7 +1111,7 @@
   },
   "90222": {
     "OriginalText": "ディートモア",
-    "Text": "Ditmoor",
+    "Text": "Ditmore",
     "Enabled": true
   },
   "90223": {
@@ -1131,7 +1131,7 @@
   },
   "90226": {
     "OriginalText": "フローリア",
-    "Text": "Florei",
+    "Text": "Floria",
     "Enabled": true
   },
   "90227": {
@@ -1246,7 +1246,7 @@
   },
   "90249": {
     "OriginalText": "ノヴァブレア",
-    "Text": "Nove Blare",
+    "Text": "Novablare",
     "Enabled": true
   },
   "90250": {
@@ -1571,18 +1571,18 @@
   },
   "100001": {
     "OriginalText": "アークスで正式採用されている大剣。\n出力は抑えめだが、扱いやすい作りで\n多くのアークスに愛用されている。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A sword adopted by ARKS. Its\npower has been reduced, but it's\nfavored by many for its ease of use.",
+    "Enabled": true
   },
   "100002": {
     "OriginalText": "アークスで使用される改良型の大剣。\n基礎モデルより刀身が長いが、鍔が広く\n安定性が向上している。",
-    "Text": "",
-    "Enabled": false
+    "Text": "An improved sword used by ARKS.\nImprovements in efficiency reduce\ncosts while boosting power.",
+    "Enabled": true
   },
   "100003": {
     "OriginalText": "アークスで使用される高性能の大剣。\n同型モデル中、最高の堅牢性と攻撃力を\n備え、熟練者に好んで使われている。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A sword that further improves upon\nthe base model. Improved photon\nadherence boosts its attack power.",
+    "Enabled": true
   },
   "100004": {
     "OriginalText": "外観はしなやかだが攻撃力抜群の大剣。\n前世代では愛用されたが、現在は\n所有者も少なく、入手も難しい。",
@@ -1591,8 +1591,8 @@
   },
   "100005": {
     "OriginalText": "大型ランス形状の特殊な大剣。\n派手な光刃とその攻撃力の高さで\n熟練のアークスに好まれている。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A unique sword shaped like a large\nlance. Widely favored among ARKS\nfor its flashy blade and high power.",
+    "Enabled": true
   },
   "100006": {
     "OriginalText": "実体剣に寄せたフォルムを持つ大剣。\nエネルギーで薄く刃を包みこみ\n無駄を抑えつつ、高い攻撃力を保つ。",
@@ -1601,8 +1601,8 @@
   },
   "100007": {
     "OriginalText": "古典と最新鋭技術の合いの子の大剣。\n巨大な見た目に反し携帯性に優れ\n非戦闘時はコンパクトな形に収まる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A sword that combines older and\ncutting-edge technology. Returns\nto a portable form out of combat.",
+    "Enabled": true
   },
   "100008": {
     "OriginalText": "製造が困難で現存数の少ない巨大大剣。\nまれにしか採堀されない稀少金属が\nベースで、ほとんど流通していない。",
@@ -1611,8 +1611,8 @@
   },
   "100009": {
     "OriginalText": "高磁性合金で加工した大剣。\n赤い磁性フレアによる反重力作用により\n体感重量が軽く、同種の防具もある。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A sword forged from a magnetic\nalloy. Its magnetism adds an anti-\ngravity effect, making it lightweight.",
+    "Enabled": true
   },
   "100010": {
     "OriginalText": "反重力性能の高い高磁性合金の大剣。\n基本モデルよりさらに体感重量が軽く、\n多くのアークスに人気の特殊な武器。",
@@ -1621,8 +1621,8 @@
   },
   "100011": {
     "OriginalText": "森林伐採用の斧を武器転用した大剣。\n破壊力は抜群だが重量があり、初心者は\n振り上げることすら困難とされている。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A woodsman's axe, converted into a\nsword. Outstanding power, but\nbeginners struggle to lift its weight.",
+    "Enabled": true
   },
   "100012": {
     "OriginalText": "古典技術の粋を集めて作られた大剣。\n鋭いその刃は、グランの助力なしに\n全てを微塵に切り裂いてみせる。",
@@ -1631,8 +1631,8 @@
   },
   "100013": {
     "OriginalText": "無骨という表現が最も正しい大剣。\n斬るよりも叩き潰すという目的のために\n作り出された。類い稀な破砕力を持つ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A sword best described as \"barbaric\".\nRather than slashing, this weapon\nwas created to crush opponents.",
+    "Enabled": true
   },
   "100014": {
     "OriginalText": "漂う気品に誰しもが求める大剣。\nマダムの証として広く知れ渡っているが\nマダムでなくても使用が可能。",
@@ -1701,8 +1701,8 @@
   },
   "100027": {
     "OriginalText": "フィルディアが愛用する大剣。気品と\n風格にあふれ抜群の攻撃性能を誇るが\n使いこなすにも抜群の力量が必要。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A large sword that is favorited by\nFildia. While both elegant and stylish,\nit requires phenomenal mastery to use.",
+    "Enabled": true
   },
   "100028": {
     "OriginalText": "一部星域に偏在する特殊鉱石を鍛えた\n大剣。希少金属との組み合わせで\n従来モデルより熱を帯びにくくなった。",
@@ -1721,8 +1721,8 @@
   },
   "100031": {
     "OriginalText": "アークスで正式採用されている長槍。\n初心者にも扱いやすいシンプルな構造で\nトレーニング用にも使われる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A partizan adopted by ARKS. Its\neasy handling allows for beginners\nto wield it when used for trainning.",
+    "Enabled": true
   },
   "100032": {
     "OriginalText": "アークスで使用される改良型長槍。\nハルベルト愛用者たちの要望にこたえ\n命中精度に加え攻撃力を向上させた。",
@@ -1906,8 +1906,8 @@
   },
   "100068": {
     "OriginalText": "神のいたずらと名付けられた両剣。\n戯れの銘ゆえに、性能は測り知れず\nときに滅びすら招き入れるという。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A double saber that is known\nas divine mischief. Its\nperformance brings doom at times.",
+    "Enabled": true
   },
   "100069": {
     "OriginalText": "伝者の意志で長さを変えるという両剣。\n元々は、広大な河川の深さを\n測るために用いられていた記録がある。",
@@ -1916,8 +1916,8 @@
   },
   "100070": {
     "OriginalText": "無数の刃で敵を切り裂く両剣。\nあらゆる方向から繰り出される斬撃を\nくぐり抜けられる者は存在しない。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A weapon that shreds enemies with\ncountless photon blades at each of\nits ends.",
+    "Enabled": true
   },
   "100071": {
     "OriginalText": "手にすることが誉れと言われる両剣。\n鋭く研ぎ澄まされた尖状ブレードは\n触れるものをたちどころに切り裂く。",
@@ -2000,144 +2000,144 @@
     "Enabled": false
   },
   "100087": {
-    "OriginalText": "アークスで正式採用されている銅挙。\n攻撃力は標準的だが衝撃吸収に優れ\n初心者でも腕を痛めにくい。",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "アークスで正式採用されている鋼拳。\n攻撃力は標準的だが衝撃吸収に優れ\n初心者でも腕を痛めにくい。",
+    "Text": "Knuckles adopted by ARKS. High\nshock absorption means beginners\ncan use them without risk of injury.",
+    "Enabled": true
   },
   "100088": {
-    "OriginalText": "アークスで使用される改良型銅挙。\n初心者向けに衝撃吸収力と攻撃力を\nバランス良く向上させた普及モデル。",
+    "OriginalText": "アークスで使用される改良型鋼拳。\n初心者向けに衝撃吸収力と攻撃力を\nバランス良く向上させた普及モデル。",
     "Text": "",
     "Enabled": false
   },
   "100089": {
-    "OriginalText": "基礎モデルに改良を加えた銅挙。\n新開発の三層コーティングにより\nフロントカバーをさらに強化している。",
+    "OriginalText": "基礎モデルに改良を加えた鋼拳。\n新開発の三層コーティングにより\nフロントカバーをさらに強化している。",
     "Text": "",
     "Enabled": false
   },
   "100090": {
-    "OriginalText": "破砕用の工業製品を軍事転用した銅挙。\n岩石を粉砕する工業用ブレードを配し\n重機並みの破壊力で攻撃を可能にした。",
+    "OriginalText": "破砕用の工業製品を軍事転用した鋼拳。\n岩石を粉砕する工業用ブレードを配し\n重機並みの破壊力で攻撃を可能にした。",
     "Text": "",
     "Enabled": false
   },
   "100091": {
-    "OriginalText": "大型工作機械を軍事転用した銅挙。\n伝着可能な軽量化が図られたが不充分で\n長時間の戦闘が困難。",
+    "OriginalText": "大型工作機械を軍事転用した鋼拳。\n伝着可能な軽量化が図られたが不充分で\n長時間の戦闘が困難。",
     "Text": "",
     "Enabled": false
   },
   "100092": {
-    "OriginalText": "先端部に攻撃力を集中させた銅挙。\n無駄を省いたフォルムが人気で\n愛用者も多い名品。",
+    "OriginalText": "先端部に攻撃力を集中させた鋼拳。\n無駄を省いたフォルムが人気で\n愛用者も多い名品。",
     "Text": "",
     "Enabled": false
   },
   "100093": {
-    "OriginalText": "螺旋状の突起洋がつけられた銅挙。\n絶妙なバランスで調整された螺旋は\n一撃の破壊力を飛躍的に高めた。",
+    "OriginalText": "螺旋状の突起洋がつけられた鋼拳。\n絶妙なバランスで調整された螺旋は\n一撃の破壊力を飛躍的に高めた。",
     "Text": "",
     "Enabled": false
   },
   "100094": {
-    "OriginalText": "素手と同じ感覚を、と追求した結果\n辿り着いた銅挙のかたち。\n使用感は非常に良いと好評。",
+    "OriginalText": "素手と同じ感覚を、と追求した結果\n辿り着いた鋼拳のかたち。\n使用感は非常に良いと好評。",
     "Text": "",
     "Enabled": false
   },
   "100095": {
-    "OriginalText": "素手と同じ感覚を、と追求した結果\n辿り着いた銅挙のかたち。\n違法改造すれすれの特化型モデル。",
+    "OriginalText": "素手と同じ感覚を、と追求した結果\n辿り着いた鋼拳のかたち。\n違法改造すれすれの特化型モデル。",
     "Text": "",
     "Enabled": false
   },
   "100096": {
-    "OriginalText": "その昔、闘争の必須武具だった銅挙。\n身につけるだけで気力が高まっていく。\n時代を超えて愛される特殊な武器。",
+    "OriginalText": "その昔、闘争の必須武具だった鋼拳。\n身につけるだけで気力が高まっていく。\n時代を超えて愛される特殊な武器。",
     "Text": "",
     "Enabled": false
   },
   "100097": {
-    "OriginalText": "見た目からして痛々しい形の銅挙。\nおのずと近寄りがたい雰囲気が生まれ\nワイルドな空気をまとうことができる。",
+    "OriginalText": "見た目からして痛々しい形の鋼拳。\nおのずと近寄りがたい雰囲気が生まれ\nワイルドな空気をまとうことができる。",
     "Text": "",
     "Enabled": false
   },
   "100098": {
-    "OriginalText": "くちばしのような特殊形状の銅挙。\n生洋工学の観点から、原生生洋の強力な\n「噛む」力を応用し攻撃力を再現した。",
+    "OriginalText": "くちばしのような特殊形状の鋼拳。\n生洋工学の観点から、原生生洋の強力な\n「噛む」力を応用し攻撃力を再現した。",
     "Text": "",
     "Enabled": false
   },
   "100099": {
-    "OriginalText": "特殊形状の銅挙の改良試作品。\n強度を重視した超重量級モデル。\n破壊力は抜群だが伝着が困難。",
+    "OriginalText": "特殊形状の鋼拳の改良試作品。\n強度を重視した超重量級モデル。\n破壊力は抜群だが伝着が困難。",
     "Text": "",
     "Enabled": false
   },
   "100100": {
-    "OriginalText": "一部星域に偏在する特殊鉱石を鍛えた\n銅挙。ほどよく腕に馴染む重みから\n次世代のスタンダードになる予感。",
+    "OriginalText": "一部星域に偏在する特殊鉱石を鍛えた\n鋼拳。ほどよく腕に馴染む重みから\n次世代のスタンダードになる予感。",
     "Text": "",
     "Enabled": false
   },
   "100101": {
-    "OriginalText": "エレマンデルの頭部を物した銅挙。\nその邪悪な魂が両腕に宿るかのように\nしつこく迫る強烈な攻撃を浴びせる。",
+    "OriginalText": "エレマンデルの頭部を物した鋼拳。\nその邪悪な魂が両腕に宿るかのように\nしつこく迫る強烈な攻撃を浴びせる。",
     "Text": "",
     "Enabled": false
   },
   "100102": {
-    "OriginalText": "生命力の強い多肉植洋由来の銅挙。\n過酷な環境下での使用に耐える頑強な\n構造で、鋭利な棘は刺さると痛い。",
+    "OriginalText": "生命力の強い多肉植洋由来の鋼拳。\n過酷な環境下での使用に耐える頑強な\n構造で、鋭利な棘は刺さると痛い。",
     "Text": "",
     "Enabled": false
   },
   "100103": {
-    "OriginalText": "アグリオスの頭部を物した銅挙。\n突いて良し、殴って良しの\n機能的フォルムはまさに近接戦向き。",
+    "OriginalText": "アグリオスの頭部を物した鋼拳。\n突いて良し、殴って良しの\n機能的フォルムはまさに近接戦向き。",
     "Text": "",
     "Enabled": false
   },
   "100104": {
-    "OriginalText": "ガラティオンの鎖鋸翼を物した銅挙。\nあらゆる洋を斬り裂く硬回転ブレードで\n新感覚の殴撃を体感することができる。",
+    "OriginalText": "ガラティオンの鎖鋸翼を物した鋼拳。\nあらゆる洋を斬り裂く硬回転ブレードで\n新感覚の殴撃を体感することができる。",
     "Text": "",
     "Enabled": false
   },
   "100105": {
-    "OriginalText": "エウリュードのハサミを物した銅挙。\n目に見える洋はもちろん、見えない洋も\n接近すれば容赦なく狭み上げる。",
+    "OriginalText": "エウリュードのハサミを物した鋼拳。\n目に見える洋はもちろん、見えない洋も\n接近すれば容赦なく狭み上げる。",
     "Text": "",
     "Enabled": false
   },
   "100106": {
-    "OriginalText": "星を覆うギガンテスの器官を組み込み\n試作された銅挙。硬さと鋭さを兼ね備え\n新しい戦闘の形を提案する。",
+    "OriginalText": "星を覆うギガンテスの器官を組み込み\n試作された鋼拳。硬さと鋭さを兼ね備え\n新しい戦闘の形を提案する。",
     "Text": "",
     "Enabled": false
   },
   "100107": {
-    "OriginalText": "濃存の武器に既足できないアークスが\n独自開発した銅挙。突き刺す感覚の\n爽快感が高い評価を受けている。",
+    "OriginalText": "濃存の武器に既足できないアークスが\n独自開発した鋼拳。突き刺す感覚の\n爽快感が高い評価を受けている。",
     "Text": "",
     "Enabled": false
   },
   "100108": {
-    "OriginalText": "とある惑星の人気キャラクターの手首を\n物した銅挙。青い被り洋とセットで\n使用すれば、なりきり度がアップする。",
+    "OriginalText": "とある惑星の人気キャラクターの手首を\n物した鋼拳。青い被り洋とセットで\n使用すれば、なりきり度がアップする。",
     "Text": "",
     "Enabled": false
   },
   "100109": {
-    "OriginalText": "一部星域に偏在する特殊鉱石を鍛えた\n銅挙。無骨なシルエットで敬遠された\n従来モデルが改良され、女性に人気。",
+    "OriginalText": "一部星域に偏在する特殊鉱石を鍛えた\n鋼拳。無骨なシルエットで敬遠された\n従来モデルが改良され、女性に人気。",
     "Text": "",
     "Enabled": false
   },
   "100110": {
-    "OriginalText": "イーグマンデルの頭部を物したした銅挙。\n黄色く光る眼が敵の闘志を削ぎ、\nされるがままを許してしまう。",
+    "OriginalText": "イーグマンデルの頭部を物したした鋼拳。\n黄色く光る眼が敵の闘志を削ぎ、\nされるがままを許してしまう。",
     "Text": "",
     "Enabled": false
   },
   "100111": {
-    "OriginalText": "グレイオスの頭部を物した銅挙。\n怒りに燃えるかのようにドロドロした\n赤みが迫力既点で一部に人気を博した。",
+    "OriginalText": "グレイオスの頭部を物した鋼拳。\n怒りに燃えるかのようにドロドロした\n赤みが迫力既点で一部に人気を博した。",
     "Text": "",
     "Enabled": false
   },
   "100112": {
-    "OriginalText": "ヴィヴリュードのハサミを物した銅挙。\n出力はオリジナルと同等だが、一時期、\n拡張の可能性をめぐる議論があった。",
+    "OriginalText": "ヴィヴリュードのハサミを物した鋼拳。\n出力はオリジナルと同等だが、一時期、\n拡張の可能性をめぐる議論があった。",
     "Text": "",
     "Enabled": false
   },
   "100113": {
-    "OriginalText": "濃存の武器に既足できないアークスが\n独自開発した銅挙。突き刺す爽快感は\nそのままに手先の保極機能が向上。",
+    "OriginalText": "濃存の武器に既足できないアークスが\n独自開発した鋼拳。突き刺す爽快感は\nそのままに手先の保極機能が向上。",
     "Text": "",
     "Enabled": false
   },
   "100114": {
     "OriginalText": "アークスで正式採用されている長銃。\n連射による行動阻害に重きを置いた\nレンジャーのための武器。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A rifle adopted by ARKS. A weapon\nfor Rangers who focus on pinning the\nenemy down with rapid-fire shots.",
+    "Enabled": true
   },
   "100115": {
     "OriginalText": "アークスで使用される改良型の長銃。\n銃床がついて安定性が向上した。長めの\n銃身で命中力も向上した人気モデル。",
@@ -2161,8 +2161,8 @@
   },
   "100119": {
     "OriginalText": "試験的モデルとして開発された長銃。\nコンパクトな見た目ながら威力は高く\n集弾性能も高い、高レベルな水準の型。",
-    "Text": "",
-    "Enabled": false
+    "Text": "An experimental Assault Rifle.\nAlthough light, it features high\npotency and precision.",
+    "Enabled": true
   },
   "100120": {
     "OriginalText": "細部まで入念にコーティングされた\n長銃。コスト面に配慮しながら\n全体性能を大幅に向上させた。",
@@ -2276,8 +2276,8 @@
   },
   "100142": {
     "OriginalText": "アークスで正式採用されている双機銃。\n携帯性を追求した最軽量モデルで\n初心者にも扱いやすい入門機。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Twin machineguns adopted by ARKS.\nWith emphasis on lightweight mobility,\nthis weapon is ideal for beginners.",
+    "Enabled": true
   },
   "100143": {
     "OriginalText": "アークスで使用される改良型の双機銃。\n射程の長さを追求した上級モデルで\n弾倉の大型化で連射性能も向上した。",
@@ -2326,13 +2326,13 @@
   },
   "100152": {
     "OriginalText": "一部のマニア層に大人気の双機銃。\nアンティークモデルながら、その威力は\n現行武器と比較してもひけをとらない。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A pair of guns that are popular with\ngun enthusiasts. Although old, they\nstill out-perform modern weapons.",
+    "Enabled": true
   },
   "100153": {
     "OriginalText": "絶大な支持を得たシリーズのリメイク。\n双機銃としての性能を重視した改良が\n施され、全体的に能力が向上している。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A remake of a series that had a cult\nfollowing. Improved with a focus on\nperformance and overall power.",
+    "Enabled": true
   },
   "100154": {
     "OriginalText": "圧倒的な年を重ねた樹木の幹を用い\n長い時間を掛けてグランをなじませた\n至宝の双銃。樹とは思えぬ威力を誇る。",
@@ -2361,13 +2361,13 @@
   },
   "100159": {
     "OriginalText": "ただ一つの希望を守るという双機銃。\n死角のない攻撃を可能とし、一切の\n災厄を寄せ付けない。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Ordinary machineguns that keep\nhope alive. Attacks from these guns\nare flawless and accident free.",
+    "Enabled": true
   },
   "100160": {
     "OriginalText": "独自改造の双機銃。その一つの答え。\n経験に裏打ちされたカスタムのため\n非常に扱いやすく、それでいて強力。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Unique custom twin machineguns.\nModifications backed by experience\nmakes use easy, but retains power.",
+    "Enabled": true
   },
   "100161": {
     "OriginalText": "一部星域に偏在する特殊鉱石を鍛えた\n双機銃。磁気による主軸の微妙なブレを\n自動調整し安定した射撃を可能にする。",
@@ -3095,12 +3095,12 @@
     "Enabled": false
   },
   "100306": {
-    "OriginalText": "とある惑星の人気キャラクターの手首を\n物した銅挙。青い被り洋とセットで\n使用すれば、なりきり度がアップする。",
+    "OriginalText": "とある惑星の人気キャラクターの手首を\n物した鋼拳。青い被り洋とセットで\n使用すれば、なりきり度がアップする。",
     "Text": "",
     "Enabled": false
   },
   "100307": {
-    "OriginalText": "とある惑星の人気キャラクターの手首を\n物した銅挙。青い被り洋とセットで\n使用すれば、なりきり度がアップする。",
+    "OriginalText": "とある惑星の人気キャラクターの手首を\n物した鋼拳。青い被り洋とセットで\n使用すれば、なりきり度がアップする。",
     "Text": "",
     "Enabled": false
   },
