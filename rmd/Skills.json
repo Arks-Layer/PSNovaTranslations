@@ -106,7 +106,7 @@
   },
   "50021": {
     "OriginalText": "武器伝備パルチザン",
-    "Text": "Weapon Equip: Partisan",
+    "Text": "Weapon Equip: Partizan",
     "Enabled": true
   },
   "50022": {
@@ -151,12 +151,12 @@
   },
   "50030": {
     "OriginalText": "打撃防御アップⅣ",
-    "Text": "S-DEF UP IV",
+    "Text": "S-DEF Up IV",
     "Enabled": true
   },
   "50031": {
     "OriginalText": "打撃防御アップⅤ",
-    "Text": "S-DEF UP V",
+    "Text": "S-DEF Up V",
     "Enabled": true
   },
   "50032": {
@@ -176,27 +176,27 @@
   },
   "50035": {
     "OriginalText": "技量アップⅠ",
-    "Text": "DEX UP I",
+    "Text": "DEX Up I",
     "Enabled": true
   },
   "50036": {
     "OriginalText": "技量アップⅡ",
-    "Text": "DEX UP II",
+    "Text": "DEX Up II",
     "Enabled": true
   },
   "50037": {
     "OriginalText": "技量アップⅢ",
-    "Text": "DEX UP III",
+    "Text": "DEX Up III",
     "Enabled": true
   },
   "50038": {
     "OriginalText": "アーマースタンス",
-    "Text": "Fury S Up II",
+    "Text": "Armor Stance",
     "Enabled": true
   },
   "50039": {
     "OriginalText": "エレメントウィークパワー",
-    "Text": "War Cry II",
+    "Text": "Element Weak Strike",
     "Enabled": true
   },
   "50040": {
@@ -211,47 +211,47 @@
   },
   "50051": {
     "OriginalText": "射撃力アップⅠ",
-    "Text": "R-ATK UP I",
+    "Text": "R-ATK Up I",
     "Enabled": true
   },
   "50052": {
     "OriginalText": "射撃力アップⅡ",
-    "Text": "R-ATK UP II",
+    "Text": "R-ATK Up II",
     "Enabled": true
   },
   "50053": {
     "OriginalText": "射撃力アップⅢ",
-    "Text": "R-ATK UP III",
+    "Text": "R-ATK Up III",
     "Enabled": true
   },
   "50054": {
     "OriginalText": "技量アップⅠ",
-    "Text": "DEX UP I",
+    "Text": "DEX Up I",
     "Enabled": true
   },
   "50055": {
     "OriginalText": "技量アップⅡ",
-    "Text": "DEX UP II",
+    "Text": "DEX Up II",
     "Enabled": true
   },
   "50056": {
     "OriginalText": "技量アップⅢ",
-    "Text": "DEX UP III",
+    "Text": "DEX Up III",
     "Enabled": true
   },
   "50057": {
     "OriginalText": "射撃防御アップⅠ",
-    "Text": "R-DEF UP I",
+    "Text": "R-DEF Up I",
     "Enabled": true
   },
   "50058": {
     "OriginalText": "射撃防御アップⅡ",
-    "Text": "R-DEF UP II",
+    "Text": "R-DEF Up II",
     "Enabled": true
   },
   "50059": {
     "OriginalText": "射撃防御アップⅢ",
-    "Text": "R-DEF UP III",
+    "Text": "R-DEF Up III",
     "Enabled": true
   },
   "50060": {
@@ -276,7 +276,7 @@
   },
   "50064": {
     "OriginalText": "射撃力コンバート",
-    "Text": "Gunslinger",
+    "Text": "R-ATK Convert",
     "Enabled": true
   },
   "50065": {
@@ -331,7 +331,7 @@
   },
   "50075": {
     "OriginalText": "ロールアップ",
-    "Text": "Roll UP",
+    "Text": "Roll Up",
     "Enabled": true
   },
   "50076": {
@@ -351,37 +351,37 @@
   },
   "50079": {
     "OriginalText": "射撃力アップⅣ",
-    "Text": "R-ATK UP IV",
+    "Text": "R-ATK Up IV",
     "Enabled": true
   },
   "50080": {
     "OriginalText": "射撃力アップⅤ",
-    "Text": "R-ATK UP V",
+    "Text": "R-ATK Up V",
     "Enabled": true
   },
   "50081": {
     "OriginalText": "技量アップⅣ",
-    "Text": "DEX UP IV",
+    "Text": "DEX Up IV",
     "Enabled": true
   },
   "50082": {
     "OriginalText": "技量アップⅤ",
-    "Text": "DEX UP V",
+    "Text": "DEX Up V",
     "Enabled": true
   },
   "50083": {
     "OriginalText": "射撃防御アップⅣ",
-    "Text": "R-DEF UP IV",
+    "Text": "R-DEF Up IV",
     "Enabled": true
   },
   "50084": {
     "OriginalText": "射撃防御アップⅤ",
-    "Text": "R-DEF UP V",
+    "Text": "R-DEF Up V",
     "Enabled": true
   },
   "50085": {
     "OriginalText": "エアリアルアドバンスⅡ",
-    "Text": "Pinhead Snipe",
+    "Text": "Aerial Advance II",
     "Enabled": true
   },
   "50086": {
@@ -396,12 +396,12 @@
   },
   "50088": {
     "OriginalText": "エレメントウィークシュート",
-    "Text": "Weak Hit Advance II",
+    "Text": "Element Weak Shoot",
     "Enabled": true
   },
   "50089": {
     "OriginalText": "-",
-    "Text": "Standing Snipe II",
+    "Text": "-",
     "Enabled": true
   },
   "50090": {
@@ -411,27 +411,27 @@
   },
   "50091": {
     "OriginalText": "ＧＰライアットシフト",
-    "Text": "",
-    "Enabled": false
+    "Text": "GP Riot Shift",
+    "Enabled": true
   },
   "50092": {
     "OriginalText": "ＧＰスナイプシフト",
-    "Text": "",
-    "Enabled": false
+    "Text": "GP Sniper Shift",
+    "Enabled": true
   },
   "50101": {
     "OriginalText": "法撃力アップⅠ",
-    "Text": "T-ATK UP I",
+    "Text": "T-ATK Up I",
     "Enabled": true
   },
   "50102": {
     "OriginalText": "法撃力アップⅡ",
-    "Text": "T-ATK UP II",
+    "Text": "T-ATK Up II",
     "Enabled": true
   },
   "50103": {
     "OriginalText": "法撃力アップⅢ",
-    "Text": "T-ATK UP III",
+    "Text": "T-ATK Up III",
     "Enabled": true
   },
   "50104": {
@@ -546,7 +546,7 @@
   },
   "50126": {
     "OriginalText": "法撃力コンバート",
-    "Text": "T-ATK Conversion",
+    "Text": "T-ATK Convert",
     "Enabled": true
   },
   "50127": {
@@ -561,62 +561,62 @@
   },
   "50129": {
     "OriginalText": "法撃力アップⅣ",
-    "Text": "T-ATK UP IV",
+    "Text": "T-ATK Up IV",
     "Enabled": true
   },
   "50130": {
     "OriginalText": "法撃力アップⅤ",
-    "Text": "T-ATK UP V",
+    "Text": "T-ATK Up V",
     "Enabled": true
   },
   "50131": {
     "OriginalText": "-",
-    "Text": "Tech Advance II",
+    "Text": "-",
     "Enabled": true
   },
   "50132": {
     "OriginalText": "フレイムウェポン",
-    "Text": "Flame Mastery II",
+    "Text": "Flame Weapon",
     "Enabled": true
   },
   "50133": {
     "OriginalText": "アイスウェポン",
-    "Text": "Ice Mastery II",
+    "Text": "Ice Weapon",
     "Enabled": true
   },
   "50134": {
     "OriginalText": "サンダーウェポン",
-    "Text": "Thunder Mastery II",
+    "Text": "Thunder Weapon",
     "Enabled": true
   },
   "50135": {
     "OriginalText": "ダークウェポン",
-    "Text": "Dark Mastery II",
+    "Text": "Dark Weapon",
     "Enabled": true
   },
   "50136": {
     "OriginalText": "ライトウェポン",
-    "Text": "Light Mastery II",
+    "Text": "Light Weapon",
     "Enabled": true
   },
   "50137": {
     "OriginalText": "ウィンドウェポン",
-    "Text": "Wind Mastery II",
+    "Text": "Wind Weapon",
     "Enabled": true
   },
   "50138": {
     "OriginalText": "-",
-    "Text": "Tech Advance II",
+    "Text": "-",
     "Enabled": true
   },
   "50139": {
     "OriginalText": "ＧＰセイブテック",
-    "Text": "Elemental Weak Hit II",
+    "Text": "GP Save Tech",
     "Enabled": true
   },
   "50140": {
     "OriginalText": "インビンシブルフィールド",
-    "Text": "Stun Advance II",
+    "Text": "Invincible Field",
     "Enabled": true
   },
   "50141": {
@@ -626,32 +626,32 @@
   },
   "50151": {
     "OriginalText": "法撃防御アップⅠ",
-    "Text": "T-DEF UP I",
+    "Text": "T-DEF Up I",
     "Enabled": true
   },
   "50152": {
     "OriginalText": "法撃防御アップⅡ",
-    "Text": "T-DEF UP II",
+    "Text": "T-DEF Up II",
     "Enabled": true
   },
   "50153": {
     "OriginalText": "法撃防御アップⅢ",
-    "Text": "T-DEF UP III",
+    "Text": "T-DEF Up III",
     "Enabled": true
   },
   "50154": {
     "OriginalText": "ＧＰアップⅠ",
-    "Text": "GP UP I",
+    "Text": "GP Up I",
     "Enabled": true
   },
   "50155": {
     "OriginalText": "ＧＰアップⅡ",
-    "Text": "GP UP II",
+    "Text": "GP Up II",
     "Enabled": true
   },
   "50156": {
     "OriginalText": "ＧＰアップⅢ",
-    "Text": "GP UP III",
+    "Text": "GP Up III",
     "Enabled": true
   },
   "50157": {
@@ -791,42 +791,42 @@
   },
   "50184": {
     "OriginalText": "ＧＰアップⅣ",
-    "Text": "GP UP IV",
+    "Text": "GP Up IV",
     "Enabled": true
   },
   "50185": {
     "OriginalText": "ＧＰアップⅤ",
-    "Text": "GP UP V",
+    "Text": "GP Up V",
     "Enabled": true
   },
   "50186": {
     "OriginalText": "ハイスピードチャージ",
-    "Text": "Chase Advance II",
+    "Text": "High Speed Charge",
     "Enabled": true
   },
   "50187": {
     "OriginalText": "インフェクションストライク",
-    "Text": "GP Slayer II",
+    "Text": "Infection Strike",
     "Enabled": true
   },
   "50188": {
     "OriginalText": "バインドストライク",
-    "Text": "GP Restorate",
+    "Text": "Binding Strike",
     "Enabled": true
   },
   "50189": {
     "OriginalText": "ブラインドストライク",
-    "Text": "GP Burst II",
+    "Text": "Blinding Strike",
     "Enabled": true
   },
   "50190": {
     "OriginalText": "グランストライク",
-    "Text": "Tech L Charge II",
+    "Text": "Gran Strike",
     "Enabled": true
   },
   "50191": {
     "OriginalText": "チェインドライブ",
-    "Text": "Tech S Charge II",
+    "Text": "Chain Drive",
     "Enabled": true
   },
   "50192": {
@@ -836,22 +836,22 @@
   },
   "50193": {
     "OriginalText": "テックアーツＪＡボーナス",
-    "Text": "Generic Ring Field",
+    "Text": "Tech Arts JA Bonus",
     "Enabled": true
   },
   "50194": {
     "OriginalText": "-",
-    "Text": "Attack Power Up",
+    "Text": "-",
     "Enabled": true
   },
   "50201": {
     "OriginalText": "フューリーＳアップ",
-    "Text": "Fury S UP",
+    "Text": "Fury S Up",
     "Enabled": true
   },
   "50202": {
     "OriginalText": "アベレージアップ",
-    "Text": "Average UP",
+    "Text": "Average Up",
     "Enabled": true
   },
   "50203": {
@@ -866,12 +866,12 @@
   },
   "50205": {
     "OriginalText": "ブレイブＳアップ",
-    "Text": "Brave S UP",
+    "Text": "Brave S Up",
     "Enabled": true
   },
   "50206": {
     "OriginalText": "ワイズＳアップ",
-    "Text": "Wise S UP",
+    "Text": "Wise S Up",
     "Enabled": true
   },
   "50207": {
@@ -896,7 +896,7 @@
   },
   "50211": {
     "OriginalText": "アベレージＳアップ",
-    "Text": "Average S UP",
+    "Text": "Average S Up",
     "Enabled": true
   },
   "50212": {
@@ -941,7 +941,7 @@
   },
   "50220": {
     "OriginalText": "パルチザン・マスタリー",
-    "Text": "Partisan Mastery",
+    "Text": "Partizan Mastery",
     "Enabled": true
   },
   "50221": {
@@ -1021,47 +1021,47 @@
   },
   "50236": {
     "OriginalText": "ＨＰアップⅣ",
-    "Text": "HP UP IV",
+    "Text": "HP Up IV",
     "Enabled": true
   },
   "50237": {
     "OriginalText": "ＧＰアップⅣ",
-    "Text": "GP UP IV",
+    "Text": "GP Up IV",
     "Enabled": true
   },
   "50238": {
     "OriginalText": "打撃力アップⅣ",
-    "Text": "S-ATK UP IV",
+    "Text": "S-ATK Up IV",
     "Enabled": true
   },
   "50239": {
     "OriginalText": "射撃力アップⅣ",
-    "Text": "R-ATK UP IV",
+    "Text": "R-ATK Up IV",
     "Enabled": true
   },
   "50240": {
     "OriginalText": "法撃力アップⅣ",
-    "Text": "T-ATK UP IV",
+    "Text": "T-ATK Up IV",
     "Enabled": true
   },
   "50241": {
     "OriginalText": "打撃防御アップⅣ",
-    "Text": "S-DEF UP IV",
+    "Text": "S-DEF Up IV",
     "Enabled": true
   },
   "50242": {
     "OriginalText": "射撃防御アップⅣ",
-    "Text": "R-DEF UP IV",
+    "Text": "R-DEF Up IV",
     "Enabled": true
   },
   "50243": {
     "OriginalText": "法撃防御アップⅣ",
-    "Text": "T-DEF UP IV",
+    "Text": "T-DEF Up IV",
     "Enabled": true
   },
   "50244": {
     "OriginalText": "技量アップⅣ",
-    "Text": "DEX UP IV",
+    "Text": "DEX Up IV",
     "Enabled": true
   },
   "50245": {
@@ -1086,47 +1086,47 @@
   },
   "50249": {
     "OriginalText": "ＨＰアップⅢ",
-    "Text": "HP UP III",
+    "Text": "HP Up III",
     "Enabled": true
   },
   "50250": {
     "OriginalText": "ＧＰアップⅢ",
-    "Text": "GP UP III",
+    "Text": "GP Up III",
     "Enabled": true
   },
   "50251": {
     "OriginalText": "打撃力アップⅢ",
-    "Text": "S-ATK UP III",
+    "Text": "S-ATK Up III",
     "Enabled": true
   },
   "50252": {
     "OriginalText": "射撃力アップⅢ",
-    "Text": "R-ATK UP III",
+    "Text": "R-ATK Up III",
     "Enabled": true
   },
   "50253": {
     "OriginalText": "法撃力アップⅢ",
-    "Text": "T-ATK UP III",
+    "Text": "T-ATK Up III",
     "Enabled": true
   },
   "50254": {
     "OriginalText": "打撃防御アップⅢ",
-    "Text": "S-DEF UP III",
+    "Text": "S-DEF Up III",
     "Enabled": true
   },
   "50255": {
     "OriginalText": "射撃防御アップⅢ",
-    "Text": "R-DEF UP III",
+    "Text": "R-DEF Up III",
     "Enabled": true
   },
   "50256": {
     "OriginalText": "法撃防御アップⅢ",
-    "Text": "T-DEF UP III",
+    "Text": "T-DEF Up III",
     "Enabled": true
   },
   "50257": {
     "OriginalText": "技量アップⅢ",
-    "Text": "DEX UP III",
+    "Text": "DEX Up III",
     "Enabled": true
   },
   "50258": {
@@ -1136,7 +1136,7 @@
   },
   "50259": {
     "OriginalText": "パルチザン・マスタリーⅡ",
-    "Text": "Partisan Mastery II",
+    "Text": "Partizan Mastery II",
     "Enabled": true
   },
   "50260": {
@@ -1151,7 +1151,7 @@
   },
   "50262": {
     "OriginalText": "Ａライフル・マスタリーⅡ",
-    "Text": "Rifle Mastery II",
+    "Text": "Assault Rifle Mastery II",
     "Enabled": true
   },
   "50263": {
@@ -1186,118 +1186,118 @@
   },
   "50270": {
     "OriginalText": "打撃力アップ",
-    "Text": "",
-    "Enabled": false
+    "Text": "S-ATK Up",
+    "Enabled": true
   },
   "50272": {
     "OriginalText": "打撃防御アップ",
-    "Text": "",
-    "Enabled": false
+    "Text": "S-DEF Up",
+    "Enabled": true
   },
   "50274": {
     "OriginalText": "射撃力アップ",
-    "Text": "",
-    "Enabled": false
+    "Text": "R-ATK Up",
+    "Enabled": true
   },
   "50276": {
     "OriginalText": "射撃防御アップ",
-    "Text": "",
-    "Enabled": false
+    "Text": "R-DEF Up",
+    "Enabled": true
   },
   "50278": {
     "OriginalText": "技量アップ",
-    "Text": "",
-    "Enabled": false
+    "Text": "DEX Up",
+    "Enabled": true
   },
   "50280": {
     "OriginalText": "法撃力アップ",
-    "Text": "",
-    "Enabled": false
+    "Text": "T-ATK Up",
+    "Enabled": true
   },
   "50282": {
     "OriginalText": "法撃防御アップ",
-    "Text": "",
-    "Enabled": false
+    "Text": "T-DEF Up",
+    "Enabled": true
   },
   "50284": {
     "OriginalText": "ＨＰアップ",
-    "Text": "",
-    "Enabled": false
+    "Text": "HP Up",
+    "Enabled": true
   },
   "50286": {
     "OriginalText": "ＧＰアップ",
-    "Text": "",
-    "Enabled": false
+    "Text": "GP Up",
+    "Enabled": true
   },
   "50287": {
     "OriginalText": "打撃マスターⅠ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Striking Mastery I",
+    "Enabled": true
   },
   "50288": {
     "OriginalText": "打撃マスターⅡ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Striking Mastery II",
+    "Enabled": true
   },
   "50289": {
     "OriginalText": "射撃マスターⅠ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Shooting Mastery I",
+    "Enabled": true
   },
   "50290": {
     "OriginalText": "射撃マスターⅡ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Shooting Mastery II",
+    "Enabled": true
   },
   "50291": {
     "OriginalText": "法撃マスターⅠ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Tech Mastery I",
+    "Enabled": true
   },
   "50292": {
     "OriginalText": "法撃マスターⅡ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Tech Mastery II",
+    "Enabled": true
   },
   "50293": {
     "OriginalText": "攻撃マスターⅠ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Attack Mastery I",
+    "Enabled": true
   },
   "50294": {
     "OriginalText": "攻撃マスターⅡ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Attack Mastery II",
+    "Enabled": true
   },
   "50295": {
     "OriginalText": "防御マスターⅠ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Defense Mastery I",
+    "Enabled": true
   },
   "50296": {
     "OriginalText": "防御マスターⅡ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Defense Mastery II",
+    "Enabled": true
   },
   "50297": {
     "OriginalText": "ダイヤモンドウィル",
-    "Text": "",
-    "Enabled": false
+    "Text": "Diamond Will",
+    "Enabled": true
   },
   "50398": {
     "OriginalText": "打撃バースト",
-    "Text": "",
-    "Enabled": false
+    "Text": "Striking Burst",
+    "Enabled": true
   },
   "50399": {
     "OriginalText": "射撃バースト",
-    "Text": "",
-    "Enabled": false
+    "Text": "Shooting Burst",
+    "Enabled": true
   },
   "50400": {
     "OriginalText": "法撃バースト",
-    "Text": "",
-    "Enabled": false
+    "Text": "Tech Burst",
+    "Enabled": true
   },
   "50401": {
     "OriginalText": "ＨＰコンバート",
@@ -1371,7 +1371,7 @@
   },
   "60013": {
     "OriginalText": "ＨＰが１０％似上で\n戦闘不能となるダメージを受けたとき\n３０％の確率でＨＰが１残ることがある。",
-    "Text": "When HP is at 10% or lower, gain a 30%\nchance to survive with 1 HP when hit\nwith an attack that would normally kill\nyou.",
+    "Text": "When HP is 10% or lower, 30% chance to\nsurvive with 1 HP when receiving damage\nthat would incapacitate you.",
     "Enabled": true
   },
   "60014": {
@@ -1411,7 +1411,7 @@
   },
   "60021": {
     "OriginalText": "パルチザンの伝備が可能になる。",
-    "Text": "Allows the use of Partisans.",
+    "Text": "Allows the use of Partizans.",
     "Enabled": true
   },
   "60022": {
@@ -1431,7 +1431,7 @@
   },
   "60025": {
     "OriginalText": "ＨＰが５０％似下になったとき、\n自動でメイト系アイテムを使用する。",
-    "Text": "When HP is at 50% or below,\nautomatically use a mate item on\nyourself.",
+    "Text": "When HP is 50% or below, automatically\nuse a mate item on yourself.",
     "Enabled": true
   },
   "60026": {
@@ -1476,7 +1476,7 @@
   },
   "60034": {
     "OriginalText": "ＨＰが１０％似上で\n戦闘不能となるダメージを受けたとき、\n５０％の確率でＨＰが１残ることがある。",
-    "Text": "May survive with 1 HP when receiving\ndamage that would kill you.",
+    "Text": "When HP is 10% or lower, 50% chance to\nsurvive with 1 HP when receiving damage\nthat would incapacitate you.",
     "Enabled": true
   },
   "60035": {
@@ -1501,7 +1501,7 @@
   },
   "60039": {
     "OriginalText": "打撃攻撃による\n弱点属性へのダメージが６０％上昇する。",
-    "Text": "Attacking Weakspots recieves a 60%\ndamage bonus when hit with Striking\nAttacks.",
+    "Text": "Increases the weak attribute's damage\ndealt with Striking attacks by 60%.",
     "Enabled": true
   },
   "60040": {
@@ -1561,7 +1561,7 @@
   },
   "60060": {
     "OriginalText": "射撃で弱点部位を攻撃したときの\nダメージが５０％上昇する。",
-    "Text": "Increases the damage dealt when\nshooting at the enemy's weak points.",
+    "Text": "Increases the damage dealt when\nshooting at the enemy's weak points by\n50%.",
     "Enabled": true
   },
   "60061": {
@@ -1586,18 +1586,18 @@
   },
   "60065": {
     "OriginalText": "攻撃をヒットさせると、\n発生するヘイトにボーナスがつく効果。\n移動速度が２０％アップする。",
-    "Text": "",
-    "Enabled": false
+    "Text": "When landing an attack, hate\naccumulation is increased and movement\nspeed is increased by 20%.",
+    "Enabled": true
   },
   "60066": {
     "OriginalText": "一定時間、エネミーに狙われにくくなる。\n\n[a 03]※アクティブスキルは同時に２つまで発動可[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "Decreases chances of being targeted by\nenemies when active.\n[a 03]＊Up to 2 actives at the same time.[b]",
+    "Enabled": true
   },
   "60067": {
     "OriginalText": "一定時間、射撃力による攻撃の\nヒット数が３加算される。",
-    "Text": "",
-    "Enabled": false
+    "Text": "The number of hits with R-ATK based\nweapons is increased by 3 for a limited\ntime.",
+    "Enabled": true
   },
   "60068": {
     "OriginalText": "飛び込むような鑽動で短距離を素早く\n移動する。「ミラージュエスケープ」\n「ステップ」と同時セット不可。",
@@ -1686,12 +1686,12 @@
   },
   "60085": {
     "OriginalText": "空中にいるエネミーへの\nダメージが１００％上昇し\n通常攻撃のＧＰ回復量が１００％増加する。",
-    "Text": "Increases damage by 100% while in the\nair. Normal Attacks GP recovery rate boosted by 100%.",
+    "Text": "Increases damage by 100% when attacks\nhit enemies in the air. Normal Attacks\nGP recovery rate boosted by 100%.",
     "Enabled": true
   },
   "60086": {
     "OriginalText": "ＨＰが３５％似下になったとき、\n自動でメイト系アイテムを使用する。",
-    "Text": "When your HP falls to 35% or lower,\nautomatically use a mate item on\nyourself.",
+    "Text": "When HP is 35% or below, automatically\nuse a mate item on yourself.",
     "Enabled": true
   },
   "60087": {
@@ -1701,8 +1701,8 @@
   },
   "60088": {
     "OriginalText": "射撃攻撃による\n弱点属性へのダメージが３０％上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Increases the weak attribute's damage\ndealt with Ranged attacks by 30%.",
+    "Enabled": true
   },
   "60089": {
     "OriginalText": "-",
@@ -1716,13 +1716,13 @@
   },
   "60091": {
     "OriginalText": "一定時間、ＧＰ自動回復量が０になる代わりに、\n攻撃をヒットさせたときのＧＰ回復量が増加する。\n[a 03]※アクティブスキルは同時に２つまで発動可[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "GP recovery amount increases when\nhitting enemies, but natural GP recovery\nrate is set to 0.\n[a 03]＊Up to 2 actives at the same time.[b]",
+    "Enabled": true
   },
   "60092": {
     "OriginalText": "一定時間、ＧＰ自動回復量が増加する代わりに、\n攻撃をヒットさせたときのＧＰ回復量が０になる。\n[a 03]※アクティブスキルは同時に２つまで発動可[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "Natural GP recovery rate is increased,\nbut GP recovery amount when hitting\nenemies is set to 0.\n[a 03]＊Up to 2 actives at the same time.[b]",
+    "Enabled": true
   },
   "60093": {
     "OriginalText": "-",
@@ -1841,12 +1841,12 @@
   },
   "60123": {
     "OriginalText": "シフタ・デバンドの効果時間が延長する。\n更に、攻撃力・防御力の上昇量も増加する。",
-    "Text": "Boosts the effect of Shifta.",
+    "Text": "Boosts the effect of Shifta and Deband\nas well as increasing attack and\ndefense.",
     "Enabled": true
   },
   "60124": {
     "OriginalText": "デバンドの効果が５０％上昇し、\n効果時間が延長する。",
-    "Text": "Boosts the effect of Deband.",
+    "Text": "Boosts the effect of Deband by 50% and\nincreases duration.",
     "Enabled": true
   },
   "60125": {
@@ -1886,33 +1886,33 @@
   },
   "60132": {
     "OriginalText": "一定時間、武器に炎属性を付与し、\nさらにダメージが３０％上昇する。\n[a 03]※アクティブスキルは同時に２つまで発動可[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "Adds Fire attribute to weapon and\nincreases damage by 30% for a limited time.\n[a 03]＊Up to 2 actives at the same time.[b]",
+    "Enabled": true
   },
   "60133": {
     "OriginalText": "一定時間、武器に劇属性を付与し、\nさらにダメージが３０％上昇する。\n[a 03]※アクティブスキルは同時に２つまで発動可[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "Adds Ice attribute to weapon and\nincreases damage by 30% for a limited time.\n[a 03]＊Up to 2 actives at the same time.[b]",
+    "Enabled": true
   },
   "60134": {
     "OriginalText": "一定時間、武器に雷属性を付与し、\nさらにダメージが３０％上昇する。\n[a 03]※アクティブスキルは同時に２つまで発動可[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "Adds Lightning attribute to weapon and\nincreases damage by 30% for a limited time.\n[a 03]＊Up to 2 actives at the same time.[b]",
+    "Enabled": true
   },
   "60135": {
     "OriginalText": "一定時間、武器に闇属性を付与し、\nさらにダメージが３０％上昇する。\n[a 03]※アクティブスキルは同時に２つまで発動可[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "Adds Dark attribute to weapon and\nincreases damage by 30% for a limited time.\n[a 03]＊Up to 2 actives at the same time.[b]",
+    "Enabled": true
   },
   "60136": {
     "OriginalText": "一定時間、武器に光属性を付与し、\nさらにダメージが３０％上昇する。\n[a 03]※アクティブスキルは同時に２つまで発動可[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "Adds Light attribute to weapon and\nincreases damage by 30% for a limited time.\n[a 03]＊Up to 2 actives at the same time.[b]",
+    "Enabled": true
   },
   "60137": {
     "OriginalText": "一定時間、武器に風属性を付与し、\nさらにダメージが３０％上昇する。\n[a 03]※アクティブスキルは同時に２つまで発動可[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "Adds Wind attribute to weapon and\nincreases damage by 30% for a limited time.\n[a 03]＊Up to 2 actives at the same time.[b]",
+    "Enabled": true
   },
   "60138": {
     "OriginalText": "-",
@@ -1921,13 +1921,13 @@
   },
   "60139": {
     "OriginalText": "一定時間、テクニックの\nＧＰ消費量を０にする。\n[a 03]※アクティブスキルは同時に２つまで発動可[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "GP consumption when using Techniques is\nset to 0 for a limited time.\n[a 03]＊Up to 2 actives at the same time.[b]",
+    "Enabled": true
   },
   "60140": {
     "OriginalText": "一定時間、与えるダメージと受けるダメージを\n０にする。\n[a 03]※アクティブスキルは同時に２つまで発動可[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "Both damage dealt and damage received is\nset to 0 for a limited time.\n[a 03]＊Up to 2 actives at the same time.[b]",
+    "Enabled": true
   },
   "60141": {
     "OriginalText": "-",
@@ -2056,7 +2056,7 @@
   },
   "60175": {
     "OriginalText": "ＨＰが５０％似下になったとき\n打撃力・射撃力・法撃力が\n１０００上昇する。",
-    "Text": "Raises S-ATK and R-ATK by 1000 when HP\nis at 50% or lower.",
+    "Text": "When HP is 50% or lower, S-ATK, R-ATK\nand T-ATK are increased by 1000.",
     "Enabled": true
   },
   "60176": {
@@ -2086,8 +2086,8 @@
   },
   "60181": {
     "OriginalText": "ハーフラインスレイヤー２ の解説文",
-    "Text": "",
-    "Enabled": false
+    "Text": "Description for Halfline Slayer II",
+    "Enabled": true
   },
   "60182": {
     "OriginalText": "法撃防御力が１５０上昇する。",
@@ -2111,48 +2111,48 @@
   },
   "60186": {
     "OriginalText": "一定時間、テクニックのチャージを大幅に短温、\n代わりに、バーストゲージが貯まらなくなる。\n[a 03]※アクティブスキルは同時に２つまで発動可[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "Charge time for Techniques is\nsignificantly decreased for a limited\ntime.\n[a 03]＊Up to 2 actives at the same time.[b]",
+    "Enabled": true
   },
   "60187": {
     "OriginalText": "一定時間、ダメージが３０％上昇し、\n攻撃時にインフェクションが発生する。\n[a 03]※アクティブスキルは同時に２つまで発動可[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "Increases damage by 30% and attacks\ninflict Infection on enemies for a limited time.\n[a 03]＊Up to 2 actives at the same time.[b]",
+    "Enabled": true
   },
   "60188": {
     "OriginalText": "一定時間、ダメージが３０％上昇し、\n攻撃時にバインドが発生する。\n[a 03]※アクティブスキルは同時に２つまで発動可[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "Increases damage by 30% and attacks\ninflict Bind on enemies for a limited time.\n[a 03]＊Up to 2 actives at the same time.[b]",
+    "Enabled": true
   },
   "60189": {
     "OriginalText": "一定時間、ダメージが３０％上昇し、\n攻撃時にブラインドが発生する。\n[a 03]※アクティブスキルは同時に２つまで発動可[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "Increases damage by 30% and attacks\ninflict Blind on enemies for a limited time.\n[a 03]＊Up to 2 actives at the same time.[b]",
+    "Enabled": true
   },
   "60190": {
     "OriginalText": "一定時間、ダメージが３０％上昇し、\n攻撃時にグラン中毒が発生する。\n[a 03]※アクティブスキルは同時に２つまで発動可[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "Increases damage by 30% and attacks\ninflict Gran Poisoning on enemies for a\nlimited time.\n[a 03]＊Up to 2 actives at the same time.[b]",
+    "Enabled": true
   },
   "60191": {
     "OriginalText": "一定時間、攻撃力を落とし、自身の能力を\nバーストを継続することに特化させる。\n[a 03]※アクティブスキルは同時に２つまで発動可[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "Reduces attack power and increases burst\nsustainability for a limited time.\n[a 03]＊Up to 2 actives at the same time.[b]",
+    "Enabled": true
   },
   "60192": {
     "OriginalText": "ＨＰが２５％似下になったとき\n打撃力・射撃力・法撃力が\n５０００上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "When HP is 25% or lower, S-ATK, R-ATK\nand T-ATK are increased by 5000.",
+    "Enabled": true
   },
   "60193": {
     "OriginalText": "別のＧＡやテクニックで\nジャストアタックしたときの\nダメージが８０％上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Damage increases by 80% when Just\nAttacking with another GA or Technique.",
+    "Enabled": true
   },
   "60194": {
     "OriginalText": "攻撃力がアップする",
-    "Text": "",
-    "Enabled": false
+    "Text": "Increases your attack power.",
+    "Enabled": true
   },
   "60201": {
     "OriginalText": "フューリースタンス中、\n打撃力と射撃力が１０％上昇する。",
@@ -2251,7 +2251,7 @@
   },
   "60220": {
     "OriginalText": "パルチザン伝備時に、\nダメージの振れ幅が小さくなり\nダメージが安定しやすくなる。",
-    "Text": "Decreases the damage spread of\nPartisans, making their damage more\nconsistent.",
+    "Text": "Decreases the damage spread of\nPartizans, making their damage more\nconsistent.",
     "Enabled": true
   },
   "60221": {
@@ -2390,7 +2390,7 @@
     "Enabled": true
   },
   "60248": {
-    "OriginalText": "アクティブスキルのリキャスト時間を\n一定時間短温する。    ",
+    "OriginalText": "アクティブスキルのリキャスト時間を\n一定時間短温する。",
     "Text": "Reduces recast times for Active Skills.",
     "Enabled": true
   },
@@ -2441,212 +2441,212 @@
   },
   "60258": {
     "OriginalText": "ソード伝備時に\nダメージが８０％上昇し、\nクリティカルヒット確率が５％上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Sword damage is increased by 80%.\nCritical hit rate increased by 5%.",
+    "Enabled": true
   },
   "60259": {
     "OriginalText": "パルチザン伝備時に\nダメージが８０％上昇し、\n敵をバインドにする確率が５０％上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Partizan damage is increased by 80%.\nBind infliction rate increased by 5%.",
+    "Enabled": true
   },
   "60260": {
     "OriginalText": "ダブルセイバー伝備時に\nダメージが８０％上昇し、\nダメージを受けたとき玄け反らなくなる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Double Saber damage is increased by 80%.\nIncreased damage when taking damage.",
+    "Enabled": true
   },
   "60261": {
     "OriginalText": "ナックル伝備時に\nダメージが８０％上昇し、\nクリティカルヒット確率が５％上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Knuckle damage is increased by 80%.\nCritical hit rate increased by 5%.",
+    "Enabled": true
   },
   "60262": {
     "OriginalText": "アサルトライフル伝備時に\nダメージが８０％上昇し、\n敵をインフェクションにする確率が５０％上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Assault Rifle damage is increased by\n80%. Infection infliction rate increased\nby 50%.",
+    "Enabled": true
   },
   "60263": {
     "OriginalText": "ツインマシンガン伝備時に\nダメージが８０％上昇し、\n通常攻撃のＧＰ回復量が１００％増加する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Twin Machine Gun damage is increased by\n80%. GP recovery amount with normal\nattacks increased by 100%.",
+    "Enabled": true
   },
   "60264": {
     "OriginalText": "ロッド伝備時に\nダメージが８０％上昇し、\n法撃力が１００上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Rod damage is increased by 80%. T-ATK\nincreased by 100.",
+    "Enabled": true
   },
   "60265": {
     "OriginalText": "タリス伝備時に\nダメージが８０％上昇し、\n攻撃がヒットした敵の全耐性がダウンする。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Talis damage is increased by 80%. All\nresistances of hit enemies are lowered.",
+    "Enabled": true
   },
   "60266": {
     "OriginalText": "ウォンド伝備時に\nダメージが８０％上昇し、\nダメージを受けたとき玄け反らなくなる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Wand damage is increased by 80%.\nIncreased damage when taking damage.",
+    "Enabled": true
   },
   "60267": {
     "OriginalText": "パイル伝備時に\n打撃力・射撃力・法撃力が\n４０％上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "S-ATK, R-ATK and T-ATK increased by 50%.",
+    "Enabled": true
   },
   "60268": {
     "OriginalText": "ヘイロウ伝備時に\nダメージが８０％上昇し、\n敵に狙われにくくなる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Halo damage is increased by 80%. Enemy\nhate decreased.",
+    "Enabled": true
   },
   "60270": {
     "OriginalText": "打撃力が１２００上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Increases your S-ATK by 1200.",
+    "Enabled": true
   },
   "60272": {
     "OriginalText": "打撃防御力が１２００上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Increases your S-DEF by 1200.",
+    "Enabled": true
   },
   "60274": {
     "OriginalText": "射撃力が１２００上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Increases your R-ATK by 1200.",
+    "Enabled": true
   },
   "60276": {
     "OriginalText": "射撃防御力が１２００上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Increases your R-DEF by 1200.",
+    "Enabled": true
   },
   "60278": {
     "OriginalText": "技量が１２０上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Increases your DEX by 120.",
+    "Enabled": true
   },
   "60280": {
     "OriginalText": "法撃力が１２００上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Increases your T-ATK by 1200.",
+    "Enabled": true
   },
   "60282": {
     "OriginalText": "法撃防御力が１２００上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Increases your T-DEF by 1200.",
+    "Enabled": true
   },
   "60284": {
     "OriginalText": "ＨＰの上限値が６００上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Increases your max HP by 600.",
+    "Enabled": true
   },
   "60286": {
     "OriginalText": "ＧＰの上限値が６０上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Increases your max GP by 60.",
+    "Enabled": true
   },
   "60287": {
     "OriginalText": "打撃力と打撃防御力が５００上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Increases your S-ATK and S-DEF by 600.",
+    "Enabled": true
   },
   "60288": {
     "OriginalText": "打撃力と打撃防御力が１２００上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Increases your S-ATK and S-DEF by 1200.",
+    "Enabled": true
   },
   "60289": {
     "OriginalText": "射撃力と射撃防御力が５００上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Increases your R-ATK and R-DEF by 600.",
+    "Enabled": true
   },
   "60290": {
     "OriginalText": "射撃力と射撃防御力が１２００上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Increases your R-ATK and R-DEF by 1200.",
+    "Enabled": true
   },
   "60291": {
     "OriginalText": "法撃力と法撃防御力が５００上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Increases your T-ATK and T-DEF by 600.",
+    "Enabled": true
   },
   "60292": {
     "OriginalText": "法撃力と法撃防御力が１２００上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Increases your T-ATK and T-DEF by 1200.",
+    "Enabled": true
   },
   "60293": {
     "OriginalText": "打撃力と射撃力と法撃力が\n５００上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Increases S-ATK, R-ATK and T-ATK by 500.",
+    "Enabled": true
   },
   "60294": {
     "OriginalText": "打撃力と射撃力と法撃力が\n１２００上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Increases S-ATK, R-ATK and T-ATK by\n1200.",
+    "Enabled": true
   },
   "60295": {
     "OriginalText": "打撃防御力と射撃防御力と法撃防御力が\n５００上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Increases S-DEF, R-DEF and T-DEF by 500.",
+    "Enabled": true
   },
   "60296": {
     "OriginalText": "打撃防御力と射撃防御力と法撃防御力が\n１２００上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Increases S-DEF, R-DEF and T-DEF by\n1200.",
+    "Enabled": true
   },
   "60297": {
     "OriginalText": "戦闘不能となるダメージを受けたとき\n７０％の確率でＨＰが１残ることがある。",
-    "Text": "",
-    "Enabled": false
+    "Text": "70% chance to survive with 1 HP when\nreceiving damage that would incapacitate you.",
+    "Enabled": true
   },
   "60298": {
     "OriginalText": "打撃力が５００上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Increases your S-ATK by 500.",
+    "Enabled": true
   },
   "60299": {
     "OriginalText": "打撃防御力が５００上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Increases your S-DEF by 500.",
+    "Enabled": true
   },
   "60300": {
     "OriginalText": "射撃力が５００上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Increases your R-ATK by 500.",
+    "Enabled": true
   },
   "60301": {
     "OriginalText": "射撃防御力が５００上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Increases your R-DEF by 500.",
+    "Enabled": true
   },
   "60302": {
     "OriginalText": "法撃力が５００上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Increases your T-ATK by 500.",
+    "Enabled": true
   },
   "60303": {
     "OriginalText": "法撃防御力が５００上昇する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Increases your T-DEF by 500.",
+    "Enabled": true
   },
   "60398": {
     "OriginalText": "バースト中に打撃力が４０％上昇し、\nギガンテスブラストゲージが溜まりやすくなる。\n[a 03]※「射撃・法撃バースト」と同時セット不可[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "Increases S-ATK by 40% and Gigantes\nBlast gauge gain for a limited time.\n[a 03]＊Cannot be used simultaneously with\nShooting Burst or Tech Burst.[b]",
+    "Enabled": true
   },
   "60399": {
     "OriginalText": "バースト中に射撃力が４０％上昇し、\nＧＰの自動回復速度が上昇する。\n[a 03]※「打撃・法撃バースト」と同時セット不可[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "Increases R-ATK by 40% and GP recovery\nrate for a limited time.\n[a 03]＊Cannot be used simultaneously with\nStriking Burst or Tech Burst.[b]",
+    "Enabled": true
   },
   "60400": {
     "OriginalText": "バースト中に法撃力が４０％上昇し、\n攻撃時にＨＰ吸収効果を得る。\n[a 03]※「打撃・射撃バースト」と同時セット不可[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "Increases T-ATK by 40% and absorb HP\nwhen hitting enemies for a limited time.\n[a 03]＊Cannot be used simultaneously with\nStriking Burst or Shooting Burst.[b]",
+    "Enabled": true
   },
   "60401": {
     "OriginalText": "一定時間、打撃力と射撃力を０にし、\n代わりに、最大ＨＰを３０００上昇する。\n[a 03]※アクティブスキルは同時に２つまで発動可[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "for a limited time, S-ATK and R-ATK are\nset to 0, but HP is increased by 3000.\n[a 03]＊Up to 2 actives at the same time.[b]",
+    "Enabled": true
   },
   "60402": {
     "OriginalText": "一定時間、補助テクニックの\n効果範囲が上昇する。\n[a 03]※アクティブスキルは同時に２つまで発動可[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "The effective range of support\nTechniques is increased for a limited\ntime.",
+    "Enabled": true
   }
 }
