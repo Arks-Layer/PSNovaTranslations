@@ -106,7 +106,7 @@
   },
   "50021": {
     "OriginalText": "武器伝備パルチザン",
-    "Text": "Weapon Equip: Partisan",
+    "Text": "Weapon Equip: Partizan",
     "Enabled": true
   },
   "50022": {
@@ -941,7 +941,7 @@
   },
   "50220": {
     "OriginalText": "パルチザン・マスタリー",
-    "Text": "Partisan Mastery",
+    "Text": "Partizan Mastery",
     "Enabled": true
   },
   "50221": {
@@ -1136,7 +1136,7 @@
   },
   "50259": {
     "OriginalText": "パルチザン・マスタリーⅡ",
-    "Text": "Partisan Mastery II",
+    "Text": "Partizan Mastery II",
     "Enabled": true
   },
   "50260": {
@@ -1411,7 +1411,7 @@
   },
   "60021": {
     "OriginalText": "パルチザンの伝備が可能になる。",
-    "Text": "Allows the use of Partisans.",
+    "Text": "Allows the use of Partizans.",
     "Enabled": true
   },
   "60022": {
@@ -2251,7 +2251,7 @@
   },
   "60220": {
     "OriginalText": "パルチザン伝備時に、\nダメージの振れ幅が小さくなり\nダメージが安定しやすくなる。",
-    "Text": "Decreases the damage spread of\nPartisans, making their damage more\nconsistent.",
+    "Text": "Decreases the damage spread of\nPartizans, making their damage more\nconsistent.",
     "Enabled": true
   },
   "60221": {
