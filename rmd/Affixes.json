@@ -1011,13 +1011,13 @@
   },
   "150202": {
     "OriginalText": "気配遮断",
-    "Text": "",
-    "Enabled": false
+    "Text": "Block Presence",
+    "Enabled": true
   },
   "150203": {
     "OriginalText": "気配消去",
-    "Text": "",
-    "Enabled": false
+    "Text": "Erase Presence",
+    "Enabled": true
   },
   "150204": {
     "OriginalText": "- 予備枠",
@@ -1056,13 +1056,13 @@
   },
   "150211": {
     "OriginalText": "護法陣",
-    "Text": "",
-    "Enabled": false
+    "Text": "Safeguard Technique",
+    "Enabled": true
   },
   "150212": {
     "OriginalText": "護法塞",
-    "Text": "",
-    "Enabled": false
+    "Text": "Fortify Technique",
+    "Enabled": true
   },
   "150213": {
     "OriginalText": "護法砦",
@@ -1071,13 +1071,13 @@
   },
   "150214": {
     "OriginalText": "修羅紋",
-    "Text": "",
-    "Enabled": false
+    "Text": "Fighting Crest",
+    "Enabled": true
   },
   "150215": {
     "OriginalText": "羅刹紋",
-    "Text": "",
-    "Enabled": false
+    "Text": "Devil Crest",
+    "Enabled": true
   },
   "150216": {
     "OriginalText": "- 予備枠",
@@ -1116,18 +1116,18 @@
   },
   "150223": {
     "OriginalText": "飛練撃",
-    "Text": "",
-    "Enabled": false
+    "Text": "Rising Strike",
+    "Enabled": true
   },
   "150224": {
     "OriginalText": "飛練暴",
-    "Text": "",
-    "Enabled": false
+    "Text": "Rising Force",
+    "Enabled": true
   },
   "150225": {
     "OriginalText": "飛練爆",
-    "Text": "",
-    "Enabled": false
+    "Text": "Rising Roar",
+    "Enabled": true
   },
   "150226": {
     "OriginalText": "集気光",
@@ -1206,13 +1206,13 @@
   },
   "150241": {
     "OriginalText": "観理眼",
-    "Text": "",
-    "Enabled": false
+    "Text": "Ocular Sharpness",
+    "Enabled": true
   },
   "150242": {
     "OriginalText": "観理識",
-    "Text": "",
-    "Enabled": false
+    "Text": "Ocular Awareness",
+    "Enabled": true
   },
   "150243": {
     "OriginalText": "- 予備枠",
@@ -1251,8 +1251,8 @@
   },
   "150250": {
     "OriginalText": "光戦形態",
-    "Text": "",
-    "Enabled": false
+    "Text": "Battle Form",
+    "Enabled": true
   },
   "150251": {
     "OriginalText": "光争形態",
@@ -1261,8 +1261,8 @@
   },
   "150252": {
     "OriginalText": "究極の加護",
-    "Text": "",
-    "Enabled": false
+    "Text": "Ultimate Protection",
+    "Enabled": true
   },
   "150253": {
     "OriginalText": "幸運の羽根",
@@ -1356,13 +1356,13 @@
   },
   "150271": {
     "OriginalText": "守勢練陣",
-    "Text": "",
-    "Enabled": false
+    "Text": "Guardian Formation",
+    "Enabled": true
   },
   "150272": {
     "OriginalText": "守勢練塞",
-    "Text": "",
-    "Enabled": false
+    "Text": "Guardian Blockade",
+    "Enabled": true
   },
   "150273": {
     "OriginalText": "- 予備枠",
@@ -1371,13 +1371,13 @@
   },
   "150274": {
     "OriginalText": "正対の構え",
-    "Text": "",
-    "Enabled": false
+    "Text": "Confronting Stance",
+    "Enabled": true
   },
   "150275": {
     "OriginalText": "正対の型",
-    "Text": "",
-    "Enabled": false
+    "Text": "Confronting Pattern",
+    "Enabled": true
   },
   "150276": {
     "OriginalText": "- 予備枠",
@@ -1401,8 +1401,8 @@
   },
   "150280": {
     "OriginalText": "正対の必撃",
-    "Text": "",
-    "Enabled": false
+    "Text": "Confronting Strike",
+    "Enabled": true
   },
   "150281": {
     "OriginalText": "正対の必墜",
