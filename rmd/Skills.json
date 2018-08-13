@@ -321,7 +321,7 @@
   },
   "50073": {
     "OriginalText": "武器伝備ツインマシンガン",
-    "Text": "Weapon Equip: Twin Machine Gun",
+    "Text": "Weapon Equip: Twin Machinegun",
     "Enabled": true
   },
   "50074": {
@@ -956,7 +956,7 @@
   },
   "50223": {
     "OriginalText": "Ｔマシンガン・マスタリー",
-    "Text": "Twin Machine Gun Mastery",
+    "Text": "Twin Machinegun Mastery",
     "Enabled": true
   },
   "50224": {
@@ -1156,7 +1156,7 @@
   },
   "50263": {
     "OriginalText": "Ｔマシンガン・マスタリーⅡ",
-    "Text": "Twin Machine Gun Mastery II",
+    "Text": "Twin Machinegun Mastery II",
     "Enabled": true
   },
   "50264": {
@@ -1621,17 +1621,17 @@
   },
   "60072": {
     "OriginalText": "アサルトライフルの伝備が\n可能になる。",
-    "Text": "Allows the use of Assault Rifles",
+    "Text": "Allows the use of Assault Rifles.",
     "Enabled": true
   },
   "60073": {
     "OriginalText": "ツインマシンガンの伝備が\n可能になる。",
-    "Text": "Allows the use of Twin Machine Guns",
+    "Text": "Allows the use of Twin Machineguns.",
     "Enabled": true
   },
   "60074": {
     "OriginalText": "ツインマシンガン伝備時のみ有効な\n攻撃を回避する武器アクション。",
-    "Text": "Allows Stylish Rolls to be used with\nTwin Machine Guns only.",
+    "Text": "Allows Stylish Rolls to be used with\nTwin Machineguns only.",
     "Enabled": true
   },
   "60075": {
@@ -2266,7 +2266,7 @@
   },
   "60223": {
     "OriginalText": "ツインマシンガン伝備時に、\nダメージの振れ幅が小さくなり\nダメージが安定しやすくなる。",
-    "Text": "Decreases the damage spread of Twin\nMachine Guns, making their damage more\nconsistent.",
+    "Text": "Decreases the damage spread of Twin\nMachineguns, making their damage more\nconsistent.",
     "Enabled": true
   },
   "60224": {
@@ -2466,7 +2466,7 @@
   },
   "60263": {
     "OriginalText": "ツインマシンガン伝備時に\nダメージが８０％上昇し、\n通常攻撃のＧＰ回復量が１００％増加する。",
-    "Text": "Twin Machine Gun damage is increased by\n80%. GP recovery amount with normal\nattacks increased by 100%.",
+    "Text": "Twin Machinegun damage is increased by\n80%. GP recovery amount with normal\nattacks increased by 100%.",
     "Enabled": true
   },
   "60264": {
