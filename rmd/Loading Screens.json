@@ -311,18 +311,18 @@
   },
   "800062": {
     "OriginalText": "状態異常「属性異常」\n炎、劇、雷など各属性に対する耐性が滅少する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Certain status effects, such as the \"Abnormal Elemental Conditions\"\ncan temporarily lower your resistance of their respective element.",
+    "Enabled": true
   },
   "800063": {
     "OriginalText": "属性耐性を持つシールドユニットは\n敵からの属性攻撃ダメージを滅らすことができる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A shield with an elemental value can resist\nthe damage from an enemy's elemental attack.",
+    "Enabled": true
   },
   "800064": {
     "OriginalText": "バスターのスキル「武器伝備パイル」をスキルボードに\nセットすれば、他のクラスでもパイルが伝備できる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "If the Buster skill \"Weapon Equip: Piles\" is on the\nSkill Board, you'll be able to use Piles in other classes.",
+    "Enabled": true
   },
   "800065": {
     "OriginalText": "スタン状態になった時は\n[f 65] を上下左右に動かすと早く回復する。",
@@ -381,53 +381,53 @@
   },
   "800076": {
     "OriginalText": "武器アタッチパーツに状態異常の能力をつけることで\n敵を状態異常にすることができる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "By adding status conditions to weapon attachments,\nyou can inflict them on to enemies.",
+    "Enabled": true
   },
   "800077": {
     "OriginalText": "「ソード」初心者でも扱いやすい近接打撃武器。\n基本の戦闘を覚えるのに適する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "\"Swords\" are great for beginners.\nThey're easier to learn and master basic combat with.",
+    "Enabled": true
   },
   "800078": {
     "OriginalText": "「パルチザン」高速かつ豪快に敵を薙ぎ払う打撃武器。\nスキのない攻撃を得意とする。",
-    "Text": "",
-    "Enabled": false
+    "Text": "\"Partizans\" excel at clearing enemies fast.\nTheir attacks are specialized for each occasion.",
+    "Enabled": true
   },
   "800079": {
     "OriginalText": "「ダブルセイバー」攻撃に特化した打撃武器。\n多彩な攻撃と攻撃回数で圧倒的なダメージを敵に与える。",
-    "Text": "",
+    "Text": "\"Double Sabers\" are specialized in strike attacks. Their attacks\nand pacing give an overwhelming advantage against some enemies.",
     "Enabled": false
   },
   "800080": {
     "OriginalText": "「ナックル」敵に接近して攻撃する打撃武器。\n一対一では敵に反撃の隙を与えず、圧倒できる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "\"Knuckles\" are a close combat Striking weapon. They're capable\nof overwhelming an enemy without giving room for a counterattack.",
+    "Enabled": true
   },
   "800081": {
     "OriginalText": "「アサルトライフル」初心者でも扱いやすい射撃武器。\n離れた場所から敵に射撃ダメージを与える。",
-    "Text": "",
-    "Enabled": false
+    "Text": "\"Assault Rifles\" are an easy-to-use Ranged weapon.\nThey allow you to deal ranged damage from far away.",
+    "Enabled": true
   },
   "800082": {
     "OriginalText": "「ツインマシンガン」単一の敵を集中的に攻撃する射撃武器。\n二丁の銃を使ったアクロバティックな攻撃アクションが特微。",
-    "Text": "",
-    "Enabled": false
+    "Text": "\"Twin Machineguns\" are a type of Ranged weapon that focus\non a single target. They specialize in aerial and acrobatic attacks.",
+    "Enabled": true
   },
   "800083": {
     "OriginalText": "「ロッド」初心者でも扱いやすい法撃武器。\n通常攻撃に加え、テクニックをセットして使うことができる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "\"Rods\" are a beginner's Tech weapon.\nIn addition to normal attacks, you can set Techniques with them.",
+    "Enabled": true
   },
   "800084": {
     "OriginalText": "「タリス」カード状のパーツを遠くに飛ばし、\nそのパーツからテクニックを遠隔発動させる法撃武器。",
-    "Text": "",
-    "Enabled": false
+    "Text": "\"Talises\" are a type of Tech card weapon that allows\nfor casting Techniques from long distances when thrown.",
+    "Enabled": true
   },
   "800085": {
     "OriginalText": "「ウォンド」通常攻撃が強力な法撃武器。\nテクニックの発動が早く、近接攻撃も強いのが特微。",
-    "Text": "",
-    "Enabled": false
+    "Text": "\"Wands\" are a type of Tech weapon with powerful normal\nattacks. They're known for their powerful Tech explosions.",
+    "Enabled": true
   },
   "800086": {
     "OriginalText": "コールドスリープしているクルーを解凍し、\n仲間を増やすことができる。",
@@ -436,13 +436,13 @@
   },
   "800087": {
     "OriginalText": "ラボの［クルー配属］でショップや施設にクルーを配属できる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "You can assign Crew Members to various shops and\nfacilities from the Lab's \"Crew Assignment\" menu.",
+    "Enabled": true
   },
   "800088": {
     "OriginalText": "ショップでは配属されているクルーの「特微」効果によって\nアイテムが作成しやすくなることがある。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Some items at certain shops can become easier to create,\ndue to certain effects from assigned crew.",
+    "Enabled": true
   },
   "800089": {
     "OriginalText": "ラボの［施設の開発］でショップや施設、インテリアを作成し、\n［施設の設置と移動］で拠点の佇地に配置できる。",
