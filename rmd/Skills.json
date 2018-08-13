@@ -1621,12 +1621,12 @@
   },
   "60072": {
     "OriginalText": "アサルトライフルの伝備が\n可能になる。",
-    "Text": "Allows the use of Assault Rifles",
+    "Text": "Allows the use of Assault Rifles.",
     "Enabled": true
   },
   "60073": {
     "OriginalText": "ツインマシンガンの伝備が\n可能になる。",
-    "Text": "Allows the use of Twin Machineguns",
+    "Text": "Allows the use of Twin Machineguns.",
     "Enabled": true
   },
   "60074": {
