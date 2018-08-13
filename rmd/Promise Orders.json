@@ -246,7 +246,7 @@
   },
   "280049": {
     "OriginalText": "バンクゥの大宝石の調達",
-    "Text": "Supplying Banku Gems",
+    "Text": "Supplying Ban'qu Gems",
     "Enabled": true
   },
   "280050": {
@@ -2856,7 +2856,7 @@
   },
   "300007": {
     "OriginalText": "【トネルバンクゥの石片】を集める",
-    "Text": "Collect [Toner Banku Stone Piece]",
+    "Text": "Collect [Toner Ban'qu Stone Piece]",
     "Enabled": true
   },
   "300008": {
@@ -3066,7 +3066,7 @@
   },
   "300049": {
     "OriginalText": "【バンクゥの大宝石】を集める",
-    "Text": "Collect [Banku Gem]",
+    "Text": "Collect [Ban'qu Gem]",
     "Enabled": true
   },
   "300050": {
@@ -3216,7 +3216,7 @@
   },
   "300079": {
     "OriginalText": "【ラビーソ系：Ｌｖ１６０】を倒す\n【バンクゥ系：Ｌｖ１６０】を倒す\n【ロヴラッピー系：Ｌｖ１６０】を倒す",
-    "Text": "Defeat any [Rappy] Lv.160\nDefeat any [Banku] Lv.160\nDefeat any [Rove Rappy] Lv.160",
+    "Text": "Defeat any [Rappy] Lv.160\nDefeat any [Ban'qu] Lv.160\nDefeat any [Rove Rappy] Lv.160",
     "Enabled": true
   },
   "300080": {

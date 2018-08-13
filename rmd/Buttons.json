@@ -46,8 +46,8 @@
   },
   "430009": {
     "OriginalText": "階層切替",
-    "Text": "",
-    "Enabled": false
+    "Text": "Switch Level",
+    "Enabled": true
   },
   "430010": {
     "OriginalText": "破棄",

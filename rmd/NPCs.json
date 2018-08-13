@@ -356,8 +356,8 @@
   },
   "510000": {
     "OriginalText": "熱血倣",
-    "Text": "",
-    "Enabled": false
+    "Text": "Hot-blooded Imitator",
+    "Enabled": true
   },
   "510028": {
     "OriginalText": "格闘系ガール",
@@ -376,18 +376,18 @@
   },
   "510031": {
     "OriginalText": "暁紅の英雄",
-    "Text": "",
-    "Enabled": false
+    "Text": "Hero of Gyoukou",
+    "Enabled": true
   },
   "510032": {
     "OriginalText": "あくなき研究者",
-    "Text": "",
-    "Enabled": false
+    "Text": "Persistent Researcher",
+    "Enabled": true
   },
   "510033": {
     "OriginalText": "インカムの女神",
-    "Text": "",
-    "Enabled": false
+    "Text": "Goddess of Income",
+    "Enabled": true
   },
   "510034": {
     "OriginalText": "天然缶護娘",
@@ -401,23 +401,23 @@
   },
   "510036": {
     "OriginalText": "経歴不明のシェフ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Sketchy Chef",
+    "Enabled": true
   },
   "510037": {
     "OriginalText": "仕事が恋人",
-    "Text": "",
-    "Enabled": false
+    "Text": "Lover For Hire",
+    "Enabled": true
   },
   "510038": {
     "OriginalText": "生意気職人",
-    "Text": "",
-    "Enabled": false
+    "Text": "Saucy Mechanic",
+    "Enabled": true
   },
   "510039": {
     "OriginalText": "歴戦の老兵",
-    "Text": "",
-    "Enabled": false
+    "Text": "Old Soldier",
+    "Enabled": true
   },
   "510040": {
     "OriginalText": "命運託されし姫",
@@ -426,23 +426,23 @@
   },
   "510041": {
     "OriginalText": "時の旅人",
-    "Text": "",
-    "Enabled": false
+    "Text": "Time Traveler",
+    "Enabled": true
   },
   "510042": {
     "OriginalText": "風の戦土",
-    "Text": "",
-    "Enabled": false
+    "Text": "Warrior of Wind",
+    "Enabled": true
   },
   "510043": {
     "OriginalText": "蒼い彗星",
-    "Text": "",
-    "Enabled": false
+    "Text": "Blue Comet",
+    "Enabled": true
   },
   "510044": {
     "OriginalText": "一匹狼",
-    "Text": "",
-    "Enabled": false
+    "Text": "Lone Wolf",
+    "Enabled": true
   },
   "510045": {
     "OriginalText": "お風呂好き",
@@ -451,33 +451,33 @@
   },
   "510046": {
     "OriginalText": "用心棒",
-    "Text": "",
-    "Enabled": false
+    "Text": "Bodyguard",
+    "Enabled": true
   },
   "510047": {
     "OriginalText": "ナイスミドル",
-    "Text": "",
-    "Enabled": false
+    "Text": "Attractive Man",
+    "Enabled": true
   },
   "510048": {
     "OriginalText": "悲源のヒロイン",
-    "Text": "",
-    "Enabled": false
+    "Text": "Heroine of Grief",
+    "Enabled": true
   },
   "510049": {
     "OriginalText": "狐独のヒーロー",
-    "Text": "",
-    "Enabled": false
+    "Text": "Lonesome Hero",
+    "Enabled": true
   },
   "510050": {
     "OriginalText": "とっちゃん坊や",
-    "Text": "",
-    "Enabled": false
+    "Text": "Daddy's Boy",
+    "Enabled": true
   },
   "510051": {
     "OriginalText": "チョビひげ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Small Mustache",
+    "Enabled": true
   },
   "510052": {
     "OriginalText": "メガネ",
@@ -521,8 +521,8 @@
   },
   "510060": {
     "OriginalText": "あばれんぼう",
-    "Text": "",
-    "Enabled": false
+    "Text": "Wild Child",
+    "Enabled": true
   },
   "510061": {
     "OriginalText": "ベジタリアン",
@@ -531,23 +531,23 @@
   },
   "510062": {
     "OriginalText": "女たらし",
-    "Text": "",
-    "Enabled": false
+    "Text": "Lady-killer",
+    "Enabled": true
   },
   "510063": {
     "OriginalText": "そっくりさん",
-    "Text": "",
-    "Enabled": false
+    "Text": "Look-alike",
+    "Enabled": true
   },
   "510064": {
     "OriginalText": "大富豪",
-    "Text": "",
-    "Enabled": false
+    "Text": "Multi-millionaire",
+    "Enabled": true
   },
   "510065": {
     "OriginalText": "ボンボン",
-    "Text": "",
-    "Enabled": false
+    "Text": "Bonbon",
+    "Enabled": true
   },
   "510066": {
     "OriginalText": "プチブルジョワ",
@@ -556,8 +556,8 @@
   },
   "510067": {
     "OriginalText": "貯金好き",
-    "Text": "",
-    "Enabled": false
+    "Text": "Savings Lover",
+    "Enabled": true
   },
   "510068": {
     "OriginalText": "フィクサー",
@@ -586,8 +586,8 @@
   },
   "510073": {
     "OriginalText": "賞金稼ぎ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Bounty Hunter",
+    "Enabled": true
   },
   "510074": {
     "OriginalText": "フレッシュマン",
@@ -601,8 +601,8 @@
   },
   "510076": {
     "OriginalText": "運動神経抜群",
-    "Text": "",
-    "Enabled": false
+    "Text": "Outstanding Reflexes",
+    "Enabled": true
   },
   "510077": {
     "OriginalText": "子供好き",
@@ -616,7 +616,7 @@
   },
   "510079": {
     "OriginalText": "タンクトップ",
-    "Text": "Tank top",
+    "Text": "Tank Top",
     "Enabled": true
   },
   "510080": {
@@ -631,8 +631,8 @@
   },
   "510082": {
     "OriginalText": "突撃気質",
-    "Text": "",
-    "Enabled": false
+    "Text": "Fighting Spirit",
+    "Enabled": true
   },
   "510083": {
     "OriginalText": "プラズマ",
@@ -651,8 +651,8 @@
   },
   "510086": {
     "OriginalText": "スペースデブリ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Space Debris",
+    "Enabled": true
   },
   "510087": {
     "OriginalText": "ダークマター",
@@ -681,8 +681,8 @@
   },
   "510092": {
     "OriginalText": "永久機関",
-    "Text": "",
-    "Enabled": false
+    "Text": "Perpetual Motion Engine",
+    "Enabled": true
   },
   "510093": {
     "OriginalText": "バトル好き",
@@ -691,8 +691,8 @@
   },
   "510094": {
     "OriginalText": "鎧好き",
-    "Text": "",
-    "Enabled": false
+    "Text": "Likes Armor",
+    "Enabled": true
   },
   "510095": {
     "OriginalText": "ロボット好き",
@@ -701,8 +701,8 @@
   },
   "510096": {
     "OriginalText": "陰陽師",
-    "Text": "",
-    "Enabled": false
+    "Text": "Exorcist",
+    "Enabled": true
   },
   "510097": {
     "OriginalText": "闇の処刑人",
@@ -711,13 +711,13 @@
   },
   "510098": {
     "OriginalText": "地元では有名人",
-    "Text": "",
-    "Enabled": false
+    "Text": "Famous in Home Town",
+    "Enabled": true
   },
   "510099": {
     "OriginalText": "近所の大学生",
-    "Text": "",
-    "Enabled": false
+    "Text": "Neighborhood College Student",
+    "Enabled": true
   },
   "510100": {
     "OriginalText": "となりのお姉さん",
@@ -726,8 +726,8 @@
   },
   "510101": {
     "OriginalText": "頑固職人",
-    "Text": "",
-    "Enabled": false
+    "Text": "Stubborn Worker",
+    "Enabled": true
   },
   "510102": {
     "OriginalText": "ジャッジメント",
@@ -751,8 +751,8 @@
   },
   "510106": {
     "OriginalText": "姫属性",
-    "Text": "",
-    "Enabled": false
+    "Text": "Princess-like",
+    "Enabled": true
   },
   "510107": {
     "OriginalText": "サブカル好き",
@@ -791,13 +791,13 @@
   },
   "510114": {
     "OriginalText": "婦女子",
-    "Text": "",
-    "Enabled": false
+    "Text": "Grown Woman",
+    "Enabled": true
   },
   "510115": {
     "OriginalText": "判定勝ち",
-    "Text": "",
-    "Enabled": false
+    "Text": "Always Wins",
+    "Enabled": true
   },
   "510116": {
     "OriginalText": "日焼けサロン好き",
@@ -806,8 +806,8 @@
   },
   "510117": {
     "OriginalText": "カメラ小僧",
-    "Text": "",
-    "Enabled": false
+    "Text": "Camera Boy",
+    "Enabled": true
   },
   "510118": {
     "OriginalText": "貴婦人",
@@ -866,18 +866,18 @@
   },
   "510129": {
     "OriginalText": "薄幸少女",
-    "Text": "",
-    "Enabled": false
+    "Text": "Sad Little Girl",
+    "Enabled": true
   },
   "510130": {
     "OriginalText": "深窓の令嬢",
-    "Text": "",
-    "Enabled": false
+    "Text": "Secluded Girl",
+    "Enabled": true
   },
   "510131": {
     "OriginalText": "無口キャラ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Silent Character",
+    "Enabled": true
   },
   "510132": {
     "OriginalText": "素直クール",
@@ -896,13 +896,13 @@
   },
   "510135": {
     "OriginalText": "姉御肌",
-    "Text": "",
-    "Enabled": false
+    "Text": "Big Sister Character",
+    "Enabled": true
   },
   "510136": {
     "OriginalText": "執事風",
-    "Text": "",
-    "Enabled": false
+    "Text": "Serious Business",
+    "Enabled": true
   },
   "510137": {
     "OriginalText": "子分肌",
@@ -921,8 +921,8 @@
   },
   "510140": {
     "OriginalText": "体育会系",
-    "Text": "",
-    "Enabled": false
+    "Text": "Sports-minded",
+    "Enabled": true
   },
   "510141": {
     "OriginalText": "アークスの生字引",
@@ -936,8 +936,8 @@
   },
   "510143": {
     "OriginalText": "戦闘狂",
-    "Text": "",
-    "Enabled": false
+    "Text": "Crazy Fighter",
+    "Enabled": true
   },
   "510144": {
     "OriginalText": "リーサルウェポン",
@@ -951,18 +951,18 @@
   },
   "510146": {
     "OriginalText": "明朗快活",
-    "Text": "",
-    "Enabled": false
+    "Text": "Cheerful",
+    "Enabled": true
   },
   "510147": {
     "OriginalText": "七転八起",
-    "Text": "",
-    "Enabled": false
+    "Text": "Never Gives Up",
+    "Enabled": true
   },
   "510148": {
     "OriginalText": "一騎当千",
-    "Text": "",
-    "Enabled": false
+    "Text": "Mighty Warrior",
+    "Enabled": true
   },
   "510149": {
     "OriginalText": "高嶺之花",
@@ -971,28 +971,28 @@
   },
   "510150": {
     "OriginalText": "一所懸命",
-    "Text": "",
-    "Enabled": false
+    "Text": "Sticks To Their Guns",
+    "Enabled": true
   },
   "510151": {
     "OriginalText": "有言実行",
-    "Text": "",
-    "Enabled": false
+    "Text": "Makes Good on Promises",
+    "Enabled": true
   },
   "510152": {
     "OriginalText": "文武両道",
-    "Text": "",
-    "Enabled": false
+    "Text": "Military Bookworm",
+    "Enabled": true
   },
   "510153": {
     "OriginalText": "純真無垢",
-    "Text": "",
-    "Enabled": false
+    "Text": "Pure",
+    "Enabled": true
   },
   "510154": {
     "OriginalText": "新進気鋭",
-    "Text": "",
-    "Enabled": false
+    "Text": "Up-and-coming",
+    "Enabled": true
   },
   "510155": {
     "OriginalText": "頁戦錬磨",
@@ -1001,8 +1001,8 @@
   },
   "510156": {
     "OriginalText": "質実剛健",
-    "Text": "",
-    "Enabled": false
+    "Text": "Sincere",
+    "Enabled": true
   },
   "510157": {
     "OriginalText": "七転八倒",
@@ -1071,8 +1071,8 @@
   },
   "510170": {
     "OriginalText": "清廉潔白",
-    "Text": "",
-    "Enabled": false
+    "Text": "Upright",
+    "Enabled": true
   },
   "510171": {
     "OriginalText": "大頬不敵",
@@ -1091,8 +1091,8 @@
   },
   "510174": {
     "OriginalText": "博識多才",
-    "Text": "",
-    "Enabled": false
+    "Text": "Eccentric Learner",
+    "Enabled": true
   },
   "510175": {
     "OriginalText": "飼目秀魅",
