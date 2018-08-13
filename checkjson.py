@@ -41,7 +41,7 @@ for files in json_files:
                            if (len(strs) > 110):
                                print ("%s:%s too long" % (files, rmid))
                                #pprint.pprint(djson[rmid])
-                               counterr += 1
+                               #counterr += 1
         except ValueError as e:
             print("%s: %s") % (files, e)
             invalid_json_files.append(files)
