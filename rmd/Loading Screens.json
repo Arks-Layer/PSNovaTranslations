@@ -171,7 +171,7 @@
   },
   "800034": {
     "OriginalText": "アイテムパックの容量上限は200個。\nそれを超えて入手したアイテムは倉庫に送られる。",
-    "Text": "Your inventory has a capacity limit of 200.\nItems recieved past this will be sent to storage.",
+    "Text": "Your inventory has a capacity limit of 200.\nItems received past this will be sent to storage.",
     "Enabled": true
   },
   "800035": {
