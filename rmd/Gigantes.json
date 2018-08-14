@@ -16,7 +16,7 @@
   },
   "670003": {
     "OriginalText": "アルテイオス",
-    "Text": "Altios",
+    "Text": "Alteios",
     "Enabled": true
   },
   "670004": {
@@ -41,7 +41,7 @@
   },
   "670008": {
     "OriginalText": "ヴィヴリュード",
-    "Text": "Vivrude",
+    "Text": "Vivryude",
     "Enabled": true
   },
   "670009": {
@@ -146,7 +146,7 @@
   },
   "690006": {
     "OriginalText": "ヴィヴリュードが両足で上空に\n向かって、多弾頭ミサイルを発射し\n全方位に攻撃する。",
-    "Text": "Vivrude points its guns into the sky,\nfiring multiple missiles in all\ndirections to damage nearby enemies.",
+    "Text": "Vivryude points its guns into the sky,\nfiring multiple missiles in all\ndirections to damage nearby enemies.",
     "Enabled": true
   },
   "690007": {
