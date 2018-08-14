@@ -156,7 +156,7 @@
   },
   "280031": {
     "OriginalText": "アルテイオス撃破勝負",
-    "Text": "Altios Slaying Competition",
+    "Text": "Alteios Slaying Competition",
     "Enabled": true
   },
   "280032": {
@@ -1571,7 +1571,7 @@
   },
   "290032": {
     "OriginalText": "ソードだけでディートアスを撃破。お前ならできる！\n[a 06]『ソード』\n近接武器としてはリーチが長くクセも少なく、\n戦闘の基本を覚えるのに適している。[b]\n[a 03]※ソード系で撃破が必要 この約束は一回のみ[b]",
-    "Text": "Go defeat a Ditoas with a sword, you can do it!\n[a 06]Swords are perfect for the basics of combat.\n[a 03]＊Swords only[b]",
+    "Text": "Go defeat a Dietoas with a sword, you can do it!\n[a 06]Swords are perfect for the basics of combat.\n[a 03]＊Swords only[b]",
     "Enabled": true
   },
   "290033": {
@@ -2976,27 +2976,27 @@
   },
   "300031": {
     "OriginalText": "【難：アルテイオス決戦】を\n【Ｓランク】でクリアする",
-    "Text": "S-Rank clear [Danger: Altios Duel]",
+    "Text": "S-Rank clear [Danger: Alteios Duel]",
     "Enabled": true
   },
   "300032": {
     "OriginalText": "常に【ソード系】を伝備して\n【ディートアス撃破任務】の\n【ディートアス】にとどめをさす",
-    "Text": "Defeat [Ditoas] in the quest\n[Ditoas Subjugation]\nwith [Swords] only.",
+    "Text": "Defeat [Dietoas] in the quest\n[Dietoas Subjugation]\nwith [Swords] only.",
     "Enabled": true
   },
   "300033": {
     "OriginalText": "常に【パルチザン系】を伝備して\n【ディートアス撃破任務】の\n【ディートアス】にとどめをさす",
-    "Text": "Defeat [Ditoas] in the quest\n[Ditoas Subjugation]\nwith [Partizans] only.",
+    "Text": "Defeat [Dietoas] in the quest\n[Dietoas Subjugation]\nwith [Partizans] only.",
     "Enabled": true
   },
   "300034": {
     "OriginalText": "常に【ダブルセイバー系】を伝備して\n【ディートアス撃破任務】の\n【ディートアス】にとどめをさす",
-    "Text": "Defeat [Ditoas] in the quest\n[Ditoas Subjugation]\nwith [Double Sabers] only.",
+    "Text": "Defeat [Dietoas] in the quest\n[Dietoas Subjugation]\nwith [Double Sabers] only.",
     "Enabled": true
   },
   "300035": {
     "OriginalText": "常に【ナックル系】を伝備して\n【ディートアス撃破任務】の\n【ディートアス】にとどめをさす",
-    "Text": "Defeat [Ditoas] in the quest\n[Ditoas Subjugation]\nwith [Knuckles] only.",
+    "Text": "Defeat [Dietoas] in the quest\n[Dietoas Subjugation]\nwith [Knuckles] only.",
     "Enabled": true
   },
   "300036": {
@@ -3476,7 +3476,7 @@
   },
   "300131": {
     "OriginalText": "【アルテイオスの大主砲】を集める",
-    "Text": "Collect [Altios's Large Main Cannon]",
+    "Text": "Collect [Alteios's Large Main Cannon]",
     "Enabled": true
   },
   "300132": {
@@ -3511,7 +3511,7 @@
   },
   "300138": {
     "OriginalText": "【ウィルアフォル：Ｌｖ１４０】を倒す\n【ヴィヴリュード：Ｌｖ１４０】を倒す\n【ギガティオン：Ｌｖ１４０】を倒す",
-    "Text": "Defeat [Viluaphol] Lv.140\nDefeat [Vivrude] Lv.140\nDefeat [Gigation] Lv.140",
+    "Text": "Defeat [Viluaphol] Lv.140\nDefeat [Vivryude] Lv.140\nDefeat [Gigation] Lv.140",
     "Enabled": true
   },
   "300139": {
@@ -3546,7 +3546,7 @@
   },
   "300145": {
     "OriginalText": "【アルマラッピー・オナー】（レア）を\n倒す",
-    "Text": "Defeat [Alma-Rappy Onna]",
+    "Text": "Defeat [Alma-Rappy Onar]",
     "Enabled": true
   },
   "300146": {
@@ -3746,7 +3746,7 @@
   },
   "300185": {
     "OriginalText": "【シルブカーネベアの砲片】を集める\n【レイバンサーの爪】を集める",
-    "Text": "Collect [Silvcarnne Bear Cannon Piece]\nCollect [Ray Banther Claw]",
+    "Text": "Collect [Silve Carnnebear Cannon Piece]\nCollect [Ray Banther Claw]",
     "Enabled": true
   },
   "300186": {
@@ -3771,7 +3771,7 @@
   },
   "300190": {
     "OriginalText": "【シードギオスの盾】を集める\n【ヴァッドギオスの硬盾】を集める\n【エアドギオスの大盾】を集める",
-    "Text": "Collect [Xie Dogios Shield]\nCollect [Valle Dogios Shield]\nCollect [Air Dogios Shield]",
+    "Text": "Collect [Xie Dogios Shield]\nCollect [Vad Dogios Shield]\nCollect [Air Dogios Shield]",
     "Enabled": true
   },
   "300191": {
@@ -3781,12 +3781,12 @@
   },
   "300192": {
     "OriginalText": "【エデルクリトロの爪片】を集める",
-    "Text": "Collect [Eder Critter Claw]",
+    "Text": "Collect [Eder Crittro Claw]",
     "Enabled": true
   },
   "300193": {
     "OriginalText": "【モストカーネベアの硬砲身】を集める",
-    "Text": "Collect [Mostcarnne Bear Cannon]",
+    "Text": "Collect [Mosst Carnnebear Cannon]",
     "Enabled": true
   },
   "300194": {
@@ -3796,12 +3796,12 @@
   },
   "300195": {
     "OriginalText": "【ギュゲンテの超砲塔部品】を集める\n【アルテイオスの超皮】を集める\n【ギガティオンの超ノコ刃】を集める",
-    "Text": "Collect [Gygante Turret Parts]\nCollect [Altios Hide]\nCollect [Gigation Saw Blade]",
+    "Text": "Collect [Gygante Turret Parts]\nCollect [Alteios Hide]\nCollect [Gigation Saw Blade]",
     "Enabled": true
   },
   "300196": {
     "OriginalText": "【ノイヴァトアスの超砲身】を集める\n【ヴィヴリュードの超爪】を集める\n【ディゴルドスの超頭角】を集める",
-    "Text": "Collect [Neuvatoas Cannon]\nCollect [Vivrude Claw]\nCollect [Digordes Shield]",
+    "Text": "Collect [Neuvatoas Cannon]\nCollect [Vivryude Claw]\nCollect [Digordes Shield]",
     "Enabled": true
   },
   "300197": {
@@ -3886,12 +3886,12 @@
   },
   "300213": {
     "OriginalText": "【ヴィヴリュードの爪】を集める",
-    "Text": "Collect [Vivrude Claw]",
+    "Text": "Collect [Vivryude Claw]",
     "Enabled": true
   },
   "300214": {
     "OriginalText": "【アルテイオス：Ｌｖ９０】を倒す\n【グラヴディオン：Ｌｖ９０】を倒す\n【リベルゲンテ：Ｌｖ９０】を倒す",
-    "Text": "Defeat [Altios] Lv.90\nDefeat [Gravdion] Lv.90\nDefeat [Libelgante] Lv.90",
+    "Text": "Defeat [Alteios] Lv.90\nDefeat [Gravdion] Lv.90\nDefeat [Libelgante] Lv.90",
     "Enabled": true
   },
   "300215": {
@@ -4001,12 +4001,12 @@
   },
   "300236": {
     "OriginalText": "【超：錯砦のヴィヴリュード】をクリアする",
-    "Text": "Clear the quest [Ultra: Vivrude Stronghold]",
+    "Text": "Clear the quest [Ultra: Vivryude Stronghold]",
     "Enabled": true
   },
   "300237": {
     "OriginalText": "【クロザードの超背びれ】を集める\n【サフグランブの超巻き祭】を集める\n【スマラクリトロの超粘】を集める",
-    "Text": "Collect [Gu Rozad Spine]\nCollect [Sahugranv Phlegm Crystal]\nCollect [Smar Critter Juices]",
+    "Text": "Collect [Gu Rozad Spine]\nCollect [Sahugranv Phlegm Crystal]\nCollect [Smar Crittro Juices]",
     "Enabled": true
   },
   "300238": {
@@ -4066,7 +4066,7 @@
   },
   "300249": {
     "OriginalText": "【アルテイオスの鋭角】を集める\n【グラヴディオンの硬鉄線】を集める\n【ヴィヴリュードの硬砲身】を集める",
-    "Text": "Collect [Altios Bladed Horn]\nCollect [Gravdion Steel Wire]\nCollect [Vivrude Gun Barrel]",
+    "Text": "Collect [Alteios Bladed Horn]\nCollect [Gravdion Steel Wire]\nCollect [Vivryude Gun Barrel]",
     "Enabled": true
   },
   "300250": {

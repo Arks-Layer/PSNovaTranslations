@@ -241,7 +241,7 @@
   },
   "700048": {
     "OriginalText": "［エネミー］モストカーネベア討伐",
-    "Text": "[Enemy] Mostcarnne Bear Suppression",
+    "Text": "[Enemy] Mosst Carnnebear Suppression",
     "Enabled": true
   },
   "700049": {
@@ -611,7 +611,7 @@
   },
   "710014": {
     "OriginalText": "銅の荒野へ原生種の撃破に向かう。\n現地における反応はそれほど強くなく、大きな危険は\nないと予想するが、慎重に作戦を遂行する。\n結果は追って報告する。",
-    "Text": "Lar Aviadino Claw × 4\nDarker Sword Fin × 4\nSilvcarnne Bear Fur × 4",
+    "Text": "Lar Aviadino Claw × 4\nDarker Sword Fin × 4\nSilve Carnnebear Fur × 4",
     "Enabled": true
   },
   "710015": {
@@ -636,7 +636,7 @@
   },
   "710019": {
     "OriginalText": "グラン水装へＧダーク・ラグネの撃破に向かう。\n現地にて強い反応を確認しており、\nかなりの危険を伴う任務になると予想される。\n結果は追って報告する。",
-    "Text": "Ｇダーク・ラグネの朽爪 × 4\nEder Critter Fur × 4\nＧダーク・ラグネの硬触角 × 4",
+    "Text": "Ｇダーク・ラグネの朽爪 × 4\nEder Crittro Fur × 4\nＧダーク・ラグネの硬触角 × 4",
     "Enabled": true
   },
   "710020": {
@@ -741,7 +741,7 @@
   },
   "710040": {
     "OriginalText": "惑星全域に出現するギガンテス調査に向かう。\n未確認エリアも含めた本格調査であり\n回避不可能な事態との遭遇も予想される。\n帰還後、速やかに調査結果をまとめて提出する。",
-    "Text": "Gigantes Missile Piece × 5\nVivrude Claw × 5\nデェフキュオネの触手 × 5",
+    "Text": "Gigantes Missile Piece × 5\nVivryude Claw × 5\nデェフキュオネの触手 × 5",
     "Enabled": true
   },
   "710041": {
@@ -781,7 +781,7 @@
   },
   "710048": {
     "OriginalText": "古代都市へモストカーネベアの撃破に向かう。\n現地にて強い反応を確認しており、\nかなりの危険を伴う任務になると予想される。\n結果は追って報告する。",
-    "Text": "Yeden Pelt × 5\nモストカーネベアの毛皮 × 5\nMostcarnne Bear Cannon × 5",
+    "Text": "Yeden Pelt × 5\nモストカーネベアの毛皮 × 5\nMosst Carnnebear Cannon × 5",
     "Enabled": true
   },
   "710049": {
@@ -816,12 +816,12 @@
   },
   "710055": {
     "OriginalText": "グラン水装に出現した巨大な反応の撃破に向かう。\nどのタイプかは確定できていないが\n大いなる危険を伴う任務になると予想される。\n結果は追って報告する。",
-    "Text": "Gigantes Hide × 5\nDitoas Compression Bag × 5\nVivrude Gun Barrel × 5",
+    "Text": "Gigantes Hide × 5\nDietoas Compression Bag × 5\nVivryude Gun Barrel × 5",
     "Enabled": true
   },
   "710056": {
     "OriginalText": "惑星全域の生態系調査に向かう。\n未確認エリアも含めた本格調査であり\n回避不可能な事態との遭遇も予想される。\n帰還後、速やかに調査結果をまとめて提出する。",
-    "Text": "Eder Critter Fur × 5\nSwole Ban'qu Gem × 5\nエルマフレザールの鋭朽爪 × 5",
+    "Text": "Eder Crittro Fur × 5\nSwole Ban'qu Gem × 5\nエルマフレザールの鋭朽爪 × 5",
     "Enabled": true
   },
   "710057": {
@@ -901,12 +901,12 @@
   },
   "710072": {
     "OriginalText": "復数のギガンテスの目撃されている地域の捜索と\nその撃破に向かう。\n大いなる危険を伴う任務になると予想される。\n結果は追って報告する。",
-    "Text": "Ditoas Compression Bag × 8\nLarge Gygante Gun Part × 8\nDitoas Lens × 8",
+    "Text": "Dietoas Compression Bag × 8\nLarge Gygante Gun Part × 8\nDietoas Lens × 8",
     "Enabled": true
   },
   "710073": {
     "OriginalText": "グラン水装全域の生態系調査に向かう。\n未調査エリアも含めた本格調査であり、\n未確認生命体との遭遇も予想される。\n帰還後、速やかに調査結果をまとめて提出する。",
-    "Text": "Eder Critter Fur × 6\nLarge Ray Banther Cannon × 6",
+    "Text": "Eder Crittro Fur × 6\nLarge Ray Banther Cannon × 6",
     "Enabled": true
   },
   "710074": {
@@ -1016,7 +1016,7 @@
   },
   "710095": {
     "OriginalText": "ノヴァ内部でのエネミー掃討作戦を行う。\n現地にて確認されている反応は非常に大きく\n大いなる危険を伴う任務になると予想される。\n結果は追って報告する。",
-    "Text": "レ・エクセージＴの大目玉 × 8\nヴァッドギオスの硬伝甲 × 8\nValle Dogios Shield × 8",
+    "Text": "レ・エクセージＴの大目玉 × 8\nヴァッドギオスの硬伝甲 × 8\nVad Dogios Shield × 8",
     "Enabled": true
   },
   "710096": {
@@ -1031,7 +1031,7 @@
   },
   "710098": {
     "OriginalText": "ノヴァ内部全域の危険度調査に向かう。\n大きな反応を示す未調査エリアを含めた本格調査で\n未確認生命体との遭遇も予想される。\n帰還後、速やかに調査結果をまとめて提出する。",
-    "Text": "Twinkling Cymophane Stone × 10\nValle Dogios Shield × 10\nファンアフォルの大尾羽 × 10",
+    "Text": "Twinkling Cymophane Stone × 10\nVad Dogios Shield × 10\nファンアフォルの大尾羽 × 10",
     "Enabled": true
   },
   "710099": {
