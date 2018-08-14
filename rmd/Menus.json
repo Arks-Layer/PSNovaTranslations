@@ -3516,12 +3516,12 @@
   },
   "22769": {
     "OriginalText": "すでに受け取り済みです。",
-    "Text": "Already recieved.",
+    "Text": "Already received.",
     "Enabled": true
   },
   "22770": {
     "OriginalText": "アイテムを受け取りました。",
-    "Text": "Item recieved.",
+    "Text": "Item received.",
     "Enabled": true
   },
   "22771": {
