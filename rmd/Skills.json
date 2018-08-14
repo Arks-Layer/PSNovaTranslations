@@ -2641,7 +2641,7 @@
   },
   "60401": {
     "OriginalText": "一定時間、打撃力と射撃力を０にし、\n代わりに、最大ＨＰを３０００上昇する。\n[a 03]※アクティブスキルは同時に２つまで発動可[b]",
-    "Text": "for a limited time, S-ATK and R-ATK are\nset to 0, but HP is increased by 3000.\n[a 03]＊Up to 2 actives at the same time.[b]",
+    "Text": "For a limited time, S-ATK and R-ATK are\nset to 0, but HP is increased by 3000.\n[a 03]＊Up to 2 actives at the same time.[b]",
     "Enabled": true
   },
   "60402": {
