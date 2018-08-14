@@ -311,7 +311,7 @@
   },
   "182550": {
     "OriginalText": "アルマラッピー・オナー",
-    "Text": "Alma-Rappy Onna",
+    "Text": "Alma-Rappy Onar",
     "Enabled": true
   },
   "182610": {
@@ -431,7 +431,7 @@
   },
   "183120": {
     "OriginalText": "メドジュラキア",
-    "Text": "Medu Jurrakia",
+    "Text": "Med Jurrakia",
     "Enabled": true
   },
   "183130": {
@@ -526,7 +526,7 @@
   },
   "183460": {
     "OriginalText": "バンクゥ・フリュ",
-    "Text": "Ban'qu Flu",
+    "Text": "Ban'qu Flew",
     "Enabled": true
   },
   "183510": {
@@ -546,7 +546,7 @@
   },
   "183540": {
     "OriginalText": "ア・マクロージ",
-    "Text": "A Makroge",
+    "Text": "Ah Makroge",
     "Enabled": true
   },
   "183550": {
@@ -611,7 +611,7 @@
   },
   "183830": {
     "OriginalText": "ヴァッドギオス",
-    "Text": "Valle Dogios",
+    "Text": "Vad Dogios",
     "Enabled": true
   },
   "183840": {
@@ -646,22 +646,22 @@
   },
   "184010": {
     "OriginalText": "エデルクリトロ",
-    "Text": "Eder Critter",
+    "Text": "Eder Crittro",
     "Enabled": true
   },
   "184020": {
     "OriginalText": "スマラクリトロ",
-    "Text": "Smar Critter",
+    "Text": "Smar Crittro",
     "Enabled": true
   },
   "184030": {
     "OriginalText": "オーニクリトロ",
-    "Text": "Oni Critter",
+    "Text": "Ouni Crittro",
     "Enabled": true
   },
   "184040": {
     "OriginalText": "クリトロ・テュルレ",
-    "Text": "Critter Ture",
+    "Text": "Crittro Ture",
     "Enabled": true
   },
   "184110": {
@@ -681,7 +681,7 @@
   },
   "184140": {
     "OriginalText": "マンデル・ナート",
-    "Text": "Mandel Inert",
+    "Text": "Mandel Nart",
     "Enabled": true
   },
   "184210": {
@@ -701,42 +701,42 @@
   },
   "184310": {
     "OriginalText": "ミステルン",
-    "Text": "Mysteron",
+    "Text": "Mysteroon",
     "Enabled": true
   },
   "184320": {
     "OriginalText": "アガミステルン",
-    "Text": "Aga Mysteron",
+    "Text": "Aga Mysteroon",
     "Enabled": true
   },
   "184330": {
     "OriginalText": "ラピミステルン",
-    "Text": "Rap Mysteron",
+    "Text": "Rap Mysteroon",
     "Enabled": true
   },
   "184340": {
     "OriginalText": "ミステルン・オーロ",
-    "Text": "Mysteron Oro",
+    "Text": "Mysteroon Orro",
     "Enabled": true
   },
   "184410": {
     "OriginalText": "シルブカーネベア",
-    "Text": "Silvcarnne Bear",
+    "Text": "Silve Carnnebear",
     "Enabled": true
   },
   "184420": {
     "OriginalText": "レゾルカーネベア",
-    "Text": "Resolcarnne Bear",
+    "Text": "Resol Carnnebear",
     "Enabled": true
   },
   "184430": {
     "OriginalText": "オラルカーネベア",
-    "Text": "Oralecarnne Bear",
+    "Text": "Orale Carnnebear",
     "Enabled": true
   },
   "184440": {
     "OriginalText": "モストカーネベア",
-    "Text": "Mostcarnne Bear",
+    "Text": "Mosst Carnnebear",
     "Enabled": true
   },
   "184450": {
@@ -751,7 +751,7 @@
   },
   "184520": {
     "OriginalText": "ゾンレイバンサー",
-    "Text": "Dzongray Banther",
+    "Text": "Zonray Banther",
     "Enabled": true
   },
   "184530": {
@@ -761,12 +761,12 @@
   },
   "184540": {
     "OriginalText": "ファラレイバンサー",
-    "Text": "Farahray Banther",
+    "Text": "Fararay Banther",
     "Enabled": true
   },
   "184550": {
     "OriginalText": "レイバンサ・オクシ",
-    "Text": "Ray Banther Occi",
+    "Text": "Ray Banther Oxy",
     "Enabled": true
   },
   "184560": {
@@ -781,12 +781,12 @@
   },
   "184580": {
     "OriginalText": "ガトリング",
-    "Text": "Gatoring",
+    "Text": "Gatling",
     "Enabled": true
   },
   "184610": {
     "OriginalText": "ディートアス",
-    "Text": "Ditoas",
+    "Text": "Dietoas",
     "Enabled": true
   },
   "184620": {
@@ -801,7 +801,7 @@
   },
   "184640": {
     "OriginalText": "トアス・ヒュブオン",
-    "Text": "Toas Biubon",
+    "Text": "Toas Hyubon",
     "Enabled": true
   },
   "184710": {
@@ -866,7 +866,7 @@
   },
   "184930": {
     "OriginalText": "アルテイオス",
-    "Text": "Altios",
+    "Text": "Alteios",
     "Enabled": true
   },
   "185000": {
@@ -971,27 +971,27 @@
   },
   "185310": {
     "OriginalText": "リ・ゲンテ",
-    "Text": "Regante",
+    "Text": "Re Gante",
     "Enabled": true
   },
   "185320": {
     "OriginalText": "セ・ゲンテ",
-    "Text": "Segante",
+    "Text": "Se Gante",
     "Enabled": true
   },
   "185330": {
     "OriginalText": "テ・ゲンテ",
-    "Text": "Tegante",
+    "Text": "Te Gante",
     "Enabled": true
   },
   "185340": {
     "OriginalText": "ク・ゲンテ",
-    "Text": "Kegante",
+    "Text": "Ku Gante",
     "Enabled": true
   },
   "185350": {
     "OriginalText": "キ・ゲンテ",
-    "Text": "Kigante",
+    "Text": "Ki Gante",
     "Enabled": true
   },
   "185360": {
@@ -1001,7 +1001,7 @@
   },
   "185370": {
     "OriginalText": "テ・ゲンテ",
-    "Text": "Tegante",
+    "Text": "Te Gante",
     "Enabled": true
   },
   "185380": {
@@ -1021,7 +1021,7 @@
   },
   "185390": {
     "OriginalText": "エア・ゲンテ",
-    "Text": "Liber Gante",
+    "Text": "Air Gante",
     "Enabled": true
   },
   "185400": {
@@ -1261,7 +1261,7 @@
   },
   "189030": {
     "OriginalText": "暴君バンサ・ブライネス",
-    "Text": "Tyrant: Banther Braines",
+    "Text": "Tyrant: Banther Brines",
     "Enabled": true
   },
   "189031": {
@@ -1301,7 +1301,7 @@
   },
   "189038": {
     "OriginalText": "伝悪鬼ヴァッドギオス",
-    "Text": "Legendary Demon: Valle Dogios",
+    "Text": "Legendary Demon: Vad Dogios",
     "Enabled": true
   },
   "189039": {
@@ -1336,22 +1336,22 @@
   },
   "189045": {
     "OriginalText": "怠帝エデルクリトロ",
-    "Text": "Laziness King: Eder Critter",
+    "Text": "Laziness King: Eder Crittro",
     "Enabled": true
   },
   "189046": {
     "OriginalText": "怠帝スマラクリトロ",
-    "Text": "Laziness King: Smar Critter",
+    "Text": "Laziness King: Smar Crittro",
     "Enabled": true
   },
   "189047": {
     "OriginalText": "怠帝オーニクリトロ",
-    "Text": "Laziness King: Oni Critter",
+    "Text": "Laziness King: Ouni Crittro",
     "Enabled": true
   },
   "189048": {
     "OriginalText": "怠帝クリトロ・テュルレ",
-    "Text": "Laziness King: Critter Ture",
+    "Text": "Laziness King: Crittro Ture",
     "Enabled": true
   },
   "189049": {
@@ -1371,7 +1371,7 @@
   },
   "189052": {
     "OriginalText": "兇星マンデル・ナート",
-    "Text": "Evil Mark: Mandel Inert",
+    "Text": "Evil Mark: Mandel Nart",
     "Enabled": true
   },
   "189053": {
@@ -1391,42 +1391,42 @@
   },
   "189056": {
     "OriginalText": "兇星ミステルン",
-    "Text": "Evil Mark: Mysteron",
+    "Text": "Evil Mark: Mysteroon",
     "Enabled": true
   },
   "189057": {
     "OriginalText": "兇星アガミステルン",
-    "Text": "Evil Mark: Aga Mysteron",
+    "Text": "Evil Mark: Aga Mysteroon",
     "Enabled": true
   },
   "189058": {
     "OriginalText": "兇星ラピミステルン",
-    "Text": "Evil Mark: Rap Mysteron",
+    "Text": "Evil Mark: Rap Mysteroon",
     "Enabled": true
   },
   "189059": {
     "OriginalText": "兇星ミステルン・オーロ",
-    "Text": "Evil Mark: Mysteron Oro",
+    "Text": "Evil Mark: Mysteroon Orro",
     "Enabled": true
   },
   "189060": {
     "OriginalText": "伝悪鬼シルブカーネベア",
-    "Text": "Legendary Fiend: Silvcarnne Bear",
+    "Text": "Legendary Fiend: Silv Carnnebear",
     "Enabled": true
   },
   "189061": {
     "OriginalText": "伝悪鬼レゾルカーネベア",
-    "Text": "Legendary Fiend: Resolcarnne Bear",
+    "Text": "Legendary Fiend: Resol Carnnebear",
     "Enabled": true
   },
   "189062": {
     "OriginalText": "伝悪鬼オラルカーネベア",
-    "Text": "Legendary Fiend: Oralecarnne Bear",
+    "Text": "Legendary Fiend: Orale Carnnebear",
     "Enabled": true
   },
   "189063": {
     "OriginalText": "伝悪鬼モストカーネベア",
-    "Text": "Legendary Fiend: Mostcarnne Bear",
+    "Text": "Legendary Fiend: Most Carnnebear",
     "Enabled": true
   },
   "189064": {
@@ -1441,7 +1441,7 @@
   },
   "189066": {
     "OriginalText": "伝悪鬼ゾンレイバンサー",
-    "Text": "Legendary Fiend: Dzongray Banther",
+    "Text": "Legendary Fiend: Zonray Banther",
     "Enabled": true
   },
   "189067": {
@@ -1451,17 +1451,17 @@
   },
   "189068": {
     "OriginalText": "伝悪鬼ファラレイバンサー",
-    "Text": "Legendary Fiend: Farahray Banther",
+    "Text": "Legendary Fiend: Fararay Banther",
     "Enabled": true
   },
   "189069": {
     "OriginalText": "伝悪鬼レイバンサ・オクシ",
-    "Text": "Legendary Fiend: Ray Banther Occi",
+    "Text": "Legendary Fiend: Ray Banther Oxy",
     "Enabled": true
   },
   "189070": {
     "OriginalText": "猛銃ディートアス",
-    "Text": "Ferocious Gun: Ditoas",
+    "Text": "Ferocious Gun: Dietoas",
     "Enabled": true
   },
   "189071": {
@@ -1476,7 +1476,7 @@
   },
   "189073": {
     "OriginalText": "猛銃トアス・ヒュブオン",
-    "Text": "Ferocious Gun: Toas Biubon",
+    "Text": "Ferocious Gun: Toas Hyubon",
     "Enabled": true
   },
   "189074": {
@@ -1521,17 +1521,17 @@
   },
   "189082": {
     "OriginalText": "クリトロクィーン",
-    "Text": "Critter Queen",
+    "Text": "Crittro Queen",
     "Enabled": true
   },
   "189083": {
     "OriginalText": "ヴィヴリュード",
-    "Text": "Vivrude",
+    "Text": "Vivryude",
     "Enabled": true
   },
   "189084": {
     "OriginalText": "ミステルンナイト",
-    "Text": "Mysteron Knight",
+    "Text": "Mysteroon Knight",
     "Enabled": true
   },
   "189085": {
@@ -1566,7 +1566,7 @@
   },
   "189091": {
     "OriginalText": "ヴィヴリュードＳ型",
-    "Text": "Vivrude S-type",
+    "Text": "Vivryude S-type",
     "Enabled": true
   },
   "189092": {
@@ -1611,12 +1611,12 @@
   },
   "189100": {
     "OriginalText": "アルテイオスＵ型",
-    "Text": "Altios U-Type",
+    "Text": "Alteios U-Type",
     "Enabled": true
   },
   "189101": {
     "OriginalText": "ヴィヴリュードＷ型",
-    "Text": "Vivrude W-Type",
+    "Text": "Vivryude W-Type",
     "Enabled": true
   },
   "189102": {

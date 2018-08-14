@@ -281,7 +281,7 @@
   },
   "200308": {
     "OriginalText": "ディートアス撃破任務",
-    "Text": "Ditoas Subjugation",
+    "Text": "Dietoas Subjugation",
     "Enabled": true
   },
   "200309": {
@@ -356,7 +356,7 @@
   },
   "200323": {
     "OriginalText": "ヴィヴリュード撃破任務",
-    "Text": "Vivrude Subjugation",
+    "Text": "Vivryude Subjugation",
     "Enabled": true
   },
   "200324": {
@@ -446,7 +446,7 @@
   },
   "200341": {
     "OriginalText": "難：ヴィヴリュード決戦",
-    "Text": "Danger: Vivrude Subjugation",
+    "Text": "Danger: Vivryude Subjugation",
     "Enabled": true
   },
   "200342": {
@@ -456,7 +456,7 @@
   },
   "200343": {
     "OriginalText": "難：アルテイオス決戦",
-    "Text": "Danger: Altios Subjugation",
+    "Text": "Danger: Alteios Subjugation",
     "Enabled": true
   },
   "200344": {
@@ -531,7 +531,7 @@
   },
   "200506": {
     "OriginalText": "最深部のヴィヴリュード撃破",
-    "Text": "The Deepest Vivrude",
+    "Text": "The Deepest Vivryude",
     "Enabled": true
   },
   "200507": {
@@ -576,7 +576,7 @@
   },
   "200515": {
     "OriginalText": "最深部のクリトロクィーン撃破",
-    "Text": "The Deepest Critter Queen",
+    "Text": "The Deepest Crittro Queen",
     "Enabled": true
   },
   "200516": {
@@ -591,12 +591,12 @@
   },
   "200518": {
     "OriginalText": "最深部のモストカーネベア撃破",
-    "Text": "The Deepest Mostcarnne Bear",
+    "Text": "The Deepest Mosst Carnnebear",
     "Enabled": true
   },
   "200519": {
     "OriginalText": "最深部のレゾルカーネベア撃破",
-    "Text": "The Deepest Resolcarnne Bear",
+    "Text": "The Deepest Resol Carnnebear",
     "Enabled": true
   },
   "200520": {
@@ -626,7 +626,7 @@
   },
   "200525": {
     "OriginalText": "アルテイオスの撃破",
-    "Text": "Altios Subjugation",
+    "Text": "Alteios Subjugation",
     "Enabled": true
   },
   "200526": {
@@ -1061,7 +1061,7 @@
   },
   "201010": {
     "OriginalText": "超：黒炎のアルテイオス",
-    "Text": "Ultra: Black Flame of Altios",
+    "Text": "Ultra: Black Flame of Alteios",
     "Enabled": true
   },
   "201011": {
@@ -1121,7 +1121,7 @@
   },
   "201040": {
     "OriginalText": "超：錯砦のヴィヴリュード",
-    "Text": "Ultra: Vivrude Stronghold",
+    "Text": "Ultra: Vivryude Stronghold",
     "Enabled": true
   },
   "201041": {
@@ -1611,7 +1611,7 @@
   },
   "201576": {
     "OriginalText": "超：錯砦のヴィヴリュード",
-    "Text": "Ultra: Vivrude Stronghold",
+    "Text": "Ultra: Vivryude Stronghold",
     "Enabled": true
   },
   "201577": {
@@ -1751,7 +1751,7 @@
   },
   "210017": {
     "OriginalText": "アルテイオス討伐",
-    "Text": "Subdue Altios",
+    "Text": "Subdue Alteios",
     "Enabled": true
   },
   "210018": {
@@ -1841,12 +1841,12 @@
   },
   "210090": {
     "OriginalText": "シルブカーネベア討伐",
-    "Text": "Subdue Silvcarnne Bear",
+    "Text": "Subdue Silve Carnnebear",
     "Enabled": true
   },
   "210091": {
     "OriginalText": "モストカーネベア討伐",
-    "Text": "Subdue Mostcarnne Bear",
+    "Text": "Subdue Mosst Carnnebear",
     "Enabled": true
   },
   "210092": {
@@ -1856,12 +1856,12 @@
   },
   "210093": {
     "OriginalText": "ゾンレイバンサー討伐",
-    "Text": "Subdue Dzongray Banther",
+    "Text": "Subdue Zonray Banther",
     "Enabled": true
   },
   "210094": {
     "OriginalText": "ファラレイバンサー討伐",
-    "Text": "Subdue Farahray Banther",
+    "Text": "Subdue Fararay Banther",
     "Enabled": true
   },
   "210095": {
@@ -1951,7 +1951,7 @@
   },
   "210112": {
     "OriginalText": "オラルカーネベア討伐",
-    "Text": "Subdue Oralecarnne Bear",
+    "Text": "Subdue Orale Carnnebear",
     "Enabled": true
   },
   "210113": {
@@ -2081,7 +2081,7 @@
   },
   "210138": {
     "OriginalText": "ディートアス討伐",
-    "Text": "Subdue Ditoas",
+    "Text": "Subdue Dietoas",
     "Enabled": true
   },
   "210139": {
@@ -2141,7 +2141,7 @@
   },
   "210150": {
     "OriginalText": "レゾルカーネベア討伐",
-    "Text": "Subdue Resolcarnne Bear",
+    "Text": "Subdue Resol Carnnebear",
     "Enabled": true
   },
   "210151": {
