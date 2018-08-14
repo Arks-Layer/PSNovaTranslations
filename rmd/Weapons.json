@@ -271,7 +271,7 @@
   },
   "90054": {
     "OriginalText": "アーリー・ブルー",
-    "Text": "Early Blue",
+    "Text": "Airy Blue",
     "Enabled": true
   },
   "90055": {
@@ -1836,8 +1836,8 @@
   },
   "100054": {
     "OriginalText": "セイルの愛用品と同型の長槍。攻撃性能\n抜群で常に最大出力で機動可能。\n強固な造りでどんな撃しい使用に耐えうる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A copy of Sail's favorite partizan.\nAn excellent weapon that always performs\nat its best and withstands anything thrown at it.",
+    "Enabled": true
   },
   "100055": {
     "OriginalText": "生命力の強い植洋由来の長槍。\n新開発の人工葉を伝着し、光合成による\n機能強化がさらにパワーアップした。",
@@ -2251,8 +2251,8 @@
   },
   "100137": {
     "OriginalText": "イズナの愛用品と同型の長銃。訓練校の\n卒業祝いに父がカスタムメイドしたが、\n評判になり今では一般に入手が可能。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A copy of Izuna's favorite weapon.\nA custom-made gift from her father as\na graduation present for finishing school.",
+    "Enabled": true
   },
   "100138": {
     "OriginalText": "一部星域に偏在する特殊鉱石を鍛えた\n長銃。同型モデルにクリスタル素村を\n組み込んだ高級感あふれる人気品。",
@@ -2551,8 +2551,8 @@
   },
   "100197": {
     "OriginalText": "ルティナの愛用品と同型の長杖。\n武器の扱いが不慣れな初心者向けに\n設計され、基本性能が充実した入門機。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A copy of Lutina's favorite weapon.\nDesigned for novices who are\nunfamiliar with weapons.",
+    "Enabled": true
   },
   "100198": {
     "OriginalText": "一部星域に偏在する特殊鉱石を鍛えた\n長杖。同型モデルの構造そのままに\n細粒コーティングで色調を変換した。",
