@@ -2576,23 +2576,23 @@
   },
   "340007": {
     "OriginalText": "試験的に作られたアークス用の戦闘服。\n露出をできるだけ抑え、かつ外気との\n接触を遮断するよう考えられている。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Experimental ARKS battle clothing.\nDesigned to maximise coverage while and\nblock contact with the outside air.",
+    "Enabled": true
   },
   "340008": {
     "OriginalText": "試験的に作られたアークス用の戦闘服。\n露出をできるだけ抑え、かつ外気との\n接触を遮断するよう考えられている。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Experimental ARKS battle clothing.\nDesigned to maximise coverage while and\nblock contact with the outside air.",
+    "Enabled": true
   },
   "340009": {
     "OriginalText": "試験的に作られたアークス用の戦闘服。\n露出をできるだけ抑え、かつ外気との\n接触を遮断するよう考えられている。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Experimental ARKS battle clothing.\nDesigned to maximise coverage while and\nblock contact with the outside air.",
+    "Enabled": true
   },
   "340010": {
     "OriginalText": "試験的に作られたアークス用の戦闘服。\n露出をできるだけ抑え、かつ外気との\n接触を遮断するよう考えられている。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Experimental ARKS battle clothing.\nDesigned to maximise coverage while and\nblock contact with the outside air.",
+    "Enabled": true
   },
   "340011": {
     "OriginalText": "薄手の生地を用い、舞わせることで\n外気と最適に順応し、あらゆる環境下で\n能力を後押しすることを目的とした服。",
@@ -2616,43 +2616,43 @@
   },
   "340015": {
     "OriginalText": "アークス用戦闘服。ハンタークラスの\n初期支給品で、動きやすさを重視した\n軽伝の服となっている。",
-    "Text": "",
-    "Enabled": false
+    "Text": "An ARKS combat suit. Light clothing\nthat emphasises mobility, supplied to\nnew Hunter-class ARKS.",
+    "Enabled": true
   },
   "340016": {
     "OriginalText": "アークス用戦闘服。ハンタークラスの\n初期支給品で、動きやすさを重視した\n軽伝の服となっている。",
-    "Text": "",
-    "Enabled": false
+    "Text": "An ARKS combat suit. Light clothing\nthat emphasises mobility, supplied to\nnew Hunter-class ARKS.",
+    "Enabled": true
   },
   "340017": {
     "OriginalText": "アークス用戦闘服。ハンタークラスの\n初期支給品で、動きやすさを重視した\n軽伝の服となっている。",
-    "Text": "",
-    "Enabled": false
+    "Text": "An ARKS combat suit. Light clothing\nthat emphasises mobility, supplied to\nnew Hunter-class ARKS.",
+    "Enabled": true
   },
   "340018": {
     "OriginalText": "アークス用戦闘服。ハンタークラスの\n初期支給品で、動きやすさを重視した\n軽伝の服となっている。",
-    "Text": "",
-    "Enabled": false
+    "Text": "An ARKS combat suit. Light clothing\nthat emphasises mobility, supplied to\nnew Hunter-class ARKS.",
+    "Enabled": true
   },
   "340019": {
     "OriginalText": "アークス用戦闘服。レンジャークラスの\n初期支給品で、射撃補助に重点を置いた\n合理的な設計がされている。",
-    "Text": "",
-    "Enabled": false
+    "Text": "An ARKS combat suit. Designed with\na focus on aim-assistance, and\nsupplied to new Ranger-class ARKS.",
+    "Enabled": true
   },
   "340020": {
     "OriginalText": "アークス用戦闘服。レンジャークラスの\n初期支給品で、射撃補助に重点を置いた\n合理的な設計がされている。",
-    "Text": "",
-    "Enabled": false
+    "Text": "An ARKS combat suit. Designed with\na focus on aim-assistance, and\nsupplied to new Ranger-class ARKS.",
+    "Enabled": true
   },
   "340021": {
     "OriginalText": "アークス用戦闘服。レンジャークラスの\n初期支給品で、射撃補助に重点を置いた\n合理的な設計がされている。",
-    "Text": "",
-    "Enabled": false
+    "Text": "An ARKS combat suit. Designed with\na focus on aim-assistance, and\nsupplied to new Ranger-class ARKS.",
+    "Enabled": true
   },
   "340022": {
     "OriginalText": "アークス用戦闘服。レンジャークラスの\n初期支給品で、射撃補助に重点を置いた\n合理的な設計がされている。",
-    "Text": "",
-    "Enabled": false
+    "Text": "An ARKS combat suit. Designed with\na focus on aim-assistance, and\nsupplied to new Ranger-class ARKS.",
+    "Enabled": true
   },
   "340023": {
     "OriginalText": "軽量化をテーマに作られた服伝。\n開放感のある作りをしており\n若年層を中心に人気を集めている。",
@@ -2676,23 +2676,23 @@
   },
   "340027": {
     "OriginalText": "アークス用戦闘服。フォースクラスの\n初期支給品で、テクニックの行使に\n最適なデザイン性が追求されている。",
-    "Text": "",
-    "Enabled": false
+    "Text": "An ARKS combat suit. Made to be\nconducive to Photon excitation, and\nsupplied to new Force-class ARKS.",
+    "Enabled": true
   },
   "340028": {
     "OriginalText": "アークス用戦闘服。フォースクラスの\n初期支給品で、テクニックの行使に\n最適なデザイン性が追求されている。",
-    "Text": "",
-    "Enabled": false
+    "Text": "An ARKS combat suit. Made to be\nconducive to Photon excitation, and\nsupplied to new Force-class ARKS.",
+    "Enabled": true
   },
   "340029": {
     "OriginalText": "アークス用戦闘服。フォースクラスの\n初期支給品で、テクニックの行使に\n最適なデザイン性が追求されている。",
-    "Text": "",
-    "Enabled": false
+    "Text": "An ARKS combat suit. Made to be\nconducive to Photon excitation, and\nsupplied to new Force-class ARKS.",
+    "Enabled": true
   },
   "340030": {
     "OriginalText": "アークス用戦闘服。フォースクラスの\n初期支給品で、テクニックの行使に\n最適なデザイン性が追求されている。",
-    "Text": "",
-    "Enabled": false
+    "Text": "An ARKS combat suit. Made to be\nconducive to Photon excitation, and\nsupplied to new Force-class ARKS.",
+    "Enabled": true
   },
   "340031": {
     "OriginalText": "アークス用戦闘服。周辺状況把握のため\n外気を体感できるよう、可能な限り\n肌を露出させつつ、要所を固めた良品。",
@@ -4221,13 +4221,13 @@
   },
   "340336": {
     "OriginalText": "男性キャスト向けの腕部パーツ。\nその機動性と、シャープなフォルムが\nハンタークラスに人気の理由。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Arm parts for male Casts. Popular\nwith Hunters for their ease of\nmobility and their sharp appearance.",
+    "Enabled": true
   },
   "340337": {
     "OriginalText": "男性キャスト向けの腕部パーツ。\n安定性の高い箱形のフォルムがベースで\n主にレンジャークラスが愛用している。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Arm parts for male Casts.\nA stable, boxy design mainly favored\nby Rangers.",
+    "Enabled": true
   },
   "340338": {
     "OriginalText": "男性キャスト向けの腕部パーツ。\nゆったりとした霜のようなフォルムは\n外気への順応性を高めるという。",
@@ -4331,13 +4331,13 @@
   },
   "340358": {
     "OriginalText": "女性キャスト向けの腕部パーツ。\n機動力と軽量化に突出したモデルであり\nハンタークラスの愛用者が多い。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Arm parts for female Casts. A very\nlightweight, mobile model, which has\nmany followers among Hunters.",
+    "Enabled": true
   },
   "340359": {
     "OriginalText": "女性キャスト向けの腕部パーツ。\n安定性が重視され、主にレンジャーが\n愛用するモデルで見た目の人気も高い。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Arm parts for female Casts. With a\nfocus on stability, they are popular\namong Rangers for their appearance.",
+    "Enabled": true
   },
   "340360": {
     "OriginalText": "女性キャスト向けの腕部パーツ。\nあらゆる環境下で感応性を高める\nデザインで、フォースに人気が高い。",
@@ -4361,8 +4361,8 @@
   },
   "340364": {
     "OriginalText": "女性キャスト向けの腕部パーツ。\n球状の機構は、必要に応じて周囲の\n環境記録を取得することもできる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Arm parts for female Casts. The\nround plates are able to acquire\nenvironmental data as needed.",
+    "Enabled": true
   },
   "340365": {
     "OriginalText": "女性キャスト向けの腕部パーツ。\n軽量化を重視し、空気抵抗の低滅化など\n蕾人好みのカスタマイズが入っている。",
@@ -4416,8 +4416,8 @@
   },
   "340375": {
     "OriginalText": "女性キャスト向けの腕部パーツ。\n天然鉱をあしらった鮮やかなデザインに\n機動性と重厚さを兼ね備えたモデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Arm parts for female Casts. A\nbeautiful design adorned with natural\nore, combining weight and mobility.",
+    "Enabled": true
   },
   "340376": {
     "OriginalText": "女性キャスト向けの腕部パーツ。\n[ruby ほし]惑星[/ruby]ギガンテスの重厚長大な伝甲を最大限\nデフォルメし、愛らしさを引き出した。",
@@ -4456,13 +4456,13 @@
   },
   "340383": {
     "OriginalText": "男性キャスト向けの基礎的なパーツ。\nその機動性と、シャープなフォルムが\nハンタークラスに人気の理由。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Core parts for male Casts. Popular\nwith Hunters for their ease of\nmobility and their sharp appearance.",
+    "Enabled": true
   },
   "340384": {
     "OriginalText": "男性キャスト向けの基礎的なパーツ。\n安定性の高い箱形のフォルムがベースで\n主にレンジャークラスが愛用している。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Core parts for male Casts.\nA stable, boxy design mainly favored\nby Rangers.",
+    "Enabled": true
   },
   "340385": {
     "OriginalText": "男性キャスト向けの基礎的なパーツ。\nゆったりとした霜のようなフォルムは\n外気への順応性を高めるという。",
@@ -4566,13 +4566,13 @@
   },
   "340405": {
     "OriginalText": "女性キャスト向けの基礎的なパーツ。\n機動力と軽量化に突出したモデルであり\nハンタークラスの愛用者が多い。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Core parts for female Casts. A very\nlightweight, mobile model, which has\nmany followers among Hunters.",
+    "Enabled": true
   },
   "340406": {
     "OriginalText": "女性キャスト向けの基礎的なパーツ。\n安定性が重視され、主にレンジャーが\n愛用するモデルで見た目の人気も高い。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Core parts for female Casts. With a\nfocus on stability, they are popular\namong Rangers for their appearance.",
+    "Enabled": true
   },
   "340407": {
     "OriginalText": "女性キャスト向けの基礎的なパーツ。\nあらゆる環境下で感応性を高める\nデザインで、フォースに人気が高い。",
@@ -4596,8 +4596,8 @@
   },
   "340411": {
     "OriginalText": "女性キャスト向けの基礎的なパーツ。\n球状の機構は、必要に応じて周囲の\n環境記録を取得することもできる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Core parts for female Casts. The\nround plates are able to acquire\nenvironmental data as needed.",
+    "Enabled": true
   },
   "340412": {
     "OriginalText": "女性キャスト向けの基礎的なパーツ。\n軽量化を重視し、空気抵抗の低滅化など\n蕾人好みのカスタマイズが入っている。",
@@ -4651,8 +4651,8 @@
   },
   "340422": {
     "OriginalText": "女性キャスト向けの基礎的なパーツ。\n天然鉱をあしらった鮮やかなデザインに\n機動性と重厚さを兼ね備えたモデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Core parts for female Casts. A\nbeautiful design adorned with natural\nore, combining weight and mobility.",
+    "Enabled": true
   },
   "340423": {
     "OriginalText": "女性キャスト向けの基礎的なパーツ。\n[ruby ほし]惑星[/ruby]ギガンテスの重厚長大な伝甲を最大限\nデフォルメし、愛らしさを引き出した。",
@@ -4691,13 +4691,13 @@
   },
   "340430": {
     "OriginalText": "男性キャスト向けの脚部パーツ。\nその機動性と、シャープなフォルムが\nハンタークラスに人気の理由。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Leg parts for male Casts. Popular\nwith Hunters for their ease of\nmobility and their sharp appearance.",
+    "Enabled": true
   },
   "340431": {
     "OriginalText": "男性キャスト向けの脚部パーツ。\n安定性の高い箱形のフォルムがベースで\n主にレンジャークラスが愛用している。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Leg parts for male Casts.\nA stable, boxy design mainly favored\nby Rangers.",
+    "Enabled": true
   },
   "340432": {
     "OriginalText": "男性キャスト向けの脚部パーツ。\nゆったりとした霜のようなフォルムは\n外気への順応性を高めるという。",
@@ -4801,13 +4801,13 @@
   },
   "340452": {
     "OriginalText": "女性キャスト向けの脚部パーツ。\n機動力と軽量化に突出したモデルであり\nハンタークラスの愛用者が多い。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Leg parts for female Casts. A very\nlightweight, mobile model, which has\nmany followers among Hunters.",
+    "Enabled": true
   },
   "340453": {
     "OriginalText": "女性キャスト向けの脚部パーツ。\n安定性が重視され、主にレンジャーが\n愛用するモデルで見た目の人気も高い。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Leg parts for female Casts. With a\nfocus on stability, they are popular\namong Rangers for their appearance.",
+    "Enabled": true
   },
   "340454": {
     "OriginalText": "女性キャスト向けの脚部パーツ。\nあらゆる環境下で感応性を高める\nデザインで、フォースに人気が高い。",
@@ -4831,8 +4831,8 @@
   },
   "340458": {
     "OriginalText": "女性キャスト向けの脚部パーツ。\n球状の機構は、必要に応じて周囲の\n環境記録を取得することもできる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Leg parts for female Casts. The\nround plates are able to acquire\nenvironmental data if necessary.",
+    "Enabled": true
   },
   "340459": {
     "OriginalText": "女性キャスト向けの脚部パーツ。\n軽量化を重視し、空気抵抗の低滅化など\n蕾人好みのカスタマイズが入っている。",
@@ -4886,8 +4886,8 @@
   },
   "340469": {
     "OriginalText": "女性キャスト向けの脚部パーツ。\n天然鉱をあしらった鮮やかなデザインに\n機動性と重厚さを兼ね備えたモデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Leg parts for female Casts. A\nbeautiful design adorned with natural\nore, combining weight and mobility.",
+    "Enabled": true
   },
   "340470": {
     "OriginalText": "女性キャスト向けの脚部パーツ。\n[ruby ほし]惑星[/ruby]ギガンテスの重厚長大な伝甲を最大限\nデフォルメし、愛らしさを引き出した。",
