@@ -506,12 +506,12 @@
   },
   "200501": {
     "OriginalText": "最深部のＧキュクロナーダ撃破",
-    "Text": "The Deepest G-Kuklonahda",
+    "Text": "Eliminate G-Kuklonahda",
     "Enabled": true
   },
   "200502": {
     "OriginalText": "最深部のジャッドバンサー撃破",
-    "Text": "The Deepest Jhad Banther",
+    "Text": "Eliminate Jhad Banther",
     "Enabled": true
   },
   "200503": {
@@ -526,17 +526,17 @@
   },
   "200505": {
     "OriginalText": "最深部のアルキュオネ撃破",
-    "Text": "The Deepest Alcyone",
+    "Text": "Eliminate Alcyone",
     "Enabled": true
   },
   "200506": {
     "OriginalText": "最深部のヴィヴリュード撃破",
-    "Text": "The Deepest Vivryude",
+    "Text": "Eliminate Vivryude",
     "Enabled": true
   },
   "200507": {
     "OriginalText": "最深部のエウリュード撃破",
-    "Text": "The Deepest Eurude",
+    "Text": "Eliminate Eurude",
     "Enabled": true
   },
   "200508": {
@@ -546,22 +546,22 @@
   },
   "200509": {
     "OriginalText": "最深部のアグリオスを捕獲",
-    "Text": "The Deepest Agrios",
+    "Text": "Eliminate Agrios",
     "Enabled": true
   },
   "200510": {
     "OriginalText": "最深部のギュゲンテ撃破",
-    "Text": "The Deepest Gygante",
+    "Text": "Eliminate Gygante",
     "Enabled": true
   },
   "200511": {
     "OriginalText": "最深部のコラル・ドラゴン撃破",
-    "Text": "The Deepest Coral Dragon",
+    "Text": "Eliminate Coral Dragon",
     "Enabled": true
   },
   "200512": {
     "OriginalText": "最深部のアルキュオネの捕獲",
-    "Text": "Capture the Deepest Alcyone",
+    "Text": "Capture Alcyone",
     "Enabled": true
   },
   "200513": {
@@ -571,12 +571,12 @@
   },
   "200514": {
     "OriginalText": "最深部のテュルトアス撃破",
-    "Text": "The Deepest Tulletoas",
+    "Text": "Eliminate Tulletoas",
     "Enabled": true
   },
   "200515": {
     "OriginalText": "最深部のクリトロクィーン撃破",
-    "Text": "The Deepest Crittro Queen",
+    "Text": "Eliminate Crittro Queen",
     "Enabled": true
   },
   "200516": {
@@ -586,17 +586,17 @@
   },
   "200517": {
     "OriginalText": "最深部のナールレイバンサー撃破",
-    "Text": "The Deepest Nalray Banther",
+    "Text": "Eliminate Nalray Banther",
     "Enabled": true
   },
   "200518": {
     "OriginalText": "最深部のモストカーネベア撃破",
-    "Text": "The Deepest Mosst Carnnebear",
+    "Text": "Eliminate Mosst Carnnebear",
     "Enabled": true
   },
   "200519": {
     "OriginalText": "最深部のレゾルカーネベア撃破",
-    "Text": "The Deepest Resol Carnnebear",
+    "Text": "Eliminate Resol Carnnebear",
     "Enabled": true
   },
   "200520": {
@@ -651,27 +651,27 @@
   },
   "200530": {
     "OriginalText": "最深部のディートアス撃破",
-    "Text": "Defeat the Deepest Enemy",
+    "Text": "Defeat Enemy",
     "Enabled": true
   },
   "200531": {
     "OriginalText": "最深部のアグリオス撃破",
-    "Text": "The Deepest Agrios",
+    "Text": "Eliminate Agrios",
     "Enabled": true
   },
   "200532": {
     "OriginalText": "最深部のＧダーク・ラグネ撃破",
-    "Text": "The Deepest G-Dark Ragne",
+    "Text": "Eliminate G-Dark Ragne",
     "Enabled": true
   },
   "200533": {
     "OriginalText": "クエストポイントを一定量ためる",
-    "Text": "Obtain the Quest Points",
+    "Text": "Obtain Quest Points",
     "Enabled": true
   },
   "200534": {
     "OriginalText": "最深部のギガンテス撃破",
-    "Text": "The Deepest Gigantes",
+    "Text": "Eliminate Gigantes",
     "Enabled": true
   },
   "200535": {
@@ -1046,7 +1046,7 @@
   },
   "201001": {
     "OriginalText": "最深部のギガンテス撃破",
-    "Text": "The Deepest Gigantes",
+    "Text": "Eliminate Gigantes",
     "Enabled": true
   },
   "201002": {
@@ -1066,7 +1066,7 @@
   },
   "201011": {
     "OriginalText": "最深部のギガンテス撃破",
-    "Text": "The Deepest Gigantes",
+    "Text": "Eliminate Gigantes",
     "Enabled": true
   },
   "201012": {
@@ -1086,7 +1086,7 @@
   },
   "201021": {
     "OriginalText": "最深部のギガンテス撃破",
-    "Text": "The Deepest Gigantes",
+    "Text": "Eliminate Gigantes",
     "Enabled": true
   },
   "201022": {
@@ -1126,7 +1126,7 @@
   },
   "201041": {
     "OriginalText": "最深部のギガンテス撃破",
-    "Text": "The Deepest Gigantes",
+    "Text": "Eliminate Gigantes",
     "Enabled": true
   },
   "201042": {
@@ -1146,7 +1146,7 @@
   },
   "201051": {
     "OriginalText": "最深部のギガンテス撃破",
-    "Text": "The Deepest Gigantes",
+    "Text": "Eliminate Gigantes",
     "Enabled": true
   },
   "201052": {
@@ -1166,7 +1166,7 @@
   },
   "201061": {
     "OriginalText": "最深部のギガンテス撃破",
-    "Text": "The Deepest Gigantes",
+    "Text": "Eliminate Gigantes",
     "Enabled": true
   },
   "201062": {
@@ -1481,7 +1481,7 @@
   },
   "201401": {
     "OriginalText": "最深部のギガンテス撃破",
-    "Text": "The Deepest Gigantes",
+    "Text": "Eliminate Gigantes",
     "Enabled": true
   },
   "201402": {
@@ -1701,7 +1701,7 @@
   },
   "210007": {
     "OriginalText": "最深部に到達せよ",
-    "Text": "Head to the deepest area",
+    "Text": "Head to the final area",
     "Enabled": true
   },
   "210008": {
@@ -1761,7 +1761,7 @@
   },
   "210019": {
     "OriginalText": "時間内に最深部へ到達せよ",
-    "Text": "Move to the deepest within time",
+    "Text": "head to the final area within time",
     "Enabled": true
   },
   "210020": {
@@ -2056,7 +2056,7 @@
   },
   "210133": {
     "OriginalText": "食村を回収しろ",
-    "Text": "Collect the Materials",
+    "Text": "Collect the materials",
     "Enabled": true
   },
   "210134": {
@@ -2171,7 +2171,7 @@
   },
   "210156": {
     "OriginalText": "果洋を集めろ",
-    "Text": "Collect Fruit",
+    "Text": "Collect fruit",
     "Enabled": true
   },
   "210157": {
