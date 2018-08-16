@@ -1766,7 +1766,7 @@
   },
   "210020": {
     "OriginalText": "資材を回収しろ",
-    "Text": "Collect the Data",
+    "Text": "Collect the Materials",
     "Enabled": true
   },
   "210021": {
@@ -1886,7 +1886,7 @@
   },
   "210099": {
     "OriginalText": "研究資材を回収しろ",
-    "Text": "Collect the Research Data",
+    "Text": "Collect the Research Materials",
     "Enabled": true
   },
   "210100": {
