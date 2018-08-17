@@ -1306,12 +1306,12 @@
   },
   "160261": {
     "OriginalText": "[a 07]経験値      +100%[b]",
-    "Text": "[a 07]EXP              +100%[b]",
+    "Text": "[a 07]EXP               +100%[b]",
     "Enabled": true
   },
   "160262": {
     "OriginalText": "[a 07]経験値      +200%[b]",
-    "Text": "[a 07]EXP              +200%[b]",
+    "Text": "[a 07]EXP               +200%[b]",
     "Enabled": true
   },
   "160263": {
