@@ -3741,7 +3741,7 @@
   },
   "300184": {
     "OriginalText": "【バレダイナスの銃片】を集める",
-    "Text": "Collect [Vale-Dynas Gun Piece]",
+    "Text": "Collect [Valdinas Gun Piece]",
     "Enabled": true
   },
   "300185": {
@@ -3791,7 +3791,7 @@
   },
   "300194": {
     "OriginalText": "【バレダイナスの超銃】を集める\n【オルテ・マガヴルムの超銃】を集める\n【レ・マクロージの超針】を集める",
-    "Text": "Collect [Vale-Dynas Super Gun]\nCollect [Orte Magavulum Super Gun]\nCollect [Le Makroge Stinger]",
+    "Text": "Collect [Valdinas Super Gun]\nCollect [Orte Magavulum Super Gun]\nCollect [Le Makroge Stinger]",
     "Enabled": true
   },
   "300195": {
@@ -3846,7 +3846,7 @@
   },
   "300205": {
     "OriginalText": "【バレダイナス系：Ｌｖ１５】を倒す\n【マフレザール系：Ｌｖ１５】を倒す\n【マンデル系：Ｌｖ１５】を倒す",
-    "Text": "Defeat [Vale-Dynas] Lv.15\nDefeat [Maphrezer] Lv.15\nDefeat [Mandel] Lv.15",
+    "Text": "Defeat [Valdinas] Lv.15\nDefeat [Maphrezer] Lv.15\nDefeat [Mandel] Lv.15",
     "Enabled": true
   },
   "300206": {
