@@ -291,27 +291,27 @@
   },
   "182510": {
     "OriginalText": "アルマラッピー",
-    "Text": "Alma-Rappy",
+    "Text": "Alma Rappy",
     "Enabled": true
   },
   "182520": {
     "OriginalText": "レウ・アヴラッピー",
-    "Text": "Leu Alma-Rappy",
+    "Text": "Leu Au Rappy",
     "Enabled": true
   },
   "182530": {
     "OriginalText": "ウィ・アヴラッピー",
-    "Text": "Vi Alma-Rappy",
+    "Text": "Oui Au Rappy",
     "Enabled": true
   },
   "182540": {
     "OriginalText": "ロセ・アヴラッピー",
-    "Text": "Rosset Alma-Rappy",
+    "Text": "Rosset Au Rappy",
     "Enabled": true
   },
   "182550": {
     "OriginalText": "アルマラッピー・オナー",
-    "Text": "Alma-Rappy Onar",
+    "Text": "Au Rappy Onar",
     "Enabled": true
   },
   "182610": {
@@ -321,7 +321,7 @@
   },
   "182620": {
     "OriginalText": "ウィ・ロヴラッピー",
-    "Text": "Vi Rove Rappy",
+    "Text": "Oui Rove Rappy",
     "Enabled": true
   },
   "182630": {
@@ -406,7 +406,7 @@
   },
   "183020": {
     "OriginalText": "ヴィマフレザール",
-    "Text": "Vi Maphrezer",
+    "Text": "Oui Maphrezer",
     "Enabled": true
   },
   "183030": {
@@ -576,27 +576,27 @@
   },
   "183710": {
     "OriginalText": "バレダイナス",
-    "Text": "Vale-Dynas",
+    "Text": "Valdinas",
     "Enabled": true
   },
   "183720": {
     "OriginalText": "ラーバレダイナス",
-    "Text": "Lar Vale-Dynas",
+    "Text": "Lar Valdinas",
     "Enabled": true
   },
   "183730": {
     "OriginalText": "マーバレダイナス",
-    "Text": "Mar Vale-Dynas",
+    "Text": "Mar Valdinas",
     "Enabled": true
   },
   "183740": {
     "OriginalText": "ヴィバレダイナス",
-    "Text": "Vi Vale-Dynas",
+    "Text": "Oui Valdinas",
     "Enabled": true
   },
   "183750": {
     "OriginalText": "ダイナス・タングス",
-    "Text": "Dynas Tungs",
+    "Text": "Dinas Tungs",
     "Enabled": true
   },
   "183810": {
@@ -1266,27 +1266,27 @@
   },
   "189031": {
     "OriginalText": "伝悪鬼バレダイナス",
-    "Text": "Legendary Demon: Vale-Dynas",
+    "Text": "Legendary Demon: Valdinas",
     "Enabled": true
   },
   "189032": {
     "OriginalText": "伝悪鬼ラーバレダイナス",
-    "Text": "Legendary Demon: Lar Vale-Dynas",
+    "Text": "Legendary Demon: Lar Valdinas",
     "Enabled": true
   },
   "189033": {
     "OriginalText": "伝悪鬼マーバレダイナス",
-    "Text": "Legendary Demon: Mar Vale-Dynas",
+    "Text": "Legendary Demon: Mar Valdinas",
     "Enabled": true
   },
   "189034": {
     "OriginalText": "伝悪鬼ヴィバレダイナス",
-    "Text": "Legendary Demon: Vi Vale-Dynas",
+    "Text": "Legendary Demon: Oui Valdinas",
     "Enabled": true
   },
   "189035": {
     "OriginalText": "伝悪鬼ダイナス・タングス",
-    "Text": "Legendary Demon: Dynas Tungs",
+    "Text": "Legendary Demon: Dinas Tungs",
     "Enabled": true
   },
   "189036": {

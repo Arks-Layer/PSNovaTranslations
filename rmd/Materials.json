@@ -731,7 +731,7 @@
   },
   "350146": {
     "OriginalText": "アルマラッピーの羽",
-    "Text": "Alma-Rappy Feather",
+    "Text": "Alma Rappy Feather",
     "Enabled": true
   },
   "350147": {
@@ -1136,13 +1136,13 @@
   },
   "350227": {
     "OriginalText": "ロウトルリンプの硬尾ひれ",
-    "Text": "Solid Rol Torrimp Tail Fin",
+    "Text": "Hard Rol Torrimp Tail Fin",
     "Enabled": true
   },
   "350228": {
-    "OriginalText": "テュルトアスの吸引麦",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "テュルトアスの固受挙",
+    "Text": "Hard Tulletoas Sucker",
+    "Enabled": true
   },
   "350229": {
     "OriginalText": "アルキュオネの硬肩部伝甲",
@@ -1325,7 +1325,7 @@
     "Enabled": true
   },
   "350265": {
-    "OriginalText": "ディートアスの大吸引袋",
+    "OriginalText": "ディートアスの大固受袋",
     "Text": "Dietoas Compression Bag",
     "Enabled": true
   },
@@ -1361,12 +1361,12 @@
   },
   "350272": {
     "OriginalText": "ヴィマフレザールの皮片",
-    "Text": "Vi Maphrezer Pelt",
+    "Text": "Oui Maphrezer Pelt",
     "Enabled": true
   },
   "350273": {
     "OriginalText": "バレダイナスの銃片",
-    "Text": "Vale-Dynas Gun Piece",
+    "Text": "Valdinas Gun Piece",
     "Enabled": true
   },
   "350274": {
@@ -1391,12 +1391,12 @@
   },
   "350278": {
     "OriginalText": "ヴィマフレザールの朽爪",
-    "Text": "Vi Maphrezer Claw",
+    "Text": "Oui Maphrezer Claw",
     "Enabled": true
   },
   "350279": {
     "OriginalText": "バレダイナスの弾倉",
-    "Text": "Vale-Dynas Magazine",
+    "Text": "Valdinas Magazine",
     "Enabled": true
   },
   "350280": {
@@ -1421,12 +1421,12 @@
   },
   "350284": {
     "OriginalText": "ヴィマフレザールの硬皮膜",
-    "Text": "Hard Vi Maphrezer Membrane",
+    "Text": "Hard Oui Maphrezer Membrane",
     "Enabled": true
   },
   "350285": {
     "OriginalText": "バレダイナスのサイト",
-    "Text": "Vale-Dynas Eye",
+    "Text": "Valdinas Eye",
     "Enabled": true
   },
   "350286": {
@@ -1621,18 +1621,18 @@
   },
   "350324": {
     "OriginalText": "マガヴルムの手",
-    "Text": "",
-    "Enabled": false
+    "Text": "Magavulum Arm",
+    "Enabled": true
   },
   "350325": {
-    "OriginalText": "リバッツの虫",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "リバッツの墨",
+    "Text": "Ribatts Ink",
+    "Enabled": true
   },
   "350326": {
-    "OriginalText": "ウィ・ロヴラッピーの是甲",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "ウィ・ロヴラッピーの胴甲",
+    "Text": "Oui Rove Rappy Cap",
+    "Enabled": true
   },
   "350327": {
     "OriginalText": "コパイエーデンの爪片",
@@ -1641,18 +1641,18 @@
   },
   "350328": {
     "OriginalText": "ポリジュラキアの羽",
-    "Text": "",
-    "Enabled": false
+    "Text": "Poly Jurrakia Wing",
+    "Enabled": true
   },
   "350329": {
     "OriginalText": "マーバレダイナスの銃",
-    "Text": "",
-    "Enabled": false
+    "Text": "Mar Valdinas Gun",
+    "Enabled": true
   },
   "350330": {
     "OriginalText": "水晶竜族の結晶",
-    "Text": "",
-    "Enabled": false
+    "Text": "Crystalized Dragon Crystals",
+    "Enabled": true
   },
   "350331": {
     "OriginalText": "サフグランブの甲羅",
@@ -1666,13 +1666,13 @@
   },
   "350333": {
     "OriginalText": "リバッツの翼枝",
-    "Text": "",
-    "Enabled": false
+    "Text": "Ribatts Wing Arm",
+    "Enabled": true
   },
   "350334": {
     "OriginalText": "ウィ・ロヴラッピーの主翼",
-    "Text": "",
-    "Enabled": false
+    "Text": "Main Oui Rove Rappy Wing",
+    "Enabled": true
   },
   "350335": {
     "OriginalText": "コパイエーデンの毛皮",
@@ -1686,13 +1686,13 @@
   },
   "350337": {
     "OriginalText": "マーバレダイナスの弾倉",
-    "Text": "",
-    "Enabled": false
+    "Text": "Mar Valdinas Magazine",
+    "Enabled": true
   },
   "350338": {
     "OriginalText": "水晶竜族の結晶珪",
-    "Text": "",
-    "Enabled": false
+    "Text": "Crystalized Dragon Silicon",
+    "Enabled": true
   },
   "350339": {
     "OriginalText": "サフグランブの凝液結晶",
@@ -1701,8 +1701,8 @@
   },
   "350340": {
     "OriginalText": "マガヴルムの盾",
-    "Text": "",
-    "Enabled": false
+    "Text": "Magavulum Shield",
+    "Enabled": true
   },
   "350341": {
     "OriginalText": "リバッツの目玉",
@@ -1711,28 +1711,28 @@
   },
   "350342": {
     "OriginalText": "ウィ・ロヴラッピーの大機",
-    "Text": "",
-    "Enabled": false
+    "Text": "Large Oui Rove Rappy Machine",
+    "Enabled": true
   },
   "350343": {
     "OriginalText": "コパイエーデンの硬頭骨",
-    "Text": "",
-    "Enabled": false
+    "Text": "Hard Kopa Yeden Skull",
+    "Enabled": true
   },
   "350344": {
     "OriginalText": "ポリジュラキアの大尾羽",
-    "Text": "",
-    "Enabled": false
+    "Text": "Large Poly Jurrakia Tail Wing",
+    "Enabled": true
   },
   "350345": {
     "OriginalText": "マーバレダイナスのサイト",
-    "Text": "",
-    "Enabled": false
+    "Text": "Mar Valdinas Eyes",
+    "Enabled": true
   },
   "350346": {
     "OriginalText": "水晶竜族の鋭結晶角",
-    "Text": "",
-    "Enabled": false
+    "Text": "Sharp Crystalized Dragon Crystal",
+    "Enabled": true
   },
   "350347": {
     "OriginalText": "アビアディノの骨",
@@ -1741,13 +1741,13 @@
   },
   "350348": {
     "OriginalText": "クロザードのヒレ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gu Rozad Fin",
+    "Enabled": true
   },
   "350349": {
     "OriginalText": "エルマフレザールの硬皮",
-    "Text": "",
-    "Enabled": false
+    "Text": "El Maphrezer Scalp",
+    "Enabled": true
   },
   "350350": {
     "OriginalText": "フリラウーダンの爪",
@@ -1756,23 +1756,23 @@
   },
   "350351": {
     "OriginalText": "ミステルンの鋭角",
-    "Text": "",
-    "Enabled": false
+    "Text": "Sharp Mysteroon Horn",
+    "Enabled": true
   },
   "350352": {
     "OriginalText": "ラビーソの刃片",
-    "Text": "Rabbisaw Blades",
+    "Text": "Rabbisaw Blade",
     "Enabled": true
   },
   "350353": {
     "OriginalText": "レイバンサーの駆動銃座",
-    "Text": "",
-    "Enabled": false
+    "Text": "Ray Banther Turret",
+    "Enabled": true
   },
   "350354": {
     "OriginalText": "ウィンディラスの翼",
-    "Text": "",
-    "Enabled": false
+    "Text": "Windiras Wing",
+    "Enabled": true
   },
   "350355": {
     "OriginalText": "ガンジュラキアの羽片",
@@ -1781,13 +1781,13 @@
   },
   "350356": {
     "OriginalText": "バンクゥの硬宝石",
-    "Text": "",
-    "Enabled": false
+    "Text": "Hard Ban'qu Jewel",
+    "Enabled": true
   },
   "350357": {
-    "OriginalText": "レウ・ロヴラッピーの是甲",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "レウ・ロヴラッピーの胴甲",
+    "Text": "Leu Rove Rappy Cape",
+    "Enabled": true
   },
   "350358": {
     "OriginalText": "シードギオスの盾",
@@ -1801,8 +1801,8 @@
   },
   "350360": {
     "OriginalText": "マドアビアディノの大コブ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Large Mad Aviadino Polyp",
+    "Enabled": true
   },
   "350361": {
     "OriginalText": "ガラティオンの鋭ノコ刃",
@@ -2065,7 +2065,7 @@
     "Enabled": true
   },
   "350413": {
-    "OriginalText": "デェフキュオネの大虫麦",
+    "OriginalText": "デェフキュオネの大虫挙",
     "Text": "Defcyone Ink Sac",
     "Enabled": true
   },
@@ -2385,7 +2385,7 @@
     "Enabled": false
   },
   "350477": {
-    "OriginalText": "グリバッツの虫麦",
+    "OriginalText": "グリバッツの虫挙",
     "Text": "",
     "Enabled": false
   },
@@ -2450,7 +2450,7 @@
     "Enabled": false
   },
   "350490": {
-    "OriginalText": "ブリバッツの虫麦",
+    "OriginalText": "ブリバッツの虫挙",
     "Text": "",
     "Enabled": false
   },
@@ -2620,7 +2620,7 @@
     "Enabled": false
   },
   "350524": {
-    "OriginalText": "マグネトアスの大吸引袋",
+    "OriginalText": "マグネトアスの大固受袋",
     "Text": "",
     "Enabled": false
   },
@@ -2950,7 +2950,7 @@
     "Enabled": false
   },
   "350590": {
-    "OriginalText": "リバッツ・シルの虫麦",
+    "OriginalText": "リバッツ・シルの虫挙",
     "Text": "",
     "Enabled": false
   },
@@ -3275,7 +3275,7 @@
     "Enabled": false
   },
   "350655": {
-    "OriginalText": "トアス・ヒュブオンの吸引麦",
+    "OriginalText": "トアス・ヒュブオンの固受挙",
     "Text": "",
     "Enabled": false
   },
@@ -4101,22 +4101,22 @@
   },
   "350820": {
     "OriginalText": "バレダイナスの超銃",
-    "Text": "Vale-Dynas Super Gun",
+    "Text": "Valdinas Super Gun",
     "Enabled": true
   },
   "350821": {
     "OriginalText": "ラーバレダイナスの超銃",
-    "Text": "Lar Vale-Dynas Super Gun",
+    "Text": "Lar Valdinas Super Gun",
     "Enabled": true
   },
   "350822": {
     "OriginalText": "マーバレダイナスの超銃",
-    "Text": "Mar Vale-Dynas Super Gun",
+    "Text": "Mar Valdinas Super Gun",
     "Enabled": true
   },
   "350823": {
     "OriginalText": "ヴィバレダイナスの超銃",
-    "Text": "Vi Vale-Dynas Super Gun",
+    "Text": "Oui Valdinas Super Gun",
     "Enabled": true
   },
   "350824": {
@@ -6665,7 +6665,7 @@
     "Enabled": false
   },
   "360228": {
-    "OriginalText": "大きく伸温する丈夫な麦。\n武器防具の素村になる。",
+    "OriginalText": "大きく伸温する丈夫な挙。\n武器防具の素村になる。",
     "Text": "",
     "Enabled": false
   },
@@ -6850,7 +6850,7 @@
     "Enabled": false
   },
   "360265": {
-    "OriginalText": "大きく伸温する丈夫な麦。\n武器防具の素村になる。",
+    "OriginalText": "大きく伸温する丈夫な挙。\n武器防具の素村になる。",
     "Text": "",
     "Enabled": false
   },
@@ -8145,7 +8145,7 @@
     "Enabled": false
   },
   "360524": {
-    "OriginalText": "大きく伸温する丈夫な麦。\n武器防具の素村になる。",
+    "OriginalText": "大きく伸温する丈夫な挙。\n武器防具の素村になる。",
     "Text": "",
     "Enabled": false
   },
@@ -8800,7 +8800,7 @@
     "Enabled": false
   },
   "360655": {
-    "OriginalText": "大きく伸温する丈夫な麦。\n武器防具の素村になる。",
+    "OriginalText": "大きく伸温する丈夫な挙。\n武器防具の素村になる。",
     "Text": "",
     "Enabled": false
   },
@@ -10115,7 +10115,7 @@
     "Enabled": false
   },
   "360918": {
-    "OriginalText": "銅の荒野で稀に採集される鉱洋。\n吸い込まれそうな輝きの紫水晶。\n武器防具の素村になる。",
+    "OriginalText": "銅の荒野で稀に採集される鉱洋。\n固い込まれそうな輝きの紫水晶。\n武器防具の素村になる。",
     "Text": "",
     "Enabled": false
   },
@@ -10225,7 +10225,7 @@
     "Enabled": false
   },
   "360940": {
-    "OriginalText": "ノヴァ内部でごく稀に採集される鉱洋。\n吸い込まれるように漆黒である。\n武器防具の素村として貴重。",
+    "OriginalText": "ノヴァ内部でごく稀に採集される鉱洋。\n固い込まれるように漆黒である。\n武器防具の素村として貴重。",
     "Text": "",
     "Enabled": false
   },
