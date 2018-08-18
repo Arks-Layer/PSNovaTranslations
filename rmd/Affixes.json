@@ -791,27 +791,27 @@
   },
   "150158": {
     "OriginalText": "炎属性ダウンⅠ",
-    "Text": "Flame Resist Down I",
+    "Text": "Fire Resist Down I",
     "Enabled": true
   },
   "150159": {
     "OriginalText": "炎属性ダウンⅡ",
-    "Text": "Flame Resist Down II",
+    "Text": "Fire Resist Down II",
     "Enabled": true
   },
   "150160": {
     "OriginalText": "炎属性ダウンⅢ",
-    "Text": "Flame Resist Down III",
+    "Text": "Fire Resist Down III",
     "Enabled": true
   },
   "150161": {
     "OriginalText": "炎属性ダウンⅣ",
-    "Text": "Flame Resist Down IV",
+    "Text": "Fire Resist Down IV",
     "Enabled": true
   },
   "150162": {
     "OriginalText": "炎属性ダウンⅤ",
-    "Text": "Flame Resist Down V",
+    "Text": "Fire Resist Down V",
     "Enabled": true
   },
   "150163": {
@@ -841,27 +841,27 @@
   },
   "150168": {
     "OriginalText": "雷属性ダウンⅠ",
-    "Text": "Thunder Resist Down I",
+    "Text": "Lightning Resist Down I",
     "Enabled": true
   },
   "150169": {
     "OriginalText": "雷属性ダウンⅡ",
-    "Text": "Thunder Resist Down II",
+    "Text": "Lightning Resist Down II",
     "Enabled": true
   },
   "150170": {
     "OriginalText": "雷属性ダウンⅢ",
-    "Text": "Thunder Resist Down III",
+    "Text": "Lightning Resist Down III",
     "Enabled": true
   },
   "150171": {
     "OriginalText": "雷属性ダウンⅣ",
-    "Text": "Thunder Resist Down IV",
+    "Text": "Lightning Resist Down IV",
     "Enabled": true
   },
   "150172": {
     "OriginalText": "雷属性ダウンⅤ",
-    "Text": "Thunder Resist Down V",
+    "Text": "Lightning Resist Down V",
     "Enabled": true
   },
   "150173": {
@@ -2776,27 +2776,27 @@
   },
   "820158": {
     "OriginalText": "敵の炎耐性を下げる確率が\n１０％上昇する。",
-    "Text": "Chance to lower the enemy's flame\nresistance increases by 10%.",
+    "Text": "Chance to lower the enemy's fire\nresistance increases by 10%.",
     "Enabled": true
   },
   "820159": {
     "OriginalText": "敵の炎耐性を下げる確率が\n１２％上昇する。",
-    "Text": "Chance to lower the enemy's flame\nresistance increases by 12%.",
+    "Text": "Chance to lower the enemy's fire\nresistance increases by 12%.",
     "Enabled": true
   },
   "820160": {
     "OriginalText": "敵の炎耐性を下げる確率が\n１５％上昇する。",
-    "Text": "Chance to lower the enemy's flame\nresistance increases by 15%.",
+    "Text": "Chance to lower the enemy's fire\nresistance increases by 15%.",
     "Enabled": true
   },
   "820161": {
     "OriginalText": "敵の炎耐性を下げる確率が\n１８％上昇する。",
-    "Text": "Chance to lower the enemy's flame\nresistance increases by 18%.",
+    "Text": "Chance to lower the enemy's fire\nresistance increases by 18%.",
     "Enabled": true
   },
   "820162": {
     "OriginalText": "敵の炎耐性を下げる確率が\n２０％上昇する。",
-    "Text": "Chance to lower the enemy's flame\nresistance increases by 20%.",
+    "Text": "Chance to lower the enemy's fire\nresistance increases by 20%.",
     "Enabled": true
   },
   "820163": {
