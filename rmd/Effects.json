@@ -211,7 +211,7 @@
   },
   "160042": {
     "OriginalText": "炎属性ダウン発生率",
-    "Text": "Flame Resist Down",
+    "Text": "Fire Resist Down",
     "Enabled": true
   },
   "160043": {
@@ -926,7 +926,7 @@
   },
   "160185": {
     "OriginalText": "炎属性ダメージ",
-    "Text": "Flame Damage",
+    "Text": "Fire Damage",
     "Enabled": true
   },
   "160186": {
@@ -1406,7 +1406,7 @@
   },
   "160503": {
     "OriginalText": "炎属性攻撃力アップ",
-    "Text": "Flame Attack",
+    "Text": "Fire Attack",
     "Enabled": true
   },
   "160504": {
@@ -1661,7 +1661,7 @@
   },
   "160554": {
     "OriginalText": "追加：炎属性ダウン",
-    "Text": "Add: Flame Resist Down",
+    "Text": "Add: Fire Resist Down",
     "Enabled": true
   },
   "160555": {
