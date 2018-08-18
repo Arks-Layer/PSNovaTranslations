@@ -156,12 +156,12 @@
   },
   "110031": {
     "OriginalText": "ヴィマフレザール・コア",
-    "Text": "Vi Maphrezer Core",
+    "Text": "Oui  Maphrezer Core",
     "Enabled": true
   },
   "110032": {
     "OriginalText": "バレダイナス・コア",
-    "Text": "Vale-Dynas Core",
+    "Text": "Valdinas Core",
     "Enabled": true
   },
   "110033": {
@@ -196,7 +196,7 @@
   },
   "110039": {
     "OriginalText": "ラーバレダイナス・コア",
-    "Text": "Lar Vale-Dynas Core",
+    "Text": "Lar Valdinas Core",
     "Enabled": true
   },
   "110040": {
@@ -251,7 +251,7 @@
   },
   "110050": {
     "OriginalText": "ウィ・ロヴラッピー・コア",
-    "Text": "Vi Rove Rappy Core",
+    "Text": "Oui  Rove Rappy Core",
     "Enabled": true
   },
   "110051": {
@@ -326,7 +326,7 @@
   },
   "110065": {
     "OriginalText": "マーバレダイナス・コア",
-    "Text": "Mar Vale-Dynas Core",
+    "Text": "Mar Valdinas Core",
     "Enabled": true
   },
   "110066": {
@@ -406,7 +406,7 @@
   },
   "110081": {
     "OriginalText": "ヴィバレダイナス・コア",
-    "Text": "Vi Vale-Dynas Core",
+    "Text": "Oui  Valdinas Core",
     "Enabled": true
   },
   "110082": {
