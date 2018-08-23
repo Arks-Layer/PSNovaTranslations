@@ -105,12 +105,12 @@
     "Enabled": true
   },
   "350021": {
-    "OriginalText": "祭",
+    "OriginalText": "貝",
     "Text": "Shellfish",
     "Enabled": true
   },
   "350022": {
-    "OriginalText": "爬虫類の苔尾",
+    "OriginalText": "爬虫類の尻尾",
     "Text": "Reptile Tail",
     "Enabled": true
   },
@@ -120,7 +120,7 @@
     "Enabled": true
   },
   "350024": {
-    "OriginalText": "墨",
+    "OriginalText": "苔",
     "Text": "Moss",
     "Enabled": true
   },
@@ -130,7 +130,7 @@
     "Enabled": true
   },
   "350026": {
-    "OriginalText": "劇",
+    "OriginalText": "氷",
     "Text": "Ice",
     "Enabled": true
   },
@@ -146,7 +146,7 @@
   },
   "350029": {
     "OriginalText": "アルキュオネのゼリー",
-    "Text": "Alcyone's Jelly",
+    "Text": "Alcyone Jelly",
     "Enabled": true
   },
   "350030": {
@@ -215,7 +215,7 @@
     "Enabled": true
   },
   "350043": {
-    "OriginalText": "米",
+    "OriginalText": "麦",
     "Text": "Wheat",
     "Enabled": true
   },
@@ -230,7 +230,7 @@
     "Enabled": true
   },
   "350046": {
-    "OriginalText": "尻",
+    "OriginalText": "米",
     "Text": "Rice",
     "Enabled": true
   },
