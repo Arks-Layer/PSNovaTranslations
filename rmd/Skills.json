@@ -126,7 +126,7 @@
   },
   "50025": {
     "OriginalText": "オートメイトハーフライン",
-    "Text": "Automate",
+    "Text": "Automate Halfline",
     "Enabled": true
   },
   "50026": {
@@ -1566,22 +1566,22 @@
   },
   "60061": {
     "OriginalText": "静止した状態で射撃したときの\nダメージが２０％上昇する。",
-    "Text": "Boosts damage when firing while\nstanding still.",
+    "Text": "Boosts damage when firing while\nstanding still by 20%.",
     "Enabled": true
   },
   "60062": {
     "OriginalText": "一定時間、射撃攻撃ＧＡの\nＧＰ消費量が２０％滅少する。\n[a 03]※アクティブスキルは同時に２つまで発動可[b]",
-    "Text": "Reduces GP consumption for Ranged Gran\nArts for a limited time.\n[a 03]＊Up to 2 actives at the same time.[b]",
+    "Text": "Reduces GP consumption for Ranged Gran\nArts by 20% for a limited time.\n[a 03]＊Up to 2 actives at the same time.[b]",
     "Enabled": true
   },
   "60063": {
     "OriginalText": "同じ敵、同じ部位を攻撃し続けると\n射撃攻撃のダメージが２０％上昇する。",
-    "Text": "Increases shooting damage when\ncontinuously attacking the same part of\nthe enemy.",
+    "Text": "Increases shooting damage when\ncontinuously attacking the same part of\nthe enemy by 20%.",
     "Enabled": true
   },
   "60064": {
     "OriginalText": "一定時間、打撃力と法撃力の合計の\n７５％を射撃力として使用する。\n[a 03]※アクティブスキルは同時に２つまで発動可[b]",
-    "Text": "Converts a percentage of your S-ATK and\nT-ATK into R-ATK.\n[a 03]＊Up to 2 actives at the same time.[b]",
+    "Text": "Converts 75% of your S-ATK and\nT-ATK into R-ATK.\n[a 03]＊Up to 2 actives at the same time.[b]",
     "Enabled": true
   },
   "60065": {
@@ -1636,7 +1636,7 @@
   },
   "60075": {
     "OriginalText": "スタイリッシュロール及び\nダイブロール中、\nエネミーへのダメージが１０％上昇する。",
-    "Text": "Boosts damage against the enemy\nfollowing a Stylish or Dive Roll",
+    "Text": "Boosts damage against the enemy\nfollowing a Stylish or Dive Roll by 10%.",
     "Enabled": true
   },
   "60076": {
