@@ -591,7 +591,7 @@
   },
   "500124": {
     "OriginalText": "ランダム選択メニューを開きます。\n\nランダム選択をおこなうと、\nカスタマイズした各要素が\nすべてランダムに書きかえられます。",
-    "Text": "This will open the randomization menu.\nWhen you choose a random selection, each item selected will be randomized.",
+    "Text": "This will open the randomization menu.\nWhen you choose a random selection,\neach item selected will be randomized.",
     "Enabled": true
   },
   "500125": {
