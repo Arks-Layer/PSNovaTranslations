@@ -886,7 +886,7 @@
   },
   "350177": {
     "OriginalText": "アグリオスの砲片",
-    "Text": "Agrios' Gun",
+    "Text": "Agrios Gun",
     "Enabled": true
   },
   "350178": {
@@ -1025,8 +1025,8 @@
     "Enabled": true
   },
   "350205": {
-    "OriginalText": "アルキュオネの浮遊伝置",
-    "Text": "Alcyone's Levitator",
+    "OriginalText": "アルキュオネの浮遊装置",
+    "Text": "Alcyone Levitator",
     "Enabled": true
   },
   "350206": {
@@ -1106,7 +1106,7 @@
   },
   "350221": {
     "OriginalText": "テュルトアスの硬レンズ",
-    "Text": "Tulletoas Solid Lens",
+    "Text": "Thick Tulletoas Lens",
     "Enabled": true
   },
   "350222": {
@@ -1145,7 +1145,7 @@
     "Enabled": true
   },
   "350229": {
-    "OriginalText": "アルキュオネの硬肩部伝甲",
+    "OriginalText": "アルキュオネの硬肩部装甲",
     "Text": "Alcyone Shoulder Armor",
     "Enabled": true
   },
@@ -1325,7 +1325,7 @@
     "Enabled": true
   },
   "350265": {
-    "OriginalText": "ディートアスの大固受袋",
+    "OriginalText": "ディートアスの大吸引袋",
     "Text": "Dietoas Compression Bag",
     "Enabled": true
   },
@@ -1445,7 +1445,7 @@
     "Enabled": true
   },
   "350289": {
-    "OriginalText": "ギュゲンテのβ脚",
+    "OriginalText": "ギュゲンテの虫脚",
     "Text": "Gygante Insectoid Legs",
     "Enabled": true
   },
@@ -1455,13 +1455,13 @@
     "Enabled": true
   },
   "350291": {
-    "OriginalText": "ギュゲンテの伝甲",
+    "OriginalText": "ギュゲンテの装甲",
     "Text": "Gygante Armor",
     "Enabled": true
   },
   "350292": {
     "OriginalText": "ギュゲンテの大砲塔部品",
-    "Text": "Large Gygante Gun Part",
+    "Text": "Large Gygante Gun Piece",
     "Enabled": true
   },
   "350293": {
