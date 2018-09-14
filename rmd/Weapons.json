@@ -2846,8 +2846,8 @@
   },
   "100256": {
     "OriginalText": "オルターの技術により新規開発された撃杭。\nブースターの力で遠距離に向けて\n杭を射出する。パワフルな大型武器。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A newly developed weapon created by Alter.\nA powerful weapon that is capable of injecting\na pile over long distances using a booster.",
+    "Enabled": true
   },
   "100257": {
     "OriginalText": "オルターの技術により新規開発された撃杭。\nロケット機構を補助的に制御する機器を\n組み込み、理想的な推進速度を実現。",
