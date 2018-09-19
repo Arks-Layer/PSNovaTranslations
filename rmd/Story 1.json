@@ -1631,13 +1631,13 @@
   },
   "101030010060001": {
     "OriginalText": "それも何で？ って感じだけど、\nお陰で仲間も助けられたし、グランを使える人が\n増えれば、少しはマシになりそう！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Why? I feel, thanks to \n, my friends who helped, and if more people could use Gran \n, it would better!",
+    "Enabled": true
   },
   "101030010070001": {
     "OriginalText": "とはいえ、状況は最悪。\n水と食料も備蓄は少なさそうだし、[ruby ふね]艦[/ruby]の機能も\n残り少ないエネルギーで何とか動いてるだけ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "However, the situation is the worse. \nThere is limited water and food, and the [ruby fleet] ship [/ ruby] only works only with photons\ n.",
+    "Enabled": true
   },
   "101030010080001": {
     "OriginalText": "フォトンドライブは完全に壊れてるみたい。",
@@ -1646,223 +1646,223 @@
   },
   "101030010090001": {
     "OriginalText": "あたし達、ずっとこの[ruby ほし]惑星[/ruby]で\n暮らすことになるかも……？\nいやいや、その前に生き延びられるのかな！？",
-    "Text": "",
-    "Enabled": false
+    "Text": "We might be stuck \Nwith this [ruby hoshi] planet [/ ruby] ... ...? No, no I can live with that! What?",
+    "Enabled": true
   },
   "101030010100001": {
     "OriginalText": "力一杯頑張るけど……不安です。\nものすごーく不安です！",
-    "Text": "",
-    "Enabled": false
+    "Text": "I will try my hardest though ... ... I am anxious. \N It is terribly unsettling!",
+    "Enabled": true
   },
   "101030010110001": {
     "OriginalText": "でも、[ruby]相棒[/ruby]と一緒だし、\nそれは心強い、かも……？",
-    "Text": "",
-    "Enabled": false
+    "Text": "But [ruby]with my partner [/ ruby], \nit is encouraging, maybe ......?",
+    "Enabled": true
   },
   "102000010010000": {
     "OriginalText": "第二章 「銅焔の巨獣」\nThe Demon Above Us\n（アイキャッチ[仮]）",
-    "Text": "",
-    "Enabled": false
+    "Text": "Chapter 2 ""The Copper Fire Beast" \nThe Demon Above Us \n(Eye Catch [Tentative])",
+    "Enabled": true
   },
   "102010020010004": {
     "OriginalText": "おぅらぁー！ どうだ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Ooooo! How!",
+    "Enabled": true
   },
   "102010020020001": {
     "OriginalText": "ブリッジでやらなくても……。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Even if I do not do it on the bridge ... ....",
+    "Enabled": true
   },
   "102010020030004": {
     "OriginalText": "トレーニングルームに行くヒマがねえんだよ。\n艦長は忙しいんでな。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I do not have time to go to the training room. \ N The captain is busy.",
+    "Enabled": true
   },
   "102010020040002": {
     "OriginalText": "これが艦長の『[ruby ーニ・]明紅[/ruby]』……美しい。",
-    "Text": "",
-    "Enabled": false
+    "Text": "This is the captain 's [ruby - ni] light clan [/ ruby] ... ... beautiful.",
+    "Enabled": true
   },
   "102010020050003": {
     "OriginalText": "迫力です……。",
-    "Text": "",
-    "Enabled": false
+    "Text": "It is impressive ....",
+    "Enabled": true
   },
   "102010020060004": {
     "OriginalText": "お前らを呼んだのは他でもない。レイヴァン！",
-    "Text": "",
-    "Enabled": false
+    "Text": "With was nothing else to call you. Raven!",
+    "Enabled": true
   },
   "102010020070005": {
     "OriginalText": "はい。まず、君達のお陰でグランの研究が進み、\n様々な事実が現在進行形で分祈、解明され、\n希望が見え始めていることを報告しましょう。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Yes. First of all, thanks to you guys progress on Gran research, \nI am Pleased to report as various facts are made clear, \nhope begins to appear.",
+    "Enabled": true
   },
   "102010020080001": {
     "OriginalText": "あたし達、そんなにすごいことしましたっけ？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Have we done amazing things?",
+    "Enabled": true
   },
   "102010020090007": {
     "OriginalText": "早速だけど次の任務も決まってるから、\n覚悟しておきなさい。",
-    "Text": "",
-    "Enabled": false
+    "Text": "It is sudden but the next mission has been decided, so be prepared.",
+    "Enabled": true
   },
   "102010020100001": {
     "OriginalText": "うっ……やな予感が……。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Ugh ...... I had a premonition ... ....",
+    "Enabled": true
   },
   "102010020110004": {
     "OriginalText": "現在、人員は[ruby ふね]艦[/ruby]の維持に必要な数を残して、\n残りはコールドスリープさせてある。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Currently, the number of people leaving is the number necessary to maintain the [ruby fleet] ship [/ ruby], \nthe rest are in cryo.",
+    "Enabled": true
   },
   "102010020120004": {
     "OriginalText": "動ける戦闘要員はお前ら４人だけだ。\nしっかり頼むぞ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "You are the only 4 personnel available. \ N ask firmly.",
+    "Enabled": true
   },
   "102010020130002": {
     "OriginalText": "了解！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Understand?",
+    "Enabled": true
   },
   "102010020140001": {
     "OriginalText": "ちょっと！？ 安請け合いしすぎ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "A little! What? I oversubscribed too much!",
+    "Enabled": true
   },
   "102010020150003": {
     "OriginalText": "わたし達だけで大丈夫でしょうか……？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Will it be okay with only us ...?",
+    "Enabled": true
   },
   "102010020160001": {
     "OriginalText": "だっ、大丈夫よ！ たぶん！",
-    "Text": "",
-    "Enabled": false
+    "Text": "It was, probably, all right!",
+    "Enabled": true
   },
   "102010020170002": {
     "OriginalText": "お前はどっちなんだよ！？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Which is which!?",
+    "Enabled": true
   },
   "102010020180001": {
     "OriginalText": "うるさいわね！ 極端なのよあんたは！",
-    "Text": "",
-    "Enabled": false
+    "Text": "You're extremely annoying!",
+    "Enabled": true
   },
   "102010020190003": {
     "OriginalText": "けんかはよくないですよ？ ね？ ね？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Is that a challange? Is it? Is it?",
+    "Enabled": true
   },
   "102010020200004": {
     "OriginalText": "やれるな？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Can't do it?",
+    "Enabled": true
   },
   "102010020205000": {
     "OriginalText": "当然！",
-    "Text": "",
-    "Enabled": false
+    "Text": "of course!",
+    "Enabled": true
   },
   "102010020210004": {
     "OriginalText": "だよな！",
-    "Text": "",
-    "Enabled": false
+    "Text": "that's right!",
+    "Enabled": true
   },
   "102010020215000": {
     "OriginalText": "やるしかないんですよね……",
-    "Text": "",
-    "Enabled": false
+    "Text": "There is no choice but to ......",
+    "Enabled": true
   },
   "102010020220004": {
     "OriginalText": "気負うな。お前らならやれる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Do not mind. You can do it.",
+    "Enabled": true
   },
   "102010020230005": {
     "OriginalText": "次の任務に関してはラボで私の助手から\n話を聞いて下さい。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Please talk to \nmy assistant in the lab for the next mission.",
+    "Enabled": true
   },
   "102010020240001": {
     "OriginalText": "ラボ？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Laboratory?",
+    "Enabled": true
   },
   "102010020250002": {
     "OriginalText": "ああ、外にあるやつだな？\nあそこに行けばいいのか。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Oh, that's the guy? \nWould you like to go over there.",
+    "Enabled": true
   },
   "102010020260005": {
     "OriginalText": "それとこれも返しておきます。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I will return as well.",
+    "Enabled": true
   },
   "102010020270001": {
     "OriginalText": "あ、ユノの宝石ですね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Oh, it is Juno's jewel.",
+    "Enabled": true
   },
   "102010020280005": {
     "OriginalText": "調べてみましたが、何も反応がなかった。\n君が持っていれば\nまた何か起きるかもしれません。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Oh, it is Juno's jewel.",
+    "Enabled": true
   },
   "102010020290001": {
     "OriginalText": "分かりました。\nユノにはお礼を言わなくちゃいけないし、\nまた会えるといいな……。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I looked, but nothing there was no reaction. \ nIf you have it \nsomething may happen again.",
+    "Enabled": true
   },
   "102010025010012": {
     "OriginalText": "初めまして、みなさん。シャロンと申します。\nレイヴァン副長の助手として\nグランの研究を担当しています。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Nice to meet you, everyone. I am Sharon. \nI am Raven's assistant in charge of Gran research as .",
+    "Enabled": true
   },
   "102010025020012": {
     "OriginalText": "みなさんのお陰で、研究がはかどっています！\n今後もよろしくお願いしますね！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Thanks to everyone, research is on the way! \nWe appreciate your continued support in the future!",
+    "Enabled": true
   },
   "102010025030001": {
     "OriginalText": "こちらこそよろしく！\nで、任務のことなんだけど……。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Thanks to everyone, would you like research\nabout the mission ....",
+    "Enabled": true
   },
   "102010025040012": {
     "OriginalText": "まずは、これを見て下さい！",
-    "Text": "",
-    "Enabled": false
+    "Text": "First of all, please look at this!",
+    "Enabled": true
   },
   "102010025050003": {
     "OriginalText": "わ、綺麗……。",
-    "Text": "",
-    "Enabled": false
+    "Text": "It's Beautiful...",
+    "Enabled": true
   },
   "102010025060001": {
     "OriginalText": "これは？",
-    "Text": "",
-    "Enabled": false
+    "Text": "this is?",
+    "Enabled": true
   },
   "102010025070012": {
     "OriginalText": "この[ruby ほし]惑星[/ruby]特有のエネルギー、\n『グラン』を結晶化したものです。",
-    "Text": "",
-    "Enabled": false
+    "Text": "It is a crystallization of energy specific to this [ruby] planet [/ ruby], \ n "Gran".",
+    "Enabled": true
   },
   "102010025080002": {
     "OriginalText": "結晶化って、これはエネルギー物質なのか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Is this crystallization an energy substance?",
+    "Enabled": true
   },
   "102010025090012": {
     "OriginalText": "ええ、グランは結晶化しやすい性質があり、\nエネルギー源として利用できそうなんです。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Yes, Gran has properties thatmake it easy to crystallize. \nIt seems to be useable as an energy source.",
+    "Enabled": true
   },
   "102010025100003": {
     "OriginalText": "つまり、グランを結晶化して\n貯蔵できるようになった……？",
