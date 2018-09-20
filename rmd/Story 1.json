@@ -1661,7 +1661,7 @@
   },
   "102000010010000": {
     "OriginalText": "第二章 「銅焔の巨獣」\nThe Demon Above Us\n（アイキャッチ[仮]）",
-    "Text": "Chapter 2 ""\The Copper Fire Dragon\" \n The Demon Above Us\n(Eye Catch [Tentative])",
+    "Text": "Chapter 2 "\"The Copper Fire Dragon\"\nThe Demon Above Us\n(Eye Catch[Tentative])",
     "Enabled": true
   },
   "102010020010004": {
@@ -1696,7 +1696,7 @@
   },
   "102010020070005": {
     "OriginalText": "はい。まず、君達のお陰でグランの研究が進み、\n様々な事実が現在進行形で分祈、解明され、\n希望が見え始めていることを報告しましょう。",
-    "Text": "Yes. First of all, thanks to you guys,\nprogress on Gran research,\nI am Pleased to report as various facts are made clear, \nhope begins to appear.",
+    "Text": "Yes. First of all, thanks to you guys,\n there is progress on Gran research,\nI am Pleased to report as various facts are made clear, \nhope begins to appear.",
     "Enabled": true
   },
   "102010020080001": {
@@ -1716,7 +1716,7 @@
   },
   "102010020110004": {
     "OriginalText": "現在、人員は[ruby ふね]艦[/ruby]の維持に必要な数を残して、\n残りはコールドスリープさせてある。",
-    "Text": "Currently, the number of people awake is the number necessary to maintain the ship, \nthe rest are in cryo.",
+    "Text": "Currently, the number of people awake is the number necessary to maintain the ship,\nthe rest are in cryo.",
     "Enabled": true
   },
   "102010020120004": {
@@ -1786,7 +1786,7 @@
   },
   "102010020230005": {
     "OriginalText": "次の任務に関してはラボで私の助手から\n話を聞いて下さい。",
-    "Text": "Please talk to my assistant in \nthe lab for the next mission.",
+    "Text": "Please talk to my assistant in\nthe lab for the next mission.",
     "Enabled": true
   },
   "102010020240001": {
@@ -1816,7 +1816,7 @@
   },
   "102010020290001": {
     "OriginalText": "分かりました。\nユノにはお礼を言わなくちゃいけないし、\nまた会えるといいな……。",
-    "Text": "I looked, but nothing there was no reaction.\nIf you have it \nsomething may happen again.",
+    "Text": "I looked, but nothing there was no reaction.\nIf you have it something may happen again.",
     "Enabled": true
   },
   "102010025010012": {
@@ -1851,7 +1851,7 @@
   },
   "102010025070012": {
     "OriginalText": "この[ruby ほし]惑星[/ruby]特有のエネルギー、\n『グラン』を結晶化したものです。",
-    "Text": "It is a crystallization of energy specific to this planet,\n"Gran".",
+    "Text": "It is a crystallization of energy specific to this planet,\n\"Gran\".",
     "Enabled": true
   },
   "102010025080002": {
