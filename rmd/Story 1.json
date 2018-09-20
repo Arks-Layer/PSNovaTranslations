@@ -1636,7 +1636,7 @@
   },
   "101030010070001": {
     "OriginalText": "とはいえ、状況は最悪。\n水と食料も備蓄は少なさそうだし、[ruby ふね]艦[/ruby]の機能も\n残り少ないエネルギーで何とか動いてるだけ。",
-    "Text": "However, the situation is the worse.\nThere is limited water and food, and the ship only works only with photons\ n.",
+    "Text": "However, the situation is the worse.\nThere is limited water and food, and \nthe ship only works only with photons.",
     "Enabled": true
   },
   "101030010080001": {
