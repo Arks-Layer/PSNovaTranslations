@@ -1626,7 +1626,7 @@
   },
   "101030010050001": {
     "OriginalText": "だけどあたしが偶然見つけた宝石から\n謎の少女の立体映像が現れて、グランとかいう\nフォトンに似た力を扱えるようになりました。",
-    "Text": "However, by chance, we were granted the\nability to use a new source of energy called\nGran, by a strange holographic image of a girl.",
+    "Text": "However, by chance, we were granted the\nability to use a new source of energy called \nGran, by a strange holographic image of a girl.",
     "Enabled": true
   },
   "101030010060001": {
@@ -1636,32 +1636,32 @@
   },
   "101030010070001": {
     "OriginalText": "とはいえ、状況は最悪。\n水と食料も備蓄は少なさそうだし、[ruby ふね]艦[/ruby]の機能も\n残り少ないエネルギーで何とか動いてるだけ。",
-    "Text": "However, the situation is the worse. \nThere is limited water and food, and the [ruby fleet] ship [/ ruby] only works only with photons\ n.",
+    "Text": "However, the situation is the worse.\nThere is limited water and food, and the ship only works only with photons\ n.",
     "Enabled": true
   },
   "101030010080001": {
     "OriginalText": "フォトンドライブは完全に壊れてるみたい。",
-    "Text": "The Photon Drive seems to be completely\nbroken.",
+    "Text": "The Photon Drive seems to be completely \nbroken.",
     "Enabled": true
   },
   "101030010090001": {
     "OriginalText": "あたし達、ずっとこの[ruby ほし]惑星[/ruby]で\n暮らすことになるかも……？\nいやいや、その前に生き延びられるのかな！？",
-    "Text": "We might be stuck \Nwith this [ruby hoshi] planet [/ ruby] ... ...? No, no I can live with that! What?",
+    "Text": "We might be stuck \Nwith this planet ... ...? No, no I can live with that! What?",
     "Enabled": true
   },
   "101030010100001": {
     "OriginalText": "力一杯頑張るけど……不安です。\nものすごーく不安です！",
-    "Text": "I will try my hardest though ... ... I am anxious. \N It is terribly unsettling!",
+    "Text": "I will try my hardest though ... ... I am anxious.\n It is terribly unsettling!",
     "Enabled": true
   },
   "101030010110001": {
     "OriginalText": "でも、[ruby]相棒[/ruby]と一緒だし、\nそれは心強い、かも……？",
-    "Text": "But [ruby]with my partner [/ ruby], \nit is encouraging, maybe ......?",
+    "Text": "But with my partner, \nit is encouraging, maybe ......?",
     "Enabled": true
   },
   "102000010010000": {
     "OriginalText": "第二章 「銅焔の巨獣」\nThe Demon Above Us\n（アイキャッチ[仮]）",
-    "Text": "Chapter 2 ""The Copper Fire Beast" \nThe Demon Above Us \n(Eye Catch [Tentative])",
+    "Text": "Chapter 2 ""The Copper Fire Beas"\nThe Demon Above Us\n(Eye Catch [Tentative])",
     "Enabled": true
   },
   "102010020010004": {
@@ -1676,12 +1676,12 @@
   },
   "102010020030004": {
     "OriginalText": "トレーニングルームに行くヒマがねえんだよ。\n艦長は忙しいんでな。",
-    "Text": "I do not have time to go to the training room. \ N The captain is busy.",
+    "Text": "I do not have time to go to the training room.\mThe captain is busy.",
     "Enabled": true
   },
   "102010020040002": {
     "OriginalText": "これが艦長の『[ruby ーニ・]明紅[/ruby]』……美しい。",
-    "Text": "This is the captain 's [ruby - ni] light clan [/ ruby] ... ... beautiful.",
+    "Text": "This is the captain 'si dinner ... ... Its beautiful.",
     "Enabled": true
   },
   "102010020050003": {
@@ -1696,7 +1696,7 @@
   },
   "102010020070005": {
     "OriginalText": "はい。まず、君達のお陰でグランの研究が進み、\n様々な事実が現在進行形で分祈、解明され、\n希望が見え始めていることを報告しましょう。",
-    "Text": "Yes. First of all, thanks to you guys progress on Gran research, \nI am Pleased to report as various facts are made clear, \nhope begins to appear.",
+    "Text": "Yes. First of all, thanks to you guys progress on Gran research,\nI am Pleased to report as various facts are made clear, \nhope begins to appear.",
     "Enabled": true
   },
   "102010020080001": {
@@ -1716,12 +1716,12 @@
   },
   "102010020110004": {
     "OriginalText": "現在、人員は[ruby ふね]艦[/ruby]の維持に必要な数を残して、\n残りはコールドスリープさせてある。",
-    "Text": "Currently, the number of people leaving is the number necessary to maintain the [ruby fleet] ship [/ ruby], \nthe rest are in cryo.",
+    "Text": "Currently, the number of people awake is the number necessary to maintain the ship, \nthe rest are in cryo.",
     "Enabled": true
   },
   "102010020120004": {
     "OriginalText": "動ける戦闘要員はお前ら４人だけだ。\nしっかり頼むぞ。",
-    "Text": "You are the only 4 personnel available. \ N ask firmly.",
+    "Text": "You are the only 4 personnel available. \I will not ask again.",
     "Enabled": true
   },
   "102010020130002": {
@@ -1786,7 +1786,7 @@
   },
   "102010020230005": {
     "OriginalText": "次の任務に関してはラボで私の助手から\n話を聞いて下さい。",
-    "Text": "Please talk to \nmy assistant in the lab for the next mission.",
+    "Text": "Please talk to my assistant in \nthe lab for the next mission.",
     "Enabled": true
   },
   "102010020240001": {
@@ -1796,7 +1796,7 @@
   },
   "102010020250002": {
     "OriginalText": "ああ、外にあるやつだな？\nあそこに行けばいいのか。",
-    "Text": "Oh, that's the guy? \nWould you like to go over there.",
+    "Text": "Oh, that's the guy?\nWould you like to go over there.",
     "Enabled": true
   },
   "102010020260005": {
@@ -1816,7 +1816,7 @@
   },
   "102010020290001": {
     "OriginalText": "分かりました。\nユノにはお礼を言わなくちゃいけないし、\nまた会えるといいな……。",
-    "Text": "I looked, but nothing there was no reaction. \ nIf you have it \nsomething may happen again.",
+    "Text": "I looked, but nothing there was no reaction.\nIf you have it \nsomething may happen again.",
     "Enabled": true
   },
   "102010025010012": {
@@ -1851,7 +1851,7 @@
   },
   "102010025070012": {
     "OriginalText": "この[ruby ほし]惑星[/ruby]特有のエネルギー、\n『グラン』を結晶化したものです。",
-    "Text": "It is a crystallization of energy specific to this [ruby] planet [/ ruby], \ n "Gran".",
+    "Text": "It is a crystallization of energy specific to this [ruby] planet [/ ruby],\n"Gran".",
     "Enabled": true
   },
   "102010025080002": {
