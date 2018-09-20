@@ -1646,7 +1646,7 @@
   },
   "101030010090001": {
     "OriginalText": "あたし達、ずっとこの[ruby ほし]惑星[/ruby]で\n暮らすことになるかも……？\nいやいや、その前に生き延びられるのかな！？",
-    "Text": "We might be stuck \Nwith this planet ... ...? No, no I can live with that! What?",
+    "Text": "We might be stuck \nwith this planet ... ...?\n No, no I can live with that! What?",
     "Enabled": true
   },
   "101030010100001": {
@@ -1656,7 +1656,7 @@
   },
   "101030010110001": {
     "OriginalText": "でも、[ruby]相棒[/ruby]と一緒だし、\nそれは心強い、かも……？",
-    "Text": "But with my partner, \nit is encouraging, maybe ......?",
+    "Text": "But with my partner,\nit is encouraging, maybe ......?",
     "Enabled": true
   },
   "102000010010000": {
@@ -1676,7 +1676,7 @@
   },
   "102010020030004": {
     "OriginalText": "トレーニングルームに行くヒマがねえんだよ。\n艦長は忙しいんでな。",
-    "Text": "I do not have time to go to the training room.\mThe captain is busy.",
+    "Text": "I do not have time to go to the training room.\nThe captain is busy.",
     "Enabled": true
   },
   "102010020040002": {
@@ -1696,7 +1696,7 @@
   },
   "102010020070005": {
     "OriginalText": "はい。まず、君達のお陰でグランの研究が進み、\n様々な事実が現在進行形で分祈、解明され、\n希望が見え始めていることを報告しましょう。",
-    "Text": "Yes. First of all, thanks to you guys progress on Gran research,\nI am Pleased to report as various facts are made clear, \nhope begins to appear.",
+    "Text": "Yes. First of all, thanks to you guys,\nprogress on Gran research,\nI am Pleased to report as various facts are made clear, \nhope begins to appear.",
     "Enabled": true
   },
   "102010020080001": {
@@ -1721,7 +1721,7 @@
   },
   "102010020120004": {
     "OriginalText": "動ける戦闘要員はお前ら４人だけだ。\nしっかり頼むぞ。",
-    "Text": "You are the only 4 personnel available. \I will not ask again.",
+    "Text": "You are the only 4 personnel available.\nI will not ask again.",
     "Enabled": true
   },
   "102010020130002": {
@@ -1821,17 +1821,17 @@
   },
   "102010025010012": {
     "OriginalText": "初めまして、みなさん。シャロンと申します。\nレイヴァン副長の助手として\nグランの研究を担当しています。",
-    "Text": "Nice to meet you, everyone. I am Sharon. \nI am Raven's assistant in charge of Gran research as .",
+    "Text": "Nice to meet you, everyone. I am Sharon.\nI am Raven's assistant in charge of Gran research as .",
     "Enabled": true
   },
   "102010025020012": {
     "OriginalText": "みなさんのお陰で、研究がはかどっています！\n今後もよろしくお願いしますね！",
-    "Text": "Thanks to everyone, research is on the way! \nWe appreciate your continued support in the future!",
+    "Text": "Thanks to everyone, research is on the way!\nWe appreciate your continued support in the future!",
     "Enabled": true
   },
   "102010025030001": {
     "OriginalText": "こちらこそよろしく！\nで、任務のことなんだけど……。",
-    "Text": "Thanks to everyone, would you like research\nabout the mission ....",
+    "Text": "Thanks to everyone, would you like to research\nabout the mission ....",
     "Enabled": true
   },
   "102010025040012": {
@@ -1851,7 +1851,7 @@
   },
   "102010025070012": {
     "OriginalText": "この[ruby ほし]惑星[/ruby]特有のエネルギー、\n『グラン』を結晶化したものです。",
-    "Text": "It is a crystallization of energy specific to this [ruby] planet [/ ruby],\n"Gran".",
+    "Text": "It is a crystallization of energy specific to this planet,\n"Gran".",
     "Enabled": true
   },
   "102010025080002": {
@@ -1861,7 +1861,7 @@
   },
   "102010025090012": {
     "OriginalText": "ええ、グランは結晶化しやすい性質があり、\nエネルギー源として利用できそうなんです。",
-    "Text": "Yes, Gran has properties thatmake it easy to crystallize. \nIt seems to be useable as an energy source.",
+    "Text": "Yes, Gran has properties thatmake it easy to crystallize.\nIt seems to be useable as an energy source.",
     "Enabled": true
   },
   "102010025100003": {
