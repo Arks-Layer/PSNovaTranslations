@@ -246,7 +246,7 @@
   },
   "100010035060004": {
     "OriginalText": "隊長の前で敬礼拒否とはいい度胸だな！",
-    "Text": "You sure have guts,\nnot saluting to your captain!",
+    "Text": "You sure have guts, not saluting your captain!",
     "Enabled": true
   },
   "100010035070001": {
@@ -256,7 +256,7 @@
   },
   "100010035080004": {
     "OriginalText": "声が裏返ってるぞ。オレはフィルディアだ！",
-    "Text": "You're too loud. It's Captain Fildia!",
+    "Text": "You're too loud, and it's Captain Fildia!",
     "Enabled": true
   },
   "100010035090001": {
@@ -586,12 +586,12 @@
   },
   "101010020060004": {
     "OriginalText": "惑星探査隊は観光じゃないんだぞ。\n事故も戦死も覚悟の上さ。\nもっとも、戦う前に死ぬのはやりきれないがな。",
-    "Text": "This isn't a sightseeing trip,\nthey were prepared to die.\nThough, dying before even seeing battle...",
+    "Text": "This isn't a sightseeing trip,they were\nprepared to die. Though, dying before\neven seeing battle...",
     "Enabled": true
   },
   "101010020070004": {
     "OriginalText": "問題は[ruby ふね]艦[/ruby]の方だ。\nフォトンドライブが完全に死んで、\nまったく動かないらしい。",
-    "Text": "As for the ship,\nthe Photon Drive is completely dead.\nIt can't move at all.",
+    "Text": "As for the ship,the Photon Drive is\ncompletely dead. It can't move at all.",
     "Enabled": true
   },
   "101010020080001": {
@@ -606,12 +606,12 @@
   },
   "101010020100004": {
     "OriginalText": "[ruby ふね]艦[/ruby]の設備が全部機能しないケースも考えて、\nこうして[ruby せんがい]艦外[/ruby]に野営地を作るってことは、\nかなりまずいんだろうな。",
-    "Text": "Then there's the fact that the\nship's facilities aren't operational.\nWe will have to set up camp outside the ship.",
+    "Text": "Then there's the fact that the ship's\nfacilities aren't operational. We will\nhave to set up camp outside the ship.",
     "Enabled": true
   },
   "101010020110004": {
     "OriginalText": "マグナス艦長は先遣隊を率いて\n周辺地域の調査に出ている。\nこの[ruby ほし]惑星[/ruby]に文明はないと聞いているが……。",
-    "Text": "Captain Magnus left with a survey team earlier.\nThough I've heard there are no civilizations on the planet...",
+    "Text": "Captain Magnus left with a survey team\nearlier. Though I've heard there are\nno civilizations on the planet...",
     "Enabled": true
   },
   "101010020120051": {
@@ -626,7 +626,7 @@
   },
   "101010020140051": {
     "OriginalText": "先遣隊がダーカーと接触、\n交戦を開始したのですが、\nフォトンが！ フォトンが使えません！",
-    "Text": "The survey team has encountered a group of Darkers!\nA fight broke out but...\nThey- they can't use Photons!",
+    "Text": "The survey team has encountered a group\nof Darkers! A fight broke out but...\nTh-they can't use Photons!",
     "Enabled": true
   },
   "101010020150004": {
@@ -636,7 +636,7 @@
   },
   "101010020160051": {
     "OriginalText": "武器もフォトンアーツも使えないんです！\nマグナス艦長を中心に防衛線を展開し、\n撤退を開始していますが、長くは保ちません！",
-    "Text": "Their weapons are no good too!\nThey're holding around the Captain, attempting retreat,\nbut they won't last long like this!",
+    "Text": "Their weapons are no good too! They're\nholding around the Captain, attempting\nretreat, but they won't last long like this!",
     "Enabled": true
   },
   "101010020170051": {
@@ -651,7 +651,7 @@
   },
   "101010020190004": {
     "OriginalText": "おい！ 近くにいる戦闘員で\n戦える者はオレに続け！\n先遣隊の救援に行くぞ！",
-    "Text": "Hey! Anyone around that can still fight, follow me!\nWe're going to save the survey team!",
+    "Text": "Hey! Anyone around that can still\nfight, follow me! We're going to\nsave the survey team!",
     "Enabled": true
   },
   "101010020200052": {
