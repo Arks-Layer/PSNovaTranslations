@@ -4341,13 +4341,13 @@
   },
   "340360": {
     "OriginalText": "女性キャスト向けの腕部パーツ。\nあらゆる環境下で感応性を高める\nデザインで、フォースに人気が高い。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Arm parts for female Casts. A\npopular design among Forces for its\nsensitivity to atmospheric Photons.",
+    "Enabled": true
   },
   "340361": {
     "OriginalText": "女性キャスト向けの腕部パーツ。\nバランスの良いデザインをしており\n愛用者も多く、安定した人気を誇る。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Arm parts for female Casts. These\npopular parts have a well-balanced\ndesign, with a ever growing fanbase.",
+    "Enabled": true
   },
   "340362": {
     "OriginalText": "女性キャスト向けの腕部パーツ。\n大火力に押し負けぬよう、伝甲を厚く\n重量を重くした火力戦用伝備。",
@@ -4576,13 +4576,13 @@
   },
   "340407": {
     "OriginalText": "女性キャスト向けの基礎的なパーツ。\nあらゆる環境下で感応性を高める\nデザインで、フォースに人気が高い。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Core parts for female Casts. A\npopular design among Forces for its\nsensitivity to atmospheric Photons.",
+    "Enabled": true
   },
   "340408": {
     "OriginalText": "女性キャスト向けの基礎的なパーツ。\nバランスの良いデザインをしており\n愛用者も多く、安定した人気を誇る。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Core parts for female Casts. These\npopular parts have a well-balanced\ndesign, with a ever growing fanbase.",
+    "Enabled": true
   },
   "340409": {
     "OriginalText": "女性キャスト向けの基礎的なパーツ。\n大火力に押し負けぬよう、伝甲を厚く\n重量を重くした火力戦用伝備。",
@@ -4811,13 +4811,13 @@
   },
   "340454": {
     "OriginalText": "女性キャスト向けの脚部パーツ。\nあらゆる環境下で感応性を高める\nデザインで、フォースに人気が高い。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Leg parts for female Casts. A\npopular design among Forces for its\nsensitivity to atmospheric Photons.",
+    "Enabled": true
   },
   "340455": {
     "OriginalText": "女性キャスト向けの脚部パーツ。\nバランスの良いデザインをしており\n愛用者も多く、安定した人気を誇る。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Leg parts for female Casts. These\npopular parts have a well-balanced\ndesign, with a ever growing fanbase.",
+    "Enabled": true
   },
   "340456": {
     "OriginalText": "女性キャスト向けの脚部パーツ。\n大火力に押し負けぬよう、伝甲を厚く\n重量を重くした火力戦用伝備。",
