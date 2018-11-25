@@ -86,17 +86,17 @@
   },
   "100010020080008": {
     "OriginalText": "当艦には２０００人のクルーがいます。\nそのうちの９０％がコールドスリープ状態で\n探査する惑星付近まで運ばれます。",
-    "Text": "There're approximately 2,000 crew members onboard.\n90% of which are in cold sleep until we've arrived.",
+    "Text": "There're approximately 2,000 crew members\nonboard. 90% of which are in cold sleep\nuntil we've arrived.",
     "Enabled": true
   },
   "100010020090008": {
     "OriginalText": "当艦には１０００人のクルーがいます。\nそのうちの９０％がコールドスリープ状態で\n探査する惑星付近まで運ばれます。",
-    "Text": "There're approximately 1,000 crew members onboard.\n90% of which are in cold sleep until we've arrived.",
+    "Text": "There're approximately 1,000 crew members\nonboard. 90% of which are in cold sleep\nuntil we've arrived.",
     "Enabled": true
   },
   "100010020100008": {
     "OriginalText": "当艦には５００人のクルーがいます。\nそのうちの９０％がコールドスリープ状態で\n探査する惑星付近まで運ばれます。",
-    "Text": "There're approximately 500 crew members onboard.\n90% of which are in cold sleep until we've arrived.",
+    "Text": "There're approximately 500 crew members\nonboard. 90% of which are in cold sleep\nuntil we've arrived.",
     "Enabled": true
   },
   "100010020110008": {
