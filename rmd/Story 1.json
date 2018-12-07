@@ -66,17 +66,17 @@
   },
   "100010020040008": {
     "OriginalText": "私はアークス特殊惑星探査隊オルター所属艦、\nデルタ・ヴァリアントのメディカルスタッフ、\nリーティアと申します。",
-    "Text": "This ship is the \"Delta Valiant\". We're the ARKS Special Planetary Exploration Team, \"Alter\". I'm Rietheia, I'm with the medical staff.",
+    "Text": "This ship is the \"Delta Valiant\". We're the\nARKS Special Planetary Exploration Team, \"Alter\".\nI'm Rietheia, I'm with the medical staff.",
     "Enabled": true
   },
   "100010020050008": {
     "OriginalText": "これより、簡単な記憶確認を行います。",
-    "Text": "Let's check to ensure that your memories\nare in working order.",
+    "Text": "Let's check to ensure that your memory\nis in working order.",
     "Enabled": true
   },
   "100010020060008": {
     "OriginalText": "あなたは現在、アークス特殊惑星探査隊\nオルターの戦闘部隊に所属し、新たに\n発見された惑星、マキアへ向かっています。",
-    "Text": "You are the newest member of the ARKS Special Planetary\nExploration Group \"Alter\". We are heading for the newly\ndiscovered planet, Makhia.",
+    "Text": "You're the newest member of the ARKS Special\nPlanetary Exploration Team \"Alter\". We're\nheading for the newly discovered planet, Makhia.",
     "Enabled": true
   },
   "100010020070008": {
@@ -121,7 +121,7 @@
   },
   "100010020150008": {
     "OriginalText": "記憶に問題がなければ\nフィジカルチェックに進み、出撃準備後\nブリーフィングに参加してください。",
-    "Text": "Your memory appears to be fine!\nPlease proceed to your physical checkup\nand promptly to briefing.",
+    "Text": "Your memory appears to be fine! Please\nproceed to your physical checkup and\npromptly to briefing.",
     "Enabled": true
   },
   "100010020160008": {
@@ -151,32 +151,32 @@
   },
   "100010020190008": {
     "OriginalText": "問題はなさそうですね？",
-    "Text": "Therefore, it doesn't seem likely...?",
+    "Text": "There seems to be no problems, right?",
     "Enabled": true
   },
   "100010020200008": {
     "OriginalText": "よかった！ 脳までちゃんと\n解凍できているみたいですね！",
-    "Text": "Everything looks good to me!\nNothing to worry about.",
+    "Text": "Nothing to worry about. Everything\nlooks good to me!",
     "Enabled": true
   },
   "100010020210008": {
     "OriginalText": "ここだけの話、たまに失敗もあるんですよ……。",
-    "Text": "Every once in a while, the process\ndoesn't go right, and...",
+    "Text": "Every once in a while, the process doesn't\ngo right, and...",
     "Enabled": true
   },
   "100010020220008": {
     "OriginalText": "そっ、それでもだいたいは\n大丈夫なんですけどね！",
-    "Text": "A-anyway, the point is that you\nmade it safe and sound!",
+    "Text": "A-anyway, the point is that you made it\nsafe and sound!",
     "Enabled": true
   },
   "100010020230008": {
     "OriginalText": "驚きましたか？ 今のは感情のチェックです。\nあなたの感情は正常なようですね。\nふふっ、メンタルチェック、完了です！",
-    "Text": "Did I scare you? Good! I was checking on your\nemotions. It seems they are in order.\nHaha, mental check complete!",
+    "Text": "Did I scare you? Good! I was checking on\nyour emotions. It seems they are in order.\nHaha, mental check complete!",
     "Enabled": true
   },
   "100010020240008": {
     "OriginalText": "それではトレーニングルームへ\n移動してください。",
-    "Text": "Well then!\nPlease proceed to the training room.",
+    "Text": "Well then! Please proceed to the training\nroom.",
     "Enabled": true
   },
   "100010020250008": {
@@ -206,12 +206,12 @@
   },
   "100010030030004": {
     "OriginalText": "早速だが、お前の健康状態と\n戦闘技術を確認させてもらう。",
-    "Text": "I know it's sudden, but I'd like to\ndo a quick check of your health\nand combat readiness.",
+    "Text": "I know it's sudden, but I'd like to do\na quick check of your health and combat\nreadiness.",
     "Enabled": true
   },
   "100010030040004": {
     "OriginalText": "寝起きで体も鈍ってるだろうから、\n難しいことをやれとは言わねえ。\n軽くいけ、軽く、な。",
-    "Text": "I'm sure that your body is slow\nand tired from the cold sleep,\nso take it easy.",
+    "Text": "I'm sure that your body is slow and tired\nfrom the cold sleep, so take it easy.",
     "Enabled": true
   },
   "100010032010000": {
@@ -266,7 +266,7 @@
   },
   "100010035100004": {
     "OriginalText": "気楽にやるんじゃなかったのかー？",
-    "Text": "Sounds like you're forcing yourself.",
+    "Text": "Sounds like you're nervous.",
     "Enabled": true
   },
   "100010035110001": {
