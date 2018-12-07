@@ -7,7 +7,7 @@
   "260076": {
     "OriginalText": "ブリッジより通達。\nフィルディア艦長より指示あり。\n早急にブリッジへの出頭を要請する。",
     "Text": "Announcement from the Bridge. The Commanding\nOfficer, Fildia, requests your presence on the\nbridge as soon as possible.",
-    "Enabled": false
+    "Enabled": true
   },
   "260077": {
     "OriginalText": "ブリッジより通達。\nコールドスリープルームへの\n出頭を要請する。",
@@ -127,7 +127,7 @@
   "260100": {
     "OriginalText": "どうしたよ？",
     "Text": "What's wrong?",
-    "Enabled": false
+    "Enabled": true
   },
   "260101": {
     "OriginalText": "用事か？",
@@ -137,52 +137,52 @@
   "260102": {
     "OriginalText": "ふん……。",
     "Text": "Hmm...",
-    "Enabled": false
+    "Enabled": true
   },
   "260103": {
     "OriginalText": "何だ？",
     "Text": "What?",
-    "Enabled": false
+    "Enabled": true
   },
   "260104": {
     "OriginalText": "よう！",
     "Text": "Hey!",
-    "Enabled": false
+    "Enabled": true
   },
   "260105": {
     "OriginalText": "あばよ。",
     "Text": "Bye.",
-    "Enabled": false
+    "Enabled": true
   },
   "260106": {
     "OriginalText": "じゃあな！",
     "Text": "See ya!",
-    "Enabled": false
+    "Enabled": true
   },
   "260107": {
     "OriginalText": "また来いよな！",
     "Text": "Come again!",
-    "Enabled": false
+    "Enabled": true
   },
   "260108": {
     "OriginalText": "しっかりな！",
     "Text": "Steady!",
-    "Enabled": false
+    "Enabled": true
   },
   "260109": {
     "OriginalText": "ありがとよ！！",
     "Text": "Thank you!!",
-    "Enabled": false
+    "Enabled": true
   },
   "260110": {
     "OriginalText": "どうしました？",
     "Text": "What's wrong?",
-    "Enabled": false
+    "Enabled": true
   },
   "260111": {
     "OriginalText": "私に用ですか？",
     "Text": "Is that for me?",
-    "Enabled": false
+    "Enabled": true
   },
   "260112": {
     "OriginalText": "……（ん？という感じで軽く）。",
@@ -192,17 +192,17 @@
   "260113": {
     "OriginalText": "何だ？",
     "Text": "What?",
-    "Enabled": false
+    "Enabled": true
   },
   "260114": {
     "OriginalText": "君か。",
     "Text": "You?",
-    "Enabled": false
+    "Enabled": true
   },
   "260115": {
     "OriginalText": "話は終わりだ。",
     "Text": "The end of the story.",
-    "Enabled": false
+    "Enabled": true
   },
   "260116": {
     "OriginalText": "いきたまえ。",
@@ -517,7 +517,7 @@
   "260178": {
     "OriginalText": "お願いします。",
     "Text": "Please.",
-    "Enabled": false
+    "Enabled": true
   },
   "260179": {
     "OriginalText": "ありがとうごいました。",
@@ -527,7 +527,7 @@
   "260180": {
     "OriginalText": "どうした？",
     "Text": "What happened?",
-    "Enabled": false
+    "Enabled": true
   },
   "260181": {
     "OriginalText": "オレに用か？",
@@ -537,17 +537,17 @@
   "260182": {
     "OriginalText": "ん？",
     "Text": "Hmm?",
-    "Enabled": false
+    "Enabled": true
   },
   "260183": {
     "OriginalText": "おう！",
     "Text": "Oh!",
-    "Enabled": false
+    "Enabled": true
   },
   "260184": {
     "OriginalText": "よう！",
     "Text": "Yo!",
-    "Enabled": false
+    "Enabled": true
   },
   "260185": {
     "OriginalText": "ちゃんと働けよ。",
@@ -562,7 +562,7 @@
   "260187": {
     "OriginalText": "またな！",
     "Text": "See you!",
-    "Enabled": false
+    "Enabled": true
   },
   "260188": {
     "OriginalText": "頼むぞ！",
@@ -572,12 +572,12 @@
   "260189": {
     "OriginalText": "よくやった！",
     "Text": "Well done!",
-    "Enabled": false
+    "Enabled": true
   },
   "260190": {
     "OriginalText": "何でしょうか？",
     "Text": "What?",
-    "Enabled": false
+    "Enabled": true
   },
   "260191": {
     "OriginalText": "私に、何か？",
@@ -587,17 +587,17 @@
   "260192": {
     "OriginalText": "あ……。",
     "Text": "Ah...",
-    "Enabled": false
+    "Enabled": true
   },
   "260193": {
     "OriginalText": "どうも。",
     "Text": "Thanks.",
-    "Enabled": false
+    "Enabled": true
   },
   "260194": {
     "OriginalText": "ごきげんよう。",
     "Text": "Have a nice day.",
-    "Enabled": false
+    "Enabled": true
   },
   "260195": {
     "OriginalText": "では……。",
@@ -607,17 +607,17 @@
   "260196": {
     "OriginalText": "さようなら。",
     "Text": "Goodbye.",
-    "Enabled": false
+    "Enabled": true
   },
   "260197": {
     "OriginalText": "また、来て下さい。",
     "Text": "Please come again.",
-    "Enabled": false
+    "Enabled": true
   },
   "260198": {
     "OriginalText": "お願いします。",
     "Text": "Please.",
-    "Enabled": false
+    "Enabled": true
   },
   "260199": {
     "OriginalText": "ありがとうごいました。",
@@ -627,7 +627,7 @@
   "260200": {
     "OriginalText": "どうしたの？",
     "Text": "What's wrong?",
-    "Enabled": false
+    "Enabled": true
   },
   "260201": {
     "OriginalText": "ご用かしら？",
@@ -637,37 +637,37 @@
   "260202": {
     "OriginalText": "ん……？",
     "Text": "Hmm...?",
-    "Enabled": false
+    "Enabled": true
   },
   "260203": {
     "OriginalText": "あら……。",
     "Text": "Oh...",
-    "Enabled": false
+    "Enabled": true
   },
   "260204": {
     "OriginalText": "なあに？",
     "Text": "What?",
-    "Enabled": false
+    "Enabled": true
   },
   "260205": {
     "OriginalText": "仕事に戻りなさい。",
     "Text": "Get back to work.",
-    "Enabled": false
+    "Enabled": true
   },
   "260206": {
     "OriginalText": "さよなら。",
     "Text": "Goodbye.",
-    "Enabled": false
+    "Enabled": true
   },
   "260207": {
     "OriginalText": "またね。",
     "Text": "See you.",
-    "Enabled": false
+    "Enabled": true
   },
   "260208": {
     "OriginalText": "よろしく。",
     "Text": "Nice to meet you.",
-    "Enabled": false
+    "Enabled": true
   },
   "260209": {
     "OriginalText": "やるじゃない。",
@@ -682,32 +682,32 @@
   "260211": {
     "OriginalText": "何でしょう？",
     "Text": "What is it?",
-    "Enabled": false
+    "Enabled": true
   },
   "260212": {
     "OriginalText": "あ……。",
     "Text": "Ah...",
-    "Enabled": false
+    "Enabled": true
   },
   "260213": {
     "OriginalText": "あ、どうも。",
     "Text": "Oh, thanks.",
-    "Enabled": false
+    "Enabled": true
   },
   "260214": {
     "OriginalText": "元気ですか！",
     "Text": "How are you!",
-    "Enabled": false
+    "Enabled": true
   },
   "260215": {
     "OriginalText": "では、また。",
     "Text": "See ya.",
-    "Enabled": false
+    "Enabled": true
   },
   "260216": {
     "OriginalText": "健康第一ですよ！",
     "Text": "Health first!",
-    "Enabled": false
+    "Enabled": true
   },
   "260217": {
     "OriginalText": "またお話しましょうね！",
@@ -722,7 +722,7 @@
   "260219": {
     "OriginalText": "ありがとうごいます！",
     "Text": "Thank you very much!",
-    "Enabled": false
+    "Enabled": true
   },
   "260220": {
     "OriginalText": "どういったご用件でしょうか？",
@@ -732,12 +732,12 @@
   "260221": {
     "OriginalText": "調子はよさそうですね。",
     "Text": "You seem to be doing fine.",
-    "Enabled": false
+    "Enabled": true
   },
   "260222": {
     "OriginalText": "あ……。",
     "Text": "Ah...",
-    "Enabled": false
+    "Enabled": true
   },
   "260223": {
     "OriginalText": "何か？",
@@ -747,7 +747,7 @@
   "260224": {
     "OriginalText": "どうも！",
     "Text": "Thanks!",
-    "Enabled": false
+    "Enabled": true
   },
   "260225": {
     "OriginalText": "では、これで。",
@@ -757,7 +757,7 @@
   "260226": {
     "OriginalText": "ごきげんよう。",
     "Text": "Have a nice day.",
-    "Enabled": false
+    "Enabled": true
   },
   "260227": {
     "OriginalText": "また来て下さいね。",
