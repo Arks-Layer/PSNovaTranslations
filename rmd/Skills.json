@@ -2381,7 +2381,7 @@
   },
   "60246": {
     "OriginalText": "テリトリーバースト中、\nＧＰ消費量が２０％滅少する。",
-    "Text": "Reduces GP oonsumption of support techs\nduring Territory Burst. Only takes\neffect if Territory Burst is learnt.",
+    "Text": "Reduces GP consumption of support techs\nduring Territory Burst. Only takes\neffect if Territory Burst is learnt.",
     "Enabled": true
   },
   "60247": {
