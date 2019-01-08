@@ -3266,17 +3266,17 @@
   },
   "820256": {
     "OriginalText": "ダメージを受けたとき\n１５％の確率で玄け反らなくなる。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "When receiving damage there is a\n15% chance nullifying hate accumulation.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
+    "Text": "When receiving damage, there is a 15% \nchance nullifying hate accumulation.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
     "Enabled": true
   },
   "820257": {
     "OriginalText": "ダメージを受けたとき\n２０％の確率で玄け反らなくなる。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "When receiving damage there is a\n20% chance nullifying hate accumulation.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
+    "Text": "When receiving damage, there is a 20% \nchance nullifying hate accumulation.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
     "Enabled": true
   },
   "820258": {
     "OriginalText": "ダメージを受けたとき\n２５％の確率で玄け反らなくなる。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "When receiving damage there is a\n25% chance nullifying hate accumulation.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
+    "Text": "When receiving damage, there is a 25% \nchance nullifying hate accumulation.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
     "Enabled": true
   },
   "820259": {
@@ -3506,7 +3506,7 @@
   },
   "820304": {
     "OriginalText": "攻撃のアクション速度が１０％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "The action speed of attack increases by 10%.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
+    "Text": "The action speed of attack increases \nby 10%.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
     "Enabled": true
   },
   "820305": {
@@ -3516,12 +3516,12 @@
   },
   "820308": {
     "OriginalText": "あらゆるダメージを３０％の確率で\n１０％軽滅する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "30% chance to reduce 10% all\ndamage.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
+    "Text": "30% chance that 10% of all damage will \nbe reduced.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
     "Enabled": true
   },
   "820309": {
     "OriginalText": "あらゆるダメージを４０％の確率で\n１０％軽滅する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "40% chance to reduce 10% all\ndamage.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
+    "Text": "40% chance that 10% of all damage will \nbe reduced.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
     "Enabled": true
   },
   "820310": {
@@ -3536,17 +3536,17 @@
   },
   "820312": {
     "OriginalText": "打撃で与えたダメージの１５％を\n１５％の確率でＨＰとして吸収する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "15% chance to absorb 15% striking\ndamage.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
+    "Text": "15% chance to absorb 15% striking\ndamage as HP.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
     "Enabled": true
   },
   "820313": {
     "OriginalText": "打撃で与えたダメージの１５％を\n２５％の確率でＨＰとして吸収する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "25% chance to absorb 15% striking\ndamage.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
+    "Text": "25% chance to absorb 15% striking\ndamage as HP.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
     "Enabled": true
   },
   "820314": {
     "OriginalText": "打撃で与えたダメージの１５％を\n３５％の確率でＨＰとして吸収する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "35% chance to absorb 15% striking\ndamage.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
+    "Text": "35% chance to absorb 15% striking\ndamage as HP.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
     "Enabled": true
   },
   "820315": {
@@ -3596,12 +3596,12 @@
   },
   "820324": {
     "OriginalText": "射撃攻撃時\nクリティカル率が５％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "During the shooting attack\ncritical rate increases by 5%.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
+    "Text": "During shooting attacks, critical hit \nrate increases by 5%.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
     "Enabled": true
   },
   "820325": {
     "OriginalText": "テクニック攻撃時\nクリティカル率が５％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "When the technique attack\ncritical rate increases by 5%.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
+    "Text": "During technique attacks, critical hit \nrate increases by 5%.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
     "Enabled": true
   },
   "820326": {
@@ -3861,7 +3861,7 @@
   },
   "820771": {
     "OriginalText": "別のＧＡやテクニックをジャストアタックすると\nダメージが５０％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "Just Attacking with a Gran Art or\ntechnique will increase the damage by 50%.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
+    "Text": "Damage increases by 50% when Just\nAttacking with another GA or Technique.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
     "Enabled": true
   },
   "820811": {
