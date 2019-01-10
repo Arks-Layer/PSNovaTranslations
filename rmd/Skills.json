@@ -1776,7 +1776,7 @@
   },
   "60110": {
     "OriginalText": "闇属性テクニックのダメージが\n１０％上昇する。",
-    "Text": "Increases the power of Wind techs by\n10%.",
+    "Text": "Increases the power of Dark techs by\n10%.",
     "Enabled": true
   },
   "60111": {
@@ -1786,7 +1786,7 @@
   },
   "60112": {
     "OriginalText": "風属性テクニックのダメージが\n１０％上昇する。",
-    "Text": "Increases the power of Dark techs by\n10%.",
+    "Text": "Increases the power of Wind techs by\n10%.",
     "Enabled": true
   },
   "60113": {
