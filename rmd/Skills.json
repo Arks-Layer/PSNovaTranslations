@@ -2541,7 +2541,7 @@
   },
   "60287": {
     "OriginalText": "打撃力と打撃防御力が５００上昇する。",
-    "Text": "Increases your S-ATK and S-DEF by 600.",
+    "Text": "Increases your S-ATK and S-DEF by 500.",
     "Enabled": true
   },
   "60288": {
@@ -2551,7 +2551,7 @@
   },
   "60289": {
     "OriginalText": "射撃力と射撃防御力が５００上昇する。",
-    "Text": "Increases your R-ATK and R-DEF by 600.",
+    "Text": "Increases your R-ATK and R-DEF by 500.",
     "Enabled": true
   },
   "60290": {
@@ -2561,7 +2561,7 @@
   },
   "60291": {
     "OriginalText": "法撃力と法撃防御力が５００上昇する。",
-    "Text": "Increases your T-ATK and T-DEF by 600.",
+    "Text": "Increases your T-ATK and T-DEF by 500.",
     "Enabled": true
   },
   "60292": {
