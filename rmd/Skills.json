@@ -491,7 +491,7 @@
   },
   "50115": {
     "OriginalText": "雷属性ダウン",
-    "Text": "Lighting Resist Down",
+    "Text": "Lightning Resist Down",
     "Enabled": true
   },
   "50116": {
@@ -2486,7 +2486,7 @@
   },
   "60267": {
     "OriginalText": "パイル伝備時に\n打撃力・射撃力・法撃力が\n４０％上昇する。",
-    "Text": "S-ATK, R-ATK and T-ATK increased by 50%.",
+    "Text": "S-ATK, R-ATK and T-ATK increased by 40%.",
     "Enabled": true
   },
   "60268": {
