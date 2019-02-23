@@ -301,7 +301,7 @@
   },
   "100010035160004": {
     "OriginalText": "冗談だ。お前らと一緒なら、\n楽しい探索になりそうだよ。\nさて、そろそろ降下の準備を……。",
-    "Text": "Just kidding. Looks like we'll have\nlots of fun during our search.\nAlright, let's prepare to descend-",
+    "Text": "Just kidding. Looks[ruby This is a test of the Ruby overhead system] like [/ruby]we'll have\nlots of fun [ruby this tests to see if ruby will stretch the whole way across] during [/ruby] our search.\nAlright, let's [ruby this now concludes the more than 4 line test. Thank you!] prepare [/ruby] to descend-",
     "Enabled": true
   },
   "100010035170001": {
