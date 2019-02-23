@@ -397,7 +397,7 @@
   "800079": {
     "OriginalText": "「ダブルセイバー」攻撃に特化した打撃武器。\n多彩な攻撃と攻撃回数で圧倒的なダメージを敵に与える。",
     "Text": "\"Double Sabers\" are specialized in strike attacks. Their attacks\nand pacing give an overwhelming advantage against some enemies.",
-    "Enabled": false
+    "Enabled": true
   },
   "800080": {
     "OriginalText": "「ナックル」敵に接近して攻撃する打撃武器。\n一対一では敵に反撃の隙を与えず、圧倒できる。",
