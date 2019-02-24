@@ -202,6 +202,6 @@ So if there was a mission named "searching for comrades", we would label it as "
 For translations that refer to names (classes, items, enemies, etc), please treat them as proper nouns and use uppercase for the first letter of each word. </p>
 
 <ul class="task-list">
-<li>example: Gran piece (Fire) -&gt; Gran Piece (Fire), Coral dragon blood -&gt; Coral Dragon Blood</li>
+<li>Example: Gran piece (Fire) -&gt; Gran Piece (Fire), Coral dragon blood -&gt; Coral Dragon Blood</li>
 </ul>
 </li>
