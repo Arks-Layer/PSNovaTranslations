@@ -1211,7 +1211,7 @@
   },
   "101020040010001": {
     "OriginalText": "奥から声が！ 何かいるよ！",
-    "Text": "Did you hear that? There's something there!",
+    "Text": "Did you hear that?\nThere's something there!",
     "Enabled": true
   },
   "101020040020002": {
@@ -1581,7 +1581,7 @@
   },
   "101020060250007": {
     "OriginalText": "無理無理。今夜はメディカルで絶対安静。\nリーティアが彼を独占よ。",
-    "Text": "Not tonight he won't. If he's going\nout with anyone tonight, it'll be\bRietheia. He needs some serious rest",
+    "Text": "Not tonight he won't. If he's going\nout with anyone tonight, it'll be\nRietheia. He needs some serious rest",
     "Enabled": true
   },
   "101020060260007": {
