@@ -4,7 +4,7 @@
   <img src="https://github.com/Arks-Layer/PSNovaTranslations/blob/master/resources/Phantasy-Star-Nova-Logo.png" alt="PS Nova Logo"/>
 </p>
 
-[Build status](https://travis-ci.org/Arks-Layer/PSNovaTranslations.svg?branch=master)
+[Build status](https://api.travis-ci.org/Arks-Layer/PSNovaTranslations.svg?branch=master)
 
 # PS: Nova Translations
 
@@ -42,8 +42,6 @@ Then, change the false to true, so it ends up like this:
 Please note that there may be "weird" things in the text! For example, `\n`. These will be detailed below.
 
 We welcome your contributions in the form of pull requests. You may create new issues to discuss the translations with other translators. Please note that issues not related to translation may be deleted without notice.
-
-![3]
 
 ## Don't know Japanese but still want to contribute?
 
