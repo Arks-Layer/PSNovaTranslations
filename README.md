@@ -14,14 +14,8 @@ This repository is dedicated to translating PS: Nova game texts from Japanese to
 
 <i>While we appreciate the efforts of those who don't speak Japanese (through Google translate and the like), we would like for only those who have a grasp of the Japanese language to submit edits to those. ありがとう～ (*＾▽＾)／</i>
 
-## Contributions
-
-1. Click the file you want to edit
-2. Click the pencil icon
-3. Edit the file to your heart's content!
-4. Write a brief summary of the changes at the bottom of the page
-5. Hit "Create a new branch for this commit and start a pull request." (<b>DO NOT COMMIT DIRECTLY TO MASTER.</b>)
-6. Your PR request will be reviewed and accepted or denied. (Your changes will also be posted to the discord chat.)
+### Getting Started/Helping Out
+A full guide on how to get started is [available here](https://github.com/Arks-Layer/PSNovaTranslations/wiki/How-to-contribute)
 
 ## Editing Process
 
@@ -179,3 +173,37 @@ These control codes can be used to insert button and icon images into the text.
 [f 80] - Unknown Icon
 [f 9c] - Unknown Icon
 ```
+
+#### Miscellanous Information
+<ul class="task-list">
+<li><p><strong>DO NOT CHANGE</strong> the line's ID or any of the first values in quotes (OriginalText, Text, or Enabled). Only edit the text in the second part, in quotes!</p></li>
+<li><p>To use quotes inside strings, use \"". For example: "ARKS stands for \""ARTIFICIAL RELICT TO KEEP SPECIES\"". Isn't that neat?"</p></li>
+<li><p>「」 『』 Single and double quotation marks should be replaced by English quotes '"'.</p>
+<li><p>Replace the Japanese numbers and punctuation ?/！/（ ）/…/ー/＃/：... with their English counterparts.</p>
+</ul>
+
+#### Capitalization
+Not all words are created equal - Certain ones should be capitalized. The following items should have every world in them capatizalized (with exceptions to this rule listed below them):
+```
+Window Titles
+Job Subtitles
+Story Titles
+Ratio/Checkboxes
+Buttons
+Abbreviations
+```
+
+Some words should not be capitalized (unless they are the first word):
+```- Articles: a, an, the
+- Conjunctions: and, as, but, for, if, nor, once, or, so, than, that, till, when, yet
+- Prepositions: at, by, down, for, from, in, into, like, near, of, off, on, onto, over, past, to, upon, with
+'。' Japanese period: English titles and sub-titles should not end with a period.
+```
+So if there was a mission named "searching for comrades", we would label it as "Searching for Comrades". If someone was talking about going to search for comrades literally, we would format it as "I will keep looking, searching for my comrades!".
+
+For translations that refer to names (classes, items, enemies, etc), please treat them as proper nouns and use uppercase for the first letter of each word. </p>
+
+<ul class="task-list">
+<li>example: Gran piece (Fire) -&gt; Gran Piece (Fire), Coral dragon blood -&gt; Coral Dragon Blood</li>
+</ul>
+</li>
