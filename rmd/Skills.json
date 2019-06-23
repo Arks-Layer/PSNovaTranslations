@@ -2446,7 +2446,7 @@
   },
   "60259": {
     "OriginalText": "パルチザン伝備時に\nダメージが８０％上昇し、\n敵をバインドにする確率が５０％上昇する。",
-    "Text": "Partizan damage is increased by 80%.\nBind infliction rate increased by 5%.",
+    "Text": "Partizan damage is increased by 80%.\nBind infliction rate increased by 50%.",
     "Enabled": true
   },
   "60260": {
