@@ -1296,23 +1296,23 @@
   },
   "110259": {
     "OriginalText": "バンサーの極コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Banther Climax Core",
+    "Enabled": true
   },
   "110260": {
     "OriginalText": "クリトロの極コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Crittro Climax Core",
+    "Enabled": true
   },
   "110261": {
     "OriginalText": "カーネベアの極コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Carnnebear Climax Core",
+    "Enabled": true
   },
   "110262": {
     "OriginalText": "レイバンサーの極コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Ray Banther Climax Core",
+    "Enabled": true
   },
   "110263": {
     "OriginalText": "ディートアスの極コア",
