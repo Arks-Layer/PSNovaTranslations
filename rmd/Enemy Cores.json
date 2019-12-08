@@ -201,7 +201,7 @@
   },
   "110040": {
     "OriginalText": "マグネトアスの純コア",
-    "Text": "Magnetoas' Super Core",
+    "Text": "Magnetoas' Pure Core",
     "Enabled": true
   },
   "110041": {
@@ -311,7 +311,7 @@
   },
   "110062": {
     "OriginalText": "テュルトアスの純コア",
-    "Text": "Tulletoas' Super Core",
+    "Text": "Tulletoas' Pure Core",
     "Enabled": true
   },
   "110063": {
@@ -331,7 +331,7 @@
   },
   "110066": {
     "OriginalText": "コラル・ドラゴンの純コア",
-    "Text": "Coral Dragon's Super Core",
+    "Text": "Coral Dragon's Pure Core",
     "Enabled": true
   },
   "110067": {
@@ -416,7 +416,7 @@
   },
   "110083": {
     "OriginalText": "ゴルドスの純コア",
-    "Text": "Gordes' Super Core",
+    "Text": "Gordes' Pure Core",
     "Enabled": true
   },
   "110084": {
@@ -431,7 +431,7 @@
   },
   "110086": {
     "OriginalText": "ディゴルドスの純コア",
-    "Text": "Digordes' Super Core",
+    "Text": "Digordes' Pure Core",
     "Enabled": true
   },
   "110087": {
@@ -471,7 +471,7 @@
   },
   "110094": {
     "OriginalText": "ディートアスの純コア",
-    "Text": "Dietoas' Super Core",
+    "Text": "Dietoas' Pure Core",
     "Enabled": true
   },
   "110095": {
@@ -561,12 +561,12 @@
   },
   "110112": {
     "OriginalText": "ファンアフォルの純コア",
-    "Text": "Fan'aphol's Super Core",
+    "Text": "Fan'aphol's Pure Core",
     "Enabled": true
   },
   "110113": {
     "OriginalText": "オルゴルドスの純コア",
-    "Text": "Orgordes' Super Core",
+    "Text": "Orgordes' Pure Core",
     "Enabled": true
   },
   "110114": {
@@ -611,12 +611,12 @@
   },
   "110122": {
     "OriginalText": "Ｇプレディカーダの純コア",
-    "Text": "G-Predicahda's Super Core",
+    "Text": "G-Predicahda's Pure Core",
     "Enabled": true
   },
   "110123": {
     "OriginalText": "Ｇキュクロナーダの純コア",
-    "Text": "G-Kuklonahda's Super Core",
+    "Text": "G-Kuklonahda's Pure Core",
     "Enabled": true
   },
   "110124": {
@@ -636,7 +636,7 @@
   },
   "110127": {
     "OriginalText": "Ｇウォルガーダの純コア",
-    "Text": "G-Wolgahda's Super Core",
+    "Text": "G-Wolgahda's Pure Core",
     "Enabled": true
   },
   "110128": {
@@ -646,7 +646,7 @@
   },
   "110129": {
     "OriginalText": "Ｇグウォンダの純コア",
-    "Text": "G-Gu Wonda's Super Core",
+    "Text": "G-Gu Wonda's Pure Core",
     "Enabled": true
   },
   "110130": {
@@ -656,7 +656,7 @@
   },
   "110131": {
     "OriginalText": "Ｇダーク・ラグネの純コア",
-    "Text": "G-Dark Ragne's Super Core",
+    "Text": "G-Dark Ragne's Pure Core",
     "Enabled": true
   },
   "110132": {
@@ -671,67 +671,67 @@
   },
   "110134": {
     "OriginalText": "アグリオスの純コア",
-    "Text": "Agrious' Super Core",
+    "Text": "Agrios' Pure Core",
     "Enabled": true
   },
   "110135": {
     "OriginalText": "グレイオスの純コア",
-    "Text": "Greios' Super Core",
+    "Text": "Greios' Pure Core",
     "Enabled": true
   },
   "110136": {
     "OriginalText": "アルテイオスの純コア",
-    "Text": "Alteios' Super Core",
+    "Text": "Alteios' Pure Core",
     "Enabled": true
   },
   "110137": {
     "OriginalText": "エウリュードの純コア",
-    "Text": "Eurude's Super Core",
+    "Text": "Eurude's Pure Core",
     "Enabled": true
   },
   "110138": {
     "OriginalText": "ヴィヴリュードの純コア",
-    "Text": "Vivryude's Super Core",
+    "Text": "Vivryude's Pure Core",
     "Enabled": true
   },
   "110139": {
     "OriginalText": "ガラティオンの純コア",
-    "Text": "Garation's Super Core",
+    "Text": "Garation's Pure Core",
     "Enabled": true
   },
   "110140": {
     "OriginalText": "ギガティオンの純コア",
-    "Text": "Gigation's Super Core",
+    "Text": "Gigation's Pure Core",
     "Enabled": true
   },
   "110141": {
     "OriginalText": "グラヴディオンの純コア",
-    "Text": "Gravdion's Super Core",
+    "Text": "Gravdion's Pure Core",
     "Enabled": true
   },
   "110142": {
     "OriginalText": "アルキュオネの純コア",
-    "Text": "Alcyone's Super Core",
+    "Text": "Alcyone's Pure Core",
     "Enabled": true
   },
   "110143": {
     "OriginalText": "デェフキュオネの純コア",
-    "Text": "Defcyone's Super Core",
+    "Text": "Defcyone's Pure Core",
     "Enabled": true
   },
   "110144": {
     "OriginalText": "ギュゲンテの純コア",
-    "Text": "Gygante's Super Core",
+    "Text": "Gygante's Pure Core",
     "Enabled": true
   },
   "110145": {
     "OriginalText": "リベルゲンテの純コア",
-    "Text": "Libelgante's Super Core",
+    "Text": "Libelgante's Pure Core",
     "Enabled": true
   },
   "110146": {
     "OriginalText": "レイヴガイストの純コア",
-    "Text": "Rave Geist's Super Core",
+    "Text": "Rave Geist's Pure Core",
     "Enabled": true
   },
   "110147": {
@@ -1296,23 +1296,23 @@
   },
   "110259": {
     "OriginalText": "バンサーの極コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Banther Climax Core",
+    "Enabled": true
   },
   "110260": {
     "OriginalText": "クリトロの極コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Crittro Climax Core",
+    "Enabled": true
   },
   "110261": {
     "OriginalText": "カーネベアの極コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Carnnebear Climax Core",
+    "Enabled": true
   },
   "110262": {
     "OriginalText": "レイバンサーの極コア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Ray Banther Climax Core",
+    "Enabled": true
   },
   "110263": {
     "OriginalText": "ディートアスの極コア",

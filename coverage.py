@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 # coding=utf8
 import re
 import os
@@ -36,4 +36,4 @@ counterr += len(invalid_json_files)
 if counterr != 0:
     sys.exit("=============\nJSON files with issues: %d" % count)
 else:
-    print bufout
+    print (bufout)
