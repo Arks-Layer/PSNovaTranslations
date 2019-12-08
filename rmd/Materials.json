@@ -1695,9 +1695,9 @@
     "Enabled": true
   },
   "350339": {
-    "OriginalText": "サフグランブの凝液結晶",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "サフグランブの粘液結晶",
+    "Text": "Crystallized Sahugranv Mucus",
+    "Enabled": true
   },
   "350340": {
     "OriginalText": "マガヴルムの盾",
@@ -1796,7 +1796,7 @@
   },
   "350359": {
     "OriginalText": "モストカーネベアの硬砲身",
-    "Text": "Mosst Carnnebear Cannon",
+    "Text": "Mossed Carnnebear Cannon",
     "Enabled": true
   },
   "350360": {
@@ -1816,38 +1816,38 @@
   },
   "350363": {
     "OriginalText": "エルマフレザールの鋭朽爪",
-    "Text": "",
-    "Enabled": false
+    "Text": "El Maphrezer Decaying Sharp Claw",
+    "Enabled": true
   },
   "350364": {
     "OriginalText": "フリラウーダンの毛皮",
-    "Text": "",
-    "Enabled": false
+    "Text": "Fury Ra Oodan Pelt",
+    "Enabled": true
   },
   "350365": {
     "OriginalText": "ミステルンの鋭翼角",
-    "Text": "",
-    "Enabled": false
+    "Text": "Sharp Mysteroon Wing",
+    "Enabled": true
   },
   "350366": {
     "OriginalText": "ラビーソの原動機",
-    "Text": "",
-    "Enabled": false
+    "Text": "Main Rabbisaw Motor",
+    "Enabled": true
   },
   "350367": {
     "OriginalText": "大きなレイバンサーの頭角破片",
-    "Text": "",
-    "Enabled": false
+    "Text": "Large Ray Banther Horn Fragment",
+    "Enabled": true
   },
   "350368": {
     "OriginalText": "ウィンディラスの大尾",
-    "Text": "",
-    "Enabled": false
+    "Text": "Large Windiras Tail",
+    "Enabled": true
   },
   "350369": {
     "OriginalText": "ガンジュラキアの硬骨",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gun Jurrakia Bone",
+    "Enabled": true
   },
   "350370": {
     "OriginalText": "バンクゥの大宝石",
@@ -1856,23 +1856,23 @@
   },
   "350371": {
     "OriginalText": "レウ・ロヴラッピーの主翼",
-    "Text": "",
-    "Enabled": false
+    "Text": "Leu Rove Rappy Wing",
+    "Enabled": true
   },
   "350372": {
     "OriginalText": "シードギオスの硬伝甲",
-    "Text": "",
-    "Enabled": false
+    "Text": "Hard Xie Dogios Shell",
+    "Enabled": true
   },
   "350373": {
     "OriginalText": "モストカーネベアの毛皮",
-    "Text": "",
-    "Enabled": false
+    "Text": "Mossed Carnnebear Pelt",
+    "Enabled": true
   },
   "350374": {
     "OriginalText": "マドアビアディノの鋭爪",
-    "Text": "",
-    "Enabled": false
+    "Text": "Sharp Mad Aviadino Nail",
+    "Enabled": true
   },
   "350375": {
     "OriginalText": "ガラティオンの鉄線",
@@ -1881,68 +1881,68 @@
   },
   "350376": {
     "OriginalText": "クロザードの完全な背びれ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gu Rozad Dorsal Fin",
+    "Enabled": true
   },
   "350377": {
     "OriginalText": "エルマフレザールの皮枝",
-    "Text": "",
-    "Enabled": false
+    "Text": "El Maphrezer Hide",
+    "Enabled": true
   },
   "350378": {
     "OriginalText": "フリラウーダンの鋭牙",
-    "Text": "",
-    "Enabled": false
+    "Text": "Fury Ra Oodan Sharp Fang",
+    "Enabled": true
   },
   "350379": {
     "OriginalText": "ミステルンの頭角",
-    "Text": "",
-    "Enabled": false
+    "Text": "Unique Mysteroon Horn",
+    "Enabled": true
   },
   "350380": {
     "OriginalText": "ラビーソの硬耳部鎖",
-    "Text": "",
-    "Enabled": false
+    "Text": "Tough Rabbisaw Ear Chain",
+    "Enabled": true
   },
   "350381": {
     "OriginalText": "レイバンサーの大きな爪",
-    "Text": "",
-    "Enabled": false
+    "Text": "Large Ray Banther Nail",
+    "Enabled": true
   },
   "350382": {
     "OriginalText": "ウィンディラスの角",
-    "Text": "",
-    "Enabled": false
+    "Text": "Windiras Horn",
+    "Enabled": true
   },
   "350383": {
     "OriginalText": "ガンジュラキアの尾羽",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gun Jurrakia Rear Feather",
+    "Enabled": true
   },
   "350384": {
     "OriginalText": "バンクゥの第三の目",
-    "Text": "",
-    "Enabled": false
+    "Text": "Third Ban'qu Eye",
+    "Enabled": true
   },
   "350385": {
     "OriginalText": "レウ・ロヴラッピーの大油",
-    "Text": "",
-    "Enabled": false
+    "Text": "Large Leu Rove Rappy Fat",
+    "Enabled": true
   },
   "350386": {
     "OriginalText": "シードギオスの完全な盾",
-    "Text": "",
-    "Enabled": false
+    "Text": "Perfect Xie Dogios Shield",
+    "Enabled": true
   },
   "350387": {
     "OriginalText": "モストカーネベアの頭骨",
-    "Text": "",
-    "Enabled": false
+    "Text": "Mossed Carnnebear Skull",
+    "Enabled": true
   },
   "350388": {
     "OriginalText": "マドアビアディノの歯",
-    "Text": "",
-    "Enabled": false
+    "Text": "Mad Aviadino Tooth",
+    "Enabled": true
   },
   "350389": {
     "OriginalText": "ガラティオンの硬骨格",
@@ -1956,18 +1956,18 @@
   },
   "350391": {
     "OriginalText": "メドジュラキアの大羽",
-    "Text": "",
-    "Enabled": false
+    "Text": "Med Jurrakia Quill Feather",
+    "Enabled": true
   },
   "350392": {
     "OriginalText": "バンサーの爪",
-    "Text": "",
-    "Enabled": false
+    "Text": "Banther Claw",
+    "Enabled": true
   },
   "350393": {
     "OriginalText": "ラピミステルンの角",
-    "Text": "",
-    "Enabled": false
+    "Text": "Rap Mysteroon Horn",
+    "Enabled": true
   },
   "350394": {
     "OriginalText": "ヴァッドギオスの硬盾",
@@ -1976,28 +1976,28 @@
   },
   "350395": {
     "OriginalText": "スロザードのヒレ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Su Rozad Fillet",
+    "Enabled": true
   },
   "350396": {
     "OriginalText": "ノイバリドランナの粘",
-    "Text": "",
-    "Enabled": false
+    "Text": "Noibaridran'an Mucus",
+    "Enabled": true
   },
   "350397": {
     "OriginalText": "ヴィバレダイナスの銃",
-    "Text": "",
-    "Enabled": false
+    "Text": "Oui Valdinas Gun",
+    "Enabled": true
   },
   "350398": {
     "OriginalText": "ウイマフレザールの皮",
-    "Text": "",
-    "Enabled": false
+    "Text": "Huy Maphrezer Pelt",
+    "Enabled": true
   },
   "350399": {
     "OriginalText": "Ｇダーク・ラグネの大脚甲",
-    "Text": "",
-    "Enabled": false
+    "Text": "Large G-Dark Ragne Carapace",
+    "Enabled": true
   },
   "350400": {
     "OriginalText": "ヴィヴリュードの爪",
@@ -2006,8 +2006,8 @@
   },
   "350401": {
     "OriginalText": "デェフキュオネの触手",
-    "Text": "",
-    "Enabled": false
+    "Text": "Defcyone Tentacle",
+    "Enabled": true
   },
   "350402": {
     "OriginalText": "ラーアビアディノの爪",
@@ -2016,48 +2016,48 @@
   },
   "350403": {
     "OriginalText": "メドジュラキアの硬骨",
-    "Text": "",
-    "Enabled": false
+    "Text": "Med Jurrakia Bone",
+    "Enabled": true
   },
   "350404": {
     "OriginalText": "バンサーの牙",
-    "Text": "",
-    "Enabled": false
+    "Text": "Banther Fang",
+    "Enabled": true
   },
   "350405": {
     "OriginalText": "ラピミステルンの鋭翼角",
-    "Text": "",
-    "Enabled": false
+    "Text": "Sharp Rap Mysteroon Wing",
+    "Enabled": true
   },
   "350406": {
     "OriginalText": "ヴァッドギオスの硬伝甲",
-    "Text": "",
-    "Enabled": false
+    "Text": "Vad Dogios Hard Shell",
+    "Enabled": true
   },
   "350407": {
     "OriginalText": "スロザードの鋭爪",
-    "Text": "",
-    "Enabled": false
+    "Text": "Sharp Su Rozad Claw",
+    "Enabled": true
   },
   "350408": {
     "OriginalText": "ノイバリドランナの鋭爪",
-    "Text": "",
-    "Enabled": false
+    "Text": "Sharp Noibaridran'an Claw",
+    "Enabled": true
   },
   "350409": {
     "OriginalText": "ヴィバレダイナスの大弾倉",
-    "Text": "",
-    "Enabled": false
+    "Text": "Large Oui Valdinas Magazine",
+    "Enabled": true
   },
   "350410": {
     "OriginalText": "ウイマフレザールの鋭朽爪",
-    "Text": "",
-    "Enabled": false
+    "Text": "Sharp Huy Maphrezer Decaying Claw",
+    "Enabled": true
   },
   "350411": {
     "OriginalText": "Ｇダーク・ラグネの朽爪",
-    "Text": "",
-    "Enabled": false
+    "Text": "G-Dark Ragne Decaying Claw",
+    "Enabled": true
   },
   "350412": {
     "OriginalText": "ヴィヴリュードの硬砲身",
@@ -2320,7 +2320,7 @@
     "Enabled": false
   },
   "350464": {
-    "OriginalText": "パーグランブの凝液結晶",
+    "OriginalText": "パーグランブの粘液結晶",
     "Text": "",
     "Enabled": false
   },
@@ -2610,7 +2610,7 @@
     "Enabled": false
   },
   "350522": {
-    "OriginalText": "ガーグランブの硬凝液結晶",
+    "OriginalText": "ガーグランブの硬粘液結晶",
     "Text": "",
     "Enabled": false
   },
@@ -3395,7 +3395,7 @@
     "Enabled": false
   },
   "350679": {
-    "OriginalText": "グランブ・ダイの凝液結晶",
+    "OriginalText": "グランブ・ダイの粘液結晶",
     "Text": "",
     "Enabled": false
   },
@@ -5675,7 +5675,7 @@
     "Enabled": false
   },
   "360030": {
-    "OriginalText": "原生種が吹き出す凝液。\n熱を通すと固まる性質があり\n食用される。",
+    "OriginalText": "原生種が吹き出す粘液。\n熱を通すと固まる性質があり\n食用される。",
     "Text": "",
     "Enabled": false
   },
@@ -6530,7 +6530,7 @@
     "Enabled": false
   },
   "360201": {
-    "OriginalText": "凝液ながら固まって強い硬度を得た。\n武器防具の素村になる。",
+    "OriginalText": "粘液ながら固まって強い硬度を得た。\n武器防具の素村になる。",
     "Text": "",
     "Enabled": false
   },
@@ -6650,7 +6650,7 @@
     "Enabled": false
   },
   "360225": {
-    "OriginalText": "鉤固した凝液の結晶。\n武器防具の素村になる。",
+    "OriginalText": "鉤固した粘液の結晶。\n武器防具の素村になる。",
     "Text": "",
     "Enabled": false
   },
@@ -7220,7 +7220,7 @@
     "Enabled": false
   },
   "360339": {
-    "OriginalText": "鉤固した凝液の結晶。\n武器防具の素村になる。",
+    "OriginalText": "鉤固した粘液の結晶。\n武器防具の素村になる。",
     "Text": "",
     "Enabled": false
   },
@@ -7845,7 +7845,7 @@
     "Enabled": false
   },
   "360464": {
-    "OriginalText": "鉤固して硬化した凝液の結晶。\n武器防具の素村になる。",
+    "OriginalText": "鉤固して硬化した粘液の結晶。\n武器防具の素村になる。",
     "Text": "",
     "Enabled": false
   },
@@ -8135,7 +8135,7 @@
     "Enabled": false
   },
   "360522": {
-    "OriginalText": "鉤固して硬化した凝液の結晶。\n武器防具の素村になる。",
+    "OriginalText": "鉤固して硬化した粘液の結晶。\n武器防具の素村になる。",
     "Text": "",
     "Enabled": false
   },
@@ -8920,7 +8920,7 @@
     "Enabled": false
   },
   "360679": {
-    "OriginalText": "鉤固して硬化した凝液の結晶。\n武器防具の素村になる。",
+    "OriginalText": "鉤固して硬化した粘液の結晶。\n武器防具の素村になる。",
     "Text": "",
     "Enabled": false
   },
