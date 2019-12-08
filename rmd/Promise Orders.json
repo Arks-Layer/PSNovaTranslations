@@ -796,18 +796,18 @@
   },
   "280159": {
     "OriginalText": "古代都市の新鉱洋",
-    "Text": "",
-    "Enabled": false
+    "Text": "New Ore from the Ancient City",
+    "Enabled": true
   },
   "280160": {
     "OriginalText": "ＸＨに挑戦・古代都市",
-    "Text": "",
-    "Enabled": false
+    "Text": "Challenge: XH Ancient City",
+    "Enabled": true
   },
   "280161": {
     "OriginalText": "スナイパーの極意",
-    "Text": "",
-    "Enabled": false
+    "Text": "A Sniper's Secret",
+    "Enabled": true
   },
   "280162": {
     "OriginalText": "状態異常訓練",
@@ -881,28 +881,28 @@
   },
   "280176": {
     "OriginalText": "ＳＨ生還訓練",
-    "Text": "",
-    "Enabled": false
+    "Text": "SH Survival Training",
+    "Enabled": true
   },
   "280177": {
     "OriginalText": "ギガンテスコンビを排除",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gigantes Combo Subjugation",
+    "Enabled": true
   },
   "280178": {
     "OriginalText": "ＸＨエネミーの食材研究",
-    "Text": "",
-    "Enabled": false
+    "Text": "XH Enemy Food Research",
+    "Enabled": true
   },
   "280179": {
     "OriginalText": "究極のダーカー素材",
-    "Text": "",
-    "Enabled": false
+    "Text": "The Ultimate Darker Materials",
+    "Enabled": true
   },
   "280180": {
     "OriginalText": "バスターの必逸品",
-    "Text": "",
-    "Enabled": false
+    "Text": "Buster Essentials",
+    "Enabled": true
   },
   "280181": {
     "OriginalText": "至高の鉱洋資装１",
@@ -911,8 +911,8 @@
   },
   "280182": {
     "OriginalText": "部位破壊訓練",
-    "Text": "",
-    "Enabled": false
+    "Text": "Breakable Part Training",
+    "Enabled": true
   },
   "280183": {
     "OriginalText": "鉱洋の調達",
@@ -966,18 +966,18 @@
   },
   "280193": {
     "OriginalText": "★硬砲身の調達",
-    "Text": "",
-    "Enabled": false
+    "Text": "★ Supplying Firm Gun Barrels",
+    "Enabled": true
   },
   "280194": {
     "OriginalText": "機械生洋武伝素材調達",
-    "Text": "",
-    "Enabled": false
+    "Text": "Supplying Machine Parts",
+    "Enabled": true
   },
   "280195": {
     "OriginalText": "ＳＨギガンテス素材調達",
-    "Text": "",
-    "Enabled": false
+    "Text": "SH: Supplying Gigantes Materials",
+    "Enabled": true
   },
   "280196": {
     "OriginalText": "ＳＨギガンテス武伝素材調達",
@@ -991,13 +991,13 @@
   },
   "280198": {
     "OriginalText": "お風呂の思い出",
-    "Text": "",
-    "Enabled": false
+    "Text": "Steam Bath Memory",
+    "Enabled": true
   },
   "280199": {
     "OriginalText": "ラスト・デートに再挑戦",
-    "Text": "",
-    "Enabled": false
+    "Text": "The Last Date Do-Over",
+    "Enabled": true
   },
   "280200": {
     "OriginalText": "ヨミ 予備枠 09",
@@ -1086,13 +1086,13 @@
   },
   "280217": {
     "OriginalText": "タイムアタックＳランク",
-    "Text": "",
-    "Enabled": false
+    "Text": "Time Attack S-Rank",
+    "Enabled": true
   },
   "280218": {
     "OriginalText": "ＰＴアタックＳランク",
-    "Text": "",
-    "Enabled": false
+    "Text": "PT Attack S-Rank",
+    "Enabled": true
   },
   "280219": {
     "OriginalText": "オルクス 予備枠 08",
@@ -1176,18 +1176,18 @@
   },
   "280235": {
     "OriginalText": "古代都市の新素材",
-    "Text": "",
-    "Enabled": false
+    "Text": "New Material in the Ancient City",
+    "Enabled": true
   },
   "280236": {
     "OriginalText": "ヴィヴリュードの討伐",
-    "Text": "",
-    "Enabled": false
+    "Text": "Vivryude Subjugation",
+    "Enabled": true
   },
   "280237": {
     "OriginalText": "ＳＨエネミーの食材研究",
-    "Text": "",
-    "Enabled": false
+    "Text": "SH: Enemy Food Research",
+    "Enabled": true
   },
   "280238": {
     "OriginalText": "ヒュペリオン 予備枠 07",
@@ -1281,13 +1281,13 @@
   },
   "280256": {
     "OriginalText": "ダーカー素材研究",
-    "Text": "",
-    "Enabled": false
+    "Text": "Darker Material Research",
+    "Enabled": true
   },
   "280257": {
     "OriginalText": "ギガンテス生体素材研究",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gigantes Organic Material Research",
+    "Enabled": true
   },
   "280258": {
     "OriginalText": "シャロン 予備枠 04",
