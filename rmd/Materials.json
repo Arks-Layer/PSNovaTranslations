@@ -2071,88 +2071,88 @@
   },
   "350414": {
     "OriginalText": "ラーアビアディノの鋭歯",
-    "Text": "",
-    "Enabled": false
+    "Text": "Sharp Lar Aviadino Tooth",
+    "Enabled": true
   },
   "350415": {
     "OriginalText": "メドジュラキアの尾羽",
-    "Text": "",
-    "Enabled": false
+    "Text": "Med Jurrakia Tail Feather",
+    "Enabled": true
   },
   "350416": {
     "OriginalText": "バンサーの頭角",
-    "Text": "",
-    "Enabled": false
+    "Text": "Banther Antler",
+    "Enabled": true
   },
   "350417": {
     "OriginalText": "ラピミステルンの頭角",
-    "Text": "",
-    "Enabled": false
+    "Text": "Rap Mysteroon Antler",
+    "Enabled": true
   },
   "350418": {
     "OriginalText": "ヴァッドギオスの完全な盾",
-    "Text": "",
-    "Enabled": false
+    "Text": "Perfect Vad Dogios Shield",
+    "Enabled": true
   },
   "350419": {
     "OriginalText": "スロザードの完全な背びれ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Perfect Su Rozad Dorsal Fin",
+    "Enabled": true
   },
   "350420": {
     "OriginalText": "ノイ・バリドランナの光玉",
-    "Text": "",
-    "Enabled": false
+    "Text": "Noibaridran'an Light Ball",
+    "Enabled": true
   },
   "350421": {
     "OriginalText": "ヴィバレダイナスのサイト",
-    "Text": "",
-    "Enabled": false
+    "Text": "Oui Valdinas Sight",
+    "Enabled": true
   },
   "350422": {
     "OriginalText": "ウイマフレザールの皮枝",
-    "Text": "",
-    "Enabled": false
+    "Text": "Huy Maphrezer Leg Pelt",
+    "Enabled": true
   },
   "350423": {
     "OriginalText": "Ｇダーク・ラグネの硬触角",
-    "Text": "",
-    "Enabled": false
+    "Text": "Tough G-Dark Ragne Feeler",
+    "Enabled": true
   },
   "350424": {
     "OriginalText": "ヴィヴリュードの弾頭",
-    "Text": "",
-    "Enabled": false
+    "Text": "Vivryude Warhead",
+    "Enabled": true
   },
   "350425": {
     "OriginalText": "デェフキュオネの硬肩伝甲",
-    "Text": "",
-    "Enabled": false
+    "Text": "Tough Defcyone Shoulder Carapace",
+    "Enabled": true
   },
   "350426": {
     "OriginalText": "巨大な爪",
-    "Text": "",
-    "Enabled": false
+    "Text": "Large Claw",
+    "Enabled": true
   },
   "350427": {
     "OriginalText": "ゴルドスの硬制御杭",
-    "Text": "",
-    "Enabled": false
+    "Text": "Stiff Gordes Control Rod",
+    "Enabled": true
   },
   "350428": {
     "OriginalText": "ゴルドスの鋭攻撃杭",
-    "Text": "",
-    "Enabled": false
+    "Text": "Sharp Gordes Fight Stick",
+    "Enabled": true
   },
   "350429": {
     "OriginalText": "ゴルドスの巨大な角",
-    "Text": "",
-    "Enabled": false
+    "Text": "Huge Gordes Horn",
+    "Enabled": true
   },
   "350430": {
-    "OriginalText": "機械生洋の硬皮枝",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "機械生物の甲片",
+    "Text": "Hardened Biomechanical Membrane",
+    "Enabled": true
   },
   "350431": {
     "OriginalText": "機械生洋の硬骨格",
@@ -2161,13 +2161,13 @@
   },
   "350432": {
     "OriginalText": "機械生洋の爪",
-    "Text": "",
-    "Enabled": false
+    "Text": "Biomechanical Carapace",
+    "Enabled": true
   },
   "350433": {
     "OriginalText": "ファンアフォルの金属皮枝",
-    "Text": "",
-    "Enabled": false
+    "Text": "Metallic Fan'aphol Leg Pelt",
+    "Enabled": true
   },
   "350434": {
     "OriginalText": "レイヴガイストの硬武伝腕",
@@ -2186,8 +2186,8 @@
   },
   "350437": {
     "OriginalText": "Ｇキュクロナーダのしっぽ",
-    "Text": "",
-    "Enabled": false
+    "Text": "G-Kuklonahda Tail",
+    "Enabled": true
   },
   "350438": {
     "OriginalText": "レイヴガイストの大収束器",
@@ -2196,37 +2196,37 @@
   },
   "350439": {
     "OriginalText": "ウロザードの硬ヒレ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Tough Pa Rozad Fillet",
+    "Enabled": true
   },
   "350440": {
     "OriginalText": "レゾルカーネベアの硬砲身",
-    "Text": "",
-    "Enabled": false
+    "Text": "Tough Resol Carnnebear Cannon",
+    "Enabled": true
   },
   "350441": {
     "OriginalText": "オルテ・マガヴルムの硬手",
-    "Text": "",
-    "Enabled": false
+    "Text": "Tough Orte Magavulum Arm",
+    "Enabled": true
   },
   "350442": {
     "OriginalText": "パーグランブの鋭爪",
-    "Text": "",
-    "Enabled": false
+    "Text": "Tough Pergranv Claw",
+    "Enabled": true
   },
   "350443": {
     "OriginalText": "イーグマンデルの硬鱗",
-    "Text": "",
-    "Enabled": false
+    "Text": "Eag Mandel Scale",
+    "Enabled": true
   },
   "350444": {
     "OriginalText": "マクロージの鋭角",
-    "Text": "",
-    "Enabled": false
+    "Text": "Sharp Makroge Horn",
+    "Enabled": true
   },
   "350445": {
     "OriginalText": "エアドギオスの大盾",
-    "Text": "Air Dogios Shield",
+    "Text": "Large Air Dogios Shield",
     "Enabled": true
   },
   "350446": {
