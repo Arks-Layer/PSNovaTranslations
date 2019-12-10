@@ -2231,53 +2231,53 @@
   },
   "350446": {
     "OriginalText": "エクセージＴの小腕",
-    "Text": "",
-    "Enabled": false
+    "Text": "Small Equsage T Arm",
+    "Enabled": true
   },
   "350447": {
     "OriginalText": "ファンアフォルの大翼",
-    "Text": "",
-    "Enabled": false
+    "Text": "Large Fan'aphol Wing",
+    "Enabled": true
   },
   "350448": {
     "OriginalText": "ギガティオンの鋭ノコ刃",
-    "Text": "",
-    "Enabled": false
+    "Text": "Sharp Gigation Saw Blade",
+    "Enabled": true
   },
   "350449": {
     "OriginalText": "レイヴガイストの仮面破片",
-    "Text": "",
+    "Text": "Rave Geist Mask Fragment",
     "Enabled": false
   },
   "350450": {
     "OriginalText": "ウロザードの鋭爪",
-    "Text": "",
-    "Enabled": false
+    "Text": "Sharp Pa Rozad Claw",
+    "Enabled": true
   },
   "350451": {
     "OriginalText": "レゾルカーネベアの大毛皮",
-    "Text": "",
-    "Enabled": false
+    "Text": "Large Resol Carnnebear Pelt",
+    "Enabled": true
   },
   "350452": {
     "OriginalText": "オルテ・マガヴルムの大銃",
-    "Text": "",
-    "Enabled": false
+    "Text": "Large Orte Magavulum Gun",
+    "Enabled": true
   },
   "350453": {
     "OriginalText": "パーグランブの硬甲羅",
-    "Text": "",
-    "Enabled": false
+    "Text": "Tough Pergranv Shell",
+    "Enabled": true
   },
   "350454": {
     "OriginalText": "イーグマンデルの大髭",
-    "Text": "",
-    "Enabled": false
+    "Text": "Large Eag Mandel Whisker",
+    "Enabled": true
   },
   "350455": {
     "OriginalText": "マクロージの大目玉",
-    "Text": "",
-    "Enabled": false
+    "Text": "Large Makroge Eyeball",
+    "Enabled": true
   },
   "350456": {
     "OriginalText": "エアドギオスの硬伝甲",
