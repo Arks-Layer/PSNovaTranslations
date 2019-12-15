@@ -66,7 +66,7 @@
   },
   "100010020040008": {
     "OriginalText": "私はアークス特殊惑星探査隊オルター所属艦、\nデルタ・ヴァリアントのメディカルスタッフ、\nリーティアと申します。",
-    "Text": "This ship is the \"Delta Valiant\". We're the\nARKS Special Planetary Exploration Team, \"Alter\".\nI'm Rietheia, I'm with the medical staff.",
+    "Text": "This ship is the \"Delta Valiant\". We're the ARKS Special Planetary Exploration Team, \"Alter\". I'm Rietheia, medical staff.",
     "Enabled": true
   },
   "100010020050008": {
@@ -76,7 +76,7 @@
   },
   "100010020060008": {
     "OriginalText": "あなたは現在、アークス特殊惑星探査隊\nオルターの戦闘部隊に所属し、新たに\n発見された惑星、マキアへ向かっています。",
-    "Text": "You're the newest member of the ARKS Special\nPlanetary Exploration Team \"Alter\". We're\nheading for the newly discovered planet, Makhia.",
+    "Text": "You are the newest member of \"Alter\". We are heading for the newly\ndiscovered planet, Makhia.",
     "Enabled": true
   },
   "100010020070008": {
