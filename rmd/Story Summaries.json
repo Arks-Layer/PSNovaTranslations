@@ -6,28 +6,28 @@
   },
   "810001": {
     "OriginalText": "デルタ・ヴァリアントが墜落した\nフォトンのない惑星・マキア。\nルティナと先遣隊の救援に\n向かう中で、ユノと名乗る少女から、\n『グラン』を糾かる。\n\n一方、新艦長フィルディアは\nクルーの大半をコールド\nスリープさせ、ルティナ達に\nブリッジへの出頭を命じる。",
-    "Text": "Delta Valiant crashed onto a planet\ndevoid of photons. A girl named\nJuno gave Lutina and party Gran.\n\nFildia became the new bridge captain.",
+    "Text": "Delta Valiant crashed onto a planet\ndevoid of photons. A girl named\nJuno gave Lutina and party Gran.\n\nFildia became the new bridge\ncaptain.",
     "Enabled": true
   },
   "810002": {
     "OriginalText": "グランについての報告を進める中、\nユノの話に興味を示したレイヴァン\n副長にユノの立体映像を投影した\n宝石を預ける。\n\nフィルディア艦長より、先遣隊の\n生存者捜索を命じられ、\nルティナは不安を口にするが、\n気を取り直してクエストに向かう。",
-    "Text": "",
-    "Enabled": false
+    "Text": "With the issue concerning about\nGran, Deputy Raven shows\ninterest in Juno.\n\nCaptain Fildia ordered the party\nfor search and rescue of any\nsurvivors.",
+    "Enabled": true
   },
   "810003": {
     "OriginalText": "先遣隊でたった二人だけの生存者\nセイルとイズナを救助した。\n\n一方でレイヴァン副長のグラン\n解祈により、グランの実用化が\n成功し、ルティナ達似外も\nグランの力を習得した。\n次なる任務のため、ブリッジへの\n出頭を求められる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "The party found Sail and Izuna in a\npinch and helped them.\n\nMeanwhile, Raven found a solution\nto make use of the party's new\npower. The party then called to\nthe bridge.",
+    "Enabled": true
   },
   "810004": {
     "OriginalText": "未だエネルギー不足は深刻で\n多くのクルーはコールドスリープ\nから起こすことは出来ない。\n４人しかいない戦闘要員として\n次の任務の説明を受けるため、\n仮設ラボ施設を漢ねる。\n\nレイヴァンの助手にあたる人洋が\nいるらしいが……。",
-    "Text": "",
-    "Enabled": false
+    "Text": "They need more energy to wake\nup the crew from coldsleep. Only\nfour people is needed for the party\nas they received their next\nmission to build a temporary lab.",
+    "Enabled": true
   },
   "810005": {
     "OriginalText": "ラボの研究員シャロンは、グランを\nフォトンの代替エネルギーとする\n研究中で、実を結べば、エネルギー\n枯渇の危機から脱することが\nできると言う。\n\n研究には、多くのグラン結晶が\n必要であり、この[ruby ほし]惑星[/ruby]の各所に\n偏在すると思われる結晶の\n回収クエストに向かう。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Lab researcher Sharon\nsuccessfully researched the\nphoton as an alternative to gran.\nIn order to avoid depletion the\nparty was tasked to gather\nGran Crystals.",
+    "Enabled": true
   },
   "810006": {
     "OriginalText": "グラン結晶をフォトンに変換する\nシステムの完成にも目処が立ち、\n拠点内の生命維持に関わる施設が\n停止する危機を脱した。\n\n各種施設を建設して、生活の\n拠点を整えるために\nフィルディアの話を聞きに行く。",
