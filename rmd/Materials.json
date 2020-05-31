@@ -3801,8 +3801,8 @@
   },
   "350760": {
     "OriginalText": "Ｇグウォンダの超盾",
-    "Text": "",
-    "Enabled": false
+    "Text": "Super G-Gu Wonda Shield",
+    "Enabled": true
   },
   "350761": {
     "OriginalText": "Ｇウォルガーダの超髪",
@@ -3836,8 +3836,8 @@
   },
   "350767": {
     "OriginalText": "ノイウィンディラスの超翼",
-    "Text": "",
-    "Enabled": false
+    "Text": "Super Noiwindiras Wing",
+    "Enabled": true
   },
   "350768": {
     "OriginalText": "コラル・ドラゴンの超角",
@@ -4021,8 +4021,8 @@
   },
   "350804": {
     "OriginalText": "グランブの超巻き祭",
-    "Text": "",
-    "Enabled": false
+    "Text": "Super Granv Helix",
+    "Enabled": true
   },
   "350805": {
     "OriginalText": "ガーグランブの超巻き祭",
@@ -4836,8 +4836,8 @@
   },
   "350967": {
     "OriginalText": "ノイウィンディラスの硬翼",
-    "Text": "",
-    "Enabled": false
+    "Text": "Stiff Noiwindiras Wing",
+    "Enabled": true
   },
   "350968": {
     "OriginalText": "コラル・ドラゴンの硬角",
@@ -5006,8 +5006,8 @@
   },
   "351001": {
     "OriginalText": "グリバッツの極針",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gribatts Polarized Needle",
+    "Enabled": true
   },
   "351002": {
     "OriginalText": "バリバッツの極針",
