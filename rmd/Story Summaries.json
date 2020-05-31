@@ -6,53 +6,53 @@
   },
   "810001": {
     "OriginalText": "デルタ・ヴァリアントが墜落した\nフォトンのない惑星・マキア。\nルティナと先遣隊の救援に\n向かう中で、ユノと名乗る少女から、\n『グラン』を糾かる。\n\n一方、新艦長フィルディアは\nクルーの大半をコールド\nスリープさせ、ルティナ達に\nブリッジへの出頭を命じる。",
-    "Text": "Delta Valiant crashed onto a planet\ndevoid of photons. A girl named\nJuno gave Lutina and party Gran.\n\nFildia became the new bridge\ncaptain.",
+    "Text": "Delta Valiant crashed onto a planet\ndevoid of photons. A girl named\nJuno gave Lutina and party Gran.\n\nFildia became the new captain.",
     "Enabled": true
   },
   "810002": {
     "OriginalText": "グランについての報告を進める中、\nユノの話に興味を示したレイヴァン\n副長にユノの立体映像を投影した\n宝石を預ける。\n\nフィルディア艦長より、先遣隊の\n生存者捜索を命じられ、\nルティナは不安を口にするが、\n気を取り直してクエストに向かう。",
-    "Text": "With the issue concerning about\nGran, Deputy Raven shows\ninterest in Juno.\n\nCaptain Fildia ordered the party\nfor search and rescue of any\nsurvivors.",
+    "Text": "Regarding about Gran, Deputy\nRaven took interest in Juno.\n\nCaptain Fildia ordered the party to\nsearch for any\nsurvivors.",
     "Enabled": true
   },
   "810003": {
     "OriginalText": "先遣隊でたった二人だけの生存者\nセイルとイズナを救助した。\n\n一方でレイヴァン副長のグラン\n解祈により、グランの実用化が\n成功し、ルティナ達似外も\nグランの力を習得した。\n次なる任務のため、ブリッジへの\n出頭を求められる。",
-    "Text": "The party found Sail and Izuna in a\npinch and helped them.\n\nMeanwhile, Raven found a solution\nto make use of the party's new\npower. The party then called to\nthe bridge.",
+    "Text": "The party found Sail and Izuna in a\npinch and helped them.\n\nMeanwhile, Raven found a solution\nto make use of the party's new\npower.",
     "Enabled": true
   },
   "810004": {
     "OriginalText": "未だエネルギー不足は深刻で\n多くのクルーはコールドスリープ\nから起こすことは出来ない。\n４人しかいない戦闘要員として\n次の任務の説明を受けるため、\n仮設ラボ施設を漢ねる。\n\nレイヴァンの助手にあたる人洋が\nいるらしいが……。",
-    "Text": "They need more energy to wake\nup the crew from coldsleep. Only\nfour people is needed for the party\nas they received their next\nmission to build a temporary lab.",
+    "Text": "They need more energy to wake\nup the crew from coldsleep. The\n4-person party received their next\nmission to build a temp lab.",
     "Enabled": true
   },
   "810005": {
     "OriginalText": "ラボの研究員シャロンは、グランを\nフォトンの代替エネルギーとする\n研究中で、実を結べば、エネルギー\n枯渇の危機から脱することが\nできると言う。\n\n研究には、多くのグラン結晶が\n必要であり、この[ruby ほし]惑星[/ruby]の各所に\n偏在すると思われる結晶の\n回収クエストに向かう。",
-    "Text": "Lab researcher Sharon\nsuccessfully researched the\nphoton as an alternative to gran.\nIn order to avoid depletion the\nparty was tasked to gather\nGran Crystals.",
+    "Text": "Sharon successfully studied Gran\nas an alternative to photon. To\navoid depletion the party was\ntasked to gather Gran Crystals.",
     "Enabled": true
   },
   "810006": {
     "OriginalText": "グラン結晶をフォトンに変換する\nシステムの完成にも目処が立ち、\n拠点内の生命維持に関わる施設が\n停止する危機を脱した。\n\n各種施設を建設して、生活の\n拠点を整えるために\nフィルディアの話を聞きに行く。",
-    "Text": "",
-    "Enabled": false
+    "Text": "The system that can convert Gran\ncrystal to photon was developed.\n\nFildia talks about building various\nfacilities inside the base.",
+    "Enabled": true
   },
   "810007": {
     "OriginalText": "フィルディアにクラスカウンターや\n武器・防具ショップなどを建設して\nもらい、生活の拠点が整ってきた。\n\nだがコールドスリープから\nクルーを起こすには、もっと多くの\nグランが必要なため、さらなる\nグランの回収クエストに向かう。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Fildia set up a class counter,\nweapon and armor shop, etc.\n\nTo wake up the other crew, the\nparty were to collect more Gran\ncrystals.",
+    "Enabled": true
   },
   "810008": {
     "OriginalText": "巨大エネミー『ギガンテス』に\n急襲されるも、フィルディアの\n援護のおかげで九死に一生を得る。\n\n頭部を狙えば、勝算があると踏み、\n高所から攻撃するためのツール\n開発に着手する。\n開発には、ラボ施設の拡張が\n必須となり、さらなるグランを\n求め、クエストに出る。",
-    "Text": "",
-    "Enabled": false
+    "Text": "They managed to escape from the\nGigantes thanks to Fildia.\n\nThey need a tool to attack the\nhead. The lab needs more gran to\nmake it.",
+    "Enabled": true
   },
   "810009": {
     "OriginalText": "グランの力により、足場を作り\nギガンテスの上部からの攻撃を\n可能にする新兵器『ヘイロウ』\nが完成した。\n\nギガンテスとの雪辱戦を制すべく、\nフィルディアとともに\n銅の荒野へ向かう。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A weapon called \"halo\" was made,\nit creates a platform to attack the\nGigantes' head.\n\nThe rematch operation was\nheaded by Fildia.",
+    "Enabled": true
   },
   "810010": {
     "OriginalText": "ギガンテス撃破後、再びユノとの\n邂逅を果たすが、惑星脱出のために\nギガンテスを調べるよう言い残し\n姿を消す。\n\nまた、ギガンテスから大量の\nグラン結晶が得られることが発覚、\nクルー増強のプランが進められる。\nそのために、コールドスリープ\nルームに呼び出される。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Juno left a word about studying\nthe Gigantes to escape the planet.\n\nLarge amount of Gran was gained\nto activate the coldsleep room.",
+    "Enabled": true
   },
   "810011": {
     "OriginalText": "コールドスリープから新たな\nクルーを解凍するにあたり、\nグランの使用を可能にする幸運を\nもたらした「一番運のいい奴」\nとしてフィルディアから人選を\n任された。\n\nリーティアから解凍方法の\n説明を受け、新たな４人の\n解凍に鎮む。",
