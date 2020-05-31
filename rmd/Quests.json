@@ -686,13 +686,13 @@
   },
   "200537": {
     "OriginalText": "アルキュオネの撃破",
-    "Text": "",
-    "Enabled": false
+    "Text": "Alcyone Subjugation",
+    "Enabled": true
   },
   "200538": {
     "OriginalText": "最深部への到達",
-    "Text": "",
-    "Enabled": false
+    "Text": "Reach the Deepest Area",
+    "Enabled": true
   },
   "200539": {
     "OriginalText": "■クリア目標予備枠■",
@@ -701,18 +701,18 @@
   },
   "200540": {
     "OriginalText": "ヴィヴリュードの撃破",
-    "Text": "",
-    "Enabled": false
+    "Text": "Vivryude Subjugation",
+    "Enabled": true
   },
   "200541": {
     "OriginalText": "ギガンテスの撃破",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gigantes Subjugation",
+    "Enabled": true
   },
   "200542": {
     "OriginalText": "レイヴァンの撃破",
-    "Text": "",
-    "Enabled": false
+    "Text": "Raven Subjugation",
+    "Enabled": true
   },
   "200543": {
     "OriginalText": "■クリア目標予備枠■",
@@ -721,13 +721,13 @@
   },
   "200544": {
     "OriginalText": "最深部のエネミー撃破",
-    "Text": "",
-    "Enabled": false
+    "Text": "Eliminate Enemies in Deepest Area",
+    "Enabled": true
   },
   "200545": {
     "OriginalText": "鉱洋の指定数回収",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect Required Amount of Minerals",
+    "Enabled": true
   },
   "200546": {
     "OriginalText": "■クリア目標予備枠■",
@@ -736,53 +736,53 @@
   },
   "200547": {
     "OriginalText": "レイヴガイストの撃破",
-    "Text": "",
-    "Enabled": false
+    "Text": "Rave Geist Subjugation",
+    "Enabled": true
   },
   "200548": {
     "OriginalText": "食材の指定数回収",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect Required Amount of Food",
+    "Enabled": true
   },
   "200549": {
     "OriginalText": "最深部のガラティオン撃破",
-    "Text": "",
-    "Enabled": false
+    "Text": "Eliminate Garation in Deepest Area",
+    "Enabled": true
   },
   "200550": {
     "OriginalText": "アグリオスが指定位置に到達",
-    "Text": "",
-    "Enabled": false
+    "Text": "Agrios Reached the Specified Location",
+    "Enabled": true
   },
   "200551": {
     "OriginalText": "一定時間まで敵を倒し続ける",
-    "Text": "",
-    "Enabled": false
+    "Text": "Kill Enemies Until Time Runs Out",
+    "Enabled": true
   },
   "200552": {
     "OriginalText": "最深部のアグリオス亜種撃破",
-    "Text": "",
-    "Enabled": false
+    "Text": "Eliminate Agrios Variant in Deepest Area",
+    "Enabled": true
   },
   "200553": {
     "OriginalText": "最深部のアルレイバンサー撃破",
-    "Text": "",
-    "Enabled": false
+    "Text": "Eliminate Alray Banther in Deepest Area",
+    "Enabled": true
   },
   "200554": {
     "OriginalText": "最深部のデェフキュオネ撃破",
-    "Text": "",
-    "Enabled": false
+    "Text": "Eliminate Defcyone in Deepest Area",
+    "Enabled": true
   },
   "200555": {
     "OriginalText": "エウリュードの撃破",
-    "Text": "",
-    "Enabled": false
+    "Text": "Eurude Subjugation",
+    "Enabled": true
   },
   "200556": {
     "OriginalText": "グレイオスが指定位置に到達",
-    "Text": "",
-    "Enabled": false
+    "Text": "Greios Reached the Specified Location",
+    "Enabled": true
   },
   "200557": {
     "OriginalText": "拠点の壊滅",
@@ -791,13 +791,13 @@
   },
   "200558": {
     "OriginalText": "制限時間切れ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Time Limit",
+    "Enabled": true
   },
   "200559": {
     "OriginalText": "アグリオスの捕獲",
-    "Text": "",
-    "Enabled": false
+    "Text": "Capture Agrios",
+    "Enabled": true
   },
   "200700": {
     "OriginalText": "なし",
@@ -806,8 +806,8 @@
   },
   "200701": {
     "OriginalText": "アルキュオネが指定位置に到達",
-    "Text": "",
-    "Enabled": false
+    "Text": "Alcyone Reached the Specified Location",
+    "Enabled": true
   },
   "200702": {
     "OriginalText": "■失敗条件予備枠■",
@@ -821,223 +821,223 @@
   },
   "200800": {
     "OriginalText": "クエストが追加されました。\n『惑星上陸初戦』",
-    "Text": "",
-    "Enabled": false
+    "Text": "Quest Has Been Added.\n『First Landing Battle』",
+    "Enabled": true
   },
   "200801": {
     "OriginalText": "クエストが追加されました。\n『仲間の捜索』",
-    "Text": "",
-    "Enabled": false
+    "Text": "Quest Has Been Added.\n『Searching For Comrades』",
+    "Enabled": true
   },
   "200802": {
     "OriginalText": "クエストが追加されました。\n『グラン結晶を求めて』",
-    "Text": "",
-    "Enabled": false
+    "Text": "Quest Has Been Added.\n『Seeking of Gran Crystals』",
+    "Enabled": true
   },
   "200803": {
     "OriginalText": "クエストが追加されました。\n『グラン安定供給のために』",
-    "Text": "",
-    "Enabled": false
+    "Text": "Quest Has Been Added.\n『Stable Supply of Gran』",
+    "Enabled": true
   },
   "200804": {
     "OriginalText": "クエストが追加されました。\n『雪辱の新兵器』",
-    "Text": "",
-    "Enabled": false
+    "Text": "Quest Has Been Added.\n『Vindication of New Weapons』",
+    "Enabled": true
   },
   "200805": {
     "OriginalText": "クエストが追加されました。\n『リーティアのお願い』",
-    "Text": "",
-    "Enabled": false
+    "Text": "Quest Has Been Added.\n『Ask Reitheia』",
+    "Enabled": true
   },
   "200806": {
     "OriginalText": "クエストが追加されました。\n『カリストの難題』",
-    "Text": "",
-    "Enabled": false
+    "Text": "Quest Has Been Added.\n『Callisto's Challenge』",
+    "Enabled": true
   },
   "200807": {
     "OriginalText": "クエストが追加されました。\n『炎の脅威』",
-    "Text": "",
-    "Enabled": false
+    "Text": "Quest Has Been Added.\n『Threat of Fire』",
+    "Enabled": true
   },
   "200808": {
     "OriginalText": "クエストが追加されました。\n『光線の猛威』",
-    "Text": "",
-    "Enabled": false
+    "Text": "Quest Has Been Added.\n『Ray of Fury』",
+    "Enabled": true
   },
   "200809": {
     "OriginalText": "クエストが追加されました。\n『ヨミの要求』",
-    "Text": "",
-    "Enabled": false
+    "Text": "Quest Has Been Added.\n『Yomi's Request』",
+    "Enabled": true
   },
   "200810": {
     "OriginalText": "クエストが追加されました。\n『ヒュペリオンのこだわり』",
-    "Text": "",
-    "Enabled": false
+    "Text": "Quest Has Been Added.\n『Hyperion's Dedication』",
+    "Enabled": true
   },
   "200811": {
     "OriginalText": "クエストが追加されました。\n『命令違反』",
-    "Text": "",
-    "Enabled": false
+    "Text": "Quest Has Been Added.\n『Disobeying Orders』",
+    "Enabled": true
   },
   "200812": {
     "OriginalText": "クエストが追加されました。\n『不機嫌な砲塔』",
-    "Text": "",
-    "Enabled": false
+    "Text": "Quest Has Been Added.\n『Sour Turret』",
+    "Enabled": true
   },
   "200813": {
     "OriginalText": "クエストが追加されました。\n『オルクスの特訓』",
-    "Text": "",
-    "Enabled": false
+    "Text": "Quest Has Been Added.\n『Orcus' Special Training』",
+    "Enabled": true
   },
   "200814": {
     "OriginalText": "クエストが追加されました。\n『屈従の巨獣』",
-    "Text": "",
-    "Enabled": false
+    "Text": "Quest Has Been Added.\n『Monster Submission』",
+    "Enabled": true
   },
   "200815": {
     "OriginalText": "クエストが追加されました。\n『新たな大砲』",
-    "Text": "",
-    "Enabled": false
+    "Text": "Quest Has Been Added.\n『Renewed Artillery』",
+    "Enabled": true
   },
   "200816": {
     "OriginalText": "クエストが追加されました。\n『水装を這う脚』",
-    "Text": "",
-    "Enabled": false
+    "Text": "Quest Has Been Added.\n『Legs Creeping the Water Rig』",
+    "Enabled": true
   },
   "200817": {
     "OriginalText": "クエストが追加されました。\n『迫り来る脅威』",
-    "Text": "",
-    "Enabled": false
+    "Text": "Quest Has Been Added.\n『Impending Menace』",
+    "Enabled": true
   },
   "200818": {
     "OriginalText": "クエストが追加されました。\n『拠点防衛』",
-    "Text": "",
-    "Enabled": false
+    "Text": "Quest Has Been Added.\n『Base Defense』",
+    "Enabled": true
   },
   "200819": {
     "OriginalText": "クエストが追加されました。\n『未踏の奥地』",
-    "Text": "",
-    "Enabled": false
+    "Text": "Quest Has Been Added.\n『Unexplored Regions』",
+    "Enabled": true
   },
   "200820": {
     "OriginalText": "クエストが追加されました。\n『限界の我慢』",
-    "Text": "",
-    "Enabled": false
+    "Text": "Quest Has Been Added.\n『Limit of Tolerance』",
+    "Enabled": true
   },
   "200821": {
     "OriginalText": "クエストが追加されました。\n『地の底へ』",
-    "Text": "",
-    "Enabled": false
+    "Text": "Quest Has Been Added.\n『Underground Land』",
+    "Enabled": true
   },
   "200822": {
     "OriginalText": "クエストが追加されました。\n『天を衝く大尖塔』",
-    "Text": "",
-    "Enabled": false
+    "Text": "Quest Has Been Added.\n『Large Spire Reaching the Heavens』",
+    "Enabled": true
   },
   "200823": {
     "OriginalText": "クエストが追加されました。\n『記憶の断片』",
-    "Text": "",
-    "Enabled": false
+    "Text": "Quest Has Been Added.\n『Memory Fragments』",
+    "Enabled": true
   },
   "200824": {
     "OriginalText": "クエストが追加されました。\n『静かなる都市』",
-    "Text": "",
-    "Enabled": false
+    "Text": "Quest Has Been Added.\n『Silent City』",
+    "Enabled": true
   },
   "200825": {
     "OriginalText": "クエストが追加されました。\n『銅野に穿つ杭』",
-    "Text": "",
-    "Enabled": false
+    "Text": "Quest Has Been Added.\n『Drilling the Steel Fields』",
+    "Enabled": true
   },
   "200826": {
     "OriginalText": "クエストが追加されました。\n『装流を塞ぐ杭』",
-    "Text": "",
-    "Enabled": false
+    "Text": "Quest Has Been Added.\n『Breaking the Obstruction』",
+    "Enabled": true
   },
   "200827": {
     "OriginalText": "クエストが追加されました。\n『炎泉を断つ杭』",
-    "Text": "",
-    "Enabled": false
+    "Text": "Quest Has Been Added.\n『Breaking the Fire Fountain』",
+    "Enabled": true
   },
   "200828": {
     "OriginalText": "クエストが追加されました。\n『塔の上のユノ』",
-    "Text": "",
-    "Enabled": false
+    "Text": "Quest Has Been Added.\n『Yuno in the Top of the Tower』",
+    "Enabled": true
   },
   "200829": {
     "OriginalText": "クエストが追加されました。\n『ユノの覚悟』",
-    "Text": "",
-    "Enabled": false
+    "Text": "Quest Has Been Added.\n『Yuno's Resolution』",
+    "Enabled": true
   },
   "200830": {
     "OriginalText": "クエストが追加されました。\n『果たすべき使命』",
-    "Text": "",
-    "Enabled": false
+    "Text": "Quest Has Been Added.\n『Fulfilling the Mission』",
+    "Enabled": true
   },
   "200831": {
     "OriginalText": "クエストが追加されました。\n『惑星の未来』",
-    "Text": "",
-    "Enabled": false
+    "Text": "Quest Has Been Added.\n『Planet's Future』",
+    "Enabled": true
   },
   "200832": {
     "OriginalText": "クエストが追加されました。\n『約束の時』",
-    "Text": "",
-    "Enabled": false
+    "Text": "Quest Has Been Added.\n『Promise of Time』",
+    "Enabled": true
   },
   "200833": {
     "OriginalText": "クエストが追加されました。\n『★スイーツ・メルヘン』",
-    "Text": "",
-    "Enabled": false
+    "Text": "Quest Has Been Added.\n『★Sweet Fairy Tale』",
+    "Enabled": true
   },
   "200834": {
     "OriginalText": "クエストが追加されました。\n『★スター・ルティナックル』",
-    "Text": "",
-    "Enabled": false
+    "Text": "Quest Has Been Added.\n『★Star Lutinakle』",
+    "Enabled": true
   },
   "200835": {
     "OriginalText": "クエストが追加されました。\n『★不倒バカ一代』",
-    "Text": "",
-    "Enabled": false
+    "Text": "Quest Has Been Added.\n『★I'm an Idiot』",
+    "Enabled": true
   },
   "200836": {
     "OriginalText": "クエストが追加されました。\n『★カリスト改造計画』",
-    "Text": "",
-    "Enabled": false
+    "Text": "Quest Has Been Added.\n『★Callisto's Remodelling』",
+    "Enabled": true
   },
   "200837": {
     "OriginalText": "クエストが追加されました。\n『★注文の多い料理人』",
-    "Text": "",
-    "Enabled": false
+    "Text": "Quest Has Been Added.\n『★A Demanding Chef』",
+    "Enabled": true
   },
   "200838": {
     "OriginalText": "クエストが追加されました。\n『★恋するシャロン』",
-    "Text": "",
-    "Enabled": false
+    "Text": "Quest Has Been Added.\n『★Sharon is in Love』",
+    "Enabled": true
   },
   "200839": {
     "OriginalText": "クエストが追加されました。\n『★明紅の少年』",
-    "Text": "",
-    "Enabled": false
+    "Text": "Quest Has Been Added.\n『★The Crimson Boy』",
+    "Enabled": true
   },
   "200840": {
     "OriginalText": "クエストが追加されました。\n『★戦土に贈る愛』",
-    "Text": "",
-    "Enabled": false
+    "Text": "Quest Has Been Added.\n『★Giving Love in Battle』",
+    "Enabled": true
   },
   "200841": {
     "OriginalText": "クエストが追加されました。\n『難：★ラスト・デート』",
-    "Text": "",
-    "Enabled": false
+    "Text": "Quest Has Been Added.\n『Danger：★Last Date』",
+    "Enabled": true
   },
   "200842": {
     "OriginalText": "クエストが追加されました。\n『ジャッドバンサー撃破任務』",
-    "Text": "",
-    "Enabled": false
+    "Text": "Quest Has Been Added.\n『Jhad Banther Subjugation』",
+    "Enabled": true
   },
   "200843": {
     "OriginalText": "クエストが追加されました。\n『目を覚ます磁晶模』",
-    "Text": "",
-    "Enabled": false
+    "Text": "Quest Has Been Added.\n『Awaken the Magnetic Obelisk』",
+    "Enabled": true
   },
   "201000": {
     "OriginalText": "超：棘の",
@@ -1076,8 +1076,8 @@
   },
   "201013": {
     "OriginalText": "クエストが追加されました。\n『超：黒炎のアルテイオス』",
-    "Text": "",
-    "Enabled": false
+    "Text": "Quest Has Been Added.\n『Ultra: Black Flame of Alteios』",
+    "Enabled": true
   },
   "201020": {
     "OriginalText": "超：尖塔に潜む光線獣",
@@ -1186,8 +1186,8 @@
   },
   "201071": {
     "OriginalText": "一定時間まで敵を倒し続ける",
-    "Text": "",
-    "Enabled": false
+    "Text": "Eliminate Enemies Until Time Runs Out",
+    "Enabled": true
   },
   "201072": {
     "OriginalText": "なし",
@@ -1201,23 +1201,23 @@
   },
   "201074": {
     "OriginalText": "ハンター  Lv.80",
-    "Text": "",
-    "Enabled": false
+    "Text": "Hunter Lv.80",
+    "Enabled": true
   },
   "201075": {
     "OriginalText": "レンジャー Lv.80",
-    "Text": "",
-    "Enabled": false
+    "Text": "Ranger Lv.80",
+    "Enabled": true
   },
   "201076": {
     "OriginalText": "フォース  Lv.80",
-    "Text": "",
-    "Enabled": false
+    "Text": "Force Lv.80",
+    "Enabled": true
   },
   "201077": {
     "OriginalText": "バスター  Lv.80",
-    "Text": "",
-    "Enabled": false
+    "Text": "Buster Lv.80",
+    "Enabled": true
   },
   "201080": {
     "OriginalText": "クエスト名【201760】",
@@ -1261,23 +1261,23 @@
   },
   "201094": {
     "OriginalText": "ハンター  Lv.50",
-    "Text": "",
-    "Enabled": false
+    "Text": "Hunter Lv.50",
+    "Enabled": true
   },
   "201095": {
     "OriginalText": "レンジャー Lv.50",
-    "Text": "",
-    "Enabled": false
+    "Text": "Ranger Lv.50",
+    "Enabled": true
   },
   "201096": {
     "OriginalText": "フォース  Lv.50",
-    "Text": "",
-    "Enabled": false
+    "Text": "Force Lv.50",
+    "Enabled": true
   },
   "201097": {
     "OriginalText": "バスター  Lv.50",
-    "Text": "",
-    "Enabled": false
+    "Text": "Buster Lv.50",
+    "Enabled": true
   },
   "201100": {
     "OriginalText": "冷：弾雨下の回収作戦",
@@ -1426,8 +1426,8 @@
   },
   "201171": {
     "OriginalText": "ネメスガイストの撃破",
-    "Text": "",
-    "Enabled": false
+    "Text": "Nemes Geist Subjugation",
+    "Enabled": true
   },
   "201172": {
     "OriginalText": "失敗条件【301780】",
