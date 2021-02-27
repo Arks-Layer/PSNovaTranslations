@@ -2566,7 +2566,7 @@
   },
   "263005": {
     "OriginalText": "トリメイト × 5 をもらった。",
-    "Text": "Trimate x5 recieved.",
+    "Text": "Trimate x5 received.",
     "Enabled": true
   },
   "263006": {
@@ -3316,32 +3316,32 @@
   },
   "264045": {
     "OriginalText": "クリア報酬！！\nホワイトチケット ×３ を手に入れた。",
-    "Text": "Clear reward!!\nWhite Ticket x3 recieved.",
+    "Text": "Clear reward!!\nWhite Ticket x3 received.",
     "Enabled": false
   },
   "264046": {
     "OriginalText": "クリア報酬！！\nダイヤモンドネイヴＫ         \nダイヤモンドクイーンＫ を手に入れた。",
-    "Text": "Clear reward!!\nDiamond Knave K,\nDiamond Queen K recieved.",
+    "Text": "Clear reward!!\nDiamond Knave K,\nDiamond Queen K received.",
     "Enabled": true
   },
   "264047": {
     "OriginalText": "クリア報酬！！\nダイヤモンドネイヴＲ         \nダイヤモンドクイーンＲ を手に入れた。",
-    "Text": "Clear reward!!\nDiamond Knave R,\nDiamond Queen R recieved.",
+    "Text": "Clear reward!!\nDiamond Knave R,\nDiamond Queen R received.",
     "Enabled": false
   },
   "264048": {
     "OriginalText": "クリア報酬！！\nダイヤモンドネイヴＷ         \nダイヤモンドクイーンＷ を手に入れた。",
-    "Text": "Clear reward!!\nDiamond Knave W,\nDiamond Queen W recieved.",
+    "Text": "Clear reward!!\nDiamond Knave W,\nDiamond Queen W received.",
     "Enabled": true
   },
   "264049": {
     "OriginalText": "クリア報酬！！\nダイヤモンドネイヴＢ         \nダイヤモンドクイーンＢ を手に入れた。",
-    "Text": "Clear reward!!\nDiamond Knave B,\nDiamond Queen B recieved.",
+    "Text": "Clear reward!!\nDiamond Knave B,\nDiamond Queen B received.",
     "Enabled": true
   },
   "264050": {
     "OriginalText": "クリア報酬！！\nマキアファクター ×１ を手に入れた。",
-    "Text": "Clear reward!!\nMahkia Factor x1 recieved.",
+    "Text": "Clear reward!!\nMahkia Factor x1 received.",
     "Enabled": true
   },
   "264051": {
@@ -3401,7 +3401,7 @@
   },
   "264062": {
     "OriginalText": "クリア報酬！！\nダイヤモンドネイヴＹ         \nダイヤモンドクイーンＹ を手に入れた。",
-    "Text": "Clear reward!!\nDiamond Knave Y,\nDiamond Queen Y recieved.",
+    "Text": "Clear reward!!\nDiamond Knave Y,\nDiamond Queen Y received.",
     "Enabled": true
   },
   "265001": {
