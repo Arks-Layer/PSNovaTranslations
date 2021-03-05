@@ -2571,8 +2571,8 @@
   },
   "263006": {
     "OriginalText": "[ruby ーニ・]明紅[/ruby]をもらいうけた。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Morning Red received.",
+    "Enabled": true
   },
   "263007": {
     "OriginalText": "『 オペレーター切り替え機能解放 』\nキサラかリーティアに話しかけることで切替可能です。\n（オペレーターの変更によるゲーム進行の差異はありません。）",

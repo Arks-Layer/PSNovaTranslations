@@ -776,38 +776,38 @@
   },
   "810401": {
     "OriginalText": "銅焔の巨獣",
-    "Text": "Steel Flame Giant",
+    "Text": "The Demon Above Us",
     "Enabled": true
   },
   "810402": {
     "OriginalText": "生存への挑戦 Ⅰ",
-    "Text": "Survival Challenge I",
+    "Text": "Subsistence I",
     "Enabled": true
   },
   "810403": {
     "OriginalText": "生存への挑戦 Ⅱ",
-    "Text": "Survival Challenge II",
+    "Text": "Subsistence II",
     "Enabled": true
   },
   "810404": {
     "OriginalText": "生存への挑戦 Ⅲ",
-    "Text": "Survival Challenge III",
+    "Text": "Subsistence III",
     "Enabled": true
   },
   "810405": {
     "OriginalText": "生存への挑戦 Ⅳ",
-    "Text": "Survival Challenge IV",
+    "Text": "Subsistence IV",
     "Enabled": true
   },
   "810406": {
     "OriginalText": "生存への挑戦 Ⅴ",
-    "Text": "Survival Challenge V",
+    "Text": "Subsistence V",
     "Enabled": true
   },
   "810407": {
     "OriginalText": "脱出",
-    "Text": "",
-    "Enabled": false
+    "Text": "Escape",
+    "Enabled": true
   },
   "810408": {
     "OriginalText": "惑星の真実 Ⅰ",
@@ -831,7 +831,7 @@
   },
   "810412": {
     "OriginalText": "ほんとうの約束",
-    "Text": "Promise of Truth",
+    "Text": "Real Promise",
     "Enabled": true
   },
   "810413": {
