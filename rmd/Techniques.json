@@ -166,7 +166,7 @@
   },
   "590002": {
     "OriginalText": "自身またはタリスのある地点を中心に螺旋状の\n火の玉を発生させる。",
-    "Text": "Generate a spiral of fire that engulfs\nyour surroundings.",
+    "Text": "Generates a spiral of fire that engulfs\nyour surroundings.",
     "Enabled": true
   },
   "590003": {
@@ -176,7 +176,7 @@
   },
   "590004": {
     "OriginalText": "前方扇状の範囲に炎の波を発生させる。",
-    "Text": "Generate a wide arc of fire in front of\nyou.",
+    "Text": "Generates a wide arc of fire in front of\nyou.",
     "Enabled": true
   },
   "590005": {

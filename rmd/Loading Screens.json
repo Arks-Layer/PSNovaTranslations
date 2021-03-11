@@ -16,7 +16,7 @@
   },
   "800003": {
     "OriginalText": "[f 73] で通常攻撃をおこなう。 \nボタンを連打または押し続けることで、連続攻撃が出る。",
-    "Text": "Press [f 73] to attack.\nBy pressing it repeatively, you can perform continous attacks.",
+    "Text": "Press [f 73] to attack.\nBy pressing it repeatedly, you can perform continuous attacks.",
     "Enabled": true
   },
   "800004": {
@@ -176,7 +176,7 @@
   },
   "800035": {
     "OriginalText": "肩越し視点では、より精密な射撃をおこなえる。",
-    "Text": "Entering Third Person mode can\nhelp perform precision attacks.",
+    "Text": "Entering Third Person mode can\nhelp you perform precision attacks.",
     "Enabled": true
   },
   "800036": {
@@ -196,7 +196,7 @@
   },
   "800039": {
     "OriginalText": "ショップ端末を使って\n拠点に設置されたショップに遠隔アクセスできる。",
-    "Text": "Using Shop Terminals,\nYou can access shops in your base.",
+    "Text": "Using Shop Terminals,\nyou can access shops in your base.",
     "Enabled": true
   },
   "800040": {
@@ -286,7 +286,7 @@
   },
   "800057": {
     "OriginalText": "状態異常は一定時間たてば自動的に回復するが、\nソルアトマイザーやアンティを使えば即座に回復できる。",
-    "Text": "You can cure status ailments by waiting a certain period of\ntime, or by using a Sol Atomizer or using the technique Anti.",
+    "Text": "You can cure status ailments by waiting a certain period of\ntime, by using a Sol Atomizer or using the technique Anti.",
     "Enabled": true
   },
   "800058": {
@@ -301,12 +301,12 @@
   },
   "800060": {
     "OriginalText": "状態異常「インフェクション」\n一定時間ダメージを受け続ける。近くの仲間にも感染する。",
-    "Text": "The status effect \"Infection,\" will temporarily\ndamage you over time. It can also spread to to others.",
+    "Text": "The status effect \"Infection,\" will temporarily\ndamage you over time. It can also spread to others.",
     "Enabled": true
   },
   "800061": {
     "OriginalText": "状態異常「ブラインド」\n視覚を阻害され、視界が狭くなる。",
-    "Text": "The status effect \"Blind,\" will temporarily\ndisrupt your vision and your field of view is distorted.",
+    "Text": "The status effect \"Blind,\" will temporarily\ndisrupt your vision and distort your field of view.",
     "Enabled": true
   },
   "800062": {
@@ -326,7 +326,7 @@
   },
   "800065": {
     "OriginalText": "スタン状態になった時は\n[f 65] を上下左右に動かすと早く回復する。",
-    "Text": "Pressing [f 65] Left, right, up or down\nrapidly will get you out of Stun faster.",
+    "Text": "Pressing [f 65] left, right, up or down\nrapidly will get you out of Stun faster.",
     "Enabled": true
   },
   "800066": {
@@ -361,7 +361,7 @@
   },
   "800072": {
     "OriginalText": "グランアーツはグランの力を用いた強力な攻撃。\n繰り出すごとにGP（グランポイント）を消費する。",
-    "Text": "Gran Arts allows the use of powerful Gran-based\nmoves. Each move will cost GP on each use.",
+    "Text": "Gran Arts allow the use of powerful Gran-based\nmoves. Each move will cost GP on each use.",
     "Enabled": true
   },
   "800073": {
@@ -471,7 +471,7 @@
   },
   "800094": {
     "OriginalText": "パーティーメンバーに入れたクルーのレベルは\nプレイヤーの一番高いクラスレベルにあわせて変化する。",
-    "Text": "The Crew Members level will scale based\non the highest Class Level of the Player.",
+    "Text": "The Crew Members' levels will scale based\non the highest Class Level of the Player.",
     "Enabled": true
   },
   "800095": {
@@ -631,7 +631,7 @@
   },
   "800126": {
     "OriginalText": "ソードのグランアーツ「オーバーエンド」は\n旋回中に攻撃場所をコントロールできる。",
-    "Text": "When using the Sword Gran Art [Over End], you can\ncontrol the attack angle by moving the left thumbstick.",
+    "Text": "When using the Sword Gran Art \"Over End\", you can\ncontrol the attack angle by moving [f 0b].",
     "Enabled": true
   },
   "800127": {
