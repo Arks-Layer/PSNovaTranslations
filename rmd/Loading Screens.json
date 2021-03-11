@@ -471,7 +471,7 @@
   },
   "800094": {
     "OriginalText": "パーティーメンバーに入れたクルーのレベルは\nプレイヤーの一番高いクラスレベルにあわせて変化する。",
-    "Text": "The Crew Members' level will scale based\non the highest Class Level of the Player.",
+    "Text": "The Crew Members' levels will scale based\non the highest Class Level of the Player.",
     "Enabled": true
   },
   "800095": {
