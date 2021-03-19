@@ -1081,562 +1081,562 @@
   },
   "730101": {
     "OriginalText": "準備万端です！\nいつでも声かけてくださいね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I'm ready!\nPlease call me anytime.",
+    "Enabled": true
   },
   "730102": {
     "OriginalText": "探索隊を出動させるの？\nまぁかまわないよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Do you want to dispatch the Search\nTeam? I don't mind.",
+    "Enabled": true
   },
   "730103": {
     "OriginalText": "今度はどこに探索しに行けばいいんだ？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Where should I go to search this\ntime?",
+    "Enabled": true
   },
   "730104": {
     "OriginalText": "知らない場所にいくのってワクワクするよな。",
-    "Text": "",
-    "Enabled": false
+    "Text": "It's exciting to go to an unknown\nplace.",
+    "Enabled": true
   },
   "730105": {
     "OriginalText": "僕が探索隊のリーダーだなんて……。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I'm a Leader or such of a Search\nTeam.",
+    "Enabled": true
   },
   "730106": {
     "OriginalText": "ここからなら、シャロンさんが\n見えるかな？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Can you see Sharon from here?",
+    "Enabled": true
   },
   "730107": {
     "OriginalText": "探索隊を動かしたいのかい？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Do you want to operate the\nSearch Team?",
+    "Enabled": true
   },
   "730108": {
     "OriginalText": "なんだ、出撃でもさせんのか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Why don't you let me sortie?",
+    "Enabled": true
   },
   "730109": {
     "OriginalText": "何なりとお命じください。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Please order me anything.",
+    "Enabled": true
   },
   "730110": {
     "OriginalText": "ん、探索隊を出すのか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Hmm, are you gonna send out a\nSearch Team?",
+    "Enabled": true
   },
   "730111": {
     "OriginalText": "ワシの探索隊の実力を見たいのじゃろう。",
-    "Text": "",
-    "Enabled": false
+    "Text": "You want to see the power of the\nmy Search Team.",
+    "Enabled": true
   },
   "730112": {
     "OriginalText": "探索中の動きは俺に任せてもらおう。\nとやかく言われる好きではない。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Let me take care of the search.\nI don't like being told anyway.",
+    "Enabled": true
   },
   "730113": {
     "OriginalText": "探索にはいい頃合い。\nあなたもそう思うでしょ？",
-    "Text": "",
-    "Enabled": false
+    "Text": "It's a good time to search.\nYou think so too, right?",
+    "Enabled": true
   },
   "730114": {
     "OriginalText": "探索活動向きの人や\nそうでない人もいます。\nそれを見冷めるのがあなたの仕事ですよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Not all people are good at \nsearching. It's your job to cool\nit down.",
+    "Enabled": true
   },
   "730115": {
     "OriginalText": "そろそろ探索したく\nなっちゃたんじゃないですか？\nどんどん任せてください！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Isn't it time to search?\nPlease leave it all to me.",
+    "Enabled": true
   },
   "730116": {
     "OriginalText": "探索隊に任せっきりじゃなく\nちょっとは手龍ってよね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Don't leave it all to the Search\nTeam, have a little discretion.",
+    "Enabled": true
   },
   "730117": {
     "OriginalText": "探索隊を出撃させますか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Do you want to sortie the\nSearch Team?",
+    "Enabled": true
   },
   "730118": {
     "OriginalText": "ガンガン探索行っちゃうよ！\nせっかくなら一緒に行かない？",
-    "Text": "",
-    "Enabled": false
+    "Text": "I'm going to search hard!\nWould you go with me?",
+    "Enabled": true
   },
   "730119": {
     "OriginalText": "あらあらっ、探索いっちゃう？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Ara ara, are you going to search?",
+    "Enabled": true
   },
   "730120": {
     "OriginalText": "私を探索隊のリーダーに据えるとは\n見る目あるんじゃないかしら。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I wonder if it's easy to be a\nleader of Search Team.",
+    "Enabled": true
   },
   "730121": {
     "OriginalText": "探索への出撃準備は出来ています。\nいつでもご指示をお願いします。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I'm ready to sortie. Please give\nus instructions any time.",
+    "Enabled": true
   },
   "730122": {
     "OriginalText": "探索とはなかなか\n忍耐のいる任務なんだぞ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Searching is very patient task.",
+    "Enabled": true
   },
   "730123": {
     "OriginalText": "良き探索者とは、探索におけるあらゆる\n失敗を冒した人洋のことかもしれんの。\n要は臆せず、まずは試してみることじゃ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Any good searcher made a mistake\nat some point. The point is, don't\nbe afraid, try it first.",
+    "Enabled": true
   },
   "730124": {
     "OriginalText": "心配しなくでも準備は万端さね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Don't worry, I'm ready to go.",
+    "Enabled": true
   },
   "730125": {
     "OriginalText": "なんだ、探索隊を出撃させるのか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "What makes a Search Team to sortie?",
+    "Enabled": true
   },
   "730126": {
     "OriginalText": "探索隊の準備は出来てるよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "The Search Team is ready.",
+    "Enabled": true
   },
   "730127": {
     "OriginalText": "へへっ、探索隊の準備は\nいつでも万全だぜ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Hehe, the Search Team is\nalways ready!",
+    "Enabled": true
   },
   "730128": {
     "OriginalText": "探索隊にお手龍いできることある？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Is there anything I can do for the\nSearch Team?",
+    "Enabled": true
   },
   "730201": {
     "OriginalText": "それでは行ってきます！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Let's go!",
+    "Enabled": true
   },
   "730202": {
     "OriginalText": "まぁ、期待しないで待っててよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Well, don't expect to wait.",
+    "Enabled": true
   },
   "730203": {
     "OriginalText": "じゃっ、行ってくる！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Well, I'm going!",
+    "Enabled": true
   },
   "730204": {
     "OriginalText": "おーっし！ 行ってくるぜ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Woah! I'm going!",
+    "Enabled": true
   },
   "730205": {
     "OriginalText": "えっと……、た、探索隊行ってきます！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Um... I'm going with the\nSearch Team!",
+    "Enabled": true
   },
   "730206": {
     "OriginalText": "この探索から帰ったら、\nシャロンさんに……。",
-    "Text": "",
-    "Enabled": false
+    "Text": "After the search I'll be going\nhome...,\nto Sharon...",
+    "Enabled": true
   },
   "730207": {
     "OriginalText": "別にかまわないよ、行って来るね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "It doesn't matter, I'll go.",
+    "Enabled": true
   },
   "730208": {
     "OriginalText": "しゃあねぇな、行って来てやるよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I'm gonna go.",
+    "Enabled": true
   },
   "730209": {
     "OriginalText": "かしこまりました。\nふふ、期待には応えますよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Understood. Haha,\nI will meet your expectations.",
+    "Enabled": true
   },
   "730210": {
     "OriginalText": "探索隊、一同出撃！ってか\nさすがにガラじゃねぇな。",
-    "Text": "",
-    "Enabled": false
+    "Text": "All the Search Team sortied!\nIt's not really a gala.",
+    "Enabled": true
   },
   "730211": {
     "OriginalText": "ワシに任せておけば、万事問題なしじゃ。\n大船に乗ったつもりで待つが良い！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Leave it to me, it will be fine.\nJust wait for my reliable plan.",
+    "Enabled": true
   },
   "730212": {
     "OriginalText": "まぁ、いいだろう。\n出撃する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Well, that's fine.\nI'm going to sortie.",
+    "Enabled": true
   },
   "730213": {
     "OriginalText": "そう、あなたの決断を信じるわ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Yes, I believe in your decision.",
+    "Enabled": true
   },
   "730214": {
     "OriginalText": "命令ならば仕方ないわね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Can't be helped if it's an order.",
+    "Enabled": true
   },
   "730215": {
     "OriginalText": "まだ見ぬ新天地へ～！！\n頑張りますよ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "To the unknown world!!\nI will do my best!",
+    "Enabled": true
   },
   "730216": {
     "OriginalText": "しょうがないわね。\n行って来るから待ってなさい。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Nothing I can do about it.\nI'm going, just you wait.",
+    "Enabled": true
   },
   "730217": {
     "OriginalText": "何事になければ良いのですが。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I hope something good will happen.",
+    "Enabled": true
   },
   "730218": {
     "OriginalText": "それでは行ってきまーす！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Well then let's go!",
+    "Enabled": true
   },
   "730219": {
     "OriginalText": "じゃあ、楽しみに待ってね！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Then, I'm look forward to it.",
+    "Enabled": true
   },
   "730220": {
     "OriginalText": "たまにはあなたに従って\nあげてもよくってよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I can follow you once in a while.",
+    "Enabled": true
   },
   "730221": {
     "OriginalText": "ご期待に敷えるように\n頑張りますね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I'll do my best to meet your\nexpectations.",
+    "Enabled": true
   },
   "730222": {
     "OriginalText": "では、いってきてやろう。",
-    "Text": "",
-    "Enabled": false
+    "Text": "So, let's go.",
+    "Enabled": true
   },
   "730223": {
     "OriginalText": "心配することはない。\nおぬしは目的地を示した。そこへ至る道は\nわしら探索隊が柘いていってやろうて。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Don't worry. I will show your\ndestination. The way to get there\nwill be found by our Search Team.",
+    "Enabled": true
   },
   "730224": {
     "OriginalText": "まっ、そんな心配しなくて大丈夫だよ。\nいい結果を持ってきてあげるからさ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Well, you don't have to worry about\nit. I'll bring you good results.",
+    "Enabled": true
   },
   "730225": {
     "OriginalText": "大将は心配せずに\nどーんと構えて待ってろってな。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Don't worry, the boss should hold\non and wait.",
+    "Enabled": true
   },
   "730226": {
     "OriginalText": "それじゃ頑張って来るね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Then I'll do my best.",
+    "Enabled": true
   },
   "730227": {
     "OriginalText": "期待して待ってろよ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Expect and wait!",
+    "Enabled": true
   },
   "730228": {
     "OriginalText": "それじゃあ、しゅっぱーつ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Well then, let's start!",
+    "Enabled": true
   },
   "730301": {
     "OriginalText": "探索の結果をお話しさせていただきます。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I will tell you the result of\nthe search.",
+    "Enabled": true
   },
   "730302": {
     "OriginalText": "探索結果を報告するよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I will report the search results.",
+    "Enabled": true
   },
   "730303": {
     "OriginalText": "探索隊、無事帰ったぜ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "The Search Team returned safely.",
+    "Enabled": true
   },
   "730304": {
     "OriginalText": "今回の探索もなかなかおもしろかったぜ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "This search was quite interesting!",
+    "Enabled": true
   },
   "730305": {
     "OriginalText": "はぁぁ、なんとか無事帰ってきました……。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Phew, I returned safely....",
+    "Enabled": true
   },
   "730306": {
     "OriginalText": "探索の成果を聞きたいのかい？\nぜひシャロンさんに話したいところだけど\nまぁキミでもいいか。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Do you want to hear the search\nresults? I definitely want to talk\nto Sharon, but would you listen?",
+    "Enabled": true
   },
   "730307": {
     "OriginalText": "まずまずの成果なんじゃないかな？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Isn't it a decent result?",
+    "Enabled": true
   },
   "730308": {
     "OriginalText": "探索の結果報告？\n何だ、めんどくせぇな。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Report the search results?\n What, it's a hassle.",
+    "Enabled": true
   },
   "730309": {
     "OriginalText": "無事戻りました。\n結果をお聞きになられますか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "I returned safely.\nWould you listen to the results?",
+    "Enabled": true
   },
   "730310": {
     "OriginalText": "探索結果出てるぜ、聞いてけよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "The search results are out,\nplease listen.",
+    "Enabled": true
   },
   "730311": {
     "OriginalText": "探索の結果じゃ。\n心して聞くのじゃぞ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "As a result of the search.\nListen carefully!",
+    "Enabled": true
   },
   "730312": {
     "OriginalText": "探索の結果報告だ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "The report of the search results\nis ready.",
+    "Enabled": true
   },
   "730313": {
     "OriginalText": "ふふ、この結果は探索に行く前から\n見えていたわ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Hehe, the results can be seen\nalready before the search.",
+    "Enabled": true
   },
   "730314": {
     "OriginalText": "探索の報告が欲しいの？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Do you want a report of the search?",
+    "Enabled": true
   },
   "730315": {
     "OriginalText": "はい、探索の結果報告であります！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Yes, it is the report of the\nsearch results.",
+    "Enabled": true
   },
   "730316": {
     "OriginalText": "無事、帰ってきたわよ。\n……って別にそのことを褒めて欲しい\nとかそういうのじゃないからね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I returned safely. It's not like I\nwant you to praise me.",
+    "Enabled": true
   },
   "730317": {
     "OriginalText": "探索の結果、お聞きになりますか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Do you want to hear the\nsearch results?",
+    "Enabled": true
   },
   "730318": {
     "OriginalText": "ねぇねぇ、探索の成果聞いてってよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Hey, listen to the search results.",
+    "Enabled": true
   },
   "730319": {
     "OriginalText": "じゃあ、探索の結果を\n披露しちゃうわね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Then, I'll show you the result of\nthe search.",
+    "Enabled": true
   },
   "730320": {
     "OriginalText": "結果を報告？\nふぅ、面倒ね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Report the results?\nPhew, how troublesome.",
+    "Enabled": true
   },
   "730321": {
     "OriginalText": "それでは探索の結果報告を\nさせていただきますね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Then I will report the result of\nthe search.",
+    "Enabled": true
   },
   "730322": {
     "OriginalText": "よく聞け、探索の結果報告だ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Listen carefully, this is the\nreport of the results of the\nsearch.",
+    "Enabled": true
   },
   "730323": {
     "OriginalText": "失敗に失敗を重ねた先に\n成功があるとしたら、\n失敗も成功も等価言えんかの。",
-    "Text": "",
-    "Enabled": false
+    "Text": "If there is success after making\nmistakes, then failure and success\nis equal.",
+    "Enabled": true
   },
   "730324": {
     "OriginalText": "結果報告だね、待ってたよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "It's the result report you've\nbeen waiting.",
+    "Enabled": true
   },
   "730325": {
     "OriginalText": "探索の成果でも聞きたいのか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Do you want to hear the results of\nyour search?",
+    "Enabled": true
   },
   "730326": {
     "OriginalText": "えっと、探索の結果報告だよね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Um, it's the report of the results\nof the search.",
+    "Enabled": true
   },
   "730327": {
     "OriginalText": "探索の結果報告するぜ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "I will report the result of\nthe search.",
+    "Enabled": true
   },
   "730328": {
     "OriginalText": "あっ、探索報告だよね、ええっと……。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Oh, it's a search report, um....",
+    "Enabled": true
   },
   "730401": {
     "OriginalText": "今は探索の命令は出ていません。",
-    "Text": "",
-    "Enabled": false
+    "Text": "No search order has been issued now.",
+    "Enabled": true
   },
   "730402": {
     "OriginalText": "今は外に出る気にはならないね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I don't feel like going out now.",
+    "Enabled": true
   },
   "730403": {
     "OriginalText": "今は探索隊は休憩中だぞ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "The Search Team is taking a\nbreak now.",
+    "Enabled": true
   },
   "730404": {
     "OriginalText": "今の間にトレーニングにでも\n行ってこよっかな？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Should I go training in the\nmeantime?",
+    "Enabled": true
   },
   "730405": {
     "OriginalText": "このままずっと出撃命令が\nなければいいのに……。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I wish I don't have a sortie order\nall the time.",
+    "Enabled": true
   },
   "730406": {
     "OriginalText": "探索から帰った時にボクを迎えてくれる\nシャロンさんの笑顔……。\nいやーたまらないね！！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Sharon's smile welcomes me when I\nreturn from the search....\nNo! I can't resist it!",
+    "Enabled": true
   },
   "730407": {
     "OriginalText": "今は休憩中。\n出撃命令は受け付けてないよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I'm taking a break now.\nI'm not accepting sortie orders.",
+    "Enabled": true
   },
   "730408": {
     "OriginalText": "なんだよ、探索の命令はないのか。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Why is there no search orders?",
+    "Enabled": true
   },
   "730409": {
     "OriginalText": "穏やかな時間は良いですよね。\nまぁ戦場も嫌いではないのですが。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Quite times are good. Well, I don't\nhate the battlefield either.",
+    "Enabled": true
   },
   "730410": {
     "OriginalText": "今は出撃命令がないんでね。\n骨休めって奴だ",
-    "Text": "",
-    "Enabled": false
+    "Text": "I don't have a sortie order right\nnow. I'm relaxed.",
+    "Enabled": true
   },
   "730411": {
     "OriginalText": "なぬっ、さぼっている訳ではないぞ、\n休息も仕事のうちじゃ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "What, I'm not skipping, rest is\npart of my work!",
+    "Enabled": true
   },
   "730412": {
     "OriginalText": "命令のない時間は\n俺の好きにさせてもらう。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I will let you like me when there\nis no order.",
+    "Enabled": true
   },
   "730413": {
     "OriginalText": "休み、英気を養う。\n探索の成功に不可欠なものね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Taking a break and rest. It’s\nessential to the success of your\nsearch.",
+    "Enabled": true
   },
   "730414": {
     "OriginalText": "こんなところで待ちぼうけなんて……。\n人村の有効活用に関して、提案する\n必要があるかもしれないですね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I don't want to wait....\nIt may be necessary to suggest on\nthe effectiveness of the personnel.",
+    "Enabled": true
   },
   "730415": {
     "OriginalText": "あれれ、今日は探索の命令は\nないんですね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Wow, there are no search orders\ntoday.",
+    "Enabled": true
   },
   "730416": {
     "OriginalText": "私達、探索隊の成果で\nここでの生活が支えられてるって\nあんたちゃんとわかってるの？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Do you know that the results of the\nSearch Team support our lives here?",
+    "Enabled": true
   },
   "730417": {
     "OriginalText": "探索の命令がない時間は\n気が緩んでいけませんね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "You shouldn't relax even when you\ndon't have search orders.",
+    "Enabled": true
   },
   "730418": {
     "OriginalText": "暇だよね、\nちょっと遊びにいってきていい？",
-    "Text": "",
-    "Enabled": false
+    "Text": "You're free right,\ncan you come and visit us?",
+    "Enabled": true
   },
   "730419": {
     "OriginalText": "命令はまだなの？\nもう、待ちくたびれちゃうわ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Is there an order yet?\nI'm tired of waiting.",
+    "Enabled": true
   },
   "730420": {
     "OriginalText": "はぁぁ……。\n探索の命令がないと眠くなっていけないわ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Waaa.. I can't sleep\nwithout a search order.",
+    "Enabled": true
   },
   "730421": {
     "OriginalText": "現在、探索隊は休憩中です。\nまたの機会を。",
-    "Text": "",
-    "Enabled": false
+    "Text": "The Search Team is currently taking\na break. It will be another chance\nfor them.",
+    "Enabled": true
   },
   "730422": {
     "OriginalText": "まぁそう急く必要はなかろう。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Well, I don't need to hurry.",
+    "Enabled": true
   },
   "730423": {
     "OriginalText": "出発をそう急かすものではないよ。\n最初の踏み出す足の向きが\n任務の出来を左右したりすることもある。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I'm not rushing to leave. My first\nsteps may affect the mission.",
+    "Enabled": true
   },
   "730424": {
     "OriginalText": "よく働いて、よく休む。\nいいアークスの基本だよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Work hard and rest well.\nIt's the basics of ARKS.",
+    "Enabled": true
   },
   "730425": {
     "OriginalText": "お前もちょっとは休めよ。\n気を張りすぎるってのは良くねえからな。",
-    "Text": "",
-    "Enabled": false
+    "Text": "You need a little rest.\nIt's not bad to be too careful.",
+    "Enabled": true
   },
   "730426": {
     "OriginalText": "今の時間は探索隊は休憩中だよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "The Search Team is taking a break\nat this time.",
+    "Enabled": true
   },
   "730427": {
     "OriginalText": "えっ、さぼってるって？\nち、違うよ、身体を休めるのは\n仕事のうちってやつだろ？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Eh, am I skipping? No, it's part of\nthe job to rest your body, right?",
+    "Enabled": true
   },
   "730428": {
     "OriginalText": "しー、今は探索隊はお休み中だから\n静かにしてあげてね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Shh, the Search Team is on break\nnow, please be quite.",
+    "Enabled": true
   }
 }

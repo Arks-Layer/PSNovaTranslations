@@ -186,8 +186,8 @@
   },
   "160037": {
     "OriginalText": "与ダメージ倍率補正",
-    "Text": "",
-    "Enabled": false
+    "Text": "Damage Ratio Alter",
+    "Enabled": true
   },
   "160038": {
     "OriginalText": "打撃耐性",
@@ -196,13 +196,13 @@
   },
   "160039": {
     "OriginalText": "属性攻撃力補正",
-    "Text": "",
-    "Enabled": false
+    "Text": "Attack Correction",
+    "Enabled": true
   },
   "160040": {
     "OriginalText": "技量補正量",
-    "Text": "",
-    "Enabled": false
+    "Text": "Ability Correction",
+    "Enabled": true
   },
   "160041": {
     "OriginalText": "クリティカル率アップ",
@@ -276,18 +276,18 @@
   },
   "160055": {
     "OriginalText": "ガード実行",
-    "Text": "",
-    "Enabled": false
+    "Text": "Guard Action",
+    "Enabled": true
   },
   "160056": {
     "OriginalText": "スタイリッシュロール実行",
-    "Text": "",
-    "Enabled": false
+    "Text": "Stylish Roll Action",
+    "Enabled": true
   },
   "160057": {
     "OriginalText": "スウェー実行",
-    "Text": "",
-    "Enabled": false
+    "Text": "Sway Action",
+    "Enabled": true
   },
   "160058": {
     "OriginalText": "",
@@ -326,8 +326,8 @@
   },
   "160065": {
     "OriginalText": "周囲戦闘不能回復",
-    "Text": "",
-    "Enabled": false
+    "Text": "Area Revival",
+    "Enabled": true
   },
   "160066": {
     "OriginalText": "効果範囲",
@@ -336,8 +336,8 @@
   },
   "160067": {
     "OriginalText": "自分戦闘不能回復",
-    "Text": "",
-    "Enabled": false
+    "Text": "Self Revival",
+    "Enabled": true
   },
   "160068": {
     "OriginalText": "",
@@ -521,33 +521,33 @@
   },
   "160104": {
     "OriginalText": "ジャストガード使用可能フラグ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Just Guard Usability Flag",
+    "Enabled": true
   },
   "160105": {
     "OriginalText": "ステップ使用フラグ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Step Usage Flag",
+    "Enabled": true
   },
   "160106": {
     "OriginalText": "ステップアタック使用フラグ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Step Attack Usage Flag",
+    "Enabled": true
   },
   "160107": {
     "OriginalText": "ダイブロール使用可能フラグ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Dive Roll Usability Flag",
+    "Enabled": true
   },
   "160108": {
     "OriginalText": "ミラージュエスケープ使用可能フラグ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Mirage Escape Usability Flag",
+    "Enabled": true
   },
   "160109": {
     "OriginalText": "テクニック使用可能フラグ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Tech Usability Flag",
+    "Enabled": true
   },
   "160110": {
     "OriginalText": "",
@@ -556,93 +556,93 @@
   },
   "160111": {
     "OriginalText": "クイック武器変更PA使用可能フラグ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Quick Weapon Change PA Usability Flag",
+    "Enabled": true
   },
   "160112": {
     "OriginalText": "JGA有効フラグ",
-    "Text": "",
-    "Enabled": false
+    "Text": "JGA Effect Flag",
+    "Enabled": true
   },
   "160113": {
     "OriginalText": "ジャストカウンター使用可能フラグ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Just Counter Usability Flag",
+    "Enabled": true
   },
   "160114": {
     "OriginalText": "ガードＧＰ変換有効フラグ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Guard GP Change Effect Flag",
+    "Enabled": true
   },
   "160115": {
     "OriginalText": "ダイブロール時の無敵フラグ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Dive Roll Invincibility Flag",
+    "Enabled": true
   },
   "160116": {
     "OriginalText": "コンセントレーション有効フラグ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Concentration Effect Flag",
+    "Enabled": true
   },
   "160117": {
     "OriginalText": "状態異常お返し",
-    "Text": "",
-    "Enabled": false
+    "Text": "Bad Status Revenge",
+    "Enabled": true
   },
   "160118": {
     "OriginalText": "オートメイト発動確率",
-    "Text": "",
-    "Enabled": false
+    "Text": "Automation Chance",
+    "Enabled": true
   },
   "160119": {
     "OriginalText": "ソード伝備可能フラグ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Sword Advent Chance Flag",
+    "Enabled": true
   },
   "160120": {
     "OriginalText": "パルチザン伝備可能フラグ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Partisan Advent Chance Flag",
+    "Enabled": true
   },
   "160121": {
     "OriginalText": "ダブルセイバー伝備可能フラグ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Double Saber Advent Chance Flag",
+    "Enabled": true
   },
   "160122": {
     "OriginalText": "アサルトライフル伝備可能フラグ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Assault Rifle Advent Chance Flag",
+    "Enabled": true
   },
   "160123": {
     "OriginalText": "ツインマシンガン伝備可能フラグ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Twin MG Advent Chance Flag",
+    "Enabled": true
   },
   "160124": {
     "OriginalText": "ロッド伝備可能フラグ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Rod Advent Chance Flag",
+    "Enabled": true
   },
   "160125": {
     "OriginalText": "タリス伝備可能フラグ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Talis Advent Chance Flag",
+    "Enabled": true
   },
   "160126": {
     "OriginalText": "ウォンド伝備可能フラグ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Wand Advent Chance Flag",
+    "Enabled": true
   },
   "160127": {
     "OriginalText": "パイル伝備可能フラグ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Pile Advent Chance Flag",
+    "Enabled": true
   },
   "160128": {
     "OriginalText": "ヘイロウ伝備可能フラグ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Halo Advent Chance Flag",
+    "Enabled": true
   },
   "160129": {
     "OriginalText": "敵レア出現率",
@@ -866,8 +866,8 @@
   },
   "160173": {
     "OriginalText": "攻撃アタリ拡大率",
-    "Text": "",
-    "Enabled": false
+    "Text": "Sequent Attack Rate Multiplier",
+    "Enabled": true
   },
   "160174": {
     "OriginalText": "攻撃アクション再生速度",

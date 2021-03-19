@@ -151,23 +151,23 @@
   },
   "690007": {
     "OriginalText": "ギガティオンが翼の１０本の\nチェーンソーを大きく振り上げ、\n周辺の敵を切り裂く。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gigation swings its 10 wing chainsaws and\ntears all the enemies around.",
+    "Enabled": true
   },
   "690008": {
     "OriginalText": "デェフキュオネが回転しながら\n周囲に縞幕弾を投下させ、\n敵をブラインド状態にする。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Defcyone spins and drops a barrage,\ngiving blind status to the enemies.",
+    "Enabled": true
   },
   "690009": {
     "OriginalText": "上空に発射したアルテイオスの主砲が\n広範囲に降り注ぎ、周辺のエネミーに\n中規物のダメージを与える。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Alteios fires its main weapons to the\nsky and pours in a wide area, damaging\nall the enemies around.",
+    "Enabled": true
   },
   "690010": {
     "OriginalText": "グラヴディオンが翼の１０本の\nチェーンソーを大きく振り上げ、\n周辺の敵を切り裂く。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gravdion swings its 10 wing chainsaws and\ntears all the enemies around.",
+    "Enabled": true
   },
   "690011": {
     "OriginalText": "刺した杭を爆発させて、ギガンテスと\nグランリンクするためのスキル。\n杭の数が多いほど大ダメージを与えられる。",

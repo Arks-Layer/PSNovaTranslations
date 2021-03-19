@@ -11,118 +11,118 @@
   },
   "260077": {
     "OriginalText": "ブリッジより通達。\nコールドスリープルームへの\n出頭を要請する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Announcement from the Bridge. We requests\nyour presence on the Cold Sleep Room.",
+    "Enabled": true
   },
   "260078": {
     "OriginalText": "ブリッジより通達。\nラボへの出頭を要請する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Announcement from the Bridge. We requests\nyour presence on the Lab.",
+    "Enabled": true
   },
   "260079": {
     "OriginalText": "ラボより通達です。\nラボでクルーの配属ができるようになりました。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Announcement from the Lab. It is now\npossible to assign crew on the Lab.",
+    "Enabled": true
   },
   "260080": {
     "OriginalText": "今後、コールドスリープルームで\n解凍したクルーを好きなショップや\n施設に配属できますよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "From now on, you can assign a crew in\nCold Sleep Room to your favorite shops\nand facilities.",
+    "Enabled": true
   },
   "260081": {
     "OriginalText": "ラボより通達です。\nラボで施設の開発や拡張ができるように\nなりました。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Announcement from the Lab. You can now\ndevelop and upgrade a facility in the\nLab.",
+    "Enabled": true
   },
   "260082": {
     "OriginalText": "ご入り用の際は\n気軽にお声掛けください。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Please feel free to contact us when you\nneed it.",
+    "Enabled": true
   },
   "260083": {
     "OriginalText": "ヘイロウを作製するには\n武器ショップ、バスターになるには\nクラスカウンターが必要です。",
-    "Text": "",
-    "Enabled": false
+    "Text": "You can now create a Halo in the Weapon\nShop and you can now convert to Buster\nclass in the Class Counter.",
+    "Enabled": true
   },
   "260084": {
     "OriginalText": "しっかり準備して、\nギガンテスに挑みましょう！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Make secured preparations to challenge\nthe Gigantes.",
+    "Enabled": true
   },
   "260085": {
     "OriginalText": "艦長がコスチュームショップを\n作ってくれたよ。こんな不煽な[ruby ほし]惑星[/ruby]だと\n気分転換も必要だよね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I constructed a Costume Shop. It is\nneeded for a change of pace in the\nplanet, right?",
+    "Enabled": true
   },
   "260086": {
     "OriginalText": "艦長が防具ショップを作ってくれたぜ！\n敵の毛向に合わせてシールドユニットを\n変えてこそ、傾い戦土ってヤツだ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I constructed a Shield Shop! You can now\nchange your shield unit depending on\nyour enemy in the battlefield.",
+    "Enabled": true
   },
   "260087": {
     "OriginalText": "艦長がエステを作ってくださいました。\nまだ出来ることは少ないですが\nぜひご利用ください。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I constructed a Makeover Shop. There is\nnot much to do yet but please use it.",
+    "Enabled": true
   },
   "260088": {
     "OriginalText": "アイテムショップを作っておいたぞ！\n何が起こるかわからん[ruby ほし]惑星[/ruby]だから、\nちゃんと準備してから任務につけよ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "The Item Shop is constructed! The planet\nis unpredictable so be ready when you\ngo on a mission!",
+    "Enabled": true
   },
   "260089": {
     "OriginalText": "簡易の武器ショップが完成した！\nアークスたるもの、武器のメンテナンスを\n怠るんじゃねぇぞ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "The convenient Weapon Shop is completed!\nDon't forget to do maintenance of your\nARKS weapon.",
+    "Enabled": true
   },
   "260090": {
     "OriginalText": "クラスカウンターを作ったぞ！\nどんな状況であろうと、自分を研賢する\n心構えを忘れちゃいけないからな！",
-    "Text": "",
-    "Enabled": false
+    "Text": "The Class Counter is constructed! In any\nsituation, don't forget to improve\nyourself to be more ready!",
+    "Enabled": true
   },
   "260091": {
     "OriginalText": "拠点内に食堂をつくってやったぞ。\nガンガン食べて、ガンガン働けよ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "The Restaurant is built inside the base.\nWork hard, eat hard!.",
+    "Enabled": true
   },
   "260092": {
     "OriginalText": "艦長が食堂を作ってくださいましたぞ！\n『食わる者、働くべからず』\nいつでも[ruby わたくし]私[/ruby]の自慢の料理を食べに来てください！",
-    "Text": "",
-    "Enabled": false
+    "Text": "I constructed the Restaurant. Those who\neat and doesn't work, you can always eat\nthe food with my prideful cooking.",
+    "Enabled": true
   },
   "260093": {
     "OriginalText": "ん、アイテムの補充が欲しいのか？\nしょうがねえな、お前には苦労かけてるしな。\nでも、洋資にも限りがある。大事に使えよ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Hm, want to replenish your items? Can't\nhelp using it when in trouble. Still the\nresources is finite so use it carefully!",
+    "Enabled": true
   },
   "260094": {
     "OriginalText": "ちょっと話したいことがあるんだ。\n手が空いた時にオレに声をかけてくれるか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "I have something to talk about. Can you\ncontact me when you're available?",
+    "Enabled": true
   },
   "260095": {
     "OriginalText": "最近イズナが忙しそうに働いてるよね。\nセイルも心配そうに見てたみたいだし、\nちょっと様子を見に行ってみようか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Izuna seems busy lately. Sail seems\nworried about something. Shall we go see\nthe situation?",
+    "Enabled": true
   },
   "260096": {
     "OriginalText": "まずは、この拠点に施設をつくるぞ！\n建設計画を相談したいから、\nオレに声を掛けに来てくれ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "First of all, we will build a facility\nin the base! Contact me if you want to\ntalk about it.",
+    "Enabled": true
   },
   "260097": {
     "OriginalText": "ラボで対ギガンテス用ツールの\n研究を行っております。\nラボへのグランの供給をお願いします。",
-    "Text": "",
-    "Enabled": false
+    "Text": "We are researching for a tool against\nthe Gigantes in the Lab. Please provide\nGran for the Lab.",
+    "Enabled": true
   },
   "260098": {
     "OriginalText": "君たちに頼みたいことがある。\n私はラボにいるので、\n話を聞きに来てくれますか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "I have something to tell to all of you.\nI'm in the Lab, will you come and hear\nit?",
+    "Enabled": true
   },
   "260099": {
     "OriginalText": "そろそろこの[ruby ほし]惑星[/ruby]ともおさらばだ。\n準備できたら、オレに声かけろよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Soon we will say goodbye to this planet.\nTalk to me when you are ready.",
+    "Enabled": true
   },
   "260100": {
     "OriginalText": "どうしたよ？",
@@ -131,8 +131,8 @@
   },
   "260101": {
     "OriginalText": "用事か？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Is it a task?",
+    "Enabled": true
   },
   "260102": {
     "OriginalText": "ふん……。",
@@ -186,8 +186,8 @@
   },
   "260112": {
     "OriginalText": "……（ん？という感じで軽く）。",
-    "Text": "",
-    "Enabled": false
+    "Text": "....(Hm? Just like that).",
+    "Enabled": true
   },
   "260113": {
     "OriginalText": "何だ？",
@@ -206,313 +206,313 @@
   },
   "260116": {
     "OriginalText": "いきたまえ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Come on.",
+    "Enabled": true
   },
   "260117": {
     "OriginalText": "また来たまえ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Come again.",
+    "Enabled": true
   },
   "260118": {
     "OriginalText": "任せたぞ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I'll leave it to you.",
+    "Enabled": true
   },
   "260119": {
     "OriginalText": "よろしい。",
-    "Text": "",
-    "Enabled": false
+    "Text": "All right.",
+    "Enabled": true
   },
   "260120": {
     "OriginalText": "用件は手短にな。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Make it short.",
+    "Enabled": true
   },
   "260121": {
     "OriginalText": "俺に用か？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Is it for me?",
+    "Enabled": true
   },
   "260122": {
     "OriginalText": "見向きもしない。（反応なし）",
-    "Text": "",
-    "Enabled": false
+    "Text": "Ignoring. (No reaction)",
+    "Enabled": true
   },
   "260123": {
     "OriginalText": "……（ん？という感じで軽く）。",
-    "Text": "",
-    "Enabled": false
+    "Text": "....(Hm? Just like that).",
+    "Enabled": true
   },
   "260124": {
     "OriginalText": "お前か。",
-    "Text": "",
-    "Enabled": false
+    "Text": "It's you.",
+    "Enabled": true
   },
   "260125": {
     "OriginalText": "さっさと行け。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Move it quickly.",
+    "Enabled": true
   },
   "260126": {
     "OriginalText": "仕事に戻れ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Go back to work.",
+    "Enabled": true
   },
   "260127": {
     "OriginalText": "……またな。",
-    "Text": "",
-    "Enabled": false
+    "Text": "....See you.",
+    "Enabled": true
   },
   "260128": {
     "OriginalText": "やってみせろ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Give it a try.",
+    "Enabled": true
   },
   "260129": {
     "OriginalText": "注文通り、といったところだ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "As ordered, most likely.",
+    "Enabled": true
   },
   "260130": {
     "OriginalText": "どうしたよ？",
-    "Text": "",
-    "Enabled": false
+    "Text": "What's wrong?",
+    "Enabled": true
   },
   "260131": {
     "OriginalText": "何かあったか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "What happened?",
+    "Enabled": true
   },
   "260132": {
     "OriginalText": "……（軽くふん、ぐらい）。",
-    "Text": "",
-    "Enabled": false
+    "Text": "....(Most likely).",
+    "Enabled": true
   },
   "260133": {
     "OriginalText": "おう。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Oh.",
+    "Enabled": true
   },
   "260134": {
     "OriginalText": "よう！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Let's go!",
+    "Enabled": true
   },
   "260135": {
     "OriginalText": "さて、仕事だ。お前もだろ？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Well, let's get to work.",
+    "Enabled": true
   },
   "260136": {
     "OriginalText": "じゃあな。",
-    "Text": "",
-    "Enabled": false
+    "Text": "See you.",
+    "Enabled": true
   },
   "260137": {
     "OriginalText": "また来いよ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Come again!",
+    "Enabled": true
   },
   "260138": {
     "OriginalText": "ちゃんとやってくれよな。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Please do it properly.",
+    "Enabled": true
   },
   "260139": {
     "OriginalText": "おっ、すげーじゃん！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Oh, that's amazing!",
+    "Enabled": true
   },
   "260140": {
     "OriginalText": "俺に話しかい？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Are you talking to me?",
+    "Enabled": true
   },
   "260141": {
     "OriginalText": "用事か？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Is it a task?",
+    "Enabled": true
   },
   "260142": {
     "OriginalText": "ん？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Hm?",
+    "Enabled": true
   },
   "260143": {
     "OriginalText": "おうっ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Ugh!",
+    "Enabled": true
   },
   "260144": {
     "OriginalText": "おいでなすったな！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Come on!",
+    "Enabled": true
   },
   "260145": {
     "OriginalText": "お互い仕事に戻るとしようや。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Let's go back to our work.",
+    "Enabled": true
   },
   "260146": {
     "OriginalText": "またな。",
-    "Text": "",
-    "Enabled": false
+    "Text": "See you.",
+    "Enabled": true
   },
   "260147": {
     "OriginalText": "いつでも来いよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Come anytime.",
+    "Enabled": true
   },
   "260148": {
     "OriginalText": "よろしくな！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Nice to meet you.",
+    "Enabled": true
   },
   "260149": {
     "OriginalText": "上出来だ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "It's good!",
+    "Enabled": true
   },
   "260150": {
     "OriginalText": "食欲はありますかな？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Do you have an appetite?",
+    "Enabled": true
   },
   "260151": {
     "OriginalText": "肉と魚どちらが……え、違う？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Which is it meat or fish...eh, neither?",
+    "Enabled": true
   },
   "260152": {
     "OriginalText": "おや？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Oh?",
+    "Enabled": true
   },
   "260153": {
     "OriginalText": "これはこれは。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Hey there.",
+    "Enabled": true
   },
   "260154": {
     "OriginalText": "わたくしはここですぞ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "I'm here!",
+    "Enabled": true
   },
   "260155": {
     "OriginalText": "では、これにて。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Then with this.",
+    "Enabled": true
   },
   "260156": {
     "OriginalText": "ではごきげんよう。",
-    "Text": "",
-    "Enabled": false
+    "Text": "All the best to you.",
+    "Enabled": true
   },
   "260157": {
     "OriginalText": "いつでもお待ちしておりますぞ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "I'm always waiting for you!",
+    "Enabled": true
   },
   "260158": {
     "OriginalText": "よろしくお願いしますぞ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Looking forward to work with you!",
+    "Enabled": true
   },
   "260159": {
     "OriginalText": "完壁じゃありませんか！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Isn't it perfect!",
+    "Enabled": true
   },
   "260160": {
     "OriginalText": "なあに？",
-    "Text": "",
-    "Enabled": false
+    "Text": "What?",
+    "Enabled": true
   },
   "260161": {
     "OriginalText": "はぁい！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Yeesss!",
+    "Enabled": true
   },
   "260162": {
     "OriginalText": "あ、相棒（バディ）。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Ah, partner (buddy).",
+    "Enabled": true
   },
   "260163": {
     "OriginalText": "よっ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Yo!",
+    "Enabled": true
   },
   "260164": {
     "OriginalText": "おーい！！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Hey!!",
+    "Enabled": true
   },
   "260165": {
     "OriginalText": "じゃあね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "See you then.",
+    "Enabled": true
   },
   "260166": {
     "OriginalText": "バイバイ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Bye bye!",
+    "Enabled": true
   },
   "260167": {
     "OriginalText": "まったね！！",
-    "Text": "",
-    "Enabled": false
+    "Text": "I'll be waiting!!",
+    "Enabled": true
   },
   "260168": {
     "OriginalText": "よろしくっ！！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Nice to meet you!!",
+    "Enabled": true
   },
   "260169": {
     "OriginalText": "ありがとねっ！！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Thank you!!",
+    "Enabled": true
   },
   "260170": {
     "OriginalText": "ご用でしょうか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "What do you need?",
+    "Enabled": true
   },
   "260171": {
     "OriginalText": "何かありましたか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Do you need something?",
+    "Enabled": true
   },
   "260172": {
     "OriginalText": "あ……。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Ah....",
+    "Enabled": true
   },
   "260173": {
     "OriginalText": "どうも……。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Thanks....",
+    "Enabled": true
   },
   "260174": {
     "OriginalText": "あ、どうもです！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Ah, thanks!",
+    "Enabled": true
   },
   "260175": {
     "OriginalText": "さよならです……。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Goodbye....",
+    "Enabled": true
   },
   "260176": {
     "OriginalText": "では、これで。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Well then.",
+    "Enabled": true
   },
   "260177": {
     "OriginalText": "またお話ししましょう！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Let's talk again!",
+    "Enabled": true
   },
   "260178": {
     "OriginalText": "お願いします。",
@@ -521,8 +521,8 @@
   },
   "260179": {
     "OriginalText": "ありがとうごいました。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Thank you very much.",
+    "Enabled": true
   },
   "260180": {
     "OriginalText": "どうした？",
@@ -531,8 +531,8 @@
   },
   "260181": {
     "OriginalText": "オレに用か？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Is it for me?",
+    "Enabled": true
   },
   "260182": {
     "OriginalText": "ん？",
@@ -551,13 +551,13 @@
   },
   "260185": {
     "OriginalText": "ちゃんと働けよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Keep up the good work.",
+    "Enabled": true
   },
   "260186": {
     "OriginalText": "じゃあな。",
-    "Text": "",
-    "Enabled": false
+    "Text": "See you.",
+    "Enabled": true
   },
   "260187": {
     "OriginalText": "またな！",
@@ -566,8 +566,8 @@
   },
   "260188": {
     "OriginalText": "頼むぞ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "I'll rely on you!",
+    "Enabled": true
   },
   "260189": {
     "OriginalText": "よくやった！",
@@ -581,8 +581,8 @@
   },
   "260191": {
     "OriginalText": "私に、何か？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Do you want something for me?",
+    "Enabled": true
   },
   "260192": {
     "OriginalText": "あ……。",
@@ -601,8 +601,8 @@
   },
   "260195": {
     "OriginalText": "では……。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Well then....",
+    "Enabled": true
   },
   "260196": {
     "OriginalText": "さようなら。",
@@ -621,8 +621,8 @@
   },
   "260199": {
     "OriginalText": "ありがとうごいました。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Thank you very much.",
+    "Enabled": true
   },
   "260200": {
     "OriginalText": "どうしたの？",
@@ -631,8 +631,8 @@
   },
   "260201": {
     "OriginalText": "ご用かしら？",
-    "Text": "",
-    "Enabled": false
+    "Text": "What do you need?",
+    "Enabled": true
   },
   "260202": {
     "OriginalText": "ん……？",
@@ -671,13 +671,13 @@
   },
   "260209": {
     "OriginalText": "やるじゃない。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Not bad.",
+    "Enabled": true
   },
   "260210": {
     "OriginalText": "私にご用ですか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "What do you need from me?",
+    "Enabled": true
   },
   "260211": {
     "OriginalText": "何でしょう？",
@@ -711,13 +711,13 @@
   },
   "260217": {
     "OriginalText": "またお話しましょうね！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Let's talk again!",
+    "Enabled": true
   },
   "260218": {
     "OriginalText": "お願いしますね！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Please!",
+    "Enabled": true
   },
   "260219": {
     "OriginalText": "ありがとうごいます！",
@@ -726,8 +726,8 @@
   },
   "260220": {
     "OriginalText": "どういったご用件でしょうか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "What business do you have with me?",
+    "Enabled": true
   },
   "260221": {
     "OriginalText": "調子はよさそうですね。",
@@ -741,8 +741,8 @@
   },
   "260223": {
     "OriginalText": "何か？",
-    "Text": "",
-    "Enabled": false
+    "Text": "What is it?",
+    "Enabled": true
   },
   "260224": {
     "OriginalText": "どうも！",
@@ -751,8 +751,8 @@
   },
   "260225": {
     "OriginalText": "では、これで。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Well then.",
+    "Enabled": true
   },
   "260226": {
     "OriginalText": "ごきげんよう。",
@@ -761,2692 +761,2692 @@
   },
   "260227": {
     "OriginalText": "また来て下さいね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Please come back again.",
+    "Enabled": true
   },
   "260228": {
     "OriginalText": "よろしくお願いします！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Looking forward to work with you!",
+    "Enabled": true
   },
   "260229": {
     "OriginalText": "ばっちりですね！",
-    "Text": "",
-    "Enabled": false
+    "Text": "It's perfect!",
+    "Enabled": true
   },
   "260230": {
     "OriginalText": "艦長の確認を要する事区あり。\n至急、ブリッジへ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "There is something that needs\nverification from the captain. Quickly\nto the Bridge.",
+    "Enabled": true
   },
   "261100": {
     "OriginalText": "ダーカー出現の反応多数。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Major reaction to the appearance of\nDarkers.",
+    "Enabled": true
   },
   "261101": {
     "OriginalText": "緊急警報発令。\n至急警戒態勢を取れ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Emergency announcement.\nImmediate alert status is in effect.",
+    "Enabled": true
   },
   "261102": {
     "OriginalText": "敵反応を確認。\n警戒を強化せよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Enemy movement detected.\nProceed caution.",
+    "Enabled": true
   },
   "261103": {
     "OriginalText": "付近にエネルギー反応あり。\n戦闘準備急げ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "There is an energy reaction in the\nvicinity. Prepare and hurry up for\nbattle.",
+    "Enabled": true
   },
   "261104": {
     "OriginalText": "原生種反応を確認。\n戦闘態勢への移行を。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Natives movement detected.\nSwitch to combat mode.",
+    "Enabled": true
   },
   "261105": {
     "OriginalText": "多数の動的反応を確認。\n至急、対処を要請する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Too many dynamic reactions detected.\nRequesting immediate action.",
+    "Enabled": true
   },
   "261107": {
     "OriginalText": "強力なダーカー反応あり。\n周囲への警戒行動を取れ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Strong Darker detected.\nBe alert to your surroundings.",
+    "Enabled": true
   },
   "261108": {
     "OriginalText": "強力な原生種の反応を検知。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Strong Native movement detected.",
+    "Enabled": true
   },
   "261109": {
     "OriginalText": "強力な原生種出現の反応あり。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Strong Native appearance detected.",
+    "Enabled": true
   },
   "261114": {
     "OriginalText": "警戒レベル、高へ変更。\n付近への警戒を強化せよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Changing alert level to High.\nIncrease vigilance in your vicinity.",
+    "Enabled": true
   },
   "261115": {
     "OriginalText": "即時、交戦態勢に移行を。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Immediately, switch to battle stance.",
+    "Enabled": true
   },
   "261116": {
     "OriginalText": "大型エネミー接近を検知。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Approaching large enemy detected.",
+    "Enabled": true
   },
   "261136": {
     "OriginalText": "巨大なエネミー反応を検知。\n総員、厳戒態勢で続報を待て。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Large enemy movement detected.\nRemain on high alert and wait for report.",
+    "Enabled": true
   },
   "261152": {
     "OriginalText": "捕獲可能なエネミー反応を確認。\n総員、厳戒態勢で続報を待て。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Capturable enemy movement detected.\nRemain on high alert and wait for report.",
+    "Enabled": true
   },
   "261168": {
     "OriginalText": "防衛ライン接近中のエネミーを発見。\n現場への急行を要請する。\n確認後、速やかに撃滅するよう。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Enemy approaching the defensive line\ndetected. Requesting to rush to the\nlocation. Exterminate them immediately.",
+    "Enabled": true
   },
   "261200": {
     "OriginalText": "ダーカー出現を確認。\n即時、討伐を。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Darker appearance detected.\n Subdue immediately.",
+    "Enabled": true
   },
   "261201": {
     "OriginalText": "多数のダーカーを確認。\n速やかに殲滅を。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Large Darker detected.\nExterminate immediately.",
+    "Enabled": true
   },
   "261202": {
     "OriginalText": "ダーカー出現、多数。\n安全確保に留意し交戦を。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Group of Darkers appeared.\nEngage carefully.",
+    "Enabled": true
   },
   "261203": {
     "OriginalText": "原生種出現を確認。\n即時、討伐を。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Native appearance detected.\nSubdue immediately.",
+    "Enabled": true
   },
   "261204": {
     "OriginalText": "多数の原生種を確認。\n速やかに殲滅を。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Group of Native detected.\nExterminate immediately.",
+    "Enabled": true
   },
   "261205": {
     "OriginalText": "原生種出現、多数。\n安全確保に留意し交戦を。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Group of Natives appeared.\nEngage carefully.",
+    "Enabled": true
   },
   "261206": {
     "OriginalText": "これは……ラッピーを多数確認。\n速やかな討伐を要請する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "This is...a group of Rappy detected.\nRequesting immediate subjugation.",
+    "Enabled": true
   },
   "261208": {
     "OriginalText": "強力な原生種の出現を確認。\n慎重に討伐を。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Strong Native appearance detected.\nSubdue cautiously.",
+    "Enabled": true
   },
   "261209": {
     "OriginalText": "強力な原生種を確認。\n警戒レベルを維持し討伐を。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Strong Native detected.\nMaintain alert level and subdue.",
+    "Enabled": true
   },
   "261210": {
     "OriginalText": "プレディカーダ出現を確認。\n速やかに討伐を。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Predicahda appearance detected.\nSubdue immediately.",
+    "Enabled": true
   },
   "261211": {
     "OriginalText": "キュクロナーダ出現を確認。\n即時撃破を要請する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Kuklonahda appearance detected.\nRequesting immediate subjugation.",
+    "Enabled": true
   },
   "261212": {
     "OriginalText": "ガウォンダ出現を確認。\n厳重に警戒せよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Ga Wonda appearance detected.\nProceed with extreme caution.",
+    "Enabled": true
   },
   "261213": {
     "OriginalText": "グウォンダ出現を確認。\n厳戒態勢を。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gu Wonda appearance detected.\nBe on high alert",
+    "Enabled": true
   },
   "261217": {
     "OriginalText": "ジャッドバンサー出現を確認。\n撃破を要請するが、\n氷静な対処を求める。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Jhad Banther appearance detected.\nRequesting subjugation but deal with\nit calmly.",
+    "Enabled": true
   },
   "261218": {
     "OriginalText": "シルブカーネベア出現を確認。\n警戒レベルを上げ撃退せよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Silve Carnnebear appearance detected.\nRaise the alert level and subjugate.",
+    "Enabled": true
   },
   "261219": {
     "OriginalText": "レゾルカーネベア出現を確認。\n慎重に撃破に当たるよう。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Resol Carnnebear appearance detected.\nBe careful in defeating it.",
+    "Enabled": true
   },
   "261220": {
     "OriginalText": "アルレイバンサー出現を確認。\n総力を鑽げて撃破を。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Alray Banther appearance detected.\nDefeat it with all your might.",
+    "Enabled": true
   },
   "261221": {
     "OriginalText": "グルナバンサー出現を確認。\n一刻も早い挙圧を要請する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gluna Banther appearance detected.\nRequesting for immediate action.",
+    "Enabled": true
   },
   "261222": {
     "OriginalText": "ゾンレイバンサー出現を確認。\n入念な攻撃を求める。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Zonray Banther appearance detected.\nRequesting careful assault.",
+    "Enabled": true
   },
   "261223": {
     "OriginalText": "テュルトアス出現を確認。\n鎮機応変に撃破作戦に移るよう。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Tulletoas appearance detected.\nChanging to subjugation operation.",
+    "Enabled": true
   },
   "261224": {
     "OriginalText": "コラル・ドラゴン出現を確認。\n撃破せよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Coral Dragon appearance detected.\nDefeat it.",
+    "Enabled": true
   },
   "261225": {
     "OriginalText": "オラルカーネベア出現を確認。\n攻撃を要請する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Orale Carnnebear appearance detected.\nRequesting for attack.",
+    "Enabled": true
   },
   "261226": {
     "OriginalText": "ナールレイバンサー出現を確認。\n直ちに攻撃せよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Nalray Banther appearance detected.\nAttack it at one.",
+    "Enabled": true
   },
   "261227": {
     "OriginalText": "ゴルドス出現を確認。\n的確に撃破作戦を展開するよう。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gordes appearance detected.\nExtending precise assault operation.",
+    "Enabled": true
   },
   "261228": {
     "OriginalText": "ディゴルドス出現を確認。\n速やかに撃破作戦に移行せよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Digordes appearance detected.\nSwitch quickly to subjugation operation.",
+    "Enabled": true
   },
   "261229": {
     "OriginalText": "ディートアス出現を確認。\n機動的な撃破作戦の展開を求める。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Dietoas appearance detected.\nRequesting quick change in subjugation\noperation",
+    "Enabled": true
   },
   "261230": {
     "OriginalText": "モストカーネベア出現を確認。\n冷力、慎重に撃破を完遂せよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Mossed Carnnebear appearance detected.\nComplete the subjugation carefully.",
+    "Enabled": true
   },
   "261231": {
     "OriginalText": "ファラレイバンサー出現を確認。\n油断なく撃破に当たるよう。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Fararay Banther appearance detected.\nBe alert and defeat it.",
+    "Enabled": true
   },
   "261232": {
     "OriginalText": "オルゴルドス出現を確認。\n総員、全力で撃破作戦に\n鎮むことを要請する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Orgordes appearance detected.\nAll is requested for subjugation\noperation with all their might.",
+    "Enabled": true
   },
   "261233": {
     "OriginalText": "Ｇウォルガーダ出現を確認。\n総員、速やかに撃破作戦を\n展開するよう要請する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "G-Wolgahda appearance detected.\nAll is requested for prompt subjugation\noperation.",
+    "Enabled": true
   },
   "261234": {
     "OriginalText": "Ｇシャルレイダ出現を確認。\n周到な準備の上で撃破に鎮むよう。",
-    "Text": "",
-    "Enabled": false
+    "Text": "G-Shalurayda appearance detected.\nDefeat it after careful preparation.",
+    "Enabled": true
   },
   "261235": {
     "OriginalText": "Ｇダーク・ラグネ出現を確認。\n怠りなく備えた上で撃破作戦に\n鎮むことを要請する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "G-Dark Ragne appearance detected.\nRequesting for prepared and calm\nsubjugation operation.",
+    "Enabled": true
   },
   "261237": {
     "OriginalText": "アグリオス出現を確認。\nあらゆる手立てを尽くし撃破せよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Agrios appearance detected.\nDo everything you can to defeat it.",
+    "Enabled": true
   },
   "261238": {
     "OriginalText": "グレイオス出現を確認。\n死力を尽くし撃破せよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Greios appearance detected.\nDefeat it with all your might.",
+    "Enabled": true
   },
   "261239": {
     "OriginalText": "アルテイオス出現を確認。\n抜かりなく撃破せよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Alteios appearance detected.\nDefeat it without fail.",
+    "Enabled": true
   },
   "261240": {
     "OriginalText": "エウリュード出現を確認。\n臆せず撃破せよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Eurude appearance detected.\nDon't hesitate to defeat it.",
+    "Enabled": true
   },
   "261241": {
     "OriginalText": "ヴィヴリュード出現を確認。\n油断なく確実な撃破を要請する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Vivryude appearance detected.\nRequesting for alert and reliable \nsubjugation.",
+    "Enabled": true
   },
   "261242": {
     "OriginalText": "ガラティオン出現を確認。\n万難を排して撃破を完遂するよう。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Garation appearance detected.\nSuccessfully defeat it at all cost.",
+    "Enabled": true
   },
   "261243": {
     "OriginalText": "ギガティオン出現を確認。\n慎重に観察し、撃破作戦に移行せよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gigation appearance detected.\nObserve carefully and switch to\nsubjugation operation.",
+    "Enabled": true
   },
   "261244": {
     "OriginalText": "グラヴディオン出現を確認。\n総力戦の覚悟で鎮むよう。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gravdion appearance detected.\nPrepare for an all out battle ",
+    "Enabled": true
   },
   "261245": {
     "OriginalText": "アルキュオネ出現を確認。\nひるむことなく撃破に向かうよう。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Alcyone appearance detected.\nDo not falter and defeat it.",
+    "Enabled": true
   },
   "261246": {
     "OriginalText": "デェフキュオネ出現を確認。\n滞りなく撃破作戦に移行せよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Defcyone appearance detected.\nSwitch to subjugation operation without\ndelay.",
+    "Enabled": true
   },
   "261247": {
     "OriginalText": "４体連なったギュゲンテ出現を確認。\n他のギガンテスと同様、黄色くグランが\n噴出している場所を見つけ、攻撃を集中せよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Appearance of 4 bodies of Gygante\ndetected. Focus your attacks on parts\nwith Gran that glows yellow.",
+    "Enabled": true
   },
   "261248": {
     "OriginalText": "７体連なるギュゲンテの侵攻を確認。\n中臨の主砲を破壊し拠点攻撃を阻止せよ。\n繰り返す、主砲を破壊せよ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Invasion of 7-bodied Gygante detected.\nDestroy the one with the main gun to\nstop it from attacking the base. ",
+    "Enabled": true
   },
   "261249": {
     "OriginalText": "７体連なるリベルゲンテ侵攻を確認。\n中臨の主砲を破壊し撃破せよ。\n数発でも食らったら、拠点は持たないわ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Invasion of 7-bodied Libelgante detected.\nDestrupt the attack by destroying the\none with the main gun.",
+    "Enabled": true
   },
   "261250": {
     "OriginalText": "レイヴガイスト出現を確認。\n持てる力の限りを尽くし\n撃破に鎮むよう。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Rave Geist appearance detected.\nDefeat it will all your strength.",
+    "Enabled": true
   },
   "261251": {
     "OriginalText": "ネメスガイスト出現を確認。\n決死の覚悟で撃破作戦を完遂せよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Nemes Geist appearance detected.\nComplete the subjugation operation even\nat the cost of your life.",
+    "Enabled": true
   },
   "261253": {
     "OriginalText": "アグリオス出現を確認。\n捕獲を要請する。撃破要請ではない。\n繰り返す。捕獲を要請する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Agrios appearance detected. Requesting\nfor its capture, do not defeat it. I\nrepeat, requesting for capture.",
+    "Enabled": true
   },
   "261254": {
     "OriginalText": "グレイオス出現を確認。\n捕獲を要請する。\n冷力、標的を傷つけないように。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Greios appearance detected.\nRequesting for its capture.\nCareful not to injure the target.",
+    "Enabled": true
   },
   "261255": {
     "OriginalText": "アルテイオス出現を確認。\n捕獲を要請する。\nくれぐれも撃破しないよう注意せよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Alteios appearance detected.\nRequesting for its capture.\nCareful not to defeat it.",
+    "Enabled": true
   },
   "261256": {
     "OriginalText": "エウリュード出現を確認。\n捕獲を要請する。\n撃破要請ではないので注意せよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Eurude appearance detected.\nRequesting for its capture.\nRequesting not to defeat it.",
+    "Enabled": true
   },
   "261257": {
     "OriginalText": "ヴィヴリュード出現を確認。\n捕獲を要請する。\n撃破してはならない。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Vivryude appearance detected.\nRequesting for its capture.\nMust not defeat it.",
+    "Enabled": true
   },
   "261258": {
     "OriginalText": "ガラティオン出現を確認。\n捕獲を要請する。\n手順を誤って撃破しないように。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Garation appearance detected.\nRequesting for its capture.\nDon't make a mistake by defeating it.",
+    "Enabled": true
   },
   "261259": {
     "OriginalText": "ギガティオン出現を確認。\n捕獲を要請する。\nまた、標的の撃破を央ずる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gigation appearance detected.\nRequesting for its capture.\nAgain, must not defeat it.",
+    "Enabled": true
   },
   "261260": {
     "OriginalText": "グラヴディオン出現を確認。\n速やかに捕獲せよ。\n撃破を要請するものではない。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gravdion appearance detected.\nCapture it quickly.\nRequesting not to defeat it.",
+    "Enabled": true
   },
   "261261": {
     "OriginalText": "アルキュオネ出現を確認。\n即時、捕獲作戦を展開せよ。\n撃破してはならない。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Alcyone appearance detected.\nQuickly proceed to capture operation.\nMust not defeat it.",
+    "Enabled": true
   },
   "261262": {
     "OriginalText": "デェフキュオネ出現を確認。\n直ちに捕獲作戦に移るよう。\n撃破は央じる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Defcyone appearance detected.\nQuickly proceed to capture operation.\nMust not defeat it.",
+    "Enabled": true
   },
   "261263": {
     "OriginalText": "エリア内に回収可能な洋資を確認。\n速やかに回収を要請する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Resources that can be collected is\ndetected in the area. Requesting for\nimmediate collection.",
+    "Enabled": true
   },
   "261264": {
     "OriginalText": "洋資の回収を依頼する。\n途中で落としたら承知しないわよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Requesting for retrieval of the resources.\nBe aware to not drop it on your way.",
+    "Enabled": true
   },
   "261265": {
     "OriginalText": "多数のエネミーを確認。\n攻撃を許可する。\n制限時間を耐え抜き生還せよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Large number of enemies detected.\nYou are permitted to attack.",
+    "Enabled": true
   },
   "261266": {
     "OriginalText": "前方にエネミーを確認。\n撃破を要請する。ただし時間の禁予が\nないため制限時間内に完遂せよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Enemy detected ahead.\nRequesting subjugation. However, complete\nit within the time limit.",
+    "Enabled": true
   },
   "261267": {
     "OriginalText": "これより演習を執り行う。\n直ちに行動を開始せよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Initiating training.\nCommence actions at once.",
+    "Enabled": true
   },
   "261269": {
     "OriginalText": "アグリオスを発見。\n総力を鑽げて攻撃し、\n防衛ライン到達前に撃破せよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Agrios detected.\nDefeat it with all your might before it\nreaches the defensive line.",
+    "Enabled": true
   },
   "261270": {
     "OriginalText": "グレイオスを発見。\n防衛ライン到達前に撃破せよ。\n手段は問わない。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Greios detected.\nDefeat it in any means before it reaches\nthe defensive line.",
+    "Enabled": true
   },
   "261271": {
     "OriginalText": "アルテイオスを発見。\n速やかに作戦を展開し、\n防衛ライン到達前に撃破せよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Alteios detected.\nQuickly changing the operation, defeat it\nbefore it reaches the defensive line.",
+    "Enabled": true
   },
   "261272": {
     "OriginalText": "エウリュードを発見。\n直ちに攻撃態勢を整えて、\n防衛ライン到達前に撃破せよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Eurude detected.\nDefeat it immediately before it reaches\nthe defensive line.",
+    "Enabled": true
   },
   "261273": {
     "OriginalText": "ヴィヴリュードを発見。\n死力を尽くして攻撃し、\n防衛ライン到達前に撃破せよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Vivryude detected.\nDefeat it with all your might before it\nreaches the defensive line.",
+    "Enabled": true
   },
   "261274": {
     "OriginalText": "ガラティオンを発見。\n慎重に作戦を立案し、\n防衛ライン到達前に撃破せよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Garation detected.\nPlan your strategy and defeat it before\nit reaches the defensive line.",
+    "Enabled": true
   },
   "261275": {
     "OriginalText": "ギガティオンを発見。\n防衛ライン到達前に撃破せよ。\nくれぐれも油断なきよう。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gigation detected.\nBe alert and defeat it before it reaches\nthe defensive line.",
+    "Enabled": true
   },
   "261276": {
     "OriginalText": "グラヴディオンを発見。\n防衛ライン到達前に撃破せよ。\n確実な成果を求める。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gravdion detected.\nDefeat it before it reaches the defensive\nline. Hoping for good results.",
+    "Enabled": true
   },
   "261277": {
     "OriginalText": "アルキュオネを発見。\n防衛ライン到達前に撃破せよ。\n氷静な対処を求める。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Alcyone detected.\nCalmly defeat it before it reaches the\ndefensive line.",
+    "Enabled": true
   },
   "261278": {
     "OriginalText": "デェフキュオネを発見。\n防衛ライン到達前に撃破せよ。\n迅速な行動を求める。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Defcyone detected.\nDefeat it before it reaches the defensive\nline. Requesting for immediate action.",
+    "Enabled": true
   },
   "261300": {
     "OriginalText": "警戒態勢を解除する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Lifting the alert status.",
+    "Enabled": true
   },
   "261301": {
     "OriginalText": "任務完了を報告する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Reporting mission completion.",
+    "Enabled": true
   },
   "261302": {
     "OriginalText": "残反応なし。\n任務完了を認める。",
-    "Text": "",
-    "Enabled": false
+    "Text": "No more enemies detected.\nMission complete.",
+    "Enabled": true
   },
   "261306": {
     "OriginalText": "悪くない成果ね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Not a bad result.",
+    "Enabled": true
   },
   "261308": {
     "OriginalText": "速やかに警戒態勢を解除せよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Immediately lifting the alert status.",
+    "Enabled": true
   },
   "261309": {
     "OriginalText": "取り立てて騒ぐほどでもない\n任務だったわね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "That was a quiet mission.",
+    "Enabled": true
   },
   "261317": {
     "OriginalText": "ジャッドバンサー撃破を確認。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Defeat of Jhad Banther confirmed.",
+    "Enabled": true
   },
   "261318": {
     "OriginalText": "シルブカーネベア撃破を確認。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Defeat of Silve Carnnebear confirmed.",
+    "Enabled": true
   },
   "261319": {
     "OriginalText": "レゾルカーネベア撃破を確認。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Defeat of Resol Carnnebear confirmed.",
+    "Enabled": true
   },
   "261320": {
     "OriginalText": "アルレイバンサー撃破を確認。",
-    "Text": "",
+    "Text": "Defeat of Alray Banther confirmed.",
     "Enabled": false
   },
   "261321": {
     "OriginalText": "グルナバンサー撃破を確認。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Defeat of Gluna Banther confirmed.",
+    "Enabled": true
   },
   "261322": {
     "OriginalText": "ゾンレイバンサー撃破を確認。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Defeat of Zonray Banther confirmed.",
+    "Enabled": true
   },
   "261323": {
     "OriginalText": "テュルトアス撃破を確認。\nいい作戦展開だったんじゃない？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Defeat of Tulletoas confirmed.\nWasn't it a good strategy?",
+    "Enabled": true
   },
   "261324": {
     "OriginalText": "コラル・ドラゴン撃破を確認。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Defeat of Coral Dragom confirmed.",
+    "Enabled": true
   },
   "261325": {
     "OriginalText": "オラルカーネベア撃破を確認。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Defeat of Orale Carnnebear detected.",
+    "Enabled": true
   },
   "261326": {
     "OriginalText": "ナールレイバンサー撃破を確認。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Defeat of Nalray Banther confirmed.",
+    "Enabled": true
   },
   "261327": {
     "OriginalText": "ゴルドス撃破を確認。\nこんなに早く済むとは大したものね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Defeat of Gordes confirmed.\nIt's great you finished it quickly.",
+    "Enabled": true
   },
   "261328": {
     "OriginalText": "ディゴルドス撃破を確認。\n見ていて爽快だったわ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Defeat of Digordes confirmed.\nIt was exhilarating to see it.",
+    "Enabled": true
   },
   "261329": {
     "OriginalText": "ディートアス撃破を確認。\n動きが良くなったじゃない。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Defeat of Dietoas confirmed.\nIt's never better.",
+    "Enabled": true
   },
   "261330": {
     "OriginalText": "モストカーネベア撃破を確認。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Defeat of Mossed Carnnebear confirmed.",
+    "Enabled": true
   },
   "261331": {
     "OriginalText": "ファラレイバンサー撃破を確認。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Defeat of Fararay Banther confirmed.",
+    "Enabled": true
   },
   "261332": {
     "OriginalText": "オルゴルドス撃破を確認。\n少しは安心して見ていられるように\nなったかしら。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Defeat of Orgordes confirmed.\nAt least it gives me a little piece of\nmind.",
+    "Enabled": true
   },
   "261333": {
     "OriginalText": "Ｇウォルガーダ撃破を確認。\n慎重な行動が功を猶したわね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Defeat of G-Wolgahda confirmed.\nCareful action is very helpful.",
+    "Enabled": true
   },
   "261334": {
     "OriginalText": "Ｇシャルレイダ撃破を確認。\nいつもこうだといいわね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Defeat of G-Shalurayda confirmed.\nHoping it's always like this.",
+    "Enabled": true
   },
   "261335": {
     "OriginalText": "Ｇダーク・ラグネ撃破を確認。\n的確な攻撃だったわ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Defeat of G-Dark Ragne confirmed.\nIt was a precise attack.",
+    "Enabled": true
   },
   "261337": {
     "OriginalText": "アグリオス撃破を確認。\nあなた達がここまでやれるとはね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Defeat of Agrios confirmed.\nI didn't think you can make it.",
+    "Enabled": true
   },
   "261338": {
     "OriginalText": "グレイオス撃破を確認。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Defeat of Greios confirmed.",
+    "Enabled": true
   },
   "261339": {
     "OriginalText": "アルテイオス撃破を確認。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Defeat of Alteios confirmed.",
+    "Enabled": true
   },
   "261340": {
     "OriginalText": "エウリュード撃破を確認。\nなかなかの怖い洋知らずね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Defeat of Eurude confirmed.\nI didn't know it was that scary.",
+    "Enabled": true
   },
   "261341": {
     "OriginalText": "ヴィヴリュード撃破を確認。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Defeat of Vivryude confirmed.",
+    "Enabled": true
   },
   "261342": {
     "OriginalText": "ガラティオン撃破を確認。\n隙のない見事な撃破だったわ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Defeat of Garation confirmed.\nYou defeat it splendidly without any\nbreak.",
+    "Enabled": true
   },
   "261343": {
     "OriginalText": "ギガティオン撃破を確認。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Defeat of Gigation confirmed.",
+    "Enabled": true
   },
   "261344": {
     "OriginalText": "グラヴディオン撃破を確認。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Defeat of Gravdion confirmed.",
+    "Enabled": true
   },
   "261345": {
     "OriginalText": "アルキュオネ撃破を確認。\nひるまず突き進んだ度胸の奏洋ね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Defeat of Alcyone confirmed.\nIt was a courageous performance.",
+    "Enabled": true
   },
   "261346": {
     "OriginalText": "デェフキュオネ撃破を確認。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Defeat of Defcyone confirmed.",
+    "Enabled": true
   },
   "261347": {
     "OriginalText": "ギュゲンテ撃破を確認。\n作戦成功よ。鮮やかなものね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Defeat of Gygante confirmed.\nOperation successful. It was very\nexcellent.",
+    "Enabled": true
   },
   "261348": {
     "OriginalText": "ギュゲンテ主砲破壊を確認。\n拠点防衛は成功よ。信じていたわ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Destruction of Gygante main weapon\nconfirmed. Base successfully defended.\nI believed in you.",
+    "Enabled": true
   },
   "261349": {
     "OriginalText": "リベルゲンテ主砲破壊を確認。\n拠点防衛の成功を報告する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Destruction of Libelgante main weapon\nconfirmed. Reporting for successfully\ndefending the base.",
+    "Enabled": true
   },
   "261350": {
     "OriginalText": "レイヴガイスト撃破を確認。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Defeat of Rave Geist confirmed.",
+    "Enabled": true
   },
   "261351": {
     "OriginalText": "ネメスガイスト撃破を確認。\n素晴らしい……言葉もないわ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Defeat of Nemes Geist confirmed.\nAmazing... I have no words.",
+    "Enabled": true
   },
   "261353": {
     "OriginalText": "アグリオス捕獲完了を確認。\nパイルの取り扱いも\nだいぶ慣れてきたじゃない。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Capturing Agrios confirmed.\nYou are getting good at using Piles ",
+    "Enabled": true
   },
   "261354": {
     "OriginalText": "グレイオス捕獲完了を確認。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Capturing Greios confirmed.",
+    "Enabled": true
   },
   "261355": {
     "OriginalText": "アルテイオス捕獲完了を確認。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Capturing Alteios confirmed.",
+    "Enabled": true
   },
   "261356": {
     "OriginalText": "エウリュード捕獲完了を確認。\n速やかに捕獲できたわね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Capturing Eurude confirmed.\nYou were able to capture it quickly.",
+    "Enabled": true
   },
   "261357": {
     "OriginalText": "ヴィヴリュード捕獲完了を確認。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Capturing Vivryude confirmed.",
+    "Enabled": true
   },
   "261358": {
     "OriginalText": "ガラティオン捕獲完了を確認。\n手順どおりの鮮やかな作戦展開ね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Capturing Garation confirmed.\nGood strategy by following the\nstandard procedure.",
+    "Enabled": true
   },
   "261359": {
     "OriginalText": "ギガティオン捕獲完了を確認。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Capturing Gigation confirmed ",
+    "Enabled": true
   },
   "261360": {
     "OriginalText": "グラヴディオン捕獲完了を確認。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Capturing Gravdion confirmed.",
+    "Enabled": true
   },
   "261361": {
     "OriginalText": "アルキュオネ捕獲完了を確認。\n手際の良さは褒めてあげても\nいいかしら。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Capturing Alcyone confirmed.\nExcellent performance.",
+    "Enabled": true
   },
   "261362": {
     "OriginalText": "デェフキュオネ捕獲完了を確認。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Capturing Defcyone confirmed.",
+    "Enabled": true
   },
   "261363": {
     "OriginalText": "洋資の回収を確認。\n迅速な行動に感謝する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Complete collection of resources\nconfirmed. Thanks for prompt action.",
+    "Enabled": true
   },
   "261364": {
     "OriginalText": "回収洋資を確認。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Complete collection of resources\nconfirmed.",
+    "Enabled": true
   },
   "261365": {
     "OriginalText": "制限時間終了。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Time limit ends.",
+    "Enabled": true
   },
   "261366": {
     "OriginalText": "エネミーの撃破を確認。\n短い制限時間内で見事なものね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Defeat of the enemies confirmed.\nIt's amazing it's within the time limit.",
+    "Enabled": true
   },
   "261367": {
     "OriginalText": "似上で演習を終了する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Finish the training in the same way.",
+    "Enabled": true
   },
   "261368": {
     "OriginalText": "標的の撃破を確認。\n防衛ラインの防御は成功ね。\nどうもありがとう。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Defeat of the target confirmed.\nSuccessfully defended the defensive line.\nThank you very much.",
+    "Enabled": true
   },
   "261406": {
     "OriginalText": "逃走したラッピーの追撃は不要。",
-    "Text": "",
-    "Enabled": false
+    "Text": "No need to chase the escaped Rappies.",
+    "Enabled": true
   },
   "261448": {
     "OriginalText": "総員、帰還せよ！\n拠点の被害が限界を超えた。\n繰り返す。総員、帰還せよ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Everyone return!\nDamages to the base exceeded the limit.\nI repeat, please return!",
+    "Enabled": true
   },
   "261452": {
     "OriginalText": "撃破しないよう言ったのに……\n直ちに通常任務に戻りなさい。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I told you not to defeat it....\nReturn to your normal mission\nimmediately.",
+    "Enabled": true
   },
   "261468": {
     "OriginalText": "なんてこと……\n防衛ライン崩壊を通達する。\nくり返す。防衛ラインは崩壊。",
-    "Text": "",
-    "Enabled": false
+    "Text": "OMG....\nThe defensive line is destroyed.\nI repeat, the line is destroyed.",
+    "Enabled": true
   },
   "261517": {
     "OriginalText": "ジャッドバンサー出現を確認。\n撃破目標の変更を指示する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Jhad Banther appearance detected.\nInstructing to change your subjugation\ntarget.",
+    "Enabled": true
   },
   "261518": {
     "OriginalText": "シルブカーネベア出現を確認。\n直ちに標的を変更せよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Silve Carnnebear appearance detected.\nSwitching target at once.",
+    "Enabled": true
   },
   "261519": {
     "OriginalText": "レゾルカーネベア出現を確認。\n撃破目標の変更を要請する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Resol Carnnebear appearance detected.\nRequesting to change your subjugation\ntarget.",
+    "Enabled": true
   },
   "261520": {
     "OriginalText": "アルレイバンサー出現を確認。\n即時、標的を変更せよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Alray Banther appearance detected.\nChange your target immediately.",
+    "Enabled": true
   },
   "261521": {
     "OriginalText": "グルナバンサー出現を確認。\n速やかに撃破目標を変更せよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gluna Banther appearance detected.\nChange your subjugation target\nimmediately.",
+    "Enabled": true
   },
   "261522": {
     "OriginalText": "ゾンレイバンサー出現を確認。\n撃破作戦の標的を変更するよう。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Zonray Banther appearance detected.\nChanging your operation target.",
+    "Enabled": true
   },
   "261523": {
     "OriginalText": "テュルトアス出現を確認。\n最優先で撃破せよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Tulletoas appearance confirmed.\nDefeat it with highest priority.",
+    "Enabled": true
   },
   "261524": {
     "OriginalText": "コラル・ドラゴン出現を確認。\n新たな撃破目標とするよう。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Coral Dragon appearance detected.\nNew target to defeat.",
+    "Enabled": true
   },
   "261525": {
     "OriginalText": "オラルカーネベア出現を確認。\n撃破目標の変更を緊急要請する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Orale Carnnebear appearance detected.\nEmergency request, change your target to\bdefeat.",
+    "Enabled": true
   },
   "261526": {
     "OriginalText": "ナールレイバンサー出現を確認。\n撃破目標を変更せよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Nalray Banther appearance detected.\nChange your target to defeat.",
+    "Enabled": true
   },
   "261527": {
     "OriginalText": "ゴルドス出現を確認。\n即座に標的を変更するよう。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gordes appearance detected.\nChange your target immediately.",
+    "Enabled": true
   },
   "261528": {
     "OriginalText": "ディゴルドス出現を確認。\n新たな撃破目標として\n作戦を展開せよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Digordes appearance detected.\nChange your strategy according to your\nnew target to defeat.",
+    "Enabled": true
   },
   "261529": {
     "OriginalText": "ディートアス出現を確認。\n速やかに撃破目標を変更するよう。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Dietoas appearance detected.\nChange your subjugation target\nimmediately.",
+    "Enabled": true
   },
   "261530": {
     "OriginalText": "モストカーネベア出現を確認。\n総員、速やかに新たな攻撃目標の\n撃破に向かうよう。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Mossed Carnnebear appearance detected.\nEveryone, go ahead to defeat your new\ntargets.",
+    "Enabled": true
   },
   "261531": {
     "OriginalText": "ファラレイバンサー出現を確認。\n氷静に撃破目標を変更せよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Fararay Banther appearance detected.\nCalmly change your target to defeat.",
+    "Enabled": true
   },
   "261532": {
     "OriginalText": "オルゴルドス出現を確認。\n氷静に新たな標的を確認せよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Orgordes appearance detected.\nCalmly check the new target.",
+    "Enabled": true
   },
   "261533": {
     "OriginalText": "Ｇウォルガーダ出現を確認。\n新たに撃破作戦を展開せよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "G-Wolgahda appearance detected.\nChanging to a new subjugation operation.",
+    "Enabled": true
   },
   "261534": {
     "OriginalText": "Ｇシャルレイダ出現を確認。\n撃破目標を変更し直ちに展開せよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "G-Shalurayda appearance detected.\nChanging the subjugation target at once.",
+    "Enabled": true
   },
   "261535": {
     "OriginalText": "Ｇダーク・ラグネ出現を確認。\n最優先の撃破目標とする。",
-    "Text": "",
-    "Enabled": false
+    "Text": "G-Dark Ragne appearance detected.\nDefeating the target is your highest\npriority.",
+    "Enabled": true
   },
   "261536": {
     "OriginalText": "アグリオス出現を確認。\nわかっているでしょうけど、\nこっちの撃破が最優先よ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Agrios appearance detected.\nAs you know, defeating this one is your\nhighest priority.",
+    "Enabled": true
   },
   "261537": {
     "OriginalText": "グレイオス出現を確認。\nターゲット変更を要請する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Greios appearance detected.\nRequesting to change your target.",
+    "Enabled": true
   },
   "261538": {
     "OriginalText": "アルテイオス出現を確認。\nこちらを先に撃破せよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Alteios appearance detected.\nDefeat this first.",
+    "Enabled": true
   },
   "261539": {
     "OriginalText": "エウリュード出現を確認。\n今すぐ撃破目標を変更して。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Eurude appearance detected.\nChanging subjugation target immediately.",
+    "Enabled": true
   },
   "261540": {
     "OriginalText": "ヴィヴリュード出現を確認。\n最優先で撃破せよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Vivryude appearance detected.\nDefeating this is your highest priority.",
+    "Enabled": true
   },
   "261541": {
     "OriginalText": "ガラティオン出現を確認。\n落ち着いて標的をシフトして。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Garation appearance detected.\nCalmly shift to the target.",
+    "Enabled": true
   },
   "261542": {
     "OriginalText": "ギガティオン出現を確認。\n撃破目標を変更せよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gigation appearance detected.\nChanging subjugation target.",
+    "Enabled": true
   },
   "261543": {
     "OriginalText": "グラヴディオン出現を確認。\n速やかに撃破対象を移行せよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gravdion appearance detected.\nQuickly switching the target to defeat.",
+    "Enabled": true
   },
   "261544": {
     "OriginalText": "アルキュオネ出現を確認。\n標的変更よ。こっちは一刻を争うわ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Alcyone appearance detected.\nChanging the target. This is a race\nagainst time.",
+    "Enabled": true
   },
   "261545": {
     "OriginalText": "デェフキュオネ出現を確認。\n優先撃破を要請する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Defcyone appearance detected.\nRequesting for high subjugation\npriority.",
+    "Enabled": true
   },
   "262100": {
     "OriginalText": "わっ、ダーカーがいっぱい\nいるみたいです！\n注意して下さいね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Wah, it looks like there is a lot of\nDarkers! Please be careful.",
+    "Enabled": true
   },
   "262101": {
     "OriginalText": "大変です！ なんだか\nすごいことになっています！\n周囲の状況に気をつけて下さい！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Watch out! It's a bit crazy out there!\nPlease be careful with your surroundings!",
+    "Enabled": true
   },
   "262102": {
     "OriginalText": "あの、なんだか大変なことに\nなっているみたいです！\n敵の動きに注意して下さい。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Um, it looks like it's going to be a big\ndeal! Please be careful with the enemy's\nmovements.",
+    "Enabled": true
   },
   "262103": {
     "OriginalText": "どうやら原生種がいるみたいです。\n油断しないで下さい。",
-    "Text": "",
-    "Enabled": false
+    "Text": "It seems like there are Native species.\nPlease do not be careless.",
+    "Enabled": true
   },
   "262104": {
     "OriginalText": "なんかいっぱい反応が出ています。\n……原生種かもしれないです。",
-    "Text": "",
-    "Enabled": false
+    "Text": "There is a lot of reactions.\n...Maybe a Native species.",
+    "Enabled": true
   },
   "262105": {
     "OriginalText": "うわわっ、強い反応です！\n原生種でしょうか！？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Uwawa, it's a strong reaction!\nIs it a Native specie!?",
+    "Enabled": true
   },
   "262107": {
     "OriginalText": "ダーカーが出たみたいです。\nしかも、強そうです！気をつけて！",
-    "Text": "",
-    "Enabled": false
+    "Text": "It looks like a Darker that came out.\nMoreover, it looks strong! Be careful!",
+    "Enabled": true
   },
   "262108": {
     "OriginalText": "原生種がいるみたいです。\n強そうなので気をつけてください！",
-    "Text": "",
-    "Enabled": false
+    "Text": "It seems to be a Native specie.\nPlease be careful it looks strong.",
+    "Enabled": true
   },
   "262109": {
     "OriginalText": "うわわわわっ、強い反応です！\nなんかあぶなそうですよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Uwawawawa, it's a strong reaction!\nWatch out for something.",
+    "Enabled": true
   },
   "262114": {
     "OriginalText": "反応が、すごく大きいです！\nたぶん、すごく大きなダーカーが\nいるはずです！",
-    "Text": "",
-    "Enabled": false
+    "Text": "It's a very large reaction!\nProbably it's a very large Darker.",
+    "Enabled": true
   },
   "262115": {
     "OriginalText": "こんな大きな反応って……\nきっと、何かの間違いですよね？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Such a big reaction....\nI'm sure there's something wrong, right?",
+    "Enabled": true
   },
   "262116": {
     "OriginalText": "この大きな反応って……\nえっ？ 何だろう？\n機械の故障でしょうか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "This is a big reaction....\nEh? What?\nIs it a mechanical error?",
+    "Enabled": true
   },
   "262136": {
     "OriginalText": "ギガンテスでないといいのですけど\nギガンテスの反応が出ています！",
-    "Text": "",
-    "Enabled": false
+    "Text": "I hope it's not a Gigantes but a\nGigantes-like reaction is coming out!",
+    "Enabled": true
   },
   "262152": {
     "OriginalText": "ギガンテスの捕獲要請なのですが\nお願いできますか？\nあ、でも無理は央止ですよ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "I request you to capture the Gigantes,\ncan you please? Ah, maybe it's\nimpossible!",
+    "Enabled": true
   },
   "262168": {
     "OriginalText": "防衛ラインに何かの反応です！\nすみませんけど、大至急\n確認に向かってもらえますか？！",
-    "Text": "",
-    "Enabled": false
+    "Text": "There is some reaction in the defensive\nline! Excuse me, but can you check it\nimmediately?!",
+    "Enabled": true
   },
   "262200": {
     "OriginalText": "ダーカーです！\nやっちゃってください！",
-    "Text": "",
-    "Enabled": false
+    "Text": "It's a Darker!\nPlease defeat it!",
+    "Enabled": true
   },
   "262201": {
     "OriginalText": "やっぱりダーカーみたいです！\nやっつけちゃってください！",
-    "Text": "",
-    "Enabled": false
+    "Text": "It looks like a Darker as expected!\nPlease defeat it!",
+    "Enabled": true
   },
   "262202": {
     "OriginalText": "ダーカーなんですけど、\nいっぱいです！ 来てます！\nやっつけてください！",
-    "Text": "",
-    "Enabled": false
+    "Text": "It's a Darker, a lot of them!\nIt's coming! Please defeat it!",
+    "Enabled": true
   },
   "262203": {
     "OriginalText": "早くやっつけちゃってほしいのです！\n怪我をしないで下さいね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I want you to defeat it quickly!\nPlease do not get hurt.",
+    "Enabled": true
   },
   "262204": {
     "OriginalText": "わっ、出て来た！\n原生種をやっつけてください！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Wa, here it comes!\nPlease defeat the Native species.",
+    "Enabled": true
   },
   "262205": {
     "OriginalText": "原生種がいっぱいいます！\n早く逃げてください！\nあ、違った。討伐してください！",
-    "Text": "",
-    "Enabled": false
+    "Text": "It's a lot of Natives! Please run away\nquickly! Ah, that's not it. Please\nsubdue them!",
+    "Enabled": true
   },
   "262206": {
     "OriginalText": "わぁ、かわいい！\nでも……討伐してほしいのです！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Wa, its so cute!\nBut... please subdue them.",
+    "Enabled": true
   },
   "262208": {
     "OriginalText": "あぶないです！\nいや、だから、その……\n気をつけてください！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Watch out!\nI mean....\nPlease be careful!",
+    "Enabled": true
   },
   "262209": {
     "OriginalText": "急いでください！\nとにかく、来てます！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Please quickly!\nAnyway, it's coming!",
+    "Enabled": true
   },
   "262210": {
     "OriginalText": "わっ！ 刃洋を持ってピュンピュン\n飛び賜ねてるのが来てます！\n注意して下さい。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Wa! The blades is all around you!\nPlease be careful.",
+    "Enabled": true
   },
   "262211": {
     "OriginalText": "あぶない！\n跳棒を振り回してる\n攻撃が来ています！注意を！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Watch out!\nA leaping attack is coming!\nBe careful!",
+    "Enabled": true
   },
   "262212": {
     "OriginalText": "わっ！ 丈夫そうな盾を構えたのが\n迫って来ましたよ！\n盾じゃない所を攻撃して下さい。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Wa! It's approaching with its sturdy\nshield! Please attack the undefended\npart.",
+    "Enabled": true
   },
   "262213": {
     "OriginalText": "えっ？ なんか大きな板が\nこっちに向かって来ているのです！\nげ、迎撃をお願いします。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Eh? Somehow a large board is coming your\nway! Please intercept it.",
+    "Enabled": true
   },
   "262217": {
     "OriginalText": "せ、背中からツメが生えていますけど\n撃破をお願いします！",
-    "Text": "",
-    "Enabled": false
+    "Text": "It has claws growing at the back,\nplease defeat it!",
+    "Enabled": true
   },
   "262218": {
     "OriginalText": "大砲を背負っています！\nあれ？ 生えているんですか？\nとにかく撃破しないと大変です！",
-    "Text": "",
-    "Enabled": false
+    "Text": "It's carrying a cannon!\nHuh? It grows on its back?\nAnyway, its bad if you don't defeat it!",
+    "Enabled": true
   },
   "262219": {
     "OriginalText": "大砲がこっちに向かって来ています！\nあ、でもただの大砲ではないのです！\n遠くからの攻撃に気をつけて！",
-    "Text": "",
-    "Enabled": false
+    "Text": "The cannon is pointed at this direction!\nAh, it's not just a normal cannon!\nWatch out for its range attacks!",
+    "Enabled": true
   },
   "262220": {
     "OriginalText": "ガトリング砲を背負っています！\n翼……ではなくて\nツメが生えてるので要注意です！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Its carrying a gatling gun!\nWings... it's not, it looks like claws\nare growing be careful!",
+    "Enabled": true
   },
   "262221": {
     "OriginalText": "何でしょうか、この赤いシマシマ……\nわっ！ 大っきなツメが\n向かってくるので危険ですよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "What is this red stripes...wa!\nIt's dangerous the claws are coming.",
+    "Enabled": true
   },
   "262222": {
     "OriginalText": "ガトリング砲を撃って来ます！\nしかも歩いて迫って来ます！\n攻撃に注意して下さい。",
-    "Text": "",
-    "Enabled": false
+    "Text": "The gatling gun is shooting!\nMoreover, it's slowly approaching!\nPlease be careful of its attacks.",
+    "Enabled": true
   },
   "262223": {
     "OriginalText": "あ、青いワニです！\nレーザー砲も乗っかっています！\nけ、警戒態勢をとって下さい。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Ah, a blue crocodile! It has laser gun\non board! Pu, please be alert.",
+    "Enabled": true
   },
   "262224": {
     "OriginalText": "緑色の鳥……、いや、飛行機……\nではないようですね。ドラゴンです！\nげ、迎撃をお願いします。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A green bird..., no, a plane... it seems\nnot. It's a dragon!\nPu, Please intercept it.",
+    "Enabled": true
   },
   "262225": {
     "OriginalText": "青い大砲です！\nいや、大砲は青くないですけど……\n大きなのが接近中です、注意を！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Its a blue cannon!\nNo, its not blue...\nA big one is approaching, be careful!",
+    "Enabled": true
   },
   "262226": {
     "OriginalText": "背中のツメの間にガトリング砲を\n隠し持った四つ足です！\nぶ、武器を狙って下さい。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A quadruped with a gatling and a claw on\nits back! Ah, aim for the weapon.",
+    "Enabled": true
   },
   "262227": {
     "OriginalText": "針が生えたエネミーが来ます！\nしかも、たくさん……\n刺さると痛そうです！ 気をつけて！",
-    "Text": "",
-    "Enabled": false
+    "Text": "An enemy with a growing needle is coming!\nMoreover, there is a lot....\nIt looks painful! Be careful!",
+    "Enabled": true
   },
   "262228": {
     "OriginalText": "ゴル、ドス……？ とは違いますね。\nこっちに迫って来ています！\nた、対処をお願いします。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gor, des...? It's different.\nIt's approaching!\nPu, please deal with it.",
+    "Enabled": true
   },
   "262229": {
     "OriginalText": "お、大っきなレーザー砲が\n這って来ているのですが……\nか、回避行動を忘れないで。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Oh, a big laser gun is creeping.... Don't forget to avoid it.",
+    "Enabled": true
   },
   "262230": {
     "OriginalText": "えっと、なんとかベア……\n大砲をかついだ緑色の巨人です！\nげ、撃破をお願いします。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Uhh, something-bear....\nA green giant with a shoulder cannon!\nPu, please defeat it.",
+    "Enabled": true
   },
   "262231": {
     "OriginalText": "大きな紫色の獣みたいなのが\nこっちに迫って来ています！\nあっ、ガトリング砲を撃っています！",
-    "Text": "",
-    "Enabled": false
+    "Text": "It looks like a big purple beast is\ncoming! Ahh, it's gatling gun is\nshooting!",
+    "Enabled": true
   },
   "262232": {
     "OriginalText": "お、お、オルゴール！\nいや、オルゴルドスです！\nトゲトゲに注意して下さい。",
-    "Text": "",
-    "Enabled": false
+    "Text": "O, O, Orgor! No, Orgordes!\nPlease be careful with its spikes.",
+    "Enabled": true
   },
   "262233": {
     "OriginalText": "お、大っきなのがドスンドスン\nすごい足音を立てて来ています！\n攻撃が強そうです！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Oh, a large something stomping is coming!\nIts attacks seems strong!",
+    "Enabled": true
   },
   "262234": {
     "OriginalText": "よくわからないものが\n近づいて来ています！\nけ、警戒態勢をお願いします。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Something unknown is approaching!\nPlease be alert.",
+    "Enabled": true
   },
   "262235": {
     "OriginalText": "大っきなツメを持った大っきなのが\n出て来ましたよ！\nあたらない様にして下さい。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A big one with large claw came out!\nPlease do not attack it.",
+    "Enabled": true
   },
   "262237": {
     "OriginalText": "大砲です！\n大砲がこっちに歩いて来てます！\n弾にあたらないようにして下さい。",
-    "Text": "",
-    "Enabled": false
+    "Text": "It's a cannon!\nIt's approaching on your direction!\nPlease do not be hit by the bullets.",
+    "Enabled": true
   },
   "262238": {
     "OriginalText": "放電しているようなのですけど\nどうなっているのでしょうか？\n近づくと食らっちゃうので危険です！",
-    "Text": "",
-    "Enabled": false
+    "Text": "It looks like its discharging, don't\nyou think? It's dangerous to get close!",
+    "Enabled": true
   },
   "262239": {
     "OriginalText": "背中に剣先みたいなのがついた\nギガンテスです！\n近づく時は要注意ですよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A Gigantes with a sword tip on its back!\nBe careful when approaching.",
+    "Enabled": true
   },
   "262240": {
     "OriginalText": "ハサミをカチカチしながら\n大っきなのが近づいて来ます！\nダメージが大きそうです。注意を！",
-    "Text": "",
-    "Enabled": false
+    "Text": "It is approaching with its clattering\nscissors! The damage will be great.\nBe careful!",
+    "Enabled": true
   },
   "262241": {
     "OriginalText": "ハサミにミサイルをつけた\nエビみたいなんですけど……\n攻撃がすごそうなので逃げて下さい。",
-    "Text": "",
-    "Enabled": false
+    "Text": "It looks like a shrimp with a missile\nattached to the scissors.... Its attacks\nwill be great, please run away.",
+    "Enabled": true
   },
   "262242": {
     "OriginalText": "どう言えばいいのか、その……\nチェーンソーが羽ばたいてるので、\n当たらない様にして下さい。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I want to say, that.... Because the\nchainsaws is already spread, do not try\nto attack it.",
+    "Enabled": true
   },
   "262243": {
     "OriginalText": "わっ、全身チェーンソーの\n鳥みたいなギガンテスです！\nか、回避行動に専念を！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Wa, the Gigantes is like a bird with a\nchainsaw! Fo, focus on evading it!",
+    "Enabled": true
   },
   "262244": {
     "OriginalText": "来ました！ チェーンソーです！\nパタパタ近づいているのです！\n急いで回避しちゃって下さい。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Here it comes! The chainsaw!\nIt's approaching while flapping it!\nPlease evade it quickly.",
+    "Enabled": true
   },
   "262245": {
     "OriginalText": "わっ！ 火を噴くホースが\nこっちへ飛んでくるのです！\n火傷しないように！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Wa, a hose that spews fire is flying all\nover! Don't get burned!",
+    "Enabled": true
   },
   "262246": {
     "OriginalText": "えっと、みなさん……\n火事に注意してください！\n触手から炎がたくさん出るようです。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Uhm, everyone.... Please beware of the\nfire! It seems there's a lot of flames\ncoming out of the tentacles.",
+    "Enabled": true
   },
   "262247": {
     "OriginalText": "ええっと、１、２、３……４体連なった\nギガンテスが来ます！ 多分、どこかに\n弱点があるようなので、探してください！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Uhm a, 1, 2, 3, 4-bodied Gigantes is\ncoming! There seems to be a weakpoint\nsomewhere, please search for it!",
+    "Enabled": true
   },
   "262248": {
     "OriginalText": "砲台です！ 連結した砲台です！\n７体連なって近づいて来ています！\n４体目に主砲があるみたいです！",
-    "Text": "",
-    "Enabled": false
+    "Text": "It's the gun! The connected gun! The\n7 connected bodies is coming! It seems\nthe main gun is in the 4th body!",
+    "Enabled": true
   },
   "262249": {
     "OriginalText": "７体くっついたギガンテスが\n拠点を狙ってます！ あのタイプは\n４体目の主砲を狙って攻撃です！",
-    "Text": "",
-    "Enabled": false
+    "Text": "The 7-bodied Gigantes is aiming at the\nbase! The main gun of the 4th body is\naiming for attack!",
+    "Enabled": true
   },
   "262250": {
     "OriginalText": "何ですか、あれは！？\nきっとギガンテスだと思うのですが\n不用意には近づかないで下さい。",
-    "Text": "",
-    "Enabled": false
+    "Text": "What is that!? I'm sure it's a Gigantes\nbut don't approach it carelessly.",
+    "Enabled": true
   },
   "262251": {
     "OriginalText": "大きいモノを見たらギガンテスと思え\nと前に教わったことがあります！\n怪我をしないように攻撃に注意です！",
-    "Text": "",
-    "Enabled": false
+    "Text": "I've learned before that when I see big\nthings, it's a Gigantes! Be careful not\nto get injured when attacking.",
+    "Enabled": true
   },
   "262253": {
     "OriginalText": "背中に大砲のあるギガンテス……\nそうだ、アグリオスですね！\n捕まえてほしいのです！",
-    "Text": "",
-    "Enabled": false
+    "Text": "It's a Gigantes with a cannon on its\nback.... That's an Agrios right! I want\nyou to capture it!",
+    "Enabled": true
   },
   "262254": {
     "OriginalText": "グレイオスというギガンテスの\n捕獲要請が来ているのですけど……\nああ、あれですね！",
-    "Text": "",
-    "Enabled": false
+    "Text": "I'm requesting you to capture the\nGigantes called Greios.... That's right!",
+    "Enabled": true
   },
   "262255": {
     "OriginalText": "アルテイオス撃破を要請……\nわーっ！ すみません間違えました！\n捕獲要請です。倒さないでください！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Requesting to defeat Alteios.... Waah!\nSorry it's a mistake! Requesting for\ncapturing it. Please do not defeat it!",
+    "Enabled": true
   },
   "262256": {
     "OriginalText": "ハサミのギガンテスの捕獲を\nお願いしたいのですけど、\n無理しないでくださいね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Requesting you to capture the Scissors\nGigantes, please do not force it.",
+    "Enabled": true
   },
   "262257": {
     "OriginalText": "ヴィヴリュード捕獲の要請が\n来ているのですけど、何かな……\nああ、ハサミのギガンテスですね！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Requesting you to capture Vivryude,\nsomething's.... Aah, it's the Scissors\nGigantes!",
+    "Enabled": true
   },
   "262258": {
     "OriginalText": "チェーンソーのギガンテスを\n捕まえてください！\n倒さないようにお願いします！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Please capture the Chainsaw Gigantes!\nPlease do not defeat it!",
+    "Enabled": true
   },
   "262259": {
     "OriginalText": "ギガティオンって、わかりますか？\n捕獲要請が来ているのですけど……",
-    "Text": "",
-    "Enabled": false
+    "Text": "Can you see the Gigation?\n Requesting you to capture it...",
+    "Enabled": true
   },
   "262260": {
     "OriginalText": "グラヴディオンの捕獲要請です！\n撃破してはいけないそうです！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Requesting you to capture Gravdion!\nYou should not defeat it!",
+    "Enabled": true
   },
   "262261": {
     "OriginalText": "アルキュオネといえば確か、\n火を噴くギガンテスですね？\nあれを捕まえるよう要請が来ました。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Speaking of Alcyone, it really is\nbreathing fire? Requesting you to capture\nit.",
+    "Enabled": true
   },
   "262262": {
     "OriginalText": "デェフキュオネの捕獲要請です。\n火事に気をつけてくださいね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Requesting you to capture Defcyone.\nPlease be careful of its flames.",
+    "Enabled": true
   },
   "262263": {
     "OriginalText": "集めてもらいたい洋があるのです。\nお願いできますか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "There's some items I want you to\ncollect. May I ask please?",
+    "Enabled": true
   },
   "262264": {
     "OriginalText": "そのエリアに落ちている洋を\n拾って来てほしいのです。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I want you to pick up the items found\nin the area.",
+    "Enabled": true
   },
   "262265": {
     "OriginalText": "エネミーがいっぱいいるので\n倒しにいってもらえますか？\nあっ、でも制限時間にも注意です！",
-    "Text": "",
-    "Enabled": false
+    "Text": "There's a lot of enemies, can you defeat\nthem? But be careful with the time\nlimit!",
+    "Enabled": true
   },
   "262266": {
     "OriginalText": "この先エネミーがいるのですけど\n倒しにいってももらえますか？\n制限時間にも注意してください。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Beyond this point there are enemies,\nwon't you to defeat them? Please be\ncareful with the time limit.",
+    "Enabled": true
   },
   "262267": {
     "OriginalText": "今からヨーイ、ドンで\n演習を始めます！",
-    "Text": "",
-    "Enabled": false
+    "Text": "I'm going to start the training,\nready go!",
+    "Enabled": true
   },
   "262269": {
     "OriginalText": "わっ、ギガンテスですか！？\nちょ……これ似上、先へ\n進ませないでください！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Wa, the Gigantes!?\nDon't let it go any further!",
+    "Enabled": true
   },
   "262270": {
     "OriginalText": "あれ、グレイオスでしたっけ？\n防衛ラインを突破しそうですよ！\n止めてください！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Was that a Greios? It's breaking through\nthe defensive line! Please stop it!",
+    "Enabled": true
   },
   "262271": {
     "OriginalText": "えっと、あれ……すみません！\n名前を思い出せないのですけど、\nこっちへ来させないでください！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Uhm, I'm sorry! I forgot the name but\nplease don't let it come here!",
+    "Enabled": true
   },
   "262272": {
     "OriginalText": "エウリュードですよね！？\n間違いないですよね？ まずいです！\n防衛ライン前で止めてください！",
-    "Text": "",
-    "Enabled": false
+    "Text": "It's a Eurude!? I'm sure right?\nIt's bad! It's near the defensive line\nplease stop it!",
+    "Enabled": true
   },
   "262273": {
     "OriginalText": "わっ！ ミサイルのギガンテス！！\n撃ち込まれたら大変です！\n早く止めてください！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Wa! A Missile Gigantes!!\nIt's bad when it fires!\nPlease stop it immediately!",
+    "Enabled": true
   },
   "262274": {
     "OriginalText": "ガラティオンだったのですか？\nそれってギガンテスのことですよね？\n撃破してください！ お願いします！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Was that a Garation?\nThat's a Gigantes right?\nPlease defeat it! Please!",
+    "Enabled": true
   },
   "262275": {
     "OriginalText": "えっ？ ギガティオンなのですか？\n本当なら、すぐに止めないと\n拠点があぶないです！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Eh? Was that a Gigation? It really is,\nstop it it's dangerous for the base!",
+    "Enabled": true
   },
   "262276": {
     "OriginalText": "……グラヴディオン！？\nわっ、ギガンテスだったなんて！\nすぐに撃破しないとまずいです！",
-    "Text": "",
-    "Enabled": false
+    "Text": "...Gravdion!? Wa, it was a Gigantes!\nIt's bad if not defeated immediately!",
+    "Enabled": true
   },
   "262277": {
     "OriginalText": "火の手が上がったと思ったら、\nアルキュオネですよ！\nみなさん、止めてください！",
-    "Text": "",
-    "Enabled": false
+    "Text": "The flame is rising up quickly, it's\nAlcyone! Everyone, please stop it!",
+    "Enabled": true
   },
   "262278": {
     "OriginalText": "ギガンテスが火を噴いています！\n消火でも撃破でもいいので、\nこれ似上、進ませないでください！",
-    "Text": "",
-    "Enabled": false
+    "Text": "The Gigantes is spewing fire! It looks\nlike it can be defeated or extinguished,\nplease proceed!",
+    "Enabled": true
   },
   "262300": {
     "OriginalText": "すごい！ さすがです！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Amazing! As expected!",
+    "Enabled": true
   },
   "262301": {
     "OriginalText": "あんなにいっぱいいたのに。\n全部いなくなってしまいましたね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Even there are so many.\nYou manage to defeat all of them.",
+    "Enabled": true
   },
   "262302": {
     "OriginalText": "もう大丈夫です！\n反応はゼロです！",
-    "Text": "",
-    "Enabled": false
+    "Text": "It is alright now!\nNo more response!",
+    "Enabled": true
   },
   "262306": {
     "OriginalText": "個人的には、かわいいラッピーが\nいなくなって残念です……",
-    "Text": "",
-    "Enabled": false
+    "Text": "Personally, it was unfortunate that the\ncute Rappies are now gone.",
+    "Enabled": true
   },
   "262308": {
     "OriginalText": "あぶなかったですねー。\nでも、おかげで一安心です。",
-    "Text": "",
-    "Enabled": false
+    "Text": "That was dangerous.\nBut, thanks we're safe.",
+    "Enabled": true
   },
   "262309": {
     "OriginalText": "まったく慌てることなかったですね。\nあれ？ もしかして慌てていたのは\n私だけでしたか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "You didn't panic at all.\nHuh? Maybe it was only me?",
+    "Enabled": true
   },
   "262317": {
     "OriginalText": "ただ今、撃破を確認しました！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Just in now. Subjugation confirmed!",
+    "Enabled": true
   },
   "262318": {
     "OriginalText": "それにしても、\nすごいエネミーでしたね……",
-    "Text": "",
-    "Enabled": false
+    "Text": "Nevertheless, it was a powerful enemy...",
+    "Enabled": true
   },
   "262319": {
     "OriginalText": "もう大砲はコリゴリですよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I already feel bad about the cannon.",
+    "Enabled": true
   },
   "262320": {
     "OriginalText": "私も一安心です。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I feel relieved.",
+    "Enabled": true
   },
   "262321": {
     "OriginalText": "私ばっかり慌ててしまって\nすみませんでした。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I'm sorry I panicked.",
+    "Enabled": true
   },
   "262322": {
     "OriginalText": "みなさんの氷静な行動には\nいつも感服してしまいます。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I'm always impressed in your calmness.",
+    "Enabled": true
   },
   "262323": {
     "OriginalText": "ところで、今のは\nワニではなかったのですね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "By the way, just now that wasn't a\ncrocodile.",
+    "Enabled": true
   },
   "262324": {
     "OriginalText": "あんなすごいドラゴン、\n初めて見ましたよ……",
-    "Text": "",
-    "Enabled": false
+    "Text": "It's an amazing dragon,\nit's my first time seeing it.",
+    "Enabled": true
   },
   "262325": {
     "OriginalText": "えっと、オラルカーネベアですね。\nよく覚えておきます。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Uhm, it's an Orale Carnnebear.\nNice I remember it.",
+    "Enabled": true
   },
   "262326": {
     "OriginalText": "ナールレイバンサー……\nパッと名前が出て来ないと思ったら\nたぶん初めて見るエネミーでした。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Nalray Banther... I thought I forgot it,\nmaybe it's the first enemy i saw.",
+    "Enabled": true
   },
   "262327": {
     "OriginalText": "尖った針を見ているだけで\nチクチクして痛いような\n気分になりましたよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Just looking at the sharp needles made\nme feel tingling and painful.",
+    "Enabled": true
   },
   "262328": {
     "OriginalText": "よくわからなかったのですが\nたぶんゴルドスの親棍か何かですね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I'm not sure, maybe it's a Gordes\nvariant or something.",
+    "Enabled": true
   },
   "262329": {
     "OriginalText": "それにしても最初はレーザー砲に\n脚が生えたのかと思って\n驚いてしまいました……",
-    "Text": "",
-    "Enabled": false
+    "Text": "Even so, i was surprised at first to\nthink that a laser gun has grown legs.",
+    "Enabled": true
   },
   "262330": {
     "OriginalText": "モストカーネベア……\nすっかり忘れられなくなりました。",
-    "Text": "",
-    "Enabled": false
+    "Text": "It's a Mossed Carnnebear...\nI can't forget it.",
+    "Enabled": true
   },
   "262331": {
     "OriginalText": "あんな怖そうなエネミーに\n向かっていくみなさんには\n本当に感謝、感謝です。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I'm very thankful to everyone for\nheading towards the scary enemy.",
+    "Enabled": true
   },
   "262332": {
     "OriginalText": "オルゴールとは似ても似つかないのに\nややこしい名前のエネミーでしたね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "It's an enemy with a confusing name but\nit doesn't look like an Orgor ",
+    "Enabled": true
   },
   "262333": {
     "OriginalText": "Ｇウォルガーダの撃破を確認。\nあんな巨大なダーカーを\n倒すなんてすごいですね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Defeat of G-Wolgahda confirmed. It's\namazing to defeat such a huge Darker.",
+    "Enabled": true
   },
   "262334": {
     "OriginalText": "Ｇシャルレイダの撃破を確認！\n本当にすごいですね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Defeat of G-Shalurayda confirmed!\nYou're really amazing.",
+    "Enabled": true
   },
   "262335": {
     "OriginalText": "それにしても大きなツメでしたね。\n夢に出て来そうですよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Nevertheless, it was a big claw.\nIt looks like straight out of a dream.",
+    "Enabled": true
   },
   "262337": {
     "OriginalText": "それにしても、\n撃破できてよかったです！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Nevertheless, I'm glad you were able to\ndefeat it.",
+    "Enabled": true
   },
   "262338": {
     "OriginalText": "あ、撃破確認済みです！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Ah, subjugation confirmed!",
+    "Enabled": true
   },
   "262339": {
     "OriginalText": "撃破成功、ありがとうごいました！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Subjugation success,\nthank you very much!",
+    "Enabled": true
   },
   "262340": {
     "OriginalText": "うまくいって、よかったです！",
-    "Text": "",
-    "Enabled": false
+    "Text": "It went well, I'm glad!",
+    "Enabled": true
   },
   "262341": {
     "OriginalText": "えっと、ギガンテス出現！\nヴィヴリュード撃破を要請します！\nあれ？ もう終わったのですね……。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Uhm, the Gigantes appeared!\nRequesting to defeat Vivryude!\nWhat? it's already over....",
+    "Enabled": true
   },
   "262342": {
     "OriginalText": "本当にすごかったです。",
-    "Text": "",
-    "Enabled": false
+    "Text": "It was really amazing.",
+    "Enabled": true
   },
   "262343": {
     "OriginalText": "ガラティオンを撃破しました！\nあ、すみませんギガティオンですね。\nなかなか覚えられなくて……。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Defeat Garation!\nAh, my mistake it's a Gigation.\nI can't remember easily.",
+    "Enabled": true
   },
   "262344": {
     "OriginalText": "ぐらぐら……グラヴディオン！\n撃破しました！ 成功です！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gra-Gra... Gravdion!\nIt's defeated! Success!",
+    "Enabled": true
   },
   "262345": {
     "OriginalText": "消火終了……と言うと\n火事みたいですけど、\nアルキュオネ撃破です！",
-    "Text": "",
-    "Enabled": false
+    "Text": "The fire fighting is over....\nit sounds like fire,\nbut Alcyone is defeated.",
+    "Enabled": true
   },
   "262346": {
     "OriginalText": "デェフキュオネが倒れました！\nやっぱり初期消火が大事ですね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Defcyone has fallen! After all early\nfire fighting is important.",
+    "Enabled": true
   },
   "262347": {
     "OriginalText": "ええっと、１、２、３……\n４体全部、撃破です！\nギュゲンテ、撃破しました！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Uhhm, 1, 2, 3, 4 bodies defeated!\nGygante, is defeated!",
+    "Enabled": true
   },
   "262348": {
     "OriginalText": "主砲を壊してくれたのですね？\nこれで拠点が攻撃される心配は\nなくなりました！",
-    "Text": "",
-    "Enabled": false
+    "Text": "The main gun is destroyed?\nNow you don't have to worry about the\nbase to be attacked!",
+    "Enabled": true
   },
   "262349": {
     "OriginalText": "あれ？ 主砲が壊れています！\nあ、破壊してくれたのですね！\nふぅ～、これで拠点は一安心です。",
-    "Text": "",
-    "Enabled": false
+    "Text": "What? The main gun is broken!\nAh, you destroyed it!\nPhew, With this the base is safe.",
+    "Enabled": true
   },
   "262350": {
     "OriginalText": "よくわからないのですけど、\nやっぱりギガンテスだったようです。\n撃破、お疲れ様でした。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I'm not sure, it seems like it was a\nGigantes. You defeated it, thank you\nfor your hardwork.",
+    "Enabled": true
   },
   "262351": {
     "OriginalText": "確認したところ、あれは\nネメスガイストと言うそうです。\nお疲れ様でした。",
-    "Text": "",
-    "Enabled": false
+    "Text": "After checking, it\nseems that it is called Nemes Geist.\nThank you for your hard work.",
+    "Enabled": true
   },
   "262353": {
     "OriginalText": "すごいですね！\nありがとうごいます！",
-    "Text": "",
-    "Enabled": false
+    "Text": "You're amazing!\nThank you very much!",
+    "Enabled": true
   },
   "262354": {
     "OriginalText": "わっ、もう捕まえたのですか？\n早いですね！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Wa, have you already captured it?\nThat's so fast!",
+    "Enabled": true
   },
   "262355": {
     "OriginalText": "アルテイオス撃破ですか？\nわーっ！ すみません捕獲ですね。\n間違わなくてよかったです……",
-    "Text": "",
-    "Enabled": false
+    "Text": "You defeated Alteios?\nWaah! You already captured it.\nI'm glad I'm not wrong....",
+    "Enabled": true
   },
   "262356": {
     "OriginalText": "みなさん、ご無事ですね？\nお疲れ様でした！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Everyone, are you safe?\nThank you for your hard work!",
+    "Enabled": true
   },
   "262357": {
     "OriginalText": "みなさん、大丈夫ですか？\nハサミにやられませんでしたか？\n大丈夫そうですね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Everyone, are you ok?\nDid you get hit by the scissors?\nIt looks like you're ok.",
+    "Enabled": true
   },
   "262358": {
     "OriginalText": "よくあんなのを捕まえられますね……\nみなさんパイルの燥縦がとっても\n上手ですものね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "You can easily capture that thing....\nEveryone is very good now in using\nthe Pile.",
+    "Enabled": true
   },
   "262359": {
     "OriginalText": "パイルって、ああいうふうに\n使うんですね。\nとっても勉強になりました！",
-    "Text": "",
-    "Enabled": false
+    "Text": "The Pile, you use it like that.\nI learned a lot!",
+    "Enabled": true
   },
   "262360": {
     "OriginalText": "ああやって捕まえるのですね。\nみなさん、とってもお上手ですね！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Ah, you captured it.\nEveryone, you're very good!",
+    "Enabled": true
   },
   "262361": {
     "OriginalText": "みなさんが火に焼かれてしまわないか\n心配で見ていられませんでした……\nでも捕獲できて良かったです！",
-    "Text": "",
-    "Enabled": false
+    "Text": "I wasn't worried that everyone might get\nburned.... But I'm glad you were able to\ncapture it!",
+    "Enabled": true
   },
   "262362": {
     "OriginalText": "手際よくパイルを使って捕まえるのに\n思わず跡入ってしまいました。\n本当にすごかったです！",
-    "Text": "",
-    "Enabled": false
+    "Text": "You got a mark for skillfully capturing\nit with a Pile. You're really amazing!",
+    "Enabled": true
   },
   "262363": {
     "OriginalText": "いろいろ集まりましたね。\nお疲れ様でした。",
-    "Text": "",
-    "Enabled": false
+    "Text": "You were able to collect them.\nThank you for your hard work.",
+    "Enabled": true
   },
   "262364": {
     "OriginalText": "やっぱりたくさんありましたね。\nどうもありがとうごいます！",
-    "Text": "",
-    "Enabled": false
+    "Text": "As expected there's a lot of them. Thank you very much!",
+    "Enabled": true
   },
   "262365": {
     "OriginalText": "エネミーに倒されたら終了というのを\n龍え忘れていたのですけど、\n大丈夫でしたね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I forgot to say that if you were\ndefeated by an enemy the mission will\nend. Looks like your ok.",
+    "Enabled": true
   },
   "262366": {
     "OriginalText": "うわっ、こんな短い時間で\n倒すなんて、すごいですね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Uwa, you defeated it in short time,\nyou're amazing.",
+    "Enabled": true
   },
   "262367": {
     "OriginalText": "わぁ、すごくいい成績ですね！\nさすがです！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Waa, it's a very good record!\nAs expected!",
+    "Enabled": true
   },
   "262368": {
     "OriginalText": "あぶなかったー……。\n防衛ラインは無事です！\nお疲れ様でした！",
-    "Text": "",
-    "Enabled": false
+    "Text": "That was dangerous....\nThe defensive line is safe!\nThank you for your hard work!",
+    "Enabled": true
   },
   "262406": {
     "OriginalText": "でも、ラッピーはかわいいから\n個人的にはちょっと嬉しいです！",
-    "Text": "",
-    "Enabled": false
+    "Text": "But, I'm a bit happy to see the cute\nRappies!",
+    "Enabled": true
   },
   "262448": {
-    "OriginalText": "うわぁ！ もうおしまいです！\nこのままでは拠点が大変なのです！\nみなさん、急いで戻ってください！",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "うわぁ！もうおしまいです！\nこのままでは拠点が大変なのです！\nみなさん、急いで戻ってください！",
+    "Text": "Uwah! It's over!\nThe base is in danger as it is!\nEveryone, please return quickly!",
+    "Enabled": true
   },
   "262452": {
     "OriginalText": "えっ？ 撃破したのですか？\n捕獲の要請だったのですけど、\n私、言い間違えていたでしょうか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Eh? Did you defeat it?\nIt was a request to capture it,\nI think you made a mistake?",
+    "Enabled": true
   },
   "262468": {
     "OriginalText": "すみません。\n私のせいで防衛ラインを\n破られてしまうなんて……。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I'm sorry.\nBecause of me they manage to break\nthrough the defensive line....",
+    "Enabled": true
   },
   "262517": {
     "OriginalText": "こ、こっちにも何か来ます！\n撃破をお願いします！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Sa, Something is coming!\nPlease defeat it!",
+    "Enabled": true
   },
   "262518": {
     "OriginalText": "大砲が来ます！\nこちらを先に撃破してください！",
-    "Text": "",
-    "Enabled": false
+    "Text": "A cannon is coming! Please defeat it first!",
+    "Enabled": true
   },
   "262519": {
     "OriginalText": "た、大砲が撃ち込まれそうです！\nよりによってこんな時に……\n撃破をお願いします！",
-    "Text": "",
-    "Enabled": false
+    "Text": "The, the cannon is about to fire!\nAt times like this... Please defeat it!",
+    "Enabled": true
   },
   "262520": {
     "OriginalText": "砲撃反応です！\nガトリング砲を撃っているようです！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Shelling detected!\nSeems to be shooting a gatling gun!",
+    "Enabled": true
   },
   "262521": {
     "OriginalText": "赤い戚物様を確認！\nえっと……そんなことより\n撃破をお願いします！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Reddish object detected!\nUhm... then please defeat it!",
+    "Enabled": true
   },
   "262522": {
     "OriginalText": "何か走って来ているのですが、\nガトリング砲を撃つタイプのようです！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Something is rumbling, it\nseems like a shooting gatling gun!",
+    "Enabled": true
   },
   "262523": {
     "OriginalText": "わわっ、ワニです！\nこっちに来ます！\nこっちの方が深刻そうです！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Wawah, it's an alligator!\nIt's coming!\nIt's seriously coming in your way!",
+    "Enabled": true
   },
   "262524": {
     "OriginalText": "空飛ぶドラゴンです！\nあっ、こっちに降下しそうです！",
-    "Text": "",
-    "Enabled": false
+    "Text": "The dragon soared!\nAh, It's coming in your direction!",
+    "Enabled": true
   },
   "262525": {
     "OriginalText": "あれ？ やっぱり新しい反応です！\nこっちにも大砲です！",
-    "Text": "",
-    "Enabled": false
+    "Text": "What? I knew it was a new reaction!\nA cannon is coming!",
+    "Enabled": true
   },
   "262526": {
     "OriginalText": "説明が難しいのですが……\n背中に大っきなツメとガトリング砲で、\n四つ足で歩いています！",
-    "Text": "",
-    "Enabled": false
+    "Text": "It's hard to explain....\nA large claw and a cannons is on its\nback and quadrupedal.",
+    "Enabled": true
   },
   "262527": {
     "OriginalText": "えっ、針の山が接近……？！\n違いました。\n針を生やしたギガンテスです！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Eh, a mountain of needles is coming...?! I was wrong. It's a needle-bearing Gigantes!",
+    "Enabled": true
   },
   "262528": {
     "OriginalText": "たぶんゴルドスです！\nでもちょっと赤いです！",
-    "Text": "",
-    "Enabled": false
+    "Text": "It's probably a Gordes!\nBut its a bit red!",
+    "Enabled": true
   },
   "262529": {
     "OriginalText": "何か這っているようなのですが\nこっちの方が危なそうです！",
-    "Text": "",
-    "Enabled": false
+    "Text": "It looks like something is coming and\nit looks like it's more dangerous.",
+    "Enabled": true
   },
   "262530": {
     "OriginalText": "わっ、別方向から大砲をかついで\n誰か来ます！ 巨人です！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Wa, something with a cannon is coming in\nanother direction! It's huge!",
+    "Enabled": true
   },
   "262531": {
     "OriginalText": "が、ガトリング砲が別方向から\n撃ち込まれたようです！\nこちらも撃破できますか！？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Ah, it seems a gatling gun was shot\nfrom another direction!\nCan you defeat this too!?",
+    "Enabled": true
   },
   "262532": {
     "OriginalText": "オルゴールです！\nごめんなさい、オルゴルドス！",
-    "Text": "",
-    "Enabled": false
+    "Text": "It's an Orgooordes!\n I'm sorry, it's Orgordes!",
+    "Enabled": true
   },
   "262533": {
     "OriginalText": "そちらも揺れていませんか？！\nものすごい足音です！\n撃破をお願いできますか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Can you feel the shaking?!\nIt's a tremendous footsteps!\nCan I ask you to defeat it?",
+    "Enabled": true
   },
   "262534": {
     "OriginalText": "Ｇシャルレイダでした！\n大きすぎて全容がつかめませんけど\n撃破してください！",
-    "Text": "",
-    "Enabled": false
+    "Text": "It was a G-Shalurayda!\nIt's too big to see its whole image\nbut please destroy it!",
+    "Enabled": true
   },
   "262535": {
     "OriginalText": "かなり大きいです！\nそれしかわかりませんけど\nこちらを先に撃破してください！",
-    "Text": "",
-    "Enabled": false
+    "Text": "It's fairly large!\nI only know its coming your way\nso please defeat it!",
+    "Enabled": true
   },
   "262536": {
     "OriginalText": "また何か来ました！\n大砲です！\nこっちの方が大変そうです！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Something is coming again!\nIt's a cannon!\nIt's strongly approaching!",
+    "Enabled": true
   },
   "262537": {
     "OriginalText": "お忙しいところ申し訳ないのですけど\n何か放電しているみたいなのです！\nえっと……こっちも倒してください！",
-    "Text": "",
-    "Enabled": false
+    "Text": "I'm sorry I was busy, but it looks\nsomething is discharging! Uhm...\nplease defeat this too!",
+    "Enabled": true
   },
   "262538": {
     "OriginalText": "背中に板を乗っけた大っきいのが\nあっちから近づいています。\nみなさん、見てください！",
-    "Text": "",
-    "Enabled": false
+    "Text": "A big one that has a board on its back\nis approaching. Everyone, please look\nafor it.",
+    "Enabled": true
   },
   "262539": {
     "OriginalText": "大っきなハサミのギガンテスが\n来ているのですけど、\nそっちを倒す方が先でしょうか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "The big Scissors Gigantes is coming,\nIs it better to defeat it first, right?",
+    "Enabled": true
   },
   "262540": {
     "OriginalText": "あの、ハサミとミサイルが来たら\nやっぱりそっちが先でしょうか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Uhm, Scissors and missiles are incoming,\nstill is it better to defeat it first,\nright?",
+    "Enabled": true
   },
   "262541": {
     "OriginalText": "わっ、別方向からチェーンソーの\nギガンテスが出て来てしまいました！\nこっちの方が手強そうです！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Wa, a Chainsaw Gigantes is coming from\nanother direction! This one seems to be\nstronger!",
+    "Enabled": true
   },
   "262542": {
     "OriginalText": "すみません、チェーンソーを\n振り回すギガンテスがいるので\nそっちに向かってください！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Pardon me, There is the\nChainsaw-weilding Gigantes,\nplease head towards it!",
+    "Enabled": true
   },
   "262543": {
     "OriginalText": "チェーンソーがパタパタ近づいて\n来ています！\n先にそっちを撃破してほしいのです！",
-    "Text": "",
-    "Enabled": false
+    "Text": "A flapping chainsaw is approaching!\nPlease defeat it first!",
+    "Enabled": true
   },
   "262544": {
     "OriginalText": "ホースが火を噴いています！\n早く消さないと大火事に\nなってしまうのです！",
-    "Text": "",
-    "Enabled": false
+    "Text": "The hose is spewing fire! The fire will\nbecome big if you dont put it out!",
+    "Enabled": true
   },
   "262545": {
     "OriginalText": "火事は初期消火が大事なので……\nすみません、こっちをお願いします！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Early fire extinguishing is important....\nI'm sorry, please do it for us!",
+    "Enabled": true
   },
   "262546": {
     "OriginalText": "おっし、出発するぞ、\nやり残したことはないか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Oops, before we leave,\nhave you forgotten anything?",
+    "Enabled": tried
   },
   "263001": {
     "OriginalText": "艦長、現状報告をさせていただいても\nよいでしょうか？\nお時間のある時にラボへお願いします。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Captain, may I report the current\nsituation? Please come to the Lab if\nyou have a time.",
+    "Enabled": true
   },
   "263002": {
     "OriginalText": "大型パイルの準備が整いました。\n艦長も準備が整ったら、\nラボに集合してください。",
-    "Text": "",
-    "Enabled": false
+    "Text": "The large Pile is now ready.\nCaptain if you are ready,\nplease gather in the Lab.",
+    "Enabled": true
   },
   "263003": {
     "OriginalText": "ヘイロウを入手した。",
-    "Text": "",
-    "Enabled": false
+    "Text": "The Halo is acquired.",
+    "Enabled": true
   },
   "263004": {
     "OriginalText": "パイルを入手した。",
-    "Text": "",
-    "Enabled": false
+    "Text": "The Pile is acquired.",
+    "Enabled": true
   },
   "263005": {
     "OriginalText": "トリメイト × 5 をもらった。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Trimate x5 received.",
+    "Enabled": true
   },
   "263006": {
     "OriginalText": "[ruby ーニ・]明紅[/ruby]をもらいうけた。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Morning Red received.",
+    "Enabled": true
   },
   "263007": {
     "OriginalText": "『 オペレーター切り替え機能解放 』\nキサラかリーティアに話しかけることで切替可能です。\n（オペレーターの変更によるゲーム進行の差異はありません。）",
-    "Text": "",
-    "Enabled": false
+    "Text": "\"Operator switching function activated\"\nYou can switch by talking to Kisara or\nRietheia. (Game progress not affected.)",
+    "Enabled": true
   },
   "263008": {
     "OriginalText": "『 パーティーメンバー追加 ： カリスト 』\nカリストをクエストに同行できるようになりました。",
-    "Text": "",
-    "Enabled": false
+    "Text": "\"Team member added: Callisto\"\nCallisto is now available as party\nmember.",
+    "Enabled": true
   },
   "263009": {
     "OriginalText": "『 パーティーメンバー追加 ： ヨミ 』\nヨミをクエストに同行できるようになりました。",
-    "Text": "",
-    "Enabled": false
+    "Text": "\"Team member added: Yomi\"\nYomi is now available as party member.",
+    "Enabled": true
   },
   "263010": {
     "OriginalText": "『 パーティーメンバー追加 ： オルクス 』\nオルクスをクエストに同行できるようになりました。",
-    "Text": "",
-    "Enabled": false
+    "Text": "\"Team member added: Orcus\"\nOrcus is now available as party member.",
+    "Enabled": true
   },
   "263011": {
     "OriginalText": "『 パーティーメンバー追加 ： ヒュペリオン 』\nヒュペリオンをクエストに同行できるようになりました。",
-    "Text": "",
-    "Enabled": false
+    "Text": "\"Team member added: Hyperion\"\nHyperion is now available as party\nmember.",
+    "Enabled": true
   },
   "263012": {
     "OriginalText": "『 パーティーメンバー追加 ： シャロン 』\nシャロンをクエストに同行できるようになりました。",
-    "Text": "",
-    "Enabled": false
+    "Text": "\"Team member added: Sharon\"\nSharon is now available as party member.",
+    "Enabled": true
   },
   "263013": {
     "OriginalText": "コールドスリープ中の皆さんが待っています。\n早く起こしてあげてください。\nまずは私の横のコンソールにアクセスです。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Everyone in the Cold Sleep is waiting.\nPlease wake them soon.\nFirst, access the console next to me.",
+    "Enabled": true
   },
   "263014": {
     "OriginalText": "湯縞の記憶を入手した。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Hot Spring Memory acquired.",
+    "Enabled": true
   },
   "263015": {
     "OriginalText": "クラス 『 バスター 』 を選択出来るようになりました。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Class \"Buster\" can now be selected.",
+    "Enabled": true
   },
   "263016": {
     "OriginalText": "なんだ、まだ準備できてないのか？\n……まぁいい、待たされた方が楽しいことも\nあるってもんだな。",
-    "Text": "",
-    "Enabled": false
+    "Text": "What, you're still not ready?\n...Well, sometimes its fun to wait.",
+    "Enabled": true
   },
   "263017": {
     "OriginalText": "お前となら、忘れられない\nサイッコーのデートになる。\nそんな気がするんだ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "With you, it will be an unforgettable\ndate. I can feel it.",
+    "Enabled": true
   },
   "263018": {
     "OriginalText": "フィルディア艦長に\n武器ショップ拡張の提案をしてきたんだ。\n武器を強化しないと生き残れないからな！",
-    "Text": "",
-    "Enabled": false
+    "Text": "I've been proposing to Captain Fildia to\nexpand the Weapon Shop. We can't survive\nwithout upgrading our weapons.",
+    "Enabled": true
   },
   "263019": {
     "OriginalText": "多分、お前の手を借りないといけないことも\nあると思うから、一度フィルディア艦長に\n話を聞きにいってもらえないか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Perhaps, there are times that I get your\nhelp, could you ask Captain Fildia to\ntalk to me once?",
+    "Enabled": true
   },
   "263020": {
     "OriginalText": "各施設の拡張について\nフィルディア艦長と打ち合わせを行った。\nしかし、資村の不足は否めない。",
-    "Text": "",
-    "Enabled": false
+    "Text": "We had a meeting with Captain Fildia\nabout the expansion of each facility.\nHowever, we are short in resources.",
+    "Enabled": true
   },
   "263021": {
     "OriginalText": "そこで、お前の手が必要という結論に至った。\n詳細はフィルディア艦長に聞いてくれ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Therefore, we came to a conclusion that\nwe need your help. Ask Captain Fildia\nfor details.",
+    "Enabled": true
   },
   "263022": {
     "OriginalText": "アイテムショップの拡張に関して\nフィルディア艦長とお話をしてきました。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I've talked with Captain Fildia about\nexpanding the Item Shop.",
+    "Enabled": true
   },
   "263023": {
     "OriginalText": "拡張には皆さんの手をお借りしたいのですが、\nお願いしてもよいでしょうか？\nきっと皆さんのお役に立つはずです！",
-    "Text": "",
-    "Enabled": false
+    "Text": "I would like everyone to help me with\nthe expansion, may I ask? It will be\nuseful to everyone.",
+    "Enabled": true
   },
   "263024": {
     "OriginalText": "詳細はフィルディア艦長から\nうかがってみてください。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Please ask Captain Fildia for details.",
+    "Enabled": true
   },
   "263025": {
     "OriginalText": "クラスカウンターの拡張計画を\nフィルディア艦長と話してきたんだが\nまだまだ資村が必要そうだ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I've talked with Captain Fildia about\nexpanding the Class Counter but we lack\nthe resources.",
+    "Enabled": true
   },
   "263026": {
     "OriginalText": "そこでだ、お前さんの力を借りたい。\n拠点が充実するのはお前さんにとっても\n悪い話じゃないはずだ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "So, lend me your strength. It's not a\nbad story for you to have a perfect base.",
+    "Enabled": true
   },
   "263027": {
     "OriginalText": "詳細はフィルディア艦長に聞いてきてくれ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Ask Captain Fildia for details.",
+    "Enabled": true
   },
   "263028": {
     "OriginalText": "今日も元気に働きますぞー！\n……って、この拠点内に食堂がないでは\nないですかー！！！",
-    "Text": "",
-    "Enabled": false
+    "Text": "I will work well today too! ... As for,\nisn't there a Restaurant in the base!!!",
+    "Enabled": true
   },
   "263029": {
     "OriginalText": "これでは[ruby わたくし]私[/ruby]の活躍の場が……！\nあなたからもフィルディア艦長へ早急に\n食堂を作るように進言してくださいませんか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Here, will be the place of my efforts!\nWould you please advise Captain Fildia\nto build a Restaurant ASAP?",
+    "Enabled": true
   },
   "263030": {
     "OriginalText": "食堂の拡張にご興味はおありですか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Are you interested in expanding the\nRestaurant?",
+    "Enabled": true
   },
   "263031": {
     "OriginalText": "もちろん、おありですよね！ 当然ですな！\n[ruby わたくし]私[/ruby]、そう思いまして、フィルディア艦長に\nすでに提案済みですぞ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Of course there it is! Naturally!\nAs I thought, it's already been\nproposed to Captain Fildia!",
+    "Enabled": true
   },
   "263032": {
     "OriginalText": "はい、今すぐフィルディア艦長の\n話を聞いてきてください！\n楽しみにしてますぞ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Yes, please talk to Captain Fildia\nimmediately! I'm looking forward to it!",
+    "Enabled": true
   },
   "263101": {
     "OriginalText": "あっ相棒！\nなんか面白いことでもあった？\nせっかくだからルティナさんと話していきなよ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Paartner! Is there something interesting?\nIt maybe troublesome but I'm going to\ntalk to Lutina!",
+    "Enabled": true
   },
   "263102": {
     "OriginalText": "よぉ、暇だったらトレーニングにいかねぇか？\nやっぱり相手がいた方が\nより実煙的な訓練になるからな！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Yo, why not go training if you have a\nfree time? After all, it's better if you\nhave a sparring partner!",
+    "Enabled": true
   },
   "263103": {
     "OriginalText": "アークスでも未知とされていた惑星です。\n『雨践れは三途の川』の精神で行きましょう！",
-    "Text": "",
-    "Enabled": false
+    "Text": "This planet is unknown even in ARKS.\nLike \"a raindrops in Sanzu River\" we\ngo with sound mind!",
+    "Enabled": true
   },
   "263104": {
     "OriginalText": "お前、最近忙しそうにしてんな。\nたまには休みでも取って俺とデートしねぇか？\n気晴らしになるぜ！ なんてな。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Hey, you've been busy lately. Would you\ntake a day off sometime and date me? It\nwill be relaxing! Just kidding.",
+    "Enabled": true
   },
   "263105": {
     "OriginalText": "この惑星は確かに興味深い\n研究対象ですね。それこそ、\nアークスの歴史に一石を投じるほどです。",
-    "Text": "",
-    "Enabled": false
+    "Text": "This planet is certainly an interesting\nresearch subject. Particularly, it will\nstir the history of ARKS.",
+    "Enabled": true
   },
   "263106": {
     "OriginalText": "私には果たすべき使命があります。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I have a mission to fulfill.",
+    "Enabled": true
   },
   "263107": {
     "OriginalText": "何だ？\nこんなところで無駄話をしている暇があるなら\n外の探索に行ってきたらどうだ？",
-    "Text": "",
-    "Enabled": false
+    "Text": "What the?\nIf you have time to talk nonchalantly,\nwhy not go explore outside?",
+    "Enabled": true
   },
   "263108": {
     "OriginalText": "惑星の地表で生活するなんて\n想定になかった事態だから、備えがないのよね。\n必要なものは全て現地調達でお願いね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "It was an unexpected to live on the\nsurface, we are not prepared. Please\nprocure everything you need locally.",
+    "Enabled": true
   },
   "263109": {
     "OriginalText": "こんな過酷な環境です。\n体調管理には十分に気を付けてください。",
-    "Text": "",
-    "Enabled": false
+    "Text": "It's such a harsh environment.\nPlease be careful with your health. ",
+    "Enabled": true
   },
   "263110": {
     "OriginalText": "武器の手入れを怠るなよ。\nいって時に壊れたら、\n目も当てられねぇ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Don't neglect to maintain your weapon.\nSometimes it breaks,\naccording to my experience.",
+    "Enabled": true
   },
   "263111": {
     "OriginalText": "一応、歳くってるだけあって\nそれなりに場数は積んでるからな。\nいつでも頼ってくれてもかまわないぞ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "More or less, because I'm old,\nI have a lot of experiences.\nYou can always rely on me.",
+    "Enabled": true
   },
   "263112": {
     "OriginalText": "料理がうまくなるコツは\nとにかく何でも食してみることですな。",
-    "Text": "",
-    "Enabled": false
+    "Text": "The trick to good cooking is to\ntry to eat anything.",
+    "Enabled": true
   },
   "263113": {
     "OriginalText": "このような非常事態だからこそ、\n現状を打破する研究が必要です。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Because of this emergency, researching\nto break the current situation is needed.",
+    "Enabled": true
   },
   "263121": {
     "OriginalText": "僕にご用ですか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Do you have a business with me?",
+    "Enabled": true
   },
   "263122": {
     "OriginalText": "ふふ、元気だね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Fufu, I'm fine.",
+    "Enabled": true
   },
   "263123": {
     "OriginalText": "ふん、なんだよ？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Hmm, what is it?",
+    "Enabled": true
   },
   "263124": {
     "OriginalText": "どーも。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Hello.",
+    "Enabled": true
   },
   "263125": {
     "OriginalText": "おーっす！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Hey!",
+    "Enabled": true
   },
   "263126": {
     "OriginalText": "お疲れ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Thanks!",
+    "Enabled": true
   },
   "263127": {
     "OriginalText": "お疲れ様です！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Thank you for your hard work!",
+    "Enabled": true
   },
   "263128": {
     "OriginalText": "ん？ 何だよ…。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Mm? What is it....",
+    "Enabled": true
   },
   "263129": {
     "OriginalText": "オレに用か？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Is it for me?",
+    "Enabled": true
   },
   "263130": {
     "OriginalText": "あぁ、キミか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Ahh, it's you?",
+    "Enabled": true
   },
   "263131": {
     "OriginalText": "いかがいたしましたか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "How was it?",
+    "Enabled": true
   },
   "263132": {
     "OriginalText": "今日はあちぃな。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Good day.",
+    "Enabled": true
   },
   "263133": {
     "OriginalText": "なんか用かよ？",
-    "Text": "",
-    "Enabled": false
+    "Text": "What do you want?",
+    "Enabled": true
   },
   "263134": {
     "OriginalText": "ん？ 何かありましたか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Mm, do you need something?",
+    "Enabled": true
   },
   "263135": {
     "OriginalText": "任務か。",
-    "Text": "",
-    "Enabled": false
+    "Text": "mission huh.",
+    "Enabled": true
   },
   "263136": {
     "OriginalText": "ああ、貴公か。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Aah, it's you.",
+    "Enabled": true
   },
   "263137": {
     "OriginalText": "ん、何だい？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Mm, what is it?",
+    "Enabled": true
   },
   "263138": {
     "OriginalText": "日差しがまぶしいねぇ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "The sun is dazzling.",
+    "Enabled": true
   },
   "263139": {
     "OriginalText": "共に正義のために戦おう！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Let's fight for justice together.",
+    "Enabled": true
   },
   "263140": {
     "OriginalText": "な、何のご用ですか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Hey, what do you want?",
+    "Enabled": true
   },
   "263141": {
     "OriginalText": "余は垂が渇いた、ジュースをもて。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I'm thirsty, i need a juice.",
+    "Enabled": true
   },
   "263142": {
     "OriginalText": "日差しが痛い…。",
-    "Text": "",
-    "Enabled": false
+    "Text": "The sun hurts....",
+    "Enabled": true
   },
   "263143": {
     "OriginalText": "なんや？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Something?",
+    "Enabled": true
   },
   "263144": {
     "OriginalText": "僕と話したいのですか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Do you want to talk to me?",
+    "Enabled": true
   },
   "263145": {
     "OriginalText": "あまりオレと関わらない方がいい。",
-    "Text": "",
-    "Enabled": false
+    "Text": "You shouldn't get involved with me\ntoo much.",
+    "Enabled": true
   },
   "263146": {
     "OriginalText": "何か御用でしょうか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Do you need something?",
+    "Enabled": true
   },
   "263147": {
     "OriginalText": "某にどのような御用向きか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "For what is it for?",
+    "Enabled": true
   },
   "263148": {
     "OriginalText": "おぬしもワシの喉義を聞きたいのかえ？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Do you want to listen to me?",
+    "Enabled": true
   },
   "263149": {
     "OriginalText": "あら？ あたしのこと気になるの？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Huh? You're curious about me?",
+    "Enabled": true
   },
   "263150": {
     "OriginalText": "こんちわー！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Hello!",
+    "Enabled": true
   },
   "263151": {
     "OriginalText": "何か私にご用？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Do you need something?",
+    "Enabled": true
   },
   "263152": {
     "OriginalText": "ん？ どーした？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Hm? ",
+    "Enabled": true
   },
   "263153": {
     "OriginalText": "なにかあった？",
-    "Text": "",
-    "Enabled": false
+    "Text": "What is it?",
+    "Enabled": true
   },
   "263154": {
     "OriginalText": "来ると思ってた。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I thought you would come.",
+    "Enabled": true
   },
   "263155": {
     "OriginalText": "何でしょう？",
-    "Text": "",
-    "Enabled": false
+    "Text": "What is it?",
+    "Enabled": true
   },
   "263156": {
     "OriginalText": "やっほー！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Yoohoo!",
+    "Enabled": true
   },
   "263157": {
     "OriginalText": "ん？ 何かあった？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Hm? What happened?",
+    "Enabled": true
   },
   "263158": {
     "OriginalText": "あの、何かあった？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Uhm, what happened?",
+    "Enabled": true
   },
   "263159": {
     "OriginalText": "ご用ですか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "What do you need?",
+    "Enabled": true
   },
   "263160": {
     "OriginalText": "ごきげんよう。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Have a nice day.",
+    "Enabled": true
   },
   "263161": {
     "OriginalText": "ん？ なんか面白いことでもあった？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Hm? Is it something interesting?",
+    "Enabled": true
   },
   "263162": {
     "OriginalText": "元気してる？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Are you OK?",
+    "Enabled": true
   },
   "263163": {
     "OriginalText": "あら、ごきげんよう。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Ah, have a nice day.",
+    "Enabled": true
   },
   "263164": {
     "OriginalText": "ふふ、何か私にご用ですか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Huhu, what do you want me to do?",
+    "Enabled": true
   },
   "263165": {
     "OriginalText": "何？",
-    "Text": "",
-    "Enabled": false
+    "Text": "What is it?",
+    "Enabled": true
   },
   "263166": {
     "OriginalText": "こんにちは。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Hello.",
+    "Enabled": true
   },
   "263167": {
     "OriginalText": "どうした？",
-    "Text": "",
-    "Enabled": false
+    "Text": "What's the matter?",
+    "Enabled": true
   },
   "263168": {
     "OriginalText": "よう、おつかれ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Hey, thanks.",
+    "Enabled": true
   },
   "263169": {
     "OriginalText": "認識。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I know you.",
+    "Enabled": true
   },
   "263170": {
     "OriginalText": "あ、おはようごいます！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Ah, good day!",
+    "Enabled": true
   },
   "263171": {
     "OriginalText": "はい！ 元気です！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Yes! I'm fine!",
+    "Enabled": true
   },
   "263172": {
     "OriginalText": "私に迷惑かけないでくれる？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Can you not bother me?",
+    "Enabled": true
   },
   "263173": {
     "OriginalText": "今日は何の話かな？",
-    "Text": "",
-    "Enabled": false
+    "Text": "What are we gonna talk about today?",
+    "Enabled": true
   },
   "263174": {
     "OriginalText": "ごきげんよう。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Have a nice day.",
+    "Enabled": true
   },
   "263175": {
     "OriginalText": "えっ、ちょっ、な、何よ？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Eh, wai-, what is it?",
+    "Enabled": true
   },
   "263176": {
     "OriginalText": "こんばんわー。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Good evening.",
+    "Enabled": true
   },
   "263177": {
     "OriginalText": "奇遇だなここで会うとは。",
-    "Text": "",
-    "Enabled": false
+    "Text": "It's unexpected to meet you here.",
+    "Enabled": true
   },
   "263178": {
     "OriginalText": "いつも、元気どすなぁ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I'm always fine.",
+    "Enabled": true
   },
   "263179": {
     "OriginalText": "何じゃろか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "What is it?",
+    "Enabled": true
   },
   "263180": {
     "OriginalText": "元気そうだな！",
-    "Text": "",
-    "Enabled": false
+    "Text": "You look fine!",
+    "Enabled": true
   },
   "263181": {
     "OriginalText": "やっほー！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Yoohoo!",
+    "Enabled": true
   },
   "263182": {
     "OriginalText": "どした？",
-    "Text": "",
-    "Enabled": false
+    "Text": "What's wrong?",
+    "Enabled": true
   },
   "263183": {
     "OriginalText": "え…、なにか…？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Eh..., What is it...?",
+    "Enabled": true
   },
   "263184": {
     "OriginalText": "う～ん、ゼファーはまた\nどこほっつき歩いてるの？\nヴァシュロンもいないし、むぅぅぅ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Uh, where is Zephyr loitering again?\nI can't find Vashyron either, Grrrr.",
+    "Enabled": true
   },
   "264000": {
     "OriginalText": "ふぅ～、もうすぐティータイムなのに\n茶器一つ用意されないなんて……。\nホント不便な[ruby ほし]惑星[/ruby]ですわ！！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Phew, it's almost teatime but I don't\nhave a tea set. This planet is really\ninconvenient.",
+    "Enabled": true
   },
   "264001": {
     "OriginalText": "グラバー様……。\n今頃、何をして\nいらっしゃるのかしら……。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Mr. Glover.... At this time,\nI wonder what he is doing....",
+    "Enabled": true
   },
   "264002": {
     "OriginalText": "でも、こうして離れている時間が\n愛を育てるものと聞きました。\nグラバー様のためなら耐えて見せますわ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "But, I heard that being separated at\nthis time fosters love. For Mr. Glover's\nsake I will endure it.",
+    "Enabled": true
   },
   "264003": {
     "OriginalText": "さぁ、執事さん！\nグラバー様を探しに参りますよ。\n準備を急いでくださいませ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Come on, butler! Let's find Mr. Glover.\nPlease hurry up!",
+    "Enabled": true
   },
   "264004": {
     "OriginalText": "ほらほら、恋する無敵艦隊は\n休むことを許されていませんよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Now, now, the Invincible Love Fleet\nis not allowed to rest.",
+    "Enabled": true
   },
   "264005": {
     "OriginalText": "グラバー様は拠点周辺にいるとのことです。\n早く向かいましょう！",
-    "Text": "",
-    "Enabled": false
+    "Text": "I heard that Mr. Glover is just around\nthe vicinity. Let's go quickly!",
+    "Enabled": true
   },
   "264006": {
     "OriginalText": "さぁさぁ、果洋を採りに向かいましょう！\n採れた果洋は、私の愛によって\n山より高いフルーツケーキにっ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Come now, let's go pick the fruits!\nI picked the fruits by my love for my\ntall Fruitcake!",
+    "Enabled": true
   },
   "264007": {
     "OriginalText": "えっ、余計なことをせず、\n果洋は皮をむくだけでいい？\nう～ん、素村で勝負することも大事ですわね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Eh, don't overdo it, is the fruits need\nto be peeled? Hmm, it's also important\nas a ingredient.",
+    "Enabled": true
   },
   "264008": {
     "OriginalText": "何こんなところでぼやぼやしているのです！\n早急に隠れられそうな場所を探してください！\nもう一刻の禁予もありませんことよ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Why are you being careless!\nPlease find a place to hide quickly!\nDon't go over your limit!",
+    "Enabled": true
   },
   "264009": {
     "OriginalText": "冷悪非道な警備部の方々の毒牙が\nグラバー様に襲いかかろうとしているのです！\n急いでくださいませ！！",
-    "Text": "",
-    "Enabled": false
+    "Text": "The sinister and wicked Defense Force\nwill attack Glover! Please hurry!!",
+    "Enabled": true
   },
   "264010": {
     "OriginalText": "私の愛の推理が正しければ、\nグラバー様はあの場所にいるはずです。",
-    "Text": "",
-    "Enabled": false
+    "Text": "If my love reasoning is correct,\nMr. Glover should be in that place.",
+    "Enabled": true
   },
   "264011": {
     "OriginalText": "執事さん、\nわたしに付いて来てください！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Butler, please follow me!",
+    "Enabled": true
   },
   "264012": {
     "OriginalText": "今では、すっかりグラバー様と\nお友達なんですの。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Now, I'm completely friends with Mr. Glover.",
+    "Enabled": true
   },
   "264013": {
     "OriginalText": "この前はグラバー様に私が\n腕によりをかけて作ったお食事を\nご馳走させていただきましたの。",
-    "Text": "",
-    "Enabled": false
+    "Text": "The other day, I served Mr. Glover a\nmeal that I made with my hands.",
+    "Enabled": true
   },
   "264014": {
     "OriginalText": "えっ、おなかをこわさなかったかって？\n失礼ですわね！ なぜか食べる直前に\nヒュペリオンさんが回収していきましたわ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Eh, his stomach was upset? Forgive me!\nSomehow Hyperion managed to collect it\nbefore eating.",
+    "Enabled": true
   },
   "264015": {
     "OriginalText": "コウエン隊長とチームシグマの皆さんの\nためにも、早くギガンテスを倒しに行きますよ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "For the sake of everyone in Team Sigma\nand Captain Cowen, defeat the Gigantes\nquickly!",
+    "Enabled": true
   },
   "264016": {
     "OriginalText": "真剣に取り組んでいると、\nお仕事もなかなか楽しいものなんですね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Don't be too serious about it,\nworking is also quite fun.",
+    "Enabled": true
   },
   "264017": {
     "OriginalText": "今まで見えなかったものが\n見えるというか、\n毎日新しい発見の連続です。",
-    "Text": "",
-    "Enabled": false
+    "Text": "You can see now what you can't see\nbefore, a series of new discoveries\neveryday.",
+    "Enabled": true
   },
   "264018": {
     "OriginalText": "なんだ、お前。\n用がないならば立ち去れ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Oh, it's you. If you're not gonna do\nanything then move along.",
+    "Enabled": true
   },
   "264019": {
     "OriginalText": "俺は他人と関わるつもりはない。\nわかったのならば速やかに立ち去ることだ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I'm not going to be involved with others.\nIf you understand then leave.",
+    "Enabled": true
   },
   "264020": {
     "OriginalText": "いくら調べても無駄だ。\n艦長、早くグラバー隊長捕の許可を\n出してもらおうか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "No matter how much you investigate, its\nuseless. Would you like to get a permit\nto capture Captain Glover?",
+    "Enabled": true
   },
   "264021": {
     "OriginalText": "ん？ 体調は大丈夫かだと……？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Hm? Is you health OK...?",
+    "Enabled": true
   },
   "264022": {
     "OriginalText": "ふん、特に問題はない。\nそんなことより、お前には他に\nすることがあったはずだ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Hmm, There's no problem. More than that,\nyou must have something else to do.",
+    "Enabled": true
   },
   "264023": {
     "OriginalText": "何か手掛かりになるものを\n盗まれたのだろう。\n早く追いかけて見つけてきたらどうだ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Something that can be a clue was stolen.\nWe must find and chase it quickly.",
+    "Enabled": true
   },
   "264024": {
     "OriginalText": "俺たち警備部が真実を明らかにするのは\nこの拠点の平安のため、この１点のみだ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "For the peace in the base we the\nDefense Force will reveal the truth,\nthis is 1 of them.",
+    "Enabled": true
   },
   "264025": {
     "OriginalText": "グラバー隊長の一件が\n拠点に悪影響を及ぼさないならば\n警備部は介入しない。",
-    "Text": "",
-    "Enabled": false
+    "Text": "If one of Captain Glover's case doesn't\naffect much the base, we will not\ninterfere.",
+    "Enabled": true
   },
   "264026": {
     "OriginalText": "そうでなくても、警備部には\n連日復数の案件が舞い込んでいる。\n事件性のない出来事に割く時間はないしな。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Even if not, the Defense Force is recieving\na number of cases daily. We can't devote\nourselves to non-criminal cases.",
+    "Enabled": true
   },
   "264027": {
     "OriginalText": "俺たちは真実を知る者として\n果たさなければならないことがある。\n炎の高地に向かうぞ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "We have something to do as we know the\ntruth. We're heading to Flame Highlands.",
+    "Enabled": true
   },
   "264028": {
     "OriginalText": "さっき先堰と話してきた。\n俺の銃痕をみてひどく\n気にしていたが、",
-    "Text": "",
-    "Enabled": false
+    "Text": "We've talked about stopping earlier.\nI was worried when I see the gun marks.",
+    "Enabled": true
   },
   "264029": {
     "OriginalText": "逆に俺が先堰の真意をみ取らず\n憎んでいたことを謝露したら\nなぜか豪快に笑われた。",
-    "Text": "",
-    "Enabled": false
+    "Text": "On the contrary, I apologize for not\nseeing the meaning of stopping and hated\nit, I laughed for some reason.",
+    "Enabled": true
   },
   "264030": {
     "OriginalText": "やはり、先堰のことは\n理解できないから困る。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Likewise, I have trouble understanding\nwhy you're stopping me.",
+    "Enabled": true
   },
   "264031": {
     "OriginalText": "何かありましたか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Do you need something?",
+    "Enabled": true
   },
   "264032": {
     "OriginalText": "あら、ごきげんよう！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Ah, have a nice day!",
+    "Enabled": true
   },
   "264033": {
     "OriginalText": "何事だ？",
-    "Text": "",
-    "Enabled": false
+    "Text": "What's the matter?",
+    "Enabled": true
   },
   "264034": {
     "OriginalText": "あぁ、お前か",
-    "Text": "",
-    "Enabled": false
+    "Text": "Ahh, it's you.",
+    "Enabled": true
   },
   "264035": {
     "OriginalText": "まだいらしたの？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Why you're here?",
+    "Enabled": true
   },
   "264036": {
     "OriginalText": "ではこれで。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Well then.",
+    "Enabled": true
   },
   "264037": {
     "OriginalText": "また、来てくださる？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Will you come again?",
+    "Enabled": true
   },
   "264038": {
     "OriginalText": "早く行け。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Let's go.",
+    "Enabled": true
   },
   "264039": {
     "OriginalText": "ではな。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Well then.",
+    "Enabled": true
   },
   "264040": {
     "OriginalText": "またな。",
-    "Text": "",
-    "Enabled": false
+    "Text": "See you.",
+    "Enabled": true
   },
   "264041": {
     "OriginalText": "『 パーティーメンバー追加 ： ガーネット 』\nガーネットをクエストに同行できるようになりました。",
-    "Text": "",
-    "Enabled": false
+    "Text": "\"Party Member Added: Garnet\"\nGarnet is now available as party member.",
+    "Enabled": true
   },
   "264042": {
     "OriginalText": "『 パーティーメンバー追加 ： サンシャウト 』\nサンシャウトをクエストに同行できるようになりました。",
-    "Text": "",
+    "Text": "\"Party Member Added: Sunshout\"\nSunshout is now available as party\nmember.",
     "Enabled": false
   },
   "264043": {
     "OriginalText": "『 オペレーター追加 ： ガーネット 』\nガーネットに話しかけることで切替可能です。",
-    "Text": "",
-    "Enabled": false
+    "Text": "\"Operator Added: Garnet\"\nYou can switch by talking to Garnet.",
+    "Enabled": true
   },
   "264044": {
     "OriginalText": "『 オペレーター追加 ： サンシャウト 』\nサンシャウトに話しかけることで切替可能です。",
-    "Text": "",
-    "Enabled": false
+    "Text": "\"Operator Added: Sunshout\"\nYou can switch by talking to Sunshout.",
+    "Enabled": true
   },
   "264045": {
     "OriginalText": "クリア報酬！！\nホワイトチケット ×３ を手に入れた。",
-    "Text": "",
+    "Text": "Clear reward!!\nWhite Ticket x3 received.",
     "Enabled": false
   },
   "264046": {
     "OriginalText": "クリア報酬！！\nダイヤモンドネイヴＫ         \nダイヤモンドクイーンＫ を手に入れた。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Clear reward!!\nDiamond Knave K,\nDiamond Queen K received.",
+    "Enabled": true
   },
   "264047": {
     "OriginalText": "クリア報酬！！\nダイヤモンドネイヴＲ         \nダイヤモンドクイーンＲ を手に入れた。",
-    "Text": "",
+    "Text": "Clear reward!!\nDiamond Knave R,\nDiamond Queen R received.",
     "Enabled": false
   },
   "264048": {
     "OriginalText": "クリア報酬！！\nダイヤモンドネイヴＷ         \nダイヤモンドクイーンＷ を手に入れた。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Clear reward!!\nDiamond Knave W,\nDiamond Queen W received.",
+    "Enabled": true
   },
   "264049": {
     "OriginalText": "クリア報酬！！\nダイヤモンドネイヴＢ         \nダイヤモンドクイーンＢ を手に入れた。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Clear reward!!\nDiamond Knave B,\nDiamond Queen B received.",
+    "Enabled": true
   },
   "264050": {
     "OriginalText": "クリア報酬！！\nマキアファクター ×１ を手に入れた。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Clear reward!!\nMahkia Factor x1 received.",
+    "Enabled": true
   },
   "264051": {
     "OriginalText": "マキアファクター ×１ を手に入れた。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Mahkia Factor x1 received.",
+    "Enabled": true
   },
   "264052": {
     "OriginalText": "マキアファクター ×１ を手に入れた。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Mahkia Factor x1 received.",
+    "Enabled": true
   },
   "264053": {
     "OriginalText": "【ガーネット編 第１話】    \n【サンシャウト編 第１話】へ続く",
-    "Text": "",
-    "Enabled": false
+    "Text": "(Episode Garnet Chapter 1),\n(Episode Sunshout Chapter 1)\nto be continued.",
+    "Enabled": true
   },
   "264054": {
     "OriginalText": "【ガーネット編 第２話】へ続く",
-    "Text": "",
-    "Enabled": false
+    "Text": "(Episode Garnet Chapter 2)\nro be continued.",
+    "Enabled": true
   },
   "264055": {
     "OriginalText": "【ガーネット編 第３話】へ続く",
-    "Text": "",
-    "Enabled": false
+    "Text": "(Episode Garnet Chapter 3)\nto be continued.",
+    "Enabled": true
   },
   "264056": {
     "OriginalText": "【サンシャウト編 第１話】へ続く",
-    "Text": "",
-    "Enabled": false
+    "Text": "(Episode Sunshout Chapter 1)\nto be continued.",
+    "Enabled": true
   },
   "264057": {
     "OriginalText": "【サンシャウト編 第２話】へ続く",
-    "Text": "",
-    "Enabled": false
+    "Text": "(Episode Sunshout Chapter 2)\nto be continued.",
+    "Enabled": true
   },
   "264058": {
     "OriginalText": "【サンシャウト編 第３話】へ続く",
-    "Text": "",
-    "Enabled": false
+    "Text": "(Episode Sunshout Chapter 3)\nto be continued.",
+    "Enabled": true
   },
   "264059": {
     "OriginalText": "【サンシャウト編 第３話】をクリアすると     \n【サイドストーリー 完結編】を遊ぶことができます。",
-    "Text": "",
-    "Enabled": false
+    "Text": "(Episode Sunshout Chapter 3) is cleared,\nyou can now play the (Side Story Finale).",
+    "Enabled": true
   },
   "264060": {
     "OriginalText": "【ガーネット編 第３話】をクリアすると      \n【サイドストーリー 完結編】を遊ぶことができます。",
-    "Text": "",
-    "Enabled": false
+    "Text": "(Episode Garnet Chapter 3) is cleared,\nyou can now play the (Side Story Finale).",
+    "Enabled": true
   },
   "264061": {
     "OriginalText": "拠点下層にいるサンシャウトに話しかけると     \n【サイドストーリー 完結編】を遊ぶことができます。",
-    "Text": "",
-    "Enabled": false
+    "Text": "You can now talk to Sunshout in the\nlower area and play the (Side Story\nFinale).",
+    "Enabled": true
   },
   "264062": {
     "OriginalText": "クリア報酬！！\nダイヤモンドネイヴＹ         \nダイヤモンドクイーンＹ を手に入れた。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Clear reward!!\nDiamond Knave Y,\nDiamond Queen Y received.",
+    "Enabled": true
   },
   "265001": {
     "OriginalText": "『 オペレーター追加 ： ルティナ 』\nルティナに話しかけることで切替可能です。\n（オペレーターの変更によるゲーム進行の差異はありません。）",
-    "Text": "",
-    "Enabled": false
+    "Text": "\"Operator Added: Lutina\"\nYou can switch by talking to Lutina.\n(Game progress not affected).",
+    "Enabled": true
   },
   "265002": {
     "OriginalText": "『 オペレーター追加 ： セイル 』\nセイルに話しかけることで切替可能です。\n（オペレーターの変更によるゲーム進行の差異はありません。）",
-    "Text": "",
-    "Enabled": false
+    "Text": "\"Operator Added: Sail\"\nYou can switch by talking to Sail.\n(Game progress not affected).",
+    "Enabled": true
   },
   "265003": {
     "OriginalText": "『 オペレーター追加 ： イズナ 』\nイズナに話しかけることで切替可能です。\n（オペレーターの変更によるゲーム進行の差異はありません。）",
-    "Text": "",
-    "Enabled": false
+    "Text": "\"Operator Added: Izuna\"\nYou can switch by talking to Izuna.\n(Game progress not affected).",
+    "Enabled": true
   },
   "265004": {
     "OriginalText": "『 オペレーター追加 ： フィルディア 』\nフィルディアに話しかけることで切替可能です。\n（オペレーターの変更によるゲーム進行の差異はありません。）",
-    "Text": "",
-    "Enabled": false
+    "Text": "\"Operator Added: Fildia\"\nYou can switch by talking to Fildia.\n(Game progress not affected).",
+    "Enabled": true
   },
   "265005": {
     "OriginalText": "武器ショップで「武器エクステンド」が可能になりました。",
-    "Text": "",
-    "Enabled": false
+    "Text": "\"Weapon Extend\" is now available\nin Weapon Shop.",
+    "Enabled": true
   },
   "265006": {
     "OriginalText": "コールドスリープカウンターに\n「再キャラクタークリエイト」機能が\n追加されました。",
-    "Text": "",
-    "Enabled": false
+    "Text": "\"Recreate Character\" function is now\navailable in Cold Sleep Counter.",
+    "Enabled": true
   },
   "265007": {
     "OriginalText": "『 パーティーメンバー追加 ： キサラ 』\nキサラをクエストに同行できるようになりました。",
-    "Text": "",
-    "Enabled": false
+    "Text": "\"Party Member Added: Kisara\"\nKisara is now available as party member.",
+    "Enabled": true
   },
   "265008": {
     "OriginalText": "『 パーティーメンバー追加 ： リーティア 』\nリーティアをクエストに同行できるようになりました。",
-    "Text": "",
-    "Enabled": false
+    "Text": "\"Party Member Added: Rietheia\"\nRietheia is now available as party\nmember.",
+    "Enabled": true
   },
   "265009": {
     "OriginalText": "施設が開発できるようになりました。\n『コア精錬所 Lv.5』",
-    "Text": "",
-    "Enabled": false
+    "Text": "Facility upgrade is now available.\n\"Core Refinery Lv.5\"",
+    "Enabled": true
   }
 }
