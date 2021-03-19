@@ -141,12 +141,12 @@
   },
   "650001": {
     "OriginalText": "広範囲にわたる知識を持つクルー。\n拠点要員としても、戦闘要員としても\n対応可能。",
-    "Text": "Crew with a broad knowledge.\nA base personnel but can join\nin combat.",
+    "Text": "Crew with broad knowledge.\nA base personnel that can also\njoin in combat.",
     "Enabled": true
   },
   "650002": {
     "OriginalText": "戦闘技術の高いクルー。\n共に戦場に立つ頼れる仲間となる。",
-    "Text": "Crew with high combat techs.\nCan be trusted in battlefield.",
+    "Text": "Crew with high combat techs.\nCan be trusted in the battlefield.",
     "Enabled": true
   },
   "650003": {
@@ -171,12 +171,12 @@
   },
   "650007": {
     "OriginalText": "ハンタークラスのクルー。\n高いHPと防御力を持ち、近接戦闘での\n活躍が期待できる。",
-    "Text": "Hunter class crew.\nHave high HP and defense, good\nfor close-range combat.",
+    "Text": "Hunter class crew.\nHas high HP and defense, good\nfor close-range combat.",
     "Enabled": true
   },
   "650008": {
     "OriginalText": "レンジャークラスのクルー。\n射撃と得意とし、中距離からの\n戦闘のサポートを行う。",
-    "Text": "Ranger class crew.\nExcels in shooting, good for\nmid-range combat.",
+    "Text": "Ranger class crew.\nExcels in shooting, good\nfor mid-range combat.",
     "Enabled": true
   },
   "650009": {
@@ -186,27 +186,27 @@
   },
   "650010": {
     "OriginalText": "最先端ファッションを身に纏うクルー。\n拠点や戦闘の華として活躍する。\n不時着時の衝撃により、伝備の損傷が\n撃しかったため、新調しているクルーもいる。",
-    "Text": "Crew with a cutting-edge\nfashion. Active in base and\nbattle. Renewed crew with a\nrepaired equipment.",
+    "Text": "Crew with a cutting-edge\nfashion. Active in base and\nbattle. Renewed crew with\nrepaired equipment.",
     "Enabled": true
   },
   "650011": {
     "OriginalText": "各技術に特化した職人肌のスペシャリスト。\n拠点運営を強力にサポートしてくれる。\n不時着時の衝撃により、伝備の損傷が\n撃しかったため、新調しているクルーもいる。",
-    "Text": "Technology specialist. Excels\nin base management support.\nRenewed crew with a repaired\nequipment.",
+    "Text": "Technology specialist. Excels\nin base management support.\nRenewed crew with repaired\nequipment.",
     "Enabled": true
   },
   "650012": {
     "OriginalText": "アークス内でも有名な歴戦の戦土。\n戦場で立ちはだかる敵を一掃してくれる。\n不時着時の衝撃により、伝備の損傷が\n撃しかったため、新調しているクルーもいる。",
-    "Text": "ARKS veteran and famous.\nSweeps enemies in battle.\nRenewed crew with a repaired\nequipment.",
+    "Text": "ARKS veteran and famous.\nSweeps enemies in battle.\nRenewed crew with repaired\nequipment.",
     "Enabled": true
   },
   "650013": {
     "OriginalText": "マザーシップのどこかで見かけた\nことのあるクルー。\n個性豊かな面々が戦闘をサポートする。",
-    "Text": "Crew seen somewhere in the\nMothership. Unique person that\nexcels in combat support.", 
+    "Text": "Crew seen somewhere in the\nMothership. A unique person that\nexcels in combat support.", 
     "Enabled": true
   },
   "650014": {
     "OriginalText": "各セクションのリーダー候補のクルー。\n他のクルーからの信頼も厚い。",
-    "Text": "Crew candidate for section\nleader. Trusted by other\ncrews.",
+    "Text": "Crew candidate for section\nleader. Trusted by other\ncrew members.",
     "Enabled": true
   },
   "650015": {
@@ -261,7 +261,7 @@
   },
   "650025": {
     "OriginalText": "歴史の陰で活躍してきたという、幻のクルー。\nその実力は謎に包まれている。",
-    "Text": "Phantom crew with a great history.\nIt's strength is full of mystery.",
+    "Text": "Phantom crew with a great history.\nIts strength is full of mystery.",
     "Enabled": true
   },
   "650026": {
