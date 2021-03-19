@@ -211,7 +211,7 @@
   },
   "170042": {
     "OriginalText": "クラスに応じたスキルを習得します。★",
-    "Text": "Learn skills according to you class.",
+    "Text": "Learn skills according to your class.",
     "Enabled": true
   },
   "170043": {
@@ -246,7 +246,7 @@
   },
   "170049": {
     "OriginalText": "コスチュームやキャストのパーツを作成します。",
-    "Text": "Create parts for Cast Costume.",
+    "Text": "Create parts for a Cast Costume.",
     "Enabled": true
   },
   "170050": {
@@ -341,7 +341,7 @@
   },
   "170068": {
     "OriginalText": "クラスの変更と各種能力の習得、選択をします。",
-    "Text": "Change your class, select and learn abilities.",
+    "Text": "Change your class, or select and learn abilities.",
     "Enabled": true
   },
   "170069": {
@@ -406,7 +406,7 @@
   },
   "170081": {
     "OriginalText": "現在受けている約束を確認します。",
-    "Text": "Check the promises you currently received.",
+    "Text": "Check the Promise Orders you've received.",
     "Enabled": true
   },
   "170082": {
@@ -431,7 +431,7 @@
   },
   "170086": {
     "OriginalText": "現在までのあらすじを確認します。",
-    "Text": "Check the summaries up until now.",
+    "Text": "Check the story summaries up to this point.",
     "Enabled": true
   },
   "170087": {
@@ -551,7 +551,7 @@
   },
   "170110": {
     "OriginalText": "配属するクルーを選択します。",
-    "Text": "Select a crew yoy want to assign.",
+    "Text": "Select a crew member you want to assign.",
     "Enabled": true
   },
   "170111": {
@@ -871,7 +871,7 @@
   },
   "170174": {
     "OriginalText": "参加するパーティーを選択します。",
-    "Text": "Select a party the join.",
+    "Text": "Select a party to join.",
     "Enabled": true
   },
   "170175": {
@@ -901,7 +901,7 @@
   },
   "170180": {
     "OriginalText": "約束を受けます。また、約束の達成報告、破棄をします。",
-    "Text": "Receive promises. Also, discard or report finished promises.",
+    "Text": "Receive Promise Orders. Also, discard or report finished orders.",
     "Enabled": true
   },
   "170181": {
@@ -916,7 +916,7 @@
   },
   "170183": {
     "OriginalText": "作成するアタッチパーツの能力を選択します。",
-    "Text": "Select attachment ability you want to create.",
+    "Text": "Select the attachment ability you want to create.",
     "Enabled": true
   },
   "170184": {
@@ -951,7 +951,7 @@
   },
   "170190": {
     "OriginalText": "ゲームの設定を変更したり、役に立つ情報を閲覧できます。",
-    "Text": "Change game settings and read helpful infos.",
+    "Text": "Change game settings and read helpful info.",
     "Enabled": true
   },
   "170191": {
@@ -976,12 +976,12 @@
   },
   "170195": {
     "OriginalText": "ヘイロウの燥作を説明した動画を再生します。",
-    "Text": "Replay video explaining Halo function.",
+    "Text": "Replay video explaining Halo functions.",
     "Enabled": true
   },
   "170196": {
     "OriginalText": "パイルの燥作を説明した動画を再生します。",
-    "Text": "Replay video explaining Pile function.",
+    "Text": "Replay video explaining Pile functions.",
     "Enabled": true
   },
   "170197": {
@@ -1006,7 +1006,7 @@
   },
   "170201": {
     "OriginalText": "アドホック通信機能を使って、２人～４人で遊べるモードです。",
-    "Text": "This mode can be played by 2-4 players using adhoc.",
+    "Text": "This mode can be played by 2-4 players using ad-hoc.",
     "Enabled": true
   },
   "170202": {

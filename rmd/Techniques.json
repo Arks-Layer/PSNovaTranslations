@@ -221,7 +221,7 @@
   },
   "590013": {
     "OriginalText": "放電球体を生成。電気体は周囲を巻き込む放電を\n起こす。",
-    "Text": "Generates an lightning orb. The orb then\ndischarges lightning to the surroundings.",
+    "Text": "Generates a lightning orb that\ndischarges lightning to its surroundings.",
     "Enabled": true
   },
   "590014": {
@@ -256,22 +256,22 @@
   },
   "590020": {
     "OriginalText": "自分の目前に強烈な風の衝撃波を発生させる。",
-    "Text": "Creates a strong wind shock wave in\nfront of you.",
+    "Text": "Creates a strong wind shockwave in\nfront of you.",
     "Enabled": true
   },
   "590021": {
     "OriginalText": "光の矢を生成。照準の地点または\nロックオンした敵が居る地点に矢を落とす。",
-    "Text": "Create an arrow of light. Drop the arrow\nto the location of the locked-on enemy.",
+    "Text": "Creates an arrow of light and drops it\nonto the location of the locked-on enemy.",
     "Enabled": true
   },
   "590022": {
     "OriginalText": "光の剣を展開。そのまま周囲の敵をなぎ払う。",
-    "Text": "Produce a sword of light. Then wipe out\nthe surrounding enemies.",
+    "Text": "Produces a sword of light to wipe out\nsurrounding enemies.",
     "Enabled": true
   },
   "590023": {
     "OriginalText": "光の槍を生成。前方に向かって発射する。",
-    "Text": "Create a spear of light. Then fires\nto the front.",
+    "Text": "Creates a spear of light that fires\nin front of you or the Talis.",
     "Enabled": true
   },
   "590024": {
@@ -291,17 +291,17 @@
   },
   "590027": {
     "OriginalText": "照準のある地点の上空に黒い球を発生し、ビームを\n降らせる。",
-    "Text": "Create a dark orb above the aim point,\nthen it fires a beam.",
+    "Text": "Creates a dark orb above the aim point\nthat fires a beam.",
     "Enabled": true
   },
   "590028": {
     "OriginalText": "自身またはタリスの位置の周囲に炸裂する闇の弾を\n降り注がせる。",
-    "Text": "Showers an exploding dark balls around\nyou or the Talis.",
+    "Text": "Showers exploding dark balls around\nyou or the Talis.",
     "Enabled": true
   },
   "590029": {
     "OriginalText": "鉤温グランを広げ自身に有利な領域を生み出す。",
-    "Text": "Spread Gran and creates an area that is\nadvantageous to you.",
+    "Text": "Spreads Gran and creates an area that is\nadvantageous to you.",
     "Enabled": true
   },
   "590030": {

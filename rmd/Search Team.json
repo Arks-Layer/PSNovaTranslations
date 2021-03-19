@@ -1121,7 +1121,7 @@
   },
   "730109": {
     "OriginalText": "何なりとお命じください。",
-    "Text": "Please order me anything.",
+    "Text": "Please order me to do\nanything.",
     "Enabled": true
   },
   "730110": {
@@ -1131,7 +1131,7 @@
   },
   "730111": {
     "OriginalText": "ワシの探索隊の実力を見たいのじゃろう。",
-    "Text": "You want to see the power of the\nmy Search Team.",
+    "Text": "You want to see the power of my\nSearch Team?",
     "Enabled": true
   },
   "730112": {
@@ -1176,7 +1176,7 @@
   },
   "730120": {
     "OriginalText": "私を探索隊のリーダーに据えるとは\n見る目あるんじゃないかしら。",
-    "Text": "I wonder if it's easy to be a\nleader of Search Team.",
+    "Text": "I wonder if it's easy to be a\nleader of the Search Team.",
     "Enabled": true
   },
   "730121": {
@@ -1186,12 +1186,12 @@
   },
   "730122": {
     "OriginalText": "探索とはなかなか\n忍耐のいる任務なんだぞ。",
-    "Text": "Searching is very patient task.",
+    "Text": "Searching is a very patient task.",
     "Enabled": true
   },
   "730123": {
     "OriginalText": "良き探索者とは、探索におけるあらゆる\n失敗を冒した人洋のことかもしれんの。\n要は臆せず、まずは試してみることじゃ。",
-    "Text": "Any good searcher made a mistake\nat some point. The point is, don't\nbe afraid, try it first.",
+    "Text": "Any good searcher's made a mistake\nat some point. The point is, don't\nbe afraid, try it first.",
     "Enabled": true
   },
   "730124": {
@@ -1246,7 +1246,7 @@
   },
   "730206": {
     "OriginalText": "この探索から帰ったら、\nシャロンさんに……。",
-    "Text": "After the search I'll be going\nhome...,\nto Sharon...",
+    "Text": "After the search I'll be going\nhome..., to Sharon...",
     "Enabled": true
   },
   "730207": {
@@ -1261,7 +1261,7 @@
   },
   "730209": {
     "OriginalText": "かしこまりました。\nふふ、期待には応えますよ。",
-    "Text": "Understood. Haha,\nI will meet your expectations.",
+    "Text": "Understood. Haha, I will meet\n your expectations.",
     "Enabled": true
   },
   "730210": {
@@ -1306,12 +1306,12 @@
   },
   "730218": {
     "OriginalText": "それでは行ってきまーす！",
-    "Text": "Well then let's go!",
+    "Text": "Well then, let's go!",
     "Enabled": true
   },
   "730219": {
     "OriginalText": "じゃあ、楽しみに待ってね！",
-    "Text": "Then, I'm look forward to it.",
+    "Text": "Then, I'll look forward to it.",
     "Enabled": true
   },
   "730220": {
@@ -1331,7 +1331,7 @@
   },
   "730223": {
     "OriginalText": "心配することはない。\nおぬしは目的地を示した。そこへ至る道は\nわしら探索隊が柘いていってやろうて。",
-    "Text": "Don't worry. I will show your\ndestination. The way to get there\nwill be found by our Search Team.",
+    "Text": "Don't worry. I'll show you your\ndestination. The way to get there\nwill be found by our Search Team.",
     "Enabled": true
   },
   "730224": {
@@ -1411,7 +1411,7 @@
   },
   "730311": {
     "OriginalText": "探索の結果じゃ。\n心して聞くのじゃぞ！",
-    "Text": "As a result of the search.\nListen carefully!",
+    "Text": "As a result of the search...\nListen carefully!",
     "Enabled": true
   },
   "730312": {
@@ -1431,7 +1431,7 @@
   },
   "730315": {
     "OriginalText": "はい、探索の結果報告であります！",
-    "Text": "Yes, it is the report of the\nsearch results.",
+    "Text": "Yes, here's the report of the\nsearch results.",
     "Enabled": true
   },
   "730316": {
@@ -1476,7 +1476,7 @@
   },
   "730324": {
     "OriginalText": "結果報告だね、待ってたよ。",
-    "Text": "It's the result report you've\nbeen waiting.",
+    "Text": "It's the results report you've\nbeen waiting for.",
     "Enabled": true
   },
   "730325": {
@@ -1541,7 +1541,7 @@
   },
   "730409": {
     "OriginalText": "穏やかな時間は良いですよね。\nまぁ戦場も嫌いではないのですが。",
-    "Text": "Quite times are good. Well, I don't\nhate the battlefield either.",
+    "Text": "Quiet times are good. Well, I don't\nhate the battlefield either.",
     "Enabled": true
   },
   "730410": {
@@ -1551,7 +1551,7 @@
   },
   "730411": {
     "OriginalText": "なぬっ、さぼっている訳ではないぞ、\n休息も仕事のうちじゃ！",
-    "Text": "What, I'm not skipping, rest is\npart of my work!",
+    "Text": "What? I'm not skipping, rest is\npart of my work!",
     "Enabled": true
   },
   "730412": {
@@ -1561,7 +1561,7 @@
   },
   "730413": {
     "OriginalText": "休み、英気を養う。\n探索の成功に不可欠なものね。",
-    "Text": "Taking a break and rest. It’s\nessential to the success of your\nsearch.",
+    "Text": "Taking a break and resting. It’s\nessential to the success of your\nsearch.",
     "Enabled": true
   },
   "730414": {
@@ -1636,7 +1636,7 @@
   },
   "730428": {
     "OriginalText": "しー、今は探索隊はお休み中だから\n静かにしてあげてね。",
-    "Text": "Shh, the Search Team is on break\nnow, please be quite.",
+    "Text": "Shh, the Search Team is on break\nnow, please be quiet.",
     "Enabled": true
   }
 }
