@@ -1456,23 +1456,23 @@
   },
   "21125": {
     "OriginalText": "[f 1c] ：パーティー解散メニューを開く",
-    "Text": "",
-    "Enabled": false
+    "Text": "[f 1c] : Open menu to disband party",
+    "Enabled": true
   },
   "21126": {
     "OriginalText": "[f 1c] ：パーティー離脱メニューを開く",
-    "Text": "",
-    "Enabled": false
+    "Text": "[f 1c] : Open menu to leave party",
+    "Enabled": true
   },
   "21127": {
     "OriginalText": "このクエストを終了し、\n通信を切断して自分の拠点へ戻ります。\nパーティを解散しますか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Will quit the quest, disconnect and return to\nbase. Disband the party?",
+    "Enabled": true
   },
   "21128": {
     "OriginalText": "このクエストを終了し、\n通信を切断して自分の拠点へ戻ります。\nパーティを離脱しますか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Will quit the quest, disconnect and return to\nbase. Leave the party?",
+    "Enabled": true
   },
   "21201": {
     "OriginalText": "約束",
@@ -1956,18 +1956,18 @@
   },
   "21644": {
     "OriginalText": "倉庫に空きがありません。 \nアタッチパーツのセットされた\n武器を預けられません。 ",
-    "Text": "",
-    "Enabled": false
+    "Text": "No space in the storage.\nWeapons with attachments can't be deposited.",
+    "Enabled": true
   },
   "21645": {
     "OriginalText": "アタッチパーツがセットされています。 \n武器とアタッチパーツを同時に取り出します。\nよろしいですか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Attachment is set.\nWeapon and Attachment will be taken together.\nAre you sure?",
+    "Enabled": true
   },
   "21646": {
     "OriginalText": "アイテムパックに空きがありません。\nアタッチパーツのセットされた \n武器を取り出せません。",
-    "Text": "",
-    "Enabled": false
+    "Text": "No space in the Inventory.\nWeapons with Attachments can't be taken.",
+    "Enabled": true
   },
   "21647": {
     "OriginalText": "倉庫に送れませんでした。",
@@ -2186,8 +2186,8 @@
   },
   "21741": {
     "OriginalText": "リーダーがトライアルクエストを受託しました。\nあらかじめ用意された伝備とパラメータで\nクエストに挑戦します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "The Leader has chosen a Trial Quest.\nChallenge the quest with the prepared equipment\nand parameters.",
+    "Enabled": true
   },
   "21742": {
     "OriginalText": "リーダーがクエストの開始を中止しました。",
@@ -2206,8 +2206,8 @@
   },
   "21745": {
     "OriginalText": "このクエストは\n似下のクエストをクリアしていないと\nプレイできません。",
-    "Text": "",
-    "Enabled": false
+    "Text": "This quest can't be played unless you have cleared\na similar quest.",
+    "Enabled": true
   },
   "21746": {
     "OriginalText": "リーダーがクエストを選択するまでお待ちください。\n\n[f 1c][a 03] で拠点に戻ります。[b]",
@@ -2266,23 +2266,23 @@
   },
   "21757": {
     "OriginalText": "このクエストで洋語に登場するクルーを\n自動的に選択します。\nよろしいですか？ ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Automatically select crews to join the quest.\nAre you sure?",
+    "Enabled": true
   },
   "21758": {
     "OriginalText": "自動選択をおこないました。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Automatic select.",
+    "Enabled": true
   },
   "21759": {
     "OriginalText": "ゲストを外してクエスト選択に戻りますか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Would you like to remove the guest and return to\nquest selection?",
+    "Enabled": true
   },
   "21760": {
     "OriginalText": "体験版では表示されません。 ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Not displayed in the trial version.",
+    "Enabled": true
   },
   "21761": {
     "OriginalText": "デルタ・ヴァリアント",
@@ -2301,8 +2301,8 @@
   },
   "21764": {
     "OriginalText": "選択されたクエストに同行できないクルーを\nパーティーからはずしました。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Removed Crew from the party can't join in the\nselected quest.",
+    "Enabled": true
   },
   "21801": {
     "OriginalText": "参加人数",
@@ -2676,8 +2676,8 @@
   },
   "22128": {
     "OriginalText": "重要な燥作が未設定になっているか、\nボタンが重復しています。\n設定を完了できません。",
-    "Text": "",
-    "Enabled": false
+    "Text": "An important function has not been set, or the\nbutton has been restored. Unable to complete the\nsettings.",
+    "Enabled": true
   },
   "22129": {
     "OriginalText": "設定を初期化します。\n\nよろしいですか？",
@@ -3271,8 +3271,8 @@
   },
   "22720": {
     "OriginalText": "が[親友]になりました",
-    "Text": "",
-    "Enabled": false
+    "Text": " has become [Best Friend]",
+    "Enabled": true
   },
   "22721": {
     "OriginalText": "バーストフィニッシュ",
@@ -3316,8 +3316,8 @@
   },
   "22729": {
     "OriginalText": "濃にオペレーターに指定されています。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Assign as Operator.",
+    "Enabled": true
   },
   "22730": {
     "OriginalText": "キサラ",
@@ -3376,33 +3376,33 @@
   },
   "22741": {
     "OriginalText": "が[他人]になりました",
-    "Text": "",
-    "Enabled": false
+    "Text": " has become [Stranger]",
+    "Enabled": true
   },
   "22742": {
     "OriginalText": "が[知人]になりました",
-    "Text": "",
-    "Enabled": false
+    "Text": " has become [Acquaintance]",
+    "Enabled": true
   },
   "22743": {
     "OriginalText": "が[友人]になりました",
-    "Text": "",
-    "Enabled": false
+    "Text": " has become [Friend]",
+    "Enabled": true
   },
   "22744": {
     "OriginalText": "が[仲間]になりました",
-    "Text": "",
-    "Enabled": false
+    "Text": " has become [Buddy]",
+    "Enabled": true
   },
   "22745": {
     "OriginalText": "が[親友]になりました",
-    "Text": "",
-    "Enabled": false
+    "Text": " has become [Best Friend]",
+    "Enabled": true
   },
   "22746": {
     "OriginalText": "が[親友]になりました",
-    "Text": "",
-    "Enabled": false
+    "Text": " has become [Best Friend]",
+    "Enabled": true
   },
   "22747": {
     "OriginalText": "が[悪友]になりました",
@@ -3416,13 +3416,13 @@
   },
   "22749": {
     "OriginalText": "が[戦友]になりました",
-    "Text": "",
-    "Enabled": false
+    "Text": " has become [Comrade]",
+    "Enabled": true
   },
   "22750": {
     "OriginalText": "が[相棒]になりました",
-    "Text": "",
-    "Enabled": false
+    "Text": " has become [Partner]",
+    "Enabled": true
   },
   "22751": {
     "OriginalText": "指定洋品を入手しました",
@@ -4206,8 +4206,8 @@
   },
   "25451": {
     "OriginalText": "伝備中の武器は合成できません。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Weapons equipped can't be synthesized.",
+    "Enabled": true
   },
   "25452": {
     "OriginalText": "ロック中の武器は合成できません。",
