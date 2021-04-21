@@ -6551,7 +6551,7 @@
   },
   "360205": {
     "OriginalText": "反重力を生み出す機構。\n武器防具の素村になる。",
-    "Text": "An anti-gravity mechanism.\Used as a material for crafting weapons.",
+    "Text": "An anti-gravity mechanism.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360206": {
