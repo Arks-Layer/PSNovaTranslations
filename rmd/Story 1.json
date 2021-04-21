@@ -14617,7 +14617,7 @@
   "108120040060003": {
     "OriginalText": "シャロンさんは、どう思いますか？",
     "Text": "Sharon, what do you think?",
-    "Enabled": tr
+    "Enabled": true
   },
   "108120040070012": {
     "OriginalText": "復雑な想いは私にもあります。",
