@@ -6551,7 +6551,7 @@
   },
   "360205": {
     "OriginalText": "反重力を生み出す機構。\n武器防具の素村になる。",
-    "Text": "An anti-gravity mechanism.\Used as a material for crafting weapons.",
+    "Text": "An anti-gravity mechanism.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360206": {
@@ -7162,7 +7162,7 @@
   "360327": {
     "OriginalText": "太く硬い爪の破片。\n武器防具の素村になる。",
     "Text": "Fragment of a thick and hard claw.\nUsed as a material for crafting weapons.",
-    "Enabled": true.
+    "Enabled": true
   },
   "360328": {
     "OriginalText": "羽煽に覆われた羽。\n武器防具の素村になる。",

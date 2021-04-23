@@ -2542,7 +2542,7 @@
   "262546": {
     "OriginalText": "おっし、出発するぞ、\nやり残したことはないか？",
     "Text": "Oops, before we leave,\nhave you forgotten anything?",
-    "Enabled": tried
+    "Enabled": true
   },
   "263001": {
     "OriginalText": "艦長、現状報告をさせていただいても\nよいでしょうか？\nお時間のある時にラボへお願いします。",
