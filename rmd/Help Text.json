@@ -6,128 +6,128 @@
   },
   "170001": {
     "OriginalText": "確認するアイテムのカテゴリを選択します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Select the item category you want to check.",
+    "Enabled": true
   },
   "170002": {
     "OriginalText": "アイテムの確認、破棄、倉庫への移動をおこないます。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Check, discard, or move items to storage.",
+    "Enabled": true
   },
   "170003": {
     "OriginalText": "伝備を変更するパレットを選び、スキルボードを割り当てます。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Select a palette to change loadout or assign a skill board.",
+    "Enabled": true
   },
   "170004": {
     "OriginalText": "伝備を変更するカテゴリを選択します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Select a category of the loadout you want to change.",
+    "Enabled": true
   },
   "170005": {
     "OriginalText": "伝備を変更するパレットを選択します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Select a palette of the loadout you want to change.",
+    "Enabled": true
   },
   "170006": {
     "OriginalText": "伝備する武器を選択します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Select a weapon you want to equip.",
+    "Enabled": true
   },
   "170007": {
     "OriginalText": "攻撃を変更するパレットを選択します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Select a palette of the attacks you want to change.",
+    "Enabled": true
   },
   "170008": {
     "OriginalText": "変更するスロットを選択します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Select a slot you want to change.",
+    "Enabled": true
   },
   "170009": {
     "OriginalText": "セットする攻撃内容を選択します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Select an attack you want to set.",
+    "Enabled": true
   },
   "170010": {
     "OriginalText": "セットする攻撃内容を選択します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Select an attack you want to set.",
+    "Enabled": true
   },
   "170011": {
     "OriginalText": "セットする攻撃内容を選択します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Select an attack you want to set.",
+    "Enabled": true
   },
   "170012": {
     "OriginalText": "セットする攻撃内容を選択します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Select an attack you want to set.",
+    "Enabled": true
   },
   "170013": {
     "OriginalText": "変更するシールドユニットを選択します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Select a shield unit you want to change.",
+    "Enabled": true
   },
   "170014": {
     "OriginalText": "伝備するシールドユニットを選択します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Select a shield unit you want to equip.",
+    "Enabled": true
   },
   "170015": {
     "OriginalText": "サブパレットにセットするアクションを変更します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Change the action you want to set on the subpalette.",
+    "Enabled": true
   },
   "170016": {
     "OriginalText": "変更するサブパレットを選択します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Select a subpallete you want to change.",
+    "Enabled": true
   },
   "170017": {
     "OriginalText": "変更するスロットを選択します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Select a slot you want to change.",
+    "Enabled": true
   },
   "170018": {
     "OriginalText": "セットするアクションを選択します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Select an action you want to set.",
+    "Enabled": true
   },
   "170019": {
     "OriginalText": "セットするアクションを選択します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Select an action you want to set.",
+    "Enabled": true
   },
   "170020": {
     "OriginalText": "一緒に遊んだゲストクルーの情報を確認します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Check the info of the guest crews you played together.",
+    "Enabled": true
   },
   "170021": {
     "OriginalText": "一緒に遊んだゲストクルーの情報を確認します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Check the info of the guest crews you played together.",
+    "Enabled": true
   },
   "170022": {
     "OriginalText": "一緒に遊んだゲストクルーの情報を確認します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Check the info of the guest crews you played together.",
+    "Enabled": true
   },
   "170023": {
     "OriginalText": "受けるクエストを選択します。 [f 65] で場所を切り替えます。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Select a quest to receive. [f 65] Change the location.",
+    "Enabled": true
   },
   "170024": {
     "OriginalText": "現在までのあらすじを確認します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Check the summary up to the present.",
+    "Enabled": true
   },
   "170025": {
     "OriginalText": "受けている約束を確認します。★",
-    "Text": "",
-    "Enabled": false
+    "Text": "Check the promises received.★",
+    "Enabled": true
   },
   "170026": {
     "OriginalText": "有益な効果が発生している地域を確認します。★",
@@ -136,423 +136,423 @@
   },
   "170027": {
     "OriginalText": "ゲームの設定を変更します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Change game settings.",
+    "Enabled": true
   },
   "170028": {
     "OriginalText": "ゲームの基本設定を変更します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Change game basic settings.",
+    "Enabled": true
   },
   "170029": {
     "OriginalText": "燥作設定を変更します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Change button function settings.",
+    "Enabled": true
   },
   "170030": {
     "OriginalText": "画面に表示するログの設定を変更します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Change screen log settings.",
+    "Enabled": true
   },
   "170031": {
     "OriginalText": "カメラの燥作方法を変更します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Change camera control settings.",
+    "Enabled": true
   },
   "170032": {
     "OriginalText": "カメラの燥作方法を変更します。",
-    "Text": "",
+    "Text": "Change camera control settings.",
     "Enabled": false
   },
   "170033": {
     "OriginalText": "ＢＧＭや効果音の音量を変更します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Change the volume of BGM and SFX.",
+    "Enabled": true
   },
   "170034": {
     "OriginalText": "ＢＧＭや効果音の音量を変更します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Change the volume of BGM and SFX.",
+    "Enabled": true
   },
   "170035": {
     "OriginalText": "確認したい項目を選択します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Select the entry you want to check.",
+    "Enabled": true
   },
   "170036": {
     "OriginalText": "確認したい項目を選択します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Select the entry you want to check.",
+    "Enabled": true
   },
   "170037": {
     "OriginalText": "確認したい項目を選択します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Select the entry you want to check.",
+    "Enabled": true
   },
   "170038": {
     "OriginalText": "確認したい項目を選択します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Select the entry you want to check.",
+    "Enabled": true
   },
   "170039": {
     "OriginalText": "確認したい項目を選択します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Select the entry you want to check.",
+    "Enabled": true
   },
   "170040": {
     "OriginalText": "各ショップの現在のラインナップを確認します。★",
-    "Text": "",
-    "Enabled": false
+    "Text": "Check the current lineup in each shop.★",
+    "Enabled": true
   },
   "170041": {
     "OriginalText": "各ショップの現在のラインナップを確認します。★",
-    "Text": "",
-    "Enabled": false
+    "Text": "Check the current lineup in each shop.★",
+    "Enabled": true
   },
   "170042": {
     "OriginalText": "クラスに応じたスキルを習得します。★",
-    "Text": "",
-    "Enabled": false
+    "Text": "Learn skills according to your class.",
+    "Enabled": true
   },
   "170043": {
     "OriginalText": "習得するスキルを選択します。★",
-    "Text": "",
+    "Text": "Select a skill you want to learn.★",
     "Enabled": false
   },
   "170044": {
     "OriginalText": "スキルをセットするスキルボードを選択します。★",
-    "Text": "",
-    "Enabled": false
+    "Text": "Select the Skill Board where you want to set a skill.★",
+    "Enabled": true
   },
   "170045": {
     "OriginalText": "スキルをセットするスロットを選択します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Select a slot where you want to set a skill",
+    "Enabled": true
   },
   "170046": {
     "OriginalText": "セットするスキルを選択します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Select a skill you want to set.",
+    "Enabled": true
   },
   "170047": {
     "OriginalText": "消耗品などのアイテムを作成します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Create a consumable item.",
+    "Enabled": true
   },
   "170048": {
     "OriginalText": "作成するアイテムを選択します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Select an item you want to create.",
+    "Enabled": true
   },
   "170049": {
     "OriginalText": "コスチュームやキャストのパーツを作成します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Create parts for a Cast Costume.",
+    "Enabled": true
   },
   "170050": {
     "OriginalText": "作成するコスチュームを選択します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Select a costume you want to create.",
+    "Enabled": true
   },
   "170051": {
     "OriginalText": "作成するパーツを選択します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Select the parts you want to create.",
+    "Enabled": true
   },
   "170052": {
     "OriginalText": "武器の作成とカスタマイズをします。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Create and customize your weapon.",
+    "Enabled": true
   },
   "170053": {
     "OriginalText": "作成する武器を選択します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Select a weapon you want to create.",
+    "Enabled": true
   },
   "170054": {
     "OriginalText": "作成する武器を選択します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Select a weapon you want to create.",
+    "Enabled": true
   },
   "170055": {
     "OriginalText": "武器作成に使うコアを選択します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Select a core to use to create the weapon.",
+    "Enabled": true
   },
   "170056": {
     "OriginalText": "武器作成に使うコアを選択します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Select a core to use to create the weapon.",
+    "Enabled": true
   },
   "170057": {
     "OriginalText": "アタッチパーツ作成に使うコアを選択します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Select a core to use to create the attachment.",
+    "Enabled": true
   },
   "170058": {
     "OriginalText": "作成するアタッチパーツの形状を選択します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Select the image of the attachment you want to create.",
+    "Enabled": true
   },
   "170059": {
     "OriginalText": "作成するアタッチパーツの形状を選択します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Select the image of the attachment you want to create.",
+    "Enabled": true
   },
   "170060": {
     "OriginalText": "武器にアタッチパーツをセットします。★",
-    "Text": "",
-    "Enabled": false
+    "Text": "Set the weapon attachment.★",
+    "Enabled": true
   },
   "170061": {
     "OriginalText": "カスタマイズする武器を選択します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Select the weapon you want to customize.",
+    "Enabled": true
   },
   "170062": {
     "OriginalText": "アタッチパーツをセットするスロットを選択します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Select a slot where you want to set the attachment.",
+    "Enabled": true
   },
   "170063": {
     "OriginalText": "パーツの位置と角度、大きさを決定します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Choose the location, angle, and size of the attachment.",
+    "Enabled": true
   },
   "170064": {
     "OriginalText": "セットするアタッチパーツを選択します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Select the attachment you want to set.",
+    "Enabled": true
   },
   "170065": {
     "OriginalText": "防具（シールドユニット）を作成します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Create an armor (Shield Unit).",
+    "Enabled": true
   },
   "170066": {
     "OriginalText": "作成するシールドユニットを選択します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Select a Shield Unit you want to create.",
+    "Enabled": true
   },
   "170067": {
     "OriginalText": "シールドユニット作成に使うコアを選択します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Select a core to use to create the Shield Unit.",
+    "Enabled": true
   },
   "170068": {
     "OriginalText": "クラスの変更と各種能力の習得、選択をします。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Change your class, or select and learn abilities.",
+    "Enabled": true
   },
   "170069": {
     "OriginalText": "変更するクラスを選択します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Select the class you want to change into.",
+    "Enabled": true
   },
   "170070": {
     "OriginalText": "習得するグランアーツやテクニックを選択します。★",
-    "Text": "",
-    "Enabled": false
+    "Text": "Select the Gran Arts and Techniques you want to learn.★",
+    "Enabled": true
   },
   "170071": {
     "OriginalText": "習得するグランアーツを選択します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Select the Gran Arts you want to learn.",
+    "Enabled": true
   },
   "170072": {
     "OriginalText": "習得するテクニックを選択します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Select a Technique you want to learn.",
+    "Enabled": true
   },
   "170073": {
     "OriginalText": "習得するグランアーツやテクニックを選択します。★",
-    "Text": "",
-    "Enabled": false
+    "Text": "Select the Gran Arts and Techniques you want to learn.★",
+    "Enabled": true
   },
   "170074": {
     "OriginalText": "設置済みのショップにアクセスします。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Access the build shops.",
+    "Enabled": true
   },
   "170075": {
     "OriginalText": "コールドスリープで眠っているクルーを解凍します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Thaw the sleeping crew from cold sleep.",
+    "Enabled": true
   },
   "170076": {
     "OriginalText": "解凍するクルーの種類を選択します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Select a Crew Type to thaw.",
+    "Enabled": true
   },
   "170077": {
     "OriginalText": "解凍されたクルーを確認します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Check the thawed crews.",
+    "Enabled": true
   },
   "170078": {
     "OriginalText": "受けるクエストがある地路を選択します。★",
-    "Text": "",
-    "Enabled": false
+    "Text": "Select the region of the quest to receive.★",
+    "Enabled": true
   },
   "170079": {
     "OriginalText": "受けるクエストを選択します。 [f 65] で場所を切り替えます。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Select the quest to receive. [f 65] To change the location.",
+    "Enabled": true
   },
   "170080": {
     "OriginalText": "出発するクエストを選択します。また、約束とあらすじを確認します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Select a quest to depart. Also, check the summary or the promises.",
+    "Enabled": true
   },
   "170081": {
     "OriginalText": "現在受けている約束を確認します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Check the Promise Orders you've received.",
+    "Enabled": true
   },
   "170082": {
     "OriginalText": "キャラクターの詳細情報です。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Character detailed information.",
+    "Enabled": true
   },
   "170083": {
     "OriginalText": "他のプレイヤーを待っています。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Waiting for other player.",
+    "Enabled": true
   },
   "170084": {
     "OriginalText": "他のプレイヤーを待っています。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Waiting for other player.",
+    "Enabled": true
   },
   "170085": {
     "OriginalText": "連れていくメンバーを選択します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Select a member to join.",
+    "Enabled": true
   },
   "170086": {
     "OriginalText": "現在までのあらすじを確認します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Check the story summaries up to this point.",
+    "Enabled": true
   },
   "170087": {
     "OriginalText": "挑戦するプレイヤータイプを選択します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Select the Player Type to challenge.",
+    "Enabled": true
   },
   "170088": {
     "OriginalText": "施設の開発、配置、施設へのクルー配属をします。★",
-    "Text": "",
-    "Enabled": false
+    "Text": "Develop and deploy facilities and assign crews to them.★",
+    "Enabled": true
   },
   "170089": {
     "OriginalText": "施設の設置や移動をおこないます。★",
-    "Text": "",
-    "Enabled": false
+    "Text": "Move and place the facility.★",
+    "Enabled": true
   },
   "170090": {
     "OriginalText": "この施設を移動、または回収します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Deposit or move this facility.",
+    "Enabled": true
   },
   "170091": {
     "OriginalText": "配置する施設を選択します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Select the facility to deploy.",
+    "Enabled": true
   },
   "170092": {
     "OriginalText": "配置する施設を選択します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Select the facility to deploy.",
+    "Enabled": true
   },
   "170093": {
     "OriginalText": "配置場所へ移動させ、決定します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Move and choose the deployment location.",
+    "Enabled": true
   },
   "170094": {
     "OriginalText": "クルーを配属するチームを選択します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Select the team where you want to assign the crew.",
+    "Enabled": true
   },
   "170095": {
     "OriginalText": "チーム内の編成をおこないます。★",
-    "Text": "",
-    "Enabled": false
+    "Text": "Organize the team.★",
+    "Enabled": true
   },
   "170096": {
     "OriginalText": "入れ替えるキャラクターを選択します。★",
-    "Text": "",
-    "Enabled": false
+    "Text": "Select the character to replace.★",
+    "Enabled": true
   },
   "170097": {
     "OriginalText": "選択したキャラクターをチームに配属します。★",
-    "Text": "",
-    "Enabled": false
+    "Text": "Assign a team to the character selected.★",
+    "Enabled": true
   },
   "170098": {
     "OriginalText": "ショップや施設を開発します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Develop facilities and shops.",
+    "Enabled": true
   },
   "170099": {
     "OriginalText": "開発するショップや施設を選択します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Select a facility or shop you want to create.",
+    "Enabled": true
   },
   "170100": {
     "OriginalText": "オペレーターを変更します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Select operator.",
+    "Enabled": true
   },
   "170101": {
     "OriginalText": "グランエナジーからグラン結晶を生成します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Create Gran Crystals from Gran Energy.",
+    "Enabled": true
   },
   "170102": {
     "OriginalText": "施設の開発と配置をおこないます。また各施設へクルーを配属します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Develop and deploy facilities. Also, assign crews to each facility.",
+    "Enabled": true
   },
   "170103": {
     "OriginalText": "開発する施設を選択します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Select a facility to develop.",
+    "Enabled": true
   },
   "170104": {
     "OriginalText": "開発する個数を選択します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Select the quantity to develop.",
+    "Enabled": true
   },
   "170105": {
     "OriginalText": "配置場所へ移動させ、決定します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Move and choose the deployment location.",
+    "Enabled": true
   },
   "170106": {
     "OriginalText": "方向キーでカーソルを動かし、配置変更する施設を選択します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Move the cursor and select the facility to change the location.",
+    "Enabled": true
   },
   "170107": {
     "OriginalText": "配置する施設を選択します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Select the facility you want to deploy.",
+    "Enabled": true
   },
   "170108": {
     "OriginalText": "クルーを配属する施設を選択します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Select the facility where you want to assign a crew.",
+    "Enabled": true
   },
   "170109": {
     "OriginalText": "クルーを配属するスロットを選択します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Select the slot where you want to assign the crew.",
+    "Enabled": true
   },
   "170110": {
     "OriginalText": "配属するクルーを選択します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Select a crew member you want to assign.",
+    "Enabled": true
   },
   "170111": {
     "OriginalText": "プレイヤーキャラクターを作成します。",
@@ -791,118 +791,118 @@
   },
   "170158": {
     "OriginalText": "再生するイベントを選択します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Select the event you want to replay.",
+    "Enabled": true
   },
   "170159": {
     "OriginalText": "再生するイベントを選択します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Select the event you want to replay.",
+    "Enabled": true
   },
   "170160": {
     "OriginalText": "他のプレイヤーとパーティーを結成します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Form a party with other players.",
+    "Enabled": true
   },
   "170161": {
     "OriginalText": "参加するパーティーを選択します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Select a party to join.",
+    "Enabled": true
   },
   "170162": {
     "OriginalText": "キャンセルボタンでリストに戻ります。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Click Cancel to return to the list.",
+    "Enabled": true
   },
   "170163": {
     "OriginalText": "キャンセルボタンでリストに戻ります。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Click Cancel to return to the list.",
+    "Enabled": true
   },
   "170164": {
     "OriginalText": "料理を食べることでさままな効果があらわれます。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Eating the food will reveal its effects.",
+    "Enabled": true
   },
   "170165": {
     "OriginalText": "注文する料理を選択します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Select the food you want to order.",
+    "Enabled": true
   },
   "170166": {
     "OriginalText": "派遣する探索ミッションを選択します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Select the Search Mission you want to dispatch.",
+    "Enabled": true
   },
   "170167": {
     "OriginalText": "アイテムの確認、破棄、移動をおこないます。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Move, check, or discard the items.",
+    "Enabled": true
   },
   "170168": {
     "OriginalText": "移動させるアイテムを選択します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Select the item you want to move.",
+    "Enabled": true
   },
   "170169": {
     "OriginalText": "移動させるアイテムを選択します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Select the item you want to move.",
+    "Enabled": true
   },
   "170170": {
     "OriginalText": "移動させるアイテムを選択します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Select the item you want to move.",
+    "Enabled": true
   },
   "170171": {
     "OriginalText": "再生する映像を選択します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Select a video you want to replay.",
+    "Enabled": true
   },
   "170172": {
     "OriginalText": "再生する映像を選択します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Select a video you want to replay.",
+    "Enabled": true
   },
   "170173": {
     "OriginalText": "ギガンテスブラストを確認します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Check the Gigantes Blast.",
+    "Enabled": true
   },
   "170174": {
     "OriginalText": "参加するパーティーを選択します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Select a party to join.",
+    "Enabled": true
   },
   "170175": {
     "OriginalText": "他のプレイヤーを待っています。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Waiting for other players.",
+    "Enabled": true
   },
   "170176": {
     "OriginalText": "他のプレイヤーを待っています。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Waiting for other players.",
+    "Enabled": true
   },
   "170177": {
     "OriginalText": "クエストの難易度を選択します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Select Quest difficulty.",
+    "Enabled": true
   },
   "170178": {
     "OriginalText": "パーティーメンバーを選び、クエストを開始します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Start the Quest with the selected party members.",
+    "Enabled": true
   },
   "170179": {
     "OriginalText": "プレイヤーキャラクターのステータスを確認します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Check player character status.",
+    "Enabled": true
   },
   "170180": {
     "OriginalText": "約束を受けます。また、約束の達成報告、破棄をします。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Receive Promise Orders. Also, discard or report finished orders.",
+    "Enabled": true
   },
   "170181": {
     "OriginalText": "キャラクターの外見やボイスを変更します。",
@@ -916,18 +916,18 @@
   },
   "170183": {
     "OriginalText": "作成するアタッチパーツの能力を選択します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Select the attachment ability you want to create.",
+    "Enabled": true
   },
   "170184": {
     "OriginalText": "キャラクター編集を完了します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Complete character modification.",
+    "Enabled": true
   },
   "170185": {
     "OriginalText": "受け取るアイテムを選択します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Select the item to receive.",
+    "Enabled": true
   },
   "170186": {
     "OriginalText": "サブカラーを選択します。",
@@ -951,13 +951,13 @@
   },
   "170190": {
     "OriginalText": "ゲームの設定を変更したり、役に立つ情報を閲覧できます。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Change game settings and read helpful info.",
+    "Enabled": true
   },
   "170191": {
     "OriginalText": "アイテムの確認、破棄、移動、DLC受け取りをおこないます。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Check, move, or discard items and receive DLC.",
+    "Enabled": true
   },
   "170192": {
     "OriginalText": "受け取るダウンロードコンテンツを選択します。",
@@ -966,112 +966,112 @@
   },
   "170193": {
     "OriginalText": "全クルーの情報を確認します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Check the information of all crew.",
+    "Enabled": true
   },
   "170194": {
     "OriginalText": "チュートリアルの動画をまとめて再生します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Replay tutorial videos.",
+    "Enabled": true
   },
   "170195": {
     "OriginalText": "ヘイロウの燥作を説明した動画を再生します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Replay video explaining Halo functions.",
+    "Enabled": true
   },
   "170196": {
     "OriginalText": "パイルの燥作を説明した動画を再生します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Replay video explaining Pile functions.",
+    "Enabled": true
   },
   "170197": {
     "OriginalText": "チェインとグランバーストを説明した動画を再生します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Replay video explaining Gran Burst and Chain.",
+    "Enabled": true
   },
   "170198": {
     "OriginalText": "ギガンテスの倒し方を説明した動画を再生します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Replay video explaining Gigantes Subjugation.",
+    "Enabled": true
   },
   "170199": {
     "OriginalText": "プレイヤーキャラクターを選択します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Select player character.",
+    "Enabled": true
   },
   "170200": {
     "OriginalText": "１人用のモードです。バトル体験版専用のクエストが遊べます。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Solo mode. Can play the Quests from the demo.",
+    "Enabled": true
   },
   "170201": {
     "OriginalText": "アドホック通信機能を使って、２人～４人で遊べるモードです。",
-    "Text": "",
-    "Enabled": false
+    "Text": "This mode can be played by 2-4 players using ad-hoc.",
+    "Enabled": true
   },
   "170202": {
     "OriginalText": "バトルの燥作を学べるモードです。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Tutorial mode for battle functions.",
+    "Enabled": true
   },
   "170203": {
     "OriginalText": "燥作方法の設定やサウンドセッティングを行います。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Change Button and Sound settings.",
+    "Enabled": true
   },
   "170204": {
     "OriginalText": "バトル時の基本燥作をプレイしながら学べます。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Learn playing basics during battle.",
+    "Enabled": true
   },
   "170205": {
     "OriginalText": "ギガンテスとのバトル時の燥作を学べます。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Learn the basics in Gigantes Battle.",
+    "Enabled": true
   },
   "170206": {
     "OriginalText": "アタッチパーツ、コアを改造します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Remodel attachment core.",
+    "Enabled": true
   },
   "170207": {
     "OriginalText": "改造するアタッチパーツを選択します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Select attachment to remodel.",
+    "Enabled": true
   },
   "170208": {
     "OriginalText": "付加する特殊能力を選択します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Select special ability to affix.",
+    "Enabled": true
   },
   "170209": {
     "OriginalText": "消費するコアを選択します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Select the core to consume.",
+    "Enabled": true
   },
   "170210": {
     "OriginalText": "強化したい特殊能力を選択します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Select the special ability to enhance.",
+    "Enabled": true
   },
   "170211": {
     "OriginalText": "キャラクター編集を完了します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Complete character modification.",
+    "Enabled": true
   },
   "170212": {
     "OriginalText": "ベースとなる武器Ａを選択します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Select weapon A to become the base.",
+    "Enabled": true
   },
   "170213": {
     "OriginalText": "合成する武器Ｂを選択します。この武器Ｂは消滅します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Select weapon B to synthesize. Weapon B will disappear.",
+    "Enabled": true
   },
   "170214": {
     "OriginalText": "オペレーターを交代できます。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Change alternate operator.",
+    "Enabled": true
   }
 }

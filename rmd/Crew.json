@@ -141,78 +141,78 @@
   },
   "650001": {
     "OriginalText": "広範囲にわたる知識を持つクルー。\n拠点要員としても、戦闘要員としても\n対応可能。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Crew with broad knowledge.\nA base personnel that can also\njoin in combat.",
+    "Enabled": true
   },
   "650002": {
     "OriginalText": "戦闘技術の高いクルー。\n共に戦場に立つ頼れる仲間となる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Crew with high combat techs.\nCan be trusted in the battlefield.",
+    "Enabled": true
   },
   "650003": {
     "OriginalText": "後方支援を得意とするクルー。\n拠点施設などで活躍すること間違いなし。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Crew that is good for support.\nActive in the base facilities.",
+    "Enabled": true
   },
   "650004": {
     "OriginalText": "主に後方支援を担当する\nヒューマンクルー。\n広い知識で拠点運営を支援する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Human crew mainly for support.\nCan help in base management.",
+    "Enabled": true
   },
   "650005": {
     "OriginalText": "主に後方支援を担当する\nニューマンクルー。\n拠点施設内で活躍が期待される。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Newman crew good for support.\nActive in base facilities.",
+    "Enabled": true
   },
   "650006": {
     "OriginalText": "主に後方支援を担当する\nキャストクルー。\n高い情報分祈力で施設で活躍する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Cast crew mainly for support.\nVery active in facilities.",
+    "Enabled": true
   },
   "650007": {
     "OriginalText": "ハンタークラスのクルー。\n高いHPと防御力を持ち、近接戦闘での\n活躍が期待できる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Hunter class crew.\nHas high HP and defense, good\nfor close-range combat.",
+    "Enabled": true
   },
   "650008": {
     "OriginalText": "レンジャークラスのクルー。\n射撃と得意とし、中距離からの\n戦闘のサポートを行う。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Ranger class crew.\nExcels in shooting, good\nfor mid-range combat.",
+    "Enabled": true
   },
   "650009": {
     "OriginalText": "フォースクラスのクルー。\nテクニックを扱い、遠距離戦闘を\n得意とする戦闘要員。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Force class crew.\nDeals with Techniques, good\nfor long-range combat.",
+    "Enabled": true
   },
   "650010": {
     "OriginalText": "最先端ファッションを身に纏うクルー。\n拠点や戦闘の華として活躍する。\n不時着時の衝撃により、伝備の損傷が\n撃しかったため、新調しているクルーもいる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Crew with a cutting-edge\nfashion. Active in base and\nbattle. Renewed crew with\nrepaired equipment.",
+    "Enabled": true
   },
   "650011": {
     "OriginalText": "各技術に特化した職人肌のスペシャリスト。\n拠点運営を強力にサポートしてくれる。\n不時着時の衝撃により、伝備の損傷が\n撃しかったため、新調しているクルーもいる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Technology specialist. Excels\nin base management support.\nRenewed crew with repaired\nequipment.",
+    "Enabled": true
   },
   "650012": {
     "OriginalText": "アークス内でも有名な歴戦の戦土。\n戦場で立ちはだかる敵を一掃してくれる。\n不時着時の衝撃により、伝備の損傷が\n撃しかったため、新調しているクルーもいる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "ARKS veteran and famous.\nSweeps enemies in battle.\nRenewed crew with repaired\nequipment.",
+    "Enabled": true
   },
   "650013": {
     "OriginalText": "マザーシップのどこかで見かけた\nことのあるクルー。\n個性豊かな面々が戦闘をサポートする。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Crew seen somewhere in the\nMothership. A unique person that\nexcels in combat support.", 
+    "Enabled": true
   },
   "650014": {
     "OriginalText": "各セクションのリーダー候補のクルー。\n他のクルーからの信頼も厚い。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Crew candidate for section\nleader. Trusted by other\ncrew members.",
+    "Enabled": true
   },
   "650015": {
     "OriginalText": "様々な思いを残し、この地を去った者たちの残滓。\n彼らの思いに耳を毛けるのもいいだろう。\n[a 03]※このカプセルのキャラは拠点配置不可[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "Remnants of those who left,\nthat left many thoughts.\n[a 03]※Characters from this capsule\ncan't be placed in the base.[b]",
+    "Enabled": true
   },
   "650016": {
     "OriginalText": "DLCシリーズ の解説文",
@@ -261,12 +261,12 @@
   },
   "650025": {
     "OriginalText": "歴史の陰で活躍してきたという、幻のクルー。\nその実力は謎に包まれている。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Phantom crew with a great history.\nIts strength is full of mystery.",
+    "Enabled": true
   },
   "650026": {
     "OriginalText": "デルタ・ヴァリアント実戦部隊最後の解凍クルー。\n他のクルーとは、次元の違う実力を\n見せつけてくれるはずだ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Last thawed crew of the Delta\nValiant combat unit. It should show\nyou a different perspective of\nother crew.",
+    "Enabled": true
   }
 }
