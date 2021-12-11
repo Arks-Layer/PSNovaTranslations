@@ -846,12 +846,12 @@
   },
   "350169": {
     "OriginalText": "ラウーダンの爪片",
-    "Text": "Ra Oodan Claw Part",
+    "Text": "Ra Oodan Claw Fragment",
     "Enabled": true
   },
   "350170": {
     "OriginalText": "ロザードのヒレ片",
-    "Text": "Rozad Fillet",
+    "Text": "Rozad Fin",
     "Enabled": true
   },
   "350171": {
@@ -861,12 +861,12 @@
   },
   "350172": {
     "OriginalText": "ジュラキアの大羽",
-    "Text": "Large Jurrakia Quill",
+    "Text": "Jurrakia Large Quill",
     "Enabled": true
   },
   "350173": {
     "OriginalText": "バンサーの爪片",
-    "Text": "Banther Claw",
+    "Text": "Banther Claw Fragment",
     "Enabled": true
   },
   "350174": {
@@ -901,7 +901,7 @@
   },
   "350180": {
     "OriginalText": "マフレザールの鋭朽爪",
-    "Text": "Maphrezer Sharp Claw",
+    "Text": "Maphrezer Sharp Hook Claw",
     "Enabled": true
   },
   "350181": {
@@ -941,7 +941,7 @@
   },
   "350188": {
     "OriginalText": "ロザードの完全な背びれ",
-    "Text": "Perfect Rozad Dorsal Fin​",
+    "Text": "Rozad Perfect Dorsal Fin​",
     "Enabled": true
   },
   "350189": {
@@ -951,7 +951,7 @@
   },
   "350190": {
     "OriginalText": "ジュラキアの尾羽",
-    "Text": "Jurrakia Tail Retrix",
+    "Text": "Jurrakia Tail Rectrix",
     "Enabled": true
   },
   "350191": {
@@ -966,12 +966,12 @@
   },
   "350193": {
     "OriginalText": "Ｇミクダの鋭角",
-    "Text": "Sharp G-Micda Horn",
+    "Text": "G-Micda Sharp Horn",
     "Enabled": true
   },
   "350194": {
     "OriginalText": "Ｇエル・アーダの硬触角",
-    "Text": "Hard G-El Ahda Feeler",
+    "Text": "G-El Ahda Hard Feeler",
     "Enabled": true
   },
   "350195": {
@@ -1006,17 +1006,17 @@
   },
   "350201": {
     "OriginalText": "グランブの大鉤固凝液",
-    "Text": "Large Granv Needle",
+    "Text": "Granv Large Needle",
     "Enabled": true
   },
   "350202": {
     "OriginalText": "トルリンプの鋭牙",
-    "Text": "Sharp Torrimp Fang",
+    "Text": "Torrimp Sharp Fang",
     "Enabled": true
   },
   "350203": {
     "OriginalText": "ウィンディラスの結晶角",
-    "Text": "Crystallized Windiras Horn",
+    "Text": "Windiras Crystallized Horn",
     "Enabled": true
   },
   "350204": {
@@ -1061,12 +1061,12 @@
   },
   "350212": {
     "OriginalText": "バリドランナの鋭爪",
-    "Text": "Sharp Baridran'na Nail",
+    "Text": "Baridran'na Sharp Claw",
     "Enabled": true
   },
   "350213": {
     "OriginalText": "ロウトルリンプのヒレ片",
-    "Text": "Rol Torrimp Fillet",
+    "Text": "Rol Torrimp Fin",
     "Enabled": true
   },
   "350214": {
@@ -1096,7 +1096,7 @@
   },
   "350219": {
     "OriginalText": "バリドランナの朽爪",
-    "Text": "Baridran'na Claw",
+    "Text": "Baridran'na Hook Claw",
     "Enabled": true
   },
   "350220": {
@@ -1106,7 +1106,7 @@
   },
   "350221": {
     "OriginalText": "テュルトアスの硬レンズ",
-    "Text": "Thick Tulletoas Lens",
+    "Text": "Tulletoas Thick Lens",
     "Enabled": true
   },
   "350222": {
@@ -1126,22 +1126,22 @@
   },
   "350225": {
     "OriginalText": "グランブの大凝固粘液",
-    "Text": "Coagulating Granv Mucus",
+    "Text": "Granv Coagulating Mucus",
     "Enabled": true
   },
   "350226": {
     "OriginalText": "バリドランナの大光玉",
-    "Text": "Large Baridran'na Glowing Ball",
+    "Text": "Baridran'na Large Glowing Ball",
     "Enabled": true
   },
   "350227": {
     "OriginalText": "ロウトルリンプの硬尾ひれ",
-    "Text": "Hard Rol Torrimp Tail Fin",
+    "Text": "Rol Torrimp Hard Tail Fin",
     "Enabled": true
   },
   "350228": {
     "OriginalText": "テュルトアスの固受挙",
-    "Text": "Hard Tulletoas Sucker",
+    "Text": "Tulletoas Hard Sucker",
     "Enabled": true
   },
   "350229": {
@@ -1231,7 +1231,7 @@
   },
   "350246": {
     "OriginalText": "Ｇウォルガーダのヒレ片",
-    "Text": "G-Wolgahda Fillet",
+    "Text": "G-Wolgahda Fin",
     "Enabled": true
   },
   "350247": {
@@ -1276,7 +1276,7 @@
   },
   "350255": {
     "OriginalText": "Ｇエル・ダガンの硬甲殻",
-    "Text": "Hard G-El Dagan Shell",
+    "Text": "G-El Dagan Hard Shell",
     "Enabled": true
   },
   "350256": {
@@ -1301,7 +1301,7 @@
   },
   "350260": {
     "OriginalText": "フォンベガルフの鋭爪",
-    "Text": "Sharp Fonbegulf Claw",
+    "Text": "Fonbegulf Sharp Claw",
     "Enabled": true
   },
   "350261": {
@@ -1341,12 +1341,12 @@
   },
   "350268": {
     "OriginalText": "Ｇウォルガーダの鋭牙",
-    "Text": "Sharp G-Wolgahda Fang",
+    "Text": "G-Wolgahda Sharp Fang",
     "Enabled": true
   },
   "350269": {
     "OriginalText": "エウリュードの大弾頭",
-    "Text": "Large Eurude Warhead",
+    "Text": "Eurude Large Warhead",
     "Enabled": true
   },
   "350270": {
@@ -1381,17 +1381,17 @@
   },
   "350276": {
     "OriginalText": "ダーカーの完全な大盾",
-    "Text": "Perfect Large Darker Shield",
+    "Text": "Darker Perfect Large Shield",
     "Enabled": true
   },
   "350277": {
     "OriginalText": "ロヴラッピーの主翼",
-    "Text": "Main Rove Rappy Wing",
+    "Text": "Rove Rappy Main Wing",
     "Enabled": true
   },
   "350278": {
     "OriginalText": "ヴィマフレザールの朽爪",
-    "Text": "Oui Maphrezer Claw",
+    "Text": "Oui Maphrezer Hook Claw",
     "Enabled": true
   },
   "350279": {
@@ -1411,12 +1411,12 @@
   },
   "350282": {
     "OriginalText": "ダーカーの完全な鋭ヒレ刀",
-    "Text": "Pefect Sharp Darker Fin",
+    "Text": "Darker Perfect Sharp Fin",
     "Enabled": true
   },
   "350283": {
     "OriginalText": "ロヴラッピーの大機",
-    "Text": "Large Rove Rappy Machine Part",
+    "Text": "Rove Rappy Large Machine Part",
     "Enabled": true
   },
   "350284": {
@@ -1436,12 +1436,12 @@
   },
   "350287": {
     "OriginalText": "Ｇガウォンダの大盾破片",
-    "Text": "Large G-Ga Wonda Shield",
+    "Text": "G-Ga Wonda Large Shield",
     "Enabled": true
   },
   "350288": {
     "OriginalText": "Ｇグウォンダの大盾破片",
-    "Text": "Large G-Gu Wonda Shield",
+    "Text": "G-Gu Wonda Large Shield",
     "Enabled": true
   },
   "350289": {
@@ -1461,7 +1461,7 @@
   },
   "350292": {
     "OriginalText": "ギュゲンテの大砲塔部品",
-    "Text": "Large Gygante Gun Piece",
+    "Text": "Gygante Large Gun Piece",
     "Enabled": true
   },
   "350293": {
@@ -1531,7 +1531,7 @@
   },
   "350306": {
     "OriginalText": "ブロラビーソの原動機",
-    "Text": "Main Bro Rabbisaw Motor",
+    "Text": "Bro Rabbisaw Main Motor",
     "Enabled": true
   },
   "350307": {
@@ -1546,17 +1546,17 @@
   },
   "350309": {
     "OriginalText": "トルリンプの大胸ビレ",
-    "Text": "Large Torrimp Pectoral Fin​",
+    "Text": "Torrimp Large Pectoral Fin​",
     "Enabled": true
   },
   "350310": {
     "OriginalText": "Ｇシャルレイダの鋭腕刃",
-    "Text": "Sharp G-Shalurayda Arm Blade",
+    "Text": "G-Shalurayda Sharp Arm Blade",
     "Enabled": true
   },
   "350311": {
     "OriginalText": "グレイオスの鋭角",
-    "Text": "Sharp Greios Horn",
+    "Text": "Greios Sharp Horn",
     "Enabled": true
   },
   "350312": {
@@ -1571,7 +1571,7 @@
   },
   "350314": {
     "OriginalText": "イエーデンの硬頭骨",
-    "Text": "Hard Yeden Skull",
+    "Text": "Yeden Hard Skull",
     "Enabled": true
   },
   "350315": {
@@ -1601,7 +1601,7 @@
   },
   "350320": {
     "OriginalText": "グレイオスの完全な剣板",
-    "Text": "Perfect Greios Blade",
+    "Text": "Greios Perfect Blade",
     "Enabled": true
   },
   "350321": {
@@ -1671,7 +1671,7 @@
   },
   "350334": {
     "OriginalText": "ウィ・ロヴラッピーの主翼",
-    "Text": "Main Oui Rove Rappy Wing",
+    "Text": "Oui Rove Rappy Main Wing",
     "Enabled": true
   },
   "350335": {
@@ -1711,17 +1711,17 @@
   },
   "350342": {
     "OriginalText": "ウィ・ロヴラッピーの大機",
-    "Text": "Large Oui Rove Rappy Machine",
+    "Text": "Oui Rove Rappy Large Machine",
     "Enabled": true
   },
   "350343": {
     "OriginalText": "コパイエーデンの硬頭骨",
-    "Text": "Hard Kopa Yeden Skull",
+    "Text": "Kopa Yeden Hard Skull",
     "Enabled": true
   },
   "350344": {
     "OriginalText": "ポリジュラキアの大尾羽",
-    "Text": "Large Poly Jurrakia Retrix",
+    "Text": "Poly Jurrakia Large Rectrix",
     "Enabled": true
   },
   "350345": {
@@ -1731,7 +1731,7 @@
   },
   "350346": {
     "OriginalText": "水晶竜族の鋭結晶角",
-    "Text": "Sharp Crystalized Dragon Crystal",
+    "Text": "Crystalized Sharp Dragon Crystal",
     "Enabled": true
   },
   "350347": {
@@ -1756,7 +1756,7 @@
   },
   "350351": {
     "OriginalText": "ミステルンの鋭角",
-    "Text": "Sharp Mysteroon Horn",
+    "Text": "Mysteroon Sharp Horn",
     "Enabled": true
   },
   "350352": {
@@ -1781,7 +1781,7 @@
   },
   "350356": {
     "OriginalText": "バンクゥの硬宝石",
-    "Text": "Hard Ban'qu Jewel",
+    "Text": "Ban'qu Hard Jewel",
     "Enabled": true
   },
   "350357": {
@@ -1801,7 +1801,7 @@
   },
   "350360": {
     "OriginalText": "マドアビアディノの大コブ",
-    "Text": "Large Mad Aviadino Polyp",
+    "Text": "Mad Aviadino Large Polyp",
     "Enabled": true
   },
   "350361": {
@@ -1816,7 +1816,7 @@
   },
   "350363": {
     "OriginalText": "エルマフレザールの鋭朽爪",
-    "Text": "El Maphrezer Decaying Sharp Claw",
+    "Text": "El Maphrezer Sharp Hook Claw",
     "Enabled": true
   },
   "350364": {
@@ -1826,22 +1826,22 @@
   },
   "350365": {
     "OriginalText": "ミステルンの鋭翼角",
-    "Text": "Sharp Mysteroon Wing",
+    "Text": "Mysteroon Sharp Wing",
     "Enabled": true
   },
   "350366": {
     "OriginalText": "ラビーソの原動機",
-    "Text": "Main Rabbisaw Motor",
+    "Text": "Rabbisaw Main Motor",
     "Enabled": true
   },
   "350367": {
     "OriginalText": "大きなレイバンサーの頭角破片",
-    "Text": "Large Ray Banther Horn Bit",
+    "Text": "Ray Banther Large Horn Bit",
     "Enabled": true
   },
   "350368": {
     "OriginalText": "ウィンディラスの大尾",
-    "Text": "Large Windiras Tail",
+    "Text": "Windiras Large Tail",
     "Enabled": true
   },
   "350369": {
@@ -1851,7 +1851,7 @@
   },
   "350370": {
     "OriginalText": "バンクゥの大宝石",
-    "Text": "Ban'qu Gems",
+    "Text": "Ban'qu Gem",
     "Enabled": true
   },
   "350371": {
@@ -1861,7 +1861,7 @@
   },
   "350372": {
     "OriginalText": "シードギオスの硬伝甲",
-    "Text": "Hard Xie Dogios Shell",
+    "Text": "Xie Dogios Hard Shell",
     "Enabled": true
   },
   "350373": {
@@ -1871,7 +1871,7 @@
   },
   "350374": {
     "OriginalText": "マドアビアディノの鋭爪",
-    "Text": "Sharp Mad Aviadino Nail",
+    "Text": "Mad Aviadino Sharp Nail",
     "Enabled": true
   },
   "350375": {
@@ -1896,17 +1896,17 @@
   },
   "350379": {
     "OriginalText": "ミステルンの頭角",
-    "Text": "Unique Mysteroon Horn",
+    "Text": "Mysteroon Unique Horn",
     "Enabled": true
   },
   "350380": {
     "OriginalText": "ラビーソの硬耳部鎖",
-    "Text": "Tough Rabbisaw Ear Chain",
+    "Text": "Rabbisaw Hard Ear Chain",
     "Enabled": true
   },
   "350381": {
     "OriginalText": "レイバンサーの大きな爪",
-    "Text": "Large Ray Banther Nail",
+    "Text": "Ray Banther Large Claw",
     "Enabled": true
   },
   "350382": {
@@ -1916,22 +1916,22 @@
   },
   "350383": {
     "OriginalText": "ガンジュラキアの尾羽",
-    "Text": "Gun Jurrakia Retrix",
+    "Text": "Gun Jurrakia Rectrix",
     "Enabled": true
   },
   "350384": {
     "OriginalText": "バンクゥの第三の目",
-    "Text": "Third Ban'qu Eye",
+    "Text": "Ban'qu Third Eye",
     "Enabled": true
   },
   "350385": {
     "OriginalText": "レウ・ロヴラッピーの大油",
-    "Text": "Large Leu Rove Rappy Fat",
+    "Text": "Leu Rove Rappy Large Fat",
     "Enabled": true
   },
   "350386": {
     "OriginalText": "シードギオスの完全な盾",
-    "Text": "Perfect Xie Dogios Shield",
+    "Text": "Xie Dogios Perfect Shield",
     "Enabled": true
   },
   "350387": {
@@ -1976,7 +1976,7 @@
   },
   "350395": {
     "OriginalText": "スロザードのヒレ",
-    "Text": "Su Rozad Fillet",
+    "Text": "Su Rozad Fin",
     "Enabled": true
   },
   "350396": {
@@ -1996,7 +1996,7 @@
   },
   "350399": {
     "OriginalText": "Ｇダーク・ラグネの大脚甲",
-    "Text": "Large G-Dark Ragne Carapace",
+    "Text": "G-Dark Ragne Large Carapace",
     "Enabled": true
   },
   "350400": {
@@ -2026,7 +2026,7 @@
   },
   "350405": {
     "OriginalText": "ラピミステルンの鋭翼角",
-    "Text": "Sharp Rap Mysteroon Wing",
+    "Text": "Rap Mysteroon Sharp Wing",
     "Enabled": true
   },
   "350406": {
@@ -2036,27 +2036,27 @@
   },
   "350407": {
     "OriginalText": "スロザードの鋭爪",
-    "Text": "Sharp Su Rozad Claw",
+    "Text": "Su Rozad Sharp Claw",
     "Enabled": true
   },
   "350408": {
     "OriginalText": "ノイバリドランナの鋭爪",
-    "Text": "Sharp Noibaridran'na Claw",
+    "Text": "Noibaridran'na Sharp Claw",
     "Enabled": true
   },
   "350409": {
     "OriginalText": "ヴィバレダイナスの大弾倉",
-    "Text": "Large Oui Valdinas Magazine",
+    "Text": "Oui Valdinas Large Magazine",
     "Enabled": true
   },
   "350410": {
     "OriginalText": "ウイマフレザールの鋭朽爪",
-    "Text": "Sharp Huy Maphrezer Decaying Claw",
+    "Text": "Huy Maphrezer Sharp Hook Claw",
     "Enabled": true
   },
   "350411": {
     "OriginalText": "Ｇダーク・ラグネの朽爪",
-    "Text": "G-Dark Ragne Decaying Claw",
+    "Text": "G-Dark Ragne Talon",
     "Enabled": true
   },
   "350412": {
@@ -2071,12 +2071,12 @@
   },
   "350414": {
     "OriginalText": "ラーアビアディノの鋭歯",
-    "Text": "Sharp Lar Aviadino Tooth",
+    "Text": "Lar Aviadino Sharp Tooth",
     "Enabled": true
   },
   "350415": {
     "OriginalText": "メドジュラキアの尾羽",
-    "Text": "Med Jurrakia Retrix",
+    "Text": "Med Jurrakia Rectrix",
     "Enabled": true
   },
   "350416": {
@@ -2091,12 +2091,12 @@
   },
   "350418": {
     "OriginalText": "ヴァッドギオスの完全な盾",
-    "Text": "Perfect Vad Dogios Shield",
+    "Text": "Vad Dogios Perfect Shield",
     "Enabled": true
   },
   "350419": {
     "OriginalText": "スロザードの完全な背びれ",
-    "Text": "Perfect Su Rozad Dorsal Fin",
+    "Text": "Su Rozad Perfect Dorsal Fin",
     "Enabled": true
   },
   "350420": {
@@ -2116,7 +2116,7 @@
   },
   "350423": {
     "OriginalText": "Ｇダーク・ラグネの硬触角",
-    "Text": "Tough G-Dark Ragne Feeler",
+    "Text": "G-Dark Ragne Hard Feeler",
     "Enabled": true
   },
   "350424": {
@@ -2126,7 +2126,7 @@
   },
   "350425": {
     "OriginalText": "デェフキュオネの硬肩伝甲",
-    "Text": "Tough Defcyone Shoulder Carapace",
+    "Text": "Defcyone Hard Shoulder Carapace",
     "Enabled": true
   },
   "350426": {
@@ -2136,17 +2136,17 @@
   },
   "350427": {
     "OriginalText": "ゴルドスの硬制御杭",
-    "Text": "Stiff Gordes Control Rod",
+    "Text": "Gordes Hard Control Rod",
     "Enabled": true
   },
   "350428": {
     "OriginalText": "ゴルドスの鋭攻撃杭",
-    "Text": "Sharp Gordes Fight Stick",
+    "Text": "Gordes Sharp Assault Spike",
     "Enabled": true
   },
   "350429": {
     "OriginalText": "ゴルドスの巨大な角",
-    "Text": "Huge Gordes Horn",
+    "Text": "Gordes Gigantic Horn",
     "Enabled": true
   },
   "350430": {
@@ -2166,7 +2166,7 @@
   },
   "350433": {
     "OriginalText": "ファンアフォルの金属皮枝",
-    "Text": "Metallic Fan'aphol Leg Pelt",
+    "Text": "Fan'aphol Metallic Limb Pelt",
     "Enabled": true
   },
   "350434": {
@@ -2196,22 +2196,22 @@
   },
   "350439": {
     "OriginalText": "ウロザードの硬ヒレ",
-    "Text": "Tough Pa Rozad Fillet",
+    "Text": "Pa Rozad Hard Fin",
     "Enabled": true
   },
   "350440": {
     "OriginalText": "レゾルカーネベアの硬砲身",
-    "Text": "Tough Resol Carnnebear Cannon",
+    "Text": "Resol Carnnebear Hard Cannon",
     "Enabled": true
   },
   "350441": {
     "OriginalText": "オルテ・マガヴルムの硬手",
-    "Text": "Tough Orte Magavulum Arm",
+    "Text": "Orte Magavulum Hard Arm",
     "Enabled": true
   },
   "350442": {
     "OriginalText": "パーグランブの鋭爪",
-    "Text": "Tough Pergranv Claw",
+    "Text": "Pergranv Hard Claw",
     "Enabled": true
   },
   "350443": {
@@ -2221,27 +2221,27 @@
   },
   "350444": {
     "OriginalText": "マクロージの鋭角",
-    "Text": "Sharp Makroge Horn",
+    "Text": "Makroge Sharp Horn",
     "Enabled": true
   },
   "350445": {
     "OriginalText": "エアドギオスの大盾",
-    "Text": "Large Air Dogios Shield",
+    "Text": "Air Dogios Large Shield",
     "Enabled": true
   },
   "350446": {
     "OriginalText": "エクセージＴの小腕",
-    "Text": "Small Equsage T Arm",
+    "Text": "Equsage T Small Arm",
     "Enabled": true
   },
   "350447": {
     "OriginalText": "ファンアフォルの大翼",
-    "Text": "Large Fan'aphol Wing",
+    "Text": "Fan'aphol Large Wing",
     "Enabled": true
   },
   "350448": {
     "OriginalText": "ギガティオンの鋭ノコ刃",
-    "Text": "Sharp Gigation Saw Blade",
+    "Text": "Gigation Sharp Saw Blade",
     "Enabled": true
   },
   "350449": {
@@ -2251,32 +2251,32 @@
   },
   "350450": {
     "OriginalText": "ウロザードの鋭爪",
-    "Text": "Sharp Pa Rozad Claw",
+    "Text": "Pa Rozad Sharp Claw",
     "Enabled": true
   },
   "350451": {
     "OriginalText": "レゾルカーネベアの大毛皮",
-    "Text": "Large Resol Carnnebear Pelt",
+    "Text": "Resol Carnnebear Large Pelt",
     "Enabled": true
   },
   "350452": {
     "OriginalText": "オルテ・マガヴルムの大銃",
-    "Text": "Large Orte Magavulum Gun",
+    "Text": "Orte Magavulum Large Gun",
     "Enabled": true
   },
   "350453": {
     "OriginalText": "パーグランブの硬甲羅",
-    "Text": "Tough Pergranv Shell",
+    "Text": "Pergranv Hard Shell",
     "Enabled": true
   },
   "350454": {
     "OriginalText": "イーグマンデルの大髭",
-    "Text": "Large Eag Mandel Whisker",
+    "Text": "Eag Mandel Large Whisker",
     "Enabled": true
   },
   "350455": {
     "OriginalText": "マクロージの大目玉",
-    "Text": "Large Makroge Eyeball",
+    "Text": "Makroge Large Eyeball",
     "Enabled": true
   },
   "350456": {
@@ -2286,12 +2286,12 @@
   },
   "350457": {
     "OriginalText": "エクセージＴの大目玉",
-    "Text": "Large Equsage T Eyeball",
+    "Text": "Equsage T Large Eyeball",
     "Enabled": true
   },
   "350458": {
     "OriginalText": "ファンアフォルの大尾羽",
-    "Text": "Large Fan'aphol Retrix",
+    "Text": "Fan'aphol Large Rectrix",
     "Enabled": true
   },
   "350459": {
@@ -2306,12 +2306,12 @@
   },
   "350461": {
     "OriginalText": "ウロザードの完全な背びれ",
-    "Text": "Perfect Pa Rozad Fin",
+    "Text": "Pa Rozad Perfect Fin",
     "Enabled": true
   },
   "350462": {
     "OriginalText": "レゾルカーネベアの硬頭骨",
-    "Text": "Hard Resol Carnnebear Skull",
+    "Text": "Resol Carnnebear Hard Skull",
     "Enabled": true
   },
   "350463": {
@@ -2321,7 +2321,7 @@
   },
   "350464": {
     "OriginalText": "パーグランブの粘液結晶",
-    "Text": "Crystalized Pergranv Mucus",
+    "Text": "Pergranv Crystallized Mucus",
     "Enabled": true
   },
   "350465": {
@@ -2331,12 +2331,12 @@
   },
   "350466": {
     "OriginalText": "エアドギオスの完全な盾",
-    "Text": "Perfect Air Dogios Shield",
+    "Text": "Air Dogios Perfect Shield",
     "Enabled": true
   },
   "350467": {
     "OriginalText": "エクセージＴの鋭杭腕",
-    "Text": "Sharp Equsage T Pile Arm",
+    "Text": "Equsage T Sharp Pile Arm",
     "Enabled": true
   },
   "350468": {
@@ -2366,12 +2366,12 @@
   },
   "350473": {
     "OriginalText": "赤いヒレ",
-    "Text": "Red Fillet",
+    "Text": "Red Fin",
     "Enabled": true
   },
   "350474": {
     "OriginalText": "ガーグランブの鋭爪",
-    "Text": "Sharp Gargranv Claw",
+    "Text": "Gargranv Sharp Claw",
     "Enabled": true
   },
   "350475": {
@@ -2381,7 +2381,7 @@
   },
   "350476": {
     "OriginalText": "マグネトアスの硬皮",
-    "Text": "Hard Magnetoas Hide",
+    "Text": "Magnetoas Hard Hide",
     "Enabled": true
   },
   "350477": {
@@ -2396,17 +2396,17 @@
   },
   "350479": {
     "OriginalText": "スマラクリトロの鋭爪",
-    "Text": "Sharp Smar Crittro Claw",
+    "Text": "Smar Crittro Sharp Claw",
     "Enabled": true
   },
   "350480": {
     "OriginalText": "レイバンサーの大機関砲",
-    "Text": "Large Ray Banther Cannon",
+    "Text": "Ray Banther Large Cannon",
     "Enabled": true
   },
   "350481": {
     "OriginalText": "バオム・マガヴルムの硬手",
-    "Text": "Hard Baum Magavulum Arm",
+    "Text": "Baum Magavulum Hard Arm",
     "Enabled": true
   },
   "350482": {
@@ -2416,17 +2416,17 @@
   },
   "350483": {
     "OriginalText": "エレマンデルの硬棘鱗皮",
-    "Text": "Spiky Err Mandel Scaled Hide",
+    "Text": "Err Mandel Spiky Scaled Hide",
     "Enabled": true
   },
   "350484": {
     "OriginalText": "オラルカーネベアの硬砲身",
-    "Text": "Hard Orale Carnnebear Barrel",
+    "Text": "Orale Carnnebear Hard Barrel",
     "Enabled": true
   },
   "350485": {
     "OriginalText": "アビアディノの大コブ",
-    "Text": "Large Aviadino Polyp",
+    "Text": "Aviadino Large Polyp",
     "Enabled": true
   },
   "350486": {
@@ -2441,7 +2441,7 @@
   },
   "350488": {
     "OriginalText": "ポルトルリンプの大ヒレ",
-    "Text": "Large Pol Torrimp Fillet",
+    "Text": "Pol Torrimp Large Fin",
     "Enabled": true
   },
   "350489": {
@@ -2471,17 +2471,17 @@
   },
   "350494": {
     "OriginalText": "アルテイオスの大主砲",
-    "Text": "Alteios's Large Main Cannon",
+    "Text": "Alteios Large Main Cannon",
     "Enabled": true
   },
   "350495": {
     "OriginalText": "グラヴディオンの鋭刃",
-    "Text": "Sharp Gravdion Blade",
+    "Text": "Gravdion Sharp Blade",
     "Enabled": true
   },
   "350496": {
     "OriginalText": "リベルゲンテの硬伝甲",
-    "Text": "Hard Libelgante Carapace",
+    "Text": "Libelgante Hard Carapace",
     "Enabled": true
   },
   "350497": {
@@ -2491,22 +2491,22 @@
   },
   "350498": {
     "OriginalText": "ガーグランブの硬甲羅",
-    "Text": "Hard Gargranv Shell",
+    "Text": "Gargranv Hard Shell",
     "Enabled": true
   },
   "350499": {
     "OriginalText": "ラーバレダイナスの大弾倉",
-    "Text": "Large Lar Valdinas Magazine",
+    "Text": "Lar Valdinas Large Magazine",
     "Enabled": true
   },
   "350500": {
     "OriginalText": "マグネトアスの硬レンズ",
-    "Text": "Hard Magnetoas Lens",
+    "Text": "Magnetoas Hard Lens",
     "Enabled": true
   },
   "350501": {
     "OriginalText": "グリバッツの硬翼枝",
-    "Text": "Hard Gribatts Wing Membrane",
+    "Text": "Gribatts Hard Wing Membrane",
     "Enabled": true
   },
   "350502": {
@@ -2516,7 +2516,7 @@
   },
   "350503": {
     "OriginalText": "スマラクリトロの大毛皮",
-    "Text": "Large Smar Crittro Pelt",
+    "Text": "Smar Crittro Large Pelt",
     "Enabled": true
   },
   "350504": {
@@ -2526,7 +2526,7 @@
   },
   "350505": {
     "OriginalText": "バオム・マガヴルムの大銃",
-    "Text": "Large Baum Magavulum Gun",
+    "Text": "Baum Magavulum Large Gun",
     "Enabled": true
   },
   "350506": {
@@ -2536,32 +2536,32 @@
   },
   "350507": {
     "OriginalText": "エレマンデルの大髭",
-    "Text": "Long Err Mandel Moustache",
+    "Text": "Err Mandel Long Moustache",
     "Enabled": true
   },
   "350508": {
     "OriginalText": "オラルカーネベアの大毛皮",
-    "Text": "Large Orale Carnnebear Pelt",
+    "Text": "Orale Carnnebear Large Pelt",
     "Enabled": true
   },
   "350509": {
     "OriginalText": "アビアディノの鋭爪",
-    "Text": "Sharp Aviadino Claw",
+    "Text": "Aviadino Sharp Claw",
     "Enabled": true
   },
   "350510": {
     "OriginalText": "アガミステルンの鋭翼角",
-    "Text": "Sharp Aga Mysteroon Wing Edge",
+    "Text": "Aga Mysteroon Sharp Wing Edge",
     "Enabled": true
   },
   "350511": {
     "OriginalText": "ディゴルドスの鋭攻撃杭",
-    "Text": "Sharp Digordes Assault Spike",
+    "Text": "Digordes Sharp Assault Spike",
     "Enabled": true
   },
   "350512": {
     "OriginalText": "ポルトルリンプの大胸ビレ",
-    "Text": "Large Pol Torrimp Pectoral Fin",
+    "Text": "Pol Torrimp Large Pectoral Fin",
     "Enabled": true
   },
   "350513": {
@@ -2571,7 +2571,7 @@
   },
   "350514": {
     "OriginalText": "ブリバッツの硬翼枝",
-    "Text": "Hard Bribatts Wing Membrane",
+    "Text": "Bribatts Hard Wing Membrane",
     "Enabled": true
   },
   "350515": {
@@ -2581,17 +2581,17 @@
   },
   "350516": {
     "OriginalText": "フォードギオスの硬伝甲",
-    "Text": "Hard Pho Dogios Shell",
+    "Text": "Pho Dogios Hard Shell",
     "Enabled": true
   },
   "350517": {
     "OriginalText": "オルゴルドスの鋭攻撃杭",
-    "Text": "Sharp Orgordes Assault Spike",
+    "Text": "Orgordes Sharp Assault Spike",
     "Enabled": true
   },
   "350518": {
     "OriginalText": "アルテイオスの鋭角",
-    "Text": "Alteios Bladed Horn",
+    "Text": "Alteios Blade Horn",
     "Enabled": true
   },
   "350519": {
@@ -2601,7 +2601,7 @@
   },
   "350520": {
     "OriginalText": "リベルゲンテの大砲塔部品",
-    "Text": "Large Libelgante Gun Part",
+    "Text": "Libelgante Large Gun Part",
     "Enabled": true
   },
   "350521": {
@@ -2611,17 +2611,17 @@
   },
   "350522": {
     "OriginalText": "ガーグランブの硬粘液結晶",
-    "Text": "Hard Gargranv Mucus Crystal",
+    "Text": "Gargranv Hard Mucus Crystal",
     "Enabled": true
   },
   "350523": {
     "OriginalText": "ラーバレダイナスの大照準",
-    "Text": "Large Lar Valdinas Reticle",
+    "Text": "Lar Valdinas Large Optics",
     "Enabled": true
   },
   "350524": {
     "OriginalText": "マグネトアスの大固受袋",
-    "Text": "Hard Magnetoas Sucker Pouch",
+    "Text": "Magnetoas Large Sucker Pouch",
     "Enabled": true
   },
   "350525": {
@@ -2641,7 +2641,7 @@
   },
   "350528": {
     "OriginalText": "レイバンサーの鋭朽爪",
-    "Text": "Sharp Ray Banther Rotten Claw",
+    "Text": "Ray Banther Sharp Hook Claw",
     "Enabled": true
   },
   "350529": {
@@ -2667,7 +2667,7 @@
   "350533": {
     "OriginalText": "アビアディノの歯",
     "Text": "Aviadino Tooth",
-    "Enabled": false
+    "Enabled": true
   },
   "350534": {
     "OriginalText": "アガミステルンの頭角",
@@ -2676,7 +2676,7 @@
   },
   "350535": {
     "OriginalText": "ディゴルドスの巨大な角",
-    "Text": "Huge Digordes Horn",
+    "Text": "Digordes Gigantic Horn",
     "Enabled": true
   },
   "350536": {
@@ -2696,22 +2696,22 @@
   },
   "350539": {
     "OriginalText": "ファラレイバンサーの朽爪",
-    "Text": "Fararay Banther Rotten Claw",
+    "Text": "Fararay Banther Hook Claw",
     "Enabled": true
   },
   "350540": {
     "OriginalText": "フォードギオスの完全な盾",
-    "Text": "Perfect Pho Dogios Shield",
+    "Text": "Pho Dogios Perfect Shield",
     "Enabled": true
   },
   "350541": {
     "OriginalText": "オルゴルドスの巨大な角",
-    "Text": "Huge Orgordes Horn",
+    "Text": "Orgordes Gigantic Horn",
     "Enabled": true
   },
   "350542": {
     "OriginalText": "アルテイオスの完全な剣板",
-    "Text": "Perfect Alteios Blade",
+    "Text": "Alteios Perfect Blade",
     "Enabled": true
   },
   "350543": {
@@ -2756,12 +2756,12 @@
   },
   "350551": {
     "OriginalText": "レ・エクセージＴの小腕",
-    "Text": "Small Le Equsage T Arm",
+    "Text": "Le Equsage T Small Arm",
     "Enabled": true
   },
   "350552": {
     "OriginalText": "ウィルアフォルの尾羽",
-    "Text": "Viluaphol Retrix",
+    "Text": "Viluaphol Rectrix",
     "Enabled": true
   },
   "350553": {
@@ -2776,7 +2776,7 @@
   },
   "350555": {
     "OriginalText": "レ・エクセージＴの大目玉",
-    "Text": "Large Le Equsage T Eyeball",
+    "Text": "Le Equsage T Large Eyeball",
     "Enabled": true
   },
   "350556": {
@@ -2786,7 +2786,7 @@
   },
   "350557": {
     "OriginalText": "レ・エクセージＴの鋭杭腕",
-    "Text": "Sharp Le Equsage T Pile Arm",
+    "Text": "Le Equsage T Sharp Pile Arm",
     "Enabled": true
   },
   "350558": {
@@ -2841,7 +2841,7 @@
   },
   "350568": {
     "OriginalText": "バンサーの鋭朽爪",
-    "Text": "Banther Rotten Claw",
+    "Text": "Banther Sharp Hook Claw",
     "Enabled": true
   },
   "350569": {
@@ -2921,7 +2921,7 @@
   },
   "350584": {
     "OriginalText": "トルリンプ・ゴウルのヒレ",
-    "Text": "Torrimp Gorr Fillet",
+    "Text": "Torrimp Gorr Fin",
     "Enabled": true
   },
   "350585": {
@@ -2971,7 +2971,7 @@
   },
   "350594": {
     "OriginalText": "マンデル・ナートの棘鱗皮",
-    "Text": "Spiky Mandel Nart Scaled Hide",
+    "Text": "Mandel Nart Spiky Scaled Hide",
     "Enabled": true
   },
   "350595": {
@@ -3001,7 +3001,7 @@
   },
   "350600": {
     "OriginalText": "ミステルンの大しっぽ",
-    "Text": "Large Mysteroon Tail",
+    "Text": "Mysteroon Large Tail",
     "Enabled": true
   },
   "350601": {
@@ -3011,7 +3011,7 @@
   },
   "350602": {
     "OriginalText": "Ｇプレディカーダ・ネロの小刃",
-    "Text": "Small G-Predicahda Nero Horn",
+    "Text": "G-Predicahda Nero Small Horn",
     "Enabled": true
   },
   "350603": {
@@ -3031,7 +3031,7 @@
   },
   "350606": {
     "OriginalText": "Ｇアロナガーダのたてがみヒレ",
-    "Text": "G-Alonagahda Mane Fillet",
+    "Text": "G-Alonagahda Mane Fin",
     "Enabled": true
   },
   "350607": {
@@ -3056,7 +3056,7 @@
   },
   "350611": {
     "OriginalText": "バンサーの鋭牙",
-    "Text": "Sharp Banther Fang",
+    "Text": "Banther Sharp Fang",
     "Enabled": true
   },
   "350612": {
@@ -3066,7 +3066,7 @@
   },
   "350613": {
     "OriginalText": "水晶竜の巨大結晶",
-    "Text": "Large Crystal Dragon Crystal",
+    "Text": "Crystallized Large Dragon Crystal",
     "Enabled": true
   },
   "350614": {
@@ -3086,7 +3086,7 @@
   },
   "350617": {
     "OriginalText": "フェブリルナ・ドラウの朽爪",
-    "Text": "Febriluna Draal Rotten Claw",
+    "Text": "Febriluna Draal Hook Claw",
     "Enabled": true
   },
   "350618": {
@@ -3096,7 +3096,7 @@
   },
   "350619": {
     "OriginalText": "マフレザール・オリヴの朽爪",
-    "Text": "Maphrezer Olive Rotten Claw",
+    "Text": "Maphrezer Olive Hook Claw",
     "Enabled": true
   },
   "350620": {
@@ -3146,7 +3146,7 @@
   },
   "350629": {
     "OriginalText": "ロヴラッピー・ロセの主翼",
-    "Text": "Main Rove Rappy Rosset Wing",
+    "Text": "Rove Rappy Rosset Main Wing",
     "Enabled": true
   },
   "350630": {
@@ -3196,7 +3196,7 @@
   },
   "350639": {
     "OriginalText": "アフォル・フェイズの尾羽",
-    "Text": "Aphol Phase Retrix",
+    "Text": "Aphol Phase Rectrix",
     "Enabled": true
   },
   "350640": {
@@ -3266,7 +3266,7 @@
   },
   "350653": {
     "OriginalText": "Ｇダーク・アグラニの巨大な腕爪",
-    "Text": "Large G-Dark Agrani Armnail",
+    "Text": "G-Dark Agrani Large Armnail",
     "Enabled": true
   },
   "350654": {
@@ -3281,7 +3281,7 @@
   },
   "350656": {
     "OriginalText": "水晶竜の完全な結晶角",
-    "Text": "Perfect Crystal Dragon Horn",
+    "Text": "Crystal Dragon Perfect Horn",
     "Enabled": true
   },
   "350657": {
@@ -3296,7 +3296,7 @@
   },
   "350659": {
     "OriginalText": "ロザード・トカの完全な背びれ",
-    "Text": "Perfect Rozad Toqa Dorsal Fin",
+    "Text": "Rozad Toqa Perfect Dorsal Fin",
     "Enabled": true
   },
   "350660": {
@@ -3306,7 +3306,7 @@
   },
   "350661": {
     "OriginalText": "ダイナス・タングスのサイト",
-    "Text": "Dinas Tungs Sight",
+    "Text": "Dinas Tungs Optics",
     "Enabled": true
   },
   "350662": {
@@ -3356,7 +3356,7 @@
   },
   "350671": {
     "OriginalText": "ジュラキア・スクアの尾羽",
-    "Text": "Jurrakia Skuah Retrix",
+    "Text": "Jurrakia Skuah Rectrix",
     "Enabled": true
   },
   "350672": {
@@ -3386,7 +3386,7 @@
   },
   "350677": {
     "OriginalText": "レイバンサ・オクシの朽爪",
-    "Text": "Ray Banther Oxy Rotten Claw",
+    "Text": "Ray Banther Oxy Hook Claw",
     "Enabled": true
   },
   "350678": {
@@ -3406,7 +3406,7 @@
   },
   "350681": {
     "OriginalText": "ドギオス・ルフレの完全な盾",
-    "Text": "Perfect Dogios Reflet Shield",
+    "Text": "Dogios Reflet Perfect Shield",
     "Enabled": true
   },
   "350682": {
@@ -3466,12 +3466,12 @@
   },
   "350693": {
     "OriginalText": "Ｇガウォンダ・ネロの大盾破片",
-    "Text": "Large G-Ga Wonda Nero Shield Piece",
+    "Text": "G-Ga Wonda Nero Large Shield Piece",
     "Enabled": true
   },
   "350694": {
     "OriginalText": "Ｇグウォンダ・ネロの大盾破片",
-    "Text": "Large G-Gu Wonda Nero Shield Piece",
+    "Text": "G-Gu Wonda Nero Large Shield Piece",
     "Enabled": true
   },
   "350695": {
@@ -3756,122 +3756,122 @@
   },
   "350751": {
     "OriginalText": "Ｇクラーダの超爪",
-    "Text": "Super G-Krahda Claw",
+    "Text": "G-Krahda Super Claw",
     "Enabled": true
   },
   "350752": {
     "OriginalText": "Ｇダガンの超脚",
-    "Text": "Super G-Dagan Foot",
+    "Text": "G-Dagan Super Foot",
     "Enabled": true
   },
   "350753": {
     "OriginalText": "Ｇエル・ダガンの超脚",
-    "Text": "Super G-El Dagan Foot",
+    "Text": "G-El Dagan Super Foot",
     "Enabled": true
   },
   "350754": {
     "OriginalText": "Ｇエル・アーダの超針",
-    "Text": "Super G-El Ahda Needle",
+    "Text": "G-El Ahda Super Needle",
     "Enabled": true
   },
   "350755": {
     "OriginalText": "Ｇプレディカーダの超腕刃",
-    "Text": "Super G-Predicahda Armblade",
+    "Text": "G-Predicahda Super Armblade",
     "Enabled": true
   },
   "350756": {
     "OriginalText": "Ｇダーク・ラグネの超脚甲",
-    "Text": "G-Dark Ragne Leg Carapace",
+    "Text": "G-Dark Ragne Super Leg Carapace",
     "Enabled": true
   },
   "350757": {
     "OriginalText": "Ｇミクダの超甲羅",
-    "Text": "Super G-Mi Micda Shell",
+    "Text": "G-Mi Micda Super Shell",
     "Enabled": true
   },
   "350758": {
     "OriginalText": "Ｇダーガッシュの超背びれ",
-    "Text": "Super G-Dahgash Dorsal Fin",
+    "Text": "G-Dahgash Super Dorsal Fin",
     "Enabled": true
   },
   "350759": {
     "OriginalText": "Ｇガウォンダの超盾",
-    "Text": "Super G-Ga Wonda Shield",
+    "Text": "G-Ga Wonda Super Shield",
     "Enabled": true
   },
   "350760": {
     "OriginalText": "Ｇグウォンダの超盾",
-    "Text": "Super G-Gu Wonda Shield",
+    "Text": "G-Gu Wonda Super Shield",
     "Enabled": true
   },
   "350761": {
     "OriginalText": "Ｇウォルガーダの超髪",
-    "Text": "G-Wolgahda Hair",
+    "Text": "G-Wolgahda Super Hair",
     "Enabled": true
   },
   "350762": {
     "OriginalText": "Ｇキュクロナーダの超腕",
-    "Text": "Super G-Kuklonahda Arm",
+    "Text": "G-Kuklonahda Super Arm",
     "Enabled": true
   },
   "350763": {
     "OriginalText": "Ｇシャルレイダの超甲羅",
-    "Text": "G-Shalurayda Shell",
+    "Text": "G-Shalurayda Super Shell",
     "Enabled": true
   },
   "350764": {
     "OriginalText": "バリドランナの超光玉",
-    "Text": "Super Baridran'na Light Ball",
+    "Text": "Baridran'na Super Light Ball",
     "Enabled": true
   },
   "350765": {
     "OriginalText": "ノイバリドランナの超光玉",
-    "Text": "Super Noibaridran'na Light Ball",
+    "Text": "Noibaridran'na Super Light Ball",
     "Enabled": true
   },
   "350766": {
     "OriginalText": "ウィンディラスの超翼",
-    "Text": "Super Windiras Wing",
+    "Text": "Windiras Super Wing",
     "Enabled": true
   },
   "350767": {
     "OriginalText": "ノイウィンディラスの超翼",
-    "Text": "Super Noiwindiras Wing",
+    "Text": "Noiwindiras Super Wing",
     "Enabled": true
   },
   "350768": {
     "OriginalText": "コラル・ドラゴンの超角",
-    "Text": "Super Coral Dragon Horn",
+    "Text": "Coral Dragon Super Horn",
     "Enabled": true
   },
   "350769": {
     "OriginalText": "ラウーダンの超髪",
-    "Text": "Super Ra Oodan Hair",
+    "Text": "Ra Oodan Super Hair",
     "Enabled": true
   },
   "350770": {
     "OriginalText": "フリラウーダンの超髪",
-    "Text": "Super Fury Ra Oodan Hair",
+    "Text": "Fury Ra Oodan Super Hair",
     "Enabled": true
   },
   "350771": {
     "OriginalText": "ベガルフの超苔尾",
-    "Text": "Super Mossed Begulf Tail",
+    "Text": "Mossed Begulf Super Tail",
     "Enabled": true
   },
   "350772": {
     "OriginalText": "フロベガルフの超苔尾",
-    "Text": "Super Mossed Flobegulf Tail",
+    "Text": "Mossed Flobegulf Super Tail",
     "Enabled": true
   },
   "350773": {
     "OriginalText": "イエーデンの超毛皮",
-    "Text": "Super Yeden Pelt",
+    "Text": "Yeden Super Pelt",
     "Enabled": true
   },
   "350774": {
     "OriginalText": "コパイエーデンの超毛皮",
-    "Text": "Super Kopa Yeden Pelt",
+    "Text": "Kopa Yeden Super Pelt",
     "Enabled": true
   },
   "350775": {
@@ -3881,42 +3881,42 @@
   },
   "350776": {
     "OriginalText": "フロフォンベガルフの超角",
-    "Text": "Super Flo Fonbegulf Horn",
+    "Text": "Flo Fonbegulf Super Horn",
     "Enabled": true
   },
   "350777": {
     "OriginalText": "グルナバンサーの超牙",
-    "Text": "Super Gluna Banther Fang",
+    "Text": "Gluna Banther Super Fang",
     "Enabled": true
   },
   "350778": {
     "OriginalText": "ジャッドバンサーの超牙",
-    "Text": "Super Jhad Banther Fang",
+    "Text": "Jhad Banther Super Fang",
     "Enabled": true
   },
   "350779": {
     "OriginalText": "ロヴラッピーの超翼",
-    "Text": "Super Rove Rappy Wing",
+    "Text": "Rove Rappy Super Wing",
     "Enabled": true
   },
   "350780": {
     "OriginalText": "ウィ・ロヴラッピーの超翼",
-    "Text": "Super Oui Rove Rappy Wing",
+    "Text": "Oui Rove Rappy Super Wing",
     "Enabled": true
   },
   "350781": {
     "OriginalText": "レウ・ロヴラッピーの超翼",
-    "Text": "Super Leu Rove Rappy Wing",
+    "Text": "Leu Rove Rappy Super Wing",
     "Enabled": true
   },
   "350782": {
     "OriginalText": "マガヴルムの超銃",
-    "Text": "Super Magavulum Gun",
+    "Text": "Magavulum Super Gun",
     "Enabled": true
   },
   "350783": {
     "OriginalText": "バオム・マガヴルムの超銃",
-    "Text": "Super Baum Magavulum Gun",
+    "Text": "Baum Magavulum Super Gun",
     "Enabled": true
   },
   "350784": {
@@ -3926,177 +3926,177 @@
   },
   "350785": {
     "OriginalText": "ラビーソの超回転刃",
-    "Text": "Super Rabbisaw Rotating Blade",
+    "Text": "Rabbisaw Super Rotating Blade",
     "Enabled": true
   },
   "350786": {
     "OriginalText": "ブロラビーソの超回転刃",
-    "Text": "Super Bro Rabbisaw Rotating Blade",
+    "Text": "Bro Rabbisaw Super Rotating Blade",
     "Enabled": true
   },
   "350787": {
     "OriginalText": "アセラビーソの超回転刃",
-    "Text": "Super Ase Rabbisaw Rotating Blade",
+    "Text": "Ase Rabbisaw Super Rotating Blade",
     "Enabled": true
   },
   "350788": {
     "OriginalText": "ロザードの超背びれ",
-    "Text": "Super Rozad Dorsal Fin",
+    "Text": "Rozad Super Dorsal Fin",
     "Enabled": true
   },
   "350789": {
     "OriginalText": "ウロザードの超背びれ",
-    "Text": "Super Pa Rozad Dorsal Fin",
+    "Text": "Pa Rozad Super Dorsal Fin",
     "Enabled": true
   },
   "350790": {
     "OriginalText": "クロザードの超背びれ",
-    "Text": "Gu Rozad Spine",
+    "Text": "Gu Rozad Super Dorsal Fin",
     "Enabled": true
   },
   "350791": {
     "OriginalText": "スロザードの超背びれ",
-    "Text": "Super Su Rozad Dorsal Fin",
+    "Text": "Su Rozad Super Dorsal Fin",
     "Enabled": true
   },
   "350792": {
     "OriginalText": "マフレザールの超巻",
-    "Text": "Super Maphrezer Coil",
+    "Text": "Maphrezer Super Coil",
     "Enabled": true
   },
   "350793": {
     "OriginalText": "ヴィマフレザールの超巻",
-    "Text": "Super Oui Maphrezer Coil",
+    "Text": "Oui Maphrezer Super Coil",
     "Enabled": true
   },
   "350794": {
     "OriginalText": "エルマフレザールの超巻",
-    "Text": "Super El Maphrezer Coil",
+    "Text": "El Maphrezer Super Coil",
     "Enabled": true
   },
   "350795": {
     "OriginalText": "ウイマフレザールの超巻",
-    "Text": "Super Huy Maphrezer Coil",
+    "Text": "Huy Maphrezer Super Coil",
     "Enabled": true
   },
   "350796": {
     "OriginalText": "ジュラキアの超羽毛",
-    "Text": "Super Jurrakia Feather",
+    "Text": "Jurrakia Super Feather",
     "Enabled": true
   },
   "350797": {
     "OriginalText": "メドジュラキアの超羽毛",
-    "Text": "Super Med Jurrakia Feather",
+    "Text": "Med Jurrakia Super Feather",
     "Enabled": true
   },
   "350798": {
     "OriginalText": "ポリジュラキアの超羽毛",
-    "Text": "Super Poly Jurrakia Feather",
+    "Text": "Poly Jurrakia Super Feather",
     "Enabled": true
   },
   "350799": {
     "OriginalText": "ガンジュラキアの超羽毛",
-    "Text": "Super Gun Jurrakia Feather",
+    "Text": "Gun Jurrakia Super Feather",
     "Enabled": true
   },
   "350800": {
     "OriginalText": "リバッツの超ドリル",
-    "Text": "Super Ribatts Drill",
+    "Text": "Ribatts Super Drill",
     "Enabled": true
   },
   "350801": {
     "OriginalText": "グリバッツの超ドリル",
-    "Text": "Super Gribatts Drill",
+    "Text": "Gribatts Super Drill",
     "Enabled": true
   },
   "350802": {
     "OriginalText": "バリバッツの超ドリル",
-    "Text": "Super Baribatts Drill",
+    "Text": "Baribatts Super Drill",
     "Enabled": true
   },
   "350803": {
     "OriginalText": "ブリバッツの超ドリル",
-    "Text": "Super Bribatts Drill",
+    "Text": "Bribatts Super Drill",
     "Enabled": true
   },
   "350804": {
     "OriginalText": "グランブの超巻き祭",
-    "Text": "Super Granv Helix",
+    "Text": "Granv Super Helix",
     "Enabled": true
   },
   "350805": {
     "OriginalText": "ガーグランブの超巻き祭",
-    "Text": "Super Gargranv Helix",
+    "Text": "Gargranv Super Helix",
     "Enabled": true
   },
   "350806": {
     "OriginalText": "サフグランブの超巻き祭",
-    "Text": "Super Sahugranv Helix",
+    "Text": "Sahugranv Super Helix",
     "Enabled": true
   },
   "350807": {
     "OriginalText": "パーグランブの超巻き祭",
-    "Text": "Super Pergranv Helix",
+    "Text": "Pergranv Super Helix",
     "Enabled": true
   },
   "350808": {
     "OriginalText": "バンクゥの超結界",
-    "Text": "Super Ban'qu Barrier",
+    "Text": "Ban'qu Super Barrier",
     "Enabled": true
   },
   "350809": {
     "OriginalText": "フレスバンクゥの超結界",
-    "Text": "Super Fresc Ban'qu Barrier",
+    "Text": "Fresc Ban'qu Super Barrier",
     "Enabled": true
   },
   "350810": {
     "OriginalText": "ヴェンバンクゥの超結界",
-    "Text": "Super Venn Ban'qu Barrier",
+    "Text": "Venn Ban'qu Super Barrier",
     "Enabled": true
   },
   "350811": {
     "OriginalText": "トネルバンクゥの超結界",
-    "Text": "Super Toner Ban'qu Barrier",
+    "Text": "Toner Ban'qu Super Barrier",
     "Enabled": true
   },
   "350812": {
     "OriginalText": "スォロバンクゥの超結界",
-    "Text": "Super Swole Ban'qu Barrier",
+    "Text": "Swole Ban'qu Super Barrier",
     "Enabled": true
   },
   "350813": {
     "OriginalText": "マクロージの超針",
-    "Text": "Super Makroge Needle",
+    "Text": "Makroge Super Needle",
     "Enabled": true
   },
   "350814": {
     "OriginalText": "レ・マクロージの超針",
-    "Text": "Super Le Makroge Needle",
+    "Text": "Le Makroge Super Needle",
     "Enabled": true
   },
   "350815": {
     "OriginalText": "ブ・マクロージの超針",
-    "Text": "Super Bu Makroge Needle",
+    "Text": "Bu Makroge Super Needle",
     "Enabled": true
   },
   "350816": {
     "OriginalText": "ア・マクロージの超針",
-    "Text": "Super Ah Makroge Needle",
+    "Text": "Ah Makroge Super Needle",
     "Enabled": true
   },
   "350817": {
     "OriginalText": "アビアディノの超鱗皮",
-    "Text": "Super Aviadino Scaly Hide",
+    "Text": "Aviadino Super Scaly Hide",
     "Enabled": true
   },
   "350818": {
     "OriginalText": "ラーアビアディノの超鱗皮",
-    "Text": "Super Lar Aviadino Scaly Hide",
+    "Text": "Lar Aviadino Super Scaly Hide",
     "Enabled": true
   },
   "350819": {
     "OriginalText": "マドアビアディノの超鱗皮",
-    "Text": "Super Mad Aviadino Scaly Hide",
+    "Text": "Mad Aviadino Super Scaly Hide",
     "Enabled": true
   },
   "350820": {
@@ -4121,257 +4121,257 @@
   },
   "350824": {
     "OriginalText": "シードギオスの超盾",
-    "Text": "Super Xie Dogios Shield",
+    "Text": "Xie Dogios Super Shield",
     "Enabled": true
   },
   "350825": {
     "OriginalText": "フォードギオスの超盾",
-    "Text": "Super Pho Dogios Shield",
+    "Text": "Pho Dogios Super Shield",
     "Enabled": true
   },
   "350826": {
     "OriginalText": "ヴァッドギオスの超盾",
-    "Text": "Super Vad Dogios Shield",
+    "Text": "Vad Dogios Super Shield",
     "Enabled": true
   },
   "350827": {
     "OriginalText": "エアドギオスの超盾",
-    "Text": "Super Air Dogios Shield",
+    "Text": "Air Dogios Super Shield",
     "Enabled": true
   },
   "350828": {
     "OriginalText": "トルリンプの超腹ビレ",
-    "Text": "Super Torrimp Pectoral Fin",
+    "Text": "Torrimp Super Pectoral Fin",
     "Enabled": true
   },
   "350829": {
     "OriginalText": "ロウトルリンプの超腹ビレ",
-    "Text": "Super Rol Torrimp Pectoral Fin",
+    "Text": "Rol Torrimp Super Pectoral Fin",
     "Enabled": true
   },
   "350830": {
     "OriginalText": "ポルトルリンプの超腹ビレ",
-    "Text": "Super Pol Torrimp Pectoral Fin",
+    "Text": "Pol Torrimp Super Pectoral Fin",
     "Enabled": true
   },
   "350831": {
     "OriginalText": "エデルクリトロの超粘",
-    "Text": "Super Eder Crittro Mucus",
+    "Text": "Eder Crittro Super Mucus",
     "Enabled": true
   },
   "350832": {
     "OriginalText": "スマラクリトロの超粘",
-    "Text": "Super Smar Crittro Mucus",
+    "Text": "Smar Crittro Super Mucus",
     "Enabled": true
   },
   "350833": {
     "OriginalText": "クリトロクィーンの超粘",
-    "Text": "Super Crittro Queen Mucus",
+    "Text": "Crittro Queen Super Mucus",
     "Enabled": true
   },
   "350834": {
     "OriginalText": "オーニクリトロの超粘",
-    "Text": "Super Ouni Crittro Mucus",
+    "Text": "Ouni Crittro Super Mucus",
     "Enabled": true
   },
   "350835": {
     "OriginalText": "エレマンデルの超双角",
-    "Text": "Super Err Mandel Twinhorn",
+    "Text": "Err Mandel Super Twinhorn",
     "Enabled": true
   },
   "350836": {
     "OriginalText": "テッラマンデルの超双角",
-    "Text": "Super Terra Mandel Twinhorn",
+    "Text": "Terra Mandel Super Twinhorn",
     "Enabled": true
   },
   "350837": {
     "OriginalText": "イーグマンデルの超双角",
-    "Text": "Super Eag Mandel Twinhorn",
+    "Text": "Eag Mandel Super Twinhorn",
     "Enabled": true
   },
   "350838": {
     "OriginalText": "エクセージＴの超針",
-    "Text": "Super Equsage T Needle",
+    "Text": "Equsage T Super Needle",
     "Enabled": true
   },
   "350839": {
     "OriginalText": "レ・エクセージＴの超針",
-    "Text": "Super Le Equsage T Needle",
+    "Text": "Le Equsage T Super Needle",
     "Enabled": true
   },
   "350840": {
     "OriginalText": "ミステルンの超単角",
-    "Text": "Super Mysteroon Unihorn",
+    "Text": "Mysteroon Super Unihorn",
     "Enabled": true
   },
   "350841": {
     "OriginalText": "アガミステルンの超単角",
-    "Text": "Super Aga Mysteroon Unihorn",
+    "Text": "Aga Mysteroon Super Unihorn",
     "Enabled": true
   },
   "350842": {
     "OriginalText": "ラピミステルンの超単角",
-    "Text": "Super Rap Mysteroon Unihorn",
+    "Text": "Rap Mysteroon Super Unihorn",
     "Enabled": true
   },
   "350843": {
     "OriginalText": "シルブカーネベアの超砲弾",
-    "Text": "Super Silve Carnnebear Bullet",
+    "Text": "Silve Carnnebear Super Bullet",
     "Enabled": true
   },
   "350844": {
     "OriginalText": "レゾルカーネベアの超砲弾",
-    "Text": "Super Resol Carnnebear Bullet",
+    "Text": "Resol Carnnebear Super Bullet",
     "Enabled": true
   },
   "350845": {
     "OriginalText": "オラルカーネベアの超砲弾",
-    "Text": "Super Orale Carnnebear Bullet",
+    "Text": "Orale Carnnebear Super Bullet",
     "Enabled": true
   },
   "350846": {
     "OriginalText": "モストカーネベアの超砲弾",
-    "Text": "Super Mossed Carnnebear Bullet",
+    "Text": "Mossed Carnnebear Super Bullet",
     "Enabled": true
   },
   "350847": {
     "OriginalText": "アルレイバンサーの超尾",
-    "Text": "Super Alray Banther Tail",
+    "Text": "Alray Banther Super Tail",
     "Enabled": true
   },
   "350848": {
     "OriginalText": "ゾンレイバンサーの超尾",
-    "Text": "Super Zonray Banther Tail",
+    "Text": "Zonray Banther Super Tail",
     "Enabled": true
   },
   "350849": {
     "OriginalText": "ナールレイバンサーの超尾",
-    "Text": "Super Nalray Banther Tail",
+    "Text": "Nalray Banther Super Tail",
     "Enabled": true
   },
   "350850": {
     "OriginalText": "ファラレイバンサーの超尾",
-    "Text": "Super Fararay Banther Tail",
+    "Text": "Fararay Banther Super Tail",
     "Enabled": true
   },
   "350851": {
     "OriginalText": "ディートアスの超砲身",
-    "Text": "Super Dietoas Barrel",
+    "Text": "Dietoas Super Barrel",
     "Enabled": true
   },
   "350852": {
     "OriginalText": "テュルトアスの超砲身",
-    "Text": "Super Tulletoas Barrel",
+    "Text": "Tulletoas Super Barrel",
     "Enabled": true
   },
   "350853": {
     "OriginalText": "マグネトアスの超砲身",
-    "Text": "Super Magnetoas Barrel",
+    "Text": "Magnetoas Super Barrel",
     "Enabled": true
   },
   "350854": {
     "OriginalText": "ノイヴァトアスの超砲身",
-    "Text": "Super Neuvatoas Barrel",
+    "Text": "Neuvatoas Super Barrel",
     "Enabled": true
   },
   "350855": {
     "OriginalText": "ゴルドスの超頭角",
-    "Text": "Super Gordes Antler",
+    "Text": "Gordes Super Antler",
     "Enabled": true
   },
   "350856": {
     "OriginalText": "ディゴルドスの超頭角",
-    "Text": "Super Digordes Antler",
+    "Text": "Digordes Super Antler",
     "Enabled": true
   },
   "350857": {
     "OriginalText": "オルゴルドスの超頭角",
-    "Text": "Super Orgordes Antler",
+    "Text": "Orgordes Super Antler",
     "Enabled": true
   },
   "350858": {
     "OriginalText": "ヴァリゴルドスの超頭角",
-    "Text": "Super Valigordes Antler",
+    "Text": "Valigordes Super Antler",
     "Enabled": true
   },
   "350859": {
     "OriginalText": "ファンアフォルの超目玉",
-    "Text": "Super Fan'aphol Eyeball",
+    "Text": "Fan'aphol Super Eyeball",
     "Enabled": true
   },
   "350860": {
     "OriginalText": "ウィルアフォルの超目玉",
-    "Text": "Super Viluaphol Eyeball",
+    "Text": "Viluaphol Super Eyeball",
     "Enabled": true
   },
   "350861": {
     "OriginalText": "アグリオスの超皮",
-    "Text": "Super Agrios Hide",
+    "Text": "Agrios Super Hide",
     "Enabled": true
   },
   "350862": {
     "OriginalText": "グレイオスの超皮",
-    "Text": "Super Greios Hide",
+    "Text": "Greios Super Hide",
     "Enabled": true
   },
   "350863": {
     "OriginalText": "アルテイオスの超皮",
-    "Text": "Super Alteios Hide",
+    "Text": "Alteios Super Hide",
     "Enabled": true
   },
   "350864": {
     "OriginalText": "エウリュードの超爪",
-    "Text": "Super Eurude Claw",
+    "Text": "Eurude Super Claw",
     "Enabled": true
   },
   "350865": {
     "OriginalText": "ヴィヴリュードの超爪",
-    "Text": "Super Vivryude Claw",
+    "Text": "Vivryude Super Claw",
     "Enabled": true
   },
   "350866": {
     "OriginalText": "ガラティオンの超ノコ刃",
-    "Text": "Super Garation Saw Blade",
+    "Text": "Garation Super Saw Blade",
     "Enabled": true
   },
   "350867": {
     "OriginalText": "ギガティオンの超ノコ刃",
-    "Text": "Super Gigation Saw Blade",
+    "Text": "Gigation Super Saw Blade",
     "Enabled": true
   },
   "350868": {
     "OriginalText": "グラヴディオンの超ノコ刃",
-    "Text": "Super Gravdion Saw Blade",
+    "Text": "Gravdion Super Saw Blade",
     "Enabled": true
   },
   "350869": {
     "OriginalText": "アルキュオネの超触手",
-    "Text": "Super Alcyone Tentacle",
+    "Text": "Alcyone Super Tentacle",
     "Enabled": true
   },
   "350870": {
     "OriginalText": "デェフキュオネの超触手",
-    "Text": "Super Defcyone Tentacle",
+    "Text": "Defcyone Super Tentacle",
     "Enabled": true
   },
   "350871": {
     "OriginalText": "ギュゲンテの超砲塔部品",
-    "Text": "Super Gygante Turret Part",
+    "Text": "Gygante Super Turret Part",
     "Enabled": true
   },
   "350872": {
     "OriginalText": "リベルゲンテの超砲塔部品",
-    "Text": "Super Libelgante Turret Part",
+    "Text": "Libelgante Super Turret Part",
     "Enabled": true
   },
   "350873": {
     "OriginalText": "レイヴガイストの超仮面",
-    "Text": "Super Rave Geist Mask",
+    "Text": "Rave Geist Super Mask",
     "Enabled": true
   },
   "350874": {
     "OriginalText": "ネメスガイストの超仮面",
-    "Text": "Super Nemes Geist Mask",
+    "Text": "Nemes Geist Super Mask",
     "Enabled": true
   },
   "350875": {
@@ -4756,247 +4756,247 @@
   },
   "350951": {
     "OriginalText": "Ｇクラーダの硬脚",
-    "Text": "Hard G-Krahda Leg",
+    "Text": "G-Krahda Hard Leg",
     "Enabled": true
   },
   "350952": {
     "OriginalText": "Ｇダガンの硬爪",
-    "Text": "Hard G-Dagan Claw",
+    "Text": "G-Dagan Hard Claw",
     "Enabled": true
   },
   "350953": {
     "OriginalText": "Ｇエル・ダガンの硬爪",
-    "Text": "Hard G-El Dagan Claw",
+    "Text": "G-El Dagan Hard Claw",
     "Enabled": true
   },
   "350954": {
     "OriginalText": "Ｇエル・アーダの硬触角",
-    "Text": "Hard G-El Ahda Antenna",
+    "Text": "G-El Ahda Hard Antenna",
     "Enabled": true
   },
   "350955": {
     "OriginalText": "Ｇプレディカーダの硬腕刃",
-    "Text": "Hard G-Predicahda Arm Blade",
+    "Text": "G-Predicahda Hard Arm Blade",
     "Enabled": true
   },
   "350956": {
     "OriginalText": "Ｇダーク・ラグネの硬爪",
-    "Text": "G-Dark Ragne Claw",
+    "Text": "G-Dark Ragne Hard Claw",
     "Enabled": true
   },
   "350957": {
     "OriginalText": "Ｇミクダの硬甲羅",
-    "Text": "Hard G-Micda Shell",
+    "Text": "G-Micda Hard Shell",
     "Enabled": true
   },
   "350958": {
     "OriginalText": "Ｇダーガッシュの硬歯",
-    "Text": "Hard G-Dahgash Teeth",
+    "Text": "G-Dahgash Hard Tooth",
     "Enabled": true
   },
   "350959": {
     "OriginalText": "Ｇガウォンダの硬盾",
-    "Text": "Hard G-Ga Wonda Shield",
+    "Text": "G-Ga Wonda Hard Shield",
     "Enabled": true
   },
   "350960": {
     "OriginalText": "Ｇグウォンダの硬盾",
-    "Text": "Hard G-Gu Wonda Shield",
+    "Text": "G-Gu Wonda Hard Shield",
     "Enabled": true
   },
   "350961": {
     "OriginalText": "Ｇウォルガーダの硬髪",
-    "Text": "G-Wolgahda Hair",
+    "Text": "G-Wolgahda Hard Hair",
     "Enabled": true
   },
   "350962": {
     "OriginalText": "Ｇキュクロナーダの硬目",
-    "Text": "Hard G-Kuklonahda Eye",
+    "Text": "G-Kuklonahda Hard Eye",
     "Enabled": true
   },
   "350963": {
     "OriginalText": "Ｇシャルレイダの硬甲羅",
-    "Text": "G-Shalurayda Shell",
+    "Text": "G-Shalurayda Hard Shell",
     "Enabled": true
   },
   "350964": {
     "OriginalText": "バリドランナの硬粘玉",
-    "Text": "Hard Baridran'na Sticky Ball",
+    "Text": "Baridran'na Hard Sticky Ball",
     "Enabled": true
   },
   "350965": {
     "OriginalText": "ノイバリドランナの硬粘玉",
-    "Text": "Hard Noibaridran'na Sticky Ball",
+    "Text": "Noibaridran'na Hard Sticky Ball",
     "Enabled": true
   },
   "350966": {
     "OriginalText": "ウィンディラスの硬翼",
-    "Text": "Hard Windiras Wing",
+    "Text": "Windiras Hard Wing",
     "Enabled": true
   },
   "350967": {
     "OriginalText": "ノイウィンディラスの硬翼",
-    "Text": "Hard Noiwindiras Wing",
+    "Text": "Noiwindiras Hard Wing",
     "Enabled": true
   },
   "350968": {
     "OriginalText": "コラル・ドラゴンの硬角",
-    "Text": "Hard Coral Dragon Horn",
+    "Text": "Coral Dragon Hard Horn",
     "Enabled": true
   },
   "350969": {
     "OriginalText": "ラウーダンの硬毛",
-    "Text": "Hard Ra Oodan Fur",
+    "Text": "Ra Oodan Hard Fur",
     "Enabled": true
   },
   "350970": {
     "OriginalText": "フリラウーダンの硬毛",
-    "Text": "Hard Fury Ra Oodan Fur",
+    "Text": "Fury Ra Oodan Hard Fur",
     "Enabled": true
   },
   "350971": {
     "OriginalText": "ベガルフの硬牙",
-    "Text": "Hard Begulf Fang",
+    "Text": "Begulf Hard Fang",
     "Enabled": true
   },
   "350972": {
     "OriginalText": "フロベガルフの硬牙",
-    "Text": "Hard Flobegulf Fang",
+    "Text": "Flobegulf Hard Fang",
     "Enabled": true
   },
   "350973": {
     "OriginalText": "イエーデンの硬毛皮",
-    "Text": "Hard Yeden Aie Pelt",
+    "Text": "Yeden Aie Hard Pelt",
     "Enabled": true
   },
   "350974": {
     "OriginalText": "コパイエーデンの硬毛皮",
-    "Text": "Hard Kopa Yeden Pelt",
+    "Text": "Kopa Yeden Hard Pelt",
     "Enabled": true
   },
   "350975": {
     "OriginalText": "フォンベガルフの硬爪",
-    "Text": "Hard Fonbegulf Claw",
+    "Text": "Fonbegulf Hard Claw",
     "Enabled": true
   },
   "350976": {
     "OriginalText": "フロフォンベガルフの硬爪",
-    "Text": "Hard Flo Fonbegulf Claw",
+    "Text": "Flo Fonbegulf Hard Claw",
     "Enabled": true
   },
   "350977": {
     "OriginalText": "グルナバンサーの硬角",
-    "Text": "Hard Gluna Banther Horn",
+    "Text": "Gluna Banther Hard Horn",
     "Enabled": true
   },
   "350978": {
     "OriginalText": "ジャッドバンサーの硬角",
-    "Text": "Hard Jhad Banther Horn",
+    "Text": "Jhad Banther Hard Horn",
     "Enabled": true
   },
   "350979": {
     "OriginalText": "ロヴラッピーの硬羽",
-    "Text": "Hard Rove Rappy Feather",
+    "Text": "Rove Rappy Hard Feather",
     "Enabled": true
   },
   "350980": {
     "OriginalText": "ウィ・ロヴラッピーの硬羽",
-    "Text": "Hard Oui Rove Rappy Feather",
+    "Text": "Oui Rove Rappy Hard Feather",
     "Enabled": true
   },
   "350981": {
     "OriginalText": "レウ・ロヴラッピーの硬羽",
-    "Text": "Hard Leu Rove Rappy Feather",
+    "Text": "Leu Rove Rappy Hard Feather",
     "Enabled": true
   },
   "350982": {
     "OriginalText": "マガヴルムの硬銃",
-    "Text": "Hard Magavulum Gun",
+    "Text": "Magavulum Hard Gun",
     "Enabled": true
   },
   "350983": {
     "OriginalText": "バオム・マガヴルムの硬銃",
-    "Text": "Hard Baum Magavulum Gun",
+    "Text": "Baum Magavulum Hard Gun",
     "Enabled": true
   },
   "350984": {
     "OriginalText": "オルテ・マガヴルムの硬銃",
-    "Text": "Hard Orte Magavulum Gun",
+    "Text": "Orte Magavulum Hard Gun",
     "Enabled": true
   },
   "350985": {
     "OriginalText": "ラビーソの極刃",
-    "Text": "Prime Rabbisaw Blade",
+    "Text": "Rabbisaw Prime Blade",
     "Enabled": true
   },
   "350986": {
     "OriginalText": "ブロラビーソの極刃",
-    "Text": "Prime Bro Rabbisaw Blade",
+    "Text": "Bro Rabbisaw Prime Blade",
     "Enabled": true
   },
   "350987": {
     "OriginalText": "アセラビーソの極刃",
-    "Text": "Prime Ase Rabbisaw Blade",
+    "Text": "Ase Rabbisaw Prime Blade",
     "Enabled": true
   },
   "350988": {
     "OriginalText": "ロザードの硬背びれ",
-    "Text": "Hard Rozad Dorsal Fin",
+    "Text": "Rozad Dorsal Hard Fin",
     "Enabled": true
   },
   "350989": {
     "OriginalText": "ウロザードの硬背びれ",
-    "Text": "Hard Pa Rozad Dorsal Fin",
+    "Text": "Pa Rozad Hard Dorsal Fin",
     "Enabled": true
   },
   "350990": {
     "OriginalText": "クロザードの硬背びれ",
-    "Text": "Hard Gu Rozad Dorsal Fin",
+    "Text": "Gu Rozad Hard Dorsal Fin",
     "Enabled": true
   },
   "350991": {
     "OriginalText": "スロザードの硬背びれ",
-    "Text": "Hard Su Rozad Dorsal Fin",
+    "Text": "Su Rozad Hard Dorsal Fin",
     "Enabled": true
   },
   "350992": {
     "OriginalText": "マフレザールの硬爪",
-    "Text": "Hard Maphrezer Claw",
+    "Text": "Maphrezer Hard Claw",
     "Enabled": true
   },
   "350993": {
     "OriginalText": "ヴィマフレザールの硬爪",
-    "Text": "Hard Oui Maphrezer Claw",
+    "Text": "Oui Maphrezer Hard Claw",
     "Enabled": true
   },
   "350994": {
     "OriginalText": "エルマフレザールの硬爪",
-    "Text": "Hard El Maphrezer Claw",
+    "Text": "El Maphrezer Hard Claw",
     "Enabled": true
   },
   "350995": {
     "OriginalText": "ウイマフレザールの硬爪",
-    "Text": "Hard Huy Maphrezer Claw",
+    "Text": "Huy Maphrezer Hard Claw",
     "Enabled": true
   },
   "350996": {
     "OriginalText": "ジュラキアの硬羽毛",
-    "Text": "Hard Jurrakia Feather",
+    "Text": "Jurrakia Hard Feather",
     "Enabled": true
   },
   "350997": {
     "OriginalText": "メドジュラキアの硬羽毛",
-    "Text": "Hard Med Jurrakia Feather",
+    "Text": "Med Jurrakia Hard Feather",
     "Enabled": true
   },
   "350998": {
     "OriginalText": "ポリジュラキアの硬羽毛",
-    "Text": "Hard Poly Jurrakia Feather",
+    "Text": "Poly Jurrakia Hard Feather",
     "Enabled": true
   },
   "350999": {
     "OriginalText": "ガンジュラキアの硬羽毛",
-    "Text": "Hard Gun Jurrakia Feather",
+    "Text": "Gun Jurrakia Hard Feather",
     "Enabled": true
   },
   "351000": {
@@ -5006,327 +5006,327 @@
   },
   "351001": {
     "OriginalText": "グリバッツの極針",
-    "Text": "Prime Gribatts Needle",
+    "Text": "Gribatts Prime Needle",
     "Enabled": true
   },
   "351002": {
     "OriginalText": "バリバッツの極針",
-    "Text": "Prime Baribatts Needle",
+    "Text": "Baribatts Prime Needle",
     "Enabled": true
   },
   "351003": {
     "OriginalText": "ブリバッツの極針",
-    "Text": "Prime Bribatts Needle",
+    "Text": "Bribatts Prime Needle",
     "Enabled": true
   },
   "351004": {
     "OriginalText": "グランブの硬巻き祭",
-    "Text": "Hard Granv Helix",
+    "Text": "Granv Hard Helix",
     "Enabled": true
   },
   "351005": {
     "OriginalText": "ガーグランブの硬巻き祭",
-    "Text": "Hard Gargranv Helix",
+    "Text": "Gargranv Hard Helix",
     "Enabled": true
   },
   "351006": {
     "OriginalText": "サフグランブの硬巻き祭",
-    "Text": "Hard Sahugranv Helix",
+    "Text": "Sahugranv Hard Helix",
     "Enabled": true
   },
   "351007": {
     "OriginalText": "パーグランブの硬巻き祭",
-    "Text": "Hard Pergranv Helix",
+    "Text": "Pergranv Hard Helix",
     "Enabled": true
   },
   "351008": {
     "OriginalText": "バンクゥの硬尾",
-    "Text": "Hard Ban'qu Tail",
+    "Text": "Ban'qu Hard Tail",
     "Enabled": true
   },
   "351009": {
     "OriginalText": "フレスバンクゥの硬尾",
-    "Text": "Hard Fresc Ban'qu Tail",
+    "Text": "Fresc Ban'qu Hard Tail",
     "Enabled": true
   },
   "351010": {
     "OriginalText": "ヴェンバンクゥの硬尾",
-    "Text": "Hard Venn Ban'qu Tail",
+    "Text": "Venn Ban'qu Hard Tail",
     "Enabled": true
   },
   "351011": {
     "OriginalText": "トネルバンクゥの硬尾",
-    "Text": "Hard Toner Ban'qu Tail",
+    "Text": "Toner Ban'qu Hard Tail",
     "Enabled": true
   },
   "351012": {
     "OriginalText": "スォロバンクゥの硬尾",
-    "Text": "Hard Swole Ban'qu Tail",
+    "Text": "Swole Ban'qu Hard Tail",
     "Enabled": true
   },
   "351013": {
     "OriginalText": "マクロージの極針",
-    "Text": "Prime Makroge Needle",
+    "Text": "Makroge Prime Needle",
     "Enabled": true
   },
   "351014": {
     "OriginalText": "レ・マクロージの極針",
-    "Text": "Prime Le Makroge Needle",
+    "Text": "Le Makroge Prime Needle",
     "Enabled": true
   },
   "351015": {
     "OriginalText": "ブ・マクロージの極針",
-    "Text": "Prime Bu Makroge Needle",
+    "Text": "Bu Makroge Prime Needle",
     "Enabled": true
   },
   "351016": {
     "OriginalText": "ア・マクロージの極針",
-    "Text": "Prime Ah Makroge Needle",
+    "Text": "Ah Makroge Prime Needle",
     "Enabled": true
   },
   "351017": {
     "OriginalText": "アビアディノの硬コブ",
-    "Text": "Hard Aviadino Polyp",
+    "Text": "Aviadino Hard Polyp",
     "Enabled": true
   },
   "351018": {
     "OriginalText": "ラーアビアディノの硬コブ",
-    "Text": "Hard Lar Aviadino Polyp",
+    "Text": "Lar Aviadino Hard Polyp",
     "Enabled": true
   },
   "351019": {
     "OriginalText": "マドアビアディノの硬コブ",
-    "Text": "Hard Mad Aviadino Polyp",
+    "Text": "Mad Aviadino Hard Polyp",
     "Enabled": true
   },
   "351020": {
     "OriginalText": "バレダイナスの硬銃",
-    "Text": "Hard Valdinas Gun",
+    "Text": "Valdinas Hard Gun",
     "Enabled": true
   },
   "351021": {
     "OriginalText": "ラーバレダイナスの硬銃",
-    "Text": "Hard Lar Aviadino Gun",
+    "Text": "Lar Valdinas Hard Gun",
     "Enabled": true
   },
   "351022": {
     "OriginalText": "マーバレダイナスの硬銃",
-    "Text": "Hard Mar Aviadino Gun",
+    "Text": "Mar Valdinas Hard Gun",
     "Enabled": true
   },
   "351023": {
     "OriginalText": "ヴィバレダイナスの硬銃",
-    "Text": "Hard Oui Valdinas Gun",
+    "Text": "Oui Valdinas Hard Gun",
     "Enabled": true
   },
   "351024": {
     "OriginalText": "シードギオスの硬盾",
-    "Text": "Hard Xie Dogios Shield",
+    "Text": "Xie Dogios Hard Shield",
     "Enabled": true
   },
   "351025": {
     "OriginalText": "フォードギオスの硬盾",
-    "Text": "Hard Pho Dogios Shield",
+    "Text": "Pho Dogios Hard Shield",
     "Enabled": true
   },
   "351026": {
     "OriginalText": "ヴァッドギオスの硬盾",
-    "Text": "Hard Vad Dogios Shield",
+    "Text": "Vad Dogios Hard Shield",
     "Enabled": true
   },
   "351027": {
     "OriginalText": "エアドギオスの硬盾",
-    "Text": "Hard Air Dogios Shield",
+    "Text": "Air Dogios Hard Shield",
     "Enabled": true
   },
   "351028": {
     "OriginalText": "トルリンプの硬ヒレ",
-    "Text": "Hard Torrimp Fillet",
+    "Text": "Torrimp Hard Fin",
     "Enabled": true
   },
   "351029": {
     "OriginalText": "ロウトルリンプの硬ヒレ",
-    "Text": "Hard Rol Torrimp Fillet",
+    "Text": "Rol Torrimp Hard Fin",
     "Enabled": true
   },
   "351030": {
     "OriginalText": "ポルトルリンプの硬ヒレ",
-    "Text": "Hard Pol Torrimp Fillet",
+    "Text": "Pol Torrimp Hard Fin",
     "Enabled": true
   },
   "351031": {
     "OriginalText": "エデルクリトロの硬毛皮",
-    "Text": "Hard Eder Crittro Pelt",
+    "Text": "Eder Crittro Hard Pelt",
     "Enabled": true
   },
   "351032": {
     "OriginalText": "スマラクリトロの硬毛皮",
-    "Text": "Hard Smar Crittro Pelt",
+    "Text": "Smar Crittro Hard Pelt",
     "Enabled": true
   },
   "351033": {
     "OriginalText": "クリトロクィーンの硬毛皮",
-    "Text": "Hard Crittro Queen Pelt",
+    "Text": "Crittro Queen Hard Pelt",
     "Enabled": true
   },
   "351034": {
     "OriginalText": "オーニクリトロの硬毛皮",
-    "Text": "Hard Ouni Crittro Pelt",
+    "Text": "Ouni Crittro Hard Pelt",
     "Enabled": true
   },
   "351035": {
     "OriginalText": "エレマンデルの硬爪",
-    "Text": "Hard Err Mandel Claw",
+    "Text": "Err Mandel Hard Claw",
     "Enabled": true
   },
   "351036": {
     "OriginalText": "テッラマンデルの硬爪",
-    "Text": "Hard Terra Mandel Claw",
+    "Text": "Terra Mandel Hard Claw",
     "Enabled": true
   },
   "351037": {
     "OriginalText": "イーグマンデルの硬爪",
-    "Text": "Hard Eag Mandel Claw",
+    "Text": "Eag Mandel Hard Claw",
     "Enabled": true
   },
   "351038": {
     "OriginalText": "エクセージＴの硬目玉",
-    "Text": "Hard Equsage T Eyeball",
+    "Text": "Equsage T Hard Eyeball",
     "Enabled": true
   },
   "351039": {
     "OriginalText": "レ・エクセージＴの硬目玉",
-    "Text": "Hard Le Equsage T Eyeball",
+    "Text": "Le Equsage T Hard Eyeball",
     "Enabled": true
   },
   "351040": {
     "OriginalText": "ミステルンの硬角",
-    "Text": "Hard Mysteroon Horn",
+    "Text": "Mysteroon Hard Horn",
     "Enabled": true
   },
   "351041": {
     "OriginalText": "アガミステルンの硬角",
-    "Text": "Hard Aga Mysteroon Horn",
+    "Text": "Aga Mysteroon Hard Horn",
     "Enabled": true
   },
   "351042": {
     "OriginalText": "ラピミステルンの硬角",
-    "Text": "Hard Rap Mysteroon Horn",
+    "Text": "Rap Mysteroon Hard Horn",
     "Enabled": true
   },
   "351043": {
     "OriginalText": "シルブカーネベアの硬砲身",
-    "Text": "Hard Silve Carnnebear Barrel",
+    "Text": "Silve Carnnebear Hard Barrel",
     "Enabled": true
   },
   "351044": {
     "OriginalText": "レゾルカーネベアの硬砲身",
-    "Text": "Hard Resol Carnnebear Barrel",
+    "Text": "Resol Carnnebear Hard Barrel",
     "Enabled": true
   },
   "351045": {
     "OriginalText": "オラルカーネベアの硬砲身",
-    "Text": "Hard Orale Carnnebear Barrel",
+    "Text": "Orale Carnnebear Hard Barrel",
     "Enabled": true
   },
   "351046": {
     "OriginalText": "モストカーネベアの硬砲身",
-    "Text": "Hard Mossed Carnnebear Barrel",
+    "Text": "Mossed Carnnebear Hard Barrel",
     "Enabled": true
   },
   "351047": {
     "OriginalText": "アルレイバンサーの硬銃",
-    "Text": "Hard Alray Banther Gun",
+    "Text": "Alray Banther Hard Gun",
     "Enabled": true
   },
   "351048": {
     "OriginalText": "ゾンレイバンサーの硬銃",
-    "Text": "Hard Zonray Banther Gun",
+    "Text": "Zonray Banther Hard Gun",
     "Enabled": true
   },
   "351049": {
     "OriginalText": "ナールレイバンサーの硬銃",
-    "Text": "Hard Nalray Banther Gun",
+    "Text": "Nalray Banther Hard Gun",
     "Enabled": true
   },
   "351050": {
     "OriginalText": "ファラレイバンサーの硬銃",
-    "Text": "Hard Fararay Banther Gun",
+    "Text": "Fararay Banther Hard Gun",
     "Enabled": true
   },
   "351051": {
     "OriginalText": "ディートアスの硬皮",
-    "Text": "Hard Dietoas Hide",
+    "Text": "Dietoas Hard Hide",
     "Enabled": true
   },
   "351052": {
     "OriginalText": "テュルトアスの硬皮",
-    "Text": "Hard Tulletoas Hide",
+    "Text": "Tulletoas Hard Hide",
     "Enabled": true
   },
   "351053": {
     "OriginalText": "マグネトアスの硬皮",
-    "Text": "Hard Magnetoas Hide",
+    "Text": "Magnetoas Hard Hide",
     "Enabled": true
   },
   "351054": {
     "OriginalText": "ノイヴァトアスの硬皮",
-    "Text": "Hard Neuvatoas Hide",
+    "Text": "Neuvatoas Hard Hide",
     "Enabled": true
   },
   "351055": {
     "OriginalText": "ゴルドスの硬杭",
-    "Text": "Hard Gordes Spike",
+    "Text": "Gordes Hard Spike",
     "Enabled": true
   },
   "351056": {
     "OriginalText": "ディゴルドスの硬杭",
-    "Text": "Hard Digordes Spike",
+    "Text": "Digordes Hard Spike",
     "Enabled": true
   },
   "351057": {
     "OriginalText": "オルゴルドスの硬杭",
-    "Text": "Hard Orgordes Spike",
+    "Text": "Orgordes Hard Spike",
     "Enabled": true
   },
   "351058": {
     "OriginalText": "ヴァリゴルドスの硬杭",
-    "Text": "Hard Valigordes Spike",
+    "Text": "Valigordes Hard Spike",
     "Enabled": true
   },
   "351059": {
     "OriginalText": "ファンアフォルの硬羽",
-    "Text": "Hard Fan'aphol Feather",
+    "Text": "Fan'aphol Hard Feather",
     "Enabled": true
   },
   "351060": {
     "OriginalText": "ウィルアフォルの硬羽",
-    "Text": "Hard Viluaphol Feather",
+    "Text": "Viluaphol Hard Feather",
     "Enabled": true
   },
   "351061": {
     "OriginalText": "アグリオスの硬背びれ",
-    "Text": "Hard Agrios Dorsal Fin",
+    "Text": "Agrios Hard Dorsal Fin",
     "Enabled": true
   },
   "351062": {
     "OriginalText": "グレイオスの硬背びれ",
-    "Text": "Hard Greios Dorsal Fin",
+    "Text": "Greios Hard Dorsal Fin",
     "Enabled": true
   },
   "351063": {
     "OriginalText": "アルテイオスの硬背びれ",
-    "Text": "Hard Alteios Dorsal Fin",
+    "Text": "Alteios Hard Dorsal Fin",
     "Enabled": true
   },
   "351064": {
     "OriginalText": "エウリュードの硬尾",
-    "Text": "Hard Eurude Tail",
+    "Text": "Eurude Hard Tail",
     "Enabled": true
   },
   "351065": {
     "OriginalText": "ヴィヴリュードの硬尾",
-    "Text": "Hard Vivryude Tail",
+    "Text": "Vivryude Hard Tail",
     "Enabled": true
   },
   "351066": {
@@ -5346,32 +5346,32 @@
   },
   "351069": {
     "OriginalText": "アルキュオネの硬皮",
-    "Text": "Hard Alcyone Hide",
+    "Text": "Alcyone Hard Hide",
     "Enabled": true
   },
   "351070": {
     "OriginalText": "デェフキュオネの硬皮",
-    "Text": "Hard Defcyone Hide",
+    "Text": "Defcyone Hard Hide",
     "Enabled": true
   },
   "351071": {
     "OriginalText": "ギュゲンテの硬伝甲",
-    "Text": "Hard Gygante Armor",
+    "Text": "Gygante Hard Armor",
     "Enabled": true
   },
   "351072": {
     "OriginalText": "リベルゲンテの硬装甲",
-    "Text": "Hard Libelgante Armor",
+    "Text": "Libelgante Hard Armor",
     "Enabled": true
   },
   "351073": {
     "OriginalText": "レイヴガイストの硬結界",
-    "Text": "Hard Rave Geist Barrier",
+    "Text": "Rave Geist Hard Barrier",
     "Enabled": true
   },
   "351074": {
     "OriginalText": "ネメスガイストの硬結界",
-    "Text": "Hard Nemes Geist Barrier",
+    "Text": "Nemes Geist Hard Barrier",
     "Enabled": true
   },
   "351075": {
@@ -5591,17 +5591,17 @@
   },
   "360013": {
     "OriginalText": "蛍乳類原生種の肉。\n食用だが個体によっては硬い。",
-    "Text": "Raw meat of a firefly-kind.\nEdible but can be tough to someone.",
+    "Text": "Raw meat of a native specie.\nEdible but can be tough to someone.",
     "Enabled": true
   },
   "360014": {
     "OriginalText": "蛍乳類原生種の肉。\n食用として人気の小型種から厳選。",
-    "Text": "Raw meat of a firefly-kind.\nSmall and edible, carefully selected\nbut popular.",
+    "Text": "Raw meat of a native specie.\nSmall and edible, carefully selected\nbut popular.",
     "Enabled": true
   },
   "360015": {
     "OriginalText": "蛍乳類原生種の肉。\n食用として人気の中型種から厳選。",
-    "Text": "Raw meat of a firefly-kind.\nMid-sized and edible, carefully\nselected but popular.",
+    "Text": "Raw meat of a specie.\nMid-sized and edible, carefully\nselected but popular.",
     "Enabled": true
   },
   "360016": {
@@ -5616,8 +5616,8 @@
   },
   "360018": {
     "OriginalText": "中型原生種の臓洋。\n食用になり栄養価が高く美味。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Innards of a medium-sized native\nspecies.\nIt is edible, nutritious and delicious",
+    "Enabled": true
   },
   "360019": {
     "OriginalText": "鳥類の軟骨。\n食用になり独特の歯ごたえを楽しめる。",
@@ -5636,13 +5636,13 @@
   },
   "360022": {
     "OriginalText": "膜β類系原生種の苔尾。\n食用になり大型の洋ほど肉厚で美味。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Membrane of β-type native's mossy tail.\nThe larger the more edible, it's meaty\nand flavorful.",
+    "Enabled": true
   },
   "360023": {
     "OriginalText": "膜β類系原生種のトサカ。\n食用になりコラーゲンが豊富。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Membrane of a β-type native's crest.\nEdible and rich in collagen.",
+    "Enabled": true
   },
   "360024": {
     "OriginalText": "主に惑星本体で自生する墨。\n食用になり緑が麗いほど美味。",
@@ -5671,8 +5671,8 @@
   },
   "360029": {
     "OriginalText": "火を噴く生体の熱装。\n熱を帯びており食用すると\n体が搾から極まる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "The heat source of an organism that\n.spouts fire.\nIt is very hot when eaten.",
+    "Enabled": true
   },
   "360030": {
     "OriginalText": "原生種が吹き出す粘液。\n熱を通すと固まる性質があり\n食用される。",
@@ -5726,12 +5726,12 @@
   },
   "360040": {
     "OriginalText": "ギガンテスの骨。\n食用になり、そぎ落とした肉が柔らか。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A Gigantes bone.\nThe scraped off meat is soft and edible.",
+    "Enabled": true
   },
   "360041": {
     "OriginalText": "魚肉に似たギガンテスの肉。\n食用になり味わいも魚肉に近い。",
-    "Text": "Bone of a Gigantes.\nIt is edible and taste like fish.",
+    "Text": "Gigantes flesh that looks like\na fish meat.\nIt is edible and taste like fish.",
     "Enabled": true
   },
   "360042": {
@@ -5771,7 +5771,7 @@
   },
   "360049": {
     "OriginalText": "銅の荒野で採集される鉱洋。\n各種元素を含有しており\n武器防具の加工素村として利用される。",
-    "Text": "Ore found in Steel Wasteland.\nContains many elements and is processed\nto be used in crafting a weapon.",
+    "Text": "Mineral found in Steel Wasteland.\nContains many elements and is processed\nto be used in crafting a weapon.",
     "Enabled": true
   },
   "360050": {
@@ -5926,8 +5926,8 @@
   },
   "360080": {
     "OriginalText": "大尖塔で採集される焼結体。\n長時間放置され墨むしている。\n武器防具の素村になる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Sintered material found in Great Spire.\nUsed as material for crafting weapons.",
+    "Enabled": true
   },
   "360081": {
     "OriginalText": "コア内部で採集される鉱洋。\n生きた石を思わせる眼の紋様が特微。\n武器防具の素村になる。",
@@ -6231,7 +6231,7 @@
   },
   "360141": {
     "OriginalText": "ダーカーのヒレ。\n武器防具の素村になる。",
-    "Text": "Fillet of a Darker.\nUsed as material in crafting weapons.",
+    "Text": "Fin of a Darker.\nUsed as material in crafting weapons.",
     "Enabled": true
   },
   "360142": {
@@ -6271,7 +6271,7 @@
   },
   "360149": {
     "OriginalText": "硬い甲殻に覆われ鋭い朽爪のついた脚。\n武器防具の素村になる。",
-    "Text": "Hard shell attached to a sharp rotten\nclaw.\nUsed as material for crafting weapons.",
+    "Text": "Hard shell attached to a sharp curved\nclaw.\nUsed as material for crafting weapons.",
     "Enabled": true
   },
   "360150": {
@@ -6321,7 +6321,7 @@
   },
   "360159": {
     "OriginalText": "蛍乳類系原生種の煽皮の一部。\n武器防具の素村になる。",
-    "Text": "Hide of a firefly-like native.\nUsed as a material for crafting weapons.",
+    "Text": "Hide of a native specie.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360160": {
@@ -6336,7 +6336,7 @@
   },
   "360162": {
     "OriginalText": "大型の蛍乳類系原生種の煽皮の一部。\n武器防具の素村になる。",
-    "Text": "Large skin of a firefly-like native.\nUsed as a material for crafting weapons.",
+    "Text": "Large skin of a native specie.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360163": {
@@ -6351,7 +6351,7 @@
   },
   "360165": {
     "OriginalText": "大型の蛍乳類系原生種の牙。\n武器防具の素村になる。",
-    "Text": "Large fang of a firefly-like native.\nUsed as a material for crafting weapons.",
+    "Text": "Large fang of a native specie.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360166": {
@@ -6386,7 +6386,7 @@
   },
   "360172": {
     "OriginalText": "羽煽に覆われた大きな羽。\n武器防具の素村になる。",
-    "Text": "A wing covered in feather.\nUsed as a material for crafting weapons.",
+    "Text": "A large feather covered with plumage.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360173": {
@@ -6436,7 +6436,7 @@
   },
   "360182": {
     "OriginalText": "刃状の爪の破片。\n武器防具の素村になる。",
-    "Text": "A piece of pointed claw.\nUsed as a material for crafting weapons.",
+    "Text": "A piece sharp fang.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360183": {
@@ -6451,7 +6451,7 @@
   },
   "360185": {
     "OriginalText": "軽くて薄い丈夫な羽根。\n武器防具の素村になる。",
-    "Text": "Light and pale but sturdy feather.\nUsed as a material for crafting weapons.",
+    "Text": "Light and thin but sturdy feather.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360186": {
@@ -6476,7 +6476,7 @@
   },
   "360190": {
     "OriginalText": "羽煽に覆われた長い尾羽。\n武器防具の素村になる。",
-    "Text": "Tail-end covered with feathers.\nUsed as a material for crafting weapons.",
+    "Text": "Rectrix covered with plumage.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360191": {
@@ -6531,7 +6531,7 @@
   },
   "360201": {
     "OriginalText": "粘液ながら固まって強い硬度を得た。\n武器防具の素村になる。",
-    "Text": "A thick and potent mucus.\nUsed as a material for crafting weapons.",
+    "Text": "Contains a thick and potent mucus.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360202": {
@@ -6576,8 +6576,8 @@
   },
   "360210": {
     "OriginalText": "噴出された虫。\n武器防具の素村になる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Squirted ink.\nUsed as material for crafting weapons.",
+    "Enabled": true
   },
   "360211": {
     "OriginalText": "大きく頑強な巻き爪の破片。\n武器防具の素村になる。",
@@ -6586,13 +6586,13 @@
   },
   "360212": {
     "OriginalText": "独特な光撃を放つ器官の一部。\n武器防具の素村になる。",
-    "Text": "Peculiar organ that emits light.\nUsed as a material for crafting weapons.",
+    "Text": "Peculiar part of an organ\nthat emits light.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360213": {
     "OriginalText": "丈夫でしなやかなヒレの一部。\n武器防具の素村になる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Part of a strong and flexible fin.\nUsed as a material for crafting weapons.",
+    "Enabled": true
   },
   "360214": {
     "OriginalText": "盃腹構造の柔軟で丈夫な皮の一部。\n武器防具の素村になる。",
@@ -6626,8 +6626,8 @@
   },
   "360220": {
     "OriginalText": "丈夫でしなやかな胸ビレ。\n武器防具の素村になる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Durable and flexible chest fin.\nUsed as a material for crafting weapons.",
+    "Enabled": true
   },
   "360221": {
     "OriginalText": "屈折率の高い硬質レンズ。\n武器防具の素村になる。",
@@ -6671,7 +6671,7 @@
   },
   "360229": {
     "OriginalText": "頑強な硬質伝甲。\n武器防具の素村になる。",
-    "Text": "Hard in-between shell.\nUsed as a material for crafting weapons.",
+    "Text": "Hard armor shell.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360230": {
@@ -6691,12 +6691,12 @@
   },
   "360233": {
     "OriginalText": "蛍乳類系原生種の牙。\n武器防具の素村になる。",
-    "Text": "A fang of a firefly-like native.\nUsed as a material for crafting weapons.",
+    "Text": "A fang of a native specie.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360234": {
     "OriginalText": "蛍乳類系原生種の骨。\n武器防具の素村になる。",
-    "Text": "A bone of a firefly-like native.\nUsed as a material for crafting weapons.",
+    "Text": "A bone of a native specie.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360235": {
@@ -6756,7 +6756,7 @@
   },
   "360246": {
     "OriginalText": "大きく薄くて硬いヒレの一部。\n武器防具の素村になる。",
-    "Text": "Part of a large, solid, and thin fillet.\nUsed as a material for crafting weapons.",
+    "Text": "Part of a large, solid, and thin fin.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360247": {
@@ -6766,12 +6766,12 @@
   },
   "360248": {
     "OriginalText": "細く強ばった直煽。\n武器防具の素村になる。",
-    "Text": "Thin but stiff feather.\nUsed as a material for crafting weapons.",
+    "Text": "Thin and strong straight hair.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360249": {
     "OriginalText": "細く強ばった直煽。\n武器防具の素村になる。",
-    "Text": "Thin but stiff feather.\nUsed as a material for crafting weapons.",
+    "Text": "Thin and strong straight hair.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360250": {
@@ -6781,7 +6781,7 @@
   },
   "360251": {
     "OriginalText": "柔らかな煽が密生し保極性に優れた煽皮。\n武器防具の素村になる。",
-    "Text": "Soft and thick protective skin feather.\nUsed as a material for crafting weapons.",
+    "Text": "Dense fur with soft hair and excellent\npolarity.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360252": {
@@ -6861,7 +6861,7 @@
   },
   "360267": {
     "OriginalText": "太く硬い骨が支える大きな胸ひれ。\n武器防具の素村になる。",
-    "Text": "Large chest that supports a thick and\nhard bone.\nUsed as a material for crafting weapons.",
+    "Text": "Large chest fin that supports a thick\nand hard bone.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360268": {
@@ -6876,7 +6876,7 @@
   },
   "360270": {
     "OriginalText": "蛍乳類系原生種の爪。\n武器防具の素村になる。",
-    "Text": "Claw of a firefly-like native.\nUsed as a material for crafting weapons.",
+    "Text": "Claw of a native specie.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360271": {
@@ -6926,17 +6926,17 @@
   },
   "360280": {
     "OriginalText": "保極性に優れた剛煽の煽皮。\n武器防具の素村になる。",
-    "Text": "A very strong feather protecting a skin.\nUsed as a material for crafting weapons.",
+    "Text": "Bristle fur with excellent polarity.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360281": {
     "OriginalText": "硬い刃状の厚銅ヒレ。\n武器防具の素村になる。",
-    "Text": "Hard and pointed steel fillet.\nUsed as a material for crafting weapons.",
+    "Text": "Hard and pointed steel fin.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360282": {
     "OriginalText": "根本から切り出した硬い刃状の厚銅ヒレ。\n武器防具の素村になる。",
-    "Text": "Root extract of hard and pointed steel\nfillet.\nUsed as a material for crafting weapons.",
+    "Text": "Root extract of hard and pointed steel\nfin.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360283": {
@@ -6981,7 +6981,7 @@
   },
   "360291": {
     "OriginalText": "連結するギガンテスの伝甲。\n武器防具の素村になる。",
-    "Text": "A compound shell of a Gigantes.\nUsed as a material for crafting weapons.",
+    "Text": "An armor shell of a Gigantes.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360292": {
@@ -7041,17 +7041,17 @@
   },
   "360303": {
     "OriginalText": "細く強ばった直煽。\n武器防具の素村になる。",
-    "Text": "A thin but stiff feather.\nUsed as a material for crafting weapons.",
+    "Text": "Thin and strong straight hair.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360304": {
     "OriginalText": "細く強ばった直煽。\n武器防具の素村になる。",
-    "Text": "A thin but stiff feather.\nUsed as a material for crafting weapons.",
+    "Text": "Thin and stiff straight hair.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360305": {
     "OriginalText": "長く太い煽が密生する煽皮。\n武器防具の素村になる。",
-    "Text": "Thickly densed feathered hide.\nUsed as a material for crafting weapons.",
+    "Text": "Fur with long and thick hair.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360306": {
@@ -7061,12 +7061,12 @@
   },
   "360307": {
     "OriginalText": "柔らかな煽が密生し保極性に優れた煽皮。\n武器防具の素村になる。",
-    "Text": "Soft and very thick feathered hide.\nUsed as a material for crafting weapons.",
+    "Text": "Dense fur with soft hair and excellent\npolarity.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360308": {
     "OriginalText": "柔らかな煽が密生し保極性に優れた煽皮。\n武器防具の素村になる。",
-    "Text": "Soft and very thick feathered hide.\nUsed as a material for crafting weapons.",
+    "Text": "Dense fur with soft hair and excellent\npolarity..\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360309": {
@@ -7156,7 +7156,7 @@
   },
   "360326": {
     "OriginalText": "頑強な機械伝甲。\n武器防具の素村になる。",
-    "Text": "Sturdy joint of an in-between shell.\nUsed as a material for crafting weapons.",
+    "Text": "Sturdy mechanical armor shell.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360327": {
@@ -7166,7 +7166,7 @@
   },
   "360328": {
     "OriginalText": "羽煽に覆われた羽。\n武器防具の素村になる。",
-    "Text": "Feather covered wing.\nUsed as a material for crafting weapons.",
+    "Text": "Feather covered with plumage.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360329": {
@@ -7201,7 +7201,7 @@
   },
   "360335": {
     "OriginalText": "長く太い煽が密生する煽皮。\n武器防具の素村になる。",
-    "Text": "Thickly densed feathered hide.\nUsed as a material for crafting weapons.",
+    "Text": "Fur with long and thick hair.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360336": {
@@ -7246,7 +7246,7 @@
   },
   "360344": {
     "OriginalText": "羽煽に覆われた長い尾羽。\n武器防具の素村になる。",
-    "Text": "A feathery long retrix.\nUsed as a material for crafting weapons.",
+    "Text": "Long rectrix covered with plumage.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360345": {
@@ -7301,7 +7301,7 @@
   },
   "360355": {
     "OriginalText": "羽煽に覆われた羽の一部。\n武器防具の素村になる。",
-    "Text": "A part of a wing covered in feather.\nUsed as a material for crafting weapons.",
+    "Text": "Portion of the feather covered with\nplumage.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360356": {
@@ -7311,7 +7311,7 @@
   },
   "360357": {
     "OriginalText": "頑強な機械伝甲。\n武器防具の素村になる。",
-    "Text": "Sturdy joint of an in-between shell.\nUsed as a material for crafting weapons.",
+    "Text": "Sturdy mechanical armor shell.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360358": {
@@ -7346,7 +7346,7 @@
   },
   "360364": {
     "OriginalText": "長い体煽から成る煽皮。\n武器防具の素村になる。",
-    "Text": "Long feathered hide.\nUsed as a material for crafting weapons.",
+    "Text": "Fur with long hair.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360365": {
@@ -7386,12 +7386,12 @@
   },
   "360372": {
     "OriginalText": "角状突起のついた厚銅伝甲。\n武器防具の素村になる。",
-    "Text": "Thick steel shell compound with a horn.\nUsed as a material for crafting weapons.",
+    "Text": "Thick steel armor shell with a horn.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360373": {
     "OriginalText": "保極性に優れた剛煽の煽皮。\n武器防具の素村になる。",
-    "Text": "Very strong feather protecting a hide.\nUsed as a material for crafting weapons.",
+    "Text": "Bristle fur with excellent polarity.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360374": {
@@ -7441,7 +7441,7 @@
   },
   "360383": {
     "OriginalText": "羽煽に覆われた長い尾羽。\n武器防具の素村になる。",
-    "Text": "Long retrix covered in feathers.\nUsed as a material for crafting weapons.",
+    "Text": "Long rectrix covered with plumage.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360384": {
@@ -7481,7 +7481,7 @@
   },
   "360391": {
     "OriginalText": "羽煽に覆われた大きな羽。\n武器防具の素村になる。",
-    "Text": "A wing covered in feather.\nUsed as a material for crafting weapons.",
+    "Text": "Large feather covered with plumage.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360392": {
@@ -7556,7 +7556,7 @@
   },
   "360406": {
     "OriginalText": "角状突起のついた厚銅伝甲。\n武器防具の素村になる。",
-    "Text": "Thick steel compound shell with a horn.\nUsed as a material for crafting weapons.",
+    "Text": "Thick steel armor shell with a horn.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360407": {
@@ -7581,7 +7581,7 @@
   },
   "360411": {
     "OriginalText": "鋭く曲がった黒光りする朽爪。\n武器防具の素村になる。",
-    "Text": "Sharp curved black rotten claw.\nUsed as a material for crafting weapons.",
+    "Text": "Sharp curved black curved claw.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360412": {
@@ -7601,7 +7601,7 @@
   },
   "360415": {
     "OriginalText": "羽煽に覆われた長い尾羽。\n武器防具の素村になる。",
-    "Text": "Long retrix covered in feathers.\nUsed as a material for crafting weapons.",
+    "Text": "Long rectrix covered with plumage.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360416": {
@@ -7651,7 +7651,7 @@
   },
   "360425": {
     "OriginalText": "頑強な硬質伝甲。\n武器防具の素村になる。",
-    "Text": "Hard and sturdy shell compound.\nUsed as a material for crafting weapons.",
+    "Text": "Hard and sturdy armor shell.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360426": {
@@ -7781,7 +7781,7 @@
   },
   "360451": {
     "OriginalText": "保極性に優れた剛煽の煽皮。\n武器防具の素村になる。",
-    "Text": "Skin extremely covered with strong\nfeathers.\nUsed as a material for crafting weapons.",
+    "Text": "Bristle fur with excellent polarity.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360452": {
@@ -7806,7 +7806,7 @@
   },
   "360456": {
     "OriginalText": "角状突起のついた厚銅伝甲。\n武器防具の素村になる。",
-    "Text": "Thick steel shell compound with a horn.\nUsed as a material for crafting weapons.",
+    "Text": "Thick steel armor shell with a horn.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360457": {
@@ -7816,7 +7816,7 @@
   },
   "360458": {
     "OriginalText": "高強度加工された軽量銅の尾羽。\n武器防具の素村になる。",
-    "Text": "Strong and light steel retrix.\nUsed as a material for crafting weapons.",
+    "Text": "Strong and light steel rectrix.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360459": {
@@ -7891,7 +7891,7 @@
   },
   "360473": {
     "OriginalText": "抵抗を抑え体勢を制御する真紅のヒレ。\n武器防具の素村になる。",
-    "Text": "A crimson fillet that has a controlled\nresistance.\nUsed as a material for crafting weapons.",
+    "Text": "A crimson fin that has a controlled\nresistance.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360474": {
@@ -7962,11 +7962,11 @@
   "360487": {
     "OriginalText": "巨大な躯体を支える大型杭。\n武器防具の素村になる。",
     "Text": "Large spike that supports a huge\nskeleton.\nUsed as a material for crafting weapons.",
-    "Enabled": false
+    "Enabled": true
   },
   "360488": {
     "OriginalText": "丈夫で大きなヒレ。\n武器防具の素村になる。",
-    "Text": "Sturdy and large fillet.\nUsed as a material for crafting weapons.",
+    "Text": "Sturdy and large fin.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360489": {
@@ -8006,7 +8006,7 @@
   },
   "360496": {
     "OriginalText": "連結するギガンテスの伝甲。\n武器防具の素村になる。",
-    "Text": "A Gigantes shell compound.\nUsed as a material for crafting weapons.",
+    "Text": "A Gigantes armor shell.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360497": {
@@ -8041,7 +8041,7 @@
   },
   "360503": {
     "OriginalText": "柔らかな煽が密生し保極性に優れた\n大きな煽皮。\n武器防具の素村になる。",
-    "Text": "Large skin with a protective soft and\nvery thick feathers.\nUsed as a material for crafting weapons.",
+    "Text": "Large dense fur with soft hair and\nexcellent polarity.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360504": {
@@ -8066,7 +8066,7 @@
   },
   "360508": {
     "OriginalText": "保極性に優れた剛煽の煽皮。\n武器防具の素村になる。",
-    "Text": "Skin protected by a very hard feathers.\nUsed as a material for crafting weapons.",
+    "Text": "Bristle fur with excellent polarity.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360509": {
@@ -8106,7 +8106,7 @@
   },
   "360516": {
     "OriginalText": "角状突起のついた厚銅伝甲。\n武器防具の素村になる。",
-    "Text": "Thick steel shell compound with a horn.\nUsed as a material for crafting weapons.",
+    "Text": "Thick steel armor shell with a horn.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360517": {
@@ -8286,7 +8286,7 @@
   },
   "360552": {
     "OriginalText": "高強度加工された軽量銅の尾羽。\n武器防具の素村になる。",
-    "Text": "Very strong and light steel retrix.\nUsed as a material for crafting weapons.",
+    "Text": "Very strong and light steel rectrix.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360553": {
@@ -8331,7 +8331,7 @@
   },
   "360561": {
     "OriginalText": "抵抗を抑え体勢を制御する真紅のヒレ。\n武器防具の素村になる。",
-    "Text": "A crimson fillet that has a controlled\nresistance.\nUsed as a material for crafting weapons.",
+    "Text": "A crimson fin that has a controlled\nresistance.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360562": {
@@ -8361,7 +8361,7 @@
   },
   "360567": {
     "OriginalText": "固い伝甲の内側にある新鮮な肉片。\n武器防具の素村になる。",
-    "Text": "Fresh meat inside a hard in-between\nshell.\nUsed as a material for crafting weapons.",
+    "Text": "Fresh meat inside a hard armor shell.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360568": {
@@ -8451,12 +8451,12 @@
   },
   "360585": {
     "OriginalText": "羽煽に覆われた羽。\n武器防具の素村になる。",
-    "Text": "A hide covered in feathers.\nUsed as a material for crafting weapons.",
+    "Text": "Feather covered with plumage.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360586": {
     "OriginalText": "頑強な機械伝甲。\n武器防具の素村になる。",
-    "Text": "Sturdy mechanical shell compound.\nUsed as a material for crafting weapons.",
+    "Text": "Sturdy mechanical armor shell.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360587": {
@@ -8526,7 +8526,7 @@
   },
   "360600": {
     "OriginalText": "蛍乳類系原生種の大きく\nしなやかなしっぽ。\n武器防具の素村になる。",
-    "Text": "Large flexible tail of a firefly-like\nnative.\nUsed as a material for crafting weapons.",
+    "Text": "Large flexible tail of a native specie.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360601": {
@@ -8576,7 +8576,7 @@
   },
   "360610": {
     "OriginalText": "堅牢な黒脚甲。\n武器防具の素村になる。",
-    "Text": "Hard black leg shell.\nUsed as a material for crafting weapons.",
+    "Text": "Hard black-shelled leg.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360611": {
@@ -8596,7 +8596,7 @@
   },
   "360614": {
     "OriginalText": "長い体煽から成る煽皮。\n武器防具の素村になる。",
-    "Text": "A feathered hide from a long body.\nUsed as a material for crafting weapons.",
+    "Text": "Fur with long hair.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360615": {
@@ -8636,17 +8636,17 @@
   },
   "360622": {
     "OriginalText": "細く強ばった直煽。\n武器防具の素村になる。",
-    "Text": "A thin but stiff feather.\nUsed as a material for crafting weapons.",
+    "Text": "Thin and stiff straight hair.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360623": {
     "OriginalText": "細く強ばった直煽。\n武器防具の素村になる。",
-    "Text": "A thin but stiff feather.\nUsed as a material for crafting weapons.",
+    "Text": "Thin and stiff straight hair.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360624": {
     "OriginalText": "長く太い煽が密生する煽皮。\n武器防具の素村になる。",
-    "Text": "Thickly densed feathered hide.\nUsed as a material for crafting weapons.",
+    "Text": "Fur with long and thick hair.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360625": {
@@ -8676,7 +8676,7 @@
   },
   "360630": {
     "OriginalText": "保極性に優れた剛煽の煽皮。\n武器防具の素村になる。",
-    "Text": "Skin protected by a very strong\nfeathers.\nUsed as a material for crafting weapons.",
+    "Text": "Bristle fur with excellent polarity.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360631": {
@@ -8711,17 +8711,17 @@
   },
   "360637": {
     "OriginalText": "硬く鋭利な角状のたてがみ。\n武器防具の素村になる。",
-    "Text": "Hard and sharp hornlike mane.\nUsed as a material for crafting weapons.",
+    "Text": "Hard and sharp hornlike hair.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360638": {
     "OriginalText": "角状突起のついた厚銅伝甲。\n武器防具の素村になる。",
-    "Text": "Thick steel shell\ncompound with a horn.\nUsed as a material for crafting weapons.",
+    "Text": "Thick steel armor shell with a horn.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360639": {
     "OriginalText": "高強度加工された軽量銅の尾羽。\n武器防具の素村になる。",
-    "Text": "Very strong and light steel retrix.\nUsed as a material for crafting weapons.",
+    "Text": "Very strong and light steel rectrix.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360640": {
@@ -8751,7 +8751,7 @@
   },
   "360645": {
     "OriginalText": "硬い甲殻に覆われ鋭い朽爪のついた脚。\n武器防具の素村になる。",
-    "Text": "Hard shell attached to a leg that covers\nthe sharp rotten claw.\nUsed as a material for crafting weapons.",
+    "Text": "Hard shell attached to a leg that covers\nthe sharp curved claw.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360646": {
@@ -8881,7 +8881,7 @@
   },
   "360671": {
     "OriginalText": "羽煽に覆われた長い尾羽。\n武器防具の素村になる。",
-    "Text": "Long retrix covered in feathers.\nUsed as a material for crafting weapons.",
+    "Text": "Long rectrix covered with plumage.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360672": {
@@ -9151,7 +9151,7 @@
   },
   "360725": {
     "OriginalText": "炎の高地を形成する岩石。\n一般的な武器防具の素村として利用される。",
-    "Text": "Rock formed in Flamd Highlands.\nProcessed common material used for\ncrafting weapons.",
+    "Text": "Rock formed in Flame Highlands.\nProcessed common material used for\ncrafting weapons.",
     "Enabled": true
   },
   "360726": {
@@ -9331,7 +9331,7 @@
   },
   "360761": {
     "OriginalText": "硬くともしなやかで鋭利なたてがみ。\n武器防具の素村になる。",
-    "Text": "Hard, flexible, and sharp mane.\nUsed as a material for crafting weapons.",
+    "Text": "Hard, flexible, and sharp hair.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360762": {
@@ -9371,32 +9371,32 @@
   },
   "360769": {
     "OriginalText": "太く長くしなやかで鋭利なたてがみ。\n武器防具の素村になる。",
-    "Text": "Great thick, flexible, and sharp mane.\nUsed as a material for crafting weapons.",
+    "Text": "Great thick, flexible, and sharp hair.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360770": {
     "OriginalText": "太く長くしなやかで鋭利なたてがみ。\n武器防具の素村になる。",
-    "Text": "Great thick, flexible, and sharp mane.\nUsed as a material for crafting weapons.",
+    "Text": "Great thick, flexible, and sharp hair.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360771": {
     "OriginalText": "細く強ばった特に長めの直煽。\n武器防具の素村になる。",
-    "Text": "Unique thin, stiff, and long feather.\nUsed as a material for crafting weapons.",
+    "Text": "Thin and strong, unique and long\nstraight hair.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360772": {
     "OriginalText": "細く強ばった特に長めの直煽。\n武器防具の素村になる。",
-    "Text": "Unique thin, stiff, and lomg feather.\nUsed as a material for crafting weapons.",
+    "Text": "Unique thin, stiff, and long hair.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360773": {
     "OriginalText": "特に長く太い剛煽が密生する煽皮。\n武器防具の素村になる。",
-    "Text": "Unique densed skin with a thick and\nhard feather.\nUsed as a material for crafting weapons.",
+    "Text": "Unique fur with long and thick bristles.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360774": {
     "OriginalText": "特に長く太い剛煽が密生する煽皮。\n武器防具の素村になる。",
-    "Text": "Unique densed skin with a thick and\nhard feather.\nUsed as a material for crafting weapons.",
+    "Text": "Unique fur with long and thick bristles.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360775": {
@@ -9506,22 +9506,22 @@
   },
   "360796": {
     "OriginalText": "美しく大きな羽を形成する冷軽量の羽煽。\n武器防具の素村になる。",
-    "Text": "Light skin formed by a beautiful large\nfeathers.\nUsed as a material for crafting weapons.",
+    "Text": "Ultra light and beautiful feathers that\nforms a plumage.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360797": {
     "OriginalText": "美しく大きな羽を形成する冷軽量の羽煽。\n武器防具の素村になる。",
-    "Text": "Light skin formed by a beautiful large\nfeathers.\nUsed as a material for crafting weapons.",
+    "Text": "Ultra light and beautiful feathers that\nforms a plumage.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360798": {
     "OriginalText": "美しく大きな羽を形成する冷軽量の羽煽。\n武器防具の素村になる。",
-    "Text": "Light skin formed by a beautiful large\nfeathers.\nUsed as a material for crafting weapons.",
+    "Text": "Ultra light and beautiful feathers that\nforms a plumage.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360799": {
     "OriginalText": "美しく大きな羽を形成する冷軽量の羽煽。\n武器防具の素村になる。",
-    "Text": "Light skin formed by a beautiful large\nfeathers.\nUsed as a material for crafting weapons.",
+    "Text": "Ultra light and beautiful feathers that\nforms a plumage.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360800": {
@@ -10051,7 +10051,7 @@
   },
   "360905": {
     "OriginalText": "冷良のスパイス。\n惑星全域で採取される。",
-    "Text": "A good cold spice.\nCollected throughout the planet.",
+    "Text": "An ultra good spice.\nCan be collected throughout the planet.",
     "Enabled": true
   },
   "360906": {
@@ -10281,612 +10281,612 @@
   },
   "360951": {
     "OriginalText": "冷めて硬い甲殻に覆われた脚。\n武器防具の素村になる。",
-    "Text": "Leg covered in cold hard shell.\nUsed as a material for crafting weapons.",
+    "Text": "Leg covered in ultra hard shell.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360952": {
     "OriginalText": "尖鋭で冷めて殺傷力の高い角質を持った爪。\n武器防具の素村になる。",
-    "Text": "Sharp, cold, and very lethal claw.\nUsed as a material for crafting weapons.",
+    "Text": "Ultra sharp and very lethal claw.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360953": {
     "OriginalText": "尖鋭で冷めて殺傷力の高い角質を持った爪。\n武器防具の素村になる。",
-    "Text": "Sharp, cold, and very lethal claw.\nUsed as a material for crafting weapons.",
+    "Text": "Ultra sharp and very lethal claw.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360954": {
     "OriginalText": "冷めて鋭利な節が弓なりに連なる触角。\n武器防具の素村になる。",
-    "Text": "Cold and sharp arc-shaped antenna.\nUsed as a material for crafting weapons.",
+    "Text": "Ultra sharp arc-shaped antenna.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360955": {
     "OriginalText": "硬甲殻の腕と一体化した冷めて鋭利な刃。\n武器防具の素村になる。",
-    "Text": "Cold and sharp blade of an arm with a\nhard shell.\nUsed as a material for crafting weapons.",
+    "Text": "Ultra sharp blade of an arm with a\nhard shell.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360956": {
     "OriginalText": "冷めて鋭く曲がった黒光りする朽爪。\n武器防具の素村になる。",
-    "Text": "Cold, sharp, and curved black rotten\nclaw.\nUsed as a material for crafting weapons.",
+    "Text": "Prime sharp and curved black curved\nclaw.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360957": {
     "OriginalText": "攻撃を弾き頑強で冷めて伝甲の厚い甲羅。\n武器防具の素村になる。",
-    "Text": "Thick shell with a cold compound that\ncan repel attacks.\nUsed as a material for crafting weapons.",
+    "Text": "Prime thick armor shell that\ncan repel attacks.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360958": {
     "OriginalText": "冷めて硬く大きく細長い歯。\n武器防具の素村になる。",
-    "Text": "Cold, hard, and large long tooth.\nUsed as a material for crafting weapons.",
+    "Text": "Ultra hard and large long tooth.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360959": {
     "OriginalText": "右腕と一体化した冷めて肉厚な甲殻盾。\n武器防具の素村になる。",
-    "Text": "Cold and thick right-arm shield.\nUsed as a material for crafting weapons.",
+    "Text": "Ultra thick right-arm shield.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360960": {
     "OriginalText": "左腕と一体化した冷めて肉厚な甲殻盾。\n武器防具の素村になる。",
-    "Text": "Cold and thick left-arm shield \nUsed as a material for crafting weapons.",
+    "Text": "Ultra thick left-arm shield \nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360961": {
     "OriginalText": "硬くともしなやかで冷めて鋭利なたてがみ。\n武器防具の素村になる。",
-    "Text": "Hard and flexible cold sharp mane.\nUsed as a material for crafting weapons. ",
+    "Text": "Ultra sharp, hard and flexible hair.\nUsed as a material for crafting weapons. ",
     "Enabled": true
   },
   "360962": {
     "OriginalText": "表面が冷めて硬く内部が軟らかな眼球。\n武器防具の素村になる。",
-    "Text": "Soft eyeball with a cold and hard inner\nsurface.\nUsed as a material for crafting weapons.",
+    "Text": "Ultra soft eyeball with a hard inner\nsurface.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360963": {
     "OriginalText": "冷めて厚く硬い星形の巨大な甲羅。\n武器防具の素村になる。",
-    "Text": "Cold, thick, and hard star-shaped huge\nshell.\nUsed as a material for crafting weapons.",
+    "Text": "Ultra thick and hard star-shaped huge\nshell.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360964": {
     "OriginalText": "冷めて強い力を秘めた発光球体。\n武器防具の素村となる。",
-    "Text": "Cold reactive luminous orb.\nUsed as a material for crafting weapons.",
+    "Text": "Ultra reactive luminous orb.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360965": {
     "OriginalText": "冷めて強い力を秘めた発光球体。\n武器防具の素村となる。",
-    "Text": "Cold reactive luminous orb.\nUsed as a material for crafting weapons.",
+    "Text": "Ultra reactive luminous orb.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360966": {
     "OriginalText": "薄くとも冷めて丈夫で剛強な翼。\n武器防具の素村になる。",
-    "Text": "Thin, cold, sturdy, and firm wing.\nUsed as a material for crafting weapons.",
+    "Text": "Ultra thin, sturdy, and firm wing.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360967": {
     "OriginalText": "薄くとも冷めて丈夫で剛強な翼。\n武器防具の素村になる。",
-    "Text": "Thin, cold, sturdy, and firm wing.\nUsed as a material for crafting weapons.",
+    "Text": "Ultra thin, sturdy, and firm wing.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360968": {
     "OriginalText": "冷めて硬く鋭利な槍先状の角。\n武器防具の素村になる。",
-    "Text": "Cold, hard, and sharp spear-like horn.\nUsed as a material for crafting weapons.",
+    "Text": "Ultra hard and sharp spear-like horn.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360969": {
     "OriginalText": "太く長くしなやかで冷めて鋭利なたてがみ。\n武器防具の素村になる。",
-    "Text": "Cold, thick, and flexible great sharp\nmane.\nUsed as a material for crafting weapons.",
+    "Text": "Ultra thick, and flexible great sharp\nhair.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360970": {
     "OriginalText": "太く長くしなやかで冷めて鋭利なたてがみ。\n武器防具の素村になる。",
-    "Text": "Cold, thick, and flexible great sharp\nmane.\nUsed as a material for crafting weapons.",
+    "Text": "Ultra thick, and flexible great sharp\nhair.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360971": {
     "OriginalText": "冷めて細長くまっすぐに尖った牙。\n武器防具の素村になる。",
-    "Text": "Cold, thin, and straight great sharp\nfang.\nUsed as a material for crafting weapons.",
+    "Text": "Ultra thin, and straight great sharp\nfang.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360972": {
     "OriginalText": "冷めて細長くまっすぐに尖った牙。\n武器防具の素村になる。",
-    "Text": "Cold, thin, and straight great sharp\nfang.\nUsed as a material for crafting weapons.",
+    "Text": "Ultra thin, and straight great sharp\nfang.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360973": {
     "OriginalText": "冷めて長く太い剛煽が密生する煽皮。\n武器防具の素村になる。",
-    "Text": "Cold densed skin with a thick and\nhard feather.\nUsed as a material for crafting weapons.",
+    "Text": "Ultra fur with long and thick bristles.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360974": {
     "OriginalText": "冷めて長く太い剛煽が密生する煽皮。\n武器防具の素村になる。",
-    "Text": "Cold densed skin with a thick and\nhard feather.\nUsed as a material for crafting weapons.",
+    "Text": "Ultra fur with long and thick bristles.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360975": {
     "OriginalText": "太く小さくも冷めて鋭利な爪。\n武器防具の素村になる。",
-    "Text": "Plump and small cold sharp claw.\nUsed as a material for crafting weapons.",
+    "Text": "Ultra plump and small sharp claw.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360976": {
     "OriginalText": "太く小さくも冷めて鋭利な爪。\n武器防具の素村になる。",
-    "Text": "Plump and small cold sharp claw.\nUsed as a material for crafting weapons.",
+    "Text": "Ultra plump and small sharp claw.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360977": {
     "OriginalText": "大きくて冷めて鋭利な刃状の頭角。\n武器防具の素村になる。",
-    "Text": "Large and cold sharp-edged horn.\nUsed as a material for crafting weapons.",
+    "Text": "Ultra large and sharp-edged horn.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360978": {
     "OriginalText": "大きくて冷めて鋭利な刃状の頭角。\n武器防具の素村になる。",
-    "Text": "Large and cold sharp-edged horn.\nUsed as a material for crafting weapons.",
+    "Text": "Ultra large and sharp-edged horn.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360979": {
     "OriginalText": "冷めて軽く柔らかな羽煽から成る羽。\n武器防具の素村になる。",
-    "Text": "Light and soft cold feather.\nUsed as a material for crafting weapons.",
+    "Text": "Ultra plumage consisting of light and\nsoft feathers.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360980": {
     "OriginalText": "冷めて軽く柔らかな羽煽から成る羽。\n武器防具の素村になる。",
-    "Text": "Light and soft cold feather.\nUsed as a material for crafting weapons.",
+    "Text": "Ultra plumage consisting of light and\nsoft feathers.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360981": {
     "OriginalText": "冷めて軽く柔らかな羽煽から成る羽。\n武器防具の素村になる。",
-    "Text": "Light and soft cold feather.\nUsed as a material for crafting weapons.",
+    "Text": "Ultra plumage consisting of light and\nsoft feathers.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360982": {
     "OriginalText": "冷めて破壊力の高い軽量の機銃。\n武器防具の素村になる。",
-    "Text": "Very destructive cold light machine gun.\nUsed as a material for crafting weapons.",
+    "Text": "Ultra destructive light machine gun.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360983": {
     "OriginalText": "冷めて破壊力の高い軽量の機銃。\n武器防具の素村になる。",
-    "Text": "Very destructive cold light machine gun.\nUsed as a material for crafting weapons.",
+    "Text": "Ultra destructive light machine gun.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360984": {
     "OriginalText": "冷めて破壊力の高い軽量の機銃。\n武器防具の素村になる。",
-    "Text": "Very destructive cold light machine gun.\nUsed as a material for crafting weapons.",
+    "Text": "Ultra destructive light machine gun.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360985": {
     "OriginalText": "冷めて高硬度、高強度な小型チェーンソーの刃。\n武器防具の素村になる。",
-    "Text": "Very hard and very strong cold small\nchainsaw blade.\nUsed as a material for crafting weapons.",
+    "Text": "Ultra hard and strong small\nchainsaw blade.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360986": {
     "OriginalText": "冷めて高硬度、高強度な小型チェーンソーの刃。\n武器防具の素村になる。",
-    "Text": "Very hard and very strong cold small\nchainsaw blade.\nUsed as a material for crafting weapons.",
+    "Text": "Ultra hard and strong small\nchainsaw blade.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360987": {
     "OriginalText": "冷めて高硬度、高強度な小型チェーンソーの刃。\n武器防具の素村になる。",
-    "Text": "Very hard and very strong cold small\nchainsaw blade.\nUsed as a material for crafting weapons.",
+    "Text": "Ultra hard and strong small\nchainsaw blade.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360988": {
     "OriginalText": "冷めて硬く鋭利な背びれ。\n武器防具の素村になる。",
-    "Text": "Hard and sharp cold dorsal fin \nUsed as a material for crafting weapons.",
+    "Text": "Ultra hard and sharp dorsal fin.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360989": {
     "OriginalText": "冷めて硬く鋭利な背びれ。\n武器防具の素村になる。",
-    "Text": "Hard and sharp cold dorsal fin \nUsed as a material for crafting weapons.",
+    "Text": "Ultra hard and sharp dorsal fin.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360990": {
     "OriginalText": "冷めて硬く鋭利な背びれ。\n武器防具の素村になる。",
-    "Text": "Hard and sharp cold dorsal fin \nUsed as a material for crafting weapons.",
+    "Text": "Ultra hard and sharp dorsal fin.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360991": {
     "OriginalText": "冷めて硬く鋭利な背びれ。\n武器防具の素村になる。",
-    "Text": "Hard and sharp cold dorsal fin \nUsed as a material for crafting weapons.",
+    "Text": "Ultra hard and sharp dorsal fin.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360992": {
     "OriginalText": "冷めて太く大きく鋭利なかぎ爪。\n武器防具の素村になる。",
-    "Text": "Plump and large cold sharp claw.\nUsed as a material for crafting weapons.",
+    "Text": "Ultra plump, large, and sharp claw.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360993": {
     "OriginalText": "冷めて太く大きく鋭利なかぎ爪。\n武器防具の素村になる。",
-    "Text": "Plump and large cold sharp claw.\nUsed as a material for crafting weapons.",
+    "Text": "Ultra plump, large, and sharp claw.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360994": {
     "OriginalText": "冷めて太く大きく鋭利なかぎ爪。\n武器防具の素村になる。",
-    "Text": "Plump and large cold sharp claw.\nUsed as a material for crafting weapons.",
+    "Text": "Ultra plump, large, and sharp claw.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360995": {
     "OriginalText": "冷めて太く大きく鋭利なかぎ爪。\n武器防具の素村になる。",
-    "Text": "Plump and large cold sharp claw.\nUsed as a material for crafting weapons.",
+    "Text": "Ultra plump, large, and sharp claw.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360996": {
     "OriginalText": "美しく大きな羽を形成する超冷軽量の羽煽。\n武器防具の素村になる。",
-    "Text": "Cold ultra-light feather that forms a\nbeautiful big feather.\nUsed as a material for crafting weapons.",
+    "Text": "Ultra large, light and beautiful\nfeathers that forms a plumage.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360997": {
     "OriginalText": "美しく大きな羽を形成する超冷軽量の羽煽。\n武器防具の素村になる。",
-    "Text": "Cold ultra-light feather that forms a\nbeautiful big feather.\nUsed as a material for crafting weapons.",
+    "Text": "Ultra large, light and beautiful\nfeathers that forms a plumage.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360998": {
     "OriginalText": "美しく大きな羽を形成する超冷軽量の羽煽。\n武器防具の素村になる。",
-    "Text": "Cold ultra-light feather that forms a\nbeautiful big feather.\nUsed as a material for crafting weapons.",
+    "Text": "Ultra large, light and beautiful\nfeathers that forms a plumage.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360999": {
     "OriginalText": "美しく大きな羽を形成する超冷軽量の羽煽。\n武器防具の素村になる。",
-    "Text": "Cold ultra-light feather that forms a\nbeautiful big feather.\nUsed as a material for crafting weapons.",
+    "Text": "Ultra large, light and beautiful\nfeathers that forms a plumage.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361000": {
     "OriginalText": "冷めて硬く鋭い針。\n武器防具の素村になる。",
-    "Text": "Hard and sharp cold needle.\nUsed as a material for crafting weapons.",
+    "Text": "Ultra hard and sharp needle.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361001": {
     "OriginalText": "冷めて硬く鋭い針。\n武器防具の素村になる。",
-    "Text": "Hard and sharp cold needle.\nUsed as a material for crafting weapons.",
+    "Text": "Ultra hard and sharp needle.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361002": {
     "OriginalText": "冷めて硬く鋭い針。\n武器防具の素村になる。",
-    "Text": "Hard and sharp cold needle.\nUsed as a material for crafting weapons.",
+    "Text": "Ultra hard and sharp needle.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361003": {
     "OriginalText": "冷めて硬く鋭い針。\n武器防具の素村になる。",
-    "Text": "Hard and sharp cold needle.\nUsed as a material for crafting weapons.",
+    "Text": "Ultra hard and sharp needle.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361004": {
     "OriginalText": "小型だが高硬度で冷めて丈夫な甲羅。\n武器防具の素村になる。",
-    "Text": "Small but very hard cold sturdy shell.\nUsed as a material for crafting weapons.",
+    "Text": "Small but ultra hard sturdy shell.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361005": {
     "OriginalText": "小型だが高硬度で冷めて丈夫な甲羅。\n武器防具の素村になる。",
-    "Text": "Small but very hard cold sturdy shell.\nUsed as a material for crafting weapons.",
+    "Text": "Small but ultra hard sturdy shell.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361006": {
     "OriginalText": "小型だが高硬度で冷めて丈夫な甲羅。\n武器防具の素村になる。",
-    "Text": "Small but very hard cold sturdy shell.\nUsed as a material for crafting weapons.",
+    "Text": "Small but ultra hard sturdy shell.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361007": {
     "OriginalText": "小型だが高硬度で冷めて丈夫な甲羅。\n武器防具の素村になる。",
-    "Text": "Small but very hard cold sturdy shell.\nUsed as a material for crafting weapons.",
+    "Text": "Small but ultra hard sturdy shell.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361008": {
     "OriginalText": "冷めて豊かな体煽に覆われた２本の苔尾。\n武器防具の素村になる。",
-    "Text": "Cold mossed twintail that has a rich\nbuild.\nUsed as a material for crafting weapons.",
+    "Text": "Ultra mossed twintail that has a rich\nbuild.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361009": {
     "OriginalText": "冷めて豊かな体煽に覆われた２本の苔尾。\n武器防具の素村になる。",
-    "Text": "Cold mossed twintail that has a rich\nbuild.\nUsed as a material for crafting weapons.",
+    "Text": "Ultra mossed twintail that has a rich\nbuild.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361010": {
     "OriginalText": "冷めて豊かな体煽に覆われた２本の苔尾。\n武器防具の素村になる。",
-    "Text": "Cold mossed twintail that has a rich\nbuild.\nUsed as a material for crafting weapons.",
+    "Text": "Ultra mossed twintail that has a rich\nbuild.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361011": {
     "OriginalText": "冷めて豊かな体煽に覆われた２本の苔尾。\n武器防具の素村になる。",
-    "Text": "Cold mossed twintail that has a rich\nbuild.\nUsed as a material for crafting weapons.",
+    "Text": "Ultra mossed twintail that has a rich\nbuild.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361012": {
     "OriginalText": "冷めて豊かな体煽に覆われた２本の苔尾。\n武器防具の素村になる。",
-    "Text": "Cold mossed twintail that has a rich\nbuild.\nUsed as a material for crafting weapons.",
+    "Text": "Ultra mossed twintail that has a rich\nbuild.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361013": {
     "OriginalText": "冷めて硬く鋭利な冷細の針。\n武器防具の素村になる。",
-    "Text": "Hard and sharp cold thin needle.\nUsed as a material for crafting weapons.",
+    "Text": "Ultra hard and sharp thin needle.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361014": {
     "OriginalText": "冷めて硬く鋭利な冷細の針。\n武器防具の素村になる。",
-    "Text": "Hard and sharp cold thin needle.\nUsed as a material for crafting weapons.",
+    "Text": "Ultra hard and sharp thin needle.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361015": {
     "OriginalText": "冷めて硬く鋭利な冷細の針。\n武器防具の素村になる。",
-    "Text": "Hard and sharp cold thin needle.\nUsed as a material for crafting weapons.",
+    "Text": "Ultra hard and sharp thin needle.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361016": {
     "OriginalText": "冷めて硬く鋭利な冷細の針。\n武器防具の素村になる。",
-    "Text": "Hard and sharp cold thin needle.\nUsed as a material for crafting weapons.",
+    "Text": "Ultra hard and sharp thin needle.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361017": {
     "OriginalText": "角質化した岩状の冷めて硬く大きなコブ。\n武器防具の素村になる。",
-    "Text": "Keratinized rock-like hard and large\ncold bump.\nUsed as a material for crafting weapons.",
+    "Text": "Keratinized rock-like ultra hard and\nlarge bump.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361018": {
     "OriginalText": "角質化した岩状の冷めて硬く大きなコブ。\n武器防具の素村になる。",
-    "Text": "Keratinized rock-like hard and large\ncold bump.\nUsed as a material for crafting weapons.",
+    "Text": "Keratinized rock-like ultra hard and\nlarge bump.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361019": {
     "OriginalText": "角質化した岩状の冷めて硬く大きなコブ。\n武器防具の素村になる。",
-    "Text": "Keratinized rock-like hard and large\ncold bump.\nUsed as a material for crafting weapons.",
+    "Text": "Keratinized rock-like ultra hard and\nlarge bump.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361020": {
     "OriginalText": "冷めて破壊力のある大口鉄の銃身。\n武器防具の素村になる。",
-    "Text": "Destructive cold iron gun barrel with\na large muzzle.\nUsed as a material for crafting weapons.",
+    "Text": "Ultra destructive iron gun barrel with\na large muzzle.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361021": {
     "OriginalText": "冷めて破壊力のある大口鉄の銃身。\n武器防具の素村になる。",
-    "Text": "Destructive cold iron gun barrel with\na large muzzle.\nUsed as a material for crafting weapons.",
+    "Text": "Ultra destructive iron gun barrel with\na large muzzle.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361022": {
     "OriginalText": "冷めて破壊力のある大口鉄の銃身。\n武器防具の素村になる。",
-    "Text": "Destructive cold iron gun barrel with\na large muzzle.\nUsed as a material for crafting weapons.",
+    "Text": "Ultra destructive iron gun barrel with\na large muzzle.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361023": {
     "OriginalText": "冷めて破壊力のある大口鉄の銃身。\n武器防具の素村になる。",
-    "Text": "Destructive cold iron gun barrel with\na large muzzle.\nUsed as a material for crafting weapons.",
+    "Text": "Ultra destructive iron gun barrel with\na large muzzle.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361024": {
     "OriginalText": "角状突起のついた冷めて頑強な銅盾。\n武器防具の素村になる。",
-    "Text": "Sturdy cold steel shield with a horn.\nUsed as a material for crafting weapons.",
+    "Text": "Ultra sturdy steel shield with a horn.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361025": {
     "OriginalText": "角状突起のついた冷めて頑強な銅盾。\n武器防具の素村になる。",
-    "Text": "Sturdy cold steel shield with a horn.\nUsed as a material for crafting weapons.",
+    "Text": "Ultra sturdy steel shield with a horn.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361026": {
     "OriginalText": "角状突起のついた冷めて頑強な銅盾。\n武器防具の素村になる。",
-    "Text": "Sturdy cold steel shield with a horn.\nUsed as a material for crafting weapons.",
+    "Text": "Ultra sturdy steel shield with a horn.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361027": {
     "OriginalText": "角状突起のついた冷めて頑強な銅盾。\n武器防具の素村になる。",
-    "Text": "Sturdy cold steel shield with a horn.\nUsed as a material for crafting weapons.",
+    "Text": "Ultra sturdy steel shield with a horn.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361028": {
     "OriginalText": "硬くしなやかで冷めて丈夫なヒレ。\n武器防具の素村になる。",
-    "Text": "Hard and flexible cold sturdy fin.\nUsed as a material for crafting weapons.",
+    "Text": "Ultra hard and flexible sturdy fin.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361029": {
     "OriginalText": "硬くしなやかで冷めて丈夫なヒレ。\n武器防具の素村になる。",
-    "Text": "Hard and flexible cold sturdy fin.\nUsed as a material for crafting weapons.",
+    "Text": "Ultra hard and flexible sturdy fin.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361030": {
     "OriginalText": "硬くしなやかで冷めて丈夫なヒレ。\n武器防具の素村になる。",
-    "Text": "Hard and flexible cold sturdy fin.\nUsed as a material for crafting weapons.",
+    "Text": "Ultra hard and flexible sturdy fin.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361031": {
     "OriginalText": "冷めて柔らかな保極性に優れた煽皮。\n武器防具の素村になる。",
-    "Text": "Soft and very protective cold great\nfeathered skin.\nUsed as a material for crafting weapons.",
+    "Text": "Ultra soft fur with excellent polarity.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361032": {
     "OriginalText": "冷めて柔らかな保極性に優れた煽皮。\n武器防具の素村になる。",
-    "Text": "Soft and very protective cold great\nfeathered skin.\nUsed as a material for crafting weapons.",
+    "Text": "Ultra soft fur with excellent polarity.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361033": {
     "OriginalText": "冷めて柔らかな保極性に優れた煽皮。\n武器防具の素村になる。",
-    "Text": "Soft and very protective cold great\nfeathered skin.\nUsed as a material for crafting weapons.",
+    "Text": "Ultra soft fur with excellent polarity.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361034": {
     "OriginalText": "冷めて柔らかな保極性に優れた煽皮。\n武器防具の素村になる。",
-    "Text": "Soft and very protective cold great\nfeathered skin.\nUsed as a material for crafting weapons.",
+    "Text": "Ultra soft fur with excellent polarity.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361035": {
     "OriginalText": "冷めて硬く鋭利な爪。\n武器防具の素村になる。",
-    "Text": "Hard and sharp cold claw.\nUsed as a material for crafting weapons.",
+    "Text": "Ultra hard and sharp claw.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361036": {
     "OriginalText": "冷めて硬く鋭利な爪。\n武器防具の素村になる。",
-    "Text": "Hard and sharp cold claw.\nUsed as a material for crafting weapons.",
+    "Text": "Ultra hard and sharp claw.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361037": {
     "OriginalText": "冷めて硬く鋭利な爪。\n武器防具の素村になる。",
-    "Text": "Hard and sharp cold claw.\nUsed as a material for crafting weapons.",
+    "Text": "Ultra hard and sharp claw.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361038": {
     "OriginalText": "冷めて固い枝に覆われた大きな眼球。\n武器防具の素村になる。",
-    "Text": "Cold large eyeball covered by a hard\nmembrane.\nUsed as a material for crafting weapons.",
+    "Text": "Ultra large eyeball covered by a hard\nmembrane.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361039": {
     "OriginalText": "冷めて固い枝に覆われた大きな眼球。\n武器防具の素村になる。",
-    "Text": "Cold large eyeball covered by a hard\nmembrane.\nUsed as a material for crafting weapons.",
+    "Text": "Ultra large eyeball covered by a hard\nmembrane.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361040": {
     "OriginalText": "冷めて長く硬く尖った角。\n武器防具の素村になる。",
-    "Text": "Hard and sharp cold great horn.\nUsed as a material for crafting weapons.",
+    "Text": "Ultra hard and sharp great horn.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361041": {
     "OriginalText": "冷めて長く硬く尖った角。\n武器防具の素村になる。",
-    "Text": "Hard and sharp cold great horn.\nUsed as a material for crafting weapons.",
+    "Text": "Ultra hard and sharp great horn.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361042": {
     "OriginalText": "冷めて長く硬く尖った角。\n武器防具の素村になる。",
-    "Text": "Hard and sharp cold great horn.\nUsed as a material for crafting weapons.",
+    "Text": "Ultra hard and sharp great horn.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361043": {
     "OriginalText": "冷めて高い破壊力と耐久性を誇る大型砲身。\n武器防具の素村になる。",
-    "Text": "Very destructive and durable large cold\ngun barrel.\nUsed as a material for crafting weapons.",
+    "Text": "Ultra destructive and durable large\ngun barrel.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361044": {
     "OriginalText": "冷めて高い破壊力と耐久性を誇る大型砲身。\n武器防具の素村になる。",
-    "Text": "Very destructive and durable large cold\ngun barrel.\nUsed as a material for crafting weapons.",
+    "Text": "Ultra destructive and durable large\ngun barrel.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361045": {
     "OriginalText": "冷めて高い破壊力と耐久性を誇る大型砲身。\n武器防具の素村になる。",
-    "Text": "Very destructive and durable large cold\ngun barrel.\nUsed as a material for crafting weapons.",
+    "Text": "Ultra destructive and durable large\ngun barrel.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361046": {
     "OriginalText": "冷めて高い破壊力と耐久性を誇る大型砲身。\n武器防具の素村になる。",
-    "Text": "Very destructive and durable large cold\ngun barrel.\nUsed as a material for crafting weapons.",
+    "Text": "Ultra destructive and durable large\ngun barrel.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361047": {
     "OriginalText": "冷めて破壊力の高いレーザー砲銃。\n武器防具の素村になる。",
-    "Text": "Very destructive cold laser gun.\nUsed as a material for crafting weapons.",
+    "Text": "Ultra destructive laser gun.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361048": {
     "OriginalText": "冷めて破壊力の高いレーザー砲銃。\n武器防具の素村になる。",
-    "Text": "Very destructive cold laser gun.\nUsed as a material for crafting weapons.",
+    "Text": "Ultra destructive laser gun.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361049": {
     "OriginalText": "冷めて破壊力の高いレーザー砲銃。\n武器防具の素村になる。",
-    "Text": "Very destructive cold laser gun.\nUsed as a material for crafting weapons.",
+    "Text": "Ultra destructive laser gun.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361050": {
     "OriginalText": "冷めて破壊力の高いレーザー砲銃。\n武器防具の素村になる。",
-    "Text": "Very destructive cold laser gun.\nUsed as a material for crafting weapons.",
+    "Text": "Ultra destructive laser gun.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361051": {
     "OriginalText": "盃腹構造の冷めて柔軟で丈夫な皮。\n武器防具の素村になる。",
-    "Text": "Flexible and sturdy cold skin of an\nabdomen.\nUsed as a material for crafting weapons.",
+    "Text": "Ultra flexible and sturdy skin of an\nabdomen.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361052": {
     "OriginalText": "盃腹構造の冷めて柔軟で丈夫な皮。\n武器防具の素村になる。",
-    "Text": "Flexible and sturdy cold skin of an\nabdomen.\nUsed as a material for crafting weapons.",
+    "Text": "Ultra flexible and sturdy skin of an\nabdomen.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361053": {
     "OriginalText": "盃腹構造の冷めて柔軟で丈夫な皮。\n武器防具の素村になる。",
-    "Text": "Flexible and sturdy cold skin of an\nabdomen.\nUsed as a material for crafting weapons.",
+    "Text": "Ultra flexible and sturdy skin of an\nabdomen.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361054": {
     "OriginalText": "盃腹構造の冷めて柔軟で丈夫な皮。\n武器防具の素村になる。",
-    "Text": "Flexible and sturdy cold skin of an\nabdomen.\nUsed as a material for crafting weapons.",
+    "Text": "Ultra flexible and sturdy skin of an\nabdomen.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361055": {
     "OriginalText": "刺さりのいい冷めて高強度の硬質杭。\n武器防具の素村になる。",
-    "Text": "Hard cold spike good for piercing.\nUsed as a material for crafting weapons.",
+    "Text": "Ultra hard spike good for piercing.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361056": {
     "OriginalText": "刺さりのいい冷めて高強度の硬質杭。\n武器防具の素村になる。",
-    "Text": "Hard cold spike good for piercing.\nUsed as a material for crafting weapons.",
+    "Text": "Ultra hard spike good for piercing.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361057": {
     "OriginalText": "刺さりのいい冷めて高強度の硬質杭。\n武器防具の素村になる。",
-    "Text": "Hard cold spike good for piercing.\nUsed as a material for crafting weapons.",
+    "Text": "Ultra hard spike good for piercing.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361058": {
     "OriginalText": "刺さりのいい冷めて高強度の硬質杭。\n武器防具の素村になる。",
-    "Text": "Hard cold spike good for piercing.\nUsed as a material for crafting weapons.",
+    "Text": "Ultra hard spike good for piercing.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361059": {
     "OriginalText": "冷めて高強度に加工された軽量銅の羽。\n武器防具の素村になる。",
-    "Text": "Very strong and light cold steel wing.\nUsed as a material for crafting weapons.",
+    "Text": "Ultra strong and light steel wing.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361060": {
     "OriginalText": "冷めて高強度に加工された軽量銅の羽。\n武器防具の素村になる。",
-    "Text": "Very strong and light cold steel wing.\nUsed as a material for crafting weapons.",
+    "Text": "Ultra strong and light steel wing.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361061": {
     "OriginalText": "大型の冷めて頑強な剣版状の背びれ。\n武器防具の素村になる。",
-    "Text": "Large and sturdy sword-like cold dorsal\nfin.\nUsed as a material for crafting weapons.",
+    "Text": "Ultra large and sturdy sword-like dorsal\nfin.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361062": {
     "OriginalText": "大型の冷めて頑強な剣版状の背びれ。\n武器防具の素村になる。",
-    "Text": "Large and sturdy sword-like cold dorsal\nfin.\nUsed as a material for crafting weapons.",
+    "Text": "Ultra large and sturdy sword-like dorsal\nfin.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361063": {
     "OriginalText": "大型の冷めて頑強な剣版状の背びれ。\n武器防具の素村になる。",
-    "Text": "Large and sturdy sword-like cold dorsal\nfin.\nUsed as a material for crafting weapons.",
+    "Text": "Ultra large and sturdy sword-like dorsal\nfin.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361064": {
     "OriginalText": "冷めて高強度ながらしなやかな尾。\n武器防具の素村になる。",
-    "Text": "Very strong and flexible cold tail.\nUsed as a material for crafting weapons.",
+    "Text": "Ultra strong and flexible tail.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361065": {
     "OriginalText": "冷めて高強度ながらしなやかな尾。\n武器防具の素村になる。",
-    "Text": "Very strong and flexible cold tail.\nUsed as a material for crafting weapons",
+    "Text": "Ultra strong and flexible tail.\nUsed as a material for crafting weapons",
     "Enabled": true
   },
   "361066": {
     "OriginalText": "冷めて高強度かつ高硬度の。\n武器防具の素村になる。",
-    "Text": "Very hard, solid, and cold.\nUsed as a material for crafting weapons.",
+    "Text": "Ultra hard and solid material.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361067": {
     "OriginalText": "冷めて高強度かつ高硬度の。\n武器防具の素村になる。",
-    "Text": "Very hard, solid, and cold.\nUsed as a material for crafting weapons.",
+    "Text": "Ultra hard and solid material.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361068": {
     "OriginalText": "冷めて高強度かつ高硬度の。\n武器防具の素村になる。",
-    "Text": "Very hard, solid, and cold.\nUsed as a material for crafting weapons.",
+    "Text": "Ultra hard and solid material.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361069": {
     "OriginalText": "柔軟ながら冷めて高強度な皮。\n武器防具の素村になる。",
-    "Text": "Flexible but very strong cold hide.\nUsed as a material for crafting weapons.",
+    "Text": "Ultra flexible but very strong hide.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361070": {
     "OriginalText": "柔軟ながら冷めて高強度な皮。\n武器防具の素村になる。",
-    "Text": "Flexible but very strong cold hide.\nUsed as a material for crafting weapons.",
+    "Text": "Ultra flexible but very strong hide.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361071": {
     "OriginalText": "連結するギガンテスの冷めて硬い伝甲。\n武器防具の素村になる。",
-    "Text": "Hard cold shell compound connected to\na Gigantes.\nUsed as a material for crafting weapons.",
+    "Text": "Prime hard armor shell of a Gigantes.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361072": {
     "OriginalText": "連結するギガンテスの冷めて硬い伝甲。\n武器防具の素村になる。",
-    "Text": "Hard cold shell compound connected to\na Gigantes.\nUsed as a material for crafting weapons.",
+    "Text": "Prime hard armor shell compound of a Gigantes.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361073": {
