@@ -56,7 +56,7 @@
   },
   "201010010045000": {
     "OriginalText": "フォトンファイターって？",
-    "Text": "What is Photon Fighter?",
+    "Text": "What's Photon Fighter?",
     "Enabled": true
   },
   "201010010050001": {
@@ -71,7 +71,7 @@
   },
   "201010010065000": {
     "OriginalText": "ヒュペリオンバスター？",
-    "Text": "What is Hyperion Buster?",
+    "Text": "What's Hyperion Buster?",
     "Enabled": true
   },
   "201010010070011": {
@@ -226,7 +226,7 @@
   },
   "201020010025000": {
     "OriginalText": "まだ何も考えてない",
-    "Text": "I haven't thought of it yet.",
+    "Text": "Haven't thought of it yet.",
     "Enabled": true
   },
   "201020010030001": {
@@ -291,7 +291,7 @@
   },
   "201020010115000": {
     "OriginalText": "ルティナの考えを尊重する。",
-    "Text": "I will respect your decision.",
+    "Text": "I'll respect your decision.",
     "Enabled": true
   },
   "201020010120001": {
@@ -341,7 +341,7 @@
   },
   "201020010190001": {
     "OriginalText": "……わがままでごめんね。",
-    "Text": "... I'm sorry for being selfish.",
+    "Text": "...I'm sorry for being selfish.",
     "Enabled": true
   },
   "201020010200001": {
@@ -356,7 +356,7 @@
   },
   "201020010220001": {
     "OriginalText": "だから見よう見まねのぶっつけ本番！\n全然ダメかもしれないけど、許してね。",
-    "Text": "So, just imitate me!\nForgive me if I'm doing it wrong.",
+    "Text": "So, just follow me!\nForgive me if I'm doing it wrong.",
     "Enabled": true
   },
   "201020010230001": {
@@ -406,7 +406,7 @@
   },
   "201020020060001": {
     "OriginalText": "さっき気づいたんだけど、コブシで戦いながらも\n[ruby]相棒[/ruby]の位置と回復を考えちゃうクセがついてた。",
-    "Text": "As I noticed, I had a habit of thinking about\nmy position and healing Buddy while fighting\nwith my fist.",
+    "Text": "As I noticed, I had a habit of thinking about\nmy position and healing you while fighting\nwith my fist.",
     "Enabled": true
   },
   "201020020070001": {
@@ -451,7 +451,7 @@
   },
   "201020020130001": {
     "OriginalText": "戦ってて、思ったの。",
-    "Text": "I thought everytime when we fight.",
+    "Text": "I thought of that everytime when we fight.",
     "Enabled": true
   },
   "201020020140001": {
@@ -471,7 +471,7 @@
   },
   "201020020170001": {
     "OriginalText": "あたしの[ruby]相棒[/ruby]でいてほしい。それだけ。",
-    "Text": "I just want you to be my Buddy. That's all.",
+    "Text": "I just want you to be my buddy. That's all.",
     "Enabled": true
   },
   "201020020180001": {
@@ -551,7 +551,7 @@
   },
   "201030010010001": {
     "OriginalText": "あたしは[ruby]相棒[/ruby]と一緒にアークスを続けています。",
-    "Text": "I continue being with ARKS with Buddy.",
+    "Text": "I continue being with ARKS with you Buddy.",
     "Enabled": true
   },
   "201030010020001": {
@@ -591,7 +591,7 @@
   },
   "202010010040002": {
     "OriginalText": "その写真はオレだ。",
-    "Text": "That kid in the photo is me.",
+    "Text": "That kid is me.",
     "Enabled": true
   },
   "202010010050007": {
@@ -641,12 +641,12 @@
   },
   "202010010120001": {
     "OriginalText": "できなくなったの？ やめたんじゃなく？",
-    "Text": "Can't you? Didn't you quit?",
+    "Text": "Did you? Didn't you quit?",
     "Enabled": true
   },
   "202010010130002": {
     "OriginalText": "オレが８歳の頃、ある事件が起きた。",
-    "Text": "Something happened when I was 8 years old.",
+    "Text": "Something happened when I was 8.",
     "Enabled": true
   },
   "202010010140007": {
@@ -786,7 +786,7 @@
   },
   "202020010080002": {
     "OriginalText": "だが、オレはダーカーより先に\n出会ってしまったんだ。",
-    "Text": "However, I came across them with a Darker ",
+    "Text": "I came across them with a Darker.",
     "Enabled": true
   },
   "202020010090001": {
@@ -796,22 +796,22 @@
   },
   "202020010100002": {
     "OriginalText": "武器を持った、いかにも悪そうな\n女のふたり組に、だ。",
-    "Text": "Two women holding a weapon.",
+    "Text": "Two women with a weapon.",
     "Enabled": true
   },
   "202020010110002": {
     "OriginalText": "忘れもしない、金髪とピンクヘアーの\n悪党面した姉ちゃんだった。",
-    "Text": "I will never forget those blonde and her\npink-haired wild women.",
+    "Text": "I will never forget those blondie and a\npink-haired wild woman with her.",
     "Enabled": true
   },
   "202020010120002": {
     "OriginalText": "そいつらはたまたま近くを通りかかったら\n騒ぎが起きていて、見に来たって言ってた。",
-    "Text": "They happened to pass by and there was a\ncommotion and they came to see it.",
+    "Text": "They happened to pass by during the\ncommotion and they came to see it.",
     "Enabled": true
   },
   "202020010130002": {
     "OriginalText": "ダーカーの仕業だと知ると、\n金髪の女がちょっと狩ってくると言い出して、\nピンク頭の女にオレを押しつけて走っていった。",
-    "Text": "When she knew it was a Darkers, the blonde\nwoman said something and pushed me against\nthe pink-haired woman and told us to run.",
+    "Text": "When they knew it was Darkers, the blonde\nwoman said something and pushed me against\nthe pink-haired one and told us to run.",
     "Enabled": true
   },
   "202020010140001": {
@@ -846,7 +846,7 @@
   },
   "202020010200002": {
     "OriginalText": "話の続きはあとだ！ 行こうぜ！",
-    "Text": "I'll tell you the rest of the story later!\nLet's get this done!",
+    "Text": "I'll tell you the rest of the story later!\nLet's get this done first!",
     "Enabled": true
   },
   "202020010210001": {
@@ -876,7 +876,7 @@
   },
   "202020020050002": {
     "OriginalText": "居住路を襲ったダーカーが少数だったら、\nすぐにケリがついていただろうな。\nあの金髪の女、無茶苦茶強かったから。",
-    "Text": "If there were only few Darkers it would been\nsettled immediately. That blonde woman is\nunreasonably strong.",
+    "Text": "If there were only few Darkers it would been\nsettled immediately. That blonde woman is\ninsanely strong.",
     "Enabled": true
   },
   "202020020060002": {
@@ -996,7 +996,7 @@
   },
   "202020020270002": {
     "OriginalText": "アークスを目指したのもそうだし、\nオレの『[ruby ふとう]不倒[/ruby]のセイル』って呼び名も彼女の\n退かない、怯まない、跪かないを真似た結果さ。",
-    "Text": "Same with ARKS, and my name \"Immortal Sail\"\nis the result of imitating her not\nretreating, not surrendering.",
+    "Text": "Same with ARKS, and my name \"Unyielding Sail\"\nis the result of imitating her not\nretreating, not surrendering.",
     "Enabled": true
   },
   "202020020280001": {
@@ -1011,12 +1011,12 @@
   },
   "202020020300007": {
     "OriginalText": "会ったらがっかりするんじゃない？\nそんな無茶な戦い方をしていたら\n１０年も続くわけがないし、落ちぶれてるかも。",
-    "Text": "I'll be disappointed if you won't meet them.\nI mean, you wouldn't last 10 years without\ntheir teachings.",
+    "Text": "It'll be disappointing if you won't meet\nthem. I mean, you wouldn't last 10 years\nwithout their teachings.",
     "Enabled": true
   },
   "202020020310002": {
     "OriginalText": "……それでも会って、\n一言お礼を言いたいんですけどね。",
-    "Text": "I would like to meet them and thank them.",
+    "Text": "I would like to meet and thank them.",
     "Enabled": true
   },
   "202020020320007": {
@@ -1166,7 +1166,7 @@
   },
   "203010010170009": {
     "OriginalText": "へえ、姉ちゃんはパティシエか。\nアークスじゃないんだな？",
-    "Text": "Really? Your is a pastry chef?\nIs she not with ARKS?",
+    "Text": "Really? Your sister is a pastry chef?\nIs she not with ARKS?",
     "Enabled": true
   },
   "203010010180003": {
@@ -1221,7 +1221,7 @@
   },
   "203010010270011": {
     "OriginalText": "確かに、オルクスさんも言っていましたが、\n年頃の娘さんへの接し方は難しい。",
-    "Text": "Certainly, as Orcus said, it is difficult to\ntreat his daughter around this age.",
+    "Text": "Certainly, as Orcus said, it is difficult to\ntalk to girls around this age.",
     "Enabled": true
   },
   "203010010280011": {
@@ -1421,7 +1421,7 @@
   },
   "203020010265000": {
     "OriginalText": "違うんじゃないかな",
-    "Text": "I think it's different.",
+    "Text": "I don't think so.",
     "Enabled": true
   },
   "203020010270012": {
@@ -1436,7 +1436,7 @@
   },
   "203020010290012": {
     "OriginalText": "イズナさんのことは、私に任せてください。\n彼女の素直な気持ちを引き出してみせます。",
-    "Text": "Please leave Izuna to me.\nI will show her honest feelings.",
+    "Text": "Please leave Izuna to me.\nI will let her show her honest feelings.",
     "Enabled": true
   },
   "203020010300012": {
@@ -1726,7 +1726,7 @@
   },
   "204010010155000": {
     "OriginalText": "裸の方がいいですか？",
-    "Text": "So, Is it better for you to be naked?",
+    "Text": "So, Is it better to be naked?",
     "Enabled": true
   },
   "204010010160004": {
@@ -2191,7 +2191,7 @@
   },
   "205010020040013": {
     "OriginalText": "レイヴァン！",
-    "Text": "Ravenn",
+    "Text": "Raven",
     "Enabled": true
   },
   "205010020050005": {
@@ -2236,7 +2236,7 @@
   },
   "205020010030013": {
     "OriginalText": "数頁年似上もの間、私はあの宝石を通じて、\n持ち主となった人達に\n助けを求め続けてきましたから。",
-    "Text": "For more than a few pages, I've been asking\nthe responders for help through the gemstone.",
+    "Text": "For ages, I've been asking any responders for\nhelp through the gemstone.",
     "Enabled": true
   },
   "205020010040013": {
@@ -2256,7 +2256,7 @@
   },
   "205020010070013": {
     "OriginalText": "だから将来、惑星マキアという危険に既ちた\n冒険の舞台に来ることを厭わず、\n助けに来てくれると約束してくれたのです。",
-    "Text": "So, he promised to come to this dangerous,\nadventurous stage of Planet Mahkia and help\nme in the future.",
+    "Text": "So, he promised to come to this dangerous,\nadventurous place of Planet Mahkia and help\nme in the future.",
     "Enabled": true
   },
   "205020010080005": {
@@ -2266,8 +2266,8 @@
   },
   "205020010090005": {
     "OriginalText": "私には期待されていたほど\nフォトンを扱う才能がなく、\n最前線に立つ道は閉されていたからだ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I didn't have a talent for handling Photon,\nso my chances are very slim.",
+    "Enabled": true
   },
   "205020010100005": {
     "OriginalText": "そんな私を導いてくれたのがユノだった。",
@@ -2291,8 +2291,8 @@
   },
   "205020010140013": {
     "OriginalText": "数頁年の間、誰も成し得なかった偉業です。",
-    "Text": "",
-    "Enabled": false
+    "Text": "It’s a feat that no one could've ever done.",
+    "Enabled": true
   },
   "205020010150013": {
     "OriginalText": "なぜそこまで頑張れたのですか？",
@@ -2356,7 +2356,7 @@
   },
   "205020010270013": {
     "OriginalText": "……もう、昔はちゃんと言ってくれたのに。",
-    "Text": "... I'll tell you properly later.",
+    "Text": "...I'll tell you properly later.",
     "Enabled": true
   },
   "205020010280013": {
@@ -2666,7 +2666,7 @@
   },
   "206020010150008": {
     "OriginalText": "エンジニアとはいえ、カリストさんもアークス。\n戦える体でなければ万全だとは言えません。",
-    "Text": "Even though you're an engineer, you're still\npart of ARKS. You won't fight well if your\nbody is not in perfect condition.",
+    "Text": "Even though you're an engineer, you're still\npart of ARKS. You can't fight well if your\nbody is not in perfect condition.",
     "Enabled": true
   },
   "206020010160008": {
@@ -2741,7 +2741,7 @@
   },
   "206020010265000": {
     "OriginalText": "一流コンビの結成だ！",
-    "Text": "It's a group of first class!",
+    "Text": "We're first class after all!",
     "Enabled": true
   },
   "206020010270006": {
@@ -2906,7 +2906,7 @@
   },
   "206020020255000": {
     "OriginalText": "少しは心を開いてみては？",
-    "Text": "Why don't you open yourself to us a little?",
+    "Text": "Why don't you open yourself a little?",
     "Enabled": true
   },
   "206020020260006": {
@@ -3101,7 +3101,7 @@
   },
   "207010010250007": {
     "OriginalText": "それにしても、いないはずのものを恐れる、\nというのはなぜなのかしらね？\nいる、と思いたいのかな……。",
-    "Text": "But why are we afraid of such things?\nI wonder what you think of it...",
+    "Text": "But why am I afraid of such things?\nI wonder what you think of it...",
     "Enabled": true
   },
   "207010010260007": {
@@ -3371,12 +3371,12 @@
   },
   "208010010120001": {
     "OriginalText": "それ、ボケで言ってなさそうだから困るよ……。",
-    "Text": "I'm worried you're slow to this kind\nof thing....",
+    "Text": "I'm worried you're slow at this kind\nof thing....",
     "Enabled": true
   },
   "208010010130003": {
     "OriginalText": "どんな男の人が好きかってことですよね？",
-    "Text": "What kind of man do you like?",
+    "Text": "What kind of man do I like?",
     "Enabled": true
   },
   "208010010140001": {
@@ -3616,7 +3616,7 @@
   },
   "208020010240007": {
     "OriginalText": "じゃ、さっきの感じで\nオペレートしてみて？",
-    "Text": "Then, why don't you try operating just\nlike that?",
+    "Text": "Then, why don't you try being operator\njust like that?",
     "Enabled": true
   },
   "208020010250008": {
@@ -3901,7 +3901,7 @@
   },
   "209020010080009": {
     "OriginalText": "分かってねえな、ああいう特殊なものから\n新たな技術が生まれるものなんだぞ。",
-    "Text": "You don't understand, new technology is made\nfrom such a peculiar thing.",
+    "Text": "You don't understand, new technology is made\nfrom such a peculiar things.",
     "Enabled": true
   },
   "209020010090002": {
@@ -4041,7 +4041,7 @@
   },
   "209020020030009": {
     "OriginalText": "まだ仮組だが、方向性ぐらいは見えるはずだ。",
-    "Text": "It's still a temporary assembly, but you\nshould be able to see it.",
+    "Text": "It's still a prototype, but you\nshould be able to see it soon.",
     "Enabled": true
   },
   "209020020035000": {
@@ -4311,7 +4311,7 @@
   },
   "210010010155000": {
     "OriginalText": "通報しました",
-    "Text": "I will report it.",
+    "Text": "I will report you.",
     "Enabled": true
   },
   "210010010160010": {
@@ -4806,7 +4806,7 @@
   },
   "211010010030011": {
     "OriginalText": "ボケとは何ですか！\nオルクスさんよりはヤングですよ！ ヤング！",
-    "Text": "What do you mean senile!?\nI'm younger than Orcus! I'm still young!",
+    "Text": "What do you mean senile!?\nI'm younger than Orcus!\nI'm still young!",
     "Enabled": true
   },
   "211010010035000": {
@@ -4911,7 +4911,7 @@
   },
   "211010010230011": {
     "OriginalText": "戦場でも人は食べ、生きるもの。\nならば[ruby わたくし]私[/ruby]は戦土の食と命を守る、\n戦う料理人になろうと決めたのです！",
-    "Text": "People eat and live even on the battlefield.\nThat's why I decided to become a fighting\ncook, to protect both the food and life!",
+    "Text": "People eat and live even on the battlefield.\nThat's why I decided to become a fighting\nchef, to protect both the food and life!",
     "Enabled": true
   },
   "211010010240001": {
@@ -5221,7 +5221,7 @@
   },
   "211020020200011": {
     "OriginalText": "それをキャストの[ruby わたくし]私[/ruby]が生み出し、\n食の歴史に名を残す、なんて痛快でしょう！",
-    "Text": "It's so exciting that I, a Cast, will make it\nand made a name for it in the history of\nfood!",
+    "Text": "It's so exciting that I, a Cast, will remake it\nand made a name for it in the history of\nfood!",
     "Enabled": true
   },
   "211020020205000": {
@@ -5231,7 +5231,7 @@
   },
   "211020020210011": {
     "OriginalText": "ええ。食は命であり、ロマンでもある。\n人はみなロマンチストなのですよ。",
-    "Text": "Yeah. Food is life, food is love.\nEveryone is romantic.",
+    "Text": "Yeah. Food is life, food is love.\nEverything is romantic.",
     "Enabled": true
   },
   "211020020215000": {
@@ -5946,7 +5946,7 @@
   },
   "213010010150012": {
     "OriginalText": "現状に戻せるようにもしておきます。",
-    "Text": "We might be able to change our current\nsituation.",
+    "Text": "We might be able to improve our current\nsituation.",
     "Enabled": true
   },
   "213010010160003": {
@@ -6401,7 +6401,7 @@
   },
   "215010010070004": {
     "OriginalText": "そうすりゃシケてる時とは違う所に力が入る。\n大事なことだぞ。やってみろ！",
-    "Text": "That way, the force will be applied to a\nplace different from when it is damp.\nThat's the important part. Try it!",
+    "Text": "That way, I manage to transfer my power\nwhere it is needed.\nThat's the important part. Try it!",
     "Enabled": true
   },
   "215010010080004": {
@@ -6441,7 +6441,7 @@
   },
   "215010020020004": {
     "OriginalText": "最高のデートだったぞ！！ \n理想的な内容だった！\nお前のことは一人前だと認めてやるよ！",
-    "Text": "It was a great date!! It was an ideal date!\nI'll admit, you're now a full-fledged\nperson!",
+    "Text": "It was a great date!! It was an ideal date!\nI'll admit, you're now a full-fledged\nsoldier!",
     "Enabled": true
   },
   "215010020025000": {
@@ -6491,7 +6491,7 @@
   },
   "215010020100004": {
     "OriginalText": "オレのこと、恨んでるか？",
-    "Text": "Do you resent me for that?",
+    "Text": "Will you resent me for that?",
     "Enabled": true
   },
   "215010020105000": {
@@ -6506,7 +6506,7 @@
   },
   "215010020120004": {
     "OriginalText": "オレだって多少はマグナスのじいさんに\n言いたいことがあるんだからな。",
-    "Text": "There's something I want to say to\nold man Magnus.",
+    "Text": "Though there's something I want to tell\nto old man Magnus.",
     "Enabled": true
   },
   "215010020125000": {
@@ -6516,7 +6516,7 @@
   },
   "215010020130004": {
     "OriginalText": "悪いな。それは無理だったよ。\nもっとお前のケツを叩いてやりたかったと\nオレだって思ってるんだがな。",
-    "Text": "Sorry. That was impossible.\nI thought I wanted to hit your ass more.",
+    "Text": "Sorry. That was impossible.\nI thought I wanted to hit your ass\nmore too.",
     "Enabled": true
   },
   "215010020140004": {
@@ -6606,7 +6606,7 @@
   },
   "215030010060001": {
     "OriginalText": "いいことばかりじゃなかったけど、\n振り返ればそこには最高の仲間達の\n勇姿と笑顔が浮かんでくる。",
-    "Text": "It wasn't all good, but looking back, their\nbravery and smiles of my amazing comrades\ncome to my mind.",
+    "Text": "It wasn't all good, but looking back, their\nbravery and smiles of my amazing comrades\ncomes to my mind.",
     "Enabled": true
   },
   "215030010070001": {
