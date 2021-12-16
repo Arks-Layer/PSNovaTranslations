@@ -1041,18 +1041,18 @@
   },
   "150208": {
     "OriginalText": "護攻陣",
-    "Text": "",
-    "Enabled": false
+    "Text": "Defender Formation",
+    "Enabled": true
   },
   "150209": {
     "OriginalText": "護攻塞",
-    "Text": "",
-    "Enabled": false
+    "Text": "Defender Wall",
+    "Enabled": true
   },
   "150210": {
     "OriginalText": "護攻砦",
-    "Text": "",
-    "Enabled": false
+    "Text": "Defender Fortress",
+    "Enabled": true
   },
   "150211": {
     "OriginalText": "護法陣",
@@ -1066,8 +1066,8 @@
   },
   "150213": {
     "OriginalText": "護法砦",
-    "Text": "",
-    "Enabled": false
+    "Text": "Stronghold Technique",
+    "Enabled": true
   },
   "150214": {
     "OriginalText": "修羅紋",
@@ -1256,8 +1256,8 @@
   },
   "150251": {
     "OriginalText": "光争形態",
-    "Text": "",
-    "Enabled": false
+    "Text": "Warfare Form",
+    "Enabled": true
   },
   "150252": {
     "OriginalText": "究極の加護",
@@ -1406,8 +1406,8 @@
   },
   "150281": {
     "OriginalText": "正対の必墜",
-    "Text": "",
-    "Enabled": false
+    "Text": "Confronting Crash",
+    "Enabled": true
   },
   "150282": {
     "OriginalText": "- 予備枠",
@@ -1476,13 +1476,13 @@
   },
   "150295": {
     "OriginalText": "絶龍印",
-    "Text": "",
-    "Enabled": false
+    "Text": "Undefeated Mark",
+    "Enabled": true
   },
   "150296": {
     "OriginalText": "絶龍誓",
-    "Text": "",
-    "Enabled": false
+    "Text": "Undefeated Oath",
+    "Enabled": true
   },
   "150297": {
     "OriginalText": "- 予備枠",
@@ -1506,13 +1506,13 @@
   },
   "150301": {
     "OriginalText": "負滅牙",
-    "Text": "",
-    "Enabled": false
+    "Text": "Indestructible Fang",
+    "Enabled": true
   },
   "150302": {
     "OriginalText": "負王滅牙",
-    "Text": "",
-    "Enabled": false
+    "Text": "Immortal Fang",
+    "Enabled": true
   },
   "150303": {
     "OriginalText": "- 予備枠",
@@ -1531,13 +1531,13 @@
   },
   "150308": {
     "OriginalText": "護攻法陣",
-    "Text": "",
-    "Enabled": false
+    "Text": "Vanguard Form",
+    "Enabled": true
   },
   "150309": {
     "OriginalText": "護攻法塞",
-    "Text": "",
-    "Enabled": false
+    "Text": "Vanguard Fort",
+    "Enabled": true
   },
   "150310": {
     "OriginalText": "星天弾",
@@ -1611,13 +1611,13 @@
   },
   "150324": {
     "OriginalText": "会心一項",
-    "Text": "",
-    "Enabled": false
+    "Text": "Critical Blow",
+    "Enabled": true
   },
   "150325": {
     "OriginalText": "会心御手",
-    "Text": "",
-    "Enabled": false
+    "Text": "Critical Control",
+    "Enabled": true
   },
   "150326": {
     "OriginalText": "暗心舞踏",
@@ -1651,18 +1651,18 @@
   },
   "150332": {
     "OriginalText": "坦吸気",
-    "Text": "",
-    "Enabled": false
+    "Text": "Life Collection",
+    "Enabled": true
   },
   "150333": {
     "OriginalText": "坦吸命",
-    "Text": "",
-    "Enabled": false
+    "Text": "Life Absorption",
+    "Enabled": true
   },
   "150334": {
     "OriginalText": "回贄解放",
-    "Text": "",
-    "Enabled": false
+    "Text": "Circuit Release",
+    "Enabled": true
   },
   "150335": {
     "OriginalText": "力の預言",
@@ -1831,8 +1831,8 @@
   },
   "150721": {
     "OriginalText": "回贄掟進",
-    "Text": "",
-    "Enabled": false
+    "Text": "Circuit Charge",
+    "Enabled": true
   },
   "150731": {
     "OriginalText": "最後の防壁",
@@ -3841,13 +3841,13 @@
   },
   "820741": {
     "OriginalText": "１％の確率で非常に強力な一撃を\n繰り出すことがある。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "1% chance of unleashing a very powerful blow.\n[a 03]※Abilities of the same name can't be\nstacked[b]",
+    "Enabled": true
   },
   "820742": {
     "OriginalText": "１％の確率で非常に凶悪な一撃を\n繰り出すことがある。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "1% chance of unleashing a very vicious blow.\n[a 03]※Abilities of the same name can't be\nstacked[b]",
+    "Enabled": true
   },
   "820751": {
     "OriginalText": "ダメージが１００％上昇する。\n代わりに最大ＨＰが２０％になる。\n[a 03]※同名の特殊能力は重復しない[b]",

@@ -816,7 +816,7 @@
   },
   "410163": {
     "OriginalText": "エピローグ ルティナ",
-    "Text": "Epilogue Lutina",
+    "Text": "Epilogue: Lutina",
     "Enabled": true
   },
   "410164": {
@@ -836,7 +836,7 @@
   },
   "410167": {
     "OriginalText": "エピローグ セイル",
-    "Text": "Epilogue Sail",
+    "Text": "Epilogue: Sail",
     "Enabled": true
   },
   "410168": {
@@ -856,7 +856,7 @@
   },
   "410171": {
     "OriginalText": "エピローグ イズナ",
-    "Text": "Epilogue Izuna",
+    "Text": "Epilogue: Izuna",
     "Enabled": true
   },
   "410172": {
@@ -871,7 +871,7 @@
   },
   "410174": {
     "OriginalText": "エピローグ フィルディア",
-    "Text": "Epilogue Fildia",
+    "Text": "Epilogue: Fildia",
     "Enabled": true
   },
   "410175": {
@@ -891,7 +891,7 @@
   },
   "410178": {
     "OriginalText": "エピローグ レイヴァンユノ",
-    "Text": "Epilogue Raven and Juno",
+    "Text": "Epilogue: Raven and Juno",
     "Enabled": true
   },
   "410179": {
@@ -911,7 +911,7 @@
   },
   "410182": {
     "OriginalText": "エピローグ カリスト",
-    "Text": "Epilogue Callisto",
+    "Text": "Epilogue: Callisto",
     "Enabled": true
   },
   "410183": {
@@ -926,7 +926,7 @@
   },
   "410185": {
     "OriginalText": "エピローグ キサラ",
-    "Text": "Epilogue Kisara",
+    "Text": "Epilogue: Kisara",
     "Enabled": true
   },
   "410186": {
@@ -941,7 +941,7 @@
   },
   "410188": {
     "OriginalText": "エピローグ リーティア",
-    "Text": "Epilogue Rietheia",
+    "Text": "Epilogue: Rietheia",
     "Enabled": true
   },
   "410189": {
@@ -961,7 +961,7 @@
   },
   "410192": {
     "OriginalText": "エピローグ ヨミ",
-    "Text": "Epilogue Yomi",
+    "Text": "Epilogue: Yomi",
     "Enabled": true
   },
   "410193": {
@@ -981,7 +981,7 @@
   },
   "410196": {
     "OriginalText": "エピローグ オルクス",
-    "Text": "Epilogue Orcus",
+    "Text": "Epilogue: Orcus",
     "Enabled": true
   },
   "410197": {
@@ -1001,7 +1001,7 @@
   },
   "410200": {
     "OriginalText": "エピローグ ヒュペリオン",
-    "Text": "Epilogue Hyperion",
+    "Text": "Epilogue: Hyperion",
     "Enabled": true
   },
   "410201": {
@@ -1021,7 +1021,7 @@
   },
   "410204": {
     "OriginalText": "エピローグ シャロン",
-    "Text": "Epilogue Sharon",
+    "Text": "Epilogue: Sharon",
     "Enabled": true
   },
   "410205": {
