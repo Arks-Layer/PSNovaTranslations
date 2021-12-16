@@ -186,7 +186,7 @@
   },
   "110037": {
     "OriginalText": "カーネベアの純コア",
-    "Text": "Carnnebear Gorva Core",
+    "Text": "Carnnebear Pure Core",
     "Enabled": true
   },
   "110038": {
@@ -201,7 +201,7 @@
   },
   "110040": {
     "OriginalText": "マグネトアスの純コア",
-    "Text": "Magnetoas' Pure Core",
+    "Text": "Magnetoas Pure Core",
     "Enabled": true
   },
   "110041": {
@@ -221,7 +221,7 @@
   },
   "110044": {
     "OriginalText": "クリトロの純コア",
-    "Text": "Crittro Ture Core",
+    "Text": "Crittro Pure Core",
     "Enabled": true
   },
   "110045": {
@@ -311,7 +311,7 @@
   },
   "110062": {
     "OriginalText": "テュルトアスの純コア",
-    "Text": "Tulletoas' Pure Core",
+    "Text": "Tulletoas Pure Core",
     "Enabled": true
   },
   "110063": {
@@ -331,7 +331,7 @@
   },
   "110066": {
     "OriginalText": "コラル・ドラゴンの純コア",
-    "Text": "Coral Dragon's Pure Core",
+    "Text": "Coral Dragon Pure Core",
     "Enabled": true
   },
   "110067": {
@@ -401,7 +401,7 @@
   },
   "110080": {
     "OriginalText": "ノイ・バリドランナ・コア",
-    "Text": "Noibaridran'an Core",
+    "Text": "Noibaridran'na Core",
     "Enabled": true
   },
   "110081": {
@@ -416,7 +416,7 @@
   },
   "110083": {
     "OriginalText": "ゴルドスの純コア",
-    "Text": "Gordes' Pure Core",
+    "Text": "Gordes Pure Core",
     "Enabled": true
   },
   "110084": {
@@ -431,7 +431,7 @@
   },
   "110086": {
     "OriginalText": "ディゴルドスの純コア",
-    "Text": "Digordes' Pure Core",
+    "Text": "Digordes Pure Core",
     "Enabled": true
   },
   "110087": {
@@ -446,7 +446,7 @@
   },
   "110089": {
     "OriginalText": "フロフォンベガルフ・コア",
-    "Text": "FLo Fonbegulf Core",
+    "Text": "Flo Fonbegulf Core",
     "Enabled": true
   },
   "110090": {
@@ -471,7 +471,7 @@
   },
   "110094": {
     "OriginalText": "ディートアスの純コア",
-    "Text": "Dietoas' Pure Core",
+    "Text": "Dietoas Pure Core",
     "Enabled": true
   },
   "110095": {
@@ -561,12 +561,12 @@
   },
   "110112": {
     "OriginalText": "ファンアフォルの純コア",
-    "Text": "Fan'aphol's Pure Core",
+    "Text": "Fan'aphol Pure Core",
     "Enabled": true
   },
   "110113": {
     "OriginalText": "オルゴルドスの純コア",
-    "Text": "Orgordes' Pure Core",
+    "Text": "Orgordes Pure Core",
     "Enabled": true
   },
   "110114": {
@@ -611,12 +611,12 @@
   },
   "110122": {
     "OriginalText": "Ｇプレディカーダの純コア",
-    "Text": "G-Predicahda's Pure Core",
+    "Text": "G-Predicahda Pure Core",
     "Enabled": true
   },
   "110123": {
     "OriginalText": "Ｇキュクロナーダの純コア",
-    "Text": "G-Kuklonahda's Pure Core",
+    "Text": "G-Kuklonahda Pure Core",
     "Enabled": true
   },
   "110124": {
@@ -636,17 +636,17 @@
   },
   "110127": {
     "OriginalText": "Ｇウォルガーダの純コア",
-    "Text": "G-Wolgahda's Pure Core",
+    "Text": "G-Wolgahda Pure Core",
     "Enabled": true
   },
   "110128": {
     "OriginalText": "Ｇガウォンダの純コア",
-    "Text": "G-Ga Wonda's Pure Core",
+    "Text": "G-Ga Wonda Pure Core",
     "Enabled": true
   },
   "110129": {
     "OriginalText": "Ｇグウォンダの純コア",
-    "Text": "G-Gu Wonda's Pure Core",
+    "Text": "G-Gu Wonda Pure Core",
     "Enabled": true
   },
   "110130": {
@@ -656,7 +656,7 @@
   },
   "110131": {
     "OriginalText": "Ｇダーク・ラグネの純コア",
-    "Text": "G-Dark Ragne's Pure Core",
+    "Text": "G-Dark Ragne Pure Core",
     "Enabled": true
   },
   "110132": {
@@ -671,67 +671,67 @@
   },
   "110134": {
     "OriginalText": "アグリオスの純コア",
-    "Text": "Agrios' Pure Core",
+    "Text": "Agrios Pure Core",
     "Enabled": true
   },
   "110135": {
     "OriginalText": "グレイオスの純コア",
-    "Text": "Greios' Pure Core",
+    "Text": "Greios Pure Core",
     "Enabled": true
   },
   "110136": {
     "OriginalText": "アルテイオスの純コア",
-    "Text": "Alteios' Pure Core",
+    "Text": "Alteios Pure Core",
     "Enabled": true
   },
   "110137": {
     "OriginalText": "エウリュードの純コア",
-    "Text": "Eurude's Pure Core",
+    "Text": "Eurude Pure Core",
     "Enabled": true
   },
   "110138": {
     "OriginalText": "ヴィヴリュードの純コア",
-    "Text": "Vivryude's Pure Core",
+    "Text": "Vivryude Pure Core",
     "Enabled": true
   },
   "110139": {
     "OriginalText": "ガラティオンの純コア",
-    "Text": "Garation's Pure Core",
+    "Text": "Garation Pure Core",
     "Enabled": true
   },
   "110140": {
     "OriginalText": "ギガティオンの純コア",
-    "Text": "Gigation's Pure Core",
+    "Text": "Gigation Pure Core",
     "Enabled": true
   },
   "110141": {
     "OriginalText": "グラヴディオンの純コア",
-    "Text": "Gravdion's Pure Core",
+    "Text": "Gravdion Pure Core",
     "Enabled": true
   },
   "110142": {
     "OriginalText": "アルキュオネの純コア",
-    "Text": "Alcyone's Pure Core",
+    "Text": "Alcyone Pure Core",
     "Enabled": true
   },
   "110143": {
     "OriginalText": "デェフキュオネの純コア",
-    "Text": "Defcyone's Pure Core",
+    "Text": "Defcyone Pure Core",
     "Enabled": true
   },
   "110144": {
     "OriginalText": "ギュゲンテの純コア",
-    "Text": "Gygante's Pure Core",
+    "Text": "Gygante Pure Core",
     "Enabled": true
   },
   "110145": {
     "OriginalText": "リベルゲンテの純コア",
-    "Text": "Libelgante's Pure Core",
+    "Text": "Libelgante Pure Core",
     "Enabled": true
   },
   "110146": {
     "OriginalText": "レイヴガイストの純コア",
-    "Text": "Rave Geist's Pure Core",
+    "Text": "Rave Geist Pure Core",
     "Enabled": true
   },
   "110147": {

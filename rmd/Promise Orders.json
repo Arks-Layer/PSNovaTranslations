@@ -491,8 +491,8 @@
   },
   "280098": {
     "OriginalText": "究極の資村・古代都市",
-    "Text": "",
-    "Enabled": false
+    "Text": "Ancient City's Ultimate Material",
+    "Enabled": true
   },
   "280099": {
     "OriginalText": "コールドスリープ改造",
@@ -701,8 +701,8 @@
   },
   "280140": {
     "OriginalText": "愛用品の継承",
-    "Text": "",
-    "Enabled": false
+    "Text": "Inheritance of Treasure",
+    "Enabled": true
   },
   "280141": {
     "OriginalText": "究極ギガンテス討伐",
@@ -906,8 +906,8 @@
   },
   "280181": {
     "OriginalText": "至高の鉱洋資装１",
-    "Text": "",
-    "Enabled": false
+    "Text": "Supreme Mineral Resource 1",
+    "Enabled": true
   },
   "280182": {
     "OriginalText": "部位破壊訓練",
@@ -981,13 +981,13 @@
   },
   "280196": {
     "OriginalText": "ＳＨギガンテス武伝素材調達",
-    "Text": "",
-    "Enabled": false
+    "Text": "SH Gigantes Armed Material Procurement",
+    "Enabled": true
   },
   "280197": {
     "OriginalText": "至高の鉱洋資装２",
-    "Text": "",
-    "Enabled": false
+    "Text": "Supreme Mineral Resource 2",
+    "Enabled": true
   },
   "280198": {
     "OriginalText": "お風呂の思い出",
@@ -1421,8 +1421,8 @@
   },
   "290002": {
     "OriginalText": "あたしのテクニックのおさらいに\nつきあってくれる？\n一緒にやるのは訓練校似来じゃない？\n頑張ろうね、[ruby]相棒[/ruby]！\n[a 03]※この約束は１回のみ[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "Can you help me practice my technique?\nJust like in the training school.\nLet's do it, Buddy!\n[a 03]※Non-Repeatable[b]",
+    "Enabled": true
   },
   "290003": {
     "OriginalText": "フォースの動きに慣れておきたいね。\n一度、フォースで任務をクリアしてみようよ。\n習うより慣れろだよ、[ruby]相棒[/ruby]！\n[a 03]※この約束は１回のみ\n※『フォース』にクラス変更をする必要あり[b]",
@@ -1431,98 +1431,98 @@
   },
   "290004": {
     "OriginalText": "鳥の皮片を集めてきてくれない、[ruby]相棒[/ruby]！\n色鮮やかで伝飾品として利用できそうなんだ。\n３個くらいあると嬉しいな。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Help me collect some bird pelts Buddy!\nI'll use them for decorations.\nI need 3 pieces of it.",
+    "Enabled": true
   },
   "290005": {
     "OriginalText": "ロザードのヒレ片を集めるのを手龍って、[ruby]相棒[/ruby]！\n５個あれば完壁なんだけど……。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Help me collect some Rozad Fins, Buddy!\nI'll need 5 pieces of them...",
+    "Enabled": true
   },
   "290006": {
     "OriginalText": "透き通る講化木を３個集めようよ、[ruby]相棒[/ruby]！\n磨くとすっごくきれいで、\nアクセサリーとして使いたいんだ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Let's collect 3 Silicified Wood, Buddy!\nI'll polish and use it to make accessories.",
+    "Enabled": true
   },
   "290007": {
     "OriginalText": "トネルバンクゥの石片を集めてくれないかな、\n[ruby]相棒[/ruby]！ ５個必要なんだけど、\n今ちょっと手が空かなくて……。\nごめん、お願い！！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Will you help me collect Stone Fragments\nfrom Toner Ban'qu, Buddy! I need 5 of them...\nPlease...!!",
+    "Enabled": true
   },
   "290008": {
     "OriginalText": "コパイエーデンの煽皮を１つ調達しようよ、\n[ruby]相棒[/ruby]！ ふかふかで気持ちよさそうでしょ。\nコスチュームを作るのに使えると思うよ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Let's gather 1 Kopa Yeden Pelt, Buddy!\nIt's fluffy and comfortable.\nI can use it to make some costumes!",
+    "Enabled": true
   },
   "290009": {
     "OriginalText": "鈍く光るコランダム珪を集めようよ、[ruby]相棒[/ruby]！\nだって、キレイでしょ？ \n３個くらい集めたいね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Let's collect some Dull Corundum Silica, Buddy!\nIsn't it beautiful?\nI need 3 of it.",
+    "Enabled": true
   },
   "290010": {
     "OriginalText": "バリドランナの大光玉を３個集めようよ、[ruby]相棒[/ruby]！\n磨くとすっごくきれいで、\nアクセサリーとして使いたいんだ。",
-    "Text": "Collect 3 Balls of Light from Baridran'na, partner!\nOnce cleaned and polished,\nI can use it as an accessory.",
+    "Text": "Collect 3 Balls of Light from Baridran'na, Buddy!\nOnce cleaned and polished,\nI can use it as an accessory.",
     "Enabled": true
   },
   "290011": {
     "OriginalText": "アルキュオネの硬肩部伝甲を調達してきてよ、[ruby]相棒[/ruby]！\nえっ、あたしも一緒に！？\nムリムリ！！ あんなブニョブニョ近づくのも嫌！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Please gather Alcyone Hard Shoulder Armor, Buddy!\nHuh, with me!?\nNo way!!",
+    "Enabled": true
   },
   "290012": {
     "OriginalText": "アルキュオネをロッドだけで倒せるかな？\n[a 06]『ロッド』 \n通常攻撃に加えてテクニックをセットして使う\nことができる。初心者でも扱いやすい。[b]\n[a 03]※ロッド[ruby ケイ]系[/ruby]で撃破が必要 この約束は一回のみ[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "I wonder if you can defeat Alcyone with a Rod.\n[a 06]Rod, you can use Techniques along\nwith normal attacks.[b]\n[a 03]※Rod only, Non-Repeatable[b]",
+    "Enabled": true
   },
   "290013": {
     "OriginalText": "アルキュオネをタリスだけで倒してみせてよ！\n[a 06]『タリス』 \n遠くに飛ばしたカードからテクニックを発動させる。\n遠隔攻撃によって戦略の幅が広がる法撃武器。[b]\n[a 03]※タリス系で撃破が必要 この約束は一回のみ[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "Defeat Alcyone with just Talis!\n[a 06]Talis, use Techniques with your\ncards and throw it.[b]\n[a 03]※Talis only, Non-Repeatable[b]",
+    "Enabled": true
   },
   "290014": {
     "OriginalText": "アルキュオネをウォンドだけでやっつけちゃって！\n[a 06]『ウォンド』 \n打撃力も高い法撃武器。\n素早く攻撃力の高い接近攻撃が特微。[b]\n[a 03]※ウォンド系で撃破が必要 この約束は一回のみ[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "Defeat Alcyone with just Wand!\n[a 06]Wand, it has high striking power\nand can stun enemies.[b]\n[a 03]※Wand only, Non-Repeatable[b]",
+    "Enabled": true
   },
   "290015": {
     "OriginalText": "テッラマンデルの鱗片を調達してこようよ、相棒！\n表側はゴツゴツして汚いけど裏側はつややかで\n光の加滅で色んな色に変化するんだよ。\n１つあれば十分だよ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Let's gather some Terra Mandel Scales, Buddy!\nIt might be rugged and dirty but behind it\nis glossy and colorful.\nI just need 1 piece!",
+    "Enabled": true
   },
   "290016": {
     "OriginalText": "銅の荒野も奥が深いよね。\nまだまだあたしたちの知らないすごい鉱脈が\nあるらしいよ？ 気になるでしょ？\n行ってみるしかないんじゃない？",
-    "Text": "",
-    "Enabled": false
+    "Text": "The Steel Wasteland is vast, isn't it?\nIt seems there are still amazing spots we\nhave not seen yet.\nWe got no other choice but to find them.",
+    "Enabled": true
   },
   "290017": {
     "OriginalText": "新種のギガンテスが見つかったらしいよ。\nかなり強いらしくて手に負えないって噂に\nなっているみたい。こんな状況を放っておく\n相棒じゃないよね？",
-    "Text": "",
-    "Enabled": false
+    "Text": "A new kind of Gigantes has been found.\nThere's a rumor that it is quite strong.\nIsn't it exciting?!",
+    "Enabled": true
   },
   "290018": {
     "OriginalText": "ベリサイト、ミメット鉱、そして\n赤いベリサイト…どれも聞き慣れないでしょ？\nちょっと危ないとこへ行かないと手に入らない、\n新発見の稀少な洋資なんだよね。集めてみてよ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Verisite, mimet ore, and red verisite...\naren't you familiar with them?\nYou can only find them on dangerous places.\nTry collecting them for me!",
+    "Enabled": true
   },
   "290019": {
     "OriginalText": "今、あたしオペレーターの練習してるんだけど\nなかなか時間が取れなくて……。そこで相棒！\nあたしの代わりに銅の荒野で巨大ロザードを倒す\n任務を引き受けてくれない？\n[a 03]※この約束は１回のみ[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "I'm practicing to be operator right now...\nCan you please defeat the Giant Rozad in the Steel Wasteland for me?\n[a 03]※Non-Repeatable[b]",
+    "Enabled": true
   },
   "290020": {
     "OriginalText": "銅の荒野に、めちゃくちゃ強いエネミーが\n群生してる場所があるんだって！\nここはできるだけたくさん撃破しておくべきだよね！\n目指すはもちろん殲滅だよ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "There's an area in the Steel Wasteland where\ninsanely strong enemies are gathering!\nPlease defeat them as many as you can!",
+    "Enabled": true
   },
   "290021": {
     "OriginalText": "気になる噂を聞いたんだけど、ウィルアフォルと\nテュルトアスが潜んでる場所があるんだって！\n２体ともすごく凶暴らしいけど、ほっとけないよね。\n相棒、出番だよ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "I've heard rumors about a place where a\nViluaphol and a Tulletoas is lurking!\nBoth of them are ferocious.\nBuddy, it's your time to shine!",
+    "Enabled": true
   },
   "290022": {
     "OriginalText": "オレのグランアーツの訓練に付き合ってくれないか？\n一緒に訓練しようぜ！\n\n\n[a 03]※この約束は１回のみ[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "Will you go with me for my Gran Arts training?\nLet's train together!\n[a 03]※Non-Repeatable[b]",
+    "Enabled": true
   },
   "290023": {
     "OriginalText": "ハンターって、戦闘クラスの花形だよな！\n任務はハンターでクリアしてこそ一人前と思うんだ。\n一緒にやろうぜ！\n[a 03]※この約束は１回のみ\n※『ハンター』にクラス変更をする必要あり[b]",
@@ -1531,43 +1531,43 @@
   },
   "290024": {
     "OriginalText": "アグリオスを撃破しに行こうぜ！\n奴の攻撃はキツイけど、倒した時のあの達成感を\nもう一度味わってみないか！？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Let's go defeat Agrios!\nIt's attacks are hard, why don't we\nrelive that sense of accomplishment\nwhen we defeated it?",
+    "Enabled": true
   },
   "290025": {
     "OriginalText": "アルキュオネを撃破しに行こうぜ！\nなんだ、やる前からびびってるのか？\nそんなのやってみないとわかんねえだろ？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Let's go defeat Alcyone!\nWhat, are you scared?\nYou won't know unless you try,\nright?",
+    "Enabled": true
   },
   "290026": {
     "OriginalText": "エウリュード撃破しにいかねぇか？\nへへっ、お前なら簡単だろ？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Would you like to defeat Eurude?\nHehe, you're like an open book.",
+    "Enabled": true
   },
   "290027": {
     "OriginalText": "アルレイバンサーをハンタークラスで\n撃破しに行こうぜ！\nハンターの特訓にもなるし、拠点の安全も\n確保できるし、いいことだらけだろ？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Let's defeat Alray Banther with\nHunter class! It's a special training\nfor Hunters and we can help secure\nthe base.",
+    "Enabled": true
   },
   "290028": {
     "OriginalText": "古代都市哨戒任務をハンタークラスで\nクリアしにいかねえか？\nこの程度こなせないと、艦長も務まらないってな！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Would you like to complete the\nAncient City Patrol Mission with\nhunter class?",
+    "Enabled": true
   },
   "290029": {
     "OriginalText": "グレイオスを撃破しに行こうぜ！\n越えるハードルは高いほど燃えるってな！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Let's go defeat Greios!\nThe tougher the challenge, the more\nit fires me up.",
+    "Enabled": true
   },
   "290030": {
     "OriginalText": "ギガンテス２体を撃破しにいかねぇか？\nお前なら出来るって信じてるぜ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Would you like to defeat 2\nGigantes?\nI believe you can do it.",
+    "Enabled": true
   },
   "290031": {
     "OriginalText": "最強の黒いギガンテスを倒しに行こうぜ！\nオレとお前なら抜群にうまくやれるはずさ！\n一緒に行こうぜ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Let's go to defeat the strongest\nblack Gigantes!\nWe should be able to do it!\nLet's go!",
+    "Enabled": true
   },
   "290032": {
     "OriginalText": "ソードだけでディートアスを撃破。お前ならできる！\n[a 06]『ソード』\n近接武器としてはリーチが長くクセも少なく、\n戦闘の基本を覚えるのに適している。[b]\n[a 03]※ソード系で撃破が必要 この約束は一回のみ[b]",
@@ -1576,53 +1576,53 @@
   },
   "290033": {
     "OriginalText": "パルチザンだけでディートアスを倒してみようぜ。\n[a 06]『パルチザン』\n高速かつ豪快に敵を薙ぎ払う打撃武器。\nスキのない攻撃を得意とする。[b]\n[a 03]※パルチザン系で撃破が必要 この約束は一回のみ[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "Defeat Dietoas with only partisan.\n[a 06]Partisan, a striking weapon that\nswiftly and splendidly mow down\nenemies.[b]\n[a 03]※Partisan only, Non-Repeatable[b]",
+    "Enabled": true
   },
   "290034": {
     "OriginalText": "ダブルセイバーだけでディートアス撃破しようぜ！\n[a 06]『ダブルセイバー』\n多彩な攻撃バリエーションと攻撃回数の多さで\n圧倒的なダメージを敵に与えることができる。[b]\n[a 03]※ダブルセイバー系で撃破が必要 この約束は一回のみ[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "Defeat Dietoas with Double Saber!\n[a 06]Double Saber, with a lot of attack\nvariations, you can inflict massive\ndamage to your enemies.[b]\n[a 03]※Double Saber only, Non-Repeatable[b]",
+    "Enabled": true
   },
   "290035": {
     "OriginalText": "ナックルだけでディートアス撃破。やってみるか？\n[a 06]『ナックル』\n敵に接近し攻撃するリスクがあるが、\nコンビネーションで敵に反撃の隙を与えない。[b]\n[a 03]※ナックル系で撃破が必要 この約束は一回のみ[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "Try defeating Dietoas with Knuckle?\n[a 06]Knuckle, needs to get close but the\ncombos will make the enemy stagger.[b]\n[a 03]※Knuckle only, Non-Repeatable[b]",
+    "Enabled": true
   },
   "290036": {
     "OriginalText": "マガヴルムの銃身を持ってきてくれないか？\n武器の調子が悪いからヨミに相談したら修理に\nこいつが必要らしいんだ。\n１つ持ってきてくれ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Will you bring me the barrel of\nMagavulum?\nTell Yomi to repair this weapon.\nI just need 1 piece!",
+    "Enabled": true
   },
   "290037": {
     "OriginalText": "グラン水装のエネミーから新しい素材が\n採れるようになったらしいぞ。\n腕試しも兼ねてちょっと集めてみないか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Seems that new materials can be\nobtained from the enemies in the\nGran Water Rig.\nWould you like to test your skills?",
+    "Enabled": true
   },
   "290038": {
     "OriginalText": "回収したい資材があるんだが\n周辺をギガティオンがしているらしくて\nみんな手を焼いてるらしいんだ。\n艦長、ここはいっそお前が行ってみてくれないか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "I want to get some materials but a\nGigation is nearby and everyone's\ngot their hands full already.\nCaptain, would you like to go?",
+    "Enabled": true
   },
   "290039": {
     "OriginalText": "ちょっと難しい依頼で、アテレスタイト、\nハイウィーアイト、黄色いアテレスタイト、\nとかいう聞いたこともない鉱石が必要なんだ。\nヤバい任務になるかもしれないけど、頼むぜ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "It's a difficult request, I need an\nore I've never heard of, such as\nAtelestite, Haiwite, and Yellow\nAtelestite.",
+    "Enabled": true
   },
   "290040": {
     "OriginalText": "集めてほしい新素材があるんだ。\nアメシスト、陽炎のアメシスト、ルビーの３つ\nなんだけど武器や防具の材料になるみたい。\n銅の荒野で採れるらしいよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I have new materials I want you to\ncollect. Amethyst, Shimmering\nAmethyst, and Ruby. Seems that it\ncan be collected in the Steel\nWasteland.",
+    "Enabled": true
   },
   "290041": {
     "OriginalText": "光属性が強化されたエネミーに手を焼いてて\nなかなか任務がはかどらないんだよな。そのせいで\nオペレーターの訓練が進まなくて困るんだよな……。\n悪い！ 代わりにこの任務、引き受けてくれないか？\n[a 03]※この約束は１回のみ[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "I'm struggling with the enemies and\nI'm also stuck with the Operator\nTraining. Will you take on this\nmission instead?\n[a 03]※Non-Repeatable[b]",
+    "Enabled": true
   },
   "290042": {
     "OriginalText": "わたし、グランの扱いがまだまだで……。\n一緒に訓練しませんか？\n\n\n[a 03]※この約束は１回のみ[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "I still haven't mastered Gran...\nWould you like to train together?\n\n\n[a 03]※Non-Repeatable[b]",
+    "Enabled": true
   },
   "290043": {
     "OriginalText": "わたしと一緒にかっこいいレンジャーを\n目指しませんか？ よかったら一緒に\n任務をクリアしましょう。\n[a 03]※この約束は１回のみ\n※『レンジャー』にクラス変更をする必要あり[b]",
@@ -1631,8 +1631,8 @@
   },
   "290044": {
     "OriginalText": "膜β類のエキスを３つ調達したいのです。\nすみません、集めていただいてもよいですか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "I need 3 Reptile Extract.\nWould you kindly collect it for me?",
+    "Enabled": true
   },
   "290045": {
     "OriginalText": "ダーカーの触角がたくさん必要なんです。\nそんなにいっぱい集められるか心配で……。\n一緒に集めてもらえませんか？",
@@ -1641,98 +1641,98 @@
   },
   "290046": {
     "OriginalText": "アルキュオネの手片を３つ\n調達したいのです。\nお願いすることは出来ますか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "I need 3 Alcyone Arm Pieces.\nWould you collect it for me?",
+    "Enabled": true
   },
   "290047": {
     "OriginalText": "獣の皮片を９つ調達したいのです。\n大仕事になりそうですが、\nお願いしてもよいですか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "I need 9 pieces of Beast Hide.\nSorry for imposing this to you,\n  would you kindly?",
+    "Enabled": true
   },
   "290048": {
     "OriginalText": "ダーカーの皮片が２つ必要なのです。\nわたし一人の手には負えないかもしれないので\n手龍ってもらえませんか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "I need 2 pieces of Darker Pelt.\nI may not be able to handle it alone,\nso can you help me?",
+    "Enabled": true
   },
   "290049": {
     "OriginalText": "バンクゥの大宝石を２個、調達したいのです。\nお願いしてもいいですか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "I need 2 Large Ban'qu Gems.\nWould you please collect it for me?",
+    "Enabled": true
   },
   "290050": {
     "OriginalText": "ギュゲンテとリベルゲンテの大砲塔部品を\n１つずつ調達したいのです。\n私が頼まれた仕事なのですが\nお手龍いをお願いしてもよいですか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "I need 1 Large Gun Part each from\nGygante and Libelgante. This task was\ngiven to me, can I ask for help?",
+    "Enabled": true
   },
   "290051": {
     "OriginalText": "ガラティオンの硬骨格を調達したいのです。\n一緒に集めれば、すぐ集められますよね！",
-    "Text": "",
-    "Enabled": false
+    "Text": "I need to collect Garation Frames.\nIf we collect them together it would\nbe easy!",
+    "Enabled": true
   },
   "290052": {
     "OriginalText": "アサルトライフルだけでギガンテスを倒せますか？\n[a 06]『アサルトライフル』\n初心者でも扱いやすい射撃武器。\n離れた場所から敵に射撃ダメージを与える。[b]\n[a 03]※要アサルトライフル系で撃破 この約束は一回のみ[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "Defeat a Gigantes with a Rifle only?\n[a 06]Assault Rifle, easy-to-use range\nweapon for beginners. Inflicts Range\ndamage to enemies from a distance.[b]\n[a 03]※Assault Rifle only, Non-Repeatable[b]",
+    "Enabled": true
   },
   "290053": {
     "OriginalText": "ツインマシンガンだけでギガンテスを倒せますか？\n[a 06]『ツインマシンガン』\n二丁の銃でアクロバティックに攻撃する射撃武器。\n単一の敵を集中的に攻撃できる。[b]\n[a 03]※要ツインマシンガン系で撃破 この約束は一回のみ[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "Defeat a Gigantes with only Twin MG?\n[a 06]Twin Machine Guns, shooting enemies\nwith 2 guns with acrobatic attacks.[b]\n[a 03]※Twin MG only, Non-Repeatable[b]",
+    "Enabled": true
   },
   "290054": {
     "OriginalText": "記憶伝置を読み解いて似来、この惑星の文化に\n興味爬々です！\nもし、探索の最中で遺跡の破片を見つけたら\n回収していただけませんか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "I'm interested in learning about this\nplanet! If you find any relics in your\nmission, would you please collect it?",
+    "Enabled": true
   },
   "290055": {
     "OriginalText": "赤く広がる花状結晶を調達したいのです。\n私一人では難しくて…。\n３つあれば大丈夫です。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I need Red Flower Crystals.\nIt's hard for me find it alone...\nAll I need is 3 pieces of it.",
+    "Enabled": true
   },
   "290056": {
     "OriginalText": "資材回収を手龍っていただけませんか？\n大尖塔の危険な場所へくことになるので、\nかなり大変な任務になるかと思いますけど、\nよろしくお願いします。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Can you please help me collect some\nmaterials? The Large Spire is a\ndangerous place but thank you.",
+    "Enabled": true
   },
   "290057": {
     "OriginalText": "大尖塔に新種のギガンテスが潜伏している\nそうなんです。\n私一人の手には負えないかもしれません。\n撃破をお願いできますか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "A new kind of Gigantes is hiding in\nthe Large Spire. I can't handle it\nalone. Can you help me defeat it?",
+    "Enabled": true
   },
   "290058": {
     "OriginalText": "集めなくてはならない鉱石素材がありまして、\n手を貸していただきたいのですが、いかがですか？\nエレスタド石と、白いエレスタド石、\nペンクビルクサイトの３種類です。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I would like to ask for help to\ncollect some ore materials. It's\nEllestadite, White Ellestadite, and\nPenkvilksite.",
+    "Enabled": true
   },
   "290059": {
     "OriginalText": "グラン水装の奥深くにいる危険なエネミーがいる！\n中でも最深部のエウリュードの強さときたら、\n劇属性の強力な攻撃でみんな手を焼いている！\n撃破できるのは、お前しかいない！ 頼めるか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "There are dangerous enemies deep\ninside the Gran Water Rig! One of\nthem is a Eurude! Please, only you\ncan defeat it!",
+    "Enabled": true
   },
   "290060": {
     "OriginalText": "ちょっとしたアイテムの回収を頼みたいんだけど\n場所はヴィヴリュードが遠くからバンバン\n撃ち込んでくる、なかなかヤバいとこなんだ。\nそこをなんとか戦闘不能にならず切り抜けてくれ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "I would like you to collect something\nbut there's a Vivryude nearby. Please\nsurvive without being incapacitated!",
+    "Enabled": true
   },
   "290061": {
     "OriginalText": "グラン水装で見つかった新素材を集めてくれ。\nトパーズ、迅雷のトパーズ、ジルコンの３つな。\n覚えたか？\n新しい素材とくれば、新しい武器の材料に\nなりそうだろ？ 頼んだぜ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect 3 new materials found in Gran\nWater Rig. It's Topaz, Thundering\nTopaz, and Zircon. I think they will\nbe used for new weapons.",
+    "Enabled": true
   },
   "290062": {
     "OriginalText": "大尖塔のエネミーの殲滅任務をお願いできますか？\n艦長にお願いするのは恐温なのですが、オペレーター\n業務に関してキサラさんの喉習を受けることに\nなっていて、ぜひ挑戦してみたいんです！\n[a 03]※この約束は１回のみ[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "Can you do the mission to eliminate\nenemies in the Large Spire? I'm still\nbeing trained to be an operator by\nKisara!\n[a 03]※Non-Repeatable[b]",
+    "Enabled": true
   },
   "290063": {
     "OriginalText": "大尖塔の奥深くにいるコラル・ドラゴンを撃破して\nいただけますか？ 雷属性が強化されたエネミーが\n潜んでいて『光一閃』のごとく立ち回るので、\nとても危険な任務になると思いますが、\nすみません、艦長しか頼れる人がいないんです！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Would you please defeat the Coral\nDragon in the Large Spire? it's more\npowerful than before, I can only\nentrust this to you Captain!",
+    "Enabled": true
   },
   "290064": {
     "OriginalText": "ギガンテスの群れを撃退していただけますか？\n防衛ラインに迫り来る様は『門庭若市』ですから\n次から次へ撃破しなくてはならなくて、\n艦長にお願いするほかないんです！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Would you please repel the group of\nGigantes? They're approaching the\ndefense line, we have to defeat them\nCaptain.",
+    "Enabled": true
   },
   "290065": {
     "OriginalText": "大尖塔で新素材を集めるのを手龍ってください。\nマラカイト、悠遠のマラカイト、エメラルド、\nどれも珍しいモノばかりで入手も困難ですけど、\n何か新しい洋を作るための材料になりそうです。\nお願いできますか？",
