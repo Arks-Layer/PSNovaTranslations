@@ -14,6 +14,9 @@ This repository is dedicated to translating PS: Nova game texts from Japanese to
 
 <i>While we appreciate the efforts of those who don't speak Japanese (through Google translate and the like), we would like for only those who have a grasp of the Japanese language to submit edits to those. ありがとう～ (*＾▽＾)／</i>
 
+## Downloads
+Downloads are available at our [Discord](https://discord.gg/pso2) in the #jp-nova channel (appropriate channel roles to see our Japanese section are required).
+
 ### Getting Started/Helping Out
 A full guide on how to get started is [available here](https://github.com/Arks-Layer/PSNovaTranslations/wiki/How-to-contribute)
 
