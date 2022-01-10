@@ -571,7 +571,7 @@
   },
   "710006": {
     "OriginalText": "グラン水装へ機械生洋の撃破に向かう。\n現地にてかなりの規物の反応を確認しており、\n若干の危険を伴う任務になると予想される。\n結果は追って報告する。",
-    "Text": "Ase Rabbisaw Motor × 4\nMagavulum Cannon × 4\nウィ・ロヴラッピーの主翼 × 4",
+    "Text": "Ase Rabbisaw Motor × 4\nMagavulum Cannon × 4\nOui Rove Rappy Main Wing × 4",
     "Enabled": true
   },
   "710007": {
@@ -591,7 +591,7 @@
   },
   "710010": {
     "OriginalText": "炎の高地へコラル・ドラゴンの撃破に向かう。\n現地にて強い反応を確認しており、\nかなりの危険を伴う任務になると予想される。\n結果は追って報告する。",
-    "Text": "Coral Dragon Blood × 4\n水晶竜族の結晶 × 4\n水晶竜族の結晶珪 × 4",
+    "Text": "Coral Dragon Blood × 4\nCrystalized Dragon Crystal × 4\nCrystalized Dragon Silicon × 4",
     "Enabled": true
   },
   "710011": {
@@ -636,7 +636,7 @@
   },
   "710019": {
     "OriginalText": "グラン水装へＧダーク・ラグネの撃破に向かう。\n現地にて強い反応を確認しており、\nかなりの危険を伴う任務になると予想される。\n結果は追って報告する。",
-    "Text": "Ｇダーク・ラグネの朽爪 × 4\nEder Crittro Fur × 4\nＧダーク・ラグネの硬触角 × 4",
+    "Text": "G-Dark Ragne Talon × 4\nEder Crittro Fur × 4\nG-Dark Ragne Hard Feeler × 4",
     "Enabled": true
   },
   "710020": {
@@ -661,7 +661,7 @@
   },
   "710024": {
     "OriginalText": "炎の高地へ原生種の撃破に向かう。\n現地において大量の反応を確認しているが、\nそれほど強くなく危険は少ないと予想される。\n結果は追って報告する。",
-    "Text": "Poly Jurrakia Bone × 4\nマーバレダイナスの弾倉 × 4\nGigantes Cracker Fragment × 4",
+    "Text": "Poly Jurrakia Bone × 4\nMar Valdinas Magazine × 4\nGigantes Cracker Fragment × 4",
     "Enabled": true
   },
   "710025": {
@@ -691,7 +691,7 @@
   },
   "710030": {
     "OriginalText": "古代都市の調査に向かう。\n生息するエネミーの調査を行う。\n未確認生命体との遭遇も予想される。\n帰還後、速やかに調査結果をまとめて提出する。",
-    "Text": "Flobegulf Hair × 4\nJurrakia Bone × 4\nマドアビアディノの鋭爪 × 4",
+    "Text": "Flobegulf Hair × 4\nJurrakia Bone × 4\nMad Aviadino Sharp Nail × 4",
     "Enabled": true
   },
   "710031": {
@@ -701,7 +701,7 @@
   },
   "710032": {
     "OriginalText": "パトロールを兼ねたエネミーの討伐に向かう。\n行き先は限定せず、反応の探索、\n追跡と殲滅を行う。\n結果は追って報告する。",
-    "Text": "メドジュラキアの硬骨 × 4\nクロザードのヒレ × 4\nラピミステルンの鋭翼角 × 4",
+    "Text": "Med Jurrakia Bone × 4\nGu Rozad Fin × 4\nRap Mysteroon Sharp Wing × 4",
     "Enabled": true
   },
   "710033": {
@@ -711,12 +711,12 @@
   },
   "710034": {
     "OriginalText": "グラン水装へ機械生洋の撃破に向かう。\n現地において大量の反応を確認しているが、\nそれほど強くなく危険は少ないと予想される。\n結果は追って報告する。",
-    "Text": "ラビーソの原動機 × 5\nラビーソの硬耳部鎖 × 5\nレイバンサーの鋭頭角 × 5",
+    "Text": "Rabbisaw Main Motor × 5\nRabbisaw Hard Ear Chain × 5\nRay Banther Pointed Horn × 5",
     "Enabled": true
   },
   "710035": {
     "OriginalText": "大尖塔のエネミーから牙を採取する。\n現地にてかなり強い反応を確認しており、\n若干の危険を伴う任務になると予想される。\n結果は追って報告する。",
-    "Text": "フリラウーダンの鋭牙 × 4\nバンサーの牙 × 4\nバンサーの鋭牙 × 4",
+    "Text": "Fury Ra Oodan Sharp Fang × 4\nBanther Fang × 4\nBanther Sharp Fang × 4",
     "Enabled": true
   },
   "710036": {
@@ -726,7 +726,7 @@
   },
   "710037": {
     "OriginalText": "大尖塔へ原生膜β類の撃破に向かう。\n現地にてかなり強い反応を確認しており、\n若干の危険を伴う任務になると予想される。\n結果は追って報告する。",
-    "Text": "ウイマフレザールの鋭朽爪 × 4\nノイバリドランナの鋭爪 × 4\nウィンディラスの大尾 × 4",
+    "Text": "Huy Maphrezer Sharp Hook Claw × 4\nNoibaridran'na Sharp Claw × 4\nWindiras Large Tail × 4",
     "Enabled": true
   },
   "710038": {
@@ -741,7 +741,7 @@
   },
   "710040": {
     "OriginalText": "惑星全域に出現するギガンテス調査に向かう。\n未確認エリアも含めた本格調査であり\n回避不可能な事態との遭遇も予想される。\n帰還後、速やかに調査結果をまとめて提出する。",
-    "Text": "Gigantes Missile Piece × 5\nVivryude Claw × 5\nデェフキュオネの触手 × 5",
+    "Text": "Gigantes Missile Piece × 5\nVivryude Claw × 5\nDefcyone Tentacle × 5",
     "Enabled": true
   },
   "710041": {
@@ -751,7 +751,7 @@
   },
   "710042": {
     "OriginalText": "大尖塔へ原生生洋の撃破に向かう。\n現地にて確認されている反応は非常に大きく\n大いなる危険を伴う任務になると予想される。\n結果は追って報告する。",
-    "Text": "G-Dahgash Tail Fin × 4\nレウ・ロヴラッピーの大油 × 4\nレウ・ロヴラッピーの主翼 × 4",
+    "Text": "G-Dahgash Tail Fin × 4\nLeu Rove Rappy Large Fat × 4\nLeu Rove Rappy Wing × 4",
     "Enabled": true
   },
   "710043": {
@@ -761,7 +761,7 @@
   },
   "710044": {
     "OriginalText": "大尖塔へ原生種の撃破に向かう。\n現地にて確認されている反応は非常に大きく\n大いなる危険を伴う任務になると予想される。\n結果は追って報告する。",
-    "Text": "フリラウーダンの毛皮 × 4\nミステルンの鋭翼角 × 4\nHard G-El Ahda Feeler × 4",
+    "Text": "Fury Ra Oodan Pelt × 4\nMysteroon Sharp Wing × 4\nHard G-El Ahda Feeler × 4",
     "Enabled": true
   },
   "710045": {
@@ -781,12 +781,12 @@
   },
   "710048": {
     "OriginalText": "古代都市へモストカーネベアの撃破に向かう。\n現地にて強い反応を確認しており、\nかなりの危険を伴う任務になると予想される。\n結果は追って報告する。",
-    "Text": "Yeden Pelt × 5\nモストカーネベアの毛皮 × 5\nMosst Carnnebear Cannon × 5",
+    "Text": "Yeden Pelt × 5\nMossed Carnnebear Pelt × 5\nMossed Carnnebear Cannon × 5",
     "Enabled": true
   },
   "710049": {
     "OriginalText": "惑星全域の出現するダーカー調査に向かう。\n未確認エリアも含めた本格調査であり\n回避不可能な事態との遭遇も予想される。\n帰還後、速やかに調査結果をまとめて提出する。",
-    "Text": "Ｇキュクロナーダのしっぽ × 5\nG-Predicahda Blade × 5\nG-Kuklonahda Arm × 5",
+    "Text": "G-Kuklonahda Tail × 5\nG-Predicahda Blade × 5\nG-Kuklonahda Arm × 5",
     "Enabled": true
   },
   "710050": {
@@ -821,7 +821,7 @@
   },
   "710056": {
     "OriginalText": "惑星全域の生態系調査に向かう。\n未確認エリアも含めた本格調査であり\n回避不可能な事態との遭遇も予想される。\n帰還後、速やかに調査結果をまとめて提出する。",
-    "Text": "Eder Crittro Fur × 5\nSwole Ban'qu Gem × 5\nエルマフレザールの鋭朽爪 × 5",
+    "Text": "Eder Crittro Fur × 5\nSwole Ban'qu Gem × 5\nEl Maphrezer Sharp Hook Claw × 5",
     "Enabled": true
   },
   "710057": {
@@ -831,12 +831,12 @@
   },
   "710058": {
     "OriginalText": "炎の高地で検知された大型エネミーの討伐を行う。\nギガンテスの可能性もあるため、\nかなりの危険を伴うことが予想される。\n結果は追って報告する。",
-    "Text": "Alcyone Shoulder Armor × 5\nDefcyone Ink Sac × 5\n水晶竜族の結晶珪 × 5",
+    "Text": "Alcyone Shoulder Armor × 5\nDefcyone Ink Sac × 5\nCrystalized Dragon Silicon × 5",
     "Enabled": true
   },
   "710059": {
     "OriginalText": "大尖塔へ大型エネミーの撃破に向かう。\n現地にてかなり強い反応を確認しており、\n若干の危険を伴う任務になると予想される。\n結果は追って報告する。",
-    "Text": "バンサーの鋭頭角 × 5\nレイバンサーの鋭朽爪 × 5\nレゾルカーネベアの大毛皮 × 5",
+    "Text": "Banther Pointed Horn × 5\nRay Banther Sharp Hook Claw × 5\nResol Carnnebear Large Pelt × 5",
     "Enabled": true
   },
   "710060": {
@@ -846,7 +846,7 @@
   },
   "710061": {
     "OriginalText": "大尖塔へゴルドスの撃破に向かう。\n現地にて復数の強い反応を確認しており、\nかなりの危険を伴う任務になると予想される。\n結果は追って報告する。",
-    "Text": "スロザードの鋭爪 × 5\nゴルドスの鋭攻撃杭 × 5\nゴルドスの硬制御杭 × 5",
+    "Text": "Su Rozad Sharp Claw × 5\nGordes Sharp Assault Spike × 5\nGordes Hard Control Rod × 5",
     "Enabled": true
   },
   "710062": {
@@ -876,7 +876,7 @@
   },
   "710067": {
     "OriginalText": "銅の荒野で偵察目的の原生種討伐に向かう。\n現地における反応はそれほど強くなく、大きな危険は\nないと予想するが、慎重に作戦を遂行する。\n結果は追って報告する。",
-    "Text": "アビアディノの鋭爪 × 6\nポルトルリンプの大胸ビレ × 6\nガーグランブの硬凝液結晶 × 6",
+    "Text": "Aviadino Sharp Claw × 6\nPol Torrimp Large Pectoral Fin × 6\nGargranv Hard Mucus Crystal × 6",
     "Enabled": true
   },
   "710068": {
@@ -891,7 +891,7 @@
   },
   "710070": {
     "OriginalText": "銅の荒野へ機械生洋の撃破に向かう。\n現地において大量の反応を確認しているが、\nそれほど強くなく危険は少ないと予想される。\n結果は追って報告する。",
-    "Text": "Gigantes Missile Piece × 8\nラーバレダイナスの大照準 × 8\nLarge Ray Banther Cannon × 8",
+    "Text": "Gigantes Missile Piece × 8\nLar Valdinas Large Optics × 8\nLarge Ray Banther Cannon × 8",
     "Enabled": true
   },
   "710071": {
@@ -916,7 +916,7 @@
   },
   "710075": {
     "OriginalText": "グラン水装へ大型エネミーの撃破に向かう。\n捜索と撃破の両方が要求されるため\nかなりの危険を伴う任務になると予想される。\n結果は追って報告する。",
-    "Text": "Gigantes Shell Fragment × 10\nDarker Pelt × 10\nスマラクリトロの鋭爪 × 10",
+    "Text": "Gigantes Shell Fragment × 10\nDarker Pelt × 10\nSmar Crittro Sharp Claw × 10",
     "Enabled": true
   },
   "710076": {
@@ -951,12 +951,12 @@
   },
   "710082": {
     "OriginalText": "大尖塔へ大型原生種の撃破に向かう。\n現地において大量の反応を確認しているが、\nこちらも大量の人員を繰り出すので恐れるに足りない。\n結果は追って報告する。",
-    "Text": "Large Ray Banther Cannon × 6\nノイバリドランナの鋭爪 × 6\nゴルドスの鋭攻撃杭 × 6",
+    "Text": "Large Ray Banther Cannon × 6\nNoibaridran'na Sharp Claw × 6\nGordes Sharp Assault Spike × 6",
     "Enabled": true
   },
   "710083": {
     "OriginalText": "大尖塔で天然樹木の伐採を行う。\n近くに大型エネミーの反応を確認しているが、\n邪魔するようなら一緒に伐採する予定。\n結果は追って報告する。",
-    "Text": "Wild Tree × 6\nゴルドスの鋭攻撃杭 × 6",
+    "Text": "Wild Tree × 6\nGordes Sharp Assault Spike × 6",
     "Enabled": true
   },
   "710084": {
@@ -966,7 +966,7 @@
   },
   "710085": {
     "OriginalText": "大尖塔で原生生洋の討伐に向かう。\n現地にて復数の強い反応を確認しており、\nかなりの危険を伴う任務になると予想される。\n結果は追って報告する。",
-    "Text": "Monster Pelt × 5\nアビアディノの大コブ × 5\nアガミステルンの鋭角 × 5",
+    "Text": "Monster Pelt × 5\nAviadino Large Polyp × 5\nAga Mysteroon Sharp Horn × 5",
     "Enabled": true
   },
   "710086": {
@@ -976,12 +976,12 @@
   },
   "710087": {
     "OriginalText": "古代都市で検知された大型エネミー撃破に向かう。\n現地にて確認されている反応は非常に大きく\n大いなる危険を伴う任務になると予想される。\n結果は追って報告する。",
-    "Text": "Ｇダーク・ラグネの大脚甲 × 8\nヴィバレダイナスの大弾倉 × 8\nレゾルカーネベアの大毛皮 × 8",
+    "Text": "G-Dark Ragne Large Carapace × 8\nOui Valdinas Large Magazine × 8\nResol Carnnebear Large Pelt × 8",
     "Enabled": true
   },
   "710088": {
     "OriginalText": "古代都市へデェフキュオネの撃破に向かう。\n現地にて確認されている反応は非常に大きく\n大いなる危険を伴う任務になると予想される。\n結果は追って報告する。",
-    "Text": "Alcyone's Jelly × 6\nDefcyone Ink Sac × 6\nデェフキュオネの硬肩伝甲 × 6",
+    "Text": "Alcyone's Jelly × 6\nDefcyone Ink Sac × 6\nDefcyone Hard Shoulder Carapace × 6",
     "Enabled": true
   },
   "710089": {
@@ -1001,7 +1001,7 @@
   },
   "710092": {
     "OriginalText": "ノヴァ内部へ偵察を兼ねたエネミー討伐に向かう。\n現地にてかなり強い反応を確認しており、\n若干の危険を伴う任務になると予想される。\n結果は追って報告する。",
-    "Text": "Reptile Meat × 6\nイーグマンデルの大髭 × 6\nレ・エクセージＴの大目玉 × 6",
+    "Text": "Reptile Meat × 6\nEag Mandel Large Whisker × 6\nLe Equsage T Large Eyeball × 6",
     "Enabled": true
   },
   "710093": {
@@ -1016,7 +1016,7 @@
   },
   "710095": {
     "OriginalText": "ノヴァ内部でのエネミー掃討作戦を行う。\n現地にて確認されている反応は非常に大きく\n大いなる危険を伴う任務になると予想される。\n結果は追って報告する。",
-    "Text": "レ・エクセージＴの大目玉 × 8\nヴァッドギオスの硬伝甲 × 8\nVad Dogios Shield × 8",
+    "Text": "Le Equsage T Large Eyeball × 8\nVad Dogios Hard Shell × 8\nVad Dogios Shield × 8",
     "Enabled": true
   },
   "710096": {
@@ -1026,12 +1026,12 @@
   },
   "710097": {
     "OriginalText": "ノヴァ内部へファンアフォルの撃破に向かう。\n現地にて強い反応を確認しており、\nかなりの危険を伴う任務になると予想される。\n結果は追って報告する。",
-    "Text": "Gigantes Laser Piece × 8\nファンアフォルの大翼 × 8\nファンアフォルの大尾羽 × 8",
+    "Text": "Gigantes Laser Piece × 8\nFan'aphol Large Wing × 8\nFan'aphol Large Rectrix × 8",
     "Enabled": true
   },
   "710098": {
     "OriginalText": "ノヴァ内部全域の危険度調査に向かう。\n大きな反応を示す未調査エリアを含めた本格調査で\n未確認生命体との遭遇も予想される。\n帰還後、速やかに調査結果をまとめて提出する。",
-    "Text": "Twinkling Cymophane Stone × 10\nVad Dogios Shield × 10\nファンアフォルの大尾羽 × 10",
+    "Text": "Twinkling Cymophane Stone × 10\nVad Dogios Shield × 10\nFan'aphol Large Rectrix × 10",
     "Enabled": true
   },
   "710099": {
@@ -1041,7 +1041,7 @@
   },
   "710100": {
     "OriginalText": "ノヴァ内部へギガティオンの撃破に向かう。\n現地にて確認されている反応は非常に大きく\n大いなる危険を伴う任務になると予想される。\n結果は追って報告する。",
-    "Text": "Garation's Sharp Saw Blade × 10\nGigation Wire × 10\nギガティオンの鋭ノコ刃 × 10",
+    "Text": "Garation's Sharp Saw Blade × 10\nGigation Wire × 10\nGigation Sharp Saw Blade × 10",
     "Enabled": true
   },
   "710101": {
@@ -1101,7 +1101,7 @@
   },
   "730105": {
     "OriginalText": "僕が探索隊のリーダーだなんて……。",
-    "Text": "I'm a Leader or such of a Search\nTeam.",
+    "Text": "Finally, I'm a Leader of the\nSearch Team...",
     "Enabled": true
   },
   "730106": {
@@ -1111,7 +1111,7 @@
   },
   "730107": {
     "OriginalText": "探索隊を動かしたいのかい？",
-    "Text": "Do you want to operate the\nSearch Team?",
+    "Text": "Do you want to commence the\nSearch Team operation?",
     "Enabled": true
   },
   "730108": {
@@ -1121,7 +1121,7 @@
   },
   "730109": {
     "OriginalText": "何なりとお命じください。",
-    "Text": "Please order me to do\nanything.",
+    "Text": "Please order me anything.",
     "Enabled": true
   },
   "730110": {
@@ -1131,7 +1131,7 @@
   },
   "730111": {
     "OriginalText": "ワシの探索隊の実力を見たいのじゃろう。",
-    "Text": "You want to see the power of my\nSearch Team?",
+    "Text": "You want to see the power of the\nmy Search Team.",
     "Enabled": true
   },
   "730112": {
@@ -1171,12 +1171,12 @@
   },
   "730119": {
     "OriginalText": "あらあらっ、探索いっちゃう？",
-    "Text": "Ara ara, are you going to search?",
+    "Text": "My my, are we going to search?",
     "Enabled": true
   },
   "730120": {
     "OriginalText": "私を探索隊のリーダーに据えるとは\n見る目あるんじゃないかしら。",
-    "Text": "I wonder if it's easy to be a\nleader of the Search Team.",
+    "Text": "I wonder if it's easy to be a\nleader of Search Team.",
     "Enabled": true
   },
   "730121": {
@@ -1191,7 +1191,7 @@
   },
   "730123": {
     "OriginalText": "良き探索者とは、探索におけるあらゆる\n失敗を冒した人洋のことかもしれんの。\n要は臆せず、まずは試してみることじゃ。",
-    "Text": "Any good searcher's made a mistake\nat some point. The point is, don't\nbe afraid, try it first.",
+    "Text": "Any good searcher made a mistake\nat some point. The point is, don't\nbe afraid, try it first.",
     "Enabled": true
   },
   "730124": {
@@ -1201,7 +1201,7 @@
   },
   "730125": {
     "OriginalText": "なんだ、探索隊を出撃させるのか？",
-    "Text": "What makes a Search Team to sortie?",
+    "Text": "What? You're going to sortie the\nSearch Team?",
     "Enabled": true
   },
   "730126": {
@@ -1246,7 +1246,7 @@
   },
   "730206": {
     "OriginalText": "この探索から帰ったら、\nシャロンさんに……。",
-    "Text": "After the search I'll be going\nhome..., to Sharon...",
+    "Text": "After the search I'll be going\nhome...,\nto Sharon...",
     "Enabled": true
   },
   "730207": {
@@ -1261,12 +1261,12 @@
   },
   "730209": {
     "OriginalText": "かしこまりました。\nふふ、期待には応えますよ。",
-    "Text": "Understood. Haha, I will meet\n your expectations.",
+    "Text": "Understood. Haha,\nI will meet your expectations.",
     "Enabled": true
   },
   "730210": {
     "OriginalText": "探索隊、一同出撃！ってか\nさすがにガラじゃねぇな。",
-    "Text": "All the Search Team sortied!\nIt's not really a gala.",
+    "Text": "All the Search Team sortied!\nIt wasn't really appropriate.",
     "Enabled": true
   },
   "730211": {
@@ -1306,12 +1306,12 @@
   },
   "730218": {
     "OriginalText": "それでは行ってきまーす！",
-    "Text": "Well then, let's go!",
+    "Text": "Well then let's go!",
     "Enabled": true
   },
   "730219": {
     "OriginalText": "じゃあ、楽しみに待ってね！",
-    "Text": "Then, I'll look forward to it.",
+    "Text": "Then, I'm look forward to it.",
     "Enabled": true
   },
   "730220": {
@@ -1331,7 +1331,7 @@
   },
   "730223": {
     "OriginalText": "心配することはない。\nおぬしは目的地を示した。そこへ至る道は\nわしら探索隊が柘いていってやろうて。",
-    "Text": "Don't worry. I'll show you your\ndestination. The way to get there\nwill be found by our Search Team.",
+    "Text": "Don't worry. I will find our\ndestination. The way to get there\nwill be found by our Search Team.",
     "Enabled": true
   },
   "730224": {
@@ -1381,7 +1381,7 @@
   },
   "730305": {
     "OriginalText": "はぁぁ、なんとか無事帰ってきました……。",
-    "Text": "Phew, I returned safely....",
+    "Text": "Humph, I returned safely....",
     "Enabled": true
   },
   "730306": {
@@ -1396,7 +1396,7 @@
   },
   "730308": {
     "OriginalText": "探索の結果報告？\n何だ、めんどくせぇな。",
-    "Text": "Report the search results?\n What, it's a hassle.",
+    "Text": "Report the search results?\n What a hassle.",
     "Enabled": true
   },
   "730309": {
@@ -1411,7 +1411,7 @@
   },
   "730311": {
     "OriginalText": "探索の結果じゃ。\n心して聞くのじゃぞ！",
-    "Text": "As a result of the search...\nListen carefully!",
+    "Text": "This is the result of the search.\nListen carefully!",
     "Enabled": true
   },
   "730312": {
@@ -1431,7 +1431,7 @@
   },
   "730315": {
     "OriginalText": "はい、探索の結果報告であります！",
-    "Text": "Yes, here's the report of the\nsearch results.",
+    "Text": "Yes, it is the report of the\nsearch results.",
     "Enabled": true
   },
   "730316": {
@@ -1476,7 +1476,7 @@
   },
   "730324": {
     "OriginalText": "結果報告だね、待ってたよ。",
-    "Text": "It's the results report you've\nbeen waiting for.",
+    "Text": "It's the result report you've\nbeen waiting.",
     "Enabled": true
   },
   "730325": {
@@ -1541,17 +1541,17 @@
   },
   "730409": {
     "OriginalText": "穏やかな時間は良いですよね。\nまぁ戦場も嫌いではないのですが。",
-    "Text": "Quiet times are good. Well, I don't\nhate the battlefield either.",
+    "Text": "Quite times are good. Well, I don't\nhate the battlefield either.",
     "Enabled": true
   },
   "730410": {
     "OriginalText": "今は出撃命令がないんでね。\n骨休めって奴だ",
-    "Text": "I don't have a sortie order right\nnow. I'm relaxed.",
+    "Text": "I don't have a sortie order right\nnow. I'm relieved.",
     "Enabled": true
   },
   "730411": {
     "OriginalText": "なぬっ、さぼっている訳ではないぞ、\n休息も仕事のうちじゃ！",
-    "Text": "What? I'm not skipping, rest is\npart of my work!",
+    "Text": "What, I'm not skipping, rest is\npart of my work!",
     "Enabled": true
   },
   "730412": {
@@ -1561,7 +1561,7 @@
   },
   "730413": {
     "OriginalText": "休み、英気を養う。\n探索の成功に不可欠なものね。",
-    "Text": "Taking a break and resting. It’s\nessential to the success of your\nsearch.",
+    "Text": "Taking a break and rest. It’s\nessential to the success of the\nsearch.",
     "Enabled": true
   },
   "730414": {
@@ -1576,7 +1576,7 @@
   },
   "730416": {
     "OriginalText": "私達、探索隊の成果で\nここでの生活が支えられてるって\nあんたちゃんとわかってるの？",
-    "Text": "Do you know that the results of the\nSearch Team support our lives here?",
+    "Text": "Do you know that the results of the\nSearch Team that support our lives here?",
     "Enabled": true
   },
   "730417": {
@@ -1636,7 +1636,7 @@
   },
   "730428": {
     "OriginalText": "しー、今は探索隊はお休み中だから\n静かにしてあげてね。",
-    "Text": "Shh, the Search Team is on break\nnow, please be quiet.",
+    "Text": "Shh, the Search Team is on break\nnow, please be quite.",
     "Enabled": true
   }
 }
