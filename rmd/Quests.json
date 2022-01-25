@@ -2226,38 +2226,38 @@
   },
   "230008": {
     "OriginalText": "依頼者：フィルディア\n銅の荒野へアグリオスを倒しに行く！\nヘイロウの威力を見せてやろうじゃねえか。\n足場を展開・包囲したら、攻撃有効箇所を\n見つけ集中攻撃だ！\n\n\n同行者：ルティナ セイル イズナ フィルディア\n[a 03]※この任務のみ一度クリアまでフィルディアが同行[b]",
-    "Text": "[a 03]＊You will be accompanied by Fildia\nuntil you clear this quest at least\nonce.[b]",
+    "Text": "Client: Fildia\n\n[a 03]＊You will be accompanied by Fildia\nuntil you clear this quest at least\nonce.[b]",
     "Enabled": true
   },
   "230009": {
     "OriginalText": "\n銅の荒野におけるアグリオス撃破作戦を任せる。\n似前、撃破したものとは別の個体を確認した。\n新兵器ヘイロウを使用し、足場を展開して\n標的を包囲し、弱点を集中攻撃せよ。\n",
-    "Text": "",
-    "Enabled": false
+    "Text": "\nWith the operation to defeat another\nAgrios. We have to use the Halo to make\na platform, to attack and focus on its\nweakness.",
+    "Enabled": true
   },
   "230010": {
     "OriginalText": "依頼者：リーティア\n炎の高地で医療資材の収集をお願いします。\n医療資材というのはいろいろあるのですが、\n現地へ行けばおわかりいただけると思います。\n崖が多いので落ちないように、\nお気をつけください。\n\n同行者：ルティナ セイル イズナ",
-    "Text": "\nParty: Lutina, Sail, Izuna",
+    "Text": "Client: Rietheia\n\nParty: Lutina, Sail, Izuna",
     "Enabled": true
   },
   "230011": {
     "OriginalText": "\n炎の高地における偵察作戦を任せる。\n指定地域まで到達せよ。\n原生種に遭遇した場合は速やかに撃破するよう。\n",
-    "Text": "",
-    "Enabled": false
+    "Text": "\nA recon operation in Flame Highlands.\nReach the designated area.\nExpecting encounter with the Native\nspecies.",
+    "Enabled": true
   },
   "230012": {
     "OriginalText": "依頼者：カリスト\n艦の補修資材が要る。炎の高地で探して来い。\n補修に使えそうなものは自分で考えろ。\nだがあそこは広い。\nダーカーの反応も多数あるらしいが\n対処もお前達の仕事だ。\n\n同行者：ルティナ セイル イズナ",
-    "Text": "\nParty: Lutina, Sail Izuna",
+    "Text": "Client: Callisto\n\nParty: Lutina, Sail Izuna",
     "Enabled": true
   },
   "230013": {
     "OriginalText": "依頼者：フィルディア\n炎の高地でギガンテスを撃破してくれ。\n新種だそうだからオレにも弱点はわからんが\nセオリーどおり足場を展開して弱点を見つけて\n叩くしかなさそうだ。\n火を噴くらしいから気をつけろよ！\n\n同行者：ルティナ セイル イズナ",
-    "Text": "\nParty: Lutina, Sail, Izuna",
+    "Text": "Client: Fildia\n\nParty: Lutina, Sail, Izuna",
     "Enabled": true
   },
   "230014": {
     "OriginalText": "\n炎の高地におけるアルキュオネ撃破作戦を任せる。\n似前撃破した火炎放射するものとは別の個体を\n高地の深部にて確認した。\n攻撃を回避しつつ足場を展開して包囲し、\n弱点を集中攻撃せよ。\n",
-    "Text": "",
-    "Enabled": false
+    "Text": "\nAn operation to defeat Alcyone in Flame\nHighlands. Detected in the deepest area.\nDeploy your platforms while avoiding its\nattacks.",
+    "Enabled": true
   },
   "230015": {
     "OriginalText": "\n炎の高地におけるギガンテス撃破作戦を任せる。\n反応から新種個体である可能性が高い。\n細心の注意をもって\n標的の特性を確認し、\n速やかに攻撃開始せよ。\n\n同行者：ルティナ セイル イズナ",
@@ -2266,28 +2266,28 @@
   },
   "230016": {
     "OriginalText": "依頼者：ヨミ\nグランニウムが足りない。\n武器の改造にはまだまだ必要だ。\n聞いた話じゃグラン水装の奥深くにあるらしいが、\nダーカーがうようよいるそうだ。\n武器を強くしたきゃ回収に行くといい。\n\n同行者：ルティナ セイル イズナ",
-    "Text": "\nParty: Lutina, Sail, Izuna",
+    "Text": "Client: Yomi\n\nParty: Lutina, Sail, Izuna",
     "Enabled": true
   },
   "230017": {
     "OriginalText": "\nグラン水装における偵察作戦を任せる。\n指定地域まで到達せよ。\n比較的弱小のダーカーおよび原生種が検知されて\nいるが、遭遇した場合は速やかに撃破するよう。\n",
-    "Text": "",
-    "Enabled": false
+    "Text": "\nA recon operation in Gran Water Rig.\nReach the designated area.\nExpect encounter with weak Darkers and\nNative species.",
+    "Enabled": true
   },
   "230018": {
     "OriginalText": "依頼者：ヒュペリオン\nクルーの食材調達をお願いしますぞ。\n私の勘によれば、グラン水装は新鮮野菜の原生地\nとして有望なのです！\n行く手を塞ぐアグリオスは相手にせず、\n食材さえ調達していただければ結構ですぞ。\n\n同行者：セイル",
-    "Text": "\nParty: Sail",
+    "Text": "Client: Hyperion\n\nParty: Sail",
     "Enabled": true
   },
   "230019": {
     "OriginalText": "依頼者：セイル\nオレと一緒にグラン水装で新種のギガンテスを\n撃破しようぜ！\n情報は皆無に等しいが、オレ達は艦のクルーの命を\n背負ってんだ！\n命令違反だろうが、何とかしてやろうぜ！\n油断しないで行こう！\n同行者：ルティナ セイル イズナ",
-    "Text": "\nParty: Lutina, Sail, Izuna",
+    "Text": "Client: Sail\n\nParty: Lutina, Sail, Izuna",
     "Enabled": true
   },
   "230020": {
     "OriginalText": "\nグラン水装におけるディートアス撃破作戦を任せる。\n似前、撃破しているとはいえレーザーを用いた攻撃が\n脅威であることに変わりなく、正面突破は大きな\n危険を伴う。\n油断なく撃破せよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "\nAn operation to defeat Dietoas in Gran\nWater Rig. It's laser attacks is a\nthreat and frontal assault is dangerous.\nSo be alert.",
+    "Enabled": true
   },
   "230021": {
     "OriginalText": "\nグラン水装にて確認された新種ギガンテスの\n撃破作戦を任せる。\n標的の特性を確認後、速やかに攻撃を開始するよう。\n標的の撃破を確認次第、許可を与えるので速やかに\n帰還せよ。\n\n同行者：ルティナ セイル イズナ",
@@ -2296,28 +2296,28 @@
   },
   "230022": {
     "OriginalText": "\nグラン水装におけるエウリュード撃破作戦を任せる。\n遭遇までの時間は短いと思われるが、\n標的は砲塔および動き方に独特の特微がある。\nよく理解して接近し、撃破せよ。\n",
-    "Text": "",
-    "Enabled": false
+    "Text": "\nAn operation to defeat Eurude in Gran\nWater Rig. It seems it has a unique set\nof weapons and behavior. Approach it\ncarefully.",
+    "Enabled": true
   },
   "230023": {
     "OriginalText": "依頼者：オルクス\n銅の荒野でグランアーツ訓練を楽しもうじゃないか。\nあそこなら活きのいいダーカーがいて\n相手には事欠かんだろう。\n背後を取られないよう気をつけてな。\n\n\n同行者：ルティナ セイル イズナ",
-    "Text": "\nParty: Lutina, Sail, Izuna",
+    "Text": "Client: Orcus\n\nParty: Lutina, Sail, Izuna",
     "Enabled": true
   },
   "230024": {
     "OriginalText": "\n銅の荒野における資材回収作戦を任せる。\n直ちに現地へ向かい、資材として使用可能な洋を\n捜索せよ。\n大型の機械化生命、シルブカーネベアの反応を\n確認しているが、撃破は必須でない。",
-    "Text": "",
-    "Enabled": false
+    "Text": "\nA material recovery operation in Steel\nWasteland. Head to the site and gather\nit. A Silve Carnnebear is also detected\nin the area.",
+    "Enabled": true
   },
   "230025": {
     "OriginalText": "依頼者：イズナ\n銅の荒野でアグリオスを捕まえましょう。\nご説明した内容をよく思い出してください。\n倒してしまわないよう気をつけなければなりません。\n\n\n\n同行者：ルティナ セイル イズナ",
-    "Text": "\nParty: Lutina, Sail, Izuna",
+    "Text": "Client: Izuna\n\nParty: Lutina, Sail, Izuna",
     "Enabled": true
   },
   "230026": {
     "OriginalText": "\n銅の荒野における第２回・哨戒作戦を任せる。\n前回同様、指定地域を周回探索せよ。\n原生種に遭遇した場合は速やかに撃破するよう。",
-    "Text": "",
-    "Enabled": false
+    "Text": "\nA 2nd patrol operation in Steel Wasteland.\nSearch around the designated area.\nEliminate any encountered Native specie.",
+    "Enabled": true
   },
   "230027": {
     "OriginalText": "\n銅の荒野にて確認されたアグリオス亜種の\n撃破作戦を任せる。\n標的の特性を確認し、速やかに攻撃を開始するよう。\n標的の撃破を確認次第、帰還許可を与える。\n\n\n同行者：ルティナ セイル イズナ",
@@ -2326,7 +2326,7 @@
   },
   "230028": {
     "OriginalText": "依頼者：レイヴァン\nグラン水装の調査に同行をお願いします。\nおそらくすぐに原生種と遭遇するでしょう。\n未知のギガンテス、しかも濃知のものとは形状が\n大きく異なるものがいるかもしれません。\n注意しましょう。\n\n同行者：ルティナ セイル イズナ",
-    "Text": "\nParty: Lutina, Sail, Izuna",
+    "Text": "Client: Raven\n\nParty: Lutina, Sail, Izuna",
     "Enabled": true
   },
   "230029": {
@@ -2336,37 +2336,37 @@
   },
   "230030": {
     "OriginalText": "依頼者：フィルディア\nグラン水装から拠点に接近するディートアスを\n撃破しろ！ 艦の存亡を左右する戦いだ。\n後に続く奴らに仕留め方を見せてやってくれ！\n死ぬ気で拠点を守り抜け！ そして必ず生き残れ！\n\n\n同行者：ルティナ セイル イズナ",
-    "Text": "\nParty: Lutina, Sail, Izuna",
+    "Text": "Client: Fildia\n\nParty: Lutina, Sail, Izuna",
     "Enabled": true
   },
   "230031": {
     "OriginalText": "依頼者：フィルディア\n緊急事態だ。グラン水装から拠点に接近する\nギュゲンテを撃破しろ！\n遠距離攻撃をいくつも食らったら艦が持たん。\nお前らが先頭で主砲を叩いて、後に続く奴らの\n手本になってくれ！\n\n同行者：ルティナ セイル イズナ",
-    "Text": "\nParty: Lutina, Sail, Izuna",
+    "Text": "Client: Fildia\n\nParty: Lutina, Sail, Izuna",
     "Enabled": true
   },
   "230032": {
     "OriginalText": "依頼者：フィルディア\n炎の高地でコラル・ドラゴンを撃破してくれ。\n惑星離陸のため、この地点に軌道制御伝置を\n配置予定なんだが、コラル・ドラゴンが邪魔で\n作業が進んでない。\n掃討を手龍ってやってくれ！\n\n同行者：ルティナ セイル イズナ",
-    "Text": "\nParty: Lutina, Sail, Izuna",
+    "Text": "Client: Fildia\n\nParty: Lutina, Sail, Izuna",
     "Enabled": true
   },
   "230033": {
     "OriginalText": "\n銅の荒野におけるアルキュオネ撃破作戦を任せる。\n標的は独自の巡回ルートを移動している物様。\n火炎攻撃および火炎流に巻き込まれないよう\n慎重に行動せよ。\n",
-    "Text": "",
-    "Enabled": false
+    "Text": "\nAn operation to defeat Alcyone in Steel\nWasteland. The target seems to have its\nown patrol route. Watch out for its fire\nattacks.",
+    "Enabled": true
   },
   "230034": {
     "OriginalText": "依頼者：キサラ\nグラン水装の奥地を探索なさい。\nその先に必ず何かあるはずよ。\n前進なくして、この惑星の真の姿を見冷めることは\nできないわ。さあ行きなさい！\n\n\n同行者：ルティナ セイル イズナ",
-    "Text": "\nParty: Lutina, Sail, Izuna",
+    "Text": "Client: Kisara\n\nParty: Lutina, Sail, Izuna",
     "Enabled": true
   },
   "230035": {
     "OriginalText": "依頼者：シャロン\n炎の高地でアルキュオネを捕獲してください。\n空を飛ぶ乗り洋として利用できるギガンテスです。\n必要な人数分を確保して、拠点までお持ち帰りを\nお願いします。ルティナさん、堪えてくださいね。\n\n\n同行者：ルティナ セイル イズナ",
-    "Text": "\nParty: Lutina, Sail, Izuna",
+    "Text": "Client: Sharon\n\nParty: Lutina, Sail, Izuna",
     "Enabled": true
   },
   "230036": {
     "OriginalText": "依頼者：シャロン\nアルキュオネに乗って大穴を降りてみてください。\n生命反応があるので何かと遭遇する可能性が\n高いですが、突破しなくては何も始まりません。\nよろしくお願いします。\n\n\n同行者：ルティナ セイル イズナ\n[a 03]（制限時間３０分）[b]",
-    "Text": "\nParty: Lutina, Sail, Izuna\n[a 03](Time limit: 30 minutes)[b]",
+    "Text": "Client: Sharon\n\nParty: Lutina, Sail, Izuna\n[a 03](Time limit: 30 minutes)[b]",
     "Enabled": true
   },
   "230037": {
@@ -2376,122 +2376,122 @@
   },
   "230038": {
     "OriginalText": "\nグラン水装におけるアルレイバンサー撃破作戦を\n任せる。\nエリア内の最深部にて大型機械化生命の反応を\n確認している。\n速やかに現場へ向かうよう。\n",
-    "Text": "",
-    "Enabled": false
+    "Text": "\nAn operation to defeat Alray Banther in\nGran Water Rig. It is detected in the\ndeepest area. Head to the site\nimmediately.",
+    "Enabled": true
   },
   "230039": {
     "OriginalText": "依頼者：イズナ\nクリームチーズ獲得作戦、開始ですよ。\n古代都市へ行きましょう！\nヒュペリオンさんの勘によると、乳製品が採れる\n原生種がいるそうなんです。\nスイーツへのわたしの情熱に、力を貸してください！\n\n同行者：イズナ",
-    "Text": "\nParty: Izuna",
+    "Text": "Client: Izuna\n\nParty: Izuna",
     "Enabled": true
   },
   "230040": {
     "OriginalText": "依頼者：ルティナ\n大尖塔で、ナックルの持久戦に付き合ってくれる？\nあたしナックルは見よう見まねのぶっつけ本番だけど\n気が済むまで敵を打つべし！ 打つべし！ ってね。\nいっくわよ！\n\n\n同行者：ルティナ\n[a 03]（制限時間１５分）[b]",
-    "Text": "\nParty: Lutina\n[a 03](Time limit: 15 minutes)[b]",
+    "Text": "Client: Lutina\n\nParty: Lutina\n[a 03](Time limit: 15 minutes)[b]",
     "Enabled": true
   },
   "230041": {
     "OriginalText": "依頼者：セイル\nキサラさんの出撃要請だ。銅の荒野へ急ごうぜ！\nアグリオスをあちこち暴れ回らせないように\n速攻で撃破だ！\n早く片付けて、ゆっくり話の続きもしたいしな。\n\n\n同行者：セイル",
-    "Text": "\nParty: Sail",
+    "Text": "Client: Sail\n\nParty: Sail",
     "Enabled": true
   },
   "230042": {
     "OriginalText": "依頼者：シャロン\n大尖塔の調査をお願いできませんか？\n生体反応を検知したのに、動いている気配を\n確認できないのです。現地がどうなっているのか、\nご報告をお待ちしています。\n\n\n同行者：ルティナ セイル イズナ",
-    "Text": "\nParty: Lutina, Sail, Izuna",
+    "Text": "Client: Sharon\n\nParty: Lutina, Sail, Izuna",
     "Enabled": true
   },
   "230043": {
     "OriginalText": "\n大尖塔におけるガラティオン追跡撃破作戦を任せる。\n標的は独自の巡回ルートを移動している物様。\n標的の撃破を確認次第、帰還許可を与える。\n",
-    "Text": "",
-    "Enabled": false
+    "Text": "\nAn operation to defeat Garation in Large\nSpire. The target has its own patrol\nroute. Return immediately after\ndefeating it.",
+    "Enabled": true
   },
   "230044": {
     "OriginalText": "\n大尖塔でコラル・ドラゴンの反応が確認された。\n速やかに現場へ向かい標的を撃破せよ。\nその他、比較的弱小のダーカーおよび原生種が\n検知されているが、遭遇した場合は速やかに\n撃破するよう。\n",
-    "Text": "",
-    "Enabled": false
+    "Text": "\nA Coral Dragon was seen in Large Spire.\nHead to the site and defeat the target.\nExpect encounter with Darkers and Native\nspecies.",
+    "Enabled": true
   },
   "230045": {
     "OriginalText": "依頼者：シャロン\n大尖塔を調査して、記録伝置を回収してください。\n似前いただいた記録伝置を解祈しただけでは\n情報が足りません。\n確認済みの６点すべての回収をお願いします。\n\n\n同行者：ルティナ セイル イズナ",
-    "Text": "\nParty: Lutina, Sail, Izuna",
+    "Text": "Client: Sharon\n\nParty: Lutina, Sail, Izuna",
     "Enabled": true
   },
   "230046": {
     "OriginalText": "\n大尖塔で大型機械化生命の反応が確認された。\n最深部に潜伏していると思われる。\nルート上、多数の原生種の反応があり、\nこれを排除しつつ、速やかに現場へ向かうよう。",
-    "Text": "",
-    "Enabled": false
+    "Text": "\nA large mechanical lifeform was detected\nin Large Spire. Head to the site\nimmediately and eliminate any encountered\nenemies.",
+    "Enabled": true
   },
   "230047": {
     "OriginalText": "依頼者：シャロン\n古代都市の調査をお願いします。\nこの地域にはＧダーク・ラグネの反応があって\nかなり危険なのですが、ギガンテスについて知る\n手掛かりを見つけてほしいのです。\n\n\n同行者：ルティナ セイル イズナ",
-    "Text": "\nParty: Lutina, Sail, Izuna",
+    "Text": "Client: Sharon\n\nParty: Lutina, Sail, Izuna",
     "Enabled": true
   },
   "230048": {
     "OriginalText": "\n古代都市におけるテュルトアス撃破任務を任せる。\n現在、エリア内の最深部に反応あり。\n速やかに現場へ向かい標的を撃破せよ。\n標的の撃破を確認次第、帰還許可を与える。",
-    "Text": "",
-    "Enabled": false
+    "Text": "\nAn operation to defeat Tulletoas in\nAncient City. Head to the site\nimmediately and defeat the target.\nReturn as soon as possible.",
+    "Enabled": true
   },
   "230049": {
     "OriginalText": "\n古代都市における哨戒作戦を任せる。\n指定地域を周回探索せよ。\n原生種に遭遇した場合は速やかに撃破するよう。\n経贄を制圧し、治安確保を確認次第、\n帰還許可を与える。",
-    "Text": "",
-    "Enabled": false
+    "Text": "\nA patrol operation in Ancient City.\nSearch the area and eliminate any\nencountered enemies. Return ASAP after\nsecuring the area.",
+    "Enabled": true
   },
   "230050": {
     "OriginalText": "依頼者：ヨミ\n銅の荒野でグラン噴出口を探すぞ。\n大型パイルの製造担当者として俺も同行して、\nちゃんと機能するか確認させてもらうが、\n何が起きるかわからないからな。\n\n\n同行者：ヨミ カリスト",
-    "Text": "\nParty: Yomi, Callisto",
+    "Text": "Client: Yomi\n\nParty: Yomi, Callisto",
     "Enabled": true
   },
   "230051": {
     "OriginalText": "依頼者：オルクス\nさあ、グラン水装のグラン噴出口を見つけに行こう。\nレイヴァンに会えるかどうか楽しみだが、\n実戦となればお前達に任せるぞ。\nオヤジらしく控え目にしたいんでな。\n\n\n同行者：オルクス ヒュペリオン",
-    "Text": "",
-    "Enabled": false
+    "Text": "Client: Orcus",
+    "Enabled": true
   },
   "230052": {
     "OriginalText": "依頼者：シャロン\n炎の高地でグラン噴出口を探しましょう。\n私もどんどん前へ出て戦闘に加わりますが、\nレイヴァンさんから真相を聞き出せれば……。\n\n\n\n同行者：シャロン",
-    "Text": "\nParty: Sharon",
+    "Text": "Client: Sharon\n\nParty: Sharon",
     "Enabled": true
   },
   "230053": {
     "OriginalText": "\n古代都市における掃討作戦を任せる。\n報告によると現地は異常発生した原生種に\n占拠されている物様。指定地域を周回探索し、\n発見後は速やかに掃討作戦に移行せよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "\nA cleanup operation in Ancient City.\nThe site is occupied by Native species.\nSearch the area and eliminate any\nencountered enemies.",
+    "Enabled": true
   },
   "230054": {
     "OriginalText": "\n銅の荒野におけるヴィヴリュード撃破作戦を任せる。\n哨戒を兼ねて指定地域を周回探索し、\n発見後は速やかに撃破せよ。\n標的の撃破を確認次第、帰還許可を与える。",
-    "Text": "",
-    "Enabled": false
+    "Text": "\nAn operation to defeat Vivryude in Steel\nWasteland. Patrol the area and defeat\nthe target. Return immediately after\ndefeating it.",
+    "Enabled": true
   },
   "230055": {
     "OriginalText": "\nグラン水装におけるアルキュオネ討伐作戦を\n任せる。現在、エリア内の最深部に反応あり。\n速やかに現場へ向かうよう。\n標的の撃破を確認次第、帰還許可を与える。",
-    "Text": "",
-    "Enabled": false
+    "Text": "\nAn operation to defeat Alcyone in Gran\nWater Rig. It was detected in the deepest\narea. Head to the site immediately.",
+    "Enabled": true
   },
   "230056": {
     "OriginalText": "\n古代都市におけるガラティオン撃破作戦を任せる。\n現在、エリア内の最深部に反応あり。\n速やかに現場へ向かうよう。\n標的の撃破を確認次第、帰還許可を与える。",
-    "Text": "",
-    "Enabled": false
+    "Text": "\nAn operation to defeat Garation in\nAncient City. Head to the deepest area\npromptly. Return immediately after\ndefeating it.",
+    "Enabled": true
   },
   "230057": {
     "OriginalText": "依頼者：ルティナ\n早くユノを助けに行かなきゃ！\n場所は大尖塔で間違いないよ。\n最上部って言ってたよね！\nすごいギガンテスも出そうだけど……。\nすぐ行くから待っててね、ユノ！\n\n同行者：ルティナ セイル イズナ",
-    "Text": "\nParty: Lutina, Sail, Izuna",
+    "Text": "Client: Lutina\n\nParty: Lutina, Sail, Izuna",
     "Enabled": true
   },
   "230058": {
     "OriginalText": "依頼者：ユノ\n銅の荒野からコアへはわたしが案内します。\nわたしは覚悟を決めました。\n行く手を阻むギガンテスを撃破しなくては、\n先へは進めません。\n\n\n同行者：ルティナ セイル イズナ",
-    "Text": "\nParty: Lutina, Sail, Izuna",
+    "Text": "Client: Juno\n\nParty: Lutina, Sail, Izuna",
     "Enabled": true
   },
   "230059": {
     "OriginalText": "依頼者：ユノ\nいよいよノヴァの内部です。\nわたしと一緒に来てください。\nまだまだ先は長いですが、よろしくお願いします。\n\n\n\n同行者：ルティナ セイル イズナ\n[a 03]※ギガンテスブラスト使用不可[b]",
-    "Text": "\nParty: Lutina, Sail, Izuna\n[a 03]※Gigantes Blast not allowed[b]",
+    "Text": "Client: Juno\n\nParty: Lutina, Sail, Izuna\n[a 03]※Gigantes Blast not allowed[b]",
     "Enabled": true
   },
   "230060": {
     "OriginalText": "依頼者：ユノ\nこの先どんな試練が待っているのか、\nわたしにもわかりませんが、\nレイヴァンに近づいている感じがします。\nノヴァはまだ完全覚酷していません。\nついて来てください。\n\n同行者：ルティナ セイル イズナ\n[a 03]※ギガンテスブラスト使用不可[b]",
-    "Text": "\nParty: Lutina, Sail, Izuna\n[a 03]※Gigantes Blast not allowed[b]",
+    "Text": "Client: Juno\n\nParty: Lutina, Sail, Izuna\n[a 03]※Gigantes Blast not allowed[b]",
     "Enabled": true
   },
   "230061": {
     "OriginalText": "依頼者：ユノ\nノヴァは、覚酷してしまいました……。\n艦との通信も途絶えているそうですね。\nでもわたし、みなさんの言葉に勇気づけられました。\n先へ進みましょう。わたし達のゴールへ！\n\n\n同行者：ルティナ セイル イズナ\n[a 03]※ギガンテスブラスト使用不可[b]",
-    "Text": "\nParty: Lutina, Sail, Izuna\n[a 03]※Gigantes Blast not allowed[b]",
+    "Text": "Client: Juno\n\nParty: Lutina, Sail, Izuna\n[a 03]※Gigantes Blast not allowed[b]",
     "Enabled": true
   },
   "230062": {
@@ -2502,7 +2502,7 @@
   "230063": {
     "OriginalText": "\n銅の荒野の走破作戦を任せる。\n規定時間内に最深部まで到達せよ。\n時間内の走破が最優先だが、こちらが危険と判断した\nエネミーと遭遇した場合は殲滅を要求することがある。\n走破を確認次第、帰還許可を与える。\n\n[a 03]（制限時間１０分）[b]\n[a 03]※シナリオクリアしたプレイヤーのみ参加可能[b]",
     "Text": "\n[a 03](Time limit: 10 minutes)[b]\n[a 03]※Only players who cleared the scenario\ncan join[b]",
-    "Enabled": false
+    "Enabled": true
   },
   "230064": {
     "OriginalText": "\nノヴァ内部における哨戒作戦を任せる。\n指定地域を周回探索せよ。\n原生種に遭遇した場合は速やかに撃破するよう。\n経贄を制圧し、治安確保を確認次第、\n帰還許可を与える。\n\n[a 03]※ギガンテスブラスト使用不可[b]\n[a 03]※シナリオクリアしたプレイヤーのみ参加可能[b]",
@@ -2526,17 +2526,17 @@
   },
   "230068": {
     "OriginalText": "依頼者：カリスト\n大尖塔でのグレイオス撃破を命じられた。\nこいつは重要な調査路域に迫っているようだ。\n俺のメディカルチェックはどうでもいいが、\nやるからには完壁な結果を求めたい。\n防衛ラインを突破される前に、手早く片付けて\n帰還しよう。\n同行者：カリスト",
-    "Text": "\nParty: Callisto",
+    "Text": "Client: Callisto\n\nParty: Callisto",
     "Enabled": true
   },
   "230069": {
     "OriginalText": "依頼者：ヒュペリオン\nい古代都市へ食材調達に行きましょう！\n魚、卵、肉、未知の食材を残さず集めようでは\nありませんか！\n邪魔立てする原生種やダーカーの撃破は\nお願いしますぞ！\n同行者：ヒュペリオン\n",
-    "Text": "\nParty: Hyperion",
+    "Text": "Client: Hyperion\n\nParty: Hyperion",
     "Enabled": true
   },
   "230070": {
     "OriginalText": "依頼者：シャロン\n炎の高地で探したい洋があるんです。\n一緒に来ていただけませんか？\n何を集めるのかは……現地でご説明できそうなら\nご説明しますが、まずは出発しましょう。\n\n同行者：シャロン\n",
-    "Text": "\nParty: Sharon",
+    "Text": "Client: Sharon\n\nParty: Sharon",
     "Enabled": true
   },
   "230071": {
@@ -2556,13 +2556,13 @@
   },
   "230074": {
     "OriginalText": "依頼者：ヨミ\n古代都市で鉱脈を調査しないか？\nそこにしかない貴重な素材を探そう。\n簡単じゃないと思うけど、ギガンテスをうまく\n誘導すれば、障害洋だって破壊できるだろ？\nやってみようぜ！\n\n同行者：ヨミ",
-    "Text": "\nParty: Yomi",
+    "Text": "Client: Yomi\n\nParty: Yomi",
     "Enabled": true
   },
   "230075": {
     "OriginalText": "依頼者：オルクス\nグラン水装で奇襲速攻しろ、だとよ。\n誘われたからには俺も断れねえ。\nとにかくスピード重視で攻め込んでいくしかないな！\n\n\n\n同行者：オルクス\n[a 03]（制限時間２０分）[b]",
-    "Text": "\n[a 03](Time limit: 20 minutes)[b]",
-    "Enabled": false
+    "Text": "Client: Orcus\n\n[a 03](Time limit: 20 minutes)[b]",
+    "Enabled": true
   },
   "230076": {
     "OriginalText": "\n銅の荒野における鉱脈の探査作戦を任せる。\n現地には多くのエネミーが集結している物様。\n安全が確保出来るまで全ての障害を排除せよ。\n\n\n\n\n[a 03]※シナリオクリアしたプレイヤーのみ参加可能[b]",
@@ -2601,7 +2601,7 @@
   },
   "230083": {
     "OriginalText": "依頼者：フィルディア\nもったいつけて悪かったな。デートするぞ！\nそうだな、場所は銅の荒野だ。\n準備を怠るなよ。\n新人だったお前がどこまでやれるようになったか、\nすべてをオレに見せてくれ。\n\n同行者：フィルディア\n[a 03]（制限時間４０分）[b]\n[a 03]※シナリオクリアしたプレイヤーのみ参加可能[b]",
-    "Text": "\n[a 03](Time limit: 40 minutes)[b]\n[a 03]※Only players who cleared the scenario\ncan join[b]",
+    "Text": "Client: Fildia\n\n[a 03](Time limit: 40 minutes)[b]\n[a 03]※Only players who cleared the scenario\ncan join[b]",
     "Enabled": true
   },
   "230084": {
@@ -2656,8 +2656,8 @@
   },
   "230202": {
     "OriginalText": "バトル体験版だけで遊べる\n限定のクエストです。\nファンタシースター ノヴァの世界を楽しもう！\n制限時間が来ると強制的に終了します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Limited quest only for Battle Trial\nVersion. Enjoy the world of Phantasy Star\nNova! Mission ends after reaching the\ntime limit.",
+    "Enabled": true
   },
   "230203": {
     "OriginalText": "バトル体験版２で遊べる中級クエストです。\nファンタシースター ノヴァの世界を楽しもう！\nギガンテス・ガラティオンが登場します。\n制限時間が来ると強制的に終了します。\n\n難易度：★★★",
@@ -2671,7 +2671,7 @@
   },
   "230301": {
     "OriginalText": "\n炎の高地におけるアルテイオス撃破作戦を任せる。\n標的は[a 07]炎属性による強力な遠距離攻撃[b]を展開し、\n現場周域をしているが、地形上の制約により\n崖や岸壁からの接近は困難である。\n[a 07]有効な劇属性での攻撃[b]で接近ルートを確保せよ。\n\n[a 03]\n※シナリオクリアしたプレイヤーのみ参加可能[b]",
-    "Text": "\n[a 03]※Only players who cleared the scenario\ncan join[b]",
+    "Text": "\nPrepare [a 07]Fire-resistant Shield[b] and\n[a 07]Ice-element weapon[b]\n[a 03]※Only players who cleared the scenario\ncan join[b]",
     "Enabled": true
   },
   "230302": {
@@ -2681,7 +2681,7 @@
   },
   "230303": {
     "OriginalText": "\nグラン水装における資材回収作戦を任せる。\n現場周域はギガティオンの載殖域であり、\n[a 07]劇属性による執拗な攻撃[b]が予想される。\n[a 07]炎属性での攻撃[b]準備を整え、障害となれば撃破せよ。\n\n[a 03]\n（制限時間資材回収開始してから１７分）\n※シナリオクリアしたプレイヤーのみ参加可能[b]",
-    "Text": "\n[a 03](Time limit: 17 minutes after material\ncollection)\n※Only players who cleared the scenario\ncan join[b]",
+    "Text": "\nPrepare [a 07]Ice-resistant Shield[b] and\n[a 07]Fire-element weapon[b]\n[a 03](Time limit: 17 minutes after material\ncollection)\n※CLEAR players only[b]",
     "Enabled": true
   },
   "230306": {
@@ -2716,12 +2716,12 @@
   },
   "230403": {
     "OriginalText": "依頼者：レイヴァン\nノヴァの力に支配され、異形と化する悪夢……。\n最近、暴れ出した古代都市のノイヴァトアス、\n何か関係があるはず、調査をお願いします。\n……もしかしたら、\nあれも私の一面、なのかもしれない……。\n\n[a 03]\n※シナリオクリアしたプレイヤーのみ参加可能[b]",
-    "Text": "\n[a 03]※Only players who cleared the scenario\ncan join[b]",
+    "Text": "Client: Raven\n\n[a 03]※Only players who cleared the scenario\ncan join[b]",
     "Enabled": true
   },
   "230404": {
     "OriginalText": "依頼者：レイヴァン\n最近、夢を見るのです。\n絶望に戸まれ続ける悪夢を……。\nノヴァに何か異変が起きているのかもしれません。\nそれによるものか、炎の高地でギガンテスが狂暴化\nしているので、調査をお願いします。\n\n[a 03]\n※シナリオクリアしたプレイヤーのみ参加可能[b]",
-    "Text": "\n[a 03]※Only players who cleared the scenario\ncan join[b]",
+    "Text": "Client: Raven\n\n[a 03]※Only players who cleared the scenario\ncan join[b]",
     "Enabled": true
   },
   "230405": {
@@ -2731,22 +2731,22 @@
   },
   "230406": {
     "OriginalText": "依頼者：フィルディア\n大尖塔でデートだ！\nなにが出てくるかは俺にもわからん。\nでも、このドキドキがデートの味だろ？\nこれでお前も俺と肩を並べられる戦土、いや\nそれ似上かもな……。\n\n同行者：フィルディア[a 03]\n※シナリオクリアしたプレイヤーのみ参加可能\n※クリア時間だけで評価[b]",
-    "Text": "\n[a 03]※Only players who cleared the scenario\ncan join\n※Evaluation based only on Clear time[b]",
+    "Text": "Client: Fildia\n\n[a 03]※Only players who cleared the scenario\ncan join\n※Evaluation based only on Clear time[b]",
     "Enabled": true
   },
   "230407": {
     "OriginalText": "依頼者：レイヴァン\n観測史上最大の反応を検知しました！\nあれは、私の負の感情、それに古代人の\n無念や怒りが形を成したものでしょう。\nこれらを解放し、この惑星に真の安寧を……！！\n\n[a 03]\n※ギガンテスブラスト使用不可\n※シナリオクリアしたプレイヤーのみ参加可能[b]",
-    "Text": "\n[a 03]※Gigantes Blast not allowed\n※Only players who cleared the scenario\ncan join[b]",
+    "Text": "Client: Raven\n\n[a 03]※Gigantes Blast not allowed\n※Only players who cleared the scenario\ncan join[b]",
     "Enabled": true
   },
   "230511": {
     "OriginalText": "依頼者：ガーネット\n私の運命の人、グラバー様は\n拠点の外へ向かわれましたわ。\nさぁ執事さん、グラバー様を追いかけますよ！\n恋するガーネット艦、旅立ちの時です！\n\n\n\n同行者：ガーネット ルティナ[a 03]\n※シナリオクリアしたプレイヤーのみ参加可能[b]",
-    "Text": "\nParty: Garnet, Lutina\n[a 03]※Only players who cleared the scenario\ncan join[b]",
+    "Text": "Client: Garnet\n\nParty: Garnet, Lutina\n[a 03]※Only players who cleared the scenario\ncan join[b]",
     "Enabled": true
   },
   "230520": {
     "OriginalText": "依頼者：グラバー\n炎の高地のギガンテスを撃破する。\nコウエンたちにより、難を逃れたが、\nまた拠点を攻撃するかもわからない。\n\n\n\n同行者：ガーネット サンシャウト[a 03]\n※シナリオクリアしたプレイヤーのみ参加可能\n[b]",
-    "Text": "\nParty: Garnet, Sunshout\n[a 03]※Only players who cleared the scenario\ncan join[b]",
+    "Text": "Client: Glover\n\nParty: Garnet, Sunshout\n[a 03]※Only players who cleared the scenario\ncan join[b]",
     "Enabled": true
   },
   "230536": {
@@ -2771,8 +2771,8 @@
   },
   "230540": {
     "OriginalText": "\n銅の荒野におけるガラティオンおよびエウリュードの\n撃破作戦を任せる。なお時間的禁予はあまりない。\n偵察報告によると標的はそれぞれ[a 07]光属性と風属性での\n強力な攻撃[b]を展開しており、[a 07]闇属性と雷属性での\n反撃[b]を推均する。\n[a 03]\n（制限時間約３０分）\n※シナリオクリアしたプレイヤーのみ参加可能[b]",
-    "Text": "\n[a 03](Time limit: 30 minutes)[b]\n[a 03]※Only players who cleared the scenario\ncan join[b]",
-    "Enabled": false
+    "Text": "\nPrepare [a 07]Light and Wind-resistant Shield[b] and\n[a 07]Dark and Lightning-element weapon[b]\n[a 03](Time limit: 30 minutes)[b]\n[a 03]※CLEAR players only[b]",
+    "Enabled": true
   },
   "230541": {
     "OriginalText": "\n古代都市を最深部までくまなく偵察せよ。\n現場周域では未確認エネミーによる光属性の強力な\n攻撃が確認されている。\n闇属性での充分な迎撃体制を整えて鎮むことを\n推均する。\n\n[a 03]\n※シナリオクリアしたプレイヤーのみ参加可能[b]",
@@ -2806,7 +2806,7 @@
   },
   "230547": {
     "OriginalText": "依頼者：フィルディア\nもう俺とはデートできないと思ったか？\nかわいいお前をほっとけなくてな。\n銅の荒野で腕のほどを見せてもらおうじゃないか。\n[a 07]様々な属性が強化されてる[b]から注意しろ！\n\n\n同行者：フィルディア[a 03]\n（制限時間４０分）\n※シナリオクリアしたプレイヤーのみ参加可能[b]",
-    "Text": "\nParty: Fildia\n[a 03](Time limit: 40 minutes)[b]\n[a 03]※Only players who cleared the scenario\ncan join[b]",
+    "Text": "Client: Fildia\n[a 07]Various attributes are increased[b]\n\nParty: Fildia\n[a 03](Time limit: 40 mins)[b]\n[a 03]※Only players who cleared the scenario\ncan join[b]",
     "Enabled": true
   },
   "230548": {
@@ -2816,22 +2816,22 @@
   },
   "230549": {
     "OriginalText": "\nグラン水装におけるエウリュード撃破作戦を任せる。\n偵察報告によると標的は[a 07]劇属性の強力な攻撃[b]を\n展開しており、[a 07]炎属性での反撃が有効[b]と予想される。\nあらかじめ準備を整えて速やかに撃破せよ。\n\n\n[a 03]\n※シナリオクリアしたプレイヤーのみ参加可能[b]",
-    "Text": "\n[a 03]※Only players who cleared the scenario\ncan join[b]",
+    "Text": "\nPrepare [a 07]Ice-resistant Shield[b] and\n[a 07]Fire-element weapon[b]\n[a 03]※Only players who cleared the scenario\ncan join[b]",
     "Enabled": true
   },
   "230550": {
     "OriginalText": "\nノヴァ内部におけるファンアフォル撃破作戦を\n任せる。偵察報告によると標的は[a 07]闇属性の強力な\n攻撃[b]を展開しており、[a 07]光属性での反撃が有効[b]と\n予想される。\nあらかじめ準備を整えて速やかに撃破せよ。\n[a 03]\n※ギガンテスブラスト使用不可\n※シナリオクリアしたプレイヤーのみ参加可能[b]",
-    "Text": "\n[a 03]※Gigantes Blast not allowed\n※Only players who cleared the scenario\ncan join[b]",
+    "Text": "\nPrepare [a 07]Dark-resistant Shield[b] and\n[a 07]Light-element weapon[b]\n[a 03]※Gigantes Blast not allowed\n※Only players who cleared the scenario\ncan join[b]",
     "Enabled": true
   },
   "230551": {
     "OriginalText": "\n銅の荒野におけるジャッドバンサー撃破作戦を\n任せる。偵察報告によると標的は[a 07]風属性の強力な\n攻撃[b]を展開しており、[a 07]雷属性での反撃が有効[b]と\n予想される。\nあらかじめ準備を整えて速やかに撃破せよ。\n\n[a 03]\n※シナリオクリアしたプレイヤーのみ参加可能[b]",
-    "Text": "\n[a 03]※Only players who cleared the scenario\ncan join[b]",
+    "Text": "\nPrepare [a 07]Wind-resistant Shield[b] and\n[a 07]Lighting-element weapon[b]\n[a 03]※Only players who cleared the scenario\ncan join[b]",
     "Enabled": true
   },
   "230552": {
     "OriginalText": "\n古代都市におけるモストカーネベア撃破作戦を\n任せる。\n偵察報告によると標的は[a 07]光属性の強力な攻撃[b]を\n展開しており、[a 07]闇属性での反撃が有効[b]と予想される。\n速やかに錯壁内に潜入し、標的を撃破せよ。\n\n[a 03]\n※シナリオクリアしたプレイヤーのみ参加可能[b]",
-    "Text": "\n[a 03]※Only players who cleared the scenario\ncan join[b]",
+    "Text": "\nPrepare [a 07]Light-resistant Shield[b] and\n[a 07]Dark-element weapon[b]\n[a 03]※Only players who cleared the scenario\ncan join[b]",
     "Enabled": true
   },
   "230553": {
@@ -2841,12 +2841,12 @@
   },
   "230554": {
     "OriginalText": "\n炎の高地におけるアルキュオネ撃破作戦を任せる。\n偵察報告によると標的は[a 07]炎属性の強力な攻撃[b]を\n展開しており、[a 07]劇属性での反撃が有効[b]と予想される。\nあらかじめ準備を整えて速やかに撃破せよ。\n\n\n[a 03]\n※シナリオクリアしたプレイヤーのみ参加可能[b]",
-    "Text": "\n[a 03]※Only players who cleared the scenario\ncan join[b]",
+    "Text": "\nPrepare [a 07]Fire-resistant Shield[b] and\n[a 07]Ice-element weapon[b]\n[a 03]※Only players who cleared the scenario\ncan join[b]",
     "Enabled": true
   },
   "230555": {
     "OriginalText": "\n大尖塔におけるコラル・ドラゴン撃破作戦を任せる。\n偵察報告によると標的は[a 07]雷属性の強力な攻撃[b]を\n展開しており、[a 07]風属性での反撃が有効[b]と予想される。\nあらかじめ準備を整えて速やかに撃破せよ。\n\n\n[a 03]\n※シナリオクリアしたプレイヤーのみ参加可能[b]",
-    "Text": "\n[a 03]※Only players who cleared the scenario\ncan join[b]",
+    "Text": "\nPrepare [a 07]Lightning-resistant Shield[b] and\n[a 07]Wind-element weapon[b]\n[a 03]※Only players who cleared the scenario\ncan join[b]",
     "Enabled": true
   },
   "230556": {
