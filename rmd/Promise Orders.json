@@ -1996,17 +1996,17 @@
   },
   "290117": {
     "OriginalText": "集めてもらいたいモノがあるんですけど、\nＧダガンの極爪が５個と、Ｇミクダの極甲羅が７個、\nあとＧダーガッシュの極歯も７個いるんです。\nなかなか見つからないレアなものなのに\n数もたくさんで必要で……。お願いします！",
-    "Text": "They're hard to find but I would like you to\ncollect 5 G-Dagan Prime Claws, 7 G-Micda\nPrime Shells, and 7 G-Dagash Prime Teeth.",
+    "Text": "They're hard to find but I would like you to\ncollect 5 G-Dagan Ultra Claws, 7 G-Micda\nUltra Shells, and 7 G-Dagash Ultra Teeth.",
     "Enabled": true
   },
   "290118": {
     "OriginalText": "原生種の素材を３つずつ集めて来てくれ。\nラウーダンの極煽、バオム・マガヴルムの極銃、\nバリバッツの極針、どれも素材としては超一級品だ。\n簡単には手に入らないからこそ、\nお前に頼みたいんだ。期待してるぜ！",
-    "Text": "Collect 3 pieces each from these Native\nspecies. Ra Oodan Prime Pelt, Baum Magavulum\nPrime Gun, Baribatts Prime Needle.",
+    "Text": "Collect 3 pieces each from these Native\nspecies. Ra Oodan Ultra Pelt, Baum Magavulum\nUltra Gun, Baribatts Ultra Needle.",
     "Enabled": true
   },
   "290119": {
     "OriginalText": "武器ショップのエクステンド機能を準備するのに\n機械生洋のパーツが必要だ。ゴルドスの極杭、\nシルブカーネベアの極砲身、ファラレイバンサーの\n極銃を集めれば武器の機能合成が出来るようになる。\n[a 03]※この約束は１回のみ[b]",
-    "Text": "I need Gordes Prime Spike, Silve Carnnebear\nPrime Barrel, and Fararay Banther Prime Gun\nfor the Weapon Shop.\n\n[a 03]※Non-Repeatable[b]",
+    "Text": "I need Gordes Ultra Spike, Silve Carnnebear\nUltra Barrel, and Fararay Banther Ultra Gun\nfor the Weapon Shop.\n\n[a 03]※Non-Repeatable[b]",
     "Enabled": true
   },
   "290120": {
@@ -2016,398 +2016,398 @@
   },
   "290121": {
     "OriginalText": "ほしいモノがある。ヴィヴリュードの極尾に、\nグラヴディオンの極、リベルゲンテの極伝甲だが、\n錐外れに強いギガンテスからしか採取できないんだ。\n２個ずついるが、誰も頼みを聞いてくれなくてな。\nもうお前しか頼む相手がいないんだ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Would you kindly collect some Vivryude\nUltra Tail, Gravdion Ultra Hoof, and\nLibelgante Ultra Armor. I need 2 pieces\nof each.",
+    "Enabled": true
   },
   "290122": {
     "OriginalText": "ギガンテスの甲片を手に入れて来い。\n５つは欲しいところだな。\n船体の修理に使う。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect some Gigantes Shell Fragment.\nI need 5 pieces of it.\nI'm gonna use to repair the hull.",
+    "Enabled": true
   },
   "290123": {
     "OriginalText": "ギガンテスのグラン器片を手に入れて来い。\nそうだな、１つは必要だ。\n施設の補修に使えそうなんでな。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Get a piece of G-infused Gigantes Organ.\nI think I can use it to repair the\nfacilities.",
+    "Enabled": true
   },
   "290124": {
     "OriginalText": "エウリュードの爪片とギガンテスの殻片を\n手に入れて来い。それぞれ１つずつでいい。\n船体の修理に役立ちそうだ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Get a piece of Eurude Claw Part and a\npiece of Gigantes Shell. I'm gonna use\nto repair the hull.",
+    "Enabled": true
   },
   "290125": {
     "OriginalText": "アルキュオネの浮遊伝置とアグリオスの砲片を\nそれぞれ３つずつ持ってこい。\n修理に必要な機材に使えそうだ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Bring 3 Alcyone Levitator and 3 Agrios\nGun Fragment. I think it can be use to\nrepair the equipment.",
+    "Enabled": true
   },
   "290126": {
     "OriginalText": "ロヴラッピーの甲片を手に入れて来い。\n艦の伝甲には小さいが、部品として使うには\nちょうどいいサイズなんだ。\n２個あれば、何とかなると思う。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Get some Rove Rappy Armor Piece.\nI'm gonna use it for the ship's armor.\nI need 2 pieces of it.",
+    "Enabled": true
   },
   "290127": {
     "OriginalText": "アセラビーソを倒して、\n原動機を１つ、刃片を２つ、調達してこい。\n急ぎで頼めるか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Defeat Ase Rabbisaw and gather 1 Motor\nand 2 Blade Fragment. Can I ask to\ngather it quickly?",
+    "Enabled": true
   },
   "290128": {
     "OriginalText": "ガラティオンの鋭ノコ刃を手に入れて来い。\n２つは欲しいところだ。\n艦の修理に役立ちそうだ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Get me some Garation Sharp Saw Blade.\nI want 2 pieces of it. It seems\nit's useful for repairing the ship.",
+    "Enabled": true
   },
   "290129": {
     "OriginalText": "ファンアフォルの硬骨格の入手を頼めるか？\n１つあれば大丈夫だ。\nお前なら、何とかできるだろう。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Can I ask you to get a Fan'aphol\nSkeleton? I only need 1 piece of it.\nI think you can do it.",
+    "Enabled": true
   },
   "290130": {
     "OriginalText": "ギガンテスの駆動機関を３つ頼む。\nオレが取りに行きたいんだが、\n今、手が離せなくてな。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I need 3 Gigantes Engine Gear.\nI want to go get it myself,\nbut I'm too busy right now.",
+    "Enabled": true
   },
   "290131": {
     "OriginalText": "アルテイオスの大主砲を取ってきてくれないか？\n２つあれば、艦の修理に役立ちそうだ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Can you get me an Alteios Large Main\nCannon? I need 2 of it, it seems it is\nuseful for repairing the ship.",
+    "Enabled": true
   },
   "290132": {
     "OriginalText": "古代都市で発見された建造洋には\n多積層の銅板が使われていることがわかった。\nここまで高精度で加工された金属板があれば\n修理が履る。\n見つけたらすぐにオレのところへ持って来い。",
-    "Text": "",
-    "Enabled": false
+    "Text": "It turns out that the buildings in the\nAncient City uses multi-layered copper\nplates. Get me some of it to use for\nship repairs.",
+    "Enabled": true
   },
   "290133": {
     "OriginalText": "アグリオスの赤い派生種が出現したらしいな。\nそいつの主砲をひとつ持って来い。\nエンジンの修理に使えそうだ。\n\n[a 03]※この約束は１回のみ[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "It seems a red variant of Agrios has\nappeared. Bring me one of it's main\nweapon. I can use it to repair the engine.\n\n[a 03]※Non-Repeatable[b]",
+    "Enabled": true
   },
   "290134": {
     "OriginalText": "Ｇダーガッシュの歯片を回収してこい。\n機材の研磨捗に最適なんだ。\n２つもあれば十分だ。なるべく早く頼む。\n\n[a 03]※この約束は１回のみ[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect some G-Dahgash Tooth It's\nperfect for polishing the equipment.\nBring me 2 pieces ASAP.\n\n[a 03]※Non-Repeatable[b]",
+    "Enabled": true
   },
   "290135": {
     "OriginalText": "炎の高地でアルキュオネ討伐を頼めるか？\nいつものアルキュオネとは一味違うらしい。\nそこで何が手に入るか……、楽しみにしている。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Can you defeat Alcyone in Flame Highlands?\nIt seems it's a bit different. I'm looking\nforward to what you can get there.",
+    "Enabled": true
   },
   "290136": {
     "OriginalText": "炎の高地でアルテイオスを撃破してくれ。\n噂じゃかなりの難洋らしいが、だからこそ\n貴重な素材が手に入ると思う。\nよろしく頼む。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Defeat Alteios in the Flame Highlands.\nRumor has it that it's quite difficult,\nbut I think you can get valuable\nmaterials.",
+    "Enabled": true
   },
   "290137": {
     "OriginalText": "炎の高地で鉱石素材を集めてくれ。\nユークレース、ブルーカルセドニー、\n青いユークレースの３つだ。オレもまだ実洋を目に\nしたことはないが、きっと有用な利用法があると\n想定される。頼まれてくれるか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect ores in the Flame Highlands.\nIt's Euclace, Blue Chalcedony, and Blue\nEuclace. Haven't seen it yet but I'm\nsure it's useful.",
+    "Enabled": true
   },
   "290138": {
     "OriginalText": "ウィルアフォル、ヴィヴリュードに、ギガティオン、\nちょうど役者が揃ってる。しかも凶暴だ。\nお前さんもそろそろこういう連中を撃破して、\nさらなる高みを目指してみちゃどうだ？\n[a 03]※この約束は１回のみ 捕獲は無効[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "Try defeating Viluaphol, Vivryude, and\nGigation. They're stronger and more\nferocious.\n\n[a 03]※Non-Repeatable, Capture not allowed[b]",
+    "Enabled": true
   },
   "290139": {
     "OriginalText": "バンサー系とレイバンサー系の違いはわかるよな？\n背中に二連機関砲を積んでるのがレイバンサー系だ。\nその中でもハイレベルなヤツを撃破してみないか？\n俺にも出来るかどうかわからんが、やってみる価値は\n大いにある。それが戦土ってモンだ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Do you know the difference between\nBanther and Ray Banther? Ray Banthers\nhas guns on their backs. Try defeating\nhigh-level ones.",
+    "Enabled": true
   },
   "290140": {
     "OriginalText": "お前さんに託したい武器がある。\n俺の愛用のアヴェンジャーに匹敵する上洋だ。\nもし、受取る覚悟があるなら、コラル・ドラゴンを\n倒すことで俺に示してくれるか？\n[a 03]※この約束は１回のみ[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "I have a weapon I want to entrust to you.\nIt’s as good as my Avenger. First, show\nme how you defeat a Coral Dragon?\n\n[a 03]※Non-Repeatable[b]",
+    "Enabled": true
   },
   "290141": {
     "OriginalText": "まったく、とてつもないギガンテスがいたもんだ。\n反応が強すぎて計器が振り切れてやがる。\nコイツを野放しにしたら……わかるよな？\nお前さんだけが頼りだ！\n[a 03]※捕獲は無効[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "There seems to be an enormous Gigantes.\nIt's reaction is too strong. We must not\nlet it go unchecked!\n\n[a 03]※Capture not allowed[b]",
+    "Enabled": true
   },
   "290142": {
     "OriginalText": "この[ruby ほし]惑星[/ruby]にブーストエネミーが存在する\nことを検知したわ。\n訓練よ。撃破してきなさい。\n\n[a 03]※この約束は１回のみ[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "I've detected the presence of boosted\nenemies on this planet. Please defeat\nthem for your training.\n\n[a 03]※Non-Repeatable[b]",
+    "Enabled": true
   },
   "290143": {
     "OriginalText": "この[ruby ほし]惑星[/ruby]にレアエネミーが存在する\nことを検知したわ。\nいい機会だから一度、撃破して来なさい。\n\n[a 03]※この約束は１回のみ[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "I've detected the presence of rare\nenemies on this planet. It's a good\nopportunity to defeat them.\n\n[a 03]※Non-Repeatable[b]",
+    "Enabled": true
   },
   "290144": {
     "OriginalText": "この[ruby ほし]惑星[/ruby]にメモリーフラグメントＡの\n反応を確認したわ。\nひとまず５個、入手して来なさい。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I confirmed the reaction of Memory\nFragment A on this planet. Bring me 5\npieces for the time being.",
+    "Enabled": true
   },
   "290145": {
     "OriginalText": "龍説のラッピー、アルマラッピー・オナーがこの\n[ruby ほし]惑星[/ruby]で見つかったらしいわ。かなりの希少種よ。\n……きっとかわいい子に違いないわね。\nってそんなことはどうでもいいのよ！\nとにかく本当にいるか確かめて来なさい。",
-    "Text": "",
-    "Enabled": false
+    "Text": "It seems that a legendary Rappy, Alma\nRappy Onar, was found on this planet.\nIt's really cute...\nHuh! Forget I said that!",
+    "Enabled": true
   },
   "290146": {
     "OriginalText": "この[ruby ほし]惑星[/ruby]にメモリーフラグメントＢの\n反応を確認したわ。\nそうね、とりあえず１２個入手して来なさい。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I confirmed the reaction of Memory\nFragment B on this planet. Bring me 12\npieces for the time being.",
+    "Enabled": true
   },
   "290147": {
     "OriginalText": "この[ruby ほし]惑星[/ruby]にドギオス・ルフレが\n存在することを検知したわ。\nなかなかお目にかかれないレアエネミーね。\n",
-    "Text": "",
-    "Enabled": false
+    "Text": "I've detected the presence of Dogios\nReflet on this planet. It's rare so good\nluck finding it.",
+    "Enabled": true
   },
   "290148": {
     "OriginalText": "この[ruby ほし]惑星[/ruby]にメモリーフラグメントＣの\n反応を確認したわ。\n色々役に立ちそうだから\n２２個入手をよろしくね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I confirmed the reaction of Memory\nFragment C on this planet. It seems it\ncan be used in many ways, so bring 22\npieces.",
+    "Enabled": true
   },
   "290149": {
     "OriginalText": "この[ruby ほし]惑星[/ruby]にカーネベア・ゴルヴァが\n存在することを検知したわ。\nかなり珍しいレアエネミーね。\n撃破をお願いできるかしら。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I've detected the presence of Carnnebear\nGorva on this planet. It's a very rare\nenemy. I wonder if you can find and\ndefeat it.",
+    "Enabled": true
   },
   "290150": {
     "OriginalText": "この[ruby ほし]惑星[/ruby]にメモリーフラグメントＤの\n反応を確認したわ。\n３０個の入手をお願いね。\n艦長なら簡単でしょ？",
-    "Text": "",
-    "Enabled": false
+    "Text": "I confirmed the reaction of Memory\nFragment D on this planet. Please collect\n30 pieces of it. It will be easy for\nyou, right?",
+    "Enabled": true
   },
   "290151": {
     "OriginalText": "この[ruby ほし]惑星[/ruby]にメモリーフラグメントＥの\n反応を確認したわ。\nモニター越しで見守ってるから\n３０個入手して来てくれるかしら？",
-    "Text": "",
-    "Enabled": false
+    "Text": "I confirmed the reaction of Memory\nFragment E on this planet. I'm gonna\nwatch over the monitor, so can you get\n30 pieces of them?",
+    "Enabled": true
   },
   "290152": {
     "OriginalText": "ギュゲンテのβ脚を１つ持って来なさい。\nあの主砲の発射の衝撃に耐える脚を調べて\n予想される威力と射程を割り出すの。\n今後の対策を検討するのに必要なのよ。\n[a 03]※この約束は１回のみ[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "Bring 1 Gygante Insectoid Leg for\nreference. Observe the legs that can\nwithstand the impact of the main cannon.\n\n[a 03]※Non-Repeatable[b]",
+    "Enabled": true
   },
   "290153": {
     "OriginalText": "地表で取れる鉱洋資装の回収をお願いね。\n銅の荒野のラピリストーン、\nグラン水装のウッドオパール、\n炎の高地のペロブスカイト石を１つずつよ。\n[a 03]※この約束は１回のみ[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "Please collect Rapiliston in Steel\nWasteland, Wood Opal in Gran Water Rig,\nand Perovskite Stone in Flame Highlands.\n\n[a 03]※Non-Repeatable[b]",
+    "Enabled": true
   },
   "290154": {
     "OriginalText": "雷属性を帯びたグランピースを集めてきなさい。\n５個ほど集めたら、メモリーフラグメントＡ\n２０個に変換してあげるから、\n行ってらっしゃい。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect Gran Pieces with lightning\nelement. Bring me 5 pieces, I'll exchange\nit with 20 Memory Fragment A.",
+    "Enabled": true
   },
   "290155": {
     "OriginalText": "火属性のグランピースを５個集めてきなさい。\nできたら、メモリーフラグメントＢ\n２０個と交換してあげてもいいわ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect 5 Gran Pieces with fire element.\nI'll exchange it with 20 Memory\nFragment B.",
+    "Enabled": true
   },
   "290156": {
     "OriginalText": "劇属性を帯びたグランピースを集めてきなさい。\n５個あればメモリーフラグメントＣ２０個に\n変換できるけど、どう？ 集めてみない？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect Gran Pieces with ice element.\nIf you have 5 pieces of it, I'll exchange\nit with 20 Memory Fragment C.",
+    "Enabled": true
   },
   "290157": {
     "OriginalText": "風属性を帯びたグランピースを集めてきなさい。\n５個集めればメモリーフラグメントＤ２０個と\n交換するから、急いで行ってきなさい。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect Gran Pieces with wind element.\nIf you got 5 pieces, I'll exchange it\nwith 20 Memory Fragment D, so hurry up.",
+    "Enabled": true
   },
   "290158": {
     "OriginalText": "闇属性を帯びたグランピースを集めてきなさい。\nこれが５個あればメモリーフラグメントＥ２０個に\n変換が可能よ。集めていらっしゃい。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect Gran Pieces with dark element.\nIf you got 5 pieces, I'll exchange it\nwith 20 Memory Fragment E.\nPlease collect it.",
+    "Enabled": true
   },
   "290159": {
     "OriginalText": "古代都市で新たに見つかった鉱石素材を採取して\n来てちょうだい。エラチェライトを６、\nエクロジャイトを５、緑のエラチェライトを２よ。\n少し多めだけど、あなたなら問題ないでしょ？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Please collect the newly found ores in\nAncient City. 6 Elachelite, 5 Eclogite,\nand 2 Green Elachelite.",
+    "Enabled": true
   },
   "290160": {
     "OriginalText": "古代都市で食材回収をお願いしますぞ。\nただし、食材の周囲はグルメなグレイオスが、\nさせじと猛攻してくるなんとも危険な場所です！\nしかし、だからこそ回収する価値があるというもの。\n万難を排して回収をお願いできますかな？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Please collect some ingredients in the\nAncient City. However, a gourmet Greios\nis nearby! I wonder if you can collect\nit?",
+    "Enabled": true
   },
   "290161": {
     "OriginalText": "ゴルドス系のギガンテスの撃破をお願いしますぞ。\nギガンテスの味にハズレなし！\nこの私を信じて挑戦してみてください。\n期待してお待ちしておりますぞ！\n[a 03]※この約束は１回のみ[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "Please defeat the Gordes-type Gigantes.\nYou can't go tasteless with a Gigantes!\nJust believe me and try it.\n\n[a 03]※Non-Repeatable[b]",
+    "Enabled": true
   },
   "290162": {
     "OriginalText": "この[ruby ほし]惑星[/ruby]でジュラキア系の反応を検知しました！\n攻撃を受けたら状態異常になるので\n注意して倒して来てください！\n\n[a 03]※この約束は１回のみ[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "We have detected the presence of\nJurrakias on this planet! You'll get bad\nstatus if you got hit with it's attacks!\n\n[a 03]※Non-Repeatable[b]",
+    "Enabled": true
   },
   "290163": {
     "OriginalText": "相変わらず医療用品が不足していて……\nバリバッツの虫片５個の調達を\nお願いできませんか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "There's still a shortage of medical\nsupplies. Can you bring me 5 pieces of\nBaribatts Ink?",
+    "Enabled": true
   },
   "290164": {
     "OriginalText": "Ｇエル・アーダの針片を３個、調達できませんか？\n洗浄すれば、医療用品として\n使用できそうなので……。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Can you procure 3 G-El Ahda Stinger?\nIf you wash it, you can use it as a\nmedical product...",
+    "Enabled": true
   },
   "290165": {
     "OriginalText": "バインド状態の発生を観測してもらえませんか？\n状態異常の調査データを収集したいのです。\n\n\n[a 03]※敵に発生させても味方に発生してもカウント[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "Could you observe the occurrence of Bind\nstatus? I want to collect data of\nabnormal statuses.\n\n[a 03]※Enemy or ally occurrence is counted[b]",
+    "Enabled": true
   },
   "290166": {
     "OriginalText": "墨８個の調達をお願いしてもよいですか？\n薬捗として使用できそうなのです。",
-    "Text": "",
-    "Enabled": false
+    "Text": "May I ask you to procure 8 inks?\nIt seems it can be used for medicinal\npurposes.",
+    "Enabled": true
   },
   "290167": {
     "OriginalText": "インフェクション状態が発生する瞬間の観測を\nお願います。\n感染症の調査データを収集したいのです。\n\n[a 03]※敵に発生させても味方に発生してもカウント[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "Please observe the occurrence of\nInfection status. I need to collect\ndisease survey data.\n\n[a 03]※Enemy or ally occurrence is counted[b]",
+    "Enabled": true
   },
   "290168": {
     "OriginalText": "膜β類の苔尾を５個、調達できませんか？\n医療品としての使用を検証しようと\n思いまして……。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Can you procure 5 tails of reptile\nspecies? I was thinking of verifying its\nuse as a medicine...",
+    "Enabled": true
   },
   "290169": {
     "OriginalText": "グラン中毒状態の発生を観測してきてください。\n中毒症の調査データを収集したいのです。\n\n\n[a 03]※敵に発生させても味方に発生してもカウント[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "Observe the occurrence of Gran Poisoning.\nI want to collect research data on\npoisoning.\n\n[a 03]※Enemy or ally occurrence is counted [b]",
+    "Enabled": true
   },
   "290170": {
     "OriginalText": "リバッツの目玉を３つ、調達できませんか？\nメディカルでの調査により医療用品として\n使用できそうなことがわかりました。\nメディカルの医療用品が充実すれば\n艦長も安心ですよね！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Can you procure 3 Ribatts Eyeball?\nA research says that it could be used as\na medicine. The captain will be very\nrelieved!",
+    "Enabled": true
   },
   "290171": {
     "OriginalText": "リベルゲンテの先頭に付いている\nエア・ゲンテの鋭ドリルを１つ、調達できませんか？\nメディカルでの医療器具として使用できそうです。\n艦長ならば大丈夫だと思いますが\n道中お気を付けて！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Can you procure 1 Libelgante Sharp Drill?\nIt seems that I can use it as a medical\ninstrument. Be careful out there.",
+    "Enabled": true
   },
   "290172": {
     "OriginalText": "Ｇキュクロナーダの目片の回収をお願いします。\n眼精疲労に効く目薬を作るのに必要なのです。\n１つで良いので持ってきてください。\n\n[a 03]※この約束は１回のみ[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "Please collect 1 G-Kuklonahda Eye Piece.\nI need it to make eye drops to heal eye\nstrains.\n\n[a 03]※Non-Repeatable[b]",
+    "Enabled": true
   },
   "290173": {
     "OriginalText": "ロヴラッピーの肉を１つ回収してきてください。\n薬品の材料として使えそうか調べたいのです。\n１つだけお願いします。\n\n[a 03]※この約束は１回のみ[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "Please collect 1 Rove Rappy Meat.\nI want to know if it can be used as an\ningredient for medicine.\n\n[a 03]※Non-Repeatable[b]",
+    "Enabled": true
   },
   "290174": {
     "OriginalText": "ブラインド状態の発生を観測してもらえませんか？\n視界が暗くなる状態異常の調査データを\n収集したいのです。\n[a 03]※敵に発生させても味方に発生してもカウント[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "Could you observe the occurrence of Blind\nstatus? I want to know how it darkens\nthe vision.\n[a 03]※Enemy or ally occurrence is counted[b]",
+    "Enabled": true
   },
   "290175": {
     "OriginalText": "全属性ダウン状態の発生を観測してください。\n全ての属性の耐性が下がる状態異常って、\nかなり深刻ですから、調査データが必要なんです。\n[a 03]※敵に発生させても味方に発生してもカウント[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "Observe the occurrence of All Element\nDown status. This is quite serious, so\ndata is needed.\n[a 03]※Enemy or ally occurrence is counted[b]",
+    "Enabled": true
   },
   "290176": {
     "OriginalText": "指定クエストでジャッドバンサーを倒してください。\nめちゃくちゃ強いらしいんですけど、戦闘不能に\nならずに撃破して生還してほしいんです。\nかなり難しい訓練ですから\nこんなの艦長にしかお願いできません！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Defeat Jhad Banther in the designated\nquest. I want you to defeat it without\nbeing incapacitated. I believe you can\ndo it!",
+    "Enabled": true
   },
   "290177": {
     "OriginalText": "グラヴディオンとノイヴァトス、世にも凶暴な\nギガンテスを撃破していただけますかな？\n難敵であることに疑いはありません。\nしかし難敵あるところに美味なる食材あり、\nというのは経験に裏打ちされた格言ですぞ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Can you defeat the ferocious Gravdion\nand Neuvatoas? They may be formidable\nbut I'm pretty sure we can get some good\ningredients!",
+    "Enabled": true
   },
   "290178": {
     "OriginalText": "特選素材の調達をお願いしますぞ。\nレ・エクセージＴの極目玉、ラーアビアディノの\n極コブ、そしてロウトルリンプの極ヒレ、\nどれも超一流ゆえ難度も超一流ですが、\nそれに見合う味わいを保証いたしましょう。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Please procure top-notch materials.\nLe Equsage T Ultra Eyeball, Lar Aviadino\nUltra Polyp, and Rol Torrimp Ultra Fin.",
+    "Enabled": true
   },
   "290179": {
     "OriginalText": "究極のダーカー素材を調達していただけますか？\nＧダーク・ラグネの極爪、Ｇウォルガーダの極髪、\nＧシャルレイダの極甲羅、どれも究極と呼ぶに\n相応しく難易度も高いものばかりです。\n無理は承知の上ですが、よろしくお願いします。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Can you procure the ultimate Darker\nmaterial? G-Dark Ragne Ultra Claw,\nG-Wolgahda Ultra Hair, G-Shalurayda\nUltra Shell.",
+    "Enabled": true
   },
   "290180": {
     "OriginalText": "平穏を脅かすディートアス系のギガンテスの撃破は\n今や急務です。全力を鑽げなくてはなりません。\nこの危機を乗り越えずして拠点のさらなる発展は\nないでしょう。なんとしても撃破をお願いします！\n[a 03]※この約束は１回のみ[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "There's an urgent task to defeat Dietoas.\nOur lives will not improve if we can't\novercome this crisis. Please defeat it!\n\n[a 03]※Non-Repeatable[b]",
+    "Enabled": true
   },
   "290181": {
     "OriginalText": "いわゆる宝石類を集めていただけますか？\nグラン水装の黄昏のジルコン、炎の高地の\n群青のサファイア、銅の荒野の真紅のルビー。\n入手は困難を極めますが、だからこそ研究すべき\n対象だと考えております。お願いできますか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Please collect Twilight Zircon in Gran\nWater Rig, Ultramarine Sapphire in Flame\nHighlands, and Crimson Ruby in the Steel\nWasteland.",
+    "Enabled": true
   },
   "290182": {
     "OriginalText": "標的はただ撃破すりゃいいってモンじゃないぜ？\nうまく狙って部位破壊すれば武器素材になる\n素材がゲットできるんだ。\nお前も一回試してみろよ！\n[a 03]※この約束は１回のみ[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "Don't you want to defeat the target?\nIf you can destroy its body part you can\nget the specific material.\n\n[a 03]※Non-Repeatable[b]",
+    "Enabled": true
   },
   "290183": {
     "OriginalText": "樹木状の鉱洋が３つ欲しいんだよな。\n量汎用の武器のメンテナンスに必要なんだ。\n頼んでもいいか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "I want a tree-shaped ore.\nIt's necessary for the maintenance\nof the weapons.\nCan I ask you to collect it?",
+    "Enabled": true
   },
   "290184": {
     "OriginalText": "バレダイナスの銃片が欲しいんだよな。\n２個ぐらい揃えば、武器の量汎体制が\n作れると思うんだ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "I want some of Valdinas Gun Piece.\nIf you bring 2 pieces, I can maintain\nthe functionality of the weapons!",
+    "Enabled": true
   },
   "290185": {
     "OriginalText": "シルブカーネベアの砲片を２つと、\nレイバンサーの爪を１つ入手してきてくれ。\n武器のメンテナンス道具を作りたいんだ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Get 2 Silve Carnnebear Cannon Piece and\n1 Ray Banther Claw. I'm going to make a\ntool for weapon maintenance.",
+    "Enabled": true
   },
   "290186": {
     "OriginalText": "ギュゲンテの伝甲が欲しいんだよな。\n３つあると、武器製造のための\n設備が整えられそうなんだ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I want 3 Gygante Armor. I'm gonna need\nit for the equipment to make weapons.",
+    "Enabled": true
   },
   "290187": {
     "OriginalText": "機械生洋の甲片集めを\n手龍ってくれないか？\n武器の素材にはうってつけだが、\n３つ集めるとなると大変でな。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Would you collect some Mech Armor\nFragment? It'll be a great material for\nthe weapons, so I need 3 pieces of it.",
+    "Enabled": true
   },
   "290188": {
     "OriginalText": "ラコニア金属を３つ入手してきてくれ。\n武器製造用の機器に使えそうなんだ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Bring me 3 Laconia Metal. I think I can\nuse it for the equipment to make\nweapons.",
+    "Enabled": true
   },
   "290189": {
     "OriginalText": "ガラティオンの鉄線の入手を頼めるか？\n新しい武器の構想が思い浮かんだんだ！\n３つあれば、実験できると思う。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Can I ask you for a Garation Metal Wire?\nI came up with the idea of a new weapon!\nI need 3 pieces for the experiment.",
+    "Enabled": true
   },
   "290190": {
     "OriginalText": "ギオス系の盾の部品を１つずつ集めてくれ。\nシードギオス、ヴァッドギオス、エアドギオスの\n３種だ。気をつけろよ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gather shield material from each\nGios-type enemies. Namely Xie Dogios,\nVad Dogios, and Air Dogios. I need 3\npieces each, take care!",
+    "Enabled": true
   },
   "290191": {
     "OriginalText": "エウリュードの大弾頭を２つ\n取ってきてくれないか？\nこう未知の素材ばっかりだと\nワクワクするよな！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Can you get me 2 Eurude Large Warhead?\nI'm excited to see this unknown material!",
+    "Enabled": true
   },
   "290192": {
     "OriginalText": "エデルクリトロの爪片を１つ持ってきてくれないか？\nかなり硬いから細かい加工を施すための\n機材に転用できそうなんだ。\n\n[a 03]※この約束は１回のみ[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "Can you bring me a piece of Eder Crittro\nClaw Part? It will be difficult, but I\ncan use it for making weapons.\n\n[a 03]※Non-Repeatable[b]",
+    "Enabled": true
   },
   "290193": {
     "OriginalText": "モストカーネベアの硬砲身を１つ持ってきてくれ。\n攻撃力を上げるアタッチパーツ開発に\n利用できそうなんだ。\n\n[a 03]※この約束は１回のみ[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "Bring me one of Mosst Carnnebear Hard\nBarrel. I can use to make attachments\nthat increases attack power.\n\n[a 03]※Non-Repeatable[b]",
+    "Enabled": true
   },
   "290194": {
     "OriginalText": "機械生洋のパーツを６個ずつ集めてほしいんだよな。\nバレダイナスの超銃、オルテ・マガヴルムの超銃、\nレ・マクロージの超針、どれも難所を攻めなきゃ\n採れないレア洋だぜ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I want you to gather 6 of each\nBiomechanical Parts. Valdinas Super Gun,\nOrte Magavulum Super Gun, and Le Makroge\nSuper Needle.",
+    "Enabled": true
   },
   "290195": {
     "OriginalText": "ギガンテスの素材を６個ずつ集めて来てくれ。\nギュゲンテの超砲塔部品と、アルテイオスの超皮、\nおっと、ギガティオンの超ノコ刃も忘れずにな。\nその辺で簡単に手に入らないことはわかってる。\n気長に待ってるから、よろしく頼んだぜ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect 6 pieces of each Gigantes\nmaterial. Gygante Super Turret Part,\nAlteios Super Hide, and also Gigation\nSuper Saw Blade.",
+    "Enabled": true
   },
   "290196": {
     "OriginalText": "ノイヴァトアスの超砲身、ヴィヴリュードの超爪に、\nディゴルドスの超頭角を６個ずつ……。\nオレが師匠を越えるためには、この素材が\nどうしても必要なんだ、収集を頼んでいいか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "In order to surpass my master, I need 6\nof each of Neuvatoas Super Barrel,\nVivryude Super Claw, and the Digordes\nSuper Antler.",
+    "Enabled": true
   },
   "290197": {
     "OriginalText": "また宝石類を集めていただけますか？\nノヴァ内部の漆黒のオブシディアン、古代都市の\n光輝のダイヤモンド、大尖塔の緑のエメラルド、\nどれも価値ある洋ばかりで、本当に入手できるか\nどうかも定かではありませんが、頼みます。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Can you collect these gems?\nEbony Obsidian in Nova Interior, Gleaming\nDiamond of Ancient City, and Green\nEmerald in Large Spire.",
+    "Enabled": true
   },
   "290198": {
     "OriginalText": "ラッピーチケットを１０個持ってきてくれないかな？\nもちろん、タダとは言わない！ 持ってきてくれた\n暁には、ルティナさんの秘蔵の一品、あの秘密の\nコスチュームの材料をあげちゃうよ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Will you bring me 10 Rappy Ticket?\nOf course, not for free! I'll give you a\nmaterial for Lutina's treasured secret\ncostume.",
+    "Enabled": true
   },
   "290199": {
     "OriginalText": "せっかくだ、またデートに行こうぜ！ お前との\nデートは悪くないからな。……ん、なんだ、\nいい戦果をあげたら、ご褒美をくれって？\n……お前、欲張りになってないか？ まぁ、いい。\n考えといてやる！ 早速行こうぜ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Let's go on a date again!\nWhat!? If you get a good result,\nyou want a reward? You're greedy.\nWell, I'll think about it! Let's go!",
+    "Enabled": true
   },
   "290200": {
     "OriginalText": "予備枠",
@@ -2421,88 +2421,88 @@
   },
   "290202": {
     "OriginalText": "お前の腕前を試させてくれ。\nＡランクを取れるようなら、\nスキルボードを１剤追加しようじゃないか。\nお前もワンランク上の戦いができるようになるぜ。\n[a 03]※この約束は１回のみ[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "Let me test your skills. If you can get\na A-Rank, I'll add another Skill Board.\nYou'll fight more efficiently.\n\n[a 03]※Non-Repeatable[b]",
+    "Enabled": true
   },
   "290203": {
     "OriginalText": "もう一度、お前の腕を試させてくれ。\nＡランクを取れるようなら、\nスキルボードをもう一剤追加しようじゃないか。\nいい報告、期待してるぜ。\n[a 03]※この約束は１回のみ[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "Let me test your skills again. If you\ncan get a A-Rank, I'll add another Skill\nBoard. I'm expecting good results.\n\n[a 03]※Non-Repeatable[b]",
+    "Enabled": true
   },
   "290204": {
     "OriginalText": "強化訓練をするぞ！\nとりあえず、シルブカーネベアの撃破だ！\nそこそこ強い奴を２体は倒して来い。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I'll give you a training!\nFor now, defeat 2 Silve Carnnebear!",
+    "Enabled": true
   },
   "290205": {
     "OriginalText": "強化訓練の続きだ！ バレダイナス系を３体、\nマフレザール系を４体、マンデル系を４体\n倒して来い！",
-    "Text": "",
-    "Enabled": false
+    "Text": "It's the continuation of your training!\nNow defeat 3 any Valdinas species, 4 any\nMaphrezer species, and 4 any Mandel\nspecies!",
+    "Enabled": true
   },
   "290206": {
     "OriginalText": "指定のクエストをＡランクでクリアしてもらうぞ。\n確実にＡランクでクリアしないとな。\n目を瞑っててもいける、ってくらいにだ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I'll have you clear the specified quest\nwith A-Rank. Make sure you'll clear it\nwith A-Rank.",
+    "Enabled": true
   },
   "290207": {
     "OriginalText": "プレディカーダを撃破しようじゃないか。\n量より質を極めていこう。\n強い奴を、まずは２体だ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Let's defeat a Predicahda.\nLet's go for quality rather than quantity.\nThey're pretty strong but I need you to\ndefeat 2 of them.",
+    "Enabled": true
   },
   "290208": {
     "OriginalText": "そろそろベリーハードもＳランクでクリアしないとな。\nやってみないことには始まらないぞ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Time to clear it with S-Rank on Very\nHard difficulty. You got to do it to\nexperience it.",
+    "Enabled": true
   },
   "290209": {
     "OriginalText": "ベリーハードでも確実にＳランクでクリアしないとな。\n何事も慣れだって思うぞ？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Even on Very Hard difficulty, you got to\nclear it with S-Rank. You got to\nexperience everything, right?",
+    "Enabled": true
   },
   "290210": {
     "OriginalText": "バンサー系のエネミーを撃破しようじゃないか。\nうんと強い奴を３体、仕留めてみろ。\n今のお前さんなら出来ると思うぜ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Let's defeat a Banther-type enemies.\nDefeat 3 high-level ones, I think you\ncan defeat them now.",
+    "Enabled": true
   },
   "290211": {
     "OriginalText": "ベリーハードをＳランクでクリア出来るようになれば\nもう誰にも文句は言わせないぞ？\nまずは挑戦、あるのみだ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "If you can clear it with S-Rank on Very\nHard, no one will complain anymore, right?\nFirst of all, this is only a challenge!",
+    "Enabled": true
   },
   "290212": {
     "OriginalText": "Ｇダーク・ラグネの脚を回収してきてもらおうか。\nただ倒すだけだと効率が悪いからな、\n積極的に足の伝甲を破壊していけ。\n持ってくるのは1つだけで構わんぞ。\n[a 03]※この約束は１回のみ[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "I want you to gather 1 G-Dark Ragne Leg.\nIt's useless to defeat it without\ndestroying the armor on its legs first.\n\n[a 03]※Non-Repeatable[b]",
+    "Enabled": true
   },
   "290213": {
     "OriginalText": "ヴィヴリュードとかいうエウリュードの派生種が\n現れただろう。\n早速そいつの爪を１つ回収してこい。\nお前らなら出来るはずだ。\n[a 03]※この約束は１回のみ[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "A Vivryude has appeared.\nGather 1 of its Claw immediately.\nI know you can do it.\n\n[a 03]※Non-Repeatable[b]",
+    "Enabled": true
   },
   "290214": {
     "OriginalText": "アルテイオス、グラヴディオン、リベルゲンテ、\nどれも最強レベルの個体が観測された。\nそいつら相手に腕試しといかないか？\n一段高い世界への濯が開くかもしれないぜ？\n[a 03]※この約束は１回のみ 捕獲は無効[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "A high-level Alteios, Gravdion, and\nLibelgante were detected. Why don't you\ntry your skills?\n\n[a 03]※Non-Repeatable, Capture not allowed[b]",
+    "Enabled": true
   },
   "290215": {
     "OriginalText": "艦長業務のせいで腕が鈍っていたりしないか？\nいって時に最高のパフォーマンスを発揮できなきゃ\nいい戦土とは言えないからな。\nちょうどおあつらえ向きな凶暴な敵を見つけて\nおいたから、今から肩慣らしなんてどうだ？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Are your skills getting dull because of\ncaptain duties? I just found some\nferocious enemy, why don't you try warming\nup?",
+    "Enabled": true
   },
   "290216": {
     "OriginalText": "ギガンテスで腕試しと言っても、きっとお前さんも\n驚かないだろう。だが、今回はレベルが違うぜ。\nここで倒しに行かなければ、アークスの名が\n廃るってもんだな。戦果期待してるぜ！\n[a 03]※捕獲は無効[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "You should try your skills against a\nGigantes. Show me your skills as a proud\nmember of ARKS.\n\n[a 03]※Capture not allowed[b]",
+    "Enabled": true
   },
   "290217": {
     "OriginalText": "タイムアタッククエストでＳランクを\n取ってみないか？\n伝備やレベルが指定のものになるから\n純粋にお前さんの腕が試されるぞ。\n[a 03]※この約束は１回のみ[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "Try getting a S-Rank in a Time Attack\nQuest. You're pure skills will be tested\nhere because of the static loadouts.\n\n[a 03]※Non-Repeatable[b]",
+    "Enabled": true
   },
   "290218": {
     "OriginalText": "今度はＰＴアタッククエストでＳランクを\n取ってみないか？\n伝備やレベルが指定のものになるから\n純粋にお前さんの腕が試されるぞ。\n[a 03]※この約束は１回のみ[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "Try getting a S-Rank in a PT Attack Quest\nthis time. You're loadouts and level will\nstill be static.\n\n[a 03]※Non-Repeatable[b]",
+    "Enabled": true
   },
   "290219": {
     "OriginalText": "予備枠",
@@ -2521,83 +2521,83 @@
   },
   "290222": {
     "OriginalText": "岩塩を５つ、調達してくださいな。\n塩と水は生命維持に欠かせませんぞ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Please collect 5 Rock SaSalt.\nSalt and water are essential for\nsurvival.",
+    "Enabled": true
   },
   "290223": {
     "OriginalText": "獣の肉を７つ調達してくださいな。\n皆さんよく動きますから、\nたんぱく装の摂取は重要ですぞ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Please gather 7 Monster Flesh.\nEveryone is working hard , so protein is\na must.",
+    "Enabled": true
   },
   "290224": {
     "OriginalText": "グランブの爪片３つの調達をお願いできますかな？\nいい出枚がとれるに違いありませんぞ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Can you gather 3 Granv Claw Part?\nYou should be able to get some good\nones!",
+    "Enabled": true
   },
   "290225": {
     "OriginalText": "尻と米を５つずつ調達してくださいな。\n主食がライスかブレッドか、\n人には好みがありますからな。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Please collect 5 Wheat and 5 Rice.\nPeople have preference in their staple\nfood, either rice or bread.",
+    "Enabled": true
   },
   "290226": {
     "OriginalText": "ダーカーの肉を３個調達してくださいな。\nダーカーは我らアークスの不汁戴天の敵ですが、\nこういった良質な食材を提供してくれる点は\n感謝せねばなりませんな。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Please gather 3 Darker Meat. Darkers are\nthe ARKS' archenemy, but we must be\ngrateful for being provided with quality\ningredients.",
+    "Enabled": true
   },
   "290227": {
     "OriginalText": "ジュラキアの軟骨を調達してくださいな。\nコリコリした食感を楽しめますし、\nカルシウムの摂取もできる優れものですぞ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Please gather Jurrakia Cartilage.\nYou will enjoy its crunchy texture and\nget some calcium!",
+    "Enabled": true
   },
   "290228": {
     "OriginalText": "ギガンテスの肉とギガンテスの魚肉を３つずつ\n調達してきてくださいな。\nスタミナがつくディナーを作ろうと思いまして。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Please gather 3 Gigantes Meat and 3 Fish\nGigantes Meat. I was thinking of making a\ndinner full of stamina.",
+    "Enabled": true
   },
   "290229": {
     "OriginalText": "デェフキュオネの大虫麦を３つ調達してくださいな。\nとろみを出すのに欠かせない食材ですぞ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Please gather 3 Defcyone Ink Sac.\nIt's an important ingredient for\nthickening.",
+    "Enabled": true
   },
   "290230": {
     "OriginalText": "獣のミルクを２つ、竜族のたまごを５つ、\n調達をお願いできますかな？\nひとつ、女性クルーたちが喜びそうなスイーツに\n挑戦してみようと思いましてな。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Can you gather 2 Monster Milk and 5\nDragonkin Egg? I was thinking of making\na dessert that the ladies would love.",
+    "Enabled": true
   },
   "290231": {
     "OriginalText": "アグリオスのたまごを２つ調達を\nお願いできますかな？\nイズナさんのスイーツ用ですが\nこっそり艦長にも分けてあげますぞ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Can you gather 2 Agrios Egg?\nIt's for Izuna's dessert but I would like\nto share it secretly with you, Captain!",
+    "Enabled": true
   },
   "290232": {
     "OriginalText": "似前艦長が提供してくれた赤い植洋ですが、\n交配させて菜倶を作りたいと思いましてな。\nもし探索の最中に赤い樹袋を見つけたら\n私のもとに届けてくださいますかな。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I want you to collect some Red Branch,\nI want to plant it like a vegetable.\nIf you can find some, please bring it\nto me.",
+    "Enabled": true
   },
   "290233": {
     "OriginalText": "劇を２つほど調達してくださいな。\n氷蔵庫が修理中でして、修理が完了するまでの間、\n一時的な保氷捗として使いたいのです。\n艦長ならできると信じてますぞ！\n[a 03]※この約束は１回のみ[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "Please bring me 2 Ice. I'll use it for\ntemporary refrigeration until the ice\nstorage is repaired.\n\n[a 03]※Non-Repeatable[b]",
+    "Enabled": true
   },
   "290234": {
     "OriginalText": "アセラビーソの刃片の調達をお願いしますぞ。\n調理器具が壊れてしまい困っていたのですが、\n何でも小さな刃を持つ原生種がいると聞きまして、\n園非とも使ってみたいのです。\n[a 03]※この約束は１回のみ[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "Please gather some Ase Rabbisaw Blade\nFragment. My tools broke so I'm gonna use\nthis for tending the garden.\n\n[a 03]※Non-Repeatable[b]",
+    "Enabled": true
   },
   "290235": {
     "OriginalText": "古代都市のエネミーから採れる素材集めを\nお願いできますかな。\n調理器材の手入れにちょうどいい素材なのです。\n道具は料理人の命ですからな。頼みましたぞ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Can you gather materials from the enemies\nin Ancient City? I'll use it for my\ncooking equipment maintenance.\nI'm counting on you!",
+    "Enabled": true
   },
   "290236": {
     "OriginalText": "古代都市でヴィヴリュードの撃破をお願いしますぞ。\n前人未踏とも言うべき地域に足を運べば、\n前人未食とも言うべき食材との出会いがあるやも\nしれません。いやはや、心がおどりますな！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Please defeat Vivryude in Ancient City.\nYou might find some unknown ingredients\nin the unexplored areas.\nIt will be exciting!",
+    "Enabled": true
   },
   "290237": {
     "OriginalText": "他では手に入らない珍味を調達してくださいな。\nクロザードの超背びれに、サフグランブの超巻き祭、\nスマラクリトロの超粘、いったいどんなお味が\nすることやら……よだれが止まりませんぞ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Please collect these delicacies.\nGu Rozad Super Dorsal Fin, Sahugranv\nSuper Helix, and Smar Crittro Super Mucus.\nI'm drooling!",
+    "Enabled": true
   },
   "290238": {
     "OriginalText": "予備枠",
@@ -2621,83 +2621,83 @@
   },
   "290242": {
     "OriginalText": "バスターとして大成できるよう訓練をしましょう。\n新しい戦闘クラスですから最初こそ難しいかも\nしれませんが、一度任務をクリアしてみてください。\n[a 03]※この約束は１回のみ\n※『バスター』にクラス変更をする必要あり[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "Let's train to be successful Buster.\nIt might be difficult because it's a new\nclass.\n[a 03]※Non-Repeatable\n※[Buster] class required[b]",
+    "Enabled": true
   },
   "290243": {
     "OriginalText": "パイルをしっかり使いこなせるようになりましょう。\nパイル訓練クエストでギガンテス・アグリオスを\n捕獲してみてください。\n\n[a 03]※この約束は１回のみ[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "Let's master the Pile. Try capturing the\nGigantes Agrios in the [Pile Training\nQuest].\n\n[a 03]※Non-Repeatable[b]",
+    "Enabled": true
   },
   "290244": {
     "OriginalText": "グランピースの調達をお願いしたいのですが、\nよろしいですか？\nラボでの研究に必要になりそうなので。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I would like to request you to collect\nGran Pieces, is that okay? It's necessary\nfor research in the Lab.",
+    "Enabled": true
   },
   "290245": {
     "OriginalText": "グランブの甲羅を２つほど調達をお願いします。\nグランの弾丸を射出するメカニズムが何かに\n使えるかもしれません。\n研究を進めるためによろしくお願いします。",
-    "Text": "I need you to procure a Granv Carapace.\nWe can use the bullet mechanism\nas a way to inject Gran for research.\nThank you in advance.",
+    "Text": "I need you to procure 2 Granv Shell.\nWe can use the bullet mechanism\nas a way to inject Gran for research.\nThank you in advance.",
     "Enabled": true
   },
   "290246": {
     "OriginalText": "グランピースの入手をお願い出来ますか？\n光属性の洋と闇属性の洋と、\nそれぞれ３つずつ必要なんです。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Can you bring me Gran Piece?\nI need 3 with Light attribute and 3 with\nDark attribute.",
+    "Enabled": true
   },
   "290247": {
     "OriginalText": "機械生洋のフレームの調達に行きませんか？\n研究を進めるのに、２つほど必要で\n艦長のお力を借りたいのです！",
-    "Text": "",
-    "Enabled": false
+    "Text": "I would like you to collect some Crude\nEngine Frame? I need 2 to proceed with\nmy research, so I need your help!",
+    "Enabled": true
   },
   "290248": {
     "OriginalText": "アルキュオネの浮遊伝置の調達を\nお願いしたいのですが、よろしいですか？ \n浮遊伝置の破片で構わないのですが、\n研究を進めるのに３つほど必要です。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I would like to request to gather\nAlcyone Levitator, is that okay?\nI need 3 pieces to proceed with my\nresearch.",
+    "Enabled": true
   },
   "290249": {
     "OriginalText": "最強と目されるギガンテスたちのパーツを\n集めてきてもらえますか？\nそれぞれ２つずつ必要なのです。\nかなり大変な任務になるかと思いますが、\n皆さんなら成し遂げてくれると信じています！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Can you gather some Gigantes parts?\nI need 2 pieces each. It's going to be\ntough, but I believe you'll get it done!",
+    "Enabled": true
   },
   "290250": {
     "OriginalText": "バリバッツの翼枝を１つ調達してきてください。\n大気中のグランをあの翼で受け止めて、\n飛行していると考えられていますが、\nその原理は未だ解明されていないのです。\n[a 03]※この約束は１回のみ[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "Please gather 1 Baribatts Wing.\nI have a theory that it catches Gran in\nthe air in order to fly.\n\n[a 03]※Non-Repeatable[b]",
+    "Enabled": true
   },
   "290251": {
     "OriginalText": "ギガンテスの武伝を調査するために\nいくつかパーツを調達してきてください。\nギガンテスのミサイル片、ギガンテスの銃片、\nギガンテスのレーザー片をお願いします。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Please gather Gigantes weapon parts.\nI would like a Gigantes Missile Piece,\nGigantes Gun Piece, and Gigantes Laser\nPiece.",
+    "Enabled": true
   },
   "290252": {
     "OriginalText": "現在ラボではヘイロウを使わずに\nリングフィールドを展開させる消費アイテム、\nリングジェネレーターの改良中です。\nそのためにグランピースの炎属性と雷属性が\n必要なのですが、調達をお願いできますか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Currently, the Lab is developing a Ring\nGenerator, an item that can produce a\nRing Field. So I need Fire and Lighting\nGran Pieces.",
+    "Enabled": true
   },
   "290253": {
     "OriginalText": "現在ラボでは属性の付与されたグランピースから\n無属性のグランピースを作成する方法を研究中です。\n実験材料として劇属性と風属性のグランピースを\n調達してきていただけないでしょうか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "We are researching to convert elemental\nGran Piece to a normal Gran Piece.\nSo please gather Ice and Wind Gran Piece\nfor the test.",
+    "Enabled": true
   },
   "290254": {
     "OriginalText": "皆さんの服の修復を行いましょう！\nラッピーチケットを１５個、\nギガンテスのグラン器片を８個\n機械生洋の硬骨格を１６個\nお願いできますか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Let's repair our clothes! Can you bring\nme 15 Rappy Ticket, 8 G-infused Gigantes\nOrgan, and 16 Biomechanical Frame?",
+    "Enabled": true
   },
   "290255": {
     "OriginalText": "現在ラボでは、コアの特殊能力を他のコアへ\n寸せ替える技術を研究しています。\n雷属性、光属性のグランピースをそれぞれ\n９９個ずつ調達していただけますか？\n[a 03]※この約束は１回のみ[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "We're studying the tech to transfer the\nabilities of a Core to another.\nPlease collect 99 each of Lightning and\nLight Grand Pieces.",
+    "Enabled": true
   },
   "290256": {
     "OriginalText": "ダーカーの研究のため、Ｇダーク・ラグネの\n超脚甲と、Ｇウォルガーダの超髪、Ｇシャルレイダの\n超甲羅をそれぞれ４個ずつ入手してもらえますか？\nどれも凶暴なダーカーを撃破しないと入手できない\nものばかりで恐温ですが、お願いします。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Can you gather 4 each of G-Dark Ragne\nSuper Leg Shell, G-Wolgahda Super Hair,\nand G-Shalurayda Super Shell for Darker\nresearch?",
+    "Enabled": true
   },
   "290257": {
     "OriginalText": "ギガンテスの武伝を研究するために、\nスーパーハードでのみ入手可能な素材を調達して\nいただけませんか？ アグリオスの超皮を２個、\nウィルアフォルの超目玉を４個に加えて、\nアルキュオネの超触手が５個必要です。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Please gather materials only available\nin SH. I need 2 Agrios Super Hide, 4\nViluaphol Super Eyeball, and 5 Alcyone\nSuper Tentacle.",
+    "Enabled": true
   },
   "290258": {
     "OriginalText": "予備枠",
@@ -2721,73 +2721,73 @@
   },
   "290262": {
     "OriginalText": "クラスカウンター建築の最後の資材を回収したいが\nそのために周辺地域のダーカーを討伐してくれ。\nクラスの変更、GAとテクニックの習得、スキルの\nセットアップにはクラスカウンターが必要だからな。\n[a 03]※この約束は１回のみ[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "I want to you collect the last material\nneeded for the Class Counter.\nYou'll need it for your GA skills,\nclass, etc.\n[a 03]※Non-Repeatable[b]",
+    "Enabled": true
   },
   "290263": {
     "OriginalText": "食堂建設に必要な獣の肉を１個集めてくれ。\n出撃するアークスの英気を養うのに食堂が必要だが、\nまずは建設作業員の腹ごしらえってことだ。\n\n[a 03]※この約束は１回のみ[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect 1 Monster Flesh needed to build\nthe Restaurant. It is needed to uplift\nthe morale in the base.[a 03]※Non-Repeatable[b]",
+    "Enabled": true
   },
   "290264": {
     "OriginalText": "武器ショップ建設用にダーカーの節を３個集めろ。\n武器やカスタマイズ用のアタッチパーツは\n戦闘の必逸品だが、その前にショップがなきゃ\n話にならねぇ。\n[a 03]※この約束は１回のみ[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gather 3 Darker Node to build the Weapon\nShop. Weapons and attachments are\nimportant for every battle.\n\n[a 03]※Non-Repeatable[b]",
+    "Enabled": true
   },
   "290265": {
     "OriginalText": "防具ショップ建設に必要な白い岩石を３個、\n調達してくれ。身を守る新伝備や、シールド\nユニットは惑星探索の必逸品だが、\nその前にショップがなきゃ話にならねぇ。\n[a 03]※この約束は１回のみ[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "Collect 3 White Rock to build the Armor\nShop. Shield Units are important to\nprotect ourselves when exploring.\n\n[a 03]※Non-Repeatable[b]",
+    "Enabled": true
   },
   "290266": {
     "OriginalText": "アイテムショップ建築の最後の資材を回収したいが\nそのために周辺地域の安全を確保してくれ。\n探索に使う消耗品を作るのにアイテムショップは\n必要だからな。\n[a 03]※この約束は１回のみ[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "I want you to collect the last material\nneeded to build the Item Shop.\nYou'll need an Item Shop to make\nconsumables.\n[a 03]※Non-Repeatable[b]",
+    "Enabled": true
   },
   "290267": {
     "OriginalText": "コスチュームショップ建設に協力してくれないか。\nコスチュームやキャストパーツを作るのに\nコスチュームショップが必要だからな。\nＧダガンの脚片を２つ持ってきてくれ。\n[a 03]※この約束は１回のみ[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "Will you help in building the Costume\nShop? You'll need it to make costumes\nand Cast parts. Bring me 2 G-Dagan Leg.\n\n[a 03]※Non-Repeatable[b]",
+    "Enabled": true
   },
   "290268": {
     "OriginalText": "エステ建設に必要なギガンテスの甲片を１個、\n調達してくれ。アクセサリーやヘアスタイルを\n変えるのに必要だからな。\n\n[a 03]※この約束は１回のみ[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "Bring 1 Gigantes Shell Fragment to build\nthe Makeover Shop. You'll need it to\nchange your accessories and hairstyle.\n\n[a 03]※Non-Repeatable[b]",
+    "Enabled": true
   },
   "290269": {
     "OriginalText": "クラスカウンター改築に協力してくれ。\nとりあえず、ダーカーの盾片を１個頼む。\nその先の作業はオルクスがやってくれる。\n\n[a 03]※この約束は１回のみ[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "Please help with the renovation of the\nClass Counter. For now, collect 1 Darker\nExoskeleton. Orcus will do the rest.\n\n[a 03]※Non-Repeatable[b]",
+    "Enabled": true
   },
   "290270": {
     "OriginalText": "食堂改築に協力してくれ。\nまずは膜β類のたまごを８個だな。\n改築プランはヒュペリオンに任せてある。\n\n[a 03]※この約束は１回のみ[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "Please help with the renovation of the\nRestaurant. I need 8 Reptile Egg.\nHyperion will do the rest of the work.\n\n[a 03]※Non-Repeatable[b]",
+    "Enabled": true
   },
   "290271": {
     "OriginalText": "武器ショップ改築に協力してくれ。\nヨミがなかなかいいアイデアを持ってるようだが、\nどうしても戦闘データが足りないらしい。\nＧダーガッシュを４体倒して来い！\n[a 03]※この約束は１回のみ[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "Please help with the renovation of the\nWeapon Shop. Yomi doesn't have enough\nbattle data. Please defeat 4 G-Dahgash!\n\n[a 03]※Non-Repeatable[b]",
+    "Enabled": true
   },
   "290272": {
     "OriginalText": "防具ショップ改築に協力してくれ。\nセイルからなかなかいい改善提案があってな。\nそこからカリストが必要な素材を割り出した。\nラウーダンの爪片を４つ集めてきてくれ！\n[a 03]※この約束は１回のみ[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "Please help with the renovation of the\nArmor Shop. Sail has a good proposal, so\ncollect 4 Ra Oodan Claw Fragment.\n\n[a 03]※Non-Repeatable[b]",
+    "Enabled": true
   },
   "290273": {
     "OriginalText": "アイテムショップ改築に協力してくれ。\n回復アイテム製造システムを改修するんだが、\nリーティアから氷たく燃える金属結晶が\n２つ必要だと連絡を受けた。\n[a 03]※この約束は１回のみ[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "Please help with the renovation of the\nItem Shop. Rietheia needs 2 Frigid\nBurning Metal Crystal.\n\n[a 03]※Non-Repeatable[b]",
+    "Enabled": true
   },
   "290274": {
     "OriginalText": "コスチュームショップ改築に協力してくれ。\nルティナがいい改善提案をまとめてくれた。\nそれに必要な資材をカリストが洗いだしたところ、\nグランブの爪片が３つ必要らしい。\n[a 03]※この約束は１回のみ[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "Please help with the renovation of the\nCostume Shop. Lutina has a good proposal,\nbut they need 3 Granv Claw Part.\n\n[a 03]※Non-Repeatable[b]",
+    "Enabled": true
   },
   "290275": {
     "OriginalText": "エステ改築に協力を頼めないか？\nイズナが色々と試行胴誤しているみたいだ。\nカリストが言うにはベガルフの牙片が\n２つあれば実現可能らしいんだが…。\n[a 03]※この約束は１回のみ[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "Will you help in renovating the Makeover\nShop? Izuna is making various trials,\nplease bring her 2 Begulf Fang.\n\n[a 03]※Non-Repeatable[b]",
+    "Enabled": true
   },
   "290276": {
     "OriginalText": "予備枠",
@@ -3006,7 +3006,7 @@
   },
   "300037": {
     "OriginalText": "【ベガルフの超苔尾】を集める\n【フォンベガルフの超角】を集める",
-    "Text": "Collect [Super Mossed Begulf Tail]\nCollect [Fonbegulf Super Antler]",
+    "Text": "Collect [Begulf Super Tail]\nCollect [Fonbegulf Super Horn]",
     "Enabled": true
   },
   "300038": {
@@ -3316,7 +3316,7 @@
   },
   "300099": {
     "OriginalText": "【ラッピーチケット】を集める\n【ラビーソの極刃】を集める\n【ブリバッツの極針】を集める",
-    "Text": "Collect [Rappy Ticket]\nCollect [Rabbisaw Prime Blade]\nCollect [Bribatts Prime Needle]",
+    "Text": "Collect [Rappy Ticket]\nCollect [Rabbisaw Ultra Blade]\nCollect [Bribatts Ultra Needle]",
     "Enabled": true
   },
   "300100": {
@@ -3406,17 +3406,17 @@
   },
   "300117": {
     "OriginalText": "【Ｇダガンの極爪】を集める\n【Ｇミクダの極甲羅】を集める\n【Ｇダーガッシュの極歯】を集める",
-    "Text": "Collect [G-Dagan Prime Claws]\nCollect [G-Micda Prime Shell]\nCollect [G-Dahgash Prime Tooth]",
+    "Text": "Collect [G-Dagan Ultra Claws]\nCollect [G-Micda Ultra Shell]\nCollect [G-Dahgash Ultra Tooth]",
     "Enabled": true
   },
   "300118": {
     "OriginalText": "【シルブカーネベアの極砲身】を集める\n【ファラレイバンサーの極銃】を集める\n【ゴルドスの極杭】を集める",
-    "Text": "Collect [Silve Carnnebear Prime Barrel]\nCollect [Fararay Banther Prime Gun]\nCollect [Gordes Prime Spike]",
+    "Text": "Collect [Silve Carnnebear Ultra Barrel]\nCollect [Fararay Banther Ultra Gun]\nCollect [Gordes Ultra Spike]",
     "Enabled": true
   },
   "300119": {
     "OriginalText": "【ラウーダンの極煽】を集める\n【バオム・マガヴルムの極銃】を集める\n【バリバッツの極針】を集める",
-    "Text": "Collect [Ra Oodan Prime Pelt]\nCollect [Baum Magavulum Prime Gun]\nCollect [Baribatts Prime Needle]",
+    "Text": "Collect [Ra Oodan Ultra Pelt]\nCollect [Baum Magavulum Ultra Gun]\nCollect [Baribatts Ultra Needle]",
     "Enabled": true
   },
   "300120": {
@@ -3426,7 +3426,7 @@
   },
   "300121": {
     "OriginalText": "【ヴィヴリュードの極尾】を集める\n【グラヴディオンの極】を集める\n【リベルゲンテの極伝甲】を集める",
-    "Text": "Collect [Vivryude Prime Tail]\nCollect [Gravdion Balancer]\nCollect [Libelgante Prime Armor]",
+    "Text": "Collect [Vivryude Ultra Tail]\nCollect [Gravdion Ultra Hoof]\nCollect [Libelgante Ultra Armor]",
     "Enabled": true
   },
   "300122": {
@@ -3446,7 +3446,7 @@
   },
   "300125": {
     "OriginalText": "【アルキュオネの浮遊伝置】を集める\n【アグリオスの砲片】を集める",
-    "Text": "Collect [Alcyone's Levitator]\nCollect [Agrios's Gun]",
+    "Text": "Collect [Alcyone Levitator]\nCollect [Agrios Gun Fragment]",
     "Enabled": true
   },
   "300126": {
@@ -3461,7 +3461,7 @@
   },
   "300128": {
     "OriginalText": "【ガラティオンの鋭ノコ刃】を集める",
-    "Text": "Collect [Garation's Sharp Saw Blade]",
+    "Text": "Collect [Garation Sharp Saw Blade]",
     "Enabled": true
   },
   "300129": {
@@ -3476,7 +3476,7 @@
   },
   "300131": {
     "OriginalText": "【アルテイオスの大主砲】を集める",
-    "Text": "Collect [Alteios's Large Main Cannon]",
+    "Text": "Collect [Alteios Large Main Cannon]",
     "Enabled": true
   },
   "300132": {
@@ -3486,7 +3486,7 @@
   },
   "300133": {
     "OriginalText": "【グレイオスの主砲】を集める",
-    "Text": "Collect [Greios's Main Cannon]",
+    "Text": "Collect [Greios Main Cannon]",
     "Enabled": true
   },
   "300134": {
@@ -3506,7 +3506,7 @@
   },
   "300137": {
     "OriginalText": "【ユークレース】を集める\n【ブルーカルセドニー】を集める\n【青いユークレース】を集める",
-    "Text": "Collect [Euclase]\nCollect [Blue Chalcedony]\nCollect [Blue Euclase]",
+    "Text": "Collect [Euclace]\nCollect [Blue Chalcedony]\nCollect [Blue Euclace]",
     "Enabled": true
   },
   "300138": {
@@ -3786,22 +3786,22 @@
   },
   "300193": {
     "OriginalText": "【モストカーネベアの硬砲身】を集める",
-    "Text": "Collect [Mosst Carnnebear Cannon]",
+    "Text": "Collect [Mosst Carnnebear Hard Barrel]",
     "Enabled": true
   },
   "300194": {
     "OriginalText": "【バレダイナスの超銃】を集める\n【オルテ・マガヴルムの超銃】を集める\n【レ・マクロージの超針】を集める",
-    "Text": "Collect [Valdinas Super Gun]\nCollect [Orte Magavulum Super Gun]\nCollect [Le Makroge Stinger]",
+    "Text": "Collect [Valdinas Super Gun]\nCollect [Orte Magavulum Super Gun]\nCollect [Le Makroge Super Needle]",
     "Enabled": true
   },
   "300195": {
     "OriginalText": "【ギュゲンテの超砲塔部品】を集める\n【アルテイオスの超皮】を集める\n【ギガティオンの超ノコ刃】を集める",
-    "Text": "Collect [Gygante Turret Parts]\nCollect [Alteios Hide]\nCollect [Gigation Saw Blade]",
+    "Text": "Collect [Gygante Super Turret Part]\nCollect [Alteios Super Hide]\nCollect [Gigation Super Saw Blade]",
     "Enabled": true
   },
   "300196": {
     "OriginalText": "【ノイヴァトアスの超砲身】を集める\n【ヴィヴリュードの超爪】を集める\n【ディゴルドスの超頭角】を集める",
-    "Text": "Collect [Neuvatoas Cannon]\nCollect [Vivryude Claw]\nCollect [Digordes Shield]",
+    "Text": "Collect [Neuvatoas Super Barrel]\nCollect [Vivryude Super Claw]\nCollect [Digordes Super Antler]",
     "Enabled": true
   },
   "300197": {
@@ -3996,7 +3996,7 @@
   },
   "300235": {
     "OriginalText": "【ブロラビーソの超回転刃】を集める\n【マドアビアディノの超鱗皮】を集める",
-    "Text": "Collect [Bro Rabbisaw's Rotating Blade]\nCollect [Mad Aviadino Scaled Hide]",
+    "Text": "Collect [Bro Rabbisaw Super Rotating Blade]\nCollect [Mad Aviadino Super Scaly Hide]",
     "Enabled": true
   },
   "300236": {
@@ -4006,7 +4006,7 @@
   },
   "300237": {
     "OriginalText": "【クロザードの超背びれ】を集める\n【サフグランブの超巻き祭】を集める\n【スマラクリトロの超粘】を集める",
-    "Text": "Collect [Gu Rozad Spine]\nCollect [Sahugranv Phlegm Crystal]\nCollect [Smar Crittro Juices]",
+    "Text": "Collect [Gu Rozad Super Dorsal Fin]\nCollect [Sahugranv Super Helix]\nCollect [Smar Crittro Super Mucus]",
     "Enabled": true
   },
   "300238": {
@@ -4101,12 +4101,12 @@
   },
   "300256": {
     "OriginalText": "【Ｇダーク・ラグネの超脚甲】を集める\n【Ｇウォルガーダの超髪】を集める\n【Ｇシャルレイダの超甲羅】を集める",
-    "Text": "Collect [G-Dark Ragne Leg Carapace]\nCollect [G-Wolgahda Hair]\nCollect [G-Shalurayda Shell]",
+    "Text": "Collect [G-Dark Ragne Super Leg Carapace]\nCollect [G-Wolgahda Super Hair]\nCollect [G-Shalurayda Super Shell]",
     "Enabled": true
   },
   "300257": {
     "OriginalText": "【アグリオスの超皮】を集める\n【ウィルアフォルの超目玉】を集める\n【アルキュオネの超触手】を集める",
-    "Text": "Collect [Agrios Hide]\nCollect [Viluaphol Eyeballs]\nCollect [Alcyone Tentacle]",
+    "Text": "Collect [Agrios Super Hide]\nCollect [Viluaphol Super Eyeball]\nCollect [Alcyone Super Tentacle]",
     "Enabled": true
   },
   "300258": {
