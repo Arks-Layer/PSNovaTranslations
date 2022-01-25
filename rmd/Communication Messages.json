@@ -1262,7 +1262,7 @@
   "261320": {
     "OriginalText": "アルレイバンサー撃破を確認。",
     "Text": "Defeat of Alray Banther confirmed.",
-    "Enabled": false
+    "Enabled": true
   },
   "261321": {
     "OriginalText": "グルナバンサー撃破を確認。",
@@ -3302,7 +3302,7 @@
   "264042": {
     "OriginalText": "『 パーティーメンバー追加 ： サンシャウト 』\nサンシャウトをクエストに同行できるようになりました。",
     "Text": "\"Party Member Added: Sunshout\"\nSunshout is now available as a\nparty member.",
-    "Enabled": false
+    "Enabled": true
   },
   "264043": {
     "OriginalText": "『 オペレーター追加 ： ガーネット 』\nガーネットに話しかけることで切替可能です。",
@@ -3317,7 +3317,7 @@
   "264045": {
     "OriginalText": "クリア報酬！！\nホワイトチケット ×３ を手に入れた。",
     "Text": "Clear reward!!\nWhite Ticket x3 received.",
-    "Enabled": false
+    "Enabled": true
   },
   "264046": {
     "OriginalText": "クリア報酬！！\nダイヤモンドネイヴＫ         \nダイヤモンドクイーンＫ を手に入れた。",
@@ -3327,7 +3327,7 @@
   "264047": {
     "OriginalText": "クリア報酬！！\nダイヤモンドネイヴＲ         \nダイヤモンドクイーンＲ を手に入れた。",
     "Text": "Clear reward!!\nDiamond Knave R,\nDiamond Queen R received.",
-    "Enabled": false
+    "Enabled": true
   },
   "264048": {
     "OriginalText": "クリア報酬！！\nダイヤモンドネイヴＷ         \nダイヤモンドクイーンＷ を手に入れた。",
