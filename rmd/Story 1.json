@@ -381,7 +381,7 @@
   },
   "100010050005000": {
     "OriginalText": "ここは「MP00_010_050 艦、墜落」のCGムービーが\n再生される予定です。\n仮に字幕とボイスのみ再生します。",
-    "Text": "We are now watching「MP00_010_050 Ship-Crash」movie. Only subtitles and sound are being played.",
+    "Text": "ここは「MP00_010_050 艦、墜落」のCGムービーが\n再生される予定です。\n仮に字幕とボイスのみ再生します。",
     "Enabled": true
   },
   "100010050010007": {
@@ -781,7 +781,7 @@
   },
   "101010030120001": {
     "OriginalText": "よく分からないけど、この力で戦えっていうのね？",
-    "Text": "I don't understand, but we can fight with this, right?",
+    "Text": "I'm confused, but we can fight now, right?",
     "Enabled": true
   },
   "101010030130001": {
@@ -856,7 +856,7 @@
   },
   "101010040080001": {
     "OriginalText": "話はあとです！ 早く！",
-    "Text": "I'll explain later! Go!",
+    "Text": "I'll explain later! Just go!",
     "Enabled": true
   },
   "101010050010014": {
@@ -1311,7 +1311,7 @@
   },
   "101020050010001": {
     "OriginalText": "よかった、無事……じゃないわね。\nあんたボロボロじゃない！",
-    "Text": "Whew, done.\n Great job holding on, you're pretty strong!",
+    "Text": "Whew, done.\nGreat job holding on, you're pretty strong!",
     "Enabled": true
   },
   "101020050020002": {
@@ -5176,7 +5176,7 @@
   },
   "103040010010001": {
     "OriginalText": "デルタ・ヴァリアントのクルーには、\nそれぞれ役割があるんです！",
-    "Text": "The Delta Variant crew has their own respective roles!",
+    "Text": "The Delta Valiant crew has their own respective roles!",
     "Enabled": true
   },
   "103040010020001": {
@@ -10411,7 +10411,7 @@
   },
   "106030020010004": {
     "OriginalText": "この地に眠る[ruby とも]仲間達[/ruby]へ、黙祷",
-    "Text": "A prayer for those who lies  in this land.",
+    "Text": "A prayer for our comrades.",
     "Enabled": true
   },
   "106030020020004": {
@@ -10651,27 +10651,27 @@
   },
   "106030070010004": {
     "OriginalText": "てめえ……\nてめえがやりやがったのか！！",
-    "Text": "You...\nyour the one who did this!",
+    "Text": "てめえ……\nてめえがやりやがったのか！！",
     "Enabled": true
   },
   "106030070020004": {
     "OriginalText": "仲間はやらせねえぞ！ 目玉野郎！！",
-    "Text": "This is for my people! You eyeball bastard!",
+    "Text": "仲間はやらせねえぞ！ 目玉野郎！！",
     "Enabled": true
   },
   "106030070030004": {
     "OriginalText": "まだだ！！\nオレの命！ 獲れるもんなら獲ってみやがれ！",
-    "Text": "Not yet!!\nMy life! Try catching it!",
+    "Text": "まだだ！！\nオレの命！ 獲れるもんなら獲ってみやがれ！",
     "Enabled": true
   },
   "106030070040004": {
     "OriginalText": "その程度か！\nでかいだけで大したことねえな！",
-    "Text": "You!\nYour size doesn't matter!",
+    "Text": "その程度か！\nでかいだけで大したことねえな！",
     "Enabled": true
   },
   "106030070050004": {
     "OriginalText": "おぅらあああああああああああああああああ！！",
-    "Text": "Haaaaaaaaahhhhhh!!",
+    "Text": "おぅらあああああああああああああああああ！！",
     "Enabled": true
   },
   "106040010010002": {
@@ -10686,27 +10686,27 @@
   },
   "107000020010013": {
     "OriginalText": "「お願い……わたしの[ruby ほし]惑星[/ruby]を……助けて」",
-    "Text": "\"Please... save my planet....\"",
+    "Text": "Please... save my planet...",
     "Enabled": true
   },
   "107000020020017": {
     "OriginalText": "誰も、助けに来てくれないの？",
-    "Text": "Is there anybody who can help you?",
+    "Text": "Do you need help?",
     "Enabled": true
   },
   "107000020030013": {
     "OriginalText": "「はい……」",
-    "Text": "\"Yes....\"",
+    "Text": "Yes...",
     "Enabled": true
   },
   "107000020040017": {
     "OriginalText": "僕を、待っているの？",
-    "Text": "Are you waiting for me?",
+    "Text": "Will you wait for me?",
     "Enabled": true
   },
   "107000020050013": {
     "OriginalText": "「わたしを、見つけてくれますか？」",
-    "Text": "\"Can you find me?\"",
+    "Text": "Will you find me?",
     "Enabled": true
   },
   "107000020060017": {
@@ -10716,42 +10716,42 @@
   },
   "107000020070017": {
     "OriginalText": "約束する 必ず会いに行くよ そして……\n僕は君の、たったひとりのための英雄になる！",
-    "Text": "I promise I'll definitely find you and...\nI'll be your hero.",
+    "Text": "I promise I'll find you.",
     "Enabled": true
   },
   "107000020080013": {
     "OriginalText": "「どうして、そんな悲しい顔をしているの？」",
-    "Text": "\"Why do you have such a sad face?\"",
+    "Text": "Why do you have such a sad face?",
     "Enabled": true
   },
   "107000020090018": {
     "OriginalText": "僕は、必用ない子なんだって\nフォトンの才能がないから",
-    "Text": "I don't have the talent for Photon\nand I don't need them",
+    "Text": "I don't have a talent for Photon",
     "Enabled": true
   },
   "107000020100013": {
     "OriginalText": "「才能がないと、いけないの？」",
-    "Text": "\"Do you need to be talented?\"",
+    "Text": "Do you need to be talented?",
     "Enabled": true
   },
   "107000020110018": {
     "OriginalText": "強い戦土になれない者は必用ないんだ\nそれに、ユノの[ruby ほし]惑星[/ruby]に行くことだって……",
-    "Text": "You don't need anyone that isn't strong,\neven more than going to your planet....",
+    "Text": "You need someone stronger.",
     "Enabled": true
   },
   "107000020120013": {
     "OriginalText": "「わたしはそうは思いません」",
-    "Text": "\"I don't think so.\"",
+    "Text": "I don't think so.",
     "Enabled": true
   },
   "107000020130018": {
     "OriginalText": "え……",
-    "Text": "Eh....",
+    "Text": "Huh?",
     "Enabled": true
   },
   "107000020140013": {
     "OriginalText": "「戦うことで全てが解決するのなら、\nあなたに助けを求めたりはしません」",
-    "Text": "\"If fighting solves everything,\nI wouldn't ask you to help.\"",
+    "Text": "I don't think fighting solves everything",
     "Enabled": true
   },
   "107000020150018": {
@@ -10761,12 +10761,12 @@
   },
   "107000020160013": {
     "OriginalText": "「困難に打ち勝つのは戦う力だけではないでしょ？」",
-    "Text": "\"Is just by being strong can overcome\nany difficulties?\"",
+    "Text": "Being strong can't overcome anything",
     "Enabled": true
   },
   "107000020170018": {
     "OriginalText": "もうー度僕は決めた",
-    "Text": "Then it's decided.",
+    "Text": "Then I promise.",
     "Enabled": true
   },
   "107000020180018": {
@@ -11366,7 +11366,7 @@
   },
   "107030020080002": {
     "OriginalText": "あの光の柱みたいなもので、ちゃんと植物も育ってるんだな……",
-    "Text": "There's a lot that looks like a pillar of\nlight, also the plants are growing properly.",
+    "Text": "There's pillars of lights and greenery",
     "Enabled": true
   },
   "107030020090001": {
@@ -11401,7 +11401,7 @@
   },
   "107030020150002": {
     "OriginalText": "無理だ！！",
-    "Text": "It impossible!!",
+    "Text": "It's impossible!!",
     "Enabled": true
   },
   "107030020160003": {
@@ -16671,7 +16671,7 @@
   },
   "109040010181001": {
     "OriginalText": "フィルディア艦長が最期に見せてくれたあの力、輝きは……！",
-    "Text": "Same as what happened to Capt. Fildia before!",
+    "Text": "Same as what happened to Captain before!",
     "Enabled": true
   },
   "109040020005013": {
@@ -17001,7 +17001,7 @@
   },
   "109040060061001": {
     "OriginalText": "ここで死んだら、ユノの頑張りが無駄になっちゃう！",
-    "Text": "If we die here, her efforts will be in vain!",
+    "Text": "Or her efforts will be in vain!",
     "Enabled": true
   },
   "109040060070002": {
@@ -17091,37 +17091,37 @@
   },
   "109040070010061": {
     "OriginalText": "デルタ・ヴァリアント応答せよ。",
-    "Text": "Delta Valiant, please respond.",
+    "Text": "デルタ・ヴァリアント応答せよ。",
     "Enabled": true
   },
   "109040070020061": {
     "OriginalText": "こちらは『オラクル』船団、\n救助隊所属艦ネビアムだ。\n貴艦の状況を知らせてくれ。",
-    "Text": "This is the \"Oracle\" fleet, the Ship Neviam.\nWhat is your situation.",
+    "Text": "こちらは『オラクル』船団、\n救助隊所属艦ネビアムだ。\n貴艦の状況を知らせてくれ。",
     "Enabled": true
   },
   "109040070030007": {
     "OriginalText": "アークス特殊惑星探査隊オルター所属、\nデルタ・ヴァリアントです。",
-    "Text": "This is Delta Valiant, member of ARKS\nSpecial Planetary Exploration Corps, Alter.",
+    "Text": "アークス特殊惑星探査隊オルター所属、\nデルタ・ヴァリアントです。",
     "Enabled": true
   },
   "109040070040007": {
     "OriginalText": "え？ いいのそんな報告で？\nじゃあ、言うわよ。",
-    "Text": "Eh? We're gonna report that?\n Okay, I'll tell them.",
+    "Text": "え？ いいのそんな報告で？\nじゃあ、言うわよ。",
     "Enabled": true
   },
   "109040070050007": {
     "OriginalText": "当部隊は惑星マキアにてミッションを完了。\n探査した惑星は美しい星でした。",
-    "Text": "We finished our mission in Planet Makhia.\nIt was a beautiful planet.",
+    "Text": "当部隊は惑星マキアにてミッションを完了。\n探査した惑星は美しい星でした。",
     "Enabled": true
   },
   "109040070060061": {
     "OriginalText": "あぁ？ 何を言ってるんだ？",
-    "Text": "Huh? What do you mean?",
+    "Text": "あぁ？ 何を言ってるんだ？",
     "Enabled": true
   },
   "109040070070007": {
     "OriginalText": "繰り返す。ミッションは完了。\n探査した惑星はとても美しい星でした。",
-    "Text": "I repeat, Mission Complete.\nIt was a beautiful planet.",
+    "Text": "繰り返す。ミッションは完了。\n探査した惑星はとても美しい星でした。",
     "Enabled": true
   },
   "109050010010000": {
