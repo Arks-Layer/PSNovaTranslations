@@ -241,203 +241,203 @@
   },
   "630001": {
     "OriginalText": "デルタ・ヴァリアント艦内で使用される\n飲料水。高純度濾過で循環利用される。",
-    "Text": "",
-    "Enabled": false
+    "Text": "On-board drinking water in the Delta Valiant.\nRecycled by high-purity filtration.",
+    "Enabled": true
   },
   "630002": {
     "OriginalText": "力をつけるためのガッツあふれる料理。\n肉食こそあらゆるパワーの源泉。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A dish full of valor for strength.\nProtein is the source of all power.",
+    "Enabled": true
   },
   "630003": {
     "OriginalText": "力をつけるためのガッツあふれる料理。\nオムレツの上の黒いソースが味の決め手。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A dish full of valor for strength. The black\nsauce on the omelet enhances the taste.",
+    "Enabled": true
   },
   "630004": {
     "OriginalText": "力をつけるためのガッツあふれる料理。\n鼻にツーンとくる隠し味が印象的。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A dish full of valor for strength. Impressive\neven there's a slight pungent smell.",
+    "Enabled": true
   },
   "630005": {
     "OriginalText": "力をつけるためのガッツあふれる料理。\n腹に収まればどうせ一緒という考え方。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A dish full of valor for strength. You'll\nwonder how will it fit in your stomach.",
+    "Enabled": true
   },
   "630006": {
     "OriginalText": "力をつけるためのガッツあふれる料理。\n普通すぎて物足りないと食通には不評。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A dish full of valor for strength.\nToo plain for the foodies.",
+    "Enabled": true
   },
   "630007": {
     "OriginalText": "力をつけるためのガッツあふれる料理。\n何でもぶっこめばいいのがアークス流。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A dish full of valor for strength.\nThis ARKS style meal is all you need to eat.",
+    "Enabled": true
   },
   "630008": {
     "OriginalText": "力をつけるためのガッツあふれる料理。\n火照った身体のクールダウンに最適。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A dish full of valor for strength.\nIdeal for cooling down your body.",
+    "Enabled": true
   },
   "630009": {
     "OriginalText": "力をつけるためのガッツあふれる料理。\n「鮮」は新鮮というより色鮮やかの意。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A dish full of valor for ststrengt\nIt is fresh if its colorful.",
+    "Enabled": true
   },
   "630010": {
     "OriginalText": "力をつけるためのガッツあふれる料理。\n具が多いとそれが何かは気にならない。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A dish full of valor for strength.\nA dish made with randomly mixed ingredients.",
+    "Enabled": true
   },
   "630011": {
     "OriginalText": "力をつけるためのガッツあふれる料理。\n子供はダメ、ということはないらしい。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A dish full of valor for strength.\nCan also be served to the children.",
+    "Enabled": true
   },
   "630012": {
     "OriginalText": "力をつけるためのガッツあふれる料理。\n本物の寿司職人には叱られるかも。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A dish full of valor for strength.\nYou may be scolded by a real sushi chef.",
+    "Enabled": true
   },
   "630013": {
     "OriginalText": "力をつけるためのガッツあふれる料理。\nこうも大きいとうまくゆでるのは大変。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A dish full of valor for strength.\nIt is hard to boil due to its size.",
+    "Enabled": true
   },
   "630014": {
     "OriginalText": "デルタ・ヴァリアント艦内の焼き釜で\n焼かれているパン。オルター標準食。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Bread baked in an oven inside the Delta\nValiant. Alter Corps' standard diet.",
+    "Enabled": true
   },
   "630015": {
     "OriginalText": "体を丈夫にするスタミナたっぷり料理。\n色鮮やかな刺身は栄養成分もよりどり。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A dish full of vigor for durability. A\nsashimi full of nutritional ingredients.",
+    "Enabled": true
   },
   "630016": {
     "OriginalText": "体を丈夫にするスタミナたっぷり料理。\n良薬は口に苦しを地でいく薬膳スープ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A dish full of vigor for durability.\nA bitter medicinal soup.",
+    "Enabled": true
   },
   "630017": {
     "OriginalText": "体を丈夫にするスタミナたっぷり料理。\n爬虫類はしっぽが美味いらしい。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A dish full of vigor for durability.\nA delicious reptilian tail.",
+    "Enabled": true
   },
   "630018": {
     "OriginalText": "体を丈夫にするスタミナたっぷり料理。\nアークスも飲料もねばりが大事。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A dish full of vigor for durability.\nStickiness is important for ARKS and drinks.",
+    "Enabled": true
   },
   "630019": {
     "OriginalText": "体を丈夫にするスタミナたっぷり料理。\nあっさりとした味わいで、男女問わず人気。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A dish full of vigor for durability.\nIts light taste is popular with both gender.",
+    "Enabled": true
   },
   "630020": {
     "OriginalText": "体を丈夫にするスタミナたっぷり料理。\n美味いが、焼かれる貝は地獄の苦しみ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A dish full of vigor for durability.\nA delicious shellfish roasted from hell.",
+    "Enabled": true
   },
   "630021": {
     "OriginalText": "体を丈夫にするスタミナたっぷり料理。\n強い臭みは味わった者にしかわからない。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A dish full of vigor for durability.\nOnly for those who can stand its strong odor.",
+    "Enabled": true
   },
   "630022": {
     "OriginalText": "体を丈夫にするスタミナたっぷり料理。\nつまみ食いをすると舌が光ってばれる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A dish full of vigor for durability.\nYour tongue will shine if eaten by hand.",
+    "Enabled": true
   },
   "630023": {
     "OriginalText": "体を丈夫にするスタミナたっぷり料理。\n無心に食べきることで新境地に達する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A dish full of vigor for durability.\nEating it will help you reach new frontiers.",
+    "Enabled": true
   },
   "630024": {
     "OriginalText": "体を丈夫にするスタミナたっぷり料理。\n普通のたまごとじが懐かしくなる新味。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A dish for durability. The new taste will\nmake you forget about the normal eggs.",
+    "Enabled": true
   },
   "630025": {
     "OriginalText": "体を丈夫にするスタミナたっぷり料理。\n煮込んで煮込んで煮込み倒したうどん。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A dish full of vigor for durability.\nA stewed Udon noodles.",
+    "Enabled": true
   },
   "630026": {
     "OriginalText": "体を丈夫にするスタミナたっぷり料理。\n長い夜をアクティブに過ごしたい。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A dish full of vigor for durability.\nIt will keep you up all night.",
+    "Enabled": true
   },
   "630027": {
     "OriginalText": "デルタ・ヴァリアント艦内で燻製された\n標準食。原村料は不問に付されている。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Standard smoked food in the Delta Valiant.\nRaw materials are used regardless.",
+    "Enabled": true
   },
   "630028": {
     "OriginalText": "デルタ・ヴァリアント艦内で栽培された\n標準食。貴重なビタミン源となる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A standard food cultivated inside Delta\nValiant. It's a valuable source of vitamins.",
+    "Enabled": true
   },
   "630029": {
     "OriginalText": "艦内生活に潤いを与えるグルメ料理。\n大きなケーキは子どもの頃の皆の夢。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A gourmet that enriches the lives on board.\nBig cakes are everyone's childhood dream.",
+    "Enabled": true
   },
   "630030": {
     "OriginalText": "艦内生活に潤いを与えるグルメ料理。\n大きなケーキは子どもの頃の皆の夢。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A gourmet that enriches the lives on board.\nBig cakes are everyone's childhood dream.",
+    "Enabled": true
   },
   "630031": {
     "OriginalText": "艦内生活に潤いを与えるグルメ料理。\n焼加滅はレアで血の滴りを味わいたい。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A gourmet that enriches the lives on board.\nRare cooked with a tasty dripping blood.",
+    "Enabled": true
   },
   "630032": {
     "OriginalText": "艦内生活に潤いを与えるグルメ料理。\n焼けば大抵食べられるという方針。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A gourmet that enriches the lives in the\nship. Bake it first before you eat it.",
+    "Enabled": true
   },
   "630033": {
     "OriginalText": "艦内生活に潤いを与えるグルメ料理。\n出所の怪しい肉もおいしくいただける。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A gourmet that enriches the lives on board.\nYou can enjoy the dubious meat inside.",
+    "Enabled": true
   },
   "630034": {
     "OriginalText": "艦内生活に潤いを与えるグルメ料理。\n長時間煮込めば大抵おいしくなるもの。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A gourmet that enriches the lives on board.\nDelicious when cooked for a long time.",
+    "Enabled": true
   },
   "630035": {
     "OriginalText": "艦内生活に潤いを与えるグルメ料理。\nデンプン質に依らないとろみが新味。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A gourmet that enriches the lives on board.\nStarch quality will affect the thickness.",
+    "Enabled": true
   },
   "630036": {
     "OriginalText": "艦内生活に潤いを与えるグルメ料理。\n食感を楽しむことの贅沢さを再確認。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A gourmet that enriches the lives on board.\nYou can confirm its richness by its texture.",
+    "Enabled": true
   },
   "630037": {
     "OriginalText": "艦内生活に潤いを与えるグルメ料理。\n揚げ物は高カロリーだからこそ美味い。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A gourmet that enriches the lives on board.\nA delicious fried food with high calories.",
+    "Enabled": true
   },
   "630038": {
     "OriginalText": "艦内生活に潤いを与えるグルメ料理。\nこれをババロアと呼べるかは賛否両論。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A gourmet that enriches the lives on board.\nArgued if this can still be called bavarois.",
+    "Enabled": true
   },
   "630039": {
     "OriginalText": "艦内生活に潤いを与えるグルメ料理。\n特盛りという言葉の響きこそが贅沢。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A gourmet that enriches the lives on board.\nThe word \"special\" makes it luxurious.",
+    "Enabled": true
   },
   "630040": {
     "OriginalText": "艦内生活に潤いを与えるグルメ料理。\n栄養不足を補うには何でも食べないと。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A gourmet that enriches the lives on board.\nMust be eaten to solve malnutrition.",
+    "Enabled": true
   },
   "630041": {
     "OriginalText": "",
@@ -446,33 +446,33 @@
   },
   "630042": {
     "OriginalText": "この惑星でしか味わえない美食。\n見た目と味わいは必ずしも一致しない。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A gourmet only found in this planet.\nThe look and taste doesn't always match.",
+    "Enabled": true
   },
   "630043": {
     "OriginalText": "この惑星でしか味わえない美食。\nさぞいい洋を食べて育ったに違いない。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A gourmet only found in this planet.\nThis good food will help you grow up.",
+    "Enabled": true
   },
   "630044": {
     "OriginalText": "この惑星でしか味わえない美食。\n希少性が高いと味にバイアスがかかる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A gourmet only found in this planet.\nIts scarcity reflects on its taste.",
+    "Enabled": true
   },
   "630045": {
     "OriginalText": "弾ける食感を味わえる料理。\nおかずにもつまみにもなる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A dish with a popping texture.\nIt can also be a side dish.",
+    "Enabled": true
   },
   "630046": {
     "OriginalText": "弾ける食感を味わえる料理。\n食べ過ぎるとお腹を壊すかもしれない。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A dish with a popping texture.\nEating too much may upset your stomach.",
+    "Enabled": true
   },
   "630047": {
     "OriginalText": "弾ける食感を味わえる料理。\n食べ始めたら止まらない。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A dish with a popping texture.\nOnce you start, you can't stop.",
+    "Enabled": true
   },
   "740001": {
     "OriginalText": "施設効果0000",
