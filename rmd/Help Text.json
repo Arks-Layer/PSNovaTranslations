@@ -162,7 +162,7 @@
   "170032": {
     "OriginalText": "カメラの燥作方法を変更します。",
     "Text": "Change camera control settings.",
-    "Enabled": false
+    "Enabled": true
   },
   "170033": {
     "OriginalText": "ＢＧＭや効果音の音量を変更します。",
@@ -217,7 +217,7 @@
   "170043": {
     "OriginalText": "習得するスキルを選択します。★",
     "Text": "Select a skill you want to learn.★",
-    "Enabled": false
+    "Enabled": true
   },
   "170044": {
     "OriginalText": "スキルをセットするスキルボードを選択します。★",
