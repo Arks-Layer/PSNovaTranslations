@@ -2282,7 +2282,7 @@
   "100143": {
     "OriginalText": "アークスで使用される改良型の双機銃。\n射程の長さを追求した上級モデルで\n弾倉の大型化で連射性能も向上した。",
     "Text": "Improved Twin Machine Gun used by\nARKS. A high-end model with increased\nrange and a larger magazine.",
-    "Enabled": f
+    "Enabled": true
   },
   "100144": {
     "OriginalText": "基礎モデルに改良を加えた双機銃。\nアークスの要望で付けられたグリップで\n安定性と命中精度を向上させた。",
