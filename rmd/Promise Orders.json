@@ -931,7 +931,7 @@
   },
   "280186": {
     "OriginalText": "ギュゲンテの伝甲の調達",
-    "Text": "Supplying Gygantia Armor",
+    "Text": "Supplying Gygante Armor",
     "Enabled": true
   },
   "280187": {
@@ -1576,7 +1576,7 @@
   },
   "290033": {
     "OriginalText": "パルチザンだけでディートアスを倒してみようぜ。\n[a 06]『パルチザン』\n高速かつ豪快に敵を薙ぎ払う打撃武器。\nスキのない攻撃を得意とする。[b]\n[a 03]※パルチザン系で撃破が必要 この約束は一回のみ[b]",
-    "Text": "Defeat Dietoas with only partisan.\n[a 06]Partisan, a striking weapon that\nswiftly mows down\nenemies.[b]\n[a 03]※Partisan only, Non-Repeatable[b]",
+    "Text": "Defeat Dietoas with only partizan.\n[a 06]Partizan, a striking weapon that\nswiftly mows down\nenemies.[b]\n[a 03]※Partizan only, Non-Repeatable[b]",
     "Enabled": true
   },
   "290034": {
@@ -1646,7 +1646,7 @@
   },
   "290047": {
     "OriginalText": "獣の皮片を９つ調達したいのです。\n大仕事になりそうですが、\nお願いしてもよいですか？",
-    "Text": "I need 9 pieces of Beast Hide.\nSorry for imposing this to you,\n  would you kindly?",
+    "Text": "I need 9 pieces of Beast Hide.\nSorry for imposing this to you,\nwould you kindly?",
     "Enabled": true
   },
   "290048": {
@@ -1826,7 +1826,7 @@
   },
   "290083": {
     "OriginalText": "久々にお前の戦いぶりを見てやるぞ。\nオレの指定するクエストを１回も倒れずに\nクリアしてみせろ！\nそれくらいできるだろ？",
-    "Text": "I can finally see you fight for first\ntime. Clear the quest without dying! Can you do it?",
+    "Text": "I can finally see you fight for the first\ntime. Clear the quest without dying!\nCan you do it?",
     "Enabled": true
   },
   "290084": {
@@ -1846,7 +1846,7 @@
   },
   "290087": {
     "OriginalText": "そろそろオレの訓練も仕上げだ！\n最後はもちろんＳランクだ！",
-    "Text": "It's time to finish my training!\nOf course it has to be an S-rank!",
+    "Text": "It's time to finish your training!\nOf course it has to be an S-rank!",
     "Enabled": true
   },
   "290088": {
@@ -1966,7 +1966,7 @@
   },
   "290111": {
     "OriginalText": "ノヴァについて、新しい仮説を立てました。\nレイヴガイストの大収束器と硬仮面を入手\n出来れば、仮説の検証ができるのですが……。",
-    "Text": "I have a new hypothesis about Nova.\nI can test it if you can get me Rave Geist\nFocus Containers Masks...",
+    "Text": "I have a new hypothesis about Nova.\nI can test it if you can get me Rave Geist\nFocus Containers and Masks.",
     "Enabled": true
   },
   "290112": {
@@ -2241,7 +2241,7 @@
   },
   "290166": {
     "OriginalText": "墨８個の調達をお願いしてもよいですか？\n薬捗として使用できそうなのです。",
-    "Text": "May I ask you to procure 8 inks?\nIt seems it can be used for medicinal\npurposes.",
+    "Text": "May I ask you to procure 8 Moss?\nIt seems it can be used for medicinal\npurposes.",
     "Enabled": true
   },
   "290167": {
@@ -2401,7 +2401,7 @@
   },
   "290198": {
     "OriginalText": "ラッピーチケットを１０個持ってきてくれないかな？\nもちろん、タダとは言わない！ 持ってきてくれた\n暁には、ルティナさんの秘蔵の一品、あの秘密の\nコスチュームの材料をあげちゃうよ！",
-    "Text": "Will you bring me 10 Rappy Ticket?\nOf course, not for free! I'll give you a\nmaterial for Lutina's treasured secret\ncostume.",
+    "Text": "Will you bring me 10 Rappy Ticket?\nOf course, not for free! I'll give you a\nmaterial for my treasured secret\ncostume.",
     "Enabled": true
   },
   "290199": {
@@ -2521,7 +2521,7 @@
   },
   "290222": {
     "OriginalText": "岩塩を５つ、調達してくださいな。\n塩と水は生命維持に欠かせませんぞ。",
-    "Text": "Please collect 5 Rock SaSalt.\nSalt and water are essential for\nsurvival.",
+    "Text": "Please collect 5 Rock Salt.\nSalt and water are essential for\nsurvival.",
     "Enabled": true
   },
   "290223": {
