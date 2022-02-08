@@ -2932,7 +2932,7 @@
   "100273": {
     "OriginalText": "呪われた魔女の撃杭。アンティークな\n伝いの中にたたずむ黒猫が狙いすまし、\n標的の心臓に光る杭を突き立てる。",
     "Text": "A cursed witch's Pile. With a black\ncat attached, it thrusts a shining\npile into the target's heart.",
-    "Enabled": f
+    "Enabled": true
   },
   "100274": {
     "OriginalText": "ブースターの出力を微調整した撃杭。\nパワフルな大型武器としての跡力を\n損なわずエレガントな色合いを追求。",
