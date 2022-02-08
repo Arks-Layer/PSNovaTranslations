@@ -165,7 +165,7 @@ def Main():
          ProcFile(fp, out, enemies,
          {
             "コア":   "Core",
-            "超コア": "Super Core",
+            "超コア": "Ultra Core",
             "極コア": "Climax Core"
          }, ["の", "・"])
 #}

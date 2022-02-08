@@ -1542,7 +1542,7 @@
   "203020020190003": {
     "OriginalText": "……はい。",
     "Text": "...Okay.",
-    "Enabled":  true
+    "Enabled": true
   },
   "203020020200003": {
     "OriginalText": "うぅ……でも緊張してしまいます……！",
@@ -2457,7 +2457,7 @@
   "206010010100007": {
     "OriginalText": "撃しいわね……。",
     "Text": "He's intense....",
-    "ENABLED": true
+    "Enabled": true
   },
   "206010010110003": {
     "OriginalText": "はぁぁ……カッコイイかも……。",

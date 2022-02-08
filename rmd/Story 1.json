@@ -8077,7 +8077,7 @@
   "105010010220003": {
     "OriginalText": "……はい。",
     "Text": "...Yes.",
-    "Enabled":  true
+    "Enabled": true
   },
   "105010010230010": {
     "OriginalText": "あの微妙な違いに気付くのは\nフォトンの扱いが繊細か天才か、どっちかだ。\nイズナ、お前さんは天才って奴かな？",
@@ -14642,7 +14642,7 @@
   "108120040101001": {
     "OriginalText": "そっか……大型パイルは有効だってことなんだ。",
     "Text": "I see... so the Large Pile is effective.",
-    "Enabled": true 
+    "Enabled": true
   },
   "108120040110012": {
     "OriginalText": "しかし、あの人がまた妨害に現れる可能性は\n高いということでもあります。",
