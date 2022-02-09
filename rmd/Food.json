@@ -281,7 +281,7 @@
   },
   "630009": {
     "OriginalText": "力をつけるためのガッツあふれる料理。\n「鮮」は新鮮というより色鮮やかの意。",
-    "Text": "A dish full of valor for ststrengt\nIt is fresh if its colorful.",
+    "Text": "A dish full of valor for strengt\nIt is fresh if its colorful.",
     "Enabled": true
   },
   "630010": {
@@ -381,7 +381,7 @@
   },
   "630029": {
     "OriginalText": "艦内生活に潤いを与えるグルメ料理。\n大きなケーキは子どもの頃の皆の夢。",
-    "Text": "A gourmet that enriches the lives on board.\nBig cakes are everyone's childhood dream.",
+    "Text": "A gourmet that enriches the lives on board.\nThe big meat is certainly satisfying.",
     "Enabled": true
   },
   "630030": {
@@ -396,12 +396,12 @@
   },
   "630032": {
     "OriginalText": "艦内生活に潤いを与えるグルメ料理。\n焼けば大抵食べられるという方針。",
-    "Text": "A gourmet that enriches the lives in the\nship. Bake it first before you eat it.",
+    "Text": "A gourmet that enriches the lives in the\nship. Roast it first before you eat it.",
     "Enabled": true
   },
   "630033": {
     "OriginalText": "艦内生活に潤いを与えるグルメ料理。\n出所の怪しい肉もおいしくいただける。",
-    "Text": "A gourmet that enriches the lives on board.\nYou can enjoy the dubious meat inside.",
+    "Text": "A gourmet that enriches the lives on board.\nYou will enjoy the dubious meat inside.",
     "Enabled": true
   },
   "630034": {
