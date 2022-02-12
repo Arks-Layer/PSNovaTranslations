@@ -2116,12 +2116,12 @@
   },
   "102020015080001": {
     "OriginalText": "あんた、グランをもう使いこなしてるの？",
-    "Text": "Did you already mastered using Gran?",
+    "Text": "You've already mastered Gran?",
     "Enabled": true
   },
   "102020015090002": {
     "OriginalText": "お前は違うのか？",
-    "Text": "You did not?",
+    "Text": "You've haven't?",
     "Enabled": true
   },
   "102020015100001": {
@@ -2156,7 +2156,7 @@
   },
   "102020015140001": {
     "OriginalText": "ううん、他人なんか\n気にしてられる状況じゃないし。\nみんな自分で手一杯だよね。",
-    "Text": "Well, I don't like to be carried by\nothers. Everyone's already\ngot their hands\nfull.",
+    "Text": "Well, I don't like to be carried by others.\nEveryone's already got their hands full.",
     "Enabled": true
   },
   "102020015150001": {
@@ -3171,7 +3171,7 @@
   },
   "102050010090001": {
     "OriginalText": "セイルやイズナは優秀なの。見てれば分かる。\nあたしの[ruby]相棒[/ruby]も……。",
-    "Text": "Sail and Izuna are excellent. You can see it by looking at them. And also my Buddy....",
+    "Text": "Sail and Izuna are excellent.\nYou can see it by looking at them. And also my Buddy....",
     "Enabled": true
   },
   "102050010100001": {
