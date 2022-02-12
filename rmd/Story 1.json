@@ -1441,12 +1441,12 @@
   },
   "101020050250002": {
     "OriginalText": "フィルディア艦長？\nマグナス艦長は！？ まさか！",
-    "Text": "Captain Fildia?\n What about Captain Magnus\nYou don't mean he...?",
+    "Text": "Captain Fildia?\nWhat about Captain Magnus\nYou don't mean he...?",
     "Enabled": true
   },
   "101020050260001": {
     "OriginalText": "ええ……フィルディア隊長が後を継いだの。",
-    "Text": "Yes...\n Fildia is the new Captain.",
+    "Text": "Yes...\nFildia is the new Captain.",
     "Enabled": true
   },
   "101020050270003": {
@@ -1466,12 +1466,12 @@
   },
   "101020060020001": {
     "OriginalText": "健康だと思いますよ。イズナは無傷でしたし、\nセイルは帰りの道中でずーっと\n『オレが艦長を支える』って語ってましたから。",
-    "Text": "They're not heavily injured\n Izuna seemed to be uninjured too.\n Sail took the brunt of it.",
+    "Text": "They're not heavily injured\nIzuna seemed to be uninjured too.\nSail took the brunt of it.",
     "Enabled": true
   },
   "101020060030004": {
     "OriginalText": "そいつは頼もしいな。経歴を見たが、\nお前達とセイル、イズナは同期なんだって？",
-    "Text": "He's quite dependable, isn't he?\nI looked them up,\n you guys were in school together?",
+    "Text": "He's quite dependable, isn't he?\nI looked them up,\nyou guys were in school together?",
     "Enabled": true
   },
   "101020060040001": {
@@ -1486,7 +1486,7 @@
   },
   "101020060060001": {
     "OriginalText": "そうですね。体力だけなら\nあたしの方があるんじゃないかな？",
-    "Text": "Yeah. If it was strength alone,\n even I have that.",
+    "Text": "Yeah. If it was strength alone,\neven I have that.",
     "Enabled": true
   },
   "101020060070004": {
@@ -2516,7 +2516,7 @@
   },
   "102040010050012": {
     "OriginalText": "これはヘイロウといいまして、\nギガンテスに向けて使うことによって、\nグランの[ruby りきば]力場[/ruby]を形成して足場を作る伝備です。",
-    "Text": "This is called Halo, a weapon that forms a\n force field of Gran to create a platform when\nused against a Gigantes.",
+    "Text": "This is called Halo, a weapon that forms a\nforce field of Gran to create a platform when\nused against a Gigantes.",
     "Enabled": true
   },
   "102040010060001": {
@@ -2776,7 +2776,7 @@
   },
   "102040020250001": {
     "OriginalText": "あ、そうだ！ ユノはこれのこと知ってるの？\nあたし達はギガンテスって勝手に呼んでるけど。",
-    "Text": "Oh, right! Juno do you know that thing?\nWe decided to call it Gigantes.",
+    "Text": "Oh, right! Juno do you know that thing is?\nWe decided to call it Gigantes.",
     "Enabled": true
   },
   "102040020260001": {
@@ -2971,7 +2971,7 @@
   },
   "102040030040004": {
     "OriginalText": "早く慣れろ！ 慣れれば最高だぞ！",
-    "Text": "Get used to it!\nIt ’s great if you get used to it!",
+    "Text": "Get used to it!\nIt's great if you get used to it!",
     "Enabled": true
   },
   "102040030050012": {
@@ -3050,7 +3050,7 @@
     "Enabled": true
   },
   "102040030200001": {
-    "OriginalText": "……。",
+    "OriginalText": "……",
     "Text": "",
     "Enabled": false
   },
@@ -3101,7 +3101,7 @@
   },
   "102040030300004": {
     "OriginalText": "……悪い、艦長が部下に言う言葉じゃなかった。\nだが、これは決定だ。いいな。",
-    "Text": "Sorry, that's not a captain would say to\nit's people. But, this is my decision.\nUnderstood!",
+    "Text": "Sorry, that's not something a captain should\nsay. But, this is my decision. Understood!",
     "Enabled": true
   },
   "102040030310001": {
@@ -3141,17 +3141,17 @@
   },
   "102050010030001": {
     "OriginalText": "間一髪、フィルディア艦長が救援に来てくれて、\nなんとか逃げることができたけど、\nそれからがまた大変。",
-    "Text": "It was a close call but Captain Fildia came\nto the rescue and we managed to escape,\nIt will be difficult again.",
+    "Text": "It was a close call, but Captain Fildia came\nto the rescue and we managed to escape,\nit will be difficult again.",
     "Enabled": true
   },
   "102050010040001": {
     "OriginalText": "ヘイロウっていう対ギガンテス用\nツールを開発したんだけど、\nそれがギガンテスに足場を作るシロモノでね。",
-    "Text": "We developed a tool for Gigantes called\nHalo, it's a tool that can produce a platform\non a Gigantes.",
+    "Text": "We've developed a tool for Gigantes called\nHalo. It's a tool that can produce a platform\non a Gigantes.",
     "Enabled": true
   },
   "102050010050001": {
     "OriginalText": "なんだかんだでギガンテスは倒せたんだけど、\nこんな調子で大丈夫なのか……はぁ。",
-    "Text": "For some reason, we were able to defeat the\nGigantes, are we gonna be alright....",
+    "Text": "For some reason, we were able to defeat the\nGigantes, are we gonna be alright?",
     "Enabled": true
   },
   "102050010060001": {
@@ -3566,12 +3566,12 @@
   },
   "103000045110004": {
     "OriginalText": "まだまだかわいい[ruby さか]盛[/ruby]りってことだよ！",
-    "Text": "You still pretty got more ways to go!",
+    "Text": "You still have a pretty long ways to go!",
     "Enabled": true
   },
   "103000045111004": {
     "OriginalText": "まだまだかわいい[ruby さか]盛[/ruby]りってことだよ！",
-    "Text": "You still pretty got more ways to go!",
+    "Text": "You still have a pretty long ways to go!",
     "Enabled": true
   },
   "103000045120004": {
@@ -3681,12 +3681,12 @@
   },
   "103000050180012": {
     "OriginalText": "オルクスさん、そういう持っていき方は\nフェアじゃありませんよね？",
-    "Text": "Orcus, isn't it fair to take it like that?",
+    "Text": "Orcus, is it alright to take it just like that?",
     "Enabled": true
   },
   "103000050190010": {
     "OriginalText": "おっと、バレちゃったか。",
-    "Text": "Oops, I'm busted?",
+    "Text": "Oops, I'm busted.",
     "Enabled": true
   },
   "103000050200001": {
@@ -3861,12 +3861,12 @@
   },
   "103010010140001": {
     "OriginalText": "だってあんた、すぐモノメイト使うじゃない。",
-    "Text": "Because you always don't use your Monomate.",
+    "Text": "That's because you always don't use\nyour Monomates.",
     "Enabled": true
   },
   "103010010150002": {
     "OriginalText": "それはオレが常に、\n最前線で戦ってるってことだろ！",
-    "Text": "That's what on the frontlines do!",
+    "Text": "That's for people on the frontlines!",
     "Enabled": true
   },
   "103010010160001": {
@@ -4151,7 +4151,7 @@
   },
   "103020010120006": {
     "OriginalText": "探索はお前達の仕事だろ？ \n資村がなければ俺は仕事ができない。\n結果どうなる？ ",
-    "Text": "Exploration is your job, isn't it?\nI can't work without materials.\nWhat will gonna happen?",
+    "Text": "Exploration is your job, isn't it?\nI can't work without materials.\nSo what's it gonna be?",
     "Enabled": true
   },
   "103020010130006": {
@@ -6551,7 +6551,7 @@
   },
   "104020010020011": {
     "OriginalText": "どーしましょ？ どーしましょ？？\n鳴呼、どーしましょ？？？",
-    "Text": "What would I do? What would I do?\nAah, What would I do?",
+    "Text": "What should I do? What should I do?\nAah, What should I do?",
     "Enabled": true
   },
   "104020010030001": {
@@ -6566,7 +6566,7 @@
   },
   "104020010050011": {
     "OriginalText": "どーしましょ？ どどーしましょ？？\nどどどーしましょ？？？",
-    "Text": "What would I do? W-what would I do??\nW-w-what would I do???",
+    "Text": "What should I do? W-what should I do??\nW-w-what should I do???",
     "Enabled": true
   },
   "104020010060001": {
@@ -6581,7 +6581,7 @@
   },
   "104020010080001": {
     "OriginalText": "ぽんけん！！",
-    "Text": "Ponken!!",
+    "Text": "Punch!!",
     "Enabled": true
   },
   "104020010090011": {
@@ -8081,7 +8081,7 @@
   },
   "105010010230010": {
     "OriginalText": "あの微妙な違いに気付くのは\nフォトンの扱いが繊細か天才か、どっちかだ。\nイズナ、お前さんは天才って奴かな？",
-    "Text": "The noticeable difference is about how you\nhandle the Photon, either you are brawny or\nbrainy. Izuna, are you a brainy?",
+    "Text": "The noticeable difference is about how you\nhandle Photons, either you are brawny or\nbrainy. Izuna, are you brainy?",
     "Enabled": true
   },
   "105010010240003": {
@@ -8091,7 +8091,7 @@
   },
   "105010010250002": {
     "OriginalText": "オルクスさんも天才タイプなんですか？",
-    "Text": "Are you also a brawny, Orcus?",
+    "Text": "Are you also brawny, Orcus?",
     "Enabled": true
   },
   "105010010260010": {
@@ -8141,7 +8141,7 @@
   },
   "105010010350010": {
     "OriginalText": "どうした？ 嫌いか？\nそれとも遠慮してるのかい？",
-    "Text": "What's up? Do you not like me?\n Or are you being modest?",
+    "Text": "What's up? Do you not like me?\nOr are you being modest?",
     "Enabled": true
   },
   "105010010360003": {
@@ -8846,7 +8846,7 @@
   },
   "105020040100001": {
     "OriginalText": "えー！ もしかしたら、\n自分を成長させるきっかけになるかもよ？\nここはちゃんと聞こうよ！",
-    "Text": "Eh! Maybe it's an opportunity for\nself-growth?\nThen listen properly!",
+    "Text": "Eh! Maybe it's an opportunity for\nself-growth?\nThen let's listen properly!",
     "Enabled": true
   },
   "105020040110012": {
@@ -8856,27 +8856,27 @@
   },
   "105020040120012": {
     "OriginalText": "かつて戦闘員として戦場に立っていた私は、\nずっと戦うことに疑問を持っていたんです。",
-    "Text": "I am once a combatant on the battlefield,\nBut I became skeptical about fighting.",
+    "Text": "I was once a combatant on the battlefield,\nbut I became skeptical over time about fighting.",
     "Enabled": true
   },
   "105020040130012": {
     "OriginalText": "これが……戦うことが、\n本当に自分のやりたいことなのかな、と。",
-    "Text": "...I wonder if fighting is really what I want\nto do.",
+    "Text": "...I wondered if fighting is really what I want\nto do.",
     "Enabled": true
   },
   "105020040140003": {
-    "OriginalText": "……。",
+    "OriginalText": "……",
     "Text": "",
     "Enabled": false
   },
   "105020040150012": {
     "OriginalText": "いつも悩みながら戦っていて、\nこんな私じゃ仲間に迷惑をかけるのでは？\nそんな不安もありました。",
-    "Text": "I'm always worried about my fighting skills,\nthinking that, maybe I'm troubling my\ncomrades? I'm really anxious.",
+    "Text": "I'm always worried about my fighting skills,\nwith thinking that, maybe I'm troubling my comrades? I'm really anxious.",
     "Enabled": true
   },
   "105020040160012": {
     "OriginalText": "それで考えたんです、私。\n自分の本当にやりたいことを。\n……時間はかかりましたけどね。",
-    "Text": "Those are my thoughts.\nThinking what I really want to do.\nIt took me a while.",
+    "Text": "Those are my thoughts.\nThinking what I really want to do, it really took me a while.",
     "Enabled": true
   },
   "105020040170012": {
@@ -8891,7 +8891,7 @@
   },
   "105020040190012": {
     "OriginalText": "はい！ 私は元々知識欲が強かったので、\n知識と情報検索力を活かして研究活動に従事し、\n成果を上げることが一番役に立てるのではと。",
-    "Text": "Yes. I had a passion for knowledge to begin\nwith, so I think it would be useful to use my\nabilities in research and get results.",
+    "Text": "Yes. I had a passion for knowledge to begin\nwith, so I thought it would be useful to use my\nabilities in research and get results.",
     "Enabled": true
   },
   "105020040200012": {
@@ -9051,12 +9051,12 @@
   },
   "105020040480001": {
     "OriginalText": "……。",
-    "Text": "",
+    "Text": "……",
     "Enabled": false
   },
   "105020040490002": {
     "OriginalText": "……。",
-    "Text": "",
+    "Text": "……",
     "Enabled": false
   },
   "105020040500001": {
@@ -9391,7 +9391,7 @@
   },
   "105030040340003": {
     "OriginalText": "今までのわたしは、自分が前に出ると\n迷惑になるかもと思って、",
-    "Text": "Until now, I thought it would be a nuisance\nif I stand out,",
+    "Text": "Until now, I thought it would be a nuisance\nif I stood out,",
     "Enabled": true
   },
   "105030040350003": {
@@ -9401,12 +9401,12 @@
   },
   "105030040360003": {
     "OriginalText": "でもシャロンさん、ヨミさん、リーティアさん、\nカリストさんやオルクスさんのお仕事を\nお手龍いしてみて、分かったんです。",
-    "Text": "But when I helped Sharon, Yomi, Rietheia,\nCallisto and Orcus, I finally understand.",
+    "Text": "But when I helped Sharon, Yomi, Rietheia,\nCallisto and Orcus, I finally understood.",
     "Enabled": true
   },
   "105030040370003": {
     "OriginalText": "どんな仕事でも前向きに取り組むことで、\n自分の思ってる似上の力が出せるんだって。",
-    "Text": "That by working positively in any job,\nyou can exert the same effort as what you\nexpected.",
+    "Text": "That by working positively in any job,\nyou can exert the same effort as what\nyou've expected.",
     "Enabled": true
   },
   "105030040375003": {
@@ -9421,7 +9421,7 @@
   },
   "105030040390003": {
     "OriginalText": "だから決めたんです。\n今は自分にできる事を全力でやろうって。",
-    "Text": "That's why I decided.\nNow I'll do my best to do what I can.",
+    "Text": "That's why I've decided.\nI'll do my best to do what I can.",
     "Enabled": true
   },
   "105030040400003": {
@@ -9431,7 +9431,7 @@
   },
   "105030040410001": {
     "OriginalText": "ふふっ、イズナ、いい顔してる！",
-    "Text": "Hehe, Izuna, now you got a nice smile!",
+    "Text": "Hehe Izuna, now you have a nice smile!",
     "Enabled": true
   },
   "105030040420003": {
@@ -9476,7 +9476,7 @@
   },
   "105030040500003": {
     "OriginalText": "わたしのこと、もう心配しないで下さいね？\n今はもう、迷子ちゃんじゃありませんから。",
-    "Text": "You don't have to worry about me, right?\nI'm not a lost anymore.",
+    "Text": "You don't have to worry about me, right?\nI'm not lost anymore.",
     "Enabled": true
   },
   "105030040510003": {
@@ -13341,7 +13341,7 @@
   },
   "107210050240013": {
     "OriginalText": "ノヴァを破壊することは不可能です。\nわたしがノヴァの意識と交信し、\n停止を命じるしか止める方法はありません。",
-    "Text": "It's impossible to destroy Nova. The only way\nwe can stop it is to communicate with Nova's\n consciousness and order it to stop.",
+    "Text": "It's impossible to destroy Nova. The only way\nwe can stop it is to communicate with Nova's\nconsciousness and order it to stop.",
     "Enabled": true
   },
   "107210050250013": {
@@ -14706,7 +14706,7 @@
   },
   "108140010030010": {
     "OriginalText": "はははっ、落ち着いたなぁ……。\n貴禄、出てきたんじゃないか？",
-    "Text": "Hahaha, you're calm....\n Your being humble.",
+    "Text": "Hahaha, you're calm....\nYour being humble.",
     "Enabled": true
   },
   "108140010040001": {
