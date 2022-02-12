@@ -1606,7 +1606,7 @@
   },
   "100008": {
     "OriginalText": "製造が困難で現存数の少ない巨大大剣。\nまれにしか採堀されない稀少金属が\nベースで、ほとんど流通していない。",
-    "Text": "A huge Sword that is rarely seen.\nIssues sourcing the metal used in\nits creation mean very few exist.",
+    "Text": "A huge Sword that is rarely seen.\nThe scarcity of the metal used in its\ncreation means very few exist.",
     "Enabled": true
   },
   "100009": {
