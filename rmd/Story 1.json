@@ -10651,27 +10651,27 @@
   },
   "106030070010004": {
     "OriginalText": "てめえ……\nてめえがやりやがったのか！！",
-    "Text": "てめえ……\nてめえがやりやがったのか！！",
+    "Text": "So you're the one\nwho did this... You bastard!!",
     "Enabled": true
   },
   "106030070020004": {
     "OriginalText": "仲間はやらせねえぞ！ 目玉野郎！！",
-    "Text": "仲間はやらせねえぞ！ 目玉野郎！！",
+    "Text": "I won't let you do this\nagain! You eyeball!!",
     "Enabled": true
   },
   "106030070030004": {
     "OriginalText": "まだだ！！\nオレの命！ 獲れるもんなら獲ってみやがれ！",
-    "Text": "まだだ！！\nオレの命！ 獲れるもんなら獲ってみやがれ！",
+    "Text": "If you want my life,\nthen come and take it!",
     "Enabled": true
   },
   "106030070040004": {
     "OriginalText": "その程度か！\nでかいだけで大したことねえな！",
-    "Text": "その程度か！\nでかいだけで大したことねえな！",
+    "Text": "Is that all? I guess\nyour size is for show!",
     "Enabled": true
   },
   "106030070050004": {
     "OriginalText": "おぅらあああああああああああああああああ！！",
-    "Text": "おぅらあああああああああああああああああ！！",
+    "Text": "ORAAAAAAAAAA！",
     "Enabled": true
   },
   "106040010010002": {
@@ -10716,7 +10716,7 @@
   },
   "107000020070017": {
     "OriginalText": "約束する 必ず会いに行くよ そして……\n僕は君の、たったひとりのための英雄になる！",
-    "Text": "I promise I'll find you.",
+    "Text": "I promise I'll find you...\nAnd I'll be the hero for you, and you only!",
     "Enabled": true
   },
   "107000020080013": {
@@ -10726,22 +10726,22 @@
   },
   "107000020090018": {
     "OriginalText": "僕は、必用ない子なんだって\nフォトンの才能がないから",
-    "Text": "I don't have a talent for Photon",
+    "Text": "I'm an unwanted child, because I am too weak to use Photons.",
     "Enabled": true
   },
   "107000020100013": {
     "OriginalText": "「才能がないと、いけないの？」",
-    "Text": "Do you need to be talented?",
+    "Text": "Do I need to be strong?",
     "Enabled": true
   },
   "107000020110018": {
     "OriginalText": "強い戦土になれない者は必用ないんだ\nそれに、ユノの[ruby ほし]惑星[/ruby]に行くことだって……",
-    "Text": "You need someone stronger.",
+    "Text": "You don't need to be strong to come to Juno's Planet...",
     "Enabled": true
   },
   "107000020120013": {
     "OriginalText": "「わたしはそうは思いません」",
-    "Text": "I don't think so.",
+    "Text": "I am not sure.",
     "Enabled": true
   },
   "107000020130018": {
@@ -10761,7 +10761,7 @@
   },
   "107000020160013": {
     "OriginalText": "「困難に打ち勝つのは戦う力だけではないでしょ？」",
-    "Text": "Being strong can't overcome anything",
+    "Text": "Being strong can't overcome everything?",
     "Enabled": true
   },
   "107000020170018": {
@@ -10771,17 +10771,17 @@
   },
   "107000020180018": {
     "OriginalText": "ユノの、たったひとりのための英雄になると",
-    "Text": "I will be your hero.",
+    "Text": "I'll become Juno's one and only hero.",
     "Enabled": true
   },
   "107010020010012": {
     "OriginalText": "よろしくお願いします、新艦長。",
-    "Text": "Nice to meet you, new captain.",
+    "Text": "It's a pleasure to meet you, the new Captain.",
     "Enabled": true
   },
   "107010020020001": {
     "OriginalText": "こんな状況でシャロンも大変だろうけど、\n分かる範囲で現状を教えてもらえるかな？",
-    "Text": "Sharon we know that you will have a harder\ntime now, but can you tell us our situation\nas far as you know?",
+    "Text": "Sharon we know that you will have a harder\ntime now, but can you tell us our situation\nto the best of your abilities?",
     "Enabled": true
   },
   "107010020030012": {
@@ -16651,7 +16651,7 @@
   },
   "109040010170013": {
     "OriginalText": "これが[ruby]約束[/ruby]の、真の力です",
-    "Text": "This is the true power of Gran,",
+    "Text": "This is the true power of Gran.",
     "Enabled": true
   },
   "109040010171013": {
