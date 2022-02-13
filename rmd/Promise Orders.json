@@ -1486,7 +1486,7 @@
   },
   "290015": {
     "OriginalText": "テッラマンデルの鱗片を調達してこようよ、相棒！\n表側はゴツゴツして汚いけど裏側はつややかで\n光の加滅で色んな色に変化するんだよ。\n１つあれば十分だよ！",
-    "Text": "Let's gather some Terra Mandel Scales, Buddy!\nIt might be rough but behind it is\nglossy and colorful.\nI just need 1 piece!",
+    "Text": "Let's gather some Terra Mander Scales, Buddy!\nIt might be rough but behind it is\nglossy and colorful.\nI just need 1 piece!",
     "Enabled": true
   },
   "290016": {
@@ -2436,7 +2436,7 @@
   },
   "290205": {
     "OriginalText": "強化訓練の続きだ！ バレダイナス系を３体、\nマフレザール系を４体、マンデル系を４体\n倒して来い！",
-    "Text": "It's the continuation of your training!\nNow defeat 3 any Valdinas species, 4 any\nMaphrezer species, and 4 any Mandel\nspecies!",
+    "Text": "It's the continuation of your training!\nNow defeat 3 any Valdinas species, 4 any\nMaphrezer species, and 4 any Mander\nspecies!",
     "Enabled": true
   },
   "290206": {
@@ -2896,7 +2896,7 @@
   },
   "300015": {
     "OriginalText": "【テッラマンデルの鱗片】を集める",
-    "Text": "Collect [Terra Mandel Scale]",
+    "Text": "Collect [Terra Mander Scale]",
     "Enabled": true
   },
   "300016": {
@@ -3846,7 +3846,7 @@
   },
   "300205": {
     "OriginalText": "【バレダイナス系：Ｌｖ１５】を倒す\n【マフレザール系：Ｌｖ１５】を倒す\n【マンデル系：Ｌｖ１５】を倒す",
-    "Text": "Defeat [Valdinas] Lv.15\nDefeat [Maphrezer] Lv.15\nDefeat [Mandel] Lv.15",
+    "Text": "Defeat [Valdinas] Lv.15\nDefeat [Maphrezer] Lv.15\nDefeat [Mander] Lv.15",
     "Enabled": true
   },
   "300206": {
