@@ -1,22 +1,22 @@
 {
   "100000010010013": {
     "OriginalText": "お願い……わたしの[ruby ほし]惑星[/ruby]を……助けて。",
-    "Text": "Please...help my planet!",
+    "Text": "Please... help save my planet!",
     "Enabled": true
   },
   "100000010020017": {
     "OriginalText": "誰も、助けに来てくれないの？",
-    "Text": "There's...nobody there to help?",
+    "Text": "No one... is coming to help you?",
     "Enabled": true
   },
   "100000010030013": {
     "OriginalText": "はい……。",
-    "Text": "That's right....",
+    "Text": "Yes...",
     "Enabled": true
   },
   "100000010040017": {
     "OriginalText": "僕を、待っているの？",
-    "Text": "You're waiting...for me?",
+    "Text": "Will you wait for me?",
     "Enabled": true
   },
   "100000010050013": {
@@ -26,12 +26,12 @@
   },
   "100000010060017": {
     "OriginalText": "うん。",
-    "Text": "Yeah.",
+    "Text": "Yes.",
     "Enabled": true
   },
   "100000010070017": {
     "OriginalText": "約束する。必ず会いに行くよ。そして……\n僕は君の、たったひとりのための英雄になる！",
-    "Text": "I promise we'll meet again! And...\nwhen I do, I'll be your hero!",
+    "Text": "Then I promise we'll meet again! And...\nwhen we do, I'll be your one and only hero!",
     "Enabled": true
   },
   "100010010010000": {
@@ -391,12 +391,12 @@
   },
   "100010050020005": {
     "OriginalText": "サブ・ドライブ最大出力。\n姿勢制御、大気圏突入角合わせ！",
-    "Text": "Sub-drive maximum output.\nEnter all changes in the atmospheric angles\nand adjust with altitude control!",
+    "Text": "Sub-drive maximum output.\nAltitude control, adjust atmospheric entry angle!",
     "Enabled": true
   },
   "100010050030014": {
     "OriginalText": "角度が深すぎる！ 修正しろ！",
-    "Text": "The angles are too deep! Correct it!",
+    "Text": "The angle is too deep! Revise it!",
     "Enabled": true
   },
   "100010050040005": {
@@ -1871,7 +1871,7 @@
   },
   "102010025110012": {
     "OriginalText": "そうです！ 現在、研究班ではこのグラン結晶を\nフォトンの代用として使えないか、\n検証作業を進めています。",
-    "Text": "That's right! currently, the research team\ncan use this Gran crystal as a substitute\nfor Photon.",
+    "Text": "That's right! currently, the research team\ncan use this Gran crystal as a substitute\nfor Photons.",
     "Enabled": true
   },
   "102010025120002": {
@@ -1956,7 +1956,7 @@
   },
   "102010040020012": {
     "OriginalText": "お陰様でグランの研究が大きく進展し、\nグラン結晶をフォトンに変換する\nシステムの完成にメドが立ちました！",
-    "Text": "Thanks to you, Gran research has made a great\nprogress, the system to convert Gran Crystals\ninto Photon has been completed!",
+    "Text": "Thanks to you, Gran research has made a great\nprogress, the system to convert Gran Crystals\ninto Photons has been completed!",
     "Enabled": true
   },
   "102010040030001": {
@@ -5226,7 +5226,7 @@
   },
   "103200010040005": {
     "OriginalText": "グランは、ギガンテスがフォトンを吸収し、\n排出することで生成されています。",
-    "Text": "Gran is produced by the Gigantes by\nabsorbing Photon.",
+    "Text": "Gran is produced by the Gigantes by\nabsorbing Photons.",
     "Enabled": true
   },
   "103200010050001": {
@@ -5241,7 +5241,7 @@
   },
   "103200010070012": {
     "OriginalText": "私達の扱う主要なエネルギーであるフォトンは\nこの[ruby ほし]惑星[/ruby]にもあるはずなのですが、\nギガンテスが全部グランに変えているんです。",
-    "Text": "Photon, our main energy, should also be on\nthis planet, but the Gigantes convert all of\nthem into Gran.",
+    "Text": "Photons, our main energy, should also be on\nthis planet, but the Gigantes convert all of\nthem into Gran.",
     "Enabled": true
   },
   "103200010080003": {
@@ -5256,7 +5256,7 @@
   },
   "103200010100001": {
     "OriginalText": "フォトンがまったくないのは\nそのせいなんですね。",
-    "Text": "That's why there are no Photon at all.",
+    "Text": "That's why there are no Photons at all.",
     "Enabled": true
   },
   "103200010110005": {
@@ -5321,7 +5321,7 @@
   },
   "103200010230001": {
     "OriginalText": "フォトンは無いんですもんね……。",
-    "Text": "We don't have Photon....",
+    "Text": "We don't have Photons....",
     "Enabled": true
   },
   "103200010240004": {
@@ -6021,7 +6021,7 @@
   },
   "104010010130009": {
     "OriginalText": "オレ達の武器はフォトンを動力装としているが、\nそれをグラン用に最適化する改造を施すと、\nこれだけのパワーが出る。",
-    "Text": "Our weapons are powered by Photon,\nbut if you modify it to optimize it for Gran,\nyou'll get that much power.",
+    "Text": "Our weapons are powered by Photons,\nbut if you modify it to optimize it for Gran,\nyou'll get that much power.",
     "Enabled": true
   },
   "104010010140009": {
@@ -8001,7 +8001,7 @@
   },
   "105010010080001": {
     "OriginalText": "フォトンと同程度には、使えているかと。",
-    "Text": "It is usable to the same extent as Photon.",
+    "Text": "It is usable to the same extent as Photons.",
     "Enabled": true
   },
   "105010010090002": {
@@ -8366,7 +8366,7 @@
   },
   "105010040160002": {
     "OriginalText": "フォトンの扱いにかけては次席のオレも\nまるで勝負にならないくらいだったからな。",
-    "Text": "In terms of handling Photon,\nI can't even matched her.",
+    "Text": "In terms of handling Photons,\nI can't even matched her.",
     "Enabled": true
   },
   "105010040170001": {
@@ -10856,7 +10856,7 @@
   },
   "107010020170012": {
     "OriginalText": "まだ仮説なのですが、あの惑星規物の\nギガンテスがいたとした場合、衛星軌道周辺の\nフォトンまで吸収されていた説明がつきます。",
-    "Text": "It's still a hypothesis, but if the planet\nitself is a Gigantes, it explains how even\nthe Photon in the orbit were absorbed.",
+    "Text": "It's still a hypothesis, but if the planet\nitself is a Gigantes, it explains how even\nthe Photons in the orbit were absorbed.",
     "Enabled": true
   },
   "107010020180002": {
@@ -11776,7 +11776,7 @@
   },
   "107040020080012": {
     "OriginalText": "下にもギガンテスが生息していること、\n光の柱が太陽代わりになっていること、\nやはりフォトンはないこと。",
-    "Text": "The Gigantes actually lives underneath,\nthe pillar of light acts as the sun,\nand there are no Photon there.",
+    "Text": "The Gigantes actually lives underneath,\nthe pillar of light acts as the sun,\nand there are no Photons there.",
     "Enabled": true
   },
   "107040020090002": {
@@ -12551,7 +12551,7 @@
   },
   "107120030070012": {
     "OriginalText": "古代人は[ruby ほし]惑星[/ruby]を守るため、異星人の武器となる\nフォトンをグランという違うエネルギーに変え、\n使えなくしてしまう画期的な兵器を発明。",
-    "Text": "To protect the planet, they made a weapon\nthat turns Photon, which powers the aliens'\nweapons, into Gran, making them unusable.",
+    "Text": "To protect the planet, they made a weapon\nthat turns Photons, which powers the aliens'\nweapons, into Gran, making them unusable.",
     "Enabled": true
   },
   "107120030080002": {
@@ -12561,7 +12561,7 @@
   },
   "107120030090003": {
     "OriginalText": "はい。しかもギガンテスは自律行動、\n自律進化能力があり、[ruby ほし]惑星[/ruby]からフォトンは\n完全に消えることになりました。",
-    "Text": "Yes. Moreover, the Gigantes has autonomous\nbehavior and evolution ability, the\nPhoton totally disappeared from the planet.",
+    "Text": "Yes. Moreover, the Gigantes has autonomous\nbehavior and evolution ability, the\nPhotons totally disappeared from the planet.",
     "Enabled": true
   },
   "107120030100003": {
@@ -12571,7 +12571,7 @@
   },
   "107120030110001": {
     "OriginalText": "フォトンをグランに変える能力は\nどうしても必要だったのね。",
-    "Text": "So, turning the Photon into Gran was\nabsolutely necessary to turn the tides of\nthe war.",
+    "Text": "So, turning the Photons into Gran was\nabsolutely necessary to turn the tides of\nthe war.",
     "Enabled": true
   },
   "107120030120012": {
@@ -15491,7 +15491,7 @@
   },
   "108150040220012": {
     "OriginalText": "内部にフォトンをグランに変換して出力する、\nジェネレーターのような器官があるんですね。",
-    "Text": "There is an organ like a generator that\nconverts Photon into Gran and releases them.",
+    "Text": "There is an organ like a generator that\nconverts Photons into Gran and releases them.",
     "Enabled": true
   },
   "108150040230012": {
@@ -17051,7 +17051,7 @@
   },
   "109040060150007": {
     "OriginalText": "成功したようね、お陰でフォトンが使えるようになったわ！",
-    "Text": "Thanks to you, we can now use Photon!",
+    "Text": "Thanks to you, we can now use Photons!",
     "Enabled": true
   },
   "109040060151007": {
