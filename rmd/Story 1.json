@@ -9052,12 +9052,12 @@
   "105020040480001": {
     "OriginalText": "……。",
     "Text": "……",
-    "Enabled": false
+    "Enabled": true
   },
   "105020040490002": {
     "OriginalText": "……。",
     "Text": "……",
-    "Enabled": false
+    "Enabled": true
   },
   "105020040500001": {
     "OriginalText": "……はい。",
@@ -9597,7 +9597,7 @@
   "105035010220013": {
     "OriginalText": "？？？",
     "Text": "???",
-    "Enabled": false
+    "Enabled": true
   },
   "105035010230003": {
     "OriginalText": "癒しであり、宝であり、幸せでもある。\nしかもそれは食べ洋で、\n力と栄養も与えてくれるものなのです！",
