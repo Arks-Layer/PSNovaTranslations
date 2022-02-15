@@ -1,8 +1,8 @@
 {
   "301010080011010": {
     "OriginalText": "みんなコールドスリープに入っちゃったね。\nもし、この[ruby ほし]惑星[/ruby]から脱出できないままだったら\nみんなはどうなっちゃうのかな……。",
-    "Text": "",
-    "Enabled": false
+    "Text": "We've all gone into Cold Sleep, haven't we?\nI wonder what would have happened to\nus if we were unable to escape the planet?",
+    "Enabled": true
   },
   "301010080011020": {
     "OriginalText": "とにかく今は行方不明の先遣隊の人たちを\n助けに行かなきゃっ！",
@@ -4571,28 +4571,28 @@
   },
   "306020030571000": {
     "OriginalText": "面白い[ruby ほし]惑星[/ruby]だったけど、結局、僕達\nアークスは流弔の民。\n次の[ruby ほし]惑星[/ruby]へ向かうことにしますか。",
-    "Text": "",
-    "Enabled": false
+    "Text": "This has been one interesting planet.\nHowever, us ARKS need to mourn for our people.",
+    "Enabled": true
   },
   "306020030581000": {
     "OriginalText": "俺たちには一つの[ruby ほし]惑星[/ruby]にとどまるより\n銀河を渡るのがお似合いだろ？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Wouldn't it be best for us to travel\nthe galaxy than stay on a single planet?",
+    "Enabled": true
   },
   "306020030582000": {
     "OriginalText": "あーもー土の色は見あきたぜ。\n次は緑あふれる[ruby ほし]惑星[/ruby]に行きたいもんだな",
-    "Text": "",
-    "Enabled": false
+    "Text": "I'm tired of seeing this planet's earth.\nI want to see a lush forest planet next time.",
+    "Enabled": true
   },
   "306020030591000": {
     "OriginalText": "この[ruby ほし]惑星[/ruby]で亡くなった方々の\nご浪福をお祈りいたします。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I pray for the souls of those\nwho lost their lives on this planet.",
+    "Enabled": true
   },
   "306020030601000": {
     "OriginalText": "暁紅のフィルディアの戦いっぷりってのは\nいつ見ても面白いな。\n敵を紙のように吹き飛ばしやがる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "It's always entertaining to see how the\n\""Morning Red\"" Fildia fights. She blows them\naway as if they're made of paper.",
+    "Enabled": true
   },
   "306020030611000": {
     "OriginalText": "早くこのような[ruby ほし]惑星[/ruby]からは脱出するぞい！\nフォトンが使えない状態では\n冥からの通信が受取れんからの！",
