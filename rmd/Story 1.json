@@ -5266,27 +5266,27 @@
   },
   "103200010120002": {
     "OriginalText": "ですが副長、そんなことがあり得るんですか？\n衛星軌道上のフォトンまで全部、\nあのギガンテスがグランに変えるなんて。",
-    "Text": "But Executive Officer, is it possible?\nThat Gigantes would turn all the Photon in\nthe orbit into Gran.",
+    "Text": "But Executive Officer, is it possible?\nThat the Gigantes would turn all the\nPhotons in the atmosphere into Gran?",
     "Enabled": true
   },
   "103200010130005": {
     "OriginalText": "私もこの[ruby ほし]惑星[/ruby]の自然現象だと\n最初は考えましたが、気象や大地を調べても\nグランの生成現象は確認できませんでした。",
-    "Text": "I thought it's natural on this planet, we\nexamined the weather and the land, we can't\nconfirm the presence of gran formation.",
+    "Text": "We thought it formed naturally on this planet.\nHowever, when we examined the weather & ground,\nwe could not find any presence of Gran formation.",
     "Enabled": true
   },
   "103200010140005": {
     "OriginalText": "ギガンテス似外に\nグランの発生装が見当たらないのです。",
-    "Text": "There is no source of Gran other than\nthe Gigantes.",
+    "Text": "Thus, Gran can only to have\ncome from the Gigantes.",
     "Enabled": true
   },
   "103200010150004": {
     "OriginalText": "つまり、ギガンテスを絶滅させるという\n非現実的な方法似外、フォトンが使えない\n状況を変える手段はないってことだな。",
-    "Text": "In other words, it's unlikely we're gonna\nhave Photon again, even if we defeated all of\nthe Gigantes.",
+    "Text": "In other words, it's unlikely we're gonna\nhave Photons again, even if we defeated all of\nthe Gigantes.",
     "Enabled": true
   },
   "103200010160001": {
     "OriginalText": "フォトンがまったくないんじゃ、\n[ruby ふね]艦[/ruby]は動かないですよね？ もしかして……\nこの[ruby ふね]艦[/ruby]はもう飛べないんじゃないですか！？",
-    "Text": "If there are no photons, the ship won't move,\nright? Maybe... this ship can't fly anymore!?",
+    "Text": "If there are no Photons, the ship won't move,\nright? Maybe... this ship won't fly anymore!?",
     "Enabled": true
   },
   "103200010170005": {
@@ -5301,12 +5301,12 @@
   },
   "103200010190005": {
     "OriginalText": "それが、これから話すふたつめのこと。\nシャロン、説明を。",
-    "Text": "That is the 2nd thing I will talk about.\nSharon, please explain.",
+    "Text": "That is the second thing we'll explain.\nSharon...",
     "Enabled": true
   },
   "103200010200012": {
     "OriginalText": "はい！ フォトンドライブの代わりに\nグランをエネルギーとする動力、\n『グランドライブ』を開発するんです。",
-    "Text": "Yes! Instead of Photon Drive, we will develop\na \"Gran Drive\", a power that uses Gran as\nenergy source.",
+    "Text": "Yes! Instead of the Photon Drive, we'll develop\na \"Gran Drive\", a drive that uses Gran as\nenergy source.",
     "Enabled": true
   },
   "103200010210002": {
@@ -5316,7 +5316,7 @@
   },
   "103200010220005": {
     "OriginalText": "理論上は。そして、グランドライブなしでは\nデルタ・ヴァリアントは絶対に飛べません。",
-    "Text": "In theory. And without Gran Drive,\nthe Delta Valiant can never fly",
+    "Text": "In theory. And without the Gran Drive,\nthe Delta Valiant will never fly",
     "Enabled": true
   },
   "103200010230001": {
@@ -5331,12 +5331,12 @@
   },
   "103200010250005": {
     "OriginalText": "フォトンドライブを改造する形をとれば\n改造作業そのものはあまり時間がかかりません。",
-    "Text": "If we modify instead the Photon Drive,\nit will not take more of our time.",
+    "Text": "If we modify the Photon Drive,\nit will not take much of our time.",
     "Enabled": true
   },
   "103200010260005": {
     "OriginalText": "ですが改造に必要な大量のグラン結晶と資村を\n集めるには相当な時間がかかると思われます。",
-    "Text": "However, it will still take an amount of time\nto collect a large amount of Gran Crystals\nand materials required for remodeling.",
+    "Text": "However, it will still take an amount of time\nto collect a large amount of Gran Crystals\nand materials required for the conversion.",
     "Enabled": true
   },
   "103200010270004": {
@@ -5346,12 +5346,12 @@
   },
   "103200010280005": {
     "OriginalText": "なぜです？",
-    "Text": "Why?",
+    "Text": "Why's that?",
     "Enabled": true
   },
   "103200010290004": {
     "OriginalText": "こいつらが必ずやってくれるはずだ。\nなっ？ 新鋭？",
-    "Text": "These guys can definitely do it.\nRight? Up-and-comer?",
+    "Text": "I'm sure these people will get the job done.\nIsn't that right, Rookie?",
     "Enabled": true
   },
   "103200010295000": {
