@@ -10586,7 +10586,7 @@
   },
   "106030060101004": {
     "OriginalText": "その腕章をつけたら新鈍卒業だ",
-    "Text": "If you put this on you're now a graduate.",
+    "Text": "If you put that on you're now a graduate.",
     "Enabled": true
   },
   "106030060102004": {
@@ -15831,7 +15831,7 @@
   },
   "109010010375000": {
     "OriginalText": "惑星探査隊オルター、出撃！",
-    "Text": "Planetary expedition Alter, move out!",
+    "Text": "Planetary Exploration Group Alter, move out!",
     "Enabled": true
   },
   "109010010380001": {
@@ -15911,7 +15911,7 @@
   },
   "109010020040008": {
     "OriginalText": "無事に戻って来てください！\n……というのは一番贅沢なリクエストですよね。\nでも、今だけは贅沢を許して下さい！",
-    "Text": "Please return safely!\n... That's my greatest request.",
+    "Text": "Please return safely!\n...That's my greatest request.",
     "Enabled": true
   },
   "109010020050009": {

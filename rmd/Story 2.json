@@ -1051,7 +1051,7 @@
   },
   "202030010010001": {
     "OriginalText": "セイルは特殊惑星探査隊\nオルターの正規所属となり、\n[ruby ふね]艦[/ruby]のクルーとして活躍してる。",
-    "Text": "Sail has become a regular member of the\nSpecial Planetary Exploration Corps ALTER and\nis active as a ship crew.",
+    "Text": "Sail has become a regular member of the\nSpecial Planetary Exploration Group Alter and\nis active as a ship crew.",
     "Enabled": true
   },
   "202030010020001": {
@@ -5701,7 +5701,7 @@
   },
   "212020010247000": {
     "OriginalText": "今、シャロンへの熱い視線が……！！",
-    "Text": "Sharon's giving that passionate look\nright now...!!",
+    "Text": "Sharon's giving that passionate look right now...!!",
     "Enabled": true
   },
   "212020010250012": {
