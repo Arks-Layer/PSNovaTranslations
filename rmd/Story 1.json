@@ -15961,22 +15961,22 @@
   },
   "109010030020003": {
     "OriginalText": "[ruby ふね]艦[/ruby]からこんな近くにあったんですね……。\n『近くて見えぬは[ruby まつげ]睫[/ruby]』とはこのことです。",
-    "Text": "It was so close to the ship....\nThe phrase \"Eyelashes are invisible even\nthey're near\" is really true.",
+    "Text": "It was so close to the ship....\nThe phrase \"right under my nose\" really is true.",
     "Enabled": true
   },
   "109010030030013": {
     "OriginalText": "注意してください、\n何の守りもないはずはありませんから……！",
-    "Text": "Be careful, maybe they put up some security\nmeasures...!",
+    "Text": "Careful, maybe they put up some security\nmeasures...!",
     "Enabled": true
   },
   "109010030040001": {
     "OriginalText": "ねえユノ、ひとつ、いいかな？",
-    "Text": "Hey Juno, is it okay?",
+    "Text": "Hey Juno, can I ask you something?",
     "Enabled": true
   },
   "109010030050013": {
     "OriginalText": "はい？",
-    "Text": "Huh?",
+    "Text": "Yes?",
     "Enabled": true
   },
   "109010030060001": {
@@ -16011,7 +16011,7 @@
   },
   "109010030120013": {
     "OriginalText": "ですが、その１０００年という歳月は、\nわたしがこの[ruby ほし]惑星[/ruby]の最後の人間として果たすべき\n使命を背負い続けてきた時間でもあります。",
-    "Text": "But that 1000 years is also the amount of\ntime I've been carrying my mission as the\nlast person in this planet.",
+    "Text": "But that 1000 years is also the amount of\ntime I've been carrying my mission as the\nlast person on this planet.",
     "Enabled": true
   },
   "109010030130013": {
@@ -16026,17 +16026,17 @@
   },
   "109010030140013": {
     "OriginalText": "……。",
-    "Text": "",
-    "Enabled": false
+    "Text": "...",
+    "Enabled": true
   },
   "109010030150001": {
     "OriginalText": "ごめんね、こんなこと聞いちゃって。\nだけどはっきり分かったよ。\nあたし達は最後までユノと一緒に戦う！",
-    "Text": "I'm sorry to hear that.\nI understand what you mean. But we're still\ngonna fight with you Juno until the end.",
+    "Text": "I'm sorry for asking you.\nBut it's clear to us now.\nWe'll fight with you until the end, Juno!",
     "Enabled": true
   },
   "109010030155000": {
     "OriginalText": "その怒り、背負わせてもらうよ",
-    "Text": "We will carry your burden.",
+    "Text": "We'll carry your burden.",
     "Enabled": true
   },
   "109010030160013": {
@@ -16066,7 +16066,7 @@
   },
   "109010030210013": {
     "OriginalText": "はい！ 必ず使命を果たしてみせます！",
-    "Text": "Yeah! We will definitely complete\nthis mission!",
+    "Text": "Yes! I'll be sure to complete my mission!",
     "Enabled": true
   },
   "109010040010001": {
