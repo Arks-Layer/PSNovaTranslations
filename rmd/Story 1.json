@@ -5216,22 +5216,22 @@
   },
   "103200010020004": {
     "OriginalText": "まあ、聞いてくれ。\nレイヴァン、シャロン、頼む。",
-    "Text": "Well, listen.\nRaven, Sharon, would you please.",
+    "Text": "Well, listen.\nRaven, Sharon, if you may.",
     "Enabled": true
   },
   "103200010030005": {
     "OriginalText": "はい。ラボの研究で判明した事実がふたつ。\nひとつはグランの発生装について。",
-    "Text": "Yes. There are 2 facts found in lab research.\n1st is about the source of Gran.",
+    "Text": "Yes. There are two facts found during in our\nresearch. First is about the origins of Gran.",
     "Enabled": true
   },
   "103200010040005": {
     "OriginalText": "グランは、ギガンテスがフォトンを吸収し、\n排出することで生成されています。",
-    "Text": "Gran is produced by the Gigantes by\nabsorbing Photons.",
+    "Text": "Gran is discharged by the Gigantes\nwhen it absorbs Photons.",
     "Enabled": true
   },
   "103200010050001": {
     "OriginalText": "どういうことですか？",
-    "Text": "What do you mean?",
+    "Text": "What do you mean this?",
     "Enabled": true
   },
   "103200010060002": {
@@ -5261,12 +5261,12 @@
   },
   "103200010110005": {
     "OriginalText": "驚くべきことですが、事実です。",
-    "Text": "Surprisingly, it's a fact.",
+    "Text": "It's shocking, but it's true.",
     "Enabled": true
   },
   "103200010120002": {
     "OriginalText": "ですが副長、そんなことがあり得るんですか？\n衛星軌道上のフォトンまで全部、\nあのギガンテスがグランに変えるなんて。",
-    "Text": "But Deputy Chief, is it possible?\nThat Gigantes would turn all the Photon in\nthe orbit into Gran.",
+    "Text": "But Executive Officer, is it possible?\nThat Gigantes would turn all the Photon in\nthe orbit into Gran.",
     "Enabled": true
   },
   "103200010130005": {
@@ -5556,7 +5556,7 @@
   },
   "103210020010001": {
     "OriginalText": "副長、あたし達にご用ですか？",
-    "Text": "Deputy Chief, are you looking for us?",
+    "Text": "Executive Officer, are you looking for us?",
     "Enabled": true
   },
   "103210020020005": {
@@ -5606,7 +5606,7 @@
   },
   "103210020110003": {
     "OriginalText": "レイヴァン副長とご一緒できるのは光栄です！\nお役に立てるよう、頑張ります！",
-    "Text": "It's an honor to work with you\nDeputy Chief Raven!\nWe will do our best to help you!",
+    "Text": "It's an honor to work with you\nExecutive Officer Raven!\nWe will do our best to help you!",
     "Enabled": true
   },
   "103210020120005": {
@@ -5741,7 +5741,7 @@
   },
   "103210040030001": {
     "OriginalText": "副長！",
-    "Text": "Deputy Chief!",
+    "Text": "Executive Officer!",
     "Enabled": true
   },
   "103210040040005": {
@@ -5756,7 +5756,7 @@
   },
   "103210040060003": {
     "OriginalText": "レイヴァン副長！！",
-    "Text": "Deputy Chief Raven!!",
+    "Text": "Executive Officer Raven!!",
     "Enabled": true
   },
   "103210040070002": {
@@ -5781,7 +5781,7 @@
   },
   "103210040110001": {
     "OriginalText": "レイヴァン副長……",
-    "Text": "Deputy Chief Raven....",
+    "Text": "Executive Officer Raven....",
     "Enabled": true
   },
   "103210050010004": {
@@ -8026,7 +8026,7 @@
   },
   "105010010130010": {
     "OriginalText": "……まぁいい。俺もレイヴァン副長の指導で\nグランとやらを使ってみたんだが、\nなかなか面白いもんだな！",
-    "Text": "...Anyway. I tried using Gran under the\nguidance of Deputy Chief Raven, it was quite\ninteresting.",
+    "Text": "...Anyway. I tried using Gran under the\nguidance of Executive Officer Raven, it was quite\ninteresting.",
     "Enabled": true
   },
   "105010010140001": {
@@ -8531,12 +8531,12 @@
   },
   "105020010070012": {
     "OriginalText": "私はラボだけですから。レイヴァン副長なんて\nラボの研究と副長業務の兼任なので、\nもっとお忙しいんですよ。",
-    "Text": "It's just me in the Lab. Deputy Chief Raven\nis busier because of his position and also\nhe's in charge of research in the Lab.",
+    "Text": "It's just me in the Lab. Executive Officer Raven\nis busier because of his position and also\nhe's in charge of research in the Lab.",
     "Enabled": true
   },
   "105020010080003": {
     "OriginalText": "副長って凄いんですね……。",
-    "Text": "Deputy Chief is amazing....",
+    "Text": "Executive Officer is amazing....",
     "Enabled": true
   },
   "105020010090002": {
@@ -8651,7 +8651,7 @@
   },
   "105020010290012": {
     "OriginalText": "私、嘘と冗談だけは苦手だなって、\nレイヴァン副長によく言われるんですよ。\nなので本当のことなんです。",
-    "Text": "I'm often told by Deputy Chief Raven that\nI'm not good at lying and joking.\nIt's really true.",
+    "Text": "I'm often told by Executive Officer Raven that\nI'm not good at lying and joking.\nIt's really true.",
     "Enabled": true
   },
   "105020010300001": {
@@ -8741,7 +8741,7 @@
   },
   "105020020050012": {
     "OriginalText": "そうです！ その件でレイヴァン副長が\n興味を持ちまして、ギガンテスの体組織を\n詳しく調査したんです！",
-    "Text": "That's right! Deputy Chief Raven was\ninterested in this and investigated the\nGigantes' body tissue in detail!",
+    "Text": "That's right! Executive Officer Raven was\ninterested in this and investigated the\nGigantes' body tissue in detail!",
     "Enabled": true
   },
   "105020020060012": {
@@ -8761,7 +8761,7 @@
   },
   "105020020090012": {
     "OriginalText": "基礎理論はレイヴァン副長が確立しました。\n副長はギガンテスの研究が今後の生命線だと、\n熱心に研究しているんですよ。",
-    "Text": "The theory was made by Deputy Chief Raven.\nThe Deputy Chief is focusing on the Gigantes'\nresearch as a lifeline of our future.",
+    "Text": "The theory was made by Executive Officer Raven.\nThe Executive Officer is focusing on the Gigantes'\nresearch as a lifeline of our future.",
     "Enabled": true
   },
   "105020020100003": {
@@ -9271,12 +9271,12 @@
   },
   "105030040120012": {
     "OriginalText": "はい！ レイヴァン副長も感心していましたよ！\n思考がスマートかつ独創的で、情熱もある、\n研究者向きだって。",
-    "Text": "Yes! Deputy Chief Raven was also impressed!\nHe thinks you're smart, creative, passionate,\nand suitable to be a researcher.",
+    "Text": "Yes! Executive Officer Raven was also impressed!\nHe thinks you're smart, creative, passionate,\nand suitable to be a researcher.",
     "Enabled": true
   },
   "105030040130003": {
     "OriginalText": "レイヴァン副長が？",
-    "Text": "Deputy Chief Raven said it?",
+    "Text": "Executive Officer Raven said it?",
     "Enabled": true
   },
   "105030040140012": {
@@ -9886,7 +9886,7 @@
   },
   "106010020170003": {
     "OriginalText": "レイヴァン副長も無事だったら、\nもっとよかったんですけどね……。",
-    "Text": "It would have been better if Deputy Chief\nRaven was alive too.",
+    "Text": "It would have been better if Executive Officer\nRaven was alive too.",
     "Enabled": true
   },
   "106010020180004": {
@@ -10896,7 +10896,7 @@
   },
   "107010020250012": {
     "OriginalText": "レイヴァン副長が残した\n環境観測結果からの推測ですが、\n可能性は高いと思われます。",
-    "Text": "It is a guess from the environmental\nobservation results left by Deputy Chief\nRaven, but it seems likely.",
+    "Text": "It is a guess from the environmental\nobservation results left by Executive Officer\nRaven, but it seems likely.",
     "Enabled": true
   },
   "107010020260001": {
@@ -10991,7 +10991,7 @@
   },
   "107010020420012": {
     "OriginalText": "レイヴァン副長が探索に出かけた場所に、\n穴があったのを覚えていますか？",
-    "Text": "Do you remember the hole where Deputy Chief\nRaven investigated?",
+    "Text": "Do you remember the hole where Executive Officer\nRaven investigated?",
     "Enabled": true
   },
   "107010020430003": {
@@ -11021,7 +11021,7 @@
   },
   "107010020480003": {
     "OriginalText": "レイヴァン副長の研究を\n役立てたいですね。",
-    "Text": "I would like to make use of the research of\nDeputy Chief Raven.",
+    "Text": "I would like to make use of the research of\nExecutive Officer Raven.",
     "Enabled": true
   },
   "107010020490002": {
@@ -11031,7 +11031,7 @@
   },
   "107010030010002": {
     "OriginalText": "レイヴァン副長が落ちていった穴だ。\n真っ暗で先が見えねえな……。",
-    "Text": "It's the hole where Deputy Chief Raven fell.\nIt's pitch black, I can't see anything....",
+    "Text": "It's the hole where Executive Officer Raven fell.\nIt's pitch black, I can't see anything....",
     "Enabled": true
   },
   "107010030020002": {
@@ -11446,7 +11446,7 @@
   },
   "107030025045001": {
     "OriginalText": "レイヴァン副長！！",
-    "Text": "Deputy Chief Raven!!",
+    "Text": "Executive Officer Raven!!",
     "Enabled": true
   },
   "107030025050003": {
@@ -11471,7 +11471,7 @@
   },
   "107030030020001": {
     "OriginalText": "レイヴァン副長！ これはどういうことですか！",
-    "Text": "Deputy Chief Raven!\nWhat's the meaning of this!",
+    "Text": "Executive Officer Raven!\nWhat's the meaning of this!",
     "Enabled": true
   },
   "107030030030005": {
@@ -11506,7 +11506,7 @@
   },
   "107030030090001": {
     "OriginalText": "[ruby]相棒[/ruby]、レイヴァン副長は敵なのかな？",
-    "Text": "Buddy, is Deputy Chief Raven an enemy?",
+    "Text": "Buddy, is Executive Officer Raven an enemy?",
     "Enabled": true
   },
   "107030030095000": {
@@ -11581,7 +11581,7 @@
   },
   "107040010010009": {
     "OriginalText": "レイヴァン副長が襲ってきただって！？",
-    "Text": "Deputy Chief Raven attacked you!?",
+    "Text": "Executive Officer Raven attacked you!?",
     "Enabled": true
   },
   "107040010020011": {
@@ -11616,7 +11616,7 @@
   },
   "107040010080012": {
     "OriginalText": "あの、レイヴァン副長のことも気になりますが、\n下にあった惑星本体についても\n詳しく知りたいですね。",
-    "Text": "I'm curious about Deputy Chief Raven,\nbut also I would like to know more about the\nplanet itself below.",
+    "Text": "I'm curious about Executive Officer Raven,\nbut also I would like to know more about the\nplanet itself below.",
     "Enabled": true
   },
   "107040010090001": {
@@ -14406,12 +14406,12 @@
   },
   "108120020050009": {
     "OriginalText": "レイヴァン副長！？",
-    "Text": "Deputy Chief Raven!?",
+    "Text": "Executive Officer Raven!?",
     "Enabled": true
   },
   "108120020060005": {
     "OriginalText": "デルタ・ヴァリアントの副長だった男は死んだ。\n私はこの[ruby ほし]惑星[/ruby]の……守護者となった。",
-    "Text": "The Delta Valiant Deputy Chief is already\ndead. I am now the guardian of this planet.",
+    "Text": "The Delta Valiant Executive Officer is already\ndead. I am now the guardian of this planet.",
     "Enabled": true
   },
   "108120020070009": {
