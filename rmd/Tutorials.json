@@ -516,13 +516,13 @@
   },
   "780008": {
     "OriginalText": "『ハンターの回避アクション』\n\n[f 77] の入力で、[a 07]移動方向へ回避[b]を行います。\n\nハンターの回避アクション「[a 07]ステップ[b]」は、\n最小限の移動距離ですばやく身をかわします。\n\nクラスによって回避アクションは異なります。",
-    "Text": "",
-    "Enabled": false
+    "Text": "[Dodging as a Hunter]\n\nBy holding and pressing [f 77]\nyou [a 07]can perform a Dodge Action[b]\nin the direction of where you're\nmoving towards.\n\nYou will only move in a short distance\nas a Hunter. Other Classes will perform\ndifferent Dodge Actions.",
+    "Enabled": true
   },
   "780009": {
     "OriginalText": "『メインパレットの裏表を切り替える』\n\n画面右下の「メインパレット」に、[a 07]攻撃ボタ\nンとそれに対応するアクションが表示[b]されて\nいます。\n\n[f 78] を押している間は、[a 07]メインパレットが\n裏パレットに切り替わります[b]。\n\nこのときに [f 73] や [f 74] を押すことで割り\n当てられた行動をします。",
-    "Text": "",
-    "Enabled": false
+    "Text": "[Swapping Between the Main Palettes]\n\nThe Main Palette in the lower right\ncorner of the screen shows [a 07]the attack\nbuttons and their corresponding actions[b].\n\nBy holding [f 78], you will [a 07]swap to the\nback palette[b].\n\nPressing [f 73] or [f 74] will perform any\nactions that are assigned to them.",
+    "Enabled": true
   },
   "780010": {
     "OriginalText": "『ガード』\n\nハンターは、武器を使ってガードをすることで\n敵からの[a 07]攻撃ダメージを軽滅[b]できます。\nガード時には[a 07]ＰＰを消費[b]します。\n\n初期設定では、ガードは [f 74] に登録されて\nいます。",
