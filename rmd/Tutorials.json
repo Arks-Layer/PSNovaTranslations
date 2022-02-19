@@ -521,7 +521,7 @@
   },
   "780009": {
     "OriginalText": "『メインパレットの裏表を切り替える』\n\n画面右下の「メインパレット」に、[a 07]攻撃ボタ\nンとそれに対応するアクションが表示[b]されて\nいます。\n\n[f 78] を押している間は、[a 07]メインパレットが\n裏パレットに切り替わります[b]。\n\nこのときに [f 73] や [f 74] を押すことで割り\n当てられた行動をします。",
-    "Text": "[Swapping Between the Main Palettes]\n\nThe Main Palette in the lower right\ncorner of the screen shows [a 07]the attack\nbuttons and their corresponding actions[b].\n\nBy holding [f 78], you will [a 07]swap to the\nback palette[b].\n\nPressing [f 73] or [f 74] will perform any\nactions that are assigned to them.",
+    "Text": "[Swapping the Palettes]\nThe Main Palette in the lower right\ncorner of the screen shows [a 07]the\nattack buttons and their actions[b].\nBy holding [f 78], you will [a 07]swap\nto the back palette[b].\n\nPressing [f 73] or [f 74] will\nperform any actions that are\nassigned to them.",
     "Enabled": true
   },
   "780010": {
