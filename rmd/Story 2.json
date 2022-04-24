@@ -241,7 +241,7 @@
   },
   "201020010040001": {
     "OriginalText": "フィルディアさんが認めた艦長が、何を弱気な！\n[ruby]相棒[/ruby]が無理だったらみんな無理だよ！",
-    "Text": "Why did Fildia chose you to be the captain!\nBuddy, if you can't do it, then everyone\nhere is the same!",
+    "Text": "Why did Fildia chose you to be the Captain!\nBuddy, if you can't do it, then everyone\nhere is the same!",
     "Enabled": true
   },
   "201020010050001": {
@@ -1061,12 +1061,12 @@
   },
   "202030010030001": {
     "OriginalText": "出世コースに乗ったみたいで、\nそのうち艦長になるんじゃないか、なんて。\nまずは副長からだね！",
-    "Text": "It seems that he got on the career\nadvancement course, and he might become a\ncaptain soon. But maybe Executive Officer first!",
+    "Text": "It seems that he got on the career\nadvancement course, and he might become a\nCaptain soon. But maybe Executive Officer first!",
     "Enabled": true
   },
   "202030010040001": {
     "OriginalText": "本人は大真面目にデルタ・ヴァリアントの\n艦長を目指してるみたい。",
-    "Text": "He seems to be seriously aiming to become a\ncaptain of the Delta Valiant.",
+    "Text": "He seems to be seriously aiming to become a\nCaptain of the Delta Valiant.",
     "Enabled": true
   },
   "202030010050001": {
@@ -1901,7 +1901,7 @@
   },
   "204020010120004": {
     "OriginalText": "だが、その戦いの中でお前の目には\n仲間の姿がちゃんと映っていたか？\nそれを問いかけるためのものだったのさ。",
-    "Text": "But did you see your comrades in the battle?\nI meant to ask that.",
+    "Text": "But did you see your friends in the battle?\nI meant to ask that.",
     "Enabled": true
   },
   "204020010130004": {
@@ -1946,7 +1946,7 @@
   },
   "204020010190004": {
     "OriginalText": "共に戦う仲間を守り、育て、\n大局的な勝利を目指す。\nその意識を持て、ってわけだ。",
-    "Text": "Protect and nurture your fellow comrades and\naim for a big-time victory.",
+    "Text": "Protect and nurture your fellow friends and\naim for a big-time victory.",
     "Enabled": true
   },
   "204020010200004": {
@@ -1956,12 +1956,12 @@
   },
   "204020010210004": {
     "OriginalText": "当時は艦長じゃなくて、戦闘部隊長だったか？\n命令違反しまくりで干されていたオレを\n拾ってくれたのがあのじじいだったんだよ。",
-    "Text": "I think he's not a captain yet at that time.\nIt was the old man who picked me up because\nI was violating my orders.",
+    "Text": "I think he's not a Captain yet at that time.\nIt was the old man who picked me up because\nI was violating my orders.",
     "Enabled": true
   },
   "204020010220004": {
     "OriginalText": "その時言われた言葉は今でも覚えてる。\nお前は本当に、ただの一度も\n仲間の支援を受けたことがないのか？ とさ。",
-    "Text": "I still remember what he said that time.\n\"Why are you not letting your comrades to\nhelp you?\", he said.",
+    "Text": "I still remember what he said that time.\n\"Why are you not letting your friends to\nhelp you?\", he said.",
     "Enabled": true
   },
   "204020010230004": {
@@ -2696,7 +2696,7 @@
   },
   "206020010200006": {
     "OriginalText": "……艦長がそう言うならやむを得ん。",
-    "Text": "...If the captain says so.",
+    "Text": "...If the Captain says so.",
     "Enabled": true
   },
   "206020010205000": {
@@ -2711,7 +2711,7 @@
   },
   "206020010220006": {
     "OriginalText": "だが、同行者は俺に決めさせてもらう。\n艦長、協力してくれ。",
-    "Text": "Then, I'll let my comrades to decide.\nCaptain, please cooperate",
+    "Text": "Then, I'll let my friends to decide.\nCaptain, please cooperate",
     "Enabled": true
   },
   "206020010230001": {
@@ -2811,7 +2811,7 @@
   },
   "206020020080006": {
     "OriginalText": "この結果を出せたのは、艦長のおかげだ。\n礼を言う。",
-    "Text": "Thanks to the captain, I managed to get the\nresults. Thank you.",
+    "Text": "Thanks to the Captain, I managed to get the\nresults. Thank you.",
     "Enabled": true
   },
   "206020020090006": {
@@ -2836,7 +2836,7 @@
   },
   "206020020130006": {
     "OriginalText": "艦長を貸してくれて、ありがとな。",
-    "Text": "Thank you for lending me the captain.",
+    "Text": "Thank you for lending me the Captain.",
     "Enabled": true
   },
   "206020020140001": {
@@ -3096,7 +3096,7 @@
   },
   "207010010240007": {
     "OriginalText": "あなたは大人ね。\nそういうところも艦長に選ばれた理由かしら。",
-    "Text": "You're a grown-up. I wonder if that's also\nthe reason why you were chosen as a captain.",
+    "Text": "You're a grown-up. I wonder if that's also\nthe reason why you were chosen as a Captain.",
     "Enabled": true
   },
   "207010010250007": {
@@ -3171,7 +3171,7 @@
   },
   "207020010100007": {
     "OriginalText": "私は艦長である彼女の意図に従った。\nそれはオペレーターとしては正しかったし、\n最良の行動だったと思っている。",
-    "Text": "I followed her intention as a captain.\nAs an operator, I think it was the best thing\nto do.",
+    "Text": "I followed her intention as a Captain.\nAs an operator, I think it was the best thing\nto do.",
     "Enabled": true
   },
   "207020010110007": {
@@ -3926,7 +3926,7 @@
   },
   "209020010120009": {
     "OriginalText": "バカ、艦長の言う通り、色は重要だ。",
-    "Text": "As the captain says, color is important.",
+    "Text": "As the Captain says, color is important.",
     "Enabled": true
   },
   "209020010130002": {
@@ -4246,7 +4246,7 @@
   },
   "210010010050010": {
     "OriginalText": "いや、ルティナと艦長が女なのは分かってる！\n俺が言いたいのは、もっと年下の子のことだ。",
-    "Text": "No, I know Lutina and the captain are women!\nWhat I mean is a younger child.",
+    "Text": "No, I know Lutina and the Captain are women!\nWhat I mean is a younger child.",
     "Enabled": true
   },
   "210010010060001": {
@@ -4416,7 +4416,7 @@
   },
   "210020010010010": {
     "OriginalText": "おう、艦長か。この前相談してよかったよ。\nごく普通に関心のある話をしていれば、\n若者相手でも自然と理解が進むものなんだな。",
-    "Text": "Oh, captain. I'm glad I consulted with you. I\nlearned that if you talk something interesting,\neven the youngsters will understand it.",
+    "Text": "Oh, Captain. I'm glad I consulted with you. I\nlearned that if you talk something interesting,\neven the youngsters will understand it.",
     "Enabled": true
   },
   "210020010020010": {
@@ -4841,7 +4841,7 @@
   },
   "211010010090011": {
     "OriginalText": "しかしある任務で敵の大群に包囲されて\n補給を断たれ、仲間達が続々と飢えで衰弱し、\n死んでいったのです。",
-    "Text": "While on a mission, we were surrounded by a\nhorde of enemies and was cut off from supplies, my comrades died because of hunger.",
+    "Text": "While on a mission, we were surrounded by a\nhorde of enemies and was cut off from supplies, my friends died because of hunger.",
     "Enabled": true
   },
   "211010010100011": {
@@ -5066,7 +5066,7 @@
   },
   "211020010210011": {
     "OriginalText": "さすが艦長！ ありがとうごいます！",
-    "Text": "As expected from the captain!\nThank you very much!",
+    "Text": "As expected from the Captain!\nThank you very much!",
     "Enabled": true
   },
   "211020010220001": {
@@ -5191,7 +5191,7 @@
   },
   "211020020140011": {
     "OriginalText": "かつて、戦場で飢えて死んでいった者達も\nそうだったのです。",
-    "Text": "It's the same as my comrades who died at\nthat time.",
+    "Text": "It's the same as my friends who died at\nthat time.",
     "Enabled": true
   },
   "211020020150011": {
@@ -6126,7 +6126,7 @@
   },
   "214010010270012": {
     "OriginalText": "どれどれ……なるほど、これが艦長の……。",
-    "Text": "Let me see... I see, this is captain's....",
+    "Text": "Let me see... I see, this is Captain's....",
     "Enabled": true
   },
   "214010010280004": {
@@ -6476,7 +6476,7 @@
   },
   "215010020070004": {
     "OriginalText": "やっぱりお前を艦長に指名してよかった。",
-    "Text": "I'm glad I appointed you as the captain.",
+    "Text": "I'm glad I appointed you as the Captain.",
     "Enabled": true
   },
   "215010020080004": {
@@ -6521,7 +6521,7 @@
   },
   "215010020140004": {
     "OriginalText": "正直、ここまで仲間を引っ張っていけるとは\n思ってなかったよ。",
-    "Text": "To be honest, I didn't think I could lead my\ncomrades so far.",
+    "Text": "To be honest, I didn't think I could lead my\nfriends so far.",
     "Enabled": true
   },
   "215010020150004": {
@@ -6531,7 +6531,7 @@
   },
   "215010020160004": {
     "OriginalText": "だが、言葉じゃなく行動で仲間を導いてきた。\n先の見えない状況でクルーをまとめる難しさは、\nオレが一番よく知っているよ。",
-    "Text": "I guided my comrades by actions, not words.\nI know best the difficulty of putting\ntogether a crew in an uncertain situation.",
+    "Text": "I guided my friends by actions, not words.\nI know best the difficulty of putting\ntogether a crew in an uncertain situation.",
     "Enabled": true
   },
   "215010020170004": {
@@ -6606,7 +6606,7 @@
   },
   "215030010060001": {
     "OriginalText": "いいことばかりじゃなかったけど、\n振り返ればそこには最高の仲間達の\n勇姿と笑顔が浮かんでくる。",
-    "Text": "It wasn't all good, but looking back, their\nbravery and smiles of my amazing comrades\ncomes to my mind.",
+    "Text": "It wasn't all good, but looking back, their\nbravery and smiles of my amazing friends\ncomes to my mind.",
     "Enabled": true
   },
   "215030010070001": {
