@@ -10761,12 +10761,12 @@
   },
   "107000020160013": {
     "OriginalText": "「困難に打ち勝つのは戦う力だけではないでしょ？」",
-    "Text": "Being strong can't overcome everything?",
+    "Text": "Would being strong overcome everything?",
     "Enabled": true
   },
   "107000020170018": {
     "OriginalText": "もうー度僕は決めた",
-    "Text": "Then I promise.",
+    "Text": "I see, then I promise...",
     "Enabled": true
   },
   "107000020180018": {
@@ -10776,7 +10776,7 @@
   },
   "107010020010012": {
     "OriginalText": "よろしくお願いします、新艦長。",
-    "Text": "It's a pleasure to meet you, the new Captain.",
+    "Text": "It's a pleasure to meet you, the\nnew Captain.",
     "Enabled": true
   },
   "107010020020001": {
