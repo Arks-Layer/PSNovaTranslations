@@ -10716,7 +10716,7 @@
   },
   "107000020070017": {
     "OriginalText": "約束する 必ず会いに行くよ そして……\n僕は君の、たったひとりのための英雄になる！",
-    "Text": "I promise I'll find you,\nAnd I'll be your one & only hero!",
+    "Text": "I promise I'll find you,\nAnd I'll be your one and only hero!",
     "Enabled": true
   },
   "107000020080013": {
@@ -10726,17 +10726,17 @@
   },
   "107000020090018": {
     "OriginalText": "僕は、必用ない子なんだって\nフォトンの才能がないから",
-    "Text": "I'm an unwanted child, because\nI'm too weak to use Photons.",
+    "Text": "I'm an unwanted child,\nI'm too weak to use Photons.",
     "Enabled": true
   },
   "107000020100013": {
     "OriginalText": "「才能がないと、いけないの？」",
-    "Text": "Do I need to be strong?",
+    "Text": "Do you need to be strong?",
     "Enabled": true
   },
   "107000020110018": {
     "OriginalText": "強い戦土になれない者は必用ないんだ\nそれに、ユノの[ruby ほし]惑星[/ruby]に行くことだって……",
-    "Text": "You don't need to be strong\nto come to Juno's Planet...",
+    "Text": "You don't want a weak\nperson to come to Juno's Planet...",
     "Enabled": true
   },
   "107000020120013": {
@@ -10751,7 +10751,7 @@
   },
   "107000020140013": {
     "OriginalText": "「戦うことで全てが解決するのなら、\nあなたに助けを求めたりはしません」",
-    "Text": "I don't think fighting solves everything.",
+    "Text": "I don't think being\nstrong solves everything.",
     "Enabled": true
   },
   "107000020150018": {
@@ -10771,7 +10771,7 @@
   },
   "107000020180018": {
     "OriginalText": "ユノの、たったひとりのための英雄になると",
-    "Text": "I'll become Juno's one & only hero.",
+    "Text": "I'll become Juno's one and only hero.",
     "Enabled": true
   },
   "107010020010012": {
