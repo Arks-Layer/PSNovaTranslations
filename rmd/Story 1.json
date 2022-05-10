@@ -1611,12 +1611,12 @@
   },
   "101030010020001": {
     "OriginalText": "あたし達の[ruby ふね]艦[/ruby]、デルタ・ヴァリアントは\n惑星マキアに墜落……あ、違った！ 不時着し、\nここでの生活……いや、サバイバルが始まった。",
-    "Text": "The Delta Valiant, has crashed into\nthe planet Makhia...is that right? Emergency\nlanding...living here...no our survival begins.",
+    "Text": "The Delta Valiant, has crashed into\nthe planet Makhia...is that right? Emergency\nlanding... our life... no, our survival begins.",
     "Enabled": true
   },
   "101030010030001": {
     "OriginalText": "この[ruby ほし]惑星[/ruby]ではあたし達が普段\nあらゆるエネルギー源として\n利用しているフォトンが使えません。",
-    "Text": "On this planet, we cannot use our Photons,\nbut instead the strange energy that is\nnative around here.",
+    "Text": "On this planet, we cannot use our Photons,\nbut we can instead use the strange energy\nnative to this planet.",
     "Enabled": true
   },
   "101030010040001": {
@@ -1631,12 +1631,12 @@
   },
   "101030010060001": {
     "OriginalText": "それも何で？ って感じだけど、\nお陰で仲間も助けられたし、グランを使える人が\n増えれば、少しはマシになりそう！",
-    "Text": "That too? But thanks to that, my friends\nwere saved, if the number of people who can\nuse Gran increases, it will be great!",
+    "Text": "I was like, \"What is this stuff?\",\nbut it saved my friends. The more people who\ncan use Gran, the better it'll get!",
     "Enabled": true
   },
   "101030010070001": {
     "OriginalText": "とはいえ、状況は最悪。\n水と食料も備蓄は少なさそうだし、[ruby ふね]艦[/ruby]の機能も\n残り少ないエネルギーで何とか動いてるだけ。",
-    "Text": "Though the situation got worse. Food supply\nseems to be scarce and the ship is still\nfunctioning with a little energy.",
+    "Text": "Though the situation is getting worse. Food supply\nseems scarce and the ship is only barely\nfuctioning on limited energy.",
     "Enabled": true
   },
   "101030010080001": {
@@ -1646,7 +1646,7 @@
   },
   "101030010090001": {
     "OriginalText": "あたし達、ずっとこの[ruby ほし]惑星[/ruby]で\n暮らすことになるかも……？\nいやいや、その前に生き延びられるのかな！？",
-    "Text": "Maybe we're stuck in this planet forever?\nNo no, I wonder if I can survive that!?",
+    "Text": "Maybe we'll be stuck in this planet forever...?\nNo no, will I even survive that long!?",
     "Enabled": true
   },
   "101030010100001": {
@@ -1656,7 +1656,7 @@
   },
   "101030010110001": {
     "OriginalText": "でも、[ruby]相棒[/ruby]と一緒だし、\nそれは心強い、かも……？",
-    "Text": "But if I'm with my buddy,\nwill it be reassuring?",
+    "Text": "But if I'm with my buddy,\nwill it be alright...?",
     "Enabled": true
   },
   "102000010010000": {
@@ -1666,7 +1666,7 @@
   },
   "102010020010004": {
     "OriginalText": "おぅらぁー！ どうだ！",
-    "Text": "Ha! How is it!?",
+    "Text": "Ha! How's this!?",
     "Enabled": true
   },
   "102010020020001": {
@@ -1676,12 +1676,12 @@
   },
   "102010020030004": {
     "OriginalText": "トレーニングルームに行くヒマがねえんだよ。\n艦長は忙しいんでな。",
-    "Text": "I don't have time to go to the training room.\nI'm busy you know.",
+    "Text": "I don't have time to go to the training room.\nI'm busy, you know.",
     "Enabled": true
   },
   "102010020040002": {
     "OriginalText": "これが艦長の『[ruby ーニ・]明紅[/ruby]』……美しい。",
-    "Text": "So this is the Captain's \"Morning Red\"...\nit's beautiful.",
+    "Text": "So this is the Captain's \"Morning Red\"...\nIt's beautiful.",
     "Enabled": true
   },
   "102010020050003": {
@@ -1691,22 +1691,22 @@
   },
   "102010020060004": {
     "OriginalText": "お前らを呼んだのは他でもない。レイヴァン！",
-    "Text": "For the reason I called you.\nRaven please!",
+    "Text": "I called you all here for a reason.\nRaven!",
     "Enabled": true
   },
   "102010020070005": {
     "OriginalText": "はい。まず、君達のお陰でグランの研究が進み、\n様々な事実が現在進行形で分祈、解明され、\n希望が見え始めていることを報告しましょう。",
-    "Text": "Yes. First of all, thanks to you there's a\nprogress in Gran Research, we are hoping the\nresults will come out sooner.",
+    "Text": "Yes. First of all, thanks to you\nour research into Gran is progressing,\nand we are beginning to see the light of hope.",
     "Enabled": true
   },
   "102010020080001": {
     "OriginalText": "あたし達、そんなにすごいことしましたっけ？",
-    "Text": "Did we do something amazing?",
+    "Text": "Did we do anything special?",
     "Enabled": true
   },
   "102010020090007": {
     "OriginalText": "早速だけど次の任務も決まってるから、\n覚悟しておきなさい。",
-    "Text": "Without delay, your next mission has been\ndecided, be prepared.",
+    "Text": "It's a little early, but I have your next mission.\nPrepare yourselves.",
     "Enabled": true
   },
   "102010020100001": {
@@ -1716,12 +1716,12 @@
   },
   "102010020110004": {
     "OriginalText": "現在、人員は[ruby ふね]艦[/ruby]の維持に必要な数を残して、\n残りはコールドスリープさせてある。",
-    "Text": "Currently, only few people are allowed to\nleave because of the ship maintenance, the\nothers are still in Cold Sleep.",
+    "Text": "Currently, only a few people are allowed to\nleave because of ship maintenance, while the\nothers are still in Cold Sleep.",
     "Enabled": true
   },
   "102010020120004": {
     "OriginalText": "動ける戦闘要員はお前ら４人だけだ。\nしっかり頼むぞ。",
-    "Text": "Only four of you can go as of now.\nSo good luck to you.",
+    "Text": "Only the four of you can go as of now.\nGood luck to you.",
     "Enabled": true
   },
   "102010020130002": {
@@ -1731,32 +1731,32 @@
   },
   "102010020140001": {
     "OriginalText": "ちょっと！？ 安請け合いしすぎ！",
-    "Text": "Wait!? You're way too considerate!",
+    "Text": "Wait a sec! You're not taking this seriously!",
     "Enabled": true
   },
   "102010020150003": {
     "OriginalText": "わたし達だけで大丈夫でしょうか……？",
-    "Text": "Can we really do it?",
+    "Text": "Can we really do this by ourselves?",
     "Enabled": true
   },
   "102010020160001": {
     "OriginalText": "だっ、大丈夫よ！ たぶん！",
-    "Text": "Ah, we can do it! Maybe!",
+    "Text": "W- we can do it! Probably!",
     "Enabled": true
   },
   "102010020170002": {
     "OriginalText": "お前はどっちなんだよ！？",
-    "Text": "Which side are you!?",
+    "Text": "Which is it!?",
     "Enabled": true
   },
   "102010020180001": {
     "OriginalText": "うるさいわね！ 極端なのよあんたは！",
-    "Text": "You're too noisy!\nAnd you're way too intense!",
+    "Text": "You're being too loud!\nAnd you're way too intense!",
     "Enabled": true
   },
   "102010020190003": {
     "OriginalText": "けんかはよくないですよ？ ね？ ね？",
-    "Text": "Please don't fight",
+    "Text": "Fighting's bad, right? Right?",
     "Enabled": true
   },
   "102010020200004": {
@@ -1796,7 +1796,7 @@
   },
   "102010020250002": {
     "OriginalText": "ああ、外にあるやつだな？\nあそこに行けばいいのか。",
-    "Text": "Ah, it's the one outside?\nWe should go over there then.",
+    "Text": "Ah, it's outside, isn't it?\nWe should head over, then.",
     "Enabled": true
   },
   "102010020260005": {
@@ -1816,17 +1816,17 @@
   },
   "102010020290001": {
     "OriginalText": "分かりました。\nユノにはお礼を言わなくちゃいけないし、\nまた会えるといいな……。",
-    "Text": "Okay.\nI have to thank Juno,\nI hope to see her again.",
+    "Text": "Okay.\nI have to thank Juno,\nso I hope to see her again.",
     "Enabled": true
   },
   "102010025010012": {
     "OriginalText": "初めまして、みなさん。シャロンと申します。\nレイヴァン副長の助手として\nグランの研究を担当しています。",
-    "Text": "Nice to meet you everyone. I'm Sharon.\nAssistant of XO Raven and I'm in charge\nof Gran research.",
+    "Text": "Nice to meet you, everyone. I'm Sharon.\nAssistant of Director Raven and\nhead of Gran research.",
     "Enabled": true
   },
   "102010025020012": {
     "OriginalText": "みなさんのお陰で、研究がはかどっています！\n今後もよろしくお願いしますね！",
-    "Text": "Thanks to you, the research is progressive!\nI'm looking forward to work with you!!",
+    "Text": "Thanks to you, the research is progressing!\nI look forward to working with you!!",
     "Enabled": true
   },
   "102010025030001": {
@@ -1836,7 +1836,7 @@
   },
   "102010025040012": {
     "OriginalText": "まずは、これを見て下さい！",
-    "Text": "Look at this first!",
+    "Text": "First, take a look at this!",
     "Enabled": true
   },
   "102010025050003": {
@@ -1851,7 +1851,7 @@
   },
   "102010025070012": {
     "OriginalText": "この[ruby ほし]惑星[/ruby]特有のエネルギー、\n『グラン』を結晶化したものです。",
-    "Text": "The peculiar energy from this planet,\nIt's a crystallized Gran.",
+    "Text": "This is crystallized Gran,\nthe energy unique to this planet.",
     "Enabled": true
   },
   "102010025080002": {
@@ -1861,7 +1861,7 @@
   },
   "102010025090012": {
     "OriginalText": "ええ、グランは結晶化しやすい性質があり、\nエネルギー源として利用できそうなんです。",
-    "Text": "Yes, Gran has the property to be easily\ncrystallized, It seems that it can be used\nas an energy source.",
+    "Text": "Yes, Gran seems to crystallize easily\nand could be used as an energy source.",
     "Enabled": true
   },
   "102010025100003": {
@@ -1871,7 +1871,7 @@
   },
   "102010025110012": {
     "OriginalText": "そうです！ 現在、研究班ではこのグラン結晶を\nフォトンの代用として使えないか、\n検証作業を進めています。",
-    "Text": "That's right! currently, the research team\ncan use this Gran crystal as a substitute\nfor Photons.",
+    "Text": "That's right! Currently, the research team\ncan use this Gran crystal as a substitute\nfor Photons.",
     "Enabled": true
   },
   "102010025120002": {
@@ -1881,7 +1881,7 @@
   },
   "102010025130012": {
     "OriginalText": "はい！ 実現すれば、艦内設備の機能維持や、\n機村を使っての修理作業も可能なはずです。",
-    "Text": "Yes! If implemented, the functions of\nfacilities will be maintained, repairs using\nthe equipment will be possible.",
+    "Text": "Yes! If implemented, the functions of\nfacilities will be maintained and repairs using\nequipment will be possible.",
     "Enabled": true
   },
   "102010025140001": {
@@ -1896,7 +1896,7 @@
   },
   "102010025160001": {
     "OriginalText": "グランを集める？ どうやるんですか？",
-    "Text": "Collect Gran? How do we do it?",
+    "Text": "Collect Gran? How so?",
     "Enabled": true
   },
   "102010025170012": {
@@ -1906,7 +1906,7 @@
   },
   "102010025180003": {
     "OriginalText": "大気中のグランを結晶化するより、\nすでに結晶化したものを探してくる方が\nより効率がいいと……？",
-    "Text": "Rather than crystallizing Gran, is it better\nto look for something that is already\ncrystallized?",
+    "Text": "Rather than crystallizing Gran, isn't it better\nto look for Gran that is already\ncrystallized?",
     "Enabled": true
   },
   "102010025190012": {
@@ -1921,7 +1921,7 @@
   },
   "102010025200012": {
     "OriginalText": "期待していますよ！\nあなた達の活躍にかかっています！",
-    "Text": "I'm looking forward to it!\nI'm depending on your success!",
+    "Text": "I'm looking forward to it!\nWe're depending on your success!",
     "Enabled": true
   },
   "102010025205000": {
@@ -1931,7 +1931,7 @@
   },
   "102010025210012": {
     "OriginalText": "フィルディア艦長もレイヴァン副長も\n期待しているんです。頑張りましょう！",
-    "Text": "Captain Fildia and XO Raven are looking\nforward to it. Let's do our best!",
+    "Text": "Captain Fildia and Director Raven are looking\nforward to it. Let's do our best!",
     "Enabled": true
   },
   "102010025220012": {
