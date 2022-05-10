@@ -21,7 +21,7 @@
   },
   "200030030020001": {
     "OriginalText": "進む道は別々になってしまったけど、\nあたし達はずっと特別な仲間だと思う。",
-    "Text": "We may go our separate ways, I believe we're\nalways been special friends.",
+    "Text": "We may go our separate ways, I believe we'll\nalways be special friends.",
     "Enabled": true
   },
   "200030030030001": {
@@ -31,7 +31,7 @@
   },
   "200030030040001": {
     "OriginalText": "きっとみんなそうだよね。\n[ruby]相棒[/ruby]は……どう思う？",
-    "Text": "I'm pretty sure everyone will never\nforget it.\nBuddy, how about you?",
+    "Text": "I'm pretty sure no one will ever\nforget it.\nBuddy, how about you?",
     "Enabled": true
   },
   "201010010010001": {
@@ -46,7 +46,7 @@
   },
   "201010010030001": {
     "OriginalText": "くそー！ 甘いか！！\nこれじゃフォトンファイターで\nコンボ決められないよ！",
-    "Text": "Damn! You're good!\nYou can't do that combos in\nPhoton Fighter!",
+    "Text": "Damn! You're good!\nYou can't do that combo in\nPhoton Fighter!",
     "Enabled": true
   },
   "201010010040011": {
@@ -61,7 +61,7 @@
   },
   "201010010050001": {
     "OriginalText": "あたしがやってるゲームだよ！\n実際にプレイヤーの動きをトレースして\nキャラが動く燥作方法なの。",
-    "Text": "It's a game that I'm playing!\nIt's guiding me the correct fighting movements.",
+    "Text": "It's a game that I'm playing!\nYour character moves in-game\nwhen you move in real life.",
     "Enabled": true
   },
   "201010010060001": {
@@ -76,27 +76,27 @@
   },
   "201010010070011": {
     "OriginalText": "[ruby わたくし]私[/ruby]がフォトンファイターというゲームで\n得意としている投げ技ですよ。\n通常の投げより間合いが広く、強力ですぞ！",
-    "Text": "It's a throwing technique that I'm good at in\nthe game. It's way more difficult and better\nthan the real one.",
+    "Text": "It's a throwing technique that I'm good at in\nthe game. It's stronger and more difficult\nthan normal throws.",
     "Enabled": true
   },
   "201010010080001": {
     "OriginalText": "あれズルいですよ！ コンボミスったら\n即もってかれちゃうし！",
-    "Text": "It's a bit unfair!\nJust make one mistake and you're dead!",
+    "Text": "It's so unfair!\nJust make one mistake and you're dead!",
     "Enabled": true
   },
   "201010010090011": {
     "OriginalText": "まあまあ、遊びでのことですから。\nフォトンを使わない格闘技は\n実戦で使えませんからね。",
-    "Text": "Well, seriously though, you can't use martial\narts without Photon in real combat.",
+    "Text": "Seriously though, you can't use martial\narts without Photons in real combat.",
     "Enabled": true
   },
   "201010010100001": {
     "OriginalText": "分かってますよ。\nだからフォースやってるんです！",
-    "Text": "I know that of course.\nThat's why I decide to be a Force!",
+    "Text": "I know that.\nThat's why I decided to be a Force!",
     "Enabled": true
   },
   "201010010110011": {
     "OriginalText": "そう言えばルティナさんは、\n運動神経もいいし体力もあるのに\nなぜハンターではなくフォースを選んだのです？",
-    "Text": "Hmm, Lutina why you chose to be a Force\ninstead of Hunter when you have good motor\nskills and physical strength?",
+    "Text": "Speaking of, why did you choose to be a Force\ninstead of Hunter when you have good motor\nskills and physical strength?",
     "Enabled": true
   },
   "201010010120001": {
@@ -106,17 +106,17 @@
   },
   "201010010130011": {
     "OriginalText": "はははっ！ まさか空中二段回し蹴りができて\nソードが使えないなんて、そんなバカな。",
-    "Text": "Hahaha! You think you can't do an aerial\nroundhouse kick just because your holding a\nsword, you're joking right?",
+    "Text": "Hahaha! You're joking right? You think you\ncan't do an aerial roundhouse kick just\nbecause you're holding a sword?",
     "Enabled": true
   },
   "201010010140001": {
     "OriginalText": "ホントにダメなんですって！\n武器をグッと握ってもガッと来なくて！\nそれはもう、しょうがないんですよ！",
-    "Text": "It's not really doable!\nI really can't do it even I sheathe\nmy weapon!",
+    "Text": "It's true!\nI really can't do it even if I sheathe\nmy weapon!",
     "Enabled": true
   },
   "201010010150011": {
     "OriginalText": "それだけ動ける体があるのに、もったいない。\nそもそも、素手の格闘術なんてものを、\nどうしてやってみようと思ったのです？",
-    "Text": "It's a bit of a waste.\nBut why do you like hand-to-hand combat in\nthe first place?",
+    "Text": "That's a bit of a waste.\nBut why do you like hand-to-hand combat in\nthe first place?",
     "Enabled": true
   },
   "201010010160001": {
@@ -146,7 +146,7 @@
   },
   "201010010200001": {
     "OriginalText": "ちょっと！？ 恥ずかしいこと言わないでよ！\nヒュペリオンさんが見てるじゃない！ バカぁ！",
-    "Text": "What!? That's embarassing!\nHyperion's watching! You dumbass!",
+    "Text": "What!? That's embarassing!\nHyperion's watching! You idiot!",
     "Enabled": true
   },
   "201010010210011": {
@@ -166,7 +166,7 @@
   },
   "201010010230001": {
     "OriginalText": "そうかな？ ＮＧ出してもめげないとか？",
-    "Text": "I wonder?\nIt'll be disappointing if I don't have it.",
+    "Text": "You think?\nIt'd be disappointing if I didn't.",
     "Enabled": true
   },
   "201010010240011": {
@@ -211,17 +211,17 @@
   },
   "201010010320001": {
     "OriginalText": "え？ いや……う～ん……どうなんだろ？\n将来はムービースターっていうのも、\nありなのかな……？",
-    "Text": "Hm? No... hmm... I really don't know.\nI wonder if I'm cut out to be a movie star in\nthe future?",
+    "Text": "Hm? No... Hmm... I really don't know.\nI wonder if I'm cut out to be a movie star in\nthe future?",
     "Enabled": true
   },
   "201020010010001": {
     "OriginalText": "こんな場所でごめんね。\nあんまり人に聞かれたくない話でさ。",
-    "Text": "I'm sorry if we are here.\nI really don't want the others to hear this.",
+    "Text": "Sorry about being here.\nI really don't want the others to hear this.",
     "Enabled": true
   },
   "201020010020001": {
     "OriginalText": "[ruby]相棒[/ruby]はもし、無事にこの[ruby ほし]惑星[/ruby]を脱出できたら、\nどうするつもり？\nアークス、続けるのかな？",
-    "Text": "Buddy, what would you do after we escape\nthis planet safely?\nWill you continue to be a member of ARKS?",
+    "Text": "Buddy, what will you do after we escape\nthis planet safely?\nWill you continue to be an ARKS member?",
     "Enabled": true
   },
   "201020010025000": {
@@ -231,22 +231,22 @@
   },
   "201020010030001": {
     "OriginalText": "そっか。つまり、特に何もなければ\n続けるってことだよね。",
-    "Text": "I see. That means you're still gonna\ncontinue this.",
+    "Text": "I see. That means you're still gonna\nkeep going.",
     "Enabled": true
   },
   "201020010035000": {
     "OriginalText": "続けられるかな？",
-    "Text": "I wonder though?",
+    "Text": "Who's to say?",
     "Enabled": true
   },
   "201020010040001": {
     "OriginalText": "フィルディアさんが認めた艦長が、何を弱気な！\n[ruby]相棒[/ruby]が無理だったらみんな無理だよ！",
-    "Text": "Why did Fildia chose you to be the Captain!\nBuddy, if you can't do it, then everyone\nhere is the same!",
+    "Text": "Fildia sure chose a weak-ass Captain!\nBuddy, if you can't do it, then no one can!",
     "Enabled": true
   },
   "201020010050001": {
     "OriginalText": "でね、[ruby]相棒[/ruby]がアークスを続けて、\n功績をあげて出世していったとしたら、\nより厳しい戦場に向かっていくわけじゃない？",
-    "Text": "Well, Buddy, if you're gonna continue to be\nwith ARKS, you're aiming for a tougher\nbattlefield, right?",
+    "Text": "Well, Buddy, if you're gonna continue to be\nwith ARKS, you're gonna aim for a tougher\nbattlefield, right?",
     "Enabled": true
   },
   "201020010060001": {
@@ -256,7 +256,7 @@
   },
   "201020010070001": {
     "OriginalText": "やっぱりどこかで、あたしと[ruby]相棒[/ruby]の進む道は\n別れるのかなって……考えちゃうんだよね。",
-    "Text": "After all, I wonder if we're gonna go our\nseparate ways, Buddy, do you think so?",
+    "Text": "After all, I still think that...\nwe'll go our separate ways someday.",
     "Enabled": true
   },
   "201020010080001": {
@@ -266,7 +266,7 @@
   },
   "201020010090001": {
     "OriginalText": "だって、限界まで[ruby]相棒[/ruby]についていこうとして、\nその時が来たら……辛いじゃん。",
-    "Text": "I mean, I'm already at my limit just\nby trying to keep up with you.",
+    "Text": "I mean, I'm already at my limit just\n trying to keep up with you.",
     "Enabled": true
   },
   "201020010095000": {
