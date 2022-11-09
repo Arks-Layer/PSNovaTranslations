@@ -25,17 +25,17 @@
     "Enabled": true
   },
   "790006": {
-    "OriginalText": "グラン水装 1",
+    "OriginalText": "グラン水源 1",
     "Text": "Gran Water Rig 1",
     "Enabled": true
   },
   "790007": {
-    "OriginalText": "グラン水装 2",
+    "OriginalText": "グラン水源 2",
     "Text": "Gran Water Rig 2",
     "Enabled": true
   },
   "790008": {
-    "OriginalText": "グラン水装 3",
+    "OriginalText": "グラン水源 3",
     "Text": "Gran Water Rig 3",
     "Enabled": true
   },
@@ -145,7 +145,7 @@
     "Enabled": true
   },
   "790030": {
-    "OriginalText": "グラン水装 4",
+    "OriginalText": "グラン水源 4",
     "Text": "Gran Water Rig 4",
     "Enabled": true
   },
@@ -160,7 +160,7 @@
     "Enabled": true
   },
   "790033": {
-    "OriginalText": "グラン水装",
+    "OriginalText": "グラン水源",
     "Text": "Gran Water Rig",
     "Enabled": true
   },

@@ -275,7 +275,7 @@
     "Enabled": true
   },
   "200307": {
-    "OriginalText": "グラン水装偵察任務",
+    "OriginalText": "グラン水源偵察任務",
     "Text": "Gran Water Rig Recon",
     "Enabled": true
   },
@@ -435,12 +435,12 @@
     "Enabled": true
   },
   "200339": {
-    "OriginalText": "難：グラン水装哨戒任務",
+    "OriginalText": "難：グラン水源哨戒任務",
     "Text": "Danger: Gran Water Rig Patrol",
     "Enabled": true
   },
   "200340": {
-    "OriginalText": "難：グラン水装殲滅任務",
+    "OriginalText": "難：グラン水源殲滅任務",
     "Text": "Danger: Gran Water Rig Extermination",
     "Enabled": true
   },
@@ -1180,7 +1180,7 @@
     "Enabled": true
   },
   "201070": {
-    "OriginalText": "ＰＴアタック・グラン水装",
+    "OriginalText": "ＰＴアタック・グラン水源",
     "Text": "PT Attack Gran Water Rig",
     "Enabled": true
   },
@@ -2265,37 +2265,37 @@
     "Enabled": true
   },
   "230016": {
-    "OriginalText": "依頼者：ヨミ\nグランニウムが足りない。\n武器の改造にはまだまだ必要だ。\n聞いた話じゃグラン水装の奥深くにあるらしいが、\nダーカーがうようよいるそうだ。\n武器を強くしたきゃ回収に行くといい。\n\n同行者：ルティナ セイル イズナ",
+    "OriginalText": "依頼者：ヨミ\nグランニウムが足りない。\n武器の改造にはまだまだ必要だ。\n聞いた話じゃグラン水源の奥深くにあるらしいが、\nダーカーがうようよいるそうだ。\n武器を強くしたきゃ回収に行くといい。\n\n同行者：ルティナ セイル イズナ",
     "Text": "Client: Yomi\n\nParty: Lutina, Sail, Izuna",
     "Enabled": true
   },
   "230017": {
-    "OriginalText": "\nグラン水装における偵察作戦を任せる。\n指定地域まで到達せよ。\n比較的弱小のダーカーおよび原生種が検知されて\nいるが、遭遇した場合は速やかに撃破するよう。\n",
+    "OriginalText": "\nグラン水源における偵察作戦を任せる。\n指定地域まで到達せよ。\n比較的弱小のダーカーおよび原生種が検知されて\nいるが、遭遇した場合は速やかに撃破するよう。\n",
     "Text": "\nA recon operation in Gran Water Rig.\nReach the designated area.\nExpect encounter with weak Darkers and\nNative species.",
     "Enabled": true
   },
   "230018": {
-    "OriginalText": "依頼者：ヒュペリオン\nクルーの食材調達をお願いしますぞ。\n私の勘によれば、グラン水装は新鮮野菜の原生地\nとして有望なのです！\n行く手を塞ぐアグリオスは相手にせず、\n食材さえ調達していただければ結構ですぞ。\n\n同行者：セイル",
+    "OriginalText": "依頼者：ヒュペリオン\nクルーの食材調達をお願いしますぞ。\n私の勘によれば、グラン水源は新鮮野菜の原生地\nとして有望なのです！\n行く手を塞ぐアグリオスは相手にせず、\n食材さえ調達していただければ結構ですぞ。\n\n同行者：セイル",
     "Text": "Client: Hyperion\n\nParty: Sail",
     "Enabled": true
   },
   "230019": {
-    "OriginalText": "依頼者：セイル\nオレと一緒にグラン水装で新種のギガンテスを\n撃破しようぜ！\n情報は皆無に等しいが、オレ達は艦のクルーの命を\n背負ってんだ！\n命令違反だろうが、何とかしてやろうぜ！\n油断しないで行こう！\n同行者：ルティナ セイル イズナ",
+    "OriginalText": "依頼者：セイル\nオレと一緒にグラン水源で新種のギガンテスを\n撃破しようぜ！\n情報は皆無に等しいが、オレ達は艦のクルーの命を\n背負ってんだ！\n命令違反だろうが、何とかしてやろうぜ！\n油断しないで行こう！\n同行者：ルティナ セイル イズナ",
     "Text": "Client: Sail\n\nParty: Lutina, Sail, Izuna",
     "Enabled": true
   },
   "230020": {
-    "OriginalText": "\nグラン水装におけるディートアス撃破作戦を任せる。\n似前、撃破しているとはいえレーザーを用いた攻撃が\n脅威であることに変わりなく、正面突破は大きな\n危険を伴う。\n油断なく撃破せよ。",
+    "OriginalText": "\nグラン水源におけるディートアス撃破作戦を任せる。\n似前、撃破しているとはいえレーザーを用いた攻撃が\n脅威であることに変わりなく、正面突破は大きな\n危険を伴う。\n油断なく撃破せよ。",
     "Text": "\nAn operation to defeat Dietoas in Gran\nWater Rig. It's laser attacks is a\nthreat and frontal assault is dangerous.\nSo be alert.",
     "Enabled": true
   },
   "230021": {
-    "OriginalText": "\nグラン水装にて確認された新種ギガンテスの\n撃破作戦を任せる。\n標的の特性を確認後、速やかに攻撃を開始するよう。\n標的の撃破を確認次第、許可を与えるので速やかに\n帰還せよ。\n\n同行者：ルティナ セイル イズナ",
+    "OriginalText": "\nグラン水源にて確認された新種ギガンテスの\n撃破作戦を任せる。\n標的の特性を確認後、速やかに攻撃を開始するよう。\n標的の撃破を確認次第、許可を与えるので速やかに\n帰還せよ。\n\n同行者：ルティナ セイル イズナ",
     "Text": "\nParty: Lutina, Sail, Izuna",
     "Enabled": true
   },
   "230022": {
-    "OriginalText": "\nグラン水装におけるエウリュード撃破作戦を任せる。\n遭遇までの時間は短いと思われるが、\n標的は砲塔および動き方に独特の特微がある。\nよく理解して接近し、撃破せよ。\n",
+    "OriginalText": "\nグラン水源におけるエウリュード撃破作戦を任せる。\n遭遇までの時間は短いと思われるが、\n標的は砲塔および動き方に独特の特微がある。\nよく理解して接近し、撃破せよ。\n",
     "Text": "\nAn operation to defeat Eurude in Gran\nWater Rig. It seems it has a unique set\nof weapons and behavior. Approach it\ncarefully.",
     "Enabled": true
   },
@@ -2325,7 +2325,7 @@
     "Enabled": true
   },
   "230028": {
-    "OriginalText": "依頼者：レイヴァン\nグラン水装の調査に同行をお願いします。\nおそらくすぐに原生種と遭遇するでしょう。\n未知のギガンテス、しかも濃知のものとは形状が\n大きく異なるものがいるかもしれません。\n注意しましょう。\n\n同行者：ルティナ セイル イズナ",
+    "OriginalText": "依頼者：レイヴァン\nグラン水源の調査に同行をお願いします。\nおそらくすぐに原生種と遭遇するでしょう。\n未知のギガンテス、しかも濃知のものとは形状が\n大きく異なるものがいるかもしれません。\n注意しましょう。\n\n同行者：ルティナ セイル イズナ",
     "Text": "Client: Raven\n\nParty: Lutina, Sail, Izuna",
     "Enabled": true
   },
@@ -2335,12 +2335,12 @@
     "Enabled": true
   },
   "230030": {
-    "OriginalText": "依頼者：フィルディア\nグラン水装から拠点に接近するディートアスを\n撃破しろ！ 艦の存亡を左右する戦いだ。\n後に続く奴らに仕留め方を見せてやってくれ！\n死ぬ気で拠点を守り抜け！ そして必ず生き残れ！\n\n\n同行者：ルティナ セイル イズナ",
+    "OriginalText": "依頼者：フィルディア\nグラン水源から拠点に接近するディートアスを\n撃破しろ！ 艦の存亡を左右する戦いだ。\n後に続く奴らに仕留め方を見せてやってくれ！\n死ぬ気で拠点を守り抜け！ そして必ず生き残れ！\n\n\n同行者：ルティナ セイル イズナ",
     "Text": "Client: Fildia\n\nParty: Lutina, Sail, Izuna",
     "Enabled": true
   },
   "230031": {
-    "OriginalText": "依頼者：フィルディア\n緊急事態だ。グラン水装から拠点に接近する\nギュゲンテを撃破しろ！\n遠距離攻撃をいくつも食らったら艦が持たん。\nお前らが先頭で主砲を叩いて、後に続く奴らの\n手本になってくれ！\n\n同行者：ルティナ セイル イズナ",
+    "OriginalText": "依頼者：フィルディア\n緊急事態だ。グラン水源から拠点に接近する\nギュゲンテを撃破しろ！\n遠距離攻撃をいくつも食らったら艦が持たん。\nお前らが先頭で主砲を叩いて、後に続く奴らの\n手本になってくれ！\n\n同行者：ルティナ セイル イズナ",
     "Text": "Client: Fildia\n\nParty: Lutina, Sail, Izuna",
     "Enabled": true
   },
@@ -2355,7 +2355,7 @@
     "Enabled": true
   },
   "230034": {
-    "OriginalText": "依頼者：キサラ\nグラン水装の奥地を探索なさい。\nその先に必ず何かあるはずよ。\n前進なくして、この惑星の真の姿を見冷めることは\nできないわ。さあ行きなさい！\n\n\n同行者：ルティナ セイル イズナ",
+    "OriginalText": "依頼者：キサラ\nグラン水源の奥地を探索なさい。\nその先に必ず何かあるはずよ。\n前進なくして、この惑星の真の姿を見冷めることは\nできないわ。さあ行きなさい！\n\n\n同行者：ルティナ セイル イズナ",
     "Text": "Client: Kisara\n\nParty: Lutina, Sail, Izuna",
     "Enabled": true
   },
@@ -2375,7 +2375,7 @@
     "Enabled": true
   },
   "230038": {
-    "OriginalText": "\nグラン水装におけるアルレイバンサー撃破作戦を\n任せる。\nエリア内の最深部にて大型機械化生命の反応を\n確認している。\n速やかに現場へ向かうよう。\n",
+    "OriginalText": "\nグラン水源におけるアルレイバンサー撃破作戦を\n任せる。\nエリア内の最深部にて大型機械化生命の反応を\n確認している。\n速やかに現場へ向かうよう。\n",
     "Text": "\nAn operation to defeat Alray Banther in\nGran Water Rig. It is detected in the\ndeepest area. Head to the site\nimmediately.",
     "Enabled": true
   },
@@ -2440,7 +2440,7 @@
     "Enabled": true
   },
   "230051": {
-    "OriginalText": "依頼者：オルクス\nさあ、グラン水装のグラン噴出口を見つけに行こう。\nレイヴァンに会えるかどうか楽しみだが、\n実戦となればお前達に任せるぞ。\nオヤジらしく控え目にしたいんでな。\n\n\n同行者：オルクス ヒュペリオン",
+    "OriginalText": "依頼者：オルクス\nさあ、グラン水源のグラン噴出口を見つけに行こう。\nレイヴァンに会えるかどうか楽しみだが、\n実戦となればお前達に任せるぞ。\nオヤジらしく控え目にしたいんでな。\n\n\n同行者：オルクス ヒュペリオン",
     "Text": "Client: Orcus",
     "Enabled": true
   },
@@ -2460,7 +2460,7 @@
     "Enabled": true
   },
   "230055": {
-    "OriginalText": "\nグラン水装におけるアルキュオネ討伐作戦を\n任せる。現在、エリア内の最深部に反応あり。\n速やかに現場へ向かうよう。\n標的の撃破を確認次第、帰還許可を与える。",
+    "OriginalText": "\nグラン水源におけるアルキュオネ討伐作戦を\n任せる。現在、エリア内の最深部に反応あり。\n速やかに現場へ向かうよう。\n標的の撃破を確認次第、帰還許可を与える。",
     "Text": "\nAn operation to defeat Alcyone in Gran\nWater Rig. It was detected in the deepest\narea. Head to the site immediately.",
     "Enabled": true
   },
@@ -2510,7 +2510,7 @@
     "Enabled": true
   },
   "230065": {
-    "OriginalText": "\nグラン水装におけるギュゲンテ撃破作戦を任せる。\n標的の砲撃により、拠点が甚大な被害を受ける\n可能性が高い。\n標的の独特な動きに注意し、速やかに主砲を\n破壊するよう。\n\n\n[a 03]※シナリオクリアしたプレイヤーのみ参加可能[b]",
+    "OriginalText": "\nグラン水源におけるギュゲンテ撃破作戦を任せる。\n標的の砲撃により、拠点が甚大な被害を受ける\n可能性が高い。\n標的の独特な動きに注意し、速やかに主砲を\n破壊するよう。\n\n\n[a 03]※シナリオクリアしたプレイヤーのみ参加可能[b]",
     "Text": "[a 03]※Only players who cleared the scenario\ncan join[b]",
     "Enabled": true
   },
@@ -2560,7 +2560,7 @@
     "Enabled": true
   },
   "230075": {
-    "OriginalText": "依頼者：オルクス\nグラン水装で奇襲速攻しろ、だとよ。\n誘われたからには俺も断れねえ。\nとにかくスピード重視で攻め込んでいくしかないな！\n\n\n\n同行者：オルクス\n[a 03]（制限時間２０分）[b]",
+    "OriginalText": "依頼者：オルクス\nグラン水源で奇襲速攻しろ、だとよ。\n誘われたからには俺も断れねえ。\nとにかくスピード重視で攻め込んでいくしかないな！\n\n\n\n同行者：オルクス\n[a 03]（制限時間２０分）[b]",
     "Text": "Client: Orcus\n\n[a 03](Time limit: 20 minutes)[b]",
     "Enabled": true
   },
@@ -2570,7 +2570,7 @@
     "Enabled": true
   },
   "230077": {
-    "OriginalText": "\nグラン水装におけるグレイオス攻略作戦を任せる。\n現地進行直後から標的と遭遇する可能性が高く、\n特別な攻撃を仕掛けてくる物様であり、\n接近戦が有利である。\n\n\n\n[a 03]※シナリオクリアしたプレイヤーのみ参加可能[b]",
+    "OriginalText": "\nグラン水源におけるグレイオス攻略作戦を任せる。\n現地進行直後から標的と遭遇する可能性が高く、\n特別な攻撃を仕掛けてくる物様であり、\n接近戦が有利である。\n\n\n\n[a 03]※シナリオクリアしたプレイヤーのみ参加可能[b]",
     "Text": "\n[a 03]※Only players who cleared the scenario\ncan join[b]",
     "Enabled": true
   },
@@ -2585,17 +2585,17 @@
     "Enabled": true
   },
   "230080": {
-    "OriginalText": "\nグラン水装における哨戒作戦を任せる。\n指定地域を周回探索せよ。\n原生種に遭遇した場合は速やかに撃破するよう。\n経贄を制圧し、治安確保を確認次第、\n帰還許可を与える。\n\n\n[a 03]※シナリオクリアしたプレイヤーのみ参加可能[b]",
+    "OriginalText": "\nグラン水源における哨戒作戦を任せる。\n指定地域を周回探索せよ。\n原生種に遭遇した場合は速やかに撃破するよう。\n経贄を制圧し、治安確保を確認次第、\n帰還許可を与える。\n\n\n[a 03]※シナリオクリアしたプレイヤーのみ参加可能[b]",
     "Text": "\n[a 03]※Only players who cleared the scenario\ncan join[b]",
     "Enabled": true
   },
   "230081": {
-    "OriginalText": "\nグラン水装における原生種殲滅作戦を任せる。\n異常発生により現地では撃破が追いつかず持久戦の\n様相だが、一定時間の経過後に帰還許可を与える。\n生き残ることが重要だ。\n\n\n[a 03]（制限時間8分）[b]\n[a 03]※シナリオクリアしたプレイヤーのみ参加可能[b]",
+    "OriginalText": "\nグラン水源における原生種殲滅作戦を任せる。\n異常発生により現地では撃破が追いつかず持久戦の\n様相だが、一定時間の経過後に帰還許可を与える。\n生き残ることが重要だ。\n\n\n[a 03]（制限時間8分）[b]\n[a 03]※シナリオクリアしたプレイヤーのみ参加可能[b]",
     "Text": "\n[a 03](Time limit: 8 minutes)[b]\n[a 03]※Only players who cleared the scenario\ncan join[b]",
     "Enabled": true
   },
   "230082": {
-    "OriginalText": "\nグラン水装におけるヴィヴリュード攻略作戦を\n任せる。\n現地進行直後から標的と遭遇する可能性が高く、\n特別な攻撃を仕掛けてくる物様であり、\n接近戦が有利である。\n\n\n[a 03]※シナリオクリアしたプレイヤーのみ参加可能[b]",
+    "OriginalText": "\nグラン水源におけるヴィヴリュード攻略作戦を\n任せる。\n現地進行直後から標的と遭遇する可能性が高く、\n特別な攻撃を仕掛けてくる物様であり、\n接近戦が有利である。\n\n\n[a 03]※シナリオクリアしたプレイヤーのみ参加可能[b]",
     "Text": "\n[a 03]※Only players who cleared the scenario\ncan join[b]",
     "Enabled": true
   },
@@ -2610,7 +2610,7 @@
     "Enabled": true
   },
   "230085": {
-    "OriginalText": "\nグラン水装におけるアルテイオス攻略作戦を任せる。\n現地進行直後から標的と遭遇する可能性が高く、\n特別な攻撃を仕掛けてくる物様であり、\n接近戦が有利である。\n\n\n\n[a 03]※シナリオクリアしたプレイヤーのみ参加可能[b]",
+    "OriginalText": "\nグラン水源におけるアルテイオス攻略作戦を任せる。\n現地進行直後から標的と遭遇する可能性が高く、\n特別な攻撃を仕掛けてくる物様であり、\n接近戦が有利である。\n\n\n\n[a 03]※シナリオクリアしたプレイヤーのみ参加可能[b]",
     "Text": "\n[a 03]※Only players who cleared the scenario\ncan join[b]",
     "Enabled": true
   },
@@ -2680,7 +2680,7 @@
     "Enabled": true
   },
   "230303": {
-    "OriginalText": "\nグラン水装における資材回収作戦を任せる。\n現場周域はギガティオンの載殖域であり、\n[a 07]劇属性による執拗な攻撃[b]が予想される。\n[a 07]炎属性での攻撃[b]準備を整え、障害となれば撃破せよ。\n\n[a 03]\n（制限時間資材回収開始してから１７分）\n※シナリオクリアしたプレイヤーのみ参加可能[b]",
+    "OriginalText": "\nグラン水源における資材回収作戦を任せる。\n現場周域はギガティオンの載殖域であり、\n[a 07]劇属性による執拗な攻撃[b]が予想される。\n[a 07]炎属性での攻撃[b]準備を整え、障害となれば撃破せよ。\n\n[a 03]\n（制限時間資材回収開始してから１７分）\n※シナリオクリアしたプレイヤーのみ参加可能[b]",
     "Text": "\nPrepare [a 07]Ice-resistant Shield[b] and\n[a 07]Fire-element weapon[b]\n[a 03](Time limit: 17 minutes after material\ncollection)\n※CLEAR players only[b]",
     "Enabled": true
   },
@@ -2700,7 +2700,7 @@
     "Enabled": true
   },
   "230400": {
-    "OriginalText": "\nグラン水装における建築資材回収作戦を任せる。\n現場周域ではヴィヴリュードによる遠距離攻撃が\n報告されており、撃破しなければ資材回収はほぼ\n不可能である物様。\n状況を確認し、適切な対処を求める。\n\n[a 03]\n※シナリオクリアしたプレイヤーのみ参加可能[b]",
+    "OriginalText": "\nグラン水源における建築資材回収作戦を任せる。\n現場周域ではヴィヴリュードによる遠距離攻撃が\n報告されており、撃破しなければ資材回収はほぼ\n不可能である物様。\n状況を確認し、適切な対処を求める。\n\n[a 03]\n※シナリオクリアしたプレイヤーのみ参加可能[b]",
     "Text": "\n[a 03]※Only players who cleared the scenario\ncan join[b]",
     "Enabled": true
   },
@@ -2760,7 +2760,7 @@
     "Enabled": true
   },
   "230538": {
-    "OriginalText": "\nグラン水装におけるファンアフォル撃破作戦を\n任せる。偵察報告によると標的は劇属性の強力な\n攻撃を展開しており、炎属性での反撃が有効と\n予想される。あらかじめ準備を整えて速やかに\n撃破せよ。\n\n\n[a 03]\n※シナリオクリアしたプレイヤーのみ参加可能[b]",
+    "OriginalText": "\nグラン水源におけるファンアフォル撃破作戦を\n任せる。偵察報告によると標的は劇属性の強力な\n攻撃を展開しており、炎属性での反撃が有効と\n予想される。あらかじめ準備を整えて速やかに\n撃破せよ。\n\n\n[a 03]\n※シナリオクリアしたプレイヤーのみ参加可能[b]",
     "Text": "\n[a 03]※Only players who cleared the scenario\ncan join[b]",
     "Enabled": true
   },
@@ -2790,7 +2790,7 @@
     "Enabled": true
   },
   "230544": {
-    "OriginalText": "\nグラン水装におけるグレイオス撃破作戦を任せる。\nただし標的は今なお現在地に急速接近しており、\n任務開始後すぐに遭遇するおそれがある。\nさらに接近速度が加速している現状も踏まえ、\n充分な備えを求める。\n\n[a 03]\n※シナリオクリアしたプレイヤーのみ参加可能[b]",
+    "OriginalText": "\nグラン水源におけるグレイオス撃破作戦を任せる。\nただし標的は今なお現在地に急速接近しており、\n任務開始後すぐに遭遇するおそれがある。\nさらに接近速度が加速している現状も踏まえ、\n充分な備えを求める。\n\n[a 03]\n※シナリオクリアしたプレイヤーのみ参加可能[b]",
     "Text": "\n[a 03]※Only players who cleared the scenario\ncan join[b]",
     "Enabled": true
   },
@@ -2815,7 +2815,7 @@
     "Enabled": true
   },
   "230549": {
-    "OriginalText": "\nグラン水装におけるエウリュード撃破作戦を任せる。\n偵察報告によると標的は[a 07]劇属性の強力な攻撃[b]を\n展開しており、[a 07]炎属性での反撃が有効[b]と予想される。\nあらかじめ準備を整えて速やかに撃破せよ。\n\n\n[a 03]\n※シナリオクリアしたプレイヤーのみ参加可能[b]",
+    "OriginalText": "\nグラン水源におけるエウリュード撃破作戦を任せる。\n偵察報告によると標的は[a 07]劇属性の強力な攻撃[b]を\n展開しており、[a 07]炎属性での反撃が有効[b]と予想される。\nあらかじめ準備を整えて速やかに撃破せよ。\n\n\n[a 03]\n※シナリオクリアしたプレイヤーのみ参加可能[b]",
     "Text": "\nPrepare [a 07]Ice-resistant Shield[b] and\n[a 07]Fire-element weapon[b]\n[a 03]※Only players who cleared the scenario\ncan join[b]",
     "Enabled": true
   },
