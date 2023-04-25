@@ -291,7 +291,7 @@
   },
   "100010035150001": {
     "OriginalText": "かのっ！？ 何てこと言うんですかっ！！",
-    "Text": "It's a Him!? What am I supposed to say now!!",
+    "Text": "Girl!? What am I supposed to say now!!",
     "Enabled": true
   },
   "100010035155001": {
@@ -386,7 +386,7 @@
   },
   "100010050010007": {
     "OriginalText": "全クルーへ。本艦はこれより惑星マキアに緊急着陸します。\n各自、衝撃に備えなさい。",
-    "Text": "To all the crew. Our ship is undergoing an\nemergency landing on the planet Makhia.\nPlease prepare for impact.",
+    "Text": "To all crew. Our ship is undergoing an\nemergency landing on the planet Makhia.\nPlease prepare for impact.",
     "Enabled": true
   },
   "100010050020005": {
@@ -396,12 +396,12 @@
   },
   "100010050030014": {
     "OriginalText": "角度が深すぎる！ 修正しろ！",
-    "Text": "The angle is too deep! Revise it!",
+    "Text": "The angle is too deep! Correct it!",
     "Enabled": true
   },
   "100010050040005": {
     "OriginalText": "出力が足りません、\n姿勢と角度維持が限界です……！",
-    "Text": "We can't!\nThe ship's engines are at their limits just maintaining the angles!",
+    "Text": "We can't,\nthe ship's engines are at their limits just maintaining the angle...!",
     "Enabled": true
   },
   "100010050050007": {
@@ -411,17 +411,17 @@
   },
   "100010050060014": {
     "OriginalText": "この速度では、大気圏を抜けられても地表に撃突するぞ！",
-    "Text": "At this rate, we'll miss the\natmosphere and hit the ground!",
+    "Text": "At this rate, we'll hit the \nsurface even if we make it through the atmosphere!",
     "Enabled": true
   },
   "100010050070005": {
     "OriginalText": "くっ、何か手は……？",
-    "Text": "Damn it!\nIs there another way?-",
+    "Text": "Damn it!\nIs there another way...?",
     "Enabled": true
   },
   "100010050080014": {
     "OriginalText": "滅速しろ！",
-    "Text": "At lightning speed!",
+    "Text": "Quickly!",
     "Enabled": true
   },
   "100010050090005": {
@@ -431,17 +431,17 @@
   },
   "100010050100014": {
     "OriginalText": "レイヴァン副長、何をする気だ！",
-    "Text": "XO Raven, what are you planning!?",
+    "Text": "Captain Raven, what are you planning!?",
     "Enabled": true
   },
   "100010050110005": {
     "OriginalText": "全エネルギー、艦首シールドに回せ！ \n一瞬でいい、保ってくれよ……。",
-    "Text": "Focus all energy to the ship's deck shield!\nKeep it all in one place.",
+    "Text": "Focus all energy to the ship's deck shield!\nHold it for just a moment....",
     "Enabled": true
   },
   "100010050120007": {
     "OriginalText": "衝撃、来ます！！",
-    "Text": "Incoming impact!!",
+    "Text": "Brace for impact!!",
     "Enabled": true
   },
   "100010060010014": {
@@ -451,12 +451,12 @@
   },
   "100010060020005": {
     "OriginalText": "無事、とは言えませんね……この状況は。",
-    "Text": "I wouldn't say that... In this situation.",
+    "Text": "I wouldn't say that... in this situation.",
     "Enabled": true
   },
   "100010060030007": {
     "OriginalText": "各セクション、\n被害状況を早急に確認、報告しなさい。",
-    "Text": "All sections,\nplease report all damages as soon as possible.",
+    "Text": "All sections,\nplease report all damage as soon as possible.",
     "Enabled": true
   },
   "100010060040014": {
@@ -471,22 +471,22 @@
   },
   "100010060060007": {
     "OriginalText": "機関室より報告、フォトン・ドライブは完全に停止。",
-    "Text": "Reports from the engine room,\nPhoton Drive has shut down completely.",
+    "Text": "Reports from the engine room,\nthe Photon Drive has shut down completely.",
     "Enabled": true
   },
   "100010060070014": {
     "OriginalText": "どうなっているのだ……調査を急げ。",
-    "Text": "What's going on- start investigating immediately!",
+    "Text": "What's going on... start investigating immediately.",
     "Enabled": true
   },
   "100010060080005": {
     "OriginalText": "私が原因調査を統括します。\nドライブが回復しなければ、[ruby ふね]艦[/ruby]の機能は停止してしまいますからね。",
-    "Text": "I'll be in charge of this investigation.\nIf the drive hasn't recovered,\nthe whole ship will stop functioning.",
+    "Text": "I'll be in charge of this investigation.\nIf the drive doesn't recover,\nthe whole ship will stop functioning.",
     "Enabled": true
   },
   "100010060090014": {
     "OriginalText": "だが、最悪の事態も考えねばなるまい。",
-    "Text": "But- I can't think of anything worse than that.",
+    "Text": "However, we must also consider the worst case scenario.",
     "Enabled": true
   },
   "100010060100005": {
@@ -496,7 +496,7 @@
   },
   "100010060110014": {
     "OriginalText": "キサラ、動ける人員を集めてくれ。\nこの[ruby ほし]惑星[/ruby]との[ruby いくさ]戦[/ruby]を始めるぞ！",
-    "Text": "Kisara, gather all available personnel.\nLet's begin our activities on this planet!",
+    "Text": "Kisara, gather all available personnel.\nLet's begin our battle against this planet!",
     "Enabled": true
   },
   "100010060120007": {
@@ -541,7 +541,7 @@
   },
   "101010010040004": {
     "OriginalText": "災難だったな、新人！",
-    "Text": "What a mess.\nHey, rookie!",
+    "Text": "What a mess,\nrookie!",
     "Enabled": true
   },
   "101010010050001": {
@@ -586,12 +586,12 @@
   },
   "101010020060004": {
     "OriginalText": "惑星探査隊は観光じゃないんだぞ。\n事故も戦死も覚悟の上さ。\nもっとも、戦う前に死ぬのはやりきれないがな。",
-    "Text": "This isn't a sightseeing trip,they were\nprepared to die. Though, dying before\neven seeing battle...",
+    "Text": "This isn't a sightseeing trip. They were\nprepared to die. Though, dying before\neven seeing battle...",
     "Enabled": true
   },
   "101010020070004": {
     "OriginalText": "問題は[ruby ふね]艦[/ruby]の方だ。\nフォトンドライブが完全に死んで、\nまったく動かないらしい。",
-    "Text": "As for the ship,the Photon Drive is\ncompletely dead. It can't move at all.",
+    "Text": "As for the ship, the Photon Drive is\ncompletely dead. It can't move at all.",
     "Enabled": true
   },
   "101010020080001": {
@@ -631,12 +631,12 @@
   },
   "101010020150004": {
     "OriginalText": "何を言っているんだ？",
-    "Text": "What!?",
+    "Text": "What are you talking about!?",
     "Enabled": true
   },
   "101010020160051": {
     "OriginalText": "武器もフォトンアーツも使えないんです！\nマグナス艦長を中心に防衛線を展開し、\n撤退を開始していますが、長くは保ちません！",
-    "Text": "Their weapons are no good too! They're\nholding around the Captain, attempting\nretreat, but they won't last long like this!",
+    "Text": "Their weapons and Photon Arts are no good too!\nThey're holding around the Captain and attempting\nretreat, but they won't last long like this!",
     "Enabled": true
   },
   "101010020170051": {
@@ -661,7 +661,7 @@
   },
   "101010020210053": {
     "OriginalText": "ケガの手当なんて受けてられるか！ 俺も行く！",
-    "Text": "I'm hurt, but I don't care, I will go!",
+    "Text": "I'm hurt, but I don't care! I'll go!",
     "Enabled": true
   },
   "101010020220054": {
@@ -681,7 +681,7 @@
   },
   "101010020250055": {
     "OriginalText": "痛いのなんの言ってる場合じゃねえ！ 行くぞ！",
-    "Text": "I don't care about the pain, I'm going!",
+    "Text": "I don't care about the pain! I'm going!",
     "Enabled": true
   },
   "101010020260056": {
@@ -696,7 +696,7 @@
   },
   "101010030010001": {
     "OriginalText": "はぁ、はぁ……",
-    "Text": "Huff, huff",
+    "Text": "Huff, huff...",
     "Enabled": true
   },
   "101010030011001": {
