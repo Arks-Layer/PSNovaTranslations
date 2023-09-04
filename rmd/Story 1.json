@@ -691,7 +691,7 @@
   },
   "101010020270001": {
     "OriginalText": "すごい……ケガ人もいるのに、\nみんなやる気だ！！\nあたし達も行こう！！",
-    "Text": "Amazing, even though they're hurt...\nEveryone's really feeling it!!\nHey, We should go too!!",
+    "Text": "Amazing, even though they're hurt...\nEveryone's really feeling it!!\nHey, we should go too!!",
     "Enabled": true
   },
   "101010030010001": {
@@ -761,7 +761,7 @@
   },
   "101010030090001": {
     "OriginalText": "『グラン』？",
-    "Text": "'Gran?",
+    "Text": "'Gran'?",
     "Enabled": true
   },
   "101010030091001": {
@@ -786,12 +786,12 @@
   },
   "101010030130001": {
     "OriginalText": "そっか……ありがとう！",
-    "Text": "Alright...thanks!",
+    "Text": "Alright... thanks!",
     "Enabled": true
   },
   "101010030131001": {
     "OriginalText": "このお礼は必ずするから！ ",
-    "Text": "We'll make this up to you!",
+    "Text": "We'll make it up to you!",
     "Enabled": true
   },
   "101010030132001": {
@@ -831,7 +831,7 @@
   },
   "101010040040004": {
     "OriginalText": "あなたが危険を感じるとは……！",
-    "Text": "What is it that is dangerous?",
+    "Text": "I'm surprised you can sense danger...!",
     "Enabled": true
   },
   "101010040050014": {
@@ -851,7 +851,7 @@
   },
   "101010040070004": {
     "OriginalText": "お前達！？ その武器はどうした！？",
-    "Text": "You guys!?\nBut how is your weapon working?",
+    "Text": "You guys!?\nHow are your weapons working?",
     "Enabled": true
   },
   "101010040080001": {
@@ -1201,7 +1201,7 @@
   },
   "101020030010000": {
     "OriginalText": "ここには『クエストチュートリアル』が入る予定です。",
-    "Text": "From now on, you will enter the \"Quest Tutorial\".",
+    "Text": "You will now enter the \"Quest Tutorial\".",
     "Enabled": true
   },
   "101020040005001": {
@@ -1371,7 +1371,7 @@
   },
   "101020050110003": {
     "OriginalText": "お恥ずかしながら……はい。",
-    "Text": "Yes...That's right.",
+    "Text": "Yes... That's right.",
     "Enabled": true
   },
   "101020050120001": {
@@ -1421,7 +1421,7 @@
   },
   "101020050210001": {
     "OriginalText": "ところで、他に生存者は？ 見かけてない？",
-    "Text": "Speaking of which,\nWhere's the rest of the advance team?",
+    "Text": "Speaking of which,\nwhere's the rest of the advance team?",
     "Enabled": true
   },
   "101020050220002": {
@@ -1466,7 +1466,7 @@
   },
   "101020060020001": {
     "OriginalText": "健康だと思いますよ。イズナは無傷でしたし、\nセイルは帰りの道中でずーっと\n『オレが艦長を支える』って語ってましたから。",
-    "Text": "They're not heavily injured\nIzuna seemed to be uninjured too.\nSail took the brunt of it.",
+    "Text": "They're not heavily injured.\nIzuna seemed to be uninjured, but\nSail took the brunt of it.",
     "Enabled": true
   },
   "101020060030004": {
