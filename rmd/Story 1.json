@@ -2756,17 +2756,17 @@
   },
   "102040020210001": {
     "OriginalText": "そう……この[ruby ほし]惑星[/ruby]の人なんだよね？\nグランのことを教えてくれてありがとう！",
-    "Text": "Um... you're from this planet, right?\nThank you for telling me about Gran!",
+    "Text": "Um... you're from this planet, right?\nThank you for telling us about Gran!",
     "Enabled": true
   },
   "102040020220013": {
     "OriginalText": "あなた達を助けるために必要なことでした。",
-    "Text": "It was necessary to help you guys.",
+    "Text": "It was necessary to help you.",
     "Enabled": true
   },
   "102040020230001": {
     "OriginalText": "本当に助かったよ！ グランが使えてなかったら\n今頃どうなってたか……ユノは命の恩人だよ！",
-    "Text": "It was really helpful! What would've happen\nif we couldn't use Gran...\nYou're a lifesaver Juno.",
+    "Text": "You really saved us! Who knows what would've\nhappened if we couldn't use Gran...\nYou're a lifesaver Juno.",
     "Enabled": true
   },
   "102040020240013": {
@@ -2801,7 +2801,7 @@
   },
   "102040020300013": {
     "OriginalText": "これを燥ることが可能です。\n燥縦席はもう壊れてしまっていますが、\n燥ることができれば、きっと役立つでしょう。",
-    "Text": "It is possible to ride it. Looks like the\ncockpit is already broken, if we can control\nit, it will surely help us.",
+    "Text": "It is possible to ride it. It seems the\ncockpit is already broken, but if we can control\nit, it will surely help us.",
     "Enabled": true
   },
   "102040020310001": {
@@ -2811,7 +2811,7 @@
   },
   "102040020320001": {
     "OriginalText": "ねえユノ、グランのことも、\nギガンテスのことも、もっと教えてほしいな！",
-    "Text": "Juno, aside from Gran,\nI want to more about the Gigantes!",
+    "Text": "Hey Juno, I want to know more\nabout Gran and the Gigantes!",
     "Enabled": true
   },
   "102040020330013": {
@@ -2821,22 +2821,22 @@
   },
   "102040020340001": {
     "OriginalText": "話すと何かまずいことでもあるの？",
-    "Text": "Is there something wrong?",
+    "Text": "Can you not talk about it?",
     "Enabled": true
   },
   "102040020350013": {
     "OriginalText": "……すみません。",
-    "Text": "...sorry.",
+    "Text": "...Sorry.",
     "Enabled": true
   },
   "102040020360002": {
     "OriginalText": "いいって。\nそりゃ事情のひとつやふたつあるだろ。",
-    "Text": "Hey, you keep asking things one\nafter another.",
+    "Text": "That's okay. I'm sure you have a reason or two.",
     "Enabled": true
   },
   "102040020370013": {
     "OriginalText": "ですが、わたしはあなた達が\n無事にこの[ruby ほし]惑星[/ruby]から脱出できるよう、\nお手龍いをしたいと思っています。",
-    "Text": "But, I hope you can escape from this planet\nsafely, I want to help.",
+    "Text": "However, I want to help you escape\nfrom this planet safely.",
     "Enabled": true
   },
   "102040020380001": {
@@ -2876,22 +2876,22 @@
   },
   "102040020450002": {
     "OriginalText": "おいおい、あんまり無理強いするなよ？\n向こうにも都合ってもんがあるんだからな。",
-    "Text": "Hey, why are you forcing it too much?\nJust think of her circumstance.",
+    "Text": "Hey, don't push her too hard, okay?\nShe probably has her reasons.",
     "Enabled": true
   },
   "102040020460001": {
     "OriginalText": "聞いてみなきゃわかんないでしょ！ ねえ[ruby]相棒[/ruby]？",
-    "Text": "You'll never know if you won't listen!\nRight, Buddy?",
+    "Text": "You'll never know unless you ask!\nRight, Buddy?",
     "Enabled": true
   },
   "102040020465000": {
     "OriginalText": "ユノが嫌じゃなかったらぜひ",
-    "Text": "It's okay Juno if you wont.",
+    "Text": "That is, if you don't mind, Juno.",
     "Enabled": true
   },
   "102040020470013": {
     "OriginalText": "嫌、ではありません。でも……。",
-    "Text": "I don't hate it. But....",
+    "Text": "I'm not opposed to it. But....",
     "Enabled": true
   },
   "102040020475000": {
@@ -2911,7 +2911,7 @@
   },
   "102040020500013": {
     "OriginalText": "あ、あの……また会うのを楽しみにしています！",
-    "Text": "Um... I'm looking forward to see you again!",
+    "Text": "U-um... I'm looking forward to seeing you again!",
     "Enabled": true
   },
   "102040020510001": {
@@ -2941,17 +2941,17 @@
   },
   "102040020560002": {
     "OriginalText": "よし、戻るか！",
-    "Text": "Alright, let's return!",
+    "Text": "Alright, let's head back!",
     "Enabled": true
   },
   "102040030010005": {
     "OriginalText": "ギガンテス撃破、お見事でした。艦長。",
-    "Text": "The Gigantes is defeated, that was splendid.\nCaptain.",
+    "Text": "Splendid job defeating the Gigantes,\nCaptain.",
     "Enabled": true
   },
   "102040030020004": {
     "OriginalText": "シャロンのお陰だ。\nヘイロウ、使い心地よかったぞ。な？",
-    "Text": "Thanks to Sharon.\nThe Halo, it was really helpful, right?",
+    "Text": "Thanks to Sharon.\nThe Halo was really helpful, wasn't it?",
     "Enabled": true
   },
   "102040030025000": {
@@ -2961,12 +2961,12 @@
   },
   "102040030030004": {
     "OriginalText": "やれるものなら特別休暇でもやりたいぐらいだ。\n残念ながらそんなゆとりはないがな！",
-    "Text": "If I can do it, I want to do it even on a\nspecial break. Unfortunately, there is no\nsuch thing.",
+    "Text": "I'd take a special vacation about now\nif I could. Unfortunately, I don't have\nthat kind of luxury!",
     "Enabled": true
   },
   "102040030035000": {
     "OriginalText": "艦長はそうでしょうが……",
-    "Text": "As the Captain said....",
+    "Text": "I'm sure the Captain does, but....",
     "Enabled": true
   },
   "102040030040004": {
@@ -2986,7 +2986,7 @@
   },
   "102040030070002": {
     "OriginalText": "オレ様はもっと無茶な仕様でもよかったけどな！",
-    "Text": "I wish we have better method!",
+    "Text": "I wish there was a better way!",
     "Enabled": true
   },
   "102040030080003": {
@@ -3001,47 +3001,47 @@
   },
   "102040030100001": {
     "OriginalText": "いくらでも、は言い過ぎですよ。",
-    "Text": "No matter how much, is an overstatement.",
+    "Text": "Any amount is too much.",
     "Enabled": true
   },
   "102040030110005": {
     "OriginalText": "だが、ギガンテスを仕留めることで\n大量のグラン結晶が得られることも判明した。",
-    "Text": "But, we also found that defeating a\nGigantes can produce a large amount of\nGran crystals.",
+    "Text": "However, we also found that defeating a\nGigantes can produce a large amount of\nGran crystals.",
     "Enabled": true
   },
   "102040030120005": {
     "OriginalText": "艦長、これなら例のプランも実行できそうです。",
-    "Text": "Captain, in that case, the usual plan is\nstill executable.",
+    "Text": "Captain, in that case, we can move forward\nwith the example plan.",
     "Enabled": true
   },
   "102040030130002": {
     "OriginalText": "例のプラン？",
-    "Text": "Usual plan?",
+    "Text": "Example plan?",
     "Enabled": true
   },
   "102040030140004": {
     "OriginalText": "活動人員を増やそうと思ってな。",
-    "Text": "I'm thinking of increasing the number of\nactive people.",
+    "Text": "I'm thinking of increasing the number of\nactive personnel.",
     "Enabled": true
   },
   "102040030150004": {
     "OriginalText": "これまではグランの供給量不足で\n動かせる機村や設備に限りがあったが、\nそれも解消できそうだ。",
-    "Text": "Until now, there's a limit of equipment and\nfacilities that can be used due to the\nshortage of Gran.",
+    "Text": "Until now, there's been a limit on the equipment and\nfacilities that can be used due to the\nshortage of Gran.",
     "Enabled": true
   },
   "102040030160005": {
     "OriginalText": "建築、武伝、食料などのスペシャリストを\nコールドスリープから目覚めさせ、\n各種設備の拡充を進めるのです。",
-    "Text": "Awakening a specialist in architecture,\narms, food, and etc. from cold sleep, and\nbuild various facilities.",
+    "Text": "Awakening specialists in architecture,\narms, food, and etc. from Cold Sleep and\nbuild various facilities.",
     "Enabled": true
   },
   "102040030170002": {
     "OriginalText": "そうか！ それでもっと働ける人を増やせば！",
-    "Text": "Really! So we can increase our workforce!",
+    "Text": "Of course! So we can increase our workforce!",
     "Enabled": true
   },
   "102040030180003": {
     "OriginalText": "グランの供給量もさらに増えますし、\n行動範囲も広げられそう……？",
-    "Text": "The supply of Gran will also increase, Is it\npossible to expand our field of activities?",
+    "Text": "Our Gran supply will increase, and the scope of our actions will expand...?",
     "Enabled": true
   },
   "102040030190004": {
@@ -3051,7 +3051,7 @@
   },
   "102040030200001": {
     "OriginalText": "……",
-    "Text": "",
+    "Text": "...",
     "Enabled": false
   },
   "102040030210004": {
@@ -3066,12 +3066,12 @@
   },
   "102040030230004": {
     "OriginalText": "……どういう意味だ？",
-    "Text": "What do you mean?",
+    "Text": "...What do you mean?",
     "Enabled": true
   },
   "102040030240001": {
     "OriginalText": "あたしより強いフォースのクルーがいますよね？\nその人と交代した方がいいと……。",
-    "Text": "We have a stronger Force crew right?\nI want that person to replace me....",
+    "Text": "We have stronger Force crewmates right?\nI want those people to replace me....",
     "Enabled": true
   },
   "102040030250004": {
@@ -3101,7 +3101,7 @@
   },
   "102040030300004": {
     "OriginalText": "……悪い、艦長が部下に言う言葉じゃなかった。\nだが、これは決定だ。いいな。",
-    "Text": "Sorry, that's not something a Captain should\nsay. But, this is my decision. Understood!",
+    "Text": "Sorry, that's not something a Captain should\nsay. But, this is my decision. Understood?",
     "Enabled": true
   },
   "102040030310001": {
