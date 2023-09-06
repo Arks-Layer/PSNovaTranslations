@@ -2191,7 +2191,7 @@
   },
   "102020020030003": {
     "OriginalText": "デルタ・ヴァリアント、応答を！\n今の衝撃、観測できていますか？",
-    "Text": "Delta Valiant, please response!\nDid you detect the quake just now?",
+    "Text": "Delta Valiant, please respond!\nDid you detect the quake just now?",
     "Enabled": true
   },
   "102020020040007": {
@@ -3201,7 +3201,7 @@
   },
   "103000030020008": {
     "OriginalText": "現状だと４人が精一杯ですね。",
-    "Text": "With our current state, 4 people at most.",
+    "Text": "In our current state, 4 people at most.",
     "Enabled": true
   },
   "103000030030004": {
@@ -3211,67 +3211,67 @@
   },
   "103000030040004": {
     "OriginalText": "おう、来たか！",
-    "Text": "Oh, you've come!",
+    "Text": "Oh, you're here!",
     "Enabled": true
   },
   "103000030050001": {
     "OriginalText": "あたし達に何か？",
-    "Text": "What are we gonna do?",
+    "Text": "What are we doing?",
     "Enabled": true
   },
   "103000030060004": {
     "OriginalText": "前に活動人員を増やすって話をしただろ？\nその人選について相談してたんだが、\nなかなか難しくてな。",
-    "Text": "We talked about increasing the number of\npeople, right? I was consulting about the\nselection, but it was quite difficult.",
+    "Text": "We talked about increasing our active\npersonnel, right? We were discussing who to\nchoose, but it's been difficult.",
     "Enabled": true
   },
   "103000030070001": {
     "OriginalText": "人選、ですか。",
-    "Text": "Selection of people.",
+    "Text": "Who to choose, huh?.",
     "Enabled": true
   },
   "103000030080004": {
     "OriginalText": "どの部門の人村も不足してるから、\n誰でもいいっちゃいいんだが。",
-    "Text": "There is a shortage of people in every\ndepartment, but it should be not just be anyone.",
+    "Text": "There are shortages in every department,\nso it could be anyone.",
     "Enabled": true
   },
   "103000030090008": {
     "OriginalText": "そう言わず、艦長に選んでいただかないと……。",
-    "Text": "It goes without saying, the Captain will\nchoose them....",
+    "Text": "It goes without saying that it'll be\nthe Captain's decision....",
     "Enabled": true
   },
   "103000030100004": {
     "OriginalText": "いや、ここは今いる中で一番運のいい奴に\n決めてもらおうと思ってな。",
-    "Text": "No, I'm thinking of letting the luckiest guys\nhere to decide.",
+    "Text": "No, I think I'll let the luckiest guys\nhere decide.",
     "Enabled": true
   },
   "103000030110001": {
     "OriginalText": "まさか、それであたし達を！？",
-    "Text": "No way, that's us!?",
+    "Text": "You don't mean, you want us to pick!?",
     "Enabled": true
   },
   "103000030120004": {
     "OriginalText": "そういうこと。グランを使えるようになったのは\nお前らのお陰だからな！\nその運を貸してくれ！",
-    "Text": "As you said. It's because of you that we\ncan use Gran!\nLend me that luck!",
+    "Text": "That's right. It's because of you that we\ncan use Gran!\nLend me that luck!",
     "Enabled": true
   },
   "103000030125000": {
     "OriginalText": "任せて下さい！",
-    "Text": "Please leave it to us!",
+    "Text": "Leave it to us!",
     "Enabled": true
   },
   "103000030130004": {
     "OriginalText": "よし、それでこそオレの部下だ！\nお前はよく分かってる！",
-    "Text": "Alright, that's my subordinate!\nYou understand it very well!",
+    "Text": "Alright, that's my subordinate!\nYou know exactly what to do!",
     "Enabled": true
   },
   "103000030135000": {
     "OriginalText": "責任重大ですね……",
-    "Text": "This is a serious responsibility...",
+    "Text": "This is a big responsibility...",
     "Enabled": true
   },
   "103000030140004": {
     "OriginalText": "責任はちゃんと取ってやる。どんと行け！",
-    "Text": "Then take responsibility properly.\nYou can do it!",
+    "Text": "Then I'll take full responsibility.\nYou can do it!",
     "Enabled": true
   },
   "103000030150004": {
@@ -3281,7 +3281,7 @@
   },
   "103000030160008": {
     "OriginalText": "了解です。\nそれではコールドスリープ施設について、\n説明しますね。",
-    "Text": "Roger.\nThen let's talk about the Cold Sleep\nfacility, I will explain it.",
+    "Text": "Roger.\nThen let me explain the Cold Sleep Facility.",
     "Enabled": true
   },
   "103000038010000": {
@@ -3291,12 +3291,12 @@
   },
   "103000040010008": {
     "OriginalText": "似上で説明は終わりです。",
-    "Text": "The explanation is over.",
+    "Text": "That concludes the explanation.",
     "Enabled": true
   },
   "103000040020001": {
     "OriginalText": "ヤバい……ね、ねぇ[ruby]相棒[/ruby]、覚えられた？",
-    "Text": "Crap... Hey Buddy, do you remember it?",
+    "Text": "Crap... Hey Buddy, can you remember all that?",
     "Enabled": true
   },
   "103000040025000": {
@@ -3306,7 +3306,7 @@
   },
   "103000040030001": {
     "OriginalText": "そっか、じゃあ任せる！",
-    "Text": "I'll leave it to you then!",
+    "Text": "I see, I'll leave it to you then!",
     "Enabled": true
   },
   "103000040035000": {
@@ -3316,22 +3316,22 @@
   },
   "103000040040001": {
     "OriginalText": "だよね！ 難しいよね、これ……。",
-    "Text": "Right! It's difficult, isn't it?",
+    "Text": "Right? It's difficult, isn't it...",
     "Enabled": true
   },
   "103000040050004": {
     "OriginalText": "いいからやってみろ！\nやれば分かる。",
-    "Text": "Don't worry just try it!\nYou'll understand if you do it.",
+    "Text": "Don't worry, just try it!\nYou'll get it if you try.",
     "Enabled": true
   },
   "103000040060008": {
     "OriginalText": "今回は４人です。どうぞ。",
-    "Text": "This time we need 4 people. Go ahead.",
+    "Text": "Right now we need 4 people. Go ahead.",
     "Enabled": true
   },
   "103000041000000": {
     "OriginalText": "ガチャを実際に引くチュートリアルが入ります。\nこのガチャは必ず「カリスト」「ヨミ」「オルクス」\n「ヒュペリオン」が出ます。",
-    "Text": "We will enter a gacha tutorial. This gacha\nwill always have \"Callisto\", \"Yomi\",\n\"Orcus\", and \"Hyperion\".",
+    "Text": "We will now begin the gacha pull tutorial. This\ngacha will always have \"Callisto\", \"Yomi\",\n\"Orcus\", and \"Hyperion\".",
     "Enabled": true
   },
   "103000042010008": {
@@ -3341,37 +3341,37 @@
   },
   "103000042020009": {
     "OriginalText": "もう仕事か……。",
-    "Text": "It is work already....",
+    "Text": "Work time already...?",
     "Enabled": true
   },
   "103000042030006": {
     "OriginalText": "うむ……悪くない。",
-    "Text": "Hmm ... not bad.",
+    "Text": "Hmm... Not bad.",
     "Enabled": true
   },
   "103000042040010": {
     "OriginalText": "ふ～っ……寝覚めが悪いんだよな、最近……。",
-    "Text": "Hmm... I'm having trouble waking up lately...",
+    "Text": "Fuaaa... I've been having trouble sleeping lately...",
     "Enabled": true
   },
   "103000042050011": {
     "OriginalText": "ほっほっほ！ [ruby わたくし]私[/ruby]の出番ですかな！\n状況はよく分かりませんが、そうなのでしょう！\nこのヒュペリオンにお任せあれ！",
-    "Text": "Hohoho! It's my turn! It seems I'm not sure\nabout the situation. But leave it to me!",
+    "Text": "Hohoho! It's my turn! I'm not sure\nwhat's happening, but leave it to me!",
     "Enabled": true
   },
   "103000042060004": {
     "OriginalText": "ひとクセありそうな奴ばっかりだな？\nまぁいい。それぞれ適性のある持ち場で、\nしっかり働いてくれ。頼んだぞ！",
-    "Text": "Are these the people? Oh well. You're gonna\nwork hard in your respective field.\nIm counting on you!",
+    "Text": "Rather unique individuals, aren't they? Well, that's fine.\nEach of you will work hard in your respective fields.\nI'm counting on you!",
     "Enabled": true
   },
   "103000042070008": {
     "OriginalText": "それでは記憶確認をしますので、\nそちらで待機願います。",
-    "Text": "Then I'll check your vitals,\nplease follow me.",
+    "Text": "Then I'll check your vitals,\nso please follow me.",
     "Enabled": true
   },
   "103000042080004": {
     "OriginalText": "今起こした４人の配置が決まったら、\n彼らの仕事を手龍ってもらおうと思う。\nお前達もそのつもりでいてくれ。",
-    "Text": "The deployment of those 4 is decided, I'd\nlike to get their work done. So you guys are\ngoing to help too.",
+    "Text": "Once these four are ready,\nI'd like to start planning their work.\nYou guys should start planning as well.",
     "Enabled": true
   },
   "103000042090001": {
@@ -3381,7 +3381,7 @@
   },
   "103000043010007": {
     "OriginalText": "この件については後でフィルに決裁を……。",
-    "Text": "Fil will later approve of this matter....",
+    "Text": "I'll have Fil sign off on this later....",
     "Enabled": true
   },
   "103000043020007": {
@@ -3396,42 +3396,42 @@
   },
   "103000043040007": {
     "OriginalText": "心配ないわ……少し休めばよくなるから。",
-    "Text": "Don't worry...\nI'll get better with a little rest.",
+    "Text": "Don't worry...\nYou'll feel better after a short break.",
     "Enabled": true
   },
   "103000043050008": {
     "OriginalText": "いけません！\n具合が悪い時はちゃんと休んで下さい！",
-    "Text": "No!\nIf you feel sick,\nplease get a rest!",
+    "Text": "You musn't!\nIf you feel unwell,\nplease get proper rest!",
     "Enabled": true
   },
   "103000043060007": {
     "OriginalText": "そうは言っても、私が休んだら\n誰が任務のオペレートをするのよ？",
-    "Text": "That said, who will operate the mission if I\ntake a break?",
+    "Text": "That said, if I rest who will operate\nthe mission?",
     "Enabled": true
   },
   "103000043070007": {
     "OriginalText": "人員はまだ不十分だし、今は休めない。",
-    "Text": "The staff is still insufficient,\nI can't rest now.",
+    "Text": "We're still short-staffed,\nso I can't rest now.",
     "Enabled": true
   },
   "103000043080008": {
     "OriginalText": "無理をして体を壊されるのが一番困ります！",
-    "Text": "The most troublesome thing is to force\nyourself and break your body!",
+    "Text": "The last thing we need is for you to\noverwork until you break down!",
     "Enabled": true
   },
   "103000043090007": {
     "OriginalText": "フィルだって休んでないじゃない。",
-    "Text": "Fil is not even having a break.",
+    "Text": "Even Fil isn't taking a break.",
     "Enabled": true
   },
   "103000043100008": {
     "OriginalText": "艦長は規格外です！",
-    "Text": "The Captain is the same!",
+    "Text": "The Captain is different!",
     "Enabled": true
   },
   "103000043110007": {
     "OriginalText": "とにかく、オペレーターの代わりはいないの。\nいるなら休むわよ。",
-    "Text": "Anyway, we don't have a substitute for\noperator. If there are, I will take a break.",
+    "Text": "Anyway, we don't have a substitute\noperator. I will take a break if you find one.",
     "Enabled": true
   },
   "103000043120008": {
@@ -3441,7 +3441,7 @@
   },
   "103000043130008": {
     "OriginalText": "分かりました、代わりがいればいいんですね？\nだったら私がオペレーターをやります！",
-    "Text": "Okay, can I take your place?\nI will be the operator!",
+    "Text": "Okay, so you need a replacement, right?\nThen I'll be the operator!",
     "Enabled": true
   },
   "103000043140007": {
@@ -3451,12 +3451,12 @@
   },
   "103000043150008": {
     "OriginalText": "あくまで緊急措置ですが、\nバックアップがいた方がいいのも事実です。",
-    "Text": "It's only for emergency,\nit's better to have a back-up.",
+    "Text": "It's only because it's an emergency,\nbut it's better to have a back-up.",
     "Enabled": true
   },
   "103000043160008": {
     "OriginalText": "見よう見まねにはなりますが、\nやれるだけやってみます。",
-    "Text": "I'll learn from you,\nI will try as much as I can.",
+    "Text": "It'll be a learning experience,\nbut I'll do my best.",
     "Enabled": true
   },
   "103000043170007": {
@@ -3466,7 +3466,7 @@
   },
   "103000043180004": {
     "OriginalText": "よし、やってみろ！",
-    "Text": "Alright, give it a try!",
+    "Text": "Alright, go for it!",
     "Enabled": true
   },
   "103000043190007": {
