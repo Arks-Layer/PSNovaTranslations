@@ -3111,12 +3111,12 @@
   },
   "102040030320012": {
     "OriginalText": "ルティナさん、ギガンテスに関する報告、\nありがとうごいました。中でも\nギガンテスを燥れる、というのは興味深いです。",
-    "Text": "Thank you, Lutina, for your report on the\nGigantes. Particularly about controlling\nthe Gigantes, it's very interesting.",
+    "Text": "Thank you, Lutina, for your report on the\nGigantes. The part about controlling the Gigantes\nwas particularly interesting.",
     "Enabled": true
   },
   "102040030330012": {
     "OriginalText": "研究班の調査結果でも\nそれらしき伝置や神経が確認されていて、\n今後の重要な研究課題になりそうですよ。",
-    "Text": "Research Team's survey results also confirmed\nthose devices and nerves. It will be an\nimportant research topic in the future.",
+    "Text": "The Research Team's survey results also confirmed\nthose devices and nerves. It will be an\nimportant research topic in the future.",
     "Enabled": true
   },
   "102040030340001": {
@@ -3131,57 +3131,57 @@
   },
   "102050010010001": {
     "OriginalText": "グランの結晶を集めて\nエネルギー装にする計画はうまくいって、\n[ruby ふね]艦[/ruby]の機能維持はとりあえず心配なくなりました。",
-    "Text": "The plan to collect Gran crystals for energy\nsource went well, we don't have to worry\nabout maintenance for the time being.",
+    "Text": "The plan to collect Gran crystals for energy\nsource went well. We won't have to worry\nabout maintenance for the time being.",
     "Enabled": true
   },
   "102050010020001": {
     "OriginalText": "ところが、グランを集めている最中に\nとんでもない巨大武伝生洋、ギガンテスが出現。\nあの時は本気で死を覚悟したよ。",
-    "Text": "However, while collecting Gran, a\nridiculously huge armed Gigantes appears.\nAt that time, I thought I'm gonna die.",
+    "Text": "However, while collecting Gran, a\nridiculously huge monster called a Gigantes appeared.\nAt that time, I thought I was gonna die.",
     "Enabled": true
   },
   "102050010030001": {
     "OriginalText": "間一髪、フィルディア艦長が救援に来てくれて、\nなんとか逃げることができたけど、\nそれからがまた大変。",
-    "Text": "It was a close call, but Captain Fildia came\nto the rescue and we managed to escape,\nit will be difficult again.",
+    "Text": "It was a close call, but Captain Fildia came\nto the rescue and we managed to escape.\nUnfortunately, that was just the beginning.",
     "Enabled": true
   },
   "102050010040001": {
     "OriginalText": "ヘイロウっていう対ギガンテス用\nツールを開発したんだけど、\nそれがギガンテスに足場を作るシロモノでね。",
-    "Text": "We've developed a tool for Gigantes called\nHalo. It's a tool that can produce a platform\non a Gigantes.",
+    "Text": "We developed a device to fight Gigantes called\na Halo. It's a device that can create a platform\non a Gigantes.",
     "Enabled": true
   },
   "102050010050001": {
     "OriginalText": "なんだかんだでギガンテスは倒せたんだけど、\nこんな調子で大丈夫なのか……はぁ。",
-    "Text": "For some reason, we were able to defeat the\nGigantes, are we gonna be alright?",
+    "Text": "We were able to defeat the Gigantes somehow,\nbut at this rate... Geez.",
     "Enabled": true
   },
   "102050010060001": {
     "OriginalText": "正直言って、あたしは自分の能力に自信がない。",
-    "Text": "To be honest, I'm not confident with\nmy ability.",
+    "Text": "To be honest, I'm not confident in\nmy abilities.",
     "Enabled": true
   },
   "102050010070001": {
     "OriginalText": "だからもっと優秀な人と交代した方が、\nと言ったら艦長に怒られた。",
-    "Text": "So it's better to be replaced with a better\nperson. When I said it, the Captain is\nvery mad.",
+    "Text": "That's why I told the Captain that I should be\nreplaced by someone more capable,\nbut she got super angry.",
     "Enabled": true
   },
   "102050010080001": {
     "OriginalText": "人手不足のうちはしょうがなかったけど、\nそうじゃなくなるなら、\nあたしより強い人が戦った方がいいって！",
-    "Text": "They won't allow it because of labor\nshortage, It's better for someone stronger\nto replace me!",
+    "Text": "We had no choice when we were shorthanded,\nbut now that that's dealt with, I said\nit'd be better if they got someone stronger!",
     "Enabled": true
   },
   "102050010090001": {
     "OriginalText": "セイルやイズナは優秀なの。見てれば分かる。\nあたしの[ruby]相棒[/ruby]も……。",
-    "Text": "Sail and Izuna are excellent.\nYou can see it by looking at them.\nAnd also my Buddy....",
+    "Text": "Sail and Izuna are excellent.\nYou can see it just by looking at them.\nAnd also my Buddy....",
     "Enabled": true
   },
   "102050010100001": {
     "OriginalText": "それが分かってるから、足を引っ張りたくない。",
-    "Text": "I know that, so I won't hold them back.",
+    "Text": "I know that, and I don't want to hold them back.",
     "Enabled": true
   },
   "102050010110001": {
     "OriginalText": "活動できる人数は限られてる。\n厳しい状況はまだまだ続くんだから、\nあたしなんか……ね。",
-    "Text": "The number of people who can work is limited.\nThis tough situation is still going on.",
+    "Text": "The number of people who can work is limited.\nWe're gonna be in a tight spot for a while... Right?",
     "Enabled": true
   },
   "102050010120001": {
