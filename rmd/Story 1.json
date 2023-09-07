@@ -3711,7 +3711,7 @@
   },
   "103000050230012": {
     "OriginalText": "みんな自分のセクションのために\n働いてもらいたいと、\n取り合いになってしまったのです。",
-    "Text": "Everyone wants everyone else to work for their division.",
+    "Text": "Everyone wants everyone else to work for their own division.",
     "Enabled": true
   },
   "103000050240002": {
@@ -3731,7 +3731,7 @@
   },
   "103000050270001": {
     "OriginalText": "どこもみんな重要だから、\n譲れなくてもめてるってこと？",
-    "Text": "Is it because every section is important?",
+    "Text": "Is it because every division is important?",
     "Enabled": true
   },
   "103000050280008": {
@@ -3786,7 +3786,7 @@
   },
   "103000050380001": {
     "OriginalText": "あの！ 即決するのは難しいので、\n順番を決めたら話を聞きに行きます！",
-    "Text": "Um! It is difficult to make a prompt\ndecision, we will talk to each of you after\nwe decide the order!",
+    "Text": "Um! It is difficult to make a prompt\ndecision, so we will talk to each of you after\nwe decide the order!",
     "Enabled": true
   },
   "103000050390001": {
@@ -3796,52 +3796,52 @@
   },
   "103010010010008": {
     "OriginalText": "みなさん、お待ちしてましたよ！\nメディカルチームには、\nみなさんのお力が絶対に必要なんです！",
-    "Text": "Everyone, I've been waiting for you!\nThe medical team absolutely needs your help!",
+    "Text": "Everyone, I've been waiting for you!\nThe Medical Team absolutely needs your help!",
     "Enabled": true
   },
   "103010010020001": {
     "OriginalText": "熱烈な歓迎だけど、\nあたし達は何をすればいいの？",
-    "Text": "What a passionate welcome,\nwhat should we do?",
+    "Text": "What a passionate welcome.\nWhat should we do?",
     "Enabled": true
   },
   "103010010030008": {
     "OriginalText": "ご存じの通り、メディカルチームは\n[ruby ふね]艦[/ruby]のクルー全員の命を預かる\nとても大切なセクションなんです。",
-    "Text": "As you know, the medical team is a very\nimportant section that saves the lives of all\nthe crew of the ship.",
+    "Text": "As you know, the Medical Team is a very\nimportant division that saved the lives of all\nthe crew of the ship.",
     "Enabled": true
   },
   "103010010040008": {
     "OriginalText": "ですが現状、メディカルチームの機村は\nとても充実しているとは言えません。",
-    "Text": "However, at the moment, the equipment of the\nmedical team is not very substantial.",
+    "Text": "However, at the moment, the Medical Team's\nequipment is lacking.",
     "Enabled": true
   },
   "103010010050003": {
     "OriginalText": "ちょっと心細い、かも……。",
-    "Text": "You're a bit helpless....",
+    "Text": "That's a little depressing....",
     "Enabled": true
   },
   "103010010060008": {
     "OriginalText": "そうなんです！ これから活動人員も増えるのに\nメディカルチームがこんな状態では、\n私、心配で、心配で……。",
-    "Text": "Right! The number of active people will\nincrease from now, but the medical team is\nin such a state, I'm very worried...",
+    "Text": "Right! With the number of active\npersonnel increasing, the Medical Team's\ncurrent state worries me...",
     "Enabled": true
   },
   "103010010070001": {
     "OriginalText": "ま、まあ話は分かりました。\nそれで、何をすればいいのかって\nことなんですけど……。",
-    "Text": "Well, I understand you,\nso what should we do ...",
+    "Text": "W-well, I understand you,\nbut what should we do...",
     "Enabled": true
   },
   "103010010080008": {
     "OriginalText": "まずはグランです！\nグランがなければ医療機村も動きませんから！",
-    "Text": "First is Gran!\nWithout Gran, the medical equipment\nwouldn't work either.",
+    "Text": "First is Gran!\nWithout Gran, the medical equipment\nwill not function!",
     "Enabled": true
   },
   "103010010090008": {
     "OriginalText": "それから施設拡張と、機村増設のための資村を！\nそれから、それから……！",
-    "Text": "And then, materials for facility expansion\nand equipment upgrade!\nAnd many more...!",
+    "Text": "And then, materials for facility expansion\nand equipment upgrades!\nAnd so much more...!",
     "Enabled": true
   },
   "103010010100002": {
     "OriginalText": "分かったから落ち着きなって！",
-    "Text": "I understand, so calm down!",
+    "Text": "I got it already, so calm down!",
     "Enabled": true
   },
   "103010010110003": {
@@ -3851,27 +3851,27 @@
   },
   "103010010120001": {
     "OriginalText": "なるほど……セイルもいるし、\nメディカルの充実は重要かもね？",
-    "Text": "I see... there's also Sail,\nmedical upgrade may be important.",
+    "Text": "I see... there's also people like Sail,\nso medical upgrades may be important, right?",
     "Enabled": true
   },
   "103010010130002": {
     "OriginalText": "オレが何だって？",
-    "Text": "Me, come again?",
+    "Text": "Hold on, me?",
     "Enabled": true
   },
   "103010010140001": {
     "OriginalText": "だってあんた、すぐモノメイト使うじゃない。",
-    "Text": "That's because you always don't use\nyour Monomates.",
+    "Text": "That's because you always use\nall your Monomates.",
     "Enabled": true
   },
   "103010010150002": {
     "OriginalText": "それはオレが常に、\n最前線で戦ってるってことだろ！",
-    "Text": "That's for people on the frontlines!",
+    "Text": "That's cause I'm on the frontlines!",
     "Enabled": true
   },
   "103010010160001": {
     "OriginalText": "へー、そうだったんだぁ？\nただ攻撃を避けるのが下手なのかと思ってたー。",
-    "Text": "Hmm, is that so?\nI just thought you're not good at avoiding\nattacks.",
+    "Text": "Hmm, is that so?\nI just thought you're bad at dodging\nattacks.",
     "Enabled": true
   },
   "103010010170002": {
@@ -3881,7 +3881,7 @@
   },
   "103010010180001": {
     "OriginalText": "何よ！ フォースだからってなめないでよね！",
-    "Text": "What!\nI don't want to try it because I'm a Force!",
+    "Text": "What!?\nI'm not gonna do that 'cause I'm a Force!",
     "Enabled": true
   },
   "103010010190003": {
@@ -3891,12 +3891,12 @@
   },
   "103010010200008": {
     "OriginalText": "だっ、大丈夫かな……？\n任せるのが少し不安になってきました……。",
-    "Text": "Are you gonna be okay?\nI'm a bit worried about leaving it to you....",
+    "Text": "A-are they gonna be okay?\nI'm a bit worried about leaving it to them....",
     "Enabled": true
   },
   "103010010210008": {
     "OriginalText": "そうだ！ こんな時はメディカルチェックです！",
-    "Text": "That's it!\nIt's time for medical checkup!",
+    "Text": "That's it!\nIt's time for a medical checkup!",
     "Enabled": true
   },
   "103010010220002": {
