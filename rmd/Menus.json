@@ -3561,7 +3561,7 @@
   },
   "22778": {
     "OriginalText": "[a 03]追加コンテンツが無効になっているため、\nマルチプレイを開始できません。\n有効にするには、全ての追加コンテンツを\n再度取得してください。[b]",
-    "Text": "[a 03]Since you are missing additional content,\nyou cannot start multiplayer.\nTo enable it, please get\nall of the additional content again.[b]",
+    "Text": "[a 03]Since you are missing additional content,\nyou cannot start multiplayer.\nPlease download\nall of the additional content again.[b]",
     "Enabled": true
   },
   "22801": {
