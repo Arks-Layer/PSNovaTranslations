@@ -1,12 +1,12 @@
 {
   "100000010010013": {
     "OriginalText": "お願い……わたしの[ruby ほし]惑星[/ruby]を……助けて。",
-    "Text": "Please... help save my planet!",
+    "Text": "Please... help save my planet.",
     "Enabled": true
   },
   "100000010020017": {
     "OriginalText": "誰も、助けに来てくれないの？",
-    "Text": "No one... is coming to help you?",
+    "Text": "No one is coming to help you?",
     "Enabled": true
   },
   "100000010030013": {
@@ -31,7 +31,7 @@
   },
   "100000010070017": {
     "OriginalText": "約束する。必ず会いに行くよ。そして……\n僕は君の、たったひとりのための英雄になる！",
-    "Text": "Then I promise we'll meet again! And...\nwhen we do, I'll be your one and only hero!",
+    "Text": "Then I promise we'll meet again. And...\nwhen we do, I'll be your one and only hero!",
     "Enabled": true
   },
   "100010010010000": {
@@ -106,7 +106,7 @@
   },
   "100010020120008": {
     "OriginalText": "特殊惑星探査隊は直接ワープ接続できない惑星を\n探査することが多いため、コールドスリープで\n人員を運び、現地に滞在して惑星探索を行います。",
-    "Text": "The Special Planetary Exploration Group cannot\nwarp to unexplored planets, so most personnel\nremain in cold sleep until arrival.",
+    "Text": "The Special Planetary Exploration Group cannot\nwarp to unexplored planets, so most personnel\nremain in Cold Sleep until arrival.",
     "Enabled": true
   },
   "100010020130008": {
@@ -291,7 +291,7 @@
   },
   "100010035150001": {
     "OriginalText": "かのっ！？ 何てこと言うんですかっ！！",
-    "Text": "It's a Him!? What am I supposed to say now!!",
+    "Text": "Girl!? What am I supposed to say now!!",
     "Enabled": true
   },
   "100010035155001": {
@@ -386,7 +386,7 @@
   },
   "100010050010007": {
     "OriginalText": "全クルーへ。本艦はこれより惑星マキアに緊急着陸します。\n各自、衝撃に備えなさい。",
-    "Text": "To all the crew. Our ship is undergoing an\nemergency landing on the planet Makhia.\nPlease prepare for impact.",
+    "Text": "To all crew. Our ship is undergoing an\nemergency landing on the planet Makhia.\nPlease prepare for impact.",
     "Enabled": true
   },
   "100010050020005": {
@@ -396,12 +396,12 @@
   },
   "100010050030014": {
     "OriginalText": "角度が深すぎる！ 修正しろ！",
-    "Text": "The angle is too deep! Revise it!",
+    "Text": "The angle is too deep! Correct it!",
     "Enabled": true
   },
   "100010050040005": {
     "OriginalText": "出力が足りません、\n姿勢と角度維持が限界です……！",
-    "Text": "We can't!\nThe ship's engines are at their limits just maintaining the angles!",
+    "Text": "We can't,\nthe ship's engines are at their limits just maintaining the angle...!",
     "Enabled": true
   },
   "100010050050007": {
@@ -411,17 +411,17 @@
   },
   "100010050060014": {
     "OriginalText": "この速度では、大気圏を抜けられても地表に撃突するぞ！",
-    "Text": "At this rate, we'll miss the\natmosphere and hit the ground!",
+    "Text": "At this rate, we'll hit the \nsurface even if we make it through the atmosphere!",
     "Enabled": true
   },
   "100010050070005": {
     "OriginalText": "くっ、何か手は……？",
-    "Text": "Damn it!\nIs there another way?-",
+    "Text": "Damn it!\nIs there another way...?",
     "Enabled": true
   },
   "100010050080014": {
     "OriginalText": "滅速しろ！",
-    "Text": "At lightning speed!",
+    "Text": "Quickly!",
     "Enabled": true
   },
   "100010050090005": {
@@ -436,12 +436,12 @@
   },
   "100010050110005": {
     "OriginalText": "全エネルギー、艦首シールドに回せ！ \n一瞬でいい、保ってくれよ……。",
-    "Text": "Focus all energy to the ship's deck shield!\nKeep it all in one place.",
+    "Text": "Focus all energy to the ship's deck shield!\nHold it for just a moment....",
     "Enabled": true
   },
   "100010050120007": {
     "OriginalText": "衝撃、来ます！！",
-    "Text": "Incoming impact!!",
+    "Text": "Brace for impact!!",
     "Enabled": true
   },
   "100010060010014": {
@@ -451,12 +451,12 @@
   },
   "100010060020005": {
     "OriginalText": "無事、とは言えませんね……この状況は。",
-    "Text": "I wouldn't say that... In this situation.",
+    "Text": "I wouldn't say that... in this situation.",
     "Enabled": true
   },
   "100010060030007": {
     "OriginalText": "各セクション、\n被害状況を早急に確認、報告しなさい。",
-    "Text": "All sections,\nplease report all damages as soon as possible.",
+    "Text": "All sections,\nplease report all damage as soon as possible.",
     "Enabled": true
   },
   "100010060040014": {
@@ -471,22 +471,22 @@
   },
   "100010060060007": {
     "OriginalText": "機関室より報告、フォトン・ドライブは完全に停止。",
-    "Text": "Reports from the engine room,\nPhoton Drive has shut down completely.",
+    "Text": "Reports from the engine room,\nthe Photon Drive has shut down completely.",
     "Enabled": true
   },
   "100010060070014": {
     "OriginalText": "どうなっているのだ……調査を急げ。",
-    "Text": "What's going on- start investigating immediately!",
+    "Text": "What's going on... start investigating immediately.",
     "Enabled": true
   },
   "100010060080005": {
     "OriginalText": "私が原因調査を統括します。\nドライブが回復しなければ、[ruby ふね]艦[/ruby]の機能は停止してしまいますからね。",
-    "Text": "I'll be in charge of this investigation.\nIf the drive hasn't recovered,\nthe whole ship will stop functioning.",
+    "Text": "I'll be in charge of this investigation.\nIf the drive doesn't recover,\nthe whole ship will stop functioning.",
     "Enabled": true
   },
   "100010060090014": {
     "OriginalText": "だが、最悪の事態も考えねばなるまい。",
-    "Text": "But- I can't think of anything worse than that.",
+    "Text": "However, we must also consider the worst case scenario.",
     "Enabled": true
   },
   "100010060100005": {
@@ -496,7 +496,7 @@
   },
   "100010060110014": {
     "OriginalText": "キサラ、動ける人員を集めてくれ。\nこの[ruby ほし]惑星[/ruby]との[ruby いくさ]戦[/ruby]を始めるぞ！",
-    "Text": "Kisara, gather all available personnel.\nLet's begin our activities on this planet!",
+    "Text": "Kisara, gather all available personnel.\nLet's begin our battle against this planet!",
     "Enabled": true
   },
   "100010060120007": {
@@ -541,7 +541,7 @@
   },
   "101010010040004": {
     "OriginalText": "災難だったな、新人！",
-    "Text": "What a mess.\nHey, rookie!",
+    "Text": "What a mess,\nrookie!",
     "Enabled": true
   },
   "101010010050001": {
@@ -586,12 +586,12 @@
   },
   "101010020060004": {
     "OriginalText": "惑星探査隊は観光じゃないんだぞ。\n事故も戦死も覚悟の上さ。\nもっとも、戦う前に死ぬのはやりきれないがな。",
-    "Text": "This isn't a sightseeing trip,they were\nprepared to die. Though, dying before\neven seeing battle...",
+    "Text": "This isn't a sightseeing trip. They were\nprepared to die. Though, dying before\neven seeing battle...",
     "Enabled": true
   },
   "101010020070004": {
     "OriginalText": "問題は[ruby ふね]艦[/ruby]の方だ。\nフォトンドライブが完全に死んで、\nまったく動かないらしい。",
-    "Text": "As for the ship,the Photon Drive is\ncompletely dead. It can't move at all.",
+    "Text": "As for the ship, the Photon Drive is\ncompletely dead. It can't move at all.",
     "Enabled": true
   },
   "101010020080001": {
@@ -631,12 +631,12 @@
   },
   "101010020150004": {
     "OriginalText": "何を言っているんだ？",
-    "Text": "What!?",
+    "Text": "What are you talking about!?",
     "Enabled": true
   },
   "101010020160051": {
     "OriginalText": "武器もフォトンアーツも使えないんです！\nマグナス艦長を中心に防衛線を展開し、\n撤退を開始していますが、長くは保ちません！",
-    "Text": "Their weapons are no good too! They're\nholding around the Captain, attempting\nretreat, but they won't last long like this!",
+    "Text": "Their weapons and Photon Arts are no good too!\nThey're holding around the Captain and attempting\nretreat, but they won't last long like this!",
     "Enabled": true
   },
   "101010020170051": {
@@ -661,7 +661,7 @@
   },
   "101010020210053": {
     "OriginalText": "ケガの手当なんて受けてられるか！ 俺も行く！",
-    "Text": "I'm hurt, but I don't care, I will go!",
+    "Text": "I'm hurt, but I don't care! I'll go!",
     "Enabled": true
   },
   "101010020220054": {
@@ -681,7 +681,7 @@
   },
   "101010020250055": {
     "OriginalText": "痛いのなんの言ってる場合じゃねえ！ 行くぞ！",
-    "Text": "I don't care about the pain, I'm going!",
+    "Text": "I don't care about the pain! I'm going!",
     "Enabled": true
   },
   "101010020260056": {
@@ -691,12 +691,12 @@
   },
   "101010020270001": {
     "OriginalText": "すごい……ケガ人もいるのに、\nみんなやる気だ！！\nあたし達も行こう！！",
-    "Text": "Amazing, even though they're hurt...\nEveryone's really feeling it!!\nHey, We should go too!!",
+    "Text": "Amazing, even though they're hurt...\nEveryone's really feeling it!!\nHey, we should go too!!",
     "Enabled": true
   },
   "101010030010001": {
     "OriginalText": "はぁ、はぁ……",
-    "Text": "Huff, huff",
+    "Text": "Huff, huff...",
     "Enabled": true
   },
   "101010030011001": {
@@ -761,7 +761,7 @@
   },
   "101010030090001": {
     "OriginalText": "『グラン』？",
-    "Text": "'Gran?",
+    "Text": "'Gran'?",
     "Enabled": true
   },
   "101010030091001": {
@@ -786,12 +786,12 @@
   },
   "101010030130001": {
     "OriginalText": "そっか……ありがとう！",
-    "Text": "Alright...thanks!",
+    "Text": "Alright... thanks!",
     "Enabled": true
   },
   "101010030131001": {
     "OriginalText": "このお礼は必ずするから！ ",
-    "Text": "We'll make this up to you!",
+    "Text": "We'll make it up to you!",
     "Enabled": true
   },
   "101010030132001": {
@@ -831,7 +831,7 @@
   },
   "101010040040004": {
     "OriginalText": "あなたが危険を感じるとは……！",
-    "Text": "What is it that is dangerous?",
+    "Text": "I'm surprised you can sense danger...!",
     "Enabled": true
   },
   "101010040050014": {
@@ -851,7 +851,7 @@
   },
   "101010040070004": {
     "OriginalText": "お前達！？ その武器はどうした！？",
-    "Text": "You guys!?\nBut how is your weapon working?",
+    "Text": "You guys!?\nHow are your weapons working?",
     "Enabled": true
   },
   "101010040080001": {
@@ -1201,7 +1201,7 @@
   },
   "101020030010000": {
     "OriginalText": "ここには『クエストチュートリアル』が入る予定です。",
-    "Text": "From now on, you will enter the \"Quest Tutorial\".",
+    "Text": "You're now entering the \"Quest Tutorial\".",
     "Enabled": true
   },
   "101020040005001": {
@@ -1371,7 +1371,7 @@
   },
   "101020050110003": {
     "OriginalText": "お恥ずかしながら……はい。",
-    "Text": "Yes...That's right.",
+    "Text": "Yes... That's right.",
     "Enabled": true
   },
   "101020050120001": {
@@ -1421,7 +1421,7 @@
   },
   "101020050210001": {
     "OriginalText": "ところで、他に生存者は？ 見かけてない？",
-    "Text": "Speaking of which,\nWhere's the rest of the advance team?",
+    "Text": "Speaking of which,\nwhere's the rest of the advance team?",
     "Enabled": true
   },
   "101020050220002": {
@@ -1466,7 +1466,7 @@
   },
   "101020060020001": {
     "OriginalText": "健康だと思いますよ。イズナは無傷でしたし、\nセイルは帰りの道中でずーっと\n『オレが艦長を支える』って語ってましたから。",
-    "Text": "They're not heavily injured\nIzuna seemed to be uninjured too.\nSail took the brunt of it.",
+    "Text": "They're not heavily injured.\nIzuna seemed to be uninjured, but\nSail took the brunt of it.",
     "Enabled": true
   },
   "101020060030004": {
@@ -1611,12 +1611,12 @@
   },
   "101030010020001": {
     "OriginalText": "あたし達の[ruby ふね]艦[/ruby]、デルタ・ヴァリアントは\n惑星マキアに墜落……あ、違った！ 不時着し、\nここでの生活……いや、サバイバルが始まった。",
-    "Text": "The Delta Valiant, has crashed into\nthe planet Makhia...is that right? Emergency\nlanding...living here...no our survival begins.",
+    "Text": "The Delta Valiant, has crashed into\nthe planet Makhia...is that right? Emergency\nlanding... our life... no, our survival begins.",
     "Enabled": true
   },
   "101030010030001": {
     "OriginalText": "この[ruby ほし]惑星[/ruby]ではあたし達が普段\nあらゆるエネルギー源として\n利用しているフォトンが使えません。",
-    "Text": "On this planet, we cannot use our Photons,\nbut instead the strange energy that is\nnative around here.",
+    "Text": "On this planet, we cannot use our Photons,\nbut we can instead use the strange energy\nnative to this planet.",
     "Enabled": true
   },
   "101030010040001": {
@@ -1631,12 +1631,12 @@
   },
   "101030010060001": {
     "OriginalText": "それも何で？ って感じだけど、\nお陰で仲間も助けられたし、グランを使える人が\n増えれば、少しはマシになりそう！",
-    "Text": "That too? But thanks to that, my friends\nwere saved, if the number of people who can\nuse Gran increases, it will be great!",
+    "Text": "I was like, \"What is this stuff?\",\nbut it saved my friends. The more people who\ncan use Gran, the better it'll get!",
     "Enabled": true
   },
   "101030010070001": {
     "OriginalText": "とはいえ、状況は最悪。\n水と食料も備蓄は少なさそうだし、[ruby ふね]艦[/ruby]の機能も\n残り少ないエネルギーで何とか動いてるだけ。",
-    "Text": "Though the situation got worse. Food supply\nseems to be scarce and the ship is still\nfunctioning with a little energy.",
+    "Text": "Though the situation is getting worse. Food supply\nseems scarce and the ship is only barely\nfuctioning on limited energy.",
     "Enabled": true
   },
   "101030010080001": {
@@ -1646,7 +1646,7 @@
   },
   "101030010090001": {
     "OriginalText": "あたし達、ずっとこの[ruby ほし]惑星[/ruby]で\n暮らすことになるかも……？\nいやいや、その前に生き延びられるのかな！？",
-    "Text": "Maybe we're stuck in this planet forever?\nNo no, I wonder if I can survive that!?",
+    "Text": "Maybe we'll be stuck in this planet forever...?\nNo no, will I even survive that long!?",
     "Enabled": true
   },
   "101030010100001": {
@@ -1656,7 +1656,7 @@
   },
   "101030010110001": {
     "OriginalText": "でも、[ruby]相棒[/ruby]と一緒だし、\nそれは心強い、かも……？",
-    "Text": "But if I'm with my buddy,\nwill it be reassuring?",
+    "Text": "But if I'm with my buddy,\nwill it be alright...?",
     "Enabled": true
   },
   "102000010010000": {
@@ -1666,7 +1666,7 @@
   },
   "102010020010004": {
     "OriginalText": "おぅらぁー！ どうだ！",
-    "Text": "Ha! How is it!?",
+    "Text": "Ha! How's this!?",
     "Enabled": true
   },
   "102010020020001": {
@@ -1676,12 +1676,12 @@
   },
   "102010020030004": {
     "OriginalText": "トレーニングルームに行くヒマがねえんだよ。\n艦長は忙しいんでな。",
-    "Text": "I don't have time to go to the training room.\nI'm busy you know.",
+    "Text": "I don't have time to go to the training room.\nI'm busy, you know.",
     "Enabled": true
   },
   "102010020040002": {
     "OriginalText": "これが艦長の『[ruby ーニ・]明紅[/ruby]』……美しい。",
-    "Text": "So this is the Captain's \"Morning Red\"...\nit's beautiful.",
+    "Text": "So this is the Captain's \"Morning Red\"...\nIt's beautiful.",
     "Enabled": true
   },
   "102010020050003": {
@@ -1691,22 +1691,22 @@
   },
   "102010020060004": {
     "OriginalText": "お前らを呼んだのは他でもない。レイヴァン！",
-    "Text": "For the reason I called you.\nRaven please!",
+    "Text": "I called you all here for a reason.\nRaven!",
     "Enabled": true
   },
   "102010020070005": {
     "OriginalText": "はい。まず、君達のお陰でグランの研究が進み、\n様々な事実が現在進行形で分祈、解明され、\n希望が見え始めていることを報告しましょう。",
-    "Text": "Yes. First of all, thanks to you there's a\nprogress in Gran Research, we are hoping the\nresults will come out sooner.",
+    "Text": "Yes. First of all, thanks to you\nour research into Gran is progressing,\nand we are beginning to see the light of hope.",
     "Enabled": true
   },
   "102010020080001": {
     "OriginalText": "あたし達、そんなにすごいことしましたっけ？",
-    "Text": "Did we do something amazing?",
+    "Text": "Did we do anything special?",
     "Enabled": true
   },
   "102010020090007": {
     "OriginalText": "早速だけど次の任務も決まってるから、\n覚悟しておきなさい。",
-    "Text": "Without delay, your next mission has been\ndecided, be prepared.",
+    "Text": "It's a little early, but I have your next mission.\nPrepare yourselves.",
     "Enabled": true
   },
   "102010020100001": {
@@ -1716,12 +1716,12 @@
   },
   "102010020110004": {
     "OriginalText": "現在、人員は[ruby ふね]艦[/ruby]の維持に必要な数を残して、\n残りはコールドスリープさせてある。",
-    "Text": "Currently, only few people are allowed to\nleave because of the ship maintenance, the\nothers are still in Cold Sleep.",
+    "Text": "Currently, only a few people are allowed to\nleave because of ship maintenance, while the\nothers are still in Cold Sleep.",
     "Enabled": true
   },
   "102010020120004": {
     "OriginalText": "動ける戦闘要員はお前ら４人だけだ。\nしっかり頼むぞ。",
-    "Text": "Only four of you can go as of now.\nSo good luck to you.",
+    "Text": "Only the four of you can go as of now.\nGood luck to you.",
     "Enabled": true
   },
   "102010020130002": {
@@ -1731,32 +1731,32 @@
   },
   "102010020140001": {
     "OriginalText": "ちょっと！？ 安請け合いしすぎ！",
-    "Text": "Wait!? You're way too considerate!",
+    "Text": "Wait a sec! You're not taking this seriously!",
     "Enabled": true
   },
   "102010020150003": {
     "OriginalText": "わたし達だけで大丈夫でしょうか……？",
-    "Text": "Can we really do it?",
+    "Text": "Can we really do this by ourselves?",
     "Enabled": true
   },
   "102010020160001": {
     "OriginalText": "だっ、大丈夫よ！ たぶん！",
-    "Text": "Ah, we can do it! Maybe!",
+    "Text": "W-we can do it! Probably!",
     "Enabled": true
   },
   "102010020170002": {
     "OriginalText": "お前はどっちなんだよ！？",
-    "Text": "Which side are you!?",
+    "Text": "Which is it!?",
     "Enabled": true
   },
   "102010020180001": {
     "OriginalText": "うるさいわね！ 極端なのよあんたは！",
-    "Text": "You're too noisy!\nAnd you're way too intense!",
+    "Text": "You're being too loud!\nAnd you're way too intense!",
     "Enabled": true
   },
   "102010020190003": {
     "OriginalText": "けんかはよくないですよ？ ね？ ね？",
-    "Text": "Please don't fight",
+    "Text": "Fighting's bad, right? Right?",
     "Enabled": true
   },
   "102010020200004": {
@@ -1796,7 +1796,7 @@
   },
   "102010020250002": {
     "OriginalText": "ああ、外にあるやつだな？\nあそこに行けばいいのか。",
-    "Text": "Ah, it's the one outside?\nWe should go over there then.",
+    "Text": "Ah, it's outside, isn't it?\nWe should head over, then.",
     "Enabled": true
   },
   "102010020260005": {
@@ -1816,17 +1816,17 @@
   },
   "102010020290001": {
     "OriginalText": "分かりました。\nユノにはお礼を言わなくちゃいけないし、\nまた会えるといいな……。",
-    "Text": "Okay.\nI have to thank Juno,\nI hope to see her again.",
+    "Text": "Okay.\nI have to thank Juno,\nso I hope to see her again.",
     "Enabled": true
   },
   "102010025010012": {
     "OriginalText": "初めまして、みなさん。シャロンと申します。\nレイヴァン副長の助手として\nグランの研究を担当しています。",
-    "Text": "Nice to meet you everyone. I'm Sharon.\nAssistant of XO Raven and I'm in charge\nof Gran research.",
+    "Text": "Nice to meet you, everyone. I'm Sharon.\nAssistant of Director Raven and\nhead of Gran research.",
     "Enabled": true
   },
   "102010025020012": {
     "OriginalText": "みなさんのお陰で、研究がはかどっています！\n今後もよろしくお願いしますね！",
-    "Text": "Thanks to you, the research is progressive!\nI'm looking forward to work with you!!",
+    "Text": "Thanks to you, the research is progressing!\nI look forward to working with you!!",
     "Enabled": true
   },
   "102010025030001": {
@@ -1836,7 +1836,7 @@
   },
   "102010025040012": {
     "OriginalText": "まずは、これを見て下さい！",
-    "Text": "Look at this first!",
+    "Text": "First, take a look at this!",
     "Enabled": true
   },
   "102010025050003": {
@@ -1851,7 +1851,7 @@
   },
   "102010025070012": {
     "OriginalText": "この[ruby ほし]惑星[/ruby]特有のエネルギー、\n『グラン』を結晶化したものです。",
-    "Text": "The peculiar energy from this planet,\nIt's a crystallized Gran.",
+    "Text": "This is crystallized Gran,\nthe energy unique to this planet.",
     "Enabled": true
   },
   "102010025080002": {
@@ -1861,7 +1861,7 @@
   },
   "102010025090012": {
     "OriginalText": "ええ、グランは結晶化しやすい性質があり、\nエネルギー源として利用できそうなんです。",
-    "Text": "Yes, Gran has the property to be easily\ncrystallized, It seems that it can be used\nas an energy source.",
+    "Text": "Yes, Gran seems to crystallize easily\nand could be used as an energy source.",
     "Enabled": true
   },
   "102010025100003": {
@@ -1871,7 +1871,7 @@
   },
   "102010025110012": {
     "OriginalText": "そうです！ 現在、研究班ではこのグラン結晶を\nフォトンの代用として使えないか、\n検証作業を進めています。",
-    "Text": "That's right! currently, the research team\ncan use this Gran crystal as a substitute\nfor Photons.",
+    "Text": "That's right! Currently, the research team\ncan use this Gran crystal as a substitute\nfor Photons.",
     "Enabled": true
   },
   "102010025120002": {
@@ -1881,7 +1881,7 @@
   },
   "102010025130012": {
     "OriginalText": "はい！ 実現すれば、艦内設備の機能維持や、\n機村を使っての修理作業も可能なはずです。",
-    "Text": "Yes! If implemented, the functions of\nfacilities will be maintained, repairs using\nthe equipment will be possible.",
+    "Text": "Yes! If implemented, the functions of\nfacilities will be maintained and repairs using\nequipment will be possible.",
     "Enabled": true
   },
   "102010025140001": {
@@ -1896,7 +1896,7 @@
   },
   "102010025160001": {
     "OriginalText": "グランを集める？ どうやるんですか？",
-    "Text": "Collect Gran? How do we do it?",
+    "Text": "Collect Gran? How so?",
     "Enabled": true
   },
   "102010025170012": {
@@ -1906,7 +1906,7 @@
   },
   "102010025180003": {
     "OriginalText": "大気中のグランを結晶化するより、\nすでに結晶化したものを探してくる方が\nより効率がいいと……？",
-    "Text": "Rather than crystallizing Gran, is it better\nto look for something that is already\ncrystallized?",
+    "Text": "Rather than crystallizing Gran, isn't it better\nto look for Gran that is already\ncrystallized?",
     "Enabled": true
   },
   "102010025190012": {
@@ -1921,7 +1921,7 @@
   },
   "102010025200012": {
     "OriginalText": "期待していますよ！\nあなた達の活躍にかかっています！",
-    "Text": "I'm looking forward to it!\nI'm depending on your success!",
+    "Text": "I'm looking forward to it!\nWe're depending on your success!",
     "Enabled": true
   },
   "102010025205000": {
@@ -1931,7 +1931,7 @@
   },
   "102010025210012": {
     "OriginalText": "フィルディア艦長もレイヴァン副長も\n期待しているんです。頑張りましょう！",
-    "Text": "Captain Fildia and XO Raven are looking\nforward to it. Let's do our best!",
+    "Text": "Captain Fildia and Director Raven are looking\nforward to it. Let's do our best!",
     "Enabled": true
   },
   "102010025220012": {
@@ -1961,7 +1961,7 @@
   },
   "102010040030001": {
     "OriginalText": "本当ですか！",
-    "Text": "Really!",
+    "Text": "Really?!",
     "Enabled": true
   },
   "102010040040012": {
@@ -1986,7 +1986,7 @@
   },
   "102010040080005": {
     "OriginalText": "現状、供給ルートが他にありませんからね。",
-    "Text": "Currently, there is no\nother alternatives.",
+    "Text": "Currently, there is no\nother alternative.",
     "Enabled": true
   },
   "102010040090001": {
@@ -1996,17 +1996,17 @@
   },
   "102010040100004": {
     "OriginalText": "ただ集めるだけじゃダメだからな。\n現状維持してもしょうがねえんだ！",
-    "Text": "Well it's the only way. Can't be helped,\nif it is to improve our current state.",
+    "Text": "Well, it's the only way. Can't be helped,\nif it is to improve our current state.",
     "Enabled": true
   },
   "102010040110004": {
     "OriginalText": "余るぐらいにグランをかき集めて、\n[ruby ふね]艦[/ruby]の機能を回復すれば、\nもっと動ける人員を増やせるんだよ！",
-    "Text": "We have to gather more Gran,\nif the function of the ship is restored,\nmore people can help.",
+    "Text": "We have to gather more Gran;\nif the function of the ship is restored,\nmore people can help.",
     "Enabled": true
   },
   "102010040120001": {
     "OriginalText": "理想は分かりますけど……。\nそんな簡単にいくかなぁ？",
-    "Text": "I understand our goal....\nI wonder if it will be easy?",
+    "Text": "I understand our goal, but...\nI wonder if it will be easy?",
     "Enabled": true
   },
   "102010040130004": {
@@ -2046,7 +2046,7 @@
   },
   "102010040180001": {
     "OriginalText": "……いつか余裕っちゅ！\nって報告してやりますよ！",
-    "Text": "Someday if we get back, I'll report you!",
+    "Text": "... If we get back someday, I'll report you!",
     "Enabled": true
   },
   "102010040190004": {
@@ -2076,7 +2076,7 @@
   },
   "102010040240005": {
     "OriginalText": "……ノーコメントで。",
-    "Text": "No comment.",
+    "Text": "... No comment.",
     "Enabled": true
   },
   "102020015010001": {
@@ -2091,7 +2091,7 @@
   },
   "102020015030002": {
     "OriginalText": "やったな！ これだけでかいのがあるなら、\n探せばもっとありそうだぞ！",
-    "Text": "Yay! this is all what we need,\nbet we can find more here!",
+    "Text": "Yay! This is all what we need,\nbet we can find more here!",
     "Enabled": true
   },
   "102020015040001": {
@@ -2131,17 +2131,17 @@
   },
   "102020015110003": {
     "OriginalText": "それは気付きませんでした。",
-    "Text": "I didn't noticed it.",
+    "Text": "I didn't notice it.",
     "Enabled": true
   },
   "102020015120001": {
     "OriginalText": "[ruby]相棒[/ruby]もだけど、みんなすごいよ。\nもう自信持って戦えてるんだから。",
-    "Text": "Including buddy, everyone is amazing.\nI'm only confident with my fighting.",
+    "Text": "Everyone is amazing, even Buddy.\nI'm only confident in my fighting.",
     "Enabled": true
   },
   "102020015125000": {
     "OriginalText": "ルティナも自信を持とう",
-    "Text": "Have more confidence Lutina.",
+    "Text": "Have more confidence, Lutina.",
     "Enabled": true
   },
   "102020015130001": {
@@ -2171,7 +2171,7 @@
   },
   "102020015161002": {
     "OriginalText": "１００個は無理でも\nもういくつか見つけられたら、\nこの辺にもっとあるって確信できるだろ？",
-    "Text": "Even 100 is impossible, I think we can find\nsome more, we're sure there's still more\nhere, right?",
+    "Text": "Even if 100 is impossible, I think if we find\nsome, there's bound to be more\nhere, right?",
     "Enabled": true
   },
   "102020015170001": {
@@ -2191,12 +2191,12 @@
   },
   "102020020030003": {
     "OriginalText": "デルタ・ヴァリアント、応答を！\n今の衝撃、観測できていますか？",
-    "Text": "Delta Valiant, please response!\nHave you detected the quake just now?",
+    "Text": "Delta Valiant, please response!\nDid you detect the quake just now?",
     "Enabled": true
   },
   "102020020040007": {
     "OriginalText": "観測？ 何を言っているの！？\nさっさと逃げなさい！！",
-    "Text": "Detected? What are you saying!?\nRun away quickly!!",
+    "Text": "Detect? What are you saying!?\nGet out of there!!",
     "Enabled": true
   },
   "102020020050007": {
@@ -2206,7 +2206,7 @@
   },
   "102020020060007": {
     "OriginalText": "笑ったりしないから、逃げ回りなさい！",
-    "Text": "This is not a joke, keep running around!",
+    "Text": "This isn't a joke, keep running around!",
     "Enabled": true
   },
   "102020020070007": {
@@ -2221,32 +2221,32 @@
   },
   "102020020090003": {
     "OriginalText": "大きすぎます……この火力では……！",
-    "Text": "It's too big... and what firepower!",
+    "Text": "It's so big... and what firepower!",
     "Enabled": true
   },
   "102020020100002": {
     "OriginalText": "だめだ、攻撃が効いてる気がしねえ！",
-    "Text": "It's no good, I don't feel like our attacks\nis working!",
+    "Text": "It's no good, I don't think our attacks\nare working!",
     "Enabled": true
   },
   "102020020110001": {
     "OriginalText": "無理だよ……死んじゃうよ！",
-    "Text": "Impossible... we're dead meat!",
+    "Text": "Impossible... We're dead meat!",
     "Enabled": true
   },
   "102020020120003": {
     "OriginalText": "どう攻めていいか、分かりません……！",
-    "Text": "How do we attack it, I don't understand...!",
+    "Text": "I don't know how we can attack...!",
     "Enabled": true
   },
   "102020020130002": {
     "OriginalText": "くそっ、一撃もらっちまった！ なんて威力だ！",
-    "Text": "Damn, I'm hit! What power!",
+    "Text": "Damn, I'm hit! It's so strong!",
     "Enabled": true
   },
   "102020030010002": {
     "OriginalText": "援軍はまだなのか！！",
-    "Text": "Is there no reinforcements yet?",
+    "Text": "Have the reinforcements not arrived yet?!",
     "Enabled": true
   },
   "102020030020004": {
@@ -2256,7 +2256,7 @@
   },
   "102020030021004": {
     "OriginalText": "待たせたな！",
-    "Text": "Kept you waiting, huh..!?",
+    "Text": "Kept you waiting, huh!?",
     "Enabled": true
   },
   "102020030030003": {
@@ -2271,7 +2271,7 @@
   },
   "102020030050004": {
     "OriginalText": "るせぇええええええええええええっ！！",
-    "Text": "Damn!!",
+    "Text": "Damn youuuuuu!!",
     "Enabled": true
   },
   "102020030060004": {
@@ -2301,32 +2301,32 @@
   },
   "102020030081004": {
     "OriginalText": "デカブツは脳天狙いが定石だろうがッ！！",
-    "Text": "It's basic to attack the head.",
+    "Text": "It's common sense to aim for the head!!",
     "Enabled": true
   },
   "102020030090001": {
     "OriginalText": "そんなこと言われても！？",
-    "Text": "Even if you say that!?",
+    "Text": "Who said that!?",
     "Enabled": true
   },
   "102020030100004": {
     "OriginalText": "さっさと[ruby ふね]艦[/ruby]まで走れ！",
-    "Text": "Run to the ship quickly!",
+    "Text": "Get back to the ship quickly!",
     "Enabled": true
   },
   "102020030101004": {
     "OriginalText": "あれのブッ殺し方は後回しだ！",
-    "Text": "Defeating it is postponed!",
+    "Text": "Defeating it will have to wait!",
     "Enabled": true
   },
   "102020030110002": {
     "OriginalText": "逃げろっていうんですか！",
-    "Text": "What do you mean we run away!",
+    "Text": "Are you saying you want us to run?!",
     "Enabled": true
   },
   "102020030120004": {
     "OriginalText": "退き際も読めねえザコがカッコつけてんじゃねえ！",
-    "Text": "Can't you hear that you need to retreat!",
+    "Text": "You gotta know when it's time to fall back!",
     "Enabled": true
   },
   "102020030130004": {
@@ -2336,12 +2336,12 @@
   },
   "102020030131004": {
     "OriginalText": "こいつらまとめて早く行け！",
-    "Text": "Get these guys and go ahead.",
+    "Text": "Take these guys and get going!",
     "Enabled": true
   },
   "102020030132004": {
     "OriginalText": "ケツは守ってやる！",
-    "Text": "I'll protect you.",
+    "Text": "I'll protect you!",
     "Enabled": true
   },
   "102030010010004": {
@@ -2356,7 +2356,7 @@
   },
   "102030010030004": {
     "OriginalText": "カッコつけるなと言っただろうが。\nあんなのは倒せる時に倒せばいいんだ。",
-    "Text": "Don't try to be cool. You should have\ndefeated it when you can.",
+    "Text": "Don't try to be cool. You'll take it\ndown when you're ready.",
     "Enabled": true
   },
   "102030010040001": {
@@ -2366,22 +2366,22 @@
   },
   "102030010050004": {
     "OriginalText": "上から攻めりゃ勝算はある。それは分かった。",
-    "Text": "If you attack from above, there\nis a chance. That's I only know now.",
+    "Text": "If you attack from above, there\nis a chance. I know that much.",
     "Enabled": true
   },
   "102030010060005": {
     "OriginalText": "問題は、どうやって上を取るかですね。",
-    "Text": "The question is, how do we get above it.",
+    "Text": "The question is, how do we get above it?",
     "Enabled": true
   },
   "102030010070003": {
     "OriginalText": "毎回、都合のいい地形があるわけではないので、\n高所から攻める、というわけには……。",
-    "Text": "We don't have a convenient terrain every\ntime to attack from a high place....",
+    "Text": "We won't have convenient terrain every\ntime to attack from above....",
     "Enabled": true
   },
   "102030010080004": {
     "OriginalText": "登ればいいじゃないか。",
-    "Text": "shouldn't we just climb it.",
+    "Text": "Why don't we just scale it?",
     "Enabled": true
   },
   "102030010090001": {
@@ -2411,12 +2411,12 @@
   },
   "102030010140012": {
     "OriginalText": "できなくもないかな、\nなんて……まだイメージだけですけど。",
-    "Text": "I wonder if it can't be done,\nI still can't visualize it. ",
+    "Text": "I wonder if it can be done...\nI still can't visualize it. ",
     "Enabled": true
   },
   "102030010150007": {
     "OriginalText": "ああ、そうそう。あの巨大な物体のことだけど、\n名称はギガンテスとします。",
-    "Text": "Ah, ok. That big thing,\nwe named it Gigantes.",
+    "Text": "Ah, ok. That big thing,\nwe're calling it a Gigantes.",
     "Enabled": true
   },
   "102030010160003": {
@@ -2451,12 +2451,12 @@
   },
   "102030010200004": {
     "OriginalText": "ふふっ！ それもいいが、\n負けたら恥ずかしくて帰ってこれないぞ！",
-    "Text": "Hehe! That's fine, if you lose, it will be\nshameful and don't even try to come back.",
+    "Text": "Hehe! That's fine, but if you lose,\nyou'll be too embarrassed to come back!",
     "Enabled": true
   },
   "102030010210007": {
     "OriginalText": "観測データを見ると、ギガンテスは他にも\n多数生息しているみたい。",
-    "Text": "Based on the observation data, it seems\nthat there are many other Gigantes\ninhabiting.",
+    "Text": "Based on our observation data, it seems\nthat there are many other Gigantes\ninhabiting the region.",
     "Enabled": true
   },
   "102030010220001": {
@@ -2481,17 +2481,17 @@
   },
   "102030010260001": {
     "OriginalText": "何をやるにもグランが必要、か。",
-    "Text": "We do really need Gran to do anything.",
+    "Text": "We do really need Gran to do anything, huh?",
     "Enabled": true
   },
   "102030010270002": {
     "OriginalText": "何もできないよりはマシだろ！",
-    "Text": "It's better than not being able to\ndo anything",
+    "Text": "It's better than not being able to\ndo anything!",
     "Enabled": true
   },
   "102030010280004": {
     "OriginalText": "そういうことだ。\nギガンテスにリベンジするぞ！",
-    "Text": "That's how it is.\nIt will be a revenge against the Gigantes!",
+    "Text": "That's how it is.\nWe'll get revenge against the Gigantes!",
     "Enabled": true
   },
   "102040010010004": {
@@ -2541,12 +2541,12 @@
   },
   "102040010100004": {
     "OriginalText": "何か変か？",
-    "Text": "Is something weird?",
+    "Text": "Is something wrong?",
     "Enabled": true
   },
   "102040010110007": {
     "OriginalText": "……自分を基準にモノを考えるの、やめない？",
-    "Text": "...Why don't you stop thinking about things\nbased on yourself?",
+    "Text": "...Can you stop thinking about things\nfrom your own perspective?",
     "Enabled": true
   },
   "102040010120004": {
@@ -2576,22 +2576,22 @@
   },
   "102040010155000": {
     "OriginalText": "大丈夫かな……？",
-    "Text": "Will it be okay...?",
+    "Text": "Will we be okay...?",
     "Enabled": true
   },
   "102040010160004": {
     "OriginalText": "大丈夫だ。お前ならやれる！ 信じろ！",
-    "Text": "You will be fine. You can do it!\nI believe in you!",
+    "Text": "You'll be fine. You can do it!\nI believe in you!",
     "Enabled": true
   },
   "102040010170005": {
     "OriginalText": "問題がひとつあります。\nヘイロウは対ギガンテス用なので、\nテストができないのですよ。",
-    "Text": "We have one problem. the Halo can only be\nused against Gigantes, so you can't test it.",
+    "Text": "We have one problem. The Halo can only be\nused against Gigantes, so you can't test it.",
     "Enabled": true
   },
   "102040010180004": {
     "OriginalText": "それはオレがやる！\nいや、お前らと一緒にやるよ！\nギガンテスをブッ殺そうぜ！",
-    "Text": "I'll do it! No, we'll do it!\nLet's defeat the Gigantes.",
+    "Text": "I'll do it! No, we'll do it!\nLet's defeat the Gigantes!",
     "Enabled": true
   },
   "102040010190002": {
@@ -2601,7 +2601,7 @@
   },
   "102040010200001": {
     "OriginalText": "艦長が一緒なら、まあ……いっか。",
-    "Text": "Well, if the Captain is with us.",
+    "Text": "Well, if the Captain is with us...\nIt should be fine.",
     "Enabled": true
   },
   "102040010210003": {
@@ -2611,7 +2611,7 @@
   },
   "102040010220007": {
     "OriginalText": "行ってらっしゃい。いい報告だけを待ってるわ。",
-    "Text": "Take care.\nI'm only waiting for a good report.",
+    "Text": "Take care.\nI await nothing but good news.",
     "Enabled": true
   },
   "102040010230012": {
@@ -2631,7 +2631,7 @@
   },
   "102040011050000": {
     "OriginalText": "ここには『ヘイロウチュートリアル』が入る予定です。",
-    "Text": "\"Halo Tutorial\" will be added here.",
+    "Text": "You're now entering the \"Halo Tutorial\".",
     "Enabled": true
   },
   "102040012010012": {
@@ -2641,17 +2641,17 @@
   },
   "102040012020012": {
     "OriginalText": "さらにヘイロウを正しく使いこなすための\nクラスを用意しました！",
-    "Text": "Additionally, we have prepared a class to use\nthe Halo correctly!",
+    "Text": "Additionally, we have prepared a class to use\nthe Halo properly!",
     "Enabled": true
   },
   "102040012030012": {
     "OriginalText": "対ギガンテス戦のエキスパート、\nその名も『バスター』です。",
-    "Text": "A class that is expert against the Gigantes,\nit's called \"Buster\".",
+    "Text": "A class that is expert against the Gigantes,\ncalled \"Buster\".",
     "Enabled": true
   },
   "102040013050000": {
     "OriginalText": "ここには『バスターチュートリアル』が入る予定です。",
-    "Text": "\"Buster Tutorial\" will be added here.",
+    "Text": "You're now entering the \"Buster Tutorial\".",
     "Enabled": true
   },
   "102040020010001": {
@@ -2666,7 +2666,7 @@
   },
   "102040020030003": {
     "OriginalText": "あれを……わたし達が……？",
-    "Text": "Did we...?",
+    "Text": "Did we... do it...?",
     "Enabled": true
   },
   "102040020040001": {
@@ -2696,32 +2696,32 @@
   },
   "102040020090001": {
     "OriginalText": "ホントですね。シャロンて天才かも？",
-    "Text": "Yeah really. Maybe Sharon is a genius?",
+    "Text": "Seriously. Maybe Sharon is a genius?",
     "Enabled": true
   },
   "102040020100004": {
     "OriginalText": "アイデアはオレだぞ！ アイデアは！",
-    "Text": "Though the idea is mine!",
+    "Text": "Though it was my idea!",
     "Enabled": true
   },
   "102040020110002": {
     "OriginalText": "さすがです艦長！ いや、今は\n『[ruby ぎょうこう]暁紅[/ruby]のフィルディア』と呼びましょう！",
-    "Text": "As expected from the Captain! No, I'm\ncalling her the \"Red Dawn, Fildia\".",
+    "Text": "As expected from the Captain! No, I'm\ncalling her the \"Red Dawn, Fildia\"!",
     "Enabled": true
   },
   "102040020120004": {
     "OriginalText": "その呼び方は恥ずかしいからよせ。",
-    "Text": "Don't, it's embarassing.",
+    "Text": "Don't say that, it's embarassing.",
     "Enabled": true
   },
   "102040020130004": {
     "OriginalText": "っと、そろそろこいつを調べる研究班が来るな。\nそっちも指示しないといけないんだった。",
-    "Text": "Well, it's about time for the research team\nto examine this guy. I have to instruct\nthat too.",
+    "Text": "Well, it's about time for the research team\nto examine this thing. I have to direct\nthat too.",
     "Enabled": true
   },
   "102040020140004": {
     "OriginalText": "ちっ、艦長ってのはこれだから……。\nじゃあな！ お前らはもう少し喜んどけ！",
-    "Text": "Tsk, just because I'm the Captain. See you\nlater! Looks like you're a little\nlively now!",
+    "Text": "Tsk, just because I'm the Captain. See you\nlater! You guys should liven up\n a little!",
     "Enabled": true
   },
   "102040020150001": {
@@ -2736,12 +2736,12 @@
   },
   "102040020170001": {
     "OriginalText": "あなたは、あの時の！？ 確か、ユノ？",
-    "Text": "You are, ah that time!? If I recall, ah Juno?",
+    "Text": "You're from, back then!? Juno, right?",
     "Enabled": true
   },
   "102040020180013": {
     "OriginalText": "はい。久しぶりですね。",
-    "Text": "Yes. Long time, no see.",
+    "Text": "Yes. Long time no see.",
     "Enabled": true
   },
   "102040020190001": {
@@ -2756,17 +2756,17 @@
   },
   "102040020210001": {
     "OriginalText": "そう……この[ruby ほし]惑星[/ruby]の人なんだよね？\nグランのことを教えてくれてありがとう！",
-    "Text": "Um... you're from this planet, right?\nThank you for telling me about Gran!",
+    "Text": "Um... you're from this planet, right?\nThank you for telling us about Gran!",
     "Enabled": true
   },
   "102040020220013": {
     "OriginalText": "あなた達を助けるために必要なことでした。",
-    "Text": "It was necessary to help you guys.",
+    "Text": "It was necessary to help you.",
     "Enabled": true
   },
   "102040020230001": {
     "OriginalText": "本当に助かったよ！ グランが使えてなかったら\n今頃どうなってたか……ユノは命の恩人だよ！",
-    "Text": "It was really helpful! What would've happen\nif we couldn't use Gran...\nYou're a lifesaver Juno.",
+    "Text": "You really saved us! Who knows what would've\nhappened if we couldn't use Gran...\nYou're a lifesaver Juno.",
     "Enabled": true
   },
   "102040020240013": {
@@ -2801,7 +2801,7 @@
   },
   "102040020300013": {
     "OriginalText": "これを燥ることが可能です。\n燥縦席はもう壊れてしまっていますが、\n燥ることができれば、きっと役立つでしょう。",
-    "Text": "It is possible to ride it. Looks like the\ncockpit is already broken, if we can control\nit, it will surely help us.",
+    "Text": "It is possible to ride it. It seems the\ncockpit is already broken, but if we can control\nit, it will surely help us.",
     "Enabled": true
   },
   "102040020310001": {
@@ -2811,7 +2811,7 @@
   },
   "102040020320001": {
     "OriginalText": "ねえユノ、グランのことも、\nギガンテスのことも、もっと教えてほしいな！",
-    "Text": "Juno, aside from Gran,\nI want to more about the Gigantes!",
+    "Text": "Hey Juno, I want to know more\nabout Gran and the Gigantes!",
     "Enabled": true
   },
   "102040020330013": {
@@ -2821,22 +2821,22 @@
   },
   "102040020340001": {
     "OriginalText": "話すと何かまずいことでもあるの？",
-    "Text": "Is there something wrong?",
+    "Text": "Can you not talk about it?",
     "Enabled": true
   },
   "102040020350013": {
     "OriginalText": "……すみません。",
-    "Text": "...sorry.",
+    "Text": "...Sorry.",
     "Enabled": true
   },
   "102040020360002": {
     "OriginalText": "いいって。\nそりゃ事情のひとつやふたつあるだろ。",
-    "Text": "Hey, you keep asking things one\nafter another.",
+    "Text": "That's okay. I'm sure you have a reason or two.",
     "Enabled": true
   },
   "102040020370013": {
     "OriginalText": "ですが、わたしはあなた達が\n無事にこの[ruby ほし]惑星[/ruby]から脱出できるよう、\nお手龍いをしたいと思っています。",
-    "Text": "But, I hope you can escape from this planet\nsafely, I want to help.",
+    "Text": "However, I want to help you escape\nfrom this planet safely.",
     "Enabled": true
   },
   "102040020380001": {
@@ -2876,22 +2876,22 @@
   },
   "102040020450002": {
     "OriginalText": "おいおい、あんまり無理強いするなよ？\n向こうにも都合ってもんがあるんだからな。",
-    "Text": "Hey, why are you forcing it too much?\nJust think of her circumstance.",
+    "Text": "Hey, don't push her too hard, okay?\nShe probably has her reasons.",
     "Enabled": true
   },
   "102040020460001": {
     "OriginalText": "聞いてみなきゃわかんないでしょ！ ねえ[ruby]相棒[/ruby]？",
-    "Text": "You'll never know if you won't listen!\nRight, Buddy?",
+    "Text": "You'll never know unless you ask!\nRight, Buddy?",
     "Enabled": true
   },
   "102040020465000": {
     "OriginalText": "ユノが嫌じゃなかったらぜひ",
-    "Text": "It's okay Juno if you wont.",
+    "Text": "That is, if you don't mind, Juno.",
     "Enabled": true
   },
   "102040020470013": {
     "OriginalText": "嫌、ではありません。でも……。",
-    "Text": "I don't hate it. But....",
+    "Text": "I'm not opposed to it. But....",
     "Enabled": true
   },
   "102040020475000": {
@@ -2911,7 +2911,7 @@
   },
   "102040020500013": {
     "OriginalText": "あ、あの……また会うのを楽しみにしています！",
-    "Text": "Um... I'm looking forward to see you again!",
+    "Text": "U-um... I'm looking forward to seeing you again!",
     "Enabled": true
   },
   "102040020510001": {
@@ -2941,17 +2941,17 @@
   },
   "102040020560002": {
     "OriginalText": "よし、戻るか！",
-    "Text": "Alright, let's return!",
+    "Text": "Alright, let's head back!",
     "Enabled": true
   },
   "102040030010005": {
     "OriginalText": "ギガンテス撃破、お見事でした。艦長。",
-    "Text": "The Gigantes is defeated, that was splendid.\nCaptain.",
+    "Text": "Splendid job defeating the Gigantes,\nCaptain.",
     "Enabled": true
   },
   "102040030020004": {
     "OriginalText": "シャロンのお陰だ。\nヘイロウ、使い心地よかったぞ。な？",
-    "Text": "Thanks to Sharon.\nThe Halo, it was really helpful, right?",
+    "Text": "Thanks to Sharon.\nThe Halo was really helpful, wasn't it?",
     "Enabled": true
   },
   "102040030025000": {
@@ -2961,12 +2961,12 @@
   },
   "102040030030004": {
     "OriginalText": "やれるものなら特別休暇でもやりたいぐらいだ。\n残念ながらそんなゆとりはないがな！",
-    "Text": "If I can do it, I want to do it even on a\nspecial break. Unfortunately, there is no\nsuch thing.",
+    "Text": "I'd take a special vacation about now\nif I could. Unfortunately, I don't have\nthat kind of luxury!",
     "Enabled": true
   },
   "102040030035000": {
     "OriginalText": "艦長はそうでしょうが……",
-    "Text": "As the Captain said....",
+    "Text": "I'm sure the Captain does, but....",
     "Enabled": true
   },
   "102040030040004": {
@@ -2986,7 +2986,7 @@
   },
   "102040030070002": {
     "OriginalText": "オレ様はもっと無茶な仕様でもよかったけどな！",
-    "Text": "I wish we have better method!",
+    "Text": "I wish there was a better way!",
     "Enabled": true
   },
   "102040030080003": {
@@ -3001,47 +3001,47 @@
   },
   "102040030100001": {
     "OriginalText": "いくらでも、は言い過ぎですよ。",
-    "Text": "No matter how much, is an overstatement.",
+    "Text": "Any amount is too much.",
     "Enabled": true
   },
   "102040030110005": {
     "OriginalText": "だが、ギガンテスを仕留めることで\n大量のグラン結晶が得られることも判明した。",
-    "Text": "But, we also found that defeating a\nGigantes can produce a large amount of\nGran crystals.",
+    "Text": "However, we also found that defeating a\nGigantes can produce a large amount of\nGran crystals.",
     "Enabled": true
   },
   "102040030120005": {
     "OriginalText": "艦長、これなら例のプランも実行できそうです。",
-    "Text": "Captain, in that case, the usual plan is\nstill executable.",
+    "Text": "Captain, in that case, we can move forward\nwith the example plan.",
     "Enabled": true
   },
   "102040030130002": {
     "OriginalText": "例のプラン？",
-    "Text": "Usual plan?",
+    "Text": "Example plan?",
     "Enabled": true
   },
   "102040030140004": {
     "OriginalText": "活動人員を増やそうと思ってな。",
-    "Text": "I'm thinking of increasing the number of\nactive people.",
+    "Text": "I'm thinking of increasing the number of\nactive personnel.",
     "Enabled": true
   },
   "102040030150004": {
     "OriginalText": "これまではグランの供給量不足で\n動かせる機村や設備に限りがあったが、\nそれも解消できそうだ。",
-    "Text": "Until now, there's a limit of equipment and\nfacilities that can be used due to the\nshortage of Gran.",
+    "Text": "Until now, there's been a limit on the equipment and\nfacilities that can be used due to the\nshortage of Gran.",
     "Enabled": true
   },
   "102040030160005": {
     "OriginalText": "建築、武伝、食料などのスペシャリストを\nコールドスリープから目覚めさせ、\n各種設備の拡充を進めるのです。",
-    "Text": "Awakening a specialist in architecture,\narms, food, and etc. from cold sleep, and\nbuild various facilities.",
+    "Text": "Awakening specialists in architecture,\narms, food, and etc. from Cold Sleep and\nbuild various facilities.",
     "Enabled": true
   },
   "102040030170002": {
     "OriginalText": "そうか！ それでもっと働ける人を増やせば！",
-    "Text": "Really! So we can increase our workforce!",
+    "Text": "Of course! So we can increase our workforce!",
     "Enabled": true
   },
   "102040030180003": {
     "OriginalText": "グランの供給量もさらに増えますし、\n行動範囲も広げられそう……？",
-    "Text": "The supply of Gran will also increase, Is it\npossible to expand our field of activities?",
+    "Text": "Our Gran supply will increase, and the scope of our actions will expand...?",
     "Enabled": true
   },
   "102040030190004": {
@@ -3051,7 +3051,7 @@
   },
   "102040030200001": {
     "OriginalText": "……",
-    "Text": "",
+    "Text": "...",
     "Enabled": false
   },
   "102040030210004": {
@@ -3066,12 +3066,12 @@
   },
   "102040030230004": {
     "OriginalText": "……どういう意味だ？",
-    "Text": "What do you mean?",
+    "Text": "...What do you mean?",
     "Enabled": true
   },
   "102040030240001": {
     "OriginalText": "あたしより強いフォースのクルーがいますよね？\nその人と交代した方がいいと……。",
-    "Text": "We have a stronger Force crew right?\nI want that person to replace me....",
+    "Text": "We have stronger Force crewmates right?\nI want those people to replace me....",
     "Enabled": true
   },
   "102040030250004": {
@@ -3101,7 +3101,7 @@
   },
   "102040030300004": {
     "OriginalText": "……悪い、艦長が部下に言う言葉じゃなかった。\nだが、これは決定だ。いいな。",
-    "Text": "Sorry, that's not something a Captain should\nsay. But, this is my decision. Understood!",
+    "Text": "Sorry, that's not something a Captain should\nsay. But, this is my decision. Understood?",
     "Enabled": true
   },
   "102040030310001": {
@@ -3286,7 +3286,7 @@
   },
   "103000038010000": {
     "OriginalText": "ここには『ガチャチュートリアル』が入る予定です。",
-    "Text": "\"Gacha Tutorial\" will be added here.",
+    "Text": "You're now entering the \"Gacha Tutorial\".",
     "Enabled": true
   },
   "103000040010008": {
@@ -8786,7 +8786,7 @@
   },
   "105020030010000": {
     "OriginalText": "ここには『パイルチュートリアル』が入る予定です。",
-    "Text": "The \"Pile Tutorial\" will be added.",
+    "Text": "You're now entering the \"Pile Tutorial\".",
     "Enabled": true
   },
   "105020040010012": {
