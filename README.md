@@ -4,8 +4,6 @@
   <img src="https://github.com/Arks-Layer/PSNovaTranslations/blob/master/resources/Phantasy-Star-Nova-Logo.png" alt="PS Nova Logo"/>
 </p>
 
-[Build status](https://api.travis-ci.org/Arks-Layer/PSNovaTranslations.svg?branch=master)
-
 # PS: Nova Translations
 
 Welcome to the PS: Nova Translations Github Repository.
