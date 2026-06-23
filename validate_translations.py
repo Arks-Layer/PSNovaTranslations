@@ -1,17 +1,25 @@
 #!/usr/bin/env python3
 # coding=utf-8
 """
-validate_translations.py — PS Nova translation safety checker.
+validate_translations.py — PS Nova translation pre-submit checker.
 
-Goes beyond checkjson.py. For every ENABLED translation entry it checks the three
-things that actually cause crashes or broken text in-game:
+Catches MECHANICAL and COSMETIC problems before submitting. For every ENABLED
+translation entry it checks:
 
-  1. Invalid characters   -> chars not in glyphs.json are SILENTLY DROPPED by the
-                             inserter (missing letters, broken words, blank lines).
-  2. Control-code damage  -> unclosed [ ] or malformed codes break parsing.
-  3. Over-length text     -> exceeding a UI element's pixel region makes text tiny
-                             or crashes the renderer. Also enforces the ~256-glyph
-                             hard ceiling confirmed from the decrypted eboot.
+  1. Invalid characters   -> chars with no game glyph (e.g. curly quotes ’, dashes)
+                             get silently dropped by the inserter. WARNING.
+  2. Control-code damage  -> unclosed/unbalanced [ ] break the inserter parser. ERROR.
+  3. Length              -> per-type soft limits (40/25/60, auto-resize) = warnings;
+                             the ~256-glyph RMD buffer (truncation) = error.
+  4. Style               -> leftover Japanese punctuation, with English suggestions.
+
+SCOPE / WHAT THIS DOES NOT DO: it does NOT catch the known cutscene crash. That bug
+is content-specific and its trigger is still unidentified (it is NOT length, NOT a
+missing font glyph, NOT brackets). Passing this checker means the text is mechanically
+clean, not that it is guaranteed crash-free.
+
+Whitespace (space, tab, newline) is renderer-handled, not glyph-based, so it is never
+flagged as an invalid character.
 
 Usage:
     python validate_translations.py              # check all files in ./rmd
@@ -197,7 +205,10 @@ def check_entry(filename, rmid, entry, basic_chars, any_chars):
     lines = visible_lines(text)
     total_glyphs = sum(len(ln) for ln in lines)
     if total_glyphs >= ABSOLUTE_MAX_GLYPHS:
-        errors.append("exceeds absolute %d-glyph buffer ceiling (%d) — WILL crash"
+        # The RMD string buffer is ~256 glyphs. Past it the encoder trips its
+        # overflow flag and the string is truncated / not fully encoded. (This
+        # is NOT the known cutscene crash, which is content-specific, not length.)
+        errors.append("exceeds the ~%d-glyph RMD buffer (%d) — will be truncated"
                       % (ABSOLUTE_MAX_GLYPHS, total_glyphs))
 
     kind, max_chars, max_lines = file_limit_for(filename)
@@ -279,9 +290,9 @@ def main():
     print("Checked %d file(s): %d error(s), %d warning(s)"
           % (len(files), total_err, total_warn))
     if total_err:
-        print("Fix the ERRORs before submitting — they cause crashes or dropped text.")
+        print("Fix the ERRORs before submitting — broken control codes or buffer overruns.")
         sys.exit(1)
-    print("No crash-causing errors found.")
+    print("No mechanical errors found. (Note: does not detect the cutscene crash.)")
 
 
 if __name__ == "__main__":
