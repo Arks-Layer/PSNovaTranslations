@@ -2111,7 +2111,7 @@
   },
   "290140": {
     "OriginalText": "お前さんに託したい武器がある。\n俺の愛用のアヴェンジャーに匹敵する上洋だ。\nもし、受取る覚悟があるなら、コラル・ドラゴンを\n倒すことで俺に示してくれるか？\n[a 03]※この約束は１回のみ[b]",
-    "Text": "I have a weapon I want to entrust to you.\nIt’s as good as my Avenger. First, show\nme how you defeat a Coral Dragon?\n\n[a 03]※Non-Repeatable[b]",
+    "Text": "I have a weapon I want to entrust to you.\nIt's as good as my Avenger. First, show\nme how you defeat a Coral Dragon?\n\n[a 03]※Non-Repeatable[b]",
     "Enabled": true
   },
   "290141": {
@@ -4051,7 +4051,7 @@
   },
   "300246": {
     "OriginalText": "【グランピース（光属性）】を集める\n【グランピース（闇属性）】を集める",
-    "Text": "Collect [Gran Piece (Light)\nCollect [Gran Piece (Dark)]",
+    "Text": "Collect [Gran Piece (Light)]\nCollect [Gran Piece (Dark)]",
     "Enabled": true
   },
   "300247": {

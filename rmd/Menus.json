@@ -426,32 +426,32 @@
   },
   "20001": {
     "OriginalText": "ヒューマン  男性",
-    "Text": "Human\tMale",
+    "Text": "Human Male",
     "Enabled": true
   },
   "20002": {
     "OriginalText": "ヒューマン  女性",
-    "Text": "Human\tFemale",
+    "Text": "Human Female",
     "Enabled": true
   },
   "20003": {
     "OriginalText": "ニューマン  男性",
-    "Text": "Newman\tMale",
+    "Text": "Newman Male",
     "Enabled": true
   },
   "20004": {
     "OriginalText": "ニューマン  女性",
-    "Text": "Newman\tFemale",
+    "Text": "Newman Female",
     "Enabled": true
   },
   "20005": {
     "OriginalText": "キャスト   男性",
-    "Text": "Cast\tMale",
+    "Text": "Cast Male",
     "Enabled": true
   },
   "20006": {
     "OriginalText": "キャスト   女性",
-    "Text": "Cast\tFemale",
+    "Text": "Cast Female",
     "Enabled": true
   },
   "20101": {
@@ -2921,12 +2921,12 @@
   },
   "22205": {
     "OriginalText": "日",
-    "Text": "\t",
+    "Text": " ",
     "Enabled": true
   },
   "22206": {
     "OriginalText": "人",
-    "Text": "\t",
+    "Text": " ",
     "Enabled": true
   },
   "22207": {
@@ -2956,7 +2956,7 @@
   },
   "22212": {
     "OriginalText": "名",
-    "Text": "\t",
+    "Text": " ",
     "Enabled": true
   },
   "22213": {
