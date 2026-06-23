@@ -2726,7 +2726,7 @@
   },
   "230405": {
     "OriginalText": "\nノヴァ内部侵攻作戦を任せる。\nただし目的地にはダーカーが先行しており、\n原生種も展開している物様。\n大混戦となるおそれがあるが、ダーカーのみならず\n原生種の動きにも警戒し、最深部へ到達せよ。\n[a 03]\n※ギガンテスブラスト使用不可\n※シナリオクリアしたプレイヤーのみ参加可能[b]",
-    "Text": "\n[[a 03]※Gigantes Blast not allowed\n※Only players who cleared the scenario\ncan join[b]",
+    "Text": "\n[a 03]※Gigantes Blast not allowed\n※Only players who cleared the scenario\ncan join[b]",
     "Enabled": true
   },
   "230406": {
