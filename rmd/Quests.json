@@ -2206,12 +2206,12 @@
   },
   "230004": {
     "OriginalText": "\n銅の荒野における哨戒作戦を任せる。\n指定地域を周回探索せよ。\n原生種に遭遇した場合は速やかに撃破するよう。\n経贄を制圧し、治安確保を確認次第、\n帰還許可を与える。\n",
-    "Text": " ",
+    "Text": "\t",
     "Enabled": true
   },
   "230005": {
     "OriginalText": "\n銅の荒野におけるダーカー討伐作戦を任せる。\nダーカーの反応を多数確認している指定地域へ\n速やかに向かうよう。\nこの作戦は素材として利用するダーカーの確保が\n目的である。\n",
-    "Text": " ",
+    "Text": "\t",
     "Enabled": true
   },
   "230006": {
@@ -2221,7 +2221,7 @@
   },
   "230007": {
     "OriginalText": "\n銅の荒野における大型原生種\nジャッドバンサー撃破作戦を任せる。\n現在、エリア内の最深部に反応あり。\n速やかに現場へ向かうよう。\n標的の撃破を確認次第、帰還許可を与える。",
-    "Text": " ",
+    "Text": "\t",
     "Enabled": true
   },
   "230008": {
@@ -2726,7 +2726,7 @@
   },
   "230405": {
     "OriginalText": "\nノヴァ内部侵攻作戦を任せる。\nただし目的地にはダーカーが先行しており、\n原生種も展開している物様。\n大混戦となるおそれがあるが、ダーカーのみならず\n原生種の動きにも警戒し、最深部へ到達せよ。\n[a 03]\n※ギガンテスブラスト使用不可\n※シナリオクリアしたプレイヤーのみ参加可能[b]",
-    "Text": "\n[a 03]※Gigantes Blast not allowed\n※Only players who cleared the scenario\ncan join[b]",
+    "Text": "\n[[a 03]※Gigantes Blast not allowed\n※Only players who cleared the scenario\ncan join[b]",
     "Enabled": true
   },
   "230406": {
