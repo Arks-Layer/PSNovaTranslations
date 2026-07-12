@@ -206,3 +206,6 @@ For translations that refer to names (classes, items, enemies, etc), please trea
 <li>Example: Gran piece (Fire) -&gt; Gran Piece (Fire), Coral dragon blood -&gt; Coral Dragon Blood</li>
 </ul>
 </li>
+
+#### AI Disclosure
+We used AI to figure out a long standing crashing bug affecting the patch that caused a dramatic hiatus of the patch's future. We will use it again to help resolve any sort of technical issues involving, but not limited to, display issues and other graphical bugs involving rendering the patch correctly. We will not use it for translations nor will we get in the habit of using it for this purpose.
