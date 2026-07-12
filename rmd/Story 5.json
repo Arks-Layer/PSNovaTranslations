@@ -396,7 +396,7 @@
   },
   "501000020090030": {
     "OriginalText": "警備部って……。\nああ。\nオルター内の警察みたいな部ですね。",
-    "Text": "What is the security force...?\nAahhh. It’s like a police force in ALTER.",
+    "Text": "What is the security force...?\nAahhh. It's like a police force in ALTER.",
     "Enabled": true
   },
   "501000020100031": {
@@ -871,7 +871,7 @@
   },
   "504000020200031": {
     "OriginalText": "そうだ。\nあなたにこれを渡しておきたかったんだ。\nコウエン隊長の記憶中枢だ。",
-    "Text": "Before I forgot.\nI want to give this to you.\nIt’s the memory drive of Captain Cowen.",
+    "Text": "Before I forgot.\nI want to give this to you.\nIt's the memory drive of Captain Cowen.",
     "Enabled": true
   },
   "504000020210031": {
