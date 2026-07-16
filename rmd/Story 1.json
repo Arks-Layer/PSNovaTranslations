@@ -76,7 +76,7 @@
   },
   "100010020060008": {
     "OriginalText": "あなたは現在、アークス特殊惑星探査隊\nオルターの戦闘部隊に所属し、新たに\n発見された惑星、マキアへ向かっています。",
-    "Text": "You are the newest member of \"Alter\". We are heading for the newly\ndiscovered planet, Makhia.",
+    "Text": "You are the newest member of \"Alter\".\nWe are heading for the newly\ndiscovered planet, Makhia.",
     "Enabled": true
   },
   "100010020070008": {
@@ -511,7 +511,7 @@
   },
   "101010010011001": {
     "OriginalText": "いきなり起きないでよ！！ びっくりするじゃない！",
-    "Text": "Don't get up so suddenly!\nYou startled me!",
+    "Text": "Don't get up so suddenly! You startled me!",
     "Enabled": true
   },
   "101010010020001": {
@@ -521,7 +521,7 @@
   },
   "101010010021001": {
     "OriginalText": "その時あんたはあたしをかばって、頭ぶつけたわけ",
-    "Text": "You protected me.\nYou must've hit your head.",
+    "Text": "You protected me. You must've hit your head.",
     "Enabled": true
   },
   "101010010022001": {
@@ -551,12 +551,12 @@
   },
   "101010010060004": {
     "OriginalText": "見ろ、この装備！ まったくひでえ着陸しやがって！",
-    "Text": "Look at this!\nWhat a horrible crash!",
+    "Text": "Look at this! What a horrible crash!",
     "Enabled": true
   },
   "101010010070004": {
     "OriginalText": "もっとも、あの[ruby ふね]艦[/ruby]の状態じゃ、生きてるだけマシってとこだがな",
-    "Text": "With the ship in this state,\nit's a miracle we survived.",
+    "Text": "With the ship in this state, it's a miracle we survived.",
     "Enabled": true
   },
   "101010020010001": {
@@ -581,7 +581,7 @@
   },
   "101010020050001": {
     "OriginalText": "亡くなった方もいるんですか……。",
-    "Text": "Some people died...",
+    "Text": "So some people died...",
     "Enabled": true
   },
   "101010020060004": {
@@ -781,7 +781,7 @@
   },
   "101010030120001": {
     "OriginalText": "よく分からないけど、この力で戦えっていうのね？",
-    "Text": "I'm confused, but we can fight now, right?",
+    "Text": "I'm confused, but we can fight, right?",
     "Enabled": true
   },
   "101010030130001": {
@@ -836,7 +836,7 @@
   },
   "101010040050014": {
     "OriginalText": "この[ruby ほし]惑星[/ruby]ではフォトンが使えん！ 戦うのは無理だ……！",
-    "Text": "We can't use Photons here!\nFighting is impossible...",
+    "Text": "[ruby We can't use Photons here!] Fighting is impossible...[/ruby]",
     "Enabled": true
   },
   "101010040060001": {
@@ -1116,7 +1116,7 @@
   },
   "101020020170001": {
     "OriginalText": "レイヴァン副長も？",
-    "Text": "You too, XO Raven?",
+    "Text": "You too, Executive Officer Raven?",
     "Enabled": true
   },
   "101020020180005": {
@@ -1186,7 +1186,7 @@
   },
   "101020025050001": {
     "OriginalText": "そうなんだ……うん！ やるしかないもんね！",
-    "Text": "You're right! We're the only ones that can do this after all!",
+    "Text": "You're right! We're the only ones\nthat can do this after all!",
     "Enabled": true
   },
   "101020025051001": {
@@ -1331,7 +1331,7 @@
   },
   "101020050050001": {
     "OriginalText": "あんた、セイルって……\nもしかして『[ruby ふとう]不倒[/ruby]のセイル』？\n訓練校の教練では一度も倒れなかったっていう。",
-    "Text": "Sail, was it?\nAs in Sail the Unyielding?\nThe guy that blazed through all of the training drills?",
+    "Text": "Sail, was it? As in Sail the Unyielding?\nThe guy that blazed through all of the training drills?",
     "Enabled": true
   },
   "101020050060002": {
@@ -1976,7 +1976,7 @@
   },
   "102010040060004": {
     "OriginalText": "ただし、そのためには\nグランの安定供給が不可欠なんだ。\n頑張ってくれよ。",
-    "Text": "However, for that reason, a stable supply of\nGran is essential.\nGood luck to you.",
+    "Text": "However, for that reason, a stable supply of\nGran is essential. Good luck to you.",
     "Enabled": true
   },
   "102010040070001": {
@@ -1991,7 +1991,7 @@
   },
   "102010040090001": {
     "OriginalText": "ですよねー……。",
-    "Text": "Right....",
+    "Text": "Right...",
     "Enabled": true
   },
   "102010040100004": {
@@ -2006,7 +2006,7 @@
   },
   "102010040120001": {
     "OriginalText": "理想は分かりますけど……。\nそんな簡単にいくかなぁ？",
-    "Text": "I understand our goal, but...\nI wonder if it will be easy?",
+    "Text": "I understand our goal...\nbut I wonder if it will be easy?",
     "Enabled": true
   },
   "102010040130004": {
@@ -2046,7 +2046,7 @@
   },
   "102010040180001": {
     "OriginalText": "……いつか余裕っちゅ！\nって報告してやりますよ！",
-    "Text": "... If we get back someday, I'll report you!",
+    "Text": "If we get back someday...\nI'm reporting you!",
     "Enabled": true
   },
   "102010040190004": {
@@ -2076,7 +2076,7 @@
   },
   "102010040240005": {
     "OriginalText": "……ノーコメントで。",
-    "Text": "... No comment.",
+    "Text": "No comment.",
     "Enabled": true
   },
   "102020015010001": {
@@ -2246,7 +2246,7 @@
   },
   "102020030010002": {
     "OriginalText": "援軍はまだなのか！！",
-    "Text": "Have the reinforcements not arrived yet?!",
+    "Text": "Has backup not arrived yet?!",
     "Enabled": true
   },
   "102020030020004": {
@@ -2326,7 +2326,7 @@
   },
   "102020030120004": {
     "OriginalText": "退き際も読めねえザコがカッコつけてんじゃねえ！",
-    "Text": "You gotta know when it's time to fall back!",
+    "Text": "You gotta know when to fall back!",
     "Enabled": true
   },
   "102020030130004": {
@@ -2421,7 +2421,7 @@
   },
   "102030010160003": {
     "OriginalText": "ギガンテス……。",
-    "Text": "Gigantes....",
+    "Text": "Gigantes...",
     "Enabled": true
   },
   "102030010170002": {
@@ -2461,7 +2461,7 @@
   },
   "102030010220001": {
     "OriginalText": "あんなのがたくさん……！？",
-    "Text": "There's more...!?",
+    "Text": "There's more!?",
     "Enabled": true
   },
   "102030010230004": {
@@ -2471,7 +2471,7 @@
   },
   "102030010240005": {
     "OriginalText": "対ギガンテス用ツールの開発ですか……。\nラボの施設拡張を検討しなくては。",
-    "Text": "If we're going to develop a tool against\nGigantes.... I'm considering expanding\nthe Lab.",
+    "Text": "If we're going to develop a tool against\nGigantes... I'm considering expanding\nthe Lab.",
     "Enabled": true
   },
   "102030010250012": {
@@ -2521,12 +2521,12 @@
   },
   "102040010060001": {
     "OriginalText": "あ……足場！？\n足場を作ってギガンテスを登るんですか！？",
-    "Text": "P... platform!? It can make a platform to\nclimb the Gigantes!?",
+    "Text": "P-platform!? It can make a platform to\nclimb the Gigantes!?",
     "Enabled": true
   },
   "102040010070002": {
     "OriginalText": "そりゃ、登れば上から攻撃できるが……。",
-    "Text": "Well, if you can climb, you can attack\nfrom above....",
+    "Text": "Well, if you can climb, you can attack\nfrom above...",
     "Enabled": true
   },
   "102040010080007": {
@@ -2546,7 +2546,7 @@
   },
   "102040010110007": {
     "OriginalText": "……自分を基準にモノを考えるの、やめない？",
-    "Text": "...Can you stop thinking about things\nfrom your own perspective?",
+    "Text": "Can you stop thinking about things\nfrom your own perspective?",
     "Enabled": true
   },
   "102040010120004": {
