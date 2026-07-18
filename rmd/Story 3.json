@@ -446,88 +446,88 @@
   },
   "302040013021010": {
     "OriginalText": "フィルディア艦長と共に\n戦える時が来るとは！\nこれほどの誉はないな！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Who'd have thought I'd fight\nalongside Captain Fildia.\nThere's no greater honor!",
+    "Enabled": true
   },
   "302040013022010": {
     "OriginalText": "お前も気合入れていけよっ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "You better give it your\nall as well!",
+    "Enabled": true
   },
   "302040013023010": {
     "OriginalText": "っと、フィルディア艦長を\nお待たせするわけにはいかない！\nさっさと行くぞ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Move it, we can't keep\nCaptain Fildia waiting!",
+    "Enabled": true
   },
   "302040013031000": {
     "OriginalText": "こんな短時間で対ギガンテス用の武器を\n開発してしまうなんて、\nまさに『薦すれば通ず』ですね！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Developing a weapon against the Gigantes\nin such a short time really proves\n\"necessity is the mother of invention!\"",
+    "Enabled": true
   },
   "302040013032000": {
     "OriginalText": "レイヴァン副長やシャロンさんに\nラボの話を聞かせてもらえたらな……。",
-    "Text": "",
-    "Enabled": false
+    "Text": "If only Executive Officer Raven &\nMs. Sharon would tell me more\nabout the lab.",
+    "Enabled": true
   },
   "302040013041000": {
     "OriginalText": "よっしゃー！\n久々のバトルに腕がなるなぁ！！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Alright!\nBeen a while since my last fight.\nI'm itchin' to get in there!",
+    "Enabled": true
   },
   "302040013042000": {
     "OriginalText": "おらっ、さっさといくぞ、新人！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Come on rookie! Let's get goin.",
+    "Enabled": true
   },
   "302040013051000": {
     "OriginalText": "私はここで君たちと\nギガンテスの戦いを\n観測させていただきます。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I'll be observing your battle against the Gigantes from the sidelines.",
+    "Enabled": true
   },
   "302040013052000": {
     "OriginalText": "文明の見当たらないこの[ruby ほし]惑星[/ruby]で\nギガンテスの伝甲は明らかに人工洋です。",
-    "Text": "",
-    "Enabled": false
+    "Text": "This planet shows no civilization,\nyet the Gigantes Armor is man-made.",
+    "Enabled": true
   },
   "302040013053000": {
     "OriginalText": "そのことがこの[ruby ほし]惑星[/ruby]の\n謎を解く手立てになると思うのです。",
-    "Text": "",
-    "Enabled": false
+    "Text": "This may be the key to\nthis planet's mystery.",
+    "Enabled": true
   },
   "302040013071000": {
     "OriginalText": "この前、あなた達がコテンパンにやられた\nギガンテスはちゃんとメインモニターで\n追跡ができているわ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "We've got that Gigantes on the\nmain monitor. You know, the one\nthat beat you.",
+    "Enabled": true
   },
   "302040013072000": {
     "OriginalText": "今度こそ、きっちり勝って帰ってきなさい。\n逃げ帰ってきても拠点に入れないわよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "This time, come back with\na solid victory... or you're not\ngetting back in the base.",
+    "Enabled": true
   },
   "302040013081000": {
     "OriginalText": "ギガンテスと戦いに行かれるのですね。\n十分にお気を付けください。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Off to fight the Gigantes?\nBe careful out there.",
+    "Enabled": true
   },
   "302040013121000": {
     "OriginalText": "何かヘイロウについて、ご質問でしょうか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "You have questions about the Halo?",
+    "Enabled": true
   },
   "302040013121099": {
     "OriginalText": "ヘイロウを作るには、\nまずは拠点内に武器ショップを\n作る必要があります。",
-    "Text": "",
-    "Enabled": false
+    "Text": "In order to craft a Halo,\nyou must first construct a\nWeapons Shop within the base.",
+    "Enabled": true
   },
   "302040013122000": {
     "OriginalText": "ヘイロウはグランの力で巨大生洋に\n足場を作るほか、空間を燥ることが\nできる武器です。",
-    "Text": "",
-    "Enabled": false
+    "Text": "The Halo is a weapon that uses\nthe power of Gran to manipulate\nspace to create platforms.",
+    "Enabled": true
   },
   "302040013122099": {
     "OriginalText": "同様にバスターにクラスチェンジするためには\nクラスカウンターを拠点内に\n置く必要があります。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Similarly, to change your class\nto Buster, you must construct a\nClass Counter within the base.",
+    "Enabled": true
   },
   "302040013123000": {
     "OriginalText": "みなさんの戦闘記録をみて、\n改良を進めたいと思いますので、\nぜひ戦場で使ってみてください。",
