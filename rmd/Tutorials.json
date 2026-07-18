@@ -276,12 +276,12 @@
   },
   "770055": {
     "OriginalText": "『バースト加速伝置』",
-    "Text": "[BURST Acceleration Device]",
+    "Text": "BURST Acceleration Device",
     "Enabled": true
   },
   "770056": {
     "OriginalText": "『探索隊』",
-    "Text": "[Search Team]",
+    "Text": "Search Team",
     "Enabled": true
   },
   "770057": {
@@ -291,7 +291,7 @@
   },
   "770058": {
     "OriginalText": "『シアタースコープ』",
-    "Text": "[Theater Terminal]",
+    "Text": "Theater Terminal",
     "Enabled": true
   },
   "770059": {
@@ -326,17 +326,17 @@
   },
   "770065": {
     "OriginalText": "クエストゲートへ",
-    "Text": "To Quest Gate",
+    "Text": "Quest Gate",
     "Enabled": true
   },
   "770066": {
     "OriginalText": "コールドスリープルームへ",
-    "Text": "To Cold Sleep Chamber",
+    "Text": "Cold Sleep Chamber",
     "Enabled": true
   },
   "770067": {
     "OriginalText": "マルチプレイルームへ",
-    "Text": "To Multiplayer Room",
+    "Text": "Multiplayer Room",
     "Enabled": true
   },
   "770068": {
@@ -346,22 +346,22 @@
   },
   "770069": {
     "OriginalText": "インフォメーション",
-    "Text": "[Information]",
+    "Text": "Information",
     "Enabled": true
   },
   "770070": {
     "OriginalText": "『グラン』",
-    "Text": "[Gran]",
+    "Text": "Gran",
     "Enabled": true
   },
   "770071": {
     "OriginalText": "『戦闘演習２：テクニック』",
-    "Text": "[Battle Excerise 2: Techniques]",
+    "Text": "Battle Excerise 2: Techniques",
     "Enabled": true
   },
   "770072": {
     "OriginalText": "『戦闘演習３：ガード』",
-    "Text": "[Battle Excerise 3: Guard]",
+    "Text": "Battle Excerise 3: Guard",
     "Enabled": true
   },
   "770073": {
@@ -526,7 +526,7 @@
   },
   "780010": {
     "OriginalText": "『ガード』\n\nハンターは、武器を使ってガードをすることで\n敵からの[a 07]攻撃ダメージを軽滅[b]できます。\nガード時には[a 07]ＰＰを消費[b]します。\n\n初期設定では、ガードは [f 74] に登録されて\nいます。",
-    "Text": "[Guard]\n\nHunters can [a 07]reduce the amount of damage they receive[b]\nfrom enemy attacks by guarding with their weapons.\nA guard consumes PP.\n\nBy default, Guard is assigned to [f 74].",
+    "Text": "Hunters can [a 07]reduce damage taken[b]\nfrom enemy attacks by guarding with\ntheir weapon. A guard consumes PP.\n\nGuard is assigned to [f 74] by default.",
     "Enabled": true
   },
   "780011": {
@@ -576,12 +576,12 @@
   },
   "780020": {
     "OriginalText": "『テクニック』\n\nテクニックとは、フォースがグランの力を用いて\n放つ強力な法術です。\n\nテクニックは [f 74][a 07] 長押し溜めで発動[b]します。\n\nテクニックは裏パレットにもセットされて\nいます。",
-    "Text": "[Techniques]\n\nTechniques are powerful skills utilized by Force\nvia harnessing the power of Gran.\n\nYou can [a 07]charge[b] a Technique by\nholding down [f 74].\n\nTechniques can be placed on either a\n[a 07]weapon Palette[b] or on a [a 07]Subpalette[b].",
+    "Text": "Techniques are powerful Force skills\nthat harness Gran.\n\nHold [f 74] to [a 07]charge[b] a Technique.\n\nPlace Techniques on a [a 07]Weapon Palette[b] or\n[a 07]Subpalette[b].",
     "Enabled": true
   },
   "780021": {
     "OriginalText": "\nテクニックは繰り出す度に\n[a 07]ＧＰ（グランポイント）を消費[b]します。\n\nＧＰは[a 07]時間経過[b]、または[a 07]通常攻撃をヒット[b]させる\nことで回復します。\n\n通常攻撃とテクニックをうまく組み合わせて\n戦いましょう。",
-    "Text": "\nTechniques [a 07]consume GP (Gran Points)[b]\nwhen they are used.\n\nGP will [a 07]slowly recover over time[b],\nor by hitting enemies with [a 07]normal attacks[b].\n\nYou can fight using both normal attacks\nand Techniques.",
+    "Text": "\nTechniques [a 07]consume GP (Gran Points)[b]\nwhen used.\n\nGP [a 07]slowly recovers over time[b],\nor by landing [a 07]normal attacks[b] on enemies.\n\nMix normal attacks and Techniques to fight.",
     "Enabled": true
   },
   "780022": {
@@ -956,7 +956,7 @@
   },
   "780096": {
     "OriginalText": "『エステ』\n\nエステでは、[a 07]外見やコスチュームの変更、\n性格・特微の設定[b]ができます。\n\nエステのレベルを上げ、クルーを配属することで\n編集メニューと選択縫が増え、\nより細かく多彩なカスタマイズが可能となります。",
-    "Text": "[Beauty Salon]\n\nAt the Beauty Salon, you can [a 07]change your appearance,\ncostumes, and set your personality traits[b].\n\nAs you upgrade the Beauty Salon,\nmore options in the edit menu will increase,\nallowing for more diverse & detailed customizations.",
+    "Text": "At the [a 07]Beauty Salon[b], you can change\nyour appearance, costumes, and personality traits.\n\nUpgrading it unlocks more edit\noptions for deeper customization.",
     "Enabled": true
   },
   "780097": {
@@ -996,7 +996,7 @@
   },
   "780104": {
     "OriginalText": "\nフィルディア艦長とのプロミスオーダーを\n果たすことで、\n施設やショップが増えていきます。\n\n積冷的にフィルディアの依頼を達成して、\n拠点の拡充を目指しましょう。",
-    "Text": "As you complete more Promise Orders from\nCaptain Fildia, more facilities will become\navailable to you.\n\nSteadily work on completing her Promise Orders\nand expand the base!",
+    "Text": "As you complete more Promise Orders\nfrom Captain Fildia, more facilities will unlock.\n\nKeep working on her\nPromise Orders to expand the base!",
     "Enabled": true
   },
   "780105": {
@@ -1096,7 +1096,7 @@
   },
   "780124": {
     "OriginalText": "\n[a 07]マルチプレイルーム[b]はデルタ・\nヴァリアントの出入り口から移動できます。\n\nアドホック通信で[a 07]他のプレイヤーと\nマルチプレイを行う場合[b]は\n[a 07]マルチプレイルーム[b]に行きましょう。",
-    "Text": "\nYou can access the [a 07]Multiplayer Room[b] via the enterance/exit of the Delta Valiant.\n\nIf you want to [a 07]play with others via Ad-Hoc communications[b], please visit the [a 07]Multiplayer Room[b].",
+    "Text": "\nYou can access the [a 07]Multiplayer Room[b] via the\nDelta Valiant's entrance/exit.\n\nFor [a 07]Ad-Hoc multiplayer[b], visit the\n[a 07]Multiplayer Room[b].",
     "Enabled": true
   },
   "780125": {
@@ -1111,7 +1111,7 @@
   },
   "780127": {
     "OriginalText": "『グラン』\n\n[a 07]グラン[b]の力を糾かり、フォトンの代わりに\n使えるようになりました。\n\nフォトンポイント(PP)\n → [a 07]グランポイント(GP)[b]\nフォトンアーツ(PA)\n → [a 07]グランアーツ(GA)[b]\nと呼称します。\n",
-    "Text": "[Gran]\n\nNow that we've harnessed the power of\n[a 07]Gran[b], we will use it instead of Photons.\n\nPhoton Points (PP)\n → [a 07]Gran Points (GP)[b]\nPhoton Arts (PA)\n → [a 07]Gran Arts (GA)[b]\n",
+    "Text": "Now that we've harnessed [a 07]Gran[b],\nwe'll use it instead of Photons.\n\nPhoton Points (PP)\n → [a 07]Gran Points (GP)[b]\nPhoton Arts (PA)\n → [a 07]Gran Arts (GA)[b]\n",
     "Enabled": true
   },
   "780128": {
