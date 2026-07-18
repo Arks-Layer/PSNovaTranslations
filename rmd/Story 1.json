@@ -431,7 +431,7 @@
   },
   "100010050100014": {
     "OriginalText": "レイヴァン副長、何をする気だ！",
-    "Text": "XO Raven, what are you planning!?",
+    "Text": "Executive Officer Raven,\njust what are you planning!?",
     "Enabled": true
   },
   "100010050110005": {
@@ -1066,47 +1066,47 @@
   },
   "101020020070001": {
     "OriginalText": "それが、よく分からないんですけど、\nこの宝石から立体映像が出て、\nユノっていう女の子が……。",
-    "Text": "I don't really get it, but a hologram\nof a girl came out of this.\nShe said her name was Juno.",
+    "Text": "Don't understand it myself,\nbut a hologram came out of this.\nCalled herself Juno.",
     "Enabled": true
   },
   "101020020080004": {
     "OriginalText": "その女の子とやらは今出てくるのか？",
-    "Text": "Can she come out now?",
+    "Text": "Is she able to come out now?",
     "Enabled": true
   },
   "101020020090001": {
     "OriginalText": "いえ、それっきり何の反応もなくて。",
-    "Text": "No, it's not responding for some reason.",
+    "Text": "No, for some reason,\nI am not getting a reponse.",
     "Enabled": true
   },
   "101020020100005": {
     "OriginalText": "その宝石、調べさせて下さい。",
-    "Text": "I would like to have a look at it.\nIf possible.",
+    "Text": "I would like to take a look\nat this, if possible.",
     "Enabled": true
   },
   "101020020110001": {
     "OriginalText": "分かりました。どうぞ。",
-    "Text": "Understood. Please do.",
+    "Text": "Understood. Here you go.",
     "Enabled": true
   },
   "101020020120004": {
     "OriginalText": "宝石はレイヴァンに任せる。\nそんなことより\nお前達にはすぐやってもらいたいことがある。",
-    "Text": "I'll leave that to Raven.\nThat aside, I have something\nI need you guys to do.",
+    "Text": "Let's leave that to Raven.\nThat aside, I have something\nI need you guys to do.",
     "Enabled": true
   },
   "101020020130004": {
     "OriginalText": "先の戦闘で[ruby ふね]艦[/ruby]に戻ってこなかった\n先遣隊員が何人もいる。\nお前達ふたりに探しに行ってもらいたい。",
-    "Text": "There's a number of people from the\nsurvey team that are still missing.\nI'd like for the two of you to find them.",
+    "Text": "Several people from the survey team\nare still missing. I'd like you\ntwo to search for them.",
     "Enabled": true
   },
   "101020020140001": {
     "OriginalText": "えっ？ ふたりでですか！？",
-    "Text": "Huh? Just the two of us?",
+    "Text": "Huh? The two of us?",
     "Enabled": true
   },
   "101020020150004": {
     "OriginalText": "他に戦える奴がいないんだ。やってくれ。",
-    "Text": "Nobody else can fight.\nThere's no choice.",
+    "Text": "Nobody else can fight right now.\nThere's no other choice.",
     "Enabled": true
   },
   "101020020160005": {
@@ -1116,7 +1116,7 @@
   },
   "101020020170001": {
     "OriginalText": "レイヴァン副長も？",
-    "Text": "You too, Executive Officer Raven?",
+    "Text": "You as well, Executive Officer Raven?",
     "Enabled": true
   },
   "101020020180005": {
@@ -1131,17 +1131,17 @@
   },
   "101020020200001": {
     "OriginalText": "そうなんですか？",
-    "Text": "Really?",
+    "Text": "Is that so?",
     "Enabled": true
   },
   "101020020210005": {
     "OriginalText": "本来フォトンをエネルギーとする我々の武器や、\nフォイエやレスタが『グラン』で使えたのです。\nその可能性は極めて高いでしょう。。",
-    "Text": "There is a possibility that we can use\n\"Gran\" for our weapons and Techniques,\nlike Foie and Resta.",
+    "Text": "There is a possibility that we can use\nGran for our weapons and Techniques,\nlike Foie and Resta.",
     "Enabled": true
   },
   "101020020220001": {
     "OriginalText": "なるほど！ そうだったら希望が見えますね！",
-    "Text": "I get it!\nIf we can do that,\nI can definitely see hope!",
+    "Text": "I get it now!\nIf we can do that,\nwe can definitely see hope!",
     "Enabled": true
   },
   "101020020230004": {
@@ -1171,7 +1171,7 @@
   },
   "101020025030001": {
     "OriginalText": "ふぅん。",
-    "Text": "Huuh...",
+    "Text": "Huh?",
     "Enabled": true
   },
   "101020025035000": {
