@@ -526,8 +526,8 @@
   },
   "780010": {
     "OriginalText": "『ガード』\n\nハンターは、武器を使ってガードをすることで\n敵からの[a 07]攻撃ダメージを軽滅[b]できます。\nガード時には[a 07]ＰＰを消費[b]します。\n\n初期設定では、ガードは [f 74] に登録されて\nいます。",
-    "Text": "",
-    "Enabled": false
+    "Text": "[Guard]\n\nHunters can [a 07]reduce the amount of damage they receive[b]\nfrom enemy attacks by guarding with their weapons.\nA guard consumes PP.\n\nBy default, Guard is assigned to [f 74].",
+    "Enabled": true
   },
   "780011": {
     "OriginalText": "『ジャストアタック』\n\n攻撃後、体の周囲に光る円が表示されます。\n\n[a 07]円が赤く光っているタイミングで攻撃ボタン\nを押す[b]とジャストアタックとなります。",
@@ -956,8 +956,8 @@
   },
   "780096": {
     "OriginalText": "『エステ』\n\nエステでは、[a 07]外見やコスチュームの変更、\n性格・特微の設定[b]ができます。\n\nエステのレベルを上げ、クルーを配属することで\n編集メニューと選択縫が増え、\nより細かく多彩なカスタマイズが可能となります。",
-    "Text": "",
-    "Enabled": false
+    "Text": "[Beauty Salon]\n\nAt the Beauty Salon, you can [a 07]change your appearance,\ncostumes, and set your personality traits[b].\n\nAs you upgrade the Beauty Salon,\nmore options in the edit menu will increase,\nallowing for more diverse & detailed customizations.",
+    "Enabled": true
   },
   "780097": {
     "OriginalText": "『スタイル』\n\nスタイルは、一緒にマルチプレイを行った\n[a 07]他のプレイヤーがあなたのキャラクターを\n「ゲストクルー」として呼び出す時に\n表示[b]されます。\n\nキャラクターの能力には一切影響しません。\n\n自分のキャラクターにふさわしいスタイルを\n選びましょう。",
@@ -996,8 +996,8 @@
   },
   "780104": {
     "OriginalText": "\nフィルディア艦長とのプロミスオーダーを\n果たすことで、\n施設やショップが増えていきます。\n\n積冷的にフィルディアの依頼を達成して、\n拠点の拡充を目指しましょう。",
-    "Text": "",
-    "Enabled": false
+    "Text": "As you complete more Promise Orders from\nCaptain Fildia, more facilities will become\navailable to you.\n\nSteadily work on completing her Promise Orders\nand expand the base!",
+    "Enabled": true
   },
   "780105": {
     "OriginalText": "\nあなたはデルタ・ヴァリアントの艦長となり、\n多くのクルーを導くその指揮を委ねられました。\n\nこの「グランド・アクトⅡ」では\n惑星規物のギガンテスと戦うため、\n惑星の調査や拠点の拡張を行うことができます。\n\n艦長としての手腕を発揮し、ぜひクルーを\n導いてください。",
@@ -1066,12 +1066,12 @@
   },
   "780118": {
     "OriginalText": "\n[a 07]拠点の上層が開放[b]されました。\n\n上層入口から行くことができます。",
-    "Text": "",
-    "Enabled": false
+    "Text": "\nThe [a 07]upper-levels of the gate[b] have been unlocked.\n\nYou can access them from the upper-level enterance.",
+    "Enabled": true
   },
   "780119": {
     "OriginalText": "\n[a 07]拠点の下層が開放[b]されました。\n\n下層入口から行くことができます。",
-    "Text": "",
+    "Text": "The [a 07]lower-levels of the gate[b] have been unlocked.\n\nYou can access them from the lower-level enterance.",
     "Enabled": false
   },
   "780120": {
@@ -1086,8 +1086,8 @@
   },
   "780122": {
     "OriginalText": "\n[a 07]拠点のはずれにあるクエストゲート[b]から\nクエストを選び、探索の旅へ出ることができ\nます。",
-    "Text": "",
-    "Enabled": false
+    "Text": "\nYou can now [a 07]select a quest &\nset off on an exploration[b] via the Quest Gate on the\noutskirts of the base.",
+    "Enabled": true
   },
   "780123": {
     "OriginalText": "\n[a 07]コールドスリープルーム[b]はデルタ・\nヴァリアントの出入り口から向かうことがで\nきます。",
@@ -1096,8 +1096,8 @@
   },
   "780124": {
     "OriginalText": "\n[a 07]マルチプレイルーム[b]はデルタ・\nヴァリアントの出入り口から移動できます。\n\nアドホック通信で[a 07]他のプレイヤーと\nマルチプレイを行う場合[b]は\n[a 07]マルチプレイルーム[b]に行きましょう。",
-    "Text": "",
-    "Enabled": false
+    "Text": "\nYou can access the [a 07]Multiplayer Room[b] via the enterance/exit of the Delta Valiant.\n\nIf you want to [a 07]play with others via Ad-Hoc communications[b], please visit the [a 07]Multiplayer Room[b].",
+    "Enabled": true
   },
   "780125": {
     "OriginalText": "ゲームクリアおめでとうごいます。\n\nデルタ・ヴァリアントの洋語は\n一旦終わりましたが、\n時間を惑星マキア崩壊前に戻し、\n引き続きゲームを楽しむことができます。\n\n新たなイベントやクエストが追加された、\n少しだけパラレルな惑星マキアでの生活を\n引き続きお楽しみください。",
@@ -1111,8 +1111,8 @@
   },
   "780127": {
     "OriginalText": "『グラン』\n\n[a 07]グラン[b]の力を糾かり、フォトンの代わりに\n使えるようになりました。\n\nフォトンポイント(PP)\n → [a 07]グランポイント(GP)[b]\nフォトンアーツ(PA)\n → [a 07]グランアーツ(GA)[b]\nと呼称します。\n",
-    "Text": "",
-    "Enabled": false
+    "Text": "[Gran]\n\nNow that we've harnessed the power of\n[a 07]Gran[b], we will use it instead of Photons.\n\nPhoton Points (PP)\n → [a 07]Gran Points (GP)[b]\nPhoton Arts (PA)\n → [a 07]Gran Arts (GA)[b]\n",
+    "Enabled": true
   },
   "780128": {
     "OriginalText": "\n倉庫の容量上限[a 07]２０００個[b]を超えた\n状態でアイテムを入手した場合、\nアイテムは[a 07]一時倉庫へ自動的に入ります。[b]\n\n一時倉庫にアイテムがある状態ではクエスト\nゲートやショップにアクセスできません。\n[a 07]一時倉庫を空にしてからアクセス[b]してください。",
