@@ -316,7 +316,7 @@
   },
   "770063": {
     "OriginalText": "フィルディアの元へ",
-    "Text": "Fildia's Position",
+    "Text": "Fildia's Location",
     "Enabled": true
   },
   "770064": {
@@ -671,13 +671,13 @@
   },
   "780039": {
     "OriginalText": "『ハンター』\n\nハンターは[a 07]近接攻撃[b]を得意とする戦闘タイプ\nです。\n\n打撃武器である[a 07]ソード・パルチザン・\nダブルセイバー・ナックル[b]を使いこなします。\n\nハンターの回避アクション「ステップ」は\n最小限の移動距離ですばやく身をかわします。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Hunters are a class [a 07]specialized\nin melee combat[b].\n\nThey're proficient with [a 07]Swords, Partizans,\nDouble Sabers, & Knuckles[b].\n\nA Hunter's evasion move, [a 07][Step][b],\nlets them dodge with\nminimal movement.",
+    "Enabled": true
   },
   "780040": {
     "OriginalText": "『レンジャー』\n\nレンジャーは[a 07]中～遠距離からの攻撃[b]を得意と\nする戦闘タイプです。\n\n射撃武器である[a 07]アサルトライフルや\nツインマシンガン[b]を使いこなします。\n\nレンジャーの回避アクション「ダイブロール」は\n地面で前転し攻撃を回避します。\n[a 07]ジャストアタックにつなげることが可能[b]です。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Rangers specialize in attacking\nfrom [a 07]medium to long range[b].\n\nThey're proficient with weapons such\nas the [a 07]Assault Rifle & Twin Machineguns[b].\n\nTheir evasion skill, [a 07][Dive Roll][b], rolls\nforward on the ground to dodge attacks,\nand can [a 07]chain into a [Just Attack][b].",
+    "Enabled": true
   },
   "780041": {
     "OriginalText": "『肩越し視点』\n\n肩越し視点は[a 07]射撃武器用の視点モード[b]です。\n\n[f 66] を使い手動で照準を合わせられます。\n\nまた、[f 07] を押すと\n照準が近くの敵に補正されます。\n\n肩越し視点を使いこなすことで、攻撃したい\n場所を自由に、より精密に狙えます。",
@@ -691,8 +691,8 @@
   },
   "780043": {
     "OriginalText": "『フォース』\n\nフォースは[a 07]遠距離からの攻撃[b]を得意とする\n戦闘タイプです。\n\n法撃武器である[a 07]ロッド・タリス・ウォンド[b]を\n使いこなします。\n\nフォースの回避アクション、\n「ミラージュエスケープ」は瞬間的に\n姿を消し、離れた場所へ出現します。\n\n[a 07]姿が消えている間は攻撃を受けません。[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "Forces are a class that specializes\nin [a 07]long-range attacks[b].\n\nThey wield magical weapons such\nas [a 07]Rods, Talis, & Wands[b].\n\nTheir evasion move, [a 07][Mirage Escape][b],\ncauses them to vanish and briefly\nreappear at a short distance.",
+    "Enabled": true
   },
   "780044": {
     "OriginalText": "『グランアーツ/テクニック』\n\n[a 07]グランアーツ[b]とは、グランを用いた\n強力な攻撃です。\n\nグランアーツは様々な種類があり\n射程や属性が異なります。\n\n[f 74] を押すと[a 07]伝備している武器に\n対応したグランアーツ[b]を繰り出します。\n\n[a 07]フォース、バスターのテクニックは[b]\n[f 74][a 07] 長押し溜めで発動[b]します。",
@@ -726,8 +726,8 @@
   },
   "780050": {
     "OriginalText": "\n[a 07]赤いガイドアイコン[b]は、洋語が\n進行する場所に表示されます。\n\n迷った時は赤いガイドアイコンを\n探してみましょう。",
-    "Text": "",
-    "Enabled": false
+    "Text": "The [a 07]red guide marker[b] points to the\nstory section.\n\nIf you get stuck,\nlook for the red marker.",
+    "Enabled": true
   },
   "780051": {
     "OriginalText": "『ムービングショット』\n\n[a 07]アサルトライフルや一部のグランアーツ[b]では、\n[a 07]移動しながら射撃[b]をおこなう\n「[a 07]ムービングショット[b]」が使えます。\n\n敵の攻撃を避けながら攻撃するという\n安全な立ち回りが可能となります。",
@@ -761,8 +761,8 @@
   },
   "780057": {
     "OriginalText": "『ヘイロウ』\n\nヘイロウは対ギガンテス用に開発された\n遠距離戦向きの法撃武器です。\n\n[f 74][a 07] を押すとギガンテスと戦う足場\n「リングフィールド」を空中に展開[b]できます。\n\nアイテム[a 07]「リングジェネレーター」[b]を\n使うことでもリングフィールドを展開できます。",
-    "Text": "",
-    "Enabled": false
+    "Text": "The Halo is a weapon built for\nlong-range combat against the Gigantes.\n\n[f 74] deploys the [Ring Field],\na mobile platform letting you\nfight a Gigantes from the air.\n\nYou can also deploy a [Ring Field]\nusing a Ring Generator.",
+    "Enabled": true
   },
   "780058": {
     "OriginalText": "『リングフィールド』\n\n巨大なギガンテスと戦うときは、\n「リングフィールド」を足場として\n活用しましょう。\n\n[a 07]ヘイロウを伝備し、 [b][f 74][a 07] を押すと\nリングフィールドが空中に展開[b]されます。\n\n[a 07]リングフィールドの下で [b][f 76][a 07] を押す[b]ことで\nリングフィールドに乗ることができます。",
@@ -776,13 +776,13 @@
   },
   "780060": {
     "OriginalText": "『パイル』\n\nパイルは対ギガンテス用に開発された武器です。\n\n打撃と射撃の両方の特性を持ち、[a 07]近距離では\n直接打撃[b]、[a 07]遠距離に対しては杭を撃ち出し[b]て\n攻撃します。\n\n[a 07]ギガンテスに杭を打ち込んだのち[b]に\n「[a 07]イグニッション[b]」をおこなえば、\n[a 07]ギガンテスを捕獲[b]することもできます。",
-    "Text": "",
-    "Enabled": false
+    "Text": "The Pile is a weapon made to\ncounter the Gigantes.\n\nIt has [a 07]both Strike & Ranged\ncapabilities[b]; [a 07]melee hits up close,\nfiring stakes at a distance.[b]\n\nBy driving stakes into a Gigantes,\nyou can perform an [Ignition] to capture it.",
+    "Enabled": true
   },
   "780061": {
     "OriginalText": "\nこれよりあなたは「惑星脱出」を目指して\n自由に活動することができます。\n\n今起きているどの問題から解決するか、\nそれとも最初に伝備を強化するか、\n自身で良いと思うままに行動してみてください。\n\nこれから重ねる行動がやがて「惑星脱出」へと\n結びつくでしょう。",
-    "Text": "",
-    "Enabled": false
+    "Text": "From here, you're free to take\nwhatever steps you need to\nachieve [Planetary Escape].\n\nTackle pressing issues first,\nor strengthen yourself; Act as you will.\n\nAll actions will eventually\nlead to [Planetary Escape].",
+    "Enabled": true
   },
   "780062": {
     "OriginalText": "『ブーストエネミー』\n\nエネミーの中には、能力がブーストしてい\nる個体がまれに存在します。\n\nブーストエネミーは通常のエネミーより強\nく脅威となりますが、倒すと[a 07]多くの経験値や\n良いアイテム[b]を得られます。\n\nブーストエネミーは[a 07]身体の色が通常と異なり\n名前が赤[b]で表示されます。",
@@ -1036,18 +1036,18 @@
   },
   "780112": {
     "OriginalText": "『ギガンテス捕獲所』\n\n捕獲したギガンテスは拠点の下層にいます。\n\n[a 07]下層にあるカウンター[b]から、\nギガンテスの情報を見ることができます。",
-    "Text": "",
-    "Enabled": false
+    "Text": "The captured Gigantes are\nlocated in the [a 07]lower-levels\nof the base[b].\n\nYou can view information about\nthe captured Gigantes from\nthe counter there.",
+    "Enabled": true
   },
   "780113": {
     "OriginalText": "『ギガンテスブラスト』\n\n[a 07]ギガンテスブラスト[b]とは、グランリンクで\n[a 07]捕獲したギガンテスを呼び出し、\nその強大な能力を使役する技[b]です。",
-    "Text": "",
-    "Enabled": false
+    "Text": "[a 07]Gigantes Blast[b] summons a captured\nGigantes from the Gran Link,\nharnessing its destructive power.",
+    "Enabled": true
   },
   "780114": {
     "OriginalText": "『ギガンテスブラストの発動』\n\n「サブパレット伝備」の「ギガンテス」から\n[a 07]ギガンテスブラストをサブパレットに\nセット[b]します。\n\nクエスト中に[a 07]敵を倒すとアイコン周囲の\nブラストゲージが溜まり、\nゲージがいっぱいの状態で\nアイコンにタッチ[b]すると\nギガンテスブラストが開始します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "From the Subpalette,[a 07]set\nGigantes Blast under [Gigantes][b].\n\n[a 07]Defeating enemies fills the blast\ngauge around the icon[b].\nTap it when full to trigger\na Gigantes Blast.",
+    "Enabled": true
   },
   "780115": {
     "OriginalText": "『シアタースコープ』\n\nシアタースコープでは、これまでに体験した\nイベントを再生することができます。",
@@ -1076,8 +1076,8 @@
   },
   "780120": {
     "OriginalText": "\nフィルディアは[a 07]ブリッジ[b]に居ます。\n\nブリッジへはデルタ・ヴァリアントの\n出入り口から移動できます。\n",
-    "Text": "",
-    "Enabled": false
+    "Text": "Fildia is at the bridge. You can access the bridge via the entrance/exit of the Delta Valiant.",
+    "Enabled": true
   },
   "780121": {
     "OriginalText": "\n助手のシャロンは、外の[a 07]ラボ[b]に居ます。\nラボに行ってみましょう。\n\n[a 07]赤い吹き出し[b]は、話しかけると\n洋語が進行する人洋の上に表示されます。\n\n迷った時は赤い吹き出しや\n赤いガイドアイコンを\n探してみましょう。",
@@ -1086,7 +1086,7 @@
   },
   "780122": {
     "OriginalText": "\n[a 07]拠点のはずれにあるクエストゲート[b]から\nクエストを選び、探索の旅へ出ることができ\nます。",
-    "Text": "\nYou can now [a 07]select a quest &\nset off on an exploration[b] via the Quest Gate on the\noutskirts of the base.",
+    "Text": "\nYou can now [a 07]select a quest &\nset off on an exploration[b] via the\nQuest Gate on the outskirts of the base.",
     "Enabled": true
   },
   "780123": {
@@ -1161,8 +1161,8 @@
   },
   "780137": {
     "OriginalText": "\nヘイロウは[a 07]武器として伝備[b]します。\n\nメインメニュー［伝備］＞［武器伝備］の\n[a 07]武器選択リストで［ヘイロウ］カテゴリから\n伝備[b]してください。\n",
-    "Text": "",
-    "Enabled": false
+    "Text": "You can now [a 07]equip[b] the Halo.\n\nFrom the [a 07]main menu, select [Equip] > [Equip Weapon], then choose [Halo][b].",
+    "Enabled": true
   },
   "780138": {
     "OriginalText": "リングフィールドはギガンテスの攻撃によって\n破壊されることがあります。\n\nアイテム[a 07]「リングジェネレーター」[b]を\n使うことでもリングフィールドを展開できます。\n\n「リングジェネレーター」は\nアイテムショップで作成し、\n[a 07]サブパレットにセットする[b]ことができます。\n",
@@ -1176,8 +1176,8 @@
   },
   "780140": {
     "OriginalText": "『バスター』\n\nバスターは対ギガンテス武器である[a 07]パイルや\nヘイロウを使いこなす[b]新しい戦闘タイプです。\n\n[a 07]すべてのクラスの武器種を伝備可能[b]で、\nまた[a 07]テクニックを使うこともできます[b]。\n\n打撃力・射撃力・法撃力のバランスが良く、\nダイブロールによる回避ができます。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Buster is a new combat class wielding\nweapons like the [a 07]Pile and Halo[b]\nto counter the Gigantes.\n\nIt can equip [a 07]any class's\nweapons and use Techniques[b].\n\nIt balances Strike, Ranged, &\nTech stats, and evades attacks\nwith Dive Roll.",
+    "Enabled": true
   },
   "780141": {
     "OriginalText": "\n部位破壊をすることで、「怒り」など敵の行\n動が変化することがあります。\n\nまた、破壊した部位に応じてアイテムがドロ\nップします。",
@@ -1241,13 +1241,13 @@
   },
   "780200": {
     "OriginalText": "\n・村料とコアを倉庫に一括で預ける機能追加\n・入手した村料とコアを自動的に倉庫に送る\n 機能追加\n （設定/ヘルプ→基本設定から変更）\n・コールドスリープルームにコラボキャラクター\n ニコ生キャラクターを追加\n 秘密のパスワードを探して解凍しよう！\n・その他、不具合修正\n",
-    "Text": "",
-    "Enabled": false
+    "Text": "- Added bulk deposit of Materials &\nCores into Storage.\n- Added auto-deposit of Materials &\nCores into Storage.\n(Settings/Help → Basic Settings)\n- Added NicoNico Live collaboration\ncharacters to Cold Sleep.\nFind the passwords to unlock them!\n- Other bug fixes",
+    "Enabled": true
   },
   "780201": {
     "OriginalText": "\n[a 03]【ご注意】\n新しいバージョンでセーブしたデータは\n古いバージョンでロードできなくなります。[b]\n",
-    "Text": "",
-    "Enabled": false
+    "Text": "[a 03][Notice]\nData saved in the new versions\ncannot be loaded in older versions.[b]",
+    "Enabled": true
   },
   "780202": {
     "OriginalText": "\n・サイドストーリー開始\n [a 07]拠点上層に新キャラクター「ガーネット」出現[b]\n （※本編シナリオクリア後）\n ガーネットに話しかけると\n 第０話を無料で遊ぶことができます\n\n・武器カスタマイズの燥作性を改良\n 方向キーによるアタッチパーツの移動を\n 細かく調整できるように改良",
