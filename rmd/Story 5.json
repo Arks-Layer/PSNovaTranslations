@@ -21,7 +21,7 @@
   },
   "501000010050030": {
     "OriginalText": "聞くも涙、語るも涙……\n涙が何リットルあっても足りない\nお話があるんですの。",
-    "Text": "I've been listening and crying, talking and\ncrying, it's not enough even how many liters\nof tears I cried.",
+    "Text": "I have a story so sad it brings\ntears to speaker and listener alike.\nNo amount of tears would be enough.",
     "Enabled": true
   },
   "501000010060030": {
@@ -101,17 +101,17 @@
   },
   "501000010210030": {
     "OriginalText": "そもそもに新艦長はすごく忙しい人のはず。\nこんなところを暇そうに\nフラフラ歩いてるわけありませんわ。",
-    "Text": "In the first place, the new captain should be\na very busy person. You can't walk around\nlike this in your spare time.",
+    "Text": "In the first place, the new captain\nshould be a very busy person.\nThere's no way they'd be wandering around\nhere looking idle.",
     "Enabled": true
   },
   "501000010220001": {
     "OriginalText": "……ですって、[ruby]相棒[/ruby]。",
-    "Text": "...As she says, Buddy.",
+    "Text": "So she says, Buddy.",
     "Enabled": true
   },
   "501000010230030": {
     "OriginalText": "あ、そうそう。もし新艦長に会うことがあれば\n龍えておいてくださいます？\n私が執事のことで不既を慨らしていたと。",
-    "Text": "Oh, yeah. If you ever meet the new captain,\nplease let me know. I want to complain about\nmy butler.",
+    "Text": "Oh, that's right, could you inform them\nI've been sending complaints about my butler?\nI have been lamenting the butler's absence.",
     "Enabled": true
   },
   "501000010240030": {
@@ -146,7 +146,7 @@
   },
   "501000010300030": {
     "OriginalText": "で、お父様に言われているんです。\nアークスを辞めたければ\n立派な結婚相手を見つけてきなさいって。",
-    "Text": "My father told me. If I don't want to join\nARKS, then find a good marriage partner.",
+    "Text": "My father once told me;\nIf I want to leave ARKS,\nI must find a fine husband.",
     "Enabled": true
   },
   "501000010310001": {
@@ -166,27 +166,27 @@
   },
   "501000010340030": {
     "OriginalText": "ルティナさん、私、わかってしまったかも\nしれません……。",
-    "Text": "Lutina, I may have been wrong....",
+    "Text": "Lutina, I think I may have figured it out...",
     "Enabled": true
   },
   "501000010350030": {
     "OriginalText": "恋するガーネット艦の……\n運命の終着地が……。",
-    "Text": "Garnet's Love Ship...\nhave arrived to its fateful stop....",
+    "Text": "The Garnet Love Boat...\nhas reached its destined stop...",
     "Enabled": true
   },
   "501000010360001": {
     "OriginalText": "は、はあ？",
-    "Text": "A-, aaahh?",
+    "Text": "Eh, huh?",
     "Enabled": true
   },
   "501000010370030": {
     "OriginalText": "民の方たちにもわかりやすく言えば！",
-    "Text": "To put it simply!",
+    "Text": "Put it in terms that normal people can understand!",
     "Enabled": true
   },
   "501000010380030": {
     "OriginalText": "私の運命のお方ということですわっ！！",
-    "Text": "It's my soulmate!!",
+    "Text": "This man must be the one I am destined to be with!!",
     "Enabled": true
   },
   "501000010390001": {
@@ -196,7 +196,7 @@
   },
   "501000010400030": {
     "OriginalText": "グラバー様……。\nその由々しくも奥深き響き……\nなんて素敵なお名前でしょうか……。",
-    "Text": "Mr. Glover...\nThat's terrifying and profound to hear...\nWhat a wonderful name!",
+    "Text": "Mr. Glover...\nThat's such a grave and profound ring to it...\nWhat a wonderful name!",
     "Enabled": true
   },
   "501000010410001": {
@@ -266,7 +266,7 @@
   },
   "501000010540001": {
     "OriginalText": "はぁ……。\nガーネットさんって今までどうやって\nアークスをやってきたのか気になるよね……。",
-    "Text": "Ahhh....\nGarnet, I'm wondering how's your life at\nARKS....",
+    "Text": "Uhhh...\nI really wonder just how Garnet\nhad survived this far in ARKS...",
     "Enabled": true
   },
   "501000010550030": {
@@ -276,22 +276,22 @@
   },
   "501000010560030": {
     "OriginalText": "恋するガーネット艦、運命の終着地に向けて\n発進準備完了ですわっ！",
-    "Text": "The Garnet's Love Ship is ready to launch\ntowards the end of its fateful stop!",
+    "Text": "The Garnet Love Boat is ready to\nset sail towards its fateful final stop!",
     "Enabled": true
   },
   "501000010570030": {
     "OriginalText": "……。",
-    "Text": "",
-    "Enabled": false
+    "Text": "...",
+    "Enabled": true
   },
   "501000010580030": {
     "OriginalText": "でも、ちょっと待ってください。\nなんかちょっと……\nやっぱり１人では心細いですわ……。",
-    "Text": "But, wait a second.\nI can't do this alone....",
+    "Text": "But, hang on a second.\nI don't know... I guess I do feel\na tinge bit uneasy being alone myself...",
     "Enabled": true
   },
   "501000010590030": {
     "OriginalText": "そうだ。\nあなた、私の執事になってもらえません？",
-    "Text": "That's right.\nYou can be my butler!",
+    "Text": "Is that right?\nWould you be willing to become my butler?",
     "Enabled": true
   },
   "501000010600001": {
@@ -301,47 +301,47 @@
   },
   "501000010610030": {
     "OriginalText": "だって、あなた。\nすごく執事っぽい顔をしてるんですもの。\nこれはもう決まりですわね。",
-    "Text": "Because, you.\nYou have a very butler-like face.\nIt's decided then.",
+    "Text": "I mean, come now.\nYou have a very butler-like face.\nI suppose that settles it then.",
     "Enabled": true
   },
   "501000010620000": {
     "OriginalText": "お断りだ",
-    "Text": "I refuse.",
+    "Text": "No thanks.",
     "Enabled": true
   },
   "501000010630030": {
     "OriginalText": "あら、いいんですのよ。\nそんなに遠慮なさらなくっても。",
-    "Text": "Hmm, it's okay.\nEven if you don't want to.",
+    "Text": "Hmm, it's alright.\nYou don't need to be so modest.",
     "Enabled": true
   },
   "501000010640030": {
     "OriginalText": "もちろん不安なのはわかります。\n私の執事と聞いてプレッシャーを\n感じない人はいないでしょうから。",
-    "Text": "I know you're worried.\nNo one must be pressured to be become a\nbutler.",
+    "Text": "Of course, I understand that you're worried.\nThere's not a single soul who wouldn't feel\nsome pressure upon hearing \"my butler\".",
     "Enabled": true
   },
   "501000010650030": {
     "OriginalText": "でも、大丈夫。心配はいりません。\n私は大宇宙クラスの広い心を持ってますから。\n小さな失敗の１つや２つは気にしません。",
-    "Text": "But, it's okay. Don't worry.\nBecause I have cosmic class big heart.\nI don't care about one or two small mistakes.",
+    "Text": "But, it's alright. There's no need to worry.\nAfter all, I have a heart the size of the universe.\nI won't frett over a minor slip-up or two..",
     "Enabled": true
   },
   "501000010660000": {
     "OriginalText": "かしこまりました、お嬢様",
-    "Text": "Certainly, milady.",
+    "Text": "Understood, madam.",
     "Enabled": true
   },
   "501000010670030": {
     "OriginalText": "あら、とっても上手です。\nその言葉遣いと頭の下げ方……\nさすが私の選んだ人ですわ。",
-    "Text": "Oh, you're good.\nThat speech and that bow...\nI'm really good at choosing.",
+    "Text": "Oh, he's wonderful.\nThe way he speaks and bows...\nJust as expected of someone I chose.",
     "Enabled": true
   },
   "501000010680030": {
     "OriginalText": "でも油断は央洋ですのよ。\n執事への道は一日にしてならず。",
-    "Text": "But be careful.\nYou're not just a butler for a day.",
+    "Text": "But don't become too comfortable.\nThe way of the butler isn't built in a day.",
     "Enabled": true
   },
   "501000010690030": {
     "OriginalText": "毎日コツコツと私に尽くして\n執事の道を冷めてくださいね。",
-    "Text": "Do your best to be the best butler everyday.",
+    "Text": "Please stay dedicated to your role\nas butler by working hard for me everyday.",
     "Enabled": true
   },
   "501000010700030": {
@@ -526,17 +526,17 @@
   },
   "501000020350032": {
     "OriginalText": "……コウエン、お前には死んでもらう。",
-    "Text": "...Cowen, I want you to die.",
+    "Text": "Cowen, you were dying...",
     "Enabled": true
   },
   "501000020360031": {
     "OriginalText": "……！？",
-    "Text": "",
-    "Enabled": false
+    "Text": "What!?",
+    "Enabled": true
   },
   "501000020370031": {
-    "OriginalText": "...I don't want to think about it, but\nthere's only one answer that can solve this\nsituation.。",
-    "Text": "",
+    "OriginalText": "……考えたくないことだが\n状況から導き出される答えは１つ。",
+    "Text": "I'd rather not think about it,\nbut this situation leaves us\nwith only one possible answer.",
     "Enabled": true
   },
   "501000020380031": {
@@ -546,7 +546,7 @@
   },
   "501000020390031": {
     "OriginalText": "ここで誰かに殺されたのだ。",
-    "Text": "Someone killed her here.",
+    "Text": "Someone was killed here.",
     "Enabled": true
   },
   "504000010010032": {
@@ -556,12 +556,12 @@
   },
   "504000010020001": {
     "OriginalText": "グラバー隊長、どうしたんですか？",
-    "Text": "What happened Captain Glover?",
+    "Text": "What's going on, Captain Glover?",
     "Enabled": true
   },
   "504000010030032": {
     "OriginalText": "真実を話そうと思う。\nコウエンとチームシグマに\n何があったのか……。",
-    "Text": "I want to tell you the truth.\nAbout What happened to Cowen and Team Sigma.",
+    "Text": "I am going to tell you the truth.\nRegarding Cowen and Team Sigma...",
     "Enabled": true
   },
   "504000010040001": {
@@ -571,77 +571,77 @@
   },
   "504000010050031": {
     "OriginalText": "どうして急に？",
-    "Text": "Why so sudden?",
+    "Text": "What's all this about?",
     "Enabled": true
   },
   "504000010060032": {
     "OriginalText": "あれからいろいろと考えてみて、\nお前たちには全てを\n知ってもらいたいと思ったんだ。",
-    "Text": "After thinking about it, I wanted you to\nknow everything.",
+    "Text": "I've been thinking about this for\na while now, and I've realized\nthat all of you should know.",
     "Enabled": true
   },
   "504000010070032": {
     "OriginalText": "サンシャウト。\n警備部に報告するかどうかは、\n話を聞いてから判断してくれ。",
-    "Text": "Sunshout.\nListen to the story first before deciding\nwhether to report to the security force.",
+    "Text": "Sunshout.\nPlease decide whether to report this to\nthe security Department after hearing\nwhat they have to say.",
     "Enabled": true
   },
   "504000010080031": {
     "OriginalText": "……わかった。いいだろう。",
-    "Text": "...Okay. Fine",
+    "Text": "Alright, I get it.",
     "Enabled": true
   },
   "504000010090032": {
     "OriginalText": "チームシグマは惑星探索活動からの帰還途中、\n拠点方向へと向かう\nギガンテスの群れと遭遇した。",
-    "Text": "On their way back from planetary exploration\ntask, Team Sigma encounters a swarm of\nGigantes heading towards the base.",
+    "Text": "While returning from a exploration mission,\nTeam Sigma encountered a swarm of\nGigantes heading towards them.",
     "Enabled": true
   },
   "504000010100002": {
     "OriginalText": "それでチームシグマは\nギガンテスと戦うことになったんですね。",
-    "Text": "The Team Sigma decided to fight the Gigantes.",
+    "Text": "So that's how Team Sigma ended\nup engaging the Gigantes.",
     "Enabled": true
   },
   "504000010110032": {
     "OriginalText": "ああ、そうだ。\nしかしヤツらはあまりに強く、\nチームシグマでも足止めするのがやっとだった。",
-    "Text": "Ahh, yeah.\nThey're so strong that even Team Sigma can't\neven stop them.",
+    "Text": "Yes, that's right.\nHowever, they were too strong, & Team Sigma could barely hold their ground.",
     "Enabled": true
   },
   "504000010120032": {
     "OriginalText": "そんな状況下でコウエンは\n俺に無線で連絡をしてきた。",
-    "Text": "Under such circumstances, Cowen tried to\ncontact me.",
+    "Text": "Despite all of this,\nCowen contacted me via radio.",
     "Enabled": true
   },
   "504000010130032": {
     "OriginalText": "『デッドアラートの受信を偽伝してほしい……』\nそれがコウエンの頼みだった。",
-    "Text": "\"I want you to mask the  casualty\nnotice signal...\"\nThat was Cowen's request.",
+    "Text": "\"Pretend you've received the Dead Alert.\",\nthat was Cowen's request.",
     "Enabled": true
   },
   "504000010140003": {
     "OriginalText": "……でも、どうして援軍を呼ばないで、\nデッドアラートの偽伝なんて頼んだんですか。",
-    "Text": "...But, why did she want that without calling\nfor reinforcements?",
+    "Text": "Why didn't they request for backup\ninstead of asking to spread a\nfake notice?",
     "Enabled": true
   },
   "504000010150001": {
     "OriginalText": "[ruby]相棒[/ruby]には理由がわかる？",
-    "Text": "Buddy, do you know why?",
+    "Text": "Hey buddy, do you understand why?",
     "Enabled": true
   },
   "504000010160000": {
     "OriginalText": "パニックになっていたから",
-    "Text": "Maybe they're panicking.",
+    "Text": "Perhaps they panicked.",
     "Enabled": true
   },
   "504000010170003": {
     "OriginalText": "コウエン隊長は歴戦の勇土と聞きます。\nいかに厳しい状況でもパニックになる方とは\n思えないのですが……。",
-    "Text": "I heard that Captain Cowen is a veteran.\nI don't think she will panic no matter how\ndifficult the situation....",
+    "Text": "I've heard Captain Cowen is an experienced warrior.\nI can't imagine them being the type\nto panic, no matter the situation.",
     "Enabled": true
   },
   "504000010180001": {
     "OriginalText": "確かにそうだね。\n他に理由があるとすれば……。",
-    "Text": "That's true.\nMaybe there's a reason....",
+    "Text": "That's certainly true.\nPerhaps there's another explanation.",
     "Enabled": true
   },
   "504000010190031": {
     "OriginalText": "そうか、わかったぞ。\nコウエン隊長とチームシグマは\n脱出計画を邪魔したくなかったんだな。",
-    "Text": "I got it.\nCaptain Cowen and Team Sigma didn't want to\ninterfere with the escape operation.",
+    "Text": "I've got it.\nCaptain Cowen & the rest of Team Sigma\ndid not want to interfere with\nthe escape operation.",
     "Enabled": true
   },
   "504000010200032": {
@@ -651,7 +651,7 @@
   },
   "504000010210000": {
     "OriginalText": "脱出計画を邪魔したくなかった",
-    "Text": "They didn't want to hinder the escape\noperation.",
+    "Text": "They did not want to hinder the escape operation.",
     "Enabled": true
   },
   "504000010220032": {
@@ -661,112 +661,112 @@
   },
   "504000010230031": {
     "OriginalText": "……そうか。\nコウエン隊長とチームシグマは\nそんなことを考えていたのか。",
-    "Text": "...I see.\nCaptain Cowen and Team Sigma was thinking\nabout that.",
+    "Text": "I see...\nSo that's what Captain Cowen\n& Team Sigma were thinking.",
     "Enabled": true
   },
   "504000010240032": {
     "OriginalText": "コウエンは探査任務に就いていたので、\nこの[ruby ほし]惑星[/ruby]の危険性は嫌というほどわかっていた。",
-    "Text": "She understands the danger of this planet,\nyet Cowen still proceeds with the exploration\nmission.",
+    "Text": "Because Cowen was on exploration duty,\nshe knew this planet's dangers all too well",
     "Enabled": true
   },
   "504000010250032": {
     "OriginalText": "……コウエンの話によれば、ギガンテスどもは\nグランドライブの試運転に呼応して襲撃している\n可能性が高かったらしい。",
-    "Text": "According to Cowen, the Gigantes were more\nlikely to be attacking in response to the\ntest run of the Gran Drive.",
+    "Text": "According to Cowen, it was highly likely\nthat the Gigantes were attacking in response\nto the Gran Drive's test run.",
     "Enabled": true
   },
   "504000010260032": {
     "OriginalText": "つまり惑星脱出計画が遅延すれば、\n別の群れが拠点を襲う可能性があった。",
-    "Text": "In other words, if the planetary escape\noperation was delayed, another swarm would\nattack the base.",
+    "Text": "In other words; had there been a delay,\nanother wave would have attack the base.",
     "Enabled": true
   },
   "504000010270032": {
     "OriginalText": "だからこそコウエンは思ったんだろう。\n援軍は呼ぶわけにはいかない、\n脱出計画に遅延が生じてしまうから、と……。",
-    "Text": "That's what Cowen thought. She didn't call\nfor reinforcements , because the escape\noperation will be delayed because of it.",
+    "Text": "That is probably what Cowen thought.\nIf the call for reinforcements were made,\nit would delay the operation.",
     "Enabled": true
   },
   "504000010280030": {
     "OriginalText": "とは言っても、脱出の決行日までに\nチームシグマが拠点に戻らなければ\n結果的に脱出計画は延期になったでしょう。",
-    "Text": "That said, if Team Sigma didn't return to the\nbase by the escape date, the escape plan\nwould have been postponed as a result.",
+    "Text": "That being said, had Team Sigma not\nreturned to the base before the scheduled time,\nthe operation would have been delayed.",
     "Enabled": true
   },
   "504000010290031": {
     "OriginalText": "どうしたら予定通りに\n脱出計画が実行されるのか……。",
-    "Text": "The escape operation must be executed as\nplanned....",
+    "Text": "We need to ensure the plan\ngoes according to schedule...",
     "Enabled": true
   },
   "504000010300031": {
     "OriginalText": "考えた結果がデッドアラートの\n偽伝だったというわけか。",
-    "Text": "That's the reason why she wanted the casualty\nnotice to be masked.",
+    "Text": "So the result was that the\nDead Alert ended up being a\nfalse report.",
     "Enabled": true
   },
   "504000010310030": {
     "OriginalText": "チームシグマのみなさんは\n他のクルーたちに全滅したと思われた後も\nギガンテスと必死に戦っていたのですね……。",
-    "Text": "Team Sigma were fighting desperately the\nGigantes even after the others thought they\nwere annihilated....",
+    "Text": "So even after the other crews all\nthought Team Sigma was gone, they were\nactually still giving their all\nagainst the Gigantes...",
     "Enabled": true
   },
   "504000010320030": {
     "OriginalText": "自分たちはどうなってもいいから、\n脱出計画を成功させるために……。",
-    "Text": "They don't care what will happen to them,\njust to make the escape operation succeed....",
+    "Text": "No matter what happened to them,\nthey ensured the operation succeeded.",
     "Enabled": true
   },
   "504000010330031": {
     "OriginalText": "そんな経緯をあなたはどうして黙っていたんだ？",
-    "Text": "Why didn't you tell me?",
+    "Text": "Why wasn't there a report about all of this?",
     "Enabled": true
   },
   "504000010340032": {
     "OriginalText": "コウエンに隠し通すように頼まれたからだ。",
-    "Text": "Because Cowen asked me to hide it.",
+    "Text": "Cowen had asked me to keep it a secret.",
     "Enabled": true
   },
   "504000010350031": {
     "OriginalText": "……なるほど。\n……真の英雄は黙なのだな。",
-    "Text": "...I understand.\n...The true hero stayed silent.",
+    "Text": "I see...\nThe true heroes are always silent...",
     "Enabled": true
   },
   "504000010360032": {
     "OriginalText": "ああ。\nだから俺もコウエン最期の頼みを\n守り通そうと思ったんだ。",
-    "Text": "Yeah.\nThat's why I also wanted to keep Cowen's last\nrequest.",
+    "Text": "Yes.\nThat is why I sought to fufill\nCowen's final request.",
     "Enabled": true
   },
   "504000010370032": {
     "OriginalText": "想定外の出来事は脱出が失敗したことだった。",
-    "Text": "But it was unexpected that we failed\nto escape.",
+    "Text": "The unexpected turn of events,\nhowever was that the operation\nhad failed anyway.",
     "Enabled": true
   },
   "504000010380032": {
     "OriginalText": "今となっては状況を推測するしかないのだが、\n恐らくその時点でコウエンは\nたった１人の生き残りだったのだろう。",
-    "Text": "I have no choice but to guess the situation,\nthat at that point Cowen was probably the\nonly survivor.",
+    "Text": "At this point, we can only speculate.\nBut it is likely that Cowen was\nthe sole survivor at that moment.",
     "Enabled": true
   },
   "504000010390001": {
     "OriginalText": "そして、誘導信号を送ったというわけですね。",
-    "Text": "And you sent the guidance signal, didn't you?",
+    "Text": "So they were the ones that\nsent out that beacon.",
     "Enabled": true
   },
   "504000010400031": {
     "OriginalText": "これでようやく真実に辿り着くことができた。",
-    "Text": "I was finally able to grasp the truth.",
+    "Text": "With this, we finally know the truth.",
     "Enabled": true
   },
   "504000010410031": {
     "OriginalText": "となれば、あと１つ残っているな。\n俺たちのやるべきことが。",
-    "Text": "If so, there is one last thing left to do.\nWhat we should do.",
+    "Text": "In that case, there's just one more\nthing left to do.\nSomething we all need to do.",
     "Enabled": true
   },
   "504000010420003": {
     "OriginalText": "やるべきこと……ですか？",
-    "Text": "What... to do?",
+    "Text": "What needs to be done?",
     "Enabled": true
   },
   "504000010430002": {
     "OriginalText": "ああ、そういうことか！\nわかったぜ！",
-    "Text": "Oh, that thing!\nI understand.",
+    "Text": "Oh, that's it!\nI get it now!",
     "Enabled": true
   },
   "504000010440030": {
     "OriginalText": "さあ、倒しに行きますわよ！\nチームシグマののギガンテスを！",
-    "Text": "Let's go defeat it!\nThe Gigantes that annihilated Team Sigma!",
+    "Text": "Alright, let's go and take them down!\nTeam Sigma's Gigantes!",
     "Enabled": true
   },
   "504000010450001": {
@@ -776,17 +776,17 @@
   },
   "504000020010032": {
     "OriginalText": "みんな、ありがとう。\nコウエンやチームシグマも\nあの世で喜んでいるに違いない。",
-    "Text": "Thank you guys.\nCowen and Team Sigma must be happy in the\nother side.",
+    "Text": "Thank you, everyone.\nCowen & all of Team Sigma must\nsurely be rejoicing in the afterlife.",
     "Enabled": true
   },
   "504000020020030": {
     "OriginalText": "……。",
-    "Text": "",
-    "Enabled": false
+    "Text": "...",
+    "Enabled": true
   },
   "504000020030001": {
     "OriginalText": "ガーネットさん、どうしたの？\nしんみりしちゃって。",
-    "Text": "What's wrong Garnet?\nAre you sick?",
+    "Text": "What is the matter Garnet?\nYou've suddenly gone all quiet\n& sentimental.",
     "Enabled": true
   },
   "504000020040030": {
@@ -801,12 +801,12 @@
   },
   "504000020060030": {
     "OriginalText": "みなさん、すごいですわ。\nこれがアークスの一員であると\nいうことなんですね。感動しました。",
-    "Text": "Everyone is amazing.\nYou're all members of ARKS, right?\nI'm impressed.",
+    "Text": "Amazing, everyone is amazing.\nSo this is what it means\nto be a member of ARKS.",
     "Enabled": true
   },
   "504000020070030": {
     "OriginalText": "私ももっと頑張らないと、\nアークスの一員として胸が張れるように。\n今はそんな気持ちなんです。",
-    "Text": "Even I didn't do much,\nI hope I can be a proud member of ARKS.\nThat's what I'm feeling right now.",
+    "Text": "I have to try harder too, so I can be proud to be in ARKS.",
     "Enabled": true
   },
   "504000020080030": {
@@ -866,7 +866,7 @@
   },
   "504000020190030": {
     "OriginalText": "すっかりイメージが変わってしまわれて、\n今では仲間殺しの噂も\n掻き消えてしまいましたね。",
-    "Text": "The look in your face has changed completely,\nnow that the rumors of killing them had been\ncleared.",
+    "Text": "Your reputation has completely changed,\nnow that those rumors of you being a\nkiller has died down.",
     "Enabled": true
   },
   "504000020200031": {
@@ -896,7 +896,7 @@
   },
   "504000020250033": {
     "OriginalText": "聞こえていたら事をしろ\n  私が[ruby ふね]艦[/ruby]をする",
-    "Text": "If you can hear me, just do it.",
+    "Text": "If you can hear me, please respond!",
     "Enabled": true
   },
   "504000020260004": {
@@ -911,12 +911,12 @@
   },
   "504000020280004": {
     "OriginalText": "     ……信じていたからな\nお前はギがンテスにやられるような女じゃないって",
-    "Text": "...Just trust me, I'm not the kind of woman\nthat will be easily killed by a Gigantes",
+    "Text": "I believed in you...\nthat you weren't the kind of woman\nto be killed by a Gigantes.",
     "Enabled": true
   },
   "504000020290033": {
     "OriginalText": "  ははは それはしい限りだ\nだが今度ばかりは助かりそうにないけどな",
-    "Text": "Hahaha\nThat might be a good thing, but this time it\ndoesn't seem to help",
+    "Text": "Hahaha\nThat makes me very happy.\nBut this time I don't think I'll make it.",
     "Enabled": true
   },
   "504000020300004": {
@@ -926,47 +926,47 @@
   },
   "504000020310033": {
     "OriginalText": "   何言ってるんだ、\n助かりそうにないのはおいだろ",
-    "Text": "What are you saying,\nthat's not even helping",
+    "Text": "What are you saying,\nneither of us is going to make it.",
     "Enabled": true
   },
   "504000020320004": {
     "OriginalText": "ふふ まあ、そうだな",
-    "Text": "Hehe\nyou're right",
+    "Text": "Ahaha, you're right",
     "Enabled": true
   },
   "504000020330033": {
     "OriginalText": "はははは",
-    "Text": "Hahahaha",
+    "Text": "Hahaha",
     "Enabled": true
   },
   "504000020340004": {
     "OriginalText": "ふふ、はははは",
-    "Text": "Hehe, hahahaha",
+    "Text": "Ahah, hahahaha",
     "Enabled": true
   },
   "504000020350004": {
     "OriginalText": " ーの悔いもないさ\n大の命をうんだからな",
-    "Text": "I have no regrets,\nI got to live a great life",
+    "Text": "I have no regrets,\nwe saved a lot of lives.",
     "Enabled": true
   },
   "504000020360033": {
     "OriginalText": "同感だ",
-    "Text": "I agree",
+    "Text": "I agree.",
     "Enabled": true
   },
   "504000020370004": {
     "OriginalText": "それじゃ、あの世で会おう",
-    "Text": "See you on the other side",
+    "Text": "See you on the other side.",
     "Enabled": true
   },
   "504000020380033": {
     "OriginalText": " どっちで待っている？\n天か？ それとも地か？",
-    "Text": "Which one do you mean?\nHeaven? or Hell?",
+    "Text": "Where will you be waiting?\nHeaven? Or hell?",
     "Enabled": true
   },
   "504000020390004": {
     "OriginalText": "このオレが待っているだ\n そんなもん決まってるだろ",
-    "Text": "I'll just wait for you then",
+    "Text": "Isn't the answer obvious?\nIt's ME who is waiting for them.",
     "Enabled": true
   }
 }
