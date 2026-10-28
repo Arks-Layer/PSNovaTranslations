@@ -1991,7 +1991,7 @@
   },
   "210120": {
     "OriginalText": "最後尾車両を撃破しろ",
-    "Text": "",
+    "Text": "Destroy the rear-most unit",
     "Enabled": false
   },
   "210121": {
@@ -2196,38 +2196,38 @@
   },
   "230002": {
     "OriginalText": "依頼者：フィルディア\n銅の荒野に取り残された先遣隊の生存者を\n捜索してくれ。\nダーカーがウヨウヨいて、どんなタイプが出て来るか\nオレにもわからんが、生存者の救出は絶対だ！\n今、戦えるのはお前たちしかいない。頼むぞ！\n\n同行者：ルティナ",
-    "Text": "Requester: Fildia\n\nRecommended: Lutina",
+    "Text": "Client: Fildia\nSearch for survivors of the advance party stranded\nin the Steel Wastelands. The place is crawling with\nDarkers, & I have no idea what kind might show up,\nbut we absolutely must rescue any survivors!\nYou're the only ones who can fight right now.\nWe're counting on you!\n\nCompanion(s): Lutina",
     "Enabled": true
   },
   "230003": {
     "OriginalText": "依頼者：シャロン\n銅の荒野で艦のエネルギーとなるグラン結晶を\n集めてください。\nこの惑星の原生種かもしれない未知の生命反応が\n出ています。\n交戦の可能性もありますので警戒を怠らないで\nください。\n同行者：ルティナ セイル イズナ",
-    "Text": "Requester: Sharon\n\nRecommended: Lutina, Sail, Izuna",
+    "Text": "Requester: Sharon\nPlease collect Gran Crystals, in the Steel Wastelands,\nas they'll serve as the ship's energy source.\n We're also detecting unknown life signs that may be\nnative to this planet. There might be the possibility\nof combat, so please remain on your guard.\n\nCompanion(s): Lutina, Sail, Izuna",
     "Enabled": true
   },
   "230004": {
     "OriginalText": "\n銅の荒野における哨戒作戦を任せる。\n指定地域を周回探索せよ。\n原生種に遭遇した場合は速やかに撃破するよう。\n経贄を制圧し、治安確保を確認次第、\n帰還許可を与える。\n",
-    "Text": "\t",
-    "Enabled": true
+    "Text": "",
+    "Enabled": false
   },
   "230005": {
     "OriginalText": "\n銅の荒野におけるダーカー討伐作戦を任せる。\nダーカーの反応を多数確認している指定地域へ\n速やかに向かうよう。\nこの作戦は素材として利用するダーカーの確保が\n目的である。\n",
-    "Text": "\t",
-    "Enabled": true
+    "Text": "",
+    "Enabled": false
   },
   "230006": {
     "OriginalText": "依頼者：フィルディア\n銅の荒野でグラン結晶を集めてくれ。\n新たに感知したヤツを全部頼むぞ。\nそれぐらい集めないと艦のエネルギーには全然\n足りないそうだ。ただし警戒は怠るな。\n生きて戻れなきゃ意味ないからな！\n\n同行者：ルティナ セイル イズナ",
-    "Text": "Requester: Fildia\n\nRecommended: Lutina, Sail, Izuna",
-    "Enabled": true
+    "Text": "",
+    "Enabled": false
   },
   "230007": {
     "OriginalText": "\n銅の荒野における大型原生種\nジャッドバンサー撃破作戦を任せる。\n現在、エリア内の最深部に反応あり。\n速やかに現場へ向かうよう。\n標的の撃破を確認次第、帰還許可を与える。",
-    "Text": "\t",
-    "Enabled": true
+    "Text": "",
+    "Enabled": false
   },
   "230008": {
     "OriginalText": "依頼者：フィルディア\n銅の荒野へアグリオスを倒しに行く！\nヘイロウの威力を見せてやろうじゃねえか。\n足場を展開・包囲したら、攻撃有効箇所を\n見つけ集中攻撃だ！\n\n\n同行者：ルティナ セイル イズナ フィルディア\n[a 03]※この任務のみ一度クリアまでフィルディアが同行[b]",
-    "Text": "Client: Fildia\n\n[a 03]＊You will be accompanied by Fildia\nuntil you clear this quest at least\nonce.[b]",
-    "Enabled": true
+    "Text": "",
+    "Enabled": false
   },
   "230009": {
     "OriginalText": "\n銅の荒野におけるアグリオス撃破作戦を任せる。\n似前、撃破したものとは別の個体を確認した。\n新兵器ヘイロウを使用し、足場を展開して\n標的を包囲し、弱点を集中攻撃せよ。\n",
@@ -2236,8 +2236,8 @@
   },
   "230010": {
     "OriginalText": "依頼者：リーティア\n炎の高地で医療資材の収集をお願いします。\n医療資材というのはいろいろあるのですが、\n現地へ行けばおわかりいただけると思います。\n崖が多いので落ちないように、\nお気をつけください。\n\n同行者：ルティナ セイル イズナ",
-    "Text": "Client: Rietheia\n\nParty: Lutina, Sail, Izuna",
-    "Enabled": true
+    "Text": "",
+    "Enabled": false
   },
   "230011": {
     "OriginalText": "\n炎の高地における偵察作戦を任せる。\n指定地域まで到達せよ。\n原生種に遭遇した場合は速やかに撃破するよう。\n",
