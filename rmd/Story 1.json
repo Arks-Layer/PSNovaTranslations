@@ -16,7 +16,7 @@
   },
   "100000010040017": {
     "OriginalText": "僕を、待っているの？",
-    "Text": "Will you wait for me?",
+    "Text": "Are you waiting for me?",
     "Enabled": true
   },
   "100000010050013": {
@@ -76,7 +76,7 @@
   },
   "100010020060008": {
     "OriginalText": "あなたは現在、アークス特殊惑星探査隊\nオルターの戦闘部隊に所属し、新たに\n発見された惑星、マキアへ向かっています。",
-    "Text": "You are the newest member of \"Alter\".\nWe are heading for the newly\ndiscovered planet, Makhia.",
+    "Text": "You belong to the combat unit of Alter,\nARKS' special planetary exploration team, and\nare heading for the newly discovered\nplanet, Makhia.",
     "Enabled": true
   },
   "100010020070008": {
@@ -101,7 +101,7 @@
   },
   "100010020110008": {
     "OriginalText": "あなたもそのひとりだったんですよ。",
-    "Text": "You and I are both part of that crew.",
+    "Text": "You were one of them too.",
     "Enabled": true
   },
   "100010020120008": {
@@ -186,7 +186,7 @@
   },
   "100010020260008": {
     "OriginalText": "敬礼もちゃんと覚えていましたか！\n惑星探査隊オルターには独特の敬礼があって、\n新人さんには珍しいってよく言われますね。",
-    "Text": "Make sure you salute the Alter way out there!\nA lot of rookies get it wrong....",
+    "Text": "You remembered the salute!\nAlter has its own unique salute.\nNewbies often say it's unusual.",
     "Enabled": true
   },
   "100010020270008": {
@@ -231,7 +231,7 @@
   },
   "100010035030001": {
     "OriginalText": "カタいよー！ 訓練校同期の\nルティナさんに向かってそれはないでしょ！\nまったく真面目すぎんだよね、もう。",
-    "Text": "Relax! Lutina's not gonna come all the\nway from the training school just to scold\nyou! Come on, you're too serious.",
+    "Text": "So stiff! That's no way to talk to Lutina,\nyour classmate from training school!\nDon't take things too seriously, geez.",
     "Enabled": true
   },
   "100010035040001": {
@@ -256,7 +256,7 @@
   },
   "100010035080004": {
     "OriginalText": "声が裏返ってるぞ。オレはフィルディアだ！",
-    "Text": "You're too loud, and it's Captain Fildia!",
+    "Text": "Your voice cracked. And it's Captain Fildia!",
     "Enabled": true
   },
   "100010035090001": {
@@ -266,7 +266,7 @@
   },
   "100010035100004": {
     "OriginalText": "気楽にやるんじゃなかったのかー？",
-    "Text": "Sounds like you're nervous.",
+    "Text": "Weren't you going to keep it casual?",
     "Enabled": true
   },
   "100010035110001": {
@@ -286,17 +286,17 @@
   },
   "100010035140004": {
     "OriginalText": "ははっ！ お前のカ・ノ・ジョは面白いな！",
-    "Text": "Haha! That GIRL seems interesting!",
+    "Text": "Haha! Your g-i-r-l-f-r-i-e-n-d is funny!",
     "Enabled": true
   },
   "100010035150001": {
     "OriginalText": "かのっ！？ 何てこと言うんですかっ！！",
-    "Text": "Girl!? What am I supposed to say now!!",
+    "Text": "Girlfr-!? What are you saying!!",
     "Enabled": true
   },
   "100010035155001": {
     "OriginalText": "同期！ ただの同期！\n普通の同期ですからっ！！",
-    "Text": "Synch! Just a synch!\nNormal synchronization!!",
+    "Text": "Classmates! Just classmates!\nWe're ONLY classmates!",
     "Enabled": true
   },
   "100010035160004": {
@@ -346,7 +346,7 @@
   },
   "100010040070014": {
     "OriginalText": "機関部！ 出力は上がらんのか！",
-    "Text": "Engine section! Don't increase the output!",
+    "Text": "Engine room! Can't you raise the output?",
     "Enabled": true
   },
   "100010040080050": {
@@ -361,12 +361,12 @@
   },
   "100010040100005": {
     "OriginalText": "重力とは違う何かに[ruby ふね]艦[/ruby]が引かれていますね。\n機関室、サブ・ドライブは生きていますか？ \n切り替えを。",
-    "Text": "The gravity is strange. The ship is being pulled in.\nEngine room, is the sub-drive alive?\nSwitch over.",
+    "Text": "Something other than gravity is pulling the ship.\nEngine room, is the sub-drive alive?\nSwitch over.",
     "Enabled": true
   },
   "100010040110005": {
     "OriginalText": "姿勢制御ぐらいはできるでしょう。艦長。",
-    "Text": "We have control over the ship, Captain.",
+    "Text": "We can at least manage attitude control. Captain.",
     "Enabled": true
   },
   "100010040120014": {
@@ -411,7 +411,7 @@
   },
   "100010050060014": {
     "OriginalText": "この速度では、大気圏を抜けられても地表に撃突するぞ！",
-    "Text": "At this rate, we'll hit the \nsurface even if we make it through the atmosphere!",
+    "Text": "At this rate, we'll hit the\nsurface even if we make it through the atmosphere!",
     "Enabled": true
   },
   "100010050070005": {
@@ -421,7 +421,7 @@
   },
   "100010050080014": {
     "OriginalText": "滅速しろ！",
-    "Text": "Quickly!",
+    "Text": "Decelerate!",
     "Enabled": true
   },
   "100010050090005": {
@@ -511,17 +511,17 @@
   },
   "101010010011001": {
     "OriginalText": "いきなり起きないでよ！！ びっくりするじゃない！",
-    "Text": "Don't get up so suddenly!\nYou startled me!",
+    "Text": "Hey, don't get up so suddenly! You've startled me!",
     "Enabled": true
   },
   "101010010020001": {
     "OriginalText": "デルタ・ヴァリアントが墜落したのよ",
-    "Text": "The ship just crash-landed.",
+    "Text": "The Delta Valiant had just crash-landed on the planet.",
     "Enabled": true
   },
   "101010010021001": {
     "OriginalText": "その時あんたはあたしをかばって、頭ぶつけたわけ",
-    "Text": "You protected me.\nYou must've hit your head.",
+    "Text": "You protected me. You must havve hit your head.",
     "Enabled": true
   },
   "101010010022001": {
@@ -551,7 +551,7 @@
   },
   "101010010060004": {
     "OriginalText": "見ろ、この装備！ まったくひでえ着陸しやがって！",
-    "Text": "Look at this!\nWhat a horrible crash!",
+    "Text": "Look at this! What a horrible crash!",
     "Enabled": true
   },
   "101010010070004": {
@@ -606,7 +606,7 @@
   },
   "101010020100004": {
     "OriginalText": "[ruby ふね]艦[/ruby]の設備が全部機能しないケースも考えて、\nこうして[ruby せんがい]艦外[/ruby]に野営地を作るってことは、\nかなりまずいんだろうな。",
-    "Text": "Then there's the fact that the ship's\nfacilities aren't operational. We will\nhave to set up camp outside the ship.",
+    "Text": "If they're setting up camp outside\nin case none of the ship's facilities work,\nit must be pretty bad.",
     "Enabled": true
   },
   "101010020110004": {
@@ -836,7 +836,7 @@
   },
   "101010040050014": {
     "OriginalText": "この[ruby ほし]惑星[/ruby]ではフォトンが使えん！ 戦うのは無理だ……！",
-    "Text": "[ruby We can't use Photons here!] Fighting is impossible...[/ruby]",
+    "Text": "We can't use Photons here! Fighting is impossible...",
     "Enabled": true
   },
   "101010040060001": {
@@ -886,12 +886,12 @@
   },
   "101010050050014": {
     "OriginalText": "この絶望的状況で後を任せられるのは",
-    "Text": "It's the least I can\ndo in this situation.",
+    "Text": "The only one I can entrust things to in this hopeless situation is",
     "Enabled": true
   },
   "101010050051014": {
     "OriginalText": "『[ruby ぎょうこう]暁紅[/ruby]のフィルディア』と呼ばれた英雄のお前しかいない",
-    "Text": "I leave it to you Fildia,\nthe Crimson Dawn of ARKS.",
+    "Text": "I leave it to you Fildia, the Crimson Dawn of ARKS.",
     "Enabled": true
   },
   "101010050060004": {
@@ -901,12 +901,12 @@
   },
   "101010050070014": {
     "OriginalText": "今、必用なのは希望だ",
-    "Text": "What you need right\nnow is not talent.",
+    "Text": "What you need right now is not talent.",
     "Enabled": true
   },
   "101010050071014": {
     "OriginalText": "能力ではない、分かるな？",
-    "Text": "What you need is\nhope. Understand?",
+    "Text": "What you need is hope. Understand?",
     "Enabled": true
   },
   "101010050080004": {
@@ -1211,7 +1211,7 @@
   },
   "101020040010001": {
     "OriginalText": "奥から声が！ 何かいるよ！",
-    "Text": "Did you hear that?\nThere's something there!",
+    "Text": "Did you hear that? There's something there!",
     "Enabled": true
   },
   "101020040020002": {
@@ -1276,17 +1276,17 @@
   },
   "101020040090001": {
     "OriginalText": "あれはあたし達がぶっ飛ばす！！",
-    "Text": "Leave it to us!",
+    "Text": "We're going to blow this thing away!!",
     "Enabled": true
   },
   "101020040100002": {
     "OriginalText": "やれるんだな？",
-    "Text": "Can you?",
+    "Text": "You can do it, right?",
     "Enabled": true
   },
   "101020040110003": {
     "OriginalText": "はいぃっ！",
-    "Text": "Roger!",
+    "Text": "Yes!",
     "Enabled": true
   },
   "101020040115002": {
@@ -1296,27 +1296,27 @@
   },
   "101020040120001": {
     "OriginalText": "さーて",
-    "Text": "Alright then,",
+    "Text": "Yes",
     "Enabled": true
   },
   "101020040121001": {
     "OriginalText": "名コンビって奴をお見せしますか！",
-    "Text": "Let's show them our combined strength!",
+    "Text": "Let's show this thing what a real combination looks like!",
     "Enabled": true
   },
   "101020040130001": {
     "OriginalText": "生存者、助けてみせるっ！！",
-    "Text": "We will save them!",
+    "Text": "We'll save you survivors!!",
     "Enabled": true
   },
   "101020050010001": {
     "OriginalText": "よかった、無事……じゃないわね。\nあんたボロボロじゃない！",
-    "Text": "Whew, done.\nGreat job holding on, you're pretty strong!",
+    "Text": "Thank goodness, you're safe...\nWait, no you're not. You're all beat up!",
     "Enabled": true
   },
   "101020050020002": {
     "OriginalText": "どこが？ どう見たって無事だろ！ \nなあイズナ？",
-    "Text": "Not really, I couldn't even hurt them...",
+    "Text": "What are you talking about?\nI'm obviously fine! Right, Izuna?",
     "Enabled": true
   },
   "101020050030003": {
@@ -1326,7 +1326,7 @@
   },
   "101020050040002": {
     "OriginalText": "ほらみろ！ 無事じゃないか。\nオレ様は力押しだけのザコには\nやられないんだよ！",
-    "Text": "Were you looking?\nNo matter how you look at it,\nI couldn't even handle a small fry.",
+    "Text": "See! She's fine.\nThe great me wouldn never lose\nto brute-force small fry!",
     "Enabled": true
   },
   "101020050050001": {
@@ -1366,7 +1366,7 @@
   },
   "101020050100002": {
     "OriginalText": "イズナも同期なんだぜ。年はふたつ下だけどな。",
-    "Text": "Izuna was in school too,\nbut she was a year below us.",
+    "Text": "Izuna's in our year too,\nthough she's two years younger.",
     "Enabled": true
   },
   "101020050110003": {
@@ -1376,7 +1376,7 @@
   },
   "101020050120001": {
     "OriginalText": "飛び級生かぁ、優秀なんだね！\nあたし達のことは知ってる？",
-    "Text": "So you skipped a grade?\nYou must be good!\nMaybe you remember your upperclassmen?",
+    "Text": "So you skipped a grade? You must be good!\nDo you know who we are?",
     "Enabled": true
   },
   "101020050130002": {
@@ -1466,7 +1466,7 @@
   },
   "101020060020001": {
     "OriginalText": "健康だと思いますよ。イズナは無傷でしたし、\nセイルは帰りの道中でずーっと\n『オレが艦長を支える』って語ってましたから。",
-    "Text": "They're not heavily injured.\nIzuna seemed to be uninjured, but\nSail took the brunt of it.",
+    "Text": "They're not heavily injured.\nIzuna seemed to be fine, & Sail went on\nthe whole way back about how\n\"I'll support the Captain\".",
     "Enabled": true
   },
   "101020060030004": {
@@ -1616,7 +1616,7 @@
   },
   "101030010030001": {
     "OriginalText": "この[ruby ほし]惑星[/ruby]ではあたし達が普段\nあらゆるエネルギー装として\n利用しているフォトンが使えません。",
-    "Text": "On this planet, we cannot use our Photons,\nbut we can instead use the strange energy\nnative to this planet.",
+    "Text": "On this planet we can't use photons,\nwhich we normally use as our\nenergy source for everything.",
     "Enabled": true
   },
   "101030010040001": {
@@ -1716,7 +1716,7 @@
   },
   "102010020110004": {
     "OriginalText": "現在、人員は[ruby ふね]艦[/ruby]の維持に必要な数を残して、\n残りはコールドスリープさせてある。",
-    "Text": "Currently, only a few people are allowed to\nleave because of ship maintenance, while the\nothers are still in Cold Sleep.",
+    "Text": "Except for those needed to maintain\nthe ship, everyone is back in cold sleep.",
     "Enabled": true
   },
   "102010020120004": {
@@ -1871,7 +1871,7 @@
   },
   "102010025110012": {
     "OriginalText": "そうです！ 現在、研究班ではこのグラン結晶を\nフォトンの代用として使えないか、\n検証作業を進めています。",
-    "Text": "That's right! Currently, the research team\ncan use this Gran crystal as a substitute\nfor Photons.",
+    "Text": "That's right! The research team is testing\nwhether this Gran crystal can be\nused as a substitute.",
     "Enabled": true
   },
   "102010025120002": {
@@ -1956,7 +1956,7 @@
   },
   "102010040020012": {
     "OriginalText": "お陰様でグランの研究が大きく進展し、\nグラン結晶をフォトンに変換する\nシステムの完成にメドが立ちました！",
-    "Text": "Thanks to you, Gran research has made a great\nprogress, the system to convert Gran Crystals\ninto Photons has been completed!",
+    "Text": "Thanks to you, Gran research has made great\nprogress, the system's completion\nis now in sight!",
     "Enabled": true
   },
   "102010040030001": {
@@ -1996,7 +1996,7 @@
   },
   "102010040100004": {
     "OriginalText": "ただ集めるだけじゃダメだからな。\n現状維持してもしょうがねえんだ！",
-    "Text": "Well, it's the only way. Can't be helped,\nif it is to improve our current state.",
+    "Text": "Just collecting isn't enough.\nMerely keeping things as\nthey are is pointless!",
     "Enabled": true
   },
   "102010040110004": {
@@ -2046,7 +2046,7 @@
   },
   "102010040180001": {
     "OriginalText": "……いつか余裕っちゅ！\nって報告してやりますよ！",
-    "Text": "If we get back someday...\nI'm reporting you!",
+    "Text": "Someday I'll report back\n\"That was easy!\"",
     "Enabled": true
   },
   "102010040190004": {
@@ -2056,7 +2056,7 @@
   },
   "102010040200007": {
     "OriginalText": "その時はいくらでも任務のハードルを\n上げてあげるから、安心なさい。",
-    "Text": "At the moment, I can raise the toil of the\nmission as you like, you can rest assured\nthat.",
+    "Text": "When that day comes, I'll raise\nthe bar as high as you like,\ndon't you worry yet.",
     "Enabled": true
   },
   "102010040210001": {
@@ -2136,17 +2136,17 @@
   },
   "102020015120001": {
     "OriginalText": "[ruby]相棒[/ruby]もだけど、みんなすごいよ。\nもう自信持って戦えてるんだから。",
-    "Text": "Everyone is amazing, even Buddy.\nI'm only confident in my fighting.",
+    "Text": "Everyone is amazing, even Buddy.\nYou're all already fighting with confidence.",
     "Enabled": true
   },
   "102020015125000": {
     "OriginalText": "ルティナも自信を持とう",
-    "Text": "Have more confidence, Lutina.",
+    "Text": "Have more confidence in\nyourself, Lutina.",
     "Enabled": true
   },
   "102020015130001": {
     "OriginalText": "簡単には自信なんてつかないよ。\n今もついてくので精一杯でさ……。",
-    "Text": "I can't easily get confident.\nI'll just follow you, so I'll do my best...",
+    "Text": "It's not that easy for me.\nEven now I'm barely keeping up....",
     "Enabled": true
   },
   "102020015135000": {
@@ -2156,7 +2156,7 @@
   },
   "102020015140001": {
     "OriginalText": "ううん、他人なんか\n気にしてられる状況じゃないし。\nみんな自分で手一杯だよね。",
-    "Text": "Well, I don't like to be carried by others.\nEveryone's already got their hands full.",
+    "Text": "No, this isn't a situation where\nanyone can worry about others.\nEveryone has their hands full.",
     "Enabled": true
   },
   "102020015150001": {
@@ -2206,7 +2206,7 @@
   },
   "102020020060007": {
     "OriginalText": "笑ったりしないから、逃げ回りなさい！",
-    "Text": "This isn't a joke, keep running around!",
+    "Text": "I won't laugh at you, so run for it!",
     "Enabled": true
   },
   "102020020070007": {
@@ -2221,7 +2221,7 @@
   },
   "102020020090003": {
     "OriginalText": "大きすぎます……この火力では……！",
-    "Text": "It's so big... and what firepower!",
+    "Text": "It's too big... with our firepower, we can't!",
     "Enabled": true
   },
   "102020020100002": {
@@ -2296,7 +2296,7 @@
   },
   "102020030080004": {
     "OriginalText": "てめえらも何を足元でチョロチョロやってんだ！",
-    "Text": "What are you staring at!?",
+    "Text": "What are you scurrying around\nat its feet for!",
     "Enabled": true
   },
   "102020030081004": {
@@ -2306,7 +2306,7 @@
   },
   "102020030090001": {
     "OriginalText": "そんなこと言われても！？",
-    "Text": "Who said that!?",
+    "Text": "Easy for you to say!?",
     "Enabled": true
   },
   "102020030100004": {
@@ -2346,7 +2346,7 @@
   },
   "102030010010004": {
     "OriginalText": "よく生き残ったな。",
-    "Text": "Thank goodness we survived.",
+    "Text": "Well done surviving.",
     "Enabled": true
   },
   "102030010020002": {
@@ -2446,12 +2446,12 @@
   },
   "102030010195000": {
     "OriginalText": "ポチの方がいい",
-    "Text": "We better not lose.",
+    "Text": "I prefer pochi.",
     "Enabled": true
   },
   "102030010200004": {
     "OriginalText": "ふふっ！ それもいいが、\n負けたら恥ずかしくて帰ってこれないぞ！",
-    "Text": "Hehe! That's fine, but if you lose,\nyou'll be too embarrassed to come back!",
+    "Text": "Hehe! That's not a bad idea,\nbut if I lose, I'll be too\nembarassed to come home!",
     "Enabled": true
   },
   "102030010210007": {
@@ -2561,7 +2561,7 @@
   },
   "102040010140004": {
     "OriginalText": "惑星探査隊オルターの勇土なら使いこなせる！\nそうだよな！！",
-    "Text": "Just like the Planetary Exploration Team\nAlter, you can brave any world!\nAnd that's the truth!!",
+    "Text": "The planetary exploration team Alter\ncan handle it! That's right!!",
     "Enabled": true
   },
   "102040010145000": {
