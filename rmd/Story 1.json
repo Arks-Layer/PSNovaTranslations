@@ -846,12 +846,12 @@
   },
   "101010040061001": {
     "OriginalText": "艦長を連れて下がってください！",
-    "Text": "Please take the Captain and\nstand back!",
+    "Text": "Please take the Captain & stand back!",
     "Enabled": true
   },
   "101010040070004": {
     "OriginalText": "お前達！？ その武器はどうした！？",
-    "Text": "You guys!?\nHow are your weapons working?",
+    "Text": "You guys!? How are your weapons working?",
     "Enabled": true
   },
   "101010040080001": {
@@ -861,12 +861,12 @@
   },
   "101010050010014": {
     "OriginalText": "フィルディア、ひとつ……頼みがある",
-    "Text": "Fildia...\nI have a request.",
+    "Text": "Fildia... I have a request.",
     "Enabled": true
   },
   "101010050020004": {
     "OriginalText": "戻ってから聞きます",
-    "Text": "It can wait until\nyou're back at the ship.",
+    "Text": "It can wait until you're back at the ship.",
     "Enabled": true
   },
   "101010050030014": {
@@ -876,7 +876,7 @@
   },
   "101010050031014": {
     "OriginalText": "いいか、デルタ・ヴァリアントの全権をお前に託す",
-    "Text": "I grant you full\nrights to the Delta Valiant.",
+    "Text": "I grant you full authority to the Delta Valiant.",
     "Enabled": true
   },
   "101010050040004": {
@@ -891,7 +891,7 @@
   },
   "101010050051014": {
     "OriginalText": "『[ruby ぎょうこう]暁紅[/ruby]のフィルディア』と呼ばれた英雄のお前しかいない",
-    "Text": "I leave it to you Fildia, the Crimson Dawn of ARKS.",
+    "Text": "you, the famed champion who known as, \"Fildia, the Crimson Dawn\".",
     "Enabled": true
   },
   "101010050060004": {
@@ -901,12 +901,12 @@
   },
   "101010050070014": {
     "OriginalText": "今、必用なのは希望だ",
-    "Text": "What you need right now is not talent.",
+    "Text": "What we need right now is hope",
     "Enabled": true
   },
   "101010050071014": {
     "OriginalText": "能力ではない、分かるな？",
-    "Text": "What you need is hope. Understand?",
+    "Text": "Not ability. you get it?",
     "Enabled": true
   },
   "101010050080004": {
@@ -916,12 +916,12 @@
   },
   "101010050090014": {
     "OriginalText": "仲間を生きて帰してやってくれ、頼んだぞ……！",
-    "Text": "Lead your friends,\nand take them home!",
+    "Text": "Lead your companions, & take them home!",
     "Enabled": true
   },
   "101010050100004": {
     "OriginalText": "……はい、ご心配なく、我が[ruby しんめい]身命[/ruby]に代えても守ってみせましょう",
-    "Text": "... Don't worry,\nI'll get them home,\nno matter what.",
+    "Text": "Alright, don't worry... I'll get them home, even if it costs me my life..",
     "Enabled": true
   },
   "101010050110014": {
@@ -936,17 +936,17 @@
   },
   "101010060010004": {
     "OriginalText": "デルタ・ヴァリアント艦長、\nフィルディアより、全乗組員に告ぐ！",
-    "Text": "To all crew members,\nthis is the Captain of\nDelta Valiant, Fildia!",
+    "Text": "This is the Captain of the Delta Valiant,\nFildia. To all crew members!",
     "Enabled": true
   },
   "101010070010004": {
     "OriginalText": "作業の手を止めずに聞いてほしい",
-    "Text": "Please continue to work\nas you hear this.",
+    "Text": "Please continue to work as you hear this.",
     "Enabled": true
   },
   "101010070015004": {
     "OriginalText": "諸君も知っての通り、\nこの[ruby ほし]惑星[/ruby]ではフォトンが使えない",
-    "Text": "As many of you have heard,\nwe can't use Photons on\nthis planet.",
+    "Text": "As many of you have heard,\nwe can't use Photons on this planet.",
     "Enabled": true
   },
   "101010070020004": {
@@ -956,47 +956,47 @@
   },
   "101010070030004": {
     "OriginalText": "このままでは遠からず部隊は窮乏し、\n全滅するだろう",
-    "Text": "As it stands,\nthe little troops we have, will be\nannihilated.",
+    "Text": "If things continue this way, our forces\nwill run out of supplies & we'll be wiped out.",
     "Enabled": true
   },
   "101010070035004": {
     "OriginalText": "それを回避するため、\n私は……あー、えーと……",
-    "Text": "To prevent that,\nI will- uh, uhm....",
+    "Text": "To prevent that, I will- uh, uhm....",
     "Enabled": true
   },
   "101010070040004": {
     "OriginalText": "だめだ！ いつも通りでやる！",
-    "Text": "Ah screw it!\nI'll just talk like always!",
+    "Text": "Ah to hell with it! I'll just talk like I've always have!",
     "Enabled": true
   },
   "101010070045004": {
     "OriginalText": "いいかお前ら！ 生き残るぞ！",
-    "Text": "Listen up!\nWe're gonna make it outta here!",
+    "Text": "Listen up! We're gonna survive!",
     "Enabled": true
   },
   "101010070050004": {
     "OriginalText": "どうすりゃいいかはまだ分からん！",
-    "Text": "I dont know how,\nbut we'll do this!",
+    "Text": "I'm not sure how we're gonna do it!",
     "Enabled": true
   },
   "101010070052004": {
     "OriginalText": "どいつもこいつも全力を出せ！",
-    "Text": "So somehow or other,\ndo your best!",
+    "Text": "Every single one of you, give it your all!",
     "Enabled": true
   },
   "101010070055004": {
     "OriginalText": "オレも本気でがラでもねえ艦長をやってやる！",
-    "Text": "Me too of course!\nI'll get serious with this\nCaptain thing!",
+    "Text": "Even if it's just for show, I'm going to be a captain.",
     "Enabled": true
   },
   "101010070060004": {
     "OriginalText": "この[ruby ふね]艦[/ruby]で絶対に帰るからな！",
-    "Text": "No matter what,\nwe will definitely return!",
+    "Text": "We're going to make it out of here on this ship!",
     "Enabled": true
   },
   "101010070065004": {
     "OriginalText": "諦めんじゃねえぞ！ オレとお前らの約束だ！",
-    "Text": "No giving up!\nYou guys better not!",
+    "Text": "Don't give up! That's the promise we've made!",
     "Enabled": true
   },
   "101010070070004": {
@@ -1011,7 +1011,7 @@
   },
   "101010080006008": {
     "OriginalText": "残り少ないエネルギーでもしばらくは持つと思います",
-    "Text": "We still have a\nlittle energy. It should\nlast us a while longer.",
+    "Text": "We still have a little energy. It should last us a while longer.",
     "Enabled": true
   },
   "101010080010004": {
@@ -1821,12 +1821,12 @@
   },
   "102010025010012": {
     "OriginalText": "初めまして、みなさん。シャロンと申します。\nレイヴァン副長の助手として\nグランの研究を担当しています。",
-    "Text": "Nice to meet you, everyone. I'm Sharon.\nAssistant of Director Raven and\nhead of Gran research.",
+    "Text": "Nice to meet you, everyone. I'm Sharon.\nAssistant of Director Raven and head\nof Gran research.",
     "Enabled": true
   },
   "102010025020012": {
     "OriginalText": "みなさんのお陰で、研究がはかどっています！\n今後もよろしくお願いしますね！",
-    "Text": "Thanks to you, the research is progressing!\nI look forward to working with you!!",
+    "Text": "Thanks to you, the research is progressing!\nI look forward to working with you!",
     "Enabled": true
   },
   "102010025030001": {
@@ -1851,7 +1851,7 @@
   },
   "102010025070012": {
     "OriginalText": "この[ruby ほし]惑星[/ruby]特有のエネルギー、\n『グラン』を結晶化したものです。",
-    "Text": "This is crystallized Gran,\nthe energy unique to this planet.",
+    "Text": "This is the energy unique to this planet;\nThis is the crystalized form of \"Gran\".",
     "Enabled": true
   },
   "102010025080002": {
