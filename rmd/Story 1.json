@@ -2141,7 +2141,7 @@
   },
   "102020015125000": {
     "OriginalText": "ルティナも自信を持とう",
-    "Text": "Have more confidence in\nyourself, Lutina.",
+    "Text": "Have more confidence in yourself, Lutina.",
     "Enabled": true
   },
   "102020015130001": {
@@ -2171,7 +2171,7 @@
   },
   "102020015161002": {
     "OriginalText": "１００個は無理でも\nもういくつか見つけられたら、\nこの辺にもっとあるって確信できるだろ？",
-    "Text": "Even if 100 is impossible, I think if we find\nsome, there's bound to be more\nhere, right?",
+    "Text": "Even if 100 is impossible, I think if we find\nsome, there's bound to be more here, right?",
     "Enabled": true
   },
   "102020015170001": {
@@ -2191,27 +2191,27 @@
   },
   "102020020030003": {
     "OriginalText": "デルタ・ヴァリアント、応答を！\n今の衝撃、観測できていますか？",
-    "Text": "Delta Valiant, please response!\nDid you detect the quake just now?",
+    "Text": "Delta Valiant, please respond!\nDid you detect that shockwave just now?",
     "Enabled": true
   },
   "102020020040007": {
     "OriginalText": "観測？ 何を言っているの！？\nさっさと逃げなさい！！",
-    "Text": "Detect? What are you saying!?\nGet out of there!!",
+    "Text": "Detect? What are you talking about!?\nWait, get out of there now!!",
     "Enabled": true
   },
   "102020020050007": {
     "OriginalText": "援軍がそちらに向かったわ。\n到着まで生きなさい！",
-    "Text": "Reinforcements are headed there.\nProtect yourself till they arrive.",
+    "Text": "Reinforcements are on their way.\nStay alive until they've arrived.",
     "Enabled": true
   },
   "102020020060007": {
     "OriginalText": "笑ったりしないから、逃げ回りなさい！",
-    "Text": "I won't laugh at you, so run for it!",
+    "Text": "I won't make fun of you for doing so, just run for it!",
     "Enabled": true
   },
   "102020020070007": {
     "OriginalText": "あと少し！ 回復も憎しまず使い切りなさい！",
-    "Text": "A little more! Don't forget to use your\nrecovery items!",
+    "Text": "A little more! Don't forget to use your recovery items!",
     "Enabled": true
   },
   "102020020080001": {
