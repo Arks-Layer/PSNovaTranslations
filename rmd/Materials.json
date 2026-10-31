@@ -851,7 +851,7 @@
   },
   "350170": {
     "OriginalText": "ロザードのヒレ片",
-    "Text": "Rozad Fin",
+    "Text": "Rozard Fin",
     "Enabled": true
   },
   "350171": {
@@ -896,7 +896,7 @@
   },
   "350179": {
     "OriginalText": "ロザードの爪",
-    "Text": "Rozad Claw",
+    "Text": "Rozard Claw",
     "Enabled": true
   },
   "350180": {
@@ -941,7 +941,7 @@
   },
   "350188": {
     "OriginalText": "ロザードの完全な背びれ",
-    "Text": "Rozad Perfect Dorsal Fin",
+    "Text": "Rozard Perfect Dorsal Fin",
     "Enabled": true
   },
   "350189": {
@@ -1741,7 +1741,7 @@
   },
   "350348": {
     "OriginalText": "クロザードのヒレ",
-    "Text": "Gu Rozad Fin",
+    "Text": "Gu Rozard Fin",
     "Enabled": true
   },
   "350349": {
@@ -1811,7 +1811,7 @@
   },
   "350362": {
     "OriginalText": "クロザードの爪",
-    "Text": "Gu Rozad Claw",
+    "Text": "Gu Rozard Claw",
     "Enabled": true
   },
   "350363": {
@@ -1881,7 +1881,7 @@
   },
   "350376": {
     "OriginalText": "クロザードの完全な背びれ",
-    "Text": "Gu Rozad Dorsal Fin",
+    "Text": "Gu Rozard Dorsal Fin",
     "Enabled": true
   },
   "350377": {
@@ -1976,7 +1976,7 @@
   },
   "350395": {
     "OriginalText": "スロザードのヒレ",
-    "Text": "Su Rozad Fin",
+    "Text": "Su Rozard Fin",
     "Enabled": true
   },
   "350396": {
@@ -2036,7 +2036,7 @@
   },
   "350407": {
     "OriginalText": "スロザードの鋭爪",
-    "Text": "Su Rozad Sharp Claw",
+    "Text": "Su Rozard Sharp Claw",
     "Enabled": true
   },
   "350408": {
@@ -2096,7 +2096,7 @@
   },
   "350419": {
     "OriginalText": "スロザードの完全な背びれ",
-    "Text": "Su Rozad Perfect Dorsal Fin",
+    "Text": "Su Rozard Perfect Dorsal Fin",
     "Enabled": true
   },
   "350420": {
@@ -2196,7 +2196,7 @@
   },
   "350439": {
     "OriginalText": "ウロザードの硬ヒレ",
-    "Text": "Pa Rozad Hard Fin",
+    "Text": "Pa Rozard Hard Fin",
     "Enabled": true
   },
   "350440": {
@@ -2251,7 +2251,7 @@
   },
   "350450": {
     "OriginalText": "ウロザードの鋭爪",
-    "Text": "Pa Rozad Sharp Claw",
+    "Text": "Pa Rozard Sharp Claw",
     "Enabled": true
   },
   "350451": {
@@ -2306,7 +2306,7 @@
   },
   "350461": {
     "OriginalText": "ウロザードの完全な背びれ",
-    "Text": "Pa Rozad Perfect Fin",
+    "Text": "Pa Rozard Perfect Fin",
     "Enabled": true
   },
   "350462": {
@@ -2866,7 +2866,7 @@
   },
   "350573": {
     "OriginalText": "ロザード・トカの背びれ",
-    "Text": "Rozad Toqa Dorsal Fin",
+    "Text": "Rozard Toqa Dorsal Fin",
     "Enabled": true
   },
   "350574": {
@@ -3081,7 +3081,7 @@
   },
   "350616": {
     "OriginalText": "ロザード・トカの爪",
-    "Text": "Rozad Toqa Claw",
+    "Text": "Rozard Toqa Claw",
     "Enabled": true
   },
   "350617": {
@@ -3296,7 +3296,7 @@
   },
   "350659": {
     "OriginalText": "ロザード・トカの完全な背びれ",
-    "Text": "Rozad Toqa Perfect Dorsal Fin",
+    "Text": "Rozard Toqa Perfect Dorsal Fin",
     "Enabled": true
   },
   "350660": {
@@ -3941,22 +3941,22 @@
   },
   "350788": {
     "OriginalText": "ロザードの超背びれ",
-    "Text": "Rozad Super Dorsal Fin",
+    "Text": "Rozard Super Dorsal Fin",
     "Enabled": true
   },
   "350789": {
     "OriginalText": "ウロザードの超背びれ",
-    "Text": "Pa Rozad Super Dorsal Fin",
+    "Text": "Pa Rozard Super Dorsal Fin",
     "Enabled": true
   },
   "350790": {
     "OriginalText": "クロザードの超背びれ",
-    "Text": "Gu Rozad Super Dorsal Fin",
+    "Text": "Gu Rozard Super Dorsal Fin",
     "Enabled": true
   },
   "350791": {
     "OriginalText": "スロザードの超背びれ",
-    "Text": "Su Rozad Super Dorsal Fin",
+    "Text": "Su Rozard Super Dorsal Fin",
     "Enabled": true
   },
   "350792": {
@@ -4941,22 +4941,22 @@
   },
   "350988": {
     "OriginalText": "ロザードの硬背びれ",
-    "Text": "Rozad Ultra Dorsal Fin",
+    "Text": "Rozard Ultra Dorsal Fin",
     "Enabled": true
   },
   "350989": {
     "OriginalText": "ウロザードの硬背びれ",
-    "Text": "Pa Rozad Ultra Dorsal Fin",
+    "Text": "Pa Rozard Ultra Dorsal Fin",
     "Enabled": true
   },
   "350990": {
     "OriginalText": "クロザードの硬背びれ",
-    "Text": "Gu Rozad Ultra Dorsal Fin",
+    "Text": "Gu Rozard Ultra Dorsal Fin",
     "Enabled": true
   },
   "350991": {
     "OriginalText": "スロザードの硬背びれ",
-    "Text": "Su Rozad Ultra Dorsal Fin",
+    "Text": "Su Rozard Ultra Dorsal Fin",
     "Enabled": true
   },
   "350992": {

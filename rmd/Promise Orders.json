@@ -26,7 +26,7 @@
   },
   "280005": {
     "OriginalText": "ヒレ片を調達しよう",
-    "Text": "Let's Supply Rozad Fins",
+    "Text": "Let's Supply Rozard Fins",
     "Enabled": true
   },
   "280006": {
@@ -1436,7 +1436,7 @@
   },
   "290005": {
     "OriginalText": "ロザードのヒレ片を集めるのを手龍って、[ruby]相棒[/ruby]！\n５個あれば完壁なんだけど……。",
-    "Text": "Help me collect some Rozad Fins, Buddy!\nI'll need 5 pieces of them...",
+    "Text": "Help me collect some Rozard Fins, Buddy!\nI'll need 5 pieces of them...",
     "Enabled": true
   },
   "290006": {
@@ -1486,7 +1486,7 @@
   },
   "290015": {
     "OriginalText": "テッラマンデルの鱗片を調達してこようよ、相棒！\n表側はゴツゴツして汚いけど裏側はつややかで\n光の加滅で色んな色に変化するんだよ。\n１つあれば十分だよ！",
-    "Text": "Let's gather some Terra Mander Scales, Buddy!\nIt might be rough but behind it is\nglossy and colorful.\nI just need 1 piece!",
+    "Text": "Let's gather some Terramander Scales, Buddy!\nIt might be rough but behind it is\nglossy and colorful.\nI just need 1 piece!",
     "Enabled": true
   },
   "290016": {
@@ -1506,7 +1506,7 @@
   },
   "290019": {
     "OriginalText": "今、あたしオペレーターの練習してるんだけど\nなかなか時間が取れなくて……。そこで相棒！\nあたしの代わりに銅の荒野で巨大ロザードを倒す\n任務を引き受けてくれない？\n[a 03]※この約束は１回のみ[b]",
-    "Text": "I'm practicing to be operator right now...\nCan you please defeat the Giant Rozad in the Steel Wasteland for me?\n[a 03]※Non-Repeatable[b]",
+    "Text": "I'm practicing to be operator right now...\nCan you please defeat the Giant Rozard in the Steel Wasteland for me?\n[a 03]※Non-Repeatable[b]",
     "Enabled": true
   },
   "290020": {
@@ -2596,7 +2596,7 @@
   },
   "290237": {
     "OriginalText": "他では手に入らない珍味を調達してくださいな。\nクロザードの超背びれに、サフグランブの超巻き祭、\nスマラクリトロの超粘、いったいどんなお味が\nすることやら……よだれが止まりませんぞ！",
-    "Text": "Please collect these delicacies.\nGu Rozad Super Dorsal Fin, Sahugranv\nSuper Helix, and Smar Crittro Super Mucus.\nI'm drooling!",
+    "Text": "Please collect these delicacies.\nGu Rozard Super Dorsal Fin, Sahugranv\nSuper Helix, and Smar Crittro Super Mucus.\nI'm drooling!",
     "Enabled": true
   },
   "290238": {
@@ -2846,7 +2846,7 @@
   },
   "300005": {
     "OriginalText": "【ロザードのヒレ片】を集める",
-    "Text": "Collect [Rozad Fin]",
+    "Text": "Collect [Rozard Fin]",
     "Enabled": true
   },
   "300006": {
@@ -2896,7 +2896,7 @@
   },
   "300015": {
     "OriginalText": "【テッラマンデルの鱗片】を集める",
-    "Text": "Collect [Terra Mander Scale]",
+    "Text": "Collect [Terramander Scale]",
     "Enabled": true
   },
   "300016": {
@@ -4006,7 +4006,7 @@
   },
   "300237": {
     "OriginalText": "【クロザードの超背びれ】を集める\n【サフグランブの超巻き祭】を集める\n【スマラクリトロの超粘】を集める",
-    "Text": "Collect [Gu Rozad Super Dorsal Fin]\nCollect [Sahugranv Super Helix]\nCollect [Smar Crittro Super Mucus]",
+    "Text": "Collect [Gu Rozard Super Dorsal Fin]\nCollect [Sahugranv Super Helix]\nCollect [Smar Crittro Super Mucus]",
     "Enabled": true
   },
   "300238": {

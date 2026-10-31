@@ -376,27 +376,27 @@
   },
   "182910": {
     "OriginalText": "ロザード",
-    "Text": "Rozad",
+    "Text": "Rozard",
     "Enabled": true
   },
   "182920": {
     "OriginalText": "ウロザード",
-    "Text": "Pa Rozad",
+    "Text": "Pa Rozard",
     "Enabled": true
   },
   "182930": {
     "OriginalText": "クロザード",
-    "Text": "Gu Rozad",
+    "Text": "Gu Rozard",
     "Enabled": true
   },
   "182940": {
     "OriginalText": "スロザード",
-    "Text": "Su Rozad",
+    "Text": "Su Rozard",
     "Enabled": true
   },
   "182950": {
     "OriginalText": "ロザード・トカ",
-    "Text": "Rozad Toqa",
+    "Text": "Rozard Toqa",
     "Enabled": true
   },
   "183010": {
@@ -666,17 +666,17 @@
   },
   "184110": {
     "OriginalText": "エレマンデル",
-    "Text": "Err Mander",
+    "Text": "Earthmander",
     "Enabled": true
   },
   "184120": {
     "OriginalText": "テッラマンデル",
-    "Text": "Terra Mander",
+    "Text": "Terramander",
     "Enabled": true
   },
   "184130": {
     "OriginalText": "イーグマンデル",
-    "Text": "Eag Mander",
+    "Text": "Aegmander",
     "Enabled": true
   },
   "184140": {
@@ -1546,22 +1546,22 @@
   },
   "189087": {
     "OriginalText": "メガ・ロザード",
-    "Text": "Mega Rozad",
+    "Text": "Mega Rozard",
     "Enabled": true
   },
   "189088": {
     "OriginalText": "メガ・ウロザード",
-    "Text": "Mega Pa Rozad",
+    "Text": "Mega Pa Rozard",
     "Enabled": true
   },
   "189089": {
     "OriginalText": "メガ・クロザード",
-    "Text": "Mega Gu Rozad",
+    "Text": "Mega Gu Rozard",
     "Enabled": true
   },
   "189090": {
     "OriginalText": "メガ・スロザード",
-    "Text": "Mega Su Rozad",
+    "Text": "Mega Su Rozard",
     "Enabled": true
   },
   "189091": {
