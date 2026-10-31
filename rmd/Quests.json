@@ -2201,7 +2201,7 @@
   },
   "230003": {
     "OriginalText": "依頼者：シャロン\n銅の荒野で艦のエネルギーとなるグラン結晶を\n集めてください。\nこの惑星の原生種かもしれない未知の生命反応が\n出ています。\n交戦の可能性もありますので警戒を怠らないで\nください。\n同行者：ルティナ セイル イズナ",
-    "Text": "Client: Sharon\nGather Gran crystals in the Steel\nWastelands. Unknown bio-readings\nwere detected, likely an native\nspecies. Combat is likely to\noccur, so stay alert!\n\nCompanion(s): Lutina, Sail, Izuna",
+    "Text": "Client: Sharon\nGather Gran crystals in the Steel\nWastelands. Unknown bio-readings\nwere detected, likely a native\nspecies. Combat is likely to\noccur, so stay alert!\n\nCompanion(s): Lutina, Sail, Izuna",
     "Enabled": true
   },
   "230004": {
