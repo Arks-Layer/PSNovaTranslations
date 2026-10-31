@@ -481,22 +481,22 @@
   },
   "780001": {
     "OriginalText": "『カメラ燥作』\n\n[f 66] で[a 07]周りを見回す[b]ことができます。\nカメラを標準の視点にリセットするには\n[f 79] を押します。\n\nメインメニューの\n［設定/ヘルプ］＞［カメラ設定］で\n通常カメラの設定を変更することができます。",
-    "Text": "[Camera Control]\n\nUse [f 66] to [a 07]look around[b] and move the camera.\nTo reset the camera to the default view,\npress the [f 79] button.",
+    "Text": "Use [f 66] to [a 07]look around[b] and move the camera.\nTo reset the camera to the default view,\npress the [f 79] button.",
     "Enabled": true
   },
   "780002": {
     "OriginalText": "『移動とジャンプ』\n\nキャラクターは [f 65] で[a 07]移動[b]させることが\nできます。\n\nまた [f 75] を押すことで[a 07]ジャンプ[b]ができます。\n\n[a 07]ボタンを長押し[b]することでより高くジャンプ\nすることも可能です。\n\nまずはキャラクターを動かして指定された場\n所まで近づいてみましょう。",
-    "Text": "[Moving and jumping]\n\nUse the [f 65] to [a 07]move[b].\n\nBy pressing [f 75] you can [a 07]jump[b]\ninto the air. You can jump higher by\npressing the button longer.",
+    "Text": "Use the [f 65] to [a 07]move[b].\n\nBy pressing [f 75] you can [a 07]jump[b]\ninto the air. You can jump higher by\npressing the button longer.",
     "Enabled": true
   },
   "780003": {
     "OriginalText": "『攻撃と連続攻撃』\n\n[f 73] を押すことで、[a 07]通常攻撃[b]を行います。\n\n通常攻撃は１種類ですが、[f 73] を[a 07]連打または\n押し続ける[b]ことで、[a 07]３段攻撃[b]を連続して行う\n「連続攻撃」ができます。",
-    "Text": "[Attacking continuously]\n\nPressing [f 73] will do a [a 07]normal attack[b].\n\nIf you continue to press/hold [f 73],\nyou will do [a 07]additional attacks[b].",
+    "Text": "Pressing [f 73] will do a [a 07]normal attack[b].\n\nIf you continue to press/hold [f 73],\nyou will do [a 07]additional attacks[b].",
     "Enabled": true
   },
   "780004": {
     "OriginalText": "『フォトンアーツ』\n\nフォトンアーツとは、フォトンの力を用いた\n強力な攻撃です。\n\nフォトンアーツには射程や属性の異なる\nさままな種類があります。\n\n[f 78] を押しながら [f 73] や [f 74] を押すと\n[a 07]伝備している武器に対応したフォトンアーツ[b]を\n繰り出します。",
-    "Text": "[Photon Arts]\n\nPhoton Arts are powerful attacks using\nphotons.\n\nWhile holding [f 78], you can press [f 73] or [f 74]\n[a 07]to use a Photon Art[b].",
+    "Text": "Photon Arts are powerful attacks using\nphotons.\n\nWhile holding [f 78], you can press [f 73] or [f 74]\n[a 07]to use a Photon Art[b].",
     "Enabled": true
   },
   "780005": {
@@ -506,7 +506,7 @@
   },
   "780006": {
     "OriginalText": "『テクニック』\n\nテクニックとは、フォースがフォトンの力を\n用いて扱う強力な法術です。\n\n[a 07]遠隔攻撃[b]をはじめ、[a 07]パーティーメンバーの\n治癒[b]や[a 07]戦闘ダメージの軽滅[b]など、\nさままなテクニックが存在します。\n\nテクニックは [f 74][a 07] 長押し溜めで発動[b]します。",
-    "Text": "[Techniques]\n\nTechniques are powerful skills utilized by Force\nvia harnessing the power of photons.\n\nThey include things such as [a 07]ranged attacks[b], [a 07]healing party members[b],\nand [a 07]offensive and defensive buffs[b].\n\nYou can [a 07]charge[b] a Technique by\nholding down [f 74].",
+    "Text": "Techniques are powerful skills used by Forces\nusing the power of photons.\n\nThey are capable of [a 07]ranged attacks[b], [a 07]healing[b],\n& [a 07]offensive & defensive buffs[b].\n\nYou can [a 07]charge[b] a Technique by\nholding down [f 74].",
     "Enabled": true
   },
   "780007": {
@@ -516,12 +516,12 @@
   },
   "780008": {
     "OriginalText": "『ハンターの回避アクション』\n\n[f 77] の入力で、[a 07]移動方向へ回避[b]を行います。\n\nハンターの回避アクション「[a 07]ステップ[b]」は、\n最小限の移動距離ですばやく身をかわします。\n\nクラスによって回避アクションは異なります。",
-    "Text": "[Dodging as a Hunter]\n\nBy holding and pressing [f 77]\nyou [a 07]can perform a Dodge Action[b]\nin the direction of where you're\nmoving towards.\n\nYou will only move in a short distance\nas a Hunter. Other Classes will perform\ndifferent Dodge Actions.",
+    "Text": "By holding and pressing [f 77]\nyou [a 07]can perform a Dodge Action[b]\nin the direction you're\nmoving.\n\nYou will only move in a short distance\nas a Hunter. Other Classes will perform\ndifferent Dodge Actions.",
     "Enabled": true
   },
   "780009": {
     "OriginalText": "『メインパレットの裏表を切り替える』\n\n画面右下の「メインパレット」に、[a 07]攻撃ボタ\nンとそれに対応するアクションが表示[b]されて\nいます。\n\n[f 78] を押している間は、[a 07]メインパレットが\n裏パレットに切り替わります[b]。\n\nこのときに [f 73] や [f 74] を押すことで割り\n当てられた行動をします。",
-    "Text": "[Swapping the Palettes]\nThe Main Palette in the lower right\ncorner of the screen shows [a 07]the\nattack buttons and their actions[b].\nBy holding [f 78], you will [a 07]swap\nto the back palette[b].\n\nPressing [f 73] or [f 74] will\nperform any actions that are\nassigned to them.",
+    "Text": "The Main Palette in the corner\nof the screen shows [a 07]the attack\nbuttons[b]. By holding [f 78], you\nwill [a 07]swap to the back palette[b].\n\nPressing [f 73] or [f 74] will\nperform any actions that are\nassigned to them.",
     "Enabled": true
   },
   "780010": {
@@ -656,18 +656,18 @@
   },
   "780036": {
     "OriginalText": "『ステップアタック』\n\n[a 07]回避中に通常攻撃を入力[b]することで、回避後\nの立ち上がりから[a 07]素早く攻撃[b]を始めることが\nできるようになるスキルです。\n\nステップアタックは[a 07]スキルボードにセット[b]\nすれば使えるようになります。",
-    "Text": "",
-    "Enabled": false
+    "Text": "[a 07]By using a normal attack immediately\nafter recovering from a dodge[b],\nyou can [a 07]quickly launch another attack[b]\nby using this skill.\n\nYou can [a 07]use Step Attack once you've\nlearned it on your skill board[b].",
+    "Enabled": true
   },
   "780037": {
     "OriginalText": "『ジャストガード』\n\n敵からの[a 07]攻撃を受ける直前にタイミングよく\n「ガード」[b]を行うことで「ジャストガード」\nが発生するようになるスキルです。\n\n[a 07]受けるダメージを０[b]にして、さらに[a 07]近距離の\n敵に反撃ダメージ[b]を与えます。\nＧＰ（グランポイント）の消費もありません。",
-    "Text": "",
-    "Enabled": false
+    "Text": "By [a 07]timing your Guard, just\nbefore you've received an attack[b],\nyou can perform a \"Just Guard\".\n\nYou will [a 07]take no damage, plus you\ndeal damage to nearby enemies[b].\nGP (Gran Points) aren't used.",
+    "Enabled": true
   },
   "780038": {
     "OriginalText": "\nジャストガードを行うには、\n[a 07]「ジャストガード」をスキルボードにセット[b]し、\n[a 07]「ガード」を武器パレットにセット[b]する必要が\nあります。",
-    "Text": "",
-    "Enabled": false
+    "Text": "\nTo perform a Just Guard, you must place\n\"Just Guard\" on your \"Skill Board\" &\nplace \"Guard\" on your weapon subpallete.",
+    "Enabled": true
   },
   "780039": {
     "OriginalText": "『ハンター』\n\nハンターは[a 07]近接攻撃[b]を得意とする戦闘タイプ\nです。\n\n打撃武器である[a 07]ソード・パルチザン・\nダブルセイバー・ナックル[b]を使いこなします。\n\nハンターの回避アクション「ステップ」は\n最小限の移動距離ですばやく身をかわします。",
@@ -841,13 +841,13 @@
   },
   "780073": {
     "OriginalText": "『スキルボード』\n\n習得したスキルをスキルボードにセットして\n自分好みの能力をカスタマイズしましょう。\n\n[a 07]スキルボードにセットしていないスキルは効\n果を発揮しません。[b]\n\nスキルによっては、スキルボードにセットし\nた後、[a 07]サブパレットにスキルをセット[b]する\n必要があります。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Place skills you've learned on the Skill Board\nin order to customize them.\n\n[a 07]Skills not assigned to the board will not be applied.[b]\n\nDepending on the skill, [a 07]you may need to set it on the\nsubpalette.[b]",
+    "Enabled": true
   },
   "780074": {
     "OriginalText": "『コンボスキル』\n\nスキルをスキルボードにセットしたときに、\n[a 07]隣りあうスキルの組み合わせによって\n特別な「コンボスキル」が発生[b]することが\nあります。\n\nスキルの組み合わせを試してみましょう。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Certain skills [a 07]adjacent to each other[b]\ncan trigger a \"Combo Skill\".\n\nTry to mix & match skills to reach\ndifferent combos.",
+    "Enabled": true
   },
   "780075": {
     "OriginalText": "『スキルボードの拡張』\n\nオルクスのプロミスオーダーを達成し、\n[a 07]２剤目のスキルボード[b]にスキルを\nセットできるようになりました。",
@@ -901,18 +901,18 @@
   },
   "780085": {
     "OriginalText": "『クラスカウンター』\n\nクラスカウンターでは、プレイヤーの能力を\nカスタマイズできます。",
-    "Text": "",
-    "Enabled": false
+    "Text": "With the Class Counter, you can\ncustomize your character's abilities.",
+    "Enabled": true
   },
   "780086": {
     "OriginalText": "『クラス変更』\n\nキャラクターの[a 07]クラスを自由に変更[b]できます。\nクラスを変更しても、[a 07]元のクラスのレベルは\n維持[b]されます。\n\nまた、パーティーメンバーのレベルは\n[a 07]プレイヤーの現在のクラスレベルにあわせて\n変化[b]します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "[a 07]You can freely change your character's\nclass.[b] However, [a 07]the level of your\noriginal class does not carry over[b].\n\nYour [a 07]Party Member's levels will scale[b]\nbased on your current class level.",
+    "Enabled": true
   },
   "780087": {
     "OriginalText": "『グランアーツ・テクニック習得』\n\nグランアーツは武器にセットする強化攻撃、\nテクニックはフォースの放つ法術です。\n\n[a 07]習得には素村が必要[b]です。\n\nフォース用武器にはグランアーツは\nありません。\n\nハンター、レンジャーがテクニックを使うには\nスキル「テクニック使用可」が必要です。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Weapons use \"Gran Arts\", while Forces\nuse Gran-powered \"Techniques\".\n\n[a 07]You will need materials to\nlevel them.[b]\n\nIn order for other classes to\nuse Techniques, they require the\nskill \"Technique Usage\".",
+    "Enabled": true
   },
   "780088": {
     "OriginalText": "『食堂』\n\n食堂では食事をすることができます。\n\n食事をすることで、[a 07]次のクエスト中、\nプレイヤーにさままな効果が発生[b]します。\n\nマルチプレイ時には、全員に食事の効果が\n反映されます。\n\nクエストを終了すると食事の効果はなくなり\nます。",
@@ -1056,8 +1056,8 @@
   },
   "780116": {
     "OriginalText": "\nクラスカウンターでは、プレイヤーの能力を\nカスタマイズできます。\n\nレベルアップ時に[a 07]習得したスキルは、\nクラスカウンターで「スキルボード」に\nセットすると効果を発揮します。[b]\n\nスキルを習得したらまずクラスカウンターへ\n行きましょう。",
-    "Text": "",
-    "Enabled": false
+    "Text": "\nWith the Class Counter, you can\ncustomize your character's abilities.\n\n[a 07]Skills acquired from the Skill Board\nare applied instantly upon activation.[b]\n\nHead to the Class Counter afer learning\na skill.",
+    "Enabled": true
   },
   "780117": {
     "OriginalText": "\n艦長を引き継ぎ、惑星探索任務を続行します。\n\n[a 07]ラボで「施設の開発」や「施設の配置と移動」\nができるようになりました。[b]",
@@ -1176,7 +1176,7 @@
   },
   "780140": {
     "OriginalText": "『バスター』\n\nバスターは対ギガンテス武器である[a 07]パイルや\nヘイロウを使いこなす[b]新しい戦闘タイプです。\n\n[a 07]すべてのクラスの武器種を伝備可能[b]で、\nまた[a 07]テクニックを使うこともできます[b]。\n\n打撃力・射撃力・法撃力のバランスが良く、\nダイブロールによる回避ができます。",
-    "Text": "Buster is a new combat class wielding\nweapons like the [a 07]Pile and Halo[b]\nto counter the Gigantes.\n\nIt can equip [a 07]any class's\nweapons and use Techniques[b].\n\nIt balances Strike, Ranged, &\nTech stats, and evades attacks\nwith Dive Roll.",
+    "Text": "Buster is a new combat class that\nuses the [a 07]Pile & Halo[b] to counter\nthe Gigantes.\n\nIt [a 07]can equip any weapon & use\nTechs[b].\n\nIt balances Strike, Ranged, & Tech\nstats, & evades attacks with\nDive Roll.",
     "Enabled": true
   },
   "780141": {
