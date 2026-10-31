@@ -2021,17 +2021,17 @@
   },
   "210126": {
     "OriginalText": "原生種殲滅",
-    "Text": "Exterminate",
+    "Text": "Exterminate Natives",
     "Enabled": true
   },
   "210127": {
     "OriginalText": "原生種殲滅",
-    "Text": "Exterminate",
+    "Text": "Exterminate Natives",
     "Enabled": true
   },
   "210128": {
     "OriginalText": "原生種殲滅",
-    "Text": "Exterminate",
+    "Text": "Exterminate Natives",
     "Enabled": true
   },
   "210129": {
@@ -2206,33 +2206,33 @@
   },
   "230004": {
     "OriginalText": "\n銅の荒野における哨戒作戦を任せる。\n指定地域を周回探索せよ。\n原生種に遭遇した場合は速やかに撃破するよう。\n経贄を制圧し、治安確保を確認次第、\n帰還許可を与える。\n",
-    "Text": "",
-    "Enabled": false
+    "Text": "\nYou are assigned to patrol an\narea of the Steel Wastelands.\nIf you encounter any hostiles,\neliminate them immediately.\n\nOnce you've secured the area,\nyou are authorized to return.",
+    "Enabled": true
   },
   "230005": {
     "OriginalText": "\n銅の荒野におけるダーカー討伐作戦を任せる。\nダーカーの反応を多数確認している指定地域へ\n速やかに向かうよう。\nこの作戦は素材として利用するダーカーの確保が\n目的である。\n",
-    "Text": "",
-    "Enabled": false
+    "Text": "\nYou've been granted an operation to\neliminate the Darkers in the Steel\nWastelands. Numerous Darkers have been\ndetected in the area. The goal of this\noperation is to secure materials\nfrom Darkers.\n",
+    "Enabled": true
   },
   "230006": {
     "OriginalText": "依頼者：フィルディア\n銅の荒野でグラン結晶を集めてくれ。\n新たに感知したヤツを全部頼むぞ。\nそれぐらい集めないと艦のエネルギーには全然\n足りないそうだ。ただし警戒は怠るな。\n生きて戻れなきゃ意味ないからな！\n\n同行者：ルティナ セイル イズナ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Client: Fildia\nGather Gran Crystals in the Steel\nWastelands. Nab all of the newer\nones we've detected or we can't\npower the ship.\n\nKeep sharp & don't die out there!\n\nCompanion(s): Lutina, Sail, Izuna",
+    "Enabled": true
   },
   "230007": {
     "OriginalText": "\n銅の荒野における大型原生種\nジャッドバンサー撃破作戦を任せる。\n現在、エリア内の最深部に反応あり。\n速やかに現場へ向かうよう。\n標的の撃破を確認次第、帰還許可を与える。",
-    "Text": "",
-    "Enabled": false
+    "Text": "\nSubdue the massive the Jhad\nBanther in the Steel Wastelands.\nWe detected it in the farthest depths.\n\nYou'll be granted permission to leave\nonce the target has been confirmed\nto be defeated.",
+    "Enabled": true
   },
   "230008": {
     "OriginalText": "依頼者：フィルディア\n銅の荒野へアグリオスを倒しに行く！\nヘイロウの威力を見せてやろうじゃねえか。\n足場を展開・包囲したら、攻撃有効箇所を\n見つけ集中攻撃だ！\n\n\n同行者：ルティナ セイル イズナ フィルディア\n[a 03]※この任務のみ一度クリアまでフィルディアが同行[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "Client: Fildia\nDefeat the Agrios in the Steel Wastelands.\nFind all its weakspots & focus your\n\nattacks there!\n\nCompanion(s): Lutina, Sail, Izuna, Fildia\n※Fildia will temporarily join your party.",
+    "Enabled": true
   },
   "230009": {
     "OriginalText": "\n銅の荒野におけるアグリオス撃破作戦を任せる。\n似前、撃破したものとは別の個体を確認した。\n新兵器ヘイロウを使用し、足場を展開して\n標的を包囲し、弱点を集中攻撃せよ。\n",
-    "Text": "",
-    "Enabled": false
+    "Text": "You've been granted an operation to\ndefeat the Agrios in the Steel Wastelands.\nWe've confirmed that it is a different one\nto the one you've defeated last time.",
+    "Enabled": true
   },
   "230010": {
     "OriginalText": "依頼者：リーティア\n炎の高地で医療資材の収集をお願いします。\n医療資材というのはいろいろあるのですが、\n現地へ行けばおわかりいただけると思います。\n崖が多いので落ちないように、\nお気をつけください。\n\n同行者：ルティナ セイル イズナ",
