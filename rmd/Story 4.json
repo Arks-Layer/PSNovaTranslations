@@ -21,193 +21,193 @@
   },
   "401010020100110": {
     "OriginalText": "フィルディア隊長達は先に行っちゃったみたい。\n急いで追いかけるよ、[ruby]相棒[/ruby]！",
-    "Text": "",
-    "Enabled": false
+    "Text": "It seems like Captain Fildia & the\nothers have gone ahead. I'll be right\nbehind you, Buddy!",
+    "Enabled": true
   },
   "401010020200110": {
     "OriginalText": "あ、あれっ？ どうなってんの！？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Huh? Wait a second... What's going on here!?",
+    "Enabled": true
   },
   "401010020200120": {
     "OriginalText": "フォトンが出な……出ろっ！ ええい！",
-    "Text": "",
-    "Enabled": false
+    "Text": "The photons... Why won't they come out already? Ugh.",
+    "Enabled": true
   },
   "401010020200130": {
     "OriginalText": "これじゃまともに戦えないよ！！",
-    "Text": "",
-    "Enabled": false
+    "Text": "I can't fight properly like this!!",
+    "Enabled": true
   },
   "401010020300110": {
     "OriginalText": "な、なんとか勝った……！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Somehow we've managed to win that...",
+    "Enabled": true
   },
   "401010020300120": {
     "OriginalText": "どういうこと？\nフォトンが使えないなんて……！",
-    "Text": "",
-    "Enabled": false
+    "Text": "What did you mean?\nWe can't use photons?",
+    "Enabled": true
   },
   "401010030100110": {
     "OriginalText": "うん、これならフォトン……、\nううん、グランが使える！\n[ruby]相棒[/ruby]！ さっさと倒して先に進むよ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Yes, with this, we can use Photons—err...\nI mean Gran! Buddy, let's move & take them out!",
+    "Enabled": true
   },
   "401010030100120": {
     "OriginalText": "フォトン・アーツが使える……\nいや、グラン、ていうんだっけ……。",
-    "Text": "",
-    "Enabled": false
+    "Text": "We can use Photon Arts?\nOh Gran was it?",
+    "Enabled": true
   },
   "401010030100130": {
     "OriginalText": "この力があれば……戦える！！",
-    "Text": "",
-    "Enabled": false
+    "Text": "With this power, I can finally fight!!",
+    "Enabled": true
   },
   "401010040100410": {
     "OriginalText": "あいつ、フォトン・アーツを！？\nいや、あの力は違うぞ……！",
-    "Text": "",
-    "Enabled": false
+    "Text": "They just used a Photon Art!?\nNo wait, it's different?",
+    "Enabled": true
   },
   "401010040100420": {
     "OriginalText": "どうなってやがる？\nオレにはできないことをあいつらは……！",
-    "Text": "",
-    "Enabled": false
+    "Text": "What the heck is going on?\nWhy could they do it, but I can't?",
+    "Enabled": true
   },
   "402020015100710": {
     "OriginalText": "あなた達の前方に\n巨大エネミーの出現を確認！\n援軍を派遣したわ、それまで逃げなさい！",
-    "Text": "",
-    "Enabled": false
+    "Text": "A colossal enemy has been detected\nahead of you! We've sent reinforcements,\nhang tight until they're there!",
+    "Enabled": true
   },
   "402020015200710": {
     "OriginalText": "援軍が到着したわ！\n援軍と一緒に急いで拠点に\n帰還なさい！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Reinforcements are here!\nGet back to base with them!",
+    "Enabled": true
   },
   "402020015300710": {
     "OriginalText": "あと少し！ 回復も憎しまず使い切りなさい！",
-    "Text": "",
-    "Enabled": false
+    "Text": "A little more! Don't forget to use your recovery items!",
+    "Enabled": true
   },
   "402020015400110": {
     "OriginalText": "何なの？ 何なのよあれは！？",
-    "Text": "",
-    "Enabled": false
+    "Text": "What? What is that!?",
+    "Enabled": true
   },
   "402020015400210": {
     "OriginalText": "だめだ、攻撃が効いてる気がしねえ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "It's no good, I don't think our attacks\nare working!",
+    "Enabled": true
   },
   "402020015400310": {
     "OriginalText": "大きすぎます……この火力では……！",
-    "Text": "",
-    "Enabled": false
+    "Text": "It's too big... with our firepower, we can't!",
+    "Enabled": true
   },
   "402020015500110": {
     "OriginalText": "無理だよ……死んじゃうよ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Impossible... We're dead meat!",
+    "Enabled": true
   },
   "402020015500210": {
     "OriginalText": "くそっ、一撃もらっちまった！ なんて威力だ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Damn, I'm hit! It's so strong!",
+    "Enabled": true
   },
   "402020015500310": {
     "OriginalText": "どう攻めていいか、分かりません……！",
-    "Text": "",
-    "Enabled": false
+    "Text": "I don't know how we can attack...!",
+    "Enabled": true
   },
   "402020020100110": {
     "OriginalText": "何なの？ 何なのよあれは！？",
-    "Text": "",
-    "Enabled": false
+    "Text": "What? What is that!?",
+    "Enabled": true
   },
   "402020020100120": {
     "OriginalText": "無理だよ……死んじゃうよ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Impossible... We're dead meat!",
+    "Enabled": true
   },
   "402020020100210": {
     "OriginalText": "だめだ、攻撃が効いてる気がしねえ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "It's no good, I don't think our attacks\nare working!",
+    "Enabled": true
   },
   "402020020100220": {
     "OriginalText": "くそっ、一撃もらっちまった！\nなんて威力だ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Damn, I'm hit! It's so strong!",
+    "Enabled": true
   },
   "402020020100310": {
     "OriginalText": "どう攻めていいか、分かりません……！",
-    "Text": "",
-    "Enabled": false
+    "Text": "I don't know how we can attack...!",
+    "Enabled": true
   },
   "402020020100320": {
     "OriginalText": "大きすぎます……この火力では……！",
-    "Text": "",
-    "Enabled": false
+    "Text": "It's too big... with our firepower, we can't!",
+    "Enabled": true
   },
   "402020040200710": {
     "OriginalText": "援軍がそちらに向かったわ。\n到着まで生きなさい！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Reinforcements are on their way.\nStay alive until they've arrived.",
+    "Enabled": true
   },
   "402020040300720": {
     "OriginalText": "笑ったりしないから、逃げ回りなさい！",
-    "Text": "",
-    "Enabled": false
+    "Text": "I won't make fun of you for doing so, just run for it!",
+    "Enabled": true
   },
   "402020040400730": {
     "OriginalText": "あと少し！\n回復も憎しまず使い切りなさい！",
-    "Text": "",
-    "Enabled": false
+    "Text": "A little more! Don't forget to use your recovery items!",
+    "Enabled": true
   },
   "402040013100110": {
     "OriginalText": "いけそうだよ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "We can do it!",
+    "Enabled": true
   },
   "402040013100210": {
     "OriginalText": "よっしゃ！ 登るぜ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Alright, let's climb!",
+    "Enabled": true
   },
   "402040013100310": {
     "OriginalText": "テストと同じ効果を確認。いけます！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Just like the tests, it works!",
+    "Enabled": true
   },
   "402040013100410": {
     "OriginalText": "よしよし、いい出来だぞ、シャロン！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Alright Sharon, it works!",
+    "Enabled": true
   },
   "402040013100420": {
     "OriginalText": "仕留めるぞ！ オレに続け！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Follow my lead, going to take it down!",
+    "Enabled": true
   },
   "402040013200710": {
     "OriginalText": "数種類のギガンテスが観測されているわ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Several other types of Gigantes\nhave been detected.",
+    "Enabled": true
   },
   "402040013200720": {
     "OriginalText": "似後、あの型のギガンテスは\n「ギガンテス・アグリオス」と\n呼称します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "For now on, this type of Gigantes\nwill now be referred to as \"Gigantes Agrios\".",
+    "Enabled": true
   },
   "402040013200730": {
     "OriginalText": "ヘイロウを使って、\nさっさとのしてやりなさい。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Use the Halo & make quick work of them.",
+    "Enabled": true
   },
   "403030030100110": {
     "OriginalText": "セイル！ 前に出る時は言ってね！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Sail! Let us know before you do that again!",
+    "Enabled": true
   },
   "403030030100120": {
     "OriginalText": "[ruby]相棒[/ruby]！\nまだ回復は余裕あるから安心して！",
