@@ -5,32 +5,32 @@
     "Enabled": false
   },
   "700001": {
-    "OriginalText": "［食材調達］原生膜β類食材調達",
+    "OriginalText": "［食村調達］原生爬虫類食村調達",
     "Text": "[Gather] Native β Ingredients",
     "Enabled": true
   },
   "700002": {
-    "OriginalText": "［調査］銅の荒野開柘調査",
+    "OriginalText": "［調査］鋼の荒野開拓調査",
     "Text": "[Survey] Steel Wastelands Wilderness",
     "Enabled": true
   },
   "700003": {
-    "OriginalText": "［調査］グラン水装の調査",
+    "OriginalText": "［調査］グラン水源の調査",
     "Text": "[Survey] Gran Water Rig",
     "Enabled": true
   },
   "700004": {
-    "OriginalText": "［採集］銅の荒野グランピース採集",
+    "OriginalText": "［採集］鋼の荒野グランピース採集",
     "Text": "[Collect] Steel Wastelands Gran Pieces",
     "Enabled": true
   },
   "700005": {
-    "OriginalText": "［食材調達］ダーカー食材調達",
+    "OriginalText": "［食村調達］ダーカー食村調達",
     "Text": "[Gather] Darker Ingredients",
     "Enabled": true
   },
   "700006": {
-    "OriginalText": "［エネミー］グラン水装機械生洋討伐",
+    "OriginalText": "［エネミー］グラン水源機械生物討伐",
     "Text": "[Enemy] Gran Water Rig Machine Suppression",
     "Enabled": true
   },
@@ -40,12 +40,12 @@
     "Enabled": true
   },
   "700008": {
-    "OriginalText": "［採集］グラン水装グランピース採集",
+    "OriginalText": "［採集］グラン水源グランピース採集",
     "Text": "[Collect] Gran Water Rig Gran Pieces",
     "Enabled": true
   },
   "700009": {
-    "OriginalText": "［食材調達］炎の高地食材回収",
+    "OriginalText": "［食村調達］炎の高地食村回収",
     "Text": "[Gather] Flame Highlands Ingredients",
     "Enabled": true
   },
@@ -65,32 +65,32 @@
     "Enabled": true
   },
   "700013": {
-    "OriginalText": "［食材調達］銅の荒野ダーカー食材調達",
+    "OriginalText": "［食村調達］鋼の荒野ダーカー食村調達",
     "Text": "[Gather] Steel Wastelands Darker Ingredients",
     "Enabled": true
   },
   "700014": {
-    "OriginalText": "［エネミー］銅の荒野原生種討伐",
+    "OriginalText": "［エネミー］鋼の荒野原生種討伐",
     "Text": "[Enemy] Steel Wastelands Natives Suppression",
     "Enabled": true
   },
   "700015": {
-    "OriginalText": "［調査］銅の荒野生態系調査",
+    "OriginalText": "［調査］鋼の荒野生態系調査",
     "Text": "[Survey] Steel Wastelands Ecosystem",
     "Enabled": true
   },
   "700016": {
-    "OriginalText": "［採集］銅の荒野鉱石採集",
+    "OriginalText": "［採集］鋼の荒野鉱石採集",
     "Text": "[Collect] Steel Wastelands Ore",
     "Enabled": true
   },
   "700017": {
-    "OriginalText": "［エネミー］銅の荒野アグリオス討伐",
+    "OriginalText": "［エネミー］鋼の荒野アグリオス討伐",
     "Text": "[Enemy] Steel Wastelands Agrios Suppression",
     "Enabled": true
   },
   "700018": {
-    "OriginalText": "［食材調達］グラン水装原生種食材調達",
+    "OriginalText": "［食村調達］グラン水源原生種食村調達",
     "Text": "[Gather] Gran Water Rig Species Ingredients",
     "Enabled": true
   },
@@ -105,7 +105,7 @@
     "Enabled": true
   },
   "700021": {
-    "OriginalText": "［採集］グラン水装鉱石採集",
+    "OriginalText": "［採集］グラン水源鉱石採集",
     "Text": "[Collect] Gran Water Rig Ore",
     "Enabled": true
   },
@@ -115,12 +115,12 @@
     "Enabled": true
   },
   "700023": {
-    "OriginalText": "［食材調達］炎の高地原生種食材調達",
+    "OriginalText": "［食村調達］炎の高地原生種食村調達",
     "Text": "[Gather] Flame Highlands Plant Ingredients",
     "Enabled": true
   },
   "700024": {
-    "OriginalText": "［エネミー］炎の高地原生生洋討伐",
+    "OriginalText": "［エネミー］炎の高地原生生物討伐",
     "Text": "[Enemy] Flame Highlands Natives Suppression",
     "Enabled": true
   },
@@ -140,7 +140,7 @@
     "Enabled": true
   },
   "700028": {
-    "OriginalText": "［食材調達］銅の荒野食材調達",
+    "OriginalText": "［食村調達］鋼の荒野食村調達",
     "Text": "[Gather] Steel Wastelands Ingredients",
     "Enabled": true
   },
@@ -155,7 +155,7 @@
     "Enabled": true
   },
   "700031": {
-    "OriginalText": "［採集］銅の荒野稀少鉱石採集",
+    "OriginalText": "［採集］鋼の荒野稀少鉱石採集",
     "Text": "[Collect] Steel Wastelands Rare Ore",
     "Enabled": true
   },
@@ -165,12 +165,12 @@
     "Enabled": true
   },
   "700033": {
-    "OriginalText": "［食材調達］グラン水装食材調達",
+    "OriginalText": "［食村調達］グラン水源食村調達",
     "Text": "[Gather] Gran Water Rig Ingredients",
     "Enabled": true
   },
   "700034": {
-    "OriginalText": "［エネミー］グラン水装機械生洋討伐",
+    "OriginalText": "［エネミー］グラン水源機械生物討伐",
     "Text": "[Enemy] Gran Water Rig Machine Suppression",
     "Enabled": true
   },
@@ -180,17 +180,17 @@
     "Enabled": true
   },
   "700036": {
-    "OriginalText": "［採集］グラン水装稀少鉱石採集",
+    "OriginalText": "［採集］グラン水源稀少鉱石採集",
     "Text": "[Collect] Gran Water Rig Rare Ore",
     "Enabled": true
   },
   "700037": {
-    "OriginalText": "［エネミー］大尖塔原生膜β類討伐",
+    "OriginalText": "［エネミー］大尖塔原生爬虫類討伐",
     "Text": "[Enemy] Large Spire Natives β Suppression",
     "Enabled": true
   },
   "700038": {
-    "OriginalText": "［食材調達］炎の高地高難度食材採集",
+    "OriginalText": "［食村調達］炎の高地高難度食村採集",
     "Text": "[Gather] Flame Highlands Rare Ingredients",
     "Enabled": true
   },
@@ -200,7 +200,7 @@
     "Enabled": true
   },
   "700040": {
-    "OriginalText": "［調査］ギガンテス素材調査",
+    "OriginalText": "［調査］ギガンテス素村調査",
     "Text": "[Survey] Gigantes Material",
     "Enabled": true
   },
@@ -215,7 +215,7 @@
     "Enabled": true
   },
   "700043": {
-    "OriginalText": "［食材調達］大尖塔植洋食材採集",
+    "OriginalText": "［食村調達］大尖塔植物食村採集",
     "Text": "[Gather] Large Spire Plant Ingredients",
     "Enabled": true
   },
@@ -230,12 +230,12 @@
     "Enabled": true
   },
   "700046": {
-    "OriginalText": "［採集］大尖塔遺洋調査採集",
+    "OriginalText": "［採集］大尖塔遺物調査採集",
     "Text": "[Collect] Large Spire Ore",
     "Enabled": true
   },
   "700047": {
-    "OriginalText": "［食材調達］古代都市食材調達",
+    "OriginalText": "［食村調達］古代都市食村調達",
     "Text": "[Gather] Ancient City Ingredients",
     "Enabled": true
   },
@@ -245,47 +245,47 @@
     "Enabled": true
   },
   "700049": {
-    "OriginalText": "［調査］ダーカー素材調査",
+    "OriginalText": "［調査］ダーカー素村調査",
     "Text": "[Survey] Darker Material",
     "Enabled": true
   },
   "700050": {
-    "OriginalText": "［採集］古代都市資材回収",
+    "OriginalText": "［採集］古代都市資村回収",
     "Text": "[Collect] Ancient City Materials",
     "Enabled": true
   },
   "700051": {
-    "OriginalText": "［食材調達］銅の荒野膜β類食材調達",
+    "OriginalText": "［食村調達］鋼の荒野爬虫類食村調達",
     "Text": "[Gather] Steel Wastelands Natives β Suppression",
     "Enabled": true
   },
   "700052": {
-    "OriginalText": "［エネミー］銅の荒野原生種大量討伐",
+    "OriginalText": "［エネミー］鋼の荒野原生種大量討伐",
     "Text": "[Enemy] Steel Wastelands Natives Extermination",
     "Enabled": true
   },
   "700053": {
-    "OriginalText": "［調査］膜β類エネミー素材調査",
+    "OriginalText": "［調査］爬虫類エネミー素村調査",
     "Text": "[Survey] Reptile Enemy Material",
     "Enabled": true
   },
   "700054": {
-    "OriginalText": "［食材調達］グラン水装肉食材調達",
+    "OriginalText": "［食村調達］グラン水源肉食村調達",
     "Text": "[Gather] Gran Water Rig Meat",
     "Enabled": true
   },
   "700055": {
-    "OriginalText": "［エネミー］グラン水装ギガンテス討伐",
+    "OriginalText": "［エネミー］グラン水源ギガンテス討伐",
     "Text": "[Enemy] Gran Water Rig Gigantes Suppression",
     "Enabled": true
   },
   "700056": {
-    "OriginalText": "［調査］エネミー素材調査",
+    "OriginalText": "［調査］エネミー素村調査",
     "Text": "[Survey] Enemy Material",
     "Enabled": true
   },
   "700057": {
-    "OriginalText": "［食材調達］炎の高地水晶竜食材調達",
+    "OriginalText": "［食村調達］炎の高地水晶竜食村調達",
     "Text": "[Gather] Flame Highlands Earth Crystal Dragon Ingredients",
     "Enabled": true
   },
@@ -300,7 +300,7 @@
     "Enabled": true
   },
   "700060": {
-    "OriginalText": "［食材調達］大尖塔食材調査",
+    "OriginalText": "［食村調達］大尖塔食村調査",
     "Text": "[Gather] Large Spire Ingredients",
     "Enabled": true
   },
@@ -315,7 +315,7 @@
     "Enabled": true
   },
   "700063": {
-    "OriginalText": "［食材調達］古代都市鳥食材調達",
+    "OriginalText": "［食村調達］古代都市鳥食村調達",
     "Text": "[Gather] Ancient City Bird Ingredients",
     "Enabled": true
   },
@@ -330,57 +330,57 @@
     "Enabled": true
   },
   "700066": {
-    "OriginalText": "［食材調達］アグリオスのたまご調達",
+    "OriginalText": "［食村調達］アグリオスのたまご調達",
     "Text": "[Gather] Agrios Eggs",
     "Enabled": true
   },
   "700067": {
-    "OriginalText": "［エネミー］銅の荒野原生種討伐",
+    "OriginalText": "［エネミー］鋼の荒野原生種討伐",
     "Text": "[Enemy] Steel Wastelands Suppression",
     "Enabled": true
   },
   "700068": {
-    "OriginalText": "［調査］銅の荒野広域調査",
+    "OriginalText": "［調査］鋼の荒野広域調査",
     "Text": "[Survey] Steel Wastelands Area",
     "Enabled": true
   },
   "700069": {
-    "OriginalText": "［採集］銅の荒野鉱石採集",
+    "OriginalText": "［採集］鋼の荒野鉱石採集",
     "Text": "[Collect] Steel Wastelands Ore",
     "Enabled": true
   },
   "700070": {
-    "OriginalText": "［エネミー］銅の荒野機械生洋討伐",
+    "OriginalText": "［エネミー］鋼の荒野機械生物討伐",
     "Text": "[Enemy] Steel Wastelands Machine Suppression",
     "Enabled": true
   },
   "700071": {
-    "OriginalText": "［食材調達］グラン水装大量食材調達",
+    "OriginalText": "［食村調達］グラン水源大量食村調達",
     "Text": "[Gather] Gran Water Rig Numerous Ingredients",
     "Enabled": true
   },
   "700072": {
-    "OriginalText": "［エネミー］グラン水装ギガンテス捜索",
+    "OriginalText": "［エネミー］グラン水源ギガンテス捜索",
     "Text": "[Enemy] Gran Water Rig Gigantes Search",
     "Enabled": true
   },
   "700073": {
-    "OriginalText": "［調査］グラン水装の生態系調査",
+    "OriginalText": "［調査］グラン水源の生態系調査",
     "Text": "[Survey] Gran Ecosystem",
     "Enabled": true
   },
   "700074": {
-    "OriginalText": "［採集］グラン水装鉱石大捜索採集",
+    "OriginalText": "［採集］グラン水源鉱石大捜索採集",
     "Text": "[Collect] Gran Water Rig Large Ore",
     "Enabled": true
   },
   "700075": {
-    "OriginalText": "［エネミー］グラン水装原生種討伐",
+    "OriginalText": "［エネミー］グラン水源原生種討伐",
     "Text": "[Enemy] Gran Water Rig Natives Suppression",
     "Enabled": true
   },
   "700076": {
-    "OriginalText": "［食材調達］竜族のたまご調達",
+    "OriginalText": "［食村調達］竜族のたまご調達",
     "Text": "[Gather] Dragon Eggs",
     "Enabled": true
   },
@@ -390,7 +390,7 @@
     "Enabled": true
   },
   "700078": {
-    "OriginalText": "［調査］炎の高地機械生洋素材調査",
+    "OriginalText": "［調査］炎の高地機械生物素村調査",
     "Text": "[Survey] Flame Highlands Machine Materials",
     "Enabled": true
   },
@@ -405,7 +405,7 @@
     "Enabled": true
   },
   "700081": {
-    "OriginalText": "［食材調達］大尖塔食材調達",
+    "OriginalText": "［食村調達］大尖塔食村調達",
     "Text": "[Gather] Large Spire Ingredients",
     "Enabled": true
   },
@@ -420,7 +420,7 @@
     "Enabled": true
   },
   "700084": {
-    "OriginalText": "［採集］大尖塔資材採集",
+    "OriginalText": "［採集］大尖塔資村採集",
     "Text": "[Collect] Large Spire Materials",
     "Enabled": true
   },
@@ -430,7 +430,7 @@
     "Enabled": true
   },
   "700086": {
-    "OriginalText": "［食材調達］古代都市食材調達",
+    "OriginalText": "［食村調達］古代都市食村調達",
     "Text": "[Gather] Ancient City Ingredients",
     "Enabled": true
   },
@@ -455,7 +455,7 @@
     "Enabled": true
   },
   "700091": {
-    "OriginalText": "［食材調達］ノヴァ内部食材調達",
+    "OriginalText": "［食村調達］ノヴァ内部食村調達",
     "Text": "[Gather] Nova Interior Ingredients",
     "Enabled": true
   },
@@ -480,7 +480,7 @@
     "Enabled": true
   },
   "700096": {
-    "OriginalText": "［食材調達］ノヴァ内部食材調達",
+    "OriginalText": "［食村調達］ノヴァ内部食村調達",
     "Text": "[Gather] Nova Interior Ingredients",
     "Enabled": true
   },
@@ -545,32 +545,32 @@
     "Enabled": false
   },
   "710001": {
-    "OriginalText": "銅の荒野へ食村の調達に向かう。\n今回は小型原生種を標的にするため任務としては\n比較的安全だが、気を抜かず慎重に作戦遂行する。\n結果は追って報告する。",
+    "OriginalText": "鋼の荒野へ食村の調達に向かう。\n今回は小型原生種を標的にするため任務としては\n比較的安全だが、気を抜かず慎重に作戦遂行する。\n結果は追って報告する。",
     "Text": "Monster Flesh × 3\nReptile Egg × 3\nReptile Extract × 3",
     "Enabled": true
   },
   "710002": {
-    "OriginalText": "銅の荒野全域の危険度調査に向かう。\n大きな反応を示す未調査エリアを含めた本格調査で\n未確認生命体との遭遇も予想される。\n帰還後、速やかに調査結果をまとめて提出する。",
+    "OriginalText": "鋼の荒野全域の危険度調査に向かう。\n大きな反応を示す未調査エリアを含めた本格調査で\n未確認生命体との遭遇も予想される。\n帰還後、速やかに調査結果をまとめて提出する。",
     "Text": "G-El Ahda Wings × 4\nVi Maphrezer Claw × 4\nGigantes Laser Piece × 4",
     "Enabled": true
   },
   "710003": {
-    "OriginalText": "グラン水装の調査に向かう。\n未調査エリアも含めた本格調査であり、\n回避不可能な事態との遭遇も予想される。\n帰還後、速やかに調査結果をまとめて提出する。",
+    "OriginalText": "グラン水源の調査に向かう。\n未調査エリアも含めた本格調査であり、\n回避不可能な事態との遭遇も予想される。\n帰還後、速やかに調査結果をまとめて提出する。",
     "Text": "G-El Ahda Stinger × 4\nG-Dagan Carapace × 4\nGran Piece (Light) × 4",
     "Enabled": true
   },
   "710004": {
-    "OriginalText": "銅の荒野へグランピースの採集に向かう。\n現時点で多数の反応を確認しており、\n属性を帯びた個体の発見が見込まれている。\n結果は追って報告する。",
+    "OriginalText": "鋼の荒野へグランピースの採集に向かう。\n現時点で多数の反応を確認しており、\n属性を帯びた個体の発見が見込まれている。\n結果は追って報告する。",
     "Text": "Gran Piece (Light) × 4\nGran Piece (Lightning) × 4",
     "Enabled": true
   },
   "710005": {
-    "OriginalText": "グラン水装へ代用食村の調達に向かう。\n食肉が不足していることもあり、取り急ぎ危険領域を\n回避し、入手が容易な食村を探す予定である。\n結果は追って報告する。",
+    "OriginalText": "グラン水源へ代用食村の調達に向かう。\n食肉が不足していることもあり、取り急ぎ危険領域を\n回避し、入手が容易な食村を探す予定である。\n結果は追って報告する。",
     "Text": "Darker Meat × 4\nDarker Node × 4\nMagavulum Goo × 4",
     "Enabled": true
   },
   "710006": {
-    "OriginalText": "グラン水装へ機械生洋の撃破に向かう。\n現地にてかなりの規物の反応を確認しており、\n若干の危険を伴う任務になると予想される。\n結果は追って報告する。",
+    "OriginalText": "グラン水源へ機械生物の撃破に向かう。\n現地にてかなりの規模の反応を確認しており、\n若干の危険を伴う任務になると予想される。\n結果は追って報告する。",
     "Text": "Ase Rabbisaw Motor × 4\nMagavulum Cannon × 4\nOui Rove Rappy Main Wing × 4",
     "Enabled": true
   },
@@ -580,7 +580,7 @@
     "Enabled": true
   },
   "710008": {
-    "OriginalText": "グラン水装でグランピースを採集する。\n現時点で多数の反応を確認しており、\n属性を帯びた個体の発見が見込まれている。\n結果は追って報告する。",
+    "OriginalText": "グラン水源でグランピースを採集する。\n現時点で多数の反応を確認しており、\n属性を帯びた個体の発見が見込まれている。\n結果は追って報告する。",
     "Text": "Gran Piece (Ice) × 4\nGran Piece (Wind) × 4",
     "Enabled": true
   },
@@ -605,37 +605,37 @@
     "Enabled": true
   },
   "710013": {
-    "OriginalText": "銅の荒野へ食肉の調達に向かう。\n安全を優先し標的は小型原生種に限定する。\n速やかに現地へ向かい、慎重に作戦遂行する。\n結果は追って報告する。",
+    "OriginalText": "鋼の荒野へ食肉の調達に向かう。\n安全を優先し標的は小型原生種に限定する。\n速やかに現地へ向かい、慎重に作戦遂行する。\n結果は追って報告する。",
     "Text": "Darker Node × 4\nDarker Meat × 4\nDarker Antennae × 4",
     "Enabled": true
   },
   "710014": {
-    "OriginalText": "銅の荒野へ原生種の撃破に向かう。\n現地における反応はそれほど強くなく、大きな危険は\nないと予想するが、慎重に作戦を遂行する。\n結果は追って報告する。",
+    "OriginalText": "鋼の荒野へ原生種の撃破に向かう。\n現地における反応はそれほど強くなく、大きな危険は\nないと予想するが、慎重に作戦を遂行する。\n結果は追って報告する。",
     "Text": "Lar Aviadino Claw × 4\nDarker Sword Fin × 4\nSilve Carnnebear Fur × 4",
     "Enabled": true
   },
   "710015": {
-    "OriginalText": "銅の荒野全域の生態系調査に向かう。\n未調査エリアも含めた本格調査であり、\n未確認生命体との遭遇も予想される。\n帰還後、速やかに調査結果をまとめて提出する。",
+    "OriginalText": "鋼の荒野全域の生態系調査に向かう。\n未調査エリアも含めた本格調査であり、\n未確認生命体との遭遇も予想される。\n帰還後、速やかに調査結果をまとめて提出する。",
     "Text": "Darker Antennae × 4\nGran Piece (Lightning) × 4\nGigantes Missile Piece × 4",
     "Enabled": true
   },
   "710016": {
-    "OriginalText": "銅の荒野にて鉱石の採集に向かう。\n現地にて強いエネミー反応を確認しており、\n採集中に戦闘になる可能性が高い。\n結果は追って報告する。",
+    "OriginalText": "鋼の荒野にて鉱石の採集に向かう。\n現地にて強いエネミー反応を確認しており、\n採集中に戦闘になる可能性が高い。\n結果は追って報告する。",
     "Text": "Rapiliston × 4\nSilicified Wood × 4",
     "Enabled": true
   },
   "710017": {
-    "OriginalText": "銅の荒野へアグリオスの撃破に向かう。\n現地にて確認されている反応は非常に大きく\n大いなる危険を伴う任務になると予想される。\n結果は追って報告する。",
+    "OriginalText": "鋼の荒野へアグリオスの撃破に向かう。\n現地にて確認されている反応は非常に大きく\n大いなる危険を伴う任務になると予想される。\n結果は追って報告する。",
     "Text": "Darker Exoskeleton × 4\nGigantes Missile Piece × 4\nAgrios Horn × 4",
     "Enabled": true
   },
   "710018": {
-    "OriginalText": "グラン水装へ食肉の調達に向かう。\n現地にて大量の反応を確認しており、\nかなりの危険を伴う任務になると予想される。\n結果は追って報告する。",
+    "OriginalText": "グラン水源へ食肉の調達に向かう。\n現地にて大量の反応を確認しており、\nかなりの危険を伴う任務になると予想される。\n結果は追って報告する。",
     "Text": "Monster Flesh × 4\nReptile Extract × 4\nShellfish × 4",
     "Enabled": true
   },
   "710019": {
-    "OriginalText": "グラン水装へＧダーク・ラグネの撃破に向かう。\n現地にて強い反応を確認しており、\nかなりの危険を伴う任務になると予想される。\n結果は追って報告する。",
+    "OriginalText": "グラン水源へＧダーク・ラグネの撃破に向かう。\n現地にて強い反応を確認しており、\nかなりの危険を伴う任務になると予想される。\n結果は追って報告する。",
     "Text": "G-Dark Ragne Talon × 4\nEder Crittro Fur × 4\nG-Dark Ragne Hard Feeler × 4",
     "Enabled": true
   },
@@ -645,17 +645,17 @@
     "Enabled": true
   },
   "710021": {
-    "OriginalText": "グラン水装にて鉱石の採集に向かう。\n現地にて強いエネミー反応を確認しており、\n採集中に戦闘になる可能性が高い。\n結果は追って報告する。",
+    "OriginalText": "グラン水源にて鉱石の採集に向かう。\n現地にて強いエネミー反応を確認しており、\n採集中に戦闘になる可能性が高い。\n結果は追って報告する。",
     "Text": "Wood Opal × 4\nRed Growing Flower Crystal × 4",
     "Enabled": true
   },
   "710022": {
-    "OriginalText": "グラン水装へエウリュードの撃破に向かう。\n現地にて確認されている反応は非常に大きく\n大いなる危険を伴う任務になると予想される。\n結果は追って報告する。",
+    "OriginalText": "グラン水源へエウリュードの撃破に向かう。\n現地にて確認されている反応は非常に大きく\n大いなる危険を伴う任務になると予想される。\n結果は追って報告する。",
     "Text": "Eurude Barrel × 4\nGigantes Laser Piece × 4\nLarge Eurude Warhead × 4",
     "Enabled": true
   },
   "710023": {
-    "OriginalText": "炎の高地へ代用食村の調達に向かう。\n洋資全般が不足しており、食村の確保を優先し\n場合によっては危険領域に侵入する。\n結果は追って報告する。",
+    "OriginalText": "炎の高地へ代用食村の調達に向かう。\n物資全般が不足しており、食村の確保を優先し\n場合によっては危険領域に侵入する。\n結果は追って報告する。",
     "Text": "Reptile Crest × 4\nShellfish × 4\nCoral Dragon Blood × 4",
     "Enabled": true
   },
@@ -680,7 +680,7 @@
     "Enabled": true
   },
   "710028": {
-    "OriginalText": "銅の荒野へ食村の調達に向かう。\n食用となるものが見つかり次第回収していく予定で\n場合によっては危険領域に侵入する。\n結果は追って報告する。",
+    "OriginalText": "鋼の荒野へ食村の調達に向かう。\n食用となるものが見つかり次第回収していく予定で\n場合によっては危険領域に侵入する。\n結果は追って報告する。",
     "Text": "Juicy Fruit × 5\nReptile Crest × 5\nAgrios Egg × 5",
     "Enabled": true
   },
@@ -695,7 +695,7 @@
     "Enabled": true
   },
   "710031": {
-    "OriginalText": "銅の荒野へ鉱石の採集に向かう。\n現時点で多数の反応を確認しており、\n希少な鉱石の発見が見込まれている。\n結果は追って報告する。",
+    "OriginalText": "鋼の荒野へ鉱石の採集に向かう。\n現時点で多数の反応を確認しており、\n希少な鉱石の発見が見込まれている。\n結果は追って報告する。",
     "Text": "Gran Piece (Light) × 5\nGran Piece (Lightning) × 5\nCrystalline Pyrope × 5",
     "Enabled": true
   },
@@ -705,12 +705,12 @@
     "Enabled": true
   },
   "710033": {
-    "OriginalText": "グラン水装へ食肉の調達に向かう。\n食用となる柔らかな肉類を求められており、\n場合によっては危険領域に侵入する。\n結果は追って報告する。",
+    "OriginalText": "グラン水源へ食肉の調達に向かう。\n食用となる柔らかな肉類を求められており、\n場合によっては危険領域に侵入する。\n結果は追って報告する。",
     "Text": "Rove Rappy Meat × 5\nGiant Monster Flesh × 5\nBanther Bone × 5",
     "Enabled": true
   },
   "710034": {
-    "OriginalText": "グラン水装へ機械生洋の撃破に向かう。\n現地において大量の反応を確認しているが、\nそれほど強くなく危険は少ないと予想される。\n結果は追って報告する。",
+    "OriginalText": "グラン水源へ機械生物の撃破に向かう。\n現地において大量の反応を確認しているが、\nそれほど強くなく危険は少ないと予想される。\n結果は追って報告する。",
     "Text": "Rabbisaw Main Motor × 5\nRabbisaw Hard Ear Chain × 5\nRay Banther Pointed Horn × 5",
     "Enabled": true
   },
@@ -720,12 +720,12 @@
     "Enabled": true
   },
   "710036": {
-    "OriginalText": "グラン水装へ岩石の採集に向かう。\n現地にて反応を確認済みだが、\n同時に強めのエネミー反応も確認している。\n安全確保に留意しつつ作戦を遂行する。",
+    "OriginalText": "グラン水源へ岩石の採集に向かう。\n現地にて反応を確認済みだが、\n同時に強めのエネミー反応も確認している。\n安全確保に留意しつつ作戦を遂行する。",
     "Text": "Gran Piece (Wind) × 5\nGran Piece (Ice) × 5\nDull Silica Corundum × 5",
     "Enabled": true
   },
   "710037": {
-    "OriginalText": "大尖塔へ原生膜β類の撃破に向かう。\n現地にてかなり強い反応を確認しており、\n若干の危険を伴う任務になると予想される。\n結果は追って報告する。",
+    "OriginalText": "大尖塔へ原生爬虫類の撃破に向かう。\n現地にてかなり強い反応を確認しており、\n若干の危険を伴う任務になると予想される。\n結果は追って報告する。",
     "Text": "Huy Maphrezer Sharp Hook Claw × 4\nNoibaridran'na Sharp Claw × 4\nWindiras Large Tail × 4",
     "Enabled": true
   },
@@ -750,12 +750,12 @@
     "Enabled": true
   },
   "710042": {
-    "OriginalText": "大尖塔へ原生生洋の撃破に向かう。\n現地にて確認されている反応は非常に大きく\n大いなる危険を伴う任務になると予想される。\n結果は追って報告する。",
+    "OriginalText": "大尖塔へ原生生物の撃破に向かう。\n現地にて確認されている反応は非常に大きく\n大いなる危険を伴う任務になると予想される。\n結果は追って報告する。",
     "Text": "G-Dahgash Tail Fin × 4\nLeu Rove Rappy Large Fat × 4\nLeu Rove Rappy Wing × 4",
     "Enabled": true
   },
   "710043": {
-    "OriginalText": "大尖塔で食用できる植洋を採集する。\n現地にて確認されているエネミー反応が非常に大きく\n大いなる危険を伴う任務になると予想される。\n結果は追って報告する。",
+    "OriginalText": "大尖塔で食用できる植物を採集する。\n現地にて確認されているエネミー反応が非常に大きく\n大いなる危険を伴う任務になると予想される。\n結果は追って報告する。",
     "Text": "Moss × 4\nRice × 4\nLarge Mushroom × 4",
     "Enabled": true
   },
@@ -770,12 +770,12 @@
     "Enabled": true
   },
   "710046": {
-    "OriginalText": "大尖塔へ遺洋収集に向かう。\n現地を調査し収集可能な遺洋を回収する。\n場合によっては危険領域に侵入する。\n結果は追って報告する。",
+    "OriginalText": "大尖塔へ遺物収集に向かう。\n現地を調査し収集可能な遺物を回収する。\n場合によっては危険領域に侵入する。\n結果は追って報告する。",
     "Text": "Obelisk Fragment × 4\nLarge Spire's Wire × 4\nDyed Ceramics × 4",
     "Enabled": true
   },
   "710047": {
-    "OriginalText": "古代都市の食村調達に向かう。\n植洋由来の食村に絞って調達を行う。\n未確認生命体との遭遇も予想される。\n帰還後、速やかに調査結果をまとめて提出する。",
+    "OriginalText": "古代都市の食村調達に向かう。\n植物由来の食村に絞って調達を行う。\n未確認生命体との遭遇も予想される。\n帰還後、速やかに調査結果をまとめて提出する。",
     "Text": "Small Tree Nuts × 4\nTomato × 4\nMoss × 4",
     "Enabled": true
   },
@@ -795,27 +795,27 @@
     "Enabled": true
   },
   "710051": {
-    "OriginalText": "銅の荒野へ食肉の調達に向かう。\n今回は大型原生種を標的にするため、若干の危険を\n伴うものと予想され、慎重に作戦遂行する。\n結果は追って報告する。",
+    "OriginalText": "鋼の荒野へ食肉の調達に向かう。\n今回は大型原生種を標的にするため、若干の危険を\n伴うものと予想され、慎重に作戦遂行する。\n結果は追って報告する。",
     "Text": "Reptile Extract × 5\nReptile Crest × 5\nGiant Monster Flesh × 5",
     "Enabled": true
   },
   "710052": {
-    "OriginalText": "銅の荒野で大量発生した原生種の討伐に向かう。\nかなりの危険を伴う任務になると予想される。\n結果は追って報告する。",
+    "OriginalText": "鋼の荒野で大量発生した原生種の討伐に向かう。\nかなりの危険を伴う任務になると予想される。\n結果は追って報告する。",
     "Text": "Monster Flesh × 5\nGu Rozad Claw × 5\nLarge Ra Oodan Pelt × 5",
     "Enabled": true
   },
   "710053": {
-    "OriginalText": "膜β類の生態系調査に向かう。\n未確認エリアも含めた本格調査であり\n回避不可能な事態との遭遇も予想される。\n帰還後、速やかに調査結果をまとめて提出する。",
+    "OriginalText": "爬虫類の生態系調査に向かう。\n未確認エリアも含めた本格調査であり\n回避不可能な事態との遭遇も予想される。\n帰還後、速やかに調査結果をまとめて提出する。",
     "Text": "Reptile Meat × 5\nHard Vi Maphrezer Membrane × 5\nLarge Baridran'na Glowing Ball × 5",
     "Enabled": true
   },
   "710054": {
-    "OriginalText": "グラン水装へ食村の調達に向かう。\n食用となる柔らかな肉類を求められており、\n場合によっては危険領域に侵入する。\n結果は追って報告する。",
+    "OriginalText": "グラン水源へ食村の調達に向かう。\n食用となる柔らかな肉類を求められており、\n場合によっては危険領域に侵入する。\n結果は追って報告する。",
     "Text": "Monster Flesh × 5\nRove Rappy Meat × 5\nFish Gigantes Meat × 5",
     "Enabled": true
   },
   "710055": {
-    "OriginalText": "グラン水装に出現した巨大な反応の撃破に向かう。\nどのタイプかは確定できていないが\n大いなる危険を伴う任務になると予想される。\n結果は追って報告する。",
+    "OriginalText": "グラン水源に出現した巨大な反応の撃破に向かう。\nどのタイプかは確定できていないが\n大いなる危険を伴う任務になると予想される。\n結果は追って報告する。",
     "Text": "Gigantes Hide × 5\nDietoas Compression Bag × 5\nVivryude Gun Barrel × 5",
     "Enabled": true
   },
@@ -825,7 +825,7 @@
     "Enabled": true
   },
   "710057": {
-    "OriginalText": "食料としてコラル・ドラゴンの撃破に向かう。\n翼の付け根の肉は柔らかくて美味だが\n一体から取れる量は冷めて少量。\n結果は追って報告する。",
+    "OriginalText": "食料としてコラル・ドラゴンの撃破に向かう。\n翼の付け根の肉は柔らかくて美味だが\n一体から取れる量は極めて少量。\n結果は追って報告する。",
     "Text": "Dragonkin Meat × 5\nMagavulum Goo × 5\nCoral Dragon Blood × 5",
     "Enabled": true
   },
@@ -845,7 +845,7 @@
     "Enabled": true
   },
   "710061": {
-    "OriginalText": "大尖塔へゴルドスの撃破に向かう。\n現地にて復数の強い反応を確認しており、\nかなりの危険を伴う任務になると予想される。\n結果は追って報告する。",
+    "OriginalText": "大尖塔へゴルドスの撃破に向かう。\n現地にて複数の強い反応を確認しており、\nかなりの危険を伴う任務になると予想される。\n結果は追って報告する。",
     "Text": "Su Rozad Sharp Claw × 5\nGordes Sharp Assault Spike × 5\nGordes Hard Control Rod × 5",
     "Enabled": true
   },
@@ -855,7 +855,7 @@
     "Enabled": true
   },
   "710063": {
-    "OriginalText": "古代都市へ食肉の調達に向かう。\n厨房からの意向で鳥類の確保を目指すが\n安全を優先し危険生洋の生息域を避けて行動する。\n結果は追って報告する。",
+    "OriginalText": "古代都市へ食肉の調達に向かう。\n厨房からの意向で鳥類の確保を目指すが\n安全を優先し危険生物の生息域を避けて行動する。\n結果は追って報告する。",
     "Text": "Small Tree Nuts × 5\nJurrakia Cartilage × 5\nBird Meat × 5",
     "Enabled": true
   },
@@ -875,47 +875,47 @@
     "Enabled": true
   },
   "710067": {
-    "OriginalText": "銅の荒野で偵察目的の原生種討伐に向かう。\n現地における反応はそれほど強くなく、大きな危険は\nないと予想するが、慎重に作戦を遂行する。\n結果は追って報告する。",
+    "OriginalText": "鋼の荒野で偵察目的の原生種討伐に向かう。\n現地における反応はそれほど強くなく、大きな危険は\nないと予想するが、慎重に作戦を遂行する。\n結果は追って報告する。",
     "Text": "Aviadino Sharp Claw × 6\nPol Torrimp Large Pectoral Fin × 6\nGargranv Hard Mucus Crystal × 6",
     "Enabled": true
   },
   "710068": {
-    "OriginalText": "銅の荒野全域の調査に向かう。\n未調査エリアも含めた本格調査であり、\n回避不可能な事態との遭遇も予想される。\n帰還後、速やかに調査結果をまとめて提出する。",
+    "OriginalText": "鋼の荒野全域の調査に向かう。\n未調査エリアも含めた本格調査であり、\n回避不可能な事態との遭遇も予想される。\n帰還後、速やかに調査結果をまとめて提出する。",
     "Text": "Crystalline Pyrope × 6\nAgrios' Gun × 6",
     "Enabled": true
   },
   "710069": {
-    "OriginalText": "銅の荒野へ岩石の採集に向かう。\n現地にて反応を確認済みだが、\n同時に強めのエネミー反応も確認している。\n安全確保に留意しつつ作戦を遂行する。",
+    "OriginalText": "鋼の荒野へ岩石の採集に向かう。\n現地にて反応を確認済みだが、\n同時に強めのエネミー反応も確認している。\n安全確保に留意しつつ作戦を遂行する。",
     "Text": "Gran Piece (Light) × 6\nGran Piece (Lightning) × 6\nCrystalline Pyrope × 6",
     "Enabled": true
   },
   "710070": {
-    "OriginalText": "銅の荒野へ機械生洋の撃破に向かう。\n現地において大量の反応を確認しているが、\nそれほど強くなく危険は少ないと予想される。\n結果は追って報告する。",
+    "OriginalText": "鋼の荒野へ機械生物の撃破に向かう。\n現地において大量の反応を確認しているが、\nそれほど強くなく危険は少ないと予想される。\n結果は追って報告する。",
     "Text": "Gigantes Missile Piece × 8\nLar Valdinas Large Optics × 8\nLarge Ray Banther Cannon × 8",
     "Enabled": true
   },
   "710071": {
-    "OriginalText": "グラン水装へ大量の食村の調達に向かう。\n周囲にギガンテスの反応を検知しているが、\n運悪く遭遇した場合は捕食者がどちらになるか……\n結果は追って報告する。",
+    "OriginalText": "グラン水源へ大量の食村の調達に向かう。\n周囲にギガンテスの反応を検知しているが、\n運悪く遭遇した場合は捕食者がどちらになるか……\n結果は追って報告する。",
     "Text": "Monster Milk × 6\nFish Gigantes Meat × 6\nBanther Bone × 6",
     "Enabled": true
   },
   "710072": {
-    "OriginalText": "復数のギガンテスの目撃されている地域の捜索と\nその撃破に向かう。\n大いなる危険を伴う任務になると予想される。\n結果は追って報告する。",
+    "OriginalText": "複数のギガンテスの目撃されている地域の捜索と\nその撃破に向かう。\n大いなる危険を伴う任務になると予想される。\n結果は追って報告する。",
     "Text": "Dietoas Compression Bag × 8\nLarge Gygante Gun Part × 8\nDietoas Lens × 8",
     "Enabled": true
   },
   "710073": {
-    "OriginalText": "グラン水装全域の生態系調査に向かう。\n未調査エリアも含めた本格調査であり、\n未確認生命体との遭遇も予想される。\n帰還後、速やかに調査結果をまとめて提出する。",
+    "OriginalText": "グラン水源全域の生態系調査に向かう。\n未調査エリアも含めた本格調査であり、\n未確認生命体との遭遇も予想される。\n帰還後、速やかに調査結果をまとめて提出する。",
     "Text": "Eder Crittro Fur × 6\nLarge Ray Banther Cannon × 6",
     "Enabled": true
   },
   "710074": {
-    "OriginalText": "グラン水装で広域の鉱洋の採集に向かう。\n人産戦術による早期鉱洋発見を目指すが、\nエネミーとの遭遇の確率も上がってしまう。\n安全確保に留意しつつ作戦を遂行する。",
+    "OriginalText": "グラン水源で広域の鉱物の採集に向かう。\n人海戦術による早期鉱物発見を目指すが、\nエネミーとの遭遇の確率も上がってしまう。\n安全確保に留意しつつ作戦を遂行する。",
     "Text": "Gran Piece (Wind) × 6\nGran Piece (Ice) × 6\nDull Silica Corundum × 6",
     "Enabled": true
   },
   "710075": {
-    "OriginalText": "グラン水装へ大型エネミーの撃破に向かう。\n捜索と撃破の両方が要求されるため\nかなりの危険を伴う任務になると予想される。\n結果は追って報告する。",
+    "OriginalText": "グラン水源へ大型エネミーの撃破に向かう。\n捜索と撃破の両方が要求されるため\nかなりの危険を伴う任務になると予想される。\n結果は追って報告する。",
     "Text": "Gigantes Shell Fragment × 10\nDarker Pelt × 10\nSmar Crittro Sharp Claw × 10",
     "Enabled": true
   },
@@ -930,12 +930,12 @@
     "Enabled": true
   },
   "710078": {
-    "OriginalText": "炎の高地全域の機械生洋調査に向かう。\n未調査エリアも含めた本格調査であり、\n未確認生命体との遭遇も予想される。\n帰還後、速やかに調査結果をまとめて提出する。",
+    "OriginalText": "炎の高地全域の機械生物調査に向かう。\n未調査エリアも含めた本格調査であり、\n未確認生命体との遭遇も予想される。\n帰還後、速やかに調査結果をまとめて提出する。",
     "Text": "Mech Armor Fragment × 6\nMachinery Fragment × 6\nCrude Engine Frame × 6",
     "Enabled": true
   },
   "710079": {
-    "OriginalText": "炎の高地で広域の鉱洋の採集に向かう。\n人産戦術による早期鉱洋発見を目指すが、\nエネミーとの遭遇の確率も上がってしまう。\n安全確保に留意しつつ作戦を遂行する。",
+    "OriginalText": "炎の高地で広域の鉱物の採集に向かう。\n人海戦術による早期鉱物発見を目指すが、\nエネミーとの遭遇の確率も上がってしまう。\n安全確保に留意しつつ作戦を遂行する。",
     "Text": "Gran Piece (Dark) × 6\nGran Piece (Fire) × 6\nHeated Rhodium Pyroxene × 6",
     "Enabled": true
   },
@@ -945,7 +945,7 @@
     "Enabled": true
   },
   "710081": {
-    "OriginalText": "大尖塔へ食料の調達に向かう。\nとにかく植洋由来の素村が厨房から熱望されており、\n場合によっては危険領域に侵入する。\n結果は追って報告する。",
+    "OriginalText": "大尖塔へ食料の調達に向かう。\nとにかく植物由来の素村が厨房から熱望されており、\n場合によっては危険領域に侵入する。\n結果は追って報告する。",
     "Text": "Rice × 5\nMoss × 5\nGigantes Rib × 5",
     "Enabled": true
   },
@@ -965,7 +965,7 @@
     "Enabled": true
   },
   "710085": {
-    "OriginalText": "大尖塔で原生生洋の討伐に向かう。\n現地にて復数の強い反応を確認しており、\nかなりの危険を伴う任務になると予想される。\n結果は追って報告する。",
+    "OriginalText": "大尖塔で原生生物の討伐に向かう。\n現地にて複数の強い反応を確認しており、\nかなりの危険を伴う任務になると予想される。\n結果は追って報告する。",
     "Text": "Monster Pelt × 5\nAviadino Large Polyp × 5\nAga Mysteroon Sharp Horn × 5",
     "Enabled": true
   },
@@ -985,12 +985,12 @@
     "Enabled": true
   },
   "710089": {
-    "OriginalText": "古代都市へ貝ちない黒い鉄柱の採集に向かう。\n調査報告によると現地に反応が認められるが、\nエネミー反応が非常に大きく\n大いなる危険を伴う任務になると予想される。",
+    "OriginalText": "古代都市へ朽ちない黒い鉄柱の採集に向かう。\n調査報告によると現地に反応が認められるが、\nエネミー反応が非常に大きく\n大いなる危険を伴う任務になると予想される。",
     "Text": "Gran Piece (Dark) × 8\nBlack Shell-less Shellfish × 8",
     "Enabled": true
   },
   "710090": {
-    "OriginalText": "古代都市へ復数のギガンテスの撃破に向かう。\n現地にて確認されている反応は非常に大きく\n大いなる危険を伴う任務になると予想される。\n結果は追って報告する。",
+    "OriginalText": "古代都市へ複数のギガンテスの撃破に向かう。\n現地にて確認されている反応は非常に大きく\n大いなる危険を伴う任務になると予想される。\n結果は追って報告する。",
     "Text": "Gigantes Shell × 10\nGigantes Meat × 10\nGigantes Hide × 10",
     "Enabled": true
   },
@@ -1145,7 +1145,7 @@
     "Enabled": true
   },
   "730114": {
-    "OriginalText": "探索活動向きの人や\nそうでない人もいます。\nそれを見冷めるのがあなたの仕事ですよ。",
+    "OriginalText": "探索活動向きの人や\nそうでない人もいます。\nそれを見極めるのがあなたの仕事ですよ。",
     "Text": "Not all people are good at \nsearching. It's your job to cool\nit down.",
     "Enabled": true
   },
@@ -1155,7 +1155,7 @@
     "Enabled": true
   },
   "730116": {
-    "OriginalText": "探索隊に任せっきりじゃなく\nちょっとは手龍ってよね。",
+    "OriginalText": "探索隊に任せっきりじゃなく\nちょっとは手伝ってよね。",
     "Text": "Don't leave it all to the Search\nTeam, have a little discretion.",
     "Enabled": true
   },
@@ -1190,7 +1190,7 @@
     "Enabled": true
   },
   "730123": {
-    "OriginalText": "良き探索者とは、探索におけるあらゆる\n失敗を冒した人洋のことかもしれんの。\n要は臆せず、まずは試してみることじゃ。",
+    "OriginalText": "良き探索者とは、探索におけるあらゆる\n失敗を冒した人物のことかもしれんの。\n要は臆せず、まずは試してみることじゃ。",
     "Text": "Any good searcher made a mistake\nat some point. The point is, don't\nbe afraid, try it first.",
     "Enabled": true
   },
@@ -1215,7 +1215,7 @@
     "Enabled": true
   },
   "730128": {
-    "OriginalText": "探索隊にお手龍いできることある？",
+    "OriginalText": "探索隊にお手伝いできることある？",
     "Text": "Is there anything I can do for the\nSearch Team?",
     "Enabled": true
   },
@@ -1320,7 +1320,7 @@
     "Enabled": true
   },
   "730221": {
-    "OriginalText": "ご期待に敷えるように\n頑張りますね。",
+    "OriginalText": "ご期待に添えるように\n頑張りますね。",
     "Text": "I'll do my best to meet your\nexpectations.",
     "Enabled": true
   },
@@ -1330,7 +1330,7 @@
     "Enabled": true
   },
   "730223": {
-    "OriginalText": "心配することはない。\nおぬしは目的地を示した。そこへ至る道は\nわしら探索隊が柘いていってやろうて。",
+    "OriginalText": "心配することはない。\nおぬしは目的地を示した。そこへ至る道は\nわしら探索隊が拓いていってやろうて。",
     "Text": "Don't worry. I will find our\ndestination. The way to get there\nwill be found by our Search Team.",
     "Enabled": true
   },

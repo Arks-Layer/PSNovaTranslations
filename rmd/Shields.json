@@ -435,7 +435,7 @@
     "Enabled": true
   },
   "320001": {
-    "OriginalText": "打撃への防御に特化した\n近距離戦向けの標準シールドユニット。\n初心者向けに調整された満用品。",
+    "OriginalText": "打撃への防御に特化した\n近距離戦向けの標準シールドユニット。\n初心者向けに調整された汎用品。",
     "Text": "A standard Shield Unit designed for\nclose-range combat.\nMade for beginners.",
     "Enabled": true
   },
@@ -480,7 +480,7 @@
     "Enabled": true
   },
   "320010": {
-    "OriginalText": "打撃への防御性能が飛躍的に向上した\nオルター独自開発のシールドユニット。\n冷限環境下でもいかんなく効果を発揮。",
+    "OriginalText": "打撃への防御性能が飛躍的に向上した\nオルター独自開発のシールドユニット。\n極限環境下でもいかんなく効果を発揮。",
     "Text": "Alter Corps' original Shield Unit\nwith an improved protection.\nEffective even in extreme conditions.",
     "Enabled": true
   },
@@ -500,7 +500,7 @@
     "Enabled": true
   },
   "320014": {
-    "OriginalText": "射撃への防御に特化した\n中距離戦向けの標準シールドユニット。\n初心者向けに調整された満用品。",
+    "OriginalText": "射撃への防御に特化した\n中距離戦向けの標準シールドユニット。\n初心者向けに調整された汎用品。",
     "Text": "A standard Shield Unit for medium-\nrange combat and Ranged defense.\nMade for beginners.",
     "Enabled": true
   },
@@ -545,7 +545,7 @@
     "Enabled": true
   },
   "320023": {
-    "OriginalText": "射撃への防御性能が飛躍的に向上した\nオルター独自開発のシールドユニット。\n冷限環境下でもいかんなく効果を発揮。",
+    "OriginalText": "射撃への防御性能が飛躍的に向上した\nオルター独自開発のシールドユニット。\n極限環境下でもいかんなく効果を発揮。",
     "Text": "Alter Corps' original Shield Unit\nwith improved Ranged defense.\nEffective even in extreme environment.",
     "Enabled": true
   },
@@ -565,7 +565,7 @@
     "Enabled": true
   },
   "320027": {
-    "OriginalText": "法撃への防御に特化した\n遠距離戦向けの標準シールドユニット。\n初心者向けに調整された満用品。",
+    "OriginalText": "法撃への防御に特化した\n遠距離戦向けの標準シールドユニット。\n初心者向けに調整された汎用品。",
     "Text": "A standard Shield Unit for long-range\ncombat. Fine-tuned for beginners.",
     "Enabled": true
   },
@@ -610,7 +610,7 @@
     "Enabled": true
   },
   "320036": {
-    "OriginalText": "法撃への防御性能が飛躍的に向上した\nオルター独自開発のシールドユニット。\n冷限環境下でもいかんなく効果を発揮。",
+    "OriginalText": "法撃への防御性能が飛躍的に向上した\nオルター独自開発のシールドユニット。\n極限環境下でもいかんなく効果を発揮。",
     "Text": "Alter Corps' original Shield Unit\nwith improved protection. Effective\neven in extreme environments.",
     "Enabled": true
   },
@@ -630,37 +630,37 @@
     "Enabled": true
   },
   "320040": {
-    "OriginalText": "打撃、射撃、法撃を汰等に防御する\n標準のシールドユニット。\n初心者向けに再調整された改良品。",
+    "OriginalText": "打撃、射撃、法撃を均等に防御する\n標準のシールドユニット。\n初心者向けに再調整された改良品。",
     "Text": "An improved Shield Unit that has\nprotection to all kinds of attacks.\nReadjusted for beginners.",
     "Enabled": true
   },
   "320041": {
-    "OriginalText": "打撃、射撃、法撃を汰等に防御する\n標準のシールドユニット。\n中級者の使用も想定した改良品。",
+    "OriginalText": "打撃、射撃、法撃を均等に防御する\n標準のシールドユニット。\n中級者の使用も想定した改良品。",
     "Text": "An improved Shield Unit that has\nprotection to all kinds of attacks.\nDesigned for intermediate users.",
     "Enabled": true
   },
   "320042": {
-    "OriginalText": "打撃、射撃、法撃を汰等に防御する\n性能が向上した高級シールドユニット。\n熟達者も多数、愛用している。",
+    "OriginalText": "打撃、射撃、法撃を均等に防御する\n性能が向上した高級シールドユニット。\n熟達者も多数、愛用している。",
     "Text": "A high-class Shield Unit that has\nprotection to all kinds of attacks.\nUsed by many experts.",
     "Enabled": true
   },
   "320043": {
-    "OriginalText": "打撃、射撃、法撃を汰等に防御する\n強化された次世代シールドユニット。\n従来、不可能とされた水準を達成した。",
+    "OriginalText": "打撃、射撃、法撃を均等に防御する\n強化された次世代シールドユニット。\n従来、不可能とされた水準を達成した。",
     "Text": "A next-gen Shield Unit with an enhanced\nprotection. Achieved a level of\ndefense that was impossible before.",
     "Enabled": true
   },
   "320044": {
-    "OriginalText": "打撃、射撃、法撃を汰等に防御する\nオルター独自開発のシールドユニット。\n戦闘での新たな可能性を呼び覚ます。",
+    "OriginalText": "打撃、射撃、法撃を均等に防御する\nオルター独自開発のシールドユニット。\n戦闘での新たな可能性を呼び覚ます。",
     "Text": "Alter Corps' original Shield Unit that\nhas protection against all attacks. It\nawakens new combat possibilities.",
     "Enabled": true
   },
   "320045": {
-    "OriginalText": "打撃、射撃、法撃を汰等に防御する\nオルター独自開発のシールドユニット。\n実害を軽滅でなく除去する発想で設計。",
+    "OriginalText": "打撃、射撃、法撃を均等に防御する\nオルター独自開発のシールドユニット。\n実害を軽滅でなく除去する発想で設計。",
     "Text": "Alter Corps' Shield Unit that has\nprotection against all attacks. Designed\nto eliminate the damage received.",
     "Enabled": true
   },
   "320046": {
-    "OriginalText": "打撃、射撃、法撃を汰等に防御する\nオルター独自開発のシールドユニット。\n理論上の最大性能を引き出した。",
+    "OriginalText": "打撃、射撃、法撃を均等に防御する\nオルター独自開発のシールドユニット。\n理論上の最大性能を引き出した。",
     "Text": "Alter Corps' Shield Unit that has\nprotection against all attacks. It can\nbrings out its maximum performance.",
     "Enabled": true
   },
@@ -690,37 +690,37 @@
     "Enabled": true
   },
   "320052": {
-    "OriginalText": "炎耐性が強化され飛躍的に性能向上した\nオルター独自開発のシールドユニット。\n冷限環境下でもいかんなく効果を発揮。",
+    "OriginalText": "炎耐性が強化され飛躍的に性能向上した\nオルター独自開発のシールドユニット。\n極限環境下でもいかんなく効果を発揮。",
     "Text": "Alter Corps' original Shield Unit with\nFire resistance. Effective even in\nextreme environments.",
     "Enabled": true
   },
   "320053": {
-    "OriginalText": "劇耐性が強化された\n標準のシールドユニット。\n中級者の使用も想定した改良品。",
+    "OriginalText": "氷耐性が強化された\n標準のシールドユニット。\n中級者の使用も想定した改良品。",
     "Text": "An improved Shield Unit with Ice\nresistance. Designed for intermediate\nusers.",
     "Enabled": true
   },
   "320054": {
-    "OriginalText": "劇耐性が強化され、全体性能も\n向上した高級シールドユニット。\nあらゆる戦闘シーンで役に立つ。",
+    "OriginalText": "氷耐性が強化され、全体性能も\n向上した高級シールドユニット。\nあらゆる戦闘シーンで役に立つ。",
     "Text": "A high-class Shield Unit with Ice\nresistance. Useful in all kinds of\nbattle.",
     "Enabled": true
   },
   "320055": {
-    "OriginalText": "劇耐性が強化され、全体性能も\n向上した高級シールドユニット。\n熟達者も多数、愛用している。",
+    "OriginalText": "氷耐性が強化され、全体性能も\n向上した高級シールドユニット。\n熟達者も多数、愛用している。",
     "Text": "A high-class Shield Unit with Ice\nresistance. Used by many experts.",
     "Enabled": true
   },
   "320056": {
-    "OriginalText": "劇耐性が強化され、全体性能が大幅に\n向上した次世代シールドユニット。\n使用者の戦闘スタイルを一新させる。",
+    "OriginalText": "氷耐性が強化され、全体性能が大幅に\n向上した次世代シールドユニット。\n使用者の戦闘スタイルを一新させる。",
     "Text": "A next-generation Shield Unit with\nIce resistance. It changes the battle\nstyle of the user.",
     "Enabled": true
   },
   "320057": {
-    "OriginalText": "劇耐性が強化され、全体性能が大幅に\n向上した次世代シールドユニット。\n新たな戦闘のあり方を提案する。",
+    "OriginalText": "氷耐性が強化され、全体性能が大幅に\n向上した次世代シールドユニット。\n新たな戦闘のあり方を提案する。",
     "Text": "A next-generation Shield Unit with\nIce resistance. It introduces a new way\nof combat.",
     "Enabled": true
   },
   "320058": {
-    "OriginalText": "劇耐性が強化され飛躍的に性能向上した\nオルター独自開発のシールドユニット。\n冷限環境下でもいかんなく効果を発揮。",
+    "OriginalText": "氷耐性が強化され飛躍的に性能向上した\nオルター独自開発のシールドユニット。\n極限環境下でもいかんなく効果を発揮。",
     "Text": "Alter Corps' original Shield Unit with\nIce resistance. Effective even in\nextreme conditions.",
     "Enabled": true
   },
@@ -750,7 +750,7 @@
     "Enabled": true
   },
   "320064": {
-    "OriginalText": "雷耐性が強化され飛躍的に性能向上した\nオルター独自開発のシールドユニット。\n冷限環境下でもいかんなく効果を発揮。",
+    "OriginalText": "雷耐性が強化され飛躍的に性能向上した\nオルター独自開発のシールドユニット。\n極限環境下でもいかんなく効果を発揮。",
     "Text": "Alter Corps' original Shield Unit with\nLightning resistance. Effective even\nin extreme environments.",
     "Enabled": true
   },
@@ -780,7 +780,7 @@
     "Enabled": true
   },
   "320070": {
-    "OriginalText": "風耐性が強化され飛躍的に性能向上した\nオルター独自開発のシールドユニット。\n冷限環境下でもいかんなく効果を発揮。",
+    "OriginalText": "風耐性が強化され飛躍的に性能向上した\nオルター独自開発のシールドユニット。\n極限環境下でもいかんなく効果を発揮。",
     "Text": "Alter Corps' original Shield Unit with\nWind resistance. Effective even in\nextreme environments.",
     "Enabled": true
   },
@@ -805,7 +805,7 @@
     "Enabled": true
   },
   "320075": {
-    "OriginalText": "光耐性が強化され飛躍的に性能向上した\nオルター独自開発のシールドユニット。\n冷限環境下でもいかんなく効果を発揮。",
+    "OriginalText": "光耐性が強化され飛躍的に性能向上した\nオルター独自開発のシールドユニット。\n極限環境下でもいかんなく効果を発揮。",
     "Text": "Alter Corps' original Shield Unit\nwith Light resistance. Effective even\nin extreme environments.",
     "Enabled": true
   },
@@ -830,32 +830,32 @@
     "Enabled": true
   },
   "320080": {
-    "OriginalText": "闇耐性が強化され飛躍的に性能向上した\nオルター独自開発のシールドユニット。\n冷限環境下でもいかんなく効果を発揮。",
+    "OriginalText": "闇耐性が強化され飛躍的に性能向上した\nオルター独自開発のシールドユニット。\n極限環境下でもいかんなく効果を発揮。",
     "Text": "Alter Corps' original Shield Unit\nwith Dark resistance. Effective even\nin extreme environments.",
     "Enabled": true
   },
   "320081": {
-    "OriginalText": "あらゆる属性への耐性を汰等に\n強化した高級シールドユニット。\n熟達者も多数、愛用している。",
+    "OriginalText": "あらゆる属性への耐性を均等に\n強化した高級シールドユニット。\n熟達者も多数、愛用している。",
     "Text": "A high-class Shield Unit with\nresistance to all Elements. Used by\nmany experts.",
     "Enabled": true
   },
   "320082": {
-    "OriginalText": "あらゆる属性への耐性を汰等に強化し\n性能向上した次世代シールドユニット。\n新たな戦闘のあり方を提案する。",
+    "OriginalText": "あらゆる属性への耐性を均等に強化し\n性能向上した次世代シールドユニット。\n新たな戦闘のあり方を提案する。",
     "Text": "A next-generation Shield Unit with\nresistance to all Elements.\nIt introduces a new way of combat.",
     "Enabled": true
   },
   "320083": {
-    "OriginalText": "あらゆる属性への耐性を汰等に強化する\nオルター独自開発のシールドユニット。\n戦闘での新たな可能性を呼び覚ます。",
+    "OriginalText": "あらゆる属性への耐性を均等に強化する\nオルター独自開発のシールドユニット。\n戦闘での新たな可能性を呼び覚ます。",
     "Text": "Alter Corps' original Shield Unit with\nresistance to all Elements.\nIt awakens new combat possibilities.",
     "Enabled": true
   },
   "320084": {
-    "OriginalText": "あらゆる属性への耐性を汰等に強化する\nオルター独自開発のシールドユニット。\n実害を軽滅でなく除去する発想で設計。",
+    "OriginalText": "あらゆる属性への耐性を均等に強化する\nオルター独自開発のシールドユニット。\n実害を軽滅でなく除去する発想で設計。",
     "Text": "Alter Corps' original Shield Unit with\nresistance to all Elements. Designed\nto eliminate the damage received.",
     "Enabled": true
   },
   "320085": {
-    "OriginalText": "古代人の持つ無念と怒りの大な\nエネルギーを解放して作成された、\n究冷の能力を持つシールドユニット。",
+    "OriginalText": "古代人の持つ無念と怒りの大な\nエネルギーを解放して作成された、\n究極の能力を持つシールドユニット。",
     "Text": "A Shield Unit that has the ultimate\nability, created from the energy from\nthe Ancients' remorse and anger.",
     "Enabled": true
   }

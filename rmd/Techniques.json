@@ -185,12 +185,12 @@
     "Enabled": true
   },
   "590006": {
-    "OriginalText": "照準の位置へ向けて敵を貴通する劇柱を放つ。",
+    "OriginalText": "照準の位置へ向けて敵を貴通する氷柱を放つ。",
     "Text": "Shoots a line of icicles towards your\ntarget.",
     "Enabled": true
   },
   "590007": {
-    "OriginalText": "自身またはタリスの前方に無数の劇の矢を出現させ、\n前方扇状の範囲内にいる対象に断続的にダメージを\n与える。",
+    "OriginalText": "自身またはタリスの前方に無数の氷の矢を出現させ、\n前方扇状の範囲内にいる対象に断続的にダメージを\n与える。",
     "Text": "Produces sharp icicles that shoot in\nfront of you.",
     "Enabled": true
   },
@@ -200,7 +200,7 @@
     "Enabled": true
   },
   "590009": {
-    "OriginalText": "目標地点に対し、劇柱を落とす。",
+    "OriginalText": "目標地点に対し、氷柱を落とす。",
     "Text": "Drops condensed icicles on top of your\ntarget.",
     "Enabled": true
   },
@@ -300,7 +300,7 @@
     "Enabled": true
   },
   "590029": {
-    "OriginalText": "鉤温グランを広げ自身に有利な領域を生み出す。",
+    "OriginalText": "凝縮グランを広げ自身に有利な領域を生み出す。",
     "Text": "Spreads Gran and creates an area that is\nadvantageous to you.",
     "Enabled": true
   },

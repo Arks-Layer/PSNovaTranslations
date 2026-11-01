@@ -55,7 +55,7 @@
     "Enabled": true
   },
   "410011": {
-    "OriginalText": "塊死の艦長",
+    "OriginalText": "瀕死の艦長",
     "Text": "Captain of Mass Death",
     "Enabled": true
   },
@@ -260,7 +260,7 @@
     "Enabled": true
   },
   "410052": {
-    "OriginalText": "植洋発見",
+    "OriginalText": "植物発見",
     "Text": "Finding the Plant",
     "Enabled": true
   },
@@ -415,7 +415,7 @@
     "Enabled": true
   },
   "410083": {
-    "OriginalText": "賞杓",
+    "OriginalText": "賞賛",
     "Text": "Appreciation",
     "Enabled": true
   },
@@ -475,7 +475,7 @@
     "Enabled": true
   },
   "410095": {
-    "OriginalText": "ユノの謝露",
+    "OriginalText": "ユノの謝罪",
     "Text": "Juno's Apology",
     "Enabled": true
   },
@@ -505,7 +505,7 @@
     "Enabled": true
   },
   "410101": {
-    "OriginalText": "観測伝置開発依頼",
+    "OriginalText": "観測装置開発依頼",
     "Text": "Observer Development Request",
     "Enabled": true
   },
@@ -545,7 +545,7 @@
     "Enabled": true
   },
   "410109": {
-    "OriginalText": "散らばる記録伝置",
+    "OriginalText": "散らばる記録装置",
     "Text": "Scattered Records",
     "Enabled": true
   },
@@ -735,7 +735,7 @@
     "Enabled": true
   },
   "410147": {
-    "OriginalText": "覚酷の予随",
+    "OriginalText": "覚醒の予兆",
     "Text": "Before the Chaos",
     "Enabled": true
   },
@@ -750,7 +750,7 @@
     "Enabled": true
   },
   "410150": {
-    "OriginalText": "ノヴァ覚酷",
+    "OriginalText": "ノヴァ覚醒",
     "Text": "Nova's Awakening",
     "Enabled": true
   },
@@ -1070,7 +1070,7 @@
     "Enabled": true
   },
   "410302": {
-    "OriginalText": "銅焔の巨獣",
+    "OriginalText": "鋼焔の巨獣",
     "Text": "Steel Giants",
     "Enabled": true
   },
@@ -1220,7 +1220,7 @@
     "Enabled": false
   },
   "410501": {
-    "OriginalText": "マキア外龍",
+    "OriginalText": "マキア外伝",
     "Text": "Mahkia Side Story",
     "Enabled": true
   },

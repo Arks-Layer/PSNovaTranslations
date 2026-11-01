@@ -140,7 +140,7 @@
     "Enabled": true
   },
   "10329": {
-    "OriginalText": "劇属性",
+    "OriginalText": "氷属性",
     "Text": "Ice",
     "Enabled": true
   },
@@ -170,7 +170,7 @@
     "Enabled": true
   },
   "10335": {
-    "OriginalText": "劇耐性",
+    "OriginalText": "氷耐性",
     "Text": "Resist",
     "Enabled": true
   },

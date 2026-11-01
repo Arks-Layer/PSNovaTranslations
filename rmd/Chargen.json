@@ -350,7 +350,7 @@
     "Enabled": true
   },
   "500070": {
-    "OriginalText": "瑞り目/践れ目",
+    "OriginalText": "吊り目/垂れ目",
     "Text": "Eye Hanging/Drooping",
     "Enabled": true
   },
@@ -510,7 +510,7 @@
     "Enabled": true
   },
   "500108": {
-    "OriginalText": "キャラクターの名前を入力してください。\n倣字、半角カナ、一部記号は使えません。\n入力された場合、その文字は省かれます。",
+    "OriginalText": "キャラクターの名前を入力してください。\n漢字、半角カナ、一部記号は使えません。\n入力された場合、その文字は省かれます。",
     "Text": "Please enter the name of your character.\nIf you enter an invalid symbol, it will\nbe removed.",
     "Enabled": true
   },
@@ -605,7 +605,7 @@
     "Enabled": true
   },
   "500127": {
-    "OriginalText": "倣字、半角カナ、一部記号は使えません。\n入力された場合、その文字は省かれます。",
+    "OriginalText": "漢字、半角カナ、一部記号は使えません。\n入力された場合、その文字は省かれます。",
     "Text": "You have entered invalid characters which have been omitted.",
     "Enabled": true
   },
@@ -615,12 +615,12 @@
     "Enabled": true
   },
   "500261": {
-    "OriginalText": "全体的な能力のバランスに優れ、環境への適応能力が\n高い種族。\n身体の強さとフォトンへの適合性を活かし、あらゆる\nクラスへの適性を見せ、満用性に富んだ能力を持つ。",
+    "OriginalText": "全体的な能力のバランスに優れ、環境への適応能力が\n高い種族。\n身体の強さとフォトンへの適合性を活かし、あらゆる\nクラスへの適性を見せ、汎用性に富んだ能力を持つ。",
     "Text": "Balanced traits allow survival in any\nsituation. Physically tough and capable\nof utilizing photons, and is rich in\nversatility.",
     "Enabled": true
   },
   "500262": {
-    "OriginalText": "フォトンの扱いに長けており、その使役、適応に才を\n見せる種族。\n身体の脆弱さを補って余りあるフォトンに対する感応\n力の高さを見せ、その扱いに関しては他の種族の追祟\nを許さない。",
+    "OriginalText": "フォトンの扱いに長けており、その使役、適応に才を\n見せる種族。\n身体の脆弱さを補って余りあるフォトンに対する感応\n力の高さを見せ、その扱いに関しては他の種族の追随\nを許さない。",
     "Text": "Heavily adapted towards the handling of\nphotons. Physically frail, but unmatched\nby any other race at the Force class.",
     "Enabled": true
   },
@@ -645,302 +645,302 @@
     "Enabled": false
   },
   "500335": {
-    "OriginalText": "男性満用ボイス1",
+    "OriginalText": "男性汎用ボイス1",
     "Text": "Male Voice 1",
     "Enabled": true
   },
   "500336": {
-    "OriginalText": "男性満用ボイス2",
+    "OriginalText": "男性汎用ボイス2",
     "Text": "Male Voice 2",
     "Enabled": true
   },
   "500337": {
-    "OriginalText": "男性満用ボイス3",
+    "OriginalText": "男性汎用ボイス3",
     "Text": "Male Voice 3",
     "Enabled": true
   },
   "500338": {
-    "OriginalText": "男性満用ボイス4",
+    "OriginalText": "男性汎用ボイス4",
     "Text": "Male Voice 4",
     "Enabled": true
   },
   "500339": {
-    "OriginalText": "男性満用ボイス5",
+    "OriginalText": "男性汎用ボイス5",
     "Text": "Male Voice 5",
     "Enabled": true
   },
   "500340": {
-    "OriginalText": "男性満用ボイス6",
+    "OriginalText": "男性汎用ボイス6",
     "Text": "Male Voice 6",
     "Enabled": true
   },
   "500341": {
-    "OriginalText": "男性満用ボイス7",
+    "OriginalText": "男性汎用ボイス7",
     "Text": "Male Voice 7",
     "Enabled": true
   },
   "500342": {
-    "OriginalText": "男性満用ボイス8",
+    "OriginalText": "男性汎用ボイス8",
     "Text": "Male Voice 8",
     "Enabled": true
   },
   "500343": {
-    "OriginalText": "男性満用ボイス9",
+    "OriginalText": "男性汎用ボイス9",
     "Text": "Male Voice 9",
     "Enabled": true
   },
   "500344": {
-    "OriginalText": "男性満用ボイス10",
+    "OriginalText": "男性汎用ボイス10",
     "Text": "Male Voice 10",
     "Enabled": true
   },
   "500345": {
-    "OriginalText": "男性満用ボイス11",
+    "OriginalText": "男性汎用ボイス11",
     "Text": "Male Voice 11",
     "Enabled": true
   },
   "500346": {
-    "OriginalText": "男性満用ボイス12",
+    "OriginalText": "男性汎用ボイス12",
     "Text": "Male Voice 12",
     "Enabled": true
   },
   "500347": {
-    "OriginalText": "男性満用ボイス13",
+    "OriginalText": "男性汎用ボイス13",
     "Text": "Male Voice 13",
     "Enabled": true
   },
   "500348": {
-    "OriginalText": "男性満用ボイス14",
+    "OriginalText": "男性汎用ボイス14",
     "Text": "Male Voice 14",
     "Enabled": true
   },
   "500349": {
-    "OriginalText": "男性満用ボイス15",
+    "OriginalText": "男性汎用ボイス15",
     "Text": "Male Voice 15",
     "Enabled": true
   },
   "500350": {
-    "OriginalText": "男性満用ボイス16",
+    "OriginalText": "男性汎用ボイス16",
     "Text": "Male Voice 16",
     "Enabled": true
   },
   "500351": {
-    "OriginalText": "男性満用ボイス17",
+    "OriginalText": "男性汎用ボイス17",
     "Text": "Male Voice 17",
     "Enabled": true
   },
   "500352": {
-    "OriginalText": "男性満用ボイス18",
+    "OriginalText": "男性汎用ボイス18",
     "Text": "Male Voice 18",
     "Enabled": true
   },
   "500353": {
-    "OriginalText": "男性満用ボイス19",
+    "OriginalText": "男性汎用ボイス19",
     "Text": "Male Voice 19",
     "Enabled": true
   },
   "500354": {
-    "OriginalText": "男性満用ボイス20",
+    "OriginalText": "男性汎用ボイス20",
     "Text": "Male Voice 20",
     "Enabled": true
   },
   "500355": {
-    "OriginalText": "男性満用ボイス21",
+    "OriginalText": "男性汎用ボイス21",
     "Text": "Male Voice 21",
     "Enabled": true
   },
   "500356": {
-    "OriginalText": "男性満用ボイス22",
+    "OriginalText": "男性汎用ボイス22",
     "Text": "Male Voice 22",
     "Enabled": true
   },
   "500357": {
-    "OriginalText": "男性満用ボイス23",
+    "OriginalText": "男性汎用ボイス23",
     "Text": "Male Voice 23",
     "Enabled": true
   },
   "500358": {
-    "OriginalText": "男性満用ボイス24",
+    "OriginalText": "男性汎用ボイス24",
     "Text": "Male Voice 24",
     "Enabled": true
   },
   "500359": {
-    "OriginalText": "男性満用ボイス25",
+    "OriginalText": "男性汎用ボイス25",
     "Text": "Male Voice 25",
     "Enabled": true
   },
   "500360": {
-    "OriginalText": "男性満用ボイス26",
+    "OriginalText": "男性汎用ボイス26",
     "Text": "Male Voice 26",
     "Enabled": true
   },
   "500361": {
-    "OriginalText": "男性満用ボイス27",
+    "OriginalText": "男性汎用ボイス27",
     "Text": "Male Voice 27",
     "Enabled": true
   },
   "500362": {
-    "OriginalText": "男性満用ボイス28",
+    "OriginalText": "男性汎用ボイス28",
     "Text": "Male Voice 28",
     "Enabled": true
   },
   "500363": {
-    "OriginalText": "男性満用ボイス29",
+    "OriginalText": "男性汎用ボイス29",
     "Text": "Male Voice 29",
     "Enabled": true
   },
   "500364": {
-    "OriginalText": "男性満用ボイス30",
+    "OriginalText": "男性汎用ボイス30",
     "Text": "Male Voice 30",
     "Enabled": true
   },
   "500365": {
-    "OriginalText": "女性満用ボイス1",
+    "OriginalText": "女性汎用ボイス1",
     "Text": "Female Voice 1",
     "Enabled": true
   },
   "500366": {
-    "OriginalText": "女性満用ボイス2",
+    "OriginalText": "女性汎用ボイス2",
     "Text": "Female Voice 2",
     "Enabled": true
   },
   "500367": {
-    "OriginalText": "女性満用ボイス3",
+    "OriginalText": "女性汎用ボイス3",
     "Text": "Female Voice 3",
     "Enabled": true
   },
   "500368": {
-    "OriginalText": "女性満用ボイス4",
+    "OriginalText": "女性汎用ボイス4",
     "Text": "Female Voice 4",
     "Enabled": true
   },
   "500369": {
-    "OriginalText": "女性満用ボイス5",
+    "OriginalText": "女性汎用ボイス5",
     "Text": "Female Voice 5",
     "Enabled": true
   },
   "500370": {
-    "OriginalText": "女性満用ボイス6",
+    "OriginalText": "女性汎用ボイス6",
     "Text": "Female Voice 6",
     "Enabled": true
   },
   "500371": {
-    "OriginalText": "女性満用ボイス7",
+    "OriginalText": "女性汎用ボイス7",
     "Text": "Female Voice 7",
     "Enabled": true
   },
   "500372": {
-    "OriginalText": "女性満用ボイス8",
+    "OriginalText": "女性汎用ボイス8",
     "Text": "Female Voice 8",
     "Enabled": true
   },
   "500373": {
-    "OriginalText": "女性満用ボイス9",
+    "OriginalText": "女性汎用ボイス9",
     "Text": "Female Voice 9",
     "Enabled": true
   },
   "500374": {
-    "OriginalText": "女性満用ボイス10",
+    "OriginalText": "女性汎用ボイス10",
     "Text": "Female Voice 10",
     "Enabled": true
   },
   "500375": {
-    "OriginalText": "女性満用ボイス11",
+    "OriginalText": "女性汎用ボイス11",
     "Text": "Female Voice 11",
     "Enabled": true
   },
   "500376": {
-    "OriginalText": "女性満用ボイス12",
+    "OriginalText": "女性汎用ボイス12",
     "Text": "Female Voice 12",
     "Enabled": true
   },
   "500377": {
-    "OriginalText": "女性満用ボイス13",
+    "OriginalText": "女性汎用ボイス13",
     "Text": "Female Voice 13",
     "Enabled": true
   },
   "500378": {
-    "OriginalText": "女性満用ボイス14",
+    "OriginalText": "女性汎用ボイス14",
     "Text": "Female Voice 14",
     "Enabled": true
   },
   "500379": {
-    "OriginalText": "女性満用ボイス15",
+    "OriginalText": "女性汎用ボイス15",
     "Text": "Female Voice 15",
     "Enabled": true
   },
   "500380": {
-    "OriginalText": "女性満用ボイス16",
+    "OriginalText": "女性汎用ボイス16",
     "Text": "Female Voice 16",
     "Enabled": true
   },
   "500381": {
-    "OriginalText": "女性満用ボイス17",
+    "OriginalText": "女性汎用ボイス17",
     "Text": "Female Voice 17",
     "Enabled": true
   },
   "500382": {
-    "OriginalText": "女性満用ボイス18",
+    "OriginalText": "女性汎用ボイス18",
     "Text": "Female Voice 18",
     "Enabled": true
   },
   "500383": {
-    "OriginalText": "女性満用ボイス19",
+    "OriginalText": "女性汎用ボイス19",
     "Text": "Female Voice 19",
     "Enabled": true
   },
   "500384": {
-    "OriginalText": "女性満用ボイス20",
+    "OriginalText": "女性汎用ボイス20",
     "Text": "Female Voice 20",
     "Enabled": true
   },
   "500385": {
-    "OriginalText": "女性満用ボイス21",
+    "OriginalText": "女性汎用ボイス21",
     "Text": "Female Voice 21",
     "Enabled": true
   },
   "500386": {
-    "OriginalText": "女性満用ボイス22",
+    "OriginalText": "女性汎用ボイス22",
     "Text": "Female Voice 22",
     "Enabled": true
   },
   "500387": {
-    "OriginalText": "女性満用ボイス23",
+    "OriginalText": "女性汎用ボイス23",
     "Text": "Female Voice 23",
     "Enabled": true
   },
   "500388": {
-    "OriginalText": "女性満用ボイス24",
+    "OriginalText": "女性汎用ボイス24",
     "Text": "Female Voice 24",
     "Enabled": true
   },
   "500389": {
-    "OriginalText": "女性満用ボイス25",
+    "OriginalText": "女性汎用ボイス25",
     "Text": "Female Voice 25",
     "Enabled": true
   },
   "500390": {
-    "OriginalText": "女性満用ボイス26",
+    "OriginalText": "女性汎用ボイス26",
     "Text": "Female Voice 26",
     "Enabled": true
   },
   "500391": {
-    "OriginalText": "女性満用ボイス27",
+    "OriginalText": "女性汎用ボイス27",
     "Text": "Female Voice 27",
     "Enabled": true
   },
   "500392": {
-    "OriginalText": "女性満用ボイス28",
+    "OriginalText": "女性汎用ボイス28",
     "Text": "Female Voice 28",
     "Enabled": true
   },
   "500393": {
-    "OriginalText": "女性満用ボイス29",
+    "OriginalText": "女性汎用ボイス29",
     "Text": "Female Voice 29",
     "Enabled": true
   },
   "500394": {
-    "OriginalText": "女性満用ボイス30",
+    "OriginalText": "女性汎用ボイス30",
     "Text": "Female Voice 30",
     "Enabled": true
   },

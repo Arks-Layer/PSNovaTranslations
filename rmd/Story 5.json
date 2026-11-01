@@ -85,7 +85,7 @@
     "Enabled": true
   },
   "501000010180030": {
-    "OriginalText": "でも、いくらそんな私でも、\n艦長くらい立派な人洋となれば\n見てすぐにわかります。",
+    "OriginalText": "でも、いくらそんな私でも、\n艦長くらい立派な人物となれば\n見てすぐにわかります。",
     "Text": "However, even like this, I can discern\nimmediately if a person is good enough to be\na captain.",
     "Enabled": true
   },
@@ -110,7 +110,7 @@
     "Enabled": true
   },
   "501000010230030": {
-    "OriginalText": "あ、そうそう。もし新艦長に会うことがあれば\n龍えておいてくださいます？\n私が執事のことで不既を慨らしていたと。",
+    "OriginalText": "あ、そうそう。もし新艦長に会うことがあれば\n伝えておいてくださいます？\n私が執事のことで不満を漏らしていたと。",
     "Text": "Oh, that's right, could you inform them\nI've been sending complaints about my butler?\nI have been lamenting the butler's absence.",
     "Enabled": true
   },
@@ -155,7 +155,7 @@
     "Enabled": true
   },
   "501000010320030": {
-    "OriginalText": "あらっ？ 言ってませんでしたか？\nそういったわけで、運命の餅方と出会うまで\nアークスを辞めさせてもらえないんですわ。",
+    "OriginalText": "あらっ？ 言ってませんでしたか？\nそういったわけで、運命の殿方と出会うまで\nアークスを辞めさせてもらえないんですわ。",
     "Text": "Really? Didn't you know?\nThat's why I can't quit ARKS until I meet my\nsoulmate.",
     "Enabled": true
   },
@@ -335,12 +335,12 @@
     "Enabled": true
   },
   "501000010680030": {
-    "OriginalText": "でも油断は央洋ですのよ。\n執事への道は一日にしてならず。",
+    "OriginalText": "でも油断は禁物ですのよ。\n執事への道は一日にしてならず。",
     "Text": "But don't become too comfortable.\nThe way of the butler isn't built in a day.",
     "Enabled": true
   },
   "501000010690030": {
-    "OriginalText": "毎日コツコツと私に尽くして\n執事の道を冷めてくださいね。",
+    "OriginalText": "毎日コツコツと私に尽くして\n執事の道を極めてくださいね。",
     "Text": "Please stay dedicated to your role\nas butler by working hard for me everyday.",
     "Enabled": true
   },
@@ -375,7 +375,7 @@
     "Enabled": true
   },
   "501000020050030": {
-    "OriginalText": "……この回贄のようなものは何でしょう……。",
+    "OriginalText": "……この回路のようなものは何でしょう……。",
     "Text": "...What is this kind of device...?",
     "Enabled": true
   },
@@ -445,7 +445,7 @@
     "Enabled": true
   },
   "501000020190031": {
-    "OriginalText": "……旺うな。",
+    "OriginalText": "……匂うな。",
     "Text": "... Weird.",
     "Enabled": true
   },
@@ -455,12 +455,12 @@
     "Enabled": true
   },
   "501000020210000": {
-    "OriginalText": "いや、その回贄はこちらで調べる",
+    "OriginalText": "いや、その回路はこちらで調べる",
     "Text": "No, we're curious.",
     "Enabled": true
   },
   "501000020220030": {
-    "OriginalText": "何言ってるんですか。\n私はグラバー様との恋贄を急ぐのです。",
+    "OriginalText": "何言ってるんですか。\n私はグラバー様との恋路を急ぐのです。",
     "Text": "What are you saying?\nI'm hurrying to fall in love with Mr. Glover.",
     "Enabled": true
   },
@@ -549,6 +549,551 @@
     "Text": "Someone was killed here.",
     "Enabled": true
   },
+  "502010010010030": {
+    "OriginalText": "はあ、はあ……。\nはあ、はあ……。",
+    "Text": "",
+    "Enabled": false
+  },
+  "502010010020001": {
+    "OriginalText": "ずいぶん疲れているみたいですけど……。\nどうしたんですか、ガーネットさん？",
+    "Text": "",
+    "Enabled": false
+  },
+  "502010010030030": {
+    "OriginalText": "愛しのグラバー様を探して数時間……。\n恋する無敵艦隊の私が\nこれほど探しても見つからないなんて……。",
+    "Text": "",
+    "Enabled": false
+  },
+  "502010010040030": {
+    "OriginalText": "会いたくても会えない。\n会えないから会いたい。\n二人はまるでロミオとジュリエット。",
+    "Text": "",
+    "Enabled": false
+  },
+  "502010010050030": {
+    "OriginalText": "おお、神様！\nなぜこれほどの試練を\n私とグラバー様に与えるのですか！？",
+    "Text": "",
+    "Enabled": false
+  },
+  "502010010060001": {
+    "OriginalText": "グラバー隊長が\nガーネットさんを避けてたりして。",
+    "Text": "",
+    "Enabled": false
+  },
+  "502010010070030": {
+    "OriginalText": "えっ？\nなんか言いました？",
+    "Text": "",
+    "Enabled": false
+  },
+  "502010010080001": {
+    "OriginalText": "いえいえ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "502010010090030": {
+    "OriginalText": "それにしても、もう足が棒のようです。\n執事さん、他に移動手段はありませんの？",
+    "Text": "",
+    "Enabled": false
+  },
+  "502010010100030": {
+    "OriginalText": "あ～ん、もう。\nこんなことならお気に入りの自家用機も\nコールドスリープして持ってくればよかったわ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "502010010110001": {
+    "OriginalText": "いやいや。\n自家用機をコールドスリープって、\n意味わかんないですけど。",
+    "Text": "",
+    "Enabled": false
+  },
+  "502010010120030": {
+    "OriginalText": "とにかく！\n私は少しでも快適に、それでいて一刻も早く\nグラバー様にお会いしたいのですっ！",
+    "Text": "",
+    "Enabled": false
+  },
+  "502010010130030": {
+    "OriginalText": "執事さん、お願いですわ！\nなんとかしてください！",
+    "Text": "",
+    "Enabled": false
+  },
+  "502010010140000": {
+    "OriginalText": "グラバー隊長の居場所に間違いはない？",
+    "Text": "",
+    "Enabled": false
+  },
+  "502010010150030": {
+    "OriginalText": "ええ。間違いありませんわ。\n恋するガーネット艦の\nレーダー通りに探しましたから。",
+    "Text": "",
+    "Enabled": false
+  },
+  "502010010160001": {
+    "OriginalText": "つまり、本能のおもむくままに\n探したってことね。",
+    "Text": "",
+    "Enabled": false
+  },
+  "502010010170030": {
+    "OriginalText": "まあ、そうとも言いますわ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "502010010180000": {
+    "OriginalText": "疲れたのならおんぶしましょうか？",
+    "Text": "",
+    "Enabled": false
+  },
+  "502010010190030": {
+    "OriginalText": "い、いやですわ！\nおんぶなんて恥ずかしいです！",
+    "Text": "",
+    "Enabled": false
+  },
+  "502010010200001": {
+    "OriginalText": "でも、足が棒なんでしょ？",
+    "Text": "",
+    "Enabled": false
+  },
+  "502010010210030": {
+    "OriginalText": "棒だろうが鉄パイプだろうが、\n辱めを受けるぐらいなら全力で歩きますわ！",
+    "Text": "",
+    "Enabled": false
+  },
+  "502010010220012": {
+    "OriginalText": "あっ、皆さんどうしたんですか？",
+    "Text": "",
+    "Enabled": false
+  },
+  "502010010230001": {
+    "OriginalText": "あぁ、シャロン。",
+    "Text": "",
+    "Enabled": false
+  },
+  "502010010240030": {
+    "OriginalText": "実は私、グラバー様に奇襲作戦を\n仕掛けるところなんです。",
+    "Text": "",
+    "Enabled": false
+  },
+  "502010010250012": {
+    "OriginalText": "え？\n……奇襲作戦……ですか？",
+    "Text": "",
+    "Enabled": false
+  },
+  "502010010260012": {
+    "OriginalText": "いけません、いけません！\n何の恨みがあるか知りませんが、\nそんなのよくないと思います！",
+    "Text": "",
+    "Enabled": false
+  },
+  "502010010270030": {
+    "OriginalText": "あらあら、ご安心あそばせ。\nそっちの奇襲じゃなくて、恋の奇襲作戦ですわ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "502010010280001": {
+    "OriginalText": "つまりね、アタックしにいくってことらしいの。\nさっきちょっとすれ違ったときに\n一目惚れしちゃったみたいで……。",
+    "Text": "つまりね、アタックしにいくってことらしいの。\nさっきちょっとすれ違ったときに\n一目惚れしちゃったみたいで……。",
+    "Enabled": false
+  },
+  "502010010290012": {
+    "OriginalText": "えーっ……。\nすごいですね……。",
+    "Text": "",
+    "Enabled": false
+  },
+  "502010010300012": {
+    "OriginalText": "……グラバー隊長ですか。\nあの方は隊長という身分でありながら、\n常に勇猛果敢に先陣を切ることで有名ですよね。",
+    "Text": "",
+    "Enabled": false
+  },
+  "502010010310030": {
+    "OriginalText": "ああん！ そんな話を聞いていたら、\nますますグラバー様に\n会いたくなってきましたわ！",
+    "Text": "",
+    "Enabled": false
+  },
+  "502010010320030": {
+    "OriginalText": "シャロンさん！\n今、グラバー様がどこにいるか知りませんこと？",
+    "Text": "シャロンさん！\n今、グラバー様がどこにいるか知りませんこと？",
+    "Enabled": false
+  },
+  "502010010330012": {
+    "OriginalText": "グラバー隊長でしたら、\n拠点周辺にいらっしゃると思います。",
+    "Text": "グラバー隊長でしたら、\n拠点周辺にいらっしゃると思います。",
+    "Enabled": false
+  },
+  "502010010340012": {
+    "OriginalText": "……コウエン隊長の死の報告以来、\n神妙な顔で拠点周辺をしているという\n噂ですので……。",
+    "Text": "",
+    "Enabled": false
+  },
+  "502010010350001": {
+    "OriginalText": "拠点周辺を？\n何をしているの？",
+    "Text": "拠点周辺を？\n何をしているの？",
+    "Enabled": false
+  },
+  "502010010360012": {
+    "OriginalText": "……詳しくはわからないですが、\n何かを探してる感じ……\nという話をチラホラ……。",
+    "Text": "",
+    "Enabled": false
+  },
+  "502010010370030": {
+    "OriginalText": "ありがとうごいます！\nこのご恩は、私とグラバー様が結婚の際に\n披露に呼ぶことでお返ししますわ！",
+    "Text": "",
+    "Enabled": false
+  },
+  "502010010380012": {
+    "OriginalText": "あ、ありがとうごいます。\n楽しみにしてますね。",
+    "Text": "",
+    "Enabled": false
+  },
+  "502010010390030": {
+    "OriginalText": "さあ、みなさん、いきますわよ！\n恋する無敵艦隊、出発です！",
+    "Text": "",
+    "Enabled": false
+  },
+  "502010020010030": {
+    "OriginalText": "グラバー様っ！\nお久しぶりです！\nご機嫌うるわしゅう！",
+    "Text": "",
+    "Enabled": false
+  },
+  "502010020020032": {
+    "OriginalText": "……誰だ、お前は？",
+    "Text": "",
+    "Enabled": false
+  },
+  "502010020030030": {
+    "OriginalText": "！？",
+    "Text": "",
+    "Enabled": false
+  },
+  "502010020040030": {
+    "OriginalText": "緊急事態発生……\n恋するガーネット艦……\n沈没寸前……。",
+    "Text": "",
+    "Enabled": false
+  },
+  "502010020050001": {
+    "OriginalText": "……ね、ねえ。ガーネットさん。\nあなたとグラバー隊長は拠点の中で\nちょっとすれ違っただけですよね。",
+    "Text": "",
+    "Enabled": false
+  },
+  "502010020060001": {
+    "OriginalText": "だったらお久しぶりじゃなくて、\n別の言い方のほうがいいんじゃないかなと……。",
+    "Text": "",
+    "Enabled": false
+  },
+  "502010020070001": {
+    "OriginalText": "あなたにとっては２度目でも、\nグラバー隊長にとっては\nそうじゃないでしょうし……。",
+    "Text": "",
+    "Enabled": false
+  },
+  "502010020080030": {
+    "OriginalText": "し、執事。\nこんなときはどんな言い方がいいのですか？",
+    "Text": "",
+    "Enabled": false
+  },
+  "502010020090000": {
+    "OriginalText": "また会えて超ラッキーです、と自己介",
+    "Text": "",
+    "Enabled": false
+  },
+  "502010020100030": {
+    "OriginalText": "なるほど……。ぐっとくだけて\n親しみやすさをアピールするのですね。\nわかりました、それで行きます！",
+    "Text": "",
+    "Enabled": false
+  },
+  "502010020110030": {
+    "OriginalText": "愛しのグラバー様！\nまた会えて超ラッキーです！",
+    "Text": "",
+    "Enabled": false
+  },
+  "502010020120030": {
+    "OriginalText": "私、デルタ・ヴァリアント所属の\nガーネットですわ！",
+    "Text": "",
+    "Enabled": false
+  },
+  "502010020125032": {
+    "OriginalText": "……あ、あぁ。\nよろしく、ガーネット。",
+    "Text": "",
+    "Enabled": false
+  },
+  "502010020130000": {
+    "OriginalText": "お初にお目にかかります、と自己介",
+    "Text": "",
+    "Enabled": false
+  },
+  "502010020140030": {
+    "OriginalText": "なるほど……。そ、そうですよね。\n礼儀正しい女性は好かれますものね。\nわかりました、それで行きます！",
+    "Text": "",
+    "Enabled": false
+  },
+  "502010020150030": {
+    "OriginalText": "お初にお目にかかります、グラバー様。\nデルタ・ヴァリアント所属の\nガーネットと申します！",
+    "Text": "",
+    "Enabled": false
+  },
+  "502010020160032": {
+    "OriginalText": "こちらこそ、初めまして。\nよろしく。ガーネット。",
+    "Text": "",
+    "Enabled": false
+  },
+  "502010020170030": {
+    "OriginalText": "やったぁ！\n初の会話成立です！\nしかも、名前を呼んでもらえましたよっ！",
+    "Text": "",
+    "Enabled": false
+  },
+  "502010020180032": {
+    "OriginalText": "で、なんの用だ？",
+    "Text": "",
+    "Enabled": false
+  },
+  "502010020190030": {
+    "OriginalText": "えっとですね……。\n私、グラバー様のことが……。",
+    "Text": "",
+    "Enabled": false
+  },
+  "502010020200001": {
+    "OriginalText": "ストーップ！！！",
+    "Text": "",
+    "Enabled": false
+  },
+  "502010020210030": {
+    "OriginalText": "ルティナさん、なんですの？\n突然大きな声をあげて……。\n私はグラバー様に愛の告白を……。",
+    "Text": "",
+    "Enabled": false
+  },
+  "502010020220001": {
+    "OriginalText": "ね、ねえ、ガーネットさん。\nいきなりアタックとかダメですよ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "502010020230030": {
+    "OriginalText": "……え？\nダメなんですか？\nなんで？",
+    "Text": "",
+    "Enabled": false
+  },
+  "502010020240001": {
+    "OriginalText": "なんでって……。\nまずは常識的な普通の会話から始めないと、\nグラバー隊長に引かれますよ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "502010020250030": {
+    "OriginalText": "ひ、引かれるのは困りますわ！\nでは教えてください！\n普通の会話ってどんなものなのですか？",
+    "Text": "",
+    "Enabled": false
+  },
+  "502010020260001": {
+    "OriginalText": "そうですね。\nそんなに難しく考えずに\n最近のアークスの話題でいいんじゃないですか？",
+    "Text": "",
+    "Enabled": false
+  },
+  "502010020270032": {
+    "OriginalText": "コソコソと何の話をしている。\nこっちは忙しいんだ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "502010020280030": {
+    "OriginalText": "グラバー様。\nグラバー様を探しているときに、\nコウエン隊長の記憶中枢を発見しましたわ！",
+    "Text": "",
+    "Enabled": false
+  },
+  "502010020290032": {
+    "OriginalText": "……なんだと。",
+    "Text": "",
+    "Enabled": false
+  },
+  "502010020300030": {
+    "OriginalText": "その回路は点滅していて、中には\n命を落とされた方の\n音声記録が残っていると……。",
+    "Text": "",
+    "Enabled": false
+  },
+  "502010020310030": {
+    "OriginalText": "コウエン隊長たちが全滅したのは\n惑星の辺境だったはずなのに。\n記憶中枢は拠点の外れにあったんです！",
+    "Text": "",
+    "Enabled": false
+  },
+  "502010020320030": {
+    "OriginalText": "なんか変な話ですよね……。",
+    "Text": "",
+    "Enabled": false
+  },
+  "502010020330032": {
+    "OriginalText": "……。\n拠点の外れ……。",
+    "Text": "",
+    "Enabled": false
+  },
+  "502010020340030": {
+    "OriginalText": "……え？ グラバー様？\nどうされたんですか！？",
+    "Text": "",
+    "Enabled": false
+  },
+  "502010020350030": {
+    "OriginalText": "グラバー様ー！！\n待ってくださーーい！！",
+    "Text": "",
+    "Enabled": false
+  },
+  "502010030010030": {
+    "OriginalText": "グラバー様！！\nどうしたんですか？\n私、何か変なこと言いました？",
+    "Text": "",
+    "Enabled": false
+  },
+  "502010030020032": {
+    "OriginalText": "……。",
+    "Text": "",
+    "Enabled": false
+  },
+  "502010030030030": {
+    "OriginalText": "グラバー様？",
+    "Text": "",
+    "Enabled": false
+  },
+  "502010030040001": {
+    "OriginalText": "ガーネットさん、待って待って。",
+    "Text": "",
+    "Enabled": false
+  },
+  "502010030050001": {
+    "OriginalText": "とりあえず、\nちょっと振り返ってみたほうがいいかも。",
+    "Text": "",
+    "Enabled": false
+  },
+  "502010030060030": {
+    "OriginalText": "振り返る……。\nこうですか？",
+    "Text": "",
+    "Enabled": false
+  },
+  "502010030070001": {
+    "OriginalText": "本当に振り返るんじゃなくて、\n何か気に障ったことを言わなかったか\n思い出してみましょうよ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "502010030080030": {
+    "OriginalText": "あぁ。そういうことですか。\nわかりました。",
+    "Text": "",
+    "Enabled": false
+  },
+  "502010030090030": {
+    "OriginalText": "えっと……。\n私がグラバー様に言ったのは……。",
+    "Text": "",
+    "Enabled": false
+  },
+  "502010030100030": {
+    "OriginalText": "なんでしたっけ？",
+    "Text": "",
+    "Enabled": false
+  },
+  "502010030110001": {
+    "OriginalText": "わかりました。いいです。\nあたしたちのほうで考えますから、\nそこでじっとしていてください。",
+    "Text": "",
+    "Enabled": false
+  },
+  "502010030120030": {
+    "OriginalText": "は～い。",
+    "Text": "",
+    "Enabled": false
+  },
+  "502010030130001": {
+    "OriginalText": "[ruby]相棒[/ruby]、覚えてる？\nグラバー隊長の様子が\nおかしくなったきっかけは……。",
+    "Text": "",
+    "Enabled": false
+  },
+  "502010030140000": {
+    "OriginalText": "ガーネットが愛の告白をしたあと",
+    "Text": "",
+    "Enabled": false
+  },
+  "502010030150001": {
+    "OriginalText": "……なるほど。\n彼はそれくらいガーネットさんからの\n告白を避けたかったってことね。",
+    "Text": "",
+    "Enabled": false
+  },
+  "502010030160001": {
+    "OriginalText": "……いや、待って。\nただ照れてるだけかもよ？",
+    "Text": "",
+    "Enabled": false
+  },
+  "502010030170001": {
+    "OriginalText": "って違うでしょ、[ruby]相棒[/ruby]！\nガーネットさんはまだ告白してないって。",
+    "Text": "",
+    "Enabled": false
+  },
+  "502010030180001": {
+    "OriginalText": "グラバー隊長の様子がおかしくなったのは、\nコウエン隊長の記憶中枢の話のあとだよ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "502010030190000": {
+    "OriginalText": "コウエン隊長の話をしたあと",
+    "Text": "",
+    "Enabled": false
+  },
+  "502010030200001": {
+    "OriginalText": "そうだ！\nきっとそれだよ！",
+    "Text": "",
+    "Enabled": false
+  },
+  "502010030210001": {
+    "OriginalText": "グラバー隊長の様子がおかしくなったのは\nコウエン隊長の記憶中枢の話を\nしたあとだった。",
+    "Text": "",
+    "Enabled": false
+  },
+  "502010030220001": {
+    "OriginalText": "ははーん、なるほどね。\nなんとなくわかってきた。",
+    "Text": "",
+    "Enabled": false
+  },
+  "502010030230001": {
+    "OriginalText": "グラバー隊長とコウエン隊長は、\n昔、フィルディア艦長と\n同じ隊にいたって聞いたことがあるよ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "502010030240030": {
+    "OriginalText": "つまり、３人は友だちだったと……。",
+    "Text": "",
+    "Enabled": false
+  },
+  "502010030250030": {
+    "OriginalText": "……それなら納得です。\nグラバー様にコウエン隊長の記憶中枢の話は\nあまりにも無神経でしたわ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "502010030260030": {
+    "OriginalText": "私、謝ってきます！",
+    "Text": "",
+    "Enabled": false
+  },
+  "502010030270030": {
+    "OriginalText": "グラバー様……。\n私、失礼なことを言ってしまって\n申し訳ありませんでした。",
+    "Text": "",
+    "Enabled": false
+  },
+  "502010030280030": {
+    "OriginalText": "亡くなったコウエン隊長のお話は\nするべきではなかったですよね。",
+    "Text": "",
+    "Enabled": false
+  },
+  "502010030290032": {
+    "OriginalText": "……。",
+    "Text": "",
+    "Enabled": false
+  },
+  "502010030300032": {
+    "OriginalText": "……コウエンは死んでなんかいない。",
+    "Text": "",
+    "Enabled": false
+  },
+  "502010030310030": {
+    "OriginalText": "えっ？\nで、でも……記憶中枢が……。",
+    "Text": "",
+    "Enabled": false
+  },
+  "502010030320032": {
+    "OriginalText": "コウエンは今も生きている。\nそれはハッキリとした事実だ。",
+    "Text": "",
+    "Enabled": false
+  },
+  "502010030330030": {
+    "OriginalText": "グラバー様……。",
+    "Text": "",
+    "Enabled": false
+  },
+  "502010030340030": {
+    "OriginalText": "なんてミステリアスなの！\nますます素敵ですわ！",
+    "Text": "",
+    "Enabled": false
+  },
   "504000010010032": {
     "OriginalText": "……今日は集まってもらってすまない。",
     "Text": "...I'm sorry to have you gather today.",
@@ -610,12 +1155,12 @@
     "Enabled": true
   },
   "504000010130032": {
-    "OriginalText": "『デッドアラートの受信を偽伝してほしい……』\nそれがコウエンの頼みだった。",
+    "OriginalText": "『デッドアラートの受信を偽装してほしい……』\nそれがコウエンの頼みだった。",
     "Text": "\"Pretend you've received the Dead Alert.\",\nthat was Cowen's request.",
     "Enabled": true
   },
   "504000010140003": {
-    "OriginalText": "……でも、どうして援軍を呼ばないで、\nデッドアラートの偽伝なんて頼んだんですか。",
+    "OriginalText": "……でも、どうして援軍を呼ばないで、\nデッドアラートの偽装なんて頼んだんですか。",
     "Text": "Why didn't they request for backup\ninstead of asking to spread a\nfake notice?",
     "Enabled": true
   },
@@ -695,7 +1240,7 @@
     "Enabled": true
   },
   "504000010300031": {
-    "OriginalText": "考えた結果がデッドアラートの\n偽伝だったというわけか。",
+    "OriginalText": "考えた結果がデッドアラートの\n偽装だったというわけか。",
     "Text": "So the result was that the\nDead Alert ended up being a\nfalse report.",
     "Enabled": true
   },
@@ -820,7 +1365,7 @@
     "Enabled": true
   },
   "504000020100031": {
-    "OriginalText": "ここにいる者似外、\nコウエン隊長たちの功績を知る者はいない。\nだが、それでも彼らは間違いなく英雄だ。",
+    "OriginalText": "ここにいる者以外、\nコウエン隊長たちの功績を知る者はいない。\nだが、それでも彼らは間違いなく英雄だ。",
     "Text": "Nobody knows the achievements of\nCaptain Cowen other than us.\nBut there's no doubt they're heroes.",
     "Enabled": true
   },

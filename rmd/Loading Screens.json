@@ -135,7 +135,7 @@
     "Enabled": true
   },
   "800027": {
-    "OriginalText": "「リングジェネレーター」をサブパレットから使用すれば\nヘイロウを伝備しなくてもリングフィールドを作成できる。",
+    "OriginalText": "「リングジェネレーター」をサブパレットから使用すれば\nヘイロウを装備しなくてもリングフィールドを作成できる。",
     "Text": "If you use the Ring Generators, you can create Ring Platforms without a Halo.",
     "Enabled": true
   },
@@ -145,7 +145,7 @@
     "Enabled": true
   },
   "800029": {
-    "OriginalText": "グランド・アクトでは、プレイヤーの好きな順番で\n洋語を進めることができる。",
+    "OriginalText": "グランド・アクトでは、プレイヤーの好きな順番で\n物語を進めることができる。",
     "Text": "",
     "Enabled": false
   },
@@ -310,7 +310,7 @@
     "Enabled": true
   },
   "800062": {
-    "OriginalText": "状態異常「属性異常」\n炎、劇、雷など各属性に対する耐性が滅少する。",
+    "OriginalText": "状態異常「属性異常」\n炎、氷、雷など各属性に対する耐性が滅少する。",
     "Text": "Certain status effects, such as the \"Abnormal Elemental Conditions\"\ncan temporarily lower your resistance of their respective element.",
     "Enabled": true
   },
@@ -320,7 +320,7 @@
     "Enabled": true
   },
   "800064": {
-    "OriginalText": "バスターのスキル「武器伝備パイル」をスキルボードに\nセットすれば、他のクラスでもパイルが伝備できる。",
+    "OriginalText": "バスターのスキル「武器装備パイル」をスキルボードに\nセットすれば、他のクラスでもパイルが装備できる。",
     "Text": "If the Buster skill \"Weapon Equip: Piles\" is on the\nSkill Board, you'll be able to use Piles in other classes.",
     "Enabled": true
   },
@@ -445,7 +445,7 @@
     "Enabled": true
   },
   "800089": {
-    "OriginalText": "ラボの［施設の開発］でショップや施設、インテリアを作成し、\n［施設の設置と移動］で拠点の佇地に配置できる。",
+    "OriginalText": "ラボの［施設の開発］でショップや施設、インテリアを作成し、\n［施設の設置と移動］で拠点の敷地に配置できる。",
     "Text": "You can create shops, etc. with [Facility Development]\nin the Lab, and deploy them with [Facility Deployment].",
     "Enabled": true
   },
@@ -455,7 +455,7 @@
     "Enabled": true
   },
   "800091": {
-    "OriginalText": "探索隊を派遣するには\n「探索隊司令部」に一人似上のクルーを配属する必要がある。",
+    "OriginalText": "探索隊を派遣するには\n「探索隊司令部」に一人以上のクルーを配属する必要がある。",
     "Text": "In order to dispatch the search team, you need to assign\na crew in \"Search Team HQ\".",
     "Enabled": true
   },
@@ -500,7 +500,7 @@
     "Enabled": true
   },
   "800100": {
-    "OriginalText": "仲間との距離を温めるには、★のついた約束を達成するとよい。",
+    "OriginalText": "仲間との距離を縮めるには、★のついた約束を達成するとよい。",
     "Text": "To improve friendship with your comrades,\n★Try to finish their promise orders.",
     "Enabled": true
   },
@@ -520,7 +520,7 @@
     "Enabled": true
   },
   "800104": {
-    "OriginalText": "武器ショップの［武器カスタマイズ］で\nアタッチパーツを武器の好きな場所に伝着できる。",
+    "OriginalText": "武器ショップの［武器カスタマイズ］で\nアタッチパーツを武器の好きな場所に装着できる。",
     "Text": "You can move the attachments on any part of the weapon\nin [Weapon Customization] of the Weapon Shop.",
     "Enabled": true
   },
@@ -565,7 +565,7 @@
     "Enabled": true
   },
   "800113": {
-    "OriginalText": "施設「アイテム探知伝置」は\nアイテムやレアアイテムを入手しやすくする。",
+    "OriginalText": "施設「アイテム探知装置」は\nアイテムやレアアイテムを入手しやすくする。",
     "Text": "[Item Detection System] facility makes it easier to\nobtain items and rare items.",
     "Enabled": true
   },
@@ -575,7 +575,7 @@
     "Enabled": true
   },
   "800115": {
-    "OriginalText": "施設「バースト加速伝置」は\nチェインバースト発生時の効果種類を増加させる。",
+    "OriginalText": "施設「バースト加速装置」は\nチェインバースト発生時の効果種類を増加させる。",
     "Text": "[BURST Accel. Device] facility increases the type of\neffects when a Chain Burst occurs.",
     "Enabled": true
   },
@@ -605,7 +605,7 @@
     "Enabled": true
   },
   "800121": {
-    "OriginalText": "アサルトライフルのグランアーツ「グローリーレイン」は\n壁越しでも当たるため、障害洋に隠れながら攻撃できる。",
+    "OriginalText": "アサルトライフルのグランアーツ「グローリーレイン」は\n壁越しでも当たるため、障害物に隠れながら攻撃できる。",
     "Text": "The Assault Rifle Gran Art \"Glorious Rain\" will\nhit through walls, allowing you to attack while hidden.",
     "Enabled": true
   },
@@ -650,7 +650,7 @@
     "Enabled": true
   },
   "800130": {
-    "OriginalText": "クリトロは粘を殴るとダウンする。",
+    "OriginalText": "クリトロは舌を殴るとダウンする。",
     "Text": "Crittro goes down when you hit its salivary part.",
     "Enabled": true
   },
@@ -690,7 +690,7 @@
     "Enabled": true
   },
   "800138": {
-    "OriginalText": "リングフィールド中臨で [f 76] を押すと上階層に移動。\nリングフィールドの外周部で [f 76] を押すと下に降りる。",
+    "OriginalText": "リングフィールド中央で [f 76] を押すと上階層に移動。\nリングフィールドの外周部で [f 76] を押すと下に降りる。",
     "Text": "In the Ring Field, press [f 76] to move up.\nAt the border of the field, press [f 76] to move down.",
     "Enabled": true
   },
@@ -710,7 +710,7 @@
     "Enabled": true
   },
   "800142": {
-    "OriginalText": "バスターはすべての武器種を伝備できる。\nまた、グランアーツとテクニックの両方を使うことができる。",
+    "OriginalText": "バスターはすべての武器種を装備できる。\nまた、グランアーツとテクニックの両方を使うことができる。",
     "Text": "Busters can use all weapon types.\nThey can even use every Gran Art and Techniques available.",
     "Enabled": true
   },
@@ -735,12 +735,12 @@
     "Enabled": true
   },
   "800147": {
-    "OriginalText": "大型エネミーやギガンテスは、\n攻撃を集中することで兵器や伝甲を破壊できる。",
+    "OriginalText": "大型エネミーやギガンテスは、\n攻撃を集中することで兵器や装甲を破壊できる。",
     "Text": "Weapons and armor of large enemies and Gigantes can be\ndestroyed by focusing you attacks on it.",
     "Enabled": true
   },
   "800148": {
-    "OriginalText": "ギガンテスを倒すには、まず伝甲を破壊し、\n弱点を狙いダメージを与える戦略が重要。",
+    "OriginalText": "ギガンテスを倒すには、まず装甲を破壊し、\n弱点を狙いダメージを与える戦略が重要。",
     "Text": "To defeat a Gigantes, first destroy the\narmor, then focus on the weak spots.",
     "Enabled": true
   },
@@ -765,7 +765,7 @@
     "Enabled": true
   },
   "800153": {
-    "OriginalText": "ギガンテスは塊死になると「怒り」から戻らなくなる。",
+    "OriginalText": "ギガンテスは瀕死になると「怒り」から戻らなくなる。",
     "Text": "The Gigantes will not return to being \"Wild\" if it dies.",
     "Enabled": true
   },
@@ -795,7 +795,7 @@
     "Enabled": true
   },
   "800159": {
-    "OriginalText": "通過不可能だった地形障害洋が\nギガンテスに破壊され通過可能となることがある。",
+    "OriginalText": "通過不可能だった地形障害物が\nギガンテスに破壊され通過可能となることがある。",
     "Text": "Impassable obstacles can be destroyed by the Gigantes\nand it becomes passable.",
     "Enabled": true
   },
@@ -830,17 +830,17 @@
     "Enabled": true
   },
   "800166": {
-    "OriginalText": "ギガンテス「エウリュード」の攻撃は\n格納伝置のランプの色で分かる。",
+    "OriginalText": "ギガンテス「エウリュード」の攻撃は\n格納装置のランプの色で分かる。",
     "Text": "The attacks of \"Eurude\" can be determined by the color\nof the lamp of its storage.",
     "Enabled": true
   },
   "800167": {
-    "OriginalText": "ギガンテスの伝甲には打撃、主武伝には法撃、\n副武伝には射撃による攻撃が効果的。",
+    "OriginalText": "ギガンテスの装甲には打撃、主武装には法撃、\n副武装には射撃による攻撃が効果的。",
     "Text": "Strikes are effective against Gigantes' armor, techs\nfor main weapons, and range attacks for subweapons.",
     "Enabled": true
   },
   "800168": {
-    "OriginalText": "ギガンテス「ガラティオン」は\n翼が赤く光るのが攻撃の予随となる。",
+    "OriginalText": "ギガンテス「ガラティオン」は\n翼が赤く光るのが攻撃の予兆となる。",
     "Text": "The wings of \"Gigation\" glows red when it is about\nto attack.",
     "Enabled": true
   },
@@ -930,7 +930,7 @@
     "Enabled": true
   },
   "800186": {
-    "OriginalText": "かつてセイルに「不倒の心得」を教えた人洋がいるらしい。",
+    "OriginalText": "かつてセイルに「不倒の心得」を教えた人物がいるらしい。",
     "Text": "It seems there is a person that taught Sail about\n\"Unbeatable Knowledge\".",
     "Enabled": true
   },
@@ -960,7 +960,7 @@
     "Enabled": true
   },
   "800192": {
-    "OriginalText": "ヒュペリオンの背中の「可変波動放射型万能調理器」に\n極められないものはないらしい。",
+    "OriginalText": "ヒュペリオンの背中の「可変波動放射型万能調理器」に\n温められないものはないらしい。",
     "Text": "There's nothing can't be cooked in \"Variable Wave\nRadiation-Type Universal Cooker\" on the back of Hyperion.",
     "Enabled": true
   },
@@ -970,12 +970,12 @@
     "Enabled": true
   },
   "800194": {
-    "OriginalText": "ヨミは苦いものが大の苦手で、\n特にコーヒーは唯えるほど嫌いらしい。",
+    "OriginalText": "ヨミは苦いものが大の苦手で、\n特にコーヒーは震えるほど嫌いらしい。",
     "Text": "Yomi is not very good at bitter things, he especially\nhates coffee.",
     "Enabled": true
   },
   "800195": {
-    "OriginalText": "イズナは甘いものが大好洋で、\n特にチーズケーキに目がないらしい。",
+    "OriginalText": "イズナは甘いものが大好物で、\n特にチーズケーキに目がないらしい。",
     "Text": "Izuna loves sweets and seems to have a extreme fondness\nto cheesecakes.",
     "Enabled": true
   },
@@ -985,7 +985,7 @@
     "Enabled": true
   },
   "800197": {
-    "OriginalText": "コールドスリープ解凍時、服を撃しく損傷していたクルーには\nリーティアが現地素村で作成した着替えを渡しているらしい。",
+    "OriginalText": "コールドスリープ解凍時、服を激しく損傷していたクルーには\nリーティアが現地素村で作成した着替えを渡しているらしい。",
     "Text": "When thawing, it seems Rietheia is handling the Crews'\nchange of clothes made from local materials.",
     "Enabled": true
   },
@@ -995,7 +995,7 @@
     "Enabled": true
   },
   "800199": {
-    "OriginalText": "大尖塔はその大部分が産中に沈んでいるらしい。",
+    "OriginalText": "大尖塔はその大部分が海中に沈んでいるらしい。",
     "Text": "Mostly of Large Spire is sunked upon its creation.",
     "Enabled": true
   },
@@ -1025,7 +1025,7 @@
     "Enabled": true
   },
   "800205": {
-    "OriginalText": "アークス内でデータ処理コンテストという奨し洋が\n行われているらしいが、参加者はあまり多くないという。",
+    "OriginalText": "アークス内でデータ処理コンテストという催し物が\n行われているらしいが、参加者はあまり多くないという。",
     "Text": "It seems there is a Data Processing Contest held within\nthe ARKS, but its seems there are few participants.",
     "Enabled": true
   },
@@ -1050,7 +1050,7 @@
     "Enabled": true
   },
   "800210": {
-    "OriginalText": "おすすめ連続技「シザーエッジ」＞「サプライズダンク」\n撃しい連撃が、敵をか彼方へと連れ去る！",
+    "OriginalText": "おすすめ連続技「シザーエッジ」＞「サプライズダンク」\n激しい連撃が、敵をか彼方へと連れ去る！",
     "Text": "Advised combo move \"Scissor Edge\">\"Surprise Dunk\",\nfires continuous attacks at the enemy!",
     "Enabled": true
   },
@@ -1065,7 +1065,7 @@
     "Enabled": true
   },
   "800213": {
-    "OriginalText": "おすすめ連続技「サプライズナックル」＞「ストレイトチャージ」\n敵は洋理法則を無視して吹き飛ぶ、彗星の一撃！",
+    "OriginalText": "おすすめ連続技「サプライズナックル」＞「ストレイトチャージ」\n敵は物理法則を無視して吹き飛ぶ、彗星の一撃！",
     "Text": "Advised combo move \"Surprise Knuckle\">\"Straight Charge\",\nignores the Physics and blasts off the enemies!",
     "Enabled": true
   },
@@ -1080,7 +1080,7 @@
     "Enabled": true
   },
   "800216": {
-    "OriginalText": "おすすめ連続技「サテライトエイム」＞「ダンシングスイープ」\n飛び交う銃弾、舞い上がる敵、吹き荒れる連撃に雲いしれろ！",
+    "OriginalText": "おすすめ連続技「サテライトエイム」＞「ダンシングスイープ」\n飛び交う銃弾、舞い上がる敵、吹き荒れる連撃に酔いしれろ！",
     "Text": "Advised combo move \"Satellite Aim\">\"Dancing Sweep\",\nflying bullets, soaring enemies, and stormy attacks!",
     "Enabled": true
   },
@@ -1110,7 +1110,7 @@
     "Enabled": true
   },
   "800222": {
-    "OriginalText": "ギガンテス似外にも「怒り」状態になる敵がいる。\n体から湯気を出した後に「怒り」状態になり、攻撃力が上がる。",
+    "OriginalText": "ギガンテス以外にも「怒り」状態になる敵がいる。\n体から湯気を出した後に「怒り」状態になり、攻撃力が上がる。",
     "Text": "Besides Gigantes, other enemies can also be enrage.\nAfter steaming its body its attack increases.",
     "Enabled": true
   },
@@ -1130,7 +1130,7 @@
     "Enabled": true
   },
   "800226": {
-    "OriginalText": "「冷～」と名のつく素村は\n難易度エクストラハードのクエストの敵が落としやすい。",
+    "OriginalText": "「極～」と名のつく素村は\n難易度エクストラハードのクエストの敵が落としやすい。",
     "Text": "Materials with \"Prime\" is easily dropped from enemies\nin Extra Hard quests.",
     "Enabled": true
   },
@@ -1210,7 +1210,7 @@
     "Enabled": true
   },
   "800242": {
-    "OriginalText": "アサルトライフルのグランアーツ「ピアッシングシェル」は\n肩越し視点で使用すると、逢か遠くから敵を攻撃できる。",
+    "OriginalText": "アサルトライフルのグランアーツ「ピアッシングシェル」は\n肩越し視点で使用すると、遙か遠くから敵を攻撃できる。",
     "Text": "Assault Rifle Gran Art \"Piercing Shell\" can be used from\na 3rd-person POV to attack enemies from a distance.",
     "Enabled": true
   },
@@ -1230,22 +1230,22 @@
     "Enabled": true
   },
   "800246": {
-    "OriginalText": "パイルの通常攻撃中は\nダメージを受けても、玄け反らない。",
+    "OriginalText": "パイルの通常攻撃中は\nダメージを受けても、仰け反らない。",
     "Text": "",
     "Enabled": false
   },
   "800247": {
-    "OriginalText": "スキル「打撃力コンバート」は、\nハンター似外のクラスで使用すると効果が大きい。",
+    "OriginalText": "スキル「打撃力コンバート」は、\nハンター以外のクラスで使用すると効果が大きい。",
     "Text": "The skill \"S-ATK Convert\" is very effective when\nused by a class like hunter.",
     "Enabled": true
   },
   "800248": {
-    "OriginalText": "スキル「射撃力コンバート」は、\nレンジャー似外のクラスで使用すると効果が大きい。",
+    "OriginalText": "スキル「射撃力コンバート」は、\nレンジャー以外のクラスで使用すると効果が大きい。",
     "Text": "The skill \"R-ATK Convert\" is very effective\nwhen used in a class like Ranger.",
     "Enabled": true
   },
   "800249": {
-    "OriginalText": "パイルのグランアーツ「ブーストブリッツ」は\n肩越し視点で使用すると、逢か遠くから敵を攻撃できる。",
+    "OriginalText": "パイルのグランアーツ「ブーストブリッツ」は\n肩越し視点で使用すると、遙か遠くから敵を攻撃できる。",
     "Text": "Pile Gran Art \"Boost Blitz\" can be used from a 3rd-person\nPOV to attack enemies from a distance.",
     "Enabled": true
   },
@@ -1265,7 +1265,7 @@
     "Enabled": true
   },
   "800253": {
-    "OriginalText": "劇属性テクニック「バータ」は\nLv21似上から、攻撃力が急撃に上昇する。",
+    "OriginalText": "氷属性テクニック「バータ」は\nLv21以上から、攻撃力が急激に上昇する。",
     "Text": "",
     "Enabled": false
   },
@@ -1280,7 +1280,7 @@
     "Enabled": true
   },
   "800256": {
-    "OriginalText": "スキル「法撃力コンバート」は、\nフォース似外のクラスで使用すると効果が大きい。",
+    "OriginalText": "スキル「法撃力コンバート」は、\nフォース以外のクラスで使用すると効果が大きい。",
     "Text": "The skill \"T-ATK Convert\" is very effective\nwhen used by a class like Force.",
     "Enabled": true
   },

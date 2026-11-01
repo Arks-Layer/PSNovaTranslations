@@ -20,7 +20,7 @@
     "Enabled": true
   },
   "550004": {
-    "OriginalText": "生鑑いたまご焼き",
+    "OriginalText": "生臭いたまご焼き",
     "Text": "Fishy Rolled Omelet",
     "Enabled": true
   },
@@ -45,7 +45,7 @@
     "Enabled": true
   },
   "550009": {
-    "OriginalText": "派手な産鮮丼",
+    "OriginalText": "派手な海鮮丼",
     "Text": "Extravagant Seafood Donburi",
     "Enabled": true
   },
@@ -100,7 +100,7 @@
     "Enabled": true
   },
   "550020": {
-    "OriginalText": "祭の地獄焼き",
+    "OriginalText": "貝の地獄焼き",
     "Text": "Fried Shellfish",
     "Enabled": true
   },
@@ -235,7 +235,7 @@
     "Enabled": true
   },
   "550047": {
-    "OriginalText": "木の実スパイスがけ",
+    "OriginalText": "木の実のスパイスがけ",
     "Text": "Spiced Nut",
     "Enabled": true
   },
@@ -380,7 +380,7 @@
     "Enabled": true
   },
   "630029": {
-    "OriginalText": "艦内生活に潤いを与えるグルメ料理。\n大きなケーキは子どもの頃の皆の夢。",
+    "OriginalText": "艦内生活に潤いを与えるグルメ料理。\n大きな肉はそれだけで確かな満足感。",
     "Text": "A gourmet that enriches the lives on board.\nThe big meat is certainly satisfying.",
     "Enabled": true
   },
@@ -450,7 +450,7 @@
     "Enabled": true
   },
   "630043": {
-    "OriginalText": "この惑星でしか味わえない美食。\nさぞいい洋を食べて育ったに違いない。",
+    "OriginalText": "この惑星でしか味わえない美食。\nさぞいい物を食べて育ったに違いない。",
     "Text": "A gourmet only found in this planet.\nThis good food will help you grow up.",
     "Enabled": true
   },
@@ -505,7 +505,7 @@
     "Enabled": true
   },
   "745006": {
-    "OriginalText": "劇属性ダメージ ＋７％",
+    "OriginalText": "氷属性ダメージ ＋７％",
     "Text": "Ice Damage +7%",
     "Enabled": true
   },
@@ -585,7 +585,7 @@
     "Enabled": true
   },
   "745022": {
-    "OriginalText": "劇耐性 ＋８％",
+    "OriginalText": "氷耐性 ＋８％",
     "Text": "Ice Resist +7%",
     "Enabled": true
   },
@@ -615,7 +615,7 @@
     "Enabled": true
   },
   "745028": {
-    "OriginalText": "チャージ短温",
+    "OriginalText": "チャージ短縮",
     "Text": "Charge Reduction",
     "Enabled": true
   },

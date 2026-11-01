@@ -1550,17 +1550,17 @@
     "Enabled": true
   },
   "91002": {
-    "OriginalText": "４５₱ＡＵＴＯ",
+    "OriginalText": "４５-ＡＵＴＯ",
     "Text": "45-AUTO",
     "Enabled": true
   },
   "91003": {
-    "OriginalText": "ＳＭＧ₱０５",
+    "OriginalText": "ＳＭＧ-０５",
     "Text": "SMG-05",
     "Enabled": true
   },
   "91004": {
-    "OriginalText": "Ｂ₱８４",
+    "OriginalText": "Ｂ-８４",
     "Text": "B-N84",
     "Enabled": true
   },
@@ -1645,27 +1645,27 @@
     "Enabled": true
   },
   "100016": {
-    "OriginalText": "謎の遺跡から発堀された大剣。\n持つ者を跡了するような魅しい刀身に\n高麗度のエネルギーを含有している。",
+    "OriginalText": "謎の遺跡から発堀された大剣。\n持つ者を魅了するような麗しい刀身に\n高濃度のエネルギーを含有している。",
     "Text": "A large Sword excavated from a\nmysterious ruins. It's fascinating\nblade contains high-quality energy.",
     "Enabled": true
   },
   "100017": {
-    "OriginalText": "濃存の武器に既足できないアークスが\n独自開発した大剣。満用パーツを使用し\n基本性能そのままに量汎可能になった。",
+    "OriginalText": "既存の武器に満足できないアークスが\n独自開発した大剣。汎用パーツを使用し\n基本性能そのままに量産可能になった。",
     "Text": "A large Sword originally developed by\nARKS. Can't be used normally but still\npossible to use for basic combat.",
     "Enabled": true
   },
   "100018": {
-    "OriginalText": "産海生洋の物型を作っていたはずが\nどこで間違ったのか大剣になった。\n多くのアークスに人気の特殊な武器。",
+    "OriginalText": "海洋生物の模型を作っていたはずが\nどこで間違ったのか大剣になった。\n多くのアークスに人気の特殊な武器。",
     "Text": "A model of a marine life form that\nwas mistakenly made into a Sword.\nA special weapon popular among ARKS.",
     "Enabled": true
   },
   "100019": {
-    "OriginalText": "模を倒した者が手にすると\n言い龍えられている龍説の大剣。\n伝者の力を装に源的な攻撃力を見せる。",
+    "OriginalText": "龍を倒した者が手にすると\n言い伝えられている伝説の大剣。\n装者の力を源に劇的な攻撃力を見せる。",
     "Text": "A legendary Sword owned by one\nwho defeated a dragon. Its wielder\nis granted immense attack power.",
     "Enabled": true
   },
   "100020": {
-    "OriginalText": "基本モデルの劇氷出力を上げた大剣。\n冷低極による金属収温でサイズが\nコンパクトになり、扱いやすくなった。",
+    "OriginalText": "基本モデルの氷冷出力を上げた大剣。\n極低温による金属収縮でサイズが\nコンパクトになり、扱いやすくなった。",
     "Text": "A Sword that adds a cold effect to\nthe base model. Has contracted due\nto the cold, making it compact.",
     "Enabled": true
   },
@@ -1675,12 +1675,12 @@
     "Enabled": true
   },
   "100022": {
-    "OriginalText": "アグリオスの伝甲を加工し武器転用した\n大剣。抜群の硬度を誇り重量感あふれる\n攻撃で標的に確実なダメージを与える。",
+    "OriginalText": "アグリオスの装甲を加工し武器転用した\n大剣。抜群の硬度を誇り重量感あふれる\n攻撃で標的に確実なダメージを与える。",
     "Text": "A large Sword made from an Agrios\narmor. It's very sturdy and its heavy\nattack deals significant damage.",
     "Enabled": true
   },
   "100023": {
-    "OriginalText": "ゴルドスの皮を加工し武器転用した\n大剣。甲殻伝甲に対抗し得る強度を\n持つが、取り扱いには注意を要する。",
+    "OriginalText": "ゴルドスの皮を加工し武器転用した\n大剣。甲殻装甲に対抗し得る強度を\n持つが、取り扱いには注意を要する。",
     "Text": "A large Sword made from Gordes hide.\nIt has the same strength as its armor\nshell and requires careful handling.",
     "Enabled": true
   },
@@ -1690,7 +1690,7 @@
     "Enabled": true
   },
   "100025": {
-    "OriginalText": "濃存の武器に既足できないアークスが\n独自開発した大剣。軽量設計ながら\n特殊な環境下でも安定した攻撃が可能。",
+    "OriginalText": "既存の武器に満足できないアークスが\n独自開発した大剣。軽量設計ながら\n特殊な環境下でも安定した攻撃が可能。",
     "Text": "A large Sword originally developed by\nARKS. Despite its lightweight design\nit can produce stable attacks.",
     "Enabled": true
   },
@@ -1710,12 +1710,12 @@
     "Enabled": true
   },
   "100029": {
-    "OriginalText": "グレイオスの伝甲を加工し武器転用した\n大剣。亜種の生体研究を進める過程で\n試作された従来より軽量なモデル。",
+    "OriginalText": "グレイオスの装甲を加工し武器転用した\n大剣。亜種の生体研究を進める過程で\n試作された従来より軽量なモデル。",
     "Text": "A large Sword made from a Greios\narmor. A lighter model than the\nBiological Research prototype.",
     "Enabled": true
   },
   "100030": {
-    "OriginalText": "濃存の武器に既足できないアークスが\n独自開発した大剣。黒染加工により\n金属腐食への耐久性を向上させた。",
+    "OriginalText": "既存の武器に満足できないアークスが\n独自開発した大剣。黒染加工により\n金属腐食への耐久性を向上させた。",
     "Text": "A large Sword originally developed by\nARKS. The dyeing process improve its\ndurability against metal corrosion.",
     "Enabled": true
   },
@@ -1745,7 +1745,7 @@
     "Enabled": true
   },
   "100036": {
-    "OriginalText": "美術品としても取引される長槍。\n儀礼用の伝飾槍をベースに開発されたが\n実戦においても驚異的な破壊力を誇る。",
+    "OriginalText": "美術品としても取引される長槍。\n儀礼用の装飾槍をベースに開発されたが\n実戦においても驚異的な破壊力を誇る。",
     "Text": "A work of art Partizan. It was forged\nbased on a ritual spear, but boasts\ntremendous destructive power.",
     "Enabled": true
   },
@@ -1765,7 +1765,7 @@
     "Enabled": true
   },
   "100040": {
-    "OriginalText": "切り裂いた魂のみならず、\n伝者の魂をも喰らうと言われる長槍。",
+    "OriginalText": "切り裂いた魂のみならず、\n装者の魂をも喰らうと言われる長槍。",
     "Text": "A Partizan that is said to not only\nconsumes the disembodied soul but\nalso serves as a messenger.",
     "Enabled": true
   },
@@ -1780,7 +1780,7 @@
     "Enabled": true
   },
   "100043": {
-    "OriginalText": "ダーク・ラグネのデータを基に\nその構成洋質を再現して作った長槍。\n禍々しくねじ曲がった柄が特微。",
+    "OriginalText": "ダーク・ラグネのデータを基に\nその構成物質を再現して作った長槍。\n禍々しくねじ曲がった柄が特微。",
     "Text": "A long Partizan forged based on a data of a\nDark Ragne. Its terrifying twisted\nhandle is extraordinary.",
     "Enabled": true
   },
@@ -1790,17 +1790,17 @@
     "Enabled": true
   },
   "100045": {
-    "OriginalText": "華美な伝飾の施された豪奢な長槍。\n富豪にしか持てないと揶揄されている。",
+    "OriginalText": "華美な装飾の施された豪奢な長槍。\n富豪にしか持てないと揶揄されている。",
     "Text": "A luxurious Partizan with ornate\ndecoration. It is ridiculed that only\nmillionaires can possess it.",
     "Enabled": true
   },
   "100046": {
-    "OriginalText": "爆撃弾の追撃が可能な長槍。\n伝者を祝福するその白銀の輝きは\n聖なる騎土すら彷彿させる。",
+    "OriginalText": "爆撃弾の追撃が可能な長槍。\n装者を祝福するその白銀の輝きは\n聖なる騎土すら彷彿させる。",
     "Text": "A Partizan capable of explosion.\nThe silver sheen that blesses the\nuser is reminiscent of a holy knight.",
     "Enabled": true
   },
   "100047": {
-    "OriginalText": "生命力の強い植洋由来の長槍。\n光合成により機能が強化される。\n一定環境下で使用すると劣化しにくい。",
+    "OriginalText": "生命力の強い植物由来の長槍。\n光合成により機能が強化される。\n一定環境下で使用すると劣化しにくい。",
     "Text": "A Partizan forged from a strong\nplant. It doesn't deteriorate because\nof its photosynthetic function.",
     "Enabled": true
   },
@@ -1810,7 +1810,7 @@
     "Enabled": true
   },
   "100049": {
-    "OriginalText": "ディートアスの生体を組み込んだ長槍。\nブレードと連動し撃しく共振しながら\n標的をえぐる。",
+    "OriginalText": "ディートアスの生体を組み込んだ長槍。\nブレードと連動し激しく共振しながら\n標的をえぐる。",
     "Text": "A Partizan made from a living body of\na Dietoas. Its blade resonates while\nscooping out the target.",
     "Enabled": true
   },
@@ -1820,27 +1820,27 @@
     "Enabled": true
   },
   "100051": {
-    "OriginalText": "星を覆うギガンテスの器官を組み込み\n試作された長槍。比類なき硬質銅が\n使用者に当たりの強さを楽しませる。",
+    "OriginalText": "星を覆うギガンテスの器官を組み込み\n試作された長槍。比類なき硬質鋼が\n使用者に当たりの強さを楽しませる。",
     "Text": "A prototype Partizan made from an organ\nof a giant Gigantes. Its hardness\nenhances the strength of the user.",
     "Enabled": true
   },
   "100052": {
-    "OriginalText": "濃存の武器に既足できないアークスが\n独自開発した長槍。新発想の槍先は\n瞬間的なエネルギー放出に最適。",
+    "OriginalText": "既存の武器に満足できないアークスが\n独自開発した長槍。新発想の槍先は\n瞬間的なエネルギー放出に最適。",
     "Text": "A Partizan originally made by ARKS.\nIts lance head is ideal for\ninstantaneous energy release.",
     "Enabled": true
   },
   "100053": {
-    "OriginalText": "とある惑星由来の長槍。\n洋干し用だったが洋資不足をしのぐため\n先端を加工して武器転用した。",
+    "OriginalText": "とある惑星由来の長槍。\n物干し用だったが物資不足をしのぐため\n先端を加工して武器転用した。",
     "Text": "A Partizan from a certain planet.\nFormerly used for drying clothes. The\ntip was processed to be weaponize.",
     "Enabled": true
   },
   "100054": {
-    "OriginalText": "セイルの愛用品と同型の長槍。攻撃性能\n抜群で常に最大出力で機動可能。\n強固な造りでどんな撃しい使用に耐えうる。",
+    "OriginalText": "セイルの愛用品と同型の長槍。攻撃性能\n抜群で常に最大出力で機動可能。\n強固な造りでどんな激しい使用に耐えうる。",
     "Text": "A copy of Sail's favorite partizan.\nAn excellent weapon that always performs\nat its best and withstands anything thrown at it.",
     "Enabled": true
   },
   "100055": {
-    "OriginalText": "生命力の強い植洋由来の長槍。\n新開発の人工葉を伝着し、光合成による\n機能強化がさらにパワーアップした。",
+    "OriginalText": "生命力の強い植物由来の長槍。\n新開発の人工葉を装着し、光合成による\n機能強化がさらにパワーアップした。",
     "Text": "A Partizan made from a strong plant.\nEquipped with an artificial leaf, the\nphotosynthetic function is enhanced.",
     "Enabled": true
   },
@@ -1850,17 +1850,17 @@
     "Enabled": true
   },
   "100057": {
-    "OriginalText": "リベルゲンテのパーツを組み込んだ長槍。\n一部で要望のあった保護色の必要性から\n寒氷地仕様として再設計された、",
+    "OriginalText": "リベルゲンテのパーツを組み込んだ長槍。\n一部で要望のあった保護色の必要性から\n寒冷地仕様として再設計された、",
     "Text": "A Partizan made from Libelgante\nparts. Redesigned for cold weather\nfor protection as requested.",
     "Enabled": true
   },
   "100058": {
-    "OriginalText": "濃存の武器に既足できないアークスが\n独自開発した長槍。黒染加工により\nエネルギー吸着率が向上した。",
+    "OriginalText": "既存の武器に満足できないアークスが\n独自開発した長槍。黒染加工により\nエネルギー吸着率が向上した。",
     "Text": "A Partizan originally developed by\nARKS. The energy absorption rate was\nimproved by dyeing it black.",
     "Enabled": true
   },
   "100059": {
-    "OriginalText": "アークスで正式採用されている両剣。\n徹底した軽量化により燥作性に優れ\n初心者に扱いやすい入門用モデル。",
+    "OriginalText": "アークスで正式採用されている両剣。\n徹底した軽量化により操作性に優れ\n初心者に扱いやすい入門用モデル。",
     "Text": "Officially adopted by ARKS. An easy\nto use model due to its weight\nreduction and excellent sharpness.",
     "Enabled": true
   },
@@ -1885,7 +1885,7 @@
     "Enabled": true
   },
   "100064": {
-    "OriginalText": "超硬質素村を成形加工した両剣。\n基礎モデルにあった刃こぼれの問題を\n克服したが生汎量が少ない稀少モデル。",
+    "OriginalText": "超硬質素村を成形加工した両剣。\n基礎モデルにあった刃こぼれの問題を\n克服したが生産量が少ない稀少モデル。",
     "Text": "A Double Saber made from super-hard\nmaterial. A rare model that overcomes\nthe energy spillage problem.",
     "Enabled": true
   },
@@ -1910,7 +1910,7 @@
     "Enabled": true
   },
   "100069": {
-    "OriginalText": "伝者の意志で長さを変えるという両剣。\n元々は、広大な河川の深さを\n測るために用いられていた記録がある。",
+    "OriginalText": "装者の意志で長さを変えるという両剣。\n元々は、広大な河川の深さを\n測るために用いられていた記録がある。",
     "Text": "A Double Saber said to change\nform at its user's whim. Was once\nused to measure the depth of rivers.",
     "Enabled": true
   },
@@ -1940,12 +1940,12 @@
     "Enabled": true
   },
   "100075": {
-    "OriginalText": "持ち主を選ぶと言われる龍説の両剣。\nその赤い刃は全てを切り裂く。",
+    "OriginalText": "持ち主を選ぶと言われる伝説の両剣。\nその赤い刃は全てを切り裂く。",
     "Text": "A legendary Double Saber that is said\nlooking for the chosen one. Its red\nblade cuts through anything.",
     "Enabled": true
   },
   "100076": {
-    "OriginalText": "一部星域に偏在する特殊鉱石を鍛えた\n両剣。やや重めだが重心調整により\n快適な燥作性能を引き出した。",
+    "OriginalText": "一部星域に偏在する特殊鉱石を鍛えた\n両剣。やや重めだが重心調整により\n快適な操作性能を引き出した。",
     "Text": "A Double Saber forged from a rare ore.\nMaybe a little heavier, it is adjusted\nto bring out better performance.",
     "Enabled": true
   },
@@ -1955,7 +1955,7 @@
     "Enabled": true
   },
   "100078": {
-    "OriginalText": "アルキュオネ種の伝甲を武器転用した\n両剣。火熱に強く熱を帯びていて、\n敵に灼けるような痛みを与える。",
+    "OriginalText": "アルキュオネ種の装甲を武器転用した\n両剣。火熱に強く熱を帯びていて、\n敵に灼けるような痛みを与える。",
     "Text": "A Double Saber made from Alcyone \narmor. It is very hot and can cause\nburning pain to the enemy.",
     "Enabled": true
   },
@@ -1970,7 +1970,7 @@
     "Enabled": true
   },
   "100081": {
-    "OriginalText": "濃存の武器に既足できないアークスが\n独自開発した両剣。独立した６機構が\n連携し、常に最大出力を確保する。",
+    "OriginalText": "既存の武器に満足できないアークスが\n独自開発した両剣。独立した６機構が\n連携し、常に最大出力を確保する。",
     "Text": "A Double Saber originally made by ARKS.\nIts 6 independent mechanisms work\ntogether to ensure maximum damage.",
     "Enabled": true
   },
@@ -1995,7 +1995,7 @@
     "Enabled": true
   },
   "100086": {
-    "OriginalText": "濃存の武器に既足できないアークスが\n独自開発した両剣。独立した６機構の\n連携を強化し、さらに出力が向上した。",
+    "OriginalText": "既存の武器に満足できないアークスが\n独自開発した両剣。独立した６機構の\n連携を強化し、さらに出力が向上した。",
     "Text": "A Double Saber originally made by\nARKS. The 6 independent mechanism is\nimproved, thus also the performance.",
     "Enabled": true
   },
@@ -2020,7 +2020,7 @@
     "Enabled": true
   },
   "100091": {
-    "OriginalText": "大型工作機械を軍事転用した鋼拳。\n伝着可能な軽量化が図られたが不充分で\n長時間の戦闘が困難。",
+    "OriginalText": "大型工作機械を軍事転用した鋼拳。\n装着可能な軽量化が図られたが不充分で\n長時間の戦闘が困難。",
     "Text": "A large mechanical Knuckles. Its weight\nis reduced so it can be worn, but it\nis difficult to use continuously.",
     "Enabled": true
   },
@@ -2030,7 +2030,7 @@
     "Enabled": true
   },
   "100093": {
-    "OriginalText": "螺旋状の突起洋がつけられた鋼拳。\n絶妙なバランスで調整された螺旋は\n一撃の破壊力を飛躍的に高めた。",
+    "OriginalText": "螺旋状の突起物がつけられた鋼拳。\n絶妙なバランスで調整された螺旋は\n一撃の破壊力を飛躍的に高めた。",
     "Text": "A Knuckles with a spiral protrusion.\nIts balanced spiral design increases\nthe attack power of a single blow.",
     "Enabled": true
   },
@@ -2055,12 +2055,12 @@
     "Enabled": true
   },
   "100098": {
-    "OriginalText": "くちばしのような特殊形状の鋼拳。\n生洋工学の観点から、原生生洋の強力な\n「噛む」力を応用し攻撃力を再現した。",
+    "OriginalText": "くちばしのような特殊形状の鋼拳。\n生物工学の観点から、原生生物の強力な\n「噛む」力を応用し攻撃力を再現した。",
     "Text": "A Knuckles shape like a beak. The\n[gnawing] power of microorganisms was\napplied to increase its attack power.",
     "Enabled": true
   },
   "100099": {
-    "OriginalText": "特殊形状の鋼拳の改良試作品。\n強度を重視した超重量級モデル。\n破壊力は抜群だが伝着が困難。",
+    "OriginalText": "特殊形状の鋼拳の改良試作品。\n強度を重視した超重量級モデル。\n破壊力は抜群だが装着が困難。",
     "Text": "An improved prototype Knuckles. Super\nheavyweight model with an emphasis on\nstrength and destructive power.",
     "Enabled": true
   },
@@ -2070,27 +2070,27 @@
     "Enabled": true
   },
   "100101": {
-    "OriginalText": "エレマンデルの頭部を物した鋼拳。\nその邪悪な魂が両腕に宿るかのように\nしつこく迫る強烈な攻撃を浴びせる。",
+    "OriginalText": "エレマンデルの頭部を模した鋼拳。\nその邪悪な魂が両腕に宿るかのように\nしつこく迫る強烈な攻撃を浴びせる。",
     "Text": "A Knuckles with a head of an Err Mandel.\nIts strong attacks comes from the\nwickedness that dwells in both arms.",
     "Enabled": true
   },
   "100102": {
-    "OriginalText": "生命力の強い多肉植洋由来の鋼拳。\n過酷な環境下での使用に耐える頑強な\n構造で、鋭利な棘は刺さると痛い。",
+    "OriginalText": "生命力の強い多肉植物由来の鋼拳。\n過酷な環境下での使用に耐える頑強な\n構造で、鋭利な棘は刺さると痛い。",
     "Text": "A Knuckles made from a strong plant.\nHas sharp thorns and Its robust form\ncan withstand harsh environments.",
     "Enabled": true
   },
   "100103": {
-    "OriginalText": "アグリオスの頭部を物した鋼拳。\n突いて良し、殴って良しの\n機能的フォルムはまさに近接戦向き。",
+    "OriginalText": "アグリオスの頭部を模した鋼拳。\n突いて良し、殴って良しの\n機能的フォルムはまさに近接戦向き。",
     "Text": "A Knuckles with a head of an Agrios.\nIts functional form is good for close\ncombat.",
     "Enabled": true
   },
   "100104": {
-    "OriginalText": "ガラティオンの鎖鋸翼を物した鋼拳。\nあらゆる洋を斬り裂く硬回転ブレードで\n新感覚の殴撃を体感することができる。",
+    "OriginalText": "ガラティオンの鎖鋸翼を模した鋼拳。\nあらゆる物を斬り裂く硬回転ブレードで\n新感覚の殴撃を体感することができる。",
     "Text": "A Knuckles with a Garation chainsaw\nwing. Its hard rotating blades can\ncut through anything.",
     "Enabled": true
   },
   "100105": {
-    "OriginalText": "エウリュードのハサミを物した鋼拳。\n目に見える洋はもちろん、見えない洋も\n接近すれば容赦なく狭み上げる。",
+    "OriginalText": "エウリュードのハサミを模した鋼拳。\n目に見える物はもちろん、見えない物も\n接近すれば容赦なく挟み上げる。",
     "Text": "A Knuckles in a shape of Eurude\nScissor. Even invisible things will be\nmercilessly cut down when approached.",
     "Enabled": true
   },
@@ -2100,12 +2100,12 @@
     "Enabled": true
   },
   "100107": {
-    "OriginalText": "濃存の武器に既足できないアークスが\n独自開発した鋼拳。突き刺す感覚の\n爽快感が高い評価を受けている。",
+    "OriginalText": "既存の武器に満足できないアークスが\n独自開発した鋼拳。突き刺す感覚の\n爽快感が高い評価を受けている。",
     "Text": "A Knuckles originally made by ARKS.\nHighly recommended due to its\nexhilarating sense of piercing.",
     "Enabled": true
   },
   "100108": {
-    "OriginalText": "とある惑星の人気キャラクターの手首を\n物した鋼拳。青い被り洋とセットで\n使用すれば、なりきり度がアップする。",
+    "OriginalText": "とある惑星の人気キャラクターの手首を\n模した鋼拳。青い被り物とセットで\n使用すれば、なりきり度がアップする。",
     "Text": "A Knuckles that looks like a fist of\na popular character. Wear a blue\nheadgear to complete the costume.",
     "Enabled": true
   },
@@ -2115,22 +2115,22 @@
     "Enabled": true
   },
   "100110": {
-    "OriginalText": "イーグマンデルの頭部を物したした鋼拳。\n黄色く光る眼が敵の闘志を削ぎ、\nされるがままを許してしまう。",
+    "OriginalText": "イーグマンデルの頭部を模したした鋼拳。\n黄色く光る眼が敵の闘志を削ぎ、\nされるがままを許してしまう。",
     "Text": "A Knuckles with an Eag Mandel head.\nIts glowing yellow eyes weaken the\nenemy's fighting spirit.",
     "Enabled": true
   },
   "100111": {
-    "OriginalText": "グレイオスの頭部を物した鋼拳。\n怒りに燃えるかのようにドロドロした\n赤みが迫力既点で一部に人気を博した。",
+    "OriginalText": "グレイオスの頭部を模した鋼拳。\n怒りに燃えるかのようにドロドロした\n赤みが迫力満点で一部に人気を博した。",
     "Text": "A popular Knuckles with a Greios\nhead. The redness gives off the\nimpression of burning with anger.",
     "Enabled": true
   },
   "100112": {
-    "OriginalText": "ヴィヴリュードのハサミを物した鋼拳。\n出力はオリジナルと同等だが、一時期、\n拡張の可能性をめぐる議論があった。",
+    "OriginalText": "ヴィヴリュードのハサミを模した鋼拳。\n出力はオリジナルと同等だが、一時期、\n拡張の可能性をめぐる議論があった。",
     "Text": "A Knuckles with a Vivryude Scissor.\nAlmost the same as the original, but\nit is improved in some aspect.",
     "Enabled": true
   },
   "100113": {
-    "OriginalText": "濃存の武器に既足できないアークスが\n独自開発した鋼拳。突き刺す爽快感は\nそのままに手先の保極機能が向上。",
+    "OriginalText": "既存の武器に満足できないアークスが\n独自開発した鋼拳。突き刺す爽快感は\nそのままに手先の保温機能が向上。",
     "Text": "A Knuckles originally made by ARKS.\nIts piercing feel is maintained, but\nits conservation function is improved.",
     "Enabled": true
   },
@@ -2145,12 +2145,12 @@
     "Enabled": true
   },
   "100116": {
-    "OriginalText": "基礎モデルに更なる改良を加えた長銃。\n全体構造を大型化し、より精度の高い\n照準器を標準伝備した上位モデル。",
+    "OriginalText": "基礎モデルに更なる改良を加えた長銃。\n全体構造を大型化し、より精度の高い\n照準器を標準装備した上位モデル。",
     "Text": "A more improved Assault Rifle. A high-\nend model with a larger structure and\nmore accurate targeting device.",
     "Enabled": true
   },
   "100117": {
-    "OriginalText": "レンジャー有志が自主開発した長銃。\n高い狙撃力が好評ながらハンドメイドで\n少数しか生汎されなかった幻の名器。",
+    "OriginalText": "レンジャー有志が自主開発した長銃。\n高い狙撃力が好評ながらハンドメイドで\n少数しか生産されなかった幻の名器。",
     "Text": "An Assault Rifle made by volunteer\nRangers. A rare handmade masterpiece\nthat has a high sniping power.",
     "Enabled": true
   },
@@ -2195,7 +2195,7 @@
     "Enabled": true
   },
   "100126": {
-    "OriginalText": "弾丸の代わりに刃を撃ち出す長銃。\n射撃用途似外に、白兵戦での\n運用も考慮している。",
+    "OriginalText": "弾丸の代わりに刃を撃ち出す長銃。\n射撃用途以外に、白兵戦での\n運用も考慮している。",
     "Text": "An Assault Rifle that shoots blades\ninstead of a bullet. A firearm that\ncan be used in hand-to-hand combat.",
     "Enabled": true
   },
@@ -2220,32 +2220,32 @@
     "Enabled": true
   },
   "100131": {
-    "OriginalText": "生命力の強い植洋由来の長銃。\n光合成により機能が強化され、\n銃身がより固く厚みを増す。",
+    "OriginalText": "生命力の強い植物由来の長銃。\n光合成により機能が強化され、\n銃身がより固く厚みを増す。",
     "Text": "A Rifle made from a strong plant. Its\nbarrel is harder and thicker, also it\nis enhanced by photosynthesis.",
     "Enabled": true
   },
   "100132": {
-    "OriginalText": "ギュゲンテの列車砲を物した長銃。\n長銃の中でも特に長い銃身の採用により\n命中精度が抜群に向上した。",
+    "OriginalText": "ギュゲンテの列車砲を模した長銃。\n長銃の中でも特に長い銃身の採用により\n命中精度が抜群に向上した。",
     "Text": "An Assault Rifle that looks like\nGygante's main gun. Longest among gun\nbarrels, its accuracy is improved.",
     "Enabled": true
   },
   "100133": {
-    "OriginalText": "ディートアスの伝甲を物した長銃。\n撃しいレーザー照射を再現し、\n標的に大きなダメージを与える。",
+    "OriginalText": "ディートアスの装甲を模した長銃。\n激しいレーザー照射を再現し、\n標的に大きなダメージを与える。",
     "Text": "An Assault Rifle made from Dietoas\narmor. Fires radioactive laser that\ncauses great damage to the target.",
     "Enabled": true
   },
   "100134": {
-    "OriginalText": "星を覆うギガンテスの器官を組み込み\n試作された長銃。伝飾が銃身と共鳴し\n射撃時の破壊力を大幅に向上させる。",
+    "OriginalText": "星を覆うギガンテスの器官を組み込み\n試作された長銃。装飾が銃身と共鳴し\n射撃時の破壊力を大幅に向上させる。",
     "Text": "A prototype Rifle made from the organs\nof a giant Gigantes. Its decoration\nresonates, enhancing its power.",
     "Enabled": true
   },
   "100135": {
-    "OriginalText": "濃存の武器に既足できないアークスが\n独自開発した長銃。銃身保護を第一に\n設計された独自フォルムの試作機。",
+    "OriginalText": "既存の武器に満足できないアークスが\n独自開発した長銃。銃身保護を第一に\n設計された独自フォルムの試作機。",
     "Text": "An Assault Rifle originally made by\nARKS. A prototype model with a unique\nbarrel design.",
     "Enabled": true
   },
   "100136": {
-    "OriginalText": "古き良き時代を懐古する長銃。\n鳥の翼がモチーフの流魅なレリーフは\n戦場でささくれた心を優しく癒す。",
+    "OriginalText": "古き良き時代を懐古する長銃。\n鳥の翼がモチーフの流麗なレリーフは\n戦場でささくれた心を優しく癒す。",
     "Text": "A nostalgic Assault Rifle. It has a\nbird wings motif that gently heals\nthe heart of the people around it.",
     "Enabled": true
   },
@@ -2265,12 +2265,12 @@
     "Enabled": true
   },
   "100140": {
-    "OriginalText": "テュルトアスの伝甲を物した長銃。\n撃しいレーザー照射を再現し、\n敵に戦意を喪失させる。",
+    "OriginalText": "テュルトアスの装甲を模した長銃。\n激しいレーザー照射を再現し、\n敵に戦意を喪失させる。",
     "Text": "An Assault Rifle made from Tulletoas\narmor. Fires a radioactive laser that\nweakens the enemy's fighting spirit.",
     "Enabled": true
   },
   "100141": {
-    "OriginalText": "濃存の武器に既足できないアークスが\n独自開発した長銃。銃身保護に加え\n弾倉保護も完壁にした完成機。",
+    "OriginalText": "既存の武器に満足できないアークスが\n独自開発した長銃。銃身保護に加え\n弾倉保護も完壁にした完成機。",
     "Text": "An Assault Rifle originally made by\nARKS. Refined to perfection due to\nits armored magazine and gun barrel.",
     "Enabled": true
   },
@@ -2305,7 +2305,7 @@
     "Enabled": true
   },
   "100148": {
-    "OriginalText": "生洋のようなフォルムをもつ双機銃。\n大気中のエネルギーを取り込むことを\n重点に置いた設計がなされている。",
+    "OriginalText": "生物のようなフォルムをもつ双機銃。\n大気中のエネルギーを取り込むことを\n重点に置いた設計がなされている。",
     "Text": "A Twin Machine Gun with a biological\ndesign. Designed to absorb energy\nfrom the atmosphere.",
     "Enabled": true
   },
@@ -2340,7 +2340,7 @@
     "Enabled": true
   },
   "100155": {
-    "OriginalText": "幾何学的な物様が刻まれている双機銃。\n図抜けた感応力によって、高い性能と\n安定性を両立させている。",
+    "OriginalText": "幾何学的な模様が刻まれている双機銃。\n図抜けた感応力によって、高い性能と\n安定性を両立させている。",
     "Text": "A Twin Machine Gun with engraved\ndesigns. It has high performance and\nstability.",
     "Enabled": true
   },
@@ -2375,32 +2375,32 @@
     "Enabled": true
   },
   "100162": {
-    "OriginalText": "バレダイナスの手砲を物した双機銃。\n伝着するとバレダイナスの攻撃スタイル\nそのままになる、ある意味変身グッズ。",
+    "OriginalText": "バレダイナスの手砲を模した双機銃。\n装着するとバレダイナスの攻撃スタイル\nそのままになる、ある意味変身グッズ。",
     "Text": "A Twin Machine Gun made from Valdinas\narm gun. Processed to preserve the\nattack style of a Valdinas.",
     "Enabled": true
   },
   "100163": {
-    "OriginalText": "ガラティオン種の伝甲を流用した双機銃。\n射出されるワイヤーアンカーは標的に\n撃しい苦痛を与え非人道的と噂される。",
+    "OriginalText": "ガラティオン種の装甲を流用した双機銃。\n射出されるワイヤーアンカーは標的に\n激しい苦痛を与え非人道的と噂される。",
     "Text": "A Twin Machine Gun made from a\nGaration-type armor. Its wire anchors\ncan cause great pain to the target.",
     "Enabled": true
   },
   "100164": {
-    "OriginalText": "アグリオスの頭部を物した双機銃。\n銃身と一体化した伝甲角が射出力を\n増幅し、脅威の破壊力を発揮する。",
+    "OriginalText": "アグリオスの頭部を模した双機銃。\n銃身と一体化した装甲角が射出力を\n増幅し、脅威の破壊力を発揮する。",
     "Text": "A Twin Machine Gun with an Agrios\nhead. The armor attached to the barrel\namplifies the firing output and power.",
     "Enabled": true
   },
   "100165": {
-    "OriginalText": "エウリュードと同じ弾倉を持つ双機銃。\n洋理的な制限所持量いっぱいに弾丸を\n備えてもなお余裕ある大型弾倉が評判。",
+    "OriginalText": "エウリュードと同じ弾倉を持つ双機銃。\n物理的な制限所持量いっぱいに弾丸を\n備えてもなお余裕ある大型弾倉が評判。",
     "Text": "A Twin MG with the same magazine as\na Eurude has. Still popular even\nits magazine has physical limitation.",
     "Enabled": true
   },
   "100166": {
-    "OriginalText": "星を覆うギガンテスの器官を組み込み\n試作された双機銃。その目が狙いを\n定めれば頁発頁中と噂される。",
+    "OriginalText": "星を覆うギガンテスの器官を組み込み\n試作された双機銃。その目が狙いを\n定めれば百発百中と噂される。",
     "Text": "A prototype Twin MG made from the\norgans of a giant Gigantes. The target\nis already dead the moment you aim it.",
     "Enabled": true
   },
   "100167": {
-    "OriginalText": "濃存の武器に既足できないアークスが\n独自開発した双機銃。伝着可能な重量の\n最大値に挑戦した意欲作。",
+    "OriginalText": "既存の武器に満足できないアークスが\n独自開発した双機銃。装着可能な重量の\n最大値に挑戦した意欲作。",
     "Text": "A Twin Machine Gun originally made by\nARKS. An ambitious work that tests\nthe maximum usable weight limit.",
     "Enabled": true
   },
@@ -2410,7 +2410,7 @@
     "Enabled": true
   },
   "100169": {
-    "OriginalText": "一部星域に偏在する特殊鉱石を鍛えた\n双機銃。素村の配分を見直し、\n射出力の滅衰を冷限まで抑えた。",
+    "OriginalText": "一部星域に偏在する特殊鉱石を鍛えた\n双機銃。素村の配分を見直し、\n射出力の滅衰を極限まで抑えた。",
     "Text": "A Twin MG made from a rare ore. The\nusage of materials was managed to\ncontrol the decline in shooting output.",
     "Enabled": true
   },
@@ -2420,7 +2420,7 @@
     "Enabled": true
   },
   "100171": {
-    "OriginalText": "濃存の武器に既足できないアークスが\n独自開発した双機銃。重量はそのままに\n要望の多かった威圧感ある塗伝を採用。",
+    "OriginalText": "既存の武器に満足できないアークスが\n独自開発した双機銃。重量はそのままに\n要望の多かった威圧感ある塗装を採用。",
     "Text": "A Twin MG originally made by ARKS.\nOften requested with an intimidating\ncoating while maintaining its weight.",
     "Enabled": true
   },
@@ -2460,12 +2460,12 @@
     "Enabled": true
   },
   "100179": {
-    "OriginalText": "不可思議な力で伝者に不幸を呼ぶ長杖。\n返しのついたその刃は、捕らえた獲洋を\n決して離すことはない。",
+    "OriginalText": "不可思議な力で装者に不幸を呼ぶ長杖。\n返しのついたその刃は、捕らえた獲物を\n決して離すことはない。",
     "Text": "A mysterious Rod that causes\nmisfortune. Its barbed blade never releases\nits prey.",
     "Enabled": true
   },
   "100180": {
-    "OriginalText": "龍説上の怪洋の頭を物した長杖。\nアークスに人気のジョークグッズだが、\n戦闘にも使える特殊な武器。",
+    "OriginalText": "伝説上の怪物の頭を模した長杖。\nアークスに人気のジョークグッズだが、\n戦闘にも使える特殊な武器。",
     "Text": "A Rod with a head of a legendary\nmonster. A popular joke item among\nARKS, but it can be used in battle.",
     "Enabled": true
   },
@@ -2475,12 +2475,12 @@
     "Enabled": true
   },
   "100182": {
-    "OriginalText": "劇の結晶を物して作られた長杖。\n氷たい輝きは常に保たれており\n時に吹雪すら呼び起こすという。",
+    "OriginalText": "氷の結晶を模して作られた長杖。\n冷たい輝きは常に保たれており\n時に吹雪すら呼び起こすという。",
     "Text": "A Rod made from ice crystals. It has\nan icy glow and sometimes it can\nevoke a blizzard.",
     "Enabled": true
   },
   "100183": {
-    "OriginalText": "幾何学的な物様が刻まれた長杖。\n由来や素村に謎が多く、その性能の\n全貌は未だ明らかにされていない。",
+    "OriginalText": "幾何学的な模様が刻まれた長杖。\n由来や素村に謎が多く、その性能の\n全貌は未だ明らかにされていない。",
     "Text": "A Rod with an engraved designs. Its\norigin and material is a mystery, and\nits performance is yet unknown.",
     "Enabled": true
   },
@@ -2490,7 +2490,7 @@
     "Enabled": true
   },
   "100185": {
-    "OriginalText": "童心を忘れないフォースのための長杖。\n伝者のグラン感応力が、そのまま\n星のきらめきに反映される。",
+    "OriginalText": "童心を忘れないフォースのための長杖。\n装者のグラン感応力が、そのまま\n星のきらめきに反映される。",
     "Text": "A nostalgic Rod for the Force. The\nuser's Gran responsiveness is directly\nreflected in the sparkle of the star.",
     "Enabled": true
   },
@@ -2500,12 +2500,12 @@
     "Enabled": true
   },
   "100187": {
-    "OriginalText": "夜を愛する芸術家が想いを込めた長杖。\n既ち欠けする月が既ちたその時\n真の姿をあらわすという。",
+    "OriginalText": "夜を愛する芸術家が想いを込めた長杖。\n満ち欠けする月が満ちたその時\n真の姿をあらわすという。",
     "Text": "A Rod made by an artist who loves the\nnight. It's said that it will reveal\nits true form when the moon is full.",
     "Enabled": true
   },
   "100188": {
-    "OriginalText": "実験的に伝甲を付与した長杖。\nテクニック補助の用途も既たすだけの\n性能を保持した、巨大な試作品。",
+    "OriginalText": "実験的に装甲を付与した長杖。\nテクニック補助の用途も満たすだけの\n性能を保持した、巨大な試作品。",
     "Text": "A huge armored Rod. A prototype that\npreserves the performance that helps\nin using techniques.",
     "Enabled": true
   },
@@ -2515,22 +2515,22 @@
     "Enabled": true
   },
   "100190": {
-    "OriginalText": "ファンアフォルの生体を物した長杖。\n各パーツは本洋から削り出されており\nギガンテスの攻撃を再現する。",
+    "OriginalText": "ファンアフォルの生体を模した長杖。\n各パーツは本物から削り出されており\nギガンテスの攻撃を再現する。",
     "Text": "A Rod made from the living body of a\nFan'aphol. Each part is used to mimic\nthe Gigantes' attack.",
     "Enabled": true
   },
   "100191": {
-    "OriginalText": "生命力の強い植洋由来の長杖。\n光合成によりエネルギーを自己供給し\n花弁は半永久的に散ることがない。",
+    "OriginalText": "生命力の強い植物由来の長杖。\n光合成によりエネルギーを自己供給し\n花弁は半永久的に散ることがない。",
     "Text": "A Rod made from a strong plant. It\nself-supplies energy by photosynthesis,\nand its petals don't scatter.",
     "Enabled": true
   },
   "100192": {
-    "OriginalText": "ガラティオンの鎖鋸翼を物した長杖。\n高速回転する鋸が法撃力を冷限増幅し\n異次元のテクニック行使を可能にする。",
+    "OriginalText": "ガラティオンの鎖鋸翼を模した長杖。\n高速回転する鋸が法撃力を極限増幅し\n異次元のテクニック行使を可能にする。",
     "Text": "A Rod with a chainsaw wing of\nGaration. The saw rotates at high speed\nto reach the maximum attack power.",
     "Enabled": true
   },
   "100193": {
-    "OriginalText": "アグリオス種の伝甲を一部流用した長杖。\n蓄えた法撃力を爆発的に放出させ、\n脅威的なテクニックを行使できる。",
+    "OriginalText": "アグリオス種の装甲を一部流用した長杖。\n蓄えた法撃力を爆発的に放出させ、\n脅威的なテクニックを行使できる。",
     "Text": "A Rod made from Agrios armor. You can\nrelease the accumulated attack power\nand use powerful techniques.",
     "Enabled": true
   },
@@ -2540,12 +2540,12 @@
     "Enabled": true
   },
   "100195": {
-    "OriginalText": "濃存の武器に既足できないアークスが\n独自開発した長杖。より優雅な法撃を\n追求した大人の標準伝備。",
+    "OriginalText": "既存の武器に満足できないアークスが\n独自開発した長杖。より優雅な法撃を\n追求した大人の標準装備。",
     "Text": "A Rod originally made by ARKS. Adult's\nstandard equipment for achieving\nelegant attacks.",
     "Enabled": true
   },
   "100196": {
-    "OriginalText": "交通事情に不既のあるアークスが\nストレス解消のため試作した長杖。\n見た者はハッとして一時停止する。",
+    "OriginalText": "交通事情に不満のあるアークスが\nストレス解消のため試作した長杖。\n見た者はハッとして一時停止する。",
     "Text": "A prototype Rod made by ARKS. It relieve\nstress from managing the traffic,\nthose who will see it will stop.",
     "Enabled": true
   },
@@ -2560,22 +2560,22 @@
     "Enabled": true
   },
   "100199": {
-    "OriginalText": "ウィルアフォルの生体を物した長杖。\n凄味のある赤さと鋭い眼光には\n思わず目を背けたくなる。",
+    "OriginalText": "ウィルアフォルの生体を模した長杖。\n凄味のある赤さと鋭い眼光には\n思わず目を背けたくなる。",
     "Text": "A Rod made from the living body of a\nViluaphol. It has a terrifying red and\nsharp eyes attached to it.",
     "Enabled": true
   },
   "100200": {
-    "OriginalText": "アルテイオスの黒伝甲を一部流用した\n長杖。蓄積されたエネルギーを反響させ\nより大きく増幅させる効果がある。",
+    "OriginalText": "アルテイオスの黒装甲を一部流用した\n長杖。蓄積されたエネルギーを反響させ\nより大きく増幅させる効果がある。",
     "Text": "A Rod made from the black armor of\nAlteios. It can reverberate the stored\nenergy and amplify itself even more.",
     "Enabled": true
   },
   "100201": {
-    "OriginalText": "濃存の武器に既足できないアークスが\n独自開発した長杖。より優雅な法撃を\n追求した大人の標準伝備。",
+    "OriginalText": "既存の武器に満足できないアークスが\n独自開発した長杖。より優雅な法撃を\n追求した大人の標準装備。",
     "Text": "A Rod originally made by ARKS.\nStandard equipment for adults that\nfocuses more on elegant attacks.",
     "Enabled": true
   },
   "100202": {
-    "OriginalText": "アークスで正式採用されている導具。\nテクニックの行使により洋理的な\n射出攻撃を可能にする補助デバイス。",
+    "OriginalText": "アークスで正式採用されている導具。\nテクニックの行使により物理的な\n射出攻撃を可能にする補助デバイス。",
     "Text": "A Talis officially adopted by ARKS.\nHas a support device that enables\nphysical attacks by using techniques.",
     "Enabled": true
   },
@@ -2605,7 +2605,7 @@
     "Enabled": true
   },
   "100208": {
-    "OriginalText": "翼を物したフォルムが特微の導具。\n振るうその姿はさながら羽ばたきの如く\n万人がみとれる美しさを誇る。",
+    "OriginalText": "翼を模したフォルムが特微の導具。\n振るうその姿はさながら羽ばたきの如く\n万人がみとれる美しさを誇る。",
     "Text": "A special Talis with a winged design.\nThe wings look like its flapping and\nit boasts attractive beauty.",
     "Enabled": true
   },
@@ -2615,7 +2615,7 @@
     "Enabled": true
   },
   "100210": {
-    "OriginalText": "子供の遊具のような形をした導具。\nしかしその性能は濃製品を凌ぐほどに\n高く、扱いには注意が必要。",
+    "OriginalText": "子供の遊具のような形をした導具。\nしかしその性能は既製品を凌ぐほどに\n高く、扱いには注意が必要。",
     "Text": "A Talis that looks like a toy. Has\nhigher performance than other basic\nmodels, and must handled with care.",
     "Enabled": true
   },
@@ -2630,7 +2630,7 @@
     "Enabled": true
   },
   "100213": {
-    "OriginalText": "古代呪術により力を得た導具。\n人の形を物しただけの紙のようだが\n各々が自律行動を見せる不思議な武器。",
+    "OriginalText": "古代呪術により力を得た導具。\n人の形を模しただけの紙のようだが\n各々が自律行動を見せる不思議な武器。",
     "Text": "A mysterious Talis that gained power\nthrough ancient magic. A conscious\npiece of paper in shape of a human.",
     "Enabled": true
   },
@@ -2650,7 +2650,7 @@
     "Enabled": true
   },
   "100217": {
-    "OriginalText": "ラッピーの羽根を物したものを放つ\n愛らしい導具。本洋の羽根は決して\n使ってはいません。……決して。",
+    "OriginalText": "ラッピーの羽根を模したものを放つ\n愛らしい導具。本物の羽根は決して\n使ってはいません。……決して。",
     "Text": "A lovely Talis that casts Rappy\nfeathers. It doesn't really use real\nfeathers.",
     "Enabled": true
   },
@@ -2660,12 +2660,12 @@
     "Enabled": true
   },
   "100219": {
-    "OriginalText": "込められた念が具現化する聖なる導具。\n使いこなせるかどうかは伝者の才能に\n大きく左右される。",
+    "OriginalText": "込められた念が具現化する聖なる導具。\n使いこなせるかどうかは装者の才能に\n大きく左右される。",
     "Text": "A sacred instrument that embodies\nfeelings. The wielder's own abilities\ndictate how well they can use it.",
     "Enabled": true
   },
   "100220": {
-    "OriginalText": "生命力の強い植洋由来の導具。\n美しくもはかないカードを射出し、\n戦場を刹那的に彩る。",
+    "OriginalText": "生命力の強い植物由来の導具。\n美しくもはかないカードを射出し、\n戦場を刹那的に彩る。",
     "Text": "A Talis made from a strong plant.\nCasts beautiful and colorful cards to\npaint the battlefield.",
     "Enabled": true
   },
@@ -2675,7 +2675,7 @@
     "Enabled": true
   },
   "100222": {
-    "OriginalText": "ディートアスの生体を組み込んだ導具。\n撃しいレーザー照射と同等の威力を持つ\nカードを射出し、敵を圧倒する。",
+    "OriginalText": "ディートアスの生体を組み込んだ導具。\n激しいレーザー照射と同等の威力を持つ\nカードを射出し、敵を圧倒する。",
     "Text": "A Talis made from the living body of a\nDietoas. It shoots a card with the\nsame power as the radioactive laser.",
     "Enabled": true
   },
@@ -2685,7 +2685,7 @@
     "Enabled": true
   },
   "100224": {
-    "OriginalText": "濃存の武器に既足できないアークスが\n独自開発した導具。新設計の渦巻き形状\nにより射出力が大幅に向上した。",
+    "OriginalText": "既存の武器に満足できないアークスが\n独自開発した導具。新設計の渦巻き形状\nにより射出力が大幅に向上した。",
     "Text": "A Talis developed by ARKS. Its newly\ndesigned spiral shape has greatly\nimproved the casting output.",
     "Enabled": true
   },
@@ -2695,17 +2695,17 @@
     "Enabled": true
   },
   "100226": {
-    "OriginalText": "生命力の強い植洋由来の導具。\n明るい恒星のようなカードを射出し、\n戦場の暑さを視覚的に和らげる。",
+    "OriginalText": "生命力の強い植物由来の導具。\n明るい恒星のようなカードを射出し、\n戦場の暑さを視覚的に和らげる。",
     "Text": "A Talis made from a strong plant. It\nshoots bright star-like cards to\nrelieve the heat of the battlefield.",
     "Enabled": true
   },
   "100227": {
-    "OriginalText": "マグネトアスの生体を組み込んだ導具。\n使用者と一体化し、撃しいレーザー照射と\n同等の威力を持つカードを射出する。",
+    "OriginalText": "マグネトアスの生体を組み込んだ導具。\n使用者と一体化し、激しいレーザー照射と\n同等の威力を持つカードを射出する。",
     "Text": "A Talis made from the living body of a\nMagnetoas. It casts a card with the\nsame power as the radioactive laser.",
     "Enabled": true
   },
   "100228": {
-    "OriginalText": "濃存の武器に既足できないアークスが\n独自開発した導具。渦巻き角度の\n微調整により扱いやすさが向上した。",
+    "OriginalText": "既存の武器に満足できないアークスが\n独自開発した導具。渦巻き角度の\n微調整により扱いやすさが向上した。",
     "Text": "A Talis developed by ARKS. Ease of\nhandling is improved by refining the\nangle.",
     "Enabled": true
   },
@@ -2720,7 +2720,7 @@
     "Enabled": true
   },
   "100231": {
-    "OriginalText": "基礎モデルに改良を加えた短杖。\nシンメトリー構造の採用により燥作性と\n安定性が向上した次世代バージョン。",
+    "OriginalText": "基礎モデルに改良を加えた短杖。\nシンメトリー構造の採用により操作性と\n安定性が向上した次世代バージョン。",
     "Text": "An improved Wand. A next-gen version\nwith improved usability and stability\ndue to its symmetric structure.",
     "Enabled": true
   },
@@ -2730,7 +2730,7 @@
     "Enabled": true
   },
   "100233": {
-    "OriginalText": "双方の柄に伝飾を施した短杖。\n法撃時の感応力とバランスが\n非常に良く、扱いやすいと好評。",
+    "OriginalText": "双方の柄に装飾を施した短杖。\n法撃時の感応力とバランスが\n非常に良く、扱いやすいと好評。",
     "Text": "A Wand with a decorative design.\nPopular due to its excellent balance\nand ease of handling when attacking.",
     "Enabled": true
   },
@@ -2745,7 +2745,7 @@
     "Enabled": true
   },
   "100236": {
-    "OriginalText": "強固な伝甲を伝着した短杖。\n全体の構成素村をより自然洋質に\n近づけ、法撃時の龍導率を上げた。",
+    "OriginalText": "強固な装甲を装着した短杖。\n全体の構成素村をより自然物質に\n近づけ、法撃時の伝導率を上げた。",
     "Text": "A Wand with a strong build. Its form\nis closer to the original, its\nconductivity increases when attacking.",
     "Enabled": true
   },
@@ -2755,12 +2755,12 @@
     "Enabled": true
   },
   "100238": {
-    "OriginalText": "かつて万洋の敵と恐れられた怪洋が\n所持していたとされる短杖。\n非常に重く、短杖とは思えない武器。",
+    "OriginalText": "かつて万物の敵と恐れられた怪物が\n所持していたとされる短杖。\n非常に重く、短杖とは思えない武器。",
     "Text": "A Wand that is rumored to be possessed\nby a scary monster. A very heavy\nweapon that doesn't look like a Wand.",
     "Enabled": true
   },
   "100239": {
-    "OriginalText": "常しえの巫女が抱いたとされる短杖。\n龍承に残るのみの存在だが、伝者は\n神々しいまでの輝きに包まれるらしい。",
+    "OriginalText": "常しえの巫女が抱いたとされる短杖。\n伝承に残るのみの存在だが、装者は\n神々しいまでの輝きに包まれるらしい。",
     "Text": "A Wand that seems to have been used\nby a shrine maiden. It seems the user\nwrapped it with a divine brilliance.",
     "Enabled": true
   },
@@ -2770,7 +2770,7 @@
     "Enabled": true
   },
   "100241": {
-    "OriginalText": "雪の結晶を物して作られた短杖。\n行使されるテクニックもどこか氷たく\n貴くように研ぎ澄まされている。",
+    "OriginalText": "雪の結晶を模して作られた短杖。\n行使されるテクニックもどこか冷たく\n貴くように研ぎ澄まされている。",
     "Text": "A Wand made from snowflakes. The\npower of techniques is enhanced with\nits icy nature.",
     "Enabled": true
   },
@@ -2795,7 +2795,7 @@
     "Enabled": true
   },
   "100246": {
-    "OriginalText": "生命力の強い植洋由来の短杖。\nＤＮＡ解祈により老木の固い幹を再現し\n美術工芸品としても人気の一品。",
+    "OriginalText": "生命力の強い植物由来の短杖。\nＤＮＡ解祈により老木の固い幹を再現し\n美術工芸品としても人気の一品。",
     "Text": "A Wand made from a strong plant. A\npopular artistic weapon created from\nthe DNA of an ancient tree.",
     "Enabled": true
   },
@@ -2815,7 +2815,7 @@
     "Enabled": true
   },
   "100250": {
-    "OriginalText": "濃存の武器に既足できないアークスが\n独自開発した短杖。羽根飾りのような\n法撃機構が最大級の力を引き出す。",
+    "OriginalText": "既存の武器に満足できないアークスが\n独自開発した短杖。羽根飾りのような\n法撃機構が最大級の力を引き出す。",
     "Text": "A Wand originally made by ARKS. The\nattack mechanism of the feather\nornament brings out the maximum power.",
     "Enabled": true
   },
@@ -2825,7 +2825,7 @@
     "Enabled": true
   },
   "100252": {
-    "OriginalText": "一部星域に偏在する特殊鉱石を鍛えた\n短杖。テクニックと連動した保熱構造で\n劇結した状態で安定し出力を補助する。",
+    "OriginalText": "一部星域に偏在する特殊鉱石を鍛えた\n短杖。テクニックと連動した保熱構造で\n氷結した状態で安定し出力を補助する。",
     "Text": "A Wand forged from a rare ore. Its heat\nabsorption feature and frozen state\nhelps stabilize the techniques.",
     "Enabled": true
   },
@@ -2840,7 +2840,7 @@
     "Enabled": true
   },
   "100255": {
-    "OriginalText": "濃存の武器に既足できないアークスが\n独自開発した短杖。法撃機構の再設計で\n放熱性と耐熱性が向上した。",
+    "OriginalText": "既存の武器に満足できないアークスが\n独自開発した短杖。法撃機構の再設計で\n放熱性と耐熱性が向上した。",
     "Text": "A Wand originally made by ARKS. They\nredesign the attack mechanism to\nimprove heat resistance and dissipation.",
     "Enabled": true
   },
@@ -2890,52 +2890,52 @@
     "Enabled": true
   },
   "100265": {
-    "OriginalText": "生命力の強い植洋由来の撃杭。樹齢が\n数千年を超える太い幹から削り出された\n硬木製のノズルは振動吸収に優れる。",
+    "OriginalText": "生命力の強い植物由来の撃杭。樹齢が\n数千年を超える太い幹から削り出された\n硬木製のノズルは振動吸収に優れる。",
     "Text": "A Pile made from a strong plant. The\nnozzle carved from an ancient tree has\nexcellent vibration absorption.",
     "Enabled": true
   },
   "100266": {
-    "OriginalText": "アグリオス種の伝甲を一部流用した撃杭。\n奇跡的な硬構造がいかんなく発揮され\nあらゆる局面を打開する。",
+    "OriginalText": "アグリオス種の装甲を一部流用した撃杭。\n奇跡的な硬構造がいかんなく発揮され\nあらゆる局面を打開する。",
     "Text": "A Pile made from Agrios armor. Its\nmiraculous hard structure is almost\nresistant to all kinds of damage.",
     "Enabled": true
   },
   "100267": {
-    "OriginalText": "エウリュードの生体機能を物した撃杭。\n斬撃可能な設計を追求した結果、\n最適な素村として行き着いた。",
+    "OriginalText": "エウリュードの生体機能を模した撃杭。\n斬撃可能な設計を追求した結果、\n最適な素村として行き着いた。",
     "Text": "A Pile made from a living body of a\nEurude. They achieve similar design\nwith optimum material usage.",
     "Enabled": true
   },
   "100268": {
-    "OriginalText": "アルキュオネの生体機構を物した撃杭。\nあらゆる的に深く突き刺さり、\nさらに高熱によるダメージを与える。",
+    "OriginalText": "アルキュオネの生体機構を模した撃杭。\nあらゆる的に深く突き刺さり、\nさらに高熱によるダメージを与える。",
     "Text": "A Pile made from a living body of an\nAlcyone. It can pierce very deep due\nto the intense heat.",
     "Enabled": true
   },
   "100269": {
-    "OriginalText": "ギュゲンテの列車砲を物した撃杭。\n刺さりやすく抜けにくい尖端構造が\nパイルの特性に最適と評価された。",
+    "OriginalText": "ギュゲンテの列車砲を模した撃杭。\n刺さりやすく抜けにくい尖端構造が\nパイルの特性に最適と評価された。",
     "Text": "A Pile made from Gygante's railgun.\nThe pile's structure is optimized for\neasy piercing while hard to remove.",
     "Enabled": true
   },
   "100270": {
-    "OriginalText": "ガラティオンの器官を物した撃杭。\nワイヤーアンカーをしのぐ強烈な\n射出力で、どこにでも刺さる。",
+    "OriginalText": "ガラティオンの器官を模した撃杭。\nワイヤーアンカーをしのぐ強烈な\n射出力で、どこにでも刺さる。",
     "Text": "A Pile made from the organs of a\nGaration. Its strong shooting power\nsurpasses Garation's wire anchors.",
     "Enabled": true
   },
   "100271": {
-    "OriginalText": "星を覆うギガンテスの器官を組み込み\n試作された撃杭。なめらかなリロードが\n特微的で、優雅な射出で使用者を跡了。",
+    "OriginalText": "星を覆うギガンテスの器官を組み込み\n試作された撃杭。なめらかなリロードが\n特微的で、優雅な射出で使用者を魅了。",
     "Text": "A prototype Pile made from an organ of\na giant Gigantes. The reload action is\nsmooth and the pile is traceable.",
     "Enabled": true
   },
   "100272": {
-    "OriginalText": "デルタ・ヴァリアントを物した撃杭。\n頑強な構造と高い出力がそのまま\n再現された、クルーの心の拠り所。",
+    "OriginalText": "デルタ・ヴァリアントを模した撃杭。\n頑強な構造と高い出力がそのまま\n再現された、クルーの心の拠り所。",
     "Text": "A Pile that looks like the Delta\nValiant. Its strong frame and power is\nmade the same as the heart of the crew.",
     "Enabled": true
   },
   "100273": {
-    "OriginalText": "呪われた魔女の撃杭。アンティークな\n伝いの中にたたずむ黒猫が狙いすまし、\n標的の心臓に光る杭を突き立てる。",
+    "OriginalText": "呪われた魔女の撃杭。アンティークな\n装いの中にたたずむ黒猫が狙いすまし、\n標的の心臓に光る杭を突き立てる。",
     "Text": "A cursed witch's Pile. With a black\ncat attached, it thrusts a shining\npile into the target's heart.",
     "Enabled": true
   },
   "100274": {
-    "OriginalText": "ブースターの出力を微調整した撃杭。\nパワフルな大型武器としての跡力を\n損なわずエレガントな色合いを追求。",
+    "OriginalText": "ブースターの出力を微調整した撃杭。\nパワフルな大型武器としての魅力を\n損なわずエレガントな色合いを追求。",
     "Text": "A Pile with finely tuned booster\noutput. Even with elegant colors, it\ndidn't lose its tracking ability.",
     "Enabled": true
   },
@@ -2960,12 +2960,12 @@
     "Enabled": true
   },
   "100279": {
-    "OriginalText": "レウ・ロヴラッピーのジェットパックを\n改造した撃杭。シンプル構造そのままに\n強度を増した人気色による再生汎品。",
+    "OriginalText": "レウ・ロヴラッピーのジェットパックを\n改造した撃杭。シンプル構造そのままに\n強度を増した人気色による再生産品。",
     "Text": "A Pile remodeled from a Leu Rove Rappy\njetpack. It has an enhanced strength\nwhile keeping its simple design.",
     "Enabled": true
   },
   "100280": {
-    "OriginalText": "ヴィヴリュードの生体機能を物した撃杭。\n大きめのエネルギー貯蔵ユニットが\n力強い打ち込み攻撃を実現する。",
+    "OriginalText": "ヴィヴリュードの生体機能を模した撃杭。\n大きめのエネルギー貯蔵ユニットが\n力強い打ち込み攻撃を実現する。",
     "Text": "A Pile made from a living body of a\nVivryude. The larger energy storage\nunit delivers powerful driving attacks.",
     "Enabled": true
   },
@@ -2975,7 +2975,7 @@
     "Enabled": true
   },
   "100282": {
-    "OriginalText": "オルターの技術により新規開発された光輪具。\n高速回転する復数のリングの干渉から\n生まれる強い反発力で攻撃する。",
+    "OriginalText": "オルターの技術により新規開発された光輪具。\n高速回転する複数のリングの干渉から\n生まれる強い反発力で攻撃する。",
     "Text": "A Halo made by the Alter Corps. Can\nattack with a strong repulsive force\ngenerated from the rotating rings.",
     "Enabled": true
   },
@@ -2990,12 +2990,12 @@
     "Enabled": true
   },
   "100285": {
-    "OriginalText": "火の玉のような力場を生成する光輪具。\n燃え盛る火焔そのままのシルエットは\n視覚的にも敵を萎温させる。",
+    "OriginalText": "火の玉のような力場を生成する光輪具。\n燃え盛る火焔そのままのシルエットは\n視覚的にも敵を萎縮させる。",
     "Text": "A Halo that creates a fireball-like\nforce field. The image of the fiery\nflame feels like its warming the enemy.",
     "Enabled": true
   },
   "100286": {
-    "OriginalText": "スパーク状態の力場を生成する光輪具。\n青白い輝きが氷たく周囲を照らし出し、\n自然の落雷に匹敵する攻撃をくり出す。",
+    "OriginalText": "スパーク状態の力場を生成する光輪具。\n青白い輝きが冷たく周囲を照らし出し、\n自然の落雷に匹敵する攻撃をくり出す。",
     "Text": "A glowing Halo that creates an\nelectrified force field. Its attack is\ncomparable to an actual lighting strike.",
     "Enabled": true
   },
@@ -3005,42 +3005,42 @@
     "Enabled": true
   },
   "100288": {
-    "OriginalText": "エウリュードのリボルバーを物した\n力場を生成する光輪具。洋理的な\n連続砲撃に匹敵する攻撃が可能。",
+    "OriginalText": "エウリュードのリボルバーを模した\n力場を生成する光輪具。物理的な\n連続砲撃に匹敵する攻撃が可能。",
     "Text": "A Halo that looks like Eurude's\nrevolver. Its attack power is\ncomparable to an actual bombardment.",
     "Enabled": true
   },
   "100289": {
-    "OriginalText": "アグリオスの主砲を物した力場を\n生成する光輪具。巨大光子による\n強力な砲撃を見舞う。",
+    "OriginalText": "アグリオスの主砲を模した力場を\n生成する光輪具。巨大光子による\n強力な砲撃を見舞う。",
     "Text": "A Halo that looks like a main gun of\nan Agrios. It can fire a powerful\nbombardment of light.",
     "Enabled": true
   },
   "100290": {
-    "OriginalText": "アルキュオネの触手を物した力場を\n生成する光輪具。それ自体が意志を\n持つかのように不気味にうごめく。",
+    "OriginalText": "アルキュオネの触手を模した力場を\n生成する光輪具。それ自体が意志を\n持つかのように不気味にうごめく。",
     "Text": "A Halo that creates a force field that\nlooks like the tentacles of Alcyone.\nIt moves eerily on its own.",
     "Enabled": true
   },
   "100291": {
-    "OriginalText": "ガラティオンの鎖鋸翼を物した力場を\n生成する光輪具。触媒の周囲を高速で\n回転するまばゆい光子が敵を切り裂く。",
+    "OriginalText": "ガラティオンの鎖鋸翼を模した力場を\n生成する光輪具。触媒の周囲を高速で\n回転するまばゆい光子が敵を切り裂く。",
     "Text": "A Halo the resembles a Garation\nchainsaw wing. The dazzling light that\nrotates can cut through the enemy.",
     "Enabled": true
   },
   "100292": {
-    "OriginalText": "ギュゲンテの列車砲を物した力場を\n生成する光輪具。標的を深くえぐる\nドリルは確かな手応えがあると評判。",
+    "OriginalText": "ギュゲンテの列車砲を模した力場を\n生成する光輪具。標的を深くえぐる\nドリルは確かな手応えがあると評判。",
     "Text": "A Halo that looks like the Gygante's\nrailgun. The drill that goes deep into\nthe target is very solid.",
     "Enabled": true
   },
   "100293": {
-    "OriginalText": "バンクゥの三尾の晶石を物した力場を\n生成する光輪具。瞬く光子を散らし、\n愛らしい攻撃をくり出す。",
+    "OriginalText": "バンクゥの三尾の晶石を模した力場を\n生成する光輪具。瞬く光子を散らし、\n愛らしい攻撃をくり出す。",
     "Text": "A Halo that looks like a Ban'qu gem.\nIt scatters light in a blink of an\neye and launches a charming attack.",
     "Enabled": true
   },
   "100294": {
-    "OriginalText": "植洋を物した力場を生成する光輪具。\n風になびく草花のように、優美で\nしなやかな攻撃をくり出す。",
+    "OriginalText": "植物を模した力場を生成する光輪具。\n風になびく草花のように、優美で\nしなやかな攻撃をくり出す。",
     "Text": "A Halo that looks like a plant. Its\nflowers flutter in the wind, and it\nfires a graceful and flexible attack.",
     "Enabled": true
   },
   "100295": {
-    "OriginalText": "晶石を物した力場を生成する光輪具。\n抜群の強度と硬度を誇り、\nその輝きはまさに永遠の美しさ。",
+    "OriginalText": "晶石を模した力場を生成する光輪具。\n抜群の強度と硬度を誇り、\nその輝きはまさに永遠の美しさ。",
     "Text": "A Halo that looks like a crystal. It\nboasts super strength and hardness,\nits brilliance is an eternal beauty.",
     "Enabled": true
   },
@@ -3055,7 +3055,7 @@
     "Enabled": true
   },
   "100298": {
-    "OriginalText": "星を覆うギガンテスを物した力場を\n生成する光輪具。赤い光の粒が旋回し\n衝突時の撃しい衝撃を予期させる。",
+    "OriginalText": "星を覆うギガンテスを模した力場を\n生成する光輪具。赤い光の粒が旋回し\n衝突時の激しい衝撃を予期させる。",
     "Text": "A Halo that looks like the giant\nGigantes. The red light particles swirl\nand anticipate the collision impact.",
     "Enabled": true
   },
@@ -3065,7 +3065,7 @@
     "Enabled": true
   },
   "100300": {
-    "OriginalText": "オルターの技術により新規開発された光輪具。\n復数のリングの回転がさらに高速化し、\n干渉による反発力も強化された。",
+    "OriginalText": "オルターの技術により新規開発された光輪具。\n複数のリングの回転がさらに高速化し、\n干渉による反発力も強化された。",
     "Text": "A Halo created by the Alter Corps. The\nrotation of the ring is faster, and\nthe repulsive force is also enhanced.",
     "Enabled": true
   },
@@ -3085,27 +3085,27 @@
     "Enabled": true
   },
   "100304": {
-    "OriginalText": "バンクゥの三尾の晶石を物した力場を\n生成する光輪具。紫水晶の光子は\n敵味方なく見る者を跡了する。",
+    "OriginalText": "バンクゥの三尾の晶石を模した力場を\n生成する光輪具。紫水晶の光子は\n敵味方なく見る者を魅了する。",
     "Text": "A Halo that looks like a Ban'qu gem.\nThe amethyst lights tracks the\nobserver be it enemy or ally.",
     "Enabled": true
   },
   "100305": {
-    "OriginalText": "花弁を物した力場を生成する光輪具。\nとある惑星の春を思わせる、美しく\nはかない攻撃は見ていて飽きない。",
+    "OriginalText": "花弁を模した力場を生成する光輪具。\nとある惑星の春を思わせる、美しく\nはかない攻撃は見ていて飽きない。",
     "Text": "A Halo with a flowery force field. It\nhas beautiful and ephemeral attacks\nthat is reminiscent of spring.",
     "Enabled": true
   },
   "100306": {
-    "OriginalText": "とある惑星の人気キャラクターの手首を\n物した鋼拳。青い被り洋とセットで\n使用すれば、なりきり度がアップする。",
+    "OriginalText": "とある惑星の人気キャラクターの手首を\n模した鋼拳。青い被り物とセットで\n使用すれば、なりきり度がアップする。",
     "Text": "A Knuckles that looks like a fist of\na popular character. Wear a blue\nheadgear to complete the costume.",
     "Enabled": true
   },
   "100307": {
-    "OriginalText": "とある惑星の人気キャラクターの手首を\n物した鋼拳。青い被り洋とセットで\n使用すれば、なりきり度がアップする。",
+    "OriginalText": "とある惑星の人気キャラクターの手首を\n模した鋼拳。青い被り物とセットで\n使用すれば、なりきり度がアップする。",
     "Text": "A Knuckles that looks like a fist of\na popular character. Wear a blue\nheadgear to complete the costume.",
     "Enabled": true
   },
   "101000": {
-    "OriginalText": "宇宙開柘隊で使われる一般的なブレード。\nエッジのカスタマイズにより、満用品似上の\n性能を発揮する強力な武器となっている。",
+    "OriginalText": "宇宙開拓隊で使われる一般的なブレード。\nエッジのカスタマイズにより、汎用品以上の\n性能を発揮する強力な武器となっている。",
     "Text": "A common Sword used by Space \nReconnaissance Force.  A weapon more\npowerful than the mass-produced model.",
     "Enabled": true
   },

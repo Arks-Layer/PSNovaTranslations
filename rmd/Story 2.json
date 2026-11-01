@@ -15,7 +15,7 @@
     "Enabled": true
   },
   "200030030010001": {
-    "OriginalText": "報告は似上。",
+    "OriginalText": "報告は以上。",
     "Text": "That's all for the report.",
     "Enabled": true
   },
@@ -60,7 +60,7 @@
     "Enabled": true
   },
   "201010010050001": {
-    "OriginalText": "あたしがやってるゲームだよ！\n実際にプレイヤーの動きをトレースして\nキャラが動く燥作方法なの。",
+    "OriginalText": "あたしがやってるゲームだよ！\n実際にプレイヤーの動きをトレースして\nキャラが動く操作方法なの。",
     "Text": "It's a game that I'm playing!\nYour character moves in-game\nwhen you move in real life.",
     "Enabled": true
   },
@@ -375,7 +375,7 @@
     "Enabled": true
   },
   "201020020020001": {
-    "OriginalText": "回復も何も考えずに戦うなんて、\nいったいいつ似来かな？ わかんないや！",
+    "OriginalText": "回復も何も考えずに戦うなんて、\nいったいいつ以来かな？ わかんないや！",
     "Text": "Ever since I've been fighting without\nany thought of healing?\nI don't know about that!",
     "Enabled": true
   },
@@ -390,7 +390,7 @@
     "Enabled": true
   },
   "201020020040001": {
-    "OriginalText": "やっぱりこれはムービースターコースかな？\n実戦ではさすがにフォース似上には\nやれないだろうしね。",
+    "OriginalText": "やっぱりこれはムービースターコースかな？\n実戦ではさすがにフォース以上には\nやれないだろうしね。",
     "Text": "Maybe this is the path to be a movie star?\nI guess Force can't do more than that in\nactual combat.",
     "Enabled": true
   },
@@ -555,7 +555,7 @@
     "Enabled": true
   },
   "201030010020001": {
-    "OriginalText": "だって、やっぱりどう考えても\n[ruby]相棒[/ruby]似上の人なんて宇宙にふたりといないもん！",
+    "OriginalText": "だって、やっぱりどう考えても\n[ruby]相棒[/ruby]以上の人なんて宇宙にふたりといないもん！",
     "Text": "After all, no matter how you think about it,\nno one in this universe is better than\nmy Buddy!",
     "Enabled": true
   },
@@ -575,7 +575,7 @@
     "Enabled": true
   },
   "202010010010001": {
-    "OriginalText": "ねえ、こんな写真が落ちてたんだけど、\n誰の落とし洋かな？",
+    "OriginalText": "ねえ、こんな写真が落ちてたんだけど、\n誰の落とし物かな？",
     "Text": "Hey, this photo was dropped, but who\ndropped it?",
     "Enabled": true
   },
@@ -655,12 +655,12 @@
     "Enabled": false
   },
   "202010010150002": {
-    "OriginalText": "オレが住んでいた居住路にダーカーが現れてな。",
+    "OriginalText": "オレが住んでいた居住区にダーカーが現れてな。",
     "Text": "Darkers appear in the residential area where\nI lived.",
     "Enabled": true
   },
   "202010010155002": {
-    "OriginalText": "地域住民はオレ似外、全員殺された。",
+    "OriginalText": "地域住民はオレ以外、全員殺された。",
     "Text": "All the local residents were killed\nexcept me.",
     "Enabled": true
   },
@@ -700,7 +700,7 @@
     "Enabled": true
   },
   "202010010210002": {
-    "OriginalText": "オレはこっそり隣の路まで夜遊びに行っていて、\nその間にダーカーが住民を襲い、\n戻って来た時にはもう……。",
+    "OriginalText": "オレはこっそり隣の区まで夜遊びに行っていて、\nその間にダーカーが住民を襲い、\n戻って来た時にはもう……。",
     "Text": "I secretly went to the next street for a\nnight out, but when I came back it was\nalready too late.",
     "Enabled": true
   },
@@ -765,12 +765,12 @@
     "Enabled": true
   },
   "202020010040002": {
-    "OriginalText": "本当はバラすことが許されない話だ。\nだが、お前達には龍えてもいい。\n聞くか？",
+    "OriginalText": "本当はバラすことが許されない話だ。\nだが、お前達には伝えてもいい。\n聞くか？",
     "Text": "No one must ever know about this.\nBut, maybe I can tell you. Would you hear it?",
     "Enabled": true
   },
   "202020010050001": {
-    "OriginalText": "ダーカーに襲われて\nセイル似外は生存者がいない状況で、\nどうやって生き残ったの？",
+    "OriginalText": "ダーカーに襲われて\nセイル以外は生存者がいない状況で、\nどうやって生き残ったの？",
     "Text": "How did you survived the Darker attack\nwhile the others didn't?",
     "Enabled": true
   },
@@ -830,7 +830,7 @@
     "Enabled": true
   },
   "202020010170002": {
-    "OriginalText": "こっからが大変だったんだよ。\n居住路を襲ったダーカーは……",
+    "OriginalText": "こっからが大変だったんだよ。\n居住区を襲ったダーカーは……",
     "Text": "It was difficult.\nThen the Darkers attack the residential road.",
     "Enabled": true
   },
@@ -875,7 +875,7 @@
     "Enabled": true
   },
   "202020020050002": {
-    "OriginalText": "居住路を襲ったダーカーが少数だったら、\nすぐにケリがついていただろうな。\nあの金髪の女、無茶苦茶強かったから。",
+    "OriginalText": "居住区を襲ったダーカーが少数だったら、\nすぐにケリがついていただろうな。\nあの金髪の女、無茶苦茶強かったから。",
     "Text": "If there were only few Darkers it would been\nsettled immediately. That blonde woman is\ninsanely strong.",
     "Enabled": true
   },
@@ -955,7 +955,7 @@
     "Enabled": true
   },
   "202020020190002": {
-    "OriginalText": "強い金髪女がダーカーを全滅させる頃には\n既身創痍で今にも死にそうだったよ。",
+    "OriginalText": "強い金髪女がダーカーを全滅させる頃には\n満身創痍で今にも死にそうだったよ。",
     "Text": "By the time the blonde woman annihilated the\nDarkers, the pink-haired woman is almost at\nher limit.",
     "Enabled": true
   },
@@ -1030,7 +1030,7 @@
     "Enabled": true
   },
   "202020020340007": {
-    "OriginalText": "やれやれ……バカが龍染ったとはこのことね。",
+    "OriginalText": "やれやれ……バカが伝染ったとはこのことね。",
     "Text": "Oh my... So this is what it looks like being\ninfected with idiocy.",
     "Enabled": true
   },
@@ -1075,7 +1075,7 @@
     "Enabled": true
   },
   "203010010010009": {
-    "OriginalText": "イズナ、また手龍ってくれてありがとな。\nお陰でいいライフルができそうだ。",
+    "OriginalText": "イズナ、また手伝ってくれてありがとな。\nお陰でいいライフルができそうだ。",
     "Text": "Izuna, thank you for your help again. Thanks\nto you, I think I can make a better rifle.",
     "Enabled": true
   },
@@ -1085,12 +1085,12 @@
     "Enabled": true
   },
   "203010010030009": {
-    "OriginalText": "こっちこそ手龍ってもらって大助かりだぜ。",
+    "OriginalText": "こっちこそ手伝ってもらって大助かりだぜ。",
     "Text": "This would be a great help for me.",
     "Enabled": true
   },
   "203010010040009": {
-    "OriginalText": "でも、そういえばさ、イズナって\nあちこちで作業を手龍ってるけど、\nヒュペリオンのとこで見かけたことがないな？",
+    "OriginalText": "でも、そういえばさ、イズナって\nあちこちで作業を手伝ってるけど、\nヒュペリオンのとこで見かけたことがないな？",
     "Text": "By the way, Izuna you're working here and\nthere, but have you seen Hyperion?",
     "Enabled": true
   },
@@ -1255,7 +1255,7 @@
     "Enabled": true
   },
   "203020010030012": {
-    "OriginalText": "はい！ お手龍いをお願いします！",
+    "OriginalText": "はい！ お手伝いをお願いします！",
     "Text": "Yes! You can help me make it!",
     "Enabled": true
   },
@@ -1275,12 +1275,12 @@
     "Enabled": true
   },
   "203020010065000": {
-    "OriginalText": "イズナ、手龍ってあげてよ",
+    "OriginalText": "イズナ、手伝ってあげてよ",
     "Text": "Izuna, can you help us?",
     "Enabled": true
   },
   "203020010070003": {
-    "OriginalText": "もちろんお手龍いします！\nでも、何を作るんでしょうか？",
+    "OriginalText": "もちろんお手伝いします！\nでも、何を作るんでしょうか？",
     "Text": "Of course I can help!\nBut, what are you going to make?",
     "Enabled": true
   },
@@ -1415,7 +1415,7 @@
     "Enabled": true
   },
   "203020010260012": {
-    "OriginalText": "イズナさんのお姉さんへの復雑な想い、ですね。\nそこも上手に気持ちを\n表現できるようになってくれれば……。",
+    "OriginalText": "イズナさんのお姉さんへの複雑な想い、ですね。\nそこも上手に気持ちを\n表現できるようになってくれれば……。",
     "Text": "Maybe it reminds Izuna of her sister. Because\nof that she can express her emotions very\nwell.",
     "Enabled": true
   },
@@ -1425,7 +1425,7 @@
     "Enabled": true
   },
   "203020010270012": {
-    "OriginalText": "ええ、もしかしたらイズナさんは\nお姉さんへの復雑な想いがあって、\nケーキにこだわっているのかもしれません。",
+    "OriginalText": "ええ、もしかしたらイズナさんは\nお姉さんへの複雑な想いがあって、\nケーキにこだわっているのかもしれません。",
     "Text": "Yes, maybe Izuna has a complicated feelings\nfor her sister, especially with cakes.",
     "Enabled": true
   },
@@ -1465,7 +1465,7 @@
     "Enabled": true
   },
   "203020020050003": {
-    "OriginalText": "それで、いろんなケーキを食べて、\n感想を言ったり、自分でも調べたりして、\nそのうちお手龍いもするようになって……。",
+    "OriginalText": "それで、いろんなケーキを食べて、\n感想を言ったり、自分でも調べたりして、\nそのうちお手伝いもするようになって……。",
     "Text": "I've already eaten many kinds of cake, gave\nmy impressions on it, study it, and\neventually help making it.",
     "Enabled": true
   },
@@ -1530,7 +1530,7 @@
     "Enabled": true
   },
   "203020020180012": {
-    "OriginalText": "その方がたくさん龍わることがあるはずですよ。\nね、艦長？",
+    "OriginalText": "その方がたくさん伝わることがあるはずですよ。\nね、艦長？",
     "Text": "That person should be able to help you more.\nIsn't that right, Captain?",
     "Enabled": true
   },
@@ -1660,7 +1660,7 @@
     "Enabled": true
   },
   "204010010060001": {
-    "OriginalText": "ホントに？\nここ似外はだいたい探したんだけどな？",
+    "OriginalText": "ホントに？\nここ以外はだいたい探したんだけどな？",
     "Text": "Really? We already looked everywhere except\nhere, right?",
     "Enabled": true
   },
@@ -1690,7 +1690,7 @@
     "Enabled": true
   },
   "204010010100007": {
-    "OriginalText": "フィルに会ったら龍えておいて。\n絶対に逃がさないって。",
+    "OriginalText": "フィルに会ったら伝えておいて。\n絶対に逃がさないって。",
     "Text": "Tell us if you see Fil. I'll never let\nher escape.",
     "Enabled": true
   },
@@ -1830,12 +1830,12 @@
     "Enabled": true
   },
   "204020010020004": {
-    "OriginalText": "何だ？ 不既か？",
+    "OriginalText": "何だ？ 不満か？",
     "Text": "What? Are you dissatisfied?",
     "Enabled": true
   },
   "204020010025000": {
-    "OriginalText": "何を着ても跡力的ですよ",
+    "OriginalText": "何を着ても魅力的ですよ",
     "Text": "I doesn't matter what you wear.",
     "Enabled": true
   },
@@ -1865,7 +1865,7 @@
     "Enabled": true
   },
   "204020010065000": {
-    "OriginalText": "ルティナにあげた腰の伝備もどうでもよかった？",
+    "OriginalText": "ルティナにあげた腰の装備もどうでもよかった？",
     "Text": "Did you notice that thing on Lutina's waist?",
     "Enabled": true
   },
@@ -1930,7 +1930,7 @@
     "Enabled": true
   },
   "204020010160004": {
-    "OriginalText": "普通のアークスには必要ない性能だろ。\n大規物な戦闘からの撤退戦でもなければ、\n使い道がないよな。",
+    "OriginalText": "普通のアークスには必要ない性能だろ。\n大規模な戦闘からの撤退戦でもなければ、\n使い道がないよな。",
     "Text": "You don't see that kind of thing normally in\nARKS. It's mostly used for moving people from\na big battle.",
     "Enabled": true
   },
@@ -2095,17 +2095,17 @@
     "Enabled": true
   },
   "205010010100005": {
-    "OriginalText": "あれも人の作りしものならば、\n破壊や停止似外にも制する道はある。",
+    "OriginalText": "あれも人の作りしものならば、\n破壊や停止以外にも制する道はある。",
     "Text": "If it is made by humans, there must be a way\nto control it other than destroying it.",
     "Enabled": true
   },
   "205010010110005": {
-    "OriginalText": "ただし、時間が必要だ。\nユノ、ノヴァは覚酷までにどれだけかかる？",
+    "OriginalText": "ただし、時間が必要だ。\nユノ、ノヴァは覚醒までにどれだけかかる？",
     "Text": "However, it takes time. Juno, how long does\nit take for Nova to awaken?",
     "Enabled": true
   },
   "205010010120013": {
-    "OriginalText": "分かりません……ですが、\nまだ急撃な変化はみられません。",
+    "OriginalText": "分かりません……ですが、\nまだ急激な変化はみられません。",
     "Text": "I don't know... but I haven't seen any sudden\nchanges yet.",
     "Enabled": true
   },
@@ -2180,7 +2180,7 @@
     "Enabled": true
   },
   "205010020020013": {
-    "OriginalText": "デルタ・ヴァリアントが脱出を試みたことで、\nノヴァの覚酷が始まってしまったからです。",
+    "OriginalText": "デルタ・ヴァリアントが脱出を試みたことで、\nノヴァの覚醒が始まってしまったからです。",
     "Text": "Nova's awakening began as the Delta Valiant\nattempted to escape the planet.",
     "Enabled": true
   },
@@ -2195,17 +2195,17 @@
     "Enabled": true
   },
   "205010020050005": {
-    "OriginalText": "あの巨体なら、覚酷も緩やかであるはず、\nそう考えていたのだが、\nノヴァの防衛本能はあまりにも強すぎた。",
+    "OriginalText": "あの巨体なら、覚醒も緩やかであるはず、\nそう考えていたのだが、\nノヴァの防衛本能はあまりにも強すぎた。",
     "Text": "I thought that the giant would be awakened\nslowly, but Nova's defensive instinct was\ntoo strong.",
     "Enabled": true
   },
   "205010020060005": {
-    "OriginalText": "覚酷が始まってしまった似上、\nノヴァを止める方法を物索する時間はなく、\nいかなる手段も賭けでしかなくなった。",
+    "OriginalText": "覚醒が始まってしまった以上、\nノヴァを止める方法を模索する時間はなく、\nいかなる手段も賭けでしかなくなった。",
     "Text": "It's awakening has begun, there's no time to\nfind a way to stop Nova, and any means is\njust a bet.",
     "Enabled": true
   },
   "205010020070005": {
-    "OriginalText": "ならば、ユノを失わないという選択似外、\n取るべき道はなかった。",
+    "OriginalText": "ならば、ユノを失わないという選択以外、\n取るべき道はなかった。",
     "Text": "Then, there was no other way other than the\nchoice not to lose Juno.",
     "Enabled": true
   },
@@ -2215,7 +2215,7 @@
     "Enabled": true
   },
   "205010020090005": {
-    "OriginalText": "失敗したとしても、覚酷したノヴァと共に\nユノはこの[ruby ほし]惑星[/ruby]に残り続ける。\n私にとってリスクはないに等しかった。",
+    "OriginalText": "失敗したとしても、覚醒したノヴァと共に\nユノはこの[ruby ほし]惑星[/ruby]に残り続ける。\n私にとってリスクはないに等しかった。",
     "Text": "Even if it fails, Juno will remain on this\nplanet with the awakened Nova.\nThere was no risk to me.",
     "Enabled": true
   },
@@ -2235,7 +2235,7 @@
     "Enabled": true
   },
   "205020010030013": {
-    "OriginalText": "数頁年似上もの間、私はあの宝石を通じて、\n持ち主となった人達に\n助けを求め続けてきましたから。",
+    "OriginalText": "数百年以上もの間、私はあの宝石を通じて、\n持ち主となった人達に\n助けを求め続けてきましたから。",
     "Text": "For ages, I've been asking any responders for\nhelp through the gemstone.",
     "Enabled": true
   },
@@ -2255,7 +2255,7 @@
     "Enabled": true
   },
   "205020010070013": {
-    "OriginalText": "だから将来、惑星マキアという危険に既ちた\n冒険の舞台に来ることを厭わず、\n助けに来てくれると約束してくれたのです。",
+    "OriginalText": "だから将来、惑星マキアという危険に満ちた\n冒険の舞台に来ることを厭わず、\n助けに来てくれると約束してくれたのです。",
     "Text": "So, he promised to come to this dangerous,\nadventurous place of Planet Mahkia and help\nme in the future.",
     "Enabled": true
   },
@@ -2275,7 +2275,7 @@
     "Enabled": true
   },
   "205020010110013": {
-    "OriginalText": "私はただ、惑星マキアを救うのは\n強い戦土である必要はないと、\n事実を龍えただけです。",
+    "OriginalText": "私はただ、惑星マキアを救うのは\n強い戦土である必要はないと、\n事実を伝えただけです。",
     "Text": "She told me that I don't need to be strong\nin combat to save Planet Mahkia.",
     "Enabled": true
   },
@@ -2290,7 +2290,7 @@
     "Enabled": true
   },
   "205020010140013": {
-    "OriginalText": "数頁年の間、誰も成し得なかった偉業です。",
+    "OriginalText": "数百年の間、誰も成し得なかった偉業です。",
     "Text": "It's a feat that no one could've ever done.",
     "Enabled": true
   },
@@ -2455,7 +2455,7 @@
     "Enabled": true
   },
   "206010010100007": {
-    "OriginalText": "撃しいわね……。",
+    "OriginalText": "激しいわね……。",
     "Text": "He's intense....",
     "Enabled": true
   },
@@ -2525,7 +2525,7 @@
     "Enabled": true
   },
   "206010010210009": {
-    "OriginalText": "待て、まずどうやってあの堅洋が結婚するんだ？",
+    "OriginalText": "待て、まずどうやってあの堅物が結婚するんだ？",
     "Text": "Wait, how do he get married?",
     "Enabled": true
   },
@@ -2600,7 +2600,7 @@
     "Enabled": true
   },
   "206020010030008": {
-    "OriginalText": "ラボや武器製造、建設などのセクションの人達は\n労働時間が冷端に長いんです。\nろくに休まないんですよね、どういうわけか。",
+    "OriginalText": "ラボや武器製造、建設などのセクションの人達は\n労働時間が極端に長いんです。\nろくに休まないんですよね、どういうわけか。",
     "Text": "People in the lab, arms manufacturing,\nconstruction, etc. have long working hours.\nThey don't rest at all, for some reason.",
     "Enabled": true
   },
@@ -2635,7 +2635,7 @@
     "Enabled": true
   },
   "206020010090008": {
-    "OriginalText": "いいえ！ それでは不十分です！\nなぜなら、技術職の人達は日常に変化が芝しく、\n心身のバランスが崩れやすいからです！",
+    "OriginalText": "いいえ！ それでは不十分です！\nなぜなら、技術職の人達は日常に変化が乏しく、\n心身のバランスが崩れやすいからです！",
     "Text": "No! That's not enough! The technical workers'\nphysical and mental balance are easily\naffected!",
     "Enabled": true
   },
@@ -2725,7 +2725,7 @@
     "Enabled": true
   },
   "206020010250006": {
-    "OriginalText": "決まった似上は、さっさと片付けるだけだ。",
+    "OriginalText": "決まった以上は、さっさと片付けるだけだ。",
     "Text": "Okay, I'm just gonna tidy up a bit.",
     "Enabled": true
   },
@@ -2940,7 +2940,7 @@
     "Enabled": true
   },
   "206030010470001": {
-    "OriginalText": "でも出世しちゃったせいで\n現場仕事から離れちゃって、\n本人は不既なんじゃないかなあ？",
+    "OriginalText": "でも出世しちゃったせいで\n現場仕事から離れちゃって、\n本人は不満なんじゃないかなあ？",
     "Text": "However, I wonder if he is dissatisfied\nbecause he has been separated from the field\nwork because he has been promoted.",
     "Enabled": true
   },
@@ -3210,7 +3210,7 @@
     "Enabled": true
   },
   "207020010160007": {
-    "OriginalText": "フィルが亡くなってからずっと、私は氷静に、\nこれまで通り振る舞ってきたでしょ？",
+    "OriginalText": "フィルが亡くなってからずっと、私は冷静に、\nこれまで通り振る舞ってきたでしょ？",
     "Text": "Ever since Fil died, I've been acting calm,\nright?",
     "Enabled": true
   },
@@ -3350,7 +3350,7 @@
     "Enabled": true
   },
   "208010010080001": {
-    "OriginalText": "あー、ダメダメ！！ ガールズトークは\n勉強と仕事似外の話がメインじゃないと！",
+    "OriginalText": "あー、ダメダメ！！ ガールズトークは\n勉強と仕事以外の話がメインじゃないと！",
     "Text": "Ahh, stop!! Girls talk is not about studying\nand work!",
     "Enabled": true
   },
@@ -3545,7 +3545,7 @@
     "Enabled": true
   },
   "208020010125008": {
-    "OriginalText": "脱走したことを絶対に後悔させよ。似上。",
+    "OriginalText": "脱走したことを絶対に後悔させよ。以上。",
     "Text": "I apologize for having them escape.\nThat's all.",
     "Enabled": true
   },
@@ -3585,7 +3585,7 @@
     "Enabled": true
   },
   "208020010180008": {
-    "OriginalText": "だから平気で指示を無視して抜け出したり、\n病院食似外のものを食べたり、\n体に悪いことをするんですよ。",
+    "OriginalText": "だから平気で指示を無視して抜け出したり、\n病院食以外のものを食べたり、\n体に悪いことをするんですよ。",
     "Text": "That's why they ignore the instructions,\neating other than hospital food, and doing\nthings that are bad for the health.",
     "Enabled": true
   },
@@ -3660,7 +3660,7 @@
     "Enabled": true
   },
   "208030010040001": {
-    "OriginalText": "リーティア先生が来てから、落ちこぼれや\n乱暴者が撃滅した、って訓練校では\n不思議がられているとか。",
+    "OriginalText": "リーティア先生が来てから、落ちこぼれや\n乱暴者が激滅した、って訓練校では\n不思議がられているとか。",
     "Text": "I wonder, at the training school the number\nof dropouts and violent people has decreased\ndramatically since Rietheia came.",
     "Enabled": true
   },
@@ -3935,7 +3935,7 @@
     "Enabled": true
   },
   "209020010140009": {
-    "OriginalText": "そういう量汎用の武器を\n作ってるんじゃねえんだよ！",
+    "OriginalText": "そういう量産用の武器を\n作ってるんじゃねえんだよ！",
     "Text": "I'm not making a normal weapon!",
     "Enabled": true
   },
@@ -4155,12 +4155,12 @@
     "Enabled": true
   },
   "209020020210009": {
-    "OriginalText": "そいつは心強いな！\n最高の武器と最高の戦土が一体となって、\n英雄と龍説は生まれるんだ。",
+    "OriginalText": "そいつは心強いな！\n最高の武器と最高の戦土が一体となって、\n英雄と伝説は生まれるんだ。",
     "Text": "That's reassuring! The best weapons and the\nbest battlefields come together to create\nheroes and legends.",
     "Enabled": true
   },
   "209020020220009": {
-    "OriginalText": "武器職人にとってそれ似上の名誉はないぜ！",
+    "OriginalText": "武器職人にとってそれ以上の名誉はないぜ！",
     "Text": "There is no greater honor for a weapons\ncraftsman!",
     "Enabled": true
   },
@@ -4340,7 +4340,7 @@
     "Enabled": true
   },
   "210010010200010": {
-    "OriginalText": "俺はカミさんと離れることにしてから、\n息子ともずーっと会ってないんだ。\nかれこれ１０年似上にもなる。",
+    "OriginalText": "俺はカミさんと離れることにしてから、\n息子ともずーっと会ってないんだ。\nかれこれ１０年以上にもなる。",
     "Text": "I haven't seen my son for a long time since\nI decided to leave my wife.\nIt's been about 10 years now.",
     "Enabled": true
   },
@@ -4570,7 +4570,7 @@
     "Enabled": true
   },
   "210020010320010": {
-    "OriginalText": "おっと、仕事だ！\n艦長、手が空いてたら手龍ってくれ。\nじゃ、行くぜ。",
+    "OriginalText": "おっと、仕事だ！\n艦長、手が空いてたら手伝ってくれ。\nじゃ、行くぜ。",
     "Text": "Oops, it's already time for work!\nCaptain, please help me if you're free.\nLet's go.",
     "Enabled": true
   },
@@ -4610,7 +4610,7 @@
     "Enabled": true
   },
   "210020020070007": {
-    "OriginalText": "いいから、見なさい。早く！\nい死の間際になって何かを龍えようとしたって\n遅いんだから。",
+    "OriginalText": "いいから、見なさい。早く！\nい死の間際になって何かを伝えようとしたって\n遅いんだから。",
     "Text": "Just read it. Quick!\nOr it will be too late for you if you don't.",
     "Enabled": true
   },
@@ -4745,7 +4745,7 @@
     "Enabled": true
   },
   "210020020310010": {
-    "OriginalText": "返事をよこさない俺に呆れているかもしれんが、\n今のこの感情をお前達に龍えねばならない！",
+    "OriginalText": "返事をよこさない俺に呆れているかもしれんが、\n今のこの感情をお前達に伝えねばならない！",
     "Text": "You may be surprised at me, as a person who\ndoesn't replies, but I have to convey this\nfeeling to you now.",
     "Enabled": true
   },
@@ -4760,7 +4760,7 @@
     "Enabled": true
   },
   "210030010020001": {
-    "OriginalText": "奥さんには脱出直後に熱いメッセージを送って、\nその後も任務から帰還するたびに\n『無事だ』の一言を龍えるようにしてるとか。",
+    "OriginalText": "奥さんには脱出直後に熱いメッセージを送って、\nその後も任務から帰還するたびに\n『無事だ』の一言を伝えるようにしてるとか。",
     "Text": "After we escape, he sends a passionate\nmessage to his wife, and every time he returns\nfrom a mission, he always says \"I'm safe\".",
     "Enabled": true
   },
@@ -4875,7 +4875,7 @@
     "Enabled": true
   },
   "211010010160011": {
-    "OriginalText": "スープの塩をケチるなとか、\nこの肉にこの香草は合わないとか、\n厨房で自分の調理に撃怒しているんですよ。",
+    "OriginalText": "スープの塩をケチるなとか、\nこの肉にこの香草は合わないとか、\n厨房で自分の調理に激怒しているんですよ。",
     "Text": "He's angry at my cooking, saying that the\nsalt in the soup is too much, or that this\nherb doesn't go well with this meat.",
     "Enabled": true
   },
@@ -4890,7 +4890,7 @@
     "Enabled": true
   },
   "211010010190011": {
-    "OriginalText": "[ruby わたくし]私[/ruby]が『生きるとは何か？』なんて\n迷っている時に、なぜこの人は塩加滅ごときで\n撃怒しているのか？ と、不思議だったのです。",
+    "OriginalText": "[ruby わたくし]私[/ruby]が『生きるとは何か？』なんて\n迷っている時に、なぜこの人は塩加滅ごときで\n激怒しているのか？ と、不思議だったのです。",
     "Text": "I asked my lost self, \"what is life?\", why is\nthis person angry  with just the amount of\nsalt? It was strange, right?",
     "Enabled": true
   },
@@ -5290,7 +5290,7 @@
     "Enabled": true
   },
   "211030010010001": {
-    "OriginalText": "ヒュペリオンさんは愛される大衆食を生み出す、\nっていう夢のために、いろんな[ruby ほし]惑星[/ruby]に行っては\n未知の食村と新たな料理を物索してる。",
+    "OriginalText": "ヒュペリオンさんは愛される大衆食を生み出す、\nっていう夢のために、いろんな[ruby ほし]惑星[/ruby]に行っては\n未知の食村と新たな料理を模索してる。",
     "Text": "Hyperion goes to various planets to search\nfor unknown ingredients and new dishes for\nthe dream of creating a beloved popular food.",
     "Enabled": true
   },
@@ -5405,7 +5405,7 @@
     "Enabled": true
   },
   "212010010170012": {
-    "OriginalText": "だって、恋心を龍えるには、\n自分の言葉を自分で綴らないと\n意味がないじゃないですか。",
+    "OriginalText": "だって、恋心を伝えるには、\n自分の言葉を自分で綴らないと\n意味がないじゃないですか。",
     "Text": "Because, in order to convey love, it wouldn't\nmake sense if you don't write it with your\nown words.",
     "Enabled": true
   },
@@ -5560,12 +5560,12 @@
     "Enabled": true
   },
   "212020010050003": {
-    "OriginalText": "なるほど……ねえシャロンさん、\nシャロンさんが研究似外で好きなものって\n何ですか？",
+    "OriginalText": "なるほど……ねえシャロンさん、\nシャロンさんが研究以外で好きなものって\n何ですか？",
     "Text": "I see... Sharon, what do you like other than\nresearching?",
     "Enabled": true
   },
   "212020010060012": {
-    "OriginalText": "研究似外でですか？\nそうですねえ……。",
+    "OriginalText": "研究以外でですか？\nそうですねえ……。",
     "Text": "Aside from researching?\nWhat would it be....",
     "Enabled": true
   },
@@ -5670,7 +5670,7 @@
     "Enabled": true
   },
   "212020010210012": {
-    "OriginalText": "そういうことになるかと。\nある程度、生洋学や心理学的な理解はできますが\nそれ似上のことが実感できなくて。",
+    "OriginalText": "そういうことになるかと。\nある程度、生物学や心理学的な理解はできますが\nそれ以上のことが実感できなくて。",
     "Text": "I wonder if that will happen. I understand\nbiology and psychology to some extent, but I\ndon't know anything how it really feels.",
     "Enabled": true
   },
@@ -5830,7 +5830,7 @@
     "Enabled": true
   },
   "212030010010001": {
-    "OriginalText": "シャロンは研究者をやめてしまって、\n何と洋語作家に転身しちゃったの。",
+    "OriginalText": "シャロンは研究者をやめてしまって、\n何と物語作家に転身しちゃったの。",
     "Text": "Sharon quit his research and becomes a\nstorywriter instead..",
     "Enabled": true
   },
@@ -5855,7 +5855,7 @@
     "Enabled": true
   },
   "212030010060001": {
-    "OriginalText": "てことは研究者をやめてでも\nこの洋語を書くことを選んだのはつまり、\nあの人への……なんてね。",
+    "OriginalText": "てことは研究者をやめてでも\nこの物語を書くことを選んだのはつまり、\nあの人への……なんてね。",
     "Text": "The reason why she chose to write that\nstory even if she quits being a researcher is\nmaybe because of that person... maybe.",
     "Enabled": true
   },
@@ -5885,17 +5885,17 @@
     "Enabled": true
   },
   "213010010050012": {
-    "OriginalText": "提案なのですが、伝備を修復しませんか？",
+    "OriginalText": "提案なのですが、装備を修復しませんか？",
     "Text": "This is just a suggestion, but would you like\nto repair our uniform?",
     "Enabled": true
   },
   "213010010060001": {
-    "OriginalText": "伝備を、修復？",
+    "OriginalText": "装備を、修復？",
     "Text": "Repair your uniform?",
     "Enabled": true
   },
   "213010010070003": {
-    "OriginalText": "わたし達の伝備、\nずっと壊れたままじゃないですか。",
+    "OriginalText": "わたし達の装備、\nずっと壊れたままじゃないですか。",
     "Text": "Our uniform is broken all this time.",
     "Enabled": true
   },
@@ -6115,7 +6115,7 @@
     "Enabled": true
   },
   "214010010250001": {
-    "OriginalText": "手龍うわよイズナ！ ふたりがかりなら！\n……っと、お？ これはすごい！！\nリーティアも触ってみなよ！",
+    "OriginalText": "手伝うわよイズナ！ ふたりがかりなら！\n……っと、お？ これはすごい！！\nリーティアも触ってみなよ！",
     "Text": "I'll help you Izuna! There's two of us!\nHuh? This is amazing!!\nRietheia touch it too!",
     "Enabled": true
   },
@@ -6235,7 +6235,7 @@
     "Enabled": true
   },
   "214010010470008": {
-    "OriginalText": "熱気のせいで！？ 早く外に運ばないと！\nみなさん手龍ってください！！",
+    "OriginalText": "熱気のせいで！？ 早く外に運ばないと！\nみなさん手伝ってください！！",
     "Text": "Sharon's not moving!!\nLet's carry her quickly!\nEveryone, please help!!",
     "Enabled": true
   },
@@ -6420,7 +6420,7 @@
     "Enabled": true
   },
   "215010010110004": {
-    "OriginalText": "イヤならいい、とは言わん！ これは強制だ！\nオレを既足させるエスコートをしてみせろ！",
+    "OriginalText": "イヤならいい、とは言わん！ これは強制だ！\nオレを満足させるエスコートをしてみせろ！",
     "Text": "Don't say you don't want to!\nThis is compulsory!\nShow me an escort that will satisfy me!",
     "Enabled": true
   },
@@ -6535,7 +6535,7 @@
     "Enabled": true
   },
   "215010020170004": {
-    "OriginalText": "お前はそれをやり遂げたんだ。\nリーダーとして、これ似上の名誉はない。",
+    "OriginalText": "お前はそれをやり遂げたんだ。\nリーダーとして、これ以上の名誉はない。",
     "Text": "But you did it.\nAs a leader, there is no such honor more\nthan that.",
     "Enabled": true
   },
@@ -6575,7 +6575,7 @@
     "Enabled": true
   },
   "215010020220004": {
-    "OriginalText": "お前似上にこいつに相応しい奴は、\nもうこの世にはいねえからな。",
+    "OriginalText": "お前以上にこいつに相応しい奴は、\nもうこの世にはいねえからな。",
     "Text": "There's no other person like you in this\nuniverse.",
     "Enabled": true
   },
@@ -6615,7 +6615,7 @@
     "Enabled": true
   },
   "215030010080001": {
-    "OriginalText": "洋語は、これでおしまい。\nあとはただ、あたし達の記憶の中だけに残る。",
+    "OriginalText": "物語は、これでおしまい。\nあとはただ、あたし達の記憶の中だけに残る。",
     "Text": "This is the end of the story.\nThe rest remains only in our memory.",
     "Enabled": true
   },

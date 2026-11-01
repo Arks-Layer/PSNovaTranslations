@@ -100,22 +100,22 @@
     "Enabled": true
   },
   "50020": {
-    "OriginalText": "武器伝備ソード",
+    "OriginalText": "武器装備ソード",
     "Text": "Weapon Equip: Sword",
     "Enabled": true
   },
   "50021": {
-    "OriginalText": "武器伝備パルチザン",
+    "OriginalText": "武器装備パルチザン",
     "Text": "Weapon Equip: Partizan",
     "Enabled": true
   },
   "50022": {
-    "OriginalText": "武器伝備ダブルセイバー",
+    "OriginalText": "武器装備ダブルセイバー",
     "Text": "Weapon Equip: Double Saber",
     "Enabled": true
   },
   "50023": {
-    "OriginalText": "武器伝備ナックル",
+    "OriginalText": "武器装備ナックル",
     "Text": "Weapon Equip: Knuckles",
     "Enabled": true
   },
@@ -315,12 +315,12 @@
     "Enabled": true
   },
   "50072": {
-    "OriginalText": "武器伝備アサルトライフル",
+    "OriginalText": "武器装備アサルトライフル",
     "Text": "Weapon Equip: Assault Rifle",
     "Enabled": true
   },
   "50073": {
-    "OriginalText": "武器伝備ツインマシンガン",
+    "OriginalText": "武器装備ツインマシンガン",
     "Text": "Weapon Equip: Twin Machinegun",
     "Enabled": true
   },
@@ -485,7 +485,7 @@
     "Enabled": true
   },
   "50114": {
-    "OriginalText": "劇属性ダウン",
+    "OriginalText": "氷属性ダウン",
     "Text": "Ice Resist Down",
     "Enabled": true
   },
@@ -515,17 +515,17 @@
     "Enabled": true
   },
   "50120": {
-    "OriginalText": "武器伝備ロッド",
+    "OriginalText": "武器装備ロッド",
     "Text": "Weapon Equip: Rod",
     "Enabled": true
   },
   "50121": {
-    "OriginalText": "武器伝備タリス",
+    "OriginalText": "武器装備タリス",
     "Text": "Weapon Equip: Talis",
     "Enabled": true
   },
   "50122": {
-    "OriginalText": "武器伝備ウォンド",
+    "OriginalText": "武器装備ウォンド",
     "Text": "Weapon Equip: Wand",
     "Enabled": true
   },
@@ -735,12 +735,12 @@
     "Enabled": true
   },
   "50173": {
-    "OriginalText": "武器伝備パイル",
+    "OriginalText": "武器装備パイル",
     "Text": "Weapon Equip: Piles",
     "Enabled": true
   },
   "50174": {
-    "OriginalText": "武器伝備ヘイロウ",
+    "OriginalText": "武器装備ヘイロウ",
     "Text": "Weapon Equip: Halos",
     "Enabled": true
   },
@@ -1370,7 +1370,7 @@
     "Enabled": true
   },
   "60013": {
-    "OriginalText": "ＨＰが１０％似上で\n戦闘不能となるダメージを受けたとき\n３０％の確率でＨＰが１残ることがある。",
+    "OriginalText": "ＨＰが１０％以上で\n戦闘不能となるダメージを受けたとき\n３０％の確率でＨＰが１残ることがある。",
     "Text": "When HP is 10% or lower, 30% chance to\nsurvive with 1 HP when receiving damage\nthat would incapacitate you.",
     "Enabled": true
   },
@@ -1405,22 +1405,22 @@
     "Enabled": true
   },
   "60020": {
-    "OriginalText": "ソードの伝備が可能になる。",
+    "OriginalText": "ソードの装備が可能になる。",
     "Text": "Allows the use of Swords.",
     "Enabled": true
   },
   "60021": {
-    "OriginalText": "パルチザンの伝備が可能になる。",
+    "OriginalText": "パルチザンの装備が可能になる。",
     "Text": "Allows the use of Partizans.",
     "Enabled": true
   },
   "60022": {
-    "OriginalText": "ダブルセイバーの伝備が可能になる。",
+    "OriginalText": "ダブルセイバーの装備が可能になる。",
     "Text": "Allows the use of Double Sabers.",
     "Enabled": true
   },
   "60023": {
-    "OriginalText": "ナックルの伝備が可能になる。",
+    "OriginalText": "ナックルの装備が可能になる。",
     "Text": "Allows the use of Knuckles.",
     "Enabled": true
   },
@@ -1430,12 +1430,12 @@
     "Enabled": true
   },
   "60025": {
-    "OriginalText": "ＨＰが５０％似下になったとき、\n自動でメイト系アイテムを使用する。",
+    "OriginalText": "ＨＰが５０％以下になったとき、\n自動でメイト系アイテムを使用する。",
     "Text": "When HP is 50% or below, automatically\nuse a mate item on yourself.",
     "Enabled": true
   },
   "60026": {
-    "OriginalText": "ナックル伝備時のみ有効な\n攻撃を回避する武器アクション。",
+    "OriginalText": "ナックル装備時のみ有効な\n攻撃を回避する武器アクション。",
     "Text": "Lets you perform the Sway motion with\nKnuckles.",
     "Enabled": true
   },
@@ -1475,7 +1475,7 @@
     "Enabled": true
   },
   "60034": {
-    "OriginalText": "ＨＰが１０％似上で\n戦闘不能となるダメージを受けたとき、\n５０％の確率でＨＰが１残ることがある。",
+    "OriginalText": "ＨＰが１０％以上で\n戦闘不能となるダメージを受けたとき、\n５０％の確率でＨＰが１残ることがある。",
     "Text": "When HP is 10% or lower, 50% chance to\nsurvive with 1 HP when receiving damage\nthat would incapacitate you.",
     "Enabled": true
   },
@@ -1495,7 +1495,7 @@
     "Enabled": true
   },
   "60038": {
-    "OriginalText": "一定時間、ダメージを受けたとき\n玄け反らなくなる。\n[a 03]※アクティブスキルは同時に２つまで発動可[b]",
+    "OriginalText": "一定時間、ダメージを受けたとき\n仰け反らなくなる。\n[a 03]※アクティブスキルは同時に２つまで発動可[b]",
     "Text": "For a period of time, prevent knockback\ndamage.\n[a 03]＊Up to 2 actives at the same time.[b]",
     "Enabled": true
   },
@@ -1600,7 +1600,7 @@
     "Enabled": true
   },
   "60068": {
-    "OriginalText": "飛び込むような鑽動で短距離を素早く\n移動する。「ミラージュエスケープ」\n「ステップ」と同時セット不可。",
+    "OriginalText": "飛び込むような挙動で短距離を素早く\n移動する。「ミラージュエスケープ」\n「ステップ」と同時セット不可。",
     "Text": "Allows Dive Rolls to be used. However,\nit can not be set at the same time with\nMirage Escape and Step.",
     "Enabled": true
   },
@@ -1620,17 +1620,17 @@
     "Enabled": true
   },
   "60072": {
-    "OriginalText": "アサルトライフルの伝備が\n可能になる。",
+    "OriginalText": "アサルトライフルの装備が\n可能になる。",
     "Text": "Allows the use of Assault Rifles.",
     "Enabled": true
   },
   "60073": {
-    "OriginalText": "ツインマシンガンの伝備が\n可能になる。",
+    "OriginalText": "ツインマシンガンの装備が\n可能になる。",
     "Text": "Allows the use of Twin Machineguns.",
     "Enabled": true
   },
   "60074": {
-    "OriginalText": "ツインマシンガン伝備時のみ有効な\n攻撃を回避する武器アクション。",
+    "OriginalText": "ツインマシンガン装備時のみ有効な\n攻撃を回避する武器アクション。",
     "Text": "Allows Stylish Rolls to be used with\nTwin Machineguns only.",
     "Enabled": true
   },
@@ -1690,7 +1690,7 @@
     "Enabled": true
   },
   "60086": {
-    "OriginalText": "ＨＰが３５％似下になったとき、\n自動でメイト系アイテムを使用する。",
+    "OriginalText": "ＨＰが３５％以下になったとき、\n自動でメイト系アイテムを使用する。",
     "Text": "When HP is 35% or below, automatically\nuse a mate item on yourself.",
     "Enabled": true
   },
@@ -1765,7 +1765,7 @@
     "Enabled": true
   },
   "60108": {
-    "OriginalText": "劇属性テクニックのダメージが\n１０％上昇する。",
+    "OriginalText": "氷属性テクニックのダメージが\n１０％上昇する。",
     "Text": "Increases the power of Ice techs by\n10%.",
     "Enabled": true
   },
@@ -1795,7 +1795,7 @@
     "Enabled": true
   },
   "60114": {
-    "OriginalText": "攻撃がヒットしたエネミーの\n劇耐性がダウンする。",
+    "OriginalText": "攻撃がヒットしたエネミーの\n氷耐性がダウンする。",
     "Text": "Attacks lower the enemy's Ice\nresistance.",
     "Enabled": true
   },
@@ -1825,17 +1825,17 @@
     "Enabled": true
   },
   "60120": {
-    "OriginalText": "ロッドの伝備が可能になる。",
+    "OriginalText": "ロッドの装備が可能になる。",
     "Text": "Allows the use of Rods.",
     "Enabled": true
   },
   "60121": {
-    "OriginalText": "タリスの伝備が可能になる。",
+    "OriginalText": "タリスの装備が可能になる。",
     "Text": "Allows the use of Talises.",
     "Enabled": true
   },
   "60122": {
-    "OriginalText": "ウォンドの伝備が可能になる。",
+    "OriginalText": "ウォンドの装備が可能になる。",
     "Text": "Allows the use of Wands.",
     "Enabled": true
   },
@@ -1890,7 +1890,7 @@
     "Enabled": true
   },
   "60133": {
-    "OriginalText": "一定時間、武器に劇属性を付与し、\nさらにダメージが３０％上昇する。\n[a 03]※アクティブスキルは同時に２つまで発動可[b]",
+    "OriginalText": "一定時間、武器に氷属性を付与し、\nさらにダメージが３０％上昇する。\n[a 03]※アクティブスキルは同時に２つまで発動可[b]",
     "Text": "Adds Ice attribute to weapon and\nincreases damage by 30% for a limited time.\n[a 03]＊Up to 2 actives at the same time.[b]",
     "Enabled": true
   },
@@ -1970,7 +1970,7 @@
     "Enabled": true
   },
   "60158": {
-    "OriginalText": "ＧＰが５０％似下になったとき、\n打撃力と射撃力が２０％上昇する。",
+    "OriginalText": "ＧＰが５０％以下になったとき、\n打撃力と射撃力が２０％上昇する。",
     "Text": "Raises S-ATK and R-ATK by 20% when GP is\nat 50% or lower.",
     "Enabled": true
   },
@@ -2000,12 +2000,12 @@
     "Enabled": true
   },
   "60164": {
-    "OriginalText": "テクニックのチャージ時間を半分に短温する\n代わりにダメージが２０％低下する。",
+    "OriginalText": "テクニックのチャージ時間を半分に短縮する\n代わりにダメージが２０％低下する。",
     "Text": "Reduces charged casting times while\nlowering Tech damage by 20%.",
     "Enabled": true
   },
   "60165": {
-    "OriginalText": "吹き飛ばされてダウンしたときに\nジャンプ燥作で素早く起き上がることができる。",
+    "OriginalText": "吹き飛ばされてダウンしたときに\nジャンプ操作で素早く起き上がることができる。",
     "Text": "Press the Jump button to quickly get\nback up when knocked down.",
     "Enabled": true
   },
@@ -2015,12 +2015,12 @@
     "Enabled": true
   },
   "60167": {
-    "OriginalText": "パイル伝備時に、\nダメージの振れ幅が小さくなり\nダメージが安定しやすくなる。",
+    "OriginalText": "パイル装備時に、\nダメージの振れ幅が小さくなり\nダメージが安定しやすくなる。",
     "Text": "Increases the power of Piles.",
     "Enabled": true
   },
   "60168": {
-    "OriginalText": "ヘイロウ伝備時に、\nダメージの振れ幅が小さくなり\nダメージが安定しやすくなる。",
+    "OriginalText": "ヘイロウ装備時に、\nダメージの振れ幅が小さくなり\nダメージが安定しやすくなる。",
     "Text": "Increases the power of Halos.",
     "Enabled": true
   },
@@ -2045,17 +2045,17 @@
     "Enabled": true
   },
   "60173": {
-    "OriginalText": "パイルの伝備が可能になる。",
+    "OriginalText": "パイルの装備が可能になる。",
     "Text": "Allows the use of Piles.",
     "Enabled": true
   },
   "60174": {
-    "OriginalText": "ヘイロウの伝備が可能になる。",
+    "OriginalText": "ヘイロウの装備が可能になる。",
     "Text": "Allows the use of Halos.",
     "Enabled": true
   },
   "60175": {
-    "OriginalText": "ＨＰが５０％似下になったとき\n打撃力・射撃力・法撃力が\n１０００上昇する。",
+    "OriginalText": "ＨＰが５０％以下になったとき\n打撃力・射撃力・法撃力が\n１０００上昇する。",
     "Text": "When HP is 50% or lower, S-ATK, R-ATK\nand T-ATK are increased by 1000.",
     "Enabled": true
   },
@@ -2110,7 +2110,7 @@
     "Enabled": true
   },
   "60186": {
-    "OriginalText": "一定時間、テクニックのチャージを大幅に短温、\n代わりに、バーストゲージが貯まらなくなる。\n[a 03]※アクティブスキルは同時に２つまで発動可[b]",
+    "OriginalText": "一定時間、テクニックのチャージを大幅に短縮、\n代わりに、バーストゲージが貯まらなくなる。\n[a 03]※アクティブスキルは同時に２つまで発動可[b]",
     "Text": "Charge time for Techniques is\nsignificantly decreased for a limited\ntime.\n[a 03]＊Up to 2 actives at the same time.[b]",
     "Enabled": true
   },
@@ -2140,7 +2140,7 @@
     "Enabled": true
   },
   "60192": {
-    "OriginalText": "ＨＰが２５％似下になったとき\n打撃力・射撃力・法撃力が\n５０００上昇する。",
+    "OriginalText": "ＨＰが２５％以下になったとき\n打撃力・射撃力・法撃力が\n５０００上昇する。",
     "Text": "When HP is 25% or lower, S-ATK, R-ATK\nand T-ATK are increased by 5000.",
     "Enabled": true
   },
@@ -2195,7 +2195,7 @@
     "Enabled": true
   },
   "60209": {
-    "OriginalText": "最大ＨＰに対して１０％未既の\nダメージを受けたとき、\n玄け反らなくなる。",
+    "OriginalText": "最大ＨＰに対して１０％未満の\nダメージを受けたとき、\n仰け反らなくなる。",
     "Text": "Prevents flinching when receiving\ndamage that's 10% or less than your max\nHP.",
     "Enabled": true
   },
@@ -2235,7 +2235,7 @@
     "Enabled": true
   },
   "60217": {
-    "OriginalText": "残ＨＰが一定量似下になると\n法撃力が上昇する。",
+    "OriginalText": "残ＨＰが一定量以下になると\n法撃力が上昇する。",
     "Text": "Increase T-ATK while decreasing your max\nHP for a limited time.",
     "Enabled": true
   },
@@ -2245,47 +2245,47 @@
     "Enabled": true
   },
   "60219": {
-    "OriginalText": "ソード伝備時に、\nダメージの振れ幅が小さくなり\nダメージが安定しやすくなる。",
+    "OriginalText": "ソード装備時に、\nダメージの振れ幅が小さくなり\nダメージが安定しやすくなる。",
     "Text": "Decreases the damage spread of Swords,\nmaking their damage more consistent.",
     "Enabled": true
   },
   "60220": {
-    "OriginalText": "パルチザン伝備時に、\nダメージの振れ幅が小さくなり\nダメージが安定しやすくなる。",
+    "OriginalText": "パルチザン装備時に、\nダメージの振れ幅が小さくなり\nダメージが安定しやすくなる。",
     "Text": "Decreases the damage spread of\nPartizans, making their damage more\nconsistent.",
     "Enabled": true
   },
   "60221": {
-    "OriginalText": "ダブルセイバー伝備時に、\nダメージの振れ幅が小さくなり\nダメージが安定しやすくなる。",
+    "OriginalText": "ダブルセイバー装備時に、\nダメージの振れ幅が小さくなり\nダメージが安定しやすくなる。",
     "Text": "Decreases the damage spread of Double\nSabers, making their damage more\nconsistent.",
     "Enabled": true
   },
   "60222": {
-    "OriginalText": "アサルトライフル伝備時に、\nダメージの振れ幅が小さくなり\nダメージが安定しやすくなる。",
+    "OriginalText": "アサルトライフル装備時に、\nダメージの振れ幅が小さくなり\nダメージが安定しやすくなる。",
     "Text": "Decreases the damage spread of Assault\nRifles, making their damage more\nconsistent.",
     "Enabled": true
   },
   "60223": {
-    "OriginalText": "ツインマシンガン伝備時に、\nダメージの振れ幅が小さくなり\nダメージが安定しやすくなる。",
+    "OriginalText": "ツインマシンガン装備時に、\nダメージの振れ幅が小さくなり\nダメージが安定しやすくなる。",
     "Text": "Decreases the damage spread of Twin\nMachineguns, making their damage more\nconsistent.",
     "Enabled": true
   },
   "60224": {
-    "OriginalText": "ロッド伝備時に、\nダメージの振れ幅が小さくなり\nダメージが安定しやすくなる。",
+    "OriginalText": "ロッド装備時に、\nダメージの振れ幅が小さくなり\nダメージが安定しやすくなる。",
     "Text": "Decreases the damage spread of Rods,\nmaking their damage more consistent.",
     "Enabled": true
   },
   "60225": {
-    "OriginalText": "タリス伝備時に、\nダメージの振れ幅が小さくなり\nダメージが安定しやすくなる。",
+    "OriginalText": "タリス装備時に、\nダメージの振れ幅が小さくなり\nダメージが安定しやすくなる。",
     "Text": "Decreases the damage spread of Talis,\nmaking their damage more consistent.",
     "Enabled": true
   },
   "60226": {
-    "OriginalText": "ウォンド伝備時に、\nダメージの振れ幅が小さくなり\nダメージが安定しやすくなる。",
+    "OriginalText": "ウォンド装備時に、\nダメージの振れ幅が小さくなり\nダメージが安定しやすくなる。",
     "Text": "Decreases the damage spread of Wands,\nmaking their damage more consistent.",
     "Enabled": true
   },
   "60227": {
-    "OriginalText": "残ＨＰが一定量似下になると\n法撃力が上昇する。",
+    "OriginalText": "残ＨＰが一定量以下になると\n法撃力が上昇する。",
     "Text": "Increase T-ATK while decreasing your max\nHP for a limited time.",
     "Enabled": true
   },
@@ -2300,7 +2300,7 @@
     "Enabled": true
   },
   "60230": {
-    "OriginalText": "２５％の確率で\n劇属性ダメージを軽滅する。",
+    "OriginalText": "２５％の確率で\n氷属性ダメージを軽滅する。",
     "Text": "25% chance to reduce Ice damage.",
     "Enabled": true
   },
@@ -2375,7 +2375,7 @@
     "Enabled": true
   },
   "60245": {
-    "OriginalText": "ナックル伝備時に、\nダメージの振れ幅が小さくなり\nダメージが安定しやすくなる。",
+    "OriginalText": "ナックル装備時に、\nダメージの振れ幅が小さくなり\nダメージが安定しやすくなる。",
     "Text": "Decreases the damage spread of Knuckles,\nmaking their damage more consistent.",
     "Enabled": true
   },
@@ -2390,7 +2390,7 @@
     "Enabled": true
   },
   "60248": {
-    "OriginalText": "アクティブスキルのリキャスト時間を\n一定時間短温する。",
+    "OriginalText": "アクティブスキルのリキャスト時間を\n一定時間短縮する。    ",
     "Text": "Reduces recast times for Active Skills.",
     "Enabled": true
   },
@@ -2440,57 +2440,57 @@
     "Enabled": false
   },
   "60258": {
-    "OriginalText": "ソード伝備時に\nダメージが８０％上昇し、\nクリティカルヒット確率が５％上昇する。",
+    "OriginalText": "ソード装備時に\nダメージが８０％上昇し、\nクリティカルヒット確率が５％上昇する。",
     "Text": "Sword damage is increased by 80%.\nCritical hit rate increased by 5%.",
     "Enabled": true
   },
   "60259": {
-    "OriginalText": "パルチザン伝備時に\nダメージが８０％上昇し、\n敵をバインドにする確率が５０％上昇する。",
+    "OriginalText": "パルチザン装備時に\nダメージが８０％上昇し、\n敵をバインドにする確率が５０％上昇する。",
     "Text": "Partizan damage is increased by 80%.\nBind infliction rate increased by 50%.",
     "Enabled": true
   },
   "60260": {
-    "OriginalText": "ダブルセイバー伝備時に\nダメージが８０％上昇し、\nダメージを受けたとき玄け反らなくなる。",
+    "OriginalText": "ダブルセイバー装備時に\nダメージが８０％上昇し、\nダメージを受けたとき仰け反らなくなる。",
     "Text": "Double Saber damage is increased by 80%.\nIncreased damage when taking damage.",
     "Enabled": true
   },
   "60261": {
-    "OriginalText": "ナックル伝備時に\nダメージが８０％上昇し、\nクリティカルヒット確率が５％上昇する。",
+    "OriginalText": "ナックル装備時に\nダメージが８０％上昇し、\nクリティカルヒット確率が５％上昇する。",
     "Text": "Knuckle damage is increased by 80%.\nCritical hit rate increased by 5%.",
     "Enabled": true
   },
   "60262": {
-    "OriginalText": "アサルトライフル伝備時に\nダメージが８０％上昇し、\n敵をインフェクションにする確率が５０％上昇する。",
+    "OriginalText": "アサルトライフル装備時に\nダメージが８０％上昇し、\n敵をインフェクションにする確率が５０％上昇する。",
     "Text": "Assault Rifle damage is increased by\n80%. Infection infliction rate increased\nby 50%.",
     "Enabled": true
   },
   "60263": {
-    "OriginalText": "ツインマシンガン伝備時に\nダメージが８０％上昇し、\n通常攻撃のＧＰ回復量が１００％増加する。",
+    "OriginalText": "ツインマシンガン装備時に\nダメージが８０％上昇し、\n通常攻撃のＧＰ回復量が１００％増加する。",
     "Text": "Twin Machinegun damage is increased by\n80%. GP recovery amount with normal\nattacks increased by 100%.",
     "Enabled": true
   },
   "60264": {
-    "OriginalText": "ロッド伝備時に\nダメージが８０％上昇し、\n法撃力が１００上昇する。",
+    "OriginalText": "ロッド装備時に\nダメージが８０％上昇し、\n法撃力が１００上昇する。",
     "Text": "Rod damage is increased by 80%. T-ATK\nincreased by 100.",
     "Enabled": true
   },
   "60265": {
-    "OriginalText": "タリス伝備時に\nダメージが８０％上昇し、\n攻撃がヒットした敵の全耐性がダウンする。",
+    "OriginalText": "タリス装備時に\nダメージが８０％上昇し、\n攻撃がヒットした敵の全耐性がダウンする。",
     "Text": "Talis damage is increased by 80%. All\nresistances of hit enemies are lowered.",
     "Enabled": true
   },
   "60266": {
-    "OriginalText": "ウォンド伝備時に\nダメージが８０％上昇し、\nダメージを受けたとき玄け反らなくなる。",
+    "OriginalText": "ウォンド装備時に\nダメージが８０％上昇し、\nダメージを受けたとき仰け反らなくなる。",
     "Text": "Wand damage is increased by 80%.\nIncreased damage when taking damage.",
     "Enabled": true
   },
   "60267": {
-    "OriginalText": "パイル伝備時に\n打撃力・射撃力・法撃力が\n４０％上昇する。",
+    "OriginalText": "パイル装備時に\n打撃力・射撃力・法撃力が\n４０％上昇する。",
     "Text": "S-ATK, R-ATK and T-ATK increased by 40%.",
     "Enabled": true
   },
   "60268": {
-    "OriginalText": "ヘイロウ伝備時に\nダメージが８０％上昇し、\n敵に狙われにくくなる。",
+    "OriginalText": "ヘイロウ装備時に\nダメージが８０％上昇し、\n敵に狙われにくくなる。",
     "Text": "Halo damage is increased by 80%. Enemy\nhate decreased.",
     "Enabled": true
   },

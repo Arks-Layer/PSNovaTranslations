@@ -15,22 +15,22 @@
     "Enabled": true
   },
   "170003": {
-    "OriginalText": "伝備を変更するパレットを選び、スキルボードを割り当てます。",
+    "OriginalText": "装備を変更するパレットを選び、スキルボードを割り当てます。",
     "Text": "Select a palette to change loadout or assign a skill board.",
     "Enabled": true
   },
   "170004": {
-    "OriginalText": "伝備を変更するカテゴリを選択します。",
+    "OriginalText": "装備を変更するカテゴリを選択します。",
     "Text": "Select a category of the loadout you want to change.",
     "Enabled": true
   },
   "170005": {
-    "OriginalText": "伝備を変更するパレットを選択します。",
+    "OriginalText": "装備を変更するパレットを選択します。",
     "Text": "Select a palette of the loadout you want to change.",
     "Enabled": true
   },
   "170006": {
-    "OriginalText": "伝備する武器を選択します。",
+    "OriginalText": "装備する武器を選択します。",
     "Text": "Select a weapon you want to equip.",
     "Enabled": true
   },
@@ -70,7 +70,7 @@
     "Enabled": true
   },
   "170014": {
-    "OriginalText": "伝備するシールドユニットを選択します。",
+    "OriginalText": "装備するシールドユニットを選択します。",
     "Text": "Select a shield unit you want to equip.",
     "Enabled": true
   },
@@ -145,7 +145,7 @@
     "Enabled": true
   },
   "170029": {
-    "OriginalText": "燥作設定を変更します。",
+    "OriginalText": "操作設定を変更します。",
     "Text": "Change button function settings.",
     "Enabled": true
   },
@@ -155,12 +155,12 @@
     "Enabled": true
   },
   "170031": {
-    "OriginalText": "カメラの燥作方法を変更します。",
+    "OriginalText": "カメラの操作方法を変更します。",
     "Text": "Change camera control settings.",
     "Enabled": true
   },
   "170032": {
-    "OriginalText": "カメラの燥作方法を変更します。",
+    "OriginalText": "カメラの操作方法を変更します。",
     "Text": "Change camera control settings.",
     "Enabled": true
   },
@@ -390,7 +390,7 @@
     "Enabled": true
   },
   "170078": {
-    "OriginalText": "受けるクエストがある地路を選択します。★",
+    "OriginalText": "受けるクエストがある地区を選択します。★",
     "Text": "Select the region of the quest to receive.★",
     "Enabled": true
   },
@@ -975,12 +975,12 @@
     "Enabled": true
   },
   "170195": {
-    "OriginalText": "ヘイロウの燥作を説明した動画を再生します。",
+    "OriginalText": "ヘイロウの操作を説明した動画を再生します。",
     "Text": "Replay video explaining Halo functions.",
     "Enabled": true
   },
   "170196": {
-    "OriginalText": "パイルの燥作を説明した動画を再生します。",
+    "OriginalText": "パイルの操作を説明した動画を再生します。",
     "Text": "Replay video explaining Pile functions.",
     "Enabled": true
   },
@@ -1010,22 +1010,22 @@
     "Enabled": true
   },
   "170202": {
-    "OriginalText": "バトルの燥作を学べるモードです。",
+    "OriginalText": "バトルの操作を学べるモードです。",
     "Text": "Tutorial mode for battle functions.",
     "Enabled": true
   },
   "170203": {
-    "OriginalText": "燥作方法の設定やサウンドセッティングを行います。",
+    "OriginalText": "操作方法の設定やサウンドセッティングを行います。",
     "Text": "Change Button and Sound settings.",
     "Enabled": true
   },
   "170204": {
-    "OriginalText": "バトル時の基本燥作をプレイしながら学べます。",
+    "OriginalText": "バトル時の基本操作をプレイしながら学べます。",
     "Text": "Learn playing basics during battle.",
     "Enabled": true
   },
   "170205": {
-    "OriginalText": "ギガンテスとのバトル時の燥作を学べます。",
+    "OriginalText": "ギガンテスとのバトル時の操作を学べます。",
     "Text": "Learn the basics in Gigantes Battle.",
     "Enabled": true
   },

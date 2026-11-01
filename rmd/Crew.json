@@ -185,17 +185,17 @@
     "Enabled": true
   },
   "650010": {
-    "OriginalText": "最先端ファッションを身に纏うクルー。\n拠点や戦闘の華として活躍する。\n不時着時の衝撃により、伝備の損傷が\n撃しかったため、新調しているクルーもいる。",
+    "OriginalText": "最先端ファッションを身に纏うクルー。\n拠点や戦闘の華として活躍する。\n不時着時の衝撃により、装備の損傷が\n激しかったため、新調しているクルーもいる。",
     "Text": "Crew with a cutting-edge\nfashion. Active in base and\nbattle. Renewed crew with\nrepaired equipment.",
     "Enabled": true
   },
   "650011": {
-    "OriginalText": "各技術に特化した職人肌のスペシャリスト。\n拠点運営を強力にサポートしてくれる。\n不時着時の衝撃により、伝備の損傷が\n撃しかったため、新調しているクルーもいる。",
+    "OriginalText": "各技術に特化した職人肌のスペシャリスト。\n拠点運営を強力にサポートしてくれる。\n不時着時の衝撃により、装備の損傷が\n激しかったため、新調しているクルーもいる。",
     "Text": "Technology specialist. Excels\nin base management support.\nRenewed crew with repaired\nequipment.",
     "Enabled": true
   },
   "650012": {
-    "OriginalText": "アークス内でも有名な歴戦の戦土。\n戦場で立ちはだかる敵を一掃してくれる。\n不時着時の衝撃により、伝備の損傷が\n撃しかったため、新調しているクルーもいる。",
+    "OriginalText": "アークス内でも有名な歴戦の戦土。\n戦場で立ちはだかる敵を一掃してくれる。\n不時着時の衝撃により、装備の損傷が\n激しかったため、新調しているクルーもいる。",
     "Text": "ARKS veteran and famous.\nSweeps enemies in battle.\nRenewed crew with repaired\nequipment.",
     "Enabled": true
   },
@@ -210,7 +210,7 @@
     "Enabled": true
   },
   "650015": {
-    "OriginalText": "様々な思いを残し、この地を去った者たちの残滓。\n彼らの思いに耳を毛けるのもいいだろう。\n[a 03]※このカプセルのキャラは拠点配置不可[b]",
+    "OriginalText": "様々な思いを残し、この地を去った者たちの残滓。\n彼らの思いに耳を傾けるのもいいだろう。\n[a 03]※このカプセルのキャラは拠点配置不可[b]",
     "Text": "Remnants of those who left,\nthat left many thoughts.\n[a 03]※Characters from this capsule\ncan't be placed in the base.[b]",
     "Enabled": true
   },

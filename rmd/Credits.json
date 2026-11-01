@@ -45,7 +45,7 @@
     "Enabled": true
   },
   "750009": {
-    "OriginalText": "沢錯 みゆき",
+    "OriginalText": "沢城 みゆき",
     "Text": "",
     "Enabled": false
   },
@@ -55,7 +55,7 @@
     "Enabled": true
   },
   "750011": {
-    "OriginalText": "早見 闊織",
+    "OriginalText": "早見 沙織",
     "Text": "",
     "Enabled": false
   },
@@ -65,7 +65,7 @@
     "Enabled": true
   },
   "750013": {
-    "OriginalText": "弔川 大輔",
+    "OriginalText": "浪川 大輔",
     "Text": "",
     "Enabled": false
   },
@@ -145,7 +145,7 @@
     "Enabled": true
   },
   "750029": {
-    "OriginalText": "大塚 灸忠",
+    "OriginalText": "大塚 芳忠",
     "Text": "",
     "Enabled": false
   },
@@ -160,7 +160,7 @@
     "Enabled": false
   },
   "750032": {
-    "OriginalText": "池水 通海",
+    "OriginalText": "池水 通洋",
     "Text": "",
     "Enabled": false
   },
@@ -170,7 +170,7 @@
     "Enabled": false
   },
   "750034": {
-    "OriginalText": "江川 臨生",
+    "OriginalText": "江川 央生",
     "Text": "",
     "Enabled": false
   },
@@ -180,7 +180,7 @@
     "Enabled": false
   },
   "750036": {
-    "OriginalText": "置鮎 模太郎",
+    "OriginalText": "置鮎 龍太郎",
     "Text": "",
     "Enabled": false
   },
@@ -235,7 +235,7 @@
     "Enabled": false
   },
   "750047": {
-    "OriginalText": "白石 醸子",
+    "OriginalText": "白石 涼子",
     "Text": "",
     "Enabled": false
   },
@@ -250,7 +250,7 @@
     "Enabled": false
   },
   "750050": {
-    "OriginalText": "爬田 美波",
+    "OriginalText": "津田 美波",
     "Text": "",
     "Enabled": false
   },
@@ -275,7 +275,7 @@
     "Enabled": false
   },
   "750055": {
-    "OriginalText": "三上 袋織",
+    "OriginalText": "三上 枝織",
     "Text": "",
     "Enabled": false
   },
@@ -485,7 +485,7 @@
     "Enabled": false
   },
   "751038": {
-    "OriginalText": "宇野 醸平",
+    "OriginalText": "宇野 涼平",
     "Text": "",
     "Enabled": false
   },
@@ -685,7 +685,7 @@
     "Enabled": false
   },
   "752030": {
-    "OriginalText": "高田 紛",
+    "OriginalText": "高田 咲",
     "Text": "",
     "Enabled": false
   },
@@ -705,7 +705,7 @@
     "Enabled": false
   },
   "752034": {
-    "OriginalText": "鳥酒 達郎",
+    "OriginalText": "鳥飼 達郎",
     "Text": "",
     "Enabled": false
   },
@@ -720,7 +720,7 @@
     "Enabled": false
   },
   "752037": {
-    "OriginalText": "涼谷 泰彦",
+    "OriginalText": "渋谷 泰彦",
     "Text": "",
     "Enabled": false
   },
@@ -855,7 +855,7 @@
     "Enabled": false
   },
   "752064": {
-    "OriginalText": "金倉 傾一",
+    "OriginalText": "金倉 賢一",
     "Text": "",
     "Enabled": false
   },
@@ -920,7 +920,7 @@
     "Enabled": false
   },
   "752077": {
-    "OriginalText": "産老沢 剛",
+    "OriginalText": "海老沢 剛",
     "Text": "",
     "Enabled": false
   },
@@ -1005,7 +1005,7 @@
     "Enabled": false
   },
   "752094": {
-    "OriginalText": "中島 董人",
+    "OriginalText": "中島 逸人",
     "Text": "",
     "Enabled": false
   },
@@ -1090,7 +1090,7 @@
     "Enabled": false
   },
   "752111": {
-    "OriginalText": "霜野 模之介",
+    "OriginalText": "布野 龍之介",
     "Text": "",
     "Enabled": false
   },
@@ -1245,7 +1245,7 @@
     "Enabled": false
   },
   "752142": {
-    "OriginalText": "佐藤 径盟",
+    "OriginalText": "佐藤 孔盟",
     "Text": "",
     "Enabled": false
   },
@@ -1285,7 +1285,7 @@
     "Enabled": false
   },
   "752150": {
-    "OriginalText": "栗原 茎",
+    "OriginalText": "栗原 滋",
     "Text": "",
     "Enabled": false
   },
@@ -1310,7 +1310,7 @@
     "Enabled": false
   },
   "752155": {
-    "OriginalText": "佐藤 柘朗",
+    "OriginalText": "佐藤 拓朗",
     "Text": "",
     "Enabled": false
   },
@@ -1340,7 +1340,7 @@
     "Enabled": false
   },
   "752161": {
-    "OriginalText": "尻久保 啓之",
+    "OriginalText": "米久保 啓之",
     "Text": "",
     "Enabled": false
   },
@@ -1385,7 +1385,7 @@
     "Enabled": false
   },
   "752170": {
-    "OriginalText": "青木 灸憲",
+    "OriginalText": "青木 芳憲",
     "Text": "",
     "Enabled": false
   },
@@ -1395,7 +1395,7 @@
     "Enabled": false
   },
   "752172": {
-    "OriginalText": "唾橋 麻奈",
+    "OriginalText": "棚橋 麻奈",
     "Text": "",
     "Enabled": false
   },
@@ -1440,12 +1440,12 @@
     "Enabled": false
   },
   "752181": {
-    "OriginalText": "Ｌｉｃｅｎｓｅ ｆｏｒ Ｌｕａ ５₡０ ａｎｄ Ｉａｔｅｒ ｖｅｒｓｉｏｎｓ",
+    "OriginalText": "Ｌｉｃｅｎｓｅ ｆｏｒ Ｌｕａ ５.０ ａｎｄ Ｉａｔｅｒ ｖｅｒｓｉｏｎｓ",
     "Text": "",
     "Enabled": false
   },
   "752182": {
-    "OriginalText": "Ｃｏｐｙｒｉｇｈｔ © １９９４£２０１４ Ｌｕａ₡ｏｒｇ， ＰＵＣ₱Ｒｉｏ₡",
+    "OriginalText": "Ｃｏｐｙｒｉｇｈｔ © １９９４-２０１４ Ｌｕａ.ｏｒｇ， ＰＵＣ-Ｒｉｏ.",
     "Text": "",
     "Enabled": false
   },
@@ -1560,7 +1560,7 @@
     "Enabled": false
   },
   "753014": {
-    "OriginalText": "横井 模一郎",
+    "OriginalText": "横井 龍一郎",
     "Text": "",
     "Enabled": false
   },
@@ -1670,7 +1670,7 @@
     "Enabled": false
   },
   "753036": {
-    "OriginalText": "株式会社 活源座",
+    "OriginalText": "株式会社 活劇座",
     "Text": "",
     "Enabled": false
   },
@@ -1795,7 +1795,7 @@
     "Enabled": false
   },
   "753061": {
-    "OriginalText": "世嘉(上産）軟件 有限公司",
+    "OriginalText": "世嘉(上海）軟件 有限公司",
     "Text": "",
     "Enabled": false
   },
@@ -2000,7 +2000,7 @@
     "Enabled": false
   },
   "753102": {
-    "OriginalText": "演猶",
+    "OriginalText": "演奏",
     "Text": "",
     "Enabled": false
   },
@@ -2060,7 +2060,7 @@
     "Enabled": false
   },
   "753114": {
-    "OriginalText": "鹿討 猶",
+    "OriginalText": "鹿討 奏",
     "Text": "",
     "Enabled": false
   },
@@ -2070,7 +2070,7 @@
     "Enabled": false
   },
   "753116": {
-    "OriginalText": "山錯 純子",
+    "OriginalText": "山城 純子",
     "Text": "",
     "Enabled": false
   },
@@ -2095,7 +2095,7 @@
     "Enabled": false
   },
   "753121": {
-    "OriginalText": "演猶 「スカボローフェア」",
+    "OriginalText": "演奏 「スカボローフェア」",
     "Text": "",
     "Enabled": false
   },
@@ -2125,7 +2125,7 @@
     "Enabled": false
   },
   "753127": {
-    "OriginalText": "融月 はるか",
+    "OriginalText": "霜月 はるか",
     "Text": "",
     "Enabled": false
   },
@@ -2160,7 +2160,7 @@
     "Enabled": false
   },
   "753134": {
-    "OriginalText": "中村 釜",
+    "OriginalText": "中村 貢",
     "Text": "",
     "Enabled": false
   },
@@ -2215,7 +2215,7 @@
     "Enabled": false
   },
   "753145": {
-    "OriginalText": "歌  ユノ（ＣＶ：早見 闊織）",
+    "OriginalText": "歌  ユノ（ＣＶ：早見 沙織）",
     "Text": "",
     "Enabled": false
   },
@@ -2315,7 +2315,7 @@
     "Enabled": false
   },
   "754012": {
-    "OriginalText": "淡贄 輝之",
+    "OriginalText": "淡路 輝之",
     "Text": "",
     "Enabled": false
   },
@@ -2330,7 +2330,7 @@
     "Enabled": false
   },
   "754015": {
-    "OriginalText": "今爬 晴夫",
+    "OriginalText": "今津 晴夫",
     "Text": "",
     "Enabled": false
   },
@@ -2400,7 +2400,7 @@
     "Enabled": false
   },
   "754029": {
-    "OriginalText": "竹内 柘",
+    "OriginalText": "竹内 拓",
     "Text": "",
     "Enabled": false
   },
@@ -2425,7 +2425,7 @@
     "Enabled": false
   },
   "754034": {
-    "OriginalText": "高橋 既",
+    "OriginalText": "高橋 満",
     "Text": "",
     "Enabled": false
   },
@@ -2525,7 +2525,7 @@
     "Enabled": false
   },
   "754054": {
-    "OriginalText": "新矢 柘未",
+    "OriginalText": "新矢 拓未",
     "Text": "",
     "Enabled": false
   },
@@ -2620,7 +2620,7 @@
     "Enabled": false
   },
   "754073": {
-    "OriginalText": "鳴産 善広",
+    "OriginalText": "鳴海 善広",
     "Text": "",
     "Enabled": false
   },
@@ -2660,7 +2660,7 @@
     "Enabled": false
   },
   "754081": {
-    "OriginalText": "牧野 闊南",
+    "OriginalText": "牧野 沙南",
     "Text": "",
     "Enabled": false
   },
@@ -2680,7 +2680,7 @@
     "Enabled": false
   },
   "754085": {
-    "OriginalText": "高橋 装二郎",
+    "OriginalText": "高橋 源二郎",
     "Text": "",
     "Enabled": false
   },
@@ -2730,7 +2730,7 @@
     "Enabled": false
   },
   "754096": {
-    "OriginalText": "名越 稔海",
+    "OriginalText": "名越 稔洋",
     "Text": "",
     "Enabled": false
   },

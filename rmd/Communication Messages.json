@@ -50,12 +50,12 @@
     "Enabled": true
   },
   "260085": {
-    "OriginalText": "艦長がコスチュームショップを\n作ってくれたよ。こんな不煽な[ruby ほし]惑星[/ruby]だと\n気分転換も必要だよね。",
+    "OriginalText": "艦長がコスチュームショップを\n作ってくれたよ。こんな不毛な[ruby ほし]惑星[/ruby]だと\n気分転換も必要だよね。",
     "Text": "I constructed a Costume Shop. It's\nuseful for a change of pace on the\nplanet, right?",
     "Enabled": true
   },
   "260086": {
-    "OriginalText": "艦長が防具ショップを作ってくれたぜ！\n敵の毛向に合わせてシールドユニットを\n変えてこそ、傾い戦土ってヤツだ。",
+    "OriginalText": "艦長が防具ショップを作ってくれたぜ！\n敵の傾向に合わせてシールドユニットを\n変えてこそ、賢い戦土ってヤツだ。",
     "Text": "I constructed a Shield Shop! You can now\nchange your shield unit depending on\nyour enemy in the battlefield.",
     "Enabled": true
   },
@@ -75,7 +75,7 @@
     "Enabled": true
   },
   "260090": {
-    "OriginalText": "クラスカウンターを作ったぞ！\nどんな状況であろうと、自分を研賢する\n心構えを忘れちゃいけないからな！",
+    "OriginalText": "クラスカウンターを作ったぞ！\nどんな状況であろうと、自分を研鑽する\n心構えを忘れちゃいけないからな！",
     "Text": "The Class Counter is constructed! In any\nsituation, don't forget to improve\nyourself to be more ready!",
     "Enabled": true
   },
@@ -90,7 +90,7 @@
     "Enabled": true
   },
   "260093": {
-    "OriginalText": "ん、アイテムの補充が欲しいのか？\nしょうがねえな、お前には苦労かけてるしな。\nでも、洋資にも限りがある。大事に使えよ！",
+    "OriginalText": "ん、アイテムの補充が欲しいのか？\nしょうがねえな、お前には苦労かけてるしな。\nでも、物資にも限りがある。大事に使えよ！",
     "Text": "Hm, want to replenish your items? Can't\nhelp using them when in trouble. Still, the\nresources are finite, so use carefully!",
     "Enabled": true
   },
@@ -775,7 +775,7 @@
     "Enabled": true
   },
   "260230": {
-    "OriginalText": "艦長の確認を要する事区あり。\n至急、ブリッジへ。",
+    "OriginalText": "艦長の確認を要する事項あり。\n至急、ブリッジへ。",
     "Text": "There is something that needs\nverification from the captain. Quickly,\nto the Bridge.",
     "Enabled": true
   },
@@ -920,7 +920,7 @@
     "Enabled": true
   },
   "261217": {
-    "OriginalText": "ジャッドバンサー出現を確認。\n撃破を要請するが、\n氷静な対処を求める。",
+    "OriginalText": "ジャッドバンサー出現を確認。\n撃破を要請するが、\n冷静な対処を求める。",
     "Text": "Jhad Banther appearance detected.\nRequesting subjugation, but deal with\nit calmly.",
     "Enabled": true
   },
@@ -935,12 +935,12 @@
     "Enabled": true
   },
   "261220": {
-    "OriginalText": "アルレイバンサー出現を確認。\n総力を鑽げて撃破を。",
+    "OriginalText": "アルレイバンサー出現を確認。\n総力を挙げて撃破を。",
     "Text": "Alray Banther appearance detected.\nDefeat it with all your might.",
     "Enabled": true
   },
   "261221": {
-    "OriginalText": "グルナバンサー出現を確認。\n一刻も早い挙圧を要請する。",
+    "OriginalText": "グルナバンサー出現を確認。\n一刻も早い鎮圧を要請する。",
     "Text": "Gluna Banther appearance detected.\nRequesting for immediate action.",
     "Enabled": true
   },
@@ -950,7 +950,7 @@
     "Enabled": true
   },
   "261223": {
-    "OriginalText": "テュルトアス出現を確認。\n鎮機応変に撃破作戦に移るよう。",
+    "OriginalText": "テュルトアス出現を確認。\n臨機応変に撃破作戦に移るよう。",
     "Text": "Tulletoas appearance detected.\nChanging to subjugation operation.",
     "Enabled": true
   },
@@ -985,7 +985,7 @@
     "Enabled": true
   },
   "261230": {
-    "OriginalText": "モストカーネベア出現を確認。\n冷力、慎重に撃破を完遂せよ。",
+    "OriginalText": "モストカーネベア出現を確認。\n極力、慎重に撃破を完遂せよ。",
     "Text": "Mossed Carnnebear appearance detected.\nComplete the subjugation carefully.",
     "Enabled": true
   },
@@ -995,7 +995,7 @@
     "Enabled": true
   },
   "261232": {
-    "OriginalText": "オルゴルドス出現を確認。\n総員、全力で撃破作戦に\n鎮むことを要請する。",
+    "OriginalText": "オルゴルドス出現を確認。\n総員、全力で撃破作戦に\n臨むことを要請する。",
     "Text": "Orgordes appearance detected.\nAll is requested for subjugation\noperation with all their might.",
     "Enabled": true
   },
@@ -1005,12 +1005,12 @@
     "Enabled": true
   },
   "261234": {
-    "OriginalText": "Ｇシャルレイダ出現を確認。\n周到な準備の上で撃破に鎮むよう。",
+    "OriginalText": "Ｇシャルレイダ出現を確認。\n周到な準備の上で撃破に臨むよう。",
     "Text": "G-Shalurayda appearance detected.\nDefeat it after careful preparation.",
     "Enabled": true
   },
   "261235": {
-    "OriginalText": "Ｇダーク・ラグネ出現を確認。\n怠りなく備えた上で撃破作戦に\n鎮むことを要請する。",
+    "OriginalText": "Ｇダーク・ラグネ出現を確認。\n怠りなく備えた上で撃破作戦に\n臨むことを要請する。",
     "Text": "G-Dark Ragne appearance detected.\nRequesting for a prepared and calm\nsubjugation operation.",
     "Enabled": true
   },
@@ -1050,7 +1050,7 @@
     "Enabled": true
   },
   "261244": {
-    "OriginalText": "グラヴディオン出現を確認。\n総力戦の覚悟で鎮むよう。",
+    "OriginalText": "グラヴディオン出現を確認。\n総力戦の覚悟で臨むよう。",
     "Text": "Gravdion appearance detected.\nPrepare for an all out battle ",
     "Enabled": true
   },
@@ -1070,17 +1070,17 @@
     "Enabled": true
   },
   "261248": {
-    "OriginalText": "７体連なるギュゲンテの侵攻を確認。\n中臨の主砲を破壊し拠点攻撃を阻止せよ。\n繰り返す、主砲を破壊せよ！",
+    "OriginalText": "７体連なるギュゲンテの侵攻を確認。\n中央の主砲を破壊し拠点攻撃を阻止せよ。\n繰り返す、主砲を破壊せよ！",
     "Text": "Invasion of 7-bodied Gygante detected.\nDestroy the one with the main gun to\nstop it from attacking the base. ",
     "Enabled": true
   },
   "261249": {
-    "OriginalText": "７体連なるリベルゲンテ侵攻を確認。\n中臨の主砲を破壊し撃破せよ。\n数発でも食らったら、拠点は持たないわ。",
+    "OriginalText": "７体連なるリベルゲンテ侵攻を確認。\n中央の主砲を破壊し撃破せよ。\n数発でも食らったら、拠点は持たないわ。",
     "Text": "Invasion of 7-bodied Libelgante detected.\nDisrupt the attack by destroying the\none with the main gun.",
     "Enabled": true
   },
   "261250": {
-    "OriginalText": "レイヴガイスト出現を確認。\n持てる力の限りを尽くし\n撃破に鎮むよう。",
+    "OriginalText": "レイヴガイスト出現を確認。\n持てる力の限りを尽くし\n撃破に臨むよう。",
     "Text": "Rave Geist appearance detected.\nDefeat it will all your strength.",
     "Enabled": true
   },
@@ -1095,7 +1095,7 @@
     "Enabled": true
   },
   "261254": {
-    "OriginalText": "グレイオス出現を確認。\n捕獲を要請する。\n冷力、標的を傷つけないように。",
+    "OriginalText": "グレイオス出現を確認。\n捕獲を要請する。\n極力、標的を傷つけないように。",
     "Text": "Greios appearance detected.\nRequesting for its capture.\nCareful not to injure the target.",
     "Enabled": true
   },
@@ -1120,7 +1120,7 @@
     "Enabled": true
   },
   "261259": {
-    "OriginalText": "ギガティオン出現を確認。\n捕獲を要請する。\nまた、標的の撃破を央ずる。",
+    "OriginalText": "ギガティオン出現を確認。\n捕獲を要請する。\nまた、標的の撃破を禁ずる。",
     "Text": "Gigation appearance detected.\nRequesting for its capture.\nAgain, you must not defeat it.",
     "Enabled": true
   },
@@ -1135,17 +1135,17 @@
     "Enabled": true
   },
   "261262": {
-    "OriginalText": "デェフキュオネ出現を確認。\n直ちに捕獲作戦に移るよう。\n撃破は央じる。",
+    "OriginalText": "デェフキュオネ出現を確認。\n直ちに捕獲作戦に移るよう。\n撃破は禁じる。",
     "Text": "Defcyone appearance detected.\nQuickly proceed to capture operation.\nYou must not defeat it.",
     "Enabled": true
   },
   "261263": {
-    "OriginalText": "エリア内に回収可能な洋資を確認。\n速やかに回収を要請する。",
+    "OriginalText": "エリア内に回収可能な物資を確認。\n速やかに回収を要請する。",
     "Text": "Resources that can be collected are\ndetected in the area. Requesting for\nimmediate collection.",
     "Enabled": true
   },
   "261264": {
-    "OriginalText": "洋資の回収を依頼する。\n途中で落としたら承知しないわよ。",
+    "OriginalText": "物資の回収を依頼する。\n途中で落としたら承知しないわよ。",
     "Text": "Requesting for retrieval of the resources.\nBe careful not to drop it on your way.",
     "Enabled": true
   },
@@ -1155,7 +1155,7 @@
     "Enabled": true
   },
   "261266": {
-    "OriginalText": "前方にエネミーを確認。\n撃破を要請する。ただし時間の禁予が\nないため制限時間内に完遂せよ。",
+    "OriginalText": "前方にエネミーを確認。\n撃破を要請する。ただし時間の猶予が\nないため制限時間内に完遂せよ。",
     "Text": "Enemy detected ahead.\nRequesting subjugation. However, complete\nit within the time limit.",
     "Enabled": true
   },
@@ -1165,7 +1165,7 @@
     "Enabled": true
   },
   "261269": {
-    "OriginalText": "アグリオスを発見。\n総力を鑽げて攻撃し、\n防衛ライン到達前に撃破せよ。",
+    "OriginalText": "アグリオスを発見。\n総力を挙げて攻撃し、\n防衛ライン到達前に撃破せよ。",
     "Text": "Agrios detected.\nDefeat it with all your might before it\nreaches the defensive line.",
     "Enabled": true
   },
@@ -1205,7 +1205,7 @@
     "Enabled": true
   },
   "261277": {
-    "OriginalText": "アルキュオネを発見。\n防衛ライン到達前に撃破せよ。\n氷静な対処を求める。",
+    "OriginalText": "アルキュオネを発見。\n防衛ライン到達前に撃破せよ。\n冷静な対処を求める。",
     "Text": "Alcyone detected.\nCalmly defeat it before it reaches the\ndefensive line.",
     "Enabled": true
   },
@@ -1325,7 +1325,7 @@
     "Enabled": true
   },
   "261333": {
-    "OriginalText": "Ｇウォルガーダ撃破を確認。\n慎重な行動が功を猶したわね。",
+    "OriginalText": "Ｇウォルガーダ撃破を確認。\n慎重な行動が功を奏したわね。",
     "Text": "Defeat of G-Wolgahda confirmed.\nCareful action is very helpful.",
     "Enabled": true
   },
@@ -1355,7 +1355,7 @@
     "Enabled": true
   },
   "261340": {
-    "OriginalText": "エウリュード撃破を確認。\nなかなかの怖い洋知らずね。",
+    "OriginalText": "エウリュード撃破を確認。\nなかなかの怖い物知らずね。",
     "Text": "Defeat of Eurude confirmed.\nI didn't know it was that scary.",
     "Enabled": true
   },
@@ -1380,7 +1380,7 @@
     "Enabled": true
   },
   "261345": {
-    "OriginalText": "アルキュオネ撃破を確認。\nひるまず突き進んだ度胸の奏洋ね。",
+    "OriginalText": "アルキュオネ撃破を確認。\nひるまず突き進んだ度胸の賜物ね。",
     "Text": "Defeat of Alcyone confirmed.\nThat was a courageous performance.",
     "Enabled": true
   },
@@ -1465,12 +1465,12 @@
     "Enabled": true
   },
   "261363": {
-    "OriginalText": "洋資の回収を確認。\n迅速な行動に感謝する。",
+    "OriginalText": "物資の回収を確認。\n迅速な行動に感謝する。",
     "Text": "Complete collection of resources\nconfirmed. Thanks for prompt action.",
     "Enabled": true
   },
   "261364": {
-    "OriginalText": "回収洋資を確認。",
+    "OriginalText": "回収物資を確認。",
     "Text": "Complete collection of resources\nconfirmed.",
     "Enabled": true
   },
@@ -1485,7 +1485,7 @@
     "Enabled": true
   },
   "261367": {
-    "OriginalText": "似上で演習を終了する。",
+    "OriginalText": "以上で演習を終了する。",
     "Text": "Finish the training in the same way.",
     "Enabled": true
   },
@@ -1585,12 +1585,12 @@
     "Enabled": true
   },
   "261531": {
-    "OriginalText": "ファラレイバンサー出現を確認。\n氷静に撃破目標を変更せよ。",
+    "OriginalText": "ファラレイバンサー出現を確認。\n冷静に撃破目標を変更せよ。",
     "Text": "Fararay Banther appearance detected.\nCalmly change your target to defeat.",
     "Enabled": true
   },
   "261532": {
-    "OriginalText": "オルゴルドス出現を確認。\n氷静に新たな標的を確認せよ。",
+    "OriginalText": "オルゴルドス出現を確認。\n冷静に新たな標的を確認せよ。",
     "Text": "Orgordes appearance detected.\nCalmly check the new target.",
     "Enabled": true
   },
@@ -1725,7 +1725,7 @@
     "Enabled": true
   },
   "262152": {
-    "OriginalText": "ギガンテスの捕獲要請なのですが\nお願いできますか？\nあ、でも無理は央止ですよ！",
+    "OriginalText": "ギガンテスの捕獲要請なのですが\nお願いできますか？\nあ、でも無理は禁止ですよ！",
     "Text": "I request you to capture the Gigantes,\ncan you please? Ah, maybe it's\nimpossible!",
     "Enabled": true
   },
@@ -1780,12 +1780,12 @@
     "Enabled": true
   },
   "262210": {
-    "OriginalText": "わっ！ 刃洋を持ってピュンピュン\n飛び賜ねてるのが来てます！\n注意して下さい。",
+    "OriginalText": "わっ！ 刃物を持ってピュンピュン\n飛び跳ねてるのが来てます！\n注意して下さい。",
     "Text": "Wa! The blades are all around you!\nPlease be careful.",
     "Enabled": true
   },
   "262211": {
-    "OriginalText": "あぶない！\n跳棒を振り回してる\n攻撃が来ています！注意を！",
+    "OriginalText": "あぶない！\n棍棒を振り回してる\n攻撃が来ています！注意を！",
     "Text": "Watch out!\nA leaping attack is coming!\nBe careful!",
     "Enabled": true
   },
@@ -2020,12 +2020,12 @@
     "Enabled": true
   },
   "262263": {
-    "OriginalText": "集めてもらいたい洋があるのです。\nお願いできますか？",
+    "OriginalText": "集めてもらいたい物があるのです。\nお願いできますか？",
     "Text": "There's some items I want you to\ncollect. May I ask please?",
     "Enabled": true
   },
   "262264": {
-    "OriginalText": "そのエリアに落ちている洋を\n拾って来てほしいのです。",
+    "OriginalText": "そのエリアに落ちている物を\n拾って来てほしいのです。",
     "Text": "I want you to pick up the items found\nin the area.",
     "Enabled": true
   },
@@ -2045,7 +2045,7 @@
     "Enabled": true
   },
   "262269": {
-    "OriginalText": "わっ、ギガンテスですか！？\nちょ……これ似上、先へ\n進ませないでください！",
+    "OriginalText": "わっ、ギガンテスですか！？\nちょ……これ以上、先へ\n進ませないでください！",
     "Text": "Wa, the Gigantes!?\nDon't let it go any further!",
     "Enabled": true
   },
@@ -2090,7 +2090,7 @@
     "Enabled": true
   },
   "262278": {
-    "OriginalText": "ギガンテスが火を噴いています！\n消火でも撃破でもいいので、\nこれ似上、進ませないでください！",
+    "OriginalText": "ギガンテスが火を噴いています！\n消火でも撃破でもいいので、\nこれ以上、進ませないでください！",
     "Text": "The Gigantes is spewing fire! It looks\nlike it can be defeated or extinguished,\nplease proceed!",
     "Enabled": true
   },
@@ -2150,7 +2150,7 @@
     "Enabled": true
   },
   "262322": {
-    "OriginalText": "みなさんの氷静な行動には\nいつも感服してしまいます。",
+    "OriginalText": "みなさんの冷静な行動には\nいつも感服してしまいます。",
     "Text": "I'm always impressed in your calmness.",
     "Enabled": true
   },
@@ -2180,7 +2180,7 @@
     "Enabled": true
   },
   "262328": {
-    "OriginalText": "よくわからなかったのですが\nたぶんゴルドスの親棍か何かですね。",
+    "OriginalText": "よくわからなかったのですが\nたぶんゴルドスの親戚か何かですね。",
     "Text": "I'm not sure, maybe it's a Gordes\nvariant or something.",
     "Enabled": true
   },
@@ -2320,7 +2320,7 @@
     "Enabled": true
   },
   "262358": {
-    "OriginalText": "よくあんなのを捕まえられますね……\nみなさんパイルの燥縦がとっても\n上手ですものね。",
+    "OriginalText": "よくあんなのを捕まえられますね……\nみなさんパイルの操縦がとっても\n上手ですものね。",
     "Text": "You can easily capture that thing....\nEveryone is very good now in using\nthe Pile.",
     "Enabled": true
   },
@@ -2340,7 +2340,7 @@
     "Enabled": true
   },
   "262362": {
-    "OriginalText": "手際よくパイルを使って捕まえるのに\n思わず跡入ってしまいました。\n本当にすごかったです！",
+    "OriginalText": "手際よくパイルを使って捕まえるのに\n思わず魅入ってしまいました。\n本当にすごかったです！",
     "Text": "You got a mark for skillfully capturing\nit with a Pile. You're really amazing!",
     "Enabled": true
   },
@@ -2355,7 +2355,7 @@
     "Enabled": true
   },
   "262365": {
-    "OriginalText": "エネミーに倒されたら終了というのを\n龍え忘れていたのですけど、\n大丈夫でしたね。",
+    "OriginalText": "エネミーに倒されたら終了というのを\n伝え忘れていたのですけど、\n大丈夫でしたね。",
     "Text": "I forgot to say that if you were\ndefeated by an enemy the mission will\nend. Looks like you're ok.",
     "Enabled": true
   },
@@ -2380,7 +2380,7 @@
     "Enabled": true
   },
   "262448": {
-    "OriginalText": "うわぁ！もうおしまいです！\nこのままでは拠点が大変なのです！\nみなさん、急いで戻ってください！",
+    "OriginalText": "うわぁ！ もうおしまいです！\nこのままでは拠点が大変なのです！\nみなさん、急いで戻ってください！",
     "Text": "Uwah! It's over!\nThe base is in danger as it is!\nEveryone, please return quickly!",
     "Enabled": true
   },
@@ -2415,7 +2415,7 @@
     "Enabled": true
   },
   "262521": {
-    "OriginalText": "赤い戚物様を確認！\nえっと……そんなことより\n撃破をお願いします！",
+    "OriginalText": "赤い縞模様を確認！\nえっと……そんなことより\n撃破をお願いします！",
     "Text": "Reddish object detected!\nUhm... please defeat it!",
     "Enabled": true
   },
@@ -2610,7 +2610,7 @@
     "Enabled": true
   },
   "263014": {
-    "OriginalText": "湯縞の記憶を入手した。",
+    "OriginalText": "湯煙の記憶を入手した。",
     "Text": "Hot Spring Memory acquired.",
     "Enabled": true
   },
@@ -2710,12 +2710,12 @@
     "Enabled": true
   },
   "263102": {
-    "OriginalText": "よぉ、暇だったらトレーニングにいかねぇか？\nやっぱり相手がいた方が\nより実煙的な訓練になるからな！",
+    "OriginalText": "よぉ、暇だったらトレーニングにいかねぇか？\nやっぱり相手がいた方が\nより実践的な訓練になるからな！",
     "Text": "Yo, why not go training if you have\nfree time? After all, it's better if you\nhave a sparring partner!",
     "Enabled": true
   },
   "263103": {
-    "OriginalText": "アークスでも未知とされていた惑星です。\n『雨践れは三途の川』の精神で行きましょう！",
+    "OriginalText": "アークスでも未知とされていた惑星です。\n『雨垂れは三途の川』の精神で行きましょう！",
     "Text": "This planet is unknown even in ARKS.\nLike \"a raindrops in Sanzu River\" we\ngo with sound mind!",
     "Enabled": true
   },
@@ -2870,7 +2870,7 @@
     "Enabled": true
   },
   "263141": {
-    "OriginalText": "余は垂が渇いた、ジュースをもて。",
+    "OriginalText": "余は喉が渇いた、ジュースをもて。",
     "Text": "I'm thirsty, i need a juice.",
     "Enabled": true
   },
@@ -2905,7 +2905,7 @@
     "Enabled": true
   },
   "263148": {
-    "OriginalText": "おぬしもワシの喉義を聞きたいのかえ？",
+    "OriginalText": "おぬしもワシの講義を聞きたいのかえ？",
     "Text": "Do you want to listen to me?",
     "Enabled": true
   },
@@ -3120,22 +3120,22 @@
     "Enabled": true
   },
   "264006": {
-    "OriginalText": "さぁさぁ、果洋を採りに向かいましょう！\n採れた果洋は、私の愛によって\n山より高いフルーツケーキにっ！",
+    "OriginalText": "さぁさぁ、果物を採りに向かいましょう！\n採れた果物は、私の愛によって\n山より高いフルーツケーキにっ！",
     "Text": "Come now, let's go pick the fruits!\nI picked the fruits by my love for my\ntall Fruitcake!",
     "Enabled": true
   },
   "264007": {
-    "OriginalText": "えっ、余計なことをせず、\n果洋は皮をむくだけでいい？\nう～ん、素村で勝負することも大事ですわね。",
+    "OriginalText": "えっ、余計なことをせず、\n果物は皮をむくだけでいい？\nう～ん、素村で勝負することも大事ですわね。",
     "Text": "Eh, don't overdo it, do the fruits need\nto be peeled? Hmm, it's also important\nas a ingredient.",
     "Enabled": true
   },
   "264008": {
-    "OriginalText": "何こんなところでぼやぼやしているのです！\n早急に隠れられそうな場所を探してください！\nもう一刻の禁予もありませんことよ！",
+    "OriginalText": "何こんなところでぼやぼやしているのです！\n早急に隠れられそうな場所を探してください！\nもう一刻の猶予もありませんことよ！",
     "Text": "Why are you being careless!\nPlease, find a place to hide quickly!\nDon't go over your limit!",
     "Enabled": true
   },
   "264009": {
-    "OriginalText": "冷悪非道な警備部の方々の毒牙が\nグラバー様に襲いかかろうとしているのです！\n急いでくださいませ！！",
+    "OriginalText": "極悪非道な警備部の方々の毒牙が\nグラバー様に襲いかかろうとしているのです！\n急いでくださいませ！！",
     "Text": "The sinister and wicked Defense Force\nwill attack Glover! Please hurry!!",
     "Enabled": true
   },
@@ -3220,7 +3220,7 @@
     "Enabled": true
   },
   "264026": {
-    "OriginalText": "そうでなくても、警備部には\n連日復数の案件が舞い込んでいる。\n事件性のない出来事に割く時間はないしな。",
+    "OriginalText": "そうでなくても、警備部には\n連日複数の案件が舞い込んでいる。\n事件性のない出来事に割く時間はないしな。",
     "Text": "Even if not, the Defense Force is recieving\na number of cases daily. We can't devote\nourselves to non-criminal cases.",
     "Enabled": true
   },
@@ -3230,17 +3230,17 @@
     "Enabled": true
   },
   "264028": {
-    "OriginalText": "さっき先堰と話してきた。\n俺の銃痕をみてひどく\n気にしていたが、",
+    "OriginalText": "さっき先輩と話してきた。\n俺の銃痕をみてひどく\n気にしていたが、",
     "Text": "We've talked about stopping earlier.\nI was worried when I see the gun marks.",
     "Enabled": true
   },
   "264029": {
-    "OriginalText": "逆に俺が先堰の真意をみ取らず\n憎んでいたことを謝露したら\nなぜか豪快に笑われた。",
+    "OriginalText": "逆に俺が先輩の真意をみ取らず\n憎んでいたことを謝罪したら\nなぜか豪快に笑われた。",
     "Text": "On the contrary, I apologize for not\nseeing the meaning of stopping and hated\nit, I laughed for some reason.",
     "Enabled": true
   },
   "264030": {
-    "OriginalText": "やはり、先堰のことは\n理解できないから困る。",
+    "OriginalText": "やはり、先輩のことは\n理解できないから困る。",
     "Text": "Likewise, I have trouble understanding\nwhy you're stopping me.",
     "Enabled": true
   },

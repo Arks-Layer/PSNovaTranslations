@@ -40,7 +40,7 @@
     "Enabled": true
   },
   "660004": {
-    "OriginalText": "対ギガンテス戦を想定し創設された新クラス。\n打撃、射撃、法撃ともに汰等な能力を備え、\n特殊武器パイルを含む、あらゆる武器を\n伝備でき、ダイブロールによる回避が可能。",
+    "OriginalText": "対ギガンテス戦を想定し創設された新クラス。\n打撃、射撃、法撃ともに均等な能力を備え、\n特殊武器パイルを含む、あらゆる武器を\n装備でき、ダイブロールによる回避が可能。",
     "Text": "A new class developed to battle\nGigantes. They possess equal ability in\nall stats, and can equip all weapons\nincluding Piles.",
     "Enabled": true
   }

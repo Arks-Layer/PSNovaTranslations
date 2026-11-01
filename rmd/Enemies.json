@@ -955,7 +955,7 @@
     "Enabled": true
   },
   "185150": {
-    "OriginalText": "アンカー発射伝置",
+    "OriginalText": "アンカー発射装置",
     "Text": "Anchor Launch Mechanism",
     "Enabled": true
   },
@@ -1095,7 +1095,7 @@
     "Enabled": true
   },
   "185561": {
-    "OriginalText": "ミサイル発射伝置",
+    "OriginalText": "ミサイル発射装置",
     "Text": "Missile Firing Mechanism",
     "Enabled": true
   },
@@ -1160,17 +1160,17 @@
     "Enabled": true
   },
   "189010": {
-    "OriginalText": "伝甲:腹",
+    "OriginalText": "装甲:腹",
     "Text": "Armor: Abdomen",
     "Enabled": true
   },
   "189011": {
-    "OriginalText": "伝甲:もも",
+    "OriginalText": "装甲:もも",
     "Text": "Armor: Thigh",
     "Enabled": true
   },
   "189012": {
-    "OriginalText": "伝甲:後部",
+    "OriginalText": "装甲:後部",
     "Text": "Armor: Rear End",
     "Enabled": true
   },
@@ -1240,12 +1240,12 @@
     "Enabled": true
   },
   "189026": {
-    "OriginalText": "磁晶模コラル・ドラゴン",
+    "OriginalText": "磁晶龍コラル・ドラゴン",
     "Text": "Magnetic Crystal: Coral Dragon",
     "Enabled": true
   },
   "189027": {
-    "OriginalText": "磁晶模ディアマ・ドラール",
+    "OriginalText": "磁晶龍ディアマ・ドラール",
     "Text": "Magnetic Crystal: Diama Dragon",
     "Enabled": true
   },
@@ -1265,72 +1265,72 @@
     "Enabled": true
   },
   "189031": {
-    "OriginalText": "伝悪鬼バレダイナス",
+    "OriginalText": "装悪鬼バレダイナス",
     "Text": "Legendary Demon: Valdinas",
     "Enabled": true
   },
   "189032": {
-    "OriginalText": "伝悪鬼ラーバレダイナス",
+    "OriginalText": "装悪鬼ラーバレダイナス",
     "Text": "Legendary Demon: Lar Valdinas",
     "Enabled": true
   },
   "189033": {
-    "OriginalText": "伝悪鬼マーバレダイナス",
+    "OriginalText": "装悪鬼マーバレダイナス",
     "Text": "Legendary Demon: Mar Valdinas",
     "Enabled": true
   },
   "189034": {
-    "OriginalText": "伝悪鬼ヴィバレダイナス",
+    "OriginalText": "装悪鬼ヴィバレダイナス",
     "Text": "Legendary Demon: Oui Valdinas",
     "Enabled": true
   },
   "189035": {
-    "OriginalText": "伝悪鬼ダイナス・タングス",
+    "OriginalText": "装悪鬼ダイナス・タングス",
     "Text": "Legendary Demon: Dinas Tungs",
     "Enabled": true
   },
   "189036": {
-    "OriginalText": "伝悪鬼シードギオス",
+    "OriginalText": "装悪鬼シードギオス",
     "Text": "Legendary Demon: Xie Dogios",
     "Enabled": true
   },
   "189037": {
-    "OriginalText": "伝悪鬼フォードギオス",
+    "OriginalText": "装悪鬼フォードギオス",
     "Text": "Legendary Demon: Pho Dogios",
     "Enabled": true
   },
   "189038": {
-    "OriginalText": "伝悪鬼ヴァッドギオス",
+    "OriginalText": "装悪鬼ヴァッドギオス",
     "Text": "Legendary Demon: Vad Dogios",
     "Enabled": true
   },
   "189039": {
-    "OriginalText": "伝悪鬼エアドギオス",
+    "OriginalText": "装悪鬼エアドギオス",
     "Text": "Legendary Demon: Air Dogios",
     "Enabled": true
   },
   "189040": {
-    "OriginalText": "伝悪鬼ドギオス・ルフレ",
+    "OriginalText": "装悪鬼ドギオス・ルフレ",
     "Text": "Legendary Demon: Dogios Reflet",
     "Enabled": true
   },
   "189041": {
-    "OriginalText": "伝悪鬼トルリンプ",
+    "OriginalText": "装悪鬼トルリンプ",
     "Text": "Legendary Demon: Torrimp",
     "Enabled": true
   },
   "189042": {
-    "OriginalText": "伝悪鬼ロウトルリンプ",
+    "OriginalText": "装悪鬼ロウトルリンプ",
     "Text": "Legendary Demon: Rol Torrimp",
     "Enabled": true
   },
   "189043": {
-    "OriginalText": "伝悪鬼ポルトルリンプ",
+    "OriginalText": "装悪鬼ポルトルリンプ",
     "Text": "Legendary Demon: Pol Torrimp",
     "Enabled": true
   },
   "189044": {
-    "OriginalText": "伝悪鬼トルリンプ・ゴウル",
+    "OriginalText": "装悪鬼トルリンプ・ゴウル",
     "Text": "Legendary Demon: Torrimp Gorr",
     "Enabled": true
   },
@@ -1410,52 +1410,52 @@
     "Enabled": true
   },
   "189060": {
-    "OriginalText": "伝悪鬼シルブカーネベア",
+    "OriginalText": "装悪鬼シルブカーネベア",
     "Text": "Legendary Fiend: Silve Carnnebear",
     "Enabled": true
   },
   "189061": {
-    "OriginalText": "伝悪鬼レゾルカーネベア",
+    "OriginalText": "装悪鬼レゾルカーネベア",
     "Text": "Legendary Fiend: Resol Carnnebear",
     "Enabled": true
   },
   "189062": {
-    "OriginalText": "伝悪鬼オラルカーネベア",
+    "OriginalText": "装悪鬼オラルカーネベア",
     "Text": "Legendary Fiend: Orale Carnnebear",
     "Enabled": true
   },
   "189063": {
-    "OriginalText": "伝悪鬼モストカーネベア",
+    "OriginalText": "装悪鬼モストカーネベア",
     "Text": "Legendary Fiend: Mossed Carnnebear",
     "Enabled": true
   },
   "189064": {
-    "OriginalText": "伝悪鬼カーネベア・ゴルヴァ",
+    "OriginalText": "装悪鬼カーネベア・ゴルヴァ",
     "Text": "Legendary Fiend: Carnnebear Gorva",
     "Enabled": true
   },
   "189065": {
-    "OriginalText": "伝悪鬼アルレイバンサー",
+    "OriginalText": "装悪鬼アルレイバンサー",
     "Text": "Legendary Fiend: Arlay Banther",
     "Enabled": true
   },
   "189066": {
-    "OriginalText": "伝悪鬼ゾンレイバンサー",
+    "OriginalText": "装悪鬼ゾンレイバンサー",
     "Text": "Legendary Fiend: Zonray Banther",
     "Enabled": true
   },
   "189067": {
-    "OriginalText": "伝悪鬼ナールレイバンサー",
+    "OriginalText": "装悪鬼ナールレイバンサー",
     "Text": "Legendary Fiend: Nalray Banther",
     "Enabled": true
   },
   "189068": {
-    "OriginalText": "伝悪鬼ファラレイバンサー",
+    "OriginalText": "装悪鬼ファラレイバンサー",
     "Text": "Legendary Fiend: Fararay Banther",
     "Enabled": true
   },
   "189069": {
-    "OriginalText": "伝悪鬼レイバンサ・オクシ",
+    "OriginalText": "装悪鬼レイバンサ・オクシ",
     "Text": "Legendary Fiend: Ray Banther Oxy",
     "Enabled": true
   },

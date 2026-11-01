@@ -85,7 +85,7 @@
     "Enabled": true
   },
   "402020015300710": {
-    "OriginalText": "あと少し！ 回復も憎しまず使い切りなさい！",
+    "OriginalText": "あと少し！ 回復も惜しまず使い切りなさい！",
     "Text": "A little more! Don't forget to use your recovery items!",
     "Enabled": true
   },
@@ -160,7 +160,7 @@
     "Enabled": true
   },
   "402020040400730": {
-    "OriginalText": "あと少し！\n回復も憎しまず使い切りなさい！",
+    "OriginalText": "あと少し！\n回復も惜しまず使い切りなさい！",
     "Text": "A little more! Don't forget to use your recovery items!",
     "Enabled": true
   },
@@ -195,7 +195,7 @@
     "Enabled": true
   },
   "402040013200720": {
-    "OriginalText": "似後、あの型のギガンテスは\n「ギガンテス・アグリオス」と\n呼称します。",
+    "OriginalText": "以後、あの型のギガンテスは\n「ギガンテス・アグリオス」と\n呼称します。",
     "Text": "For now on, this type of Gigantes\nwill now be referred to as \"Gigantes Agrios\".",
     "Enabled": true
   },
@@ -215,7 +215,7 @@
     "Enabled": false
   },
   "403030030100210": {
-    "OriginalText": "ルティナを信じて、凝り強くだ！\n落ち着いていくぜ！",
+    "OriginalText": "ルティナを信じて、粘り強くだ！\n落ち着いていくぜ！",
     "Text": "",
     "Enabled": false
   },
@@ -235,7 +235,7 @@
     "Enabled": false
   },
   "403030030200710": {
-    "OriginalText": "あの軟体生洋っぽいのは新型のギガンテスね。",
+    "OriginalText": "あの軟体生物っぽいのは新型のギガンテスね。",
     "Text": "",
     "Enabled": false
   },
@@ -265,7 +265,7 @@
     "Enabled": false
   },
   "403210030100710": {
-    "OriginalText": "今度の新型ギガンテスは祟分巨大ね。",
+    "OriginalText": "今度の新型ギガンテスは随分巨大ね。",
     "Text": "",
     "Enabled": false
   },
@@ -350,7 +350,7 @@
     "Enabled": false
   },
   "404040055100830": {
-    "OriginalText": "ギガンテスの捕獲をお願いします。\nあぁ、でもあんな大きなエネミーを\nどこで酒うのでしょうか？",
+    "OriginalText": "ギガンテスの捕獲をお願いします。\nあぁ、でもあんな大きなエネミーを\nどこで飼うのでしょうか？",
     "Text": "",
     "Enabled": false
   },
@@ -380,7 +380,7 @@
     "Enabled": false
   },
   "405010030100210": {
-    "OriginalText": "イズナが積冷的に攻撃の起点を作る……\nこれまでなかった形だな！",
+    "OriginalText": "イズナが積極的に攻撃の起点を作る……\nこれまでなかった形だな！",
     "Text": "",
     "Enabled": false
   },
@@ -530,7 +530,7 @@
     "Enabled": false
   },
   "407100020100720": {
-    "OriginalText": "似降あの型は\n「ギガンテス・ガラティオン」と呼称！",
+    "OriginalText": "以降あの型は\n「ギガンテス・ガラティオン」と呼称！",
     "Text": "",
     "Enabled": false
   },
@@ -550,7 +550,7 @@
     "Enabled": false
   },
   "407100020100830": {
-    "OriginalText": "あんな刃洋がいっぱい……。\nみなさん、気をつけて！",
+    "OriginalText": "あんな刃物がいっぱい……。\nみなさん、気をつけて！",
     "Text": "",
     "Enabled": false
   },
@@ -565,7 +565,7 @@
     "Enabled": false
   },
   "407120050050310": {
-    "OriginalText": "さぁ、宝石を集めましょ！\n『一摘の光陰軽んずべからず』ですよ！",
+    "OriginalText": "さぁ、宝石を集めましょ！\n『一寸の光陰軽んずべからず』ですよ！",
     "Text": "",
     "Enabled": false
   },
@@ -575,12 +575,12 @@
     "Enabled": false
   },
   "407120050200310": {
-    "OriginalText": "ここには、古代人たちが開発した新技術と\n兵器に関することが記寸されています。\n星間戦争に勝利するための秘策だったとか。",
+    "OriginalText": "ここには、古代人たちが開発した新技術と\n兵器に関することが記載されています。\n星間戦争に勝利するための秘策だったとか。",
     "Text": "",
     "Enabled": false
   },
   "407120050300310": {
-    "OriginalText": "ここには、グランについて書かれています！\nグランとギガンテスにより、異星人の侵略を退け、\n古代人は平和と載栄を手に入れたようです。",
+    "OriginalText": "ここには、グランについて書かれています！\nグランとギガンテスにより、異星人の侵略を退け、\n古代人は平和と繁栄を手に入れたようです。",
     "Text": "",
     "Enabled": false
   },
@@ -590,7 +590,7 @@
     "Enabled": false
   },
   "407120050500310": {
-    "OriginalText": "古代人はギガンテスへの対抗策を構想するも\n実を結ぶことはなく、ある人洋に未来を託す\nことになった、と、そのような記寸のようです。",
+    "OriginalText": "古代人はギガンテスへの対抗策を構想するも\n実を結ぶことはなく、ある人物に未来を託す\nことになった、と、そのような記載のようです。",
     "Text": "",
     "Enabled": false
   },
@@ -615,12 +615,12 @@
     "Enabled": false
   },
   "408120020100610": {
-    "OriginalText": "レイヴァン……\nお前の仕事にしては繁撰だな……！",
+    "OriginalText": "レイヴァン……\nお前の仕事にしては杜撰だな……！",
     "Text": "",
     "Enabled": false
   },
   "408120020100910": {
-    "OriginalText": "ギガンテスとお友達とはな！\nどうやって酒い慣らしたんだ？",
+    "OriginalText": "ギガンテスとお友達とはな！\nどうやって飼い慣らしたんだ？",
     "Text": "",
     "Enabled": false
   },
@@ -755,7 +755,7 @@
     "Enabled": false
   },
   "413020010100320": {
-    "OriginalText": "チーズの酸味を強めにするか、\nそれとも果枚で調節……？",
+    "OriginalText": "チーズの酸味を強めにするか、\nそれとも果汁で調節……？",
     "Text": "",
     "Enabled": false
   },
@@ -820,7 +820,7 @@
     "Enabled": false
   },
   "421020010101130": {
-    "OriginalText": "食べられそうな獲洋は急所を\nはずさねばなりませんな。",
+    "OriginalText": "食べられそうな獲物は急所を\nはずさねばなりませんな。",
     "Text": "",
     "Enabled": false
   },
@@ -905,7 +905,7 @@
     "Enabled": false
   },
   "498000000110730": {
-    "OriginalText": "ダーカー発生の予随あり。速やかに排除。",
+    "OriginalText": "ダーカー発生の予兆あり。速やかに排除。",
     "Text": "",
     "Enabled": false
   },
@@ -980,7 +980,7 @@
     "Enabled": false
   },
   "498000000200720": {
-    "OriginalText": "連絡事区あり。",
+    "OriginalText": "連絡事項あり。",
     "Text": "",
     "Enabled": false
   },
@@ -995,7 +995,7 @@
     "Enabled": false
   },
   "498000000200810": {
-    "OriginalText": "えっと、連絡事区なのです。",
+    "OriginalText": "えっと、連絡事項なのです。",
     "Text": "",
     "Enabled": false
   },
@@ -1030,7 +1030,7 @@
     "Enabled": false
   },
   "498000000300820": {
-    "OriginalText": "任務をお願いします。\nあー、でも無理は央洋です！",
+    "OriginalText": "任務をお願いします。\nあー、でも無理は禁物です！",
     "Text": "",
     "Enabled": false
   },

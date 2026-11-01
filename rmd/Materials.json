@@ -15,7 +15,7 @@
     "Enabled": true
   },
   "350003": {
-    "OriginalText": "グランピース(劇属性)",
+    "OriginalText": "グランピース(氷属性)",
     "Text": "Gran Piece (Ice)",
     "Enabled": true
   },
@@ -245,7 +245,7 @@
     "Enabled": true
   },
   "350049": {
-    "OriginalText": "樹木状の鉱洋",
+    "OriginalText": "樹木状の鉱物",
     "Text": "Dendritic Material",
     "Enabled": true
   },
@@ -255,7 +255,7 @@
     "Enabled": true
   },
   "350051": {
-    "OriginalText": "赤い樹袋",
+    "OriginalText": "赤い樹枝",
     "Text": "Red Branch",
     "Enabled": true
   },
@@ -300,7 +300,7 @@
     "Enabled": true
   },
   "350060": {
-    "OriginalText": "遺跡石材",
+    "OriginalText": "遺跡石村",
     "Text": "Stone Ruins Material",
     "Enabled": true
   },
@@ -310,7 +310,7 @@
     "Enabled": true
   },
   "350062": {
-    "OriginalText": "多積層の銅板",
+    "OriginalText": "多積層の鋼板",
     "Text": "Steel Layered Sheet",
     "Enabled": true
   },
@@ -325,7 +325,7 @@
     "Enabled": true
   },
   "350065": {
-    "OriginalText": "湯縞の記憶",
+    "OriginalText": "湯煙の記憶",
     "Text": "Hot Spring Memory",
     "Enabled": true
   },
@@ -360,7 +360,7 @@
     "Enabled": true
   },
   "350072": {
-    "OriginalText": "透き通る講化木",
+    "OriginalText": "透き通る珪化木",
     "Text": "Silicified Wood",
     "Enabled": true
   },
@@ -370,12 +370,12 @@
     "Enabled": true
   },
   "350074": {
-    "OriginalText": "氷たく燃える金属結晶",
+    "OriginalText": "冷たく燃える金属結晶",
     "Text": "Frigid Burning Metal Crystal",
     "Enabled": true
   },
   "350075": {
-    "OriginalText": "貝ちない黒い鉄柱",
+    "OriginalText": "朽ちない黒い鉄柱",
     "Text": "Black Shell-less Shellfish",
     "Enabled": true
   },
@@ -390,17 +390,17 @@
     "Enabled": true
   },
   "350078": {
-    "OriginalText": "鈍く光るコランダム珪",
+    "OriginalText": "鈍く光るコランダム塊",
     "Text": "Dull Silica Corundum",
     "Enabled": true
   },
   "350079": {
-    "OriginalText": "熱を蓄える捲方輝石",
+    "OriginalText": "熱を蓄える斜方輝石",
     "Text": "Heated Rhodium Pyroxene",
     "Enabled": true
   },
   "350080": {
-    "OriginalText": "墨むしたセラミックス",
+    "OriginalText": "苔むしたセラミックス",
     "Text": "Dyed Ceramics",
     "Enabled": true
   },
@@ -425,262 +425,262 @@
     "Enabled": true
   },
   "350085": {
-    "OriginalText": "リージョン3難易度3材料3",
+    "OriginalText": "リージョン3難易度3村料3",
     "Text": "",
     "Enabled": false
   },
   "350086": {
-    "OriginalText": "リージョン3難易度4材料1",
+    "OriginalText": "リージョン3難易度4村料1",
     "Text": "",
     "Enabled": false
   },
   "350087": {
-    "OriginalText": "リージョン3難易度4材料2",
+    "OriginalText": "リージョン3難易度4村料2",
     "Text": "",
     "Enabled": false
   },
   "350088": {
-    "OriginalText": "リージョン3難易度4材料3",
+    "OriginalText": "リージョン3難易度4村料3",
     "Text": "",
     "Enabled": false
   },
   "350089": {
-    "OriginalText": "リージョン3難易度5材料1",
+    "OriginalText": "リージョン3難易度5村料1",
     "Text": "",
     "Enabled": false
   },
   "350090": {
-    "OriginalText": "リージョン3難易度5材料2",
+    "OriginalText": "リージョン3難易度5村料2",
     "Text": "",
     "Enabled": false
   },
   "350091": {
-    "OriginalText": "リージョン3難易度5材料3",
+    "OriginalText": "リージョン3難易度5村料3",
     "Text": "",
     "Enabled": false
   },
   "350092": {
-    "OriginalText": "リージョン5難易度1材料1",
+    "OriginalText": "リージョン5難易度1村料1",
     "Text": "",
     "Enabled": false
   },
   "350093": {
-    "OriginalText": "リージョン5難易度1材料2",
+    "OriginalText": "リージョン5難易度1村料2",
     "Text": "",
     "Enabled": false
   },
   "350094": {
-    "OriginalText": "リージョン5難易度1材料3",
+    "OriginalText": "リージョン5難易度1村料3",
     "Text": "",
     "Enabled": false
   },
   "350095": {
-    "OriginalText": "リージョン5難易度2材料1",
+    "OriginalText": "リージョン5難易度2村料1",
     "Text": "",
     "Enabled": false
   },
   "350096": {
-    "OriginalText": "リージョン5難易度2材料2",
+    "OriginalText": "リージョン5難易度2村料2",
     "Text": "",
     "Enabled": false
   },
   "350097": {
-    "OriginalText": "リージョン5難易度2材料3",
+    "OriginalText": "リージョン5難易度2村料3",
     "Text": "",
     "Enabled": false
   },
   "350098": {
-    "OriginalText": "リージョン5難易度3材料1",
+    "OriginalText": "リージョン5難易度3村料1",
     "Text": "",
     "Enabled": false
   },
   "350099": {
-    "OriginalText": "リージョン5難易度3材料2",
+    "OriginalText": "リージョン5難易度3村料2",
     "Text": "",
     "Enabled": false
   },
   "350100": {
-    "OriginalText": "リージョン5難易度3材料3",
+    "OriginalText": "リージョン5難易度3村料3",
     "Text": "",
     "Enabled": false
   },
   "350101": {
-    "OriginalText": "リージョン5難易度4材料1",
+    "OriginalText": "リージョン5難易度4村料1",
     "Text": "",
     "Enabled": false
   },
   "350102": {
-    "OriginalText": "リージョン5難易度4材料2",
+    "OriginalText": "リージョン5難易度4村料2",
     "Text": "",
     "Enabled": false
   },
   "350103": {
-    "OriginalText": "リージョン5難易度4材料3",
+    "OriginalText": "リージョン5難易度4村料3",
     "Text": "",
     "Enabled": false
   },
   "350104": {
-    "OriginalText": "リージョン5難易度5材料1",
+    "OriginalText": "リージョン5難易度5村料1",
     "Text": "",
     "Enabled": false
   },
   "350105": {
-    "OriginalText": "リージョン5難易度5材料2",
+    "OriginalText": "リージョン5難易度5村料2",
     "Text": "",
     "Enabled": false
   },
   "350106": {
-    "OriginalText": "リージョン5難易度5材料3",
+    "OriginalText": "リージョン5難易度5村料3",
     "Text": "",
     "Enabled": false
   },
   "350107": {
-    "OriginalText": "リージョン6難易度1材料1",
+    "OriginalText": "リージョン6難易度1村料1",
     "Text": "",
     "Enabled": false
   },
   "350108": {
-    "OriginalText": "リージョン6難易度1材料2",
+    "OriginalText": "リージョン6難易度1村料2",
     "Text": "",
     "Enabled": false
   },
   "350109": {
-    "OriginalText": "リージョン6難易度1材料3",
+    "OriginalText": "リージョン6難易度1村料3",
     "Text": "",
     "Enabled": false
   },
   "350110": {
-    "OriginalText": "リージョン6難易度2材料1",
+    "OriginalText": "リージョン6難易度2村料1",
     "Text": "",
     "Enabled": false
   },
   "350111": {
-    "OriginalText": "リージョン6難易度2材料2",
+    "OriginalText": "リージョン6難易度2村料2",
     "Text": "",
     "Enabled": false
   },
   "350112": {
-    "OriginalText": "リージョン6難易度2材料3",
+    "OriginalText": "リージョン6難易度2村料3",
     "Text": "",
     "Enabled": false
   },
   "350113": {
-    "OriginalText": "リージョン6難易度3材料1",
+    "OriginalText": "リージョン6難易度3村料1",
     "Text": "",
     "Enabled": false
   },
   "350114": {
-    "OriginalText": "リージョン6難易度3材料2",
+    "OriginalText": "リージョン6難易度3村料2",
     "Text": "",
     "Enabled": false
   },
   "350115": {
-    "OriginalText": "リージョン6難易度3材料3",
+    "OriginalText": "リージョン6難易度3村料3",
     "Text": "",
     "Enabled": false
   },
   "350116": {
-    "OriginalText": "リージョン6難易度4材料1",
+    "OriginalText": "リージョン6難易度4村料1",
     "Text": "",
     "Enabled": false
   },
   "350117": {
-    "OriginalText": "リージョン6難易度4材料2",
+    "OriginalText": "リージョン6難易度4村料2",
     "Text": "",
     "Enabled": false
   },
   "350118": {
-    "OriginalText": "リージョン6難易度4材料3",
+    "OriginalText": "リージョン6難易度4村料3",
     "Text": "",
     "Enabled": false
   },
   "350119": {
-    "OriginalText": "リージョン6難易度5材料1",
+    "OriginalText": "リージョン6難易度5村料1",
     "Text": "",
     "Enabled": false
   },
   "350120": {
-    "OriginalText": "リージョン6難易度5材料2",
+    "OriginalText": "リージョン6難易度5村料2",
     "Text": "",
     "Enabled": false
   },
   "350121": {
-    "OriginalText": "リージョン6難易度5材料3",
+    "OriginalText": "リージョン6難易度5村料3",
     "Text": "",
     "Enabled": false
   },
   "350122": {
-    "OriginalText": "リージョン8難易度1材料1",
+    "OriginalText": "リージョン8難易度1村料1",
     "Text": "",
     "Enabled": false
   },
   "350123": {
-    "OriginalText": "リージョン8難易度1材料2",
+    "OriginalText": "リージョン8難易度1村料2",
     "Text": "",
     "Enabled": false
   },
   "350124": {
-    "OriginalText": "リージョン8難易度1材料3",
+    "OriginalText": "リージョン8難易度1村料3",
     "Text": "",
     "Enabled": false
   },
   "350125": {
-    "OriginalText": "リージョン8難易度2材料1",
+    "OriginalText": "リージョン8難易度2村料1",
     "Text": "",
     "Enabled": false
   },
   "350126": {
-    "OriginalText": "リージョン8難易度2材料2",
+    "OriginalText": "リージョン8難易度2村料2",
     "Text": "",
     "Enabled": false
   },
   "350127": {
-    "OriginalText": "リージョン8難易度2材料3",
+    "OriginalText": "リージョン8難易度2村料3",
     "Text": "",
     "Enabled": false
   },
   "350128": {
-    "OriginalText": "リージョン8難易度3材料1",
+    "OriginalText": "リージョン8難易度3村料1",
     "Text": "",
     "Enabled": false
   },
   "350129": {
-    "OriginalText": "リージョン8難易度3材料2",
+    "OriginalText": "リージョン8難易度3村料2",
     "Text": "",
     "Enabled": false
   },
   "350130": {
-    "OriginalText": "リージョン8難易度3材料3",
+    "OriginalText": "リージョン8難易度3村料3",
     "Text": "",
     "Enabled": false
   },
   "350131": {
-    "OriginalText": "リージョン8難易度4材料1",
+    "OriginalText": "リージョン8難易度4村料1",
     "Text": "",
     "Enabled": false
   },
   "350132": {
-    "OriginalText": "リージョン8難易度4材料2",
+    "OriginalText": "リージョン8難易度4村料2",
     "Text": "",
     "Enabled": false
   },
   "350133": {
-    "OriginalText": "リージョン8難易度4材料3",
+    "OriginalText": "リージョン8難易度4村料3",
     "Text": "",
     "Enabled": false
   },
   "350134": {
-    "OriginalText": "リージョン8難易度5材料1",
+    "OriginalText": "リージョン8難易度5村料1",
     "Text": "",
     "Enabled": false
   },
   "350135": {
-    "OriginalText": "リージョン8難易度5材料2",
+    "OriginalText": "リージョン8難易度5村料2",
     "Text": "",
     "Enabled": false
   },
   "350136": {
-    "OriginalText": "リージョン8難易度5材料3",
+    "OriginalText": "リージョン8難易度5村料3",
     "Text": "",
     "Enabled": false
   },
@@ -900,7 +900,7 @@
     "Enabled": true
   },
   "350180": {
-    "OriginalText": "マフレザールの鋭朽爪",
+    "OriginalText": "マフレザールの鋭鉤爪",
     "Text": "Maphrezer Sharp Hook Claw",
     "Enabled": true
   },
@@ -945,7 +945,7 @@
     "Enabled": true
   },
   "350189": {
-    "OriginalText": "マフレザールの皮枝",
+    "OriginalText": "マフレザールの皮膜",
     "Text": "Maphrezer Leather",
     "Enabled": true
   },
@@ -1005,7 +1005,7 @@
     "Enabled": true
   },
   "350201": {
-    "OriginalText": "グランブの大鉤固凝液",
+    "OriginalText": "グランブの大凝固粘液",
     "Text": "Granv Large Needle",
     "Enabled": true
   },
@@ -1035,7 +1035,7 @@
     "Enabled": true
   },
   "350207": {
-    "OriginalText": "耐火凝液",
+    "OriginalText": "耐火粘液",
     "Text": "Fireproof Gel",
     "Enabled": true
   },
@@ -1050,7 +1050,7 @@
     "Enabled": true
   },
   "350210": {
-    "OriginalText": "バリバッツの虫片",
+    "OriginalText": "バリバッツの墨片",
     "Text": "Baribatts Ink",
     "Enabled": true
   },
@@ -1060,7 +1060,7 @@
     "Enabled": true
   },
   "350212": {
-    "OriginalText": "バリドランナの鋭爪",
+    "OriginalText": "バリドランナの舌片",
     "Text": "Baridran'na Sharp Claw",
     "Enabled": true
   },
@@ -1085,7 +1085,7 @@
     "Enabled": true
   },
   "350217": {
-    "OriginalText": "バリバッツの翼枝",
+    "OriginalText": "バリバッツの翼膜",
     "Text": "Baribatts Wing",
     "Enabled": true
   },
@@ -1095,7 +1095,7 @@
     "Enabled": true
   },
   "350219": {
-    "OriginalText": "バリドランナの朽爪",
+    "OriginalText": "バリドランナの鉤爪",
     "Text": "Baridran'na Hook Claw",
     "Enabled": true
   },
@@ -1125,7 +1125,7 @@
     "Enabled": true
   },
   "350225": {
-    "OriginalText": "グランブの大凝固粘液",
+    "OriginalText": "グランブの硬粘液結晶",
     "Text": "Granv Large Coagulation Mucus",
     "Enabled": true
   },
@@ -1140,7 +1140,7 @@
     "Enabled": true
   },
   "350228": {
-    "OriginalText": "テュルトアスの固受挙",
+    "OriginalText": "テュルトアスの吸引袋",
     "Text": "Tulletoas Hard Sucker",
     "Enabled": true
   },
@@ -1150,17 +1150,17 @@
     "Enabled": true
   },
   "350230": {
-    "OriginalText": "機械生洋の甲片",
+    "OriginalText": "機械生物の甲片",
     "Text": "Mech Armor Fragment",
     "Enabled": true
   },
   "350231": {
-    "OriginalText": "機械生洋の油片",
+    "OriginalText": "機械生物の油片",
     "Text": "Machinery Fragment",
     "Enabled": true
   },
   "350232": {
-    "OriginalText": "機械生洋のフレーム",
+    "OriginalText": "機械生物のフレーム",
     "Text": "Crude Engine Frame",
     "Enabled": true
   },
@@ -1390,7 +1390,7 @@
     "Enabled": true
   },
   "350278": {
-    "OriginalText": "ヴィマフレザールの朽爪",
+    "OriginalText": "ヴィマフレザールの鉤爪",
     "Text": "Oui Maphrezer Hook Claw",
     "Enabled": true
   },
@@ -1665,7 +1665,7 @@
     "Enabled": true
   },
   "350333": {
-    "OriginalText": "リバッツの翼枝",
+    "OriginalText": "リバッツの翼膜",
     "Text": "Ribatts Wing Arm",
     "Enabled": true
   },
@@ -1690,7 +1690,7 @@
     "Enabled": true
   },
   "350338": {
-    "OriginalText": "水晶竜族の結晶珪",
+    "OriginalText": "水晶竜族の結晶塊",
     "Text": "Crystalized Dragon Silicon",
     "Enabled": true
   },
@@ -1815,7 +1815,7 @@
     "Enabled": true
   },
   "350363": {
-    "OriginalText": "エルマフレザールの鋭朽爪",
+    "OriginalText": "エルマフレザールの鋭鉤爪",
     "Text": "El Maphrezer Sharp Hook Claw",
     "Enabled": true
   },
@@ -1860,7 +1860,7 @@
     "Enabled": true
   },
   "350372": {
-    "OriginalText": "シードギオスの硬伝甲",
+    "OriginalText": "シードギオスの硬装甲",
     "Text": "Xie Dogios Hard Shell",
     "Enabled": true
   },
@@ -1885,7 +1885,7 @@
     "Enabled": true
   },
   "350377": {
-    "OriginalText": "エルマフレザールの皮枝",
+    "OriginalText": "エルマフレザールの皮膜",
     "Text": "El Maphrezer Hide",
     "Enabled": true
   },
@@ -1980,7 +1980,7 @@
     "Enabled": true
   },
   "350396": {
-    "OriginalText": "ノイバリドランナの粘",
+    "OriginalText": "ノイバリドランナの舌",
     "Text": "Noibaridran'na Mucus",
     "Enabled": true
   },
@@ -2030,7 +2030,7 @@
     "Enabled": true
   },
   "350406": {
-    "OriginalText": "ヴァッドギオスの硬伝甲",
+    "OriginalText": "ヴァッドギオスの硬装甲",
     "Text": "Vad Dogios Hard Shell",
     "Enabled": true
   },
@@ -2050,12 +2050,12 @@
     "Enabled": true
   },
   "350410": {
-    "OriginalText": "ウイマフレザールの鋭朽爪",
+    "OriginalText": "ウイマフレザールの鋭鉤爪",
     "Text": "Huy Maphrezer Sharp Hook Claw",
     "Enabled": true
   },
   "350411": {
-    "OriginalText": "Ｇダーク・ラグネの朽爪",
+    "OriginalText": "Ｇダーク・ラグネの鉤爪",
     "Text": "G-Dark Ragne Talon",
     "Enabled": true
   },
@@ -2065,7 +2065,7 @@
     "Enabled": true
   },
   "350413": {
-    "OriginalText": "デェフキュオネの大虫挙",
+    "OriginalText": "デェフキュオネの大墨袋",
     "Text": "Defcyone Ink Sac",
     "Enabled": true
   },
@@ -2110,7 +2110,7 @@
     "Enabled": true
   },
   "350422": {
-    "OriginalText": "ウイマフレザールの皮枝",
+    "OriginalText": "ウイマフレザールの皮膜",
     "Text": "Huy Maphrezer Leg Pelt",
     "Enabled": true
   },
@@ -2125,7 +2125,7 @@
     "Enabled": true
   },
   "350425": {
-    "OriginalText": "デェフキュオネの硬肩伝甲",
+    "OriginalText": "デェフキュオネの硬肩装甲",
     "Text": "Defcyone Hard Shoulder Carapace",
     "Enabled": true
   },
@@ -2150,27 +2150,27 @@
     "Enabled": true
   },
   "350430": {
-    "OriginalText": "機械生物の甲片",
+    "OriginalText": "機械生物の硬皮膜",
     "Text": "Hardened Biomechanical Membrane",
     "Enabled": true
   },
   "350431": {
-    "OriginalText": "機械生洋の硬骨格",
+    "OriginalText": "機械生物の硬骨格",
     "Text": "Biomechanical Frame",
     "Enabled": true
   },
   "350432": {
-    "OriginalText": "機械生洋の爪",
+    "OriginalText": "機械生物の爪",
     "Text": "Biomechanical Carapace",
     "Enabled": true
   },
   "350433": {
-    "OriginalText": "ファンアフォルの金属皮枝",
+    "OriginalText": "ファンアフォルの金属皮膜",
     "Text": "Fan'aphol Metallic Limb Pelt",
     "Enabled": true
   },
   "350434": {
-    "OriginalText": "レイヴガイストの硬武伝腕",
+    "OriginalText": "レイヴガイストの硬武装腕",
     "Text": "Rave Geist Arm Weapon",
     "Enabled": true
   },
@@ -2280,7 +2280,7 @@
     "Enabled": true
   },
   "350456": {
-    "OriginalText": "エアドギオスの硬伝甲",
+    "OriginalText": "エアドギオスの硬装甲",
     "Text": "Air Dogios Hard Shell",
     "Enabled": true
   },
@@ -2385,7 +2385,7 @@
     "Enabled": true
   },
   "350477": {
-    "OriginalText": "グリバッツの虫挙",
+    "OriginalText": "グリバッツの墨袋",
     "Text": "Gribatts Ink Sac",
     "Enabled": true
   },
@@ -2450,7 +2450,7 @@
     "Enabled": true
   },
   "350490": {
-    "OriginalText": "ブリバッツの虫挙",
+    "OriginalText": "ブリバッツの墨袋",
     "Text": "Bribatts Ink Sac",
     "Enabled": true
   },
@@ -2480,7 +2480,7 @@
     "Enabled": true
   },
   "350496": {
-    "OriginalText": "リベルゲンテの硬伝甲",
+    "OriginalText": "リベルゲンテの硬装甲",
     "Text": "Libelgante Hard Carapace",
     "Enabled": true
   },
@@ -2505,7 +2505,7 @@
     "Enabled": true
   },
   "350501": {
-    "OriginalText": "グリバッツの硬翼枝",
+    "OriginalText": "グリバッツの硬翼膜",
     "Text": "Gribatts Hard Wing Membrane",
     "Enabled": true
   },
@@ -2570,7 +2570,7 @@
     "Enabled": true
   },
   "350514": {
-    "OriginalText": "ブリバッツの硬翼枝",
+    "OriginalText": "ブリバッツの硬翼膜",
     "Text": "Bribatts Hard Wing Membrane",
     "Enabled": true
   },
@@ -2580,7 +2580,7 @@
     "Enabled": true
   },
   "350516": {
-    "OriginalText": "フォードギオスの硬伝甲",
+    "OriginalText": "フォードギオスの硬装甲",
     "Text": "Pho Dogios Hard Shell",
     "Enabled": true
   },
@@ -2620,7 +2620,7 @@
     "Enabled": true
   },
   "350524": {
-    "OriginalText": "マグネトアスの大固受袋",
+    "OriginalText": "マグネトアスの大吸引袋",
     "Text": "Magnetoas Large Sucker Pouch",
     "Enabled": true
   },
@@ -2640,7 +2640,7 @@
     "Enabled": true
   },
   "350528": {
-    "OriginalText": "レイバンサーの鋭朽爪",
+    "OriginalText": "レイバンサーの鋭鉤爪",
     "Text": "Ray Banther Sharp Hook Claw",
     "Enabled": true
   },
@@ -2695,7 +2695,7 @@
     "Enabled": true
   },
   "350539": {
-    "OriginalText": "ファラレイバンサーの朽爪",
+    "OriginalText": "ファラレイバンサーの鉤爪",
     "Text": "Fararay Banther Hook Claw",
     "Enabled": true
   },
@@ -2795,7 +2795,7 @@
     "Enabled": true
   },
   "350559": {
-    "OriginalText": "赤いβ羽根",
+    "OriginalText": "赤い虫羽根",
     "Text": "Red Insect Feather",
     "Enabled": true
   },
@@ -2820,7 +2820,7 @@
     "Enabled": true
   },
   "350564": {
-    "OriginalText": "赤い復眼",
+    "OriginalText": "赤い複眼",
     "Text": "Red Compound Eye",
     "Enabled": true
   },
@@ -2840,12 +2840,12 @@
     "Enabled": true
   },
   "350568": {
-    "OriginalText": "バンサーの鋭朽爪",
+    "OriginalText": "バンサーの鋭鉤爪",
     "Text": "Banther Sharp Hook Claw",
     "Enabled": true
   },
   "350569": {
-    "OriginalText": "トアス・ヒュブオンの伸温する皮",
+    "OriginalText": "トアス・ヒュブオンの伸縮する皮",
     "Text": "Toas Hyubon Warmer Pelt",
     "Enabled": true
   },
@@ -2870,7 +2870,7 @@
     "Enabled": true
   },
   "350574": {
-    "OriginalText": "フェブリルナ・ドラウの粘玉",
+    "OriginalText": "フェブリルナ・ドラウの舌玉",
     "Text": "Febriluna Draal Sticky Ball",
     "Enabled": true
   },
@@ -2880,7 +2880,7 @@
     "Enabled": true
   },
   "350576": {
-    "OriginalText": "マフレザール・オリヴの皮枝片",
+    "OriginalText": "マフレザール・オリヴの皮膜片",
     "Text": "Maphrezer Olive Leather Piece",
     "Enabled": true
   },
@@ -2930,7 +2930,7 @@
     "Enabled": true
   },
   "350586": {
-    "OriginalText": "ロヴラッピー・ロセの是甲",
+    "OriginalText": "ロヴラッピー・ロセの胴甲",
     "Text": "Rove Rappy Rosset Shell Rig",
     "Enabled": true
   },
@@ -2950,7 +2950,7 @@
     "Enabled": true
   },
   "350590": {
-    "OriginalText": "リバッツ・シルの虫挙",
+    "OriginalText": "リバッツ・シルの墨袋",
     "Text": "Ribatts Sill Ink Sac",
     "Enabled": true
   },
@@ -3045,7 +3045,7 @@
     "Enabled": true
   },
   "350609": {
-    "OriginalText": "Ｇライルレイダの甲羅破片",
+    "OriginalText": "Ｇライルレイダ の甲羅破片",
     "Text": "G-Rilurayda Shell Fragment",
     "Enabled": true
   },
@@ -3060,7 +3060,7 @@
     "Enabled": true
   },
   "350612": {
-    "OriginalText": "トアス・ヒュブオンの圧温レンズ",
+    "OriginalText": "トアス・ヒュブオンの圧縮レンズ",
     "Text": "Toas Hyubon Pressure Lens",
     "Enabled": true
   },
@@ -3085,7 +3085,7 @@
     "Enabled": true
   },
   "350617": {
-    "OriginalText": "フェブリルナ・ドラウの朽爪",
+    "OriginalText": "フェブリルナ・ドラウの鉤爪",
     "Text": "Febriluna Draal Hook Claw",
     "Enabled": true
   },
@@ -3095,7 +3095,7 @@
     "Enabled": true
   },
   "350619": {
-    "OriginalText": "マフレザール・オリヴの朽爪",
+    "OriginalText": "マフレザール・オリヴの鉤爪",
     "Text": "Maphrezer Olive Hook Claw",
     "Enabled": true
   },
@@ -3165,7 +3165,7 @@
     "Enabled": true
   },
   "350633": {
-    "OriginalText": "リバッツ・シルの翼枝",
+    "OriginalText": "リバッツ・シルの翼膜",
     "Text": "Ribatts Sill Wing Membrane",
     "Enabled": true
   },
@@ -3190,7 +3190,7 @@
     "Enabled": true
   },
   "350638": {
-    "OriginalText": "ドギオス・ルフレの是体伝甲",
+    "OriginalText": "ドギオス・ルフレの胴体装甲",
     "Text": "Dogios Reflet Torso Shell",
     "Enabled": true
   },
@@ -3275,7 +3275,7 @@
     "Enabled": true
   },
   "350655": {
-    "OriginalText": "トアス・ヒュブオンの固受挙",
+    "OriginalText": "トアス・ヒュブオンの吸引袋",
     "Text": "Toas Hyubon Sucker",
     "Enabled": true
   },
@@ -3310,7 +3310,7 @@
     "Enabled": true
   },
   "350662": {
-    "OriginalText": "マフレザール・オリヴの皮枝",
+    "OriginalText": "マフレザール・オリヴの皮膜",
     "Text": "Maphrezer Olive Hide",
     "Enabled": true
   },
@@ -3385,7 +3385,7 @@
     "Enabled": true
   },
   "350677": {
-    "OriginalText": "レイバンサ・オクシの朽爪",
+    "OriginalText": "レイバンサ・オクシの鉤爪",
     "Text": "Ray Banther Oxy Hook Claw",
     "Enabled": true
   },
@@ -3445,7 +3445,7 @@
     "Enabled": true
   },
   "350689": {
-    "OriginalText": "Gパイクロナーダの腕跳",
+    "OriginalText": "Gパイクロナーダの腕棍",
     "Text": "G-Piklonahda Arm Spring",
     "Enabled": true
   },
@@ -3490,7 +3490,7 @@
     "Enabled": true
   },
   "350698": {
-    "OriginalText": "点火伝置",
+    "OriginalText": "点火装置",
     "Text": "Ignition Transmission",
     "Enabled": true
   },
@@ -3660,7 +3660,7 @@
     "Enabled": true
   },
   "350732": {
-    "OriginalText": "翠のエクロジャイト",
+    "OriginalText": "村のエクロジャイト",
     "Text": "Jade Eclogite",
     "Enabled": true
   },
@@ -3855,12 +3855,12 @@
     "Enabled": true
   },
   "350771": {
-    "OriginalText": "ベガルフの超苔尾",
+    "OriginalText": "ベガルフの超尻尾",
     "Text": "Begulf Super Tail",
     "Enabled": true
   },
   "350772": {
-    "OriginalText": "フロベガルフの超苔尾",
+    "OriginalText": "フロベガルフの超尻尾",
     "Text": "Flobegulf Super Tail",
     "Enabled": true
   },
@@ -4020,22 +4020,22 @@
     "Enabled": true
   },
   "350804": {
-    "OriginalText": "グランブの超巻き祭",
+    "OriginalText": "グランブの超巻き貝",
     "Text": "Granv Super Helix",
     "Enabled": true
   },
   "350805": {
-    "OriginalText": "ガーグランブの超巻き祭",
+    "OriginalText": "ガーグランブの超巻き貝",
     "Text": "Gargranv Super Helix",
     "Enabled": true
   },
   "350806": {
-    "OriginalText": "サフグランブの超巻き祭",
+    "OriginalText": "サフグランブの超巻き貝",
     "Text": "Sahugranv Super Helix",
     "Enabled": true
   },
   "350807": {
-    "OriginalText": "パーグランブの超巻き祭",
+    "OriginalText": "パーグランブの超巻き貝",
     "Text": "Pergranv Super Helix",
     "Enabled": true
   },
@@ -4155,22 +4155,22 @@
     "Enabled": true
   },
   "350831": {
-    "OriginalText": "エデルクリトロの超粘",
+    "OriginalText": "エデルクリトロの超舌",
     "Text": "Eder Crittro Super Mucus",
     "Enabled": true
   },
   "350832": {
-    "OriginalText": "スマラクリトロの超粘",
+    "OriginalText": "スマラクリトロの超舌",
     "Text": "Smar Crittro Super Mucus",
     "Enabled": true
   },
   "350833": {
-    "OriginalText": "クリトロクィーンの超粘",
+    "OriginalText": "クリトロクィーンの超舌",
     "Text": "Crittro Queen Super Mucus",
     "Enabled": true
   },
   "350834": {
-    "OriginalText": "オーニクリトロの超粘",
+    "OriginalText": "オーニクリトロの超舌",
     "Text": "Ouni Crittro Super Mucus",
     "Enabled": true
   },
@@ -4535,7 +4535,7 @@
     "Enabled": true
   },
   "350907": {
-    "OriginalText": "原生種の融降り肉",
+    "OriginalText": "原生種の霜降り肉",
     "Text": "Fresh Native Meat",
     "Enabled": true
   },
@@ -4755,172 +4755,172 @@
     "Enabled": false
   },
   "350951": {
-    "OriginalText": "Ｇクラーダの硬脚",
+    "OriginalText": "Ｇクラーダの極脚",
     "Text": "G-Krahda Ultra Leg",
     "Enabled": true
   },
   "350952": {
-    "OriginalText": "Ｇダガンの硬爪",
+    "OriginalText": "Ｇダガンの極爪",
     "Text": "G-Dagan Ultra Claw",
     "Enabled": true
   },
   "350953": {
-    "OriginalText": "Ｇエル・ダガンの硬爪",
+    "OriginalText": "Ｇエル・ダガンの極爪",
     "Text": "G-El Dagan Ultra Claw",
     "Enabled": true
   },
   "350954": {
-    "OriginalText": "Ｇエル・アーダの硬触角",
+    "OriginalText": "Ｇエル・アーダの極触角",
     "Text": "G-El Ahda Ultra Antenna",
     "Enabled": true
   },
   "350955": {
-    "OriginalText": "Ｇプレディカーダの硬腕刃",
+    "OriginalText": "Ｇプレディカーダの極腕刃",
     "Text": "G-Predicahda Ultra Arm Blade",
     "Enabled": true
   },
   "350956": {
-    "OriginalText": "Ｇダーク・ラグネの硬爪",
+    "OriginalText": "Ｇダーク・ラグネの極爪",
     "Text": "G-Dark Ragne Ultra Claw",
     "Enabled": true
   },
   "350957": {
-    "OriginalText": "Ｇミクダの硬甲羅",
+    "OriginalText": "Ｇミクダの極甲羅",
     "Text": "G-Micda Ultra Shell",
     "Enabled": true
   },
   "350958": {
-    "OriginalText": "Ｇダーガッシュの硬歯",
+    "OriginalText": "Ｇダーガッシュの極歯",
     "Text": "G-Dahgash Ultra Tooth",
     "Enabled": true
   },
   "350959": {
-    "OriginalText": "Ｇガウォンダの硬盾",
+    "OriginalText": "Ｇガウォンダの極盾",
     "Text": "G-Ga Wonda Ultra Shield",
     "Enabled": true
   },
   "350960": {
-    "OriginalText": "Ｇグウォンダの硬盾",
+    "OriginalText": "Ｇグウォンダの極盾",
     "Text": "G-Gu Wonda Ultra Shield",
     "Enabled": true
   },
   "350961": {
-    "OriginalText": "Ｇウォルガーダの硬髪",
+    "OriginalText": "Ｇウォルガーダの極髪",
     "Text": "G-Wolgahda Ultra Hair",
     "Enabled": true
   },
   "350962": {
-    "OriginalText": "Ｇキュクロナーダの硬目",
+    "OriginalText": "Ｇキュクロナーダの極目",
     "Text": "G-Kuklonahda Ultra Eye",
     "Enabled": true
   },
   "350963": {
-    "OriginalText": "Ｇシャルレイダの硬甲羅",
+    "OriginalText": "Ｇシャルレイダの極甲羅",
     "Text": "G-Shalurayda Ultra Shell",
     "Enabled": true
   },
   "350964": {
-    "OriginalText": "バリドランナの硬粘玉",
+    "OriginalText": "バリドランナの極舌玉",
     "Text": "Baridran'na Ultra Sticky Ball",
     "Enabled": true
   },
   "350965": {
-    "OriginalText": "ノイバリドランナの硬粘玉",
+    "OriginalText": "ノイバリドランナの極舌玉",
     "Text": "Noibaridran'na Ultra Sticky Ball",
     "Enabled": true
   },
   "350966": {
-    "OriginalText": "ウィンディラスの硬翼",
+    "OriginalText": "ウィンディラスの極翼",
     "Text": "Windiras Ultra Wing",
     "Enabled": true
   },
   "350967": {
-    "OriginalText": "ノイウィンディラスの硬翼",
+    "OriginalText": "ノイウィンディラスの極翼",
     "Text": "Noiwindiras Ultra Wing",
     "Enabled": true
   },
   "350968": {
-    "OriginalText": "コラル・ドラゴンの硬角",
+    "OriginalText": "コラル・ドラゴンの極角",
     "Text": "Coral Dragon Ultra Horn",
     "Enabled": true
   },
   "350969": {
-    "OriginalText": "ラウーダンの硬毛",
+    "OriginalText": "ラウーダンの極毛",
     "Text": "Ra Oodan Ultra Fur",
     "Enabled": true
   },
   "350970": {
-    "OriginalText": "フリラウーダンの硬毛",
+    "OriginalText": "フリラウーダンの極毛",
     "Text": "Fury Ra Oodan Ultra Fur",
     "Enabled": true
   },
   "350971": {
-    "OriginalText": "ベガルフの硬牙",
+    "OriginalText": "ベガルフの極牙",
     "Text": "Begulf Ultra Fang",
     "Enabled": true
   },
   "350972": {
-    "OriginalText": "フロベガルフの硬牙",
+    "OriginalText": "フロベガルフの極牙",
     "Text": "Flobegulf Ultra Fang",
     "Enabled": true
   },
   "350973": {
-    "OriginalText": "イエーデンの硬毛皮",
+    "OriginalText": "イエーデンの極毛皮",
     "Text": "Yeden Ultra Pelt",
     "Enabled": true
   },
   "350974": {
-    "OriginalText": "コパイエーデンの硬毛皮",
+    "OriginalText": "コパイエーデンの極毛皮",
     "Text": "Kopa Yeden Ultra Pelt",
     "Enabled": true
   },
   "350975": {
-    "OriginalText": "フォンベガルフの硬爪",
+    "OriginalText": "フォンベガルフの極爪",
     "Text": "Fonbegulf Ultra Claw",
     "Enabled": true
   },
   "350976": {
-    "OriginalText": "フロフォンベガルフの硬爪",
+    "OriginalText": "フロフォンベガルフの極爪",
     "Text": "Flo Fonbegulf Ultra Claw",
     "Enabled": true
   },
   "350977": {
-    "OriginalText": "グルナバンサーの硬角",
+    "OriginalText": "グルナバンサーの極角",
     "Text": "Gluna Banther Ultra Horn",
     "Enabled": true
   },
   "350978": {
-    "OriginalText": "ジャッドバンサーの硬角",
+    "OriginalText": "ジャッドバンサーの極角",
     "Text": "Jhad Banther Ultra Horn",
     "Enabled": true
   },
   "350979": {
-    "OriginalText": "ロヴラッピーの硬羽",
+    "OriginalText": "ロヴラッピーの極羽",
     "Text": "Rove Rappy Ultra Feather",
     "Enabled": true
   },
   "350980": {
-    "OriginalText": "ウィ・ロヴラッピーの硬羽",
+    "OriginalText": "ウィ・ロヴラッピーの極羽",
     "Text": "Oui Rove Rappy Ultra Feather",
     "Enabled": true
   },
   "350981": {
-    "OriginalText": "レウ・ロヴラッピーの硬羽",
+    "OriginalText": "レウ・ロヴラッピーの極羽",
     "Text": "Leu Rove Rappy Ultra Feather",
     "Enabled": true
   },
   "350982": {
-    "OriginalText": "マガヴルムの硬銃",
+    "OriginalText": "マガヴルムの極銃",
     "Text": "Magavulum Ultra Gun",
     "Enabled": true
   },
   "350983": {
-    "OriginalText": "バオム・マガヴルムの硬銃",
+    "OriginalText": "バオム・マガヴルムの極銃",
     "Text": "Baum Magavulum Ultra Gun",
     "Enabled": true
   },
   "350984": {
-    "OriginalText": "オルテ・マガヴルムの硬銃",
+    "OriginalText": "オルテ・マガヴルムの極銃",
     "Text": "Orte Magavulum Ultra Gun",
     "Enabled": true
   },
@@ -4940,62 +4940,62 @@
     "Enabled": true
   },
   "350988": {
-    "OriginalText": "ロザードの硬背びれ",
+    "OriginalText": "ロザードの極背びれ",
     "Text": "Rozard Ultra Dorsal Fin",
     "Enabled": true
   },
   "350989": {
-    "OriginalText": "ウロザードの硬背びれ",
+    "OriginalText": "ウロザードの極背びれ",
     "Text": "Pa Rozard Ultra Dorsal Fin",
     "Enabled": true
   },
   "350990": {
-    "OriginalText": "クロザードの硬背びれ",
+    "OriginalText": "クロザードの極背びれ",
     "Text": "Gu Rozard Ultra Dorsal Fin",
     "Enabled": true
   },
   "350991": {
-    "OriginalText": "スロザードの硬背びれ",
+    "OriginalText": "スロザードの極背びれ",
     "Text": "Su Rozard Ultra Dorsal Fin",
     "Enabled": true
   },
   "350992": {
-    "OriginalText": "マフレザールの硬爪",
+    "OriginalText": "マフレザールの極爪",
     "Text": "Maphrezer Ultra Claw",
     "Enabled": true
   },
   "350993": {
-    "OriginalText": "ヴィマフレザールの硬爪",
+    "OriginalText": "ヴィマフレザールの極爪",
     "Text": "Oui Maphrezer Ultra Claw",
     "Enabled": true
   },
   "350994": {
-    "OriginalText": "エルマフレザールの硬爪",
+    "OriginalText": "エルマフレザールの極爪",
     "Text": "El Maphrezer Ultra Claw",
     "Enabled": true
   },
   "350995": {
-    "OriginalText": "ウイマフレザールの硬爪",
+    "OriginalText": "ウイマフレザールの極爪",
     "Text": "Huy Maphrezer Ultra Claw",
     "Enabled": true
   },
   "350996": {
-    "OriginalText": "ジュラキアの硬羽毛",
+    "OriginalText": "ジュラキアの極羽毛",
     "Text": "Jurrakia Ultra Feather",
     "Enabled": true
   },
   "350997": {
-    "OriginalText": "メドジュラキアの硬羽毛",
+    "OriginalText": "メドジュラキアの極羽毛",
     "Text": "Med Jurrakia Ultra Feather",
     "Enabled": true
   },
   "350998": {
-    "OriginalText": "ポリジュラキアの硬羽毛",
+    "OriginalText": "ポリジュラキアの極羽毛",
     "Text": "Poly Jurrakia Ultra Feather",
     "Enabled": true
   },
   "350999": {
-    "OriginalText": "ガンジュラキアの硬羽毛",
+    "OriginalText": "ガンジュラキアの極羽毛",
     "Text": "Gun Jurrakia Ultra Feather",
     "Enabled": true
   },
@@ -5020,47 +5020,47 @@
     "Enabled": true
   },
   "351004": {
-    "OriginalText": "グランブの硬巻き祭",
+    "OriginalText": "グランブの極巻き貝",
     "Text": "Granv Ultra Helix",
     "Enabled": true
   },
   "351005": {
-    "OriginalText": "ガーグランブの硬巻き祭",
+    "OriginalText": "ガーグランブの極巻き貝",
     "Text": "Gargranv Ultra Helix",
     "Enabled": true
   },
   "351006": {
-    "OriginalText": "サフグランブの硬巻き祭",
+    "OriginalText": "サフグランブの極巻き貝",
     "Text": "Sahugranv Ultra Helix",
     "Enabled": true
   },
   "351007": {
-    "OriginalText": "パーグランブの硬巻き祭",
+    "OriginalText": "パーグランブの極巻き貝",
     "Text": "Pergranv Ultra Helix",
     "Enabled": true
   },
   "351008": {
-    "OriginalText": "バンクゥの硬尾",
+    "OriginalText": "バンクゥの極尾",
     "Text": "Ban'qu Ultra Tail",
     "Enabled": true
   },
   "351009": {
-    "OriginalText": "フレスバンクゥの硬尾",
+    "OriginalText": "フレスバンクゥの極尾",
     "Text": "Fresc Ban'qu Ultra Tail",
     "Enabled": true
   },
   "351010": {
-    "OriginalText": "ヴェンバンクゥの硬尾",
+    "OriginalText": "ヴェンバンクゥの極尾",
     "Text": "Venn Ban'qu Ultra Tail",
     "Enabled": true
   },
   "351011": {
-    "OriginalText": "トネルバンクゥの硬尾",
+    "OriginalText": "トネルバンクゥの極尾",
     "Text": "Toner Ban'qu Ultra Tail",
     "Enabled": true
   },
   "351012": {
-    "OriginalText": "スォロバンクゥの硬尾",
+    "OriginalText": "スォロバンクゥの極尾",
     "Text": "Swole Ban'qu Ultra Tail",
     "Enabled": true
   },
@@ -5085,292 +5085,292 @@
     "Enabled": true
   },
   "351017": {
-    "OriginalText": "アビアディノの硬コブ",
+    "OriginalText": "アビアディノの極コブ",
     "Text": "Aviadino Ultra Polyp",
     "Enabled": true
   },
   "351018": {
-    "OriginalText": "ラーアビアディノの硬コブ",
+    "OriginalText": "ラーアビアディノの極コブ",
     "Text": "Lar Aviadino Ultra Polyp",
     "Enabled": true
   },
   "351019": {
-    "OriginalText": "マドアビアディノの硬コブ",
+    "OriginalText": "マドアビアディノの極コブ",
     "Text": "Mad Aviadino Ultra Polyp",
     "Enabled": true
   },
   "351020": {
-    "OriginalText": "バレダイナスの硬銃",
+    "OriginalText": "バレダイナスの極銃",
     "Text": "Valdinas Ultra Gun",
     "Enabled": true
   },
   "351021": {
-    "OriginalText": "ラーバレダイナスの硬銃",
+    "OriginalText": "ラーバレダイナスの極銃",
     "Text": "Lar Valdinas Ultra Gun",
     "Enabled": true
   },
   "351022": {
-    "OriginalText": "マーバレダイナスの硬銃",
+    "OriginalText": "マーバレダイナスの極銃",
     "Text": "Mar Valdinas Ultra Gun",
     "Enabled": true
   },
   "351023": {
-    "OriginalText": "ヴィバレダイナスの硬銃",
+    "OriginalText": "ヴィバレダイナスの極銃",
     "Text": "Oui Valdinas Ultra Gun",
     "Enabled": true
   },
   "351024": {
-    "OriginalText": "シードギオスの硬盾",
+    "OriginalText": "シードギオスの極盾",
     "Text": "Xie Dogios Ultra Shield",
     "Enabled": true
   },
   "351025": {
-    "OriginalText": "フォードギオスの硬盾",
+    "OriginalText": "フォードギオスの極盾",
     "Text": "Pho Dogios Ultra Shield",
     "Enabled": true
   },
   "351026": {
-    "OriginalText": "ヴァッドギオスの硬盾",
+    "OriginalText": "ヴァッドギオスの極盾",
     "Text": "Vad Dogios Ultra Shield",
     "Enabled": true
   },
   "351027": {
-    "OriginalText": "エアドギオスの硬盾",
+    "OriginalText": "エアドギオスの極盾",
     "Text": "Air Dogios Ultra Shield",
     "Enabled": true
   },
   "351028": {
-    "OriginalText": "トルリンプの硬ヒレ",
+    "OriginalText": "トルリンプの極ヒレ",
     "Text": "Torrimp Ultra Fin",
     "Enabled": true
   },
   "351029": {
-    "OriginalText": "ロウトルリンプの硬ヒレ",
+    "OriginalText": "ロウトルリンプの極ヒレ",
     "Text": "Rol Torrimp Ultra Fin",
     "Enabled": true
   },
   "351030": {
-    "OriginalText": "ポルトルリンプの硬ヒレ",
+    "OriginalText": "ポルトルリンプの極ヒレ",
     "Text": "Pol Torrimp Ultra Fin",
     "Enabled": true
   },
   "351031": {
-    "OriginalText": "エデルクリトロの硬毛皮",
+    "OriginalText": "エデルクリトロの極毛皮",
     "Text": "Eder Crittro Ultra Pelt",
     "Enabled": true
   },
   "351032": {
-    "OriginalText": "スマラクリトロの硬毛皮",
+    "OriginalText": "スマラクリトロの極毛皮",
     "Text": "Smar Crittro Ultra Pelt",
     "Enabled": true
   },
   "351033": {
-    "OriginalText": "クリトロクィーンの硬毛皮",
+    "OriginalText": "クリトロクィーンの極毛皮",
     "Text": "Crittro Queen Ultra Pelt",
     "Enabled": true
   },
   "351034": {
-    "OriginalText": "オーニクリトロの硬毛皮",
+    "OriginalText": "オーニクリトロの極毛皮",
     "Text": "Ouni Crittro Ultra Pelt",
     "Enabled": true
   },
   "351035": {
-    "OriginalText": "エレマンデルの硬爪",
+    "OriginalText": "エレマンデルの極爪",
     "Text": "Err Mander Ultra Claw",
     "Enabled": true
   },
   "351036": {
-    "OriginalText": "テッラマンデルの硬爪",
+    "OriginalText": "テッラマンデルの極爪",
     "Text": "Terra Mander Ultra Claw",
     "Enabled": true
   },
   "351037": {
-    "OriginalText": "イーグマンデルの硬爪",
+    "OriginalText": "イーグマンデルの極爪",
     "Text": "Eag Mander Ultra Claw",
     "Enabled": true
   },
   "351038": {
-    "OriginalText": "エクセージＴの硬目玉",
+    "OriginalText": "エクセージＴの極目玉",
     "Text": "Equsage T Ultra Eyeball",
     "Enabled": true
   },
   "351039": {
-    "OriginalText": "レ・エクセージＴの硬目玉",
+    "OriginalText": "レ・エクセージＴの極目玉",
     "Text": "Le Equsage T Ultra Eyeball",
     "Enabled": true
   },
   "351040": {
-    "OriginalText": "ミステルンの硬角",
+    "OriginalText": "ミステルンの極角",
     "Text": "Mysteroon Ultra Horn",
     "Enabled": true
   },
   "351041": {
-    "OriginalText": "アガミステルンの硬角",
+    "OriginalText": "アガミステルンの極角",
     "Text": "Aga Mysteroon Ultra Horn",
     "Enabled": true
   },
   "351042": {
-    "OriginalText": "ラピミステルンの硬角",
+    "OriginalText": "ラピミステルンの極角",
     "Text": "Rap Mysteroon Ultra Horn",
     "Enabled": true
   },
   "351043": {
-    "OriginalText": "シルブカーネベアの硬砲身",
+    "OriginalText": "シルブカーネベアの極砲身",
     "Text": "Silve Carnnebear Ultra Barrel",
     "Enabled": true
   },
   "351044": {
-    "OriginalText": "レゾルカーネベアの硬砲身",
+    "OriginalText": "レゾルカーネベアの極砲身",
     "Text": "Resol Carnnebear Ultra Barrel",
     "Enabled": true
   },
   "351045": {
-    "OriginalText": "オラルカーネベアの硬砲身",
+    "OriginalText": "オラルカーネベアの極砲身",
     "Text": "Orale Carnnebear Ultra Barrel",
     "Enabled": true
   },
   "351046": {
-    "OriginalText": "モストカーネベアの硬砲身",
+    "OriginalText": "モストカーネベアの極砲身",
     "Text": "Mosst Carnnebear Ultra Barrel",
     "Enabled": true
   },
   "351047": {
-    "OriginalText": "アルレイバンサーの硬銃",
+    "OriginalText": "アルレイバンサーの極銃",
     "Text": "Alray Banther Ultra Gun",
     "Enabled": true
   },
   "351048": {
-    "OriginalText": "ゾンレイバンサーの硬銃",
+    "OriginalText": "ゾンレイバンサーの極銃",
     "Text": "Zonray Banther Ultra Gun",
     "Enabled": true
   },
   "351049": {
-    "OriginalText": "ナールレイバンサーの硬銃",
+    "OriginalText": "ナールレイバンサーの極銃",
     "Text": "Nalray Banther Ultra Gun",
     "Enabled": true
   },
   "351050": {
-    "OriginalText": "ファラレイバンサーの硬銃",
+    "OriginalText": "ファラレイバンサーの極銃",
     "Text": "Fararay Banther Ultra Gun",
     "Enabled": true
   },
   "351051": {
-    "OriginalText": "ディートアスの硬皮",
+    "OriginalText": "ディートアスの極皮",
     "Text": "Dietoas Ultra Hide",
     "Enabled": true
   },
   "351052": {
-    "OriginalText": "テュルトアスの硬皮",
+    "OriginalText": "テュルトアスの極皮",
     "Text": "Tulletoas Ultra Hide",
     "Enabled": true
   },
   "351053": {
-    "OriginalText": "マグネトアスの硬皮",
+    "OriginalText": "マグネトアスの極皮",
     "Text": "Magnetoas Ultra Hide",
     "Enabled": true
   },
   "351054": {
-    "OriginalText": "ノイヴァトアスの硬皮",
+    "OriginalText": "ノイヴァトアスの極皮",
     "Text": "Neuvatoas Ultra Hide",
     "Enabled": true
   },
   "351055": {
-    "OriginalText": "ゴルドスの硬杭",
+    "OriginalText": "ゴルドスの極杭",
     "Text": "Gordes Ultra Spike",
     "Enabled": true
   },
   "351056": {
-    "OriginalText": "ディゴルドスの硬杭",
+    "OriginalText": "ディゴルドスの極杭",
     "Text": "Digordes Ultra Spike",
     "Enabled": true
   },
   "351057": {
-    "OriginalText": "オルゴルドスの硬杭",
+    "OriginalText": "オルゴルドスの極杭",
     "Text": "Orgordes Ultra Spike",
     "Enabled": true
   },
   "351058": {
-    "OriginalText": "ヴァリゴルドスの硬杭",
+    "OriginalText": "ヴァリゴルドスの極杭",
     "Text": "Valigordes Ultra Spike",
     "Enabled": true
   },
   "351059": {
-    "OriginalText": "ファンアフォルの硬羽",
+    "OriginalText": "ファンアフォルの極羽",
     "Text": "Fan'aphol Ultra Feather",
     "Enabled": true
   },
   "351060": {
-    "OriginalText": "ウィルアフォルの硬羽",
+    "OriginalText": "ウィルアフォルの極羽",
     "Text": "Viluaphol Ultra Feather",
     "Enabled": true
   },
   "351061": {
-    "OriginalText": "アグリオスの硬背びれ",
+    "OriginalText": "アグリオスの極背びれ",
     "Text": "Agrios Ultra Dorsal Fin",
     "Enabled": true
   },
   "351062": {
-    "OriginalText": "グレイオスの硬背びれ",
+    "OriginalText": "グレイオスの極背びれ",
     "Text": "Greios Ultra Dorsal Fin",
     "Enabled": true
   },
   "351063": {
-    "OriginalText": "アルテイオスの硬背びれ",
+    "OriginalText": "アルテイオスの極背びれ",
     "Text": "Alteios Ultra Dorsal Fin",
     "Enabled": true
   },
   "351064": {
-    "OriginalText": "エウリュードの硬尾",
+    "OriginalText": "エウリュードの極尾",
     "Text": "Eurude Ultra Tail",
     "Enabled": true
   },
   "351065": {
-    "OriginalText": "ヴィヴリュードの硬尾",
+    "OriginalText": "ヴィヴリュードの極尾",
     "Text": "Vivryude Ultra Tail",
     "Enabled": true
   },
   "351066": {
-    "OriginalText": "ガラティオンの硬",
+    "OriginalText": "ガラティオンの極",
     "Text": "Garation Ultra Hoof",
     "Enabled": true
   },
   "351067": {
-    "OriginalText": "ギガティオンの硬",
+    "OriginalText": "ギガティオンの極",
     "Text": "Gigation Ultra Hoof",
     "Enabled": true
   },
   "351068": {
-    "OriginalText": "グラヴディオンの硬",
+    "OriginalText": "グラヴディオンの極",
     "Text": "Gravdion Ultra Hoof",
     "Enabled": true
   },
   "351069": {
-    "OriginalText": "アルキュオネの硬皮",
+    "OriginalText": "アルキュオネの極皮",
     "Text": "Alcyone Ultra Hide",
     "Enabled": true
   },
   "351070": {
-    "OriginalText": "デェフキュオネの硬皮",
+    "OriginalText": "デェフキュオネの極皮",
     "Text": "Defcyone Ultra Hide",
     "Enabled": true
   },
   "351071": {
-    "OriginalText": "ギュゲンテの硬伝甲",
+    "OriginalText": "ギュゲンテの極装甲",
     "Text": "Gygante Ultra Armor",
     "Enabled": true
   },
   "351072": {
-    "OriginalText": "リベルゲンテの硬装甲",
+    "OriginalText": "リベルゲンテの極装甲",
     "Text": "Libelgante Ultra Armor",
     "Enabled": true
   },
   "351073": {
-    "OriginalText": "レイヴガイストの硬結界",
+    "OriginalText": "レイヴガイストの極結界",
     "Text": "Rave Geist Ultra Barrier",
     "Enabled": true
   },
   "351074": {
-    "OriginalText": "ネメスガイストの硬結界",
+    "OriginalText": "ネメスガイストの極結界",
     "Text": "Nemes Geist Ultra Barrier",
     "Enabled": true
   },
@@ -5530,37 +5530,37 @@
     "Enabled": true
   },
   "360001": {
-    "OriginalText": "グランの力を蓄えた鉱洋結晶。\n未知の惑星マキアにおいて、あらゆる\n洋資に加工が可能な城一の材料となる。",
+    "OriginalText": "グランの力を蓄えた鉱物結晶。\n未知の惑星マキアにおいて、あらゆる\n物資に加工が可能な唯一の村料となる。",
     "Text": "A Crystaline Ore that contains Gran\nEnergy. Native to Mahkia, it can be\nprocessed into materials for equipment.",
     "Enabled": true
   },
   "360002": {
-    "OriginalText": "グランの力を蓄えた鉱洋結晶。\n火の粉が舞うような灼熱の環境下で\n炎属性を帯び、赤く輝いている。",
+    "OriginalText": "グランの力を蓄えた鉱物結晶。\n火の粉が舞うような灼熱の環境下で\n炎属性を帯び、赤く輝いている。",
     "Text": "A Crystaline Ore that contains Gran\nEnergy. When exposed to heat, it shines\nred as it's imbued with the power of\nFire.",
     "Enabled": true
   },
   "360003": {
-    "OriginalText": "グランの力を蓄えた鉱洋結晶。\n劇雪地帯のような冷寒の環境下で\n劇属性を帯び、青く輝いている。",
+    "OriginalText": "グランの力を蓄えた鉱物結晶。\n氷雪地帯のような極寒の環境下で\n氷属性を帯び、青く輝いている。",
     "Text": "A Crystaline Ore that contains Gran\nEnergy. When exposed to arctic\nconditions, it shines blue as it's\nimbued with the power of Ice.",
     "Enabled": true
   },
   "360004": {
-    "OriginalText": "グランの力を蓄えた鉱洋結晶。\n落雷の影響を受けやすい降雨時に\n雷属性を帯び、黄色く輝いている。",
+    "OriginalText": "グランの力を蓄えた鉱物結晶。\n落雷の影響を受けやすい降雨時に\n雷属性を帯び、黄色く輝いている。",
     "Text": "A Crystaline Ore that contains Gran\nEnergy. When exposed to lightning\nstrikes, it shines yellow as it's imbued\nwith the power of Lightning.",
     "Enabled": true
   },
   "360005": {
-    "OriginalText": "グランの力を蓄えた鉱洋結晶。\n砂塵の影響を受けやすい強風時に\n風属性を帯び、緑色に輝いている。",
+    "OriginalText": "グランの力を蓄えた鉱物結晶。\n砂塵の影響を受けやすい強風時に\n風属性を帯び、緑色に輝いている。",
     "Text": "A Crystaline Ore that contains Gran\nEnergy. When exposed to strong wind, it\nshines green as it's imbued with the\npower of Wind.",
     "Enabled": true
   },
   "360006": {
-    "OriginalText": "グランの力を蓄えた鉱洋結晶。\n光属性を帯び、橙色に輝いている。\n原生種の舌の影響らしいが詳細は不明。",
+    "OriginalText": "グランの力を蓄えた鉱物結晶。\n光属性を帯び、橙色に輝いている。\n原生種の蛍の影響らしいが詳細は不明。",
     "Text": "A Crystaline Ore that contains Gran\nEnergy. The native species seem to be influenced\nby it. It's details are unknown, however\nit glows orange with the power of Light.",
     "Enabled": true
   },
   "360007": {
-    "OriginalText": "グランの力を蓄えた鉱洋結晶。\n闇属性を帯び、紫色に輝いている。\n原生種の舌の影響らしいが詳細は不明。",
+    "OriginalText": "グランの力を蓄えた鉱物結晶。\n闇属性を帯び、紫色に輝いている。\n原生種の蛍の影響らしいが詳細は不明。",
     "Text": "A Crystaline Ore that contains Gran\nEnergy. The native species seem to be influenced\nby it. It's details are unknown, however\nit glows purple with the power of Dark.",
     "Enabled": true
   },
@@ -5570,7 +5570,7 @@
     "Enabled": true
   },
   "360009": {
-    "OriginalText": "β系ダーカーの触角。\n食用になり珍味として人気。",
+    "OriginalText": "虫系ダーカーの触角。\n食用になり珍味として人気。",
     "Text": "Antenna from a insect-type Darker.\nEdible and popular as delicacy.",
     "Enabled": true
   },
@@ -5590,17 +5590,17 @@
     "Enabled": true
   },
   "360013": {
-    "OriginalText": "蛍乳類原生種の肉。\n食用だが個体によっては硬い。",
+    "OriginalText": "哺乳類原生種の肉。\n食用だが個体によっては硬い。",
     "Text": "Raw meat of a native specie.\nEdible but can be tough to someone.",
     "Enabled": true
   },
   "360014": {
-    "OriginalText": "蛍乳類原生種の肉。\n食用として人気の小型種から厳選。",
+    "OriginalText": "哺乳類原生種の肉。\n食用として人気の小型種から厳選。",
     "Text": "Raw meat of a native specie.\nSmall and edible, carefully selected\nbut popular.",
     "Enabled": true
   },
   "360015": {
-    "OriginalText": "蛍乳類原生種の肉。\n食用として人気の中型種から厳選。",
+    "OriginalText": "哺乳類原生種の肉。\n食用として人気の中型種から厳選。",
     "Text": "Raw meat of a specie.\nMid-sized and edible, carefully\nselected but popular.",
     "Enabled": true
   },
@@ -5615,7 +5615,7 @@
     "Enabled": true
   },
   "360018": {
-    "OriginalText": "中型原生種の臓洋。\n食用になり栄養価が高く美味。",
+    "OriginalText": "中型原生種の臓物。\n食用になり栄養価が高く美味。",
     "Text": "Innards of a medium-sized native\nspecies.\nIt is edible, nutritious and delicious",
     "Enabled": true
   },
@@ -5630,22 +5630,22 @@
     "Enabled": true
   },
   "360021": {
-    "OriginalText": "祭殻をまとった甲殻類。\nその身は食用になる。",
+    "OriginalText": "貝殻をまとった甲殻類。\nその身は食用になる。",
     "Text": "Mask-like skull of a crustacean.\nWeird but Edible",
     "Enabled": true
   },
   "360022": {
-    "OriginalText": "膜β類系原生種の苔尾。\n食用になり大型の洋ほど肉厚で美味。",
+    "OriginalText": "爬虫類系原生種の尻尾。\n食用になり大型の物ほど肉厚で美味。",
     "Text": "Tail of reptilian Native specie.\nThe larger the more edible, it's meaty\nand flavorful.",
     "Enabled": true
   },
   "360023": {
-    "OriginalText": "膜β類系原生種のトサカ。\n食用になりコラーゲンが豊富。",
+    "OriginalText": "爬虫類系原生種のトサカ。\n食用になりコラーゲンが豊富。",
     "Text": "Crest of a reptilian Native specie.\nEdible and rich in collagen.",
     "Enabled": true
   },
   "360024": {
-    "OriginalText": "主に惑星本体で自生する墨。\n食用になり緑が麗いほど美味。",
+    "OriginalText": "主に惑星本体で自生する苔。\n食用になり緑が濃いほど美味。",
     "Text": "Moss mainly found in planet.\nIt is colored green and very beautiful\nand it's flavorful.",
     "Enabled": true
   },
@@ -5655,22 +5655,22 @@
     "Enabled": true
   },
   "360026": {
-    "OriginalText": "高地で採取される劇。\n原生種の体に付着している場合も。",
+    "OriginalText": "高地で採取される氷。\n原生種の体に付着している場合も。",
     "Text": "An ice collected in Highlands.\nSometimes it sticks to the body\nof a Native specie.",
     "Enabled": true
   },
   "360027": {
-    "OriginalText": "原生種の血液。\n栄養価が高く飲用が可能。\n麗厚な味わいを生かし調味料にもなる。",
+    "OriginalText": "原生種の血液。\n栄養価が高く飲用が可能。\n濃厚な味わいを生かし調味料にもなる。",
     "Text": "Fresh blood.\nCan be drank and nutritious. Thick\nand flavorful can be used as seasoning.",
     "Enabled": true
   },
   "360028": {
-    "OriginalText": "原生種から哺り出したエキス。\n栄養価が高く飲用が可能。\n麗厚な味わいを生かし調味料にもなる。",
+    "OriginalText": "原生種から搾り出したエキス。\n栄養価が高く飲用が可能。\n濃厚な味わいを生かし調味料にもなる。",
     "Text": "Fresh essence.\nCan be drank and nutritious. Thick\nand flavorful can be used as seasoning.",
     "Enabled": true
   },
   "360029": {
-    "OriginalText": "火を噴く生体の熱装。\n熱を帯びており食用すると\n体が搾から極まる。",
+    "OriginalText": "火を噴く生体の熱源。\n熱を帯びており食用すると\n体が芯から温まる。",
     "Text": "The heat source of an organism that\n.spouts fire.\nIt is very hot when eaten.",
     "Enabled": true
   },
@@ -5680,27 +5680,27 @@
     "Enabled": true
   },
   "360031": {
-    "OriginalText": "地面をはう芯に実る色鮮やかな野菜。\n主に惑星本体に自生している。\n赤い色合いが食欲をそそる。",
+    "OriginalText": "地面をはう茎に実る色鮮やかな野菜。\n主に惑星本体に自生している。\n赤い色合いが食欲をそそる。",
     "Text": "A vivid vegetable that bears fruit.\nIt grows natively on the planet's\nsurface. It's red colors incite\nappetite.",
     "Enabled": true
   },
   "360032": {
-    "OriginalText": "コラル・ドラゴンの血液。\n栄養価が高く茎養強滋と美容に効果。",
+    "OriginalText": "コラル・ドラゴンの血液。\n栄養価が高く滋養強壮と美容に効果。",
     "Text": "Blood of a Coral Dragon.\nNutritious and is effective in\nmaintaining your figure.",
     "Enabled": true
   },
   "360033": {
-    "OriginalText": "純度の高い鉄板。\nサビにくく熱龍導率が高く、鉄板焼き、\nステーキなどの料理に欠かせない。",
+    "OriginalText": "純度の高い鉄板。\nサビにくく熱伝導率が高く、鉄板焼き、\nステーキなどの料理に欠かせない。",
     "Text": "High purity steel plate.\nCreated with the right amount of\ndragon's heat. Essential for cooking.",
     "Enabled": true
   },
   "360034": {
-    "OriginalText": "主に惑星本体で自生する植洋の果実。\n食用になり見た目にもおいしそう。",
+    "OriginalText": "主に惑星本体で自生する植物の果実。\n食用になり見た目にもおいしそう。",
     "Text": "A plant that bears fruit commonly found\nin the planet. It is edible, looks good\nand delicious.",
     "Enabled": true
   },
   "360035": {
-    "OriginalText": "大型原生種の骨。\nカルシウムが豊富で良い出枚が取れる。",
+    "OriginalText": "大型原生種の骨。\nカルシウムが豊富で良い出汁が取れる。",
     "Text": "Large bone of a native specie.\nVery good source of calcium",
     "Enabled": true
   },
@@ -5740,22 +5740,22 @@
     "Enabled": true
   },
   "360043": {
-    "OriginalText": "惑星の一部に自生する壮洋。\n加工して食用する。",
+    "OriginalText": "惑星の一部に自生する穀物。\n加工して食用する。",
     "Text": "Only grows on a certain part of the\nplanet. It is edible and can be\nreproduce.",
     "Enabled": true
   },
   "360044": {
-    "OriginalText": "惑星の一部に自生する植洋の葉。\n生食が可能。",
+    "OriginalText": "惑星の一部に自生する植物の葉。\n生食が可能。",
     "Text": "Leaf of a plant that grows on a certain\npart of the planet.\nCan be eaten in raw.",
     "Enabled": true
   },
   "360045": {
-    "OriginalText": "惑星の一部に自生する植洋の果実。\n穀々しく糖度が高い。",
+    "OriginalText": "惑星の一部に自生する植物の果実。\n瑞々しく糖度が高い。",
     "Text": "Fruit of a plant that grows on a certain\npart of the planet.\nIt has high amount of sugar.",
     "Enabled": true
   },
   "360046": {
-    "OriginalText": "惑星の一部に自生する壮洋。\n食べ方はいろいろ。",
+    "OriginalText": "惑星の一部に自生する穀物。\n食べ方はいろいろ。",
     "Text": "Only grows on a certain part of the\nplanet. It can be eaten in many ways.",
     "Enabled": true
   },
@@ -5765,37 +5765,37 @@
     "Enabled": true
   },
   "360048": {
-    "OriginalText": "銅の荒野で採集される岩石。\n強度が高く武器防具の素村に最適。",
+    "OriginalText": "鋼の荒野で採集される岩石。\n強度が高く武器防具の素村に最適。",
     "Text": "Rock found in Steel Wasteland.\nSuitable and strong material in crafting\na weapon.",
     "Enabled": true
   },
   "360049": {
-    "OriginalText": "銅の荒野で採集される鉱洋。\n各種元素を含有しており\n武器防具の加工素村として利用される。",
+    "OriginalText": "鋼の荒野で採集される鉱物。\n各種元素を含有しており\n武器防具の加工素村として利用される。",
     "Text": "Mineral found in Steel Wasteland.\nContains many elements and is processed\nto be used in crafting a weapon.",
     "Enabled": true
   },
   "360050": {
-    "OriginalText": "銅の荒野で採集される稀少金属。\n武器防具の素村として価値が高い。",
+    "OriginalText": "鋼の荒野で採集される稀少金属。\n武器防具の素村として価値が高い。",
     "Text": "Rare metal found in Steel Wasteland.\nVery valuable material in crafting a\nweapon.",
     "Enabled": true
   },
   "360051": {
-    "OriginalText": "グラン水装で採集される鉱洋。\n樹木状に地面から伸びて固形化しており\n武器防具の素村に最適。",
+    "OriginalText": "グラン水源で採集される鉱物。\n樹木状に地面から伸びて固形化しており\n武器防具の素村に最適。",
     "Text": "Ore found in Gran Water Rig.\nExtracted and hardened to be used as\nsuitable material in crafting a weapon.",
     "Enabled": true
   },
   "360052": {
-    "OriginalText": "グラン水装で採集される鉱洋。\n各種元素を含有しており\n武器防具の加工素村として利用される。",
+    "OriginalText": "グラン水源で採集される鉱物。\n各種元素を含有しており\n武器防具の加工素村として利用される。",
     "Text": "Ore found in Gran Water Rig.\nContains many elements and is processed\nto be used in crafting a weapon.",
     "Enabled": true
   },
   "360053": {
-    "OriginalText": "グラン水装で採集される稀少鉱洋。\n武器防具の素村として価値が高い。",
+    "OriginalText": "グラン水源で採集される稀少鉱物。\n武器防具の素村として価値が高い。",
     "Text": "Rare ore found in Gran Water Rig.\nVery valuable material in crafting a\nweapon.",
     "Enabled": true
   },
   "360054": {
-    "OriginalText": "グラン水装で採集される稀少鉱洋。\n高純度で武器防具の素村として貴重。",
+    "OriginalText": "グラン水源で採集される稀少鉱物。\n高純度で武器防具の素村として貴重。",
     "Text": "Rare ore found in Gran Water Rig.\nVery valuable material in crafting high\npurity weapon.",
     "Enabled": true
   },
@@ -5810,12 +5810,12 @@
     "Enabled": true
   },
   "360057": {
-    "OriginalText": "炎の高地で採集される葉状の稀少鉱洋。\n武器防具の素村として価値が高い。",
+    "OriginalText": "炎の高地で採集される葉状の稀少鉱物。\n武器防具の素村として価値が高い。",
     "Text": "Rare leaflike ore found in Flame\nHighlands. Very valuable material in\ncrafting a weapon.",
     "Enabled": true
   },
   "360058": {
-    "OriginalText": "炎の高地で採集される棘状の稀少鉱洋。\n高純度で武器防具の素村として貴重。",
+    "OriginalText": "炎の高地で採集される棘状の稀少鉱物。\n高純度で武器防具の素村として貴重。",
     "Text": "Rare spiky ore found in Flame Highlands.\nVery valuable material in crafting high\npurity weapons.",
     "Enabled": true
   },
@@ -5830,12 +5830,12 @@
     "Enabled": true
   },
   "360061": {
-    "OriginalText": "大尖塔で採集される遺洋。\n高純度・高硬度の元素構成で\n武器防具の素村として貴重。",
+    "OriginalText": "大尖塔で採集される遺物。\n高純度・高硬度の元素構成で\n武器防具の素村として貴重。",
     "Text": "Relic found in Large Spire.\nValuable material that is hard and\ncontains many elements used in\ncrafting weapons.",
     "Enabled": true
   },
   "360062": {
-    "OriginalText": "古代都市で採集される銅板。\n建造洋に使用された多積層構造で\n武器防具の素村として価値が高い。",
+    "OriginalText": "古代都市で採集される鋼板。\n建造物に使用された多積層構造で\n武器防具の素村として価値が高い。",
     "Text": "Steel sheet found in Ancient City.\nVery valuable multi-layered material to\nbe used in crafting weapons.",
     "Enabled": true
   },
@@ -5850,7 +5850,7 @@
     "Enabled": true
   },
   "360065": {
-    "OriginalText": "白い酔の向こうに見た甘酸っぱい思い出。\nコスチュームの素村として利用される。",
+    "OriginalText": "白い露の向こうに見た甘酸っぱい思い出。\nコスチュームの素村として利用される。",
     "Text": "白い酔の向こうに見た甘酸っぱい思い出.\n*Can be used as material for costumes.",
     "Enabled": true
   },
@@ -5880,62 +5880,62 @@
     "Enabled": true
   },
   "360071": {
-    "OriginalText": "銅の荒野で採集される鉱洋。\nグラン結晶とよく一緒に見つかる。\n武器防具の素村になる。",
+    "OriginalText": "鋼の荒野で採集される鉱物。\nグラン結晶とよく一緒に見つかる。\n武器防具の素村になる。",
     "Text": "Ore found in Steel Wasteland.\nMostly found near Gran Crystals. Can be\nused as material for crafting weapons.",
     "Enabled": true
   },
   "360072": {
-    "OriginalText": "グラン水装で採集される鉱洋。\n植洋が講化したもので硬度が高い。\n武器防具の素村になる。",
+    "OriginalText": "グラン水源で採集される鉱物。\n植物が珪化したもので硬度が高い。\n武器防具の素村になる。",
     "Text": "Ore found in Gran Water Rig.\nIt is buried makes it very solid.vCan be\nused as material for crafting weapons.",
     "Enabled": true
   },
   "360073": {
-    "OriginalText": "炎の高地で採集される鉱洋。\n武器防具の素村になる。",
+    "OriginalText": "炎の高地で採集される鉱物。\n武器防具の素村になる。",
     "Text": "Ore found in Flame Highlands. Can be\nused as material for crafting weapons.",
     "Enabled": true
   },
   "360074": {
-    "OriginalText": "炎の高地で燃えている金属結晶。\n低極度で燃焼する特性を持つ。\n武器防具の素村になる。",
+    "OriginalText": "炎の高地で燃えている金属結晶。\n低温度で燃焼する特性を持つ。\n武器防具の素村になる。",
     "Text": "Metal crystal burning in Flame Highlands.\nIt can withstand high temperatures.\nUsed as material in crafting weapons.",
     "Enabled": true
   },
   "360075": {
-    "OriginalText": "古代都市で採集される遺洋。\n高純度の鉄製で建造洋を支える。\n武器防具の素村になる。",
+    "OriginalText": "古代都市で採集される遺物。\n高純度の鉄製で建造物を支える。\n武器防具の素村になる。",
     "Text": "Relic found in Ancient City.\nMade up of reinforced high purity iron.\nUsed as material in crafting weapons.",
     "Enabled": true
   },
   "360076": {
-    "OriginalText": "大尖塔で採集されるワイヤー。\n高強度で内部の床を瑞っている。\n武器防具の素村として貴重。",
+    "OriginalText": "大尖塔で採集されるワイヤー。\n高強度で内部の床を吊っている。\n武器防具の素村として貴重。",
     "Text": "Wire found in Large Spire.\nIt has high durability interior. Can be\nused as material for crafting weapons.",
     "Enabled": true
   },
   "360077": {
-    "OriginalText": "銅の荒野で採集される吊柘石。\n上質な武器防具の素村になる。",
+    "OriginalText": "鋼の荒野で採集される柘榴石。\n上質な武器防具の素村になる。",
     "Text": "Hanged gem found in Steel Wasteland.\nCan be used as material in crafting\nquality weapons.",
     "Enabled": true
   },
   "360078": {
-    "OriginalText": "グラン水装で採集される鉱洋。\n長い年月をかけてグラン流に磨かれ\n高純度で武器防具の素村として貴重。",
+    "OriginalText": "グラン水源で採集される鉱物。\n長い年月をかけてグラン流に磨かれ\n高純度で武器防具の素村として貴重。",
     "Text": "Ore found in Gran Water Rig.\nPolished by Gran for a long time it can\nbe used as material for crafting high\npurity weapons.",
     "Enabled": true
   },
   "360079": {
-    "OriginalText": "炎の高地で採集される鉱洋。\n常時、放熱する特性を持つ。\n武器防具の素村になる。",
+    "OriginalText": "炎の高地で採集される鉱物。\n常時、放熱する特性を持つ。\n武器防具の素村になる。",
     "Text": "Ore found in Flame Highlands.\nUsually it can withstand heat.\nUsed as material for crafting weapons.",
     "Enabled": true
   },
   "360080": {
-    "OriginalText": "大尖塔で採集される焼結体。\n長時間放置され墨むしている。\n武器防具の素村になる。",
+    "OriginalText": "大尖塔で採集される焼結体。\n長時間放置され苔むしている。\n武器防具の素村になる。",
     "Text": "Sintered material found in Great Spire.\nUsed as material for crafting weapons.",
     "Enabled": true
   },
   "360081": {
-    "OriginalText": "コア内部で採集される鉱洋。\n生きた石を思わせる眼の紋様が特微。\n武器防具の素村になる。",
+    "OriginalText": "コア内部で採集される鉱物。\n生きた石を思わせる眼の紋様が特微。\n武器防具の素村になる。",
     "Text": "Ore found in Inner Core.\nA gem with an eyeball pattern.\nUsed as material for crafting weapons.",
     "Enabled": true
   },
   "360082": {
-    "OriginalText": "コア内部で採集される鉱洋。\n脈動する特性を持つ。\n武器防具の素村になる。",
+    "OriginalText": "コア内部で採集される鉱物。\n脈動する特性を持つ。\n武器防具の素村になる。",
     "Text": "Ore found in Inner Core.\nIt can absorb vibrations.\nUsed as material for crafting weapons.",
     "Enabled": true
   },
@@ -5950,262 +5950,262 @@
     "Enabled": true
   },
   "360085": {
-    "OriginalText": "リージョン3難易度3材料3の解説文",
+    "OriginalText": "リージョン3難易度3村料3の解説文",
     "Text": "",
     "Enabled": false
   },
   "360086": {
-    "OriginalText": "リージョン3難易度4材料1の解説文",
+    "OriginalText": "リージョン3難易度4村料1の解説文",
     "Text": "",
     "Enabled": false
   },
   "360087": {
-    "OriginalText": "リージョン3難易度4材料2の解説文",
+    "OriginalText": "リージョン3難易度4村料2の解説文",
     "Text": "",
     "Enabled": false
   },
   "360088": {
-    "OriginalText": "リージョン3難易度4材料3の解説文",
+    "OriginalText": "リージョン3難易度4村料3の解説文",
     "Text": "",
     "Enabled": false
   },
   "360089": {
-    "OriginalText": "リージョン3難易度5材料1の解説文",
+    "OriginalText": "リージョン3難易度5村料1の解説文",
     "Text": "",
     "Enabled": false
   },
   "360090": {
-    "OriginalText": "リージョン3難易度5材料2の解説文",
+    "OriginalText": "リージョン3難易度5村料2の解説文",
     "Text": "",
     "Enabled": false
   },
   "360091": {
-    "OriginalText": "リージョン3難易度5材料3の解説文",
+    "OriginalText": "リージョン3難易度5村料3の解説文",
     "Text": "",
     "Enabled": false
   },
   "360092": {
-    "OriginalText": "リージョン5難易度1材料1の解説文",
+    "OriginalText": "リージョン5難易度1村料1の解説文",
     "Text": "",
     "Enabled": false
   },
   "360093": {
-    "OriginalText": "リージョン5難易度1材料2の解説文",
+    "OriginalText": "リージョン5難易度1村料2の解説文",
     "Text": "",
     "Enabled": false
   },
   "360094": {
-    "OriginalText": "リージョン5難易度1材料3の解説文",
+    "OriginalText": "リージョン5難易度1村料3の解説文",
     "Text": "",
     "Enabled": false
   },
   "360095": {
-    "OriginalText": "リージョン5難易度2材料1の解説文",
+    "OriginalText": "リージョン5難易度2村料1の解説文",
     "Text": "",
     "Enabled": false
   },
   "360096": {
-    "OriginalText": "リージョン5難易度2材料2の解説文",
+    "OriginalText": "リージョン5難易度2村料2の解説文",
     "Text": "",
     "Enabled": false
   },
   "360097": {
-    "OriginalText": "リージョン5難易度2材料3の解説文",
+    "OriginalText": "リージョン5難易度2村料3の解説文",
     "Text": "",
     "Enabled": false
   },
   "360098": {
-    "OriginalText": "リージョン5難易度3材料1の解説文",
+    "OriginalText": "リージョン5難易度3村料1の解説文",
     "Text": "",
     "Enabled": false
   },
   "360099": {
-    "OriginalText": "リージョン5難易度3材料2の解説文",
+    "OriginalText": "リージョン5難易度3村料2の解説文",
     "Text": "",
     "Enabled": false
   },
   "360100": {
-    "OriginalText": "リージョン5難易度3材料3の解説文",
+    "OriginalText": "リージョン5難易度3村料3の解説文",
     "Text": "",
     "Enabled": false
   },
   "360101": {
-    "OriginalText": "リージョン5難易度4材料1の解説文",
+    "OriginalText": "リージョン5難易度4村料1の解説文",
     "Text": "",
     "Enabled": false
   },
   "360102": {
-    "OriginalText": "リージョン5難易度4材料2の解説文",
+    "OriginalText": "リージョン5難易度4村料2の解説文",
     "Text": "",
     "Enabled": false
   },
   "360103": {
-    "OriginalText": "リージョン5難易度4材料3の解説文",
+    "OriginalText": "リージョン5難易度4村料3の解説文",
     "Text": "",
     "Enabled": false
   },
   "360104": {
-    "OriginalText": "リージョン5難易度5材料1の解説文",
+    "OriginalText": "リージョン5難易度5村料1の解説文",
     "Text": "",
     "Enabled": false
   },
   "360105": {
-    "OriginalText": "リージョン5難易度5材料2の解説文",
+    "OriginalText": "リージョン5難易度5村料2の解説文",
     "Text": "",
     "Enabled": false
   },
   "360106": {
-    "OriginalText": "リージョン5難易度5材料3の解説文",
+    "OriginalText": "リージョン5難易度5村料3の解説文",
     "Text": "",
     "Enabled": false
   },
   "360107": {
-    "OriginalText": "リージョン6難易度1材料1の解説文",
+    "OriginalText": "リージョン6難易度1村料1の解説文",
     "Text": "",
     "Enabled": false
   },
   "360108": {
-    "OriginalText": "リージョン6難易度1材料2の解説文",
+    "OriginalText": "リージョン6難易度1村料2の解説文",
     "Text": "",
     "Enabled": false
   },
   "360109": {
-    "OriginalText": "リージョン6難易度1材料3の解説文",
+    "OriginalText": "リージョン6難易度1村料3の解説文",
     "Text": "",
     "Enabled": false
   },
   "360110": {
-    "OriginalText": "リージョン6難易度2材料1の解説文",
+    "OriginalText": "リージョン6難易度2村料1の解説文",
     "Text": "",
     "Enabled": false
   },
   "360111": {
-    "OriginalText": "リージョン6難易度2材料2の解説文",
+    "OriginalText": "リージョン6難易度2村料2の解説文",
     "Text": "",
     "Enabled": false
   },
   "360112": {
-    "OriginalText": "リージョン6難易度2材料3の解説文",
+    "OriginalText": "リージョン6難易度2村料3の解説文",
     "Text": "",
     "Enabled": false
   },
   "360113": {
-    "OriginalText": "リージョン6難易度3材料1の解説文",
+    "OriginalText": "リージョン6難易度3村料1の解説文",
     "Text": "",
     "Enabled": false
   },
   "360114": {
-    "OriginalText": "リージョン6難易度3材料2の解説文",
+    "OriginalText": "リージョン6難易度3村料2の解説文",
     "Text": "",
     "Enabled": false
   },
   "360115": {
-    "OriginalText": "リージョン6難易度3材料3の解説文",
+    "OriginalText": "リージョン6難易度3村料3の解説文",
     "Text": "",
     "Enabled": false
   },
   "360116": {
-    "OriginalText": "リージョン6難易度4材料1の解説文",
+    "OriginalText": "リージョン6難易度4村料1の解説文",
     "Text": "",
     "Enabled": false
   },
   "360117": {
-    "OriginalText": "リージョン6難易度4材料2の解説文",
+    "OriginalText": "リージョン6難易度4村料2の解説文",
     "Text": "",
     "Enabled": false
   },
   "360118": {
-    "OriginalText": "リージョン6難易度4材料3の解説文",
+    "OriginalText": "リージョン6難易度4村料3の解説文",
     "Text": "",
     "Enabled": false
   },
   "360119": {
-    "OriginalText": "リージョン6難易度5材料1の解説文",
+    "OriginalText": "リージョン6難易度5村料1の解説文",
     "Text": "",
     "Enabled": false
   },
   "360120": {
-    "OriginalText": "リージョン6難易度5材料2の解説文",
+    "OriginalText": "リージョン6難易度5村料2の解説文",
     "Text": "",
     "Enabled": false
   },
   "360121": {
-    "OriginalText": "リージョン6難易度5材料3の解説文",
+    "OriginalText": "リージョン6難易度5村料3の解説文",
     "Text": "",
     "Enabled": false
   },
   "360122": {
-    "OriginalText": "リージョン8難易度1材料1の解説文",
+    "OriginalText": "リージョン8難易度1村料1の解説文",
     "Text": "",
     "Enabled": false
   },
   "360123": {
-    "OriginalText": "リージョン8難易度1材料2の解説文",
+    "OriginalText": "リージョン8難易度1村料2の解説文",
     "Text": "",
     "Enabled": false
   },
   "360124": {
-    "OriginalText": "リージョン8難易度1材料3の解説文",
+    "OriginalText": "リージョン8難易度1村料3の解説文",
     "Text": "",
     "Enabled": false
   },
   "360125": {
-    "OriginalText": "リージョン8難易度2材料1の解説文",
+    "OriginalText": "リージョン8難易度2村料1の解説文",
     "Text": "",
     "Enabled": false
   },
   "360126": {
-    "OriginalText": "リージョン8難易度2材料2の解説文",
+    "OriginalText": "リージョン8難易度2村料2の解説文",
     "Text": "",
     "Enabled": false
   },
   "360127": {
-    "OriginalText": "リージョン8難易度2材料3の解説文",
+    "OriginalText": "リージョン8難易度2村料3の解説文",
     "Text": "",
     "Enabled": false
   },
   "360128": {
-    "OriginalText": "リージョン8難易度3材料1の解説文",
+    "OriginalText": "リージョン8難易度3村料1の解説文",
     "Text": "",
     "Enabled": false
   },
   "360129": {
-    "OriginalText": "リージョン8難易度3材料2の解説文",
+    "OriginalText": "リージョン8難易度3村料2の解説文",
     "Text": "",
     "Enabled": false
   },
   "360130": {
-    "OriginalText": "リージョン8難易度3材料3の解説文",
+    "OriginalText": "リージョン8難易度3村料3の解説文",
     "Text": "",
     "Enabled": false
   },
   "360131": {
-    "OriginalText": "リージョン8難易度4材料1の解説文",
+    "OriginalText": "リージョン8難易度4村料1の解説文",
     "Text": "",
     "Enabled": false
   },
   "360132": {
-    "OriginalText": "リージョン8難易度4材料2の解説文",
+    "OriginalText": "リージョン8難易度4村料2の解説文",
     "Text": "",
     "Enabled": false
   },
   "360133": {
-    "OriginalText": "リージョン8難易度4材料3の解説文",
+    "OriginalText": "リージョン8難易度4村料3の解説文",
     "Text": "",
     "Enabled": false
   },
   "360134": {
-    "OriginalText": "リージョン8難易度5材料1の解説文",
+    "OriginalText": "リージョン8難易度5村料1の解説文",
     "Text": "",
     "Enabled": false
   },
   "360135": {
-    "OriginalText": "リージョン8難易度5材料2の解説文",
+    "OriginalText": "リージョン8難易度5村料2の解説文",
     "Text": "",
     "Enabled": false
   },
   "360136": {
-    "OriginalText": "リージョン8難易度5材料3の解説文",
+    "OriginalText": "リージョン8難易度5村料3の解説文",
     "Text": "",
     "Enabled": false
   },
@@ -6225,7 +6225,7 @@
     "Enabled": true
   },
   "360140": {
-    "OriginalText": "ダーカーの復眼の破片。\n武器防具の素村になる。",
+    "OriginalText": "ダーカーの複眼の破片。\n武器防具の素村になる。",
     "Text": "Core fragment of a Darker.\nUsed as material for crafting weapons.",
     "Enabled": true
   },
@@ -6240,7 +6240,7 @@
     "Enabled": true
   },
   "360143": {
-    "OriginalText": "硬い甲殻の内部が空榴の軽量脚の一部。\n武器防具の素村になる。",
+    "OriginalText": "硬い甲殻の内部が空洞の軽量脚の一部。\n武器防具の素村になる。",
     "Text": "Part of a light leg with a cavity inside\na hard shell. Used as material for\ncrafting weapons.",
     "Enabled": true
   },
@@ -6255,7 +6255,7 @@
     "Enabled": true
   },
   "360146": {
-    "OriginalText": "軽く柔らかな羽煽から成る羽。\n武器防具の素村になる。",
+    "OriginalText": "軽く柔らかな羽毛から成る羽。\n武器防具の素村になる。",
     "Text": "A light and soft feather.\nUsed as material for crafting weapons",
     "Enabled": true
   },
@@ -6270,12 +6270,12 @@
     "Enabled": true
   },
   "360149": {
-    "OriginalText": "硬い甲殻に覆われ鋭い朽爪のついた脚。\n武器防具の素村になる。",
+    "OriginalText": "硬い甲殻に覆われ鋭い鉤爪のついた脚。\n武器防具の素村になる。",
     "Text": "Hard shell attached to a sharp curved\nclaw.\nUsed as material for crafting weapons.",
     "Enabled": true
   },
   "360150": {
-    "OriginalText": "ラッピーが落とした\n素敵な伝備を入手できるチケット。",
+    "OriginalText": "ラッピーが落とした\n素敵な装備を入手できるチケット。",
     "Text": "A wonderful ticket obtained from Rappy.",
     "Enabled": true
   },
@@ -6295,7 +6295,7 @@
     "Enabled": true
   },
   "360154": {
-    "OriginalText": "大型で硬い伝甲に覆われた腕。\n武器防具の素村になる。",
+    "OriginalText": "大型で硬い装甲に覆われた腕。\n武器防具の素村になる。",
     "Text": "Large and hard shell covering an arm.\nUsed as material for crafting weapons.",
     "Enabled": true
   },
@@ -6305,7 +6305,7 @@
     "Enabled": true
   },
   "360156": {
-    "OriginalText": "膜β類系原生種の硬い鱗の破片。\n武器防具の素村になる。",
+    "OriginalText": "爬虫類系原生種の硬い鱗の破片。\n武器防具の素村になる。",
     "Text": "Hard shell of a reptilian Native specie.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
@@ -6315,27 +6315,27 @@
     "Enabled": true
   },
   "360158": {
-    "OriginalText": "ギガンテスの頑強な伝甲の破片。\n武器防具の素村になる。",
+    "OriginalText": "ギガンテスの頑強な装甲の破片。\n武器防具の素村になる。",
     "Text": "Sturdy shell fragment of a Gigantes.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360159": {
-    "OriginalText": "蛍乳類系原生種の煽皮の一部。\n武器防具の素村になる。",
+    "OriginalText": "哺乳類系原生種の毛皮の一部。\n武器防具の素村になる。",
     "Text": "Hide of a native specie.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360160": {
-    "OriginalText": "多くの惑星生洋が持つ牙。\n武器防具の素村になる。",
+    "OriginalText": "多くの惑星生物が持つ牙。\n武器防具の素村になる。",
     "Text": "Fang mostly found in planet's species.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360161": {
-    "OriginalText": "鳥類系原生種の羽煽に\n覆われた表皮の一部。\n武器防具の素村になる。",
+    "OriginalText": "鳥類系原生種の羽毛に\n覆われた表皮の一部。\n武器防具の素村になる。",
     "Text": "A skin covered in feathers of a\nbird-like native.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360162": {
-    "OriginalText": "大型の蛍乳類系原生種の煽皮の一部。\n武器防具の素村になる。",
+    "OriginalText": "大型の哺乳類系原生種の毛皮の一部。\n武器防具の素村になる。",
     "Text": "Large skin of a native specie.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
@@ -6345,12 +6345,12 @@
     "Enabled": true
   },
   "360164": {
-    "OriginalText": "鳥類系原生種の表皮を覆う羽煽。\n武器防具の素村になる。",
+    "OriginalText": "鳥類系原生種の表皮を覆う羽毛。\n武器防具の素村になる。",
     "Text": "A skin of a bird-like native.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360165": {
-    "OriginalText": "大型の蛍乳類系原生種の牙。\n武器防具の素村になる。",
+    "OriginalText": "大型の哺乳類系原生種の牙。\n武器防具の素村になる。",
     "Text": "Large fang of a native specie.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
@@ -6380,12 +6380,12 @@
     "Enabled": true
   },
   "360171": {
-    "OriginalText": "薄くて丈夫な皮枝の破片。\n武器防具の素村になる。",
+    "OriginalText": "薄くて丈夫な皮膜の破片。\n武器防具の素村になる。",
     "Text": "A piece of thin and solid skin membrane.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360172": {
-    "OriginalText": "羽煽に覆われた大きな羽。\n武器防具の素村になる。",
+    "OriginalText": "羽毛に覆われた大きな羽。\n武器防具の素村になる。",
     "Text": "A large feather covered with plumage.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
@@ -6405,7 +6405,7 @@
     "Enabled": true
   },
   "360176": {
-    "OriginalText": "先端が鋭く輝く円洞形の針の破片。\n武器防具の素村になる。",
+    "OriginalText": "先端が鋭く輝く円錐形の針の破片。\n武器防具の素村になる。",
     "Text": "Piece of a sharp and glittering\nhollow-like needle.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
@@ -6415,7 +6415,7 @@
     "Enabled": true
   },
   "360178": {
-    "OriginalText": "長い体煽から成る大きな煽皮。\n武器防具の素村になる。",
+    "OriginalText": "長い体毛から成る大きな毛皮。\n武器防具の素村になる。",
     "Text": "Large skin of a wing.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
@@ -6470,12 +6470,12 @@
     "Enabled": true
   },
   "360189": {
-    "OriginalText": "大きく薄くて丈夫な皮枝。\n武器防具の素村になる。",
+    "OriginalText": "大きく薄くて丈夫な皮膜。\n武器防具の素村になる。",
     "Text": "Large but thin and sturdy skin\nmembrane.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360190": {
-    "OriginalText": "羽煽に覆われた長い尾羽。\n武器防具の素村になる。",
+    "OriginalText": "羽毛に覆われた長い尾羽。\n武器防具の素村になる。",
     "Text": "Rectrix covered with plumage.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
@@ -6575,7 +6575,7 @@
     "Enabled": true
   },
   "360210": {
-    "OriginalText": "噴出された虫。\n武器防具の素村になる。",
+    "OriginalText": "噴出された墨。\n武器防具の素村になる。",
     "Text": "Squirted ink.\nUsed as material for crafting weapons.",
     "Enabled": true
   },
@@ -6595,7 +6595,7 @@
     "Enabled": true
   },
   "360214": {
-    "OriginalText": "盃腹構造の柔軟で丈夫な皮の一部。\n武器防具の素村になる。",
+    "OriginalText": "蛇腹構造の柔軟で丈夫な皮の一部。\n武器防具の素村になる。",
     "Text": "Flexible and sturdy abdominal hide.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
@@ -6610,7 +6610,7 @@
     "Enabled": true
   },
   "360217": {
-    "OriginalText": "肉厚な枝状の翼。\n武器防具の素村になる。",
+    "OriginalText": "肉厚な膜状の翼。\n武器防具の素村になる。",
     "Text": "A meaty branch-like wing.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
@@ -6635,7 +6635,7 @@
     "Enabled": true
   },
   "360222": {
-    "OriginalText": "虫を噴く器官。\n武器防具の素村になる。",
+    "OriginalText": "墨を噴く器官。\n武器防具の素村になる。",
     "Text": "An ink-spraying organ.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
@@ -6645,12 +6645,12 @@
     "Enabled": true
   },
   "360224": {
-    "OriginalText": "保護枝に覆われた大きな眼球。\n武器防具の素村になる。",
+    "OriginalText": "保護膜に覆われた大きな眼球。\n武器防具の素村になる。",
     "Text": "A membrane that protects the eyeball.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360225": {
-    "OriginalText": "鉤固した粘液の結晶。\n武器防具の素村になる。",
+    "OriginalText": "凝固した粘液の結晶。\n武器防具の素村になる。",
     "Text": "A hard crystallized mucus.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
@@ -6665,22 +6665,22 @@
     "Enabled": true
   },
   "360228": {
-    "OriginalText": "大きく伸温する丈夫な挙。\n武器防具の素村になる。",
+    "OriginalText": "大きく伸縮する丈夫な袋。\n武器防具の素村になる。",
     "Text": "A sturdy bag that greatly expands and\ncontracts. Used as a material for crafting\nweapons.",
     "Enabled": true
   },
   "360229": {
-    "OriginalText": "頑強な硬質伝甲。\n武器防具の素村になる。",
+    "OriginalText": "頑強な硬質装甲。\n武器防具の素村になる。",
     "Text": "Hard armor shell.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360230": {
-    "OriginalText": "錐外れの強度を誇る伝甲の破片。\n武器防具の素村になる。",
+    "OriginalText": "桁外れの強度を誇る装甲の破片。\n武器防具の素村になる。",
     "Text": "Fragment of an armor with extraordinary\nstrength. Used as a material for\ncrafting weapons.",
     "Enabled": true
   },
   "360231": {
-    "OriginalText": "しなやかな動作を可能にする芝桁捗。\n武器防具の素村になる。",
+    "OriginalText": "しなやかな動作を可能にする潤滑剤。\n武器防具の素村になる。",
     "Text": "",
     "Enabled": false
   },
@@ -6690,12 +6690,12 @@
     "Enabled": true
   },
   "360233": {
-    "OriginalText": "蛍乳類系原生種の牙。\n武器防具の素村になる。",
+    "OriginalText": "哺乳類系原生種の牙。\n武器防具の素村になる。",
     "Text": "A fang of a native specie.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360234": {
-    "OriginalText": "蛍乳類系原生種の骨。\n武器防具の素村になる。",
+    "OriginalText": "哺乳類系原生種の骨。\n武器防具の素村になる。",
     "Text": "A bone of a native specie.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
@@ -6740,12 +6740,12 @@
     "Enabled": true
   },
   "360243": {
-    "OriginalText": "盃腹構造の柔軟で丈夫な皮の一部。\n武器防具の素村になる。",
+    "OriginalText": "蛇腹構造の柔軟で丈夫な皮の一部。\n武器防具の素村になる。",
     "Text": "A part of an abdomen that is made up of\nflexible and sturdy hide.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360244": {
-    "OriginalText": "硬い甲殻の内部が空榴の軽量脚の一部。\n武器防具の素村になる。",
+    "OriginalText": "硬い甲殻の内部が空洞の軽量脚の一部。\n武器防具の素村になる。",
     "Text": "Part of a light leg with a cavity inside\na hard shell. Used as material for\ncrafting weapons.",
     "Enabled": true
   },
@@ -6760,27 +6760,27 @@
     "Enabled": true
   },
   "360247": {
-    "OriginalText": "巨大な滑状の爪の欠片。\n武器防具の素村になる。",
+    "OriginalText": "巨大な鉄状の爪の欠片。\n武器防具の素村になる。",
     "Text": "A piece of a huge and smooth claw.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360248": {
-    "OriginalText": "細く強ばった直煽。\n武器防具の素村になる。",
+    "OriginalText": "細く強ばった直毛。\n武器防具の素村になる。",
     "Text": "Thin and strong straight hair.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360249": {
-    "OriginalText": "細く強ばった直煽。\n武器防具の素村になる。",
+    "OriginalText": "細く強ばった直毛。\n武器防具の素村になる。",
     "Text": "Thin and strong straight hair.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360250": {
-    "OriginalText": "小型チェーンソーの動力装。\n武器防具の素村になる。",
+    "OriginalText": "小型チェーンソーの動力源。\n武器防具の素村になる。",
     "Text": "Motor of a small chainsaw.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360251": {
-    "OriginalText": "柔らかな煽が密生し保極性に優れた煽皮。\n武器防具の素村になる。",
+    "OriginalText": "柔らかな毛が密生し保温性に優れた毛皮。\n武器防具の素村になる。",
     "Text": "Dense fur with soft hair and excellent\npolarity.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
@@ -6840,7 +6840,7 @@
     "Enabled": true
   },
   "360263": {
-    "OriginalText": "跡惑の輝きを放つ宝石の眼球。\n武器防具の素村になる。",
+    "OriginalText": "魅惑の輝きを放つ宝石の眼球。\n武器防具の素村になる。",
     "Text": "A sparkling gem-like eyeball.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
@@ -6850,7 +6850,7 @@
     "Enabled": true
   },
   "360265": {
-    "OriginalText": "大きく伸温する丈夫な挙。\n武器防具の素村になる。",
+    "OriginalText": "大きく伸縮する丈夫な袋。\n武器防具の素村になる。",
     "Text": "A sturdy bag that greatly expands and\ncontracts. Used as a material for crafting\nweapons.",
     "Enabled": true
   },
@@ -6875,22 +6875,22 @@
     "Enabled": true
   },
   "360270": {
-    "OriginalText": "蛍乳類系原生種の爪。\n武器防具の素村になる。",
+    "OriginalText": "哺乳類系原生種の爪。\n武器防具の素村になる。",
     "Text": "Claw of a native specie.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360271": {
-    "OriginalText": "頑強な機械伝甲の破片。\n武器防具の素村になる。",
+    "OriginalText": "頑強な機械装甲の破片。\n武器防具の素村になる。",
     "Text": "A piece of a sturdy mechanical shell.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360272": {
-    "OriginalText": "薄くて丈夫な皮枝の一部。\n武器防具の素村になる。",
+    "OriginalText": "薄くて丈夫な皮膜の一部。\n武器防具の素村になる。",
     "Text": "Part of a solid thin skin membrane.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360273": {
-    "OriginalText": "安定した大口鉄の銃身の破片。\n武器防具の素村になる。",
+    "OriginalText": "安定した大口径の銃身の破片。\n武器防具の素村になる。",
     "Text": "Fragment of a stable gun barrel with a\nlarge muzzle.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
@@ -6900,17 +6900,17 @@
     "Enabled": true
   },
   "360275": {
-    "OriginalText": "高い防御性を誇る冷厚銅盾の破片。\n武器防具の素村になる。",
+    "OriginalText": "高い防御性を誇る極厚鋼盾の破片。\n武器防具の素村になる。",
     "Text": "Fragment of a protective steel shield.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360276": {
-    "OriginalText": "高い防御性を誇る超冷厚銅盾。\n武器防具の素村になる。",
+    "OriginalText": "高い防御性を誇る超極厚鋼盾。\n武器防具の素村になる。",
     "Text": "A thick and protective steel shield.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360277": {
-    "OriginalText": "ジェットパックを伝備した主翼。\n武器防具の素村になる。",
+    "OriginalText": "ジェットパックを装備した主翼。\n武器防具の素村になる。",
     "Text": "A main wing equipped with a jetpack.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
@@ -6925,17 +6925,17 @@
     "Enabled": true
   },
   "360280": {
-    "OriginalText": "保極性に優れた剛煽の煽皮。\n武器防具の素村になる。",
+    "OriginalText": "保温性に優れた剛毛の毛皮。\n武器防具の素村になる。",
     "Text": "Bristle fur with excellent polarity.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360281": {
-    "OriginalText": "硬い刃状の厚銅ヒレ。\n武器防具の素村になる。",
+    "OriginalText": "硬い刃状の厚鋼ヒレ。\n武器防具の素村になる。",
     "Text": "Hard and pointed steel fin.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360282": {
-    "OriginalText": "根本から切り出した硬い刃状の厚銅ヒレ。\n武器防具の素村になる。",
+    "OriginalText": "根本から切り出した硬い刃状の厚鋼ヒレ。\n武器防具の素村になる。",
     "Text": "Root extract of hard and pointed steel\nfin.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
@@ -6945,7 +6945,7 @@
     "Enabled": true
   },
   "360284": {
-    "OriginalText": "薄くて丈夫な皮枝。\n武器防具の素村になる。",
+    "OriginalText": "薄くて丈夫な皮膜。\n武器防具の素村になる。",
     "Text": "Thin and sturdy skin membrane.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
@@ -6960,12 +6960,12 @@
     "Enabled": true
   },
   "360287": {
-    "OriginalText": "高い防御性を誇る超冷厚銅盾の破片。\n武器防具の素村になる。",
+    "OriginalText": "高い防御性を誇る超極厚鋼盾の破片。\n武器防具の素村になる。",
     "Text": "A fragment of a protective and super\nthick steel shield.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360288": {
-    "OriginalText": "高い防御性を誇る冷厚銅盾の破片。\n武器防具の素村になる。",
+    "OriginalText": "高い防御性を誇る極厚鋼盾の破片。\n武器防具の素村になる。",
     "Text": "A fragment of a protective and thick\nsteel shield.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
@@ -6980,7 +6980,7 @@
     "Enabled": true
   },
   "360291": {
-    "OriginalText": "連結するギガンテスの伝甲。\n武器防具の素村になる。",
+    "OriginalText": "連結するギガンテスの装甲。\n武器防具の素村になる。",
     "Text": "An armor shell of a Gigantes.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
@@ -7040,32 +7040,32 @@
     "Enabled": true
   },
   "360303": {
-    "OriginalText": "細く強ばった直煽。\n武器防具の素村になる。",
+    "OriginalText": "細く強ばった直毛。\n武器防具の素村になる。",
     "Text": "Thin and strong straight hair.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360304": {
-    "OriginalText": "細く強ばった直煽。\n武器防具の素村になる。",
+    "OriginalText": "細く強ばった直毛。\n武器防具の素村になる。",
     "Text": "Thin and stiff straight hair.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360305": {
-    "OriginalText": "長く太い煽が密生する煽皮。\n武器防具の素村になる。",
+    "OriginalText": "長く太い毛が密生する毛皮。\n武器防具の素村になる。",
     "Text": "Fur with long and thick hair.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360306": {
-    "OriginalText": "小型チェーンソーの動力装。\n武器防具の素村になる。",
+    "OriginalText": "小型チェーンソーの動力源。\n武器防具の素村になる。",
     "Text": "A small chainsaw motor.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360307": {
-    "OriginalText": "柔らかな煽が密生し保極性に優れた煽皮。\n武器防具の素村になる。",
+    "OriginalText": "柔らかな毛が密生し保温性に優れた毛皮。\n武器防具の素村になる。",
     "Text": "Dense fur with soft hair and excellent\npolarity.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360308": {
-    "OriginalText": "柔らかな煽が密生し保極性に優れた煽皮。\n武器防具の素村になる。",
+    "OriginalText": "柔らかな毛が密生し保温性に優れた毛皮。\n武器防具の素村になる。",
     "Text": "Dense fur with soft hair and excellent\npolarity.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
@@ -7145,17 +7145,17 @@
     "Enabled": true
   },
   "360324": {
-    "OriginalText": "径を備えた軽量機械の触手。\n武器防具の素村になる。",
+    "OriginalText": "孔を備えた軽量機械の触手。\n武器防具の素村になる。",
     "Text": "Lightweight field breaker mechanism of a\ntentacle.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360325": {
-    "OriginalText": "噴出された多量の虫。\n武器防具の素村になる。",
+    "OriginalText": "噴出された多量の墨。\n武器防具の素村になる。",
     "Text": "A large quantity of spewed ink.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360326": {
-    "OriginalText": "頑強な機械伝甲。\n武器防具の素村になる。",
+    "OriginalText": "頑強な機械装甲。\n武器防具の素村になる。",
     "Text": "Sturdy mechanical armor shell.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
@@ -7165,12 +7165,12 @@
     "Enabled": true
   },
   "360328": {
-    "OriginalText": "羽煽に覆われた羽。\n武器防具の素村になる。",
+    "OriginalText": "羽毛に覆われた羽。\n武器防具の素村になる。",
     "Text": "Feather covered with plumage.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360329": {
-    "OriginalText": "安定した大口鉄の銃身。\n武器防具の素村になる。",
+    "OriginalText": "安定した大口径の銃身。\n武器防具の素村になる。",
     "Text": "Stable gun barrel with a large muzzle.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
@@ -7190,17 +7190,17 @@
     "Enabled": true
   },
   "360333": {
-    "OriginalText": "肉厚な枝状の翼。\n武器防具の素村になる。",
+    "OriginalText": "肉厚な膜状の翼。\n武器防具の素村になる。",
     "Text": "Meaty branch-like wing.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360334": {
-    "OriginalText": "ジェットパックを伝備した主翼。\n武器防具の素村になる。",
+    "OriginalText": "ジェットパックを装備した主翼。\n武器防具の素村になる。",
     "Text": "A main wing equipped with a jetpack.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360335": {
-    "OriginalText": "長く太い煽が密生する煽皮。\n武器防具の素村になる。",
+    "OriginalText": "長く太い毛が密生する毛皮。\n武器防具の素村になる。",
     "Text": "Fur with long and thick hair.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
@@ -7215,12 +7215,12 @@
     "Enabled": true
   },
   "360338": {
-    "OriginalText": "体表の硬質クリスタル状結晶の珪。\n武器防具の素村になる。",
+    "OriginalText": "体表の硬質クリスタル状結晶の塊。\n武器防具の素村になる。",
     "Text": "Surface of a hard crystalized silicon.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360339": {
-    "OriginalText": "鉤固した粘液の結晶。\n武器防具の素村になる。",
+    "OriginalText": "凝固した粘液の結晶。\n武器防具の素村になる。",
     "Text": "Hardened mucus crystal.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
@@ -7230,7 +7230,7 @@
     "Enabled": true
   },
   "360341": {
-    "OriginalText": "保護枝に覆われた眼球。\n武器防具の素村になる。",
+    "OriginalText": "保護膜に覆われた眼球。\n武器防具の素村になる。",
     "Text": "A membrane protecting an eyeball.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
@@ -7245,7 +7245,7 @@
     "Enabled": true
   },
   "360344": {
-    "OriginalText": "羽煽に覆われた長い尾羽。\n武器防具の素村になる。",
+    "OriginalText": "羽毛に覆われた長い尾羽。\n武器防具の素村になる。",
     "Text": "Long rectrix covered with plumage.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
@@ -7270,7 +7270,7 @@
     "Enabled": true
   },
   "360349": {
-    "OriginalText": "薄くて非常に硬質な皮枝。\n武器防具の素村になる。",
+    "OriginalText": "薄くて非常に硬質な皮膜。\n武器防具の素村になる。",
     "Text": "Thin and very hard skin membrane.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
@@ -7300,7 +7300,7 @@
     "Enabled": true
   },
   "360355": {
-    "OriginalText": "羽煽に覆われた羽の一部。\n武器防具の素村になる。",
+    "OriginalText": "羽毛に覆われた羽の一部。\n武器防具の素村になる。",
     "Text": "Portion of the feather covered with\nplumage.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
@@ -7310,12 +7310,12 @@
     "Enabled": true
   },
   "360357": {
-    "OriginalText": "頑強な機械伝甲。\n武器防具の素村になる。",
+    "OriginalText": "頑強な機械装甲。\n武器防具の素村になる。",
     "Text": "Sturdy mechanical armor shell.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360358": {
-    "OriginalText": "角状突起のついた銅盾。\n武器防具の素村になる。",
+    "OriginalText": "角状突起のついた鋼盾。\n武器防具の素村になる。",
     "Text": "A horn-like spike attached to a steel\nshield.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
@@ -7345,7 +7345,7 @@
     "Enabled": true
   },
   "360364": {
-    "OriginalText": "長い体煽から成る煽皮。\n武器防具の素村になる。",
+    "OriginalText": "長い体毛から成る毛皮。\n武器防具の素村になる。",
     "Text": "Fur with long hair.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
@@ -7355,7 +7355,7 @@
     "Enabled": true
   },
   "360366": {
-    "OriginalText": "小型チェーンソーの動力装。\n武器防具の素村になる。",
+    "OriginalText": "小型チェーンソーの動力源。\n武器防具の素村になる。",
     "Text": "A small chainsaw motor.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
@@ -7380,17 +7380,17 @@
     "Enabled": true
   },
   "360371": {
-    "OriginalText": "ジェットパックを伝備した主翼。\n武器防具の素村になる。",
+    "OriginalText": "ジェットパックを装備した主翼。\n武器防具の素村になる。",
     "Text": "A main wing equipped with a jetpack.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360372": {
-    "OriginalText": "角状突起のついた厚銅伝甲。\n武器防具の素村になる。",
+    "OriginalText": "角状突起のついた厚鋼装甲。\n武器防具の素村になる。",
     "Text": "Thick steel armor shell with a horn.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360373": {
-    "OriginalText": "保極性に優れた剛煽の煽皮。\n武器防具の素村になる。",
+    "OriginalText": "保温性に優れた剛毛の毛皮。\n武器防具の素村になる。",
     "Text": "Bristle fur with excellent polarity.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
@@ -7410,7 +7410,7 @@
     "Enabled": true
   },
   "360377": {
-    "OriginalText": "薄くて丈夫な皮枝。\n武器防具の素村になる。",
+    "OriginalText": "薄くて丈夫な皮膜。\n武器防具の素村になる。",
     "Text": "Thin and sturdy skin membrane.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
@@ -7440,12 +7440,12 @@
     "Enabled": true
   },
   "360383": {
-    "OriginalText": "羽煽に覆われた長い尾羽。\n武器防具の素村になる。",
+    "OriginalText": "羽毛に覆われた長い尾羽。\n武器防具の素村になる。",
     "Text": "Long rectrix covered with plumage.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360384": {
-    "OriginalText": "跡惑の輝きを放つ宝石の眼球。\n武器防具の素村になる。",
+    "OriginalText": "魅惑の輝きを放つ宝石の眼球。\n武器防具の素村になる。",
     "Text": "A glittering eyeball gem.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
@@ -7455,7 +7455,7 @@
     "Enabled": true
   },
   "360386": {
-    "OriginalText": "角状突起のついた冷厚銅盾。\n武器防具の素村になる。",
+    "OriginalText": "角状突起のついた極厚鋼盾。\n武器防具の素村になる。",
     "Text": "A thick steel shield with a horn.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
@@ -7480,7 +7480,7 @@
     "Enabled": true
   },
   "360391": {
-    "OriginalText": "羽煽に覆われた大きな羽。\n武器防具の素村になる。",
+    "OriginalText": "羽毛に覆われた大きな羽。\n武器防具の素村になる。",
     "Text": "Large feather covered with plumage.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
@@ -7495,7 +7495,7 @@
     "Enabled": true
   },
   "360394": {
-    "OriginalText": "角状突起のついた丈夫な銅盾。\n武器防具の素村になる。",
+    "OriginalText": "角状突起のついた丈夫な鋼盾。\n武器防具の素村になる。",
     "Text": "A sturdy steel shield with a horn.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
@@ -7510,12 +7510,12 @@
     "Enabled": true
   },
   "360397": {
-    "OriginalText": "安定した大口鉄の銃身。\n武器防具の素村になる。",
+    "OriginalText": "安定した大口径の銃身。\n武器防具の素村になる。",
     "Text": "Stable gun barrel with a large muzzle.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360398": {
-    "OriginalText": "薄くて丈夫な皮枝。\n武器防具の素村になる。",
+    "OriginalText": "薄くて丈夫な皮膜。\n武器防具の素村になる。",
     "Text": "Thin and sturdy skin membrane.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
@@ -7525,7 +7525,7 @@
     "Enabled": true
   },
   "360400": {
-    "OriginalText": "巨大な滑状の爪。\n武器防具の素村になる。",
+    "OriginalText": "巨大な鉄状の爪。\n武器防具の素村になる。",
     "Text": "Large and smooth claw.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
@@ -7555,7 +7555,7 @@
     "Enabled": true
   },
   "360406": {
-    "OriginalText": "角状突起のついた厚銅伝甲。\n武器防具の素村になる。",
+    "OriginalText": "角状突起のついた厚鋼装甲。\n武器防具の素村になる。",
     "Text": "Thick steel armor shell with a horn.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
@@ -7580,7 +7580,7 @@
     "Enabled": true
   },
   "360411": {
-    "OriginalText": "鋭く曲がった黒光りする朽爪。\n武器防具の素村になる。",
+    "OriginalText": "鋭く曲がった黒光りする鉤爪。\n武器防具の素村になる。",
     "Text": "Sharp curved black curved claw.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
@@ -7590,7 +7590,7 @@
     "Enabled": true
   },
   "360413": {
-    "OriginalText": "大量の虫を噴く器官。\n武器防具の素村になる。",
+    "OriginalText": "大量の墨を噴く器官。\n武器防具の素村になる。",
     "Text": "Organ that sprays a large amount of ink.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
@@ -7600,7 +7600,7 @@
     "Enabled": true
   },
   "360415": {
-    "OriginalText": "羽煽に覆われた長い尾羽。\n武器防具の素村になる。",
+    "OriginalText": "羽毛に覆われた長い尾羽。\n武器防具の素村になる。",
     "Text": "Long rectrix covered with plumage.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
@@ -7615,7 +7615,7 @@
     "Enabled": true
   },
   "360418": {
-    "OriginalText": "角状突起のついた冷厚銅盾。\n武器防具の素村になる。",
+    "OriginalText": "角状突起のついた極厚鋼盾。\n武器防具の素村になる。",
     "Text": "A thick steel shield with a horn.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
@@ -7635,12 +7635,12 @@
     "Enabled": true
   },
   "360422": {
-    "OriginalText": "薄くて丈夫な皮枝。\n武器防具の素村になる。",
+    "OriginalText": "薄くて丈夫な皮膜。\n武器防具の素村になる。",
     "Text": "thin and sturdy skin membrane.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360423": {
-    "OriginalText": "非常に大きな孔に似た形状の触角。\n武器防具の素村となる。",
+    "OriginalText": "非常に大きな鞭に似た形状の触角。\n武器防具の素村となる。",
     "Text": "An antenna with a very large cavity.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
@@ -7650,7 +7650,7 @@
     "Enabled": true
   },
   "360425": {
-    "OriginalText": "頑強な硬質伝甲。\n武器防具の素村になる。",
+    "OriginalText": "頑強な硬質装甲。\n武器防具の素村になる。",
     "Text": "Hard and sturdy armor shell.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
@@ -7675,7 +7675,7 @@
     "Enabled": false
   },
   "360430": {
-    "OriginalText": "機械の躯体を保護する微粒金属の皮枝。\n武器防具の素村になる。",
+    "OriginalText": "機械の躯体を保護する微粒金属の皮膜。\n武器防具の素村になる。",
     "Text": "A mechanical frame that protects a metal\nskin membrane.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
@@ -7685,12 +7685,12 @@
     "Enabled": true
   },
   "360432": {
-    "OriginalText": "頑強な鞭耗しにくい金属爪。\n武器防具の素村になる。",
+    "OriginalText": "頑強な摩耗しにくい金属爪。\n武器防具の素村になる。",
     "Text": "Sturdy but amble metal claw.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360433": {
-    "OriginalText": "機械化された体を覆う微粒金属の皮枝。\n武器防具の素村になる。",
+    "OriginalText": "機械化された体を覆う微粒金属の皮膜。\n武器防具の素村になる。",
     "Text": "A mechanical hide that covers a metal\nskin membrane.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
@@ -7705,7 +7705,7 @@
     "Enabled": true
   },
   "360436": {
-    "OriginalText": "隔絶された空間を生み出す伝置。\n武器防具の素村になる。",
+    "OriginalText": "隔絶された空間を生み出す装置。\n武器防具の素村になる。",
     "Text": "A device that creates a remote space.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
@@ -7730,7 +7730,7 @@
     "Enabled": true
   },
   "360441": {
-    "OriginalText": "径を備えた頑強な機械の触手。\n武器防具の素村になる。",
+    "OriginalText": "孔を備えた頑強な機械の触手。\n武器防具の素村になる。",
     "Text": "Sturdy field breaker mechanism of a\ntentacle.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
@@ -7745,17 +7745,17 @@
     "Enabled": true
   },
   "360444": {
-    "OriginalText": "特定の洋質と結合する働きを持つ器官。\n武器防具の素村になる。",
+    "OriginalText": "特定の物質と結合する働きを持つ器官。\n武器防具の素村になる。",
     "Text": "An organ that binds a specific matter.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360445": {
-    "OriginalText": "角状突起のついた冷厚銅盾。\n武器防具の素村になる。",
+    "OriginalText": "角状突起のついた極厚鋼盾。\n武器防具の素村になる。",
     "Text": "A thick steel shield with a horn.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360446": {
-    "OriginalText": "結合と免摩反応を司る器官の欠片。\n武器防具の素村になる。",
+    "OriginalText": "結合と免疫反応を司る器官の欠片。\n武器防具の素村になる。",
     "Text": "",
     "Enabled": false
   },
@@ -7770,7 +7770,7 @@
     "Enabled": true
   },
   "360449": {
-    "OriginalText": "見る者を威催する脅威の仮面の破片。\n武器防具の素村になる。",
+    "OriginalText": "見る者を威嚇する脅威の仮面の破片。\n武器防具の素村になる。",
     "Text": "Fragment of a menacing observer mask.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
@@ -7780,7 +7780,7 @@
     "Enabled": true
   },
   "360451": {
-    "OriginalText": "保極性に優れた剛煽の煽皮。\n武器防具の素村になる。",
+    "OriginalText": "保温性に優れた剛毛の毛皮。\n武器防具の素村になる。",
     "Text": "Bristle fur with excellent polarity.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
@@ -7800,32 +7800,32 @@
     "Enabled": true
   },
   "360455": {
-    "OriginalText": "固い枝に覆われた大きな眼球。\n武器防具の素村になる。",
+    "OriginalText": "固い膜に覆われた大きな眼球。\n武器防具の素村になる。",
     "Text": "Solid membrane that covers a large\neyeball.\nUsed as a material for crafting weapons ",
     "Enabled": true
   },
   "360456": {
-    "OriginalText": "角状突起のついた厚銅伝甲。\n武器防具の素村になる。",
+    "OriginalText": "角状突起のついた厚鋼装甲。\n武器防具の素村になる。",
     "Text": "Thick steel armor shell with a horn.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360457": {
-    "OriginalText": "固い枝に覆われた大きな眼球。\n武器防具の素村になる。",
+    "OriginalText": "固い膜に覆われた大きな眼球。\n武器防具の素村になる。",
     "Text": "Solid membrane that covers a large\neyeball.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360458": {
-    "OriginalText": "高強度加工された軽量銅の尾羽。\n武器防具の素村になる。",
+    "OriginalText": "高強度加工された軽量鋼の尾羽。\n武器防具の素村になる。",
     "Text": "Strong and light steel rectrix.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360459": {
-    "OriginalText": "高い強度を持つ冷太の鉄線。\n武器防具の素村になる。",
+    "OriginalText": "高い強度を持つ極太の鉄線。\n武器防具の素村になる。",
     "Text": "Very strong and thick steel wire.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360460": {
-    "OriginalText": "見る者を萎温させる氷徹な仮面の破片。\n武器防具の素村になる。",
+    "OriginalText": "見る者を萎縮させる冷徹な仮面の破片。\n武器防具の素村になる。",
     "Text": "Fragment of a daunting observer mask.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
@@ -7845,22 +7845,22 @@
     "Enabled": true
   },
   "360464": {
-    "OriginalText": "鉤固して硬化した粘液の結晶。\n武器防具の素村になる。",
+    "OriginalText": "凝固して硬化した粘液の結晶。\n武器防具の素村になる。",
     "Text": "A hardened mucus crystal.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360465": {
-    "OriginalText": "鋭く尖った疫をもつ頭骨。\n武器防具の素村になる。",
+    "OriginalText": "鋭く尖った顎をもつ頭骨。\n武器防具の素村になる。",
     "Text": "Sharp, pointed, infected skull.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360466": {
-    "OriginalText": "角状突起のついた冷厚銅盾。\n武器防具の素村になる。",
+    "OriginalText": "角状突起のついた極厚鋼盾。\n武器防具の素村になる。",
     "Text": "A thick steel shield with a horn.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360467": {
-    "OriginalText": "結合と免摩反応を司る器官。\n武器防具の素村になる。",
+    "OriginalText": "結合と免疫反応を司る器官。\n武器防具の素村になる。",
     "Text": "",
     "Enabled": false
   },
@@ -7900,17 +7900,17 @@
     "Enabled": true
   },
   "360475": {
-    "OriginalText": "安定した大口鉄の銃身。\n武器防具の素村になる。",
+    "OriginalText": "安定した大口径の銃身。\n武器防具の素村になる。",
     "Text": "Stable gun barrel with a large muzzle.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360476": {
-    "OriginalText": "盃腹構造の柔軟で丈夫な皮。\n武器防具の素村になる。",
+    "OriginalText": "蛇腹構造の柔軟で丈夫な皮。\n武器防具の素村になる。",
     "Text": "Abdomen part made up of flexible and\nrobust hide.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360477": {
-    "OriginalText": "虫を噴く器官。\n武器防具の素村になる。",
+    "OriginalText": "墨を噴く器官。\n武器防具の素村になる。",
     "Text": "An ink-spraying organ.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
@@ -7925,12 +7925,12 @@
     "Enabled": true
   },
   "360480": {
-    "OriginalText": "機械生洋の背中に生えていた機関砲。\n武器防具の素村になる。",
+    "OriginalText": "機械生物の背中に生えていた機関砲。\n武器防具の素村になる。",
     "Text": "Biomechanical autocannon that grows in\nthe back.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360481": {
-    "OriginalText": "径を備えた頑強な機械の触手。\n武器防具の素村になる。",
+    "OriginalText": "孔を備えた頑強な機械の触手。\n武器防具の素村になる。",
     "Text": "Sturdy field breaking mechanism of a\ntentacle.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
@@ -7975,7 +7975,7 @@
     "Enabled": true
   },
   "360490": {
-    "OriginalText": "虫を噴く器官。\n武器防具の素村になる。",
+    "OriginalText": "墨を噴く器官。\n武器防具の素村になる。",
     "Text": "An ink-spraying organ.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
@@ -7985,7 +7985,7 @@
     "Enabled": true
   },
   "360492": {
-    "OriginalText": "角状突起のついた冷厚銅盾の破片。\n武器防具の素村になる。",
+    "OriginalText": "角状突起のついた極厚鋼盾の破片。\n武器防具の素村になる。",
     "Text": "Fragment of a thick steel shield with\na horn.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
@@ -8005,12 +8005,12 @@
     "Enabled": true
   },
   "360496": {
-    "OriginalText": "連結するギガンテスの伝甲。\n武器防具の素村になる。",
+    "OriginalText": "連結するギガンテスの装甲。\n武器防具の素村になる。",
     "Text": "A Gigantes armor shell.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360497": {
-    "OriginalText": "見る者を威催する脅威の仮面の破片。\n武器防具の素村になる。",
+    "OriginalText": "見る者を威嚇する脅威の仮面の破片。\n武器防具の素村になる。",
     "Text": "Fragment of a menacing observer mask.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
@@ -8030,7 +8030,7 @@
     "Enabled": true
   },
   "360501": {
-    "OriginalText": "肉厚な丈夫な枝状の翼。\n武器防具の素村になる。",
+    "OriginalText": "肉厚な丈夫な膜状の翼。\n武器防具の素村になる。",
     "Text": "A meaty branch-like wing.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
@@ -8040,7 +8040,7 @@
     "Enabled": true
   },
   "360503": {
-    "OriginalText": "柔らかな煽が密生し保極性に優れた\n大きな煽皮。\n武器防具の素村になる。",
+    "OriginalText": "柔らかな毛が密生し保温性に優れた\n大きな毛皮。\n武器防具の素村になる。",
     "Text": "Large dense fur with soft hair and\nexcellent polarity.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
@@ -8065,7 +8065,7 @@
     "Enabled": true
   },
   "360508": {
-    "OriginalText": "保極性に優れた剛煽の煽皮。\n武器防具の素村になる。",
+    "OriginalText": "保温性に優れた剛毛の毛皮。\n武器防具の素村になる。",
     "Text": "Bristle fur with excellent polarity.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
@@ -8095,7 +8095,7 @@
     "Enabled": true
   },
   "360514": {
-    "OriginalText": "肉厚な丈夫な枝状の翼。\n武器防具の素村になる。",
+    "OriginalText": "肉厚な丈夫な膜状の翼。\n武器防具の素村になる。",
     "Text": "Large gem attached to a body surface.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
@@ -8105,7 +8105,7 @@
     "Enabled": true
   },
   "360516": {
-    "OriginalText": "角状突起のついた厚銅伝甲。\n武器防具の素村になる。",
+    "OriginalText": "角状突起のついた厚鋼装甲。\n武器防具の素村になる。",
     "Text": "Thick steel armor shell with a horn.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
@@ -8120,7 +8120,7 @@
     "Enabled": true
   },
   "360519": {
-    "OriginalText": "高い強度を持つ冷太の鉄線。\n武器防具の素村になる。",
+    "OriginalText": "高い強度を持つ極太の鉄線。\n武器防具の素村になる。",
     "Text": "Very strong and thick iron wire.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
@@ -8130,12 +8130,12 @@
     "Enabled": true
   },
   "360521": {
-    "OriginalText": "見る者を萎温させる氷徹な仮面の破片。\n武器防具の素村になる。",
+    "OriginalText": "見る者を萎縮させる冷徹な仮面の破片。\n武器防具の素村になる。",
     "Text": "Fragment of a daunting observer mask.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360522": {
-    "OriginalText": "鉤固して硬化した粘液の結晶。\n武器防具の素村になる。",
+    "OriginalText": "凝固して硬化した粘液の結晶。\n武器防具の素村になる。",
     "Text": "A hardened mucus crystal.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
@@ -8145,17 +8145,17 @@
     "Enabled": true
   },
   "360524": {
-    "OriginalText": "大きく伸温する丈夫な挙。\n武器防具の素村になる。",
+    "OriginalText": "大きく伸縮する丈夫な袋。\n武器防具の素村になる。",
     "Text": "A sturdy bag that greatly expands and\ncontracts. Used as a material for crafting\nweapons.",
     "Enabled": true
   },
   "360525": {
-    "OriginalText": "保護枝に覆われた眼球。\n武器防具の素村になる。",
+    "OriginalText": "保護膜に覆われた眼球。\n武器防具の素村になる。",
     "Text": "Protective membrane that covers an\neyeball.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360526": {
-    "OriginalText": "跡惑の輝きを放つ宝石の眼球。\n武器防具の素村になる。",
+    "OriginalText": "魅惑の輝きを放つ宝石の眼球。\n武器防具の素村になる。",
     "Text": "A glittering eyeball gem.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
@@ -8175,12 +8175,12 @@
     "Enabled": true
   },
   "360530": {
-    "OriginalText": "跡惑の輝きを放つ宝石の眼球。\n武器防具の素村になる。",
+    "OriginalText": "魅惑の輝きを放つ宝石の眼球。\n武器防具の素村になる。",
     "Text": "A glittering eyeball gem.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360531": {
-    "OriginalText": "鋭く尖った疫をもつ頭骨。\n武器防具の素村になる。",
+    "OriginalText": "鋭く尖った顎をもつ頭骨。\n武器防具の素村になる。",
     "Text": "Hard and sharp infected skull.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
@@ -8210,12 +8210,12 @@
     "Enabled": true
   },
   "360537": {
-    "OriginalText": "跡惑の輝きを放つ宝石の眼球。\n武器防具の素村になる。",
+    "OriginalText": "魅惑の輝きを放つ宝石の眼球。\n武器防具の素村になる。",
     "Text": "A glittering eyeball gem.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360538": {
-    "OriginalText": "保護枝に覆われた眼球。\n武器防具の素村になる。",
+    "OriginalText": "保護膜に覆われた眼球。\n武器防具の素村になる。",
     "Text": "Protective membrane that covers an\neyeball.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
@@ -8225,7 +8225,7 @@
     "Enabled": true
   },
   "360540": {
-    "OriginalText": "角状突起のついた冷厚銅盾。\n武器防具の素村になる。",
+    "OriginalText": "角状突起のついた極厚鋼盾。\n武器防具の素村になる。",
     "Text": "A thick steel shield with a horn.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
@@ -8255,12 +8255,12 @@
     "Enabled": true
   },
   "360546": {
-    "OriginalText": "特定の洋質と結合する働きを持つ器官。\n武器防具の素村になる。",
+    "OriginalText": "特定の物質と結合する働きを持つ器官。\n武器防具の素村になる。",
     "Text": "An organ that binds a specific matter.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360547": {
-    "OriginalText": "固い枝に覆われた大きな眼球。\n武器防具の素村になる。",
+    "OriginalText": "固い膜に覆われた大きな眼球。\n武器防具の素村になる。",
     "Text": "Solid membrane that covers a large\neyeball.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
@@ -8270,37 +8270,37 @@
     "Enabled": true
   },
   "360549": {
-    "OriginalText": "特定の洋質と結合する働きを持つ器官。\n武器防具の素村になる。",
+    "OriginalText": "特定の物質と結合する働きを持つ器官。\n武器防具の素村になる。",
     "Text": "An organ that binds a specific matter.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360550": {
-    "OriginalText": "特定の洋質と結合する働きを持つ器官。\n武器防具の素村になる。",
+    "OriginalText": "特定の物質と結合する働きを持つ器官。\n武器防具の素村になる。",
     "Text": "An organ that binds a specific matter.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360551": {
-    "OriginalText": "結合と免摩反応を司る器官の欠片。\n武器防具の素村になる。",
+    "OriginalText": "結合と免疫反応を司る器官の欠片。\n武器防具の素村になる。",
     "Text": "",
     "Enabled": false
   },
   "360552": {
-    "OriginalText": "高強度加工された軽量銅の尾羽。\n武器防具の素村になる。",
+    "OriginalText": "高強度加工された軽量鋼の尾羽。\n武器防具の素村になる。",
     "Text": "Very strong and light steel rectrix.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360553": {
-    "OriginalText": "固い枝に覆われた大きな眼球。\n武器防具の素村になる。",
+    "OriginalText": "固い膜に覆われた大きな眼球。\n武器防具の素村になる。",
     "Text": "Solid membrane that covers a large\neyeball.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360554": {
-    "OriginalText": "固い枝に覆われた大きな眼球。\n武器防具の素村になる。",
+    "OriginalText": "固い膜に覆われた大きな眼球。\n武器防具の素村になる。",
     "Text": "Solid membrane that covers a large\neyeball.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360555": {
-    "OriginalText": "固い枝に覆われた大きな眼球。\n武器防具の素村になる。",
+    "OriginalText": "固い膜に覆われた大きな眼球。\n武器防具の素村になる。",
     "Text": "Solid membrane that covers a large\neyeball.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
@@ -8310,12 +8310,12 @@
     "Enabled": true
   },
   "360557": {
-    "OriginalText": "結合と免摩反応を司る器官。\n武器防具の素村になる。",
+    "OriginalText": "結合と免疫反応を司る器官。\n武器防具の素村になる。",
     "Text": "",
     "Enabled": false
   },
   "360558": {
-    "OriginalText": "結合と免摩反応を司る器官。\n武器防具の素村になる。",
+    "OriginalText": "結合と免疫反応を司る器官。\n武器防具の素村になる。",
     "Text": "",
     "Enabled": false
   },
@@ -8340,17 +8340,17 @@
     "Enabled": true
   },
   "360563": {
-    "OriginalText": "真紅の鱗が織りなす桁らかな表皮。\n武器防具の素村になる。",
+    "OriginalText": "真紅の鱗が織りなす滑らかな表皮。\n武器防具の素村になる。",
     "Text": "Metallic skin weaved with a crimson\nscale.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360564": {
-    "OriginalText": "硬く頑強な真紅の復眼。\n武器防具の素村になる。",
+    "OriginalText": "硬く頑強な真紅の複眼。\n武器防具の素村になる。",
     "Text": "Hard and sturdy crimson eyeball.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360565": {
-    "OriginalText": "攻撃を賜ね返す頑強な真紅の外殻。\n武器防具の素村になる。",
+    "OriginalText": "攻撃を跳ね返す頑強な真紅の外殻。\n武器防具の素村になる。",
     "Text": "A crimson shell that reflects attacks.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
@@ -8360,7 +8360,7 @@
     "Enabled": true
   },
   "360567": {
-    "OriginalText": "固い伝甲の内側にある新鮮な肉片。\n武器防具の素村になる。",
+    "OriginalText": "固い装甲の内側にある新鮮な肉片。\n武器防具の素村になる。",
     "Text": "Fresh meat inside a hard armor shell.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
@@ -8370,7 +8370,7 @@
     "Enabled": true
   },
   "360569": {
-    "OriginalText": "盃腹構造の柔軟で丈夫な皮。\n武器防具の素村になる。",
+    "OriginalText": "蛇腹構造の柔軟で丈夫な皮。\n武器防具の素村になる。",
     "Text": "Flexible and sturdy skin of an abdomen.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
@@ -8400,12 +8400,12 @@
     "Enabled": true
   },
   "360575": {
-    "OriginalText": "安定した大口鉄の銃身。\n武器防具の素村になる。",
+    "OriginalText": "安定した大口径の銃身。\n武器防具の素村になる。",
     "Text": "Stable gun barrel with a large muzzle.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360576": {
-    "OriginalText": "薄くて丈夫な皮枝の欠片。\n武器防具の素村になる。",
+    "OriginalText": "薄くて丈夫な皮膜の欠片。\n武器防具の素村になる。",
     "Text": "Fragment of a thin and sturdy skin\nmembrane.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
@@ -8450,12 +8450,12 @@
     "Enabled": true
   },
   "360585": {
-    "OriginalText": "羽煽に覆われた羽。\n武器防具の素村になる。",
+    "OriginalText": "羽毛に覆われた羽。\n武器防具の素村になる。",
     "Text": "Feather covered with plumage.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360586": {
-    "OriginalText": "頑強な機械伝甲。\n武器防具の素村になる。",
+    "OriginalText": "頑強な機械装甲。\n武器防具の素村になる。",
     "Text": "Sturdy mechanical armor shell.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
@@ -8475,7 +8475,7 @@
     "Enabled": true
   },
   "360590": {
-    "OriginalText": "虫を噴く器官。\n武器防具の素村になる。",
+    "OriginalText": "墨を噴く器官。\n武器防具の素村になる。",
     "Text": "An ink-spraying organ.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
@@ -8485,7 +8485,7 @@
     "Enabled": true
   },
   "360592": {
-    "OriginalText": "径を備えた軽量機械の触手。\n武器防具の素村になる。",
+    "OriginalText": "孔を備えた軽量機械の触手。\n武器防具の素村になる。",
     "Text": "Field breaking lightweight mechanism of\na tentacle.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
@@ -8500,7 +8500,7 @@
     "Enabled": true
   },
   "360595": {
-    "OriginalText": "角状突起のついた冷厚銅盾の破片。\n武器防具の素村になる。",
+    "OriginalText": "角状突起のついた極厚鋼盾の破片。\n武器防具の素村になる。",
     "Text": "Fragment of a thick steel shield with\na horn.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
@@ -8510,22 +8510,22 @@
     "Enabled": true
   },
   "360597": {
-    "OriginalText": "特定の洋質と結合する働きを持つ器官。\n武器防具の素村になる。",
+    "OriginalText": "特定の物質と結合する働きを持つ器官。\n武器防具の素村になる。",
     "Text": "An organ that binds a specific matter.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360598": {
-    "OriginalText": "結合と免摩反応を司る器官の欠片。\n武器防具の素村になる。",
+    "OriginalText": "結合と免疫反応を司る器官の欠片。\n武器防具の素村になる。",
     "Text": "",
     "Enabled": false
   },
   "360599": {
-    "OriginalText": "硬い甲殻の内部が空榴の軽量脚。\n武器防具の素村になる。",
+    "OriginalText": "硬い甲殻の内部が空洞の軽量脚。\n武器防具の素村になる。",
     "Text": "",
     "Enabled": false
   },
   "360600": {
-    "OriginalText": "蛍乳類系原生種の大きく\nしなやかなしっぽ。\n武器防具の素村になる。",
+    "OriginalText": "哺乳類系原生種の大きく\nしなやかなしっぽ。\n武器防具の素村になる。",
     "Text": "Large flexible tail of a native specie.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
@@ -8540,12 +8540,12 @@
     "Enabled": true
   },
   "360603": {
-    "OriginalText": "巨大な眼球から顎出した赤い水晶体。\n武器防具の素村になる。",
+    "OriginalText": "巨大な眼球から摘出した赤い水晶体。\n武器防具の素村になる。",
     "Text": "Crimson lens of a giant eyeball out of\na jaw.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360604": {
-    "OriginalText": "先端が鋭く輝く円洞形の針。\n武器防具の素村になる。",
+    "OriginalText": "先端が鋭く輝く円錐形の針。\n武器防具の素村になる。",
     "Text": "Pointed sharp and glittering hollow-like\nneedle.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
@@ -8560,12 +8560,12 @@
     "Enabled": true
   },
   "360607": {
-    "OriginalText": "高い防御性を誇る冷厚銅盾の破片。\n武器防具の素村になる。",
+    "OriginalText": "高い防御性を誇る極厚鋼盾の破片。\n武器防具の素村になる。",
     "Text": "Fragment of a very protective thick\nsteel shield.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360608": {
-    "OriginalText": "高い防御性を誇る冷厚銅盾の破片。\n武器防具の素村になる。",
+    "OriginalText": "高い防御性を誇る極厚鋼盾の破片。\n武器防具の素村になる。",
     "Text": "Fragment of a veru protective thick\nsteel shield.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
@@ -8595,7 +8595,7 @@
     "Enabled": true
   },
   "360614": {
-    "OriginalText": "長い体煽から成る煽皮。\n武器防具の素村になる。",
+    "OriginalText": "長い体毛から成る毛皮。\n武器防具の素村になる。",
     "Text": "Fur with long hair.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
@@ -8635,27 +8635,27 @@
     "Enabled": true
   },
   "360622": {
-    "OriginalText": "細く強ばった直煽。\n武器防具の素村になる。",
+    "OriginalText": "細く強ばった直毛。\n武器防具の素村になる。",
     "Text": "Thin and stiff straight hair.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360623": {
-    "OriginalText": "細く強ばった直煽。\n武器防具の素村になる。",
+    "OriginalText": "細く強ばった直毛。\n武器防具の素村になる。",
     "Text": "Thin and stiff straight hair.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360624": {
-    "OriginalText": "長く太い煽が密生する煽皮。\n武器防具の素村になる。",
+    "OriginalText": "長く太い毛が密生する毛皮。\n武器防具の素村になる。",
     "Text": "Fur with long and thick hair.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360625": {
-    "OriginalText": "小型チェーンソーの動力装。\n武器防具の素村になる。",
+    "OriginalText": "小型チェーンソーの動力源。\n武器防具の素村になる。",
     "Text": "A small chainsaw motor.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360626": {
-    "OriginalText": "柔らかな煽が密生し保極性に優れる。\n武器防具の素村になる。",
+    "OriginalText": "柔らかな毛が密生し保温性に優れる。\n武器防具の素村になる。",
     "Text": "",
     "Enabled": false
   },
@@ -8670,12 +8670,12 @@
     "Enabled": true
   },
   "360629": {
-    "OriginalText": "ジェットパックを伝備した主翼。\n武器防具の素村になる。",
+    "OriginalText": "ジェットパックを装備した主翼。\n武器防具の素村になる。",
     "Text": "A main wing equipped with a jetpack.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360630": {
-    "OriginalText": "保極性に優れた剛煽の煽皮。\n武器防具の素村になる。",
+    "OriginalText": "保温性に優れた剛毛の毛皮。\n武器防具の素村になる。",
     "Text": "Bristle fur with excellent polarity.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
@@ -8690,7 +8690,7 @@
     "Enabled": true
   },
   "360633": {
-    "OriginalText": "肉厚な枝状の翼。\n武器防具の素村になる。",
+    "OriginalText": "肉厚な膜状の翼。\n武器防具の素村になる。",
     "Text": "Meaty branch-like wing.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
@@ -8715,22 +8715,22 @@
     "Enabled": true
   },
   "360638": {
-    "OriginalText": "角状突起のついた厚銅伝甲。\n武器防具の素村になる。",
+    "OriginalText": "角状突起のついた厚鋼装甲。\n武器防具の素村になる。",
     "Text": "Thick steel armor shell with a horn.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360639": {
-    "OriginalText": "高強度加工された軽量銅の尾羽。\n武器防具の素村になる。",
+    "OriginalText": "高強度加工された軽量鋼の尾羽。\n武器防具の素村になる。",
     "Text": "Very strong and light steel rectrix.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360640": {
-    "OriginalText": "固い枝に覆われた大きな眼球。\n武器防具の素村になる。",
+    "OriginalText": "固い膜に覆われた大きな眼球。\n武器防具の素村になる。",
     "Text": "Solid membrane that covers a large\neyeball.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360641": {
-    "OriginalText": "固い枝に覆われた大きな眼球。\n武器防具の素村になる。",
+    "OriginalText": "固い膜に覆われた大きな眼球。\n武器防具の素村になる。",
     "Text": "Solid membrane that covers a large\neyeball.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
@@ -8750,7 +8750,7 @@
     "Enabled": true
   },
   "360645": {
-    "OriginalText": "硬い甲殻に覆われ鋭い朽爪のついた脚。\n武器防具の素村になる。",
+    "OriginalText": "硬い甲殻に覆われ鋭い鉤爪のついた脚。\n武器防具の素村になる。",
     "Text": "Hard shell attached to a leg that covers\nthe sharp curved claw.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
@@ -8775,12 +8775,12 @@
     "Enabled": true
   },
   "360650": {
-    "OriginalText": "硬い刃状の厚銅ヒレ。\n武器防具の素村になる。",
+    "OriginalText": "硬い刃状の厚鋼ヒレ。\n武器防具の素村になる。",
     "Text": "Hard bladelike thick steel fin.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360651": {
-    "OriginalText": "硬い刃状の厚銅ヒレ。\n武器防具の素村になる。",
+    "OriginalText": "硬い刃状の厚鋼ヒレ。\n武器防具の素村になる。",
     "Text": "Hard bladelike thick steel fin.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
@@ -8800,7 +8800,7 @@
     "Enabled": true
   },
   "360655": {
-    "OriginalText": "大きく伸温する丈夫な挙。\n武器防具の素村になる。",
+    "OriginalText": "大きく伸縮する丈夫な袋。\n武器防具の素村になる。",
     "Text": "A sturdy bag that greatly expands and\ncontracts. Used as a material for crafting\nweapons.",
     "Enabled": true
   },
@@ -8835,7 +8835,7 @@
     "Enabled": true
   },
   "360662": {
-    "OriginalText": "薄くて丈夫な皮枝。\n武器防具の素村になる。",
+    "OriginalText": "薄くて丈夫な皮膜。\n武器防具の素村になる。",
     "Text": "Thin and sturdy skin membrane.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
@@ -8880,7 +8880,7 @@
     "Enabled": true
   },
   "360671": {
-    "OriginalText": "羽煽に覆われた長い尾羽。\n武器防具の素村になる。",
+    "OriginalText": "羽毛に覆われた長い尾羽。\n武器防具の素村になる。",
     "Text": "Long rectrix covered with plumage.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
@@ -8900,12 +8900,12 @@
     "Enabled": true
   },
   "360675": {
-    "OriginalText": "跡惑の輝きを放つ宝石の眼球。\n武器防具の素村になる。",
+    "OriginalText": "魅惑の輝きを放つ宝石の眼球。\n武器防具の素村になる。",
     "Text": "A glittering eyeball gem.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360676": {
-    "OriginalText": "保護枝に覆われた眼球。\n武器防具の素村になる。",
+    "OriginalText": "保護膜に覆われた眼球。\n武器防具の素村になる。",
     "Text": "Protective membrane that covers an\neyeball.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
@@ -8920,17 +8920,17 @@
     "Enabled": true
   },
   "360679": {
-    "OriginalText": "鉤固して硬化した粘液の結晶。\n武器防具の素村になる。",
+    "OriginalText": "凝固して硬化した粘液の結晶。\n武器防具の素村になる。",
     "Text": "A hardened mucus crystal.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360680": {
-    "OriginalText": "鋭く尖った疫をもつ頭骨。\n武器防具の素村になる。",
+    "OriginalText": "鋭く尖った顎をもつ頭骨。\n武器防具の素村になる。",
     "Text": "Sharp and pointed infected skull.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360681": {
-    "OriginalText": "角状突起のついた冷厚銅盾。\n武器防具の素村になる。",
+    "OriginalText": "角状突起のついた極厚鋼盾。\n武器防具の素村になる。",
     "Text": "A thick steel shield with a horn.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
@@ -8940,12 +8940,12 @@
     "Enabled": true
   },
   "360683": {
-    "OriginalText": "免摩反応を媒介する器官。\n武器防具の素村になる。",
+    "OriginalText": "免疫反応を媒介する器官。\n武器防具の素村になる。",
     "Text": "",
     "Enabled": false
   },
   "360684": {
-    "OriginalText": "結合と免摩反応を司る器官。\n武器防具の素村になる。",
+    "OriginalText": "結合と免疫反応を司る器官。\n武器防具の素村になる。",
     "Text": "",
     "Enabled": false
   },
@@ -8970,7 +8970,7 @@
     "Enabled": true
   },
   "360689": {
-    "OriginalText": "分厚い硬枝に覆われた腕跳。\n武器防具の素村になる。",
+    "OriginalText": "分厚い硬膜に覆われた腕棍。\n武器防具の素村になる。",
     "Text": "",
     "Enabled": false
   },
@@ -8990,12 +8990,12 @@
     "Enabled": true
   },
   "360693": {
-    "OriginalText": "高い防御性を誇る超冷厚銅盾の破片。\n武器防具の素村になる。",
+    "OriginalText": "高い防御性を誇る超極厚鋼盾の破片。\n武器防具の素村になる。",
     "Text": "A fragment of a protective and super\nthick steel shield.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360694": {
-    "OriginalText": "高い防御性を誇る超冷厚銅盾の破片。\n武器防具の素村になる。",
+    "OriginalText": "高い防御性を誇る超極厚鋼盾の破片。\n武器防具の素村になる。",
     "Text": "A fragment of a protective and super\nthick steel shield.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
@@ -9005,7 +9005,7 @@
     "Enabled": true
   },
   "360696": {
-    "OriginalText": "非常に大きな孔に似た形状の触角。\n武器防具の素村となる。",
+    "OriginalText": "非常に大きな鞭に似た形状の触角。\n武器防具の素村となる。",
     "Text": "An antenna with a very large cavity.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
@@ -9030,22 +9030,22 @@
     "Enabled": true
   },
   "360701": {
-    "OriginalText": "免摩反応を媒介する器官。\n武器防具の素村になる。",
+    "OriginalText": "免疫反応を媒介する器官。\n武器防具の素村になる。",
     "Text": "",
     "Enabled": false
   },
   "360702": {
-    "OriginalText": "免摩反応を媒介する器官。\n武器防具の素村になる。",
+    "OriginalText": "免疫反応を媒介する器官。\n武器防具の素村になる。",
     "Text": "",
     "Enabled": false
   },
   "360703": {
-    "OriginalText": "免摩反応を媒介する器官。\n武器防具の素村になる。",
+    "OriginalText": "免疫反応を媒介する器官。\n武器防具の素村になる。",
     "Text": "",
     "Enabled": false
   },
   "360704": {
-    "OriginalText": "免摩反応を媒介する器官。\n武器防具の素村になる。",
+    "OriginalText": "免疫反応を媒介する器官。\n武器防具の素村になる。",
     "Text": "",
     "Enabled": false
   },
@@ -9110,42 +9110,42 @@
     "Enabled": false
   },
   "360717": {
-    "OriginalText": "銅の荒野を形成する岩石。\n一般的な武器防具の素村として利用される。",
+    "OriginalText": "鋼の荒野を形成する岩石。\n一般的な武器防具の素村として利用される。",
     "Text": "Rock formed in Steel Wasteland.\nCommon processed material used for\ncrafting weapons.",
     "Enabled": true
   },
   "360718": {
-    "OriginalText": "銅の荒野で採集される岩石。\n武器防具の加工素村として利用される。",
+    "OriginalText": "鋼の荒野で採集される岩石。\n武器防具の加工素村として利用される。",
     "Text": "Rock collected in Steel Wasteland.\nProcessed material used for crafting\nweapons.",
     "Enabled": true
   },
   "360719": {
-    "OriginalText": "銅の荒野で稀に採集される鉱洋。\n武器防具の加工素村として重用される。",
+    "OriginalText": "鋼の荒野で稀に採集される鉱物。\n武器防具の加工素村として重用される。",
     "Text": "Rare ore collected in the Steel Wasteland.\nUsed as material for crafting weapons.",
     "Enabled": true
   },
   "360720": {
-    "OriginalText": "銅の荒野でごく稀に採集される鉱洋。\n美しい結晶は加工が容易で、\n武器防具の加工素村として重用される。",
+    "OriginalText": "鋼の荒野でごく稀に採集される鉱物。\n美しい結晶は加工が容易で、\n武器防具の加工素村として重用される。",
     "Text": "Rare ore collected in Steel Wasteland.\nProcessed material used for crafting\nweapons.",
     "Enabled": true
   },
   "360721": {
-    "OriginalText": "グラン水装を形成する岩石。\n一般的な武器防具の素村として利用される。",
+    "OriginalText": "グラン水源を形成する岩石。\n一般的な武器防具の素村として利用される。",
     "Text": "Rock formed in Gran Water Rig.\nProcessed common material used for\ncrafting weapons.",
     "Enabled": true
   },
   "360722": {
-    "OriginalText": "グラン水装で採集される岩石。\n武器防具の加工素村として利用される。",
+    "OriginalText": "グラン水源で採集される岩石。\n武器防具の加工素村として利用される。",
     "Text": "Rock collected in Gran Water Rig.\nProcessed material used for crafting\nweapons.",
     "Enabled": true
   },
   "360723": {
-    "OriginalText": "グラン水装で稀に採集される鉱洋。\n鮮やかな色合いが見る者を跡了し、\n武器防具の加工素村として重用される。",
+    "OriginalText": "グラン水源で稀に採集される鉱物。\n鮮やかな色合いが見る者を魅了し、\n武器防具の加工素村として重用される。",
     "Text": "Rare ore collected in Gran Water Rig.\nProcessed material used for crafting\nweapons.",
     "Enabled": true
   },
   "360724": {
-    "OriginalText": "グラン水装でごく稀に採集される鉱洋。\n微細な結晶が光を絶妙に屈折させ、\n武器防具の加工素村として重用される。",
+    "OriginalText": "グラン水源でごく稀に採集される鉱物。\n微細な結晶が光を絶妙に屈折させ、\n武器防具の加工素村として重用される。",
     "Text": "Super rare ore collected in Gran Water\nRig.\nProcessed material used for crafting\nweapons.",
     "Enabled": true
   },
@@ -9160,12 +9160,12 @@
     "Enabled": true
   },
   "360727": {
-    "OriginalText": "炎の高地で稀に採集される鉱洋。\n同じ結晶でも青色は特に稀少性があり、\n武器防具の加工素村として重用される。",
+    "OriginalText": "炎の高地で稀に採集される鉱物。\n同じ結晶でも青色は特に稀少性があり、\n武器防具の加工素村として重用される。",
     "Text": "Ore collected in Flame Highlands.\nA rarer blue colored variant.\nProcessed material used for crafting\nweapons.",
     "Enabled": true
   },
   "360728": {
-    "OriginalText": "炎の高地でごく稀に採集される鉱洋。\n蒼いほど純度が高く稀少性があり、\n武器防具の加工素村として重用される。",
+    "OriginalText": "炎の高地でごく稀に採集される鉱物。\n蒼いほど純度が高く稀少性があり、\n武器防具の加工素村として重用される。",
     "Text": "Ore collected in Flame Highlands.\nA very pure green variant.\nProcessed material used for crafting\nweapons.",
     "Enabled": true
   },
@@ -9180,12 +9180,12 @@
     "Enabled": true
   },
   "360731": {
-    "OriginalText": "古代都市で稀に採集される鉱洋。\n純度が高いものほど光を反射し、\n武器防具の加工素村として重用される。",
+    "OriginalText": "古代都市で稀に採集される鉱物。\n純度が高いものほど光を反射し、\n武器防具の加工素村として重用される。",
     "Text": "Rare ore collected in Ancient City.\nVery pure and very bright.\nProcessed material used for crafting\nweapons.",
     "Enabled": true
   },
   "360732": {
-    "OriginalText": "古代都市でごく稀に採集される鉱洋。\n高極高圧に強く耐久性があり、\n武器防具の加工素村として重用される。",
+    "OriginalText": "古代都市でごく稀に採集される鉱物。\n高温高圧に強く耐久性があり、\n武器防具の加工素村として重用される。",
     "Text": "Super rare ore collected in Ancient\nCity. Very strong and durable.\nProcessed material used for crafting\nweapons.",
     "Enabled": true
   },
@@ -9200,12 +9200,12 @@
     "Enabled": true
   },
   "360735": {
-    "OriginalText": "大尖塔で稀に採集される鉱洋。\n微細な結晶はあらゆる加工が可能で\n武器防具の加工素村として重用される。",
+    "OriginalText": "大尖塔で稀に採集される鉱物。\n微細な結晶はあらゆる加工が可能で\n武器防具の加工素村として重用される。",
     "Text": "Ore collected in Large Spire.\nThe crystal can be processed in any way.\nProcessed material used for crafting\nweapons.",
     "Enabled": true
   },
   "360736": {
-    "OriginalText": "大尖塔でごく稀に採集される鉱洋。\n透明な結晶が少ない滅衰で光を屈折させ、\n武器防具の加工素村として重用される。",
+    "OriginalText": "大尖塔でごく稀に採集される鉱物。\n透明な結晶が少ない滅衰で光を屈折させ、\n武器防具の加工素村として重用される。",
     "Text": "Super rare ore collected in Large Spire.\nTransparent and refractive crystal.\nProcessed material used for crafting\nweapons.",
     "Enabled": true
   },
@@ -9220,12 +9220,12 @@
     "Enabled": true
   },
   "360739": {
-    "OriginalText": "ノヴァ内部で稀に採集される鉱洋。\n美しく特微的な結晶が人気で、\n武器防具の加工素村として重用される。",
+    "OriginalText": "ノヴァ内部で稀に採集される鉱物。\n美しく特微的な結晶が人気で、\n武器防具の加工素村として重用される。",
     "Text": "Rare ore collected in Nova Interior.\nA popular beautiful crystal.\nProcessed material used for crafting\nweapons.",
     "Enabled": true
   },
   "360740": {
-    "OriginalText": "ノヴァ内部でごく稀に採集される鉱洋。\n一点の輩りもない黒さが跡力で、\n武器防具の加工素村として重用される。",
+    "OriginalText": "ノヴァ内部でごく稀に採集される鉱物。\n一点の曇りもない黒さが魅力で、\n武器防具の加工素村として重用される。",
     "Text": "Super rare ore collected in Nova\nInterior. No black specks can be seen.\nProcessed material used for crafting\nweapons.",
     "Enabled": true
   },
@@ -9285,17 +9285,17 @@
     "Enabled": true
   },
   "360752": {
-    "OriginalText": "剛強な甲殻の内部が空榴の軽量脚。\n武器防具の素村になる。",
+    "OriginalText": "剛強な甲殻の内部が空洞の軽量脚。\n武器防具の素村になる。",
     "Text": "Light leg with a strong shell that has\na cavity inside.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360753": {
-    "OriginalText": "剛強な甲殻の内部が空榴の軽量脚。\n武器防具の素村になる。",
+    "OriginalText": "剛強な甲殻の内部が空洞の軽量脚。\n武器防具の素村になる。",
     "Text": "Light leg with a strong shell that has\na cavity inside.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360754": {
-    "OriginalText": "先端が鋭く輝く円洞形の針。\n武器防具の素村になる。",
+    "OriginalText": "先端が鋭く輝く円錐形の針。\n武器防具の素村になる。",
     "Text": "Sharp pointed and glittering hollow-like\nneedle.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
@@ -9310,7 +9310,7 @@
     "Enabled": true
   },
   "360757": {
-    "OriginalText": "攻撃を弾き頑強で特に伝甲の厚い甲羅。\n武器防具の素村になる。",
+    "OriginalText": "攻撃を弾き頑強で特に装甲の厚い甲羅。\n武器防具の素村になる。",
     "Text": "Sturdy unique thick shell that can\nrepel attacks.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
@@ -9335,7 +9335,7 @@
     "Enabled": true
   },
   "360762": {
-    "OriginalText": "特に大型で硬い伝甲に覆われた腕。\n武器防具の素村になる。",
+    "OriginalText": "特に大型で硬い装甲に覆われた腕。\n武器防具の素村になる。",
     "Text": "Unique large arm covered in hard shell.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
@@ -9380,22 +9380,22 @@
     "Enabled": true
   },
   "360771": {
-    "OriginalText": "細く強ばった特に長めの直煽。\n武器防具の素村になる。",
+    "OriginalText": "細く強ばった特に長めの直毛。\n武器防具の素村になる。",
     "Text": "Thin and strong, unique and long\nstraight hair.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360772": {
-    "OriginalText": "細く強ばった特に長めの直煽。\n武器防具の素村になる。",
+    "OriginalText": "細く強ばった特に長めの直毛。\n武器防具の素村になる。",
     "Text": "Unique thin, stiff, and long hair.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360773": {
-    "OriginalText": "特に長く太い剛煽が密生する煽皮。\n武器防具の素村になる。",
+    "OriginalText": "特に長く太い剛毛が密生する毛皮。\n武器防具の素村になる。",
     "Text": "Unique fur with long and thick bristles.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360774": {
-    "OriginalText": "特に長く太い剛煽が密生する煽皮。\n武器防具の素村になる。",
+    "OriginalText": "特に長く太い剛毛が密生する毛皮。\n武器防具の素村になる。",
     "Text": "Unique fur with long and thick bristles.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
@@ -9420,17 +9420,17 @@
     "Enabled": true
   },
   "360779": {
-    "OriginalText": "ジェットパックを伝備した特に頑強な主翼。\n武器防具の素村になる。",
+    "OriginalText": "ジェットパックを装備した特に頑強な主翼。\n武器防具の素村になる。",
     "Text": "Unique sturdy main wing equipped with\na jetpack.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360780": {
-    "OriginalText": "ジェットパックを伝備した特に頑強な主翼。\n武器防具の素村になる。",
+    "OriginalText": "ジェットパックを装備した特に頑強な主翼。\n武器防具の素村になる。",
     "Text": "Unique sturdy main wing equipped with\na jetpack.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360781": {
-    "OriginalText": "ジェットパックを伝備した特に頑強な主翼。\n武器防具の素村になる。",
+    "OriginalText": "ジェットパックを装備した特に頑強な主翼。\n武器防具の素村になる。",
     "Text": "Unique sturdy main wing equipped with\na jetpack.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
@@ -9485,62 +9485,62 @@
     "Enabled": true
   },
   "360792": {
-    "OriginalText": "薄くとも硬くて特に大きい巻状の皮枝。\n武器防具の素村になる。",
+    "OriginalText": "薄くとも硬くて特に大きい巻状の皮膜。\n武器防具の素村になる。",
     "Text": "Thin, hard, and large unique skin\nmembrane.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360793": {
-    "OriginalText": "薄くとも硬くて特に大きい巻状の皮枝。\n武器防具の素村になる。",
+    "OriginalText": "薄くとも硬くて特に大きい巻状の皮膜。\n武器防具の素村になる。",
     "Text": "Thin, hard, and large unique skin\nmembrane.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360794": {
-    "OriginalText": "薄くとも硬くて特に大きい巻状の皮枝。\n武器防具の素村になる。",
+    "OriginalText": "薄くとも硬くて特に大きい巻状の皮膜。\n武器防具の素村になる。",
     "Text": "Thin, hard, and large unique skin\nmembrane.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360795": {
-    "OriginalText": "薄くとも硬くて特に大きい巻状の皮枝。\n武器防具の素村になる。",
+    "OriginalText": "薄くとも硬くて特に大きい巻状の皮膜。\n武器防具の素村になる。",
     "Text": "Thin, hard, and large unique skin\nmembrane.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360796": {
-    "OriginalText": "美しく大きな羽を形成する冷軽量の羽煽。\n武器防具の素村になる。",
+    "OriginalText": "美しく大きな羽を形成する極軽量の羽毛。\n武器防具の素村になる。",
     "Text": "Ultra light and beautiful feathers that\nforms a plumage.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360797": {
-    "OriginalText": "美しく大きな羽を形成する冷軽量の羽煽。\n武器防具の素村になる。",
+    "OriginalText": "美しく大きな羽を形成する極軽量の羽毛。\n武器防具の素村になる。",
     "Text": "Ultra light and beautiful feathers that\nforms a plumage.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360798": {
-    "OriginalText": "美しく大きな羽を形成する冷軽量の羽煽。\n武器防具の素村になる。",
+    "OriginalText": "美しく大きな羽を形成する極軽量の羽毛。\n武器防具の素村になる。",
     "Text": "Ultra light and beautiful feathers that\nforms a plumage.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360799": {
-    "OriginalText": "美しく大きな羽を形成する冷軽量の羽煽。\n武器防具の素村になる。",
+    "OriginalText": "美しく大きな羽を形成する極軽量の羽毛。\n武器防具の素村になる。",
     "Text": "Ultra light and beautiful feathers that\nforms a plumage.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360800": {
-    "OriginalText": "あらゆる洋を貴く硬く鋭い尖端。\n武器防具の素村になる。",
+    "OriginalText": "あらゆる物を貴く硬く鋭い尖端。\n武器防具の素村になる。",
     "Text": "Valuable sharp pointed tip.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360801": {
-    "OriginalText": "あらゆる洋を貴く硬く鋭い尖端。\n武器防具の素村になる。",
+    "OriginalText": "あらゆる物を貴く硬く鋭い尖端。\n武器防具の素村になる。",
     "Text": "Valuable sharp pointed tip.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360802": {
-    "OriginalText": "あらゆる洋を貴く硬く鋭い尖端。\n武器防具の素村になる。",
+    "OriginalText": "あらゆる物を貴く硬く鋭い尖端。\n武器防具の素村になる。",
     "Text": "Valuable sharp pointed tip.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360803": {
-    "OriginalText": "あらゆる洋を貴く硬く鋭い尖端。\n武器防具の素村になる。",
+    "OriginalText": "あらゆる物を貴く硬く鋭い尖端。\n武器防具の素村になる。",
     "Text": "Valuable sharp pointed tip.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
@@ -9565,47 +9565,47 @@
     "Enabled": true
   },
   "360808": {
-    "OriginalText": "忌まわしき洋や邪な洋をはじく特別な力。\n武器防具の素村になる。",
+    "OriginalText": "忌まわしき物や邪な物をはじく特別な力。\n武器防具の素村になる。",
     "Text": "It has special powers to repel evil.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360809": {
-    "OriginalText": "忌まわしき洋や邪な洋をはじく特別な力。\n武器防具の素村になる。",
+    "OriginalText": "忌まわしき物や邪な物をはじく特別な力。\n武器防具の素村になる。",
     "Text": "It has special powers to repel evil.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360810": {
-    "OriginalText": "忌まわしき洋や邪な洋をはじく特別な力。\n武器防具の素村になる。",
+    "OriginalText": "忌まわしき物や邪な物をはじく特別な力。\n武器防具の素村になる。",
     "Text": "It has special powers to repel evil.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360811": {
-    "OriginalText": "忌まわしき洋や邪な洋をはじく特別な力。\n武器防具の素村になる。",
+    "OriginalText": "忌まわしき物や邪な物をはじく特別な力。\n武器防具の素村になる。",
     "Text": "It has special powers to repel evil.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360812": {
-    "OriginalText": "忌まわしき洋や邪な洋をはじく特別な力。\n武器防具の素村になる。",
+    "OriginalText": "忌まわしき物や邪な物をはじく特別な力。\n武器防具の素村になる。",
     "Text": "It has special powers to repel evil.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360813": {
-    "OriginalText": "硬く鋭利な冷細の針。\n武器防具の素村になる。",
+    "OriginalText": "硬く鋭利な極細の針。\n武器防具の素村になる。",
     "Text": "Hard and sharp needle.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360814": {
-    "OriginalText": "硬く鋭利な冷細の針。\n武器防具の素村になる。",
+    "OriginalText": "硬く鋭利な極細の針。\n武器防具の素村になる。",
     "Text": "Hard and sharp needle.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360815": {
-    "OriginalText": "硬く鋭利な冷細の針。\n武器防具の素村になる。",
+    "OriginalText": "硬く鋭利な極細の針。\n武器防具の素村になる。",
     "Text": "Hard and sharp needle.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360816": {
-    "OriginalText": "硬く鋭利な冷細の針。\n武器防具の素村になる。",
+    "OriginalText": "硬く鋭利な極細の針。\n武器防具の素村になる。",
     "Text": "Hard and sharp needle.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
@@ -9625,42 +9625,42 @@
     "Enabled": true
   },
   "360820": {
-    "OriginalText": "破壊力がすさまじい大口鉄の銃身。\n武器防具の素村になる。",
+    "OriginalText": "破壊力がすさまじい大口径の銃身。\n武器防具の素村になる。",
     "Text": "Gun barrel with a large muzzle and has\ntremendous destructive power.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360821": {
-    "OriginalText": "破壊力がすさまじい大口鉄の銃身。\n武器防具の素村になる。",
+    "OriginalText": "破壊力がすさまじい大口径の銃身。\n武器防具の素村になる。",
     "Text": "Gun barrel with a large muzzle and has\ntremendous destructive power.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360822": {
-    "OriginalText": "破壊力がすさまじい大口鉄の銃身。\n武器防具の素村になる。",
+    "OriginalText": "破壊力がすさまじい大口径の銃身。\n武器防具の素村になる。",
     "Text": "Gun barrel with a large muzzle and has\ntremendous destructive power.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360823": {
-    "OriginalText": "破壊力がすさまじい大口鉄の銃身。\n武器防具の素村になる。",
+    "OriginalText": "破壊力がすさまじい大口径の銃身。\n武器防具の素村になる。",
     "Text": "Gun barrel with a large muzzle and has\ntremendous destructive power.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360824": {
-    "OriginalText": "角状突起のついた特に頑強な銅盾。\n武器防具の素村になる。",
+    "OriginalText": "角状突起のついた特に頑強な鋼盾。\n武器防具の素村になる。",
     "Text": "Unique sturdy steel shield with a horn.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360825": {
-    "OriginalText": "角状突起のついた特に頑強な銅盾。\n武器防具の素村になる。",
+    "OriginalText": "角状突起のついた特に頑強な鋼盾。\n武器防具の素村になる。",
     "Text": "Unique sturdy steel shield with a horn.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360826": {
-    "OriginalText": "角状突起のついた特に頑強な銅盾。\n武器防具の素村になる。",
+    "OriginalText": "角状突起のついた特に頑強な鋼盾。\n武器防具の素村になる。",
     "Text": "Unique sturdy steel shield with a horn.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360827": {
-    "OriginalText": "角状突起のついた特に頑強な銅盾。\n武器防具の素村になる。",
+    "OriginalText": "角状突起のついた特に頑強な鋼盾。\n武器防具の素村になる。",
     "Text": "Unique sturdy steel shield with a horn.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
@@ -9680,22 +9680,22 @@
     "Enabled": true
   },
   "360831": {
-    "OriginalText": "長い真っ赤な二剤粘。\n武器防具の素村になる。",
+    "OriginalText": "長い真っ赤な二枚舌。\n武器防具の素村になる。",
     "Text": "Long and red 2-pack sticky substance.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360832": {
-    "OriginalText": "長い真っ赤な二剤粘。\n武器防具の素村になる。",
+    "OriginalText": "長い真っ赤な二枚舌。\n武器防具の素村になる。",
     "Text": "Long and red 2-pack sticky substance.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360833": {
-    "OriginalText": "長い真っ赤な二剤粘。\n武器防具の素村になる。",
+    "OriginalText": "長い真っ赤な二枚舌。\n武器防具の素村になる。",
     "Text": "Long and red 2-pack sticky substance.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360834": {
-    "OriginalText": "長い真っ赤な二剤粘。\n武器防具の素村になる。",
+    "OriginalText": "長い真っ赤な二枚舌。\n武器防具の素村になる。",
     "Text": "Long and red 2-pack sticky substance.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
@@ -9845,12 +9845,12 @@
     "Enabled": true
   },
   "360864": {
-    "OriginalText": "特に鋭利で巨大な滑状の爪。\n武器防具の素村になる。",
+    "OriginalText": "特に鋭利で巨大な鉄状の爪。\n武器防具の素村になる。",
     "Text": "Unique sharp and huge sliding nail.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360865": {
-    "OriginalText": "特に鋭利で巨大な滑状の爪。\n武器防具の素村になる。",
+    "OriginalText": "特に鋭利で巨大な鉄状の爪。\n武器防具の素村になる。",
     "Text": "Unique sharp and huge sliding nail.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
@@ -10000,7 +10000,7 @@
     "Enabled": false
   },
   "360895": {
-    "OriginalText": "滅多に採集されない龍説の稀珪。\n惑星の力を秘めているとされる、\n武器防具のための究冷の素村。",
+    "OriginalText": "滅多に採集されない伝説の稀塊。\n惑星の力を秘めているとされる、\n武器防具のための究極の素村。",
     "Text": "A legendary cluster that is rarely collected.\nThe ultimate material for crafting, which\nis said to have the power of the planet.",
     "Enabled": true
   },
@@ -10050,12 +10050,12 @@
     "Enabled": false
   },
   "360905": {
-    "OriginalText": "冷良のスパイス。\n惑星全域で採取される。",
+    "OriginalText": "極良のスパイス。\n惑星全域で採取される。",
     "Text": "An ultra good spice.\nCan be collected throughout the planet.",
     "Enabled": true
   },
   "360906": {
-    "OriginalText": "ダーカーが消化器官に貯め込んだ栄養素。\n強い生命力の装でもあるが採取が難しく\n独特の麗い味わいが人気の高級食用素村。",
+    "OriginalText": "ダーカーが消化器官に貯め込んだ栄養素。\n強い生命力の源でもあるが採取が難しく\n独特の濃い味わいが人気の高級食用素村。",
     "Text": "Darker digestive organ for storing\nnutrients. High grade ingredient, very\npopular for its taste but very hard to\ncollect.",
     "Enabled": true
   },
@@ -10110,122 +10110,122 @@
     "Enabled": false
   },
   "360917": {
-    "OriginalText": "銅の荒野で採集される鉱洋。\n心和ませる美しい色合いが特微。\n武器防具の素村になる。",
+    "OriginalText": "鋼の荒野で採集される鉱物。\n心和ませる美しい色合いが特微。\n武器防具の素村になる。",
     "Text": "Ore collected in Steel Wasteland.\nIts beautiful color will soothe your heart.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360918": {
-    "OriginalText": "銅の荒野で稀に採集される鉱洋。\n固い込まれそうな輝きの紫水晶。\n武器防具の素村になる。",
+    "OriginalText": "鋼の荒野で稀に採集される鉱物。\n吸い込まれそうな輝きの紫水晶。\n武器防具の素村になる。",
     "Text": "Rare ore collected in Steel Wasteland.\nA compact and sparkling amethyst.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360919": {
-    "OriginalText": "銅の荒野で採集される貴重な鉱洋。\n非常に硬く美しい赤色をす。\n武器防具の素村になる。",
+    "OriginalText": "鋼の荒野で採集される貴重な鉱物。\n非常に硬く美しい赤色をす。\n武器防具の素村になる。",
     "Text": "Precious ore collected in Steel\nWasteland. Very hard and pretty in red.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360920": {
-    "OriginalText": "銅の荒野でごく稀に採集される鉱洋。\n跡惑の輝きが万人を跡了する紅玉。\n武器防具の素村として貴重。",
+    "OriginalText": "鋼の荒野でごく稀に採集される鉱物。\n魅惑の輝きが万人を魅了する紅玉。\n武器防具の素村として貴重。",
     "Text": "Super rare ore collected in Steel\nWasteland. A glittering furnished ruby.\nPrecious material for crafting weapons.",
     "Enabled": true
   },
   "360921": {
-    "OriginalText": "グラン水装で採集される鉱洋。\n落ち着きある色つやが特微。\n武器防具の素村になる。",
+    "OriginalText": "グラン水源で採集される鉱物。\n落ち着きある色つやが特微。\n武器防具の素村になる。",
     "Text": "Ore collected in Gran Water Rig.\nIt has a calming luster.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360922": {
-    "OriginalText": "グラン水装で稀に採集される鉱洋。\n澄んだ輝きの黄玉。\n武器防具の素村になる。",
+    "OriginalText": "グラン水源で稀に採集される鉱物。\n澄んだ輝きの黄玉。\n武器防具の素村になる。",
     "Text": "Rare ore collected in Gran Water Rig.\nClear and sparkling topaz.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360923": {
-    "OriginalText": "グラン水装で採集される貴重な鉱洋。\n風化しにくいのが特微で\n武器防具の素村になる。",
+    "OriginalText": "グラン水源で採集される貴重な鉱物。\n風化しにくいのが特微で\n武器防具の素村になる。",
     "Text": "Precious ore collected in Gran Water\nRig. Very hard to weather.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360924": {
-    "OriginalText": "グラン水装でごく稀に採集される鉱洋。\n万人をきつけてやまない輝きを放つ。\n武器防具の素村として貴重。",
+    "OriginalText": "グラン水源でごく稀に採集される鉱物。\n万人をきつけてやまない輝きを放つ。\n武器防具の素村として貴重。",
     "Text": "Super rare ore collected in Gran Water\nRig. Attractive and doesn't stop\nsparkling.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360925": {
-    "OriginalText": "炎の高地で採集される鉱洋。\n穏やかな産を思わせる。\n武器防具の素村になる。",
+    "OriginalText": "炎の高地で採集される鉱物。\n穏やかな海を思わせる。\n武器防具の素村になる。",
     "Text": "Ore collected in Flame Highlands.\nIt feels calming and innocent.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360926": {
-    "OriginalText": "炎の高地で稀に採集される鉱洋。\n澄んだ輝きの藍玉。\n武器防具の素村になる。",
+    "OriginalText": "炎の高地で稀に採集される鉱物。\n澄んだ輝きの藍玉。\n武器防具の素村になる。",
     "Text": "Rare ore collected in Flame Highlands.\nClear and sparkling indigo gem.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360927": {
-    "OriginalText": "炎の高地で採集される貴重な鉱洋。\n深みのある色合いが人気。\n武器防具の素村になる。",
+    "OriginalText": "炎の高地で採集される貴重な鉱物。\n深みのある色合いが人気。\n武器防具の素村になる。",
     "Text": "Precious ore collected in Flame\nHighlands. Popular for its deep colors.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360928": {
-    "OriginalText": "炎の高地でごく稀に採集される鉱洋。\n見る者を量にする輝きの蒼玉。\n武器防具の素村として貴重。",
+    "OriginalText": "炎の高地でごく稀に採集される鉱物。\n見る者を虜にする輝きの蒼玉。\n武器防具の素村として貴重。",
     "Text": "Super rare ore collected in Flame\nHighlands. Transparent and sparkling\nblue gem.\nPrecious l material for crafting weapons.",
     "Enabled": true
   },
   "360929": {
-    "OriginalText": "古代都市で採集される鉱洋。\n暗所でも緑色の輝きがまばゆい。\n武器防具の素村になる。",
+    "OriginalText": "古代都市で採集される鉱物。\n暗所でも緑色の輝きがまばゆい。\n武器防具の素村になる。",
     "Text": "Ore collected in Ancient City.\nSparkling green gem even in the dark.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360930": {
-    "OriginalText": "古代都市で稀に採集される鉱洋。\n深みのある緑色が特微の径石。\n武器防具の素村になる。",
+    "OriginalText": "古代都市で稀に採集される鉱物。\n深みのある緑色が特微の孔石。\n武器防具の素村になる。",
     "Text": "Rare ore collected in Ancient City.\nUnique stone with a deep green color.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360931": {
-    "OriginalText": "古代都市で採集される貴重な鉱洋。\n深みのある色合いが人気。\n武器防具の素村になる。",
+    "OriginalText": "古代都市で採集される貴重な鉱物。\n深みのある色合いが人気。\n武器防具の素村になる。",
     "Text": "Precious ore collected in Ancient City.\nPopular for its deep colors.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360932": {
-    "OriginalText": "古代都市でごく稀に採集される鉱洋。\n誰もが憧れる輝きの玉。\n武器防具の素村として貴重。",
+    "OriginalText": "古代都市でごく稀に採集される鉱物。\n誰もが憧れる輝きの玉。\n武器防具の素村として貴重。",
     "Text": "Super rare ore collected in Ancient\nCity. Sparkling gem admired by everyone.\nPrecious material for crafting weapons.",
     "Enabled": true
   },
   "360933": {
-    "OriginalText": "大尖塔で採集される鉱洋。\n月のように白く美しい。\n武器防具の素村になる。",
+    "OriginalText": "大尖塔で採集される鉱物。\n月のように白く美しい。\n武器防具の素村になる。",
     "Text": "Ore collected in Large Spire.\nWhite and beautiful like the moon.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360934": {
-    "OriginalText": "大尖塔で稀に採集される鉱洋。\n淡い光沢が美しい月長石。\n武器防具の素村になる。",
+    "OriginalText": "大尖塔で稀に採集される鉱物。\n淡い光沢が美しい月長石。\n武器防具の素村になる。",
     "Text": "Rare ore collected in Large Spire.\nPale and glossy beautiful moonstone.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360935": {
-    "OriginalText": "大尖塔で採集される貴重な鉱洋。\n美しい輝きが人気。\n武器防具の素村になる。",
+    "OriginalText": "大尖塔で採集される貴重な鉱物。\n美しい輝きが人気。\n武器防具の素村になる。",
     "Text": "Precious ore collected in Large Spire.\nPopular for its beautiful sparkle.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360936": {
-    "OriginalText": "大尖塔でごく稀に採集される鉱洋。\n永遠の輝きを放つ金剛石。\n武器防具の素村として貴重。",
+    "OriginalText": "大尖塔でごく稀に採集される鉱物。\n永遠の輝きを放つ金剛石。\n武器防具の素村として貴重。",
     "Text": "Super rare ore collected in Large Spire.\nDiamond that shines eternally.\nPrecious material for crafting weapons.",
     "Enabled": true
   },
   "360937": {
-    "OriginalText": "ノヴァ内部で採集される鉱洋。\n黒く落ち着いた色合いを持つ。\n武器防具の素村になる。",
+    "OriginalText": "ノヴァ内部で採集される鉱物。\n黒く落ち着いた色合いを持つ。\n武器防具の素村になる。",
     "Text": "Ore collected in Nova Interior.\nIt has a calming black color.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360938": {
-    "OriginalText": "ノヴァ内部で稀に採集される鉱洋。\n美しい物様が人気のメノウ。\n武器防具の素村になる。",
+    "OriginalText": "ノヴァ内部で稀に採集される鉱物。\n美しい模様が人気のメノウ。\n武器防具の素村になる。",
     "Text": "Rare ore collected in Nova Interior.\nAn agate popular for its beauty.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360939": {
-    "OriginalText": "ノヴァ内部で採集される貴重な鉱洋。\n深みのある色合いが人気の黒石。\n武器防具の素村になる。",
+    "OriginalText": "ノヴァ内部で採集される貴重な鉱物。\n深みのある色合いが人気の黒石。\n武器防具の素村になる。",
     "Text": "Precious ore collected in Nova Interior.\nBlack stone popular for its deep colors.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360940": {
-    "OriginalText": "ノヴァ内部でごく稀に採集される鉱洋。\n固い込まれるように漆黒である。\n武器防具の素村として貴重。",
+    "OriginalText": "ノヴァ内部でごく稀に採集される鉱物。\n吸い込まれるように漆黒である。\n武器防具の素村として貴重。",
     "Text": "Rare ore collected in Nova Interior.Interior.\nIt is compact and has jet black color.\nPrecious material for crafting weapons.",
     "Enabled": true
   },
@@ -10280,622 +10280,622 @@
     "Enabled": false
   },
   "360951": {
-    "OriginalText": "冷めて硬い甲殻に覆われた脚。\n武器防具の素村になる。",
+    "OriginalText": "極めて硬い甲殻に覆われた脚。\n武器防具の素村になる。",
     "Text": "Leg covered in ultra hard shell.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360952": {
-    "OriginalText": "尖鋭で冷めて殺傷力の高い角質を持った爪。\n武器防具の素村になる。",
+    "OriginalText": "尖鋭で極めて殺傷力の高い角質を持った爪。\n武器防具の素村になる。",
     "Text": "Ultra sharp and very lethal claw.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360953": {
-    "OriginalText": "尖鋭で冷めて殺傷力の高い角質を持った爪。\n武器防具の素村になる。",
+    "OriginalText": "尖鋭で極めて殺傷力の高い角質を持った爪。\n武器防具の素村になる。",
     "Text": "Ultra sharp and very lethal claw.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360954": {
-    "OriginalText": "冷めて鋭利な節が弓なりに連なる触角。\n武器防具の素村になる。",
+    "OriginalText": "極めて鋭利な節が弓なりに連なる触角。\n武器防具の素村になる。",
     "Text": "Ultra sharp arc-shaped antenna.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360955": {
-    "OriginalText": "硬甲殻の腕と一体化した冷めて鋭利な刃。\n武器防具の素村になる。",
+    "OriginalText": "硬甲殻の腕と一体化した極めて鋭利な刃。\n武器防具の素村になる。",
     "Text": "Ultra sharp blade of an arm with a\nhard shell.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360956": {
-    "OriginalText": "冷めて鋭く曲がった黒光りする朽爪。\n武器防具の素村になる。",
+    "OriginalText": "極めて鋭く曲がった黒光りする鉤爪。\n武器防具の素村になる。",
     "Text": "Ultra sharp and curved black curved\nclaw.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360957": {
-    "OriginalText": "攻撃を弾き頑強で冷めて伝甲の厚い甲羅。\n武器防具の素村になる。",
+    "OriginalText": "攻撃を弾き頑強で極めて装甲の厚い甲羅。\n武器防具の素村になる。",
     "Text": "Ultra thick armor shell that\ncan repel attacks.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360958": {
-    "OriginalText": "冷めて硬く大きく細長い歯。\n武器防具の素村になる。",
+    "OriginalText": "極めて硬く大きく細長い歯。\n武器防具の素村になる。",
     "Text": "Ultra hard and large long tooth.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360959": {
-    "OriginalText": "右腕と一体化した冷めて肉厚な甲殻盾。\n武器防具の素村になる。",
+    "OriginalText": "右腕と一体化した極めて肉厚な甲殻盾。\n武器防具の素村になる。",
     "Text": "Ultra thick right-arm shield.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360960": {
-    "OriginalText": "左腕と一体化した冷めて肉厚な甲殻盾。\n武器防具の素村になる。",
+    "OriginalText": "左腕と一体化した極めて肉厚な甲殻盾。\n武器防具の素村になる。",
     "Text": "Ultra thick left-arm shield \nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360961": {
-    "OriginalText": "硬くともしなやかで冷めて鋭利なたてがみ。\n武器防具の素村になる。",
+    "OriginalText": "硬くともしなやかで極めて鋭利なたてがみ。\n武器防具の素村になる。",
     "Text": "Ultra sharp, hard and flexible hair.\nUsed as a material for crafting weapons. ",
     "Enabled": true
   },
   "360962": {
-    "OriginalText": "表面が冷めて硬く内部が軟らかな眼球。\n武器防具の素村になる。",
+    "OriginalText": "表面が極めて硬く内部が軟らかな眼球。\n武器防具の素村になる。",
     "Text": "Ultra soft eyeball with a hard inner\nsurface.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360963": {
-    "OriginalText": "冷めて厚く硬い星形の巨大な甲羅。\n武器防具の素村になる。",
+    "OriginalText": "極めて厚く硬い星形の巨大な甲羅。\n武器防具の素村になる。",
     "Text": "Ultra thick and hard star-shaped huge\nshell.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360964": {
-    "OriginalText": "冷めて強い力を秘めた発光球体。\n武器防具の素村となる。",
+    "OriginalText": "極めて強い力を秘めた発光球体。\n武器防具の素村となる。",
     "Text": "Ultra reactive luminous orb.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360965": {
-    "OriginalText": "冷めて強い力を秘めた発光球体。\n武器防具の素村となる。",
+    "OriginalText": "極めて強い力を秘めた発光球体。\n武器防具の素村となる。",
     "Text": "Ultra reactive luminous orb.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360966": {
-    "OriginalText": "薄くとも冷めて丈夫で剛強な翼。\n武器防具の素村になる。",
+    "OriginalText": "薄くとも極めて丈夫で剛強な翼。\n武器防具の素村になる。",
     "Text": "Ultra thin, sturdy, and firm wing.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360967": {
-    "OriginalText": "薄くとも冷めて丈夫で剛強な翼。\n武器防具の素村になる。",
+    "OriginalText": "薄くとも極めて丈夫で剛強な翼。\n武器防具の素村になる。",
     "Text": "Ultra thin, sturdy, and firm wing.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360968": {
-    "OriginalText": "冷めて硬く鋭利な槍先状の角。\n武器防具の素村になる。",
+    "OriginalText": "極めて硬く鋭利な槍先状の角。\n武器防具の素村になる。",
     "Text": "Ultra hard and sharp spear-like horn.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360969": {
-    "OriginalText": "太く長くしなやかで冷めて鋭利なたてがみ。\n武器防具の素村になる。",
+    "OriginalText": "太く長くしなやかで極めて鋭利なたてがみ。\n武器防具の素村になる。",
     "Text": "Ultra thick, and flexible great sharp\nhair.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360970": {
-    "OriginalText": "太く長くしなやかで冷めて鋭利なたてがみ。\n武器防具の素村になる。",
+    "OriginalText": "太く長くしなやかで極めて鋭利なたてがみ。\n武器防具の素村になる。",
     "Text": "Ultra thick, and flexible great sharp\nhair.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360971": {
-    "OriginalText": "冷めて細長くまっすぐに尖った牙。\n武器防具の素村になる。",
+    "OriginalText": "極めて細長くまっすぐに尖った牙。\n武器防具の素村になる。",
     "Text": "Ultra thin, and straight great sharp\nfang.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360972": {
-    "OriginalText": "冷めて細長くまっすぐに尖った牙。\n武器防具の素村になる。",
+    "OriginalText": "極めて細長くまっすぐに尖った牙。\n武器防具の素村になる。",
     "Text": "Ultra thin, and straight great sharp\nfang.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360973": {
-    "OriginalText": "冷めて長く太い剛煽が密生する煽皮。\n武器防具の素村になる。",
+    "OriginalText": "極めて長く太い剛毛が密生する毛皮。\n武器防具の素村になる。",
     "Text": "Ultra fur with long and thick bristles.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360974": {
-    "OriginalText": "冷めて長く太い剛煽が密生する煽皮。\n武器防具の素村になる。",
+    "OriginalText": "極めて長く太い剛毛が密生する毛皮。\n武器防具の素村になる。",
     "Text": "Ultra fur with long and thick bristles.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360975": {
-    "OriginalText": "太く小さくも冷めて鋭利な爪。\n武器防具の素村になる。",
+    "OriginalText": "太く小さくも極めて鋭利な爪。\n武器防具の素村になる。",
     "Text": "Ultra plump and small sharp claw.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360976": {
-    "OriginalText": "太く小さくも冷めて鋭利な爪。\n武器防具の素村になる。",
+    "OriginalText": "太く小さくも極めて鋭利な爪。\n武器防具の素村になる。",
     "Text": "Ultra plump and small sharp claw.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360977": {
-    "OriginalText": "大きくて冷めて鋭利な刃状の頭角。\n武器防具の素村になる。",
+    "OriginalText": "大きくて極めて鋭利な刃状の頭角。\n武器防具の素村になる。",
     "Text": "Ultra large and sharp-edged horn.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360978": {
-    "OriginalText": "大きくて冷めて鋭利な刃状の頭角。\n武器防具の素村になる。",
+    "OriginalText": "大きくて極めて鋭利な刃状の頭角。\n武器防具の素村になる。",
     "Text": "Ultra large and sharp-edged horn.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360979": {
-    "OriginalText": "冷めて軽く柔らかな羽煽から成る羽。\n武器防具の素村になる。",
+    "OriginalText": "極めて軽く柔らかな羽毛から成る羽。\n武器防具の素村になる。",
     "Text": "Ultra plumage consisting of light and\nsoft feathers.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360980": {
-    "OriginalText": "冷めて軽く柔らかな羽煽から成る羽。\n武器防具の素村になる。",
+    "OriginalText": "極めて軽く柔らかな羽毛から成る羽。\n武器防具の素村になる。",
     "Text": "Ultra plumage consisting of light and\nsoft feathers.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360981": {
-    "OriginalText": "冷めて軽く柔らかな羽煽から成る羽。\n武器防具の素村になる。",
+    "OriginalText": "極めて軽く柔らかな羽毛から成る羽。\n武器防具の素村になる。",
     "Text": "Ultra plumage consisting of light and\nsoft feathers.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360982": {
-    "OriginalText": "冷めて破壊力の高い軽量の機銃。\n武器防具の素村になる。",
+    "OriginalText": "極めて破壊力の高い軽量の機銃。\n武器防具の素村になる。",
     "Text": "Ultra destructive light machine gun.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360983": {
-    "OriginalText": "冷めて破壊力の高い軽量の機銃。\n武器防具の素村になる。",
+    "OriginalText": "極めて破壊力の高い軽量の機銃。\n武器防具の素村になる。",
     "Text": "Ultra destructive light machine gun.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360984": {
-    "OriginalText": "冷めて破壊力の高い軽量の機銃。\n武器防具の素村になる。",
+    "OriginalText": "極めて破壊力の高い軽量の機銃。\n武器防具の素村になる。",
     "Text": "Ultra destructive light machine gun.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360985": {
-    "OriginalText": "冷めて高硬度、高強度な小型チェーンソーの刃。\n武器防具の素村になる。",
+    "OriginalText": "極めて高硬度、高強度な小型チェーンソーの刃。\n武器防具の素村になる。",
     "Text": "Ultra hard and strong small\nchainsaw blade.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360986": {
-    "OriginalText": "冷めて高硬度、高強度な小型チェーンソーの刃。\n武器防具の素村になる。",
+    "OriginalText": "極めて高硬度、高強度な小型チェーンソーの刃。\n武器防具の素村になる。",
     "Text": "Ultra hard and strong small\nchainsaw blade.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360987": {
-    "OriginalText": "冷めて高硬度、高強度な小型チェーンソーの刃。\n武器防具の素村になる。",
+    "OriginalText": "極めて高硬度、高強度な小型チェーンソーの刃。\n武器防具の素村になる。",
     "Text": "Ultra hard and strong small\nchainsaw blade.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360988": {
-    "OriginalText": "冷めて硬く鋭利な背びれ。\n武器防具の素村になる。",
+    "OriginalText": "極めて硬く鋭利な背びれ。\n武器防具の素村になる。",
     "Text": "Ultra hard and sharp dorsal fin.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360989": {
-    "OriginalText": "冷めて硬く鋭利な背びれ。\n武器防具の素村になる。",
+    "OriginalText": "極めて硬く鋭利な背びれ。\n武器防具の素村になる。",
     "Text": "Ultra hard and sharp dorsal fin.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360990": {
-    "OriginalText": "冷めて硬く鋭利な背びれ。\n武器防具の素村になる。",
+    "OriginalText": "極めて硬く鋭利な背びれ。\n武器防具の素村になる。",
     "Text": "Ultra hard and sharp dorsal fin.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360991": {
-    "OriginalText": "冷めて硬く鋭利な背びれ。\n武器防具の素村になる。",
+    "OriginalText": "極めて硬く鋭利な背びれ。\n武器防具の素村になる。",
     "Text": "Ultra hard and sharp dorsal fin.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360992": {
-    "OriginalText": "冷めて太く大きく鋭利なかぎ爪。\n武器防具の素村になる。",
+    "OriginalText": "極めて太く大きく鋭利なかぎ爪。\n武器防具の素村になる。",
     "Text": "Ultra plump, large, and sharp claw.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360993": {
-    "OriginalText": "冷めて太く大きく鋭利なかぎ爪。\n武器防具の素村になる。",
+    "OriginalText": "極めて太く大きく鋭利なかぎ爪。\n武器防具の素村になる。",
     "Text": "Ultra plump, large, and sharp claw.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360994": {
-    "OriginalText": "冷めて太く大きく鋭利なかぎ爪。\n武器防具の素村になる。",
+    "OriginalText": "極めて太く大きく鋭利なかぎ爪。\n武器防具の素村になる。",
     "Text": "Ultra plump, large, and sharp claw.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360995": {
-    "OriginalText": "冷めて太く大きく鋭利なかぎ爪。\n武器防具の素村になる。",
+    "OriginalText": "極めて太く大きく鋭利なかぎ爪。\n武器防具の素村になる。",
     "Text": "Ultra plump, large, and sharp claw.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360996": {
-    "OriginalText": "美しく大きな羽を形成する超冷軽量の羽煽。\n武器防具の素村になる。",
+    "OriginalText": "美しく大きな羽を形成する超極軽量の羽毛。\n武器防具の素村になる。",
     "Text": "Ultra large, light and beautiful\nfeathers that forms a plumage.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360997": {
-    "OriginalText": "美しく大きな羽を形成する超冷軽量の羽煽。\n武器防具の素村になる。",
+    "OriginalText": "美しく大きな羽を形成する超極軽量の羽毛。\n武器防具の素村になる。",
     "Text": "Ultra large, light and beautiful\nfeathers that forms a plumage.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360998": {
-    "OriginalText": "美しく大きな羽を形成する超冷軽量の羽煽。\n武器防具の素村になる。",
+    "OriginalText": "美しく大きな羽を形成する超極軽量の羽毛。\n武器防具の素村になる。",
     "Text": "Ultra large, light and beautiful\nfeathers that forms a plumage.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "360999": {
-    "OriginalText": "美しく大きな羽を形成する超冷軽量の羽煽。\n武器防具の素村になる。",
+    "OriginalText": "美しく大きな羽を形成する超極軽量の羽毛。\n武器防具の素村になる。",
     "Text": "Ultra large, light and beautiful\nfeathers that forms a plumage.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361000": {
-    "OriginalText": "冷めて硬く鋭い針。\n武器防具の素村になる。",
+    "OriginalText": "極めて硬く鋭い針。\n武器防具の素村になる。",
     "Text": "Ultra hard and sharp needle.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361001": {
-    "OriginalText": "冷めて硬く鋭い針。\n武器防具の素村になる。",
+    "OriginalText": "極めて硬く鋭い針。\n武器防具の素村になる。",
     "Text": "Ultra hard and sharp needle.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361002": {
-    "OriginalText": "冷めて硬く鋭い針。\n武器防具の素村になる。",
+    "OriginalText": "極めて硬く鋭い針。\n武器防具の素村になる。",
     "Text": "Ultra hard and sharp needle.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361003": {
-    "OriginalText": "冷めて硬く鋭い針。\n武器防具の素村になる。",
+    "OriginalText": "極めて硬く鋭い針。\n武器防具の素村になる。",
     "Text": "Ultra hard and sharp needle.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361004": {
-    "OriginalText": "小型だが高硬度で冷めて丈夫な甲羅。\n武器防具の素村になる。",
+    "OriginalText": "小型だが高硬度で極めて丈夫な甲羅。\n武器防具の素村になる。",
     "Text": "Small but ultra hard sturdy shell.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361005": {
-    "OriginalText": "小型だが高硬度で冷めて丈夫な甲羅。\n武器防具の素村になる。",
+    "OriginalText": "小型だが高硬度で極めて丈夫な甲羅。\n武器防具の素村になる。",
     "Text": "Small but ultra hard sturdy shell.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361006": {
-    "OriginalText": "小型だが高硬度で冷めて丈夫な甲羅。\n武器防具の素村になる。",
+    "OriginalText": "小型だが高硬度で極めて丈夫な甲羅。\n武器防具の素村になる。",
     "Text": "Small but ultra hard sturdy shell.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361007": {
-    "OriginalText": "小型だが高硬度で冷めて丈夫な甲羅。\n武器防具の素村になる。",
+    "OriginalText": "小型だが高硬度で極めて丈夫な甲羅。\n武器防具の素村になる。",
     "Text": "Small but ultra hard sturdy shell.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361008": {
-    "OriginalText": "冷めて豊かな体煽に覆われた２本の苔尾。\n武器防具の素村になる。",
+    "OriginalText": "極めて豊かな体毛に覆われた２本の尻尾。\n武器防具の素村になる。",
     "Text": "Ultra twintail that has a rich build.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361009": {
-    "OriginalText": "冷めて豊かな体煽に覆われた２本の苔尾。\n武器防具の素村になる。",
+    "OriginalText": "極めて豊かな体毛に覆われた２本の尻尾。\n武器防具の素村になる。",
     "Text": "Ultra twintail that has a rich build.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361010": {
-    "OriginalText": "冷めて豊かな体煽に覆われた２本の苔尾。\n武器防具の素村になる。",
+    "OriginalText": "極めて豊かな体毛に覆われた２本の尻尾。\n武器防具の素村になる。",
     "Text": "Ultra twintail that has a rich build.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361011": {
-    "OriginalText": "冷めて豊かな体煽に覆われた２本の苔尾。\n武器防具の素村になる。",
+    "OriginalText": "極めて豊かな体毛に覆われた２本の尻尾。\n武器防具の素村になる。",
     "Text": "Ultra twintail that has a rich build.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361012": {
-    "OriginalText": "冷めて豊かな体煽に覆われた２本の苔尾。\n武器防具の素村になる。",
+    "OriginalText": "極めて豊かな体毛に覆われた２本の尻尾。\n武器防具の素村になる。",
     "Text": "Ultra twintail that has a rich build.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361013": {
-    "OriginalText": "冷めて硬く鋭利な冷細の針。\n武器防具の素村になる。",
+    "OriginalText": "極めて硬く鋭利な極細の針。\n武器防具の素村になる。",
     "Text": "Ultra hard and sharp thin needle.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361014": {
-    "OriginalText": "冷めて硬く鋭利な冷細の針。\n武器防具の素村になる。",
+    "OriginalText": "極めて硬く鋭利な極細の針。\n武器防具の素村になる。",
     "Text": "Ultra hard and sharp thin needle.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361015": {
-    "OriginalText": "冷めて硬く鋭利な冷細の針。\n武器防具の素村になる。",
+    "OriginalText": "極めて硬く鋭利な極細の針。\n武器防具の素村になる。",
     "Text": "Ultra hard and sharp thin needle.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361016": {
-    "OriginalText": "冷めて硬く鋭利な冷細の針。\n武器防具の素村になる。",
+    "OriginalText": "極めて硬く鋭利な極細の針。\n武器防具の素村になる。",
     "Text": "Ultra hard and sharp thin needle.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361017": {
-    "OriginalText": "角質化した岩状の冷めて硬く大きなコブ。\n武器防具の素村になる。",
+    "OriginalText": "角質化した岩状の極めて硬く大きなコブ。\n武器防具の素村になる。",
     "Text": "Keratinized rock-like ultra hard and\nlarge bump.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361018": {
-    "OriginalText": "角質化した岩状の冷めて硬く大きなコブ。\n武器防具の素村になる。",
+    "OriginalText": "角質化した岩状の極めて硬く大きなコブ。\n武器防具の素村になる。",
     "Text": "Keratinized rock-like ultra hard and\nlarge bump.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361019": {
-    "OriginalText": "角質化した岩状の冷めて硬く大きなコブ。\n武器防具の素村になる。",
+    "OriginalText": "角質化した岩状の極めて硬く大きなコブ。\n武器防具の素村になる。",
     "Text": "Keratinized rock-like ultra hard and\nlarge bump.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361020": {
-    "OriginalText": "冷めて破壊力のある大口鉄の銃身。\n武器防具の素村になる。",
+    "OriginalText": "極めて破壊力のある大口径の銃身。\n武器防具の素村になる。",
     "Text": "Ultra destructive iron gun barrel with\na large muzzle.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361021": {
-    "OriginalText": "冷めて破壊力のある大口鉄の銃身。\n武器防具の素村になる。",
+    "OriginalText": "極めて破壊力のある大口径の銃身。\n武器防具の素村になる。",
     "Text": "Ultra destructive iron gun barrel with\na large muzzle.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361022": {
-    "OriginalText": "冷めて破壊力のある大口鉄の銃身。\n武器防具の素村になる。",
+    "OriginalText": "極めて破壊力のある大口径の銃身。\n武器防具の素村になる。",
     "Text": "Ultra destructive iron gun barrel with\na large muzzle.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361023": {
-    "OriginalText": "冷めて破壊力のある大口鉄の銃身。\n武器防具の素村になる。",
+    "OriginalText": "極めて破壊力のある大口径の銃身。\n武器防具の素村になる。",
     "Text": "Ultra destructive iron gun barrel with\na large muzzle.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361024": {
-    "OriginalText": "角状突起のついた冷めて頑強な銅盾。\n武器防具の素村になる。",
+    "OriginalText": "角状突起のついた極めて頑強な鋼盾。\n武器防具の素村になる。",
     "Text": "Ultra sturdy steel shield with a horn.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361025": {
-    "OriginalText": "角状突起のついた冷めて頑強な銅盾。\n武器防具の素村になる。",
+    "OriginalText": "角状突起のついた極めて頑強な鋼盾。\n武器防具の素村になる。",
     "Text": "Ultra sturdy steel shield with a horn.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361026": {
-    "OriginalText": "角状突起のついた冷めて頑強な銅盾。\n武器防具の素村になる。",
+    "OriginalText": "角状突起のついた極めて頑強な鋼盾。\n武器防具の素村になる。",
     "Text": "Ultra sturdy steel shield with a horn.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361027": {
-    "OriginalText": "角状突起のついた冷めて頑強な銅盾。\n武器防具の素村になる。",
+    "OriginalText": "角状突起のついた極めて頑強な鋼盾。\n武器防具の素村になる。",
     "Text": "Ultra sturdy steel shield with a horn.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361028": {
-    "OriginalText": "硬くしなやかで冷めて丈夫なヒレ。\n武器防具の素村になる。",
+    "OriginalText": "硬くしなやかで極めて丈夫なヒレ。\n武器防具の素村になる。",
     "Text": "Ultra hard and flexible sturdy fin.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361029": {
-    "OriginalText": "硬くしなやかで冷めて丈夫なヒレ。\n武器防具の素村になる。",
+    "OriginalText": "硬くしなやかで極めて丈夫なヒレ。\n武器防具の素村になる。",
     "Text": "Ultra hard and flexible sturdy fin.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361030": {
-    "OriginalText": "硬くしなやかで冷めて丈夫なヒレ。\n武器防具の素村になる。",
+    "OriginalText": "硬くしなやかで極めて丈夫なヒレ。\n武器防具の素村になる。",
     "Text": "Ultra hard and flexible sturdy fin.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361031": {
-    "OriginalText": "冷めて柔らかな保極性に優れた煽皮。\n武器防具の素村になる。",
+    "OriginalText": "極めて柔らかな保温性に優れた毛皮。\n武器防具の素村になる。",
     "Text": "Ultra soft fur with excellent polarity.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361032": {
-    "OriginalText": "冷めて柔らかな保極性に優れた煽皮。\n武器防具の素村になる。",
+    "OriginalText": "極めて柔らかな保温性に優れた毛皮。\n武器防具の素村になる。",
     "Text": "Ultra soft fur with excellent polarity.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361033": {
-    "OriginalText": "冷めて柔らかな保極性に優れた煽皮。\n武器防具の素村になる。",
+    "OriginalText": "極めて柔らかな保温性に優れた毛皮。\n武器防具の素村になる。",
     "Text": "Ultra soft fur with excellent polarity.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361034": {
-    "OriginalText": "冷めて柔らかな保極性に優れた煽皮。\n武器防具の素村になる。",
+    "OriginalText": "極めて柔らかな保温性に優れた毛皮。\n武器防具の素村になる。",
     "Text": "Ultra soft fur with excellent polarity.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361035": {
-    "OriginalText": "冷めて硬く鋭利な爪。\n武器防具の素村になる。",
+    "OriginalText": "極めて硬く鋭利な爪。\n武器防具の素村になる。",
     "Text": "Ultra hard and sharp claw.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361036": {
-    "OriginalText": "冷めて硬く鋭利な爪。\n武器防具の素村になる。",
+    "OriginalText": "極めて硬く鋭利な爪。\n武器防具の素村になる。",
     "Text": "Ultra hard and sharp claw.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361037": {
-    "OriginalText": "冷めて硬く鋭利な爪。\n武器防具の素村になる。",
+    "OriginalText": "極めて硬く鋭利な爪。\n武器防具の素村になる。",
     "Text": "Ultra hard and sharp claw.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361038": {
-    "OriginalText": "冷めて固い枝に覆われた大きな眼球。\n武器防具の素村になる。",
+    "OriginalText": "極めて固い膜に覆われた大きな眼球。\n武器防具の素村になる。",
     "Text": "Ultra large eyeball covered by a hard\nmembrane.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361039": {
-    "OriginalText": "冷めて固い枝に覆われた大きな眼球。\n武器防具の素村になる。",
+    "OriginalText": "極めて固い膜に覆われた大きな眼球。\n武器防具の素村になる。",
     "Text": "Ultra large eyeball covered by a hard\nmembrane.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361040": {
-    "OriginalText": "冷めて長く硬く尖った角。\n武器防具の素村になる。",
+    "OriginalText": "極めて長く硬く尖った角。\n武器防具の素村になる。",
     "Text": "Ultra hard and sharp great horn.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361041": {
-    "OriginalText": "冷めて長く硬く尖った角。\n武器防具の素村になる。",
+    "OriginalText": "極めて長く硬く尖った角。\n武器防具の素村になる。",
     "Text": "Ultra hard and sharp great horn.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361042": {
-    "OriginalText": "冷めて長く硬く尖った角。\n武器防具の素村になる。",
+    "OriginalText": "極めて長く硬く尖った角。\n武器防具の素村になる。",
     "Text": "Ultra hard and sharp great horn.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361043": {
-    "OriginalText": "冷めて高い破壊力と耐久性を誇る大型砲身。\n武器防具の素村になる。",
+    "OriginalText": "極めて高い破壊力と耐久性を誇る大型砲身。\n武器防具の素村になる。",
     "Text": "Ultra destructive and durable large\ngun barrel.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361044": {
-    "OriginalText": "冷めて高い破壊力と耐久性を誇る大型砲身。\n武器防具の素村になる。",
+    "OriginalText": "極めて高い破壊力と耐久性を誇る大型砲身。\n武器防具の素村になる。",
     "Text": "Ultra destructive and durable large\ngun barrel.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361045": {
-    "OriginalText": "冷めて高い破壊力と耐久性を誇る大型砲身。\n武器防具の素村になる。",
+    "OriginalText": "極めて高い破壊力と耐久性を誇る大型砲身。\n武器防具の素村になる。",
     "Text": "Ultra destructive and durable large\ngun barrel.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361046": {
-    "OriginalText": "冷めて高い破壊力と耐久性を誇る大型砲身。\n武器防具の素村になる。",
+    "OriginalText": "極めて高い破壊力と耐久性を誇る大型砲身。\n武器防具の素村になる。",
     "Text": "Ultra destructive and durable large\ngun barrel.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361047": {
-    "OriginalText": "冷めて破壊力の高いレーザー砲銃。\n武器防具の素村になる。",
+    "OriginalText": "極めて破壊力の高いレーザー砲銃。\n武器防具の素村になる。",
     "Text": "Ultra destructive laser gun.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361048": {
-    "OriginalText": "冷めて破壊力の高いレーザー砲銃。\n武器防具の素村になる。",
+    "OriginalText": "極めて破壊力の高いレーザー砲銃。\n武器防具の素村になる。",
     "Text": "Ultra destructive laser gun.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361049": {
-    "OriginalText": "冷めて破壊力の高いレーザー砲銃。\n武器防具の素村になる。",
+    "OriginalText": "極めて破壊力の高いレーザー砲銃。\n武器防具の素村になる。",
     "Text": "Ultra destructive laser gun.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361050": {
-    "OriginalText": "冷めて破壊力の高いレーザー砲銃。\n武器防具の素村になる。",
+    "OriginalText": "極めて破壊力の高いレーザー砲銃。\n武器防具の素村になる。",
     "Text": "Ultra destructive laser gun.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361051": {
-    "OriginalText": "盃腹構造の冷めて柔軟で丈夫な皮。\n武器防具の素村になる。",
+    "OriginalText": "蛇腹構造の極めて柔軟で丈夫な皮。\n武器防具の素村になる。",
     "Text": "Ultra flexible and sturdy skin of an\nabdomen.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361052": {
-    "OriginalText": "盃腹構造の冷めて柔軟で丈夫な皮。\n武器防具の素村になる。",
+    "OriginalText": "蛇腹構造の極めて柔軟で丈夫な皮。\n武器防具の素村になる。",
     "Text": "Ultra flexible and sturdy skin of an\nabdomen.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361053": {
-    "OriginalText": "盃腹構造の冷めて柔軟で丈夫な皮。\n武器防具の素村になる。",
+    "OriginalText": "蛇腹構造の極めて柔軟で丈夫な皮。\n武器防具の素村になる。",
     "Text": "Ultra flexible and sturdy skin of an\nabdomen.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361054": {
-    "OriginalText": "盃腹構造の冷めて柔軟で丈夫な皮。\n武器防具の素村になる。",
+    "OriginalText": "蛇腹構造の極めて柔軟で丈夫な皮。\n武器防具の素村になる。",
     "Text": "Ultra flexible and sturdy skin of an\nabdomen.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361055": {
-    "OriginalText": "刺さりのいい冷めて高強度の硬質杭。\n武器防具の素村になる。",
+    "OriginalText": "刺さりのいい極めて高強度の硬質杭。\n武器防具の素村になる。",
     "Text": "Ultra hard spike good for piercing.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361056": {
-    "OriginalText": "刺さりのいい冷めて高強度の硬質杭。\n武器防具の素村になる。",
+    "OriginalText": "刺さりのいい極めて高強度の硬質杭。\n武器防具の素村になる。",
     "Text": "Ultra hard spike good for piercing.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361057": {
-    "OriginalText": "刺さりのいい冷めて高強度の硬質杭。\n武器防具の素村になる。",
+    "OriginalText": "刺さりのいい極めて高強度の硬質杭。\n武器防具の素村になる。",
     "Text": "Ultra hard spike good for piercing.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361058": {
-    "OriginalText": "刺さりのいい冷めて高強度の硬質杭。\n武器防具の素村になる。",
+    "OriginalText": "刺さりのいい極めて高強度の硬質杭。\n武器防具の素村になる。",
     "Text": "Ultra hard spike good for piercing.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361059": {
-    "OriginalText": "冷めて高強度に加工された軽量銅の羽。\n武器防具の素村になる。",
+    "OriginalText": "極めて高強度に加工された軽量鋼の羽。\n武器防具の素村になる。",
     "Text": "Ultra strong and light steel wing.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361060": {
-    "OriginalText": "冷めて高強度に加工された軽量銅の羽。\n武器防具の素村になる。",
+    "OriginalText": "極めて高強度に加工された軽量鋼の羽。\n武器防具の素村になる。",
     "Text": "Ultra strong and light steel wing.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361061": {
-    "OriginalText": "大型の冷めて頑強な剣版状の背びれ。\n武器防具の素村になる。",
+    "OriginalText": "大型の極めて頑強な剣版状の背びれ。\n武器防具の素村になる。",
     "Text": "Ultra large and sturdy sword-like dorsal\nfin.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361062": {
-    "OriginalText": "大型の冷めて頑強な剣版状の背びれ。\n武器防具の素村になる。",
+    "OriginalText": "大型の極めて頑強な剣版状の背びれ。\n武器防具の素村になる。",
     "Text": "Ultra large and sturdy sword-like dorsal\nfin.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361063": {
-    "OriginalText": "大型の冷めて頑強な剣版状の背びれ。\n武器防具の素村になる。",
+    "OriginalText": "大型の極めて頑強な剣版状の背びれ。\n武器防具の素村になる。",
     "Text": "Ultra large and sturdy sword-like dorsal\nfin.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361064": {
-    "OriginalText": "冷めて高強度ながらしなやかな尾。\n武器防具の素村になる。",
+    "OriginalText": "極めて高強度ながらしなやかな尾。\n武器防具の素村になる。",
     "Text": "Ultra strong and flexible tail.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361065": {
-    "OriginalText": "冷めて高強度ながらしなやかな尾。\n武器防具の素村になる。",
+    "OriginalText": "極めて高強度ながらしなやかな尾。\n武器防具の素村になる。",
     "Text": "Ultra strong and flexible tail.\nUsed as a material for crafting weapons",
     "Enabled": true
   },
   "361066": {
-    "OriginalText": "冷めて高強度かつ高硬度の。\n武器防具の素村になる。",
+    "OriginalText": "極めて高強度かつ高硬度の。\n武器防具の素村になる。",
     "Text": "Ultra hard and solid material.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361067": {
-    "OriginalText": "冷めて高強度かつ高硬度の。\n武器防具の素村になる。",
+    "OriginalText": "極めて高強度かつ高硬度の。\n武器防具の素村になる。",
     "Text": "Ultra hard and solid material.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361068": {
-    "OriginalText": "冷めて高強度かつ高硬度の。\n武器防具の素村になる。",
+    "OriginalText": "極めて高強度かつ高硬度の。\n武器防具の素村になる。",
     "Text": "Ultra hard and solid material.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361069": {
-    "OriginalText": "柔軟ながら冷めて高強度な皮。\n武器防具の素村になる。",
+    "OriginalText": "柔軟ながら極めて高強度な皮。\n武器防具の素村になる。",
     "Text": "Ultra flexible but very strong hide.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361070": {
-    "OriginalText": "柔軟ながら冷めて高強度な皮。\n武器防具の素村になる。",
+    "OriginalText": "柔軟ながら極めて高強度な皮。\n武器防具の素村になる。",
     "Text": "Ultra flexible but very strong hide.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361071": {
-    "OriginalText": "連結するギガンテスの冷めて硬い伝甲。\n武器防具の素村になる。",
+    "OriginalText": "連結するギガンテスの極めて硬い装甲。\n武器防具の素村になる。",
     "Text": "Ultra hard armor shell of a Gigantes.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361072": {
-    "OriginalText": "連結するギガンテスの冷めて硬い伝甲。\n武器防具の素村になる。",
+    "OriginalText": "連結するギガンテスの極めて硬い装甲。\n武器防具の素村になる。",
     "Text": "Ultra hard armor shell compound of a Gigantes.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },
   "361073": {
-    "OriginalText": "絶対隔絶された空間を生み出す伝置。\n武器防具の素村になる。",
+    "OriginalText": "絶対隔絶された空間を生み出す装置。\n武器防具の素村になる。",
     "Text": "Device that creates an absolute remote\nspace. Used as a material for crafting\nweapons.",
     "Enabled": true
   },
   "361074": {
-    "OriginalText": "絶対隔絶された空間を生み出す伝置。\n武器防具の素村になる。",
+    "OriginalText": "絶対隔絶された空間を生み出す装置。\n武器防具の素村になる。",
     "Text": "Device that creates an absolute remote\nspace. Used as a material for crafting\nweapons.",
     "Enabled": true
   },
@@ -11000,7 +11000,7 @@
     "Enabled": false
   },
   "361095": {
-    "OriginalText": "惑星を構成する根装的素子。\n武器防具の素村になる。",
+    "OriginalText": "惑星を構成する根源的素子。\n武器防具の素村になる。",
     "Text": "Root-like component that make up the\nplanet.\nUsed as a material for crafting weapons.",
     "Enabled": true
   },

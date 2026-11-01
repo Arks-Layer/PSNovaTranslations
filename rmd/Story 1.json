@@ -410,7 +410,7 @@
     "Enabled": true
   },
   "100010050060014": {
-    "OriginalText": "この速度では、大気圏を抜けられても地表に撃突するぞ！",
+    "OriginalText": "この速度では、大気圏を抜けられても地表に激突するぞ！",
     "Text": "At this rate, we'll hit the\nsurface even if we make it through the atmosphere!",
     "Enabled": true
   },
@@ -565,17 +565,17 @@
     "Enabled": true
   },
   "101010020020004": {
-    "OriginalText": "最悪の一歩手前って所だな。死傷者も出ているが\nコールドスリープ中だった１７５０名は\n全員無事、艦長似下ブリッジクルーも健在だ。",
+    "OriginalText": "最悪の一歩手前って所だな。死傷者も出ているが\nコールドスリープ中だった１７５０名は\n全員無事、艦長以下ブリッジクルーも健在だ。",
     "Text": "It's disastrous. We've had some casualties,\nbut the 1750 in cold sleep are safe.\nThe Captain and bridge crew are also safe.",
     "Enabled": true
   },
   "101010020030004": {
-    "OriginalText": "最悪の一歩手前って所だな。死傷者も出ているが\nコールドスリープ中だった８７５名は全員無事、\n艦長似下ブリッジクルーも健在だ。",
+    "OriginalText": "最悪の一歩手前って所だな。死傷者も出ているが\nコールドスリープ中だった８７５名は全員無事、\n艦長以下ブリッジクルーも健在だ。",
     "Text": "It's disastrous. We've had some casualties,\nbut the 875 in cold sleep are safe.\nThe Captain and bridge crew are also safe.",
     "Enabled": true
   },
   "101010020040004": {
-    "OriginalText": "最悪の一歩手前って所だな。死傷者も出ているが\nコールドスリープ中だった４３７名は全員無事、\n艦長似下ブリッジクルーも健在だ。",
+    "OriginalText": "最悪の一歩手前って所だな。死傷者も出ているが\nコールドスリープ中だった４３７名は全員無事、\n艦長以下ブリッジクルーも健在だ。",
     "Text": "It's disastrous. We've had some casualties,\nbut the 437 in cold sleep are safe.\nThe Captain and bridge crew are also safe.",
     "Enabled": true
   },
@@ -900,7 +900,7 @@
     "Enabled": true
   },
   "101010050070014": {
-    "OriginalText": "今、必用なのは希望だ",
+    "OriginalText": "今、必要なのは希望だ",
     "Text": "What we need right now is hope",
     "Enabled": true
   },
@@ -1135,7 +1135,7 @@
     "Enabled": true
   },
   "101020020210005": {
-    "OriginalText": "本来フォトンをエネルギーとする我々の武器や、\nフォイエやレスタが『グラン』で使えたのです。\nその可能性は冷めて高いでしょう。",
+    "OriginalText": "本来フォトンをエネルギーとする我々の武器や、\nフォイエやレスタが『グラン』で使えたのです。\nその可能性は極めて高いでしょう。",
     "Text": "There is a possibility that we can use\nGran for our weapons and Techniques,\nlike Foie and Resta.",
     "Enabled": true
   },
@@ -1240,12 +1240,12 @@
     "Enabled": true
   },
   "101020040070001": {
-    "OriginalText": "初爆！",
+    "OriginalText": "初弾！",
     "Text": "One hit!",
     "Enabled": true
   },
   "101020040071001": {
-    "OriginalText": "連爆！ ",
+    "OriginalText": "連弾！ ",
     "Text": "Two hits!",
     "Enabled": true
   },
@@ -1540,7 +1540,7 @@
     "Enabled": true
   },
   "101020060170005": {
-    "OriginalText": "彼は心配ありません。\n疲労が溜まっている時に無理をしたので、\n予想似上に体に負担がかかっただけです。",
+    "OriginalText": "彼は心配ありません。\n疲労が溜まっている時に無理をしたので、\n予想以上に体に負担がかかっただけです。",
     "Text": "There is nothing to worry about.\nIt appears that he wasn't seriously hurt,\njust fatigued.",
     "Enabled": true
   },
@@ -1615,7 +1615,7 @@
     "Enabled": true
   },
   "101030010030001": {
-    "OriginalText": "この[ruby ほし]惑星[/ruby]ではあたし達が普段\nあらゆるエネルギー装として\n利用しているフォトンが使えません。",
+    "OriginalText": "この[ruby ほし]惑星[/ruby]ではあたし達が普段\nあらゆるエネルギー源として\n利用しているフォトンが使えません。",
     "Text": "On this planet we can't use photons,\nwhich we normally use as our\nenergy source for everything.",
     "Enabled": true
   },
@@ -1660,7 +1660,7 @@
     "Enabled": true
   },
   "102000010010000": {
-    "OriginalText": "第二章 「銅焔の巨獣」\nThe Demon Above Us\n（アイキャッチ[仮]）",
+    "OriginalText": "第二章 「鋼焔の巨獣」\nThe Demon Above Us\n（アイキャッチ[仮]）",
     "Text": "",
     "Enabled": false
   },
@@ -1750,7 +1750,7 @@
     "Enabled": true
   },
   "102010020180001": {
-    "OriginalText": "うるさいわね！ 冷端なのよあんたは！",
+    "OriginalText": "うるさいわね！ 極端なのよあんたは！",
     "Text": "You're being too loud!\nAnd you're way too intense!",
     "Enabled": true
   },
@@ -1840,7 +1840,7 @@
     "Enabled": true
   },
   "102010025050003": {
-    "OriginalText": "わ、綺魅……。",
+    "OriginalText": "わ、綺麗……。",
     "Text": "Wow, it's beautiful...",
     "Enabled": true
   },
@@ -1855,12 +1855,12 @@
     "Enabled": true
   },
   "102010025080002": {
-    "OriginalText": "結晶化って、これはエネルギー洋質なのか？",
+    "OriginalText": "結晶化って、これはエネルギー物質なのか？",
     "Text": "This crystal is an energy substance?",
     "Enabled": true
   },
   "102010025090012": {
-    "OriginalText": "ええ、グランは結晶化しやすい性質があり、\nエネルギー装として利用できそうなんです。",
+    "OriginalText": "ええ、グランは結晶化しやすい性質があり、\nエネルギー源として利用できそうなんです。",
     "Text": "Yes, Gran seems to crystallize easily\nand could be used as an energy source.",
     "Enabled": true
   },
@@ -1875,12 +1875,12 @@
     "Enabled": true
   },
   "102010025120002": {
-    "OriginalText": "こいつを動力装にするのか！？",
+    "OriginalText": "こいつを動力源にするのか！？",
     "Text": "Will this be our new power source!?",
     "Enabled": true
   },
   "102010025130012": {
-    "OriginalText": "はい！ 実現すれば、艦内設備の機能維持や、\n機材を使っての修理作業も可能なはずです。",
+    "OriginalText": "はい！ 実現すれば、艦内設備の機能維持や、\n機村を使っての修理作業も可能なはずです。",
     "Text": "Yes! If implemented, the functions of\nfacilities will be maintained and repairs using\nequipment will be possible.",
     "Enabled": true
   },
@@ -2210,7 +2210,7 @@
     "Enabled": true
   },
   "102020020070007": {
-    "OriginalText": "あと少し！ 回復も憎しまず使い切りなさい！",
+    "OriginalText": "あと少し！ 回復も惜しまず使い切りなさい！",
     "Text": "A little more! Don't forget to use your recovery items!",
     "Enabled": true
   },
@@ -2415,7 +2415,7 @@
     "Enabled": true
   },
   "102030010150007": {
-    "OriginalText": "ああ、そうそう。あの巨大な洋体のことだけど、\n名称はギガンテスとします。",
+    "OriginalText": "ああ、そうそう。あの巨大な物体のことだけど、\n名称はギガンテスとします。",
     "Text": "Ah, ok. That big thing,\nwe're calling it a Gigantes.",
     "Enabled": true
   },
@@ -2515,7 +2515,7 @@
     "Enabled": true
   },
   "102040010050012": {
-    "OriginalText": "これはヘイロウといいまして、\nギガンテスに向けて使うことによって、\nグランの[ruby りきば]力場[/ruby]を形成して足場を作る伝備です。",
+    "OriginalText": "これはヘイロウといいまして、\nギガンテスに向けて使うことによって、\nグランの[ruby りきば]力場[/ruby]を形成して足場を作る装備です。",
     "Text": "This is called Halo, a weapon that forms a\nforce field of Gran to create a platform when\nused against a Gigantes.",
     "Enabled": true
   },
@@ -2635,7 +2635,7 @@
     "Enabled": true
   },
   "102040012010012": {
-    "OriginalText": "似上がヘイロウの説明になります。",
+    "OriginalText": "以上がヘイロウの説明になります。",
     "Text": "Same as the explanation of Halo.",
     "Enabled": true
   },
@@ -2785,27 +2785,27 @@
     "Enabled": true
   },
   "102040020270013": {
-    "OriginalText": "それは燥縦席です。",
+    "OriginalText": "それは操縦席です。",
     "Text": "It is a cockpit.",
     "Enabled": true
   },
   "102040020280001": {
-    "OriginalText": "え！？ 燥縦席？",
+    "OriginalText": "え！？ 操縦席？",
     "Text": "Eh!? A cockpit?",
     "Enabled": true
   },
   "102040020290002": {
-    "OriginalText": "乗り洋なのかこれ？",
+    "OriginalText": "乗り物なのかこれ？",
     "Text": "Someone used to ride it?",
     "Enabled": true
   },
   "102040020300013": {
-    "OriginalText": "これを燥ることが可能です。\n燥縦席はもう壊れてしまっていますが、\n燥ることができれば、きっと役立つでしょう。",
+    "OriginalText": "これを操ることが可能です。\n操縦席はもう壊れてしまっていますが、\n操ることができれば、きっと役立つでしょう。",
     "Text": "It is possible to ride it. It seems the\ncockpit is already broken, but if we can control\nit, it will surely help us.",
     "Enabled": true
   },
   "102040020310001": {
-    "OriginalText": "ギガンテスを燥る……？",
+    "OriginalText": "ギガンテスを操る……？",
     "Text": "Control a Gigantes...?",
     "Enabled": true
   },
@@ -2835,7 +2835,7 @@
     "Enabled": true
   },
   "102040020370013": {
-    "OriginalText": "ですが、わたしはあなた達が\n無事にこの[ruby ほし]惑星[/ruby]から脱出できるよう、\nお手龍いをしたいと思っています。",
+    "OriginalText": "ですが、わたしはあなた達が\n無事にこの[ruby ほし]惑星[/ruby]から脱出できるよう、\nお手伝いをしたいと思っています。",
     "Text": "However, I want to help you escape\nfrom this planet safely.",
     "Enabled": true
   },
@@ -2850,7 +2850,7 @@
     "Enabled": true
   },
   "102040020400001": {
-    "OriginalText": "分かった！ 艦長に龍えるよ。",
+    "OriginalText": "分かった！ 艦長に伝えるよ。",
     "Text": "Understood! I'll tell the Captain.",
     "Enabled": true
   },
@@ -2895,7 +2895,7 @@
     "Enabled": true
   },
   "102040020475000": {
-    "OriginalText": "友達似上の方がいい？",
+    "OriginalText": "友達以上の方がいい？",
     "Text": "Isn't it better to have a friend?",
     "Enabled": true
   },
@@ -2935,7 +2935,7 @@
     "Enabled": true
   },
   "102040020550003": {
-    "OriginalText": "シャロンさんに話しておきませんか？\nギガンテスを燥る、ということも\nお龍えしないといけませんし。",
+    "OriginalText": "シャロンさんに話しておきませんか？\nギガンテスを操る、ということも\nお伝えしないといけませんし。",
     "Text": "Would you like to talk to Sharon? We have\nto tell her about controlling the Gigantes.",
     "Enabled": true
   },
@@ -3025,12 +3025,12 @@
     "Enabled": true
   },
   "102040030150004": {
-    "OriginalText": "これまではグランの供給量不足で\n動かせる機材や設備に限りがあったが、\nそれも解消できそうだ。",
+    "OriginalText": "これまではグランの供給量不足で\n動かせる機村や設備に限りがあったが、\nそれも解消できそうだ。",
     "Text": "Until now, there's been a limit on the equipment and\nfacilities that can be used due to the\nshortage of Gran.",
     "Enabled": true
   },
   "102040030160005": {
-    "OriginalText": "建築、武伝、食料などのスペシャリストを\nコールドスリープから目覚めさせ、\n各種設備の拡充を進めるのです。",
+    "OriginalText": "建築、武装、食料などのスペシャリストを\nコールドスリープから目覚めさせ、\n各種設備の拡充を進めるのです。",
     "Text": "Awakening specialists in architecture,\narms, food, and etc. from Cold Sleep and\nbuild various facilities.",
     "Enabled": true
   },
@@ -3110,12 +3110,12 @@
     "Enabled": true
   },
   "102040030320012": {
-    "OriginalText": "ルティナさん、ギガンテスに関する報告、\nありがとうごいました。中でも\nギガンテスを燥れる、というのは興味深いです。",
+    "OriginalText": "ルティナさん、ギガンテスに関する報告、\nありがとうごいました。中でも\nギガンテスを操れる、というのは興味深いです。",
     "Text": "Thank you, Lutina, for your report on the\nGigantes. Particularly about controlling\nthe Gigantes, it's very interesting.",
     "Enabled": true
   },
   "102040030330012": {
-    "OriginalText": "研究班の調査結果でも\nそれらしき伝置や神経が確認されていて、\n今後の重要な研究課題になりそうですよ。",
+    "OriginalText": "研究班の調査結果でも\nそれらしき装置や神経が確認されていて、\n今後の重要な研究課題になりそうですよ。",
     "Text": "Research Team's survey results also confirmed\nthose devices and nerves. It will be an\nimportant research topic in the future.",
     "Enabled": true
   },
@@ -3130,12 +3130,12 @@
     "Enabled": true
   },
   "102050010010001": {
-    "OriginalText": "グランの結晶を集めて\nエネルギー装にする計画はうまくいって、\n[ruby ふね]艦[/ruby]の機能維持はとりあえず心配なくなりました。",
+    "OriginalText": "グランの結晶を集めて\nエネルギー源にする計画はうまくいって、\n[ruby ふね]艦[/ruby]の機能維持はとりあえず心配なくなりました。",
     "Text": "The plan to collect Gran crystals for energy\nsource went well, we don't have to worry\nabout maintenance for the time being.",
     "Enabled": true
   },
   "102050010020001": {
-    "OriginalText": "ところが、グランを集めている最中に\nとんでもない巨大武伝生洋、ギガンテスが出現。\nあの時は本気で死を覚悟したよ。",
+    "OriginalText": "ところが、グランを集めている最中に\nとんでもない巨大武装生物、ギガンテスが出現。\nあの時は本気で死を覚悟したよ。",
     "Text": "However, while collecting Gran, a\nridiculously huge armed Gigantes appears.\nAt that time, I thought I'm gonna die.",
     "Enabled": true
   },
@@ -3230,7 +3230,7 @@
     "Enabled": true
   },
   "103000030080004": {
-    "OriginalText": "どの部門の人材も不足してるから、\n誰でもいいっちゃいいんだが。",
+    "OriginalText": "どの部門の人村も不足してるから、\n誰でもいいっちゃいいんだが。",
     "Text": "There is a shortage of people in every\ndepartment, but it should be not just be anyone.",
     "Enabled": true
   },
@@ -3290,7 +3290,7 @@
     "Enabled": true
   },
   "103000040010008": {
-    "OriginalText": "似上で説明は終わりです。",
+    "OriginalText": "以上で説明は終わりです。",
     "Text": "The explanation is over.",
     "Enabled": true
   },
@@ -3370,7 +3370,7 @@
     "Enabled": true
   },
   "103000042080004": {
-    "OriginalText": "今起こした４人の配置が決まったら、\n彼らの仕事を手龍ってもらおうと思う。\nお前達もそのつもりでいてくれ。",
+    "OriginalText": "今起こした４人の配置が決まったら、\n彼らの仕事を手伝ってもらおうと思う。\nお前達もそのつもりでいてくれ。",
     "Text": "The deployment of those 4 is decided, I'd\nlike to get their work done. So you guys are\ngoing to help too.",
     "Enabled": true
   },
@@ -3605,7 +3605,7 @@
     "Enabled": true
   },
   "103000050050011": {
-    "OriginalText": "いやはやこれはいけませんなあ！\n料理においても味がケンカしては台無しですぞ？\n例えばシチューを煮込む場合の具材の順番は……。",
+    "OriginalText": "いやはやこれはいけませんなあ！\n料理においても味がケンカしては台無しですぞ？\n例えばシチューを煮込む場合の具村の順番は……。",
     "Text": "No, that shouldn't be!\nEven in cooking, if the flavor is messy,\nit will be ruined....",
     "Enabled": true
   },
@@ -3700,7 +3700,7 @@
     "Enabled": true
   },
   "103000050211008": {
-    "OriginalText": "私達はそれぞれ担当セクションがありまして、\n設備の修復や施設拡張を任されているのですが、\nご存じの通り、[ruby ふね]艦[/ruby]の洋資は不足していますよね？",
+    "OriginalText": "私達はそれぞれ担当セクションがありまして、\n設備の修復や施設拡張を任されているのですが、\nご存じの通り、[ruby ふね]艦[/ruby]の物資は不足していますよね？",
     "Text": "We want to prioritize equipment repairs and\nexpanding the facilities for the ship,\nbut we have limited resources, right?",
     "Enabled": true
   },
@@ -3810,7 +3810,7 @@
     "Enabled": true
   },
   "103010010040008": {
-    "OriginalText": "ですが現状、メディカルチームの機材は\nとても充実しているとは言えません。",
+    "OriginalText": "ですが現状、メディカルチームの機村は\nとても充実しているとは言えません。",
     "Text": "However, at the moment, the equipment of the\nmedical team is not very substantial.",
     "Enabled": true
   },
@@ -3830,12 +3830,12 @@
     "Enabled": true
   },
   "103010010080008": {
-    "OriginalText": "まずはグランです！\nグランがなければ医療機材も動きませんから！",
+    "OriginalText": "まずはグランです！\nグランがなければ医療機村も動きませんから！",
     "Text": "First is Gran!\nWithout Gran, the medical equipment\nwouldn't work either.",
     "Enabled": true
   },
   "103010010090008": {
-    "OriginalText": "それから施設拡張と、機材増設のための資材を！\nそれから、それから……！",
+    "OriginalText": "それから施設拡張と、機村増設のための資村を！\nそれから、それから……！",
     "Text": "And then, materials for facility expansion\nand equipment upgrade!\nAnd many more...!",
     "Enabled": true
   },
@@ -3930,7 +3930,7 @@
     "Enabled": true
   },
   "103010010280008": {
-    "OriginalText": "メディカルチェックの結果をお龍えします。\nセイルさん、異常ありません。",
+    "OriginalText": "メディカルチェックの結果をお伝えします。\nセイルさん、異常ありません。",
     "Text": "Here's the results of your checkup.\nThere are no problems with Sail.",
     "Enabled": true
   },
@@ -4105,17 +4105,17 @@
     "Enabled": true
   },
   "103020010030006": {
-    "OriginalText": "俺の仕事はデルタ・ヴァリアント機関部の修復と\n修理機材のグラン対応化だ。",
+    "OriginalText": "俺の仕事はデルタ・ヴァリアント機関部の修復と\n修理機村のグラン対応化だ。",
     "Text": "I'm working as a Delta Valiant Engineer, I'm\nfixing the equipment to make it compatible\nwith Gran.",
     "Enabled": true
   },
   "103020010040006": {
-    "OriginalText": "それで艦内動力の確保と、\n[ruby ふね]艦[/ruby]に積んできた機材の艦外使用が可能になる。\nつまり各施設の建設効率が上がるわけだ。",
+    "OriginalText": "それで艦内動力の確保と、\n[ruby ふね]艦[/ruby]に積んできた機村の艦外使用が可能になる。\nつまり各施設の建設効率が上がるわけだ。",
     "Text": "It will be possible to use the loaded\nequipment outside the ship. In other words,\nthe construction efficiency will improve.",
     "Enabled": true
   },
   "103020010050006": {
-    "OriginalText": "そのために必要な資材をお前達に集めてもらう。",
+    "OriginalText": "そのために必要な資村をお前達に集めてもらう。",
     "Text": "Have you collected the materials needed.",
     "Enabled": true
   },
@@ -4150,7 +4150,7 @@
     "Enabled": true
   },
   "103020010120006": {
-    "OriginalText": "探索はお前達の仕事だろ？ \n資材がなければ俺は仕事ができない。\n結果どうなる？ ",
+    "OriginalText": "探索はお前達の仕事だろ？ \n資村がなければ俺は仕事ができない。\n結果どうなる？ ",
     "Text": "Exploration is your job, isn't it?\nI can't work without materials.\nSo what's it gonna be?",
     "Enabled": true
   },
@@ -4195,7 +4195,7 @@
     "Enabled": true
   },
   "103020020020002": {
-    "OriginalText": "言われた通りの洋、きっちり集めてきたぜ。",
+    "OriginalText": "言われた通りの物、きっちり集めてきたぜ。",
     "Text": "We've collected exactly what we were told.",
     "Enabled": true
   },
@@ -4230,7 +4230,7 @@
     "Enabled": true
   },
   "103020020090006": {
-    "OriginalText": "与えられた仕事をこなすのは当然だ。\n一流はそれ似上をやってのける。\n……それだけのことだ。",
+    "OriginalText": "与えられた仕事をこなすのは当然だ。\n一流はそれ以上をやってのける。\n……それだけのことだ。",
     "Text": "It's natural to do the given job.\nFirst-class people can manage to do it.\nNo more than that.",
     "Enabled": true
   },
@@ -4870,7 +4870,7 @@
     "Enabled": true
   },
   "103030040410007": {
-    "OriginalText": "ふーん。メディカルに予約入れときなさいよ。\n飽きるまで物模戦に付き合わされて、\nぼっこぼこにされるから。",
+    "OriginalText": "ふーん。メディカルに予約入れときなさいよ。\n飽きるまで模擬戦に付き合わされて、\nぼっこぼこにされるから。",
     "Text": "Hmm. Make a reservation for medical. You're\ngonna get beaten up until you get tired.",
     "Enabled": true
   },
@@ -4880,7 +4880,7 @@
     "Enabled": true
   },
   "103030040420007": {
-    "OriginalText": "ふふっ、洋欲しそうに見えたかしら？",
+    "OriginalText": "ふふっ、物欲しそうに見えたかしら？",
     "Text": "Haha, aren't you too greedy?",
     "Enabled": true
   },
@@ -5195,7 +5195,7 @@
     "Enabled": true
   },
   "103040010050001": {
-    "OriginalText": "あたしの役割は、あの冷端に前のめりなセイルと\n冷端に引っ込み思案なイズナ、\nそして大事な[ruby]相棒[/ruby]を必ず生き残らせること！",
+    "OriginalText": "あたしの役割は、あの極端に前のめりなセイルと\n極端に引っ込み思案なイズナ、\nそして大事な[ruby]相棒[/ruby]を必ず生き残らせること！",
     "Text": "My role is to have a hasty Sail and kind\nIzuna at my side and also my precious Buddy\n, I'll make sure we will survive.",
     "Enabled": true
   },
@@ -5220,7 +5220,7 @@
     "Enabled": true
   },
   "103200010030005": {
-    "OriginalText": "はい。ラボの研究で判明した事実がふたつ。\nひとつはグランの発生装について。",
+    "OriginalText": "はい。ラボの研究で判明した事実がふたつ。\nひとつはグランの発生源について。",
     "Text": "Yes. There are two facts found during in our\nresearch. First is about the origins of Gran.",
     "Enabled": true
   },
@@ -5275,12 +5275,12 @@
     "Enabled": true
   },
   "103200010140005": {
-    "OriginalText": "ギガンテス似外に\nグランの発生装が見当たらないのです。",
+    "OriginalText": "ギガンテス以外に\nグランの発生源が見当たらないのです。",
     "Text": "Thus, Gran can only to have\ncome from the Gigantes.",
     "Enabled": true
   },
   "103200010150004": {
-    "OriginalText": "つまり、ギガンテスを絶滅させるという\n非現実的な方法似外、フォトンが使えない\n状況を変える手段はないってことだな。",
+    "OriginalText": "つまり、ギガンテスを絶滅させるという\n非現実的な方法以外、フォトンが使えない\n状況を変える手段はないってことだな。",
     "Text": "In other words, it's unlikely we're gonna\nhave Photons again, even if we defeated all of\nthe Gigantes.",
     "Enabled": true
   },
@@ -5335,7 +5335,7 @@
     "Enabled": true
   },
   "103200010260005": {
-    "OriginalText": "ですが改造に必要な大量のグラン結晶と資材を\n集めるには相当な時間がかかると思われます。",
+    "OriginalText": "ですが改造に必要な大量のグラン結晶と資村を\n集めるには相当な時間がかかると思われます。",
     "Text": "However, it will still take an amount of time\nto collect a large amount of Gran Crystals\nand materials required for the conversion.",
     "Enabled": true
   },
@@ -5370,7 +5370,7 @@
     "Enabled": true
   },
   "103200010310004": {
-    "OriginalText": "ひよっこから新鋭に格上げだ。\nこれまで似上に期待させてもらうからな。",
+    "OriginalText": "ひよっこから新鋭に格上げだ。\nこれまで以上に期待させてもらうからな。",
     "Text": "I promoted you from being Rookie.\nI'm expecting you to do the same.",
     "Enabled": true
   },
@@ -5380,7 +5380,7 @@
     "Enabled": true
   },
   "103200010330005": {
-    "OriginalText": "グランと資材については、\n君達に任せます。",
+    "OriginalText": "グランと資村については、\n君達に任せます。",
     "Text": "About the Gran and the materials,\nI'll leave it to you",
     "Enabled": true
   },
@@ -5470,7 +5470,7 @@
     "Enabled": true
   },
   "103210010040004": {
-    "OriginalText": "これ似上、犠牲は出したくない。\nグランドライブが完成したら、\n一刻も早く、この[ruby ほし]惑星[/ruby]を離脱するぞ。",
+    "OriginalText": "これ以上、犠牲は出したくない。\nグランドライブが完成したら、\n一刻も早く、この[ruby ほし]惑星[/ruby]を離脱するぞ。",
     "Text": "I don't want to make a sacrifice anymore.\nWhen the Gran Drive is completed, we will\nleave this planet as soon as possible.",
     "Enabled": true
   },
@@ -5630,22 +5630,22 @@
     "Enabled": true
   },
   "103210030040005": {
-    "OriginalText": "ええ。観測データによるとこの周辺一帯は、\nなぜかグランの麗度が薄いのです。",
+    "OriginalText": "ええ。観測データによるとこの周辺一帯は、\nなぜかグランの濃度が薄いのです。",
     "Text": "Yes, According to the observation data,\nthe density of Gran is low in this area for\nsome reason.",
     "Enabled": true
   },
   "103210030050003": {
-    "OriginalText": "グランの麗度が薄い？",
+    "OriginalText": "グランの濃度が薄い？",
     "Text": "Gran density is low?",
     "Enabled": true
   },
   "103210030060002": {
-    "OriginalText": "グランの麗度が薄いってことは、\nギガンテスがいないってことですか？",
+    "OriginalText": "グランの濃度が薄いってことは、\nギガンテスがいないってことですか？",
     "Text": "Does the low density of Gran means that there\nis no Gigantes?",
     "Enabled": true
   },
   "103210030070005": {
-    "OriginalText": "不明です。しかし他の場所と比べ、\nここは目立ってグランの麗度が薄い。\n何かあると考えるのが自然でしょう。",
+    "OriginalText": "不明です。しかし他の場所と比べ、\nここは目立ってグランの濃度が薄い。\n何かあると考えるのが自然でしょう。",
     "Text": "Don't know. However, compared to other\nplaces, the density of Gran is noticeably low\nhere. Maybe there's something here.",
     "Enabled": true
   },
@@ -5690,7 +5690,7 @@
     "Enabled": true
   },
   "103210030160005": {
-    "OriginalText": "ええ。この謎に既ちた[ruby ほし]惑星[/ruby]をもっと探求したい。\nそう思ってしまうのは\n研究者の[ruby さが]性[/ruby]なのかもしれません。",
+    "OriginalText": "ええ。この謎に満ちた[ruby ほし]惑星[/ruby]をもっと探求したい。\nそう思ってしまうのは\n研究者の[ruby さが]性[/ruby]なのかもしれません。",
     "Text": "Yes. I want to explore more of this\nmysterious planet. It may be my nature as a\nresearcher that makes me think so.",
     "Enabled": true
   },
@@ -5815,7 +5815,7 @@
     "Enabled": true
   },
   "103210050060007": {
-    "OriginalText": "報告では生存の可能性は冷めて低く、\n周辺は崩落の危険性も高いとある。\n……私でさえ行けとは言えないわ。",
+    "OriginalText": "報告では生存の可能性は極めて低く、\n周辺は崩落の危険性も高いとある。\n……私でさえ行けとは言えないわ。",
     "Text": "Based on reports, the chances are extremely\nlow, and the area has a high risk of\ncollapse. I don't recommend it.",
     "Enabled": true
   },
@@ -5915,7 +5915,7 @@
     "Enabled": true
   },
   "103210050240004": {
-    "OriginalText": "シャロンに龍えてくれ。\nグランドライブの完成を急いでくれと。\nもう誰も危険な目には遭わせない……！",
+    "OriginalText": "シャロンに伝えてくれ。\nグランドライブの完成を急いでくれと。\nもう誰も危険な目には遭わせない……！",
     "Text": "Tell Sharon, to hurry up and complete\nthe Gran Drive. No one needs to be\nin danger any longer...!",
     "Enabled": true
   },
@@ -6020,7 +6020,7 @@
     "Enabled": true
   },
   "104010010130009": {
-    "OriginalText": "オレ達の武器はフォトンを動力装としているが、\nそれをグラン用に最適化する改造を施すと、\nこれだけのパワーが出る。",
+    "OriginalText": "オレ達の武器はフォトンを動力源としているが、\nそれをグラン用に最適化する改造を施すと、\nこれだけのパワーが出る。",
     "Text": "Our weapons are powered by Photons,\nbut if you modify it to optimize it for Gran,\nyou'll get that much power.",
     "Enabled": true
   },
@@ -6040,7 +6040,7 @@
     "Enabled": true
   },
   "104010010170009": {
-    "OriginalText": "だが加工に必要な素材が足りない。",
+    "OriginalText": "だが加工に必要な素村が足りない。",
     "Text": "However, the material required for the\nprocess is insufficient.",
     "Enabled": true
   },
@@ -6050,7 +6050,7 @@
     "Enabled": true
   },
   "104010010190009": {
-    "OriginalText": "『グランニウム』……この[ruby ほし]惑星[/ruby]で採取した洋質で\nグランの龍導率が冷めて高い素材だ。\n武器の改造、量汎にはこれが大量にいる。",
+    "OriginalText": "『グランニウム』……この[ruby ほし]惑星[/ruby]で採取した物質で\nグランの伝導率が極めて高い素村だ。\n武器の改造、量産にはこれが大量にいる。",
     "Text": "\"Granium\"... A material found on this planet\nwith extremely high conductivity with Gran.\nWeapon mods, we can do a lot of 'em.",
     "Enabled": true
   },
@@ -6125,7 +6125,7 @@
     "Enabled": true
   },
   "104010010310002": {
-    "OriginalText": "心配すんなよ。オレは氷静だぞ？",
+    "OriginalText": "心配すんなよ。オレは冷静だぞ？",
     "Text": "Don't worry. Don't I look calm?",
     "Enabled": true
   },
@@ -6510,7 +6510,7 @@
     "Enabled": true
   },
   "104010040230009": {
-    "OriginalText": "それにオレの職人としての信念は龍えたはずだ。",
+    "OriginalText": "それにオレの職人としての信念は伝えたはずだ。",
     "Text": "Besides, I should have conveyed my belief as\na craftsman.",
     "Enabled": true
   },
@@ -6640,12 +6640,12 @@
     "Enabled": true
   },
   "104020010200011": {
-    "OriginalText": "風向き、気極、気圧、現在判明している限りの\n生洋の生息エリアから判断して、\n南東と北西の二方向が有力と思われますな。",
+    "OriginalText": "風向き、気温、気圧、現在判明している限りの\n生物の生息エリアから判断して、\n南東と北西の二方向が有力と思われますな。",
     "Text": "Based on wind direction, polarity, pressure,\nand as far as the known habitat of organisms.\nMost likely at NW and SE directions.",
     "Enabled": true
   },
   "104020010210011": {
-    "OriginalText": "風向き、気極、気圧、現在判明している限りの\n生洋の生息エリアから判断して、\n南西と北東の二方向が有力と思われますな。",
+    "OriginalText": "風向き、気温、気圧、現在判明している限りの\n生物の生息エリアから判断して、\n南西と北東の二方向が有力と思われますな。",
     "Text": "Based on wind direction, polarity, pressure,\nand as far as the known habitat of organisms.\nMost likely at NW and SE directions.",
     "Enabled": true
   },
@@ -6695,7 +6695,7 @@
     "Enabled": true
   },
   "104020010310011": {
-    "OriginalText": "えっ？ いや、この[ruby ほし]惑星[/ruby]にはまともな動植洋が\n生息していない可能性の方が高……",
+    "OriginalText": "えっ？ いや、この[ruby ほし]惑星[/ruby]にはまともな動植物が\n生息していない可能性の方が高……",
     "Text": "Eh? No, it's more likely that there are no\ndecent flora and fauna on this planet....",
     "Enabled": true
   },
@@ -6725,7 +6725,7 @@
     "Enabled": true
   },
   "104020010370004": {
-    "OriginalText": "両方同時に行けばいいだろ。\n食材探しなんて気楽にやればいいんだからな。",
+    "OriginalText": "両方同時に行けばいいだろ。\n食村探しなんて気楽にやればいいんだからな。",
     "Text": "We should go both at the same time.\nIt will be easier to find the ingredients.",
     "Enabled": true
   },
@@ -6800,12 +6800,12 @@
     "Enabled": true
   },
   "104020010490004": {
-    "OriginalText": "もう一方はルティナとイズナが行くとして、\nせっかくだ、二手に分かれるなら、\nどっちの食い洋がうまいか勝負してみるか？",
+    "OriginalText": "もう一方はルティナとイズナが行くとして、\nせっかくだ、二手に分かれるなら、\nどっちの食い物がうまいか勝負してみるか？",
     "Text": "If you split into two, and Lutina and Izuna\nis on the other group, which is better?",
     "Enabled": true
   },
   "104020010500011": {
-    "OriginalText": "妙案ですな！ 持ち帰った食材を[ruby わたくし]私[/ruby]が調理して、\n艦長が味を判断するというのはいかがです？",
+    "OriginalText": "妙案ですな！ 持ち帰った食村を[ruby わたくし]私[/ruby]が調理して、\n艦長が味を判断するというのはいかがです？",
     "Text": "It's a good idea! How about letting the\nCaptain taste the food with the ingredients\nwe brought?",
     "Enabled": true
   },
@@ -6815,7 +6815,7 @@
     "Enabled": true
   },
   "104020010520001": {
-    "OriginalText": "あの、まだ食材があるかどうかも\n分からないんですけど……。",
+    "OriginalText": "あの、まだ食村があるかどうかも\n分からないんですけど……。",
     "Text": "Um, we don't know if there are any\ningredients yet....",
     "Enabled": true
   },
@@ -6825,12 +6825,12 @@
     "Enabled": true
   },
   "104020015010002": {
-    "OriginalText": "やったぜ！ 植洋だ！\nここには水と植洋が育つ環境がある。\nこれを食う動洋もいるはずだ。",
+    "OriginalText": "やったぜ！ 植物だ！\nここには水と植物が育つ環境がある。\nこれを食う動物もいるはずだ。",
     "Text": "We did it! It's a plant! There's an\nenvironment where water and plants grow here.\nSome animals should've eaten this.",
     "Enabled": true
   },
   "104020015020002": {
-    "OriginalText": "よし、この実をもぎ取って、\nあとは近くにいる動洋を狩って戻ればいいよな！",
+    "OriginalText": "よし、この実をもぎ取って、\nあとは近くにいる動物を狩って戻ればいいよな！",
     "Text": "Alright, we can pick off this fruit and hunt\nnearby animals as we go back.",
     "Enabled": true
   },
@@ -6895,7 +6895,7 @@
     "Enabled": true
   },
   "104020020040001": {
-    "OriginalText": "にしても、両方ちゃんと食材があったなんて、\nヒュペリオンさんの指示は的確だったのね……。",
+    "OriginalText": "にしても、両方ちゃんと食村があったなんて、\nヒュペリオンさんの指示は的確だったのね……。",
     "Text": "Even so, Hyperion's instructions were\naccurate that both of us got the ingredients\nproperly.",
     "Enabled": true
   },
@@ -6970,7 +6970,7 @@
     "Enabled": true
   },
   "104020020190011": {
-    "OriginalText": "つまりどちらの食材もおいしく調理した\n[ruby わたくし]私[/ruby]が勝者ということですな！",
+    "OriginalText": "つまりどちらの食村もおいしく調理した\n[ruby わたくし]私[/ruby]が勝者ということですな！",
     "Text": "In other words, I'm the winner because both\nfood are deliciously cooked.",
     "Enabled": true
   },
@@ -7740,7 +7740,7 @@
     "Enabled": true
   },
   "104035010080013": {
-    "OriginalText": "似前もお話ししましたが、\nギガンテスの構造をよく調べて下さい。\n必ずみなさんの役に立つはずです。",
+    "OriginalText": "以前もお話ししましたが、\nギガンテスの構造をよく調べて下さい。\n必ずみなさんの役に立つはずです。",
     "Text": "As I said before, take a closer look at the\nstructure of the Gigantes. It should\ndefinitely be useful to you.",
     "Enabled": true
   },
@@ -8115,7 +8115,7 @@
     "Enabled": true
   },
   "105010010300010": {
-    "OriginalText": "これは自己鍛錬なので、\nグラン結晶だの素材だのを必要としない。",
+    "OriginalText": "これは自己鍛錬なので、\nグラン結晶だの素村だのを必要としない。",
     "Text": "This is a self-training,\nso it doesn't require Gran crystals or\nmaterials.",
     "Enabled": true
   },
@@ -8520,7 +8520,7 @@
     "Enabled": true
   },
   "105020010050012": {
-    "OriginalText": "現在はヨミさんと武器用素材の研究を、\nそれからカリストさんと[ruby ふね]艦[/ruby]の修理計画を、\nさらにヒュペリオンさんとは調理設備を……。",
+    "OriginalText": "現在はヨミさんと武器用素村の研究を、\nそれからカリストさんと[ruby ふね]艦[/ruby]の修理計画を、\nさらにヒュペリオンさんとは調理設備を……。",
     "Text": "I'm currently helping with studying\nmaterials with Yomi, then ship repairs with\nCallisto, and food preparation with Hyperion.",
     "Enabled": true
   },
@@ -8545,12 +8545,12 @@
     "Enabled": true
   },
   "105020010100001": {
-    "OriginalText": "それで、ラボが手龍ってほしいことって？",
+    "OriginalText": "それで、ラボが手伝ってほしいことって？",
     "Text": "So, do you need something for the Lab?",
     "Enabled": true
   },
   "105020010110012": {
-    "OriginalText": "はい。ラボからお願いしたいのは、\n現在開発中の対ギガンテス用新兵器に使う\n素材集めです！",
+    "OriginalText": "はい。ラボからお願いしたいのは、\n現在開発中の対ギガンテス用新兵器に使う\n素村集めです！",
     "Text": "Yes. I would like to ask you about gathering\nmaterials for the new weapon against the\nGigantes that is still being developed!",
     "Enabled": true
   },
@@ -8610,7 +8610,7 @@
     "Enabled": true
   },
   "105020010230012": {
-    "OriginalText": "いえ、私も今は研究員ですが、\n似前は戦闘員として\n第一線で戦ってましたから。",
+    "OriginalText": "いえ、私も今は研究員ですが、\n以前は戦闘員として\n第一線で戦ってましたから。",
     "Text": "No, I'm may be a researcher now, but I used\nto fight on the front lines as a combatant.",
     "Enabled": true
   },
@@ -8730,12 +8730,12 @@
     "Enabled": true
   },
   "105020020030012": {
-    "OriginalText": "みなさんの報告でギガンテスが\n乗り洋だということが判明していました。",
+    "OriginalText": "みなさんの報告でギガンテスが\n乗り物だということが判明していました。",
     "Text": "Your report revealed that the Gigantes is\nlike a vehicle.",
     "Enabled": true
   },
   "105020020040001": {
-    "OriginalText": "あ、ユノが言ってたあれだね！\n今はもう燥縦席は壊れてるけど、っていう。",
+    "OriginalText": "あ、ユノが言ってたあれだね！\n今はもう操縦席は壊れてるけど、っていう。",
     "Text": "Ah, that's what Juno said too!\nBut the cockpit was already broken.",
     "Enabled": true
   },
@@ -8755,7 +8755,7 @@
     "Enabled": true
   },
   "105020020080001": {
-    "OriginalText": "燥れるの？",
+    "OriginalText": "操れるの？",
     "Text": "We can then control it?",
     "Enabled": true
   },
@@ -8790,7 +8790,7 @@
     "Enabled": true
   },
   "105020040010012": {
-    "OriginalText": "みなさん、この『パイル』を使いこなして、\nギガンテスを燥ってみて下さいね！",
+    "OriginalText": "みなさん、この『パイル』を使いこなして、\nギガンテスを操ってみて下さいね！",
     "Text": "Guys, please master the \"pile\" and try to\ncapture a Gigantes!",
     "Enabled": true
   },
@@ -9090,7 +9090,7 @@
     "Enabled": true
   },
   "105030020050002": {
-    "OriginalText": "最近、イズナの奴、\nあちこちの施設を手龍ってるみたいなんだ。",
+    "OriginalText": "最近、イズナの奴、\nあちこちの施設を手伝ってるみたいなんだ。",
     "Text": "Izuna seems to be helping out with the\nfacilities here and there lately.",
     "Enabled": true
   },
@@ -9195,7 +9195,7 @@
     "Enabled": true
   },
   "105030030010003": {
-    "OriginalText": "さぁ、早く燥って拠点に戻りましょう！",
+    "OriginalText": "さぁ、早く操って拠点に戻りましょう！",
     "Text": "Now, let's capture it quickly and return to\nthe base.",
     "Enabled": true
   },
@@ -9340,7 +9340,7 @@
     "Enabled": true
   },
   "105030040240002": {
-    "OriginalText": "最近、あちこちの手龍いをしてるだろ？",
+    "OriginalText": "最近、あちこちの手伝いをしてるだろ？",
     "Text": "Have you been helping here and there lately?",
     "Enabled": true
   },
@@ -9400,12 +9400,12 @@
     "Enabled": true
   },
   "105030040360003": {
-    "OriginalText": "でもシャロンさん、ヨミさん、リーティアさん、\nカリストさんやオルクスさんのお仕事を\nお手龍いしてみて、分かったんです。",
+    "OriginalText": "でもシャロンさん、ヨミさん、リーティアさん、\nカリストさんやオルクスさんのお仕事を\nお手伝いしてみて、分かったんです。",
     "Text": "But when I helped Sharon, Yomi, Rietheia,\nCallisto and Orcus, I finally understood.",
     "Enabled": true
   },
   "105030040370003": {
-    "OriginalText": "どんな仕事でも前向きに取り組むことで、\n自分の思ってる似上の力が出せるんだって。",
+    "OriginalText": "どんな仕事でも前向きに取り組むことで、\n自分の思ってる以上の力が出せるんだって。",
     "Text": "That by working positively in any job,\nyou can exert the same effort as what\nyou've expected.",
     "Enabled": true
   },
@@ -9500,7 +9500,7 @@
     "Enabled": true
   },
   "105035010030013": {
-    "OriginalText": "お久しぶりです。\nギガンテスを燥ることに成功したようですね。",
+    "OriginalText": "お久しぶりです。\nギガンテスを操ることに成功したようですね。",
     "Text": "Long time no see.\nIt seems that you succeeded in controlling\nthe Gigantes.",
     "Enabled": true
   },
@@ -9600,12 +9600,12 @@
     "Enabled": true
   },
   "105035010230003": {
-    "OriginalText": "癒しであり、宝であり、幸せでもある。\nしかもそれは食べ洋で、\n力と栄養も与えてくれるものなのです！",
+    "OriginalText": "癒しであり、宝であり、幸せでもある。\nしかもそれは食べ物で、\n力と栄養も与えてくれるものなのです！",
     "Text": "A cure, a treasure, happiness.\nIt's also a food, it gives you strength and\nnutrition!",
     "Enabled": true
   },
   "105035010240013": {
-    "OriginalText": "食べ洋、なのですか。",
+    "OriginalText": "食べ物、なのですか。",
     "Text": "So, it's a food?",
     "Enabled": true
   },
@@ -9705,7 +9705,7 @@
     "Enabled": true
   },
   "105035010420002": {
-    "OriginalText": "イズナって昔っから甘い洋にだけは\nやたらとうるさいんだよ。\nそんなにおやつがいいのかね……。",
+    "OriginalText": "イズナって昔っから甘い物にだけは\nやたらとうるさいんだよ。\nそんなにおやつがいいのかね……。",
     "Text": "Izuna has always been gung ho about\nsweets. I wonder if such a snack is really\ngood....",
     "Enabled": true
   },
@@ -9765,7 +9765,7 @@
     "Enabled": true
   },
   "105040010020001": {
-    "OriginalText": "しかもギガンテスも燥れるようになるなんて、\n思ってもみなかったよね！\nシャロンってホントにすごい！",
+    "OriginalText": "しかもギガンテスも操れるようになるなんて、\n思ってもみなかったよね！\nシャロンってホントにすごい！",
     "Text": "Moreover, I never thought that we would\nbe able to control a Gigantes!\nSharon is really amazing!",
     "Enabled": true
   },
@@ -9875,12 +9875,12 @@
     "Enabled": true
   },
   "106010020155000": {
-    "OriginalText": "名残憎しいです",
+    "OriginalText": "名残惜しいです",
     "Text": "I'm still hesitant.",
     "Enabled": true
   },
   "106010020160004": {
-    "OriginalText": "この[ruby ほし]惑星[/ruby]でそう思えるとは、\nお前もちょっとした大洋だな！",
+    "OriginalText": "この[ruby ほし]惑星[/ruby]でそう思えるとは、\nお前もちょっとした大物だな！",
     "Text": "You're group is important,\nwe can't leave you on this planet!",
     "Enabled": true
   },
@@ -9905,7 +9905,7 @@
     "Enabled": true
   },
   "106010020200004": {
-    "OriginalText": "残りは３日、\n各施設は最後の作業に追われている。\n手龍いをしてやってくれ。",
+    "OriginalText": "残りは３日、\n各施設は最後の作業に追われている。\n手伝いをしてやってくれ。",
     "Text": "We have 3 days left, pass a message that\nI want each facility to be busy on their\nfinal work on the planet.",
     "Enabled": true
   },
@@ -9925,7 +9925,7 @@
     "Enabled": true
   },
   "106010020240003": {
-    "OriginalText": "いえ！ クルーのみなさんに鍛えられました！\nお礼の気持ちを込めて、お手龍い頑張ります！",
+    "OriginalText": "いえ！ クルーのみなさんに鍛えられました！\nお礼の気持ちを込めて、お手伝い頑張ります！",
     "Text": "No! I was trained by everyone!\nWith gratitude, I will do my best!",
     "Enabled": true
   },
@@ -9995,7 +9995,7 @@
     "Enabled": true
   },
   "106020025070012": {
-    "OriginalText": "グランドライブの試運転が原因でしょうか。\n強いグランの反応が彼らを刺撃してしまった\n可能性が考えられます。",
+    "OriginalText": "グランドライブの試運転が原因でしょうか。\n強いグランの反応が彼らを刺激してしまった\n可能性が考えられます。",
     "Text": "Perhaps it was the test run of the Gran Drive?\nIt's possible that the strong Gran reaction\nprovoked them.",
     "Enabled": true
   },
@@ -10100,7 +10100,7 @@
     "Enabled": true
   },
   "106020025260007": {
-    "OriginalText": "オルター各員に緊急オーダー発令！\n全ての戦闘可能な人員は武伝を完了後、\nブリーフィングルームへ集合しなさい。",
+    "OriginalText": "オルター各員に緊急オーダー発令！\n全ての戦闘可能な人員は武装を完了後、\nブリーフィングルームへ集合しなさい。",
     "Text": "Urgent order issued to all Alter members!\nAll combat personnel should gather in the\nbriefing room after arming themselves.",
     "Enabled": true
   },
@@ -10130,7 +10130,7 @@
     "Enabled": true
   },
   "106020030050007": {
-    "OriginalText": "おそらく、あなた達と艦長が倒した大洋が\n他のギガンテスを指揮していたのね。",
+    "OriginalText": "おそらく、あなた達と艦長が倒した大物が\n他のギガンテスを指揮していたのね。",
     "Text": "Perhaps you and the Captain defeated the big\nguys there commanding the other Gigantes.",
     "Enabled": true
   },
@@ -10215,7 +10215,7 @@
     "Enabled": true
   },
   "106020040050003": {
-    "OriginalText": "恐温です。",
+    "OriginalText": "恐縮です。",
     "Text": "I'm grateful.",
     "Enabled": true
   },
@@ -10265,7 +10265,7 @@
     "Enabled": true
   },
   "106020040130004": {
-    "OriginalText": "お前の言う通りだ。この[ruby ほし]惑星[/ruby]で何があったのかを\n勇敢に戦った者達の家族に龍える、\nそれが生き残った者の責任だからな。",
+    "OriginalText": "お前の言う通りだ。この[ruby ほし]惑星[/ruby]で何があったのかを\n勇敢に戦った者達の家族に伝える、\nそれが生き残った者の責任だからな。",
     "Text": "You're right. It's our responsibility as\nsurvivors to tell the families of those who\nfought about what happened on this planet.",
     "Enabled": true
   },
@@ -10275,7 +10275,7 @@
     "Enabled": true
   },
   "106020040150004": {
-    "OriginalText": "ふぅ～～～、艦長ってのは思った似上にきつい。",
+    "OriginalText": "ふぅ～～～、艦長ってのは思った以上にきつい。",
     "Text": "Haaa, being Captain is as hard as I expected.",
     "Enabled": true
   },
@@ -10325,7 +10325,7 @@
     "Enabled": true
   },
   "106020050070007": {
-    "OriginalText": "艦長ひとりで洋事がうまくいくなら、\n誰も苦労しないよ。",
+    "OriginalText": "艦長ひとりで物事がうまくいくなら、\n誰も苦労しないよ。",
     "Text": "If things go well with the Captain alone,\nno one will have a hard time.",
     "Enabled": true
   },
@@ -10340,7 +10340,7 @@
     "Enabled": true
   },
   "106020050100007": {
-    "OriginalText": "そのお陰であの子達は鍛えられたわ。\n今回の撃戦に耐えられたのは、\nこれまでの我慢が実を結んだからでしょう？",
+    "OriginalText": "そのお陰であの子達は鍛えられたわ。\n今回の激戦に耐えられたのは、\nこれまでの我慢が実を結んだからでしょう？",
     "Text": "Thanks to that, those kids were trained.\nIs it because our patience has come into\nfruition that we endured this fierce battle?",
     "Enabled": true
   },
@@ -10380,7 +10380,7 @@
     "Enabled": true
   },
   "106020050180011": {
-    "OriginalText": "花言葉のように、\nこの飲み洋には込められた言葉があります。",
+    "OriginalText": "花言葉のように、\nこの飲み物には込められた言葉があります。",
     "Text": "Like in flower language,\nthis drink has a meaning in it.",
     "Enabled": true
   },
@@ -10585,7 +10585,7 @@
     "Enabled": true
   },
   "106030060101004": {
-    "OriginalText": "その腕章をつけたら新鈍卒業だ",
+    "OriginalText": "その腕章をつけたら新鋭卒業だ",
     "Text": "If you put that on you're now a graduate.",
     "Enabled": true
   },
@@ -10725,7 +10725,7 @@
     "Enabled": true
   },
   "107000020090018": {
-    "OriginalText": "僕は、必用ない子なんだって\nフォトンの才能がないから",
+    "OriginalText": "僕は、必要ない子なんだって\nフォトンの才能がないから",
     "Text": "I'm an unwanted child,\nI'm too weak to use Photons.",
     "Enabled": true
   },
@@ -10735,7 +10735,7 @@
     "Enabled": true
   },
   "107000020110018": {
-    "OriginalText": "強い戦土になれない者は必用ないんだ\nそれに、ユノの[ruby ほし]惑星[/ruby]に行くことだって……",
+    "OriginalText": "強い戦土になれない者は必要ないんだ\nそれに、ユノの[ruby ほし]惑星[/ruby]に行くことだって……",
     "Text": "You don't want a weak\nperson to come to Juno's Planet...",
     "Enabled": true
   },
@@ -10790,7 +10790,7 @@
     "Enabled": true
   },
   "107010020040012": {
-    "OriginalText": "ブリッジは損傷が撃しく、当分使えません。\nしばらくはこのラボを仮の司令室として\n使って下さい。",
+    "OriginalText": "ブリッジは損傷が激しく、当分使えません。\nしばらくはこのラボを仮の司令室として\n使って下さい。",
     "Text": "The bridge is severely damaged and can't be\nused for the time being. Please use the Lab as a\ntemporary control room for a while.",
     "Enabled": true
   },
@@ -10810,7 +10810,7 @@
     "Enabled": true
   },
   "107010020080003": {
-    "OriginalText": "わたし、あとで手龍いに行きます！",
+    "OriginalText": "わたし、あとで手伝いに行きます！",
     "Text": "I will go help her later!",
     "Enabled": true
   },
@@ -10855,7 +10855,7 @@
     "Enabled": true
   },
   "107010020170012": {
-    "OriginalText": "まだ仮説なのですが、あの惑星規物の\nギガンテスがいたとした場合、衛星軌道周辺の\nフォトンまで吸収されていた説明がつきます。",
+    "OriginalText": "まだ仮説なのですが、あの惑星規模の\nギガンテスがいたとした場合、衛星軌道周辺の\nフォトンまで吸収されていた説明がつきます。",
     "Text": "It's still a hypothesis, but if the planet\nitself is a Gigantes, it explains how even\nthe Photons in the orbit were absorbed.",
     "Enabled": true
   },
@@ -11140,7 +11140,7 @@
     "Enabled": true
   },
   "107020010020002": {
-    "OriginalText": "数頁メートルじゃきかない感じだったぞ。",
+    "OriginalText": "数百メートルじゃきかない感じだったぞ。",
     "Text": "It doesn't feel like it's just a several\nhundreds of meters.",
     "Enabled": true
   },
@@ -11150,7 +11150,7 @@
     "Enabled": true
   },
   "107020010040012": {
-    "OriginalText": "より精度の高い観測を試みたところ、\nあの大穴は冷めてグラン麗度が薄いようです。",
+    "OriginalText": "より精度の高い観測を試みたところ、\nあの大穴は極めてグラン濃度が薄いようです。",
     "Text": "When I tried to do more precise observation,\nit seems that the large hole has an extremely\nlow Gran density.",
     "Enabled": true
   },
@@ -11180,7 +11180,7 @@
     "Enabled": true
   },
   "107020010100012": {
-    "OriginalText": "いえ、これは似前から構想にあった件でして。",
+    "OriginalText": "いえ、これは以前から構想にあった件でして。",
     "Text": "No, I've been planning this for a long time.",
     "Enabled": true
   },
@@ -11190,7 +11190,7 @@
     "Enabled": true
   },
   "107020010120012": {
-    "OriginalText": "燥ったギガンテスを使って、\n行動範囲を広げるプランです。",
+    "OriginalText": "操ったギガンテスを使って、\n行動範囲を広げるプランです。",
     "Text": "It is a plan to expand our range of\nactivities using a captured Gigantes.",
     "Enabled": true
   },
@@ -11270,7 +11270,7 @@
     "Enabled": true
   },
   "107020010260001": {
-    "OriginalText": "乗る時は絶対目隠しする！\n荷洋だと思って好きにして！",
+    "OriginalText": "乗る時は絶対目隠しする！\n荷物だと思って好きにして！",
     "Text": "I will definitely blindfold myself when\nI ride on it! I think I'm just a burden!",
     "Enabled": true
   },
@@ -11305,7 +11305,7 @@
     "Enabled": true
   },
   "107030010070007": {
-    "OriginalText": "そうね。アルキュオネには\nバーナーもついてるじゃない？\n極度や明るさの調整はできるでしょ。",
+    "OriginalText": "そうね。アルキュオネには\nバーナーもついてるじゃない？\n温度や明るさの調整はできるでしょ。",
     "Text": "Yeah. Alcyone has a jet thrusters, right?\nWe can adjust its maximum power.",
     "Enabled": true
   },
@@ -11320,7 +11320,7 @@
     "Enabled": true
   },
   "107030010100001": {
-    "OriginalText": "あたしは荷洋だから！\n箱詰めでもいいくらいよ！",
+    "OriginalText": "あたしは荷物だから！\n箱詰めでもいいくらいよ！",
     "Text": "I'm just a burden, a baggage!\nJust pack me in a box!",
     "Enabled": true
   },
@@ -11485,7 +11485,7 @@
     "Enabled": true
   },
   "107030030050003": {
-    "OriginalText": "パイルも使わずにギガンテスを燥った……？",
+    "OriginalText": "パイルも使わずにギガンテスを操った……？",
     "Text": "Are you controlling the Gigantes without\nusing a Pile...?",
     "Enabled": true
   },
@@ -11610,7 +11610,7 @@
     "Enabled": true
   },
   "107040010070003": {
-    "OriginalText": "ギガンテスを燥って攻撃してきたんです。\n一体どうしてしまったんでしょうか……。",
+    "OriginalText": "ギガンテスを操って攻撃してきたんです。\n一体どうしてしまったんでしょうか……。",
     "Text": "We've been attacked by a controlled Gigantes.\nWhat the heck is happening....",
     "Enabled": true
   },
@@ -11665,7 +11665,7 @@
     "Enabled": true
   },
   "107040010175000": {
-    "OriginalText": "必ず道は柘ける！",
+    "OriginalText": "必ず道は拓ける！",
     "Text": "There's always a way!",
     "Enabled": true
   },
@@ -11710,7 +11710,7 @@
     "Enabled": true
   },
   "107040010250011": {
-    "OriginalText": "暖かい食事が用意できるうちは、\n悲槍感など必要ありませんぞ？",
+    "OriginalText": "暖かい食事が用意できるうちは、\n悲愴感など必要ありませんぞ？",
     "Text": "As long as you have a warm meal,\nyou don't need to feel sad.",
     "Enabled": true
   },
@@ -11780,12 +11780,12 @@
     "Enabled": true
   },
   "107040020090002": {
-    "OriginalText": "見た目似外はここと似てはいるんだな。",
+    "OriginalText": "見た目以外はここと似てはいるんだな。",
     "Text": "It looks similar to here.",
     "Enabled": true
   },
   "107040020100012": {
-    "OriginalText": "最大の収穫は、惑星上には人類のものらしき\n建造洋が存在していることです。\n……人影は見当たらないのですけどね。",
+    "OriginalText": "最大の収穫は、惑星上には人類のものらしき\n建造物が存在していることです。\n……人影は見当たらないのですけどね。",
     "Text": "The greatest result we gathered is the\nexistence of human-like structures.\nBut I can't find any signs of human life.",
     "Enabled": true
   },
@@ -11800,7 +11800,7 @@
     "Enabled": true
   },
   "107040020120012": {
-    "OriginalText": "現在判明してるものとして、\n地上にある都市と、産上にある巨大な塔の\nふたつがあります。",
+    "OriginalText": "現在判明してるものとして、\n地上にある都市と、海上にある巨大な塔の\nふたつがあります。",
     "Text": "There are 2 things that are currently known:\na city on the ground and a huge tower at the\nsea.",
     "Enabled": true
   },
@@ -11860,7 +11860,7 @@
     "Enabled": true
   },
   "107100010040002": {
-    "OriginalText": "山似上って……どうやって登るんだ？",
+    "OriginalText": "山以上って……どうやって登るんだ？",
     "Text": "Climbing a mountain... How do we climb it?",
     "Enabled": true
   },
@@ -12055,7 +12055,7 @@
     "Enabled": true
   },
   "107100040020012": {
-    "OriginalText": "はい！ 艦長達が塔から持ち帰った宝石は、\nどうやらこの[ruby ほし]惑星[/ruby]の人類の\n記録伝置であることが判明しました。",
+    "OriginalText": "はい！ 艦長達が塔から持ち帰った宝石は、\nどうやらこの[ruby ほし]惑星[/ruby]の人類の\n記録装置であることが判明しました。",
     "Text": "Yes! The gemstone that the Captain brought\nback turns out to be a recording device of\nthe humans of this planet.",
     "Enabled": true
   },
@@ -12075,7 +12075,7 @@
     "Enabled": true
   },
   "107100040060012": {
-    "OriginalText": "はい、かつてこの[ruby ほし]惑星[/ruby]に存在していた\n私達とは起装が異なる人類の\n記録が宝石から得られました。",
+    "OriginalText": "はい、かつてこの[ruby ほし]惑星[/ruby]に存在していた\n私達とは起源が異なる人類の\n記録が宝石から得られました。",
     "Text": "Yes, the gemstone reveals a record of the\nhumankind different from us that once existed\non this planet.",
     "Enabled": true
   },
@@ -12525,7 +12525,7 @@
     "Enabled": true
   },
   "107120030020012": {
-    "OriginalText": "研究の成果として、古代人の滅亡に至った歴史を\nイズナさんと一緒にお龍えしますね。",
+    "OriginalText": "研究の成果として、古代人の滅亡に至った歴史を\nイズナさんと一緒にお伝えしますね。",
     "Text": "As a result of my research, I would like to\ntell you about the history of the destruction\nof the ancients with Izuna.",
     "Enabled": true
   },
@@ -12535,7 +12535,7 @@
     "Enabled": true
   },
   "107120030040003": {
-    "OriginalText": "わたしも解読のお手龍いをしたんです！",
+    "OriginalText": "わたしも解読のお手伝いをしたんです！",
     "Text": "I also helped in deciphering it.",
     "Enabled": true
   },
@@ -12545,7 +12545,7 @@
     "Enabled": true
   },
   "107120030060012": {
-    "OriginalText": "逢か昔、この[ruby ほし]惑星[/ruby]は異星人の攻撃を受けて\n星間戦争が始まってしまいました。",
+    "OriginalText": "遙か昔、この[ruby ほし]惑星[/ruby]は異星人の攻撃を受けて\n星間戦争が始まってしまいました。",
     "Text": "A long time ago, this planet was attacked\nby aliens and an interstellar war began.",
     "Enabled": true
   },
@@ -12565,7 +12565,7 @@
     "Enabled": true
   },
   "107120030100003": {
-    "OriginalText": "そして撃しい星間戦争は異星人の撤退で\n決着……この[ruby ほし]惑星[/ruby]は平和を勝ち取ったのです。",
+    "OriginalText": "そして激しい星間戦争は異星人の撤退で\n決着……この[ruby ほし]惑星[/ruby]は平和を勝ち取ったのです。",
     "Text": "And the fierce interstellar war forced the\naliens to withdraw...\nthis planet won and achieved peace.",
     "Enabled": true
   },
@@ -12870,7 +12870,7 @@
     "Enabled": true
   },
   "107210010130012": {
-    "OriginalText": "あの人がパイルも使わずにギガンテスを\n自在に燥っているというのは興味深いです。",
+    "OriginalText": "あの人がパイルも使わずにギガンテスを\n自在に操っているというのは興味深いです。",
     "Text": "It's interesting that he is controlling the\nGigantes at will without using Piles.",
     "Enabled": true
   },
@@ -12900,7 +12900,7 @@
     "Enabled": true
   },
   "107210010190013": {
-    "OriginalText": "ごめんなさい、ルティナさん……。\nわたしはあなた達に残念なことを\nお龍えしなければなりません。",
+    "OriginalText": "ごめんなさい、ルティナさん……。\nわたしはあなた達に残念なことを\nお伝えしなければなりません。",
     "Text": "I'm sorry, Lutina....\nThere's something bad I have to tell you.",
     "Enabled": true
   },
@@ -13075,12 +13075,12 @@
     "Enabled": true
   },
   "107210030010013": {
-    "OriginalText": "ノヴァはもうすぐ完全に覚酷してしまいます。\n止める手段はもうありません……。",
+    "OriginalText": "ノヴァはもうすぐ完全に覚醒してしまいます。\n止める手段はもうありません……。",
     "Text": "Nova will soon be fully awaken.\nThere is no way to stop it anymore....",
     "Enabled": true
   },
   "107210030020001": {
-    "OriginalText": "覚酷ってどういうこと？",
+    "OriginalText": "覚醒ってどういうこと？",
     "Text": "What do you mean about awakening?",
     "Enabled": true
   },
@@ -13090,12 +13090,12 @@
     "Enabled": true
   },
   "107210030040013": {
-    "OriginalText": "とはいえ巨大なノヴァは完全に覚酷するまで\n時間がかかるはずでした。",
+    "OriginalText": "とはいえ巨大なノヴァは完全に覚醒するまで\n時間がかかるはずでした。",
     "Text": "But the Nova would need some time\nto be fully awaken.",
     "Enabled": true
   },
   "107210030050013": {
-    "OriginalText": "ですが、レイヴァンが同化したことで、\nノヴァの覚酷が早まりました。\n……もうお終いです！！",
+    "OriginalText": "ですが、レイヴァンが同化したことで、\nノヴァの覚醒が早まりました。\n……もうお終いです！！",
     "Text": "However, Raven's assimilation hastened\nNova's awakening.\n...It's over",
     "Enabled": true
   },
@@ -13170,7 +13170,7 @@
     "Enabled": true
   },
   "107210030180013": {
-    "OriginalText": "……産に建っている大きな塔の、最上部です。",
+    "OriginalText": "……海に建っている大きな塔の、最上部です。",
     "Text": "At the top of a large spire on the sea.",
     "Enabled": true
   },
@@ -13385,12 +13385,12 @@
     "Enabled": true
   },
   "107210050330013": {
-    "OriginalText": "ノヴァはレイヴァンの意志に触れて、\n覚酷を早めてしまいました。\nもう、時間もありません。",
+    "OriginalText": "ノヴァはレイヴァンの意志に触れて、\n覚醒を早めてしまいました。\nもう、時間もありません。",
     "Text": "Nova touched Raven's mind and hastened\nits awakening.\nWe don't have much time anymore.",
     "Enabled": true
   },
   "107210050340001": {
-    "OriginalText": "ノヴァが覚酷すると、どうなるの？",
+    "OriginalText": "ノヴァが覚醒すると、どうなるの？",
     "Text": "What happens when Nova awakens?",
     "Enabled": true
   },
@@ -13400,7 +13400,7 @@
     "Enabled": true
   },
   "107210050360013": {
-    "OriginalText": "そして[ruby ほし]惑星[/ruby]よりも巨大な怪洋は\n宇宙に解き放たれ、\n次々と文明を破壊していくことでしょう。",
+    "OriginalText": "そして[ruby ほし]惑星[/ruby]よりも巨大な怪物は\n宇宙に解き放たれ、\n次々と文明を破壊していくことでしょう。",
     "Text": "And then it will release itself into the\nspace and will destroy\nplanets one after another.",
     "Enabled": true
   },
@@ -13410,12 +13410,12 @@
     "Enabled": true
   },
   "107210050380003": {
-    "OriginalText": "フォトンを無効化する惑星規物の怪洋なんて、\nどうやって倒せば……？",
+    "OriginalText": "フォトンを無効化する惑星規模の怪物なんて、\nどうやって倒せば……？",
     "Text": "How can we defeat a planetary monster that nullifies photons?",
     "Enabled": true
   },
   "107210050390013": {
-    "OriginalText": "完全覚酷は時間の問題です。\nもう止める方法は……",
+    "OriginalText": "完全覚醒は時間の問題です。\nもう止める方法は……",
     "Text": "It's complete awakening is just a matter of\ntime. I don't think if we can stop it....",
     "Enabled": true
   },
@@ -13435,7 +13435,7 @@
     "Enabled": true
   },
   "107210050430013": {
-    "OriginalText": "ノヴァの覚酷を止める手段はないのです！",
+    "OriginalText": "ノヴァの覚醒を止める手段はないのです！",
     "Text": "But there's no way to stop Nova's awakening.",
     "Enabled": true
   },
@@ -13520,12 +13520,12 @@
     "Enabled": true
   },
   "107220010030001": {
-    "OriginalText": "レイヴァンは[ruby ほし]惑星[/ruby]ギガンテス、ノヴァを\n完全に覚酷させようとしているらしい。",
+    "OriginalText": "レイヴァンは[ruby ほし]惑星[/ruby]ギガンテス、ノヴァを\n完全に覚醒させようとしているらしい。",
     "Text": "Raven seems to be trying to completely\nawaken the planetary Gigantes, Nova.",
     "Enabled": true
   },
   "107220010040001": {
-    "OriginalText": "あんな星の外殻みたいなものが覚酷？\nどうなるのか見当もつかないけど、\nユノが絶望するくらい状況は悪い。",
+    "OriginalText": "あんな星の外殻みたいなものが覚醒？\nどうなるのか見当もつかないけど、\nユノが絶望するくらい状況は悪い。",
     "Text": "Is the shell of such a planet will awaken?\nWe have no idea what will happen,\nbut it looks bad that Juno is losing hope.",
     "Enabled": true
   },
@@ -13565,7 +13565,7 @@
     "Enabled": true
   },
   "108100010030003": {
-    "OriginalText": "かなり大きな建洋がありますね。",
+    "OriginalText": "かなり大きな建物がありますね。",
     "Text": "There is a pretty big building over there.",
     "Enabled": true
   },
@@ -13600,7 +13600,7 @@
     "Enabled": true
   },
   "108100020050003": {
-    "OriginalText": "そうですね。機械のような洋もありますし。",
+    "OriginalText": "そうですね。機械のような物もありますし。",
     "Text": "I agree.\nThere are also things like machines.",
     "Enabled": true
   },
@@ -13715,7 +13715,7 @@
     "Enabled": true
   },
   "108100025180001": {
-    "OriginalText": "そうだね。実洋は持ち帰れないけど、\n図面は持って帰れるもんね。",
+    "OriginalText": "そうだね。実物は持ち帰れないけど、\n図面は持って帰れるもんね。",
     "Text": "Yeah. We can't bring the real thing home,\nbut we can bring the blueprint instead.",
     "Enabled": true
   },
@@ -13795,7 +13795,7 @@
     "Enabled": true
   },
   "108110010160012": {
-    "OriginalText": "はい。ギガンテスが燥縦するものだったなら、\n問題が発生したら外部からコントロールしようと\n考えるのは自然な発想だといえます。",
+    "OriginalText": "はい。ギガンテスが操縦するものだったなら、\n問題が発生したら外部からコントロールしようと\n考えるのは自然な発想だといえます。",
     "Text": "Yes. If the Gigantes was operated, it would\nbe natural to try to control it from the\noutside when a problem occurs.",
     "Enabled": true
   },
@@ -13805,7 +13805,7 @@
     "Enabled": true
   },
   "108110010180002": {
-    "OriginalText": "確かに、あれをギガンテスにぶっ刺したら\n燥るどころかただの串刺しだぜ？",
+    "OriginalText": "確かに、あれをギガンテスにぶっ刺したら\n操るどころかただの串刺しだぜ？",
     "Text": "You're right, if you drive it into the\nGigantes, it will pierce through it instead\nof controlling it, right?",
     "Enabled": true
   },
@@ -13915,12 +13915,12 @@
     "Enabled": true
   },
   "108110010365000": {
-    "OriginalText": "素材は足りてる？",
+    "OriginalText": "素村は足りてる？",
     "Text": "Do we have enough materials?",
     "Enabled": true
   },
   "108110010370012": {
-    "OriginalText": "素材はこれから集めることになります。\nですが惑星本体もありますし、\n調達は可能だと思われます。",
+    "OriginalText": "素村はこれから集めることになります。\nですが惑星本体もありますし、\n調達は可能だと思われます。",
     "Text": "Materials will be gathered starting now.\nHowever, the real thing is out there,\nwe can try to procure it.",
     "Enabled": true
   },
@@ -13985,7 +13985,7 @@
     "Enabled": true
   },
   "108120010060009": {
-    "OriginalText": "シャロンが設計して、オレが仕上げたんだ。\n出来には何の心配もねえよ！\n問題があるとすれば発射伝置の方だな。",
+    "OriginalText": "シャロンが設計して、オレが仕上げたんだ。\n出来には何の心配もねえよ！\n問題があるとすれば発射装置の方だな。",
     "Text": "It was designed by Sharon and finished by me.\nDon't worry about it for now! The problem\nwith the launching device was solved.",
     "Enabled": true
   },
@@ -14015,7 +14015,7 @@
     "Enabled": true
   },
   "108120010120003": {
-    "OriginalText": "ヒュペリオンさんも手龍ってましたっけ？",
+    "OriginalText": "ヒュペリオンさんも手伝ってましたっけ？",
     "Text": "Did Hyperion also help?",
     "Enabled": true
   },
@@ -14080,12 +14080,12 @@
     "Enabled": true
   },
   "108120015040006": {
-    "OriginalText": "そこを狙って大型パイルを発射伝置で射出し、\nグランリンクを発生させる。",
+    "OriginalText": "そこを狙って大型パイルを発射装置で射出し、\nグランリンクを発生させる。",
     "Text": "While aiming at that, the Large Pile is\nfired from the launcher to generate a\nGran Link.",
     "Enabled": true
   },
   "108120015050012": {
-    "OriginalText": "大型パイルを現地に運ぶのは難しいですからね。\n発射伝置はカリストさんが建設してくれました。",
+    "OriginalText": "大型パイルを現地に運ぶのは難しいですからね。\n発射装置はカリストさんが建設してくれました。",
     "Text": "It's difficult to bring the Large Pile\nto the site.\nSo, Callisto built a launcher.",
     "Enabled": true
   },
@@ -14580,7 +14580,7 @@
     "Enabled": true
   },
   "108120030140009": {
-    "OriginalText": "パイル発射準備、整ったみたいだぞ！\n誘導[ruby シナ]信号[/ruby]の発信伝置はちゃんと動くのか？",
+    "OriginalText": "パイル発射準備、整ったみたいだぞ！\n誘導[ruby シナ]信号[/ruby]の発信装置はちゃんと動くのか？",
     "Text": "It looks like we're ready to launch the Pile!\nDoes the guidance signal transmitter working\nproperly?",
     "Enabled": true
   },
@@ -14600,7 +14600,7 @@
     "Enabled": true
   },
   "108120040030012": {
-    "OriginalText": "まだ変化は観測されていません。\n規物が規物ですし、これからですね。",
+    "OriginalText": "まだ変化は観測されていません。\n規模が規模ですし、これからですね。",
     "Text": "No changes have been observed yet.",
     "Enabled": true
   },
@@ -14620,7 +14620,7 @@
     "Enabled": true
   },
   "108120040070012": {
-    "OriginalText": "復雑な想いは私にもあります。",
+    "OriginalText": "複雑な想いは私にもあります。",
     "Text": "I have much remorseful feeling.",
     "Enabled": true
   },
@@ -14680,7 +14680,7 @@
     "Enabled": true
   },
   "108120040160007": {
-    "OriginalText": "艦長の手腕にかかってるわよ？\n今まで似上に気を引き締めなさい。",
+    "OriginalText": "艦長の手腕にかかってるわよ？\n今まで以上に気を引き締めなさい。",
     "Text": "This is all because of our Captain, right?\nSo let's brace ourselves from now on.",
     "Enabled": true
   },
@@ -14840,7 +14840,7 @@
     "Enabled": true
   },
   "108140020030010": {
-    "OriginalText": "よう。艦の撃務から解放されて、少し太ったか？",
+    "OriginalText": "よう。艦の激務から解放されて、少し太ったか？",
     "Text": "Yo. Did you get a little fat after being\naway from the ship?",
     "Enabled": true
   },
@@ -15115,7 +15115,7 @@
     "Enabled": true
   },
   "108140040110012": {
-    "OriginalText": "想像似上に[ruby ほし]惑星[/ruby]ギガンテスは抵抗力が高い、\nということになるでしょうか。",
+    "OriginalText": "想像以上に[ruby ほし]惑星[/ruby]ギガンテスは抵抗力が高い、\nということになるでしょうか。",
     "Text": "Does it mean the Planetary Gigantes has\nhigher resistance than we anticipated.",
     "Enabled": true
   },
@@ -15150,7 +15150,7 @@
     "Enabled": true
   },
   "108140040180012": {
-    "OriginalText": "何か決定打になる洋があればいいのですが……。",
+    "OriginalText": "何か決定打になる物があればいいのですが……。",
     "Text": "If only there's something that can help us...",
     "Enabled": true
   },
@@ -15505,7 +15505,7 @@
     "Enabled": true
   },
   "108150040250012": {
-    "OriginalText": "ジェネレーターですから、グランの麗度が\n特別に高い場所だと思われます。\nそれを探しているのですが……。",
+    "OriginalText": "ジェネレーターですから、グランの濃度が\n特別に高い場所だと思われます。\nそれを探しているのですが……。",
     "Text": "Since it is a generator, it should be a place\nwhere Gran density is particularly high.\nI will search for it....",
     "Enabled": true
   },
@@ -15540,7 +15540,7 @@
     "Enabled": true
   },
   "108150040320003": {
-    "OriginalText": "わたしも掛け持ちで食堂とラボを手龍っていたら\nオーバーワークはダメですって怒られました。",
+    "OriginalText": "わたしも掛け持ちで食堂とラボを手伝っていたら\nオーバーワークはダメですって怒られました。",
     "Text": "Well, overworking is not effective in\nRestaurant and Lab.",
     "Enabled": true
   },
@@ -15550,7 +15550,7 @@
     "Enabled": true
   },
   "108150040340002": {
-    "OriginalText": "オレも５時間似上のハードトレーニングは\n体によくないって止められたよ。",
+    "OriginalText": "オレも５時間以上のハードトレーニングは\n体によくないって止められたよ。",
     "Text": "I take a break every 5 hours because\nit's bad for your body not to.",
     "Enabled": true
   },
@@ -15665,7 +15665,7 @@
     "Enabled": true
   },
   "109010010070012": {
-    "OriginalText": "ノヴァが覚酷しつつある……そのせいで\n大型パイルのグランリンク反応が\n予想よりも上がらなかったのですね。",
+    "OriginalText": "ノヴァが覚醒しつつある……そのせいで\n大型パイルのグランリンク反応が\n予想よりも上がらなかったのですね。",
     "Text": "Nova is awakening... Because of that,\nthe Gran Link reaction of the Large Pile did\nnot go up as expected.",
     "Enabled": true
   },
@@ -15675,17 +15675,17 @@
     "Enabled": true
   },
   "109010010090007": {
-    "OriginalText": "覚酷前と今では、\nあまり変化が感じられないのだけど。",
+    "OriginalText": "覚醒前と今では、\nあまり変化が感じられないのだけど。",
     "Text": "I don't think it will make a difference.",
     "Enabled": true
   },
   "109010010100012": {
-    "OriginalText": "完全覚酷するまで時間がかかるからでしょう。",
+    "OriginalText": "完全覚醒するまで時間がかかるからでしょう。",
     "Text": "Probably because it's still need time to be\nfully awaken.",
     "Enabled": true
   },
   "109010010110013": {
-    "OriginalText": "ですが、レイヴァンがノヴァと同化したことで、\n覚酷が早まってしまったのです……。",
+    "OriginalText": "ですが、レイヴァンがノヴァと同化したことで、\n覚醒が早まってしまったのです……。",
     "Text": "However, Raven's assimilation with Nova\nhastened it's awakening....",
     "Enabled": true
   },
@@ -15920,7 +15920,7 @@
     "Enabled": true
   },
   "109010020060009": {
-    "OriginalText": "見ての通り、小型だが威力は大型パイルと同じ、\nいやそれ似上のものが出せるはずだ。",
+    "OriginalText": "見ての通り、小型だが威力は大型パイルと同じ、\nいやそれ以上のものが出せるはずだ。",
     "Text": "Even it looks small it has the same power\nas the Large Pile.",
     "Enabled": true
   },
@@ -15990,7 +15990,7 @@
     "Enabled": true
   },
   "109010030080013": {
-    "OriginalText": "その事実をわたしは奇跡という言葉似外で\n表現することができません。",
+    "OriginalText": "その事実をわたしは奇跡という言葉以外で\n表現することができません。",
     "Text": "I can't deny the fact that it is a miracle.",
     "Enabled": true
   },
@@ -16020,7 +16020,7 @@
     "Enabled": true
   },
   "109010030135000": {
-    "OriginalText": "それ似上、言わなくていい",
+    "OriginalText": "それ以上、言わなくていい",
     "Text": "Please don't say that.",
     "Enabled": true
   },
@@ -16100,7 +16100,7 @@
     "Enabled": true
   },
   "109020010030005": {
-    "OriginalText": "ノヴァの意志とは、穏やかなものだな。\n撃しさも、苦しさも感じない……。\n波ひとつ立たぬ水面のようだ。",
+    "OriginalText": "ノヴァの意志とは、穏やかなものだな。\n激しさも、苦しさも感じない……。\n波ひとつ立たぬ水面のようだ。",
     "Text": "Nova's will is calm.\nI don't feel any pain....\nIt feels like a sea with no waves.",
     "Enabled": true
   },
@@ -16210,7 +16210,7 @@
     "Enabled": true
   },
   "109020030040013": {
-    "OriginalText": "コア内部というグランの既ちた場で\n勝つことができたのは、\nまだノヴァも完全ではないということ……！",
+    "OriginalText": "コア内部というグランの満ちた場で\n勝つことができたのは、\nまだノヴァも完全ではないということ……！",
     "Text": "The fact that we won, that means Nova is\nnot complete yet...!",
     "Enabled": true
   },
@@ -16235,7 +16235,7 @@
     "Enabled": true
   },
   "109020030090005": {
-    "OriginalText": "力が既ちていく……完全覚酷は近い。\nふふ……ふふふふふ……。",
+    "OriginalText": "力が満ちていく……完全覚醒は近い。\nふふ……ふふふふふ……。",
     "Text": "It's power is rising...\nIt's about to be awaken.\nHahaha... hahahaha.....",
     "Enabled": true
   },
@@ -16260,7 +16260,7 @@
     "Enabled": true
   },
   "109030010010013": {
-    "OriginalText": "レイヴァン、聞こえていますか？\nノヴァが完全覚酷していない今なら、\nまだわたしの声が聞こえるはずです！",
+    "OriginalText": "レイヴァン、聞こえていますか？\nノヴァが完全覚醒していない今なら、\nまだわたしの声が聞こえるはずです！",
     "Text": "Raven, can you hear me?\nNow that Nova is not yet fully awake,\nyou should be able to hear my voice!",
     "Enabled": true
   },
@@ -16290,7 +16290,7 @@
     "Enabled": true
   },
   "109030010070005": {
-    "OriginalText": "だがそれもすでに大いなる意志の産に溶けた。\n今は……ただ来るべき[ruby とき]刻[/ruby]を待つのみ。",
+    "OriginalText": "だがそれもすでに大いなる意志の海に溶けた。\n今は……ただ来るべき[ruby とき]刻[/ruby]を待つのみ。",
     "Text": "But that too is melted in the\nsea of great will.\nNow... let's just wait for its coming.",
     "Enabled": true
   },
@@ -16385,7 +16385,7 @@
     "Enabled": true
   },
   "109030040040013": {
-    "OriginalText": "……ノヴァが、覚酷してしまいました……！",
+    "OriginalText": "……ノヴァが、覚醒してしまいました……！",
     "Text": "...Nova has awakened...!",
     "Enabled": true
   },

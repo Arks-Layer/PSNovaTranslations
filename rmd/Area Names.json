@@ -1,16 +1,16 @@
 {
   "790001": {
-    "OriginalText": "銅の荒野 1",
+    "OriginalText": "鋼の荒野 1",
     "Text": "Steel Wastelands 1",
     "Enabled": true
   },
   "790002": {
-    "OriginalText": "銅の荒野 2",
+    "OriginalText": "鋼の荒野 2",
     "Text": "Steel Wastelands 2",
     "Enabled": true
   },
   "790003": {
-    "OriginalText": "銅の荒野 3",
+    "OriginalText": "鋼の荒野 3",
     "Text": "Steel Wastelands 3",
     "Enabled": true
   },
@@ -155,7 +155,7 @@
     "Enabled": true
   },
   "790032": {
-    "OriginalText": "銅の荒野",
+    "OriginalText": "鋼の荒野",
     "Text": "Steel Wastelands",
     "Enabled": true
   },

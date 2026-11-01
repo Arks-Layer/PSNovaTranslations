@@ -355,7 +355,7 @@
     "Enabled": true
   },
   "510000": {
-    "OriginalText": "熱血倣",
+    "OriginalText": "熱血漢",
     "Text": "Hot-blooded Imitator",
     "Enabled": true
   },
@@ -390,7 +390,7 @@
     "Enabled": true
   },
   "510034": {
-    "OriginalText": "天然缶護娘",
+    "OriginalText": "天然看護娘",
     "Text": "",
     "Enabled": false
   },
@@ -460,7 +460,7 @@
     "Enabled": true
   },
   "510048": {
-    "OriginalText": "悲源のヒロイン",
+    "OriginalText": "悲劇のヒロイン",
     "Text": "Heroine of Grief",
     "Enabled": true
   },
@@ -610,7 +610,7 @@
     "Enabled": true
   },
   "510078": {
-    "OriginalText": "鉤り性",
+    "OriginalText": "凝り性",
     "Text": "",
     "Enabled": false
   },
@@ -640,7 +640,7 @@
     "Enabled": true
   },
   "510084": {
-    "OriginalText": "缶板娘",
+    "OriginalText": "看板娘",
     "Text": "Show Girl",
     "Enabled": true
   },
@@ -775,7 +775,7 @@
     "Enabled": true
   },
   "510111": {
-    "OriginalText": "弔人",
+    "OriginalText": "浪人",
     "Text": "Mourner",
     "Enabled": true
   },
@@ -825,7 +825,7 @@
     "Enabled": true
   },
   "510121": {
-    "OriginalText": "熱血倣",
+    "OriginalText": "熱血漢",
     "Text": "Hot-blooded",
     "Enabled": true
   },
@@ -930,7 +930,7 @@
     "Enabled": true
   },
   "510142": {
-    "OriginalText": "アークスの知恵麦",
+    "OriginalText": "アークスの知恵袋",
     "Text": "ARKS Bag of Wisdom",
     "Enabled": true
   },
@@ -995,7 +995,7 @@
     "Enabled": true
   },
   "510155": {
-    "OriginalText": "頁戦錬磨",
+    "OriginalText": "百戦錬磨",
     "Text": "",
     "Enabled": false
   },
@@ -1020,7 +1020,7 @@
     "Enabled": true
   },
   "510160": {
-    "OriginalText": "氷静沈着",
+    "OriginalText": "冷静沈着",
     "Text": "Level Headed",
     "Enabled": true
   },
@@ -1035,7 +1035,7 @@
     "Enabled": true
   },
   "510163": {
-    "OriginalText": "鑽動不審",
+    "OriginalText": "挙動不審",
     "Text": "",
     "Enabled": false
   },
@@ -1045,7 +1045,7 @@
     "Enabled": true
   },
   "510165": {
-    "OriginalText": "自由殿達",
+    "OriginalText": "自由闊達",
     "Text": "Free and Easy",
     "Enabled": true
   },
@@ -1075,7 +1075,7 @@
     "Enabled": true
   },
   "510171": {
-    "OriginalText": "大頬不敵",
+    "OriginalText": "大胆不敵",
     "Text": "Daredevil",
     "Enabled": true
   },
@@ -1095,7 +1095,7 @@
     "Enabled": true
   },
   "510175": {
-    "OriginalText": "飼目秀魅",
+    "OriginalText": "眉目秀麗",
     "Text": "Handsome",
     "Enabled": true
   },
@@ -1240,7 +1240,7 @@
     "Enabled": true
   },
   "520022": {
-    "OriginalText": "泣きβ",
+    "OriginalText": "泣き虫",
     "Text": "Crybaby",
     "Enabled": true
   },
@@ -1325,7 +1325,7 @@
     "Enabled": true
   },
   "520042": {
-    "OriginalText": "動洋博土",
+    "OriginalText": "動物博土",
     "Text": "",
     "Enabled": false
   },
@@ -1395,7 +1395,7 @@
     "Enabled": true
   },
   "520061": {
-    "OriginalText": "熱血倣",
+    "OriginalText": "熱血漢",
     "Text": "Hot-blooded",
     "Enabled": true
   },
@@ -1405,7 +1405,7 @@
     "Enabled": true
   },
   "520063": {
-    "OriginalText": "氷静",
+    "OriginalText": "冷静",
     "Text": "Calm",
     "Enabled": true
   },
@@ -1495,7 +1495,7 @@
     "Enabled": true
   },
   "520086": {
-    "OriginalText": "劇属性",
+    "OriginalText": "氷属性",
     "Text": "Ice Attribute",
     "Enabled": true
   },
@@ -1540,7 +1540,7 @@
     "Enabled": true
   },
   "520095": {
-    "OriginalText": "堅洋",
+    "OriginalText": "堅物",
     "Text": "Strait-laced Person",
     "Enabled": true
   },
@@ -1660,12 +1660,12 @@
     "Enabled": false
   },
   "520130": {
-    "OriginalText": "龍説の鍛冶職人",
+    "OriginalText": "伝説の鍛冶職人",
     "Text": "",
     "Enabled": false
   },
   "520135": {
-    "OriginalText": "丘の防具職人",
+    "OriginalText": "錆の防具職人",
     "Text": "",
     "Enabled": false
   },
@@ -1695,32 +1695,32 @@
     "Enabled": true
   },
   "520147": {
-    "OriginalText": "肢人見習い",
+    "OriginalText": "商人見習い",
     "Text": "",
     "Enabled": false
   },
   "520148": {
-    "OriginalText": "肢売上手",
+    "OriginalText": "商売上手",
     "Text": "",
     "Enabled": false
   },
   "520149": {
-    "OriginalText": "注目株の肢人",
+    "OriginalText": "注目株の商人",
     "Text": "",
     "Enabled": false
   },
   "520150": {
-    "OriginalText": "肢売の神様",
+    "OriginalText": "商売の神様",
     "Text": "",
     "Enabled": false
   },
   "520155": {
-    "OriginalText": "仮貸い担当",
+    "OriginalText": "仮縫い担当",
     "Text": "",
     "Enabled": false
   },
   "520156": {
-    "OriginalText": "裁貸上手",
+    "OriginalText": "裁縫上手",
     "Text": "",
     "Enabled": false
   },
@@ -1955,27 +1955,27 @@
     "Enabled": true
   },
   "520216": {
-    "OriginalText": "Gブースターランク1適応地路",
+    "OriginalText": "Gブースターランク1適応地区",
     "Text": "",
     "Enabled": false
   },
   "520217": {
-    "OriginalText": "Gブースターランク2適応地路",
+    "OriginalText": "Gブースターランク2適応地区",
     "Text": "",
     "Enabled": false
   },
   "520218": {
-    "OriginalText": "Gブースターランク3適応地路",
+    "OriginalText": "Gブースターランク3適応地区",
     "Text": "",
     "Enabled": false
   },
   "520219": {
-    "OriginalText": "Gブースターランク4適応地路",
+    "OriginalText": "Gブースターランク4適応地区",
     "Text": "",
     "Enabled": false
   },
   "520220": {
-    "OriginalText": "Gブースターランク5適応地路",
+    "OriginalText": "Gブースターランク5適応地区",
     "Text": "",
     "Enabled": false
   },
@@ -2035,27 +2035,27 @@
     "Enabled": false
   },
   "520232": {
-    "OriginalText": "I探索伝置ランク1適応地路",
+    "OriginalText": "I探索装置ランク1適応地区",
     "Text": "",
     "Enabled": false
   },
   "520233": {
-    "OriginalText": "I探索伝置ランク2適応地路",
+    "OriginalText": "I探索装置ランク2適応地区",
     "Text": "",
     "Enabled": false
   },
   "520234": {
-    "OriginalText": "I探索伝置ランク3適応地路",
+    "OriginalText": "I探索装置ランク3適応地区",
     "Text": "",
     "Enabled": false
   },
   "520235": {
-    "OriginalText": "I探索伝置ランク4適応地路",
+    "OriginalText": "I探索装置ランク4適応地区",
     "Text": "",
     "Enabled": false
   },
   "520236": {
-    "OriginalText": "I探索伝置ランク5適応地路",
+    "OriginalText": "I探索装置ランク5適応地区",
     "Text": "",
     "Enabled": false
   },
@@ -2120,27 +2120,27 @@
     "Enabled": true
   },
   "520249": {
-    "OriginalText": "Eレーダーランク1適応地路",
+    "OriginalText": "Eレーダーランク1適応地区",
     "Text": "",
     "Enabled": false
   },
   "520250": {
-    "OriginalText": "Eレーダーランク2適応地路",
+    "OriginalText": "Eレーダーランク2適応地区",
     "Text": "",
     "Enabled": false
   },
   "520251": {
-    "OriginalText": "Eレーダーランク3適応地路",
+    "OriginalText": "Eレーダーランク3適応地区",
     "Text": "",
     "Enabled": false
   },
   "520252": {
-    "OriginalText": "Eレーダーランク4適応地路",
+    "OriginalText": "Eレーダーランク4適応地区",
     "Text": "",
     "Enabled": false
   },
   "520253": {
-    "OriginalText": "Eレーダーランク5適応地路",
+    "OriginalText": "Eレーダーランク5適応地区",
     "Text": "",
     "Enabled": false
   },
@@ -2175,7 +2175,7 @@
     "Enabled": false
   },
   "520260": {
-    "OriginalText": "B観測伝置支援効果+0",
+    "OriginalText": "B観測装置支援効果+0",
     "Text": "",
     "Enabled": false
   },
@@ -2540,7 +2540,7 @@
     "Enabled": false
   },
   "530066": {
-    "OriginalText": "獲洋が大きいほど\n狩り甲斐があるってものだ。",
+    "OriginalText": "獲物が大きいほど\n狩り甲斐があるってものだ。",
     "Text": "",
     "Enabled": false
   },
@@ -2740,7 +2740,7 @@
     "Enabled": false
   },
   "530106": {
-    "OriginalText": "まっ、期待似上の働きはするで！",
+    "OriginalText": "まっ、期待以上の働きはするで！",
     "Text": "",
     "Enabled": false
   },
@@ -3070,7 +3070,7 @@
     "Enabled": false
   },
   "530172": {
-    "OriginalText": "肢才には覚えがあるぜ。",
+    "OriginalText": "商才には覚えがあるぜ。",
     "Text": "",
     "Enabled": false
   },
@@ -3240,7 +3240,7 @@
     "Enabled": false
   },
   "530206": {
-    "OriginalText": "フフ……「黒下」とも呼ばれる吾堰の力\n存分に見せてやろう！\n……言っておくが、敵ではないぞ",
+    "OriginalText": "フフ……「黒達下」とも呼ばれる吾輩の力\n存分に見せてやろう！\n……言っておくが、敵ではないぞ",
     "Text": "",
     "Enabled": false
   },
@@ -3265,7 +3265,7 @@
     "Enabled": false
   },
   "530211": {
-    "OriginalText": "言葉はいらぬ。\n戦土は、ただ挙で語ればよい。",
+    "OriginalText": "言葉はいらぬ。\n戦土は、ただ拳で語ればよい。",
     "Text": "",
     "Enabled": false
   },
@@ -3340,7 +3340,7 @@
     "Enabled": false
   },
   "530226": {
-    "OriginalText": "こんな状況だし、手龍ってあげるよ。\nあんただけじゃ心配だからね。",
+    "OriginalText": "こんな状況だし、手伝ってあげるよ。\nあんただけじゃ心配だからね。",
     "Text": "",
     "Enabled": false
   },
@@ -3395,7 +3395,7 @@
     "Enabled": false
   },
   "530237": {
-    "OriginalText": "戦闘に参加したら、\nせっかくのおにゅーの海服が汚れちゃうわ。",
+    "OriginalText": "戦闘に参加したら、\nせっかくのおにゅーの洋服が汚れちゃうわ。",
     "Text": "",
     "Enabled": false
   },
@@ -3410,7 +3410,7 @@
     "Enabled": false
   },
   "530240": {
-    "OriginalText": "私の戦闘経験を参考にして作った\n防具を伝備してみないか？",
+    "OriginalText": "私の戦闘経験を参考にして作った\n防具を装備してみないか？",
     "Text": "",
     "Enabled": false
   },
@@ -3485,7 +3485,7 @@
     "Enabled": false
   },
   "530255": {
-    "OriginalText": "何か手龍えることはありますか？\n遠慮しなくていいですよ！",
+    "OriginalText": "何か手伝えることはありますか？\n遠慮しなくていいですよ！",
     "Text": "",
     "Enabled": false
   },
@@ -3535,7 +3535,7 @@
     "Enabled": false
   },
   "530265": {
-    "OriginalText": "私のツインマシンガン、丘びついていないかしら？\n早く確かめに出たいわね。",
+    "OriginalText": "私のツインマシンガン、錆びついていないかしら？\n早く確かめに出たいわね。",
     "Text": "",
     "Enabled": false
   },
@@ -3580,7 +3580,7 @@
     "Enabled": false
   },
   "530274": {
-    "OriginalText": "何か手龍えることない？\nどんと任せてよ！",
+    "OriginalText": "何か手伝えることない？\nどんと任せてよ！",
     "Text": "",
     "Enabled": false
   },
@@ -3615,7 +3615,7 @@
     "Enabled": false
   },
   "530281": {
-    "OriginalText": "いい眼をしているな。\nお前となら、互いに刺撃し合える\nいい関係になれそうだ。",
+    "OriginalText": "いい眼をしているな。\nお前となら、互いに刺激し合える\nいい関係になれそうだ。",
     "Text": "",
     "Enabled": false
   },
@@ -3635,7 +3635,7 @@
     "Enabled": false
   },
   "530285": {
-    "OriginalText": "雷の攻撃が得意なの。\n吸引力が私の跡力よ！",
+    "OriginalText": "雷の攻撃が得意なの。\n吸引力が私の魅力よ！",
     "Text": "",
     "Enabled": false
   },
@@ -3680,7 +3680,7 @@
     "Enabled": false
   },
   "530294": {
-    "OriginalText": "友達からは癒し系だって言われるので、\n先堰たちを癒してあげたいですね。",
+    "OriginalText": "友達からは癒し系だって言われるので、\n先輩たちを癒してあげたいですね。",
     "Text": "",
     "Enabled": false
   },
@@ -3725,7 +3725,7 @@
     "Enabled": false
   },
   "530303": {
-    "OriginalText": "ノッコだよ～！\nソード絶杓練習中、パートナー絶杓集集中だよ～！",
+    "OriginalText": "ノッコだよ～！\nソード絶賛練習中、パートナー絶賛募集中だよ～！",
     "Text": "",
     "Enabled": false
   },
@@ -3780,7 +3780,7 @@
     "Enabled": false
   },
   "530314": {
-    "OriginalText": "新武器だってお手の洋だよ！",
+    "OriginalText": "新武器だってお手の物だよ！",
     "Text": "",
     "Enabled": false
   },
@@ -3830,7 +3830,7 @@
     "Enabled": false
   },
   "530324": {
-    "OriginalText": "これでもお裁貸が得意なんだよ。",
+    "OriginalText": "これでもお裁縫が得意なんだよ。",
     "Text": "",
     "Enabled": false
   },
@@ -3925,7 +3925,7 @@
     "Enabled": false
   },
   "530343": {
-    "OriginalText": "お前が望むなら、\n助力は憎しまん。",
+    "OriginalText": "お前が望むなら、\n助力は惜しまん。",
     "Text": "",
     "Enabled": false
   },
@@ -3990,7 +3990,7 @@
     "Enabled": false
   },
   "530356": {
-    "OriginalText": "食堂に配置してくれたら、\n美味しいご咲作っちゃうヨ！\nあっ、毎木日発売のファミ通もよろしく★",
+    "OriginalText": "食堂に配置してくれたら、\n美味しいご飯作っちゃうヨ！\nあっ、毎木日発売のファミ通もよろしく★",
     "Text": "",
     "Enabled": false
   },
@@ -4055,7 +4055,7 @@
     "Enabled": false
   },
   "530369": {
-    "OriginalText": "祟分長く眠っていたので\n早く武器を手にしたいですね。",
+    "OriginalText": "随分長く眠っていたので\n早く武器を手にしたいですね。",
     "Text": "",
     "Enabled": false
   },
@@ -4080,12 +4080,12 @@
     "Enabled": false
   },
   "530374": {
-    "OriginalText": "洋資が不足しているようですね。\nでも、ないものは作るまでです。",
+    "OriginalText": "物資が不足しているようですね。\nでも、ないものは作るまでです。",
     "Text": "",
     "Enabled": false
   },
   "530375": {
-    "OriginalText": "勝手な行動も、ある程度は推均するぞ。",
+    "OriginalText": "勝手な行動も、ある程度は推奨するぞ。",
     "Text": "",
     "Enabled": false
   },
@@ -4245,7 +4245,7 @@
     "Enabled": false
   },
   "530407": {
-    "OriginalText": "強敵の旺いがします。\n充分な備えを持って、戦いにきましょう。",
+    "OriginalText": "強敵の匂いがします。\n充分な備えを持って、戦いにきましょう。",
     "Text": "",
     "Enabled": false
   },
@@ -4315,7 +4315,7 @@
     "Enabled": false
   },
   "530421": {
-    "OriginalText": "細かい作業は苦手だが、\n大洋狩りならば、任せておくれ。",
+    "OriginalText": "細かい作業は苦手だが、\n大物狩りならば、任せておくれ。",
     "Text": "",
     "Enabled": false
   },
@@ -4400,7 +4400,7 @@
     "Enabled": false
   },
   "530438": {
-    "OriginalText": "あなたが私の力を羞う未来は\n見えていたわ。",
+    "OriginalText": "あなたが私の力を乞う未来は\n見えていたわ。",
     "Text": "",
     "Enabled": false
   },

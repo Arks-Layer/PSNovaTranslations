@@ -60,7 +60,7 @@
     "Enabled": true
   },
   "370012": {
-    "OriginalText": "グランピース(劇属性)",
+    "OriginalText": "グランピース(氷属性)",
     "Text": "Gran Piece (Ice)",
     "Enabled": true
   },
@@ -140,7 +140,7 @@
     "Enabled": true
   },
   "380010": {
-    "OriginalText": "グランのエネルギーを蓄えた鉱物結晶。\n未知の惑星マキアにおいて、あらゆる\n物資に加工が可能な唯一の材料となる。",
+    "OriginalText": "グランのエネルギーを蓄えた鉱物結晶。\n未知の惑星マキアにおいて、あらゆる\n物資に加工が可能な唯一の村料となる。",
     "Text": "A Crystaline Ore that contains Gran\nEnergy. Native to Mahkia, it can be\nprocessed into materials for equipment.",
     "Enabled": true
   },

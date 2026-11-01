@@ -120,12 +120,12 @@
     "Enabled": false
   },
   "690001": {
-    "OriginalText": "上空に発射したアグリオスの主砲が\n広範囲に降り注ぎ、散開する敵に\n中規物のダメージを与える。",
+    "OriginalText": "上空に発射したアグリオスの主砲が\n広範囲に降り注ぎ、散開する敵に\n中規模のダメージを与える。",
     "Text": "Agrios fires its main guns into the sky,\ndoing moderate damage to all enemies in\na wide area.",
     "Enabled": true
   },
   "690002": {
-    "OriginalText": "践直に賜ね飛ぶエウリュードが着地時に\n衝撃波を発し、周囲の敵をなぎ払い\n大ダメージを与える。",
+    "OriginalText": "垂直に跳ね飛ぶエウリュードが着地時に\n衝撃波を発し、周囲の敵をなぎ払い\n大ダメージを与える。",
     "Text": "Eurude jumps into the air. When hitting\nthe ground, it emits a shockwave that\ngreatly damages enemies.",
     "Enabled": true
   },
@@ -155,12 +155,12 @@
     "Enabled": true
   },
   "690008": {
-    "OriginalText": "デェフキュオネが回転しながら\n周囲に縞幕弾を投下させ、\n敵をブラインド状態にする。",
+    "OriginalText": "デェフキュオネが回転しながら\n周囲に煙幕弾を投下させ、\n敵をブラインド状態にする。",
     "Text": "Defcyone spins and drops a barrage,\ngiving blind status to the enemies.",
     "Enabled": true
   },
   "690009": {
-    "OriginalText": "上空に発射したアルテイオスの主砲が\n広範囲に降り注ぎ、周辺のエネミーに\n中規物のダメージを与える。",
+    "OriginalText": "上空に発射したアルテイオスの主砲が\n広範囲に降り注ぎ、周辺のエネミーに\n中規模のダメージを与える。",
     "Text": "Alteios fires its main weapons to the\nsky and pours in a wide area, damaging\nall the enemies around.",
     "Enabled": true
   },

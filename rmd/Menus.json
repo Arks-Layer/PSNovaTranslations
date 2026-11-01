@@ -50,7 +50,7 @@
     "Enabled": true
   },
   "10711": {
-    "OriginalText": "未伝備優先",
+    "OriginalText": "未装備優先",
     "Text": "Equippable",
     "Enabled": true
   },
@@ -255,7 +255,7 @@
     "Enabled": true
   },
   "10910": {
-    "OriginalText": "ゲームを終了してタイトルに戻ります。\n\n[a 03]前回のセーブ似降のプレイ情報が失われますが、\nよろしいですか？[b]\n",
+    "OriginalText": "ゲームを終了してタイトルに戻ります。\n\n[a 03]前回のセーブ以降のプレイ情報が失われますが、\nよろしいですか？[b]\n",
     "Text": "Exit the game and return to the title screen?\n\n[a 03]Any progress since your last save will be lost![b]",
     "Enabled": true
   },
@@ -295,7 +295,7 @@
     "Enabled": true
   },
   "11003": {
-    "OriginalText": "伝備",
+    "OriginalText": "装備",
     "Text": "Equipment",
     "Enabled": true
   },
@@ -475,7 +475,7 @@
     "Enabled": true
   },
   "20105": {
-    "OriginalText": "劇属性テクニック",
+    "OriginalText": "氷属性テクニック",
     "Text": "Ice Techniques",
     "Enabled": true
   },
@@ -530,7 +530,7 @@
     "Enabled": true
   },
   "20116": {
-    "OriginalText": "伝備可能武器",
+    "OriginalText": "装備可能武器",
     "Text": "This class can equip:",
     "Enabled": true
   },
@@ -575,12 +575,12 @@
     "Enabled": true
   },
   "20125": {
-    "OriginalText": "伝備メニューへ",
+    "OriginalText": "装備メニューへ",
     "Text": "Equip Menu",
     "Enabled": true
   },
   "20126": {
-    "OriginalText": "クラス変更を完了しました。\n\nクラスを変更したことで\n使用不能となった伝備があります。",
+    "OriginalText": "クラス変更を完了しました。\n\nクラスを変更したことで\n使用不能となった装備があります。",
     "Text": "Class change complete.\n\n[a 03]By changing your class, some equipment may become unusable.[b]",
     "Enabled": true
   },
@@ -700,7 +700,7 @@
     "Enabled": true
   },
   "20210": {
-    "OriginalText": "このパスワードは濃に使用済みです。",
+    "OriginalText": "このパスワードは既に使用済みです。",
     "Text": "This password has already been used.",
     "Enabled": true
   },
@@ -770,27 +770,27 @@
     "Enabled": true
   },
   "20301": {
-    "OriginalText": "武器伝備",
+    "OriginalText": "武器装備",
     "Text": "Equip Weapons",
     "Enabled": true
   },
   "20302": {
-    "OriginalText": "武器パレット伝備",
+    "OriginalText": "武器パレット装備",
     "Text": "Equip Gran Arts",
     "Enabled": true
   },
   "20303": {
-    "OriginalText": "防具伝備",
+    "OriginalText": "防具装備",
     "Text": "Equip Shield",
     "Enabled": true
   },
   "20304": {
-    "OriginalText": "コスチューム伝備",
+    "OriginalText": "コスチューム装備",
     "Text": "Equip Costume",
     "Enabled": true
   },
   "20305": {
-    "OriginalText": "サブパレット伝備",
+    "OriginalText": "サブパレット装備",
     "Text": "Subpalette Menu",
     "Enabled": true
   },
@@ -930,7 +930,7 @@
     "Enabled": true
   },
   "20506": {
-    "OriginalText": "材料",
+    "OriginalText": "村料",
     "Text": "Materials",
     "Enabled": true
   },
@@ -1050,7 +1050,7 @@
     "Enabled": true
   },
   "20708": {
-    "OriginalText": "観測伝置研究",
+    "OriginalText": "観測装置研究",
     "Text": "Research Observation Device",
     "Enabled": true
   },
@@ -1080,7 +1080,7 @@
     "Enabled": true
   },
   "20714": {
-    "OriginalText": "観測伝置の研究を開始します。\nグランエナジーが [e 00 00] 必要です。\nよろしいですか？\n",
+    "OriginalText": "観測装置の研究を開始します。\nグランエナジーが [e 00 00] 必要です。\nよろしいですか？\n",
     "Text": "Begin research on the Observation Device?\n\n[e 00 00] Gran Energy required.",
     "Enabled": true
   },
@@ -1105,7 +1105,7 @@
     "Enabled": true
   },
   "20719": {
-    "OriginalText": "観測伝置の研究を開始しました。",
+    "OriginalText": "観測装置の研究を開始しました。",
     "Text": "Observation Device research started.",
     "Enabled": true
   },
@@ -1140,7 +1140,7 @@
     "Enabled": true
   },
   "20806": {
-    "OriginalText": "マルチプレイ中は\nリーダー似外はアクセスできません。\n\n[a 03]※ストーリーを進めるためにアクセスが必要な場合、\nマルチプレイを一度切断してアクセスし、\nストーリーを進行させてから\nマルチプレイを再開してください。[b]",
+    "OriginalText": "マルチプレイ中は\nリーダー以外はアクセスできません。\n\n[a 03]※ストーリーを進めるためにアクセスが必要な場合、\n マルチプレイを一度切断してアクセスし、\n ストーリーを進行させてから\n マルチプレイを再開してください。[b]",
     "Text": "Main Crew are not available during multiplayer.\n\n[a 03]If you need to advance the story, disconnect from multiplayer\nto do so, then restart multiplayer.[b]",
     "Enabled": true
   },
@@ -1355,12 +1355,12 @@
     "Enabled": true
   },
   "21105": {
-    "OriginalText": "パーティー集集中止",
+    "OriginalText": "パーティー募集中止",
     "Text": "Disband Party",
     "Enabled": true
   },
   "21106": {
-    "OriginalText": "パーティー集集を中止します。\nよろしいですか？",
+    "OriginalText": "パーティー募集を中止します。\nよろしいですか？",
     "Text": "Disband your party?",
     "Enabled": true
   },
@@ -1385,7 +1385,7 @@
     "Enabled": true
   },
   "21111": {
-    "OriginalText": "このパーティー集集は終了しました。",
+    "OriginalText": "このパーティー募集は終了しました。",
     "Text": " has disbanded the party.",
     "Enabled": true
   },
@@ -1410,7 +1410,7 @@
     "Enabled": true
   },
   "21116": {
-    "OriginalText": "マルチプレイ中は\nリーダー似外はアクセスできません。\n\n[a 03]※ストーリーを進めるためにアクセスが必要な場合、\n マルチプレイを一度切断してアクセスし、\n ストーリーを進行させてから\n マルチプレイを再開してください。[b]",
+    "OriginalText": "マルチプレイ中は\nリーダー以外はアクセスできません。\n\n[a 03]※ストーリーを進めるためにアクセスが必要な場合、\n マルチプレイを一度切断してアクセスし、\n ストーリーを進行させてから\n マルチプレイを再開してください。[b]",
     "Text": "Main Crew are not available during multiplayer.\n\n[a 03]If you need to advance the story, disconnect from multiplayer\nto do so, then restart multiplayer.[b]",
     "Enabled": true
   },
@@ -1440,7 +1440,7 @@
     "Enabled": true
   },
   "21122": {
-    "OriginalText": "このパーティーの集集は終了しました。",
+    "OriginalText": "このパーティーの募集は終了しました。",
     "Text": " cancelled forming a party.",
     "Enabled": true
   },
@@ -1770,7 +1770,7 @@
     "Enabled": true
   },
   "21607": {
-    "OriginalText": "伝備する",
+    "OriginalText": "装備する",
     "Text": "Equip",
     "Enabled": true
   },
@@ -1810,7 +1810,7 @@
     "Enabled": false
   },
   "21615": {
-    "OriginalText": "必要素材",
+    "OriginalText": "必要素村",
     "Text": "Materials Needed",
     "Enabled": true
   },
@@ -1870,7 +1870,7 @@
     "Enabled": true
   },
   "21627": {
-    "OriginalText": "保存して伝備",
+    "OriginalText": "保存して装備",
     "Text": "Equip Saved",
     "Enabled": true
   },
@@ -1980,7 +1980,7 @@
     "Enabled": true
   },
   "21649": {
-    "OriginalText": "このアタッチパーツを作成する\n条件を既たしていません。",
+    "OriginalText": "このアタッチパーツを作成する\n条件を満たしていません。",
     "Text": "You do not meet the conditions to create this attachment.",
     "Enabled": true
   },
@@ -2060,7 +2060,7 @@
     "Enabled": true
   },
   "21716": {
-    "OriginalText": "地路選択",
+    "OriginalText": "地区選択",
     "Text": "Path Selection",
     "Enabled": true
   },
@@ -2175,7 +2175,7 @@
     "Enabled": false
   },
   "21739": {
-    "OriginalText": "このクエストはトライアルクエストです。\nあらかじめ用意された伝備とパラメータで\nクエストに挑戦しますが、よろしいですか？",
+    "OriginalText": "このクエストはトライアルクエストです。\nあらかじめ用意された装備とパラメータで\nクエストに挑戦しますが、よろしいですか？",
     "Text": "Accept this trial quest?\n\n[a 03]Trial quests use premade classes with their own skills and\nequipment.[b]",
     "Enabled": true
   },
@@ -2185,7 +2185,7 @@
     "Enabled": true
   },
   "21741": {
-    "OriginalText": "リーダーがトライアルクエストを受託しました。\nあらかじめ用意された伝備とパラメータで\nクエストに挑戦します。",
+    "OriginalText": "リーダーがトライアルクエストを受託しました。\nあらかじめ用意された装備とパラメータで\nクエストに挑戦します。",
     "Text": "The Leader has chosen a Trial Quest.\nChallenge the quest with the prepared equipment\nand parameters.",
     "Enabled": true
   },
@@ -2205,7 +2205,7 @@
     "Enabled": true
   },
   "21745": {
-    "OriginalText": "このクエストは\n似下のクエストをクリアしていないと\nプレイできません。",
+    "OriginalText": "このクエストは\n以下のクエストをクリアしていないと\nプレイできません。",
     "Text": "This quest can't be played unless you have cleared\na similar quest.",
     "Enabled": true
   },
@@ -2265,7 +2265,7 @@
     "Enabled": true
   },
   "21757": {
-    "OriginalText": "このクエストで洋語に登場するクルーを\n自動的に選択します。\nよろしいですか？ ",
+    "OriginalText": "このクエストで物語に登場するクルーを\n自動的に選択します。\nよろしいですか？ ",
     "Text": "Automatically select crews to join the quest.\nAre you sure?",
     "Enabled": true
   },
@@ -2420,12 +2420,12 @@
     "Enabled": true
   },
   "22013": {
-    "OriginalText": "バースト加速伝置",
+    "OriginalText": "バースト加速装置",
     "Text": "BURST Acceleration Device",
     "Enabled": true
   },
   "22014": {
-    "OriginalText": "アイテム探知伝置",
+    "OriginalText": "アイテム探知装置",
     "Text": "Item Detection System",
     "Enabled": true
   },
@@ -2510,12 +2510,12 @@
     "Enabled": true
   },
   "22031": {
-    "OriginalText": "施設効果 バースト加速伝置",
+    "OriginalText": "施設効果 バースト加速装置",
     "Text": "BURST Acceleration Device Facility Effect",
     "Enabled": true
   },
   "22032": {
-    "OriginalText": "施設効果 アイテム探知伝置",
+    "OriginalText": "施設効果 アイテム探知装置",
     "Text": "Item Detection System Facility Effect",
     "Enabled": true
   },
@@ -2550,7 +2550,7 @@
     "Enabled": true
   },
   "22103": {
-    "OriginalText": "燥作設定",
+    "OriginalText": "操作設定",
     "Text": "Button Settings",
     "Enabled": true
   },
@@ -2575,7 +2575,7 @@
     "Enabled": true
   },
   "22108": {
-    "OriginalText": "燥作タイプ",
+    "OriginalText": "操作タイプ",
     "Text": "Control type",
     "Enabled": true
   },
@@ -2675,7 +2675,7 @@
     "Enabled": true
   },
   "22128": {
-    "OriginalText": "重要な燥作が未設定になっているか、\nボタンが重復しています。\n設定を完了できません。",
+    "OriginalText": "重要な操作が未設定になっているか、\nボタンが重複しています。\n設定を完了できません。",
     "Text": "An important function has not been set, or the\nbutton has been restored. Unable to complete the\nsettings.",
     "Enabled": true
   },
@@ -2705,22 +2705,22 @@
     "Enabled": true
   },
   "22134": {
-    "OriginalText": "メインパレットの燥作",
+    "OriginalText": "メインパレットの操作",
     "Text": "Action Palette switching",
     "Enabled": true
   },
   "22135": {
-    "OriginalText": "ワンプッシュ燥作",
+    "OriginalText": "ワンプッシュ操作",
     "Text": "Toggle",
     "Enabled": true
   },
   "22136": {
-    "OriginalText": "ホールド燥作",
+    "OriginalText": "ホールド操作",
     "Text": "Hold",
     "Enabled": true
   },
   "22137": {
-    "OriginalText": "ロックオン燥作",
+    "OriginalText": "ロックオン操作",
     "Text": "Lock-on targeting",
     "Enabled": true
   },
@@ -2830,7 +2830,7 @@
     "Enabled": true
   },
   "22159": {
-    "OriginalText": "燥作設定を初期化します。\n\nよろしいですか？",
+    "OriginalText": "操作設定を初期化します。\n\nよろしいですか？",
     "Text": "Reset Button Settings to default?",
     "Enabled": true
   },
@@ -2845,7 +2845,7 @@
     "Enabled": true
   },
   "22162": {
-    "OriginalText": "燥作設定を終了します。",
+    "OriginalText": "操作設定を終了します。",
     "Text": "Edit the Button Settings.",
     "Enabled": true
   },
@@ -3000,7 +3000,7 @@
     "Enabled": false
   },
   "22230": {
-    "OriginalText": "食材をあつめて",
+    "OriginalText": "食村をあつめて",
     "Text": "Gather",
     "Enabled": true
   },
@@ -3120,12 +3120,12 @@
     "Enabled": true
   },
   "22411": {
-    "OriginalText": "キャスト似外(男性)",
+    "OriginalText": "キャスト以外(男性)",
     "Text": "Cast Interior (Male)",
     "Enabled": true
   },
   "22412": {
-    "OriginalText": "キャスト似外(女性)",
+    "OriginalText": "キャスト以外(女性)",
     "Text": "Cast Interior (Female)",
     "Enabled": true
   },
@@ -3305,17 +3305,17 @@
     "Enabled": true
   },
   "22727": {
-    "OriginalText": "修復前の衣伝に変更しますか？",
+    "OriginalText": "修復前の衣装に変更しますか？",
     "Text": "Do you want to change your costume before repairing?",
     "Enabled": true
   },
   "22728": {
-    "OriginalText": "修復後の衣伝に変更しますか？",
+    "OriginalText": "修復後の衣装に変更しますか？",
     "Text": "Do you want to wear the repaired costume?",
     "Enabled": true
   },
   "22729": {
-    "OriginalText": "濃にオペレーターに指定されています。",
+    "OriginalText": "既にオペレーターに指定されています。",
     "Text": "Assign as Operator.",
     "Enabled": true
   },
@@ -3425,7 +3425,7 @@
     "Enabled": true
   },
   "22751": {
-    "OriginalText": "指定洋品を入手しました",
+    "OriginalText": "指定物品を入手しました",
     "Text": "Item Collected",
     "Enabled": true
   },
@@ -3635,7 +3635,7 @@
     "Enabled": true
   },
   "23101": {
-    "OriginalText": "クラス変更により、伝備している\n武器や防具が無効になることがあります。\n無効となっている伝備は\n名前が灰色で表示されます。",
+    "OriginalText": "クラス変更により、装備している\n武器や防具が無効になることがあります。\n無効となっている装備は\n名前が灰色で表示されます。",
     "Text": "Changing class may cause your\ncurrent equipment to become unusable.\nEquipment that has become unusable\nwill be displayed in gray.",
     "Enabled": true
   },
@@ -3735,7 +3735,7 @@
     "Enabled": true
   },
   "23902": {
-    "OriginalText": "似後、ギガンテスブラスト「",
+    "OriginalText": "以後、ギガンテスブラスト「",
     "Text": "Gigantes Blast 「",
     "Enabled": true
   },
@@ -3750,7 +3750,7 @@
     "Enabled": true
   },
   "23905": {
-    "OriginalText": "のレベルが上がります！",
+    "OriginalText": "」のレベルが上がります！",
     "Text": "」 has gone up!",
     "Enabled": true
   },
@@ -3910,7 +3910,7 @@
     "Enabled": true
   },
   "24126": {
-    "OriginalText": "伝備武器",
+    "OriginalText": "装備武器",
     "Text": "Equipped Weapon",
     "Enabled": true
   },
@@ -3935,12 +3935,12 @@
     "Enabled": true
   },
   "25000": {
-    "OriginalText": "材料とコアを倉庫に預ける",
+    "OriginalText": "村料とコアを倉庫に預ける",
     "Text": "Deposit All Materials and Cores",
     "Enabled": true
   },
   "25001": {
-    "OriginalText": "材料とコアを\n倉庫に預けました。",
+    "OriginalText": "村料とコアを\n倉庫に預けました。",
     "Text": "All Materials and Cores were deposited into Storage.",
     "Enabled": true
   },
@@ -3960,7 +3960,7 @@
     "Enabled": false
   },
   "25005": {
-    "OriginalText": "入手した材料を自動的に倉庫に送る",
+    "OriginalText": "入手した村料を自動的に倉庫に送る",
     "Text": "Automatically send Materials to Storage",
     "Enabled": true
   },
@@ -3985,12 +3985,12 @@
     "Enabled": true
   },
   "25010": {
-    "OriginalText": "武器伝備へ",
+    "OriginalText": "武器装備へ",
     "Text": "To Weapons",
     "Enabled": true
   },
   "25011": {
-    "OriginalText": "武器パレット伝備へ",
+    "OriginalText": "武器パレット装備へ",
     "Text": "To Palettes",
     "Enabled": true
   },
@@ -4025,7 +4025,7 @@
     "Enabled": false
   },
   "25103": {
-    "OriginalText": "₡",
+    "OriginalText": ".",
     "Text": "",
     "Enabled": false
   },
@@ -4175,7 +4175,7 @@
     "Enabled": true
   },
   "25400": {
-    "OriginalText": "アイテムパックに３似上の空きがないため選択できません。",
+    "OriginalText": "アイテムパックに３以上の空きがないため選択できません。",
     "Text": "Cannot be selected because there is no more room in your\nItem Pack.",
     "Enabled": true
   },
@@ -4205,7 +4205,7 @@
     "Enabled": true
   },
   "25451": {
-    "OriginalText": "伝備中の武器は合成できません。",
+    "OriginalText": "装備中の武器は合成できません。",
     "Text": "Weapons equipped can't be synthesized.",
     "Enabled": true
   },
