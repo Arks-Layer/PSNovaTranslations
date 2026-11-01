@@ -296,7 +296,7 @@
   },
   "770059": {
     "OriginalText": "クラスカウンターへ",
-    "Text": "To Class Counter",
+    "Text": "Class Counter",
     "Enabled": true
   },
   "770060": {
@@ -531,13 +531,13 @@
   },
   "780011": {
     "OriginalText": "『ジャストアタック』\n\n攻撃後、体の周囲に光る円が表示されます。\n\n[a 07]円が赤く光っているタイミングで攻撃ボタン\nを押す[b]とジャストアタックとなります。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Upon finishing an attack,\na glowing circle appears around your body.\n\nIf you [a 07]press the attack button while\nthe circle glows red[b], you will perform\na Just Attack.",
+    "Enabled": true
   },
   "780012": {
     "OriginalText": "\nジャストアタックに成功すると大きなダメー\nジを与えることができます。\n\nさらに敵のやられリアクションも大きくなり\nます。\n\nフォトンアーツやチャージテクニックなどと\n組み合わせて活用しましょう。",
-    "Text": "",
-    "Enabled": false
+    "Text": "\nBy performing a Just Attack, you will\ndeal greater damage.\n\nIn addition, the enemy's response will\nbecome more dramatic upon hit.\n\nUse them in combination with other\nattacks, charged techs, & skills.",
+    "Enabled": true
   },
   "780013": {
     "OriginalText": "『サブパレット』\n\nサブパレットは画面の下と右に表示されている\nアイコンパレットです。\n\n[a 07]各アイコンにタッチ[b]すると、[a 07]登録されて\nいるアイテムやスキルなどを使用[b]できます。\n\nＨＰが滅ったら、始めからセットされている\n「モノメイト」をタッチしてみましょう。\nＨＰが少量回復します。",
@@ -841,7 +841,7 @@
   },
   "780073": {
     "OriginalText": "『スキルボード』\n\n習得したスキルをスキルボードにセットして\n自分好みの能力をカスタマイズしましょう。\n\n[a 07]スキルボードにセットしていないスキルは効\n果を発揮しません。[b]\n\nスキルによっては、スキルボードにセットし\nた後、[a 07]サブパレットにスキルをセット[b]する\n必要があります。",
-    "Text": "Place skills you've learned on the Skill Board\nin order to customize them.\n\n[a 07]Skills not assigned to the board will not be applied.[b]\n\nDepending on the skill, [a 07]you may need to set it on the\nsubpalette.[b]",
+    "Text": "Place skills you've learned on the Skill Board\nin order to customize them.\n\n[a 07]Skills not assigned to the board will\nnot be applied.[b]\n\nDepending on the skill, [a 07]you may need to\nset it on the subpalette.[b]",
     "Enabled": true
   },
   "780074": {
@@ -1076,7 +1076,7 @@
   },
   "780120": {
     "OriginalText": "\nフィルディアは[a 07]ブリッジ[b]に居ます。\n\nブリッジへはデルタ・ヴァリアントの\n出入り口から移動できます。\n",
-    "Text": "Fildia is at the bridge. You can access the bridge via the entrance/exit of the Delta Valiant.",
+    "Text": "Fildia is at the [a 07]bridge[b]. You can access\nthe bridge via the entrance/exit of the\nDelta Valiant.",
     "Enabled": true
   },
   "780121": {
@@ -1161,7 +1161,7 @@
   },
   "780137": {
     "OriginalText": "\nヘイロウは[a 07]武器として伝備[b]します。\n\nメインメニュー［伝備］＞［武器伝備］の\n[a 07]武器選択リストで［ヘイロウ］カテゴリから\n伝備[b]してください。\n",
-    "Text": "You can now [a 07]equip[b] the Halo.\n\nFrom the [a 07]main menu, select [Equip] > [Equip Weapon], then choose [Halo][b].",
+    "Text": "You can now [a 07]equip[b] the Halo.\n\nFrom the [a 07]main menu, select\n[Equip] > [Equip Weapon], then choose [Halo][b].",
     "Enabled": true
   },
   "780138": {

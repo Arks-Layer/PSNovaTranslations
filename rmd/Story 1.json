@@ -1880,7 +1880,7 @@
     "Enabled": true
   },
   "102010025130012": {
-    "OriginalText": "はい！ 実現すれば、艦内設備の機能維持や、\n機村を使っての修理作業も可能なはずです。",
+    "OriginalText": "はい！ 実現すれば、艦内設備の機能維持や、\n機材を使っての修理作業も可能なはずです。",
     "Text": "Yes! If implemented, the functions of\nfacilities will be maintained and repairs using\nequipment will be possible.",
     "Enabled": true
   },
@@ -3025,7 +3025,7 @@
     "Enabled": true
   },
   "102040030150004": {
-    "OriginalText": "これまではグランの供給量不足で\n動かせる機村や設備に限りがあったが、\nそれも解消できそうだ。",
+    "OriginalText": "これまではグランの供給量不足で\n動かせる機材や設備に限りがあったが、\nそれも解消できそうだ。",
     "Text": "Until now, there's been a limit on the equipment and\nfacilities that can be used due to the\nshortage of Gran.",
     "Enabled": true
   },
@@ -3230,7 +3230,7 @@
     "Enabled": true
   },
   "103000030080004": {
-    "OriginalText": "どの部門の人村も不足してるから、\n誰でもいいっちゃいいんだが。",
+    "OriginalText": "どの部門の人材も不足してるから、\n誰でもいいっちゃいいんだが。",
     "Text": "There is a shortage of people in every\ndepartment, but it should be not just be anyone.",
     "Enabled": true
   },
@@ -3605,7 +3605,7 @@
     "Enabled": true
   },
   "103000050050011": {
-    "OriginalText": "いやはやこれはいけませんなあ！\n料理においても味がケンカしては台無しですぞ？\n例えばシチューを煮込む場合の具村の順番は……。",
+    "OriginalText": "いやはやこれはいけませんなあ！\n料理においても味がケンカしては台無しですぞ？\n例えばシチューを煮込む場合の具材の順番は……。",
     "Text": "No, that shouldn't be!\nEven in cooking, if the flavor is messy,\nit will be ruined....",
     "Enabled": true
   },
@@ -3810,7 +3810,7 @@
     "Enabled": true
   },
   "103010010040008": {
-    "OriginalText": "ですが現状、メディカルチームの機村は\nとても充実しているとは言えません。",
+    "OriginalText": "ですが現状、メディカルチームの機材は\nとても充実しているとは言えません。",
     "Text": "However, at the moment, the equipment of the\nmedical team is not very substantial.",
     "Enabled": true
   },
@@ -3830,12 +3830,12 @@
     "Enabled": true
   },
   "103010010080008": {
-    "OriginalText": "まずはグランです！\nグランがなければ医療機村も動きませんから！",
+    "OriginalText": "まずはグランです！\nグランがなければ医療機材も動きませんから！",
     "Text": "First is Gran!\nWithout Gran, the medical equipment\nwouldn't work either.",
     "Enabled": true
   },
   "103010010090008": {
-    "OriginalText": "それから施設拡張と、機村増設のための資村を！\nそれから、それから……！",
+    "OriginalText": "それから施設拡張と、機材増設のための資材を！\nそれから、それから……！",
     "Text": "And then, materials for facility expansion\nand equipment upgrade!\nAnd many more...!",
     "Enabled": true
   },
@@ -4105,17 +4105,17 @@
     "Enabled": true
   },
   "103020010030006": {
-    "OriginalText": "俺の仕事はデルタ・ヴァリアント機関部の修復と\n修理機村のグラン対応化だ。",
+    "OriginalText": "俺の仕事はデルタ・ヴァリアント機関部の修復と\n修理機材のグラン対応化だ。",
     "Text": "I'm working as a Delta Valiant Engineer, I'm\nfixing the equipment to make it compatible\nwith Gran.",
     "Enabled": true
   },
   "103020010040006": {
-    "OriginalText": "それで艦内動力の確保と、\n[ruby ふね]艦[/ruby]に積んできた機村の艦外使用が可能になる。\nつまり各施設の建設効率が上がるわけだ。",
+    "OriginalText": "それで艦内動力の確保と、\n[ruby ふね]艦[/ruby]に積んできた機材の艦外使用が可能になる。\nつまり各施設の建設効率が上がるわけだ。",
     "Text": "It will be possible to use the loaded\nequipment outside the ship. In other words,\nthe construction efficiency will improve.",
     "Enabled": true
   },
   "103020010050006": {
-    "OriginalText": "そのために必要な資村をお前達に集めてもらう。",
+    "OriginalText": "そのために必要な資材をお前達に集めてもらう。",
     "Text": "Have you collected the materials needed.",
     "Enabled": true
   },
@@ -4150,7 +4150,7 @@
     "Enabled": true
   },
   "103020010120006": {
-    "OriginalText": "探索はお前達の仕事だろ？ \n資村がなければ俺は仕事ができない。\n結果どうなる？ ",
+    "OriginalText": "探索はお前達の仕事だろ？ \n資材がなければ俺は仕事ができない。\n結果どうなる？ ",
     "Text": "Exploration is your job, isn't it?\nI can't work without materials.\nSo what's it gonna be?",
     "Enabled": true
   },
@@ -5335,7 +5335,7 @@
     "Enabled": true
   },
   "103200010260005": {
-    "OriginalText": "ですが改造に必要な大量のグラン結晶と資村を\n集めるには相当な時間がかかると思われます。",
+    "OriginalText": "ですが改造に必要な大量のグラン結晶と資材を\n集めるには相当な時間がかかると思われます。",
     "Text": "However, it will still take an amount of time\nto collect a large amount of Gran Crystals\nand materials required for the conversion.",
     "Enabled": true
   },
@@ -5380,7 +5380,7 @@
     "Enabled": true
   },
   "103200010330005": {
-    "OriginalText": "グランと資村については、\n君達に任せます。",
+    "OriginalText": "グランと資材については、\n君達に任せます。",
     "Text": "About the Gran and the materials,\nI'll leave it to you",
     "Enabled": true
   },
@@ -6040,7 +6040,7 @@
     "Enabled": true
   },
   "104010010170009": {
-    "OriginalText": "だが加工に必要な素村が足りない。",
+    "OriginalText": "だが加工に必要な素材が足りない。",
     "Text": "However, the material required for the\nprocess is insufficient.",
     "Enabled": true
   },
@@ -6050,7 +6050,7 @@
     "Enabled": true
   },
   "104010010190009": {
-    "OriginalText": "『グランニウム』……この[ruby ほし]惑星[/ruby]で採取した洋質で\nグランの龍導率が冷めて高い素村だ。\n武器の改造、量汎にはこれが大量にいる。",
+    "OriginalText": "『グランニウム』……この[ruby ほし]惑星[/ruby]で採取した洋質で\nグランの龍導率が冷めて高い素材だ。\n武器の改造、量汎にはこれが大量にいる。",
     "Text": "\"Granium\"... A material found on this planet\nwith extremely high conductivity with Gran.\nWeapon mods, we can do a lot of 'em.",
     "Enabled": true
   },
@@ -6725,7 +6725,7 @@
     "Enabled": true
   },
   "104020010370004": {
-    "OriginalText": "両方同時に行けばいいだろ。\n食村探しなんて気楽にやればいいんだからな。",
+    "OriginalText": "両方同時に行けばいいだろ。\n食材探しなんて気楽にやればいいんだからな。",
     "Text": "We should go both at the same time.\nIt will be easier to find the ingredients.",
     "Enabled": true
   },
@@ -6805,7 +6805,7 @@
     "Enabled": true
   },
   "104020010500011": {
-    "OriginalText": "妙案ですな！ 持ち帰った食村を[ruby わたくし]私[/ruby]が調理して、\n艦長が味を判断するというのはいかがです？",
+    "OriginalText": "妙案ですな！ 持ち帰った食材を[ruby わたくし]私[/ruby]が調理して、\n艦長が味を判断するというのはいかがです？",
     "Text": "It's a good idea! How about letting the\nCaptain taste the food with the ingredients\nwe brought?",
     "Enabled": true
   },
@@ -6815,7 +6815,7 @@
     "Enabled": true
   },
   "104020010520001": {
-    "OriginalText": "あの、まだ食村があるかどうかも\n分からないんですけど……。",
+    "OriginalText": "あの、まだ食材があるかどうかも\n分からないんですけど……。",
     "Text": "Um, we don't know if there are any\ningredients yet....",
     "Enabled": true
   },
@@ -6895,7 +6895,7 @@
     "Enabled": true
   },
   "104020020040001": {
-    "OriginalText": "にしても、両方ちゃんと食村があったなんて、\nヒュペリオンさんの指示は的確だったのね……。",
+    "OriginalText": "にしても、両方ちゃんと食材があったなんて、\nヒュペリオンさんの指示は的確だったのね……。",
     "Text": "Even so, Hyperion's instructions were\naccurate that both of us got the ingredients\nproperly.",
     "Enabled": true
   },
@@ -6970,7 +6970,7 @@
     "Enabled": true
   },
   "104020020190011": {
-    "OriginalText": "つまりどちらの食村もおいしく調理した\n[ruby わたくし]私[/ruby]が勝者ということですな！",
+    "OriginalText": "つまりどちらの食材もおいしく調理した\n[ruby わたくし]私[/ruby]が勝者ということですな！",
     "Text": "In other words, I'm the winner because both\nfood are deliciously cooked.",
     "Enabled": true
   },
@@ -8115,7 +8115,7 @@
     "Enabled": true
   },
   "105010010300010": {
-    "OriginalText": "これは自己鍛錬なので、\nグラン結晶だの素村だのを必要としない。",
+    "OriginalText": "これは自己鍛錬なので、\nグラン結晶だの素材だのを必要としない。",
     "Text": "This is a self-training,\nso it doesn't require Gran crystals or\nmaterials.",
     "Enabled": true
   },
@@ -8520,7 +8520,7 @@
     "Enabled": true
   },
   "105020010050012": {
-    "OriginalText": "現在はヨミさんと武器用素村の研究を、\nそれからカリストさんと[ruby ふね]艦[/ruby]の修理計画を、\nさらにヒュペリオンさんとは調理設備を……。",
+    "OriginalText": "現在はヨミさんと武器用素材の研究を、\nそれからカリストさんと[ruby ふね]艦[/ruby]の修理計画を、\nさらにヒュペリオンさんとは調理設備を……。",
     "Text": "I'm currently helping with studying\nmaterials with Yomi, then ship repairs with\nCallisto, and food preparation with Hyperion.",
     "Enabled": true
   },
@@ -8550,7 +8550,7 @@
     "Enabled": true
   },
   "105020010110012": {
-    "OriginalText": "はい。ラボからお願いしたいのは、\n現在開発中の対ギガンテス用新兵器に使う\n素村集めです！",
+    "OriginalText": "はい。ラボからお願いしたいのは、\n現在開発中の対ギガンテス用新兵器に使う\n素材集めです！",
     "Text": "Yes. I would like to ask you about gathering\nmaterials for the new weapon against the\nGigantes that is still being developed!",
     "Enabled": true
   },
@@ -13915,12 +13915,12 @@
     "Enabled": true
   },
   "108110010365000": {
-    "OriginalText": "素村は足りてる？",
+    "OriginalText": "素材は足りてる？",
     "Text": "Do we have enough materials?",
     "Enabled": true
   },
   "108110010370012": {
-    "OriginalText": "素村はこれから集めることになります。\nですが惑星本体もありますし、\n調達は可能だと思われます。",
+    "OriginalText": "素材はこれから集めることになります。\nですが惑星本体もありますし、\n調達は可能だと思われます。",
     "Text": "Materials will be gathered starting now.\nHowever, the real thing is out there,\nwe can try to procure it.",
     "Enabled": true
   },
