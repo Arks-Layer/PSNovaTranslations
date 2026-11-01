@@ -115,7 +115,7 @@
     "Enabled": true
   },
   "200117": {
-    "OriginalText": "水装を這う脚",
+    "OriginalText": "水源を這う脚",
     "Text": "Legs Creeping the Water Rig",
     "Enabled": true
   },
@@ -165,7 +165,7 @@
     "Enabled": true
   },
   "200127": {
-    "OriginalText": "装流を塞ぐ杭",
+    "OriginalText": "源流を塞ぐ杭",
     "Text": "Breaking the Obstruction",
     "Enabled": true
   },
@@ -245,7 +245,7 @@
     "Enabled": true
   },
   "200301": {
-    "OriginalText": "銅の荒野哨戒任務",
+    "OriginalText": "鋼の荒野哨戒任務",
     "Text": "Steel Wastelands Patrol I",
     "Enabled": true
   },
@@ -290,22 +290,22 @@
     "Enabled": true
   },
   "200310": {
-    "OriginalText": "銅の荒野資材回収任務",
+    "OriginalText": "鋼の荒野資村回収任務",
     "Text": "Steel Wastelands Materials Recovery",
     "Enabled": true
   },
   "200311": {
-    "OriginalText": "銅の荒野哨戒任務２",
+    "OriginalText": "鋼の荒野哨戒任務２",
     "Text": "Steel Wasteland Patrol II",
     "Enabled": true
   },
   "200312": {
-    "OriginalText": "銅の荒野殲滅任務",
+    "OriginalText": "鋼の荒野殲滅任務",
     "Text": "Steel Wastelands Recon",
     "Enabled": true
   },
   "200313": {
-    "OriginalText": "目を覚ます磁晶模",
+    "OriginalText": "目を覚ます磁晶龍",
     "Text": "Awaken the Magnetic Obelisk",
     "Enabled": true
   },
@@ -315,7 +315,7 @@
     "Enabled": true
   },
   "200315": {
-    "OriginalText": "食材確保任務",
+    "OriginalText": "食村確保任務",
     "Text": "Securing Food Materials",
     "Enabled": true
   },
@@ -375,7 +375,7 @@
     "Enabled": true
   },
   "200327": {
-    "OriginalText": "難：銅の荒野走破任務",
+    "OriginalText": "難：鋼の荒野走破任務",
     "Text": "Challenge: Steel Wastelands Coverage",
     "Enabled": true
   },
@@ -395,7 +395,7 @@
     "Enabled": true
   },
   "200331": {
-    "OriginalText": "難：銅の荒野連続撃破任務",
+    "OriginalText": "難：鋼の荒野連続撃破任務",
     "Text": "Challenge: Steel Wastelands Destroy",
     "Enabled": true
   },
@@ -410,7 +410,7 @@
     "Enabled": true
   },
   "200334": {
-    "OriginalText": "難：大尖塔資材回収任務",
+    "OriginalText": "難：大尖塔資村回収任務",
     "Text": "Challenge: Large Spire Materials Recovery",
     "Enabled": true
   },
@@ -515,12 +515,12 @@
     "Enabled": true
   },
   "200503": {
-    "OriginalText": "医療資材の指定数回収",
+    "OriginalText": "医療資村の指定数回収",
     "Text": "Retrieve Medical Materials",
     "Enabled": true
   },
   "200504": {
-    "OriginalText": "艦補修資材の指定数回収",
+    "OriginalText": "艦補修資村の指定数回収",
     "Text": "Recover Ship Materials",
     "Enabled": true
   },
@@ -540,7 +540,7 @@
     "Enabled": true
   },
   "200508": {
-    "OriginalText": "資材の指定数回収",
+    "OriginalText": "資村の指定数回収",
     "Text": "Collect the Materials",
     "Enabled": true
   },
@@ -580,7 +580,7 @@
     "Enabled": true
   },
   "200516": {
-    "OriginalText": "記録伝置の指定数回収",
+    "OriginalText": "記録装置の指定数回収",
     "Text": "Recall the Record Transfer Amount",
     "Enabled": true
   },
@@ -605,12 +605,12 @@
     "Enabled": true
   },
   "200521": {
-    "OriginalText": "新食材の指定数回収",
+    "OriginalText": "新食村の指定数回収",
     "Text": "Recover the New Ingredients",
     "Enabled": true
   },
   "200522": {
-    "OriginalText": "研究素材の指定数回収",
+    "OriginalText": "研究素村の指定数回収",
     "Text": "Recover the Research Material",
     "Enabled": true
   },
@@ -725,7 +725,7 @@
     "Enabled": true
   },
   "200545": {
-    "OriginalText": "鉱洋の指定数回収",
+    "OriginalText": "鉱物の指定数回収",
     "Text": "Collect Required Amount of Minerals",
     "Enabled": true
   },
@@ -740,7 +740,7 @@
     "Enabled": true
   },
   "200548": {
-    "OriginalText": "食材の指定数回収",
+    "OriginalText": "食村の指定数回収",
     "Text": "Collect Required Amount of Food",
     "Enabled": true
   },
@@ -900,7 +900,7 @@
     "Enabled": true
   },
   "200816": {
-    "OriginalText": "クエストが追加されました。\n『水装を這う脚』",
+    "OriginalText": "クエストが追加されました。\n『水源を這う脚』",
     "Text": "Quest has been added.\n\"Legs Creeping the Water Rig\"",
     "Enabled": true
   },
@@ -945,12 +945,12 @@
     "Enabled": true
   },
   "200825": {
-    "OriginalText": "クエストが追加されました。\n『銅野に穿つ杭』",
+    "OriginalText": "クエストが追加されました。\n『鋼野に穿つ杭』",
     "Text": "Quest has been added.\n\"Drilling the Steel Fields\"",
     "Enabled": true
   },
   "200826": {
-    "OriginalText": "クエストが追加されました。\n『装流を塞ぐ杭』",
+    "OriginalText": "クエストが追加されました。\n『源流を塞ぐ杭』",
     "Text": "Quest has been added.\n\"Breaking the Obstruction\"",
     "Enabled": true
   },
@@ -1035,7 +1035,7 @@
     "Enabled": true
   },
   "200843": {
-    "OriginalText": "クエストが追加されました。\n『目を覚ます磁晶模』",
+    "OriginalText": "クエストが追加されました。\n『目を覚ます磁晶龍』",
     "Text": "Quest has been added.\n\"Awaken the Magnetic Obelisk\"",
     "Enabled": true
   },
@@ -1100,12 +1100,12 @@
     "Enabled": true
   },
   "201030": {
-    "OriginalText": "超：劇珪のギガティオン",
+    "OriginalText": "超：氷塊のギガティオン",
     "Text": "Super: Ferocious Jade Gigation",
     "Enabled": true
   },
   "201031": {
-    "OriginalText": "資材の指定数回収",
+    "OriginalText": "資村の指定数回収",
     "Text": "Collect the Materials",
     "Enabled": true
   },
@@ -1115,12 +1115,12 @@
     "Enabled": true
   },
   "201033": {
-    "OriginalText": "クエストが追加されました。\n『超：劇珪のギガティオン』",
+    "OriginalText": "クエストが追加されました。\n『超：氷塊のギガティオン』",
     "Text": "Quest has been added.\n\"Super: Ferocious Jade Gigation\"",
     "Enabled": true
   },
   "201040": {
-    "OriginalText": "超：錯砦のヴィヴリュード",
+    "OriginalText": "超：城砦のヴィヴリュード",
     "Text": "Super: Vivryude Stronghold",
     "Enabled": true
   },
@@ -1135,7 +1135,7 @@
     "Enabled": true
   },
   "201043": {
-    "OriginalText": "クエストが追加されました。\n『超・錯砦のヴィヴリュード』",
+    "OriginalText": "クエストが追加されました。\n『超・城砦のヴィヴリュード』",
     "Text": "Quest has been added.\n\"Super: Vivryude Stronghold\"",
     "Enabled": true
   },
@@ -1240,7 +1240,7 @@
     "Enabled": false
   },
   "201090": {
-    "OriginalText": "タイムアタック・銅の荒野",
+    "OriginalText": "タイムアタック・鋼の荒野",
     "Text": "Time Attack: Steel Wasteland",
     "Enabled": true
   },
@@ -1255,7 +1255,7 @@
     "Enabled": false
   },
   "201093": {
-    "OriginalText": "クエストが追加されました。\n『タイムアタック・銅の荒野』",
+    "OriginalText": "クエストが追加されました。\n『タイムアタック・鋼の荒野』",
     "Text": "Quest has bee added.\n\"Time Attack: Steel Wasteland\"",
     "Enabled": true
   },
@@ -1280,12 +1280,12 @@
     "Enabled": true
   },
   "201100": {
-    "OriginalText": "冷：弾雨下の回収作戦",
+    "OriginalText": "極：弾雨下の回収作戦",
     "Text": "Ultra: Bulletstorm Recovery Operation",
     "Enabled": true
   },
   "201101": {
-    "OriginalText": "建築資材の指定数回収",
+    "OriginalText": "建築資村の指定数回収",
     "Text": "Collect Construction Materials",
     "Enabled": true
   },
@@ -1300,7 +1300,7 @@
     "Enabled": false
   },
   "201110": {
-    "OriginalText": "冷：伏す猛銃と天舞う砲凰",
+    "OriginalText": "極：伏す猛銃と天舞う砲凰",
     "Text": "Ultra: Ferocious Godly Cannons",
     "Enabled": true
   },
@@ -1320,7 +1320,7 @@
     "Enabled": false
   },
   "201120": {
-    "OriginalText": "冷：押し寄せるギガンテス",
+    "OriginalText": "極：押し寄せるギガンテス",
     "Text": "Ultra: Marching Gigantes",
     "Enabled": true
   },
@@ -1340,7 +1340,7 @@
     "Enabled": false
   },
   "201130": {
-    "OriginalText": "冷：漆黒の鉄馬と光線獣",
+    "OriginalText": "極：漆黒の鉄馬と光線獣",
     "Text": "Ultra: Ebony Armored Horse",
     "Enabled": true
   },
@@ -1360,7 +1360,7 @@
     "Enabled": false
   },
   "201140": {
-    "OriginalText": "冷：棘と大火球の輪舞曲",
+    "OriginalText": "極：棘と大火球の輪舞曲",
     "Text": "Ultra: Rondo of Thorns and Embers",
     "Enabled": true
   },
@@ -1380,7 +1380,7 @@
     "Enabled": false
   },
   "201150": {
-    "OriginalText": "冷：侵食する虚の骸",
+    "OriginalText": "極：侵食する虚の骸",
     "Text": "Ultra: Eroding Cadaver",
     "Enabled": true
   },
@@ -1400,7 +1400,7 @@
     "Enabled": false
   },
   "201160": {
-    "OriginalText": "冷：ヘル・デート",
+    "OriginalText": "極：ヘル・デート",
     "Text": "Ultra: Hellish Date",
     "Enabled": true
   },
@@ -1420,7 +1420,7 @@
     "Enabled": false
   },
   "201170": {
-    "OriginalText": "冷：魂の解放",
+    "OriginalText": "極：魂の解放",
     "Text": "Ultra: Liberation of Souls",
     "Enabled": true
   },
@@ -1455,7 +1455,7 @@
     "Enabled": false
   },
   "201310": {
-    "OriginalText": "運命の餅方",
+    "OriginalText": "運命の殿方",
     "Text": "Destined Man",
     "Enabled": true
   },
@@ -1470,9 +1470,29 @@
     "Enabled": true
   },
   "201313": {
-    "OriginalText": "クエストが追加されました。\n『運命の餅方』",
+    "OriginalText": "クエストが追加されました。\n『運命の殿方』",
     "Text": "Quest has been added.\n\"Destined Man\"",
     "Enabled": true
+  },
+  "201320": {
+    "OriginalText": "恋する無敵艦隊",
+    "Text": "The Invincible Love Armada",
+    "Enabled": true
+  },
+  "201321": {
+    "OriginalText": "最深部への到達",
+    "Text": "Reach For the Deepest Depths",
+    "Enabled": true
+  },
+  "201322": {
+    "OriginalText": "なし",
+    "Text": "",
+    "Enabled": false
+  },
+  "201323": {
+    "OriginalText": "クエストが追加されました。\n『恋する無敵艦隊』",
+    "Text": "A new quest has been added:\n[The Invincible Love Armada]",
+    "Enabled": false
   },
   "201400": {
     "OriginalText": "チームシグマの墓標",
@@ -1499,8 +1519,108 @@
     "Text": "Fetching the Team Sigma",
     "Enabled": true
   },
+  "201500": {
+    "OriginalText": "ＰＴアタック・鋼の荒野",
+    "Text": "PT Attack: Steel Wastelands",
+    "Enabled": true
+  },
+  "201501": {
+    "OriginalText": "一定時間まで敵を倒し続ける",
+    "Text": "Defeat enemies until time elapses",
+    "Enabled": true
+  },
+  "201502": {
+    "OriginalText": "なし",
+    "Text": "None",
+    "Enabled": true
+  },
+  "201503": {
+    "OriginalText": "クエスト追加メッセージ\n【550220】",
+    "Text": "クエスト追加メッセージ\n【550220】",
+    "Enabled": false
+  },
+  "201504": {
+    "OriginalText": "ハンター  Lv.150",
+    "Text": "Hunter  Lv.150",
+    "Enabled": true
+  },
+  "201505": {
+    "OriginalText": "レンジャー Lv.150",
+    "Text": "Ranger Lv.150",
+    "Enabled": true
+  },
+  "201506": {
+    "OriginalText": "フォース  Lv.150",
+    "Text": "Force  Lv.150",
+    "Enabled": true
+  },
+  "201507": {
+    "OriginalText": "バスター  Lv.150",
+    "Text": "Buster  Lv.150",
+    "Enabled": true
+  },
+  "201530": {
+    "OriginalText": "グランエナジー・ラッシュ",
+    "Text": "Gran Energy Rush",
+    "Enabled": true
+  },
+  "201531": {
+    "OriginalText": "グランエナジー・ラッシュ",
+    "Text": "Gran Energy Rush",
+    "Enabled": true
+  },
+  "201532": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "201533": {
+    "OriginalText": "クエストが追加されました。\n『グランエナジー・ラッシュ』",
+    "Text": "A new quest has been added:\n[Gran Energy Rush]",
+    "Enabled": true
+  },
+  "201540": {
+    "OriginalText": "難：炎の支配者",
+    "Text": "Challenge: Emperor of Flames",
+    "Enabled": true
+  },
+  "201541": {
+    "OriginalText": "難：炎の支配者",
+    "Text": "Challenge: Emperor of Flames",
+    "Enabled": true
+  },
+  "201542": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "201543": {
+    "OriginalText": "クエストが追加されました。\n『難：炎の支配者』",
+    "Text": "A new quest has been added:\n[Challenge: Emperor of Flames]",
+    "Enabled": true
+  },
+  "201550": {
+    "OriginalText": "波状防衛戦",
+    "Text": "Defensive Wave",
+    "Enabled": true
+  },
+  "201551": {
+    "OriginalText": "波状防衛戦",
+    "Text": "Defensive Wave",
+    "Enabled": true
+  },
+  "201552": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "201553": {
+    "OriginalText": "クエストが追加されました。\n『波状防衛戦』",
+    "Text": "A new quest has been added:\n[Defensive Wave]",
+    "Enabled": true
+  },
   "201554": {
-    "OriginalText": "クエストが追加されました。\n『運命の餅方』",
+    "OriginalText": "クエストが追加されました。\n『運命の殿方』",
     "Text": "Quest has been added.\n\"Destined Man\"",
     "Enabled": true
   },
@@ -1550,7 +1670,7 @@
     "Enabled": false
   },
   "201564": {
-    "OriginalText": "超：銅の荒野走破任務",
+    "OriginalText": "超：鋼の荒野走破任務",
     "Text": "Super: Steel Wasteland Coverage",
     "Enabled": true
   },
@@ -1580,7 +1700,7 @@
     "Enabled": true
   },
   "201570": {
-    "OriginalText": "超：大尖塔資材回収任務",
+    "OriginalText": "超：大尖塔資村回収任務",
     "Text": "Super: Large Spire Materials Recovery",
     "Enabled": true
   },
@@ -1610,7 +1730,7 @@
     "Enabled": true
   },
   "201576": {
-    "OriginalText": "超：錯砦のヴィヴリュード",
+    "OriginalText": "超：城砦のヴィヴリュード",
     "Text": "Super: Vivryude Stronghold",
     "Enabled": true
   },
@@ -1625,7 +1745,7 @@
     "Enabled": true
   },
   "201579": {
-    "OriginalText": "超：劇産のエウリュード",
+    "OriginalText": "超：氷海のエウリュード",
     "Text": "Super: Eurude of the Ice Sea",
     "Enabled": true
   },
@@ -1640,7 +1760,7 @@
     "Enabled": true
   },
   "201582": {
-    "OriginalText": "超：撃光の伝悪鬼",
+    "OriginalText": "超：激光の装悪鬼",
     "Text": "Super: Shining Demon",
     "Enabled": true
   },
@@ -1655,12 +1775,12 @@
     "Enabled": true
   },
   "201585": {
-    "OriginalText": "超：神雷の磁晶模",
+    "OriginalText": "超：神雷の磁晶龍",
     "Text": "Super: Magnetic Thunder God",
     "Enabled": true
   },
   "201586": {
-    "OriginalText": "難：銅の荒野殲滅任務",
+    "OriginalText": "難：鋼の荒野殲滅任務",
     "Text": "Challenge: Steel Wastelands Elimination",
     "Enabled": true
   },
@@ -1765,7 +1885,7 @@
     "Enabled": true
   },
   "210020": {
-    "OriginalText": "資材を回収しろ",
+    "OriginalText": "資村を回収しろ",
     "Text": "Collect the Materials",
     "Enabled": true
   },
@@ -1885,12 +2005,12 @@
     "Enabled": true
   },
   "210099": {
-    "OriginalText": "研究資材を回収しろ",
+    "OriginalText": "研究資村を回収しろ",
     "Text": "Collect the Research Materials",
     "Enabled": true
   },
   "210100": {
-    "OriginalText": "艦補修資材を回収しろ",
+    "OriginalText": "艦補修資村を回収しろ",
     "Text": "Collect Ship Repair Materials",
     "Enabled": true
   },
@@ -1925,7 +2045,7 @@
     "Enabled": true
   },
   "210107": {
-    "OriginalText": "医療施設資材を回収しろ",
+    "OriginalText": "医療施設資村を回収しろ",
     "Text": "Collect Medical Facility Materials",
     "Enabled": true
   },
@@ -1991,7 +2111,7 @@
   },
   "210120": {
     "OriginalText": "最後尾車両を撃破しろ",
-    "Text": "Destroy the rear-most unit",
+    "Text": "",
     "Enabled": false
   },
   "210121": {
@@ -2055,7 +2175,7 @@
     "Enabled": true
   },
   "210133": {
-    "OriginalText": "食材を回収しろ",
+    "OriginalText": "食村を回収しろ",
     "Text": "Collect the Ingredients",
     "Enabled": true
   },
@@ -2170,7 +2290,7 @@
     "Enabled": false
   },
   "210156": {
-    "OriginalText": "果洋を集めろ",
+    "OriginalText": "果物を集めろ",
     "Text": "Collect Fruit",
     "Enabled": true
   },
@@ -2180,7 +2300,7 @@
     "Enabled": true
   },
   "210158": {
-    "OriginalText": "中継伝置を回収しろ",
+    "OriginalText": "中継装置を回収しろ",
     "Text": "Collect the Relay Device",
     "Enabled": true
   },
@@ -2195,42 +2315,42 @@
     "Enabled": true
   },
   "230002": {
-    "OriginalText": "依頼者：フィルディア\n銅の荒野に取り残された先遣隊の生存者を\n捜索してくれ。\nダーカーがウヨウヨいて、どんなタイプが出て来るか\nオレにもわからんが、生存者の救出は絶対だ！\n今、戦えるのはお前たちしかいない。頼むぞ！\n\n同行者：ルティナ",
+    "OriginalText": "依頼者：フィルディア\n鋼の荒野に取り残された先遣隊の生存者を\n捜索してくれ。\nダーカーがウヨウヨいて、どんなタイプが出て来るか\nオレにもわからんが、生存者の救出は絶対だ！\n今、戦えるのはお前たちしかいない。頼むぞ！\n\n同行者：ルティナ",
     "Text": "Client: Fildia\nFind advance party survivors in the Steel\nWastelands. It's teeming with Darkers,\nbut we must rescue them! Only you two can\nfight right now. We're counting on you!\n\nCompanion(s): Lutina",
     "Enabled": true
   },
   "230003": {
-    "OriginalText": "依頼者：シャロン\n銅の荒野で艦のエネルギーとなるグラン結晶を\n集めてください。\nこの惑星の原生種かもしれない未知の生命反応が\n出ています。\n交戦の可能性もありますので警戒を怠らないで\nください。\n同行者：ルティナ セイル イズナ",
+    "OriginalText": "依頼者：シャロン\n鋼の荒野で艦のエネルギーとなるグラン結晶を\n集めてください。\nこの惑星の原生種かもしれない未知の生命反応が\n出ています。\n交戦の可能性もありますので警戒を怠らないで\nください。\n同行者：ルティナ セイル イズナ",
     "Text": "Client: Sharon\nGather Gran crystals in the Steel\nWastelands. Unknown bio-readings were\ndetected, likely a native species.\nCombat is likely to occur, so stay\nalert!\n\nCompanion(s): Lutina, Sail, Izuna",
     "Enabled": true
   },
   "230004": {
-    "OriginalText": "\n銅の荒野における哨戒作戦を任せる。\n指定地域を周回探索せよ。\n原生種に遭遇した場合は速やかに撃破するよう。\n経贄を制圧し、治安確保を確認次第、\n帰還許可を与える。\n",
+    "OriginalText": "\n鋼の荒野における哨戒作戦を任せる。\n指定地域を周回探索せよ。\n原生種に遭遇した場合は速やかに撃破するよう。\n経路を制圧し、治安確保を確認次第、\n帰還許可を与える。\n",
     "Text": "\nYou are assigned to patrol an area of\nthe Steel Wastelands. If you encounter\nany hostiles, eliminate them immediately.\n\nOnce you've secured the area, you are\nauthorized to return.",
     "Enabled": true
   },
   "230005": {
-    "OriginalText": "\n銅の荒野におけるダーカー討伐作戦を任せる。\nダーカーの反応を多数確認している指定地域へ\n速やかに向かうよう。\nこの作戦は素材として利用するダーカーの確保が\n目的である。\n",
+    "OriginalText": "\n鋼の荒野におけるダーカー討伐作戦を任せる。\nダーカーの反応を多数確認している指定地域へ\n速やかに向かうよう。\nこの作戦は素村として利用するダーカーの確保が\n目的である。\n",
     "Text": "\nYou've been granted an operation to\neliminate the Darkers in the Steel\nWastelands. Numerous Darkers have been\ndetected in the area. The goal of this\noperation is to secure materials\nfrom Darkers.\n",
     "Enabled": true
   },
   "230006": {
-    "OriginalText": "依頼者：フィルディア\n銅の荒野でグラン結晶を集めてくれ。\n新たに感知したヤツを全部頼むぞ。\nそれぐらい集めないと艦のエネルギーには全然\n足りないそうだ。ただし警戒は怠るな。\n生きて戻れなきゃ意味ないからな！\n\n同行者：ルティナ セイル イズナ",
+    "OriginalText": "依頼者：フィルディア\n鋼の荒野でグラン結晶を集めてくれ。\n新たに感知したヤツを全部頼むぞ。\nそれぐらい集めないと艦のエネルギーには全然\n足りないそうだ。ただし警戒は怠るな。\n生きて戻れなきゃ意味ないからな！\n\n同行者：ルティナ セイル イズナ",
     "Text": "Client: Fildia\nGather Gran Crystals in the Steel\nWastelands. Nab all of the newer ones\nwe've detected or we can't power the\nship.\n\nKeep sharp & don't die out there!\n\nCompanion(s): Lutina, Sail, Izuna",
     "Enabled": true
   },
   "230007": {
-    "OriginalText": "\n銅の荒野における大型原生種\nジャッドバンサー撃破作戦を任せる。\n現在、エリア内の最深部に反応あり。\n速やかに現場へ向かうよう。\n標的の撃破を確認次第、帰還許可を与える。",
+    "OriginalText": "\n鋼の荒野における大型原生種\nジャッドバンサー撃破作戦を任せる。\n現在、エリア内の最深部に反応あり。\n速やかに現場へ向かうよう。\n標的の撃破を確認次第、帰還許可を与える。",
     "Text": "\nSubdue the massive the Jhad\nBanther in the Steel Wastelands.\nWe detected it in the farthest depths.\n\nYou'll be granted permission to leave\nonce the target has been confirmed\nto be defeated.",
     "Enabled": true
   },
   "230008": {
-    "OriginalText": "依頼者：フィルディア\n銅の荒野へアグリオスを倒しに行く！\nヘイロウの威力を見せてやろうじゃねえか。\n足場を展開・包囲したら、攻撃有効箇所を\n見つけ集中攻撃だ！\n\n\n同行者：ルティナ セイル イズナ フィルディア\n[a 03]※この任務のみ一度クリアまでフィルディアが同行[b]",
+    "OriginalText": "依頼者：フィルディア\n鋼の荒野へアグリオスを倒しに行く！\nヘイロウの威力を見せてやろうじゃねえか。\n足場を展開・包囲したら、攻撃有効箇所を\n見つけ集中攻撃だ！\n\n\n同行者：ルティナ セイル イズナ フィルディア\n[a 03]※この任務のみ一度クリアまでフィルディアが同行[b]",
     "Text": "Client: Fildia\nDefeat the Agrios in the Steel Wastelands.\nFind all its weakspots & focus your\nattacks there!\n\nCompanion(s): Lutina, Sail, Izuna, Fildia\n※Fildia will temporarily join your party.",
     "Enabled": true
   },
   "230009": {
-    "OriginalText": "\n銅の荒野におけるアグリオス撃破作戦を任せる。\n似前、撃破したものとは別の個体を確認した。\n新兵器ヘイロウを使用し、足場を展開して\n標的を包囲し、弱点を集中攻撃せよ。\n",
+    "OriginalText": "\n鋼の荒野におけるアグリオス撃破作戦を任せる。\n以前、撃破したものとは別の個体を確認した。\n新兵器ヘイロウを使用し、足場を展開して\n標的を包囲し、弱点を集中攻撃せよ。\n",
     "Text": "You've been granted an operation to\ndefeat the Agrios in the Steel Wastelands.\nWe've confirmed that it is a different one\nto the one you've defeated last time.",
     "Enabled": true
   },
