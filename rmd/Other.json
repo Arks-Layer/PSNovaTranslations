@@ -1,0 +1,837 @@
+{
+  "1": {
+    "OriginalText": "",
+    "Text": "あ",
+    "Enabled": false
+  },
+  "57": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "190000": {
+    "OriginalText": "---",
+    "Text": "",
+    "Enabled": false
+  },
+  "190001": {
+    "OriginalText": "ガチャNPC1",
+    "Text": "",
+    "Enabled": false
+  },
+  "190002": {
+    "OriginalText": "ガチャNPC2",
+    "Text": "",
+    "Enabled": false
+  },
+  "190003": {
+    "OriginalText": "ガチャNPC3",
+    "Text": "",
+    "Enabled": false
+  },
+  "190004": {
+    "OriginalText": "ガチャNPC4",
+    "Text": "",
+    "Enabled": false
+  },
+  "190005": {
+    "OriginalText": "ガチャNPC5",
+    "Text": "",
+    "Enabled": false
+  },
+  "190006": {
+    "OriginalText": "ガチャNPC6",
+    "Text": "",
+    "Enabled": false
+  },
+  "190007": {
+    "OriginalText": "ガチャNPC7",
+    "Text": "",
+    "Enabled": false
+  },
+  "190008": {
+    "OriginalText": "ガチャNPC8",
+    "Text": "",
+    "Enabled": false
+  },
+  "190009": {
+    "OriginalText": "ガチャNPC9",
+    "Text": "",
+    "Enabled": false
+  },
+  "190010": {
+    "OriginalText": "ガチャNPC10",
+    "Text": "",
+    "Enabled": false
+  },
+  "190011": {
+    "OriginalText": "ガチャNPC11",
+    "Text": "",
+    "Enabled": false
+  },
+  "190012": {
+    "OriginalText": "ガチャNPC12",
+    "Text": "",
+    "Enabled": false
+  },
+  "190013": {
+    "OriginalText": "ガチャNPC13",
+    "Text": "",
+    "Enabled": false
+  },
+  "190014": {
+    "OriginalText": "ガチャNPC14",
+    "Text": "",
+    "Enabled": false
+  },
+  "190015": {
+    "OriginalText": "ガチャNPC15",
+    "Text": "",
+    "Enabled": false
+  },
+  "190016": {
+    "OriginalText": "ガチャNPC16",
+    "Text": "",
+    "Enabled": false
+  },
+  "190017": {
+    "OriginalText": "ガチャNPC17",
+    "Text": "",
+    "Enabled": false
+  },
+  "190018": {
+    "OriginalText": "ガチャNPC18",
+    "Text": "",
+    "Enabled": false
+  },
+  "190019": {
+    "OriginalText": "ガチャNPC19",
+    "Text": "",
+    "Enabled": false
+  },
+  "190020": {
+    "OriginalText": "ガチャNPC20",
+    "Text": "",
+    "Enabled": false
+  },
+  "190021": {
+    "OriginalText": "ガチャNPC21",
+    "Text": "",
+    "Enabled": false
+  },
+  "190022": {
+    "OriginalText": "ガチャNPC22",
+    "Text": "",
+    "Enabled": false
+  },
+  "190023": {
+    "OriginalText": "ガチャNPC23",
+    "Text": "",
+    "Enabled": false
+  },
+  "190024": {
+    "OriginalText": "ガチャNPC24",
+    "Text": "",
+    "Enabled": false
+  },
+  "190025": {
+    "OriginalText": "ガチャNPC25",
+    "Text": "",
+    "Enabled": false
+  },
+  "190026": {
+    "OriginalText": "ガチャNPC26",
+    "Text": "",
+    "Enabled": false
+  },
+  "190027": {
+    "OriginalText": "ガチャNPC27",
+    "Text": "",
+    "Enabled": false
+  },
+  "190028": {
+    "OriginalText": "ガチャNPC28",
+    "Text": "",
+    "Enabled": false
+  },
+  "190029": {
+    "OriginalText": "ガチャNPC29",
+    "Text": "",
+    "Enabled": false
+  },
+  "190030": {
+    "OriginalText": "ガチャNPC30",
+    "Text": "",
+    "Enabled": false
+  },
+  "240000": {
+    "OriginalText": "標準施設A",
+    "Text": "",
+    "Enabled": false
+  },
+  "40000": {
+    "OriginalText": "なし",
+    "Text": "",
+    "Enabled": false
+  },
+  "40001": {
+    "OriginalText": "武器名ダミー1",
+    "Text": "",
+    "Enabled": false
+  },
+  "40002": {
+    "OriginalText": "武器名ダミー2",
+    "Text": "",
+    "Enabled": false
+  },
+  "40003": {
+    "OriginalText": "武器名ダミー3",
+    "Text": "",
+    "Enabled": false
+  },
+  "40004": {
+    "OriginalText": "武器名ダミー4",
+    "Text": "",
+    "Enabled": false
+  },
+  "40005": {
+    "OriginalText": "武器名ダミー5",
+    "Text": "",
+    "Enabled": false
+  },
+  "40006": {
+    "OriginalText": "防具名ダミー1",
+    "Text": "",
+    "Enabled": false
+  },
+  "40007": {
+    "OriginalText": "防具名ダミー2",
+    "Text": "",
+    "Enabled": false
+  },
+  "40008": {
+    "OriginalText": "防具名ダミー3",
+    "Text": "",
+    "Enabled": false
+  },
+  "40009": {
+    "OriginalText": "防具名ダミー4",
+    "Text": "",
+    "Enabled": false
+  },
+  "40010": {
+    "OriginalText": "防具名ダミー5",
+    "Text": "",
+    "Enabled": false
+  },
+  "40011": {
+    "OriginalText": "コスチュームダミー1",
+    "Text": "",
+    "Enabled": false
+  },
+  "40012": {
+    "OriginalText": "コスチュームダミー2",
+    "Text": "",
+    "Enabled": false
+  },
+  "40013": {
+    "OriginalText": "コスチュームダミー3",
+    "Text": "",
+    "Enabled": false
+  },
+  "40014": {
+    "OriginalText": "コスチュームダミー4",
+    "Text": "",
+    "Enabled": false
+  },
+  "40015": {
+    "OriginalText": "コスチュームダミー5",
+    "Text": "",
+    "Enabled": false
+  },
+  "630000": {
+    "OriginalText": "//",
+    "Text": "",
+    "Enabled": false
+  },
+  "70000": {
+    "OriginalText": "スキルコンボダミー0 削除予定テキスト このメッセージを使用していたら 50000に変更",
+    "Text": "",
+    "Enabled": false
+  },
+  "70001": {
+    "OriginalText": "フューリーSアップ 削除予定テキスト このメッセージを使用していたら 50000に変更",
+    "Text": "",
+    "Enabled": false
+  },
+  "70002": {
+    "OriginalText": "JGA可能 削除予定テキスト このメッセージを使用していたら 50000に変更",
+    "Text": "",
+    "Enabled": false
+  },
+  "70003": {
+    "OriginalText": "ブレイブクリティカル 削除予定テキスト このメッセージを使用していたら 50000に変更",
+    "Text": "",
+    "Enabled": false
+  },
+  "70004": {
+    "OriginalText": "ワイズクリティカル 削除予定テキスト このメッセージを使用していたら 50000に変更",
+    "Text": "",
+    "Enabled": false
+  },
+  "70005": {
+    "OriginalText": "ブレイブSアップ 削除予定テキスト このメッセージを使用していたら 50000に変更",
+    "Text": "",
+    "Enabled": false
+  },
+  "70006": {
+    "OriginalText": "ワイズSアップ 削除予定テキスト このメッセージを使用していたら 50000に変更",
+    "Text": "",
+    "Enabled": false
+  },
+  "70007": {
+    "OriginalText": "ジャストカウンター 削除予定テキスト このメッセージを使用していたら 50000に変更",
+    "Text": "",
+    "Enabled": false
+  },
+  "70008": {
+    "OriginalText": "ガードPP変換 削除予定テキスト このメッセージを使用していたら 50000に変更",
+    "Text": "",
+    "Enabled": false
+  },
+  "70009": {
+    "OriginalText": "スーパーアーマー 削除予定テキスト このメッセージを使用していたら 50000に変更",
+    "Text": "",
+    "Enabled": false
+  },
+  "70010": {
+    "OriginalText": "ダイブロールアドバンス 削除予定テキスト このメッセージを使用していたら 50000に変更",
+    "Text": "",
+    "Enabled": false
+  },
+  "70011": {
+    "OriginalText": "アベレージSアップ 削除予定テキスト このメッセージを使用していたら 50000に変更",
+    "Text": "",
+    "Enabled": false
+  },
+  "70012": {
+    "OriginalText": "コンセントレーション 削除予定テキスト このメッセージを使用していたら 50000に変更",
+    "Text": "",
+    "Enabled": false
+  },
+  "70013": {
+    "OriginalText": "テックJAアドバンス 削除予定テキスト このメッセージを使用していたら 50000に変更",
+    "Text": "",
+    "Enabled": false
+  },
+  "70014": {
+    "OriginalText": "シフタクリティカル 削除予定テキスト このメッセージを使用していたら 50000に変更",
+    "Text": "",
+    "Enabled": false
+  },
+  "70015": {
+    "OriginalText": "デバンドカット 削除予定テキスト このメッセージを使用していたら 50000に変更",
+    "Text": "",
+    "Enabled": false
+  },
+  "70016": {
+    "OriginalText": "ジャストアタックPP0 削除予定テキスト このメッセージを使用していたら 50000に変更",
+    "Text": "",
+    "Enabled": false
+  },
+  "70017": {
+    "OriginalText": "残HP少法撃力アップ 削除予定テキスト このメッセージを使用していたら 50000に変更",
+    "Text": "",
+    "Enabled": false
+  },
+  "70018": {
+    "OriginalText": "フラッシュテックガード 削除予定テキスト このメッセージを使用していたら 50000に変更",
+    "Text": "",
+    "Enabled": false
+  },
+  "70019": {
+    "OriginalText": "ソード・マスタリー 削除予定テキスト このメッセージを使用していたら 50000に変更",
+    "Text": "",
+    "Enabled": false
+  },
+  "70020": {
+    "OriginalText": "パルチザン・マスタリー 削除予定テキスト このメッセージを使用していたら 50000に変更",
+    "Text": "",
+    "Enabled": false
+  },
+  "70021": {
+    "OriginalText": "ダブルセイバー・マスタリー 削除予定テキスト このメッセージを使用していたら 50000に変更",
+    "Text": "",
+    "Enabled": false
+  },
+  "70022": {
+    "OriginalText": "アサルトライフル・マスタリー 削除予定テキスト このメッセージを使用していたら 50000に変更",
+    "Text": "",
+    "Enabled": false
+  },
+  "70023": {
+    "OriginalText": "ツインマシンガン・マスタリー 削除予定テキスト このメッセージを使用していたら 50000に変更",
+    "Text": "",
+    "Enabled": false
+  },
+  "70024": {
+    "OriginalText": "ロッド・マスタリー 削除予定テキスト このメッセージを使用していたら 50000に変更",
+    "Text": "",
+    "Enabled": false
+  },
+  "70025": {
+    "OriginalText": "タリス・マスタリー 削除予定テキスト このメッセージを使用していたら 50000に変更",
+    "Text": "",
+    "Enabled": false
+  },
+  "70026": {
+    "OriginalText": "ウォンド・マスタリー 削除予定テキスト このメッセージを使用していたら 50000に変更",
+    "Text": "",
+    "Enabled": false
+  },
+  "70027": {
+    "OriginalText": "残HP少攻撃力アップⅡ 削除予定テキスト このメッセージを使用していたら 50000に変更",
+    "Text": "",
+    "Enabled": false
+  },
+  "70028": {
+    "OriginalText": "バレット・マスタリー 削除予定テキスト このメッセージを使用していたら 50000に変更",
+    "Text": "",
+    "Enabled": false
+  },
+  "70029": {
+    "OriginalText": "フレイムガード 削除予定テキスト このメッセージを使用していたら 50000に変更",
+    "Text": "",
+    "Enabled": false
+  },
+  "70030": {
+    "OriginalText": "アイスガード 削除予定テキスト このメッセージを使用していたら 50000に変更",
+    "Text": "",
+    "Enabled": false
+  },
+  "70031": {
+    "OriginalText": "サンダーガード 削除予定テキスト このメッセージを使用していたら 50000に変更",
+    "Text": "",
+    "Enabled": false
+  },
+  "70032": {
+    "OriginalText": "ウィンドガード 削除予定テキスト このメッセージを使用していたら 50000に変更",
+    "Text": "",
+    "Enabled": false
+  },
+  "70033": {
+    "OriginalText": "ライトガード 削除予定テキスト このメッセージを使用していたら 50000に変更",
+    "Text": "",
+    "Enabled": false
+  },
+  "70034": {
+    "OriginalText": "ダークガード 削除予定テキスト このメッセージを使用していたら 50000に変更",
+    "Text": "",
+    "Enabled": false
+  },
+  "70035": {
+    "OriginalText": "状態異常お返し 削除予定テキスト このメッセージを使用していたら 50000に変更",
+    "Text": "",
+    "Enabled": false
+  },
+  "70036": {
+    "OriginalText": "HPアップⅣ 削除予定テキスト このメッセージを使用していたら 50000に変更",
+    "Text": "",
+    "Enabled": false
+  },
+  "70037": {
+    "OriginalText": "PPアップⅣ 削除予定テキスト このメッセージを使用していたら 50000に変更",
+    "Text": "",
+    "Enabled": false
+  },
+  "70038": {
+    "OriginalText": "打撃力アップⅣ 削除予定テキスト このメッセージを使用していたら 50000に変更",
+    "Text": "",
+    "Enabled": false
+  },
+  "70039": {
+    "OriginalText": "射撃力アップⅣ 削除予定テキスト このメッセージを使用していたら 50000に変更",
+    "Text": "",
+    "Enabled": false
+  },
+  "70040": {
+    "OriginalText": "法撃力アップⅢ 削除予定テキスト このメッセージを使用していたら 50000に変更",
+    "Text": "",
+    "Enabled": false
+  },
+  "70041": {
+    "OriginalText": "防御アップⅣ 削除予定テキスト このメッセージを使用していたら 50000に変更",
+    "Text": "",
+    "Enabled": false
+  },
+  "70042": {
+    "OriginalText": "反応アップⅣ 削除予定テキスト このメッセージを使用していたら 50000に変更",
+    "Text": "",
+    "Enabled": false
+  },
+  "70043": {
+    "OriginalText": "精神アップⅢ 削除予定テキスト このメッセージを使用していたら 50000に変更",
+    "Text": "",
+    "Enabled": false
+  },
+  "70044": {
+    "OriginalText": "技量アップⅣ 削除予定テキスト このメッセージを使用していたら 50000に変更",
+    "Text": "",
+    "Enabled": false
+  },
+  "70045": {
+    "OriginalText": "ナックル・マスタリー 削除予定テキスト このメッセージを使用していたら 50000に変更",
+    "Text": "",
+    "Enabled": false
+  },
+  "70046": {
+    "OriginalText": "テリトリーGPセイブ 削除予定テキスト このメッセージを使用していたら 50000に変更",
+    "Text": "",
+    "Enabled": false
+  },
+  "70047": {
+    "OriginalText": "ウォンドリアクター 削除予定テキスト このメッセージを使用していたら 50000に変更",
+    "Text": "",
+    "Enabled": false
+  },
+  "70048": {
+    "OriginalText": "リキャストセーブ 削除予定テキスト このメッセージを使用していたら 50000に変更",
+    "Text": "",
+    "Enabled": false
+  },
+  "740000": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "790000": {
+    "OriginalText": "",
+    "Text": "",
+    "Enabled": false
+  },
+  "80000": {
+    "OriginalText": "なし 削除予定テキスト このメッセージを使用していたら 60000に変更",
+    "Text": "",
+    "Enabled": false
+  },
+  "80001": {
+    "OriginalText": "フューリースタンス中にエネミーへの\n打撃・射撃ダメージを上昇する。 削除予定テキスト このメッセージを使用していたら 60000に変更",
+    "Text": "",
+    "Enabled": false
+  },
+  "80002": {
+    "OriginalText": "ジャストガード成功時に自動的に\n通常攻撃１段目が発生する。 削除予定テキスト このメッセージを使用していたら 60000に変更",
+    "Text": "",
+    "Enabled": false
+  },
+  "80003": {
+    "OriginalText": "ブレイブスタンス中、エネミーの\n前面からダメージを与えたときの\nクリティカルヒット確率が上昇する。 削除予定テキスト このメッセージを使用していたら 60000に変更",
+    "Text": "",
+    "Enabled": false
+  },
+  "80004": {
+    "OriginalText": "ワイズスタンス中、エネミーの\n背後からダメージを与えたときの\nクリティカルヒット確率が上昇する。 削除予定テキスト このメッセージを使用していたら 60000に変更",
+    "Text": "",
+    "Enabled": false
+  },
+  "80005": {
+    "OriginalText": "ブレイブスタンス中、エネミーの\n前面からダメージを与えたときに\nボーナスを得る。 削除予定テキスト このメッセージを使用していたら 60000に変更",
+    "Text": "",
+    "Enabled": false
+  },
+  "80006": {
+    "OriginalText": "ワイズスタンス中、エネミーの\n背後からダメージを与えたときに\nボーナスを得る。 削除予定テキスト このメッセージを使用していたら 60000に変更",
+    "Text": "",
+    "Enabled": false
+  },
+  "80007": {
+    "OriginalText": "ジャストガード成功直後の攻撃が\nジャストアタックになる。 削除予定テキスト このメッセージを使用していたら 60000に変更",
+    "Text": "",
+    "Enabled": false
+  },
+  "80008": {
+    "OriginalText": "ガードが成立してから一定時間、\nGPが滅らなくなる。 削除予定テキスト このメッセージを使用していたら 60000に変更",
+    "Text": "",
+    "Enabled": false
+  },
+  "80009": {
+    "OriginalText": "最大HPに対して一定割合未満の\nダメージを受けたとき、\nダメージモーションを取らなくなる。 削除予定テキスト このメッセージを使用していたら 60000に変更",
+    "Text": "",
+    "Enabled": false
+  },
+  "80010": {
+    "OriginalText": "ダイブロール中の無敵時間を\n延長する。 削除予定テキスト このメッセージを使用していたら 60000に変更",
+    "Text": "",
+    "Enabled": false
+  },
+  "80011": {
+    "OriginalText": "ツール系スキルの威力が増加する。 削除予定テキスト このメッセージを使用していたら 60000に変更",
+    "Text": "",
+    "Enabled": false
+  },
+  "80012": {
+    "OriginalText": "射撃がエネミーの弱点箇所にヒット\nし続けると、技量と威力が上昇する。\n 削除予定テキスト このメッセージを使用していたら 60000に変更",
+    "Text": "",
+    "Enabled": false
+  },
+  "80013": {
+    "OriginalText": "テクニックのジャストアタックに\nダメージボーナスを得る。 削除予定テキスト このメッセージを使用していたら 60000に変更",
+    "Text": "",
+    "Enabled": false
+  },
+  "80014": {
+    "OriginalText": "シフタ効果中にクリティカルヒット\n確率が上昇する。 削除予定テキスト このメッセージを使用していたら 60000に変更",
+    "Text": "",
+    "Enabled": false
+  },
+  "80015": {
+    "OriginalText": "デバンド効果中に一定の割合の\nダメージを軽滅する。 削除予定テキスト このメッセージを使用していたら 60000に変更",
+    "Text": "",
+    "Enabled": false
+  },
+  "80016": {
+    "OriginalText": "ジャストアタック時にGAやテクニック\nを使用してもGPを滅らさず、連続成功\nするほどJA判定時間を短縮する。 削除予定テキスト このメッセージを使用していたら 60000に変更",
+    "Text": "",
+    "Enabled": false
+  },
+  "80017": {
+    "OriginalText": "残HPが一定量以下になると\n法撃力が上昇する。 削除予定テキスト このメッセージを使用していたら 60000に変更",
+    "Text": "",
+    "Enabled": false
+  },
+  "80018": {
+    "OriginalText": "法撃ダメージを軽滅することがある。 削除予定テキスト このメッセージを使用していたら 60000に変更",
+    "Text": "",
+    "Enabled": false
+  },
+  "80019": {
+    "OriginalText": "ソードの威力が上昇する。 削除予定テキスト このメッセージを使用していたら 60000に変更",
+    "Text": "",
+    "Enabled": false
+  },
+  "80020": {
+    "OriginalText": "パルチザンの威力が上昇する。 削除予定テキスト このメッセージを使用していたら 60000に変更",
+    "Text": "",
+    "Enabled": false
+  },
+  "80021": {
+    "OriginalText": "ダブルセイバーの威力が上昇する。 削除予定テキスト このメッセージを使用していたら 60000に変更",
+    "Text": "",
+    "Enabled": false
+  },
+  "80022": {
+    "OriginalText": "アサルトライフルの威力が上昇する。 削除予定テキスト このメッセージを使用していたら 60000に変更",
+    "Text": "",
+    "Enabled": false
+  },
+  "80023": {
+    "OriginalText": "ツインマシンガンの威力が上昇する。 削除予定テキスト このメッセージを使用していたら 60000に変更",
+    "Text": "",
+    "Enabled": false
+  },
+  "80024": {
+    "OriginalText": "ロッドの威力が上昇する。 削除予定テキスト このメッセージを使用していたら 60000に変更",
+    "Text": "",
+    "Enabled": false
+  },
+  "80025": {
+    "OriginalText": "タリスの威力が上昇する。 削除予定テキスト このメッセージを使用していたら 60000に変更",
+    "Text": "",
+    "Enabled": false
+  },
+  "80026": {
+    "OriginalText": "ウォンドの威力が上昇する。 削除予定テキスト このメッセージを使用していたら 60000に変更",
+    "Text": "",
+    "Enabled": false
+  },
+  "80027": {
+    "OriginalText": "残HPが一定量以下になると\n法撃力が上昇する。 削除予定テキスト このメッセージを使用していたら 60000に変更",
+    "Text": "",
+    "Enabled": false
+  },
+  "80028": {
+    "OriginalText": "射撃攻撃時の状態異常発生確率が\n上昇する。 削除予定テキスト このメッセージを使用していたら 60000に変更",
+    "Text": "",
+    "Enabled": false
+  },
+  "80029": {
+    "OriginalText": "炎系ダメージを軽滅する。 削除予定テキスト このメッセージを使用していたら 60000に変更",
+    "Text": "",
+    "Enabled": false
+  },
+  "80030": {
+    "OriginalText": "氷系ダメージを軽滅する。 削除予定テキスト このメッセージを使用していたら 60000に変更",
+    "Text": "",
+    "Enabled": false
+  },
+  "80031": {
+    "OriginalText": "雷系ダメージを軽滅する。 削除予定テキスト このメッセージを使用していたら 60000に変更",
+    "Text": "",
+    "Enabled": false
+  },
+  "80032": {
+    "OriginalText": "風系ダメージを軽滅する。 削除予定テキスト このメッセージを使用していたら 60000に変更",
+    "Text": "",
+    "Enabled": false
+  },
+  "80033": {
+    "OriginalText": "光系ダメージを軽滅する。 削除予定テキスト このメッセージを使用していたら 60000に変更",
+    "Text": "",
+    "Enabled": false
+  },
+  "80034": {
+    "OriginalText": "闇系ダメージを軽滅する。 削除予定テキスト このメッセージを使用していたら 60000に変更",
+    "Text": "",
+    "Enabled": false
+  },
+  "80035": {
+    "OriginalText": "敵から攻撃を受けて状態異常になった時\nその敵にも同じ状態異常を付加する。\n 削除予定テキスト このメッセージを使用していたら 60000に変更",
+    "Text": "",
+    "Enabled": false
+  },
+  "80036": {
+    "OriginalText": "HP最大値がさらに大きく上昇する。 削除予定テキスト このメッセージを使用していたら 60000に変更",
+    "Text": "",
+    "Enabled": false
+  },
+  "80037": {
+    "OriginalText": "GP最大値がさらに大きく上昇する。 削除予定テキスト このメッセージを使用していたら 60000に変更",
+    "Text": "",
+    "Enabled": false
+  },
+  "80038": {
+    "OriginalText": "打撃力がさらに大きく上昇する。 削除予定テキスト このメッセージを使用していたら 60000に変更",
+    "Text": "",
+    "Enabled": false
+  },
+  "80039": {
+    "OriginalText": "射撃力がさらに大きく上昇する。 削除予定テキスト このメッセージを使用していたら 60000に変更",
+    "Text": "",
+    "Enabled": false
+  },
+  "80040": {
+    "OriginalText": "法撃力がさらに大きく上昇する。 削除予定テキスト このメッセージを使用していたら 60000に変更",
+    "Text": "",
+    "Enabled": false
+  },
+  "80041": {
+    "OriginalText": "打撃防御力がさらに大きく上昇する。 削除予定テキスト このメッセージを使用していたら 60000に変更",
+    "Text": "",
+    "Enabled": false
+  },
+  "80042": {
+    "OriginalText": "射撃防御力がさらに大きく上昇する。 削除予定テキスト このメッセージを使用していたら 60000に変更",
+    "Text": "",
+    "Enabled": false
+  },
+  "80043": {
+    "OriginalText": "法撃防御力がさらに大きく上昇する。 削除予定テキスト このメッセージを使用していたら 60000に変更",
+    "Text": "",
+    "Enabled": false
+  },
+  "80044": {
+    "OriginalText": "技量がさらに大きく上昇する。 削除予定テキスト このメッセージを使用していたら 60000に変更",
+    "Text": "",
+    "Enabled": false
+  },
+  "80045": {
+    "OriginalText": "ナックルの威力が上昇する。 削除予定テキスト このメッセージを使用していたら 60000に変更",
+    "Text": "",
+    "Enabled": false
+  },
+  "80046": {
+    "OriginalText": "テリトリーバースト中、\n補助テクニックの消費GPを軽滅する。\nテリトリーバースト習得時のみ有効。 削除予定テキスト このメッセージを使用していたら 60000に変更",
+    "Text": "",
+    "Enabled": false
+  },
+  "80047": {
+    "OriginalText": "装備しているウォンドの法撃力から\n一定割合を打撃力として追加する。 削除予定テキスト このメッセージを使用していたら 60000に変更",
+    "Text": "",
+    "Enabled": false
+  },
+  "80048": {
+    "OriginalText": "アクティブスキルのリキャスト時間を\n一定時間短縮する。     削除予定テキスト このメッセージを使用していたら 60000に変更",
+    "Text": "",
+    "Enabled": false
+  },
+  "830100": {
+    "OriginalText": "本来の性能に関係なく\n武器★1相当の攻撃力を発揮できる。",
+    "Text": "",
+    "Enabled": false
+  },
+  "830101": {
+    "OriginalText": "本来の性能に関係なく\n武器★2相当の攻撃力を発揮できる。",
+    "Text": "",
+    "Enabled": false
+  },
+  "830102": {
+    "OriginalText": "本来の性能に関係なく\n武器★3相当の攻撃力を発揮できる。",
+    "Text": "",
+    "Enabled": false
+  },
+  "830103": {
+    "OriginalText": "本来の性能に関係なく\n武器★4相当の攻撃力を発揮できる。",
+    "Text": "",
+    "Enabled": false
+  },
+  "830104": {
+    "OriginalText": "本来の性能に関係なく\n武器★5相当の攻撃力を発揮できる。",
+    "Text": "",
+    "Enabled": false
+  },
+  "830105": {
+    "OriginalText": "本来の性能に関係なく\n武器★6相当の攻撃力を発揮できる。",
+    "Text": "",
+    "Enabled": false
+  },
+  "830106": {
+    "OriginalText": "本来の性能に関係なく\n武器★7相当の攻撃力を発揮できる。",
+    "Text": "",
+    "Enabled": false
+  },
+  "830107": {
+    "OriginalText": "本来の性能に関係なく\n武器★8相当の攻撃力を発揮できる。",
+    "Text": "",
+    "Enabled": false
+  },
+  "830108": {
+    "OriginalText": "本来の性能に関係なく\n武器★9相当の攻撃力を発揮できる。",
+    "Text": "",
+    "Enabled": false
+  },
+  "830109": {
+    "OriginalText": "本来の性能に関係なく\n武器★10相当の攻撃力を発揮できる。",
+    "Text": "",
+    "Enabled": false
+  },
+  "830110": {
+    "OriginalText": "本来の性能に関係なく\n武器★11相当の攻撃力を発揮できる。",
+    "Text": "",
+    "Enabled": false
+  },
+  "830111": {
+    "OriginalText": "本来の性能に関係なく\n武器★12相当の攻撃力を発揮できる。",
+    "Text": "",
+    "Enabled": false
+  },
+  "830112": {
+    "OriginalText": "本来の性能に関係なく\n武器★13相当の攻撃力を発揮できる。",
+    "Text": "",
+    "Enabled": false
+  },
+  "830113": {
+    "OriginalText": "本来の性能に関係なく\n武器★14相当の攻撃力を発揮できる。",
+    "Text": "",
+    "Enabled": false
+  },
+  "830114": {
+    "OriginalText": "本来の性能に関係なく\n武器★15相当の攻撃力を発揮できる。",
+    "Text": "",
+    "Enabled": false
+  },
+  "830115": {
+    "OriginalText": "本来の性能に関係なく\n武器種最高の攻撃力を発揮できる。",
+    "Text": "",
+    "Enabled": false
+  }
+}

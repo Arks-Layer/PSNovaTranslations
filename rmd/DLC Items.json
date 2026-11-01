@@ -1,0 +1,282 @@
+{
+  "1000052": {
+    "OriginalText": "経験値ブースト2倍 01",
+    "Text": "Double EXP Boost 01",
+    "Enabled": true
+  },
+  "1000053": {
+    "OriginalText": "【初回封入特典】\n「EXPブースト+100％」を10個入手できる。",
+    "Text": "[First Time Bonus]\nYou'll receive: \"EXP Boost +100%\" x10.",
+    "Enabled": true
+  },
+  "1000080": {
+    "OriginalText": "ヴィテスシュタルクＷ セット",
+    "Text": "Vitesse Stark W Set",
+    "Enabled": true
+  },
+  "1000081": {
+    "OriginalText": "【初回封入特典】\nコスチューム「ヴィテスシュタルクＷ」を\n入手できる。\n髪型「ヴィテスシュタルクＷメット」を\nエステで選択できるようになる。\n[a 07]※ヴィテスシュタルクＷは\n全種族（男性）用コスチュームとなります。[b]",
+    "Text": "【初回封入特典】\nコスチューム「ヴィテスシュタルクＷ」を\n入手できる。\n髪型「ヴィテスシュタルクＷメット」を\nエステで選択できるようになる。\n[a 07]※ヴィテスシュタルクＷは\n全種族（男性）用コスチュームとなります。[b]",
+    "Enabled": false
+  },
+  "1000082": {
+    "OriginalText": "ヴィテスシュタルクＷ",
+    "Text": "Vitesse Stark W",
+    "Enabled": true
+  },
+  "1000083": {
+    "OriginalText": "正義の味方を気取るアークススーツ。\nそこにいるだけで子どもたちに信頼され\n熱い眼差しで見つめられること確実。\n[a 03]※この服はカラーを変更できません[b]",
+    "Text": "正義の味方を気取るアークススーツ。\nそこにいるだけで子どもたちに信頼され\n熱い眼差しで見つめられること確実。\n[a 03]※この服はカラーを変更できません[b]",
+    "Enabled": false
+  },
+  "1000084": {
+    "OriginalText": "ヴィテスシュタルクＷメット",
+    "Text": "Vitesse Stark W Helmet",
+    "Enabled": true
+  },
+  "1000085": {
+    "OriginalText": "ヴィテスシュタルクＷメットのアイテム説明 (※髪型のため、説明なし)",
+    "Text": "ヴィテスシュタルクＷメットのアイテム説明 (※髪型のため、説明なし)",
+    "Enabled": false
+  },
+  "1000086": {
+    "OriginalText": "グラスフォーアネームＧ",
+    "Text": "Glas Vornehm G",
+    "Enabled": true
+  },
+  "1000087": {
+    "OriginalText": "【初回封入特典】\nコスチューム「グラスフォーアネームＧ」を\n入手できる。\n[a 07]※グラスフォーアネームＧは\n全種族（女性）用コスチュームとなります。[b]",
+    "Text": "",
+    "Enabled": false
+  },
+  "1000088": {
+    "OriginalText": "グラスフォーアネームＧ",
+    "Text": "Glas Vornehm G",
+    "Enabled": true
+  },
+  "1000089": {
+    "OriginalText": "女の子らしさを極めたアークススーツ。\n戦場に舞う可憐な蝶を思わせるその姿に\n見る者は思わず守ってあげたくなる。\n[a 03]※この服はカラーを変更できません[b]",
+    "Text": "女の子らしさを極めたアークススーツ。\n戦場に舞う可憐な蝶を思わせるその姿に\n見る者は思わず守ってあげたくなる。\n[a 03]※この服はカラーを変更できません[b]",
+    "Enabled": false
+  },
+  "1000090": {
+    "OriginalText": "スターオーシャン４ エッジ セット",
+    "Text": "Star Ocean 4: Edge Set",
+    "Enabled": false
+  },
+  "1000091": {
+    "OriginalText": "【スターオーシャン４ コラボ】\nコスチューム「ＳＲＦアーマー」と、\n武器「ＳＲＦブレード」を\n入手できる。\n[a 07]※ＳＲＦアーマーは\n全種族（男性）用コスチュームとなります。[b]",
+    "Text": "",
+    "Enabled": false
+  },
+  "1000092": {
+    "OriginalText": "ＳＲＦアーマー",
+    "Text": "SRF Armor",
+    "Enabled": true
+  },
+  "1000093": {
+    "OriginalText": "宇宙開拓隊で使われる一般的な戦闘服。\n外宇宙での戦闘にも耐えうる程の\n強度と柔軟性を持ち合わせる一品。\n[a 03]※この服はカラーを変更できません[b]",
+    "Text": "",
+    "Enabled": false
+  },
+  "1000094": {
+    "OriginalText": "ＳＲＦブレード",
+    "Text": "SRF Blade",
+    "Enabled": true
+  },
+  "1000095": {
+    "OriginalText": "宇宙開拓隊で使われる一般的なブレード。\nエッジのカスタマイズにより、汎用品以上の\n性能を発揮する強力な武器となっている。",
+    "Text": "",
+    "Enabled": false
+  },
+  "1000096": {
+    "OriginalText": "スターオーシャン４ レイミ セット",
+    "Text": "Star Ocean 4: Reimi Set",
+    "Enabled": true
+  },
+  "1000097": {
+    "OriginalText": "【スターオーシャン４ コラボ】\nコスチューム「ＳＲＦプロテクター」を\n入手できる。\nアクセサリー「レイミリボン」を\nエステで選択できるようになる。\n[a 07]※全種族（女性）用コスチュームと\nアクセサリーとなります。[b]",
+    "Text": "",
+    "Enabled": false
+  },
+  "1000098": {
+    "OriginalText": "ＳＲＦプロテクター",
+    "Text": "SRF Protector",
+    "Enabled": true
+  },
+  "1000099": {
+    "OriginalText": "宇宙開拓隊で使われる一般的な戦闘服。\n軽量な装備ながら、十分な防御性を誇る\n星の海での旅をサポートする心強い装備。\n[a 03]※この服はカラーを変更できません[b]",
+    "Text": "",
+    "Enabled": false
+  },
+  "1000100": {
+    "OriginalText": "レイミリボン",
+    "Text": "Reimi Ribbon",
+    "Enabled": true
+  },
+  "1000101": {
+    "OriginalText": "長い髪を結える、ピンク色の紐リボン。\nレイミ愛用の品であり、チャームポイント\nとなっている。",
+    "Text": "長い髪を結える、ピンク色の紐リボン。\nレイミ愛用の品であり、チャームポイント\nとなっている。",
+    "Enabled": false
+  },
+  "1000102": {
+    "OriginalText": "ヴァルキリープロファイル レナス セット",
+    "Text": "Valkyrie Profile: Lenneth Set",
+    "Enabled": true
+  },
+  "1000103": {
+    "OriginalText": "【ヴァルキリープロファイル コラボ】\nコスチューム「ヴァルキリーガーブ」と、\n武器「人の剣」を入手できる。\n髪型「シルバーブライド」を\nエステで選択できるようになる。\n[a 07]※全種族（女性）用コスチュームと\nヘアスタイルとなります。[b]",
+    "Text": "【ヴァルキリープロファイル コラボ】\nコスチューム「ヴァルキリーガーブ」と、\n武器「人の剣」を入手できる。\n髪型「シルバーブライド」を\nエステで選択できるようになる。\n[a 07]※全種族（女性）用コスチュームと\nヘアスタイルとなります。[b]",
+    "Enabled": false
+  },
+  "1000104": {
+    "OriginalText": "ヴァルキリーガーブ",
+    "Text": "Valkyrie Garb",
+    "Enabled": true
+  },
+  "1000105": {
+    "OriginalText": "とある惑星の戦乙女・ヴァルキリーの力を\n秘めた美しい衣服。装備者の無事を祈る\n人々の想いが込められている。\n[a 03]※この服はカラーを変更できません[b]",
+    "Text": "",
+    "Enabled": false
+  },
+  "1000106": {
+    "OriginalText": "シルバーブライド",
+    "Text": "Silver Braid",
+    "Enabled": true
+  },
+  "1000107": {
+    "OriginalText": "シルバーブライドのアイテム説明 (髪型のため、説明なし)",
+    "Text": "",
+    "Enabled": false
+  },
+  "1000108": {
+    "OriginalText": "人の剣 神を斬獲せし者",
+    "Text": "Villain's Sword: \"Angel Slayer\"",
+    "Enabled": true
+  },
+  "1000109": {
+    "OriginalText": "天使を殺し続けた人に贈られる\n破壊の剣。どんな偉大な神も\nこの剣の前には無力となる。",
+    "Text": "",
+    "Enabled": false
+  },
+  "1000110": {
+    "OriginalText": "エンド オブ エタニティ ヴァシュロン セット",
+    "Text": "Resonance of Fate: Vashyron Set",
+    "Enabled": true
+  },
+  "1000111": {
+    "OriginalText": "【エンド オブ エタニティ コラボ】\nコスチューム「ヴァシュロンジャケット」と、\n武器「４５-ＡＵＴＯ」を入手できる。\n[a 07]※ヴァシュロンジャケットは\n全種族（男性）用コスチュームとなります。[b]",
+    "Text": "",
+    "Enabled": false
+  },
+  "1000112": {
+    "OriginalText": "ヴァシュロンジャケット",
+    "Text": "Vashyron Jacket",
+    "Enabled": true
+  },
+  "1000113": {
+    "OriginalText": "使い込まれた味のあるレザージャケット。\nカジュアルかつどこかワイルドな印象を\n持つヴァシュロンお気に入りの品。\n[a 03]※この服はカラーを変更できません[b]",
+    "Text": "",
+    "Enabled": false
+  },
+  "1000114": {
+    "OriginalText": "４５-ＡＵＴＯ",
+    "Text": "45-Auto",
+    "Enabled": true
+  },
+  "1000115": {
+    "OriginalText": "携帯しやすい小型のハンドガン。\n非常に多くのカスタマイズパーツが\n存在し、使い手を選ばない仕様。",
+    "Text": "",
+    "Enabled": false
+  },
+  "1000116": {
+    "OriginalText": "エンド オブ エタニティ ゼファー セット",
+    "Text": "Resonance of Fate: Zephyr Set",
+    "Enabled": true
+  },
+  "1000117": {
+    "OriginalText": "【エンド オブ エタニティ コラボ】\nコスチューム「ゼファージャケット」と、\n武器「ＳＭＧ-０５」を入手できる。\n[a 07]※ゼファージャケットは\n全種族（男性）用コスチュームとなります。[b]",
+    "Text": "",
+    "Enabled": false
+  },
+  "1000118": {
+    "OriginalText": "ゼファージャケット",
+    "Text": "Zephyr Jacket",
+    "Enabled": true
+  },
+  "1000119": {
+    "OriginalText": "動きやすさとデザイン性を重視した\nカジュアルな若者向けのジャケット。\n伸縮性があり、激しい動きも安心。\n[a 03]※この服はカラーを変更できません[b]",
+    "Text": "",
+    "Enabled": false
+  },
+  "1000120": {
+    "OriginalText": "ＳＭＧ-０５",
+    "Text": "SMG-05",
+    "Enabled": true
+  },
+  "1000121": {
+    "OriginalText": "標準的な性能ながら、カスタマイズ性に\n優れている、ゼファー愛用のマシンガン。\n近距離での攻撃力に優れている。",
+    "Text": "",
+    "Enabled": false
+  },
+  "1000122": {
+    "OriginalText": "エンド オブ エタニティ リーンベル セット",
+    "Text": "Resonance of Fate: Reanbell Set",
+    "Enabled": true
+  },
+  "1000123": {
+    "OriginalText": "【エンド オブ エタニティ コラボ】\nコスチューム「リーンベルコート」と、\n武器「Ｂ-８４」を入手できる。\n[a 07]※リーンベルコートは\n全種族（女性）用コスチュームとなります。[b]",
+    "Text": "",
+    "Enabled": false
+  },
+  "1000124": {
+    "OriginalText": "リーンベルコート",
+    "Text": "Reanbell Coat",
+    "Enabled": true
+  },
+  "1000125": {
+    "OriginalText": "女性らしさを感じさせる軽やかなコート。\n動く様はまるで舞うかの如くたなびく。\n胸のリボンがポイントである。\n[a 03]※この服はカラーを変更できません[b]",
+    "Text": "",
+    "Enabled": false
+  },
+  "1000126": {
+    "OriginalText": "Ｂ-８４",
+    "Text": "B-84",
+    "Enabled": true
+  },
+  "1000127": {
+    "OriginalText": "一発一発の威力はかけるが、\n連射性能に優れているハンドガン。\nリーンベルが好んで良く使う。",
+    "Text": "",
+    "Enabled": false
+  },
+  "1000128": {
+    "OriginalText": "戦場のヴァルキュリア３ リエラ セット",
+    "Text": "Valkyria Chronicles 3: Riela Set",
+    "Enabled": true
+  },
+  "1000129": {
+    "OriginalText": "【戦場のヴァルキュリア３ コラボ】\nコスチューム「ヴァルキュリア・ドレス」を\n入手できる。\nアクセサリー「ヴァルキュリア・ホーン」を\nエステで選択できるようになる。\n[a 07]※全種族（女性）用コスチュームと\nアクセサリーとなります。[b]",
+    "Text": "",
+    "Enabled": false
+  },
+  "1000130": {
+    "OriginalText": "ヴァルキュリア・ドレス",
+    "Text": "Valkyria Dress",
+    "Enabled": true
+  },
+  "1000131": {
+    "OriginalText": "かつてヴァルキュリアがまとったとされる衣装。\nラグナイト製によるその装備は、\n継承者が着ることで多大な効果を発揮する。\n[a 03]※この服はカラーを変更できません[b]",
+    "Text": "",
+    "Enabled": false
+  },
+  "1000132": {
+    "OriginalText": "ヴァルキュリア・ホーン",
+    "Text": "Valkyria Horn",
+    "Enabled": true
+  },
+  "1000133": {
+    "OriginalText": "ヴァルキュリア・ホーンのアイテム説明 (髪型のため、説明なし)",
+    "Text": "",
+    "Enabled": false
+  }
+}
