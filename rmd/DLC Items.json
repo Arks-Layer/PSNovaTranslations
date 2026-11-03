@@ -62,12 +62,12 @@
   "1000090": {
     "OriginalText": "スターオーシャン４ エッジ セット",
     "Text": "Star Ocean 4: Edge Set",
-    "Enabled": false
+    "Enabled": true
   },
   "1000091": {
     "OriginalText": "【スターオーシャン４ コラボ】\nコスチューム「ＳＲＦアーマー」と、\n武器「ＳＲＦブレード」を\n入手できる。\n[a 07]※ＳＲＦアーマーは\n全種族（男性）用コスチュームとなります。[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "[Star Ocean 4 Collaboration]\nObtain the following:\nWeapon: [SRF Blade]\nCostume: [SRF Armor]\n[a 07]※SRF Armor is an all races\nmale costume.[b]",
+    "Enabled": true
   },
   "1000092": {
     "OriginalText": "ＳＲＦアーマー",
@@ -96,8 +96,8 @@
   },
   "1000097": {
     "OriginalText": "【スターオーシャン４ コラボ】\nコスチューム「ＳＲＦプロテクター」を\n入手できる。\nアクセサリー「レイミリボン」を\nエステで選択できるようになる。\n[a 07]※全種族（女性）用コスチュームと\nアクセサリーとなります。[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "[Star Ocean 4 Collaboration]\nObtain the following:\nCostume: [SRF Protector]\nAccessory: [Reimi Ribbon]\n[a 07]※SRF Protector is an all races\nfemale costume.[b]",
+    "Enabled": true
   },
   "1000098": {
     "OriginalText": "ＳＲＦプロテクター",
