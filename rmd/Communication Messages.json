@@ -126,12 +126,12 @@
   },
   "260100": {
     "OriginalText": "どうしたよ？",
-    "Text": "What's wrong?",
+    "Text": "What's going on?",
     "Enabled": true
   },
   "260101": {
     "OriginalText": "用事か？",
-    "Text": "Is it a task?",
+    "Text": "Got something?",
     "Enabled": true
   },
   "260102": {
@@ -176,12 +176,12 @@
   },
   "260110": {
     "OriginalText": "どうしました？",
-    "Text": "What's wrong?",
+    "Text": "What's the matter?",
     "Enabled": true
   },
   "260111": {
     "OriginalText": "私に用ですか？",
-    "Text": "Is that for me?",
+    "Text": "Need something from me?",
     "Enabled": true
   },
   "260112": {
@@ -196,7 +196,7 @@
   },
   "260114": {
     "OriginalText": "君か。",
-    "Text": "You?",
+    "Text": "It's you.",
     "Enabled": true
   },
   "260115": {
@@ -231,7 +231,7 @@
   },
   "260121": {
     "OriginalText": "俺に用か？",
-    "Text": "Is it for me?",
+    "Text": "Got something for me?",
     "Enabled": true
   },
   "260122": {
@@ -261,7 +261,7 @@
   },
   "260127": {
     "OriginalText": "……またな。",
-    "Text": "....See you.",
+    "Text": "See you...",
     "Enabled": true
   },
   "260128": {
@@ -276,12 +276,12 @@
   },
   "260130": {
     "OriginalText": "どうしたよ？",
-    "Text": "What's wrong?",
+    "Text": "What's up?",
     "Enabled": true
   },
   "260131": {
     "OriginalText": "何かあったか？",
-    "Text": "What happened?",
+    "Text": "Something going on?",
     "Enabled": true
   },
   "260132": {
@@ -316,7 +316,7 @@
   },
   "260138": {
     "OriginalText": "ちゃんとやってくれよな。",
-    "Text": "Please do it properly.",
+    "Text": "Make sure you do it right, alright?",
     "Enabled": true
   },
   "260139": {
@@ -326,7 +326,7 @@
   },
   "260140": {
     "OriginalText": "俺に話しかい？",
-    "Text": "Are you talking to me?",
+    "Text": "Talking to me?",
     "Enabled": true
   },
   "260141": {
@@ -526,12 +526,12 @@
   },
   "260180": {
     "OriginalText": "どうした？",
-    "Text": "What happened?",
+    "Text": "What's going on?",
     "Enabled": true
   },
   "260181": {
     "OriginalText": "オレに用か？",
-    "Text": "Is it for me?",
+    "Text": "Got something?",
     "Enabled": true
   },
   "260182": {
@@ -566,7 +566,7 @@
   },
   "260188": {
     "OriginalText": "頼むぞ！",
-    "Text": "I'll rely on you!",
+    "Text": "Count on me!",
     "Enabled": true
   },
   "260189": {
@@ -581,7 +581,7 @@
   },
   "260191": {
     "OriginalText": "私に、何か？",
-    "Text": "Do you want something for me?",
+    "Text": "Something for me?",
     "Enabled": true
   },
   "260192": {
@@ -631,7 +631,7 @@
   },
   "260201": {
     "OriginalText": "ご用かしら？",
-    "Text": "What do you need?",
+    "Text": "Can I help you?",
     "Enabled": true
   },
   "260202": {
@@ -676,7 +676,7 @@
   },
   "260210": {
     "OriginalText": "私にご用ですか？",
-    "Text": "What do you need from me?",
+    "Text": "Something for me?",
     "Enabled": true
   },
   "260211": {
@@ -696,7 +696,7 @@
   },
   "260214": {
     "OriginalText": "元気ですか！",
-    "Text": "How are you!",
+    "Text": "How are you?",
     "Enabled": true
   },
   "260215": {
@@ -706,7 +706,7 @@
   },
   "260216": {
     "OriginalText": "健康第一ですよ！",
-    "Text": "Health first!",
+    "Text": "Health comes first!",
     "Enabled": true
   },
   "260217": {
@@ -726,12 +726,12 @@
   },
   "260220": {
     "OriginalText": "どういったご用件でしょうか？",
-    "Text": "What business do you have with me?",
+    "Text": "What can I help you with?",
     "Enabled": true
   },
   "260221": {
     "OriginalText": "調子はよさそうですね。",
-    "Text": "You seem to be doing fine.",
+    "Text": "You seem to be doing well.",
     "Enabled": true
   },
   "260222": {
@@ -766,7 +766,7 @@
   },
   "260228": {
     "OriginalText": "よろしくお願いします！",
-    "Text": "Looking forward to work with you!",
+    "Text": "Thanks in advance!",
     "Enabled": true
   },
   "260229": {
