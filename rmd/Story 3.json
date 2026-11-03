@@ -481,7 +481,7 @@
   },
   "302040013051000": {
     "OriginalText": "私はここで君たちと\nギガンテスの戦いを\n観測させていただきます。",
-    "Text": "I'll be observing your battle against the Gigantes from the sidelines.",
+    "Text": "I'll be observing your battle against the\nGigantes from the sidelines.",
     "Enabled": true
   },
   "302040013052000": {
@@ -491,7 +491,7 @@
   },
   "302040013053000": {
     "OriginalText": "そのことがこの[ruby ほし]惑星[/ruby]の\n謎を解く手立てになると思うのです。",
-    "Text": "This may be the key to\nthis planet's mystery.",
+    "Text": "This may be the key to solving the\nmysteries of this planet.",
     "Enabled": true
   },
   "302040013071000": {
@@ -531,13 +531,13 @@
   },
   "302040013123000": {
     "OriginalText": "みなさんの戦闘記録をみて、\n改良を進めたいと思いますので、\nぜひ戦場で使ってみてください。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I would like to use your combat\ndata to make improvements, so\nplease try it out in battle.",
+    "Enabled": true
   },
   "302040013123099": {
     "OriginalText": "この拠点の管理はフィルディア艦長自ら\n行っていますので、\nお話を聞いてみてはいかがでしょうか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Captain Fildia personally manages\nthe base, so why don't you talk\nto her instead?",
+    "Enabled": true
   },
   "302040020011000": {
     "OriginalText": "あたしってみんなの役に立ってるのかな？",
