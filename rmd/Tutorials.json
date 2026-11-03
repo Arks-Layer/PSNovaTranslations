@@ -481,7 +481,7 @@
   },
   "780001": {
     "OriginalText": "『カメラ操作』\n\n[f 66] で[a 07]周りを見回す[b]ことができます。\nカメラを標準の視点にリセットするには\n[f 79] を押します。\n\nメインメニューの\n［設定/ヘルプ］＞［カメラ設定］で\n通常カメラの設定を変更することができます。",
-    "Text": "Use [f 66] to [a 07]look around[b] and move the camera.\nTo reset the camera to the default view,\npress the [f 79] button.",
+    "Text": "Use [f 66] to [a 07]look around[b] & move the camera.\nTo reset the camera to the default view, press\nthe [f 79] button.\n\nYou can change the camera settings from the\nMain Menu under [Settings/Help] > [Camera Settings].",
     "Enabled": true
   },
   "780002": {
@@ -671,12 +671,12 @@
   },
   "780039": {
     "OriginalText": "『ハンター』\n\nハンターは[a 07]近接攻撃[b]を得意とする戦闘タイプ\nです。\n\n打撃武器である[a 07]ソード・パルチザン・\nダブルセイバー・ナックル[b]を使いこなします。\n\nハンターの回避アクション「ステップ」は\n最小限の移動距離ですばやく身をかわします。",
-    "Text": "Hunters are a class [a 07]specialized\nin melee combat[b].\n\nThey're proficient with [a 07]Swords, Partizans,\nDouble Sabers, & Knuckles[b].\n\nA Hunter's evasion move, [a 07][Step][b],\nlets them dodge with\nminimal movement.",
+    "Text": "Hunters are [a 07]specialized in melee\ncombat[b], using weapons such as\n[a 07]Swords, Partizans, Double Sabers,\n& Knuckles[b].\n\nTheir evasion move, Step, allows\nthem to dodge with minimal movement.",
     "Enabled": true
   },
   "780040": {
     "OriginalText": "『レンジャー』\n\nレンジャーは[a 07]中～遠距離からの攻撃[b]を得意と\nする戦闘タイプです。\n\n射撃武器である[a 07]アサルトライフルや\nツインマシンガン[b]を使いこなします。\n\nレンジャーの回避アクション「ダイブロール」は\n地面で前転し攻撃を回避します。\n[a 07]ジャストアタックにつなげることが可能[b]です。",
-    "Text": "Rangers specialize in attacking\nfrom [a 07]medium to long range[b].\n\nThey're proficient with weapons such\nas the [a 07]Assault Rifle & Twin Machineguns[b].\n\nTheir evasion skill, [a 07][Dive Roll][b], rolls\nforward on the ground to dodge attacks,\nand can [a 07]chain into a [Just Attack][b].",
+    "Text": "Rangers specialize in attacking from\n[a 07]medium to long range[b], using\nweapons such as the [a 07]Assault Rifle\n& Twin Machineguns[b].\n\nThey can chain their evasion skill,\n[a 07]Dive Roll[b], into a [a 07]Just Attack[b].",
     "Enabled": true
   },
   "780041": {
