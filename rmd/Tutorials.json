@@ -6,247 +6,247 @@
   },
   "770001": {
     "OriginalText": "『移動とカメラ操作』",
-    "Text": "[Moving and Camera Usage]",
+    "Text": "Moving and Camera Usage",
     "Enabled": true
   },
   "770002": {
     "OriginalText": "『ハンターとレンジャーの攻撃』",
-    "Text": "[Attacking as a Hunter/Ranger]",
+    "Text": "Attacking as a Hunter/Ranger",
     "Enabled": true
   },
   "770003": {
     "OriginalText": "『ハンターの回避』",
-    "Text": "[Dodging as a Hunter]",
+    "Text": "Dodging as a Hunter",
     "Enabled": true
   },
   "770004": {
     "OriginalText": "『ジャストアタックとサブパレット』",
-    "Text": "[Just Attacks and Subpalette]",
+    "Text": "Just Attacks and Subpalette",
     "Enabled": true
   },
   "770005": {
     "OriginalText": "『武器切り替えとロックオン』",
-    "Text": "[Weapon Switching and Lock-on]",
+    "Text": "Weapon Switching and Lock-on",
     "Enabled": true
   },
   "770006": {
     "OriginalText": "『グランアーツ』",
-    "Text": "[Gran Arts]",
+    "Text": "Gran Arts",
     "Enabled": true
   },
   "770007": {
     "OriginalText": "『テクニック』",
-    "Text": "[Techniques]",
+    "Text": "Techniques",
     "Enabled": true
   },
   "770008": {
     "OriginalText": "『チェインとグランバースト』",
-    "Text": "[Chain and Gran BURST]",
+    "Text": "Chain and Gran BURST",
     "Enabled": true
   },
   "770009": {
     "OriginalText": "『戦闘不能』",
-    "Text": "[Incapacitation]",
+    "Text": "Incapacitation",
     "Enabled": true
   },
   "770010": {
     "OriginalText": "『状態異常』",
-    "Text": "[Status Ailments]",
+    "Text": "Status Ailments",
     "Enabled": true
   },
   "770011": {
     "OriginalText": "『グランリンク』",
-    "Text": "[Gran Link]",
+    "Text": "Gran Link",
     "Enabled": true
   },
   "770012": {
     "OriginalText": "『攻撃について』",
-    "Text": "[Attacking]",
+    "Text": "Attacking",
     "Enabled": true
   },
   "770013": {
     "OriginalText": "『ステップアタック』",
-    "Text": "[Step Attack]",
+    "Text": "Step Attack",
     "Enabled": true
   },
   "770014": {
     "OriginalText": "『ジャストガード』",
-    "Text": "[Just Guard]",
+    "Text": "Just Guard",
     "Enabled": true
   },
   "770015": {
     "OriginalText": "『ハンター』",
-    "Text": "[Hunter]",
+    "Text": "Hunter",
     "Enabled": true
   },
   "770016": {
     "OriginalText": "『レンジャー』",
-    "Text": "[Ranger]",
+    "Text": "Ranger",
     "Enabled": true
   },
   "770017": {
     "OriginalText": "『フォース』",
-    "Text": "[Force]",
+    "Text": "Force",
     "Enabled": true
   },
   "770018": {
     "OriginalText": "『バスター』",
-    "Text": "[Buster]",
+    "Text": "Buster",
     "Enabled": true
   },
   "770019": {
     "OriginalText": "『バスター』",
-    "Text": "[Buster]",
+    "Text": "Buster",
     "Enabled": true
   },
   "770020": {
     "OriginalText": "『ムービングショット』",
-    "Text": "[Moving Shot]",
+    "Text": "Moving Shot",
     "Enabled": true
   },
   "770021": {
     "OriginalText": "『ヘイロウ』",
-    "Text": "[Halo]",
+    "Text": "Halo",
     "Enabled": true
   },
   "770022": {
     "OriginalText": "『リングフィールド』",
-    "Text": "[Ring Field]",
+    "Text": "Ring Field",
     "Enabled": true
   },
   "770023": {
     "OriginalText": "『パイルとバスター』",
-    "Text": "[Pile and Buster]",
+    "Text": "Pile and Buster",
     "Enabled": true
   },
   "770024": {
     "OriginalText": "『ブーストエネミー』",
-    "Text": "[Boosted Enemy]",
+    "Text": "Boosted Enemy",
     "Enabled": true
   },
   "770025": {
     "OriginalText": "『レアエネミー』",
-    "Text": "[Rare Enemy]",
+    "Text": "Rare Enemy",
     "Enabled": true
   },
   "770026": {
     "OriginalText": "『部位破壊』",
-    "Text": "[Part Destruction]",
+    "Text": "Part Destruction",
     "Enabled": true
   },
   "770027": {
     "OriginalText": "『設定とヘルプ』",
-    "Text": "[Options and Help]",
+    "Text": "Options and Help",
     "Enabled": true
   },
   "770028": {
     "OriginalText": "『マルチプレイとゲストクルー』",
-    "Text": "[Multiplayer and Guest Crew]",
+    "Text": "Multiplayer and Guest Crew",
     "Enabled": true
   },
   "770029": {
     "OriginalText": "『クエストの受け方』",
-    "Text": "[Starting Quests]",
+    "Text": "Starting Quests",
     "Enabled": true
   },
   "770030": {
     "OriginalText": "『スキルボード』",
-    "Text": "[Skill Board]",
+    "Text": "Skill Board",
     "Enabled": true
   },
   "770031": {
     "OriginalText": "『スキルボードの拡張と切替』",
-    "Text": "[Skill Board Expansion and Switching]",
+    "Text": "Skill Board Expansion and Switching",
     "Enabled": true
   },
   "770032": {
     "OriginalText": "『コールドスリープからの解凍』",
-    "Text": "[Defrosting From Cold Sleep]",
+    "Text": "Defrosting From Cold Sleep",
     "Enabled": true
   },
   "770033": {
     "OriginalText": "『施設の開発』",
-    "Text": "[Facility Development]",
+    "Text": "Facility Development",
     "Enabled": true
   },
   "770034": {
     "OriginalText": "『施設の配置と移動』",
-    "Text": "[Moving and Placing Facilities]",
+    "Text": "Moving and Placing Facilities",
     "Enabled": true
   },
   "770035": {
     "OriginalText": "『クルーの配属』",
-    "Text": "[Crew Assignment]",
+    "Text": "Crew Assignment",
     "Enabled": true
   },
   "770036": {
     "OriginalText": "『クラスカウンター』",
-    "Text": "[Class Counter]",
+    "Text": "Class Counter",
     "Enabled": true
   },
   "770037": {
     "OriginalText": "『食堂』",
-    "Text": "[Restaurant]",
+    "Text": "Restaurant",
     "Enabled": true
   },
   "770038": {
     "OriginalText": "『武器ショップ』",
-    "Text": "[Weapon Shop]",
+    "Text": "Weapon Shop",
     "Enabled": true
   },
   "770039": {
     "OriginalText": "『アタッチパーツ』",
-    "Text": "[Attachments]",
+    "Text": "Attachments",
     "Enabled": true
   },
   "770040": {
     "OriginalText": "『武器カスタマイズ』",
-    "Text": "[Weapon Customization]",
+    "Text": "Weapon Customization",
     "Enabled": true
   },
   "770041": {
     "OriginalText": "『防具ショップ』",
-    "Text": "[Shield Shop]",
+    "Text": "Shield Shop",
     "Enabled": true
   },
   "770042": {
     "OriginalText": "『アイテムショップ』",
-    "Text": "[Item Shop]",
+    "Text": "Item Shop",
     "Enabled": true
   },
   "770043": {
     "OriginalText": "『コスチュームショップ』",
-    "Text": "[Costume Shop]",
+    "Text": "Costume Shop",
     "Enabled": true
   },
   "770044": {
     "OriginalText": "『エステ』",
-    "Text": "[Makeover Shop]",
+    "Text": "Makeover Shop",
     "Enabled": true
   },
   "770045": {
     "OriginalText": "『スタイル』",
-    "Text": "[Styles]",
+    "Text": "Styles",
     "Enabled": true
   },
   "770046": {
     "OriginalText": "『特微』",
-    "Text": "[Skills]",
+    "Text": "Skills",
     "Enabled": true
   },
   "770047": {
     "OriginalText": "『倉庫と一時倉庫』",
-    "Text": "[Storage and Temp Storage]",
+    "Text": "Storage and Temp Storage",
     "Enabled": true
   },
   "770048": {
     "OriginalText": "『メインメニュー』",
-    "Text": "[Main Menu]",
+    "Text": "Main Menu",
     "Enabled": true
   },
   "770049": {
     "OriginalText": "『プロミスオーダー』",
-    "Text": "[Promise Orders]",
+    "Text": "Promise Orders",
     "Enabled": true
   },
   "770050": {
@@ -261,17 +261,17 @@
   },
   "770052": {
     "OriginalText": "『グランブースター』",
-    "Text": "[Gran Booster]",
+    "Text": "Gran Booster",
     "Enabled": true
   },
   "770053": {
     "OriginalText": "『アイテム探知装置』",
-    "Text": "[Item Detection System]",
+    "Text": "Item Detection System",
     "Enabled": true
   },
   "770054": {
     "OriginalText": "『エネミーレーダー』",
-    "Text": "[Enemy Radar]",
+    "Text": "Enemy Radar",
     "Enabled": true
   },
   "770055": {
@@ -286,7 +286,7 @@
   },
   "770057": {
     "OriginalText": "『ギガンテス捕獲所』",
-    "Text": "[Gigantes Capture Facility]",
+    "Text": "Gigantes Capture Facility",
     "Enabled": true
   },
   "770058": {
@@ -371,22 +371,22 @@
   },
   "770074": {
     "OriginalText": "『クエストインフォメーション』",
-    "Text": "[Quest Information]",
+    "Text": "Quest Information",
     "Enabled": true
   },
   "770075": {
     "OriginalText": "『フォースの攻撃』",
-    "Text": "[Attacking as a Force]",
+    "Text": "Attacking as a Force",
     "Enabled": true
   },
   "770076": {
     "OriginalText": "『レンジャーの回避』",
-    "Text": "[Dodging as a Ranger]",
+    "Text": "Dodging as a Ranger",
     "Enabled": true
   },
   "770077": {
     "OriginalText": "『フォースの回避』",
-    "Text": "[Dodging as a Force]",
+    "Text": "Dodging as a Force",
     "Enabled": true
   },
   "770078": {
@@ -396,7 +396,7 @@
   },
   "770079": {
     "OriginalText": "『回避と防御について』",
-    "Text": "[About Dodging and Defense]",
+    "Text": "About Dodging and Defense",
     "Enabled": true
   },
   "770080": {
@@ -436,7 +436,7 @@
   },
   "770087": {
     "OriginalText": "『コア精錬所』",
-    "Text": "[Core Refinery]",
+    "Text": "Core Refinery",
     "Enabled": true
   },
   "770088": {
@@ -451,12 +451,12 @@
   },
   "770090": {
     "OriginalText": "『武器エクステンド』",
-    "Text": "[Weapon Extension]",
+    "Text": "Weapon Extension",
     "Enabled": true
   },
   "770091": {
     "OriginalText": "『再キャラクタークリエイト』",
-    "Text": "[Recreate Character]",
+    "Text": "Recreate Character",
     "Enabled": true
   },
   "770092": {
@@ -501,7 +501,7 @@
   },
   "780005": {
     "OriginalText": "\nフォトンアーツは繰り出すごとに\n[a 07]ＰＰ（フォトンポイント）を消費[b]します。\n\nＰＰは[a 07]時間経過[b]、または[a 07]通常攻撃をヒット[b]\nさせることで回復します。\n\n通常攻撃とフォトンアーツを\nうまく組み合わせて戦いましょう。",
-    "Text": "\nEvery time you use a Photon Art, you\nwill [a 07]consume PP (Photon Points)[b].\n\nPP can [a 07]recover over time[b], or \nregained [a 07]by attacking normally.[b]",
+    "Text": "Every time you use a Photon Art, you\nwill [a 07]consume PP (Photon Points)[b].\n\nPP can [a 07]recover over time[b], or \nregained [a 07]by attacking normally.[b",
     "Enabled": true
   },
   "780006": {
@@ -511,7 +511,7 @@
   },
   "780007": {
     "OriginalText": "\nテクニックは繰り出す度に\n[a 07]ＰＰ（フォトンポイント）を消費[b]します。\n\nＰＰは[a 07]時間経過[b]、または[a 07]通常攻撃をヒット[b]させる\nことで回復します。\n\n通常攻撃とテクニックをうまく組み合わせて\n戦いましょう。",
-    "Text": "\nTechniques [a 07]consume PP (Photon Points)[b]\nwhen they are used.\n\nPP will [a 07]slowly recover over time[b],\nor by hitting enemies with [a 07]normal attacks[b].\n\nYou can fight using both normal attacks\nand Techniques.",
+    "Text": "Techniques [a 07]consume PP (Photon Points)[b]\nwhen they are used.\n\nPP will [a 07]slowly recover over time[b],\nor by hitting enemies with [a 07]normal attacks[b].\n\nYou can fight using both normal attacks\nand Techniques.",
     "Enabled": true
   },
   "780008": {
@@ -536,43 +536,43 @@
   },
   "780012": {
     "OriginalText": "\nジャストアタックに成功すると大きなダメー\nジを与えることができます。\n\nさらに敵のやられリアクションも大きくなり\nます。\n\nフォトンアーツやチャージテクニックなどと\n組み合わせて活用しましょう。",
-    "Text": "\nBy performing a Just Attack, you will\ndeal greater damage.\n\nIn addition, the enemy's response will\nbecome more dramatic upon hit.\n\nUse them in combination with other\nattacks, charged techs, & skills.",
+    "Text": "By performing a Just Attack, you will\ndeal greater damage.\n\nIn addition, the enemy's response will\nbecome more dramatic upon hit.\n\nUse them in combination with other\nattacks, charged techs, & skills.",
     "Enabled": true
   },
   "780013": {
     "OriginalText": "『サブパレット』\n\nサブパレットは画面の下と右に表示されている\nアイコンパレットです。\n\n[a 07]各アイコンにタッチ[b]すると、[a 07]登録されて\nいるアイテムやスキルなどを使用[b]できます。\n\nＨＰが滅ったら、始めからセットされている\n「モノメイト」をタッチしてみましょう。\nＨＰが少量回復します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "The subpalette is the icons displayed\nat the bottom corner of the screen.\n\nTap each icon to use the set 07]items,\nskills, & other features[b].\n\nIf you run out of HP, try using the\nset \"Monomate\".",
+    "Enabled": true
   },
   "780014": {
     "OriginalText": "\n[f 7a][f 7b] を押すことで[a 07]３枚[b]のサブパレット\nを切り替えて使うことができます。",
-    "Text": "",
-    "Enabled": false
+    "Text": "You can swap between the [a 07]three\nsubpalettes[b] by pressing [f 7a] or [f 7b]. ",
+    "Enabled": true
   },
   "780015": {
     "OriginalText": "『武器切り替え』\n\n状況に応じて[a 07]使用する武器を切り替える[b]ことで、\n戦闘を有利に進めることができます。\n\n[f 7c][f 7d] で[a 07]武器パレットを選択し、[b]\n[f 02][a 07]で決定[b]することで、\n武器を切り替えることができます。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Switching weapons depending on\nthe situation can give you leverage\nin battle.\n\nUse [f 7c][f 7d] to [a 07]select a weapon\nfrom the weapon palette[b], then press\n[f 02] to [a 07]confirm & switch[b].",
+    "Enabled": true
   },
   "780016": {
     "OriginalText": "『ロックオン』\n\n[f 79][a 07] を押し続ける[b]ことでエネミーを常に\n画面内に捉え、攻撃しやすくなります。\n\n[f 79] を離すとロックオンを解除できます。\n\nエネミーが複数存在する場合、\n[f 66][a 07] 左右でロックオン対象を切り替え可能[b]です。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Hold down [f 79] to [a 07]lock-on to the enemy\nat all time[b]s, making it easier to attack.\n\nPressing [f 79] again will release the\nlock-on.\n\nIf there are multiple enemies,\n[a 07]you can swap targets using the\n[f 66][b] sticks.",
+    "Enabled": true
   },
   "780017": {
     "OriginalText": "\nロックオンの操作は２通りから選べます。\n\n・ [f 79] 長押し（ホールド）でロックオン\n・ [f 79] を一度押すとロックオン\n\nロックオンの操作方法はメインメニューの\n［設定/ヘルプ］＞[基本設定]で変更できます。",
-    "Text": "",
-    "Enabled": false
+    "Text": "You can pick how you want to lock-on.\n\n・ Press & hold [f 79]\n・ Press [f 79] once\n\nYou can change how you lock-on\nvia the main menu under\n[Settings/Help] > [Basic Settings].",
+    "Enabled": true
   },
   "780018": {
     "OriginalText": "『グランアーツ』\n\nグランアーツは、ＧＰ（グランポイント）を\n消費して放つ通常攻撃よりも強力な攻撃です。\n\n[f 78] を押しながら [f 73] や [f 74] を押すと\n[a 07]装備している武器に対応したグランアーツ[b]を\n繰り出します。\n\nグランアーツは裏パレットにもセットされて\nいます。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gran Arts are moves that consume GP\n(Gran Points) to launch powerful\nattacks.\n\nPressing [f 74] or [f 73] while holding down [f 78],\nyou can unlease a Gran Art with the\nweapon you're equipped with.",
+    "Enabled": true
   },
   "780019": {
     "OriginalText": "\nグランアーツは繰り出す度に\n[a 07]ＧＰ（グランポイント）を消費[b]します。\n\nＧＰは[a 07]時間経過[b]、または[a 07]通常攻撃をヒット[b]させる\nことで回復します。\n\n通常攻撃とグランアーツをうまく組み合わせ\nて戦いましょう。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Each time you use a Gran Art,\n[a 07]you consume GP (Gran Points)[b].\n\nGP is restored [a 07]over time[b] or\n[a 07]when a normal attack lands[b].\n\nTry to fight by skillfully combining\nnormal attacks & Gran Arts.",
+    "Enabled": true
   },
   "780020": {
     "OriginalText": "『テクニック』\n\nテクニックとは、フォースがグランの力を用いて\n放つ強力な法術です。\n\nテクニックは [f 74][a 07] 長押し溜めで発動[b]します。\n\nテクニックは裏パレットにもセットされて\nいます。",
@@ -581,18 +581,18 @@
   },
   "780021": {
     "OriginalText": "\nテクニックは繰り出す度に\n[a 07]ＧＰ（グランポイント）を消費[b]します。\n\nＧＰは[a 07]時間経過[b]、または[a 07]通常攻撃をヒット[b]させる\nことで回復します。\n\n通常攻撃とテクニックをうまく組み合わせて\n戦いましょう。",
-    "Text": "\nTechniques [a 07]consume GP (Gran Points)[b]\nwhen used.\n\nGP [a 07]slowly recovers over time[b],\nor by landing [a 07]normal attacks[b] on enemies.\n\nMix normal attacks and Techniques to fight.",
+    "Text": "Techniques [a 07]consume GP (Gran Points)[b]\nwhen used.\n\nGP [a 07]slowly recovers over time[b],\nor by landing [a 07]normal attacks[b] on enemies.\n\nMix normal attacks and Techniques to fight.",
     "Enabled": true
   },
   "780022": {
     "OriginalText": "『チェイン』\n\n[a 07]一定時間以内に敵に攻撃を当てる[b]ことで\n[a 07]チェインがカウントアップ[b]されます。\n\nチェイン数が増えると、より大きなダメージ\nを与えられます。\n\nジャストアタックでチェインに成功すると\nよりチェインがつながりやすくなり、\n与えるダメージにもボーナスがつきます。",
-    "Text": "",
-    "Enabled": false
+    "Text": "By [a 07]hitting an enemy within a certain\ntime limit[b], your [a 07]chain count\nincreases[b].\n\nAs the chain count grows, you can deal\ngreater damage.\n\nJust Attacks will extend the duration\n& grant a damage bonus.",
+    "Enabled": true
   },
   "780023": {
     "OriginalText": "\nチェインは、一定範囲内にいれば[a 07]別の敵に\n対しても発生[b]します。\n\nパーティーメンバーと協力すれば、チェイン\nを長くつなげやすくなります。\n\n",
-    "Text": "",
-    "Enabled": false
+    "Text": "Chains will also [a 07]trigger versus other\nenemies[b] as long as they're within\nrange.\n\nIf you work together with your party\nmembers, it'll be easier to maintain\nthe chain.",
+    "Enabled": true
   },
   "780024": {
     "OriginalText": "『グランバースト』\n\n[a 07]チェインをつなげていると、[b]画面上部の\n「バーストゲージ」がたまっていきます。\n\n[a 07]バーストゲージがいっぱいにたまり切ると\n「グランバースト」が発生[b]します。\n\nグランバースト発生中は、チェインがさら\nにつながりやすくなります。",
@@ -666,7 +666,7 @@
   },
   "780038": {
     "OriginalText": "\nジャストガードを行うには、\n[a 07]「ジャストガード」をスキルボードにセット[b]し、\n[a 07]「ガード」を武器パレットにセット[b]する必要が\nあります。",
-    "Text": "\nTo perform a Just Guard, you must place\n\"Just Guard\" on your \"Skill Board\" &\nplace \"Guard\" on your weapon subpallete.",
+    "Text": "To perform a Just Guard, you must place\n\"Just Guard\" on your \"Skill Board\" &\nplace \"Guard\" on your weapon subpallete.",
     "Enabled": true
   },
   "780039": {
@@ -1056,7 +1056,7 @@
   },
   "780116": {
     "OriginalText": "\nクラスカウンターでは、プレイヤーの能力を\nカスタマイズできます。\n\nレベルアップ時に[a 07]習得したスキルは、\nクラスカウンターで「スキルボード」に\nセットすると効果を発揮します。[b]\n\nスキルを習得したらまずクラスカウンターへ\n行きましょう。",
-    "Text": "\nWith the Class Counter, you can\ncustomize your character's abilities.\n\n[a 07]Skills acquired from the Skill Board\nare applied instantly upon activation.[b]\n\nHead to the Class Counter afer learning\na skill.",
+    "Text": "With the Class Counter, you can\ncustomize your character's abilities.\n\n[a 07]Skills acquired from the Skill Board\nare applied instantly upon activation.[b]\n\nHead to the Class Counter afer learning\na skill.",
     "Enabled": true
   },
   "780117": {
@@ -1066,7 +1066,7 @@
   },
   "780118": {
     "OriginalText": "\n[a 07]拠点の上層が開放[b]されました。\n\n上層入口から行くことができます。",
-    "Text": "\nThe [a 07]upper-levels of the gate[b] have been unlocked.\n\nYou can access them from the upper-level enterance.",
+    "Text": "The [a 07]upper-levels of the gate[b] have been unlocked.\n\nYou can access them from the upper-level enterance.",
     "Enabled": true
   },
   "780119": {
@@ -1086,7 +1086,7 @@
   },
   "780122": {
     "OriginalText": "\n[a 07]拠点のはずれにあるクエストゲート[b]から\nクエストを選び、探索の旅へ出ることができ\nます。",
-    "Text": "\nYou can now [a 07]select a quest &\nset off on an exploration[b] via the\nQuest Gate on the outskirts of the base.",
+    "Text": "You can now [a 07]select a quest &\nset off on an exploration[b] via the\nQuest Gate on the outskirts of the base.",
     "Enabled": true
   },
   "780123": {
@@ -1096,7 +1096,7 @@
   },
   "780124": {
     "OriginalText": "\n[a 07]マルチプレイルーム[b]はデルタ・\nヴァリアントの出入り口から移動できます。\n\nアドホック通信で[a 07]他のプレイヤーと\nマルチプレイを行う場合[b]は\n[a 07]マルチプレイルーム[b]に行きましょう。",
-    "Text": "\nYou can access the [a 07]Multiplayer Room[b] via the\nDelta Valiant's entrance/exit.\n\nFor [a 07]Ad-Hoc multiplayer[b], visit the\n[a 07]Multiplayer Room[b].",
+    "Text": "You can access the [a 07]Multiplayer Room[b] via the\nDelta Valiant's entrance/exit.\n\nFor [a 07]Ad-Hoc multiplayer[b], visit the\n[a 07]Multiplayer Room[b].",
     "Enabled": true
   },
   "780125": {
