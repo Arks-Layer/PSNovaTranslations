@@ -16,22 +16,22 @@
   },
   "400000030100440": {
     "OriginalText": "よし、これで最後だ。\n後は好きなように敵をぶっ倒してやれ。\nもちろんアイテムの使用も自由だ。",
-    "Text": "Well, this ends the training.\nI'll spawn some more enemies, feel free to\ndefeat them any way you choose.",
+    "Text": "Alright, this is the last one.\nTake down the enemies however you like.\nFeel free to use items too.",
     "Enabled": true
   },
   "401010020100110": {
     "OriginalText": "フィルディア隊長達は先に行っちゃったみたい。\n急いで追いかけるよ、[ruby]相棒[/ruby]！",
-    "Text": "It seems like Captain Fildia & the\nothers have gone ahead. I'll be right\nbehind you, Buddy!",
+    "Text": "Looks like Captain Fildia & the others\nwent on ahead. Let's hurry after them,\nbuddy!",
     "Enabled": true
   },
   "401010020200110": {
     "OriginalText": "あ、あれっ？ どうなってんの！？",
-    "Text": "Huh? Wait a second... What's going on here!?",
+    "Text": "Huh? Wait a second, what's going on here!?",
     "Enabled": true
   },
   "401010020200120": {
     "OriginalText": "フォトンが出な……出ろっ！ ええい！",
-    "Text": "The photons... Why won't they come out already? Ugh.",
+    "Text": "The photons won't come out! Come on! Ugh!",
     "Enabled": true
   },
   "401010020200130": {
@@ -41,17 +41,17 @@
   },
   "401010020300110": {
     "OriginalText": "な、なんとか勝った……！",
-    "Text": "Somehow we've managed to win that...",
+    "Text": "Somehow we managed to win that!",
     "Enabled": true
   },
   "401010020300120": {
     "OriginalText": "どういうこと？\nフォトンが使えないなんて……！",
-    "Text": "What did you mean?\nWe can't use photons?",
+    "Text": "What's going on?\nWe can't use photons!?",
     "Enabled": true
   },
   "401010030100110": {
     "OriginalText": "うん、これならフォトン……、\nううん、グランが使える！\n[ruby]相棒[/ruby]！ さっさと倒して先に進むよ！",
-    "Text": "Yes, with this, we can use Photons—err...\nI mean Gran! Buddy, let's move & take them out!",
+    "Text": "Yeah, with this we can use photons, no,\nI mean Gran! Buddy! Let's take them out\nfast & move on!",
     "Enabled": true
   },
   "401010030100120": {
@@ -101,12 +101,12 @@
   },
   "402020015400310": {
     "OriginalText": "大きすぎます……この火力では……！",
-    "Text": "It's too big... with our firepower, we can't!",
+    "Text": "It's too big! With our firepower, we can't!",
     "Enabled": true
   },
   "402020015500110": {
     "OriginalText": "無理だよ……死んじゃうよ！",
-    "Text": "Impossible... We're dead meat!",
+    "Text": "Impossible! We're dead meat!",
     "Enabled": true
   },
   "402020015500210": {
@@ -116,7 +116,7 @@
   },
   "402020015500310": {
     "OriginalText": "どう攻めていいか、分かりません……！",
-    "Text": "I don't know how we can attack...!",
+    "Text": "I don't know how we can attack!",
     "Enabled": true
   },
   "402020020100110": {
@@ -126,7 +126,7 @@
   },
   "402020020100120": {
     "OriginalText": "無理だよ……死んじゃうよ！",
-    "Text": "Impossible... We're dead meat!",
+    "Text": "Impossible! We're dead meat!",
     "Enabled": true
   },
   "402020020100210": {
@@ -141,12 +141,12 @@
   },
   "402020020100310": {
     "OriginalText": "どう攻めていいか、分かりません……！",
-    "Text": "I don't know how we can attack...!",
+    "Text": "I don't know how we can attack!",
     "Enabled": true
   },
   "402020020100320": {
     "OriginalText": "大きすぎます……この火力では……！",
-    "Text": "It's too big... with our firepower, we can't!",
+    "Text": "It's too big! With our firepower, we can't!",
     "Enabled": true
   },
   "402020040200710": {
@@ -186,7 +186,7 @@
   },
   "402040013100420": {
     "OriginalText": "仕留めるぞ！ オレに続け！",
-    "Text": "Follow my lead, going to take it down!",
+    "Text": "We're taking it down! Follow me!",
     "Enabled": true
   },
   "402040013200710": {
@@ -196,7 +196,7 @@
   },
   "402040013200720": {
     "OriginalText": "以後、あの型のギガンテスは\n「ギガンテス・アグリオス」と\n呼称します。",
-    "Text": "For now on, this type of Gigantes\nwill now be referred to as \"Gigantes Agrios\".",
+    "Text": "From now on, this type of Gigantes\nwill be called \"Gigantes Agrios\".",
     "Enabled": true
   },
   "402040013200730": {
@@ -211,1167 +211,1167 @@
   },
   "403030030100120": {
     "OriginalText": "[ruby]相棒[/ruby]！\nまだ回復は余裕あるから安心して！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Buddy!\nI've still got plenty of healing, so\ndon't worry!",
+    "Enabled": true
   },
   "403030030100210": {
     "OriginalText": "ルティナを信じて、粘り強くだ！\n落ち着いていくぜ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Trust Lutina & hang in there!\nStay calm!",
+    "Enabled": true
   },
   "403030030100220": {
     "OriginalText": "フォーメーションは崩さねえ！\n不倒のセイルの真価を見せてやる！",
-    "Text": "",
-    "Enabled": false
+    "Text": "I won't break formation! I'll show you\nwhat Unyielding Sail is really made of!",
+    "Enabled": true
   },
   "403030030100310": {
     "OriginalText": "ルティナさんはわたしが守ってみせます！",
-    "Text": "",
-    "Enabled": false
+    "Text": "I'll protect Lutina!",
+    "Enabled": true
   },
   "403030030100320": {
     "OriginalText": "ギガンテスの注意をひきます！",
-    "Text": "",
-    "Enabled": false
+    "Text": "I'll draw the Gigantes' attention!",
+    "Enabled": true
   },
   "403030030200710": {
     "OriginalText": "あの軟体生物っぽいのは新型のギガンテスね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "That mollusk-looking thing is a new\ntype of Gigantes.",
+    "Enabled": true
   },
   "403030030200720": {
     "OriginalText": "今後このタイプは\n「ギガンテス・アルキュオネ」と\n呼称します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "From now on, this type will be called\n\"Gigantes Alcyone.\"",
+    "Enabled": true
   },
   "403030030200730": {
     "OriginalText": "ルティナ、\nびびってないで立ち向かいなさい！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Lutina, quit being scared & face it!",
+    "Enabled": true
   },
   "403030030200810": {
     "OriginalText": "大変です！新型です！\n新型のギガンテスがいます！",
-    "Text": "",
-    "Enabled": false
+    "Text": "This is bad! A new type!\nThere's a new type of Gigantes!",
+    "Enabled": true
   },
   "403030030200820": {
     "OriginalText": "みなさん、危険です！\n十分に注意してください！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Everyone, it's dangerous!\nPlease be very careful!",
+    "Enabled": true
   },
   "403030030200830": {
     "OriginalText": "えっと、識別名は\n「ギガンテス・アルキュオネ」で\nよいでしょうか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Um, is \"Gigantes Alcyone\" okay\nfor its designation?",
+    "Enabled": true
   },
   "403210030100710": {
     "OriginalText": "今度の新型ギガンテスは随分巨大ね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "This new Gigantes is quite huge.",
+    "Enabled": true
   },
   "403210030100720": {
     "OriginalText": "識別名は、「ギガンテス・ギュゲンテ」！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Its designation is \"Gigantes Gygante\"!",
+    "Enabled": true
   },
   "403210030100730": {
     "OriginalText": "粉々に破壊してあげるといいわ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Feel free to smash it to pieces.",
+    "Enabled": true
   },
   "403210030100810": {
     "OriginalText": "すみません。\n今、こちらでも新型のギガンテスの\n反応を確認しました！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Sorry! We just picked up a new\nGigantes signal on our end too!",
+    "Enabled": true
   },
   "403210030100820": {
     "OriginalText": "あの巨体の名前は\n「ギガンテス・ギュゲンテ」に\nしましょう！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Let's name that giant\n\"Gigantes Gygante\"!",
+    "Enabled": true
   },
   "403210030100830": {
     "OriginalText": "レイヴァン副長ともども\n無事に帰ってきてください！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Please come back safely, along with\nExecutive Officer Raven!",
+    "Enabled": true
   },
   "404030030100110": {
     "OriginalText": "まだもう１体は気付いてないわ！\n今のうちに！！",
-    "Text": "",
-    "Enabled": false
+    "Text": "The other one hasn't noticed yet!\nNow's our chance!!",
+    "Enabled": true
   },
   "404030030100210": {
     "OriginalText": "今だけは不倒の二つ名は返上だ！\n猛攻のセイルでいくぜ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Just for now, I'm giving up the\n\"Unyielding\" title! It's \"Assault\nSail\" time!",
+    "Enabled": true
   },
   "404030030100310": {
     "OriginalText": "攻撃を集中！急いでください！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Focus your attacks! Hurry!",
+    "Enabled": true
   },
   "404030030200110": {
     "OriginalText": "よし！ この戦い方で次も行こう！！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Alright! Let's fight the next one\nthe same way!!",
+    "Enabled": true
   },
   "404030030200210": {
     "OriginalText": "まだ油断できねえな！\nおかわり、いくぜ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Can't let our guard down yet!\nRound two, here we go!",
+    "Enabled": true
   },
   "404030030200310": {
     "OriginalText": "最大の危機は去りました！\n落ち着いてもう一体を！",
-    "Text": "",
-    "Enabled": false
+    "Text": "The biggest danger has passed!\nStay calm & take the other one!",
+    "Enabled": true
   },
   "404040055100710": {
     "OriginalText": "新型ギガンテス接近中！",
-    "Text": "",
-    "Enabled": false
+    "Text": "New Gigantes approaching!",
+    "Enabled": true
   },
   "404040055100720": {
     "OriginalText": "あの型の識別名は、\n「ギガンテス・エウリュード」と\nするわ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "That type's designation will be\n\"Gigantes Eurude\"!",
+    "Enabled": true
   },
   "404040055100730": {
     "OriginalText": "さっさと捕獲して、拠点に帰還なさい！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Capture it quickly & return to base!",
+    "Enabled": true
   },
   "404040055100810": {
     "OriginalText": "あ、あの反応は……\n新型のギガンテスだと思います！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Th-that signal, I think it's a new\ntype of Gigantes!",
+    "Enabled": true
   },
   "404040055100820": {
     "OriginalText": "識別名は、「ギガンテス・エウリュード」に\nしようと思います。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I'd like to designate it\n\"Gigantes Eurude.\"",
+    "Enabled": true
   },
   "404040055100830": {
     "OriginalText": "ギガンテスの捕獲をお願いします。\nあぁ、でもあんな大きなエネミーを\nどこで飼うのでしょうか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Please capture the Gigantes. Oh, but\nwhere are we going to keep such a\nhuge enemy?",
+    "Enabled": true
   },
   "405010020100110": {
     "OriginalText": "イズナの支援、的確なんだけど……\nう～ん……。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Izuna's support is spot-on, but\nhmm.",
+    "Enabled": true
   },
   "405010020100210": {
     "OriginalText": "そうか、オレの動きを見てるんだな、\nイズナは……。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I see, so Izuna's watching how I move.",
+    "Enabled": true
   },
   "405010020100310": {
     "OriginalText": "次……どうしましょうか……。",
-    "Text": "",
-    "Enabled": false
+    "Text": "What should I do next?",
+    "Enabled": true
   },
   "405010020100320": {
     "OriginalText": "えっと……あ、援護します！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Um, ah, I'll cover you!",
+    "Enabled": true
   },
   "405010030100110": {
     "OriginalText": "イズナがリードしてる……？\nうん！ 合わせるよ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Izuna's taking the lead?\nOkay! I'll follow!",
+    "Enabled": true
   },
   "405010030100210": {
     "OriginalText": "イズナが積極的に攻撃の起点を作る……\nこれまでなかった形だな！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Izuna's actively setting up our\nattacks. That's new!",
+    "Enabled": true
   },
   "405010030100310": {
     "OriginalText": "遠慮はなしでいきますよ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "I won't hold back!",
+    "Enabled": true
   },
   "406020025100710": {
     "OriginalText": "撃破を確認！ 次、急ぎなさい！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Kill confirmed! Hurry to the next!",
+    "Enabled": true
   },
   "406020025100810": {
     "OriginalText": "やっつけましたね！ 次もお願いします！",
-    "Text": "",
-    "Enabled": false
+    "Text": "You beat it! Please take care of the\nnext one too!",
+    "Enabled": true
   },
   "406020025200710": {
     "OriginalText": "そのギガンテスの砲撃を\n止めないと拠点が破壊されるわ！\n早急に黙らせて！",
-    "Text": "",
-    "Enabled": false
+    "Text": "If you don't stop that Gigantes's\ncannon fire, the base will be destroyed!\nShut it up, now!",
+    "Enabled": true
   },
   "406020025200810": {
     "OriginalText": "それが大砲を撃ってくる\nギガンテスですよ！ \n拠点が破壊される前にやっつけないと！",
-    "Text": "",
-    "Enabled": false
+    "Text": "That's the Gigantes firing the cannon!\nWe have to beat it before the base\nis destroyed!",
+    "Enabled": true
   },
   "406020025300710": {
     "OriginalText": "ギガンテスからの砲撃、着弾！\nこんなの何発も保たないわよ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Cannon fire from the Gigantes has hit!\nWe can't take many more of those!",
+    "Enabled": true
   },
   "406020025300810": {
     "OriginalText": "大砲の弾が拠点に飛んできました！\n被害は……大変みたいです！！",
-    "Text": "",
-    "Enabled": false
+    "Text": "A cannon shell hit the base!\nThe damage looks really bad!!",
+    "Enabled": true
   },
   "406020025400710": {
     "OriginalText": "砲撃、止まらないわよ！\nなにしてるの！！\n帰る家がなくなるわよ！！",
-    "Text": "",
-    "Enabled": false
+    "Text": "The cannon fire isn't stopping!\nWhat are you doing!!\nWe won't have a home to go back to!!",
+    "Enabled": true
   },
   "406020025400810": {
     "OriginalText": "拠点の被害が広がっています！\nどうしていいか分かりません！",
-    "Text": "",
-    "Enabled": false
+    "Text": "The damage to the base is spreading!\nI don't know what to do!",
+    "Enabled": true
   },
   "406020025500710": {
     "OriginalText": "拠点は限界よ！\nもう一発も撃たせないで！ 絶対に！",
-    "Text": "",
-    "Enabled": false
+    "Text": "The base is at its limit!\nDon't let it fire even once more! Ever!",
+    "Enabled": true
   },
   "406020025500810": {
     "OriginalText": "も、もうだめです！\nあと一発大砲を撃たれたら……\nみなさんがんばって！",
-    "Text": "",
-    "Enabled": false
+    "Text": "I-it's no good! If it fires one more\nshot, everyone, please hang in there!",
+    "Enabled": true
   },
   "406020025600710": {
     "OriginalText": "拠点壊滅……ここまでね……。",
-    "Text": "",
-    "Enabled": false
+    "Text": "The base is destroyed. This is it.",
+    "Enabled": true
   },
   "406020025600810": {
     "OriginalText": "拠点がやられてしまいました……\nみなさんも戦線を離脱して下さい……。",
-    "Text": "",
-    "Enabled": false
+    "Text": "The base has fallen.\nEveryone, please withdraw from\nthe front lines.",
+    "Enabled": true
   },
   "406020025700410": {
     "OriginalText": "オレだ！ デカブツを１匹仕留めたぞ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "It's me! I took down one big guy!",
+    "Enabled": true
   },
   "406020025700420": {
     "OriginalText": "オレだ！ ３匹狩った！\nじゃんじゃんいくぞ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "It's me! I've hunted 3!\nLet's keep 'em coming!",
+    "Enabled": true
   },
   "406020025700430": {
     "OriginalText": "オレだ！ おい、今のでいくつだ？\n５？ ５匹目だとさ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "It's me! Hey, how many was that?\n5? They say that's number 5!",
+    "Enabled": true
   },
   "406020025700440": {
     "OriginalText": "オレだ！ たぶん今ので７匹目だ！\nだいぶ殺り方が分かってきたぜ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "It's me! I think that was number 7!\nI'm really getting the hang of\nkilling these!",
+    "Enabled": true
   },
   "406020025700450": {
     "OriginalText": "オレだ！ たぶん今ので９匹目だ！\nあとちょいで片付くぞ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "It's me! I think that was number 9!\nAlmost done!",
+    "Enabled": true
   },
   "406020025700460": {
     "OriginalText": "オレだ！ だいたい終わったぞ！\nそっちはどうだ？",
-    "Text": "",
-    "Enabled": false
+    "Text": "It's me! I'm pretty much done!\nHow about you?",
+    "Enabled": true
   },
   "407030025100110": {
     "OriginalText": "レイヴァン副長！\nあなたは何をやっているか\n分かっているんですか！？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Executive Officer Raven! Do you even\nknow what you're doing!?",
+    "Enabled": true
   },
   "407030025100120": {
     "OriginalText": "どうしちゃったっていうの……？",
-    "Text": "",
-    "Enabled": false
+    "Text": "What's happened to you?",
+    "Enabled": true
   },
   "407030025100210": {
     "OriginalText": "おい副長！\nギガンテスはオレ達の敵だろ！\n違うのかよ！！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Hey, Executive Officer! The Gigantes are\nour enemies! Aren't they!?",
+    "Enabled": true
   },
   "407030025100220": {
     "OriginalText": "くそっ、こいつをさっさと\n仕留めて副長を捕まえねえと！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Dammit, we've gotta take this thing down\nfast & catch the Executive Officer!",
+    "Enabled": true
   },
   "407030025100310": {
     "OriginalText": "副長……あれから一体何が……？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Executive Officer, what happened to\nyou after that?",
+    "Enabled": true
   },
   "407030025100320": {
     "OriginalText": "あれは本当に\nレイヴァン副長なのでしょうか……？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Is that really Executive Officer Raven?",
+    "Enabled": true
   },
   "407030025100510": {
     "OriginalText": "お前達は何も知る必要は無い。",
-    "Text": "",
-    "Enabled": false
+    "Text": "You have no need to know anything.",
+    "Enabled": true
   },
   "407030025100520": {
     "OriginalText": "理解など求めぬよ……。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I seek no understanding.",
+    "Enabled": true
   },
   "407030025100530": {
     "OriginalText": "この戦闘も……無意味なのだがな……。",
-    "Text": "",
-    "Enabled": false
+    "Text": "This battle is meaningless, though.",
+    "Enabled": true
   },
   "407100020100710": {
     "OriginalText": "新型ギガンテスを捕捉！",
-    "Text": "",
-    "Enabled": false
+    "Text": "New Gigantes detected!",
+    "Enabled": true
   },
   "407100020100720": {
     "OriginalText": "以降あの型は\n「ギガンテス・ガラティオン」と呼称！",
-    "Text": "",
-    "Enabled": false
+    "Text": "From now on, that type will be called\n\"Gigantes Garation\"!",
+    "Enabled": true
   },
   "407100020100730": {
     "OriginalText": "新型のギガンテスまでいるなんて\nおもしろそうな塔ね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Even a new Gigantes here? What an\ninteresting tower.",
+    "Enabled": true
   },
   "407100020100810": {
     "OriginalText": "やはり、下の惑星本体にも新型ギガンテスが！",
-    "Text": "",
-    "Enabled": false
+    "Text": "So there are new Gigantes on the\nplanet below too!",
+    "Enabled": true
   },
   "407100020100820": {
     "OriginalText": "あの新型の識別名は、\n「ギガンテス・ガラティオン」です！",
-    "Text": "",
-    "Enabled": false
+    "Text": "That new type's designation is\n\"Gigantes Garation\"!",
+    "Enabled": true
   },
   "407100020100830": {
     "OriginalText": "あんな刃物がいっぱい……。\nみなさん、気をつけて！",
-    "Text": "",
-    "Enabled": false
+    "Text": "So many blades. Everyone, be careful!",
+    "Enabled": true
   },
   "407120020100310": {
     "OriginalText": "ええと、これはですね……",
-    "Text": "",
-    "Enabled": false
+    "Text": "Um, this is.",
+    "Enabled": true
   },
   "407120020100320": {
     "OriginalText": "読んでみますね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I'll read it.",
+    "Enabled": true
   },
   "407120050050310": {
     "OriginalText": "さぁ、宝石を集めましょ！\n『一寸の光陰軽んずべからず』ですよ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Come on, let's collect the gems!\n\"Never waste a single moment!\"",
+    "Enabled": true
   },
   "407120050100310": {
     "OriginalText": "ここには、この[ruby ほし]惑星[/ruby]の人々と異星人との\n戦争について書かれています。\n侵略を受け、為す術がなかったようです。",
-    "Text": "",
-    "Enabled": false
+    "Text": "This describes the war between this\nplanet's people & the aliens. They were\ninvaded, & it seems they were helpless.",
+    "Enabled": true
   },
   "407120050200310": {
     "OriginalText": "ここには、古代人たちが開発した新技術と\n兵器に関することが記載されています。\n星間戦争に勝利するための秘策だったとか。",
-    "Text": "",
-    "Enabled": false
+    "Text": "This describes new technology & weapons\nthe Ancients developed. It was said to\nbe their secret plan to win the war.",
+    "Enabled": true
   },
   "407120050300310": {
     "OriginalText": "ここには、グランについて書かれています！\nグランとギガンテスにより、異星人の侵略を退け、\n古代人は平和と繁栄を手に入れたようです。",
-    "Text": "",
-    "Enabled": false
+    "Text": "This is about Gran! With Gran & the\nGigantes, the Ancients repelled the\nalien invasion & gained peace &\nprosperity.",
+    "Enabled": true
   },
   "407120050400310": {
     "OriginalText": "これは、ギガンテスに関することのようです。\nギガンテスは制御不能なほど進化成長し\n古代人は生活の場を奪われてしまったと。",
-    "Text": "",
-    "Enabled": false
+    "Text": "This seems to be about the Gigantes. The\nGigantes evolved & grew beyond control,\n& the Ancients lost their homes.",
+    "Enabled": true
   },
   "407120050500310": {
     "OriginalText": "古代人はギガンテスへの対抗策を構想するも\n実を結ぶことはなく、ある人物に未来を託す\nことになった、と、そのような記載のようです。",
-    "Text": "",
-    "Enabled": false
+    "Text": "The Ancients planned countermeasures\nagainst the Gigantes, but they failed,\nso they entrusted the future to a\ncertain person. That's what it says.",
+    "Enabled": true
   },
   "407120050600310": {
     "OriginalText": "これは、古代人による最後の記録のようです。\n古代人の人口はさらに滅少し、その多くも\n聖地であるこの地を守り、亡くなったそうです。",
-    "Text": "",
-    "Enabled": false
+    "Text": "This seems to be the Ancients' final\nrecord. Their numbers fell even more,\n& many died protecting this land,\ntheir sacred ground.",
+    "Enabled": true
   },
   "407210030100110": {
     "OriginalText": "すぐ行くからね、ユノ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "We're coming right away, Juno!",
+    "Enabled": true
   },
   "407210030100120": {
     "OriginalText": "今度はあたしがユノに\n教えてあげる番なんだ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Now it's my turn to teach Juno\nsomething!",
+    "Enabled": true
   },
   "407210030100130": {
     "OriginalText": "邪魔なのよ！ ユノのところに行かせなさい！！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Get out of my way! Let me through\nto Juno!!",
+    "Enabled": true
   },
   "408120020100610": {
     "OriginalText": "レイヴァン……\nお前の仕事にしては杜撰だな……！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Raven. That's sloppy, even for\nyour work!",
+    "Enabled": true
   },
   "408120020100910": {
     "OriginalText": "ギガンテスとお友達とはな！\nどうやって飼い慣らしたんだ？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Making friends with the Gigantes!\nHow'd you tame them?",
+    "Enabled": true
   },
   "408140020101010": {
     "OriginalText": "レイヴァン、こいつでオレ達を\n倒せると思っちゃいないだろうな？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Raven, you don't really think you can\nbeat us with this, do you?",
+    "Enabled": true
   },
   "408140020101110": {
     "OriginalText": "はて、レイヴァンさんは\nシーフードがお好みでしたかな？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Hmm, Raven, were you fond of seafood?",
+    "Enabled": true
   },
   "408150020101210": {
     "OriginalText": "どうして……わからない……。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Why? I don't understand.",
+    "Enabled": true
   },
   "408150020101220": {
     "OriginalText": "私のこと、本当に覚えていないのですか……。",
-    "Text": "",
-    "Enabled": false
+    "Text": "You really don't remember me?",
+    "Enabled": true
   },
   "409020020100110": {
     "OriginalText": "こんなもので、止められるもんか！！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Like this could stop us!!",
+    "Enabled": true
   },
   "409020020100210": {
     "OriginalText": "レイヴァンよぉ！\n自力じゃ戦えねえってのは悲しいもんだな！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Hey, Raven! Sad, isn't it, not being\nable to fight on your own!",
+    "Enabled": true
   },
   "409020020100310": {
     "OriginalText": "レイヴァンさん……\nこちらも全力でいきますよ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Raven, we're going all out too!",
+    "Enabled": true
   },
   "409020020100510": {
     "OriginalText": "ユノ……その名は……私の……何だ……？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Juno. That name, what is it, to me?",
+    "Enabled": true
   },
   "409020020101310": {
     "OriginalText": "レイヴァン……私の声を聞いて下さい！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Raven, please hear my voice!",
+    "Enabled": true
   },
   "409030010100110": {
     "OriginalText": "進むしかないんだ！ あたし達は！",
-    "Text": "",
-    "Enabled": false
+    "Text": "All we can do is push forward! Us!",
+    "Enabled": true
   },
   "409030010100210": {
     "OriginalText": "オレは誰かを悲しませる奴には\n容赦しないぜ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "I show no mercy to anyone who makes\nsomeone sad!",
+    "Enabled": true
   },
   "409030010100310": {
     "OriginalText": "気持ちで負けるわけには……\nいかないんです！",
-    "Text": "",
-    "Enabled": false
+    "Text": "We can't let our hearts lose!",
+    "Enabled": true
   },
   "409030010100510": {
     "OriginalText": "姿などどうでもいい……\n大切なのは……何だ……？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Appearance doesn't matter. What\nmatters is, what?",
+    "Enabled": true
   },
   "409030010101310": {
     "OriginalText": "思い出してレイヴァン！\nあなたは、人なのですよ！！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Remember, Raven!\nYou're a person!!",
+    "Enabled": true
   },
   "409040010100110": {
     "OriginalText": "レイヴァン！\nあんたの顔、絶対見てやるんだからね！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Raven!\nI'm gonna see your face, no matter what!",
+    "Enabled": true
   },
   "409040010100210": {
     "OriginalText": "レイヴァン！\n勝ったつもりになるのはまだ早ぇからな！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Raven! It's too early to think\nyou've won!",
+    "Enabled": true
   },
   "409040010100310": {
     "OriginalText": "記憶をなくしたあなたに……\nわたし達の強さは分からない！",
-    "Text": "",
-    "Enabled": false
+    "Text": "You've lost your memories! You can't\nunderstand our strength!",
+    "Enabled": true
   },
   "409040010101310": {
     "OriginalText": "レイヴァン、あなたが望んだのは\nこんな力ではなかったはず……！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Raven, this can't be the power\nyou wanted!",
+    "Enabled": true
   },
   "409040010101320": {
     "OriginalText": "こんな姿……見たくはありませんでした……。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I never wanted to see you like this.",
+    "Enabled": true
   },
   "411020010100110": {
     "OriginalText": "うん……しっくりくる……\n闘志がみなぎってきたよ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Yeah, this feels right.\nI'm fired up!",
+    "Enabled": true
   },
   "411020010100120": {
     "OriginalText": "やっぱりコブシはいいね……\nスイッチ入った！！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Fists really are the best.\nI'm switched on!!",
+    "Enabled": true
   },
   "411020010100130": {
     "OriginalText": "ルティナさんのコンボお見せしちゃうよ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Let me show you Lutina's combos!",
+    "Enabled": true
   },
   "412020010100210": {
     "OriginalText": "不倒のセイルってのは、\nオレの誇りについた名だ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "\"Unyielding Sail\" is a name I earned\nwith my pride!",
+    "Enabled": true
   },
   "412020010100220": {
     "OriginalText": "倒れないのは仲間のためでもあり、\n己の意地のためでもある！",
-    "Text": "",
-    "Enabled": false
+    "Text": "I don't fall, for my comrades & for\nmy own pride!",
+    "Enabled": true
   },
   "412020010100230": {
     "OriginalText": "オレを簡単に倒せると思うなよ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Don't think I'll go down easy!",
+    "Enabled": true
   },
   "413020010100310": {
     "OriginalText": "なるべく多くチーズの村料を用意して、\nいいものを作らないと……。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I need to gather as many cheese\ningredients as I can & make something\ngood.",
+    "Enabled": true
   },
   "413020010100320": {
     "OriginalText": "チーズの酸味を強めにするか、\nそれとも果汁で調節……？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Should I make the cheese tangier, or\nadjust it with fruit juice?",
+    "Enabled": true
   },
   "413020010100330": {
     "OriginalText": "砂糖も、いいものがほしいな……。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I want some good sugar too.",
+    "Enabled": true
   },
   "416020010100610": {
     "OriginalText": "ほぼ予定通り……順調だ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Almost on schedule. Going smoothly.",
+    "Enabled": true
   },
   "416020010100620": {
     "OriginalText": "早く終われば仕事が前倒せるが……。",
-    "Text": "",
-    "Enabled": false
+    "Text": "If we finish early, I can move my work\nup, but.",
+    "Enabled": true
   },
   "416020010100630": {
     "OriginalText": "自由なフィールドワークも\nたまには悪くない。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Free fieldwork isn't bad once\nin a while.",
+    "Enabled": true
   },
   "419020010100910": {
     "OriginalText": "よし、ちゃんと出力は設計通り出てるな。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Alright, the output matches the design.",
+    "Enabled": true
   },
   "419020010100920": {
     "OriginalText": "武器が不調なら言ってくれ。\n調整するからな。",
-    "Text": "",
-    "Enabled": false
+    "Text": "If your weapon's acting up, tell me.\nI'll adjust it.",
+    "Enabled": true
   },
   "419020010100930": {
     "OriginalText": "武器も使えてこそいい職人、てな！",
-    "Text": "",
-    "Enabled": false
+    "Text": "A good craftsman can use weapons too,\nas they say!",
+    "Enabled": true
   },
   "420020010101010": {
     "OriginalText": "緊張しすぎるな。力むと当たるもんも当たらんぞ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Don't get too tense. If you strain,\nyou'll miss even easy shots.",
+    "Enabled": true
   },
   "420020010101020": {
     "OriginalText": "背中と頭のてっぺんにも\n目がついてるつもりでな。\nって、難しいか。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Act like you've got eyes on your back\n& the top of your head too. Well,\nthat's hard.",
+    "Enabled": true
   },
   "420020010101030": {
     "OriginalText": "武器を構えてる時が一番生きてるって\n気がするんだよな……。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I feel most alive when I'm holding\na weapon.",
+    "Enabled": true
   },
   "421020010101110": {
     "OriginalText": "ほっほっほ、狙い撃っちゃいますぞー！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Ho ho ho, I'll snipe them!",
+    "Enabled": true
   },
   "421020010101120": {
     "OriginalText": "当たらなきゃ痛くありませんよ。\n当てますけど。",
-    "Text": "",
-    "Enabled": false
+    "Text": "It doesn't hurt if it doesn't hit.\nI'll hit, though.",
+    "Enabled": true
   },
   "421020010101130": {
     "OriginalText": "食べられそうな獲物は急所を\nはずさねばなりませんな。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Edible prey must not be hit in the\nvitals.",
+    "Enabled": true
   },
   "422020010101210": {
     "OriginalText": "判断の速さが戦場では大切ですね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Quick judgment matters on the\nbattlefield.",
+    "Enabled": true
   },
   "422020010101220": {
     "OriginalText": "慌てず騒がず、思考は早く、です。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Stay calm & quiet, think fast.",
+    "Enabled": true
   },
   "422020010101230": {
     "OriginalText": "本能で戦える人はすごいと思います。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I think people who can fight on instinct\nare amazing.",
+    "Enabled": true
   },
   "425010010100410": {
     "OriginalText": "あっははっ！ 楽しいなあ！\nいくぜいくぜー！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Ahahaha! This is fun!\nHere we go, here we go!",
+    "Enabled": true
   },
   "425010010100420": {
     "OriginalText": "頼りになる奴と組むって、\nいいもんだよな！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Teaming up with someone reliable is\ngreat, isn't it!",
+    "Enabled": true
   },
   "425010010100430": {
     "OriginalText": "おい、楽しんでるか？\n必死な顔なんかすんなよ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Hey, having fun?\nDon't make such a desperate face!",
+    "Enabled": true
   },
   "498000000100710": {
     "OriginalText": "エネミー反応を確認。警戒レベル高へ移行。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Enemy signal confirmed. Shifting to\nhigh alert level.",
+    "Enabled": true
   },
   "498000000100720": {
     "OriginalText": "周囲に反応あり。総員、警戒態勢をとれ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Signals nearby. All hands, take\nalert positions.",
+    "Enabled": true
   },
   "498000000100730": {
     "OriginalText": "環境値上昇、突発事象に留意。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Environmental levels rising. Watch for\nsudden events.",
+    "Enabled": true
   },
   "498000000100740": {
     "OriginalText": "警戒レベル、高。\nふふ、面倒なことが起こりそうね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Alert level high.\nHehe, something troublesome is coming.",
+    "Enabled": true
   },
   "498000000100810": {
     "OriginalText": "大変です！\nみなさん、注意してください！",
-    "Text": "",
-    "Enabled": false
+    "Text": "This is bad!\nEveryone, please be careful!",
+    "Enabled": true
   },
   "498000000100820": {
     "OriginalText": "あれは、何です？！\nとにかく周囲に警戒を！",
-    "Text": "",
-    "Enabled": false
+    "Text": "What is that!?\nAnyway, stay alert to your surroundings!",
+    "Enabled": true
   },
   "498000000100830": {
     "OriginalText": "あぁ、数値が！ 何か起きそうです！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Ah, the readings! Something's going\nto happen!",
+    "Enabled": true
   },
   "498000000100840": {
     "OriginalText": "こんな反応見たことありません。\n気を付けてください！",
-    "Text": "",
-    "Enabled": false
+    "Text": "I've never seen a signal like this.\nPlease be careful!",
+    "Enabled": true
   },
   "498000000110710": {
     "OriginalText": "環境値変動！ 戦闘態勢への移行を指示。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Environmental shift! Ordering a switch\nto combat stance.",
+    "Enabled": true
   },
   "498000000110720": {
     "OriginalText": "目標ダーカーを確認。対処を要請する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Target Darkers confirmed. Requesting\nyou deal with them.",
+    "Enabled": true
   },
   "498000000110730": {
     "OriginalText": "ダーカー発生の予兆あり。速やかに排除。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Signs of Darkers appearing. Eliminate\nthem quickly.",
+    "Enabled": true
   },
   "498000000110740": {
     "OriginalText": "こんなに強い反応が……早急に対処を！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Such a strong signal! Deal with it\nat once!",
+    "Enabled": true
   },
   "498000000110810": {
     "OriginalText": "まわりに反応あり！\nええと……いっぱいです。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Signals all around!\nUm, there are a lot.",
+    "Enabled": true
   },
   "498000000110820": {
     "OriginalText": "ええと、この反応は……ダーカー！？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Um, this signal is Darkers!?",
+    "Enabled": true
   },
   "498000000110830": {
     "OriginalText": "すごい勢いでこちらに向かってます！\nダーカーです！",
-    "Text": "",
-    "Enabled": false
+    "Text": "They're coming at us fast!\nIt's Darkers!",
+    "Enabled": true
   },
   "498000000110840": {
     "OriginalText": "うわっ、うわわっ！\nなんですかこれは？！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Whoa, whoa!\nWhat is this!?",
+    "Enabled": true
   },
   "498000000120710": {
     "OriginalText": "ギガンテスの出現を確認。警戒レベル最大！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gigantes sighted. Alert level maximum!",
+    "Enabled": true
   },
   "498000000120720": {
     "OriginalText": "ギガンテス接近。交戦態勢を。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gigantes approaching. Prepare to engage.",
+    "Enabled": true
   },
   "498000000120730": {
     "OriginalText": "広域警戒警報発令。総員、速やかに移行。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Wide-area alert issued. All hands,\nmove quickly.",
+    "Enabled": true
   },
   "498000000120740": {
     "OriginalText": "んっ……ソイツは危険そうね。\n総員、厳戒態勢を取れ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Hm, that one looks dangerous.\nAll hands, maximum alert.",
+    "Enabled": true
   },
   "498000000120810": {
     "OriginalText": "気をつけてください！\nギガンテスの反応があります！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Please be careful!\nThere's a Gigantes signal!",
+    "Enabled": true
   },
   "498000000120820": {
     "OriginalText": "危ないのです！\nみなさん、ギガンテスです！",
-    "Text": "",
-    "Enabled": false
+    "Text": "It's dangerous!\nEveryone, it's a Gigantes!",
+    "Enabled": true
   },
   "498000000120830": {
     "OriginalText": "まさか、こんなことが……！",
-    "Text": "",
-    "Enabled": false
+    "Text": "No way, this can't be!",
+    "Enabled": true
   },
   "498000000120840": {
     "OriginalText": "みなさん、危険です、逃げてください！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Everyone, it's dangerous, please run!",
+    "Enabled": true
   },
   "498000000200710": {
     "OriginalText": "総員に通達！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Notice to all hands!",
+    "Enabled": true
   },
   "498000000200720": {
     "OriginalText": "連絡事項あり。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I have an announcement.",
+    "Enabled": true
   },
   "498000000200730": {
     "OriginalText": "緊急連絡！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Emergency message!",
+    "Enabled": true
   },
   "498000000200740": {
     "OriginalText": "機密連絡！\n一回しか言わないからちゃんと聞きなさい！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Classified message! I'll only say this\nonce, so listen carefully!",
+    "Enabled": true
   },
   "498000000200810": {
     "OriginalText": "えっと、連絡事項なのです。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Um, I have an announcement.",
+    "Enabled": true
   },
   "498000000200820": {
     "OriginalText": "お話聞いてもらってもいいですか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Could you listen to me for a moment?",
+    "Enabled": true
   },
   "498000000200830": {
     "OriginalText": "みなさん、聞こえていますか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Everyone, can you hear me?",
+    "Enabled": true
   },
   "498000000200840": {
     "OriginalText": "すみません。ご報告し忘れていました！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Sorry! I forgot to report something!",
+    "Enabled": true
   },
   "498000000300710": {
     "OriginalText": "緊急任務発令！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Emergency mission issued!",
+    "Enabled": true
   },
   "498000000300720": {
     "OriginalText": "至急、任務につけ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Report for duty immediately!",
+    "Enabled": true
   },
   "498000000300810": {
     "OriginalText": "に、任務発令です。\n怪我しないようにしてください！",
-    "Text": "",
-    "Enabled": false
+    "Text": "A-a mission has been issued.\nPlease don't get hurt!",
+    "Enabled": true
   },
   "498000000300820": {
     "OriginalText": "任務をお願いします。\nあー、でも無理は禁物です！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Please take this mission. Ah, but\ndon't push yourselves!",
+    "Enabled": true
   },
   "498000000310710": {
     "OriginalText": "目標達成を確認。通常任務へ戻れ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Objective achieved. Return to\nregular duty.",
+    "Enabled": true
   },
   "498000000310720": {
     "OriginalText": "任務完了確認。ふふ、やるじゃない。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Mission complete. Hehe, not bad.",
+    "Enabled": true
   },
   "498000000310810": {
     "OriginalText": "お疲れ様です！目標達成を確認しました。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Great work! Objective achieved.",
+    "Enabled": true
   },
   "498000000310820": {
     "OriginalText": "みなさん、やりました！\n通常任務もお気をつけて！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Everyone, you did it!\nBe careful on regular duty too!",
+    "Enabled": true
   },
   "498000000320710": {
     "OriginalText": "任務の失敗を確認。\n通常任務へ移行を要請する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Mission failure confirmed. Requesting\na return to regular duty.",
+    "Enabled": true
   },
   "498000000320720": {
     "OriginalText": "任務失敗を把握。\n……あとで覚悟することね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Mission failure noted.\nBe ready for what's coming later.",
+    "Enabled": true
   },
   "498000000320810": {
     "OriginalText": "任務失敗の件了解です。\n怪我がないのが一番です。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Understood about the mission failure.\nWhat matters most is no one's hurt.",
+    "Enabled": true
   },
   "498000000320820": {
     "OriginalText": "失敗ですか。\n仕方ありません、\n無理してもいいことありませんよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "It failed? It can't be helped.\nPushing yourselves does no good.",
+    "Enabled": true
   },
   "498000000330710": {
     "OriginalText": "環境値、さらに変動。引き続き警戒を。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Environmental levels shifting again.\nStay alert.",
+    "Enabled": true
   },
   "498000000330720": {
     "OriginalText": "新たな反応多数。戦闘態勢、続行！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Many new signals. Continue combat\nstance!",
+    "Enabled": true
   },
   "498000000330810": {
     "OriginalText": "あれ？ \nええと、あれは新しい反応でしょうか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Huh? Um, is that a new signal?",
+    "Enabled": true
   },
   "498000000330820": {
     "OriginalText": "危険です！ \nまだ終わってなかったみたいです！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Danger! It looks like it's not\nover yet!",
+    "Enabled": true
   },
   "498000000400710": {
     "OriginalText": "目標達成。拠点への帰還を許可。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Objective achieved. Permission to\nreturn to base.",
+    "Enabled": true
   },
   "498000000400720": {
     "OriginalText": "帰還許可あり。\n胸を張って帰ってこられるレベルかしら？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Return approved. Is this a result you\ncan come home proud of?",
+    "Enabled": true
   },
   "498000000400810": {
     "OriginalText": "帰還の許可が出ました。\nみなさんが無事で本当によかった。",
-    "Text": "",
-    "Enabled": false
+    "Text": "You're cleared to return.\nI'm so glad everyone's safe.",
+    "Enabled": true
   },
   "498000000400820": {
     "OriginalText": "帰りも気をつけてください。\n帰るまでが任務ですよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Be careful on the way back too.\nThe mission isn't over until you're home.",
+    "Enabled": true
   },
   "498000000410710": {
     "OriginalText": "任務続行不可を確認。速やかに撤退を。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Unable to continue the mission. Withdraw\nat once.",
+    "Enabled": true
   },
   "498000000410720": {
     "OriginalText": "任務は失敗。\nどの面さげて帰ってくるか楽しみだわ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Mission failed. I can't wait to see how\nyou'll show your faces.",
+    "Enabled": true
   },
   "498000000410810": {
     "OriginalText": "オペレートが悪いせいで失敗に……\nごめんなさい。\n帰還をお願いします。",
-    "Text": "",
-    "Enabled": false
+    "Text": "It failed because of my bad operating.\nI'm sorry. Please return.",
+    "Enabled": true
   },
   "498000000410820": {
     "OriginalText": "任務続行は難しそうですね。\n一度帰還をお願いします。",
-    "Text": "",
-    "Enabled": false
+    "Text": "It looks hard to continue the mission.\nPlease return for now.",
+    "Enabled": true
   },
   "498000000500710": {
     "OriginalText": "グランリンク達成を確認。捕獲行動に移行。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gran Link confirmed. Moving to capture.",
+    "Enabled": true
   },
   "498000000500810": {
     "OriginalText": "グランリンクを達成しました！\nこれで捕獲ができますね！",
-    "Text": "",
-    "Enabled": false
+    "Text": "The Gran Link is complete!\nNow we can capture it!",
+    "Enabled": true
   },
   "498000000510710": {
     "OriginalText": "ギガンテス捕獲！\nその調子で頑張りなさい。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gigantes captured!\nKeep up the good work.",
+    "Enabled": true
   },
   "498000000510810": {
     "OriginalText": "おめでとうごいます！\nギガンテスを捕獲が完了しました！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Congratulations!\nThe Gigantes capture is complete!",
+    "Enabled": true
   },
   "498000000510910": {
     "OriginalText": "やったー！ギガンテス捕獲成功！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Yay! Gigantes captured!",
+    "Enabled": true
   },
   "498000000511010": {
     "OriginalText": "ギガンテス、捕獲！！\nさすがの手際の良さだな！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gigantes captured!!\nSkillful as always!",
+    "Enabled": true
   },
   "498000000511110": {
     "OriginalText": "ギガンテス捕獲できました！\nお疲れ様です！",
-    "Text": "",
-    "Enabled": false
+    "Text": "The Gigantes has been captured!\nGreat work!",
+    "Enabled": true
   },
   "498000000511210": {
     "OriginalText": "デカブツを捕獲したか？\nなかなかやるな！",
-    "Text": "",
-    "Enabled": false
+    "Text": "You caught the big guy?\nNot bad at all!",
+    "Enabled": true
   },
   "498000000511310": {
     "OriginalText": "ギガンテスを捕獲したようですね。\n拠点がにぎやかになるのは好きですわ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "It seems you captured a Gigantes.\nI do love a lively base.",
+    "Enabled": true
   },
   "498000000511410": {
     "OriginalText": "ギガンテスが捕獲できたようだな。\n悪くない手際だった。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Looks like you captured a Gigantes.\nThat wasn't bad work.",
+    "Enabled": true
   },
   "498000000520710": {
     "OriginalText": "ターゲットの攻撃パターンを解祈",
-    "Text": "",
-    "Enabled": false
+    "Text": "Analyzing the target's attack pattern.",
+    "Enabled": true
   },
   "498000000520810": {
     "OriginalText": "えっと、敵の攻撃パターンを\n解祈できそうです。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Um, I think I can analyze the enemy's\nattack pattern.",
+    "Enabled": true
   },
   "499000000100110": {
     "OriginalText": "いっくわよ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Here I go!",
+    "Enabled": true
   },
   "499000000100120": {
     "OriginalText": "落ち着いていけば、大丈夫……！",
-    "Text": "",
-    "Enabled": false
+    "Text": "If we stay calm, we'll be fine!",
+    "Enabled": true
   },
   "499000000100130": {
     "OriginalText": "[ruby]相棒[/ruby]と一緒だから、心強いよ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "I'm with my buddy, so I feel strong!",
+    "Enabled": true
   },
   "499000000100140": {
     "OriginalText": "うええっ！！ でたーっ！\nもうタコいやーっ！！ ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Ugh!! It's here!\nNo more octopuses!!",
+    "Enabled": true
   },
   "499000000100210": {
     "OriginalText": "オレ様が一番強い奴とやるぜ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "I'll take on the strongest one!",
+    "Enabled": true
   },
   "499000000100220": {
     "OriginalText": "まだまだ余裕だな！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Still plenty of room to spare!",
+    "Enabled": true
   },
   "499000000100230": {
     "OriginalText": "モノメイトは……まだあるな！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Monomates, still got some!",
+    "Enabled": true
   },
   "499000000100240": {
     "OriginalText": "きつい奴はオレの後ろで休んでいいぞ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "If you're struggling, rest behind me!",
+    "Enabled": true
   },
   "499000000100310": {
     "OriginalText": "有為転変\n状況の変化に注意しましょう。",
-    "Text": "",
-    "Enabled": false
+    "Text": "All things change.\nWatch for changes in the situation.",
+    "Enabled": true
   },
   "499000000100320": {
     "OriginalText": "先制攻撃は大事ですよね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Striking first is important, right?",
+    "Enabled": true
   },
   "499000000100330": {
     "OriginalText": "このチームの戦術は……と。",
-    "Text": "",
-    "Enabled": false
+    "Text": "This team's tactics are.",
+    "Enabled": true
   },
   "499000000100340": {
     "OriginalText": "回復は早めを心がけましょう。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Let's try to heal early.",
+    "Enabled": true
   },
   "499000000100610": {
     "OriginalText": "動きを読み切れば、どうとでもなる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Read its every move, & anything is\npossible.",
+    "Enabled": true
   },
   "499000000100620": {
     "OriginalText": "あせることはない……勝機は確実にある。",
-    "Text": "",
-    "Enabled": false
+    "Text": "No need to rush. There's definitely a\nchance to win.",
+    "Enabled": true
   },
   "499000000100910": {
     "OriginalText": "この武器はこう使うんだよっ！！",
-    "Text": "",
-    "Enabled": false
+    "Text": "This is how you use this weapon!!",
+    "Enabled": true
   },
   "499000000100920": {
     "OriginalText": "オレもグランを使いこなせてるだろ？",
-    "Text": "",
-    "Enabled": false
+    "Text": "I've mastered Gran too, right?",
+    "Enabled": true
   },
   "499000000101010": {
     "OriginalText": "ほらっ！ お前さん達、ガンガン攻めろ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Come on! You lot, attack hard!",
+    "Enabled": true
   },
   "499000000101020": {
     "OriginalText": "回復まで面倒みねえからな。\nしっかりよけろよ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "I'm not babysitting your healing.\nDodge properly!",
+    "Enabled": true
   },
   "499000000101110": {
     "OriginalText": "わたくし、なかなか上手でしょ？",
-    "Text": "",
-    "Enabled": false
+    "Text": "I'm rather good, aren't I?",
+    "Enabled": true
   },
   "499000000101120": {
     "OriginalText": "意外とタフなんですよ。ほっほっほ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "I'm surprisingly tough, you know.\nHo ho ho!",
+    "Enabled": true
   },
   "499000000101210": {
     "OriginalText": "状況分祈を最優先。\nバックアップを担当します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Analyzing the situation is the top\npriority. I'll handle backup.",
+    "Enabled": true
   },
   "499000000101220": {
     "OriginalText": "隙を確実に狙いましょう！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Let's aim for openings without fail!",
+    "Enabled": true
   },
   "499000000200110": {
     "OriginalText": "拠点に戻ろう、[ruby]相棒[/ruby]！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Let's head back to base, buddy!",
+    "Enabled": true
   },
   "499000000200120": {
     "OriginalText": "終わりだね！ 帰ろ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "That's it! Let's go home!",
+    "Enabled": true
   },
   "499000000200210": {
     "OriginalText": "じゃ、帰るとするか！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Well, guess we'll head back!",
+    "Enabled": true
   },
   "499000000200220": {
     "OriginalText": "ぼちぼち引き上げだ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Time to pack it up!",
+    "Enabled": true
   },
   "499000000200310": {
     "OriginalText": "帰りましょうか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Shall we go back?",
+    "Enabled": true
   },
   "499000000200320": {
     "OriginalText": "もうここですることはありませんね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "There's nothing left to do here.",
+    "Enabled": true
   },
   "499999999999010": {
     "OriginalText": "任務を開始するよ！\nとりあえず、周辺を探索してみようよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Starting the mission!\nFor now, let's explore the area.",
+    "Enabled": true
   },
   "499999999999020": {
     "OriginalText": "エネミーが現れたね。\nさくっと殲滅しちゃうよ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Enemies have appeared.\nLet's wipe them out quick!",
+    "Enabled": true
   },
   "499999999999030": {
     "OriginalText": "大丈夫、怪我してない？\n怪我したら、モノメイトを\n使って回復だよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Are you okay? Not hurt? If you get\nhurt, use a Monomate to heal.",
+    "Enabled": true
   },
   "499999999999040": {
     "OriginalText": "武器切替 [f 7c][f 7d] で\n[a 07]武器を切り替えられる[b]よ。\nいろいろな武器を使って倒してみよう。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Press [f 7c][f 7d] to [a 07]switch weapons[b].\nTry using different weapons to\nbeat them.",
+    "Enabled": true
   },
   "499999999999050": {
     "OriginalText": "ギガンテス……。\n攻撃を受けないようにうまく\n回避するよう注意して！",
-    "Text": "",
-    "Enabled": false
+    "Text": "A Gigantes! Be careful to dodge so\nyou don't get hit!",
+    "Enabled": true
   },
   "499999999999060": {
     "OriginalText": "ギガンテスになんとか登れないかな……。\n武器切替 [f 7c][f 7d] で[a 07]武器をヘイロウに変えて[b]\n[f 74] で足場を作ってみよう。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Can we climb the Gigantes somehow?\nUse [f 7c][f 7d] to [a 07]switch to the Halo[b],\nthen press [f 74] to make a foothold.",
+    "Enabled": true
   },
   "499999999999070": {
     "OriginalText": "ヘイロウで足場は作れた？\n足場の下に[a 07]立ち止まって[b]\n[f 76] で[a 07]登れる[b]よ！！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Did the Halo make a foothold?\n[a 07]Stand still[b] under it & press\n[f 76] to [a 07]climb up[b]!!",
+    "Enabled": true
   },
   "499999999999080": {
     "OriginalText": "黄色く光ってる部分が\n弱点みたい。\n集中的に狙おう！",
-    "Text": "",
-    "Enabled": false
+    "Text": "The parts glowing yellow seem to be\nweak points. Focus your attacks there!",
+    "Enabled": true
   }
 }

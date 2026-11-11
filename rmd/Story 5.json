@@ -1,7 +1,7 @@
 {
   "501000010010030": {
     "OriginalText": "……はあ～。",
-    "Text": "Haa....",
+    "Text": "*sigh*",
     "Enabled": true
   },
   "501000010020030": {
@@ -26,17 +26,17 @@
   },
   "501000010060030": {
     "OriginalText": "この[ruby ほし]惑星[/ruby]にきてからというもの……。\nシャワーは出ない。メセタは使えない。\nシェフの料理を食べることもできない。",
-    "Text": "Since I came to this planet....\nThere's no shower. Meseta is useless.\nI can't even eat a chef's food.",
+    "Text": "Ever since I came to this planet,\nthere's no shower. Meseta is useless.\nI can't even eat a chef's food.",
     "Enabled": true
   },
   "501000010070030": {
     "OriginalText": "……はあ～。\nないないばっかりで\n溜め息が止まらないですわっ！",
-    "Text": "...Haaa....\nI can't stop sighing over things that I\ndon't have!",
+    "Text": "*sigh*\nI can't stop sighing over things that I\ndon't have!",
     "Enabled": true
   },
   "501000010080001": {
     "OriginalText": "ああ。\nお嬢様育ちのガーネットさんには\nここでの生活は厳しいかもしれませんね。",
-    "Text": "Ahh....\nLife here may be difficult for Garnet, who\ngrew up like a princess.",
+    "Text": "Ahh.\nLife here may be difficult for Garnet, who\ngrew up like a princess.",
     "Enabled": true
   },
   "501000010090030": {
@@ -46,12 +46,12 @@
   },
   "501000010100030": {
     "OriginalText": "でも、こんな大きな船が落ちるということは\nきっと何か原因があるはず……。",
-    "Text": "There must be some cause why such a big ship\ncrashed....",
+    "Text": "There must be some cause why such a big ship\ncrashed.",
     "Enabled": true
   },
   "501000010110030": {
     "OriginalText": "私の見立てでは……。",
-    "Text": "In my perspective....",
+    "Text": "In my opinion,",
     "Enabled": true
   },
   "501000010120030": {
@@ -61,7 +61,7 @@
   },
   "501000010130001": {
     "OriginalText": "いや……あの……。\nそんなわけないですから。",
-    "Text": "No... um....\nThat's not the case.",
+    "Text": "No, um,\nthat's not the case.",
     "Enabled": true
   },
   "501000010140030": {
@@ -71,7 +71,7 @@
   },
   "501000010150001": {
     "OriginalText": "えっ？\n知らないんですか？\n新艦長のことを……。",
-    "Text": "Huh?\nDon't you know?\nOur new captain....",
+    "Text": "Huh?\nDon't you know?\nThat's our new captain.",
     "Enabled": true
   },
   "501000010160030": {
@@ -81,7 +81,7 @@
   },
   "501000010170030": {
     "OriginalText": "いやですわ、ルティナさん。\n確かに私は世間知らずのところがあります。\nそれは認めます。認めて差し上げます。",
-    "Text": "You're wrong, Lutina.\nI maybe a bit naive.\nI'll admit it.",
+    "Text": "You're wrong, Lutina.\nI may be a bit naive.\nI'll admit it.",
     "Enabled": true
   },
   "501000010180030": {
@@ -96,7 +96,7 @@
   },
   "501000010200001": {
     "OriginalText": "ええっ？\nいやいや。\n[ruby]相棒[/ruby]は本当に……。",
-    "Text": "Huuh?\nNo, no.\nBuddy is the real deal....",
+    "Text": "Huuh?\nNo, no.\nBuddy really is the captain.",
     "Enabled": true
   },
   "501000010210030": {
@@ -121,7 +121,7 @@
   },
   "501000010250030": {
     "OriginalText": "私、執事がいないと朝起きられなくて……。\n３時のオヤツも用意されないから困るし……。",
-    "Text": "I can't wake up without a butler....\nI'm in trouble because I don't have a\n3PM snack....",
+    "Text": "I can't wake up without a butler,\nand I'm in trouble because no one\nprepares my 3PM snack.",
     "Enabled": true
   },
   "501000010260001": {
@@ -166,12 +166,12 @@
   },
   "501000010340030": {
     "OriginalText": "ルティナさん、私、わかってしまったかも\nしれません……。",
-    "Text": "Lutina, I think I may have figured it out...",
+    "Text": "Lutina, I think I may have figured it out.",
     "Enabled": true
   },
   "501000010350030": {
     "OriginalText": "恋するガーネット艦の……\n運命の終着地が……。",
-    "Text": "The Garnet Love Boat...\nhas reached its destined stop...",
+    "Text": "The Garnet Love Boat\nhas reached its destined stop!",
     "Enabled": true
   },
   "501000010360001": {
@@ -191,12 +191,12 @@
   },
   "501000010390001": {
     "OriginalText": "ええっと、あの人は……\n探索隊、チームオスカーのグラバー隊長ですね。",
-    "Text": "Well, that person is...\nthe expedition team, Team Oscar's\nCaptain Glover.",
+    "Text": "Well, that person is\nCaptain Glover of the expedition team,\nTeam Oscar.",
     "Enabled": true
   },
   "501000010400030": {
     "OriginalText": "グラバー様……。\nその由々しくも奥深き響き……\nなんて素敵なお名前でしょうか……。",
-    "Text": "Mr. Glover...\nThat's such a grave and profound ring to it...\nWhat a wonderful name!",
+    "Text": "Mr. Glover.\nSuch a grave and profound ring to it.\nWhat a wonderful name!",
     "Enabled": true
   },
   "501000010410001": {
@@ -211,12 +211,12 @@
   },
   "501000010430001": {
     "OriginalText": "き、聞いてない……。",
-    "Text": "She's not listening....",
+    "Text": "Sh-she's not listening.",
     "Enabled": true
   },
   "501000010440001": {
     "OriginalText": "……えーっと。\nガーネットさん、冗談ですよね？",
-    "Text": "...Ummm.\nGarnet, you're kidding, right?",
+    "Text": "Ummm,\nGarnet, you're kidding, right?",
     "Enabled": true
   },
   "501000010450030": {
@@ -226,7 +226,7 @@
   },
   "501000010460001": {
     "OriginalText": "だって、運命の人とか……。\nいきなりすぎません？",
-    "Text": "About your soulmate....\nIsn't it too sudden?",
+    "Text": "I mean, a soulmate?\nIsn't it too sudden?",
     "Enabled": true
   },
   "501000010470030": {
@@ -236,17 +236,17 @@
   },
   "501000010480001": {
     "OriginalText": "……そ、そうなんですか。",
-    "Text": "...Ah, is that so.",
+    "Text": "Ah, i-is that so.",
     "Enabled": true
   },
   "501000010490001": {
     "OriginalText": "……それにグラバー隊長は、チームシグマの\nコウエン隊長の死にかかわっているという\n黒い噂もありますし……。",
-    "Text": "Did you know, there are rumors that Captain\nGlover is involved with the death of Captain\nCowen of Team Sigma....",
+    "Text": "Besides, there are dark rumors that Captain\nGlover is involved with the death of Captain\nCohen of Team Sigma.",
     "Enabled": true
   },
   "501000010500030": {
     "OriginalText": "……あら。\nあなた、噂なんかに振り回されるタイプでして？\nそれはいけませんわよ。",
-    "Text": "...Really!?\nAre you the type that is easily swayed by\nrumors? You shouldn't be.",
+    "Text": "Oh my.\nAre you the type that is easily swayed by\nrumors? You shouldn't be.",
     "Enabled": true
   },
   "501000010510001": {
@@ -256,17 +256,17 @@
   },
   "501000010520030": {
     "OriginalText": "私は噂には振り回されない女。\n私の生き方を貴きますの。",
-    "Text": "I'm a woman who isn't easily swayed by\nrumors. That's what I value the most.",
+    "Text": "I'm a woman who isn't easily swayed by\nrumors. I stay true to my own way of life.",
     "Enabled": true
   },
   "501000010530030": {
     "OriginalText": "真実の愛の追求……\nそれこそがアークスにおける\n私の華々しくもはかなき生き方なんですのっ！",
-    "Text": "Pursuit of true love...\nThat's my brilliant and ephemeral way of life\nat ARKS!",
+    "Text": "The pursuit of true love,\nthat's my brilliant and ephemeral way of life\nat ARKS!",
     "Enabled": true
   },
   "501000010540001": {
     "OriginalText": "はぁ……。\nガーネットさんって今までどうやって\nアークスをやってきたのか気になるよね……。",
-    "Text": "Uhhh...\nI really wonder just how Garnet\nhad survived this far in ARKS...",
+    "Text": "*sigh*\nI really wonder just how Garnet\nhas survived this far in ARKS.",
     "Enabled": true
   },
   "501000010550030": {
@@ -286,12 +286,12 @@
   },
   "501000010580030": {
     "OriginalText": "でも、ちょっと待ってください。\nなんかちょっと……\nやっぱり１人では心細いですわ……。",
-    "Text": "But, hang on a second.\nI don't know... I guess I do feel\na tinge bit uneasy being alone myself...",
+    "Text": "But, hang on a second.\nI don't know, I guess I do feel\na tinge bit uneasy being alone myself.",
     "Enabled": true
   },
   "501000010590030": {
     "OriginalText": "そうだ。\nあなた、私の執事になってもらえません？",
-    "Text": "Is that right?\nWould you be willing to become my butler?",
+    "Text": "I know.\nWould you be willing to become my butler?",
     "Enabled": true
   },
   "501000010600001": {
@@ -321,7 +321,7 @@
   },
   "501000010650030": {
     "OriginalText": "でも、大丈夫。心配はいりません。\n私は大宇宙クラスの広い心を持ってますから。\n小さな失敗の１つや２つは気にしません。",
-    "Text": "But, it's alright. There's no need to worry.\nAfter all, I have a heart the size of the universe.\nI won't frett over a minor slip-up or two..",
+    "Text": "But, it's alright. There's no need to worry.\nAfter all, I have a heart the size of the\nuniverse. I won't fret over a minor slip-up\nor two.",
     "Enabled": true
   },
   "501000010660000": {
@@ -331,7 +331,7 @@
   },
   "501000010670030": {
     "OriginalText": "あら、とっても上手です。\nその言葉遣いと頭の下げ方……\nさすが私の選んだ人ですわ。",
-    "Text": "Oh, he's wonderful.\nThe way he speaks and bows...\nJust as expected of someone I chose.",
+    "Text": "Oh, very good.\nThe way you speak and bow,\njust as expected of someone I chose.",
     "Enabled": true
   },
   "501000010680030": {
@@ -351,12 +351,12 @@
   },
   "501000010710001": {
     "OriginalText": "……行っちゃった。",
-    "Text": "...Ahh she's gone.",
+    "Text": "Ahh, she's gone.",
     "Enabled": true
   },
   "501000020010030": {
     "OriginalText": "……はあ～。\nこれだけ探しても見つからないなんて。\nグラバー様は一体どこにおられますの。",
-    "Text": "...Haaaa.\nWe can't find him everywhere we look.\nWhere are you Mr. Glover?",
+    "Text": "Haaaa.\nWe can't find him anywhere we look.\nWhere are you Mr. Glover?",
     "Enabled": true
   },
   "501000020020030": {
@@ -366,7 +366,7 @@
   },
   "501000020030030": {
     "OriginalText": "あ～ん、もう。\n働く男の人って素敵です。素敵すぎますわ。",
-    "Text": "Darn it.\nA working man is great.\nBut he's too much.",
+    "Text": "Darn it.\nA working man is great.\nBut he's too wonderful.",
     "Enabled": true
   },
   "501000020040030": {
@@ -376,7 +376,7 @@
   },
   "501000020050030": {
     "OriginalText": "……この回路のようなものは何でしょう……。",
-    "Text": "...What is this kind of device...?",
+    "Text": "Hm, what is this device?",
     "Enabled": true
   },
   "501000020060031": {
@@ -396,7 +396,7 @@
   },
   "501000020090030": {
     "OriginalText": "警備部って……。\nああ。\nオルター内の警察みたいな部ですね。",
-    "Text": "What is the security force...?\nAahhh. It's like a police force in ALTER.",
+    "Text": "The security force?\nAahhh. It's like a police force in ALTER.",
     "Enabled": true
   },
   "501000020100031": {
@@ -406,17 +406,17 @@
   },
   "501000020110031": {
     "OriginalText": "この点滅の色は……。\n命を落とした者の音声が記録されている\nという証拠……。",
-    "Text": "It's color is blinking....\nIt's a proof that the voices of those who\npassed away is recorded.",
+    "Text": "The color of this blinking light\nis proof that the voices of those who\npassed away were recorded.",
     "Enabled": true
   },
   "501000020120031": {
     "OriginalText": "……ん？\nこの認証番号は……コウエン隊長のものだ。",
-    "Text": "...Hm?\nThis ID number is... Captain Cowen's.",
+    "Text": "Hm?\nThis ID number is Captain Cohen's.",
     "Enabled": true
   },
   "501000020130001": {
     "OriginalText": "えっ、コウエン隊長？\nそんな……。\nどうしてこんなところに？",
-    "Text": "Huh, Captain Cowen?\nNow way....\nWhy would it be in such a place?",
+    "Text": "Huh, Captain Cohen? No way.\nWhy would it be in such a place?",
     "Enabled": true
   },
   "501000020140030": {
@@ -426,12 +426,12 @@
   },
   "501000020150001": {
     "OriginalText": "脱出計画の３日前……。",
-    "Text": "3 days before the operation to escape....",
+    "Text": "3 days before the escape operation,",
     "Enabled": true
   },
   "501000020160001": {
     "OriginalText": "コウエン隊長率いるチームシグマが\nギガンテスの襲撃にあって全滅したんです。",
-    "Text": "Team Sigma, led by Captain Cowen, was wiped\nout during the Gigantes raid.",
+    "Text": "Team Sigma, led by Captain Cohen, was wiped\nout during the Gigantes raid.",
     "Enabled": true
   },
   "501000020170001": {
@@ -441,12 +441,12 @@
   },
   "501000020180030": {
     "OriginalText": "えっ？\nなのに、こんなところに……。",
-    "Text": "What?\nWhy is it here...?",
+    "Text": "What?\nThen why is it here?",
     "Enabled": true
   },
   "501000020190031": {
     "OriginalText": "……匂うな。",
-    "Text": "... Weird.",
+    "Text": "Something smells fishy.",
     "Enabled": true
   },
   "501000020200031": {
@@ -456,7 +456,7 @@
   },
   "501000020210000": {
     "OriginalText": "いや、その回路はこちらで調べる",
-    "Text": "No, we're curious.",
+    "Text": "No, we'll examine that circuit ourselves.",
     "Enabled": true
   },
   "501000020220030": {
@@ -486,7 +486,7 @@
   },
   "501000020270030": {
     "OriginalText": "ええ。\n執事の言う通りですわ。",
-    "Text": "Huh.\nAs the butler says.",
+    "Text": "Yes.\nAs the butler says.",
     "Enabled": true
   },
   "501000020280030": {
@@ -501,7 +501,7 @@
   },
   "501000020300001": {
     "OriginalText": "ええ？\nまだグラバー隊長を探すの？\nもう、ガーネットさんだけで探してくださいよ。",
-    "Text": "Huh?\nWe're still gonna look for Captain Glover?\nAhhh, why are we involved in this.",
+    "Text": "Huh?\nWe're still gonna look for Captain Glover?\nJust look for him yourself, Garnet.",
     "Enabled": true
   },
   "501000020310030": {
@@ -516,17 +516,17 @@
   },
   "501000020330031": {
     "OriginalText": "音声データを確認してみるか。",
-    "Text": "Do I want to check the voice data?",
+    "Text": "Let's check the voice data.",
     "Enabled": true
   },
   "501000020340031": {
     "OriginalText": "これは……。\n誰かと話しているのか？",
-    "Text": "That's....\nIs he talking to someone?",
+    "Text": "What's this?\nIs he talking to someone?",
     "Enabled": true
   },
   "501000020350032": {
     "OriginalText": "……コウエン、お前には死んでもらう。",
-    "Text": "Cowen, you were dying...",
+    "Text": "Cohen, I need you to die.",
     "Enabled": true
   },
   "501000020360031": {
@@ -541,562 +541,562 @@
   },
   "501000020380031": {
     "OriginalText": "コウエン隊長はギガンテスに\nやられたのではない。",
-    "Text": "Captain Cowen was not killed by a Gigantes.",
+    "Text": "Captain Cohen was not killed by a Gigantes.",
     "Enabled": true
   },
   "501000020390031": {
     "OriginalText": "ここで誰かに殺されたのだ。",
-    "Text": "Someone was killed here.",
+    "Text": "She was killed here, by someone.",
     "Enabled": true
   },
   "502010010010030": {
     "OriginalText": "はあ、はあ……。\nはあ、はあ……。",
-    "Text": "",
-    "Enabled": false
+    "Text": "*pant* *pant*\n*pant* *pant*",
+    "Enabled": true
   },
   "502010010020001": {
     "OriginalText": "ずいぶん疲れているみたいですけど……。\nどうしたんですか、ガーネットさん？",
-    "Text": "",
-    "Enabled": false
+    "Text": "You look really worn out.\nWhat's wrong, Garnet?",
+    "Enabled": true
   },
   "502010010030030": {
     "OriginalText": "愛しのグラバー様を探して数時間……。\n恋する無敵艦隊の私が\nこれほど探しても見つからないなんて……。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I've been searching for my beloved Glover\nfor hours. For me, the Invincible Armada\nof Love, to search this hard & still not\nfind him!",
+    "Enabled": true
   },
   "502010010040030": {
     "OriginalText": "会いたくても会えない。\n会えないから会いたい。\n二人はまるでロミオとジュリエット。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I want to see him, but I can't.\nI can't, so I want to all the more.\nWe're just like Romeo & Juliet.",
+    "Enabled": true
   },
   "502010010050030": {
     "OriginalText": "おお、神様！\nなぜこれほどの試練を\n私とグラバー様に与えるのですか！？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Oh, heavens!\nWhy do you give my dear Glover & me\nsuch trials!?",
+    "Enabled": true
   },
   "502010010060001": {
     "OriginalText": "グラバー隊長が\nガーネットさんを避けてたりして。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Maybe Captain Glover is avoiding you,\nGarnet.",
+    "Enabled": true
   },
   "502010010070030": {
     "OriginalText": "えっ？\nなんか言いました？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Huh?\nDid you say something?",
+    "Enabled": true
   },
   "502010010080001": {
     "OriginalText": "いえいえ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "No, no.",
+    "Enabled": true
   },
   "502010010090030": {
     "OriginalText": "それにしても、もう足が棒のようです。\n執事さん、他に移動手段はありませんの？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Still, my legs are like lead.\nButler, isn't there any other way to\nget around?",
+    "Enabled": true
   },
   "502010010100030": {
     "OriginalText": "あ～ん、もう。\nこんなことならお気に入りの自家用機も\nコールドスリープして持ってくればよかったわ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Ugh, honestly.\nIf I'd known, I'd have put my favorite\nprivate jet in Cold Sleep & brought it.",
+    "Enabled": true
   },
   "502010010110001": {
     "OriginalText": "いやいや。\n自家用機をコールドスリープって、\n意味わかんないですけど。",
-    "Text": "",
-    "Enabled": false
+    "Text": "No, no.\nPutting a private jet in Cold Sleep\nmakes no sense.",
+    "Enabled": true
   },
   "502010010120030": {
     "OriginalText": "とにかく！\n私は少しでも快適に、それでいて一刻も早く\nグラバー様にお会いしたいのですっ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Anyway!\nI want to see Glover as comfortably\nas possible, & as soon as possible!",
+    "Enabled": true
   },
   "502010010130030": {
     "OriginalText": "執事さん、お願いですわ！\nなんとかしてください！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Butler, I'm begging you!\nDo something!",
+    "Enabled": true
   },
   "502010010140000": {
     "OriginalText": "グラバー隊長の居場所に間違いはない？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Are you sure about where Captain\nGlover is?",
+    "Enabled": true
   },
   "502010010150030": {
     "OriginalText": "ええ。間違いありませんわ。\n恋するガーネット艦の\nレーダー通りに探しましたから。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Yes. I'm quite sure. I searched\nexactly as the radar of the lovestruck\nGarnet ship told me.",
+    "Enabled": true
   },
   "502010010160001": {
     "OriginalText": "つまり、本能のおもむくままに\n探したってことね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "So you searched by pure instinct.",
+    "Enabled": true
   },
   "502010010170030": {
     "OriginalText": "まあ、そうとも言いますわ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Well, you could say that.",
+    "Enabled": true
   },
   "502010010180000": {
     "OriginalText": "疲れたのならおんぶしましょうか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "If you're tired, shall I give you a\npiggyback ride?",
+    "Enabled": true
   },
   "502010010190030": {
     "OriginalText": "い、いやですわ！\nおんぶなんて恥ずかしいです！",
-    "Text": "",
-    "Enabled": false
+    "Text": "N-no thank you!\nA piggyback ride is embarrassing!",
+    "Enabled": true
   },
   "502010010200001": {
     "OriginalText": "でも、足が棒なんでしょ？",
-    "Text": "",
-    "Enabled": false
+    "Text": "But your legs are like lead, right?",
+    "Enabled": true
   },
   "502010010210030": {
     "OriginalText": "棒だろうが鉄パイプだろうが、\n辱めを受けるぐらいなら全力で歩きますわ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Lead or steel pipes, I'll walk with all\nmy might before I suffer such shame!",
+    "Enabled": true
   },
   "502010010220012": {
     "OriginalText": "あっ、皆さんどうしたんですか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Ah, everyone, what's going on?",
+    "Enabled": true
   },
   "502010010230001": {
     "OriginalText": "あぁ、シャロン。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Ah, Sharon.",
+    "Enabled": true
   },
   "502010010240030": {
     "OriginalText": "実は私、グラバー様に奇襲作戦を\n仕掛けるところなんです。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Actually, I'm about to launch a surprise\nattack on Glover.",
+    "Enabled": true
   },
   "502010010250012": {
     "OriginalText": "え？\n……奇襲作戦……ですか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Huh?\nA surprise attack?",
+    "Enabled": true
   },
   "502010010260012": {
     "OriginalText": "いけません、いけません！\n何の恨みがあるか知りませんが、\nそんなのよくないと思います！",
-    "Text": "",
-    "Enabled": false
+    "Text": "No, no, you mustn't! I don't know what\ngrudge you have, but I don't think\nthat's right!",
+    "Enabled": true
   },
   "502010010270030": {
     "OriginalText": "あらあら、ご安心あそばせ。\nそっちの奇襲じゃなくて、恋の奇襲作戦ですわ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "My, my, rest assured. Not that kind of\nsurprise attack. A surprise attack\nof love.",
+    "Enabled": true
   },
   "502010010280001": {
     "OriginalText": "つまりね、アタックしにいくってことらしいの。\nさっきちょっとすれ違ったときに\n一目惚れしちゃったみたいで……。",
-    "Text": "つまりね、アタックしにいくってことらしいの。\nさっきちょっとすれ違ったときに\n一目惚れしちゃったみたいで……。",
-    "Enabled": false
+    "Text": "So she's going to make her move.\nShe fell for him at first sight when\nthey passed each other earlier.",
+    "Enabled": true
   },
   "502010010290012": {
     "OriginalText": "えーっ……。\nすごいですね……。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Whoa.\nThat's amazing.",
+    "Enabled": true
   },
   "502010010300012": {
     "OriginalText": "……グラバー隊長ですか。\nあの方は隊長という身分でありながら、\n常に勇猛果敢に先陣を切ることで有名ですよね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Captain Glover, huh. He's famous for\nalways bravely leading the charge,\neven as a captain.",
+    "Enabled": true
   },
   "502010010310030": {
     "OriginalText": "ああん！ そんな話を聞いていたら、\nますますグラバー様に\n会いたくなってきましたわ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Ahh! Hearing that makes me want to see\nGlover even more!",
+    "Enabled": true
   },
   "502010010320030": {
     "OriginalText": "シャロンさん！\n今、グラバー様がどこにいるか知りませんこと？",
-    "Text": "シャロンさん！\n今、グラバー様がどこにいるか知りませんこと？",
-    "Enabled": false
+    "Text": "Sharon! Do you know where Glover\nis right now?",
+    "Enabled": true
   },
   "502010010330012": {
     "OriginalText": "グラバー隊長でしたら、\n拠点周辺にいらっしゃると思います。",
-    "Text": "グラバー隊長でしたら、\n拠点周辺にいらっしゃると思います。",
-    "Enabled": false
+    "Text": "Captain Glover should be somewhere\naround the base.",
+    "Enabled": true
   },
   "502010010340012": {
     "OriginalText": "……コウエン隊長の死の報告以来、\n神妙な顔で拠点周辺をしているという\n噂ですので……。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Since the report of Captain Cohen's\ndeath, rumor is he's been wandering\naround the base looking solemn.",
+    "Enabled": true
   },
   "502010010350001": {
     "OriginalText": "拠点周辺を？\n何をしているの？",
-    "Text": "拠点周辺を？\n何をしているの？",
-    "Enabled": false
+    "Text": "Around the base?\nDoing what?",
+    "Enabled": true
   },
   "502010010360012": {
     "OriginalText": "……詳しくはわからないですが、\n何かを探してる感じ……\nという話をチラホラ……。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I don't know the details, but I keep\nhearing he seems to be searching\nfor something.",
+    "Enabled": true
   },
   "502010010370030": {
     "OriginalText": "ありがとうごいます！\nこのご恩は、私とグラバー様が結婚の際に\n披露に呼ぶことでお返ししますわ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Thank you so much! I'll repay this\nkindness by inviting you to the\nreception when Glover & I marry!",
+    "Enabled": true
   },
   "502010010380012": {
     "OriginalText": "あ、ありがとうごいます。\n楽しみにしてますね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Th-thank you.\nI'll look forward to it.",
+    "Enabled": true
   },
   "502010010390030": {
     "OriginalText": "さあ、みなさん、いきますわよ！\n恋する無敵艦隊、出発です！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Now, everyone, let's go!\nThe Invincible Armada of Love, set sail!",
+    "Enabled": true
   },
   "502010020010030": {
     "OriginalText": "グラバー様っ！\nお久しぶりです！\nご機嫌うるわしゅう！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Glover! It's been so long!\nI hope you're well!",
+    "Enabled": true
   },
   "502010020020032": {
     "OriginalText": "……誰だ、お前は？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Who are you?",
+    "Enabled": true
   },
   "502010020030030": {
     "OriginalText": "！？",
-    "Text": "",
-    "Enabled": false
+    "Text": "!?",
+    "Enabled": true
   },
   "502010020040030": {
     "OriginalText": "緊急事態発生……\n恋するガーネット艦……\n沈没寸前……。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Emergency. The lovestruck Garnet ship\nis on the verge of sinking.",
+    "Enabled": true
   },
   "502010020050001": {
     "OriginalText": "……ね、ねえ。ガーネットさん。\nあなたとグラバー隊長は拠点の中で\nちょっとすれ違っただけですよね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "H-hey, Garnet. You & Captain Glover\nonly passed each other briefly at\nthe base, right?",
+    "Enabled": true
   },
   "502010020060001": {
     "OriginalText": "だったらお久しぶりじゃなくて、\n別の言い方のほうがいいんじゃないかなと……。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Then instead of \"it's been so long,\"\nmaybe you should say it another way.",
+    "Enabled": true
   },
   "502010020070001": {
     "OriginalText": "あなたにとっては２度目でも、\nグラバー隊長にとっては\nそうじゃないでしょうし……。",
-    "Text": "",
-    "Enabled": false
+    "Text": "It may be the 2nd time for you, but\nprobably not for Captain Glover.",
+    "Enabled": true
   },
   "502010020080030": {
     "OriginalText": "し、執事。\nこんなときはどんな言い方がいいのですか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "B-Butler. What should I say at\na time like this?",
+    "Enabled": true
   },
   "502010020090000": {
     "OriginalText": "また会えて超ラッキーです、と自己介",
-    "Text": "",
-    "Enabled": false
+    "Text": "Introduce yourself with \"So lucky to\nsee you again!\"",
+    "Enabled": true
   },
   "502010020100030": {
     "OriginalText": "なるほど……。ぐっとくだけて\n親しみやすさをアピールするのですね。\nわかりました、それで行きます！",
-    "Text": "",
-    "Enabled": false
+    "Text": "I see. Keep it super casual & show\nhow approachable I am. Got it,\nI'll go with that!",
+    "Enabled": true
   },
   "502010020110030": {
     "OriginalText": "愛しのグラバー様！\nまた会えて超ラッキーです！",
-    "Text": "",
-    "Enabled": false
+    "Text": "My beloved Glover!\nI'm so lucky to see you again!",
+    "Enabled": true
   },
   "502010020120030": {
     "OriginalText": "私、デルタ・ヴァリアント所属の\nガーネットですわ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "I'm Garnet, from the Delta Valiant!",
+    "Enabled": true
   },
   "502010020125032": {
     "OriginalText": "……あ、あぁ。\nよろしく、ガーネット。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Uh, yeah.\nNice to meet you, Garnet.",
+    "Enabled": true
   },
   "502010020130000": {
     "OriginalText": "お初にお目にかかります、と自己介",
-    "Text": "",
-    "Enabled": false
+    "Text": "Introduce yourself with \"It's an honor\nto meet you.\"",
+    "Enabled": true
   },
   "502010020140030": {
     "OriginalText": "なるほど……。そ、そうですよね。\n礼儀正しい女性は好かれますものね。\nわかりました、それで行きます！",
-    "Text": "",
-    "Enabled": false
+    "Text": "I see. R-right. Polite women are\nliked, after all. Got it, I'll go\nwith that!",
+    "Enabled": true
   },
   "502010020150030": {
     "OriginalText": "お初にお目にかかります、グラバー様。\nデルタ・ヴァリアント所属の\nガーネットと申します！",
-    "Text": "",
-    "Enabled": false
+    "Text": "It's an honor to meet you, Glover.\nMy name is Garnet, from the\nDelta Valiant!",
+    "Enabled": true
   },
   "502010020160032": {
     "OriginalText": "こちらこそ、初めまして。\nよろしく。ガーネット。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Likewise, nice to meet you.\nPleasure, Garnet.",
+    "Enabled": true
   },
   "502010020170030": {
     "OriginalText": "やったぁ！\n初の会話成立です！\nしかも、名前を呼んでもらえましたよっ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Yay!\nOur first conversation! And he\nsaid my name!",
+    "Enabled": true
   },
   "502010020180032": {
     "OriginalText": "で、なんの用だ？",
-    "Text": "",
-    "Enabled": false
+    "Text": "So, what do you want?",
+    "Enabled": true
   },
   "502010020190030": {
     "OriginalText": "えっとですね……。\n私、グラバー様のことが……。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Well, you see.\nI, about you, Glover.",
+    "Enabled": true
   },
   "502010020200001": {
     "OriginalText": "ストーップ！！！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Stooop!!!",
+    "Enabled": true
   },
   "502010020210030": {
     "OriginalText": "ルティナさん、なんですの？\n突然大きな声をあげて……。\n私はグラバー様に愛の告白を……。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Lutina, what is it? Shouting all of\na sudden. I was confessing my love\nto Glover.",
+    "Enabled": true
   },
   "502010020220001": {
     "OriginalText": "ね、ねえ、ガーネットさん。\nいきなりアタックとかダメですよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "H-hey, Garnet.\nYou can't just go for it right away.",
+    "Enabled": true
   },
   "502010020230030": {
     "OriginalText": "……え？\nダメなんですか？\nなんで？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Huh?\nI can't?\nWhy?",
+    "Enabled": true
   },
   "502010020240001": {
     "OriginalText": "なんでって……。\nまずは常識的な普通の会話から始めないと、\nグラバー隊長に引かれますよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Why? You have to start with normal,\nsensible conversation, or Captain\nGlover will be put off.",
+    "Enabled": true
   },
   "502010020250030": {
     "OriginalText": "ひ、引かれるのは困りますわ！\nでは教えてください！\n普通の会話ってどんなものなのですか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "B-being put off would be terrible! Then\nteach me! What's a normal conversation\nlike?",
+    "Enabled": true
   },
   "502010020260001": {
     "OriginalText": "そうですね。\nそんなに難しく考えずに\n最近のアークスの話題でいいんじゃないですか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Well, don't overthink it. Maybe talk\nabout recent ARKS news?",
+    "Enabled": true
   },
   "502010020270032": {
     "OriginalText": "コソコソと何の話をしている。\nこっちは忙しいんだ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "What are you whispering about?\nI'm busy.",
+    "Enabled": true
   },
   "502010020280030": {
     "OriginalText": "グラバー様。\nグラバー様を探しているときに、\nコウエン隊長の記憶中枢を発見しましたわ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Glover, while I was looking for you, I\nfound Captain Cohen's memory core!",
+    "Enabled": true
   },
   "502010020290032": {
     "OriginalText": "……なんだと。",
-    "Text": "",
-    "Enabled": false
+    "Text": "What did you say?",
+    "Enabled": true
   },
   "502010020300030": {
     "OriginalText": "その回路は点滅していて、中には\n命を落とされた方の\n音声記録が残っていると……。",
-    "Text": "",
-    "Enabled": false
+    "Text": "The circuit was blinking, & they say it\nholds voice records of those who\nlost their lives.",
+    "Enabled": true
   },
   "502010020310030": {
     "OriginalText": "コウエン隊長たちが全滅したのは\n惑星の辺境だったはずなのに。\n記憶中枢は拠点の外れにあったんです！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Captain Cohen's team was wiped out at\nthe planet's frontier, yet the memory\ncore was at the edge of the base!",
+    "Enabled": true
   },
   "502010020320030": {
     "OriginalText": "なんか変な話ですよね……。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Isn't that strange?",
+    "Enabled": true
   },
   "502010020330032": {
     "OriginalText": "……。\n拠点の外れ……。",
-    "Text": "",
-    "Enabled": false
+    "Text": "The edge of the base.",
+    "Enabled": true
   },
   "502010020340030": {
     "OriginalText": "……え？ グラバー様？\nどうされたんですか！？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Huh? Glover?\nWhat's wrong!?",
+    "Enabled": true
   },
   "502010020350030": {
     "OriginalText": "グラバー様ー！！\n待ってくださーーい！！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Glover!!\nPlease waaait!!",
+    "Enabled": true
   },
   "502010030010030": {
     "OriginalText": "グラバー様！！\nどうしたんですか？\n私、何か変なこと言いました？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Glover!!\nWhat's wrong?\nDid I say something strange?",
+    "Enabled": true
   },
   "502010030020032": {
     "OriginalText": "……。",
-    "Text": "",
-    "Enabled": false
+    "Text": "...",
+    "Enabled": true
   },
   "502010030030030": {
     "OriginalText": "グラバー様？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Glover?",
+    "Enabled": true
   },
   "502010030040001": {
     "OriginalText": "ガーネットさん、待って待って。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Garnet, wait, wait.",
+    "Enabled": true
   },
   "502010030050001": {
     "OriginalText": "とりあえず、\nちょっと振り返ってみたほうがいいかも。",
-    "Text": "",
-    "Enabled": false
+    "Text": "For now, maybe you should look back\na bit.",
+    "Enabled": true
   },
   "502010030060030": {
     "OriginalText": "振り返る……。\nこうですか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Look back.\nLike this?",
+    "Enabled": true
   },
   "502010030070001": {
     "OriginalText": "本当に振り返るんじゃなくて、\n何か気に障ったことを言わなかったか\n思い出してみましょうよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Not literally look back! Try remembering\nif you said anything that upset him.",
+    "Enabled": true
   },
   "502010030080030": {
     "OriginalText": "あぁ。そういうことですか。\nわかりました。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Ah. That's what you meant.\nUnderstood.",
+    "Enabled": true
   },
   "502010030090030": {
     "OriginalText": "えっと……。\n私がグラバー様に言ったのは……。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Um, what I said to Glover was.",
+    "Enabled": true
   },
   "502010030100030": {
     "OriginalText": "なんでしたっけ？",
-    "Text": "",
-    "Enabled": false
+    "Text": "What was it again?",
+    "Enabled": true
   },
   "502010030110001": {
     "OriginalText": "わかりました。いいです。\nあたしたちのほうで考えますから、\nそこでじっとしていてください。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Okay. Never mind. We'll figure it out,\nso just stay put over there.",
+    "Enabled": true
   },
   "502010030120030": {
     "OriginalText": "は～い。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Okaaay.",
+    "Enabled": true
   },
   "502010030130001": {
     "OriginalText": "[ruby]相棒[/ruby]、覚えてる？\nグラバー隊長の様子が\nおかしくなったきっかけは……。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Buddy, do you remember? What made\nCaptain Glover start acting strange?",
+    "Enabled": true
   },
   "502010030140000": {
     "OriginalText": "ガーネットが愛の告白をしたあと",
-    "Text": "",
-    "Enabled": false
+    "Text": "After Garnet confessed her love",
+    "Enabled": true
   },
   "502010030150001": {
     "OriginalText": "……なるほど。\n彼はそれくらいガーネットさんからの\n告白を避けたかったってことね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I see. So he wanted to avoid Garnet's\nconfession that badly.",
+    "Enabled": true
   },
   "502010030160001": {
     "OriginalText": "……いや、待って。\nただ照れてるだけかもよ？",
-    "Text": "",
-    "Enabled": false
+    "Text": "No, wait. Maybe he was just shy?",
+    "Enabled": true
   },
   "502010030170001": {
     "OriginalText": "って違うでしょ、[ruby]相棒[/ruby]！\nガーネットさんはまだ告白してないって。",
-    "Text": "",
-    "Enabled": false
+    "Text": "No, that's wrong, buddy! Garnet hasn't\neven confessed yet.",
+    "Enabled": true
   },
   "502010030180001": {
     "OriginalText": "グラバー隊長の様子がおかしくなったのは、\nコウエン隊長の記憶中枢の話のあとだよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Captain Glover started acting strange\nafter she mentioned Captain Cohen's\nmemory core.",
+    "Enabled": true
   },
   "502010030190000": {
     "OriginalText": "コウエン隊長の話をしたあと",
-    "Text": "",
-    "Enabled": false
+    "Text": "After she mentioned Captain Cohen",
+    "Enabled": true
   },
   "502010030200001": {
     "OriginalText": "そうだ！\nきっとそれだよ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "That's it!\nThat's gotta be it!",
+    "Enabled": true
   },
   "502010030210001": {
     "OriginalText": "グラバー隊長の様子がおかしくなったのは\nコウエン隊長の記憶中枢の話を\nしたあとだった。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Captain Glover started acting strange\nafter she brought up Captain Cohen's\nmemory core.",
+    "Enabled": true
   },
   "502010030220001": {
     "OriginalText": "ははーん、なるほどね。\nなんとなくわかってきた。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Ah-ha, I see.\nI'm starting to get it.",
+    "Enabled": true
   },
   "502010030230001": {
     "OriginalText": "グラバー隊長とコウエン隊長は、\n昔、フィルディア艦長と\n同じ隊にいたって聞いたことがあるよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I heard Captain Glover & Captain Cohen\nwere in the same unit as Captain Fildia\nlong ago.",
+    "Enabled": true
   },
   "502010030240030": {
     "OriginalText": "つまり、３人は友だちだったと……。",
-    "Text": "",
-    "Enabled": false
+    "Text": "So the 3 of them were friends.",
+    "Enabled": true
   },
   "502010030250030": {
     "OriginalText": "……それなら納得です。\nグラバー様にコウエン隊長の記憶中枢の話は\nあまりにも無神経でしたわ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "That makes sense. Bringing up Captain\nCohen's memory core to Glover was far\ntoo insensitive of me.",
+    "Enabled": true
   },
   "502010030260030": {
     "OriginalText": "私、謝ってきます！",
-    "Text": "",
-    "Enabled": false
+    "Text": "I'll go apologize!",
+    "Enabled": true
   },
   "502010030270030": {
     "OriginalText": "グラバー様……。\n私、失礼なことを言ってしまって\n申し訳ありませんでした。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Glover. I'm so sorry for saying\nsomething so rude.",
+    "Enabled": true
   },
   "502010030280030": {
     "OriginalText": "亡くなったコウエン隊長のお話は\nするべきではなかったですよね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I shouldn't have talked about the late\nCaptain Cohen.",
+    "Enabled": true
   },
   "502010030290032": {
     "OriginalText": "……。",
-    "Text": "",
-    "Enabled": false
+    "Text": "...",
+    "Enabled": true
   },
   "502010030300032": {
     "OriginalText": "……コウエンは死んでなんかいない。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Cohen isn't dead.",
+    "Enabled": true
   },
   "502010030310030": {
     "OriginalText": "えっ？\nで、でも……記憶中枢が……。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Huh?\nB-but, the memory core.",
+    "Enabled": true
   },
   "502010030320032": {
     "OriginalText": "コウエンは今も生きている。\nそれはハッキリとした事実だ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Cohen is still alive.\nThat's a plain fact.",
+    "Enabled": true
   },
   "502010030330030": {
     "OriginalText": "グラバー様……。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Glover.",
+    "Enabled": true
   },
   "502010030340030": {
     "OriginalText": "なんてミステリアスなの！\nますます素敵ですわ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "How mysterious!\nThat makes him even more wonderful!",
+    "Enabled": true
   },
   "504000010010032": {
     "OriginalText": "……今日は集まってもらってすまない。",
-    "Text": "...I'm sorry to have you gather today.",
+    "Text": "I'm sorry to have you gather today.",
     "Enabled": true
   },
   "504000010020001": {
@@ -1106,7 +1106,7 @@
   },
   "504000010030032": {
     "OriginalText": "真実を話そうと思う。\nコウエンとチームシグマに\n何があったのか……。",
-    "Text": "I am going to tell you the truth.\nRegarding Cowen and Team Sigma...",
+    "Text": "I am going to tell you the truth\nabout what happened to Cohen\nand Team Sigma.",
     "Enabled": true
   },
   "504000010040001": {
@@ -1126,7 +1126,7 @@
   },
   "504000010070032": {
     "OriginalText": "サンシャウト。\n警備部に報告するかどうかは、\n話を聞いてから判断してくれ。",
-    "Text": "Sunshout.\nPlease decide whether to report this to\nthe security Department after hearing\nwhat they have to say.",
+    "Text": "Sunshout.\nPlease decide whether to report this to\nthe security Department after hearing\nwhat I have to say.",
     "Enabled": true
   },
   "504000010080031": {
@@ -1136,7 +1136,7 @@
   },
   "504000010090032": {
     "OriginalText": "チームシグマは惑星探索活動からの帰還途中、\n拠点方向へと向かう\nギガンテスの群れと遭遇した。",
-    "Text": "While returning from a exploration mission,\nTeam Sigma encountered a swarm of\nGigantes heading towards them.",
+    "Text": "While returning from a exploration\nmission, Team Sigma encountered a\nswarm of Gigantes heading towards the base.",
     "Enabled": true
   },
   "504000010100002": {
@@ -1151,12 +1151,12 @@
   },
   "504000010120032": {
     "OriginalText": "そんな状況下でコウエンは\n俺に無線で連絡をしてきた。",
-    "Text": "Despite all of this,\nCowen contacted me via radio.",
+    "Text": "Despite all of this,\nCohen contacted me via radio.",
     "Enabled": true
   },
   "504000010130032": {
     "OriginalText": "『デッドアラートの受信を偽装してほしい……』\nそれがコウエンの頼みだった。",
-    "Text": "\"Pretend you've received the Dead Alert.\",\nthat was Cowen's request.",
+    "Text": "\"Pretend you've received the Dead Alert.\",\nthat was Cohen's request.",
     "Enabled": true
   },
   "504000010140003": {
@@ -1176,7 +1176,7 @@
   },
   "504000010170003": {
     "OriginalText": "コウエン隊長は歴戦の勇土と聞きます。\nいかに厳しい状況でもパニックになる方とは\n思えないのですが……。",
-    "Text": "I've heard Captain Cowen is an experienced warrior.\nI can't imagine them being the type\nto panic, no matter the situation.",
+    "Text": "I've heard Captain Cohen is quite the\nwarrior. I can't imagine them being the\ntype to panic, no matter the situation.",
     "Enabled": true
   },
   "504000010180001": {
@@ -1186,7 +1186,7 @@
   },
   "504000010190031": {
     "OriginalText": "そうか、わかったぞ。\nコウエン隊長とチームシグマは\n脱出計画を邪魔したくなかったんだな。",
-    "Text": "I've got it.\nCaptain Cowen & the rest of Team Sigma\ndid not want to interfere with\nthe escape operation.",
+    "Text": "I've got it.\nCaptain Cohen & the rest of Team Sigma\ndid not want to interfere with\nthe escape operation.",
     "Enabled": true
   },
   "504000010200032": {
@@ -1206,27 +1206,27 @@
   },
   "504000010230031": {
     "OriginalText": "……そうか。\nコウエン隊長とチームシグマは\nそんなことを考えていたのか。",
-    "Text": "I see...\nSo that's what Captain Cowen\n& Team Sigma were thinking.",
+    "Text": "I see.\nSo that's what Captain Cohen\n& Team Sigma were thinking.",
     "Enabled": true
   },
   "504000010240032": {
     "OriginalText": "コウエンは探査任務に就いていたので、\nこの[ruby ほし]惑星[/ruby]の危険性は嫌というほどわかっていた。",
-    "Text": "Because Cowen was on exploration duty,\nshe knew this planet's dangers all too well",
+    "Text": "Because Cohen was on exploration duty,\nshe knew this planet's dangers all too well",
     "Enabled": true
   },
   "504000010250032": {
     "OriginalText": "……コウエンの話によれば、ギガンテスどもは\nグランドライブの試運転に呼応して襲撃している\n可能性が高かったらしい。",
-    "Text": "According to Cowen, it was highly likely\nthat the Gigantes were attacking in response\nto the Gran Drive's test run.",
+    "Text": "According to Cohen, it was highly likely\nthat the Gigantes were attacking in response\nto the Gran Drive's test run.",
     "Enabled": true
   },
   "504000010260032": {
     "OriginalText": "つまり惑星脱出計画が遅延すれば、\n別の群れが拠点を襲う可能性があった。",
-    "Text": "In other words; had there been a delay,\nanother wave would have attack the base.",
+    "Text": "In other words; had there been a delay,\nanother wave would have attacked the base.",
     "Enabled": true
   },
   "504000010270032": {
     "OriginalText": "だからこそコウエンは思ったんだろう。\n援軍は呼ぶわけにはいかない、\n脱出計画に遅延が生じてしまうから、と……。",
-    "Text": "That is probably what Cowen thought.\nIf the call for reinforcements were made,\nit would delay the operation.",
+    "Text": "That is probably what Cohen thought.\nIf the call for reinforcements were made,\nit would delay the operation.",
     "Enabled": true
   },
   "504000010280030": {
@@ -1236,7 +1236,7 @@
   },
   "504000010290031": {
     "OriginalText": "どうしたら予定通りに\n脱出計画が実行されるのか……。",
-    "Text": "We need to ensure the plan\ngoes according to schedule...",
+    "Text": "How could they make sure the escape\noperation went as scheduled?",
     "Enabled": true
   },
   "504000010300031": {
@@ -1246,7 +1246,7 @@
   },
   "504000010310030": {
     "OriginalText": "チームシグマのみなさんは\n他のクルーたちに全滅したと思われた後も\nギガンテスと必死に戦っていたのですね……。",
-    "Text": "So even after the other crews all\nthought Team Sigma was gone, they were\nactually still giving their all\nagainst the Gigantes...",
+    "Text": "So even after the other crews all\nthought Team Sigma was gone, they were\nactually still giving their all\nagainst the Gigantes.",
     "Enabled": true
   },
   "504000010320030": {
@@ -1256,22 +1256,22 @@
   },
   "504000010330031": {
     "OriginalText": "そんな経緯をあなたはどうして黙っていたんだ？",
-    "Text": "Why wasn't there a report about all of this?",
+    "Text": "Why did you keep quiet about all this?",
     "Enabled": true
   },
   "504000010340032": {
     "OriginalText": "コウエンに隠し通すように頼まれたからだ。",
-    "Text": "Cowen had asked me to keep it a secret.",
+    "Text": "Cohen had asked me to keep it a secret.",
     "Enabled": true
   },
   "504000010350031": {
     "OriginalText": "……なるほど。\n……真の英雄は黙なのだな。",
-    "Text": "I see...\nThe true heroes are always silent...",
+    "Text": "I see.\nThe true heroes are always silent.",
     "Enabled": true
   },
   "504000010360032": {
     "OriginalText": "ああ。\nだから俺もコウエン最期の頼みを\n守り通そうと思ったんだ。",
-    "Text": "Yes.\nThat is why I sought to fufill\nCowen's final request.",
+    "Text": "Yes.\nThat is why I sought to fulfill\nCohen's final request.",
     "Enabled": true
   },
   "504000010370032": {
@@ -1281,7 +1281,7 @@
   },
   "504000010380032": {
     "OriginalText": "今となっては状況を推測するしかないのだが、\n恐らくその時点でコウエンは\nたった１人の生き残りだったのだろう。",
-    "Text": "At this point, we can only speculate.\nBut it is likely that Cowen was\nthe sole survivor at that moment.",
+    "Text": "At this point, we can only speculate.\nBut it is likely that Cohen was\nthe sole survivor at that moment.",
     "Enabled": true
   },
   "504000010390001": {
@@ -1321,7 +1321,7 @@
   },
   "504000020010032": {
     "OriginalText": "みんな、ありがとう。\nコウエンやチームシグマも\nあの世で喜んでいるに違いない。",
-    "Text": "Thank you, everyone.\nCowen & all of Team Sigma must\nsurely be rejoicing in the afterlife.",
+    "Text": "Thank you, everyone.\nCohen & all of Team Sigma must\nsurely be rejoicing in the afterlife.",
     "Enabled": true
   },
   "504000020020030": {
@@ -1336,12 +1336,12 @@
   },
   "504000020040030": {
     "OriginalText": "コウエン隊長とチームシグマは\n自分を犠牲にして、デルタ・ヴァリアントの\nクルーを守ろうとしましたわ。",
-    "Text": "Captain Cowen and Team Sigma tried to protect\nthe Delta Valiant crew at the expense of\nthemselves.",
+    "Text": "Captain Cohen and Team Sigma tried to protect\nthe Delta Valiant crew at the expense of\nthemselves.",
     "Enabled": true
   },
   "504000020050030": {
     "OriginalText": "そんなコウエン隊長たちの遺志を\nグラバー様は守ろうとしていました……。",
-    "Text": "Mr. Glover tried to protect Captain Cowen's\ndying wish.",
+    "Text": "Mr. Glover tried to protect Captain Cohen's\ndying wish.",
     "Enabled": true
   },
   "504000020060030": {
@@ -1356,17 +1356,17 @@
   },
   "504000020080030": {
     "OriginalText": "なんていうんでしょうか……。\n恋愛より仕事、みたいな。",
-    "Text": "What do you call it....\nIt's more like a duty than love.",
+    "Text": "What do you call it?\nIt's more like work over love.",
     "Enabled": true
   },
   "504000020090001": {
     "OriginalText": "ガーネットさん。\nそれ、いいと思います。",
-    "Text": "Garnet.\nI think that's it.",
+    "Text": "Garnet.\nI think that's great.",
     "Enabled": true
   },
   "504000020100031": {
     "OriginalText": "ここにいる者以外、\nコウエン隊長たちの功績を知る者はいない。\nだが、それでも彼らは間違いなく英雄だ。",
-    "Text": "Nobody knows the achievements of\nCaptain Cowen other than us.\nBut there's no doubt they're heroes.",
+    "Text": "Nobody knows the achievements of\nCaptain Cohen other than us.\nBut there's no doubt they're heroes.",
     "Enabled": true
   },
   "504000020110031": {
@@ -1376,12 +1376,12 @@
   },
   "504000020120032": {
     "OriginalText": "サンシャウト……。",
-    "Text": "Sunshout....",
+    "Text": "Sunshout.",
     "Enabled": true
   },
   "504000020130030": {
     "OriginalText": "……サンシャウトさん。\nあなたもけっこういい男なんですね。",
-    "Text": "...Sunshout.\nYou're pretty good too.",
+    "Text": "Sunshout,\nyou're quite a fine man too.",
     "Enabled": true
   },
   "504000020140031": {
@@ -1406,7 +1406,7 @@
   },
   "504000020180031": {
     "OriginalText": "……ふっ。\n本当に世間知らずにはかなわないな。",
-    "Text": "...Pfft.\nYou're really naive.",
+    "Text": "Heh.\nYou're really naive.",
     "Enabled": true
   },
   "504000020190030": {
@@ -1416,7 +1416,7 @@
   },
   "504000020200031": {
     "OriginalText": "そうだ。\nあなたにこれを渡しておきたかったんだ。\nコウエン隊長の記憶中枢だ。",
-    "Text": "Before I forgot.\nI want to give this to you.\nIt's the memory drive of Captain Cowen.",
+    "Text": "Before I forgot.\nI want to give this to you.\nIt's the memory drive of Captain Cohen.",
     "Enabled": true
   },
   "504000020210031": {
@@ -1431,7 +1431,7 @@
   },
   "504000020230032": {
     "OriginalText": "コウエン……\nお前の意思は俺たちが継ぐ。\n必ずみんなでここから脱出してみせるからな。",
-    "Text": "Cowen...\nI will follow your wish. I'll make sure\neveryone will escape from here.",
+    "Text": "Cohen,\nwe will carry on your will. I'll make sure\neveryone escapes from here.",
     "Enabled": true
   },
   "504000020240033": {
@@ -1441,12 +1441,12 @@
   },
   "504000020250033": {
     "OriginalText": "聞こえていたら事をしろ\n  私が[ruby ふね]艦[/ruby]をする",
-    "Text": "If you can hear me, please respond!",
+    "Text": "If you can hear me, please respond!\nI'll guide the ship.",
     "Enabled": true
   },
   "504000020260004": {
     "OriginalText": "なんだ、おい。\nコエンなのか？",
-    "Text": "What!\nIs this Cowen?",
+    "Text": "What!\nIs this Cohen?",
     "Enabled": true
   },
   "504000020270033": {
@@ -1456,7 +1456,7 @@
   },
   "504000020280004": {
     "OriginalText": "     ……信じていたからな\nお前はギがンテスにやられるような女じゃないって",
-    "Text": "I believed in you...\nthat you weren't the kind of woman\nto be killed by a Gigantes.",
+    "Text": "I believed in you,\nthat you weren't the kind of woman\nto be killed by a Gigantes.",
     "Enabled": true
   },
   "504000020290033": {
@@ -1466,12 +1466,12 @@
   },
   "504000020300004": {
     "OriginalText": "……すまないな",
-    "Text": "... I'm sorry",
+    "Text": "I'm sorry.",
     "Enabled": true
   },
   "504000020310033": {
     "OriginalText": "   何言ってるんだ、\n助かりそうにないのはおいだろ",
-    "Text": "What are you saying,\nneither of us is going to make it.",
+    "Text": "What are you saying,\nyou're the one who won't make it.",
     "Enabled": true
   },
   "504000020320004": {
