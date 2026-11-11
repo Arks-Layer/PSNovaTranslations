@@ -646,7 +646,7 @@
   },
   "780034": {
     "OriginalText": "『倉庫』\n\n倉庫はアイテムを預けることができます。\n\nアイテムパック（手持ちのアイテム）が\n容量上限の２００個入っている時に\nアイテムを入手した場合、そのアイテム\nは倉庫に自動的に入ります。\n\n「モノメイト」など所持量制限のあるアイテム\nを制限数以上に入手した場合も、\nそのアイテムは倉庫へ送られます。",
-    "Text": "You can deposit items in Storage.\n\nItems obtained while your inventory\nis at its 200 capacity limit go to\nStorage.\n\nItems with carry limits, such as\n"Monomate", also go there when\nover the limit.",
+    "Text": "You can deposit items in Storage.\n\nItems obtained while your inventory\nis at its 200 capacity limit go to\nStorage.\n\nItems with carry limits, such as\n\"Monomate\", also go there when\nover the limit.",
     "Enabled": true
   },
   "780035": {
