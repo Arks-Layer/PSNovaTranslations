@@ -6,7 +6,7 @@
   },
   "1000053": {
     "OriginalText": "【初回封入特典】\n「EXPブースト+100％」を10個入手できる。",
-    "Text": "[First Time Bonus]\nYou'll receive: \"EXP Boost +100%\" x10.",
+    "Text": "[First Time Bonus]\nObtain the following:\n\"EXP Boost +100%\" x10.",
     "Enabled": true
   },
   "1000080": {
@@ -16,8 +16,8 @@
   },
   "1000081": {
     "OriginalText": "【初回封入特典】\nコスチューム「ヴィテスシュタルクＷ」を\n入手できる。\n髪型「ヴィテスシュタルクＷメット」を\nエステで選択できるようになる。\n[a 07]※ヴィテスシュタルクＷは\n全種族（男性）用コスチュームとなります。[b]",
-    "Text": "【初回封入特典】\nコスチューム「ヴィテスシュタルクＷ」を\n入手できる。\n髪型「ヴィテスシュタルクＷメット」を\nエステで選択できるようになる。\n[a 07]※ヴィテスシュタルクＷは\n全種族（男性）用コスチュームとなります。[b]",
-    "Enabled": false
+    "Text": "[First Time Bonus]\nObtain the following:\nCostume [Vitesse Stark W]\nHairstyle: [Vitesse Stark W Helmet]\n[a 07]※Costume is all-races male only.[b]",
+    "Enabled": true
   },
   "1000082": {
     "OriginalText": "ヴィテスシュタルクＷ",
@@ -26,7 +26,7 @@
   },
   "1000083": {
     "OriginalText": "正義の味方を気取るアークススーツ。\nそこにいるだけで子どもたちに信頼され\n熱い眼差しで見つめられること確実。\n[a 03]※この服はカラーを変更できません[b]",
-    "Text": "正義の味方を気取るアークススーツ。\nそこにいるだけで子どもたちに信頼され\n熱い眼差しで見つめられること確実。\n[a 03]※この服はカラーを変更できません[b]",
+    "Text": "",
     "Enabled": false
   },
   "1000084": {
@@ -36,7 +36,7 @@
   },
   "1000085": {
     "OriginalText": "ヴィテスシュタルクＷメットのアイテム説明 (※髪型のため、説明なし)",
-    "Text": "ヴィテスシュタルクＷメットのアイテム説明 (※髪型のため、説明なし)",
+    "Text": "",
     "Enabled": false
   },
   "1000086": {
@@ -46,8 +46,8 @@
   },
   "1000087": {
     "OriginalText": "【初回封入特典】\nコスチューム「グラスフォーアネームＧ」を\n入手できる。\n[a 07]※グラスフォーアネームＧは\n全種族（女性）用コスチュームとなります。[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "[First Time Bonus]\nObtain the following:\nCostume [Glas Vornehm G]\n[a 07]※Costume is all-races female only.[b]",
+    "Enabled": true
   },
   "1000088": {
     "OriginalText": "グラスフォーアネームＧ",
@@ -56,7 +56,7 @@
   },
   "1000089": {
     "OriginalText": "女の子らしさを極めたアークススーツ。\n戦場に舞う可憐な蝶を思わせるその姿に\n見る者は思わず守ってあげたくなる。\n[a 03]※この服はカラーを変更できません[b]",
-    "Text": "女の子らしさを極めたアークススーツ。\n戦場に舞う可憐な蝶を思わせるその姿に\n見る者は思わず守ってあげたくなる。\n[a 03]※この服はカラーを変更できません[b]",
+    "Text": "",
     "Enabled": false
   },
   "1000090": {
@@ -66,7 +66,7 @@
   },
   "1000091": {
     "OriginalText": "【スターオーシャン４ コラボ】\nコスチューム「ＳＲＦアーマー」と、\n武器「ＳＲＦブレード」を\n入手できる。\n[a 07]※ＳＲＦアーマーは\n全種族（男性）用コスチュームとなります。[b]",
-    "Text": "[Star Ocean 4 Collaboration]\nObtain the following:\nWeapon: [SRF Blade]\nCostume: [SRF Armor]\n[a 07]※SRF Armor is an all races\nmale costume.[b]",
+    "Text": "[Star Ocean 4 Collaboration]\nObtain the following:\nWeapon: [SRF Blade]\nCostume: [SRF Armor]\n[a 07]※Costume is all-races male only.[b]",
     "Enabled": true
   },
   "1000092": {
@@ -96,7 +96,7 @@
   },
   "1000097": {
     "OriginalText": "【スターオーシャン４ コラボ】\nコスチューム「ＳＲＦプロテクター」を\n入手できる。\nアクセサリー「レイミリボン」を\nエステで選択できるようになる。\n[a 07]※全種族（女性）用コスチュームと\nアクセサリーとなります。[b]",
-    "Text": "[Star Ocean 4 Collaboration]\nObtain the following:\nCostume: [SRF Protector]\nAccessory: [Reimi Ribbon]\n[a 07]※SRF Protector is an all races\nfemale costume.[b]",
+    "Text": "[Star Ocean 4 Collaboration]\nObtain the following:\nCostume: [SRF Protector]\nAccessory: [Reimi Ribbon]\n[a 07]※Costume is all-races female only.[b]",
     "Enabled": true
   },
   "1000098": {
@@ -126,8 +126,8 @@
   },
   "1000103": {
     "OriginalText": "【ヴァルキリープロファイル コラボ】\nコスチューム「ヴァルキリーガーブ」と、\n武器「人の剣」を入手できる。\n髪型「シルバーブライド」を\nエステで選択できるようになる。\n[a 07]※全種族（女性）用コスチュームと\nヘアスタイルとなります。[b]",
-    "Text": "【ヴァルキリープロファイル コラボ】\nコスチューム「ヴァルキリーガーブ」と、\n武器「人の剣」を入手できる。\n髪型「シルバーブライド」を\nエステで選択できるようになる。\n[a 07]※全種族（女性）用コスチュームと\nヘアスタイルとなります。[b]",
-    "Enabled": false
+    "Text": "[Valkyrie Profile Collaboration]\nObtain the following:\nCostume: Valkyrie Garb]\nWeapon: [Villain's Sword]\nHairstyle: [Silver Braid]\n[a 07]※Costume & hairstyles are all-races female only.",
+    "Enabled": true
   },
   "1000104": {
     "OriginalText": "ヴァルキリーガーブ",
@@ -166,8 +166,8 @@
   },
   "1000111": {
     "OriginalText": "【エンド オブ エタニティ コラボ】\nコスチューム「ヴァシュロンジャケット」と、\n武器「４５-ＡＵＴＯ」を入手できる。\n[a 07]※ヴァシュロンジャケットは\n全種族（男性）用コスチュームとなります。[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "[Resonance of Fate Collaboration]\nObtain the following:\nCostume: [Vashyron Jacket]\nWeapon: [45-Auto]\n[a 07]※Costume is all-races male only.[b]",
+    "Enabled": true
   },
   "1000112": {
     "OriginalText": "ヴァシュロンジャケット",
@@ -196,8 +196,8 @@
   },
   "1000117": {
     "OriginalText": "【エンド オブ エタニティ コラボ】\nコスチューム「ゼファージャケット」と、\n武器「ＳＭＧ-０５」を入手できる。\n[a 07]※ゼファージャケットは\n全種族（男性）用コスチュームとなります。[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "[Resonance of Fate Collaboration]\nObtain the following:\nCostume: [Zephyr Jacket]\nWeapon: [SMG-05]\n[a 07]※Costume is all-races male only.[b]",
+    "Enabled": true
   },
   "1000118": {
     "OriginalText": "ゼファージャケット",
@@ -226,8 +226,8 @@
   },
   "1000123": {
     "OriginalText": "【エンド オブ エタニティ コラボ】\nコスチューム「リーンベルコート」と、\n武器「Ｂ-８４」を入手できる。\n[a 07]※リーンベルコートは\n全種族（女性）用コスチュームとなります。[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "[Resonance of Fate Collaboration]\nObtain the following:\nCostume: [Reanbell]\nWeapon: [B-84]\n[a 07]※Costume is all-races female only.[b]",
+    "Enabled": true
   },
   "1000124": {
     "OriginalText": "リーンベルコート",
@@ -256,8 +256,8 @@
   },
   "1000129": {
     "OriginalText": "【戦場のヴァルキュリア３ コラボ】\nコスチューム「ヴァルキュリア・ドレス」を\n入手できる。\nアクセサリー「ヴァルキュリア・ホーン」を\nエステで選択できるようになる。\n[a 07]※全種族（女性）用コスチュームと\nアクセサリーとなります。[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "[Valkyria Chronicles 3 Collaboration]\nObtain the following:\nCostume [Valkyria Dress]\nAccessory: [Valkyria Horn]\n[a 07]※Costume is all-races female only.[b]",
+    "Enabled": true
   },
   "1000130": {
     "OriginalText": "ヴァルキュリア・ドレス",
