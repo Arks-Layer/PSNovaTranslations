@@ -76,8 +76,8 @@
   },
   "30019": {
     "OriginalText": "？？？",
-    "Text": "",
-    "Enabled": false
+    "Text": "???",
+    "Enabled": true
   },
   "30020": {
     "OriginalText": "一同",
@@ -231,8 +231,8 @@
   },
   "35501": {
     "OriginalText": "３Ｚー１０３",
-    "Text": "",
-    "Enabled": false
+    "Text": "3Z-103",
+    "Enabled": true
   },
   "35502": {
     "OriginalText": "ハルライン",
@@ -376,7 +376,7 @@
   },
   "510031": {
     "OriginalText": "暁紅の英雄",
-    "Text": "Hero of Gyoukou",
+    "Text": "Crimson Dawn Hero",
     "Enabled": true
   },
   "510032": {
@@ -391,13 +391,13 @@
   },
   "510034": {
     "OriginalText": "天然看護娘",
-    "Text": "",
-    "Enabled": false
+    "Text": "Natural-born Nurse",
+    "Enabled": true
   },
   "510035": {
     "OriginalText": "天才発明家",
-    "Text": "",
-    "Enabled": false
+    "Text": "Genius Inventor",
+    "Enabled": true
   },
   "510036": {
     "OriginalText": "経歴不明のシェフ",
@@ -421,8 +421,8 @@
   },
   "510040": {
     "OriginalText": "命運託されし姫",
-    "Text": "",
-    "Enabled": false
+    "Text": "Princess of Fate",
+    "Enabled": true
   },
   "510041": {
     "OriginalText": "時の旅人",
@@ -546,13 +546,13 @@
   },
   "510065": {
     "OriginalText": "ボンボン",
-    "Text": "Bonbon",
+    "Text": "Cinnamon Roll",
     "Enabled": true
   },
   "510066": {
     "OriginalText": "プチブルジョワ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Petty Bourgeois",
+    "Enabled": true
   },
   "510067": {
     "OriginalText": "貯金好き",
@@ -566,8 +566,8 @@
   },
   "510069": {
     "OriginalText": "叙父貴",
-    "Text": "",
-    "Enabled": false
+    "Text": "Uncle",
+    "Enabled": true
   },
   "510070": {
     "OriginalText": "女将",
@@ -606,13 +606,13 @@
   },
   "510077": {
     "OriginalText": "子供好き",
-    "Text": "Likes Children",
+    "Text": "Fond of Children",
     "Enabled": true
   },
   "510078": {
     "OriginalText": "凝り性",
-    "Text": "",
-    "Enabled": false
+    "Text": "Perfectionist",
+    "Enabled": true
   },
   "510079": {
     "OriginalText": "タンクトップ",
@@ -786,7 +786,7 @@
   },
   "510113": {
     "OriginalText": "美熟女",
-    "Text": "Milf",
+    "Text": "Beatiful Older Woman",
     "Enabled": true
   },
   "510114": {
@@ -816,8 +816,8 @@
   },
   "510119": {
     "OriginalText": "レタッチャー",
-    "Text": "",
-    "Enabled": false
+    "Text": "Retoucher",
+    "Enabled": true
   },
   "510120": {
     "OriginalText": "絵師",
@@ -906,8 +906,8 @@
   },
   "510137": {
     "OriginalText": "子分肌",
-    "Text": "",
-    "Enabled": false
+    "Text": "Yes-man",
+    "Enabled": true
   },
   "510138": {
     "OriginalText": "おっかけファン",
@@ -996,8 +996,8 @@
   },
   "510155": {
     "OriginalText": "百戦錬磨",
-    "Text": "",
-    "Enabled": false
+    "Text": "Battleborn Veteran",
+    "Enabled": true
   },
   "510156": {
     "OriginalText": "質実剛健",
@@ -1036,8 +1036,8 @@
   },
   "510163": {
     "OriginalText": "挙動不審",
-    "Text": "",
-    "Enabled": false
+    "Text": "Sketchy",
+    "Enabled": true
   },
   "510164": {
     "OriginalText": "才色兼備",
@@ -1056,8 +1056,8 @@
   },
   "510167": {
     "OriginalText": "初志貴徹",
-    "Text": "",
-    "Enabled": false
+    "Text": "Tenacious",
+    "Enabled": true
   },
   "510168": {
     "OriginalText": "神出鬼没",
@@ -1101,8 +1101,8 @@
   },
   "510176": {
     "OriginalText": "粉骨砕身",
-    "Text": "",
-    "Enabled": false
+    "Text": "Workaholic",
+    "Enabled": true
   },
   "510177": {
     "OriginalText": "勇猛果敢",
@@ -1111,8 +1111,8 @@
   },
   "510178": {
     "OriginalText": "暴走超特急",
-    "Text": "",
-    "Enabled": false
+    "Text": "Humanoid Typhoon",
+    "Enabled": true
   },
   "510179": {
     "OriginalText": "鉄面皮デカ",
@@ -1126,8 +1126,8 @@
   },
   "510181": {
     "OriginalText": "隠れた英雄",
-    "Text": "",
-    "Enabled": false
+    "Text": "Unsung Hero",
+    "Enabled": true
   },
   "510182": {
     "OriginalText": "眠れる子（仮）",
@@ -1231,8 +1231,8 @@
   },
   "520020": {
     "OriginalText": "テンパリスト",
-    "Text": "",
-    "Enabled": false
+    "Text": "Worrywart",
+    "Enabled": true
   },
   "520021": {
     "OriginalText": "短気",
@@ -1261,8 +1261,8 @@
   },
   "520026": {
     "OriginalText": "持久力に難あり",
-    "Text": "",
-    "Enabled": false
+    "Text": "Low Energy",
+    "Enabled": true
   },
   "520027": {
     "OriginalText": "人気者",
@@ -1271,8 +1271,8 @@
   },
   "520028": {
     "OriginalText": "友情に熱い",
-    "Text": "",
-    "Enabled": false
+    "Text": "Loyal",
+    "Enabled": true
   },
   "520029": {
     "OriginalText": "ツンデレ",
@@ -1326,8 +1326,8 @@
   },
   "520042": {
     "OriginalText": "動物博土",
-    "Text": "",
-    "Enabled": false
+    "Text": "Zoologist",
+    "Enabled": true
   },
   "520045": {
     "OriginalText": "兵器マニア",
@@ -1451,8 +1451,8 @@
   },
   "520072": {
     "OriginalText": "落ち込みやすい",
-    "Text": "",
-    "Enabled": false
+    "Text": "Thin-skinned",
+    "Enabled": true
   },
   "520073": {
     "OriginalText": "打撃自慢",
@@ -1546,18 +1546,18 @@
   },
   "520096": {
     "OriginalText": "やんちゃ坊主",
-    "Text": "",
-    "Enabled": false
+    "Text": "Rascal",
+    "Enabled": true
   },
   "520097": {
     "OriginalText": "戦闘巧者",
-    "Text": "",
-    "Enabled": false
+    "Text": "Skilled Fighter",
+    "Enabled": true
   },
   "520098": {
     "OriginalText": "職人の手捌き",
-    "Text": "",
-    "Enabled": false
+    "Text": "Finessed",
+    "Enabled": true
   },
   "520099": {
     "OriginalText": "ロマンチスト",
@@ -1571,7 +1571,7 @@
   },
   "520101": {
     "OriginalText": "アークスオブアークス",
-    "Text": "ARKS of ARKS",
+    "Text": "ARKS Amongst ARKS",
     "Enabled": true
   },
   "520102": {
@@ -1586,108 +1586,108 @@
   },
   "520104": {
     "OriginalText": "箱入り娘",
-    "Text": "",
-    "Enabled": false
+    "Text": "Sheltered Person",
+    "Enabled": true
   },
   "520105": {
     "OriginalText": "デカチョウ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Detective",
+    "Enabled": true
   },
   "520106": {
     "OriginalText": "コスト削滅班長",
-    "Text": "",
-    "Enabled": false
+    "Text": "Penny-Pinching Destroyer",
+    "Enabled": true
   },
   "520107": {
     "OriginalText": "コスト削滅係長",
-    "Text": "",
-    "Enabled": false
+    "Text": "Penny-Pinching Supervisor",
+    "Enabled": true
   },
   "520108": {
     "OriginalText": "コスト削滅部長",
-    "Text": "",
-    "Enabled": false
+    "Text": "Penny-Pinching Director",
+    "Enabled": true
   },
   "520109": {
     "OriginalText": "コスト削滅社長",
-    "Text": "",
-    "Enabled": false
+    "Text": "Penny-Pinching CEO",
+    "Enabled": true
   },
   "520110": {
     "OriginalText": "コスト削滅大統領",
-    "Text": "",
-    "Enabled": false
+    "Text": "Penny-Pinching President",
+    "Enabled": true
   },
   "520116": {
     "OriginalText": "節約レシピ好き",
-    "Text": "",
-    "Enabled": false
+    "Text": "Frugal Chef",
+    "Enabled": true
   },
   "520117": {
     "OriginalText": "節約レシピマニア",
-    "Text": "",
-    "Enabled": false
+    "Text": "Frugal Foodie Lover",
+    "Enabled": true
   },
   "520118": {
     "OriginalText": "節約レシピマイスター",
-    "Text": "",
-    "Enabled": false
+    "Text": "Frugal Food Expert",
+    "Enabled": true
   },
   "520125": {
     "OriginalText": "見習い鍛冶職人",
-    "Text": "",
-    "Enabled": false
+    "Text": "Blacksmith Apprentice",
+    "Enabled": true
   },
   "520126": {
     "OriginalText": "駆け出し鍛冶職人",
-    "Text": "",
-    "Enabled": false
+    "Text": "Blacksmith Novice",
+    "Enabled": true
   },
   "520127": {
     "OriginalText": "いっぱしの鍛冶職人",
-    "Text": "",
-    "Enabled": false
+    "Text": "Blacksmith",
+    "Enabled": true
   },
   "520128": {
     "OriginalText": "噂の鍛冶職人",
-    "Text": "",
-    "Enabled": false
+    "Text": "Famed Blacksmith",
+    "Enabled": true
   },
   "520129": {
     "OriginalText": "匠の鍛冶職人",
-    "Text": "",
-    "Enabled": false
+    "Text": "Master Blacksmith",
+    "Enabled": true
   },
   "520130": {
     "OriginalText": "伝説の鍛冶職人",
-    "Text": "",
-    "Enabled": false
+    "Text": "Legendary Blacksmith",
+    "Enabled": true
   },
   "520135": {
     "OriginalText": "錆の防具職人",
-    "Text": "",
-    "Enabled": false
+    "Text": "Rusty Armorer",
+    "Enabled": true
   },
   "520136": {
     "OriginalText": "鉄の防具職人",
-    "Text": "",
-    "Enabled": false
+    "Text": "Ironed Armorer",
+    "Enabled": true
   },
   "520137": {
     "OriginalText": "銅の防具職人",
-    "Text": "",
-    "Enabled": false
+    "Text": "Steeled Armorer",
+    "Enabled": true
   },
   "520138": {
     "OriginalText": "銀の防具職人",
-    "Text": "",
-    "Enabled": false
+    "Text": "Silvered Armorer",
+    "Enabled": true
   },
   "520139": {
     "OriginalText": "金の防具職人",
-    "Text": "",
-    "Enabled": false
+    "Text": "Golden Armorer",
+    "Enabled": true
   },
   "520140": {
     "OriginalText": "ダイヤモンドの防具職人",
@@ -1696,38 +1696,38 @@
   },
   "520147": {
     "OriginalText": "商人見習い",
-    "Text": "",
-    "Enabled": false
+    "Text": "Apprentice Merchant",
+    "Enabled": true
   },
   "520148": {
     "OriginalText": "商売上手",
-    "Text": "",
-    "Enabled": false
+    "Text": "Skilled Merchant",
+    "Enabled": true
   },
   "520149": {
     "OriginalText": "注目株の商人",
-    "Text": "",
-    "Enabled": false
+    "Text": "Hot-Shot Merchant",
+    "Enabled": true
   },
   "520150": {
     "OriginalText": "商売の神様",
-    "Text": "",
-    "Enabled": false
+    "Text": "God of Commerce",
+    "Enabled": true
   },
   "520155": {
     "OriginalText": "仮縫い担当",
-    "Text": "",
-    "Enabled": false
+    "Text": "Tailor",
+    "Enabled": true
   },
   "520156": {
     "OriginalText": "裁縫上手",
-    "Text": "",
-    "Enabled": false
+    "Text": "Seamstress",
+    "Enabled": true
   },
   "520157": {
     "OriginalText": "ミシンの使い手",
-    "Text": "",
-    "Enabled": false
+    "Text": "Living Sewing Machine",
+    "Enabled": true
   },
   "520158": {
     "OriginalText": "ひとかどのデザイナー",
@@ -1736,8 +1736,8 @@
   },
   "520159": {
     "OriginalText": "期待の新星デザイナー",
-    "Text": "",
-    "Enabled": false
+    "Text": "Rising Star Designer",
+    "Enabled": true
   },
   "520160": {
     "OriginalText": "トップデザイナー",
@@ -1746,33 +1746,33 @@
   },
   "520161": {
     "OriginalText": "おしゃれ泥棒",
-    "Text": "",
-    "Enabled": false
+    "Text": "Suave Thief",
+    "Enabled": true
   },
   "520162": {
     "OriginalText": "おしゃれ大泥棒",
-    "Text": "",
-    "Enabled": false
+    "Text": "Dashing Thief",
+    "Enabled": true
   },
   "520163": {
     "OriginalText": "おしゃれ怪盗",
-    "Text": "",
-    "Enabled": false
+    "Text": "Fashionable Rogue",
+    "Enabled": true
   },
   "520164": {
     "OriginalText": "グラン予報土",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gran Forecaster",
+    "Enabled": true
   },
   "520165": {
     "OriginalText": "上級グラン予報土",
-    "Text": "",
-    "Enabled": false
+    "Text": "Expert Gran Forecaster",
+    "Enabled": true
   },
   "520167": {
     "OriginalText": "ダウジンガー",
-    "Text": "",
-    "Enabled": false
+    "Text": "Dowser",
+    "Enabled": true
   },
   "520168": {
     "OriginalText": "ラッキライザー",
@@ -1781,8 +1781,8 @@
   },
   "520169": {
     "OriginalText": "野生の勘",
-    "Text": "",
-    "Enabled": false
+    "Text": "Sixth-Sense",
+    "Enabled": true
   },
   "520170": {
     "OriginalText": "BURST：経験値UP",
@@ -1836,18 +1836,18 @@
   },
   "520182": {
     "OriginalText": "博愛",
-    "Text": "",
-    "Enabled": false
+    "Text": "Philanthropist",
+    "Enabled": true
   },
   "520183": {
     "OriginalText": "注意深い",
-    "Text": "",
-    "Enabled": false
+    "Text": "Attentive",
+    "Enabled": true
   },
   "520184": {
     "OriginalText": "現実的",
-    "Text": "",
-    "Enabled": false
+    "Text": "Realist",
+    "Enabled": true
   },
   "520185": {
     "OriginalText": "死神",
@@ -1871,13 +1871,13 @@
   },
   "520189": {
     "OriginalText": "武器進化の名工",
-    "Text": "",
-    "Enabled": false
+    "Text": "Master Craftsman",
+    "Enabled": true
   },
   "520190": {
     "OriginalText": "精錬所チーフ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Chief Smelter",
+    "Enabled": true
   },
   "520201": {
     "OriginalText": "攻撃力アップ+1",
@@ -1956,108 +1956,108 @@
   },
   "520216": {
     "OriginalText": "Gブースターランク1適応地区",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gran Boost Rank 1 Applicable Areas",
+    "Enabled": true
   },
   "520217": {
     "OriginalText": "Gブースターランク2適応地区",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gran Boost Rank 2 Applicable Areas",
+    "Enabled": true
   },
   "520218": {
     "OriginalText": "Gブースターランク3適応地区",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gran Boost Rank 3 Applicable Areas",
+    "Enabled": true
   },
   "520219": {
     "OriginalText": "Gブースターランク4適応地区",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gran Boost Rank 4 Applicable Areas",
+    "Enabled": true
   },
   "520220": {
     "OriginalText": "Gブースターランク5適応地区",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gran Boost Rank 5 Applicable Areas",
+    "Enabled": true
   },
   "520221": {
     "OriginalText": "Gブースター支援効果+0",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gran Boost Support Effect +0",
+    "Enabled": true
   },
   "520222": {
     "OriginalText": "Gブースター支援効果+1",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gran Boost Support Effect +1",
+    "Enabled": true
   },
   "520223": {
     "OriginalText": "Gブースター支援効果+2",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gran Boost Support Effect +2",
+    "Enabled": true
   },
   "520224": {
     "OriginalText": "Gブースター支援効果+3",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gran Boost Support Effect +3",
+    "Enabled": true
   },
   "520225": {
     "OriginalText": "Gブースター支援効果+4",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gran Boost Support Effect +4",
+    "Enabled": true
   },
   "520226": {
     "OriginalText": "Gブースター支援効果+5",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gran Boost Support Effect +5",
+    "Enabled": true
   },
   "520227": {
     "OriginalText": "Gブースター支援効果+6",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gran Boost Support Effect +6",
+    "Enabled": true
   },
   "520228": {
     "OriginalText": "Gブースター支援効果+7",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gran Boost Support Effect +7",
+    "Enabled": true
   },
   "520229": {
     "OriginalText": "Gブースター支援効果+8",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gran Boost Support Effect +8",
+    "Enabled": true
   },
   "520230": {
     "OriginalText": "Gブースター支援効果+9",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gran Boost Support Effect +9",
+    "Enabled": true
   },
   "520231": {
     "OriginalText": "Gブースター支援効果+10",
-    "Text": "",
-    "Enabled": false
+    "Text": "Gran Boost Support Effect +10",
+    "Enabled": true
   },
   "520232": {
     "OriginalText": "I探索装置ランク1適応地区",
-    "Text": "",
-    "Enabled": false
+    "Text": "Exploration Rank 1 Applicable Areas",
+    "Enabled": true
   },
   "520233": {
     "OriginalText": "I探索装置ランク2適応地区",
-    "Text": "",
-    "Enabled": false
+    "Text": "Exploration Rank 2 Applicable Areas",
+    "Enabled": true
   },
   "520234": {
     "OriginalText": "I探索装置ランク3適応地区",
-    "Text": "",
-    "Enabled": false
+    "Text": "Exploration Rank 3 Applicable Areas",
+    "Enabled": true
   },
   "520235": {
     "OriginalText": "I探索装置ランク4適応地区",
-    "Text": "",
-    "Enabled": false
+    "Text": "Exploration Rank 4 Applicable Areas",
+    "Enabled": true
   },
   "520236": {
     "OriginalText": "I探索装置ランク5適応地区",
-    "Text": "",
-    "Enabled": false
+    "Text": "Exploration Rank 5 Applicable Areas",
+    "Enabled": true
   },
   "520237": {
     "OriginalText": "アイテムドロップUP+0",
@@ -2121,63 +2121,63 @@
   },
   "520249": {
     "OriginalText": "Eレーダーランク1適応地区",
-    "Text": "",
-    "Enabled": false
+    "Text": "Enemy Radar Rank 1 Applicable Areas",
+    "Enabled": true
   },
   "520250": {
     "OriginalText": "Eレーダーランク2適応地区",
-    "Text": "",
-    "Enabled": false
+    "Text": "Enemy Radar Rank 2 Applicable Areas",
+    "Enabled": true
   },
   "520251": {
     "OriginalText": "Eレーダーランク3適応地区",
-    "Text": "",
-    "Enabled": false
+    "Text": "Enemy Radar Rank 3 Applicable Areas",
+    "Enabled": true
   },
   "520252": {
     "OriginalText": "Eレーダーランク4適応地区",
-    "Text": "",
-    "Enabled": false
+    "Text": "Enemy Radar Rank 4 Applicable Areas",
+    "Enabled": true
   },
   "520253": {
     "OriginalText": "Eレーダーランク5適応地区",
-    "Text": "",
-    "Enabled": false
+    "Text": "Enemy Radar Rank 5 Applicable Areas",
+    "Enabled": true
   },
   "520254": {
     "OriginalText": "Eレーダー支援効果+0",
-    "Text": "",
-    "Enabled": false
+    "Text": "Enemy Radar Support Effect +0",
+    "Enabled": true
   },
   "520255": {
     "OriginalText": "Eレーダー支援効果+1",
-    "Text": "",
-    "Enabled": false
+    "Text": "Enemy Radar Support Effect +1",
+    "Enabled": true
   },
   "520256": {
     "OriginalText": "Eレーダー支援効果+2",
-    "Text": "",
-    "Enabled": false
+    "Text": "Enemy Radar Support Effect +2",
+    "Enabled": true
   },
   "520257": {
     "OriginalText": "Eレーダー支援効果+3",
-    "Text": "",
-    "Enabled": false
+    "Text": "Enemy Radar Support Effect +3",
+    "Enabled": true
   },
   "520258": {
     "OriginalText": "Eレーダー支援効果+4",
-    "Text": "",
-    "Enabled": false
+    "Text": "Enemy Radar Support Effect +4",
+    "Enabled": true
   },
   "520259": {
     "OriginalText": "Eレーダー支援効果+5",
-    "Text": "",
-    "Enabled": false
+    "Text": "Enemy Radar Support Effect +5",
+    "Enabled": true
   },
   "520260": {
     "OriginalText": "B観測装置支援効果+0",
-    "Text": "",
-    "Enabled": false
+    "Text": "BURST Device Support Effect +0",
+    "Enabled": true
   },
   "520261": {
     "OriginalText": "",
@@ -2186,63 +2186,63 @@
   },
   "520301": {
     "OriginalText": "衝撃の鍛冶職人",
-    "Text": "",
-    "Enabled": false
+    "Text": "Shocking Blacksmith",
+    "Enabled": true
   },
   "520302": {
     "OriginalText": "稀代の鍛冶職人",
-    "Text": "",
-    "Enabled": false
+    "Text": "Peerless Blacksmith",
+    "Enabled": true
   },
   "520303": {
     "OriginalText": "奇跡の鍛冶職人",
-    "Text": "",
-    "Enabled": false
+    "Text": "Miracle Blacksmith",
+    "Enabled": true
   },
   "520304": {
     "OriginalText": "終末の鍛冶職人",
-    "Text": "",
-    "Enabled": false
+    "Text": "Doomsday Blacksmith",
+    "Enabled": true
   },
   "520305": {
     "OriginalText": "地獄の鍛冶職人",
-    "Text": "",
-    "Enabled": false
+    "Text": "Blacksmith from Hell",
+    "Enabled": true
   },
   "520311": {
     "OriginalText": "プラチナの防具職人",
-    "Text": "",
-    "Enabled": false
+    "Text": "Platinum Armorer",
+    "Enabled": true
   },
   "520312": {
     "OriginalText": "世界の防具職人",
-    "Text": "",
-    "Enabled": false
+    "Text": "World Armorer",
+    "Enabled": true
   },
   "520313": {
     "OriginalText": "太陽の防具職人",
-    "Text": "",
-    "Enabled": false
+    "Text": "Solar Armorer",
+    "Enabled": true
   },
   "520314": {
     "OriginalText": "銀河の防具職人",
-    "Text": "",
-    "Enabled": false
+    "Text": "Galactic Armorer",
+    "Enabled": true
   },
   "520315": {
     "OriginalText": "宇宙の防具職人",
-    "Text": "",
-    "Enabled": false
+    "Text": "Cosmic Armorer",
+    "Enabled": true
   },
   "530000": {
     "OriginalText": "お役にたてるように頑張りますね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I'll do my best to be of help.",
+    "Enabled": true
   },
   "530001": {
     "OriginalText": "[ruby]相棒[/ruby]の回復役はあたしなんだから\nいつでも呼んでよね！",
-    "Text": "",
-    "Enabled": false
+    "Text": "I'm my buddy's healer, so call me\nanytime!",
+    "Enabled": true
   },
   "530002": {
     "OriginalText": "へへっ、どんな任務でもオレに\n任せろってんだ！",
@@ -2251,2003 +2251,2003 @@
   },
   "530003": {
     "OriginalText": "わたしの力がお役に立てるのでしたら、\n精一杯頑張ります。",
-    "Text": "",
-    "Enabled": false
+    "Text": "If my power can be of use,\nI'll give it my all.",
+    "Enabled": true
   },
   "530005": {
     "OriginalText": "おっしゃーオレも戦場に出るぜ！！\nお前連れてけよー！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Alright, I'm heading to the battlefield\ntoo!! Take me with you!",
+    "Enabled": true
   },
   "530006": {
     "OriginalText": "私の力が必要ですか？\n君の頼みならば断りませんよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "You need my power?\nI won't refuse a request from you.",
+    "Enabled": true
   },
   "530009": {
     "OriginalText": "仕事か？\n別に同行するのは構わない。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Work?\nI don't mind tagging along.",
+    "Enabled": true
   },
   "530010": {
     "OriginalText": "てきぱき働きなさい。\n時間には限りがあるのよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Work efficiently.\nTime is limited.",
+    "Enabled": true
   },
   "530011": {
     "OriginalText": "皆さん、このような環境です。\n怪我、病気に気を付けてくださいね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Everyone, given these conditions,\nplease watch out for injury & illness.",
+    "Enabled": true
   },
   "530012": {
     "OriginalText": "アークスに年齢は関係ねぇだろ。\nオレだって戦えるところを見せてやるよ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Age doesn't matter for ARKS, right?\nI'll show you I can fight too!",
+    "Enabled": true
   },
   "530013": {
     "OriginalText": "俺の出番ってヤツか？\nまっ、いつでも呼んでくれや。",
-    "Text": "",
-    "Enabled": false
+    "Text": "My turn, is it?\nWell, call me anytime.",
+    "Enabled": true
   },
   "530014": {
     "OriginalText": "こう見えて意外とやるのですよ、[ruby わたくし]私[/ruby]は。\n一度ご賞味あれ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "I'm surprisingly capable, you know.\nHave a taste!",
+    "Enabled": true
   },
   "530015": {
     "OriginalText": "お役に立てることがあるならば、\nいつでも声をかけてくださいね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "If there's anything I can help with,\ncall on me anytime.",
+    "Enabled": true
   },
   "530018": {
     "OriginalText": "泣き言を言っても始まらない。\nオレ達は戦い抜く。ただそれだけだ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Whining gets us nowhere.\nWe fight to the end. That's all.",
+    "Enabled": true
   },
   "530019": {
     "OriginalText": "起こしていただけて光栄です！\nお役に立てるよう努力します！",
-    "Text": "",
-    "Enabled": false
+    "Text": "I'm honored you woke me!\nI'll work hard to be of help!",
+    "Enabled": true
   },
   "530020": {
     "OriginalText": "さすがにこんな特異な環境は体験したことないな。\nまっ、やれるだけやってみるしかないね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Never been in an environment this\nstrange. Well, I'll do what I can.",
+    "Enabled": true
   },
   "530021": {
     "OriginalText": "どんな状況でもアークスなら\nやることは一つってもんだろ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Whatever the situation, ARKS only\nhave one thing to do, right?",
+    "Enabled": true
   },
   "530022": {
     "OriginalText": "さすがにこの状況は\nなかなか驚いちゃうね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Even I'm pretty surprised by\nthis situation.",
+    "Enabled": true
   },
   "530023": {
     "OriginalText": "ここならば、新しいモンスターの\n研究がはかどりそうだわ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "My research on new monsters should\nreally take off here!",
+    "Enabled": true
   },
   "530024": {
     "OriginalText": "僕にしか出来ないことも、きっとあると思います。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I'm sure there are things only I can do.",
+    "Enabled": true
   },
   "530025": {
     "OriginalText": "皆さんのお役に立てるように\n誠心誠意頑張ります！",
-    "Text": "",
-    "Enabled": false
+    "Text": "I'll give it my all to be of help\nto everyone!",
+    "Enabled": true
   },
   "530026": {
     "OriginalText": "ボクでお役に立てるか分かりませんが\n精いっぱい頑張ります！",
-    "Text": "",
-    "Enabled": false
+    "Text": "I don't know if I'll be of use, but\nI'll do my very best!",
+    "Enabled": true
   },
   "530027": {
     "OriginalText": "後方支援が必要ならば声をかけい！",
-    "Text": "",
-    "Enabled": false
+    "Text": "If you need rear support, holler!",
+    "Enabled": true
   },
   "530028": {
     "OriginalText": "よっしゃ、盛り上げてやるぜ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Alright, I'll liven things up!",
+    "Enabled": true
   },
   "530029": {
     "OriginalText": "パルチザンじゃ負けないからな！\nいつでも見せてやるぜ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Nobody beats me with a partisan!\nI'll show you anytime!",
+    "Enabled": true
   },
   "530030": {
     "OriginalText": "外はエネミーがあふれている。\nオレが殲滅して来てやろう。",
-    "Text": "",
-    "Enabled": false
+    "Text": "The outside is crawling with enemies.\nI'll go wipe them out.",
+    "Enabled": true
   },
   "530031": {
     "OriginalText": "ここならボクの力を試せそうだね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I can test my power here.",
+    "Enabled": true
   },
   "530032": {
     "OriginalText": "共に力を合わせましょう！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Let's join forces!",
+    "Enabled": true
   },
   "530033": {
     "OriginalText": "私の力を欲しますか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "You desire my power?",
+    "Enabled": true
   },
   "530034": {
     "OriginalText": "ボクを選ぶとはお目が高いですね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "You've got a good eye, choosing me.",
+    "Enabled": true
   },
   "530035": {
     "OriginalText": "頼られたら、断れねえのが人情ってもんだよな。",
-    "Text": "",
-    "Enabled": false
+    "Text": "When someone counts on you, you can't\nrefuse. That's human nature.",
+    "Enabled": true
   },
   "530036": {
     "OriginalText": "泣き言を言っても始まらない。\nオレ達は戦い抜く。ただそれだけだ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Whining gets us nowhere.\nWe fight to the end. That's all.",
+    "Enabled": true
   },
   "530037": {
     "OriginalText": "ボクのこと、頼ってくれるんですか？\n嬉しいです！",
-    "Text": "",
-    "Enabled": false
+    "Text": "You're counting on me?\nI'm so happy!",
+    "Enabled": true
   },
   "530038": {
     "OriginalText": "オレは戦いでも拠点でも役に立つぜ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "I'm useful in battle & at base!",
+    "Enabled": true
   },
   "530039": {
     "OriginalText": "うーん、やっぱり寝起きは肩がこっていけねえな。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Ugh, my shoulders are always stiff\nright after waking up.",
+    "Enabled": true
   },
   "530040": {
     "OriginalText": "ここなら、未知のエネミーちゃんに\n出会えそうね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Here, I might meet some unknown\nenemy cuties.",
+    "Enabled": true
   },
   "530041": {
     "OriginalText": "あの……、こんな僕でもお役に立てるでしょうか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Um, can someone like me really be\nof use?",
+    "Enabled": true
   },
   "530042": {
     "OriginalText": "戦闘に出るよりは\n書類仕事の方が得意です。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I'm better at paperwork than\ngoing into battle.",
+    "Enabled": true
   },
   "530043": {
     "OriginalText": "任されたことはきっちりこなします。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I'll properly finish what I'm given.",
+    "Enabled": true
   },
   "530044": {
     "OriginalText": "私に戦わせる前にまずはあなたの\n実力を見せて欲しいところですね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Before I fight, I'd like to see what\nyou're capable of.",
+    "Enabled": true
   },
   "530045": {
     "OriginalText": "武器の強化なら\nオレに任せてくれよ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Leave weapon upgrades to me!",
+    "Enabled": true
   },
   "530046": {
     "OriginalText": "まぁ、そろそろ真面目にやるとするか。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Well, guess I'll start taking this\nseriously.",
+    "Enabled": true
   },
   "530047": {
     "OriginalText": "万全な準備があれば、\n何も恐れることはない。",
-    "Text": "",
-    "Enabled": false
+    "Text": "With thorough preparation,\nthere's nothing to fear.",
+    "Enabled": true
   },
   "530048": {
     "OriginalText": "不安は尽きませんが、\nボクなりに頑張ります。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I'm full of worries, but\nI'll do my best in my own way.",
+    "Enabled": true
   },
   "530049": {
     "OriginalText": "オレの実力をご覧あれってな。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Behold my true skill!",
+    "Enabled": true
   },
   "530050": {
     "OriginalText": "この戦場なら、オレを本気にさせてくれそうや。",
-    "Text": "",
-    "Enabled": false
+    "Text": "This battlefield might just make me\nget serious.",
+    "Enabled": true
   },
   "530051": {
     "OriginalText": "やさしいところが取り柄だって、\n母によく言われます。",
-    "Text": "",
-    "Enabled": false
+    "Text": "My mom always says being kind\nis my strong point.",
+    "Enabled": true
   },
   "530052": {
     "OriginalText": "戦いがオレを待っている……。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Battle awaits me.",
+    "Enabled": true
   },
   "530053": {
     "OriginalText": "さっさと戦場に向かうぜ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Let's hurry to the battlefield!",
+    "Enabled": true
   },
   "530054": {
     "OriginalText": "戦闘は少し不得手でして……、\n書類仕事の方がお役に立てるかと思います。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I'm not great at combat, so\nI think I'd be more help with paperwork.",
+    "Enabled": true
   },
   "530055": {
     "OriginalText": "面白そうな戦場だね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Looks like an interesting battlefield.",
+    "Enabled": true
   },
   "530056": {
     "OriginalText": "おしゃああああ！\nやるぜーーー！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Hell yeaaaah!\nLet's do thiiis!",
+    "Enabled": true
   },
   "530057": {
     "OriginalText": "ふふ、僕に頼ってもらって\nかまいませんよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Hehe, feel free to rely on me.",
+    "Enabled": true
   },
   "530058": {
     "OriginalText": "余がいれば、万事解決じゃー！",
-    "Text": "",
-    "Enabled": false
+    "Text": "With me around, all will be resolved!",
+    "Enabled": true
   },
   "530059": {
     "OriginalText": "とりあえず、ぱーっとやって\nダーカーなんて蹴散らしてやろうや。",
-    "Text": "",
-    "Enabled": false
+    "Text": "For now, let's go all out &\nscatter those Darkers.",
+    "Enabled": true
   },
   "530060": {
     "OriginalText": "仕事と休憩のバランスは大事だよね、うん。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Balancing work & rest is important,\nyep.",
+    "Enabled": true
   },
   "530061": {
     "OriginalText": "力を尽くそう。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I'll give it my all.",
+    "Enabled": true
   },
   "530062": {
     "OriginalText": "これは面白い状況だね、\n気に入ったよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "What an interesting situation.\nI like it.",
+    "Enabled": true
   },
   "530063": {
     "OriginalText": "オラクルにいる時と違い、\n人員に限りがあります。\n適村適所を心がけましょう。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Unlike at Oracle, our personnel\nare limited. Let's put the right\npeople in the right places.",
+    "Enabled": true
   },
   "530064": {
     "OriginalText": "心配しなくても若い奴の足は引っ張らねえよ。\nまぁ見てなって。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Don't worry, I won't hold the young\nones back. Just watch.",
+    "Enabled": true
   },
   "530065": {
     "OriginalText": "さっさとしないと、置いていくぞ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Hurry up, or I'll leave you behind!",
+    "Enabled": true
   },
   "530066": {
     "OriginalText": "獲物が大きいほど\n狩り甲斐があるってものだ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "The bigger the prey, the more\nworthwhile the hunt.",
+    "Enabled": true
   },
   "530067": {
     "OriginalText": "ボクも皆さんのお役に立てるでしょうか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Can I be of help to everyone too?",
+    "Enabled": true
   },
   "530068": {
     "OriginalText": "あの、ボク皆さんのお役に\n立てますか……？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Um, can I be of help\nto everyone?",
+    "Enabled": true
   },
   "530069": {
     "OriginalText": "やっと、出番か。\n待ってたよ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Finally, my turn.\nI've been waiting!",
+    "Enabled": true
   },
   "530070": {
     "OriginalText": "私好みのかっこいい男の子と\n任務に出たいわ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "I want to go on missions with a\ncool guy who's just my type!",
+    "Enabled": true
   },
   "530071": {
     "OriginalText": "爺やの姿が見えんのだが、\nどこじゃ、爺や～、かくれんぼか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "I don't see my old butler.\nWhere are you? Hide-and-seek?",
+    "Enabled": true
   },
   "530072": {
     "OriginalText": "趣味はもちろん、ダーカーをブッ叩くことだ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "My hobby? Smashing Darkers, of course!",
+    "Enabled": true
   },
   "530073": {
     "OriginalText": "誰が老体じゃ！\nワシはまだまだ現役じゃ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Who are you calling old!\nI'm still in active service!",
+    "Enabled": true
   },
   "530074": {
     "OriginalText": "もっと早く起こしてほしかったな。\n２～３人分の働きは余裕でこなすよ？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Should've woken me sooner.\nI can easily do the work of 2 or 3.",
+    "Enabled": true
   },
   "530075": {
     "OriginalText": "オレ、結構強いぜ！\n戦ってみるか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "I'm pretty strong!\nWanna fight?",
+    "Enabled": true
   },
   "530076": {
     "OriginalText": "とりあえず、君の指示に従うよ、\nとりあえずはね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "For now, I'll follow your orders.\nFor now, anyway.",
+    "Enabled": true
   },
   "530077": {
     "OriginalText": "日々の積み重ねが\n己が糧になるのだ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Daily effort becomes\nyour own strength.",
+    "Enabled": true
   },
   "530078": {
     "OriginalText": "ん～、任務？\nもうちょっと休んでからいくよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Hmm, a mission?\nI'll go after a little more rest.",
+    "Enabled": true
   },
   "530079": {
     "OriginalText": "共に戦って戦って、戦いぬいてやろうぜ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Let's fight & fight & fight to the end\ntogether!",
+    "Enabled": true
   },
   "530080": {
     "OriginalText": "いいでしょう。\n私が出ますので、皆さんは休んでいいですよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Very well.\nI'll go out, so everyone can rest.",
+    "Enabled": true
   },
   "530081": {
     "OriginalText": "そんなにオレの力が見たいのか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "You want to see my power that badly?",
+    "Enabled": true
   },
   "530082": {
     "OriginalText": "……あれ？ なんでオレ、ここにいるんだ？\nまあいいか。細かいこと考えるより、\nちょっと体を動かしてーな。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Huh? Why am I here?\nOh well. Rather than thinking about\ndetails, I wanna move around a bit.",
+    "Enabled": true
   },
   "530083": {
     "OriginalText": "このセカイをオレがかえてやる！\nオレがオマエにホントの「ミライ」をみせてやるよ。\nだから、ついてこい！",
-    "Text": "",
-    "Enabled": false
+    "Text": "I'll change this world! I'll show you\nthe real \"future.\" So follow me!",
+    "Enabled": true
   },
   "530084": {
     "OriginalText": "それなりに修羅場はくぐってきたつもりだ。\n頼りにしてくれていい。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I've been through my share of hell.\nYou can count on me.",
+    "Enabled": true
   },
   "530085": {
     "OriginalText": "宇宙が呼んでいる。\nこの世の悪を倒せと、オレを呼んでいるんだ！\nわかるだろう、お前にだって？",
-    "Text": "",
-    "Enabled": false
+    "Text": "The universe is calling. Calling me\nto defeat the evil of this world!\nYou understand, don't you?",
+    "Enabled": true
   },
   "530086": {
     "OriginalText": "おっさんには、おっさんにしか出来ねえ\n戦い方があるんだぜ？",
-    "Text": "",
-    "Enabled": false
+    "Text": "There's a way of fighting only an\nold guy can pull off, you know?",
+    "Enabled": true
   },
   "530087": {
     "OriginalText": "どんな任務でも、問題ない。\nいくぞ。油断するなよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Any mission is no problem.\nLet's go. Don't let your guard down.",
+    "Enabled": true
   },
   "530088": {
     "OriginalText": "フォローは任せろ。\n後方から確実に狙い撃つ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Leave the backup to me.\nI'll snipe surely from the rear.",
+    "Enabled": true
   },
   "530089": {
     "OriginalText": "ほれ、はよワシを戦場へ案内せんかい！\n準備万端、ヤル気マンマンじゃて～！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Come on, hurry & take me to the\nbattlefield! I'm ready & raring to go!",
+    "Enabled": true
   },
   "530090": {
     "OriginalText": "空虚な夢など見ないことです。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Don't dream empty dreams.",
+    "Enabled": true
   },
   "530091": {
     "OriginalText": "いきなり起こされても困っちゃうよなぁ……",
-    "Text": "",
-    "Enabled": false
+    "Text": "Getting woken up out of nowhere\nis a hassle.",
+    "Enabled": true
   },
   "530092": {
     "OriginalText": "どこ？ どこだよ原生種は？\nオレがすぐにひねってやるぜ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Where? Where are the natives?\nI'll twist 'em up in no time!",
+    "Enabled": true
   },
   "530093": {
     "OriginalText": "なんだか、つまんなトコで起こされたみたいだね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Feels like I got woken up somewhere\nboring.",
+    "Enabled": true
   },
   "530094": {
     "OriginalText": "運が悪かったね……",
-    "Text": "",
-    "Enabled": false
+    "Text": "Tough luck.",
+    "Enabled": true
   },
   "530095": {
     "OriginalText": "なーんかパッとしないねー。\nいや、別に君のこと言ったんじゃないよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Kinda underwhelming.\nOh, I don't mean you.",
+    "Enabled": true
   },
   "530096": {
     "OriginalText": "真面目なだけが取り柄のつまらない者ですが\nよろしくお願いいたします。",
-    "Text": "",
-    "Enabled": false
+    "Text": "My only merit is being serious,\n& I'm dull, but I look forward to\nworking with you.",
+    "Enabled": true
   },
   "530097": {
     "OriginalText": "まずは己を知りましょう。",
-    "Text": "",
-    "Enabled": false
+    "Text": "First, know yourself.",
+    "Enabled": true
   },
   "530098": {
     "OriginalText": "出来ることは限られるかもしれませんが、\n足りない部分は努力で補います。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I may be limited in what I can do,\nbut I'll make up for it with effort.",
+    "Enabled": true
   },
   "530099": {
     "OriginalText": "断っておくけど実地経験ゼロなんで。\n行けばなんとかなるって聞いてきたんだけどー。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Just so you know, I've got zero field\nexperience. I heard I'd figure it out\nonce I got here.",
+    "Enabled": true
   },
   "530100": {
     "OriginalText": "某、この地に死に場所を求めて参った。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I came to this land seeking a place\nto die.",
+    "Enabled": true
   },
   "530101": {
     "OriginalText": "最後に生き残るのは、命知らずな奴じゃない。\n臆病な奴なんだぜ……",
-    "Text": "",
-    "Enabled": false
+    "Text": "The ones who survive in the end\naren't the reckless. They're the\ncowards.",
+    "Enabled": true
   },
   "530102": {
     "OriginalText": "余のサポートを申し付ける。ん？ 逆じゃな。\n余がそこもとのサポートをせねばならぬのか。\n本当は真っ平ごめんじゃが。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I order you to support me. Hm? Is it\nthe other way around? I must support\nyou? I'd really rather not.",
+    "Enabled": true
   },
   "530103": {
     "OriginalText": "戦うしかねぇだろ？ 戦うしか。",
-    "Text": "",
-    "Enabled": false
+    "Text": "We've got no choice but to fight,\nright? Just fight.",
+    "Enabled": true
   },
   "530104": {
     "OriginalText": "オレはオレのやりたいようにするぜ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I'll do things my own way.",
+    "Enabled": true
   },
   "530105": {
     "OriginalText": "いろいろ大変そうだけど\nやるしかないよね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Looks like a lot's going on, but we\njust have to do it.",
+    "Enabled": true
   },
   "530106": {
     "OriginalText": "まっ、期待以上の働きはするで！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Well, I'll work beyond expectations!",
+    "Enabled": true
   },
   "530107": {
     "OriginalText": "皆、私に続け！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Everyone, follow me!",
+    "Enabled": true
   },
   "530108": {
     "OriginalText": "皆の者、突撃だー！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Everyone, charge!",
+    "Enabled": true
   },
   "530109": {
     "OriginalText": "オレが作った防具を試してくれないか？！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Won't you try out armor I made!?",
+    "Enabled": true
   },
   "530110": {
     "OriginalText": "皆さんのサポート役として頑張ります。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I'll do my best as everyone's support.",
+    "Enabled": true
   },
   "530111": {
     "OriginalText": "皆のサポート役として力になろう。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I'll lend my strength as everyone's\nsupport.",
+    "Enabled": true
   },
   "530112": {
     "OriginalText": "このような状況ですから\n協力することは構いませんよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "In a situation like this,\nI don't mind cooperating.",
+    "Enabled": true
   },
   "530113": {
     "OriginalText": "欲するものがあるならば、申してみよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "If there's something you desire,\nspeak.",
+    "Enabled": true
   },
   "530114": {
     "OriginalText": "オレは、自由に戦いたいんでね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I want to fight freely.",
+    "Enabled": true
   },
   "530115": {
     "OriginalText": "未開の地か……。\n興味深いな！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Unexplored land, huh.\nFascinating!",
+    "Enabled": true
   },
   "530116": {
     "OriginalText": "なんじゃここは、未知の惑星か？\nそれなら探索しようぞ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "What is this place, an unknown planet?\nThen let's explore!",
+    "Enabled": true
   },
   "530117": {
     "OriginalText": "新しい任地に降り立つたびに\n新たなパートナーとの出会いを\n期待してしまいます。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Every time I land at a new post,\nI can't help hoping to meet a\nnew partner.",
+    "Enabled": true
   },
   "530118": {
     "OriginalText": "全てワシに任せておけばよい。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Just leave everything to me.",
+    "Enabled": true
   },
   "530119": {
     "OriginalText": "食う寝る着るの充実なくしては、\nクルーの土気は下がるばかりだろう。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Without good food, sleep, & clothes,\ncrew morale will only drop.",
+    "Enabled": true
   },
   "530120": {
     "OriginalText": "えっと、ボクは何をしましょうか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Um, what should I do?",
+    "Enabled": true
   },
   "530121": {
     "OriginalText": "おっしゃーいっくぜー！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Alright, let's gooo!",
+    "Enabled": true
   },
   "530122": {
     "OriginalText": "何なりとお申し付けください。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Ask anything of me.",
+    "Enabled": true
   },
   "530123": {
     "OriginalText": "ん、ボクの出番？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Hm, my turn?",
+    "Enabled": true
   },
   "530124": {
     "OriginalText": "戦場がワシを呼んでいるって\nヤツじゃな。",
-    "Text": "",
-    "Enabled": false
+    "Text": "The battlefield is calling me,\nas they say.",
+    "Enabled": true
   },
   "530125": {
     "OriginalText": "目覚めにひと暴れしたいもんやな。\n付き合ってくれるか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "I'd like to cut loose after waking up.\nWill you join me?",
+    "Enabled": true
   },
   "530126": {
     "OriginalText": "クラスには誰しも向き不向きがあります。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Everyone has classes they're suited\n& unsuited for.",
+    "Enabled": true
   },
   "530127": {
     "OriginalText": "そろそろクラスチェンジもいいかな、\nなんて考えてるんだ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I've been thinking maybe it's time\nfor a class change.",
+    "Enabled": true
   },
   "530128": {
     "OriginalText": "おらおら、さっさといくぜ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Come on, come on, let's go!",
+    "Enabled": true
   },
   "530129": {
     "OriginalText": "オレを戦場に出すというのか……。\nなかなかの英断だ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "You'll send me to the battlefield?\nQuite a wise decision.",
+    "Enabled": true
   },
   "530130": {
     "OriginalText": "やることは多そうだが、\nさて、何から手を付けたものか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Looks like lots to do. Now, where\nshould I start?",
+    "Enabled": true
   },
   "530131": {
     "OriginalText": "ボクでも役に立てることがあるならば\nお気軽にお声掛けください。",
-    "Text": "",
-    "Enabled": false
+    "Text": "If there's anything I can help with,\nfeel free to call on me.",
+    "Enabled": true
   },
   "530132": {
     "OriginalText": "泣き言は死んでから言え！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Save your whining for after you die!",
+    "Enabled": true
   },
   "530133": {
     "OriginalText": "本当の法撃の力を見せて差し上げます。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I'll show you the true power of Techs.",
+    "Enabled": true
   },
   "530134": {
     "OriginalText": "荒野にガンマンなんて\nなかなか絵になるロケ地だね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A gunman in the wasteland, now that's\na scenic shooting location.",
+    "Enabled": true
   },
   "530135": {
     "OriginalText": "この拠点には足りないものは\nヒーローだ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "What this base lacks is a hero!",
+    "Enabled": true
   },
   "530136": {
     "OriginalText": "久しぶりの現場で心が躍るわ。\nほな、よろしくな！",
-    "Text": "",
-    "Enabled": false
+    "Text": "My heart's racing, back in the field\nafter so long. Well then, nice to\nmeet ya!",
+    "Enabled": true
   },
   "530137": {
     "OriginalText": "ピッピーピピ、ピピピピー！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Pippi-pipi, pipipipi!",
+    "Enabled": true
   },
   "530138": {
     "OriginalText": "お前にも、闇を見せてやろうか……。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Shall I show you the darkness too?",
+    "Enabled": true
   },
   "530139": {
     "OriginalText": "共に戦おうじゃないか！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Let's fight together!",
+    "Enabled": true
   },
   "530140": {
     "OriginalText": "キミのお手並み拝見ってとこかな？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Let's see what you've got, shall we?",
+    "Enabled": true
   },
   "530141": {
     "OriginalText": "また、コールドスリープさせられんよう、\nぼちぼち頑張るか。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Guess I'll work at a steady pace so\nthey don't put me back in Cold Sleep.",
+    "Enabled": true
   },
   "530142": {
     "OriginalText": "えっと、僕はここにいても\nいいのでしょうか……？\nとにかく頑張ります！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Um, is it okay for me to be here?\nAnyway, I'll do my best!",
+    "Enabled": true
   },
   "530143": {
     "OriginalText": "状況を打破するために\nオレの力が必要ってか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "You need my power to break\nthrough this situation?",
+    "Enabled": true
   },
   "530144": {
     "OriginalText": "どいつもこいつもオレばっか頼りやがって。\nちっ、しかたねえな。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Everyone keeps relying on me.\nTch, fine, can't be helped.",
+    "Enabled": true
   },
   "530145": {
     "OriginalText": "その胸に正義があれば\n負けることはない！",
-    "Text": "",
-    "Enabled": false
+    "Text": "If there's justice in your heart,\nyou won't lose!",
+    "Enabled": true
   },
   "530146": {
     "OriginalText": "よっ！ アンタ、おれの相棒になってくれるのか？\nま、よろしくな！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Yo! You're gonna be my partner?\nWell, nice to meet ya!",
+    "Enabled": true
   },
   "530147": {
     "OriginalText": "言っとくけど、オレ強いんだぜ？\n見た目で判断するなよ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Just so you know, I'm strong!\nDon't judge by looks!",
+    "Enabled": true
   },
   "530148": {
     "OriginalText": "先陣を切るのは、オレだ。\n他の奴らに譲る気はねえよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I'm leading the charge. Not handing\nit to anyone else.",
+    "Enabled": true
   },
   "530149": {
     "OriginalText": "ここまで、夢で見た通りの展開だ……\nさあ、案内してもらおうか。",
-    "Text": "",
-    "Enabled": false
+    "Text": "So far, it's going just like my dream.\nNow, lead the way.",
+    "Enabled": true
   },
   "530150": {
     "OriginalText": "けっ、\nオレに逆らうヤツはみんなバラバラにしてやるぜ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Heh, anyone who defies me gets\ntorn to pieces!",
+    "Enabled": true
   },
   "530151": {
     "OriginalText": "なんや、オレの出番かいな？\nおーっし、ぎょーさん稼いで\nたんまり仕送りしたるさかい、まっとれよ、オカン！",
-    "Text": "",
-    "Enabled": false
+    "Text": "What, my turn? Alright, I'll earn a\nton & send plenty home, so wait for\nme, Ma!",
+    "Enabled": true
   },
   "530152": {
     "OriginalText": "もう少しシャキっとしなきゃって\n自分でも思うんだけどね……",
-    "Text": "",
-    "Enabled": false
+    "Text": "I know I should shape up a bit more,\nmyself.",
+    "Enabled": true
   },
   "530153": {
     "OriginalText": "辺境の惑星をいくつも生き延びたワシには\nこの程度の惑星はビビるに値せんぞい！",
-    "Text": "",
-    "Enabled": false
+    "Text": "I've survived many a frontier planet!\nA planet like this ain't worth\ngetting scared over!",
+    "Enabled": true
   },
   "530154": {
     "OriginalText": "とてもいい気分です。\nきっと、あなたと会えたからですね！",
-    "Text": "",
-    "Enabled": false
+    "Text": "I feel wonderful. It must be because\nI met you!",
+    "Enabled": true
   },
   "530155": {
     "OriginalText": "ゆるーく探索にでも出てみよっかな。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Maybe I'll head out for a laid-back\nexploration.",
+    "Enabled": true
   },
   "530156": {
     "OriginalText": "もうかりまっか？\nオレの方はまあ、ぼちぼちでんな。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Making money? Me, I'm doing so-so.",
+    "Enabled": true
   },
   "530157": {
     "OriginalText": "俺にふさわしい絶望の舞台が用意されてるな。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A stage of despair fit for me has\nbeen prepared.",
+    "Enabled": true
   },
   "530158": {
     "OriginalText": "おぬしら、ワシの第３の眼が開く瞬間の\n生き証人になってもらおうかいの！",
-    "Text": "",
-    "Enabled": false
+    "Text": "You lot will be living witnesses to\nthe moment my third eye opens!",
+    "Enabled": true
   },
   "530159": {
     "OriginalText": "さくっと戦場に出てみたいな。\nツインマシンガンならいつでも教えるぜ？",
-    "Text": "",
-    "Enabled": false
+    "Text": "I wanna hop onto the battlefield.\nI'll teach Twin Machine Guns anytime!",
+    "Enabled": true
   },
   "530160": {
     "OriginalText": "やっぱり俺の力が必要ってことだろ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "So you need my power after all!",
+    "Enabled": true
   },
   "530161": {
     "OriginalText": "まぁ、このくらいの状況\n僕が何とかしてあげるよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Well, I'll take care of a situation\nlike this for you.",
+    "Enabled": true
   },
   "530162": {
     "OriginalText": "オレの活躍ちゃんと見てくれよな！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Make sure you watch me shine!",
+    "Enabled": true
   },
   "530163": {
     "OriginalText": "なにゆえ我らは戦わねばならぬのか……\nそこにダーカーがいるからと心得たり！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Why must we fight? Because Darkers\nare there, I understand!",
+    "Enabled": true
   },
   "530164": {
     "OriginalText": "ボクって結構役に立つと思うんだよね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I think I'm pretty useful, you know.",
+    "Enabled": true
   },
   "530165": {
     "OriginalText": "困難な状況ほど腕が鳴るってな。",
-    "Text": "",
-    "Enabled": false
+    "Text": "The tougher things are, the more I\nitch to show my skill.",
+    "Enabled": true
   },
   "530166": {
     "OriginalText": "まっ、そんな固い顔するなよ。\n気楽にいこうぜ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Hey, don't look so stiff.\nLet's take it easy.",
+    "Enabled": true
   },
   "530167": {
     "OriginalText": "オレに任せておけば問題はない。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Leave it to me & there's no problem.",
+    "Enabled": true
   },
   "530168": {
     "OriginalText": "まだまだ力不足だと思いますが\n精いっぱい頑張ります！",
-    "Text": "",
-    "Enabled": false
+    "Text": "I know I'm still lacking, but\nI'll do my very best!",
+    "Enabled": true
   },
   "530169": {
     "OriginalText": "起こしていただけて光栄ですね。\n最善を尽くしましょう。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I'm honored you woke me.\nLet's do our best.",
+    "Enabled": true
   },
   "530170": {
     "OriginalText": "余のサポートを申し付けるぞ。\n光栄じゃろう！",
-    "Text": "",
-    "Enabled": false
+    "Text": "I order you to support me.\nYou should be honored!",
+    "Enabled": true
   },
   "530171": {
     "OriginalText": "かわいい女の子のためなら\n働いてもいいかな、なんてね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "For a cute girl, I might\nwork, just kidding.",
+    "Enabled": true
   },
   "530172": {
     "OriginalText": "商才には覚えがあるぜ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I've got a head for business.",
+    "Enabled": true
   },
   "530173": {
     "OriginalText": "えっと、ご指導よろしくお願いします！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Um, I look forward to your guidance!",
+    "Enabled": true
   },
   "530174": {
     "OriginalText": "狩りなら今すぐ出掛けてもいいぜ？",
-    "Text": "",
-    "Enabled": false
+    "Text": "If it's hunting, I can go right now!",
+    "Enabled": true
   },
   "530175": {
     "OriginalText": "へへっ、ここなら暴れがいがありそうだ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Heh, looks like I can really cut\nloose here!",
+    "Enabled": true
   },
   "530176": {
     "OriginalText": "いくつになろうと、新しいことへの\n興味を忘れてはいかんのだぞ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "No matter how old you get, you\nmustn't forget your interest in new\nthings.",
+    "Enabled": true
   },
   "530177": {
     "OriginalText": "まっとりあえずよろしく！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Well, nice to meet ya for now!",
+    "Enabled": true
   },
   "530178": {
     "OriginalText": "どんな状況でも実力を発揮できてこそ\nいいアークスってもんだろ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A good ARKS can show their skill\nin any situation, right?",
+    "Enabled": true
   },
   "530179": {
     "OriginalText": "オレの出番のようだ。\nふん、仕方ない。手を貸してやろう。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Looks like it's my turn. Hmph,\ncan't be helped. I'll lend a hand.",
+    "Enabled": true
   },
   "530180": {
     "OriginalText": "はじめまして！\nよろしくお願いします！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Nice to meet you!\nI look forward to working with you!",
+    "Enabled": true
   },
   "530181": {
     "OriginalText": "このような状況だからこそ\nまずは深呼吸で落ち着くことが大切ですよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "In a situation like this, it's\nimportant to calm down with a deep\nbreath first.",
+    "Enabled": true
   },
   "530182": {
     "OriginalText": "色々めんどーなことが\n起きてるみたいだが、\nまぁ何とかしてやるよ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Looks like lots of troublesome stuff\nis happening, but I'll handle it!",
+    "Enabled": true
   },
   "530183": {
     "OriginalText": "戦場に出ないと、コールドスリープから\n目覚めても起きた気分がしないよな！",
-    "Text": "",
-    "Enabled": false
+    "Text": "If I don't hit the battlefield, I\ndon't feel awake even after Cold Sleep!",
+    "Enabled": true
   },
   "530184": {
     "OriginalText": "武器は確かな腕にこそ馴染むものですね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A weapon only fits a truly skilled hand.",
+    "Enabled": true
   },
   "530185": {
     "OriginalText": "どんなかわいいエネミーちゃんと\n出会えるか楽しみだわ～！",
-    "Text": "",
-    "Enabled": false
+    "Text": "I can't wait to see what cute enemy\ncuties I'll meet!",
+    "Enabled": true
   },
   "530186": {
     "OriginalText": "まぁ、のんびりいこうや。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Well, let's take it easy.",
+    "Enabled": true
   },
   "530187": {
     "OriginalText": "僕だってやれるんだ……！",
-    "Text": "",
-    "Enabled": false
+    "Text": "I can do it too!",
+    "Enabled": true
   },
   "530188": {
     "OriginalText": "では、参る！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Then, here I come!",
+    "Enabled": true
   },
   "530189": {
     "OriginalText": "急いでも損するだけだよ。\nゆっくり頑張ろうか。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Rushing only costs you.\nLet's take it slow & steady.",
+    "Enabled": true
   },
   "530190": {
     "OriginalText": "経験に勝る武器はない。\nそれは戦場にしか落ちていない。",
-    "Text": "",
-    "Enabled": false
+    "Text": "No weapon beats experience, & it's\nonly found on the battlefield.",
+    "Enabled": true
   },
   "530191": {
     "OriginalText": "ライフルを持ってると\nテンション上がってまうわ～。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Holding a rifle just gets me\nso pumped!",
+    "Enabled": true
   },
   "530192": {
     "OriginalText": "いきなり仕事か？\nまっ、やってやるさ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Work right away?\nWell, I'll do it!",
+    "Enabled": true
   },
   "530193": {
     "OriginalText": "コスチューム製作にも、法撃にも\n繊細なセンスってものが必要なんだ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Making costumes & casting Techs both\ntake a delicate sense.",
+    "Enabled": true
   },
   "530194": {
     "OriginalText": "皆の者、我に続けー！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Everyone, follow me!",
+    "Enabled": true
   },
   "530195": {
     "OriginalText": "どうじゃ、このコスチューム、\nとげとげでかっこいーじゃろ！？",
-    "Text": "",
-    "Enabled": false
+    "Text": "How's this costume? All spiky &\ncool, right!?",
+    "Enabled": true
   },
   "530196": {
     "OriginalText": "キミの采配で僕の力を\n発揮させられるかな？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Can your command bring out\nmy power?",
+    "Enabled": true
   },
   "530197": {
     "OriginalText": "なかなかおもしろそうな新兵器だ。\n使うのが楽しみだよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A pretty interesting new weapon.\nCan't wait to use it.",
+    "Enabled": true
   },
   "530198": {
     "OriginalText": "ヒュペリオンさんみたいな\n戦う料理人っていうのもいいですよね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A fighting cook like Hyperion sounds\nnice too, doesn't it?",
+    "Enabled": true
   },
   "530199": {
     "OriginalText": "状況が悪ければ悪いほど\n燃えるってもんだろ？",
-    "Text": "",
-    "Enabled": false
+    "Text": "The worse things get, the more\nfired up you get, right?",
+    "Enabled": true
   },
   "530200": {
     "OriginalText": "オレを起こそうってのか……？\nその度胸だけは評価してやる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "You're waking me up? I'll give you\ncredit for the guts, at least.",
+    "Enabled": true
   },
   "530201": {
     "OriginalText": "生きて還る姿をイメージしましょう。\nすべてはそこから始まるはずです。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Picture yourself returning alive.\nThat's where everything begins.",
+    "Enabled": true
   },
   "530202": {
     "OriginalText": "そんなに急かすなよ。\n真打ってのは遅れて登場するもんだろ？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Don't rush me. The headliner always\nshows up late, right?",
+    "Enabled": true
   },
   "530203": {
     "OriginalText": "新武器の使い心地を確かめてみます。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I'll test out how the new weapon feels.",
+    "Enabled": true
   },
   "530204": {
     "OriginalText": "この部隊はいい男が多くて\n目の保養になるわ～。",
-    "Text": "",
-    "Enabled": false
+    "Text": "This unit has lots of handsome guys.\nA real treat for the eyes!",
+    "Enabled": true
   },
   "530205": {
     "OriginalText": "心技体、全てが揃ってこそ\n良い仕事ができるものぞ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Mind, skill, & body, only with all\nthree can you do good work.",
+    "Enabled": true
   },
   "530206": {
     "OriginalText": "フフ……「黒達下」とも呼ばれる吾輩の力\n存分に見せてやろう！\n……言っておくが、敵ではないぞ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Heh, behold the power of the one\ncalled \"Black Lord\"! Just so you know,\nI'm not your enemy.",
+    "Enabled": true
   },
   "530207": {
     "OriginalText": "『セガエイギョーマン』っす！\nよろしくっす！",
-    "Text": "",
-    "Enabled": false
+    "Text": "I'm \"Sega Eigyou Man\"!\nNice to meet ya!",
+    "Enabled": true
   },
   "530208": {
     "OriginalText": "オマエガヒツヨウトスルナラバ。\nオマエノタタカイノ、チカラニナロウ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "IF YOU REQUIRE ME, I SHALL BECOME\nPOWER FOR YOUR BATTLE.",
+    "Enabled": true
   },
   "530209": {
     "OriginalText": "我が名は『ハルライン』。\n推して参る！",
-    "Text": "",
-    "Enabled": false
+    "Text": "My name is \"Halline.\"\nHere I come!",
+    "Enabled": true
   },
   "530210": {
     "OriginalText": "噂は聞いてるぞ。お前、強いんだろ？\n期待してるぜ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "I've heard the rumors. You're strong,\nright? I'm counting on you!",
+    "Enabled": true
   },
   "530211": {
     "OriginalText": "言葉はいらぬ。\n戦土は、ただ拳で語ればよい。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Words are not needed. A warrior\nspeaks only with fists.",
+    "Enabled": true
   },
   "530212": {
     "OriginalText": "オレを起こさねばならぬほど、\n事態は切迫している……そういうことか。\nククク……面白い。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Things are dire enough that you had\nto wake me? Heh heh heh, interesting.",
+    "Enabled": true
   },
   "530213": {
     "OriginalText": "私に過大な期待をかけられても困りますが……",
-    "Text": "",
-    "Enabled": false
+    "Text": "Please don't expect too much of me.",
+    "Enabled": true
   },
   "530214": {
     "OriginalText": "おいおい、一番元気なこのオレを\n一番に起こしてくれなきゃ困るなぁ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Hey now, you should've woken me first,\nsince I'm the most energetic!",
+    "Enabled": true
   },
   "530215": {
     "OriginalText": "実はつまんねぇモンだぜ。\nアークスなんて生き方はよ……",
-    "Text": "",
-    "Enabled": false
+    "Text": "Truth is, it's a dull life. Living\nas an ARKS, that is.",
+    "Enabled": true
   },
   "530216": {
     "OriginalText": "まだまだ問題が山積しているようですね。\n一つ一つ確実に潰していきましょう。",
-    "Text": "",
-    "Enabled": false
+    "Text": "It seems problems are still piling up.\nLet's crush them one at a time.",
+    "Enabled": true
   },
   "530217": {
     "OriginalText": "ああーっ！ もうジッとしてるのはたくさんだ！\n早く出撃しようぜ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Argh! I'm sick of sitting still!\nLet's sortie already!",
+    "Enabled": true
   },
   "530218": {
     "OriginalText": "起こしたのが私みたいな子で……\n問題なかったんでしょうか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Was it really okay that you woke\na girl like me?",
+    "Enabled": true
   },
   "530219": {
     "OriginalText": "誰がこの私を指導してくれるのかしら？",
-    "Text": "",
-    "Enabled": false
+    "Text": "I wonder who will be guiding me?",
+    "Enabled": true
   },
   "530220": {
     "OriginalText": "こんな壊れた[ruby ふね]艦[/ruby]で大丈夫なの？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Will we be okay on a ship this broken?",
+    "Enabled": true
   },
   "530221": {
     "OriginalText": "なんだか大変そうだけど、ワクワクするね！",
-    "Text": "",
-    "Enabled": false
+    "Text": "It looks tough, but I'm excited!",
+    "Enabled": true
   },
   "530222": {
     "OriginalText": "日頃の鍛錬を生かせる機会をようやく得られて、\n戦場に出るのがとても楽しみよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I've finally got a chance to use my\ndaily training. I can't wait to hit\nthe battlefield.",
+    "Enabled": true
   },
   "530223": {
     "OriginalText": "やっほー！ フォースとしてはまだまだだけど、\n元気なら負けないよ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Hiya! I'm still a novice Force, but\nnobody beats my energy!",
+    "Enabled": true
   },
   "530224": {
     "OriginalText": "アサルトライフルしかできないけど\n頑張るよっ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Assault Rifles are all I can do,\nbut I'll do my best!",
+    "Enabled": true
   },
   "530225": {
     "OriginalText": "なんだか面倒なことになっているようね。\nまぁ、その方が面白いってもんね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Looks like things got troublesome.\nWell, that just makes it more fun.",
+    "Enabled": true
   },
   "530226": {
     "OriginalText": "こんな状況だし、手伝ってあげるよ。\nあんただけじゃ心配だからね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Given the situation, I'll help you.\nI'm worried with just you around.",
+    "Enabled": true
   },
   "530227": {
     "OriginalText": "可能な限り助力します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I'll assist as much as possible.",
+    "Enabled": true
   },
   "530228": {
     "OriginalText": "ふふ、よろしくね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Hehe, nice to meet you.",
+    "Enabled": true
   },
   "530229": {
     "OriginalText": "一緒に頑張ろうぜ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Let's do our best together!",
+    "Enabled": true
   },
   "530230": {
     "OriginalText": "このような状況下だからこそ\n見えてくるものがある。",
-    "Text": "",
-    "Enabled": false
+    "Text": "It's precisely in a situation like\nthis that you see some things.",
+    "Enabled": true
   },
   "530231": {
     "OriginalText": "私の力をそこで見ているといいわ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "You can watch my power from there.",
+    "Enabled": true
   },
   "530232": {
     "OriginalText": "ロッド大好き！ 任務大好き！ みんな大好き！\n出撃を楽しみにしてるね！",
-    "Text": "",
-    "Enabled": false
+    "Text": "I love Rods! I love missions! I love\neveryone! I can't wait to sortie!",
+    "Enabled": true
   },
   "530233": {
     "OriginalText": "私は私の役目を果たすだけです。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I'll just fulfill my role.",
+    "Enabled": true
   },
   "530234": {
     "OriginalText": "こんな状況で何ができる分かりませんが、\n私なりに頑張ります。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I don't know what I can do in a\nsituation like this, but I'll do my\nbest in my own way.",
+    "Enabled": true
   },
   "530235": {
     "OriginalText": "後方支援に徹したいけど\n戦う者を見ていると暴れたくなってしまう。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I want to stick to rear support, but\nseeing fighters makes me want to\ncut loose.",
+    "Enabled": true
   },
   "530236": {
     "OriginalText": "悩んでもしょうがないよ！\n一緒にガンバロ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "No use worrying!\nLet's do our best together!",
+    "Enabled": true
   },
   "530237": {
     "OriginalText": "戦闘に参加したら、\nせっかくのおにゅーの洋服が汚れちゃうわ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "If I join the fight, my brand-new\nclothes will get dirty.",
+    "Enabled": true
   },
   "530238": {
     "OriginalText": "後方支援をメインに協力させて\nいただければと思います。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I'd like to help mainly with\nrear support.",
+    "Enabled": true
   },
   "530239": {
     "OriginalText": "いつでも元気いっぱいです！",
-    "Text": "",
-    "Enabled": false
+    "Text": "I'm always full of energy!",
+    "Enabled": true
   },
   "530240": {
     "OriginalText": "私の戦闘経験を参考にして作った\n防具を装備してみないか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Want to equip armor I made based on\nmy combat experience?",
+    "Enabled": true
   },
   "530241": {
     "OriginalText": "こう見えても、手先は器用な方なんだ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "I may not look it, but I'm pretty\ngood with my hands!",
+    "Enabled": true
   },
   "530242": {
     "OriginalText": "ほらっ、さっさとしないと置いてくよ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Come on, hurry up or I'll leave you\nbehind!",
+    "Enabled": true
   },
   "530243": {
     "OriginalText": "地表での生活なんて斬新！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Living on the surface? How novel!",
+    "Enabled": true
   },
   "530244": {
     "OriginalText": "過ぎたことで悩んでも仕方ない。\n今は前に進むだけだ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "No use worrying about the past.\nAll we can do is move forward.",
+    "Enabled": true
   },
   "530245": {
     "OriginalText": "細かい作業は得意よ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I'm good at detailed work.",
+    "Enabled": true
   },
   "530246": {
     "OriginalText": "状況を知れば知るほど、考えることは多いですが\nやるべきことをやっていきましょう。",
-    "Text": "",
-    "Enabled": false
+    "Text": "The more we learn, the more there is to\nthink about, but let's do what we must.",
+    "Enabled": true
   },
   "530247": {
     "OriginalText": "調子はどお？ 元気出さなきゃダメだよ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "How are you doing? You've gotta cheer up!",
+    "Enabled": true
   },
   "530248": {
     "OriginalText": "派手に敵を蹴散らしてあげるわ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I'll scatter the enemies in style.",
+    "Enabled": true
   },
   "530249": {
     "OriginalText": "まずは状況の整理が肝要だ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "First, sorting out the situation is key.",
+    "Enabled": true
   },
   "530250": {
     "OriginalText": "戦闘も大事ですけど、後方支援をもっと\n充実させたいと思っています。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Combat matters, but I'd like to\nstrengthen our rear support more.",
+    "Enabled": true
   },
   "530251": {
     "OriginalText": "下を向いている暇はないぞ。\n己がなすべきことを成せ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "No time to look down.\nDo what you must.",
+    "Enabled": true
   },
   "530252": {
     "OriginalText": "拠点でみんなの活躍を\n見守らせてもらうわ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I'll be watching everyone's work\nfrom the base.",
+    "Enabled": true
   },
   "530253": {
     "OriginalText": "フフ、一緒にダーカーを狩りに\nいきましょー。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Hehe, let's go hunt Darkers\ntogether.",
+    "Enabled": true
   },
   "530254": {
     "OriginalText": "まだまだ、苦手なことが多いですが\nご指導よろしくお願いします。",
-    "Text": "",
-    "Enabled": false
+    "Text": "There's still a lot I'm bad at, but\nI look forward to your guidance.",
+    "Enabled": true
   },
   "530255": {
     "OriginalText": "何か手伝えることはありますか？\n遠慮しなくていいですよ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Is there anything I can help with?\nDon't hold back!",
+    "Enabled": true
   },
   "530256": {
     "OriginalText": "強き力は強き精神に宿るものだぞ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Great strength dwells in a strong spirit.",
+    "Enabled": true
   },
   "530257": {
     "OriginalText": "争いは好みませんが\nこの拠点を守るためなら力を貸しましょう。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I don't like fighting, but I'll lend\nmy power to protect this base.",
+    "Enabled": true
   },
   "530258": {
     "OriginalText": "戦闘に関することは私に任せておきなさい。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Leave anything combat-related to me.",
+    "Enabled": true
   },
   "530259": {
     "OriginalText": "食は全ての根幹ですよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Food is the foundation of everything.",
+    "Enabled": true
   },
   "530260": {
     "OriginalText": "難しいことは後回しにして\nまず現場の状況を見せてもらおうか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Let's leave the hard stuff for later.\nFirst, show me how things are on site.",
+    "Enabled": true
   },
   "530261": {
     "OriginalText": "フォトンをまるで感じない……\nどうなっているのかしら、ここは？",
-    "Text": "",
-    "Enabled": false
+    "Text": "I can't feel any photons at all.\nWhat's going on with this place?",
+    "Enabled": true
   },
   "530262": {
     "OriginalText": "ここから先はキルノに任せなさい！",
-    "Text": "",
-    "Enabled": false
+    "Text": "From here on, leave it to Kirno!",
+    "Enabled": true
   },
   "530263": {
     "OriginalText": "カナ、みんなの力になれますか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Can Kana be of help to everyone?",
+    "Enabled": true
   },
   "530264": {
     "OriginalText": "……あ、あの。\n前が見え、ないです……。",
-    "Text": "",
-    "Enabled": false
+    "Text": "U-um,\nI can't, see ahead.",
+    "Enabled": true
   },
   "530265": {
     "OriginalText": "私のツインマシンガン、錆びついていないかしら？\n早く確かめに出たいわね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I wonder if my Twin Machine Guns have\nrusted? I want to go check soon.",
+    "Enabled": true
   },
   "530266": {
     "OriginalText": "どんなに大きな敵も\n私の前にひれ伏せさせてあげるわ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "No matter how big the enemy, I'll make\nit bow before me.",
+    "Enabled": true
   },
   "530267": {
     "OriginalText": "まずは拠点にフィーリンちゃんの\nライブ会場を作らなきゃね！",
-    "Text": "",
-    "Enabled": false
+    "Text": "First, we've gotta build a concert\nvenue for Feelin at the base!",
+    "Enabled": true
   },
   "530268": {
     "OriginalText": "とりあえず、お茶でも飲みながら\n状況の説明をお願いできるかしら？",
-    "Text": "",
-    "Enabled": false
+    "Text": "For now, could you explain the\nsituation over some tea?",
+    "Enabled": true
   },
   "530269": {
     "OriginalText": "あんまり見つめられると\n照れちゃうよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "If you stare at me too much,\nI'll get embarrassed.",
+    "Enabled": true
   },
   "530270": {
     "OriginalText": "話はまだ少ししか聞いていないけど、\n私に出来ることはいろいろありそうね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I've only heard a little, but it looks\nlike there's plenty I can do.",
+    "Enabled": true
   },
   "530271": {
     "OriginalText": "あなたが、わたしのマスター？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Are you my master?",
+    "Enabled": true
   },
   "530272": {
     "OriginalText": "ふわぁ～、ちょっとお休みしすぎちゃったな……\nエース目指して、頑張らなくちゃ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Yawn, I overslept a bit.\nI've gotta work hard to become an ace!",
+    "Enabled": true
   },
   "530273": {
     "OriginalText": "お前は、この厳しい環境を楽しめるか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Can you enjoy this harsh environment?",
+    "Enabled": true
   },
   "530274": {
     "OriginalText": "何か手伝えることない？\nどんと任せてよ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Anything I can help with?\nLeave it to me!",
+    "Enabled": true
   },
   "530275": {
     "OriginalText": "オレもお前達と一緒に\n暴れたいぜー！",
-    "Text": "",
-    "Enabled": false
+    "Text": "I wanna cut loose with you guys too!",
+    "Enabled": true
   },
   "530276": {
     "OriginalText": "ふう、何この空気……？\nみんなよくこんなとこで仕事できるわね。\nまずは環境の改善が必要ね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Phew, what's with this air? How can\neveryone work here? First we need to\nimprove the environment.",
+    "Enabled": true
   },
   "530277": {
     "OriginalText": "あなたの下で働けることを\n嬉しく思います。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I'm glad to be working under you.",
+    "Enabled": true
   },
   "530278": {
     "OriginalText": "戦うときは戦う、休む時は休む。\n仕事ができるやつは切り替えがうまいんだ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Fight when it's time to fight, rest\nwhen it's time to rest. Good workers\nknow how to switch gears.",
+    "Enabled": true
   },
   "530279": {
     "OriginalText": "まだまだ勉強中だから\nここでの経験はすっごく役に立つと思うんだ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "I'm still learning, so I think the\nexperience here will be super useful!",
+    "Enabled": true
   },
   "530280": {
     "OriginalText": "女は度胸、\n気合入れていきますよ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Women need guts!\nLet's get fired up!",
+    "Enabled": true
   },
   "530281": {
     "OriginalText": "いい眼をしているな。\nお前となら、互いに刺激し合える\nいい関係になれそうだ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "You've got good eyes. With you, I think\nwe'd push each other & make a good\nteam.",
+    "Enabled": true
   },
   "530282": {
     "OriginalText": "私、すっごく強いよ？\nねえ、見たい？ 見たいよね？",
-    "Text": "",
-    "Enabled": false
+    "Text": "I'm super strong, you know?\nHey, wanna see? You wanna see, right?",
+    "Enabled": true
   },
   "530283": {
     "OriginalText": "ええっと、スリーサイズは上から\n１０２、１１０、１０８やったかなぁ？\nふふ、「ピッツァ」が好きなんですわ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Let's see, my measurements from the top\nare 102, 110, 108, I think?\nHehe, I just love \"pizza.\"",
+    "Enabled": true
   },
   "530284": {
     "OriginalText": "どんな任務も楽勝よ。\nあなた、足手まといになんないでよ？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Any mission is a piece of cake.\nDon't you drag me down, okay?",
+    "Enabled": true
   },
   "530285": {
     "OriginalText": "雷の攻撃が得意なの。\n吸引力が私の魅力よ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "I'm good with lightning attacks.\nMy magnetism is my charm!",
+    "Enabled": true
   },
   "530286": {
     "OriginalText": "後ろのことはお姉さんに任せなさいって。\nさあ、頑張っていこーっ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Leave the rear to your big sister.\nCome on, let's give it our all!",
+    "Enabled": true
   },
   "530287": {
     "OriginalText": "私、のんびり屋さんなので\nボーっとしてたら叱ってくださいね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I'm pretty laid-back, so scold me\nif I'm spacing out.",
+    "Enabled": true
   },
   "530288": {
     "OriginalText": "どうかしたの？\nなんだか元気ないんじゃない？",
-    "Text": "",
-    "Enabled": false
+    "Text": "What's wrong?\nYou don't seem very energetic.",
+    "Enabled": true
   },
   "530289": {
     "OriginalText": "仲良しさんになろうね？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Let's be good friends, okay?",
+    "Enabled": true
   },
   "530290": {
     "OriginalText": "いつまで私をここに放っておくつもりかしら？",
-    "Text": "",
-    "Enabled": false
+    "Text": "How long do you plan to leave me here?",
+    "Enabled": true
   },
   "530291": {
     "OriginalText": "信頼できる仲間に出会えて嬉しいわ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I'm happy to meet comrades I can trust.",
+    "Enabled": true
   },
   "530292": {
     "OriginalText": "健康状態は、問題ないと思います。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I don't think there are any health\nproblems.",
+    "Enabled": true
   },
   "530293": {
     "OriginalText": "状況を整理して、１つずつ問題を片付けましょう。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Let's sort out the situation & solve\nthe problems one by one.",
+    "Enabled": true
   },
   "530294": {
     "OriginalText": "友達からは癒し系だって言われるので、\n先輩たちを癒してあげたいですね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "My friends say I'm soothing, so I'd\nlike to help my seniors relax.",
+    "Enabled": true
   },
   "530295": {
     "OriginalText": "みんなで力を合わせれば、\nどんな難題もきっと解決できるはずです",
-    "Text": "",
-    "Enabled": false
+    "Text": "If we all join forces, we can surely\nsolve any problem.",
+    "Enabled": true
   },
   "530296": {
     "OriginalText": "どう生きるべきか、悩んでいましたが、\n目が覚めても答えは見つかりませんでした。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I was troubled about how to live, but\neven after waking up, I haven't found\nthe answer.",
+    "Enabled": true
   },
   "530297": {
     "OriginalText": "今すぐ戦場へ出かけてもいいのよ？",
-    "Text": "",
-    "Enabled": false
+    "Text": "I can head to the battlefield right\nnow, you know?",
+    "Enabled": true
   },
   "530298": {
     "OriginalText": "パルチザンしか能のないダメな子です……",
-    "Text": "",
-    "Enabled": false
+    "Text": "I'm a useless kid who's only good\nwith a partisan.",
+    "Enabled": true
   },
   "530299": {
     "OriginalText": "戦闘で片がつくことでしたら\n私に任せてください。",
-    "Text": "",
-    "Enabled": false
+    "Text": "If it can be settled by fighting,\nleave it to me.",
+    "Enabled": true
   },
   "530300": {
     "OriginalText": "実戦経験は不足気味かもしれないが、\n足りない部分は理論で補う。それが私のやり方だ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I may lack combat experience, but I\nmake up for it with theory. That's\nmy way.",
+    "Enabled": true
   },
   "530301": {
     "OriginalText": "少し静かにしてくださるかしら？\n私、寝覚めが悪くて疲れていますの……",
-    "Text": "",
-    "Enabled": false
+    "Text": "Could you be a bit quieter? I woke up\non the wrong side of the bed & I'm tired.",
+    "Enabled": true
   },
   "530302": {
     "OriginalText": "ずいぶん辺鄙なところねえ。\nまぁ、どんなところであろうと\n私が何とかしてあげるわ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "What a remote place. Well, wherever it\nis, I'll take care of it for you.",
+    "Enabled": true
   },
   "530303": {
     "OriginalText": "ノッコだよ～！\nソード絶賛練習中、パートナー絶賛募集中だよ～！",
-    "Text": "",
-    "Enabled": false
+    "Text": "It's Nokko! Practicing Swords like\ncrazy & looking for a partner like\ncrazy!",
+    "Enabled": true
   },
   "530304": {
     "OriginalText": "まさかこんな状況とはな。\n忙しくなりそうだ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Didn't expect a situation like this.\nIt's gonna get busy!",
+    "Enabled": true
   },
   "530305": {
     "OriginalText": "さぁ、力を合わせて行こうか。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Now, let's join forces.",
+    "Enabled": true
   },
   "530306": {
     "OriginalText": "自動メンテナンス、完了。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Automatic maintenance, complete.",
+    "Enabled": true
   },
   "530307": {
     "OriginalText": "おっはよーー！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Good morniiing!",
+    "Enabled": true
   },
   "530308": {
     "OriginalText": "さあて、何から始めようかしら？\n忙しくなりそうね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Now, where should I start?\nLooks like it'll get busy.",
+    "Enabled": true
   },
   "530309": {
     "OriginalText": "こんな茶色ばっかりの場所じゃ滅入っちゃう。\n空くらいカラッと晴れてて欲しいものね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A place this brown is depressing.\nI wish at least the sky were clear.",
+    "Enabled": true
   },
   "530310": {
     "OriginalText": "色んなものを\n自分たちで作るのも新鮮だね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Making all kinds of things ourselves\nis a fresh experience.",
+    "Enabled": true
   },
   "530311": {
     "OriginalText": "不思議な惑星ですね。\n興味がわきます。",
-    "Text": "",
-    "Enabled": false
+    "Text": "What a strange planet.\nIt piques my interest.",
+    "Enabled": true
   },
   "530312": {
     "OriginalText": "新武器パイル……。\n使うのが楽しみね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "The new weapon, the Pile.\nCan't wait to use it.",
+    "Enabled": true
   },
   "530313": {
     "OriginalText": "ご助力いたします。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I'll assist you.",
+    "Enabled": true
   },
   "530314": {
     "OriginalText": "新武器だってお手の物だよ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "New weapons are a piece of cake!",
+    "Enabled": true
   },
   "530315": {
     "OriginalText": "武器はちゃんとメンテナンス\nしなきゃダメだよ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "You've gotta maintain your weapons\nproperly!",
+    "Enabled": true
   },
   "530316": {
     "OriginalText": "これもまた、サダメというものか……。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Is this too what they call fate?",
+    "Enabled": true
   },
   "530317": {
     "OriginalText": "みんな期待に応えられるように\n頑張ります。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I'll work hard to live up to everyone's\nexpectations.",
+    "Enabled": true
   },
   "530318": {
     "OriginalText": "私が役に立てることがあるのなら……。",
-    "Text": "",
-    "Enabled": false
+    "Text": "If there's anything I can help with.",
+    "Enabled": true
   },
   "530319": {
     "OriginalText": "ともだち、いっぱい。\n……うれしい。",
-    "Text": "",
-    "Enabled": false
+    "Text": "So many friends.\nI'm happy.",
+    "Enabled": true
   },
   "530320": {
     "OriginalText": "おはよー！\n寝起きでも元気いっぱいだよ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Morning!\nFull of energy even right after waking!",
+    "Enabled": true
   },
   "530321": {
     "OriginalText": "私は死なん。だからお前も死ぬな。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I won't die. So don't you die either.",
+    "Enabled": true
   },
   "530322": {
     "OriginalText": "新しい武器も楽しそうね。\n早く使いたくてうずうずしちゃう。",
-    "Text": "",
-    "Enabled": false
+    "Text": "The new weapons look fun too.\nI'm itching to use them.",
+    "Enabled": true
   },
   "530323": {
     "OriginalText": "どんな状況でも\nみんな一緒なら大丈夫だよね！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Whatever the situation, we'll be fine\nif we're all together, right!",
+    "Enabled": true
   },
   "530324": {
     "OriginalText": "これでもお裁縫が得意なんだよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I may not look it, but I'm good\nat sewing.",
+    "Enabled": true
   },
   "530325": {
     "OriginalText": "あなたの采配には期待しているよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I'm counting on your command.",
+    "Enabled": true
   },
   "530326": {
     "OriginalText": "艦長のお手並み拝見といこうか。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Let's see what the Captain's got.",
+    "Enabled": true
   },
   "530327": {
     "OriginalText": "せいいっぱい、がんばります！",
-    "Text": "",
-    "Enabled": false
+    "Text": "I'll do my very best!",
+    "Enabled": true
   },
   "530328": {
     "OriginalText": "コールドスリープで眠ってる間に\n服にしわがついちゃったよ～！",
-    "Text": "",
-    "Enabled": false
+    "Text": "My clothes got wrinkled while I was\nasleep in Cold Sleep!",
+    "Enabled": true
   },
   "530329": {
     "OriginalText": "立て直していきましょう。\nうちにもプランがあります。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Let's get back on our feet.\nI've got a plan too.",
+    "Enabled": true
   },
   "530330": {
     "OriginalText": "アークスたる者、仕事とはすべからく\n合理的に進めるものよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "An ARKS should handle all work\nrationally.",
+    "Enabled": true
   },
   "530331": {
     "OriginalText": "大変な状況ですが\n一緒に頑張りましょう！",
-    "Text": "",
-    "Enabled": false
+    "Text": "It's a tough situation, but let's do\nour best together!",
+    "Enabled": true
   },
   "530332": {
     "OriginalText": "状況に応じて、防具を変えれば\n怖いものはないな。",
-    "Text": "",
-    "Enabled": false
+    "Text": "If you switch armor to fit the\nsituation, there's nothing to fear.",
+    "Enabled": true
   },
   "530333": {
     "OriginalText": "どんな荒野の中でも指先まで美しく\nありたいものだな。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Even in the wasteland, I want to be\nbeautiful down to my fingertips.",
+    "Enabled": true
   },
   "530334": {
     "OriginalText": "ずっと眠ってたから\n身体がなまってそうね。\n訓練に付き合ってくれない？",
-    "Text": "",
-    "Enabled": false
+    "Text": "I've been asleep so long, my body\nmust be rusty. Will you train with me?",
+    "Enabled": true
   },
   "530335": {
     "OriginalText": "こんにちは！ 頑張って、みんなに好かれる\n立派なアークスになりたいです。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Hello! I want to work hard & become\na fine ARKS that everyone likes.",
+    "Enabled": true
   },
   "530336": {
     "OriginalText": "とにもかくにも\nまずはとつげきですー！！",
-    "Text": "",
-    "Enabled": false
+    "Text": "First things first,\nlet's chaaarge!!",
+    "Enabled": true
   },
   "530337": {
     "OriginalText": "ふふ、私の戦場はどこかしら？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Hehe, where's my battlefield?",
+    "Enabled": true
   },
   "530338": {
     "OriginalText": "アークスだから戦わなくてはならないなんて\nそのような決まりなどないはずです。",
-    "Text": "",
-    "Enabled": false
+    "Text": "There's no rule that says you must\nfight just because you're ARKS.",
+    "Enabled": true
   },
   "530339": {
     "OriginalText": "手先は、結構器用やし、\nみんなの役にも立てると思うわ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I'm pretty good with my hands, so I\nthink I can help everyone out.",
+    "Enabled": true
   },
   "530340": {
     "OriginalText": "ほらっ、気合入れてくわよ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Come on, let's get fired up!",
+    "Enabled": true
   },
   "530341": {
     "OriginalText": "軽はずみな行動は慎まなければ\nなりませんね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "We must refrain from rash actions.",
+    "Enabled": true
   },
   "530342": {
     "OriginalText": "一緒に頑張りましょうね！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Let's do our best together!",
+    "Enabled": true
   },
   "530343": {
     "OriginalText": "お前が望むなら、\n助力は惜しまん。",
-    "Text": "",
-    "Enabled": false
+    "Text": "If you wish it, I'll spare no help.",
+    "Enabled": true
   },
   "530344": {
     "OriginalText": "やっとあたしの出番？\nロッドじゃ負けないから、期待していいよ～！",
-    "Text": "",
-    "Enabled": false
+    "Text": "My turn at last? Nobody beats me with\na Rod, so you can count on me!",
+    "Enabled": true
   },
   "530345": {
     "OriginalText": "まずまずの目覚めだ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A decent awakening.",
+    "Enabled": true
   },
   "530346": {
     "OriginalText": "よろしくね！ ほら、早く行こう！\nあたしがついていってあげるから、\n準備しなさい！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Nice to meet you! Come on, let's go!\nI'll go with you, so get ready!",
+    "Enabled": true
   },
   "530347": {
     "OriginalText": "妹の私は冒険をサポートしたいと思います！\n電撃オンラインもよろしくお願いします☆",
-    "Text": "",
-    "Enabled": false
+    "Text": "As the little sister, I'll support\nyour adventure! Please check out\nDengeki Online too☆",
+    "Enabled": true
   },
   "530348": {
     "OriginalText": "回復は姉のあたしにまかせて。\n攻略に困ったら電プレを読んでね！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Leave healing to me, the big sister.\nIf you're stuck, read Dengeki\nPlayStation!",
+    "Enabled": true
   },
   "530349": {
     "OriginalText": "ダイスキなあなたのためなら、\nなんでもやるよー！",
-    "Text": "",
-    "Enabled": false
+    "Text": "For you, whom I love, I'll do\nanything!",
+    "Enabled": true
   },
   "530350": {
     "OriginalText": "あなた、見るからに平凡そうだけど\n私の背中を任せられるほど、強いのかしら？",
-    "Text": "",
-    "Enabled": false
+    "Text": "You look plain, but are you strong\nenough that I can trust you with\nmy back?",
+    "Enabled": true
   },
   "530351": {
     "OriginalText": "あんた、いい目をしてるじゃないか？\nあたしと組まないか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "You've got good eyes, don't you?\nWanna team up with me?",
+    "Enabled": true
   },
   "530352": {
     "OriginalText": "身体の大きさと強さは比例しないことを\n教えてやろう。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Let me teach you that body size &\nstrength aren't proportional.",
+    "Enabled": true
   },
   "530353": {
     "OriginalText": "我が槍の前に敵は無い。\n苦戦しているようなら、私を呼べばいい。",
-    "Text": "",
-    "Enabled": false
+    "Text": "No enemy stands before my spear.\nIf you're struggling, just call me.",
+    "Enabled": true
   },
   "530354": {
     "OriginalText": "ほらほら、もっと気合いを入れなさいよね！\n回復くらいなら私がしてあげるから。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Come on, get more fired up! I'll\nat least handle the healing for you.",
+    "Enabled": true
   },
   "530355": {
     "OriginalText": "回復のサポートは私に任せて！\n毎木日発売の\nファミ通もよろしくネ！！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Leave healing support to me!\nPlease check out Famitsu, on sale\nevery Thursday!!",
+    "Enabled": true
   },
   "530356": {
     "OriginalText": "食堂に配置してくれたら、\n美味しいご飯作っちゃうヨ！\nあっ、毎木日発売のファミ通もよろしく★",
-    "Text": "",
-    "Enabled": false
+    "Text": "Put me in the cafeteria, & I'll make\ndelicious meals! Oh, & check out\nFamitsu, on sale every Thursday★",
+    "Enabled": true
   },
   "530357": {
     "OriginalText": "ねえ、暴れていい？\n今すぐここで、暴れていい？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Hey, can I cut loose?\nCan I cut loose right here, right now?",
+    "Enabled": true
   },
   "530358": {
     "OriginalText": "せーの……\nよっろしく～！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Ready, set,\nnice to meet youuu!",
+    "Enabled": true
   },
   "530359": {
     "OriginalText": "惑星探索に、興味があります。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I'm interested in planetary exploration.",
+    "Enabled": true
   },
   "530360": {
     "OriginalText": "さすらいのウォンド使い、\nリレイザさんの登場だよーっ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "The wandering Wand user, Relayza,\nhas arrived!",
+    "Enabled": true
   },
   "530361": {
     "OriginalText": "あっ、あの……、頑張ります！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Ah, um, I'll do my best!",
+    "Enabled": true
   },
   "530362": {
     "OriginalText": "私の力を借りたいのかしら？",
-    "Text": "",
-    "Enabled": false
+    "Text": "You want to borrow my power?",
+    "Enabled": true
   },
   "530363": {
     "OriginalText": "任されたことはきっちりこなすよ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "I'll properly finish what I'm given!",
+    "Enabled": true
   },
   "530364": {
     "OriginalText": "一緒に戦えば、色々分かることもあると思うわ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Fighting together, I think we'll learn\na lot.",
+    "Enabled": true
   },
   "530365": {
     "OriginalText": "お前の力を試させてもらおうか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Shall I test your power?",
+    "Enabled": true
   },
   "530366": {
     "OriginalText": "新人だからって、\n何もできない訳じゃないんだからね！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Just because I'm a rookie doesn't\nmean I can't do anything!",
+    "Enabled": true
   },
   "530367": {
     "OriginalText": "何でもワシに相談するがいい。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Consult me about anything.",
+    "Enabled": true
   },
   "530368": {
     "OriginalText": "危険、探知。\nすぐに対処する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Danger, detected.\nResponding immediately.",
+    "Enabled": true
   },
   "530369": {
     "OriginalText": "随分長く眠っていたので\n早く武器を手にしたいですね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I've been asleep so long, I want\na weapon in my hands soon.",
+    "Enabled": true
   },
   "530370": {
     "OriginalText": "任務は正確、かつ速やかにが基本です。",
-    "Text": "",
-    "Enabled": false
+    "Text": "The basics of a mission are accuracy\n& speed.",
+    "Enabled": true
   },
   "530371": {
     "OriginalText": "探索がんばろー！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Let's give exploring our all!",
+    "Enabled": true
   },
   "530372": {
     "OriginalText": "人手は足りてます？\n何なりと申しつけてくれやす。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Enough hands? Ask me for anything.",
+    "Enabled": true
   },
   "530373": {
     "OriginalText": "心配しなくてもやるべきことはやるわ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Don't worry, I'll do what needs\ndoing.",
+    "Enabled": true
   },
   "530374": {
     "OriginalText": "物資が不足しているようですね。\nでも、ないものは作るまでです。",
-    "Text": "",
-    "Enabled": false
+    "Text": "It seems supplies are short.\nBut if we don't have it, we'll make it.",
+    "Enabled": true
   },
   "530375": {
     "OriginalText": "勝手な行動も、ある程度は推奨するぞ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I'll even encourage acting on your own,\nto a degree.",
+    "Enabled": true
   },
   "530376": {
     "OriginalText": "レンジャーは元気が一番！ だよねっ？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Energy comes first for Rangers! Right?",
+    "Enabled": true
   },
   "530377": {
     "OriginalText": "アイテムに関して\n多少の知識があるわ……。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I know a bit about items.",
+    "Enabled": true
   },
   "530378": {
     "OriginalText": "私の力が皆さんのお役に立てるならば……",
-    "Text": "",
-    "Enabled": false
+    "Text": "If my power can be of help\nto everyone.",
+    "Enabled": true
   },
   "530379": {
     "OriginalText": "な、なんかガッカリしてない！？\nこれでもキャリアは長いんだからねっ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Y-you're not disappointed, are you!?\nI've had a long career, you know!",
+    "Enabled": true
   },
   "530380": {
     "OriginalText": "ほらっ、早く任務に向かうわよ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Come on, let's hurry to the mission!",
+    "Enabled": true
   },
   "530381": {
     "OriginalText": "共に戦いぬきましょう。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Let's fight it through together.",
+    "Enabled": true
   },
   "530382": {
     "OriginalText": "私の力をどんどん役立てて。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Make plenty of use of my power.",
+    "Enabled": true
   },
   "530383": {
     "OriginalText": "いい武器で戦うのって、気持ちいいよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Fighting with a good weapon feels great.",
+    "Enabled": true
   },
   "530384": {
     "OriginalText": "鍛冶の道具を持ってると落ち着くんです。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Holding my smithing tools calms me.",
+    "Enabled": true
   },
   "530385": {
     "OriginalText": "あなたに、期待してる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I'm counting on you.",
+    "Enabled": true
   },
   "530386": {
     "OriginalText": "みんな、戦い疲れているんじゃない？\n私が代わりをしてあげるから\n一休みしてはどう？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Isn't everyone worn out from fighting?\nI'll take your place, so why not\ntake a break?",
+    "Enabled": true
   },
   "530387": {
     "OriginalText": "ふわわ、眠りすぎて法撃の使い方、\n忘れちゃいそうだ。\n早く身体を動かさないとな。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Yawn, I slept so long I might forget\nhow to use Techs. I'd better get\nmoving soon.",
+    "Enabled": true
   },
   "530388": {
     "OriginalText": "私と一緒に頑張ってくれる？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Will you work hard with me?",
+    "Enabled": true
   },
   "530389": {
     "OriginalText": "よろ、しく……。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Nice, to meet you.",
+    "Enabled": true
   },
   "530390": {
     "OriginalText": "長ってのは、後ろで\nどっしり構えてればいいんだ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A leader should just sit tight\nin the back.",
+    "Enabled": true
   },
   "530391": {
     "OriginalText": "法撃の練習中なので\nご指導お願いします。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I'm practicing Techs, so please\nguide me.",
+    "Enabled": true
   },
   "530392": {
     "OriginalText": "おっはよーー！！\nさぁ、がんばっちゃうよー！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Good morniiing!!\nNow, let's give it our all!",
+    "Enabled": true
   },
   "530393": {
     "OriginalText": "この荒野にあって\nこの拠点は暖かい光を放っているわ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "In this wasteland, this base gives off\na warm light.",
+    "Enabled": true
   },
   "530394": {
     "OriginalText": "石橋を叩いて渡る心を忘れるな。\n近頃は根こそぎ吹っ飛ばせば早い\nという者が多すぎる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Never forget to test the bridge before\ncrossing. These days too many think\nit's faster to just blow it all away.",
+    "Enabled": true
   },
   "530395": {
     "OriginalText": "ん～、眠気覚ましに\n戦闘にでも行ってこようかな？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Hmm, maybe I'll go fight to\nwake myself up?",
+    "Enabled": true
   },
   "530396": {
     "OriginalText": "あなたのお力になれること\n嬉しく思います。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I'm glad to be of help to you.",
+    "Enabled": true
   },
   "530397": {
     "OriginalText": "こんな環境はじめてだけど\nちゃんとしなきゃ……！",
-    "Text": "",
-    "Enabled": false
+    "Text": "This is my first time in an environment\nlike this, but I have to do it right!",
+    "Enabled": true
   },
   "530398": {
     "OriginalText": "適村適所を考えて、\n人員を配置するのよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Think about the right people in the\nright places when assigning personnel.",
+    "Enabled": true
   },
   "530399": {
     "OriginalText": "私に何をしてほしい？",
-    "Text": "",
-    "Enabled": false
+    "Text": "What do you want me to do?",
+    "Enabled": true
   },
   "530400": {
     "OriginalText": "ヨミが世話になっていると聞いた。\nあいつはちゃんとやっているだろうか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "I hear Yomi's in your care.\nIs he doing his job properly?",
+    "Enabled": true
   },
   "530401": {
     "OriginalText": "ははは、何でも私に任せておけばいいさね！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Hahaha, just leave everything to me!",
+    "Enabled": true
   },
   "530402": {
     "OriginalText": "みんな、疲れてない？\n正直に言っていいんだからね！\nあとは私に任せといて！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Everyone, aren't you tired? You can be\nhonest! Leave the rest to me!",
+    "Enabled": true
   },
   "530403": {
     "OriginalText": "ねぇ、わたしを早く戦場に連れて行って！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Hey, take me to the battlefield soon!",
+    "Enabled": true
   },
   "530404": {
     "OriginalText": "私の底力、見せてあげる！",
-    "Text": "",
-    "Enabled": false
+    "Text": "I'll show you my true strength!",
+    "Enabled": true
   },
   "530405": {
     "OriginalText": "私が目覚めたからには、もうご安心を。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Now that I'm awake, rest assured.",
+    "Enabled": true
   },
   "530406": {
     "OriginalText": "デンゲキ的末っ子 ばず～こデス\nアナタのタメニ撃ちまくるヨーぅ！\nデンゲキＢＡＺＯＯＫＡ!! ヨロシクデス！",
-    "Text": "",
-    "Enabled": false
+    "Text": "I'm Dengeki's youngest, Bazooko!\nI'll shoot like crazy for you!\nDengeki BAZOOKA!! Nice to meet ya!",
+    "Enabled": true
   },
   "530407": {
     "OriginalText": "強敵の匂いがします。\n充分な備えを持って、戦いにきましょう。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I smell a strong enemy. Let's be fully\nprepared & go to battle.",
+    "Enabled": true
   },
   "530408": {
     "OriginalText": "えっと、あたし、実は\n戦場での記憶ってあんまりなくて……。\nどうなってもしりませんよお？",
@@ -4256,208 +4256,208 @@
   },
   "530409": {
     "OriginalText": "なんじゃ、この[ruby ふね]艦[/ruby]は若いモンばっかりじゃのう……\nシブ～いジイさまのアークスはおらんのかいえ？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Hmph, this ship's nothing but young\nfolks. Ain't there any cool old geezer\nARKS around?",
+    "Enabled": true
   },
   "530410": {
     "OriginalText": "皆さんのことは、必ず守ります。\nだから、私の傍を離れないでくださいね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I'll protect everyone for sure.\nSo please don't leave my side.",
+    "Enabled": true
   },
   "530411": {
     "OriginalText": "立ちふさがる敵はすべて吹き飛ばしてあげる。\nその代わりトドメはあなたに任せたわ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I'll blow away every enemy in our way.\nIn exchange, I'll leave the finishing\nblow to you.",
+    "Enabled": true
   },
   "530412": {
     "OriginalText": "やっと出番かよ……\n早くフィルディア姐さんに会わせろよー！",
-    "Text": "",
-    "Enabled": false
+    "Text": "My turn at last? Hurry up & let me\nmeet Big Sis Fildia!",
+    "Enabled": true
   },
   "530413": {
     "OriginalText": "早く冒険に出たいわね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I want to go on an adventure soon.",
+    "Enabled": true
   },
   "530414": {
     "OriginalText": "何かが違う気がする。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Something feels different.",
+    "Enabled": true
   },
   "530415": {
     "OriginalText": "あれ？ コールドスリープ終了？\nってことは、外に出られるんだね！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Huh? Cold Sleep's over?\nThat means I can go outside!",
+    "Enabled": true
   },
   "530416": {
     "OriginalText": "私なんかより、もっと元気な子を\n起こしてくれたらよかったのに……",
-    "Text": "",
-    "Enabled": false
+    "Text": "You should've woken someone more\nenergetic than me.",
+    "Enabled": true
   },
   "530417": {
     "OriginalText": "果たしたい夢があります。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I have a dream I want to fulfill.",
+    "Enabled": true
   },
   "530418": {
     "OriginalText": "この状況で活躍すれば、ボクも一躍有名人に！！",
-    "Text": "",
-    "Enabled": false
+    "Text": "If I shine in this situation, I'll\nbecome famous overnight!!",
+    "Enabled": true
   },
   "530419": {
     "OriginalText": "皆さんのお役に立てれば光栄です。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I'd be honored to be of help\nto everyone.",
+    "Enabled": true
   },
   "530420": {
     "OriginalText": "私でお役に立てることがあれば、\n気軽にお声掛けくださいね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "If there's anything I can help with,\nfeel free to call on me.",
+    "Enabled": true
   },
   "530421": {
     "OriginalText": "細かい作業は苦手だが、\n大物狩りならば、任せておくれ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I'm bad at detailed work, but leave\nbig game hunting to me.",
+    "Enabled": true
   },
   "530422": {
     "OriginalText": "この惑星は非常に興味深いですね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "This planet is very fascinating.",
+    "Enabled": true
   },
   "530423": {
     "OriginalText": "どんな状況でもオレのやることは変わらない。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Whatever the situation, what I do\ndoesn't change.",
+    "Enabled": true
   },
   "530424": {
     "OriginalText": "どんな状況であろうと\nボクが何とかしてあげよう！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Whatever the situation, I'll take care\nof it for you!",
+    "Enabled": true
   },
   "530425": {
     "OriginalText": "なんじゃ、わしの助力が必要になったということか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "What, so you need my help now?",
+    "Enabled": true
   },
   "530426": {
     "OriginalText": "選んでいただけるとは光栄です。\n頑張ります！",
-    "Text": "",
-    "Enabled": false
+    "Text": "I'm honored you chose me.\nI'll do my best!",
+    "Enabled": true
   },
   "530427": {
     "OriginalText": "大丈夫だって！\nオレに任せろって！",
-    "Text": "",
-    "Enabled": false
+    "Text": "It's fine!\nJust leave it to me!",
+    "Enabled": true
   },
   "530428": {
     "OriginalText": "おっし、いっちょ本気を出すか！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Alright, guess I'll get serious!",
+    "Enabled": true
   },
   "530429": {
     "OriginalText": "どんな状況でもオレはオレの仕事をするだけだ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Whatever the situation, I just do\nmy job.",
+    "Enabled": true
   },
   "530430": {
     "OriginalText": "なかなかおもしろそうな状況だな。\n早くオレも任務に連れてってくれよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Looks like a pretty interesting\nsituation. Hurry & take me on a\nmission too.",
+    "Enabled": true
   },
   "530431": {
     "OriginalText": "ほらっ、暗い顔しないの！\n一緒にがんばろっ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Come on, don't look so gloomy!\nLet's do our best together!",
+    "Enabled": true
   },
   "530432": {
     "OriginalText": "えっと……、選ばれたからには\n最後まで頑張る所存であります！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Um, now that I've been chosen,\nI intend to do my best to the end!",
+    "Enabled": true
   },
   "530433": {
     "OriginalText": "へへっ、私を選ぶなんて\nなかなかお目が高いね！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Heh, choosing me shows you've got\na good eye!",
+    "Enabled": true
   },
   "530434": {
     "OriginalText": "厳しい状況ではありますが、\n共に頑張りましょう。",
-    "Text": "",
-    "Enabled": false
+    "Text": "It's a harsh situation, but let's\ndo our best together.",
+    "Enabled": true
   },
   "530435": {
     "OriginalText": "何やら大層な事態になっているようだ。\n状況の報告を頼む。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Seems something big is going on.\nPlease report the situation.",
+    "Enabled": true
   },
   "530436": {
     "OriginalText": "起こされたからには頑張るけど\nあんたも手を抜かないようにね！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Now that I'm awake, I'll work hard,\nbut don't you slack off either!",
+    "Enabled": true
   },
   "530437": {
     "OriginalText": "起こしてくださり、ありがとうごいます。\n期待には応えますよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Thank you for waking me.\nI'll live up to your expectations.",
+    "Enabled": true
   },
   "530438": {
     "OriginalText": "あなたが私の力を乞う未来は\n見えていたわ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I foresaw a future where you'd\nbeg for my power.",
+    "Enabled": true
   },
   "530439": {
     "OriginalText": "わかりました、私の力をご覧に入れます。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Understood. I'll show you my power.",
+    "Enabled": true
   },
   "530440": {
     "OriginalText": "私の力を望みますか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Do you desire my power?",
+    "Enabled": true
   },
   "530441": {
     "OriginalText": "過酷な環境は己を成長させる\nこの上ない好機となるだろう。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A harsh environment will be the best\npossible chance to grow.",
+    "Enabled": true
   },
   "530442": {
     "OriginalText": "立ち止まって待ってても\n何も変わらないって教えてもらったから……！",
-    "Text": "",
-    "Enabled": false
+    "Text": "I was taught that standing still &\nwaiting won't change anything!",
+    "Enabled": true
   },
   "530443": {
     "OriginalText": "この[ruby ほし]惑星[/ruby]に残された最後の１人として\n託された使命を諦めるわけにはいきません。",
-    "Text": "",
-    "Enabled": false
+    "Text": "As the last one left on this planet,\nI can't give up the mission\nentrusted to me.",
+    "Enabled": true
   },
   "530444": {
     "OriginalText": "えっと、あの……\nラボの備品の管理なら、任せてください！",
-    "Text": "",
-    "Enabled": false
+    "Text": "Um, well, leave managing the Lab's\nsupplies to me!",
+    "Enabled": true
   },
   "530445": {
     "OriginalText": "仕方ありませんね、\n共に戦って差し上げますわ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "It can't be helped. I shall fight\nalongside you!",
+    "Enabled": true
   },
   "530446": {
     "OriginalText": "いつでも出撃は可能だ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "I can sortie anytime.",
+    "Enabled": true
   },
   "530447": {
     "OriginalText": "この惑星で犠牲になった多くの者のためにも\n早くこの惑星を脱出せねばな。",
-    "Text": "",
-    "Enabled": false
+    "Text": "For the many who were sacrificed on\nthis planet, we must escape it soon.",
+    "Enabled": true
   },
   "530448": {
     "OriginalText": "真に仲間を大切に出来ない者は\n私の部隊にはいらない。\nどんな状況であれ大切なものは仲間だ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Those who can't truly value comrades\nhave no place in my unit. Whatever\nthe situation, comrades are what matter.",
+    "Enabled": true
   },
   "530449": {
     "OriginalText": "私の名前はズック、ズックだ。\n大切なことなので２回言った。\n忘れないように！",
-    "Text": "",
-    "Enabled": false
+    "Text": "My name is Zukku. Zukku. It's\nimportant, so I said it twice.\nDon't forget!",
+    "Enabled": true
   },
   "530450": {
     "OriginalText": "予備枠",
