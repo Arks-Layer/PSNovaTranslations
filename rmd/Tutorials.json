@@ -771,7 +771,7 @@
   },
   "780059": {
     "OriginalText": "\nリングフィールドは上に重ねて階層を\n作ることでもできます。\n\nリングフィールド上では、[a 07]中央マーク上で [b]\n[f 76][a 07] を押す[b]ことで上階層に移動できます。\n\nリングフィールドの[a 07]外周部で[b][f 76][a 07] を押す[b]と、\n下に降りることができます。",
-    "Text": "Ring Fields can be stacked into levels.\n\n[a 07]Press [b][f 76][a 07] on the center mark[b]\nto move up a level.\n\n[a 07]Press [b][f 76][a 07] on the outer edge[b]\nto drop down.",
+    "Text": "Ring Fields can be stacked into levels.\n\n[a 07]Press [b][f 76][a 07] on the center mark[b]\nto move up a level.\n\n[a 07]Press [b][f 76][a 07] on the outer section[b]\nto drop down.",
     "Enabled": true
   },
   "780060": {
@@ -1141,7 +1141,7 @@
   },
   "780134": {
     "OriginalText": "\nまた、グランバースト発生中はさままな\n[a 07]バースト効果[b]がランダムで発生します。\n\n【経験値UP】\n 獲得経験値がアップします。\n\n【アイテムドロップUP】\n アイテムドロップ率がアップします。\n\n【レアエネミー出現率UP】\n レアエネミーの出現率がアップします。",
-    "Text": "During a Gran BURST, random\n[a 07]BURST effects[b] trigger.\n\n[EXP UP]\n Raises EXP gained.\n\n[Item Drop UP]\n Raises item drop rate.\n\n[Rare Enemy UP]\n Raises Rare Enemy spawn rate.",
+    "Text": "During a Gran BURST, random\n[a 07]BURST effects[b] trigger.\n\n[EXP Gain UP]\n Raises EXP gained.\n\n[Item Drop Rate UP]\n Raises item drop rate.\n\n[Rare Enemy Rate UP]\n Raises Rare Enemy spawn rate.",
     "Enabled": true
   },
   "780135": {
