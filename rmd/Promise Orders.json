@@ -2921,12 +2921,12 @@
   },
   "300020": {
     "OriginalText": "【難：鋼の荒野殲滅任務】を\n【エクストラハード】以上でクリアする",
-    "Text": "Clear the quest\n[Danger: Copper Wastelands Elimination] on XH only",
+    "Text": "Clear the quest\n[Danger: Steel Wastelands Elimination] on XH only",
     "Enabled": true
   },
   "300021": {
     "OriginalText": "【極：伏す猛銃と天舞う砲凰】を\n【エクストラハード】以上でクリアする",
-    "Text": "Clear the quest [Ultra: Ferocious Godly Cannons] on Extra Hard only",
+    "Text": "Clear the quest [Ultra: The Prone Gun & the Soaring Phoenix] on Extra Hard only",
     "Enabled": true
   },
   "300022": {
@@ -2971,7 +2971,7 @@
   },
   "300030": {
     "OriginalText": "【難：鋼の荒野連続撃破任務】を\nクリアする",
-    "Text": "Clear [Danger: Copper Wastelands Destroy]",
+    "Text": "Clear [Danger: Steel Wastelands Destroy]",
     "Enabled": true
   },
   "300031": {
@@ -3011,7 +3011,7 @@
   },
   "300038": {
     "OriginalText": "【超：氷塊のギガティオン】をクリアする",
-    "Text": "Clear the quest [Super: Ferocious Jade Gigation]",
+    "Text": "Clear the quest [Super: Glacial Gigation]",
     "Enabled": true
   },
   "300039": {
@@ -3026,7 +3026,7 @@
   },
   "300041": {
     "OriginalText": "【超：激光の装悪鬼】の\n【エクストラハード】以上を\n【Ｓランク】でクリアする",
-    "Text": "Clear [Super: Shining Demon] on\nExtra Hard with S-Rank",
+    "Text": "Clear [Super: Dazzling Legendary Fiend] on\nExtra Hard with S-Rank",
     "Enabled": true
   },
   "300042": {
@@ -3171,7 +3171,7 @@
   },
   "300070": {
     "OriginalText": "【極：侵食する虚の骸】を\n【エクストラハード】以上でクリアする",
-    "Text": "Clear [Ultra: Eroding Cadaver]\non Extra Hard",
+    "Text": "Clear [Ultra: The Eroding Hollow Shell]\non Extra Hard",
     "Enabled": true
   },
   "300071": {

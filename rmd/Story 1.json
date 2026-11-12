@@ -76,7 +76,7 @@
   },
   "100010020060008": {
     "OriginalText": "あなたは現在、アークス特殊惑星探査隊\nオルターの戦闘部隊に所属し、新たに\n発見された惑星、マキアへ向かっています。",
-    "Text": "You belong to the combat unit of Alter,\nARKS' special planetary exploration team, and\nare heading for the newly discovered\nplanet, Makhia.",
+    "Text": "You belong to the unit of Alter, ARKS' special\nplanetary exploration team, & are heading\nfor the newly discovered planet, Makhia.",
     "Enabled": true
   },
   "100010020070008": {
@@ -161,7 +161,7 @@
   },
   "100010020210008": {
     "OriginalText": "ここだけの話、たまに失敗もあるんですよ……。",
-    "Text": "Every once in a while, the process doesn't\ngo right, and....",
+    "Text": "Every once in a while, the process doesn't\ngo right, and...",
     "Enabled": true
   },
   "100010020220008": {
@@ -521,7 +521,7 @@
   },
   "101010010021001": {
     "OriginalText": "その時あんたはあたしをかばって、頭ぶつけたわけ",
-    "Text": "You protected me. You must havve hit your head.",
+    "Text": "You protected me. You must have hit your head.",
     "Enabled": true
   },
   "101010010022001": {
@@ -761,7 +761,7 @@
   },
   "101010030090001": {
     "OriginalText": "『グラン』？",
-    "Text": "'Gran'?",
+    "Text": "Gran?",
     "Enabled": true
   },
   "101010030091001": {
@@ -2331,7 +2331,7 @@
   },
   "102020030130004": {
     "OriginalText": "新人！",
-    "Text": "Newbie!",
+    "Text": "Rookie!",
     "Enabled": true
   },
   "102020030131004": {
@@ -2431,7 +2431,7 @@
   },
   "102030010180004": {
     "OriginalText": "その方が勝った時、気分いいだろ？ なあ新人？",
-    "Text": "It would be great if we can defeat it, right?\nNewbie? ",
+    "Text": "It would be great if we can defeat it, right?\nRookie? ",
     "Enabled": true
   },
   "102030010185000": {
@@ -2561,7 +2561,7 @@
   },
   "102040010140004": {
     "OriginalText": "惑星探査隊オルターの勇土なら使いこなせる！\nそうだよな！！",
-    "Text": "The planetary exploration team Alter\ncan handle it! That's right!!",
+    "Text": "The planetary exploration team Alter\ncan handle it, isn't that right?",
     "Enabled": true
   },
   "102040010145000": {
@@ -2706,7 +2706,7 @@
   },
   "102040020110002": {
     "OriginalText": "さすがです艦長！ いや、今は\n『[ruby ぎょうこう]暁紅[/ruby]のフィルディア』と呼びましょう！",
-    "Text": "As expected of the Captain!\nNo, the \"Crimson\nDawn, Fildia!\"",
+    "Text": "As expected of the Captain!\nNo, the \"Crimson Dawn, Fildia!\"",
     "Enabled": true
   },
   "102040020120004": {
@@ -2716,7 +2716,7 @@
   },
   "102040020130004": {
     "OriginalText": "っと、そろそろこいつを調べる研究班が来るな。\nそっちも指示しないといけないんだった。",
-    "Text": "The research team that is going to\ninvestigate this thing will be here soon.\nI need to give them their instructions as well.",
+    "Text": "That reminds me, the research team that's\ngoing to investigate this thing will be here\nsoon.I need to give them their instructions as well.",
     "Enabled": true
   },
   "102040020140004": {
@@ -4126,7 +4126,7 @@
   },
   "103020010070006": {
     "OriginalText": "必要なものはリストアップしてある。\n早急に全部揃えろ。",
-    "Text": "I've listed what I need.\nGet all of it, ASAP.",
+    "Text": "I've told you what I requested,\nnow get it done as soon as possible.",
     "Enabled": true
   },
   "103020010080002": {
@@ -4136,7 +4136,7 @@
   },
   "103020010090006": {
     "OriginalText": "探すのはお前達の仕事だ。\n早く持ってこい。",
-    "Text": "Finding it is your job.\nBring it here quickly.",
+    "Text": "That's your job, not mine.\nBring it here immediately.",
     "Enabled": true
   },
   "103020010100002": {
@@ -4151,7 +4151,7 @@
   },
   "103020010120006": {
     "OriginalText": "探索はお前達の仕事だろ？ \n資村がなければ俺は仕事ができない。\n結果どうなる？ ",
-    "Text": "Exploring is your job, right? Without\nmaterials, I can't do mine.\nAnd what happens then?",
+    "Text": "Exploring is your job, right? Without\nmaterials, I can't do mine. What happens\nthen?",
     "Enabled": true
   },
   "103020010130006": {
@@ -6611,7 +6611,7 @@
   },
   "104020010140011": {
     "OriginalText": "ああ、やはりそうですか。\n状況の深刻さを\nまるで理解していらっしゃらない。",
-    "Text": "Ah, just as I thought.\nYou don't grasp the gravity\nof the situation at all.",
+    "Text": "Ah, just as I thought. You don't grasp\nthe gravity of the situation at all.",
     "Enabled": true
   },
   "104020010150003": {
@@ -6741,7 +6741,7 @@
   },
   "104020010395002": {
     "OriginalText": "じゃあ、南東はオレと\nコイツが行くことにするぜ！",
-    "Text": "Then this one & I\nwill take the southeast!",
+    "Text": "Then this one & I will take the\nsoutheast!",
     "Enabled": true
   },
   "104020010400002": {
@@ -8501,7 +8501,7 @@
   },
   "105020010010012": {
     "OriginalText": "あっ！\n来て下さったんですね！\nお忙しい中、ありがとうごいます！",
-    "Text": "Ah!\nYou came!\nThank you for making time!",
+    "Text": "Ah! You came!\nThank you for making time!",
     "Enabled": true
   },
   "105020010020001": {
