@@ -131,12 +131,12 @@
   },
   "280026": {
     "OriginalText": "エウリュード撃破勝負",
-    "Text": "Eurude Slaying Competition",
+    "Text": "Euryude Slaying Competition",
     "Enabled": true
   },
   "280027": {
     "OriginalText": "アルレイバンサー撃破勝負",
-    "Text": "Arlay Banther Slaying Competition",
+    "Text": "Alray Banther Slaying Competition",
     "Enabled": true
   },
   "280028": {
@@ -1446,7 +1446,7 @@
   },
   "290007": {
     "OriginalText": "トネルバンクゥの石片を集めてくれないかな、\n[ruby]相棒[/ruby]！ ５個必要なんだけど、\n今ちょっと手が空かなくて……。\nごめん、お願い！！",
-    "Text": "Will you help me collect Stone Fragments\nfrom Toner Ban'qu, Buddy! I need 5 of them...\nPlease...!!",
+    "Text": "Will you help me collect Stone Fragments\nfrom Tonner Ban'qu, Buddy! I need 5 of them...\nPlease...!!",
     "Enabled": true
   },
   "290008": {
@@ -1516,7 +1516,7 @@
   },
   "290021": {
     "OriginalText": "気になる噂を聞いたんだけど、ウィルアフォルと\nテュルトアスが潜んでる場所があるんだって！\n２体ともすごく凶暴らしいけど、ほっとけないよね。\n相棒、出番だよ！",
-    "Text": "I've heard rumors about a place where a\nViluaphol and a Tulletoas is lurking!\nBoth are ferocious.\nBuddy, it's your time to shine!",
+    "Text": "I've heard rumors about a place where a\nWilaphol and a Tulletoas is lurking!\nBoth are ferocious.\nBuddy, it's your time to shine!",
     "Enabled": true
   },
   "290022": {
@@ -1541,7 +1541,7 @@
   },
   "290026": {
     "OriginalText": "エウリュード撃破しにいかねぇか？\nへへっ、お前なら簡単だろ？",
-    "Text": "Would you like to defeat Eurude?\nHehe, you're like an open book.",
+    "Text": "Would you like to defeat Euryude?\nHehe, you're like an open book.",
     "Enabled": true
   },
   "290027": {
@@ -1591,7 +1591,7 @@
   },
   "290036": {
     "OriginalText": "マガヴルムの銃身を持ってきてくれないか？\n武器の調子が悪いからヨミに相談したら修理に\nこいつが必要らしいんだ。\n１つ持ってきてくれ！",
-    "Text": "Will you bring me the barrel of\nMagavulum?\nTell Yomi to repair this weapon.\nI just need 1 piece!",
+    "Text": "Will you bring me the barrel of\nMagavurm?\nTell Yomi to repair this weapon.\nI just need 1 piece!",
     "Enabled": true
   },
   "290037": {
@@ -1666,7 +1666,7 @@
   },
   "290051": {
     "OriginalText": "ガラティオンの硬骨格を調達したいのです。\n一緒に集めれば、すぐ集められますよね！",
-    "Text": "I need to collect Garation Frames.\nIf we collect them together it would\nbe easy!",
+    "Text": "I need to collect Gration Frames.\nIf we collect them together it would\nbe easy!",
     "Enabled": true
   },
   "290052": {
@@ -1676,7 +1676,7 @@
   },
   "290053": {
     "OriginalText": "ツインマシンガンだけでギガンテスを倒せますか？\n[a 06]『ツインマシンガン』\n二丁の銃でアクロバティックに攻撃する射撃武器。\n単一の敵を集中的に攻撃できる。[b]\n[a 03]※要ツインマシンガン系で撃破 この約束は一回のみ[b]",
-    "Text": "Defeat a Gigantes with only Twin MG?\n[a 06]Twin Machine Guns, shooting enemies\nwith acrobatic attacks.[b]\n[a 03]※Twin MG only, Non-Repeatable[b]",
+    "Text": "Defeat a Gigantes with only Twin\nMachineguns.\n[a 06]Twin Machineguns, shooting enemies\nusing acrobatic attacks.[b]\n[a 03]※TMG only, Non-Repeatable[b]",
     "Enabled": true
   },
   "290054": {
@@ -1706,7 +1706,7 @@
   },
   "290059": {
     "OriginalText": "グラン水源の奥深くにいる危険なエネミーがいる！\n中でも最深部のエウリュードの強さときたら、\n氷属性の強力な攻撃でみんな手を焼いている！\n撃破できるのは、お前しかいない！ 頼めるか？",
-    "Text": "There are dangerous enemies deep\ninside the Gran Water Rig! One of\nthem is a Eurude! Please, only you\ncan defeat it!",
+    "Text": "There are dangerous enemies deep\ninside the Gran Water Rig! One of\nthem is a Euryude! Please, only you\ncan defeat it!",
     "Enabled": true
   },
   "290060": {
@@ -1986,7 +1986,7 @@
   },
   "290115": {
     "OriginalText": "ウィルアフォルを知っていますか？\n私にとってもまだまだ未知の存在で、\nその巣を調べてもらいたいのです。\n",
-    "Text": "Did you know anything about Viluaphol?\nI want you to investigate its nesting site.",
+    "Text": "Did you know anything about Wilaphol?\nI want you to investigate its nesting site.",
     "Enabled": true
   },
   "290116": {
@@ -2001,7 +2001,7 @@
   },
   "290118": {
     "OriginalText": "原生種の素村を３つずつ集めて来てくれ。\nラウーダンの極毛、バオム・マガヴルムの極銃、\nバリバッツの極針、どれも素村としては超一級品だ。\n簡単には手に入らないからこそ、\nお前に頼みたいんだ。期待してるぜ！",
-    "Text": "Collect 3 pieces each from these Native\nspecies. Ra Oodan Ultra Pelt, Baum Magavulum\nUltra Gun, Baribatts Ultra Needle.",
+    "Text": "Collect 3 pieces each from these Native\nspecies. Ra Oodan Ultra Pelt, Baum Magavurm\nUltra Gun, Baribatts Ultra Needle.",
     "Enabled": true
   },
   "290119": {
@@ -2011,7 +2011,7 @@
   },
   "290120": {
     "OriginalText": "エウリュードを仕留められるか？\nお前ならなんとかしてくれると思ったんだが。\nハンター用のアタッチパーツを作りたいんだ。\n[a 03]※この約束は１回のみ 捕獲は無効[b]",
-    "Text": "Can you defeat Eurude?\nI thought you could do it.\nI want to make some new weapon attachments.\n[a 03]※Non-Repeatable, Capture not allowed[b]",
+    "Text": "Can you defeat Euryude?\nI thought you could do it.\nI want to make some new weapon attachments.\n[a 03]※Non-Repeatable, Capture not allowed[b]",
     "Enabled": true
   },
   "290121": {
@@ -2031,7 +2031,7 @@
   },
   "290124": {
     "OriginalText": "エウリュードの爪片とギガンテスの殻片を\n手に入れて来い。それぞれ１つずつでいい。\n船体の修理に役立ちそうだ。",
-    "Text": "Get a piece of Eurude Claw Part and a\npiece of Gigantes Shell. I'm gonna use\nto repair the hull.",
+    "Text": "Get a piece of Euryude Claw Part and a\npiece of Gigantes Shell. I'm gonna use\nto repair the hull.",
     "Enabled": true
   },
   "290125": {
@@ -2051,7 +2051,7 @@
   },
   "290128": {
     "OriginalText": "ガラティオンの鋭ノコ刃を手に入れて来い。\n２つは欲しいところだ。\n艦の修理に役立ちそうだ。",
-    "Text": "Get me some Garation Sharp Saw Blade.\nI want 2 pieces of it. It seems\nit's useful for repairing the ship.",
+    "Text": "Get me some Gration Sharp Saw Blade.\nI want 2 pieces of it. It seems\nit's useful for repairing the ship.",
     "Enabled": true
   },
   "290129": {
@@ -2101,7 +2101,7 @@
   },
   "290138": {
     "OriginalText": "ウィルアフォル、ヴィヴリュードに、ギガティオン、\nちょうど役者が揃ってる。しかも凶暴だ。\nお前さんもそろそろこういう連中を撃破して、\nさらなる高みを目指してみちゃどうだ？\n[a 03]※この約束は１回のみ 捕獲は無効[b]",
-    "Text": "Try defeating Viluaphol, Vivryude, and\nGigation. They're stronger and more\nferocious.\n\n[a 03]※Non-Repeatable, Capture not allowed[b]",
+    "Text": "Try defeating Wilaphol, Vivryude, and\nGigation. They're stronger and more\nferocious.\n\n[a 03]※Non-Repeatable, Capture not allowed[b]",
     "Enabled": true
   },
   "290139": {
@@ -2136,7 +2136,7 @@
   },
   "290145": {
     "OriginalText": "伝説のラッピー、アルマラッピー・オナーがこの\n[ruby ほし]惑星[/ruby]で見つかったらしいわ。かなりの希少種よ。\n……きっとかわいい子に違いないわね。\nってそんなことはどうでもいいのよ！\nとにかく本当にいるか確かめて来なさい。",
-    "Text": "It seems that a legendary Rappy, Alma\nRappy Onar, was found on this planet.\nIt's really cute...\nHuh! Forget I said that!",
+    "Text": "It seems that a legendary Rappy, Alma\nRappy Honor, was found on this planet.\nIt's really cute...\nHuh! Forget I said that!",
     "Enabled": true
   },
   "290146": {
@@ -2221,7 +2221,7 @@
   },
   "290162": {
     "OriginalText": "この[ruby ほし]惑星[/ruby]でジュラキア系の反応を検知しました！\n攻撃を受けたら状態異常になるので\n注意して倒して来てください！\n\n[a 03]※この約束は１回のみ[b]",
-    "Text": "We have detected the presence of\nJurrakias on this planet! You'll get bad\nstatus if you got hit with it's attacks!\n\n[a 03]※Non-Repeatable[b]",
+    "Text": "We have detected the presence of\nJurakias on this planet! You'll get bad\nstatus if you got hit with it's attacks!\n\n[a 03]※Non-Repeatable[b]",
     "Enabled": true
   },
   "290163": {
@@ -2291,7 +2291,7 @@
   },
   "290176": {
     "OriginalText": "指定クエストでジャッドバンサーを倒してください。\nめちゃくちゃ強いらしいんですけど、戦闘不能に\nならずに撃破して生還してほしいんです。\nかなり難しい訓練ですから\nこんなの艦長にしかお願いできません！",
-    "Text": "Defeat Jhad Banther in the designated\nquest. I want you to defeat it without\nbeing incapacitated. I believe you can\ndo it!",
+    "Text": "Defeat Jade Banther in the designated\nquest. I want you to defeat it without\nbeing incapacitated. I believe you can\ndo it!",
     "Enabled": true
   },
   "290177": {
@@ -2301,7 +2301,7 @@
   },
   "290178": {
     "OriginalText": "特選素村の調達をお願いしますぞ。\nレ・エクセージＴの極目玉、ラーアビアディノの\n極コブ、そしてロウトルリンプの極ヒレ、\nどれも超一流ゆえ難度も超一流ですが、\nそれに見合う味わいを保証いたしましょう。",
-    "Text": "Please procure top-notch materials.\nLe Equsage T Ultra Eyeball, Lar Aviadino\nUltra Polyp, and Rol Torrimp Ultra Fin.",
+    "Text": "Please procure top-notch materials.\nLe Exage T Ultra Eyeball, Lar Aviadino\nUltra Polyp, and Rou Torrimp Ultra Fin.",
     "Enabled": true
   },
   "290179": {
@@ -2331,7 +2331,7 @@
   },
   "290184": {
     "OriginalText": "バレダイナスの銃片が欲しいんだよな。\n２個ぐらい揃えば、武器の量産体制が\n作れると思うんだ！",
-    "Text": "I want some of Valdinas Gun Piece.\nIf you bring 2 pieces, I can maintain\nthe functionality of the weapons!",
+    "Text": "I want some of Valdynas Gun Piece.\nIf you bring 2 pieces, I can maintain\nthe functionality of the weapons!",
     "Enabled": true
   },
   "290185": {
@@ -2356,17 +2356,17 @@
   },
   "290189": {
     "OriginalText": "ガラティオンの鉄線の入手を頼めるか？\n新しい武器の構想が思い浮かんだんだ！\n３つあれば、実験できると思う。",
-    "Text": "Can I ask you for a Garation Metal Wire?\nI came up with the idea of a new weapon!\nI need 3 pieces for the experiment.",
+    "Text": "Can I ask you for a Gration Metal Wire?\nI came up with the idea of a new weapon!\nI need 3 pieces for the experiment.",
     "Enabled": true
   },
   "290190": {
     "OriginalText": "ギオス系の盾の部品を１つずつ集めてくれ。\nシードギオス、ヴァッドギオス、エアドギオスの\n３種だ。気をつけろよ！",
-    "Text": "Gather shield material from each\nGios-type enemies. Namely Xie Dogios,\nVad Dogios, and Air Dogios. I need 3\npieces each, take care!",
+    "Text": "Gather shield material from each\nGios-type enemies. Namely Sea Dogios,\nVad Dogios, and Air Dogios. I need 3\npieces each, take care!",
     "Enabled": true
   },
   "290191": {
     "OriginalText": "エウリュードの大弾頭を２つ\n取ってきてくれないか？\nこう未知の素村ばっかりだと\nワクワクするよな！",
-    "Text": "Can you get me 2 Eurude Large Warhead?\nI'm excited to see this unknown material!",
+    "Text": "Can you get me 2 Euryude Large Warhead?\nI'm excited to see this unknown material!",
     "Enabled": true
   },
   "290192": {
@@ -2376,12 +2376,12 @@
   },
   "290193": {
     "OriginalText": "モストカーネベアの硬砲身を１つ持ってきてくれ。\n攻撃力を上げるアタッチパーツ開発に\n利用できそうなんだ。\n\n[a 03]※この約束は１回のみ[b]",
-    "Text": "Bring me one of Mosst Carnnebear Hard\nBarrel. I can use to make attachments\nthat increases attack power.\n\n[a 03]※Non-Repeatable[b]",
+    "Text": "Bring me one of Mossed Carnnebear Hard\nBarrel. I can use to make attachments\nthat increases attack power.\n\n[a 03]※Non-Repeatable[b]",
     "Enabled": true
   },
   "290194": {
     "OriginalText": "機械生物のパーツを６個ずつ集めてほしいんだよな。\nバレダイナスの超銃、オルテ・マガヴルムの超銃、\nレ・マクロージの超針、どれも難所を攻めなきゃ\n採れないレア物だぜ。",
-    "Text": "I want you to gather 6 of each\nBiomechanical Parts. Valdinas Super Gun,\nOrte Magavulum Super Gun, and Le Makroge\nSuper Needle.",
+    "Text": "I want you to gather 6 of each\nBiomechanical Parts. Valdynas Super Gun,\nOrte Magavurm Super Gun, and Le Makroge\nSuper Needle.",
     "Enabled": true
   },
   "290195": {
@@ -2436,7 +2436,7 @@
   },
   "290205": {
     "OriginalText": "強化訓練の続きだ！ バレダイナス系を３体、\nマフレザール系を４体、マンデル系を４体\n倒して来い！",
-    "Text": "It's the continuation of your training!\nNow defeat 3 any Valdinas species, 4 any\nMaphrezer species, and 4 any Mander\nspecies!",
+    "Text": "It's the continuation of your training!\nNow defeat 3 any Valdynas species, 4 any\nMaphrezer species, and 4 any Mander\nspecies!",
     "Enabled": true
   },
   "290206": {
@@ -2546,7 +2546,7 @@
   },
   "290227": {
     "OriginalText": "ジュラキアの軟骨を調達してくださいな。\nコリコリした食感を楽しめますし、\nカルシウムの摂取もできる優れものですぞ！",
-    "Text": "Please gather Jurrakia Cartilage.\nYou will enjoy its crunchy texture and\nget some calcium!",
+    "Text": "Please gather Jurakia Cartilage.\nYou will enjoy its crunchy texture and\nget some calcium!",
     "Enabled": true
   },
   "290228": {
@@ -2596,7 +2596,7 @@
   },
   "290237": {
     "OriginalText": "他では手に入らない珍味を調達してくださいな。\nクロザードの超背びれに、サフグランブの超巻き貝、\nスマラクリトロの超舌、いったいどんなお味が\nすることやら……よだれが止まりませんぞ！",
-    "Text": "Please collect these delicacies.\nGu Rozard Super Dorsal Fin, Sahugranv\nSuper Helix, and Smar Crittro Super Mucus.\nI'm drooling!",
+    "Text": "Please collect these delicacies.\nKu Rozard Super Dorsal Fin, Sahugranv\nSuper Helix, and Smar Crittro Super Mucus.\nI'm drooling!",
     "Enabled": true
   },
   "290238": {
@@ -2696,7 +2696,7 @@
   },
   "290257": {
     "OriginalText": "ギガンテスの武装を研究するために、\nスーパーハードでのみ入手可能な素村を調達して\nいただけませんか？ アグリオスの超皮を２個、\nウィルアフォルの超目玉を４個に加えて、\nアルキュオネの超触手が５個必要です。",
-    "Text": "Please gather materials only available\nin SH. I need 2 Agrios Super Hide, 4\nViluaphol Super Eyeball, and 5 Alcyone\nSuper Tentacle.",
+    "Text": "Please gather materials only available\nin SH. I need 2 Agrios Super Hide, 4\nWilaphol Super Eyeball, and 5 Alcyone\nSuper Tentacle.",
     "Enabled": true
   },
   "290258": {
@@ -2856,7 +2856,7 @@
   },
   "300007": {
     "OriginalText": "【トネルバンクゥの石片】を集める",
-    "Text": "Collect [Toner Ban'qu Stone Piece]",
+    "Text": "Collect [Tonner Ban'qu Stone Piece]",
     "Enabled": true
   },
   "300008": {
@@ -2956,7 +2956,7 @@
   },
   "300027": {
     "OriginalText": "【アルレイバンサー撃破任務】を\n【ハンター】でクリアする",
-    "Text": "Clear [Arlay Banther Subjugation] as a Hunter.",
+    "Text": "Clear [Alray Banther Subjugation] as a Hunter.",
     "Enabled": true
   },
   "300028": {
@@ -3001,12 +3001,12 @@
   },
   "300036": {
     "OriginalText": "【マガヴルムの銃身】を集める",
-    "Text": "Collect [Magavulum Cannon]",
+    "Text": "Collect [Magavurm Cannon]",
     "Enabled": true
   },
   "300037": {
     "OriginalText": "【ベガルフの超尻尾】を集める\n【フォンベガルフの超角】を集める",
-    "Text": "Collect [Begulf Super Tail]\nCollect [Fonbegulf Super Horn]",
+    "Text": "Collect [Begulf Super Tail]\nCollect [Fanbegulf Super Horn]",
     "Enabled": true
   },
   "300038": {
@@ -3076,7 +3076,7 @@
   },
   "300051": {
     "OriginalText": "【ガラティオンの硬骨格】を集める",
-    "Text": "Collect [Garation Frame]",
+    "Text": "Collect [Gration Frame]",
     "Enabled": true
   },
   "300052": {
@@ -3116,7 +3116,7 @@
   },
   "300059": {
     "OriginalText": "【超：氷海のエウリュード】を\n【エクストラハード】以上でクリアする",
-    "Text": "Clear [Super: Eurude of the\nIce Sea] on Extra Hard",
+    "Text": "Clear [Super: Euryude of the\nIce Sea] on Extra Hard",
     "Enabled": true
   },
   "300060": {
@@ -3181,7 +3181,7 @@
   },
   "300072": {
     "OriginalText": "【ウィルアフォル：Ｌｖ１６０】を倒す\n【ファンアフォル：Ｌｖ１６０】を倒す",
-    "Text": "Defeat [Viluaphol] Lv.160\nDefeat [Fan'aphol] Lv.160",
+    "Text": "Defeat [Wilaphol] Lv.160\nDefeat [Fan'aphol] Lv.160",
     "Enabled": true
   },
   "300073": {
@@ -3231,7 +3231,7 @@
   },
   "300082": {
     "OriginalText": "【ジャッドバンサー撃破任務】を\n戦闘不能回数１回以下でクリアする",
-    "Text": "Clear [Jhad Banther Subjugation]\nwith 1 incapacitation or less.",
+    "Text": "Clear [Jade Banther Subjugation]\nwith 1 incapacitation or less.",
     "Enabled": true
   },
   "300083": {
@@ -3396,7 +3396,7 @@
   },
   "300115": {
     "OriginalText": "【超：ウィルアフォルの巣】をクリアする",
-    "Text": "Clear [Super: Viluaphol Nest]",
+    "Text": "Clear [Super: Wilaphol Nest]",
     "Enabled": true
   },
   "300116": {
@@ -3416,12 +3416,12 @@
   },
   "300119": {
     "OriginalText": "【ラウーダンの極毛】を集める\n【バオム・マガヴルムの極銃】を集める\n【バリバッツの極針】を集める",
-    "Text": "Collect [Ra Oodan Ultra Pelt]\nCollect [Baum Magavulum Ultra Gun]\nCollect [Baribatts Ultra Needle]",
+    "Text": "Collect [Ra Oodan Ultra Pelt]\nCollect [Baum Magavurm Ultra Gun]\nCollect [Baribatts Ultra Needle]",
     "Enabled": true
   },
   "300120": {
     "OriginalText": "【エウリュード：Ｌｖ１７０】を倒す",
-    "Text": "Defeat [Eurude] Lv.170",
+    "Text": "Defeat [Euryude] Lv.170",
     "Enabled": true
   },
   "300121": {
@@ -3441,7 +3441,7 @@
   },
   "300124": {
     "OriginalText": "【エウリュードの爪片】を集める\n【ギガンテスの殻片】を集める",
-    "Text": "Collect [Eurude Claw Part]\nCollect [Gigantes Shell]",
+    "Text": "Collect [Euryude Claw Part]\nCollect [Gigantes Shell]",
     "Enabled": true
   },
   "300125": {
@@ -3461,7 +3461,7 @@
   },
   "300128": {
     "OriginalText": "【ガラティオンの鋭ノコ刃】を集める",
-    "Text": "Collect [Garation Sharp Saw Blade]",
+    "Text": "Collect [Gration Sharp Saw Blade]",
     "Enabled": true
   },
   "300129": {
@@ -3511,7 +3511,7 @@
   },
   "300138": {
     "OriginalText": "【ウィルアフォル：Ｌｖ１４０】を倒す\n【ヴィヴリュード：Ｌｖ１４０】を倒す\n【ギガティオン：Ｌｖ１４０】を倒す",
-    "Text": "Defeat [Viluaphol] Lv.140\nDefeat [Vivryude] Lv.140\nDefeat [Gigation] Lv.140",
+    "Text": "Defeat [Wilaphol] Lv.140\nDefeat [Vivryude] Lv.140\nDefeat [Gigation] Lv.140",
     "Enabled": true
   },
   "300139": {
@@ -3546,7 +3546,7 @@
   },
   "300145": {
     "OriginalText": "【アルマラッピー・オナー】（レア）を\n倒す",
-    "Text": "Defeat [Alma-Rappy Onar]",
+    "Text": "Defeat [Alma Rappy Honor]",
     "Enabled": true
   },
   "300146": {
@@ -3631,7 +3631,7 @@
   },
   "300162": {
     "OriginalText": "【敵：ジュラキア系】を倒す",
-    "Text": "Defeat [Jurrakia]",
+    "Text": "Defeat [Jurakia]",
     "Enabled": true
   },
   "300163": {
@@ -3711,7 +3711,7 @@
   },
   "300178": {
     "OriginalText": "【ラーアビアディノの極コブ】を集める\n【ロウトルリンプの極ヒレ】を集める\n【レ・エクセージＴの極目玉】を集める",
-    "Text": "Collect [Lar Aviadino Cob]\nCollect [Rol Torrimp Fin]\nCollect [Le Equsage T Eyeball]",
+    "Text": "Collect [Lar Aviadino Cob]\nCollect [Rou Torrimp Fin]\nCollect [Le Exage T Eyeball]",
     "Enabled": true
   },
   "300179": {
@@ -3741,7 +3741,7 @@
   },
   "300184": {
     "OriginalText": "【バレダイナスの銃片】を集める",
-    "Text": "Collect [Valdinas Gun Piece]",
+    "Text": "Collect [Valdynas Gun Piece]",
     "Enabled": true
   },
   "300185": {
@@ -3766,17 +3766,17 @@
   },
   "300189": {
     "OriginalText": "【ガラティオンの鉄線】を集める",
-    "Text": "Collect [Garation Metal Wire]",
+    "Text": "Collect [Gration Metal Wire]",
     "Enabled": true
   },
   "300190": {
     "OriginalText": "【シードギオスの盾】を集める\n【ヴァッドギオスの硬盾】を集める\n【エアドギオスの大盾】を集める",
-    "Text": "Collect [Xie Dogios Shield]\nCollect [Vad Dogios Shield]\nCollect [Air Dogios Shield]",
+    "Text": "Collect [Sea Dogios Shield]\nCollect [Vad Dogios Shield]\nCollect [Air Dogios Shield]",
     "Enabled": true
   },
   "300191": {
     "OriginalText": "【エウリュードの大弾頭】を集める",
-    "Text": "Collect [Large Eurude Warhead]",
+    "Text": "Collect [Large Euryude Warhead]",
     "Enabled": true
   },
   "300192": {
@@ -3786,12 +3786,12 @@
   },
   "300193": {
     "OriginalText": "【モストカーネベアの硬砲身】を集める",
-    "Text": "Collect [Mosst Carnnebear Hard Barrel]",
+    "Text": "Collect [Mossed Carnnebear Hard Barrel]",
     "Enabled": true
   },
   "300194": {
     "OriginalText": "【バレダイナスの超銃】を集める\n【オルテ・マガヴルムの超銃】を集める\n【レ・マクロージの超針】を集める",
-    "Text": "Collect [Valdinas Super Gun]\nCollect [Orte Magavulum Super Gun]\nCollect [Le Makroge Super Needle]",
+    "Text": "Collect [Valdynas Super Gun]\nCollect [Orte Magavurm Super Gun]\nCollect [Le Makroge Super Needle]",
     "Enabled": true
   },
   "300195": {
@@ -3841,12 +3841,12 @@
   },
   "300204": {
     "OriginalText": "【シルブカーネベア：Ｌｖ１５】を倒す",
-    "Text": "Defeat [Sirbucarnne Bear] Lv.15",
+    "Text": "Defeat [Silve Carnnebear] Lv.15",
     "Enabled": true
   },
   "300205": {
     "OriginalText": "【バレダイナス系：Ｌｖ１５】を倒す\n【マフレザール系：Ｌｖ１５】を倒す\n【マンデル系：Ｌｖ１５】を倒す",
-    "Text": "Defeat [Valdinas] Lv.15\nDefeat [Maphrezer] Lv.15\nDefeat [Mander] Lv.15",
+    "Text": "Defeat [Valdynas] Lv.15\nDefeat [Maphrezer] Lv.15\nDefeat [Mander] Lv.15",
     "Enabled": true
   },
   "300206": {
@@ -3866,7 +3866,7 @@
   },
   "300209": {
     "OriginalText": "【難：エウリュード攻略任務】を\n【Ｓランク】以上でクリアする",
-    "Text": "S-rank clear the quest [Danger: Capture Eurude]",
+    "Text": "S-rank clear the quest [Danger: Capture Euryude]",
     "Enabled": true
   },
   "300210": {
@@ -3956,7 +3956,7 @@
   },
   "300227": {
     "OriginalText": "【ジュラキアの軟骨】を集める",
-    "Text": "Collect [Jurrakia Cartilage]",
+    "Text": "Collect [Jurakia Cartilage]",
     "Enabled": true
   },
   "300228": {
@@ -4006,7 +4006,7 @@
   },
   "300237": {
     "OriginalText": "【クロザードの超背びれ】を集める\n【サフグランブの超巻き貝】を集める\n【スマラクリトロの超舌】を集める",
-    "Text": "Collect [Gu Rozard Super Dorsal Fin]\nCollect [Sahugranv Super Helix]\nCollect [Smar Crittro Super Mucus]",
+    "Text": "Collect [Ku Rozard Super Dorsal Fin]\nCollect [Sahugranv Super Helix]\nCollect [Smar Crittro Super Mucus]",
     "Enabled": true
   },
   "300238": {
@@ -4106,7 +4106,7 @@
   },
   "300257": {
     "OriginalText": "【アグリオスの超皮】を集める\n【ウィルアフォルの超目玉】を集める\n【アルキュオネの超触手】を集める",
-    "Text": "Collect [Agrios Super Hide]\nCollect [Viluaphol Super Eyeball]\nCollect [Alcyone Super Tentacle]",
+    "Text": "Collect [Agrios Super Hide]\nCollect [Wilaphol Super Eyeball]\nCollect [Alcyone Super Tentacle]",
     "Enabled": true
   },
   "300258": {

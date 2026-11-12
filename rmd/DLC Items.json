@@ -86,8 +86,8 @@
   },
   "1000095": {
     "OriginalText": "宇宙開拓隊で使われる一般的なブレード。\nエッジのカスタマイズにより、汎用品以上の\n性能を発揮する強力な武器となっている。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A standard Space Reconnaissance\nForce blade. Due to modifications,\nit's more powerful than stock models. ",
+    "Enabled": true
   },
   "1000096": {
     "OriginalText": "スターオーシャン４ レイミ セット",
@@ -156,8 +156,8 @@
   },
   "1000109": {
     "OriginalText": "天使を殺し続けた人に贈られる\n破壊の剣。どんな偉大な神も\nこの剣の前には無力となる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A sword bestowed upon a villain\nwho slays angels. Even the mightiest\ngods are powerless before it.",
+    "Enabled": true
   },
   "1000110": {
     "OriginalText": "エンド オブ エタニティ ヴァシュロン セット",
@@ -186,8 +186,8 @@
   },
   "1000115": {
     "OriginalText": "携帯しやすい小型のハンドガン。\n非常に多くのカスタマイズパーツが\n存在し、使い手を選ばない仕様。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A compact handgun that is easy\nto carry. Endless modifications\nallow it to suit any user.",
+    "Enabled": true
   },
   "1000116": {
     "OriginalText": "エンド オブ エタニティ ゼファー セット",
@@ -216,8 +216,8 @@
   },
   "1000121": {
     "OriginalText": "標準的な性能ながら、カスタマイズ性に\n優れている、ゼファー愛用のマシンガン。\n近距離での攻撃力に優れている。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Twin Machineguns favored by Zephyr.\nPerformance is standard, but it\nexcels at close-range firepower.",
+    "Enabled": true
   },
   "1000122": {
     "OriginalText": "エンド オブ エタニティ リーンベル セット",
@@ -246,8 +246,8 @@
   },
   "1000127": {
     "OriginalText": "一発一発の威力はかけるが、\n連射性能に優れているハンドガン。\nリーンベルが好んで良く使う。",
-    "Text": "",
-    "Enabled": false
+    "Text": "This handgun boasts excellent\nrate of fire at the cost of power.\nReanbell likes to use it often.",
+    "Enabled": true
   },
   "1000128": {
     "OriginalText": "戦場のヴァルキュリア３ リエラ セット",

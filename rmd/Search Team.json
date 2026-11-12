@@ -111,7 +111,7 @@
   },
   "700022": {
     "OriginalText": "［エネミー］エウリュード討伐",
-    "Text": "[Enemy] Eurude Suppression",
+    "Text": "[Enemy] Euryude Suppression",
     "Enabled": true
   },
   "700023": {
@@ -241,7 +241,7 @@
   },
   "700048": {
     "OriginalText": "［エネミー］モストカーネベア討伐",
-    "Text": "[Enemy] Mosst Carnnebear Suppression",
+    "Text": "[Enemy] Mossed Carnnebear Suppression",
     "Enabled": true
   },
   "700049": {
@@ -286,7 +286,7 @@
   },
   "700057": {
     "OriginalText": "［食村調達］炎の高地水晶竜食村調達",
-    "Text": "[Gather] Flame Highlands Earth Crystal Dragon Ingredients",
+    "Text": "[Gather] Flame Highlands Crystal Dragon Ingredients",
     "Enabled": true
   },
   "700058": {
@@ -311,7 +311,7 @@
   },
   "700062": {
     "OriginalText": "［エネミー］ガラティオン討伐",
-    "Text": "[Enemy] Garation Suppression",
+    "Text": "[Enemy] Gration Suppression",
     "Enabled": true
   },
   "700063": {
@@ -546,1097 +546,1097 @@
   },
   "710001": {
     "OriginalText": "鋼の荒野へ食村の調達に向かう。\n今回は小型原生種を標的にするため任務としては\n比較的安全だが、気を抜かず慎重に作戦遂行する。\n結果は追って報告する。",
-    "Text": "Monster Flesh × 3\nReptile Egg × 3\nReptile Extract × 3",
+    "Text": "Heading to the Steel Wastelands to gather\ningredients. Targeting small native species\nmakes it fairly safe, but we'll stay careful.\nResults to follow.",
     "Enabled": true
   },
   "710002": {
     "OriginalText": "鋼の荒野全域の危険度調査に向かう。\n大きな反応を示す未調査エリアを含めた本格調査で\n未確認生命体との遭遇も予想される。\n帰還後、速やかに調査結果をまとめて提出する。",
-    "Text": "G-El Ahda Wings × 4\nVi Maphrezer Claw × 4\nGigantes Laser Piece × 4",
+    "Text": "Heading out to assess danger across the Steel\nWastelands. A full survey, including unexplored\nareas with large signals. Unknown lifeforms are\nlikely. Report to follow on return.",
     "Enabled": true
   },
   "710003": {
     "OriginalText": "グラン水源の調査に向かう。\n未調査エリアも含めた本格調査であり、\n回避不可能な事態との遭遇も予想される。\n帰還後、速やかに調査結果をまとめて提出する。",
-    "Text": "G-El Ahda Stinger × 4\nG-Dagan Carapace × 4\nGran Piece (Light) × 4",
+    "Text": "Heading out to survey the Gran Water Rig. A full\nsurvey, including unexplored areas. Unavoidable\nencounters are likely. Report to follow on\nreturn.",
     "Enabled": true
   },
   "710004": {
     "OriginalText": "鋼の荒野へグランピースの採集に向かう。\n現時点で多数の反応を確認しており、\n属性を帯びた個体の発見が見込まれている。\n結果は追って報告する。",
-    "Text": "Gran Piece (Light) × 4\nGran Piece (Lightning) × 4",
+    "Text": "Heading to the Steel Wastelands to collect Gran\nPieces. Many signals are confirmed, & we expect\nto find elemental ones. Results to follow.",
     "Enabled": true
   },
   "710005": {
     "OriginalText": "グラン水源へ代用食村の調達に向かう。\n食肉が不足していることもあり、取り急ぎ危険領域を\n回避し、入手が容易な食村を探す予定である。\n結果は追って報告する。",
-    "Text": "Darker Meat × 4\nDarker Node × 4\nMagavulum Goo × 4",
+    "Text": "Heading to the Gran Water Rig for substitute\ningredients. Meat is short, so we'll avoid\ndanger zones & look for easy pickings. Results\nto follow.",
     "Enabled": true
   },
   "710006": {
     "OriginalText": "グラン水源へ機械生物の撃破に向かう。\n現地にてかなりの規模の反応を確認しており、\n若干の危険を伴う任務になると予想される。\n結果は追って報告する。",
-    "Text": "Ase Rabbisaw Motor × 4\nMagavulum Cannon × 4\nOui Rove Rappy Main Wing × 4",
+    "Text": "Heading to the Gran Water Rig to destroy machine\ncreatures. Sizable signals are confirmed there,\nso some danger is expected. Results to follow.",
     "Enabled": true
   },
   "710007": {
     "OriginalText": "惑星全域の概要を把握する調査に向かう。\n未確認エリアも含めた本格調査であり\n回避不可能な事態との遭遇も予想される。\n帰還後、速やかに調査結果をまとめて提出する。",
-    "Text": "Memory Fragment E × 4\nGigantes Meat × 4",
+    "Text": "Heading out on a planet-wide overview survey. A\nfull survey, including unconfirmed areas.\nUnavoidable encounters are likely. Report to\nfollow on return.",
     "Enabled": true
   },
   "710008": {
     "OriginalText": "グラン水源でグランピースを採集する。\n現時点で多数の反応を確認しており、\n属性を帯びた個体の発見が見込まれている。\n結果は追って報告する。",
-    "Text": "Gran Piece (Ice) × 4\nGran Piece (Wind) × 4",
+    "Text": "Collecting Gran Pieces at the Gran Water Rig.\nMany signals are confirmed, & we expect to find\nelemental ones. Results to follow.",
     "Enabled": true
   },
   "710009": {
     "OriginalText": "炎の高地へ食用になるものの調達を行う。\n安全を優先し標的は小型原生種に限定する。\n速やかに現地へ向かい、慎重に作戦遂行する。\n結果は追って報告する。",
-    "Text": "Glowing Leaves × 4\nReptile Extract × 4\nReptile Crest × 4",
+    "Text": "Gathering anything edible in the Flame\nHighlands. Safety first, so we'll only target\nsmall native species & proceed carefully.\nResults to follow.",
     "Enabled": true
   },
   "710010": {
     "OriginalText": "炎の高地へコラル・ドラゴンの撃破に向かう。\n現地にて強い反応を確認しており、\nかなりの危険を伴う任務になると予想される。\n結果は追って報告する。",
-    "Text": "Coral Dragon Blood × 4\nCrystalized Dragon Crystal × 4\nCrystalized Dragon Silicon × 4",
+    "Text": "Heading to the Flame Highlands to destroy a\nCoral Dragon. Strong signals are confirmed, so\nconsiderable danger is expected. Results to\nfollow.",
     "Enabled": true
   },
   "710011": {
     "OriginalText": "惑星全域の大気組成の調査に向かう。\n未確認エリアも含めた本格調査であり\n回避不可能な事態との遭遇も予想される。\n帰還後、速やかに調査結果をまとめて提出する。",
-    "Text": "Torrimp Meat × 4\nRapiliston × 4",
+    "Text": "Heading out to survey the planet's atmosphere. A\nfull survey, including unconfirmed areas.\nUnavoidable encounters are likely. Report to\nfollow on return.",
     "Enabled": true
   },
   "710012": {
     "OriginalText": "炎の高地でグランピースを採集する。\n現時点で多数の反応を確認しており、\n属性を帯びた個体の発見が見込まれている。\n結果は追って報告する。",
-    "Text": "Gran Piece (Fire) × 4\nGran Piece (Dark) × 4",
+    "Text": "Collecting Gran Pieces in the Flame Highlands.\nMany signals are confirmed, & we expect to find\nelemental ones. Results to follow.",
     "Enabled": true
   },
   "710013": {
     "OriginalText": "鋼の荒野へ食肉の調達に向かう。\n安全を優先し標的は小型原生種に限定する。\n速やかに現地へ向かい、慎重に作戦遂行する。\n結果は追って報告する。",
-    "Text": "Darker Node × 4\nDarker Meat × 4\nDarker Antennae × 4",
+    "Text": "Heading to the Steel Wastelands for meat. Safety\nfirst, so we'll only target small native species\n& proceed carefully. Results to follow.",
     "Enabled": true
   },
   "710014": {
     "OriginalText": "鋼の荒野へ原生種の撃破に向かう。\n現地における反応はそれほど強くなく、大きな危険は\nないと予想するが、慎重に作戦を遂行する。\n結果は追って報告する。",
-    "Text": "Lar Aviadino Claw × 4\nDarker Sword Fin × 4\nSilve Carnnebear Fur × 4",
+    "Text": "Heading to the Steel Wastelands to destroy\nnative species. Signals there aren't strong, so\nlittle danger is expected, but we'll be careful.\nResults to follow.",
     "Enabled": true
   },
   "710015": {
     "OriginalText": "鋼の荒野全域の生態系調査に向かう。\n未調査エリアも含めた本格調査であり、\n未確認生命体との遭遇も予想される。\n帰還後、速やかに調査結果をまとめて提出する。",
-    "Text": "Darker Antennae × 4\nGran Piece (Lightning) × 4\nGigantes Missile Piece × 4",
+    "Text": "Heading out to survey the Steel Wastelands\necosystem. A full survey, including unexplored\nareas. Unknown lifeforms are likely. Report to\nfollow on return.",
     "Enabled": true
   },
   "710016": {
     "OriginalText": "鋼の荒野にて鉱石の採集に向かう。\n現地にて強いエネミー反応を確認しており、\n採集中に戦闘になる可能性が高い。\n結果は追って報告する。",
-    "Text": "Rapiliston × 4\nSilicified Wood × 4",
+    "Text": "Heading to the Steel Wastelands to collect ore.\nStrong enemy signals are confirmed, so combat\nwhile collecting is likely. Results to follow.",
     "Enabled": true
   },
   "710017": {
     "OriginalText": "鋼の荒野へアグリオスの撃破に向かう。\n現地にて確認されている反応は非常に大きく\n大いなる危険を伴う任務になると予想される。\n結果は追って報告する。",
-    "Text": "Darker Exoskeleton × 4\nGigantes Missile Piece × 4\nAgrios Horn × 4",
+    "Text": "Heading to the Steel Wastelands to destroy an\nAgrios. The signal there is massive, so great\ndanger is expected. Results to follow.",
     "Enabled": true
   },
   "710018": {
     "OriginalText": "グラン水源へ食肉の調達に向かう。\n現地にて大量の反応を確認しており、\nかなりの危険を伴う任務になると予想される。\n結果は追って報告する。",
-    "Text": "Monster Flesh × 4\nReptile Extract × 4\nShellfish × 4",
+    "Text": "Heading to the Gran Water Rig for meat. Many\nsignals are confirmed, so considerable danger is\nexpected. Results to follow.",
     "Enabled": true
   },
   "710019": {
     "OriginalText": "グラン水源へＧダーク・ラグネの撃破に向かう。\n現地にて強い反応を確認しており、\nかなりの危険を伴う任務になると予想される。\n結果は追って報告する。",
-    "Text": "G-Dark Ragne Talon × 4\nEder Crittro Fur × 4\nG-Dark Ragne Hard Feeler × 4",
+    "Text": "Heading to the Gran Water Rig to destroy a\nG-Dark Ragne. Strong signals are confirmed, so\nconsiderable danger is expected. Results to\nfollow.",
     "Enabled": true
   },
   "710020": {
     "OriginalText": "惑星全域の気候調査に向かう。\n未確認エリアも含めた本格調査であり\n回避不可能な事態との遭遇も予想される。\n帰還後、速やかに調査結果をまとめて提出する。",
-    "Text": "Reptile Egg × 4\nPerovuskite Stone × 4",
+    "Text": "Heading out to survey the planet's climate. A\nfull survey, including unconfirmed areas.\nUnavoidable encounters are likely. Report to\nfollow on return.",
     "Enabled": true
   },
   "710021": {
     "OriginalText": "グラン水源にて鉱石の採集に向かう。\n現地にて強いエネミー反応を確認しており、\n採集中に戦闘になる可能性が高い。\n結果は追って報告する。",
-    "Text": "Wood Opal × 4\nRed Growing Flower Crystal × 4",
+    "Text": "Heading to the Gran Water Rig to collect ore.\nStrong enemy signals are confirmed, so combat\nwhile collecting is likely. Results to follow.",
     "Enabled": true
   },
   "710022": {
     "OriginalText": "グラン水源へエウリュードの撃破に向かう。\n現地にて確認されている反応は非常に大きく\n大いなる危険を伴う任務になると予想される。\n結果は追って報告する。",
-    "Text": "Eurude Barrel × 4\nGigantes Laser Piece × 4\nLarge Eurude Warhead × 4",
+    "Text": "Heading to the Gran Water Rig to destroy a\nEuryude. The signal there is massive, so great\ndanger is expected. Results to follow.",
     "Enabled": true
   },
   "710023": {
     "OriginalText": "炎の高地へ代用食村の調達に向かう。\n物資全般が不足しており、食村の確保を優先し\n場合によっては危険領域に侵入する。\n結果は追って報告する。",
-    "Text": "Reptile Crest × 4\nShellfish × 4\nCoral Dragon Blood × 4",
+    "Text": "Heading to the Flame Highlands for substitute\ningredients. All supplies are short, so food\ncomes first, even into danger zones if needed.\nResults to follow.",
     "Enabled": true
   },
   "710024": {
     "OriginalText": "炎の高地へ原生種の撃破に向かう。\n現地において大量の反応を確認しているが、\nそれほど強くなく危険は少ないと予想される。\n結果は追って報告する。",
-    "Text": "Poly Jurrakia Bone × 4\nMar Valdinas Magazine × 4\nGigantes Cracker Fragment × 4",
+    "Text": "Heading to the Flame Highlands to destroy native\nspecies. Many signals are confirmed, but they're\nweak, so little danger is expected. Results to\nfollow.",
     "Enabled": true
   },
   "710025": {
     "OriginalText": "惑星全域の地質調査に向かう。\n未確認エリアも含めた本格調査であり\n回避不可能な事態との遭遇も予想される。\n帰還後、速やかに調査結果をまとめて提出する。",
-    "Text": "Reptile Extract × 4\nMemory Fragment D × 4",
+    "Text": "Heading out to survey the planet's geology. A\nfull survey, including unconfirmed areas.\nUnavoidable encounters are likely. Report to\nfollow on return.",
     "Enabled": true
   },
   "710026": {
     "OriginalText": "炎の高地へ鉱石の採集に向かう。\n現時点で反応は確認済みであり、\n希少な鉱石の発見が見込まれている。\n結果は追って報告する。",
-    "Text": "Frigid Burning Metal Crystal × 4\nRed Growing Flower Crystal × 4",
+    "Text": "Heading to the Flame Highlands to collect ore.\nSignals are already confirmed, & we expect to\nfind rare ore. Results to follow.",
     "Enabled": true
   },
   "710027": {
     "OriginalText": "炎の高地へアルキュオネの撃破に向かう。\n現地にて確認されている反応は非常に大きく\n大いなる危険を伴う任務になると予想される。\n結果は追って報告する。",
-    "Text": "Alcyone's Levitator × 1\nAlcyone Arm Piece × 1\nAlcyone Ink Sac × 1",
+    "Text": "Heading to the Flame Highlands to destroy an\nAlcyone. The signal there is massive, so great\ndanger is expected. Results to follow.",
     "Enabled": true
   },
   "710028": {
     "OriginalText": "鋼の荒野へ食村の調達に向かう。\n食用となるものが見つかり次第回収していく予定で\n場合によっては危険領域に侵入する。\n結果は追って報告する。",
-    "Text": "Juicy Fruit × 5\nReptile Crest × 5\nAgrios Egg × 5",
+    "Text": "Heading to the Steel Wastelands for ingredients.\nWe'll collect anything edible we find, even\nentering danger zones if needed. Results to\nfollow.",
     "Enabled": true
   },
   "710029": {
     "OriginalText": "ギガンテスの捜索討伐に向かう。\n行き先は限定せず、反応の探索、\n追跡と殲滅を行う。\n結果は追って報告する。",
-    "Text": "Large Gygante Gun Part × 5\nAlcyone Arm Piece × 5\nAgrios Blade Platform × 5",
+    "Text": "Heading out to hunt down Gigantes. No set\ndestination. We'll search for signals, track\nthem & wipe them out. Results to follow.",
     "Enabled": true
   },
   "710030": {
     "OriginalText": "古代都市の調査に向かう。\n生息するエネミーの調査を行う。\n未確認生命体との遭遇も予想される。\n帰還後、速やかに調査結果をまとめて提出する。",
-    "Text": "Flobegulf Hair × 4\nJurrakia Bone × 4\nMad Aviadino Sharp Nail × 4",
+    "Text": "Heading out to survey the Ancient City & the\nenemies living there. Unknown lifeforms are\nlikely. Report to follow on return.",
     "Enabled": true
   },
   "710031": {
     "OriginalText": "鋼の荒野へ鉱石の採集に向かう。\n現時点で多数の反応を確認しており、\n希少な鉱石の発見が見込まれている。\n結果は追って報告する。",
-    "Text": "Gran Piece (Light) × 5\nGran Piece (Lightning) × 5\nCrystalline Pyrope × 5",
+    "Text": "Heading to the Steel Wastelands to collect ore.\nMany signals are confirmed, & we expect to find\nrare ore. Results to follow.",
     "Enabled": true
   },
   "710032": {
     "OriginalText": "パトロールを兼ねたエネミーの討伐に向かう。\n行き先は限定せず、反応の探索、\n追跡と殲滅を行う。\n結果は追って報告する。",
-    "Text": "Med Jurrakia Bone × 4\nGu Rozad Fin × 4\nRap Mysteroon Sharp Wing × 4",
+    "Text": "Heading out to subdue enemies, doubling as a\npatrol. No set destination. We'll search for\nsignals, track them & wipe them out. Results to\nfollow.",
     "Enabled": true
   },
   "710033": {
     "OriginalText": "グラン水源へ食肉の調達に向かう。\n食用となる柔らかな肉類を求められており、\n場合によっては危険領域に侵入する。\n結果は追って報告する。",
-    "Text": "Rove Rappy Meat × 5\nGiant Monster Flesh × 5\nBanther Bone × 5",
+    "Text": "Heading to the Gran Water Rig for meat. Soft,\nedible meat was requested, so we may enter\ndanger zones if needed. Results to follow.",
     "Enabled": true
   },
   "710034": {
     "OriginalText": "グラン水源へ機械生物の撃破に向かう。\n現地において大量の反応を確認しているが、\nそれほど強くなく危険は少ないと予想される。\n結果は追って報告する。",
-    "Text": "Rabbisaw Main Motor × 5\nRabbisaw Hard Ear Chain × 5\nRay Banther Pointed Horn × 5",
+    "Text": "Heading to the Gran Water Rig to destroy machine\ncreatures. Many signals are confirmed, but\nthey're weak, so little danger is expected.\nResults to follow.",
     "Enabled": true
   },
   "710035": {
     "OriginalText": "大尖塔のエネミーから牙を採取する。\n現地にてかなり強い反応を確認しており、\n若干の危険を伴う任務になると予想される。\n結果は追って報告する。",
-    "Text": "Fury Ra Oodan Sharp Fang × 4\nBanther Fang × 4\nBanther Sharp Fang × 4",
+    "Text": "Harvesting fangs from enemies at the Large\nSpire. Fairly strong signals are confirmed, so\nsome danger is expected. Results to follow.",
     "Enabled": true
   },
   "710036": {
     "OriginalText": "グラン水源へ岩石の採集に向かう。\n現地にて反応を確認済みだが、\n同時に強めのエネミー反応も確認している。\n安全確保に留意しつつ作戦を遂行する。",
-    "Text": "Gran Piece (Wind) × 5\nGran Piece (Ice) × 5\nDull Silica Corundum × 5",
+    "Text": "Heading to the Gran Water Rig to collect rock.\nSignals are confirmed, but so are fairly strong\nenemy signals. We'll proceed with safety in\nmind.",
     "Enabled": true
   },
   "710037": {
     "OriginalText": "大尖塔へ原生爬虫類の撃破に向かう。\n現地にてかなり強い反応を確認しており、\n若干の危険を伴う任務になると予想される。\n結果は追って報告する。",
-    "Text": "Huy Maphrezer Sharp Hook Claw × 4\nNoibaridran'na Sharp Claw × 4\nWindiras Large Tail × 4",
+    "Text": "Heading to the Large Spire to destroy native\nreptiles. Fairly strong signals are confirmed,\nso some danger is expected. Results to follow.",
     "Enabled": true
   },
   "710038": {
     "OriginalText": "炎の高地へ原生種の食村調達に向かう。\n採集が困難とされる食村に狙いを絞って採集を行う。\nかなりの危険を伴う任務になると予想される。\n結果は追って報告する。",
-    "Text": "Dragonkin Meat × 5\nTorrimp Meat × 5\nAlcyone's Jelly × 5",
+    "Text": "Heading to the Flame Highlands for native\nspecies ingredients, focusing on hard-to-get\nones. Considerable danger is expected. Results\nto follow.",
     "Enabled": true
   },
   "710039": {
     "OriginalText": "惑星本体でギガンテスの捜索討伐に向かう。\n行き先は限定せず、反応の探索、\n追跡と殲滅を行う。\n結果は追って報告する。",
-    "Text": "Greios's Main Cannon × 5\nSharp Greios Horn × 5\nGaration Metal Wire × 5",
+    "Text": "Heading out to hunt down Gigantes on the planet\nitself. No set destination. We'll search for\nsignals, track them & wipe them out. Results to\nfollow.",
     "Enabled": true
   },
   "710040": {
     "OriginalText": "惑星全域に出現するギガンテス調査に向かう。\n未確認エリアも含めた本格調査であり\n回避不可能な事態との遭遇も予想される。\n帰還後、速やかに調査結果をまとめて提出する。",
-    "Text": "Gigantes Missile Piece × 5\nVivryude Claw × 5\nDefcyone Tentacle × 5",
+    "Text": "Heading out to survey Gigantes across the\nplanet. A full survey, including unconfirmed\nareas. Unavoidable encounters are likely. Report\nto follow on return.",
     "Enabled": true
   },
   "710041": {
     "OriginalText": "炎の高地へ輝石の採集に向かう。\n現地にて確認されているエネミー反応が非常に大きく\n大いなる危険を伴う任務になると予想される。\n結果は追って報告する。",
-    "Text": "Gran Piece (Dark) × 5\nGran Piece (Fire) × 5\nHeated Rhodium Pyroxene × 5",
+    "Text": "Heading to the Flame Highlands to collect\npyroxene. The enemy signals there are massive,\nso great danger is expected. Results to follow.",
     "Enabled": true
   },
   "710042": {
     "OriginalText": "大尖塔へ原生生物の撃破に向かう。\n現地にて確認されている反応は非常に大きく\n大いなる危険を伴う任務になると予想される。\n結果は追って報告する。",
-    "Text": "G-Dahgash Tail Fin × 4\nLeu Rove Rappy Large Fat × 4\nLeu Rove Rappy Wing × 4",
+    "Text": "Heading to the Large Spire to destroy native\ncreatures. The signal there is massive, so great\ndanger is expected. Results to follow.",
     "Enabled": true
   },
   "710043": {
     "OriginalText": "大尖塔で食用できる植物を採集する。\n現地にて確認されているエネミー反応が非常に大きく\n大いなる危険を伴う任務になると予想される。\n結果は追って報告する。",
-    "Text": "Moss × 4\nRice × 4\nLarge Mushroom × 4",
+    "Text": "Collecting edible plants at the Large Spire. The\nenemy signals there are massive, so great danger\nis expected. Results to follow.",
     "Enabled": true
   },
   "710044": {
     "OriginalText": "大尖塔へ原生種の撃破に向かう。\n現地にて確認されている反応は非常に大きく\n大いなる危険を伴う任務になると予想される。\n結果は追って報告する。",
-    "Text": "Fury Ra Oodan Pelt × 4\nMysteroon Sharp Wing × 4\nHard G-El Ahda Feeler × 4",
+    "Text": "Heading to the Large Spire to destroy native\nspecies. The signal there is massive, so great\ndanger is expected. Results to follow.",
     "Enabled": true
   },
   "710045": {
     "OriginalText": "古代都市の地域の調査に向かう。\n予備調査データでは未確認のエリアが点在しており\n若干の危険を伴う任務になると予想される。\n帰還後、速やかに調査結果をまとめて提出する。",
-    "Text": "Flobegulf Hair × 5\nYeden Pelt × 5\nFlo Fonbegulf Hair × 5",
+    "Text": "Heading out to survey the Ancient City region.\nPreliminary data shows scattered unconfirmed\nareas, so some danger is expected. Report to\nfollow on return.",
     "Enabled": true
   },
   "710046": {
     "OriginalText": "大尖塔へ遺物収集に向かう。\n現地を調査し収集可能な遺物を回収する。\n場合によっては危険領域に侵入する。\n結果は追って報告する。",
-    "Text": "Obelisk Fragment × 4\nLarge Spire's Wire × 4\nDyed Ceramics × 4",
+    "Text": "Heading to the Large Spire to collect relics.\nWe'll survey the site & recover what we can,\neven entering danger zones if needed. Results to\nfollow.",
     "Enabled": true
   },
   "710047": {
     "OriginalText": "古代都市の食村調達に向かう。\n植物由来の食村に絞って調達を行う。\n未確認生命体との遭遇も予想される。\n帰還後、速やかに調査結果をまとめて提出する。",
-    "Text": "Small Tree Nuts × 4\nTomato × 4\nMoss × 4",
+    "Text": "Heading to the Ancient City for ingredients,\nplant-based only. Unknown lifeforms are likely.\nReport to follow on return.",
     "Enabled": true
   },
   "710048": {
     "OriginalText": "古代都市へモストカーネベアの撃破に向かう。\n現地にて強い反応を確認しており、\nかなりの危険を伴う任務になると予想される。\n結果は追って報告する。",
-    "Text": "Yeden Pelt × 5\nMossed Carnnebear Pelt × 5\nMossed Carnnebear Cannon × 5",
+    "Text": "Heading to the Ancient City to destroy a Mossed\nCarnnebear. Strong signals are confirmed, so\nconsiderable danger is expected. Results to\nfollow.",
     "Enabled": true
   },
   "710049": {
     "OriginalText": "惑星全域の出現するダーカー調査に向かう。\n未確認エリアも含めた本格調査であり\n回避不可能な事態との遭遇も予想される。\n帰還後、速やかに調査結果をまとめて提出する。",
-    "Text": "G-Kuklonahda Tail × 5\nG-Predicahda Blade × 5\nG-Kuklonahda Arm × 5",
+    "Text": "Heading out to survey Darkers across the planet.\nA full survey, including unconfirmed areas.\nUnavoidable encounters are likely. Report to\nfollow on return.",
     "Enabled": true
   },
   "710050": {
     "OriginalText": "古代都市へ資村の採集に向かう。\n調査報告によると現地に反応が認められるが、\nエネミー反応が非常に大きく\n大いなる危険を伴う任務になると予想される。",
-    "Text": "Steel Layered Sheet × 5\nWild Tree × 5\nBlack Shell-less Shellfish × 5",
+    "Text": "Heading to the Ancient City to collect\nmaterials. Reports confirm signals there, but\nthe enemy signals are massive, so great danger\nis expected.",
     "Enabled": true
   },
   "710051": {
     "OriginalText": "鋼の荒野へ食肉の調達に向かう。\n今回は大型原生種を標的にするため、若干の危険を\n伴うものと予想され、慎重に作戦遂行する。\n結果は追って報告する。",
-    "Text": "Reptile Extract × 5\nReptile Crest × 5\nGiant Monster Flesh × 5",
+    "Text": "Heading to the Steel Wastelands for meat. We're\ntargeting large native species, so some danger\nis expected. We'll proceed carefully. Results to\nfollow.",
     "Enabled": true
   },
   "710052": {
     "OriginalText": "鋼の荒野で大量発生した原生種の討伐に向かう。\nかなりの危険を伴う任務になると予想される。\n結果は追って報告する。",
-    "Text": "Monster Flesh × 5\nGu Rozad Claw × 5\nLarge Ra Oodan Pelt × 5",
+    "Text": "Heading out to subdue a native species outbreak\nin the Steel Wastelands. Considerable danger is\nexpected. Results to follow.",
     "Enabled": true
   },
   "710053": {
     "OriginalText": "爬虫類の生態系調査に向かう。\n未確認エリアも含めた本格調査であり\n回避不可能な事態との遭遇も予想される。\n帰還後、速やかに調査結果をまとめて提出する。",
-    "Text": "Reptile Meat × 5\nHard Vi Maphrezer Membrane × 5\nLarge Baridran'na Glowing Ball × 5",
+    "Text": "Heading out to survey the reptile ecosystem. A\nfull survey, including unconfirmed areas.\nUnavoidable encounters are likely. Report to\nfollow on return.",
     "Enabled": true
   },
   "710054": {
     "OriginalText": "グラン水源へ食村の調達に向かう。\n食用となる柔らかな肉類を求められており、\n場合によっては危険領域に侵入する。\n結果は追って報告する。",
-    "Text": "Monster Flesh × 5\nRove Rappy Meat × 5\nFish Gigantes Meat × 5",
+    "Text": "Heading to the Gran Water Rig for ingredients.\nSoft, edible meat was requested, so we may enter\ndanger zones if needed. Results to follow.",
     "Enabled": true
   },
   "710055": {
     "OriginalText": "グラン水源に出現した巨大な反応の撃破に向かう。\nどのタイプかは確定できていないが\n大いなる危険を伴う任務になると予想される。\n結果は追って報告する。",
-    "Text": "Gigantes Hide × 5\nDietoas Compression Bag × 5\nVivryude Gun Barrel × 5",
+    "Text": "Heading out to destroy a huge signal at the Gran\nWater Rig. Its type is unconfirmed, but great\ndanger is expected. Results to follow.",
     "Enabled": true
   },
   "710056": {
     "OriginalText": "惑星全域の生態系調査に向かう。\n未確認エリアも含めた本格調査であり\n回避不可能な事態との遭遇も予想される。\n帰還後、速やかに調査結果をまとめて提出する。",
-    "Text": "Eder Crittro Fur × 5\nSwole Ban'qu Gem × 5\nEl Maphrezer Sharp Hook Claw × 5",
+    "Text": "Heading out to survey the planet's ecosystem. A\nfull survey, including unconfirmed areas.\nUnavoidable encounters are likely. Report to\nfollow on return.",
     "Enabled": true
   },
   "710057": {
     "OriginalText": "食料としてコラル・ドラゴンの撃破に向かう。\n翼の付け根の肉は柔らかくて美味だが\n一体から取れる量は極めて少量。\n結果は追って報告する。",
-    "Text": "Dragonkin Meat × 5\nMagavulum Goo × 5\nCoral Dragon Blood × 5",
+    "Text": "Heading out to destroy a Coral Dragon for food.\nThe meat at the base of the wings is tender &\ndelicious, but each one yields very little.\nResults to follow.",
     "Enabled": true
   },
   "710058": {
     "OriginalText": "炎の高地で検知された大型エネミーの討伐を行う。\nギガンテスの可能性もあるため、\nかなりの危険を伴うことが予想される。\n結果は追って報告する。",
-    "Text": "Alcyone Shoulder Armor × 5\nDefcyone Ink Sac × 5\nCrystalized Dragon Silicon × 5",
+    "Text": "Subduing a large enemy detected in the Flame\nHighlands. It may be a Gigantes, so considerable\ndanger is expected. Results to follow.",
     "Enabled": true
   },
   "710059": {
     "OriginalText": "大尖塔へ大型エネミーの撃破に向かう。\n現地にてかなり強い反応を確認しており、\n若干の危険を伴う任務になると予想される。\n結果は追って報告する。",
-    "Text": "Banther Pointed Horn × 5\nRay Banther Sharp Hook Claw × 5\nResol Carnnebear Large Pelt × 5",
+    "Text": "Heading to the Large Spire to destroy large\nenemies. Fairly strong signals are confirmed, so\nsome danger is expected. Results to follow.",
     "Enabled": true
   },
   "710060": {
     "OriginalText": "大尖塔へ食料の調達に向かう。\n食用にできるものの調査を兼ねた探索を行う。\n場合によっては危険領域に侵入する。\n結果は追って報告する。",
-    "Text": "Darker Meat × 5\nRice × 5\nRock Salt × 5",
+    "Text": "Heading to the Large Spire for food. We'll\nexplore while surveying what's edible, even\nentering danger zones if needed. Results to\nfollow.",
     "Enabled": true
   },
   "710061": {
     "OriginalText": "大尖塔へゴルドスの撃破に向かう。\n現地にて複数の強い反応を確認しており、\nかなりの危険を伴う任務になると予想される。\n結果は追って報告する。",
-    "Text": "Su Rozad Sharp Claw × 5\nGordes Sharp Assault Spike × 5\nGordes Hard Control Rod × 5",
+    "Text": "Heading to the Large Spire to destroy a Gordes.\nMultiple strong signals are confirmed, so\nconsiderable danger is expected. Results to\nfollow.",
     "Enabled": true
   },
   "710062": {
     "OriginalText": "大尖塔へガラティオンの撃破に向かう。\n現地にて確認されている反応は非常に大きく\n大いなる危険を伴う任務になると予想される。\n結果は追って報告する。",
-    "Text": "Gigantes Meat × 5\nGaration's Sharp Saw Blade × 5\nGaration Frame × 5",
+    "Text": "Heading to the Large Spire to destroy a\nGration. The signal there is massive, so great\ndanger is expected. Results to follow.",
     "Enabled": true
   },
   "710063": {
     "OriginalText": "古代都市へ食肉の調達に向かう。\n厨房からの意向で鳥類の確保を目指すが\n安全を優先し危険生物の生息域を避けて行動する。\n結果は追って報告する。",
-    "Text": "Small Tree Nuts × 5\nJurrakia Cartilage × 5\nBird Meat × 5",
+    "Text": "Heading to the Ancient City for meat. The\nkitchen wants birds, but safety comes first, so\nwe'll avoid dangerous habitats. Results to\nfollow.",
     "Enabled": true
   },
   "710064": {
     "OriginalText": "古代都市のエネミー掃討作戦に向かう。\n現地にて強い反応を確認しており、\nかなりの危険を伴う任務になると予想される。\n結果は追って報告する。",
-    "Text": "Large Torrimp Pectoral Fin × 5\nJurrakia Bone × 5\nSharp G-Shalurayda Arm Blade × 5",
+    "Text": "Heading out on an enemy sweep in the Ancient\nCity. Strong signals are confirmed, so\nconsiderable danger is expected. Results to\nfollow.",
     "Enabled": true
   },
   "710065": {
     "OriginalText": "惑星全域の地質調査に向かう。\n未確認エリアも含めた本格調査であり\n回避不可能な事態との遭遇も予想される。\n帰還後、速やかに調査結果をまとめて提出する。",
-    "Text": "Dull Silica Corundum × 5\nCrystalline Pyrope × 5\nHeated Rhodium Pyroxene × 5",
+    "Text": "Heading out to survey the planet's geology. A\nfull survey, including unconfirmed areas.\nUnavoidable encounters are likely. Report to\nfollow on return.",
     "Enabled": true
   },
   "710066": {
     "OriginalText": "アグリオスのたまごの調達に向かう。\nたまごを守るアグリオスとの戦闘は大いに危険を伴うと\n予想され、慎重に作戦遂行する。\n結果は追って報告する。",
-    "Text": "Reptile Meat × 5\nReptile Egg × 5\nAgrios Egg × 5",
+    "Text": "Heading out to gather Agrios eggs. Fighting the\nAgrios guarding them is expected to be very\ndangerous, so we'll proceed carefully. Results\nto follow.",
     "Enabled": true
   },
   "710067": {
     "OriginalText": "鋼の荒野で偵察目的の原生種討伐に向かう。\n現地における反応はそれほど強くなく、大きな危険は\nないと予想するが、慎重に作戦を遂行する。\n結果は追って報告する。",
-    "Text": "Aviadino Sharp Claw × 6\nPol Torrimp Large Pectoral Fin × 6\nGargranv Hard Mucus Crystal × 6",
+    "Text": "Heading to the Steel Wastelands to subdue native\nspecies as recon. Signals aren't strong, so\nlittle danger is expected, but we'll be careful.\nResults to follow.",
     "Enabled": true
   },
   "710068": {
     "OriginalText": "鋼の荒野全域の調査に向かう。\n未調査エリアも含めた本格調査であり、\n回避不可能な事態との遭遇も予想される。\n帰還後、速やかに調査結果をまとめて提出する。",
-    "Text": "Crystalline Pyrope × 6\nAgrios' Gun × 6",
+    "Text": "Heading out to survey the Steel Wastelands. A\nfull survey, including unexplored areas.\nUnavoidable encounters are likely. Report to\nfollow on return.",
     "Enabled": true
   },
   "710069": {
     "OriginalText": "鋼の荒野へ岩石の採集に向かう。\n現地にて反応を確認済みだが、\n同時に強めのエネミー反応も確認している。\n安全確保に留意しつつ作戦を遂行する。",
-    "Text": "Gran Piece (Light) × 6\nGran Piece (Lightning) × 6\nCrystalline Pyrope × 6",
+    "Text": "Heading to the Steel Wastelands to collect rock.\nSignals are confirmed, but so are fairly strong\nenemy signals. We'll proceed with safety in\nmind.",
     "Enabled": true
   },
   "710070": {
     "OriginalText": "鋼の荒野へ機械生物の撃破に向かう。\n現地において大量の反応を確認しているが、\nそれほど強くなく危険は少ないと予想される。\n結果は追って報告する。",
-    "Text": "Gigantes Missile Piece × 8\nLar Valdinas Large Optics × 8\nLarge Ray Banther Cannon × 8",
+    "Text": "Heading to the Steel Wastelands to destroy\nmachine creatures. Many signals are confirmed,\nbut they're weak, so little danger is expected.\nResults to follow.",
     "Enabled": true
   },
   "710071": {
     "OriginalText": "グラン水源へ大量の食村の調達に向かう。\n周囲にギガンテスの反応を検知しているが、\n運悪く遭遇した場合は捕食者がどちらになるか……\n結果は追って報告する。",
-    "Text": "Monster Milk × 6\nFish Gigantes Meat × 6\nBanther Bone × 6",
+    "Text": "Heading to the Gran Water Rig for lots of\ningredients. Gigantes signals are nearby. If we\nmeet one, who eats who is anyone's guess.\nResults to follow.",
     "Enabled": true
   },
   "710072": {
     "OriginalText": "複数のギガンテスの目撃されている地域の捜索と\nその撃破に向かう。\n大いなる危険を伴う任務になると予想される。\n結果は追って報告する。",
-    "Text": "Dietoas Compression Bag × 8\nLarge Gygante Gun Part × 8\nDietoas Lens × 8",
+    "Text": "Heading out to search an area with multiple\nGigantes sightings & destroy them. Great danger\nis expected. Results to follow.",
     "Enabled": true
   },
   "710073": {
     "OriginalText": "グラン水源全域の生態系調査に向かう。\n未調査エリアも含めた本格調査であり、\n未確認生命体との遭遇も予想される。\n帰還後、速やかに調査結果をまとめて提出する。",
-    "Text": "Eder Crittro Fur × 6\nLarge Ray Banther Cannon × 6",
+    "Text": "Heading out to survey the Gran Water Rig\necosystem. A full survey, including unexplored\nareas. Unknown lifeforms are likely. Report to\nfollow on return.",
     "Enabled": true
   },
   "710074": {
     "OriginalText": "グラン水源で広域の鉱物の採集に向かう。\n人海戦術による早期鉱物発見を目指すが、\nエネミーとの遭遇の確率も上がってしまう。\n安全確保に留意しつつ作戦を遂行する。",
-    "Text": "Gran Piece (Wind) × 6\nGran Piece (Ice) × 6\nDull Silica Corundum × 6",
+    "Text": "Heading out to collect minerals across the Gran\nWater Rig. Strength in numbers should find them\nfast, but raises the odds of enemy encounters.",
     "Enabled": true
   },
   "710075": {
     "OriginalText": "グラン水源へ大型エネミーの撃破に向かう。\n捜索と撃破の両方が要求されるため\nかなりの危険を伴う任務になると予想される。\n結果は追って報告する。",
-    "Text": "Gigantes Shell Fragment × 10\nDarker Pelt × 10\nSmar Crittro Sharp Claw × 10",
+    "Text": "Heading to the Gran Water Rig to destroy large\nenemies. It calls for both searching &\ndestroying, so considerable danger is expected.\nResults to follow.",
     "Enabled": true
   },
   "710076": {
     "OriginalText": "炎の高地のコラル・ドラゴンの巣穴を強襲、\nそのたまごの奪取を狙う。\n相当の危険を伴う任務になると予想される。\n結果は追って報告する。",
-    "Text": "Torrimp Meat × 6\nCoral Dragon Blood × 6\nDragonkin Egg × 6",
+    "Text": "Raiding a Coral Dragon nest in the Flame\nHighlands to seize its eggs. Serious danger is\nexpected. Results to follow.",
     "Enabled": true
   },
   "710077": {
     "OriginalText": "炎の高地へアルキュオネの撃破に向かう。\nかなりの危険を伴うが、こちらも持てる最大の戦力を\n投入してこれの撃破に当たる。\n結果は追って報告する。",
-    "Text": "Gigantes Engine Gear × 10\nAlcyone's Levitator × 10\nAlcyone's Jelly × 10",
+    "Text": "Heading to the Flame Highlands to destroy an\nAlcyone. It's quite dangerous, so we're sending\neverything we've got. Results to follow.",
     "Enabled": true
   },
   "710078": {
     "OriginalText": "炎の高地全域の機械生物調査に向かう。\n未調査エリアも含めた本格調査であり、\n未確認生命体との遭遇も予想される。\n帰還後、速やかに調査結果をまとめて提出する。",
-    "Text": "Mech Armor Fragment × 6\nMachinery Fragment × 6\nCrude Engine Frame × 6",
+    "Text": "Heading out to survey machine creatures across\nthe Flame Highlands. A full survey, including\nunexplored areas. Unknown lifeforms are likely.\nReport to follow on return.",
     "Enabled": true
   },
   "710079": {
     "OriginalText": "炎の高地で広域の鉱物の採集に向かう。\n人海戦術による早期鉱物発見を目指すが、\nエネミーとの遭遇の確率も上がってしまう。\n安全確保に留意しつつ作戦を遂行する。",
-    "Text": "Gran Piece (Dark) × 6\nGran Piece (Fire) × 6\nHeated Rhodium Pyroxene × 6",
+    "Text": "Heading out to collect minerals across the Flame\nHighlands. Strength in numbers should find them\nfast, but raises the odds of enemy encounters.",
     "Enabled": true
   },
   "710080": {
     "OriginalText": "ギガンテスの広範囲捜索討伐に向かう。\n行き先は限定せず、反応の探索、\n追跡と殲滅を行う。\n結果は追って報告する。",
-    "Text": "Gigantes Cracker Fragment × 8\nGigantes Missile Piece × 8\nGigantes Laser Piece × 8",
+    "Text": "Heading out on a wide-range Gigantes hunt. No\nset destination. We'll search for signals, track\nthem & wipe them out. Results to follow.",
     "Enabled": true
   },
   "710081": {
     "OriginalText": "大尖塔へ食料の調達に向かう。\nとにかく植物由来の素村が厨房から熱望されており、\n場合によっては危険領域に侵入する。\n結果は追って報告する。",
-    "Text": "Rice × 5\nMoss × 5\nGigantes Rib × 5",
+    "Text": "Heading to the Large Spire for food. The kitchen\nis desperate for plant-based ingredients, so we\nmay enter danger zones. Results to follow.",
     "Enabled": true
   },
   "710082": {
     "OriginalText": "大尖塔へ大型原生種の撃破に向かう。\n現地において大量の反応を確認しているが、\nこちらも大量の人員を繰り出すので恐れるに足りない。\n結果は追って報告する。",
-    "Text": "Large Ray Banther Cannon × 6\nNoibaridran'na Sharp Claw × 6\nGordes Sharp Assault Spike × 6",
+    "Text": "Heading to the Large Spire to destroy large\nnative species. There are many signals, but\nwe're sending many people, so there's nothing to\nfear. Results to follow.",
     "Enabled": true
   },
   "710083": {
     "OriginalText": "大尖塔で天然樹木の伐採を行う。\n近くに大型エネミーの反応を確認しているが、\n邪魔するようなら一緒に伐採する予定。\n結果は追って報告する。",
-    "Text": "Wild Tree × 6\nGordes Sharp Assault Spike × 6",
+    "Text": "Felling natural trees at the Large Spire. A\nlarge enemy signal is nearby, but if it gets in\nthe way, we'll fell it too. Results to follow.",
     "Enabled": true
   },
   "710084": {
     "OriginalText": "大尖塔へ資村採集に向かう。\n現地を調査し収集可能な資村を回収する。\n場合によっては危険領域に侵入する。\n結果は追って報告する。",
-    "Text": "Gran Piece (Light) × 8\nDyed Ceramics × 8",
+    "Text": "Heading to the Large Spire to collect materials.\nWe'll survey the site & recover what we can,\neven entering danger zones if needed. Results to\nfollow.",
     "Enabled": true
   },
   "710085": {
     "OriginalText": "大尖塔で原生生物の討伐に向かう。\n現地にて複数の強い反応を確認しており、\nかなりの危険を伴う任務になると予想される。\n結果は追って報告する。",
-    "Text": "Monster Pelt × 5\nAviadino Large Polyp × 5\nAga Mysteroon Sharp Horn × 5",
+    "Text": "Heading out to subdue native creatures at the\nLarge Spire. Multiple strong signals are\nconfirmed, so considerable danger is expected.\nResults to follow.",
     "Enabled": true
   },
   "710086": {
     "OriginalText": "古代都市へ食村の調達に向かう。\n厨房からの意向で鳥類の確保を目指すが\nやむを得ず危険領域に侵入する。\n結果は追って報告する。",
-    "Text": "Gigantes Rib × 5\nJurrakia Cartilage × 5\nBird Meat × 5",
+    "Text": "Heading to the Ancient City for ingredients. The\nkitchen wants birds, so we have no choice but to\nenter danger zones. Results to follow.",
     "Enabled": true
   },
   "710087": {
     "OriginalText": "古代都市で検知された大型エネミー撃破に向かう。\n現地にて確認されている反応は非常に大きく\n大いなる危険を伴う任務になると予想される。\n結果は追って報告する。",
-    "Text": "G-Dark Ragne Large Carapace × 8\nOui Valdinas Large Magazine × 8\nResol Carnnebear Large Pelt × 8",
+    "Text": "Heading out to destroy a large enemy detected in\nthe Ancient City. The signal there is massive,\nso great danger is expected. Results to follow.",
     "Enabled": true
   },
   "710088": {
     "OriginalText": "古代都市へデェフキュオネの撃破に向かう。\n現地にて確認されている反応は非常に大きく\n大いなる危険を伴う任務になると予想される。\n結果は追って報告する。",
-    "Text": "Alcyone's Jelly × 6\nDefcyone Ink Sac × 6\nDefcyone Hard Shoulder Carapace × 6",
+    "Text": "Heading to the Ancient City to destroy a\nDefcyone. The signal there is massive, so great\ndanger is expected. Results to follow.",
     "Enabled": true
   },
   "710089": {
     "OriginalText": "古代都市へ朽ちない黒い鉄柱の採集に向かう。\n調査報告によると現地に反応が認められるが、\nエネミー反応が非常に大きく\n大いなる危険を伴う任務になると予想される。",
-    "Text": "Gran Piece (Dark) × 8\nBlack Shell-less Shellfish × 8",
+    "Text": "Heading to the Ancient City to collect black\niron pillars that never decay. Signals are\nreported, but the enemy signals are massive, so\ngreat danger is expected.",
     "Enabled": true
   },
   "710090": {
     "OriginalText": "古代都市へ複数のギガンテスの撃破に向かう。\n現地にて確認されている反応は非常に大きく\n大いなる危険を伴う任務になると予想される。\n結果は追って報告する。",
-    "Text": "Gigantes Shell × 10\nGigantes Meat × 10\nGigantes Hide × 10",
+    "Text": "Heading to the Ancient City to destroy multiple\nGigantes. The signal there is massive, so great\ndanger is expected. Results to follow.",
     "Enabled": true
   },
   "710091": {
     "OriginalText": "ノヴァ内部へ食肉調達に向かう。\n厨房からのこんにゃくが求められており\n場合によっては危険領域に侵入する。\n結果は追って報告する。",
-    "Text": "Rock Salt × 5\nTomato × 5\nShellfish × 5",
+    "Text": "Heading into Nova for meat. The kitchen wants\nkonjac, so we may enter danger zones if needed.\nResults to follow.",
     "Enabled": true
   },
   "710092": {
     "OriginalText": "ノヴァ内部へ偵察を兼ねたエネミー討伐に向かう。\n現地にてかなり強い反応を確認しており、\n若干の危険を伴う任務になると予想される。\n結果は追って報告する。",
-    "Text": "Reptile Meat × 6\nEag Mandel Large Whisker × 6\nLe Equsage T Large Eyeball × 6",
+    "Text": "Heading into Nova to subdue enemies, doubling as\nrecon. Fairly strong signals are confirmed, so\nsome danger is expected. Results to follow.",
     "Enabled": true
   },
   "710093": {
     "OriginalText": "ノヴァ内部の調査に向かう。\n未調査エリアも含めた本格調査であり、\n回避不可能な事態との遭遇も予想される。\n帰還後、速やかに調査結果をまとめて提出する。",
-    "Text": "Gran Piece (Dark) × 6\nReptile Meat × 6\nPulsating Migmatite × 6",
+    "Text": "Heading out to survey Nova's interior. A full\nsurvey, including unexplored areas. Unavoidable\nencounters are likely. Report to follow on\nreturn.",
     "Enabled": true
   },
   "710094": {
     "OriginalText": "ノヴァ内部で鉱石を採集する。\n現地にて反応を確認済みだが、\n同時に強いエネミー反応も確認している。\n安全確保に留意しつつ作戦を遂行する。",
-    "Text": "Gran Piece (Fire) × 8\nPulsating Migmatite × 8",
+    "Text": "Collecting ore inside Nova. Signals are\nconfirmed, but so are strong enemy signals.\nWe'll proceed with safety in mind.",
     "Enabled": true
   },
   "710095": {
     "OriginalText": "ノヴァ内部でのエネミー掃討作戦を行う。\n現地にて確認されている反応は非常に大きく\n大いなる危険を伴う任務になると予想される。\n結果は追って報告する。",
-    "Text": "Le Equsage T Large Eyeball × 8\nVad Dogios Hard Shell × 8\nVad Dogios Shield × 8",
+    "Text": "Carrying out an enemy sweep inside Nova. The\nsignal there is massive, so great danger is\nexpected. Results to follow.",
     "Enabled": true
   },
   "710096": {
     "OriginalText": "ノヴァ内部へ珍味として味わえる食村調達に向かう。\n厨房の意向を叶えるべく、あえて危険領域に侵入する。\n結果は追って報告する。",
-    "Text": "Rock Salt × 5\nReptile Meat × 5\nMagavulum Goo × 5",
+    "Text": "Heading into Nova for delicacy ingredients. To\ngrant the kitchen's wish, we'll deliberately\nenter danger zones. Results to follow.",
     "Enabled": true
   },
   "710097": {
     "OriginalText": "ノヴァ内部へファンアフォルの撃破に向かう。\n現地にて強い反応を確認しており、\nかなりの危険を伴う任務になると予想される。\n結果は追って報告する。",
-    "Text": "Gigantes Laser Piece × 8\nFan'aphol Large Wing × 8\nFan'aphol Large Rectrix × 8",
+    "Text": "Heading into Nova to destroy a Fan'aphol. Strong\nsignals are confirmed, so considerable danger is\nexpected. Results to follow.",
     "Enabled": true
   },
   "710098": {
     "OriginalText": "ノヴァ内部全域の危険度調査に向かう。\n大きな反応を示す未調査エリアを含めた本格調査で\n未確認生命体との遭遇も予想される。\n帰還後、速やかに調査結果をまとめて提出する。",
-    "Text": "Twinkling Cymophane Stone × 10\nVad Dogios Shield × 10\nFan'aphol Large Rectrix × 10",
+    "Text": "Heading out to assess danger across Nova's\ninterior. A full survey, including unexplored\nareas with large signals. Unknown lifeforms are\nlikely. Report to follow on return.",
     "Enabled": true
   },
   "710099": {
     "OriginalText": "ノヴァ内部で瞬くクリソベル石を採集する。\n現地にて確認されているエネミー反応が非常に大きく\n大いなる危険を伴う任務になると予想される。\n結果は追って報告する。",
-    "Text": "Gran Piece (Ice) × 6\nTwinkling Cymophane Stone × 6",
+    "Text": "Collecting glittering Cymophane Stone inside\nNova. The enemy signals there are massive, so\ngreat danger is expected. Results to follow.",
     "Enabled": true
   },
   "710100": {
     "OriginalText": "ノヴァ内部へギガティオンの撃破に向かう。\n現地にて確認されている反応は非常に大きく\n大いなる危険を伴う任務になると予想される。\n結果は追って報告する。",
-    "Text": "Garation's Sharp Saw Blade × 10\nGigation Wire × 10\nGigation Sharp Saw Blade × 10",
+    "Text": "Heading into Nova to destroy a Gigation. The\nsignal there is massive, so great danger is\nexpected. Results to follow.",
     "Enabled": true
   },
   "710101": {
     "OriginalText": "メモリーフラグメントＡ、Ｂの採集に向かう。\n行き先は限定せず、安全を優先しながら\n現地調査の状況により判断する。\n結果は追って報告する。",
-    "Text": "Memory Fragment A × 10\nMemory Fragment B × 10\nMemory Fragment B × 10",
+    "Text": "Heading out to collect Memory Fragments A & B.\nNo set destination. Safety first, we'll decide\nbased on the situation on site. Results to\nfollow.",
     "Enabled": true
   },
   "710102": {
     "OriginalText": "地上でメモリーフラグメントＣ、Ｄの採集に向かう。\n行き先は限定せず、安全を優先しながら\n現地調査の状況により判断する。\n結果は追って報告する。",
-    "Text": "Memory Fragment C × 10\nMemory Fragment D × 10\nMemory Fragment E × 10",
+    "Text": "Heading to the surface to collect Memory\nFragments C & D. No set destination. Safety\nfirst, we'll decide based on the situation on\nsite. Results to follow.",
     "Enabled": true
   },
   "710103": {
     "OriginalText": "惑星本体でメモリーフラグメントＦ、Ｈの採集を行う。\n行き先は限定せず、安全を優先しながら\n現地調査の状況により判断する。\n結果は追って報告する。",
-    "Text": "Memory Fragment F × 10\nMemory Fragment G × 10\nMemory Fragment H × 10",
+    "Text": "Collecting Memory Fragments F & H on the planet\nitself. No set destination. Safety first, we'll\ndecide based on the situation on site. Results\nto follow.",
     "Enabled": true
   },
   "710104": {
     "OriginalText": "地上でメモリーフラグメントの採集に向かう。\nエネミーのランクをハード帯に絞って採集し、\nフラグメントＣ、Ｄの獲得を目指す。\n結果は追って報告する。",
-    "Text": "Memory Fragment C × 20\nMemory Fragment D × 20\nMemory Fragment E × 20",
+    "Text": "Heading to the surface to collect Memory\nFragments. We'll focus on Hard rank enemies to\nget Fragments C & D. Results to follow.",
     "Enabled": true
   },
   "710105": {
     "OriginalText": "メモリーフラグメントＥ、Ｆの採集に向かう。\n地上と惑星本体に隊を分割し、安全を優先しながら\n現地調査の状況により判断する。\n結果は追って報告する。",
-    "Text": "Memory Fragment E × 20\nMemory Fragment F × 20\nMemory Fragment F × 20",
+    "Text": "Heading out to collect Memory Fragments E & F,\nsplitting between the surface & the planet\nitself. Safety first, we'll decide on site.\nResults to follow.",
     "Enabled": true
   },
   "710106": {
     "OriginalText": "メモリーフラグメントＧ、Ｈの採集に向かう。\n高レベルのエネミーが対象になるため、\n危険を伴う任務になると予想される。\n結果は追って報告する。",
-    "Text": "Memory Fragment G × 20\nMemory Fragment H × 20\nMemory Fragment I × 20",
+    "Text": "Heading out to collect Memory Fragments G & H.\nThe targets are high-level enemies, so danger is\nexpected. Results to follow.",
     "Enabled": true
   },
   "710107": {
     "OriginalText": "メモリーフラグメントＩ、Ｊの採集に向かう。\n高レベルのエネミーが対象になるため、\n危険を伴う任務になると予想される。\n結果は追って報告する。",
-    "Text": "Memory Fragment I × 20\nMemory Fragment J × 5\nMemory Fragment K × 3",
+    "Text": "Heading out to collect Memory Fragments I & J.\nThe targets are high-level enemies, so danger is\nexpected. Results to follow.",
     "Enabled": true
   },
   "730101": {
     "OriginalText": "準備万端です！\nいつでも声かけてくださいね。",
-    "Text": "I'm ready!\nPlease call me anytime.",
+    "Text": "All set! Call on me anytime.",
     "Enabled": true
   },
   "730102": {
     "OriginalText": "探索隊を出動させるの？\nまぁかまわないよ。",
-    "Text": "Do you want to dispatch the Search\nTeam? I don't mind.",
+    "Text": "Sending out the search team?\nWell, I don't mind.",
     "Enabled": true
   },
   "730103": {
     "OriginalText": "今度はどこに探索しに行けばいいんだ？",
-    "Text": "Where should I go to search this\ntime?",
+    "Text": "Where should we search this time?",
     "Enabled": true
   },
   "730104": {
     "OriginalText": "知らない場所にいくのってワクワクするよな。",
-    "Text": "It's exciting to go to an unknown\nplace.",
+    "Text": "Going somewhere unknown is exciting, right?",
     "Enabled": true
   },
   "730105": {
     "OriginalText": "僕が探索隊のリーダーだなんて……。",
-    "Text": "Finally, I'm a Leader of the\nSearch Team...",
+    "Text": "Me, the leader of a search team?",
     "Enabled": true
   },
   "730106": {
     "OriginalText": "ここからなら、シャロンさんが\n見えるかな？",
-    "Text": "Can you see Sharon from here?",
+    "Text": "I wonder if I can see Sharon\nfrom here?",
     "Enabled": true
   },
   "730107": {
     "OriginalText": "探索隊を動かしたいのかい？",
-    "Text": "Do you want to commence the\nSearch Team operation?",
+    "Text": "You want to move the search team?",
     "Enabled": true
   },
   "730108": {
     "OriginalText": "なんだ、出撃でもさせんのか？",
-    "Text": "Why don't you let me sortie?",
+    "Text": "What, you sending us out?",
     "Enabled": true
   },
   "730109": {
     "OriginalText": "何なりとお命じください。",
-    "Text": "Please order me anything.",
+    "Text": "Command me as you wish.",
     "Enabled": true
   },
   "730110": {
     "OriginalText": "ん、探索隊を出すのか？",
-    "Text": "Hmm, are you gonna send out a\nSearch Team?",
+    "Text": "Hm, sending out the search team?",
     "Enabled": true
   },
   "730111": {
     "OriginalText": "ワシの探索隊の実力を見たいのじゃろう。",
-    "Text": "You want to see the power of the\nmy Search Team.",
+    "Text": "You want to see what my search team can do,\ndon't you?",
     "Enabled": true
   },
   "730112": {
     "OriginalText": "探索中の動きは俺に任せてもらおう。\nとやかく言われる好きではない。",
-    "Text": "Let me take care of the search.\nI don't like being told anyway.",
+    "Text": "Leave how we move during the search to me.\nI don't like being nagged.",
     "Enabled": true
   },
   "730113": {
     "OriginalText": "探索にはいい頃合い。\nあなたもそう思うでしょ？",
-    "Text": "It's a good time to search.\nYou think so too, right?",
+    "Text": "It's a good time for a search.\nDon't you think so too?",
     "Enabled": true
   },
   "730114": {
     "OriginalText": "探索活動向きの人や\nそうでない人もいます。\nそれを見極めるのがあなたの仕事ですよ。",
-    "Text": "Not all people are good at \nsearching. It's your job to cool\nit down.",
+    "Text": "Some people are suited to search work & some\naren't. Telling them apart is your job.",
     "Enabled": true
   },
   "730115": {
     "OriginalText": "そろそろ探索したく\nなっちゃたんじゃないですか？\nどんどん任せてください！",
-    "Text": "Isn't it time to search?\nPlease leave it all to me.",
+    "Text": "Bet you're itching to send us searching\nby now? Leave it all to us!",
     "Enabled": true
   },
   "730116": {
     "OriginalText": "探索隊に任せっきりじゃなく\nちょっとは手伝ってよね。",
-    "Text": "Don't leave it all to the Search\nTeam, have a little discretion.",
+    "Text": "Don't leave it all to the search team,\nlend a hand once in a while.",
     "Enabled": true
   },
   "730117": {
     "OriginalText": "探索隊を出撃させますか？",
-    "Text": "Do you want to sortie the\nSearch Team?",
+    "Text": "Shall I send out the search team?",
     "Enabled": true
   },
   "730118": {
     "OriginalText": "ガンガン探索行っちゃうよ！\nせっかくなら一緒に行かない？",
-    "Text": "I'm going to search hard!\nWould you go with me?",
+    "Text": "We'll search like crazy! Since we're\nat it, why not come along?",
     "Enabled": true
   },
   "730119": {
     "OriginalText": "あらあらっ、探索いっちゃう？",
-    "Text": "My my, are we going to search?",
+    "Text": "My my, going on a search?",
     "Enabled": true
   },
   "730120": {
     "OriginalText": "私を探索隊のリーダーに据えるとは\n見る目あるんじゃないかしら。",
-    "Text": "I wonder if it's easy to be a\nleader of Search Team.",
+    "Text": "Making me leader of the search team?\nYou've got a good eye, I'd say.",
     "Enabled": true
   },
   "730121": {
     "OriginalText": "探索への出撃準備は出来ています。\nいつでもご指示をお願いします。",
-    "Text": "I'm ready to sortie. Please give\nus instructions any time.",
+    "Text": "We're ready to sortie on the search.\nGive the order anytime.",
     "Enabled": true
   },
   "730122": {
     "OriginalText": "探索とはなかなか\n忍耐のいる任務なんだぞ。",
-    "Text": "Searching is a very patient task.",
+    "Text": "Searching is a mission that takes\nquite a lot of patience, you know.",
     "Enabled": true
   },
   "730123": {
     "OriginalText": "良き探索者とは、探索におけるあらゆる\n失敗を冒した人物のことかもしれんの。\n要は臆せず、まずは試してみることじゃ。",
-    "Text": "Any good searcher made a mistake\nat some point. The point is, don't\nbe afraid, try it first.",
+    "Text": "A good searcher may just be someone who's\nmade every mistake searching can offer.\nThe point is, don't be afraid, just try.",
     "Enabled": true
   },
   "730124": {
     "OriginalText": "心配しなくでも準備は万端さね。",
-    "Text": "Don't worry, I'm ready to go.",
+    "Text": "No need to worry, we're all set.",
     "Enabled": true
   },
   "730125": {
     "OriginalText": "なんだ、探索隊を出撃させるのか？",
-    "Text": "What? You're going to sortie the\nSearch Team?",
+    "Text": "What, sending out the search team?",
     "Enabled": true
   },
   "730126": {
     "OriginalText": "探索隊の準備は出来てるよ。",
-    "Text": "The Search Team is ready.",
+    "Text": "The search team's ready.",
     "Enabled": true
   },
   "730127": {
     "OriginalText": "へへっ、探索隊の準備は\nいつでも万全だぜ！",
-    "Text": "Hehe, the Search Team is\nalways ready!",
+    "Text": "Heh, the search team's always\nfully ready!",
     "Enabled": true
   },
   "730128": {
     "OriginalText": "探索隊にお手伝いできることある？",
-    "Text": "Is there anything I can do for the\nSearch Team?",
+    "Text": "Anything the search team can help with?",
     "Enabled": true
   },
   "730201": {
     "OriginalText": "それでは行ってきます！",
-    "Text": "Let's go!",
+    "Text": "Well then, we're off!",
     "Enabled": true
   },
   "730202": {
     "OriginalText": "まぁ、期待しないで待っててよ。",
-    "Text": "Well, don't expect to wait.",
+    "Text": "Well, don't get your hopes up.",
     "Enabled": true
   },
   "730203": {
     "OriginalText": "じゃっ、行ってくる！",
-    "Text": "Well, I'm going!",
+    "Text": "Alright, we're off!",
     "Enabled": true
   },
   "730204": {
     "OriginalText": "おーっし！ 行ってくるぜ！",
-    "Text": "Woah! I'm going!",
+    "Text": "Alriiight! We're off!",
     "Enabled": true
   },
   "730205": {
     "OriginalText": "えっと……、た、探索隊行ってきます！",
-    "Text": "Um... I'm going with the\nSearch Team!",
+    "Text": "Um, th-the search team's heading out!",
     "Enabled": true
   },
   "730206": {
     "OriginalText": "この探索から帰ったら、\nシャロンさんに……。",
-    "Text": "After the search I'll be going\nhome...,\nto Sharon...",
+    "Text": "When I get back from this search,\nI'm finally telling Sharon how I feel.",
     "Enabled": true
   },
   "730207": {
     "OriginalText": "別にかまわないよ、行って来るね。",
-    "Text": "It doesn't matter, I'll go.",
+    "Text": "Sure, I don't mind. We'll be back.",
     "Enabled": true
   },
   "730208": {
     "OriginalText": "しゃあねぇな、行って来てやるよ。",
-    "Text": "I'm gonna go.",
+    "Text": "Fine, I'll go for you.",
     "Enabled": true
   },
   "730209": {
     "OriginalText": "かしこまりました。\nふふ、期待には応えますよ。",
-    "Text": "Understood. Haha,\nI will meet your expectations.",
+    "Text": "Understood. Heh, I'll live up to\nyour expectations.",
     "Enabled": true
   },
   "730210": {
     "OriginalText": "探索隊、一同出撃！ってか\nさすがにガラじゃねぇな。",
-    "Text": "All the Search Team sortied!\nIt wasn't really appropriate.",
+    "Text": "Search team, all sortie! Yeah, that's\nnot really my style.",
     "Enabled": true
   },
   "730211": {
     "OriginalText": "ワシに任せておけば、万事問題なしじゃ。\n大船に乗ったつもりで待つが良い！",
-    "Text": "Leave it to me, it will be fine.\nJust wait for my reliable plan.",
+    "Text": "Leave it to me & all will be well.\nRest easy, you're in good hands!",
     "Enabled": true
   },
   "730212": {
     "OriginalText": "まぁ、いいだろう。\n出撃する。",
-    "Text": "Well, that's fine.\nI'm going to sortie.",
+    "Text": "Well, fine.\nWe're heading out.",
     "Enabled": true
   },
   "730213": {
     "OriginalText": "そう、あなたの決断を信じるわ。",
-    "Text": "Yes, I believe in your decision.",
+    "Text": "I see. I'll trust your decision.",
     "Enabled": true
   },
   "730214": {
     "OriginalText": "命令ならば仕方ないわね。",
-    "Text": "Can't be helped if it's an order.",
+    "Text": "If it's an order, it can't be helped.",
     "Enabled": true
   },
   "730215": {
     "OriginalText": "まだ見ぬ新天地へ～！！\n頑張りますよ！",
-    "Text": "To the unknown world!!\nI will do my best!",
+    "Text": "To new, unseen lands!!\nWe'll do our best!",
     "Enabled": true
   },
   "730216": {
     "OriginalText": "しょうがないわね。\n行って来るから待ってなさい。",
-    "Text": "Nothing I can do about it.\nI'm going, just you wait.",
+    "Text": "Fine then. I'll go, so wait for me.",
     "Enabled": true
   },
   "730217": {
     "OriginalText": "何事になければ良いのですが。",
-    "Text": "I hope something good will happen.",
+    "Text": "I hope nothing happens.",
     "Enabled": true
   },
   "730218": {
     "OriginalText": "それでは行ってきまーす！",
-    "Text": "Well then let's go!",
+    "Text": "Well then, we're off!",
     "Enabled": true
   },
   "730219": {
     "OriginalText": "じゃあ、楽しみに待ってね！",
-    "Text": "Then, I'm look forward to it.",
+    "Text": "Then look forward to it!",
     "Enabled": true
   },
   "730220": {
     "OriginalText": "たまにはあなたに従って\nあげてもよくってよ。",
-    "Text": "I can follow you once in a while.",
+    "Text": "I suppose I can follow your lead\nonce in a while.",
     "Enabled": true
   },
   "730221": {
     "OriginalText": "ご期待に添えるように\n頑張りますね。",
-    "Text": "I'll do my best to meet your\nexpectations.",
+    "Text": "We'll do our best to live up to\nyour expectations.",
     "Enabled": true
   },
   "730222": {
     "OriginalText": "では、いってきてやろう。",
-    "Text": "So, let's go.",
+    "Text": "Very well, I shall go.",
     "Enabled": true
   },
   "730223": {
     "OriginalText": "心配することはない。\nおぬしは目的地を示した。そこへ至る道は\nわしら探索隊が拓いていってやろうて。",
-    "Text": "Don't worry. I will find our\ndestination. The way to get there\nwill be found by our Search Team.",
+    "Text": "No need to worry. You've shown us the\ndestination. We search team folk will\nclear the road there.",
     "Enabled": true
   },
   "730224": {
     "OriginalText": "まっ、そんな心配しなくて大丈夫だよ。\nいい結果を持ってきてあげるからさ。",
-    "Text": "Well, you don't have to worry about\nit. I'll bring you good results.",
+    "Text": "Hey, no need to worry so much.\nWe'll bring back good results.",
     "Enabled": true
   },
   "730225": {
     "OriginalText": "大将は心配せずに\nどーんと構えて待ってろってな。",
-    "Text": "Don't worry, the boss should hold\non and wait.",
+    "Text": "Boss, don't worry, just sit back\n& wait for us.",
     "Enabled": true
   },
   "730226": {
     "OriginalText": "それじゃ頑張って来るね。",
-    "Text": "Then I'll do my best.",
+    "Text": "Well then, I'll go do my best.",
     "Enabled": true
   },
   "730227": {
     "OriginalText": "期待して待ってろよ！",
-    "Text": "Expect and wait!",
+    "Text": "Look forward to it!",
     "Enabled": true
   },
   "730228": {
     "OriginalText": "それじゃあ、しゅっぱーつ！",
-    "Text": "Well then, let's start!",
+    "Text": "Alright then, let's gooo!",
     "Enabled": true
   },
   "730301": {
     "OriginalText": "探索の結果をお話しさせていただきます。",
-    "Text": "I will tell you the result of\nthe search.",
+    "Text": "Allow me to tell you the search results.",
     "Enabled": true
   },
   "730302": {
     "OriginalText": "探索結果を報告するよ。",
-    "Text": "I will report the search results.",
+    "Text": "I'll report the search results.",
     "Enabled": true
   },
   "730303": {
     "OriginalText": "探索隊、無事帰ったぜ。",
-    "Text": "The Search Team returned safely.",
+    "Text": "The search team's back safe.",
     "Enabled": true
   },
   "730304": {
     "OriginalText": "今回の探索もなかなかおもしろかったぜ！",
-    "Text": "This search was quite interesting!",
+    "Text": "This search was pretty fun too!",
     "Enabled": true
   },
   "730305": {
     "OriginalText": "はぁぁ、なんとか無事帰ってきました……。",
-    "Text": "Humph, I returned safely....",
+    "Text": "Phew, we somehow made it back safe.",
     "Enabled": true
   },
   "730306": {
     "OriginalText": "探索の成果を聞きたいのかい？\nぜひシャロンさんに話したいところだけど\nまぁキミでもいいか。",
-    "Text": "Do you want to hear the search\nresults? I definitely want to talk\nto Sharon, but would you listen?",
+    "Text": "You want to hear what we found? I'd\nrather tell Sharon, but I guess\nyou'll do.",
     "Enabled": true
   },
   "730307": {
     "OriginalText": "まずまずの成果なんじゃないかな？",
-    "Text": "Isn't it a decent result?",
+    "Text": "A decent haul, wouldn't you say?",
     "Enabled": true
   },
   "730308": {
     "OriginalText": "探索の結果報告？\n何だ、めんどくせぇな。",
-    "Text": "Report the search results?\n What a hassle.",
+    "Text": "Report the search results?\nWhat, that's a pain.",
     "Enabled": true
   },
   "730309": {
     "OriginalText": "無事戻りました。\n結果をお聞きになられますか？",
-    "Text": "I returned safely.\nWould you listen to the results?",
+    "Text": "We've returned safely.\nWould you like to hear the results?",
     "Enabled": true
   },
   "730310": {
     "OriginalText": "探索結果出てるぜ、聞いてけよ。",
-    "Text": "The search results are out,\nplease listen.",
+    "Text": "The search results are in, have a listen.",
     "Enabled": true
   },
   "730311": {
     "OriginalText": "探索の結果じゃ。\n心して聞くのじゃぞ！",
-    "Text": "This is the result of the search.\nListen carefully!",
+    "Text": "These are the search results.\nListen well!",
     "Enabled": true
   },
   "730312": {
     "OriginalText": "探索の結果報告だ。",
-    "Text": "The report of the search results\nis ready.",
+    "Text": "The search results report.",
     "Enabled": true
   },
   "730313": {
     "OriginalText": "ふふ、この結果は探索に行く前から\n見えていたわ。",
-    "Text": "Hehe, the results can be seen\nalready before the search.",
+    "Text": "Heh, I could see these results before\nwe even left.",
     "Enabled": true
   },
   "730314": {
     "OriginalText": "探索の報告が欲しいの？",
-    "Text": "Do you want a report of the search?",
+    "Text": "You want the search report?",
     "Enabled": true
   },
   "730315": {
     "OriginalText": "はい、探索の結果報告であります！",
-    "Text": "Yes, it is the report of the\nsearch results.",
+    "Text": "Yes, reporting the search results!",
     "Enabled": true
   },
   "730316": {
     "OriginalText": "無事、帰ってきたわよ。\n……って別にそのことを褒めて欲しい\nとかそういうのじゃないからね。",
-    "Text": "I returned safely. It's not like I\nwant you to praise me.",
+    "Text": "We're back safe. It's not like I want\nyou to praise me for that or anything.",
     "Enabled": true
   },
   "730317": {
     "OriginalText": "探索の結果、お聞きになりますか？",
-    "Text": "Do you want to hear the\nsearch results?",
+    "Text": "Would you like to hear the search results?",
     "Enabled": true
   },
   "730318": {
     "OriginalText": "ねぇねぇ、探索の成果聞いてってよ。",
-    "Text": "Hey, listen to the search results.",
+    "Text": "Hey hey, come hear what we found.",
     "Enabled": true
   },
   "730319": {
     "OriginalText": "じゃあ、探索の結果を\n披露しちゃうわね。",
-    "Text": "Then, I'll show you the result of\nthe search.",
+    "Text": "Then I'll show off the search results.",
     "Enabled": true
   },
   "730320": {
     "OriginalText": "結果を報告？\nふぅ、面倒ね。",
-    "Text": "Report the results?\nPhew, how troublesome.",
+    "Text": "Report the results?\nSigh, how tiresome.",
     "Enabled": true
   },
   "730321": {
     "OriginalText": "それでは探索の結果報告を\nさせていただきますね。",
-    "Text": "Then I will report the result of\nthe search.",
+    "Text": "Now then, allow me to report the\nsearch results.",
     "Enabled": true
   },
   "730322": {
     "OriginalText": "よく聞け、探索の結果報告だ。",
-    "Text": "Listen carefully, this is the\nreport of the results of the\nsearch.",
+    "Text": "Listen up, here's the search results.",
     "Enabled": true
   },
   "730323": {
     "OriginalText": "失敗に失敗を重ねた先に\n成功があるとしたら、\n失敗も成功も等価言えんかの。",
-    "Text": "If there is success after making\nmistakes, then failure and success\nis equal.",
+    "Text": "If success lies beyond failure upon\nfailure, couldn't you say failure &\nsuccess are worth the same?",
     "Enabled": true
   },
   "730324": {
     "OriginalText": "結果報告だね、待ってたよ。",
-    "Text": "It's the result report you've\nbeen waiting.",
+    "Text": "The results report, huh? I've been waiting.",
     "Enabled": true
   },
   "730325": {
     "OriginalText": "探索の成果でも聞きたいのか？",
-    "Text": "Do you want to hear the results of\nyour search?",
+    "Text": "Want to hear what we found?",
     "Enabled": true
   },
   "730326": {
     "OriginalText": "えっと、探索の結果報告だよね。",
-    "Text": "Um, it's the report of the results\nof the search.",
+    "Text": "Um, the search results report, right?",
     "Enabled": true
   },
   "730327": {
     "OriginalText": "探索の結果報告するぜ！",
-    "Text": "I will report the result of\nthe search.",
+    "Text": "Here's the search results report!",
     "Enabled": true
   },
   "730328": {
     "OriginalText": "あっ、探索報告だよね、ええっと……。",
-    "Text": "Oh, it's a search report, um....",
+    "Text": "Oh, the search report, right? Um, let's see.",
     "Enabled": true
   },
   "730401": {
     "OriginalText": "今は探索の命令は出ていません。",
-    "Text": "No search order has been issued now.",
+    "Text": "There are no search orders right now.",
     "Enabled": true
   },
   "730402": {
     "OriginalText": "今は外に出る気にはならないね。",
-    "Text": "I don't feel like going out now.",
+    "Text": "I'm not in the mood to go out right now.",
     "Enabled": true
   },
   "730403": {
     "OriginalText": "今は探索隊は休憩中だぞ。",
-    "Text": "The Search Team is taking a\nbreak now.",
+    "Text": "The search team's on break right now.",
     "Enabled": true
   },
   "730404": {
     "OriginalText": "今の間にトレーニングにでも\n行ってこよっかな？",
-    "Text": "Should I go training in the\nmeantime?",
+    "Text": "Maybe I'll go train in the meantime?",
     "Enabled": true
   },
   "730405": {
     "OriginalText": "このままずっと出撃命令が\nなければいいのに……。",
-    "Text": "I wish I don't have a sortie order\nall the time.",
+    "Text": "I wish there were never any more\nsortie orders.",
     "Enabled": true
   },
   "730406": {
     "OriginalText": "探索から帰った時にボクを迎えてくれる\nシャロンさんの笑顔……。\nいやーたまらないね！！",
-    "Text": "Sharon's smile welcomes me when I\nreturn from the search....\nNo! I can't resist it!",
+    "Text": "Sharon's smile welcoming me back from\na search. Man, I can't take it!!",
     "Enabled": true
   },
   "730407": {
     "OriginalText": "今は休憩中。\n出撃命令は受け付けてないよ。",
-    "Text": "I'm taking a break now.\nI'm not accepting sortie orders.",
+    "Text": "On break right now.\nNot taking sortie orders.",
     "Enabled": true
   },
   "730408": {
     "OriginalText": "なんだよ、探索の命令はないのか。",
-    "Text": "Why is there no search orders?",
+    "Text": "What, no search orders?",
     "Enabled": true
   },
   "730409": {
     "OriginalText": "穏やかな時間は良いですよね。\nまぁ戦場も嫌いではないのですが。",
-    "Text": "Quite times are good. Well, I don't\nhate the battlefield either.",
+    "Text": "Peaceful times are nice, aren't they?\nNot that I dislike the battlefield.",
     "Enabled": true
   },
   "730410": {
     "OriginalText": "今は出撃命令がないんでね。\n骨休めって奴だ",
-    "Text": "I don't have a sortie order right\nnow. I'm relieved.",
+    "Text": "No sortie orders right now.\nTime to rest these bones.",
     "Enabled": true
   },
   "730411": {
     "OriginalText": "なぬっ、さぼっている訳ではないぞ、\n休息も仕事のうちじゃ！",
-    "Text": "What, I'm not skipping, rest is\npart of my work!",
+    "Text": "What, I'm not slacking off,\nrest is part of the job!",
     "Enabled": true
   },
   "730412": {
     "OriginalText": "命令のない時間は\n俺の好きにさせてもらう。",
-    "Text": "I will let you like me when there\nis no order.",
+    "Text": "When there are no orders, I'll do\nas I please.",
     "Enabled": true
   },
   "730413": {
     "OriginalText": "休み、英気を養う。\n探索の成功に不可欠なものね。",
-    "Text": "Taking a break and rest. It's\nessential to the success of the\nsearch.",
+    "Text": "Resting, building up our strength.\nIt's essential to a successful search.",
     "Enabled": true
   },
   "730414": {
     "OriginalText": "こんなところで待ちぼうけなんて……。\n人村の有効活用に関して、提案する\n必要があるかもしれないですね。",
-    "Text": "I don't want to wait....\nIt may be necessary to suggest on\nthe effectiveness of the personnel.",
+    "Text": "Waiting around in a place like this.\nI may need to propose something about\nmaking better use of personnel.",
     "Enabled": true
   },
   "730415": {
     "OriginalText": "あれれ、今日は探索の命令は\nないんですね。",
-    "Text": "Wow, there are no search orders\ntoday.",
+    "Text": "Huh, no search orders today?",
     "Enabled": true
   },
   "730416": {
     "OriginalText": "私達、探索隊の成果で\nここでの生活が支えられてるって\nあんたちゃんとわかってるの？",
-    "Text": "Do you know that the results of the\nSearch Team that support our lives here?",
+    "Text": "You do understand that life here is\nsupported by our search team's work,\nright?",
     "Enabled": true
   },
   "730417": {
     "OriginalText": "探索の命令がない時間は\n気が緩んでいけませんね。",
-    "Text": "You shouldn't relax even when you\ndon't have search orders.",
+    "Text": "Time without search orders makes you\nlose your edge.",
     "Enabled": true
   },
   "730418": {
     "OriginalText": "暇だよね、\nちょっと遊びにいってきていい？",
-    "Text": "You're free right,\ncan you come and visit us?",
+    "Text": "So bored. Can I go play for a bit?",
     "Enabled": true
   },
   "730419": {
     "OriginalText": "命令はまだなの？\nもう、待ちくたびれちゃうわ。",
-    "Text": "Is there an order yet?\nI'm tired of waiting.",
+    "Text": "No orders yet? Geez, I'm getting tired\nof waiting.",
     "Enabled": true
   },
   "730420": {
     "OriginalText": "はぁぁ……。\n探索の命令がないと眠くなっていけないわ。",
-    "Text": "Waaa.. I can't sleep\nwithout a search order.",
+    "Text": "Sigh. Without search orders, I get\nso sleepy.",
     "Enabled": true
   },
   "730421": {
     "OriginalText": "現在、探索隊は休憩中です。\nまたの機会を。",
-    "Text": "The Search Team is currently taking\na break. It will be another chance\nfor them.",
+    "Text": "The search team is currently on break.\nAnother time, please.",
     "Enabled": true
   },
   "730422": {
     "OriginalText": "まぁそう急く必要はなかろう。",
-    "Text": "Well, I don't need to hurry.",
+    "Text": "Well, there's no need to rush.",
     "Enabled": true
   },
   "730423": {
     "OriginalText": "出発をそう急かすものではないよ。\n最初の踏み出す足の向きが\n任務の出来を左右したりすることもある。",
-    "Text": "I'm not rushing to leave. My first\nsteps may affect the mission.",
+    "Text": "Don't rush the departure. Which way the\nfirst step points can decide how the\nmission turns out.",
     "Enabled": true
   },
   "730424": {
     "OriginalText": "よく働いて、よく休む。\nいいアークスの基本だよ。",
-    "Text": "Work hard and rest well.\nIt's the basics of ARKS.",
+    "Text": "Work hard, rest hard.\nThat's the basics of a good ARKS.",
     "Enabled": true
   },
   "730425": {
     "OriginalText": "お前もちょっとは休めよ。\n気を張りすぎるってのは良くねえからな。",
-    "Text": "You need a little rest.\nIt's not bad to be too careful.",
+    "Text": "You should rest a bit too. Being too\nwound up isn't good for you.",
     "Enabled": true
   },
   "730426": {
     "OriginalText": "今の時間は探索隊は休憩中だよ。",
-    "Text": "The Search Team is taking a break\nat this time.",
+    "Text": "The search team's on break right now.",
     "Enabled": true
   },
   "730427": {
     "OriginalText": "えっ、さぼってるって？\nち、違うよ、身体を休めるのは\n仕事のうちってやつだろ？",
-    "Text": "Eh, am I skipping? No, it's part of\nthe job to rest your body, right?",
+    "Text": "Huh, slacking off? N-no, resting your\nbody is part of the job, right?",
     "Enabled": true
   },
   "730428": {
     "OriginalText": "しー、今は探索隊はお休み中だから\n静かにしてあげてね。",
-    "Text": "Shh, the Search Team is on break\nnow, please be quite.",
+    "Text": "Shh, the search team's resting right now,\nso let them be.",
     "Enabled": true
   }
 }

@@ -206,7 +206,7 @@
   },
   "800041": {
     "OriginalText": "レンジャーは中～遠距離からの攻撃を得意とし、射撃武器\nであるアサルトライフル・ツインマシンガンを使いこなす。",
-    "Text": "Rangers are excellent at long to medium range\ncombat by mastering the Assault Rifle or Twin Machinegun.",
+    "Text": "Rangers are excellent at long to medium range\ncombat by mastering the Assault Rifle or Twin Machineguns.",
     "Enabled": true
   },
   "800042": {
@@ -661,7 +661,7 @@
   },
   "800132": {
     "OriginalText": "フォンベガルフは吠えたあと攻撃力が上昇する。",
-    "Text": "Fonbegulf increases its attack after howling.",
+    "Text": "Fanbegulf increases its attack after howling.",
     "Enabled": true
   },
   "800133": {
@@ -831,7 +831,7 @@
   },
   "800166": {
     "OriginalText": "ギガンテス「エウリュード」の攻撃は\n格納装置のランプの色で分かる。",
-    "Text": "The attacks of \"Eurude\" can be determined by the color\nof the lamp of its storage.",
+    "Text": "The attacks of \"Euryude\" can be determined by the color\nof the lamp of its storage.",
     "Enabled": true
   },
   "800167": {
@@ -841,7 +841,7 @@
   },
   "800168": {
     "OriginalText": "ギガンテス「ガラティオン」は\n翼が赤く光るのが攻撃の予兆となる。",
-    "Text": "The wings of \"Gigation\" glows red when it is about\nto attack.",
+    "Text": "The wings of \"Gration\" glows red when it is about\nto attack.",
     "Enabled": true
   },
   "800169": {
@@ -861,7 +861,7 @@
   },
   "800172": {
     "OriginalText": "ギガンテス「エウリュード」はイグニッション発動で捕獲できる。",
-    "Text": "\"Eurude\" can be captured by using the Ignition art.",
+    "Text": "\"Euryude\" can be captured by using the Ignition art.",
     "Enabled": true
   },
   "800173": {
@@ -871,7 +871,7 @@
   },
   "800174": {
     "OriginalText": "ギガンテス「ガラティオン」はイグニッション発動で捕獲できる。",
-    "Text": "\"Garation\" can be captured by using the Ignition art.",
+    "Text": "\"Gration\" can be captured by using the Ignition art.",
     "Enabled": true
   },
   "800175": {
@@ -921,7 +921,7 @@
   },
   "800184": {
     "OriginalText": "レイヴァンは、類いまれな研究の才能が\n評価され副長に抜擢されたらしい。",
-    "Text": "Raven is appointed as Deputy Director for his\nexceptional research talent.",
+    "Text": "Raven is appointed as Executive Officer for his\nexceptional research talent.",
     "Enabled": true
   },
   "800185": {
@@ -936,12 +936,12 @@
   },
   "800187": {
     "OriginalText": "人気格闘ゲーム「フォトンファイター」での\nルティナの決めコンボは浮かしからの反重力ネリチャギらしい。",
-    "Text": "Lutina's finale combo in the popular fighting game called\n\"Photon Fighters\" is an anti-gravity kick.",
+    "Text": "Lutina's finale combo in the popular fighting game called\n\"Photon Fighter\" is an anti-gravity kick.",
     "Enabled": true
   },
   "800188": {
     "OriginalText": "デルタ・ヴァリアントには\nリーティアが管理する秘密の部屋があるらしい。",
-    "Text": "Delta Variant has a secret room managed by Rietheia.",
+    "Text": "Delta Valiant has a secret room managed by Rietheia.",
     "Enabled": true
   },
   "800189": {
@@ -1011,17 +1011,17 @@
   },
   "800202": {
     "OriginalText": "警備部は、非常に優秀な人村のみが選出されるため\nオルターの憧れのセクションとされている。",
-    "Text": "The Defense Force is a favored section of the Alters\nbecause only the talented can be selected.",
+    "Text": "The security force is a favored section of Alter\nbecause only the talented can be selected.",
     "Enabled": true
   },
   "800203": {
     "OriginalText": "コウエンは、率いた隊の死傷者が少ないことから\n「戦場の番犬」という二つ名を持っていた。",
-    "Text": "Cowen has a nickname called \"Battlefield Watchdog\"\nbecause there's only few casualties on his squad.",
+    "Text": "Cohen has a nickname called \"Battlefield Watchdog\"\nbecause there's only few casualties on his squad.",
     "Enabled": true
   },
   "800204": {
     "OriginalText": "グラバーは近接戦闘を得意とし、守りの戦術をとる\nコウエンとは意見が合わず、よく口論していた。",
-    "Text": "Glover is good at close combat, he oftens argue with\nCowen who takes up defensive tactics.",
+    "Text": "Glover is good at close combat, he oftens argue with\nCohen who takes up defensive tactics.",
     "Enabled": true
   },
   "800205": {
@@ -1106,7 +1106,7 @@
   },
   "800221": {
     "OriginalText": "エクセージＴの遠距離攻撃は属性を変えて攻撃してくる。\nプレイヤーキャラクターの「属性異常」の耐性の低い属性に合わせてくる。",
-    "Text": "Equsage T ranged attacks can change its elements. It\nmatches the player's lowest resistance.",
+    "Text": "Exage T ranged attacks can change its elements. It\nmatches the player's lowest resistance.",
     "Enabled": true
   },
   "800222": {
@@ -1161,12 +1161,12 @@
   },
   "800232": {
     "OriginalText": "パルチザンのグランアーツ「スライドシェイカー」は\n空中で使用すると、スピードが増す。",
-    "Text": "Partisan Gran Art \"Slide Shaker\" speeds up when used\nin the air.",
+    "Text": "Partizan Gran Art \"Slide Shaker\" speeds up when used\nin the air.",
     "Enabled": true
   },
   "800233": {
     "OriginalText": "パルチザンのグランアーツ「ライジングフラッグ」は\n遠くから間合いを詰めるために使いやすい。",
-    "Text": "Partisan Gran Art \"Rising Flag\" is easy to use to close\nthe gap from a distance.",
+    "Text": "Partizan Gran Art \"Rising Flag\" is easy to use to close\nthe gap from a distance.",
     "Enabled": true
   },
   "800234": {

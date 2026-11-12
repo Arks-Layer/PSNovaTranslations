@@ -96,7 +96,7 @@
   },
   "350019": {
     "OriginalText": "ジュラキアの軟骨",
-    "Text": "Jurrakia Cartilage",
+    "Text": "Jurakia Cartilage",
     "Enabled": true
   },
   "350020": {
@@ -151,7 +151,7 @@
   },
   "350030": {
     "OriginalText": "マガヴルムのねばねば",
-    "Text": "Magavulum Goo",
+    "Text": "Magavurm Goo",
     "Enabled": true
   },
   "350031": {
@@ -861,7 +861,7 @@
   },
   "350172": {
     "OriginalText": "ジュラキアの大羽",
-    "Text": "Jurrakia Large Quill",
+    "Text": "Jurakia Large Quill",
     "Enabled": true
   },
   "350173": {
@@ -871,7 +871,7 @@
   },
   "350174": {
     "OriginalText": "テッラマンデルの鱗片",
-    "Text": "Terra Mander Scale",
+    "Text": "Terramander Scale",
     "Enabled": true
   },
   "350175": {
@@ -906,7 +906,7 @@
   },
   "350181": {
     "OriginalText": "ジュラキアの硬骨",
-    "Text": "Jurrakia Bone",
+    "Text": "Jurakia Bone",
     "Enabled": true
   },
   "350182": {
@@ -916,7 +916,7 @@
   },
   "350183": {
     "OriginalText": "テッラマンデルの大髭",
-    "Text": "Terra Mander Large Beard",
+    "Text": "Terramander Large Beard",
     "Enabled": true
   },
   "350184": {
@@ -951,7 +951,7 @@
   },
   "350190": {
     "OriginalText": "ジュラキアの尾羽",
-    "Text": "Jurrakia Tail Rectrix",
+    "Text": "Jurakia Tail Rectrix",
     "Enabled": true
   },
   "350191": {
@@ -961,7 +961,7 @@
   },
   "350192": {
     "OriginalText": "テッラマンデルの頭骨",
-    "Text": "Terra Mander Skull",
+    "Text": "Terramander Skull",
     "Enabled": true
   },
   "350193": {
@@ -981,7 +981,7 @@
   },
   "350196": {
     "OriginalText": "水晶竜族の鱗",
-    "Text": "Crystallized Dragon Scale",
+    "Text": "Crystal Dragon Scale",
     "Enabled": true
   },
   "350197": {
@@ -1046,7 +1046,7 @@
   },
   "350209": {
     "OriginalText": "ノイ・ウィンディラスの翼",
-    "Text": "Noiwindiras Wing",
+    "Text": "Neuwindiras Wing",
     "Enabled": true
   },
   "350210": {
@@ -1066,7 +1066,7 @@
   },
   "350213": {
     "OriginalText": "ロウトルリンプのヒレ片",
-    "Text": "Rol Torrimp Fin",
+    "Text": "Rou Torrimp Fin",
     "Enabled": true
   },
   "350214": {
@@ -1081,7 +1081,7 @@
   },
   "350216": {
     "OriginalText": "ノイ・ウィンディラスの尾",
-    "Text": "Noiwindiras Tail",
+    "Text": "Neuwindiras Tail",
     "Enabled": true
   },
   "350217": {
@@ -1101,7 +1101,7 @@
   },
   "350220": {
     "OriginalText": "ロウトルリンプの胸ビレ",
-    "Text": "Rol Torrimp Dorsal Fin",
+    "Text": "Rou Torrimp Dorsal Fin",
     "Enabled": true
   },
   "350221": {
@@ -1116,7 +1116,7 @@
   },
   "350223": {
     "OriginalText": "ノイ・ウィンディラスの角",
-    "Text": "Noiwindiras Horn",
+    "Text": "Neuwindiras Horn",
     "Enabled": true
   },
   "350224": {
@@ -1136,7 +1136,7 @@
   },
   "350227": {
     "OriginalText": "ロウトルリンプの硬尾ひれ",
-    "Text": "Rol Torrimp Hard Tail Fin",
+    "Text": "Rou Torrimp Hard Tail Fin",
     "Enabled": true
   },
   "350228": {
@@ -1191,7 +1191,7 @@
   },
   "350238": {
     "OriginalText": "フォンベガルフの牙片",
-    "Text": "Fonbegulf Fang",
+    "Text": "Fanbegulf Fang",
     "Enabled": true
   },
   "350239": {
@@ -1206,7 +1206,7 @@
   },
   "350241": {
     "OriginalText": "トネルバンクゥの石片",
-    "Text": "Toner Ban'qu Gem Shard",
+    "Text": "Tonner Ban'qu Gem Shard",
     "Enabled": true
   },
   "350242": {
@@ -1236,7 +1236,7 @@
   },
   "350247": {
     "OriginalText": "エウリュードの爪片",
-    "Text": "Eurude Claw Part",
+    "Text": "Euryude Claw Part",
     "Enabled": true
   },
   "350248": {
@@ -1246,7 +1246,7 @@
   },
   "350249": {
     "OriginalText": "フォンベガルフの体毛",
-    "Text": "Fonbegulf Fur",
+    "Text": "Fanbegulf Fur",
     "Enabled": true
   },
   "350250": {
@@ -1261,7 +1261,7 @@
   },
   "350252": {
     "OriginalText": "トネルバンクゥの宝石",
-    "Text": "Toner Ban'qu Gem",
+    "Text": "Tonner Ban'qu Gem",
     "Enabled": true
   },
   "350253": {
@@ -1291,7 +1291,7 @@
   },
   "350258": {
     "OriginalText": "エウリュードの砲身",
-    "Text": "Eurude Barrel",
+    "Text": "Euryude Barrel",
     "Enabled": true
   },
   "350259": {
@@ -1301,7 +1301,7 @@
   },
   "350260": {
     "OriginalText": "フォンベガルフの鋭爪",
-    "Text": "Fonbegulf Sharp Claw",
+    "Text": "Fanbegulf Sharp Claw",
     "Enabled": true
   },
   "350261": {
@@ -1316,7 +1316,7 @@
   },
   "350263": {
     "OriginalText": "トネルバンクゥの第三の目",
-    "Text": "Toner Ban'qu Third Eye",
+    "Text": "Tonner Ban'qu Third Eye",
     "Enabled": true
   },
   "350264": {
@@ -1346,7 +1346,7 @@
   },
   "350269": {
     "OriginalText": "エウリュードの大弾頭",
-    "Text": "Eurude Large Warhead",
+    "Text": "Euryude Large Warhead",
     "Enabled": true
   },
   "350270": {
@@ -1361,12 +1361,12 @@
   },
   "350272": {
     "OriginalText": "ヴィマフレザールの皮片",
-    "Text": "Oui Maphrezer Pelt",
+    "Text": "Vi Maphrezer Pelt",
     "Enabled": true
   },
   "350273": {
     "OriginalText": "バレダイナスの銃片",
-    "Text": "Valdinas Gun Piece",
+    "Text": "Valdynas Gun Piece",
     "Enabled": true
   },
   "350274": {
@@ -1391,12 +1391,12 @@
   },
   "350278": {
     "OriginalText": "ヴィマフレザールの鉤爪",
-    "Text": "Oui Maphrezer Hook Claw",
+    "Text": "Vi Maphrezer Hook Claw",
     "Enabled": true
   },
   "350279": {
     "OriginalText": "バレダイナスの弾倉",
-    "Text": "Valdinas Magazine",
+    "Text": "Valdynas Magazine",
     "Enabled": true
   },
   "350280": {
@@ -1421,12 +1421,12 @@
   },
   "350284": {
     "OriginalText": "ヴィマフレザールの硬皮膜",
-    "Text": "Oui Maphrezer Hard Membrane",
+    "Text": "Vi Maphrezer Hard Membrane",
     "Enabled": true
   },
   "350285": {
     "OriginalText": "バレダイナスのサイト",
-    "Text": "Valdinas Eye",
+    "Text": "Valdynas Eye",
     "Enabled": true
   },
   "350286": {
@@ -1476,7 +1476,7 @@
   },
   "350295": {
     "OriginalText": "フロフォンベガルフの牙",
-    "Text": "Flo Fonbegulf Fang",
+    "Text": "Flo Fanbegulf Fang",
     "Enabled": true
   },
   "350296": {
@@ -1521,7 +1521,7 @@
   },
   "350304": {
     "OriginalText": "フロフォンベガルフの体毛",
-    "Text": "Flo Fonbegulf Hair",
+    "Text": "Flo Fanbegulf Hair",
     "Enabled": true
   },
   "350305": {
@@ -1566,7 +1566,7 @@
   },
   "350313": {
     "OriginalText": "フロフォンベガルフの爪",
-    "Text": "Flo Fonbegulf Claw",
+    "Text": "Flo Fanbegulf Claw",
     "Enabled": true
   },
   "350314": {
@@ -1621,7 +1621,7 @@
   },
   "350324": {
     "OriginalText": "マガヴルムの手",
-    "Text": "Magavulum Arm",
+    "Text": "Magavurm Arm",
     "Enabled": true
   },
   "350325": {
@@ -1641,17 +1641,17 @@
   },
   "350328": {
     "OriginalText": "ポリジュラキアの羽",
-    "Text": "Poly Jurrakia Wing",
+    "Text": "Poly Jurakia Wing",
     "Enabled": true
   },
   "350329": {
     "OriginalText": "マーバレダイナスの銃",
-    "Text": "Mar Valdinas Gun",
+    "Text": "Mar Valdynas Gun",
     "Enabled": true
   },
   "350330": {
     "OriginalText": "水晶竜族の結晶",
-    "Text": "Crystalized Dragon Crystals",
+    "Text": "Crystal Dragon Crystal",
     "Enabled": true
   },
   "350331": {
@@ -1661,7 +1661,7 @@
   },
   "350332": {
     "OriginalText": "マガヴルムの銃身",
-    "Text": "Magavulum Cannon",
+    "Text": "Magavurm Cannon",
     "Enabled": true
   },
   "350333": {
@@ -1681,17 +1681,17 @@
   },
   "350336": {
     "OriginalText": "ポリジュラキアの骨",
-    "Text": "Poly Jurrakia Bone",
+    "Text": "Poly Jurakia Bone",
     "Enabled": true
   },
   "350337": {
     "OriginalText": "マーバレダイナスの弾倉",
-    "Text": "Mar Valdinas Magazine",
+    "Text": "Mar Valdynas Magazine",
     "Enabled": true
   },
   "350338": {
     "OriginalText": "水晶竜族の結晶塊",
-    "Text": "Crystalized Dragon Silicon",
+    "Text": "Crystal Dragon Crystal Cluster",
     "Enabled": true
   },
   "350339": {
@@ -1701,7 +1701,7 @@
   },
   "350340": {
     "OriginalText": "マガヴルムの盾",
-    "Text": "Magavulum Shield",
+    "Text": "Magavurm Shield",
     "Enabled": true
   },
   "350341": {
@@ -1721,17 +1721,17 @@
   },
   "350344": {
     "OriginalText": "ポリジュラキアの大尾羽",
-    "Text": "Poly Jurrakia Large Rectrix",
+    "Text": "Poly Jurakia Large Rectrix",
     "Enabled": true
   },
   "350345": {
     "OriginalText": "マーバレダイナスのサイト",
-    "Text": "Mar Valdinas Eyes",
+    "Text": "Mar Valdynas Eyes",
     "Enabled": true
   },
   "350346": {
     "OriginalText": "水晶竜族の鋭結晶角",
-    "Text": "Crystalized Sharp Dragon Crystal",
+    "Text": "Crystal Dragon Sharp Crystal Horn",
     "Enabled": true
   },
   "350347": {
@@ -1741,7 +1741,7 @@
   },
   "350348": {
     "OriginalText": "クロザードのヒレ",
-    "Text": "Gu Rozard Fin",
+    "Text": "Ku Rozard Fin",
     "Enabled": true
   },
   "350349": {
@@ -1751,7 +1751,7 @@
   },
   "350350": {
     "OriginalText": "フリラウーダンの爪",
-    "Text": "Fury Ra Oodan Claw",
+    "Text": "Furira Oodan Claw",
     "Enabled": true
   },
   "350351": {
@@ -1776,7 +1776,7 @@
   },
   "350355": {
     "OriginalText": "ガンジュラキアの羽片",
-    "Text": "Gun Jurrakia Wing",
+    "Text": "Gun Jurakia Wing",
     "Enabled": true
   },
   "350356": {
@@ -1791,12 +1791,12 @@
   },
   "350358": {
     "OriginalText": "シードギオスの盾",
-    "Text": "Xie Dogios Shield",
+    "Text": "Sea Dogios Shield",
     "Enabled": true
   },
   "350359": {
     "OriginalText": "モストカーネベアの硬砲身",
-    "Text": "Mosst Carnnebear Hard Barrel",
+    "Text": "Mossed Carnnebear Hard Barrel",
     "Enabled": true
   },
   "350360": {
@@ -1806,12 +1806,12 @@
   },
   "350361": {
     "OriginalText": "ガラティオンの鋭ノコ刃",
-    "Text": "Garation Sharp Saw Blade",
+    "Text": "Gration Sharp Saw Blade",
     "Enabled": true
   },
   "350362": {
     "OriginalText": "クロザードの爪",
-    "Text": "Gu Rozard Claw",
+    "Text": "Ku Rozard Claw",
     "Enabled": true
   },
   "350363": {
@@ -1821,7 +1821,7 @@
   },
   "350364": {
     "OriginalText": "フリラウーダンの毛皮",
-    "Text": "Fury Ra Oodan Pelt",
+    "Text": "Furira Oodan Pelt",
     "Enabled": true
   },
   "350365": {
@@ -1846,7 +1846,7 @@
   },
   "350369": {
     "OriginalText": "ガンジュラキアの硬骨",
-    "Text": "Gun Jurrakia Bone",
+    "Text": "Gun Jurakia Bone",
     "Enabled": true
   },
   "350370": {
@@ -1861,12 +1861,12 @@
   },
   "350372": {
     "OriginalText": "シードギオスの硬装甲",
-    "Text": "Xie Dogios Hard Shell",
+    "Text": "Sea Dogios Hard Shell",
     "Enabled": true
   },
   "350373": {
     "OriginalText": "モストカーネベアの毛皮",
-    "Text": "Mosst Carnnebear Pelt",
+    "Text": "Mossed Carnnebear Pelt",
     "Enabled": true
   },
   "350374": {
@@ -1876,12 +1876,12 @@
   },
   "350375": {
     "OriginalText": "ガラティオンの鉄線",
-    "Text": "Garation Metal Wire",
+    "Text": "Gration Metal Wire",
     "Enabled": true
   },
   "350376": {
     "OriginalText": "クロザードの完全な背びれ",
-    "Text": "Gu Rozard Dorsal Fin",
+    "Text": "Ku Rozard Dorsal Fin",
     "Enabled": true
   },
   "350377": {
@@ -1891,7 +1891,7 @@
   },
   "350378": {
     "OriginalText": "フリラウーダンの鋭牙",
-    "Text": "Fury Ra Oodan Sharp Fang",
+    "Text": "Furira Oodan Sharp Fang",
     "Enabled": true
   },
   "350379": {
@@ -1916,7 +1916,7 @@
   },
   "350383": {
     "OriginalText": "ガンジュラキアの尾羽",
-    "Text": "Gun Jurrakia Rectrix",
+    "Text": "Gun Jurakia Rectrix",
     "Enabled": true
   },
   "350384": {
@@ -1931,12 +1931,12 @@
   },
   "350386": {
     "OriginalText": "シードギオスの完全な盾",
-    "Text": "Xie Dogios Perfect Shield",
+    "Text": "Sea Dogios Perfect Shield",
     "Enabled": true
   },
   "350387": {
     "OriginalText": "モストカーネベアの頭骨",
-    "Text": "Mosst Carnnebear Skull",
+    "Text": "Mossed Carnnebear Skull",
     "Enabled": true
   },
   "350388": {
@@ -1946,7 +1946,7 @@
   },
   "350389": {
     "OriginalText": "ガラティオンの硬骨格",
-    "Text": "Garation Hard Skeleton",
+    "Text": "Gration Hard Skeleton",
     "Enabled": true
   },
   "350390": {
@@ -1956,7 +1956,7 @@
   },
   "350391": {
     "OriginalText": "メドジュラキアの大羽",
-    "Text": "Med Jurrakia Quill Feather",
+    "Text": "Med Jurakia Quill Feather",
     "Enabled": true
   },
   "350392": {
@@ -1981,17 +1981,17 @@
   },
   "350396": {
     "OriginalText": "ノイバリドランナの舌",
-    "Text": "Noibaridran'na Mucus",
+    "Text": "Neubaridran'na Mucus",
     "Enabled": true
   },
   "350397": {
     "OriginalText": "ヴィバレダイナスの銃",
-    "Text": "Oui Valdinas Gun",
+    "Text": "Vi Valdynas Gun",
     "Enabled": true
   },
   "350398": {
     "OriginalText": "ウイマフレザールの皮",
-    "Text": "Huy Maphrezer Pelt",
+    "Text": "Ui Maphrezer Pelt",
     "Enabled": true
   },
   "350399": {
@@ -2016,7 +2016,7 @@
   },
   "350403": {
     "OriginalText": "メドジュラキアの硬骨",
-    "Text": "Med Jurrakia Bone",
+    "Text": "Med Jurakia Bone",
     "Enabled": true
   },
   "350404": {
@@ -2041,17 +2041,17 @@
   },
   "350408": {
     "OriginalText": "ノイバリドランナの鋭爪",
-    "Text": "Noibaridran'na Sharp Claw",
+    "Text": "Neubaridran'na Sharp Claw",
     "Enabled": true
   },
   "350409": {
     "OriginalText": "ヴィバレダイナスの大弾倉",
-    "Text": "Oui Valdinas Large Magazine",
+    "Text": "Vi Valdynas Large Magazine",
     "Enabled": true
   },
   "350410": {
     "OriginalText": "ウイマフレザールの鋭鉤爪",
-    "Text": "Huy Maphrezer Sharp Hook Claw",
+    "Text": "Ui Maphrezer Sharp Hook Claw",
     "Enabled": true
   },
   "350411": {
@@ -2076,7 +2076,7 @@
   },
   "350415": {
     "OriginalText": "メドジュラキアの尾羽",
-    "Text": "Med Jurrakia Rectrix",
+    "Text": "Med Jurakia Rectrix",
     "Enabled": true
   },
   "350416": {
@@ -2101,17 +2101,17 @@
   },
   "350420": {
     "OriginalText": "ノイ・バリドランナの光玉",
-    "Text": "Noibaridran'an Light Ball",
+    "Text": "Neubaridran'na Light Ball",
     "Enabled": true
   },
   "350421": {
     "OriginalText": "ヴィバレダイナスのサイト",
-    "Text": "Oui Valdinas Sight",
+    "Text": "Vi Valdynas Sight",
     "Enabled": true
   },
   "350422": {
     "OriginalText": "ウイマフレザールの皮膜",
-    "Text": "Huy Maphrezer Leg Pelt",
+    "Text": "Ui Maphrezer Leg Pelt",
     "Enabled": true
   },
   "350423": {
@@ -2196,7 +2196,7 @@
   },
   "350439": {
     "OriginalText": "ウロザードの硬ヒレ",
-    "Text": "Pa Rozard Hard Fin",
+    "Text": "U Rozard Hard Fin",
     "Enabled": true
   },
   "350440": {
@@ -2206,17 +2206,17 @@
   },
   "350441": {
     "OriginalText": "オルテ・マガヴルムの硬手",
-    "Text": "Orte Magavulum Hard Arm",
+    "Text": "Orte Magavurm Hard Arm",
     "Enabled": true
   },
   "350442": {
     "OriginalText": "パーグランブの鋭爪",
-    "Text": "Pergranv Hard Claw",
+    "Text": "Pargranv Hard Claw",
     "Enabled": true
   },
   "350443": {
     "OriginalText": "イーグマンデルの硬鱗",
-    "Text": "Eag Mander Scale",
+    "Text": "Igmander Scale",
     "Enabled": true
   },
   "350444": {
@@ -2231,7 +2231,7 @@
   },
   "350446": {
     "OriginalText": "エクセージＴの小腕",
-    "Text": "Equsage T Small Arm",
+    "Text": "Exage T Small Arm",
     "Enabled": true
   },
   "350447": {
@@ -2251,7 +2251,7 @@
   },
   "350450": {
     "OriginalText": "ウロザードの鋭爪",
-    "Text": "Pa Rozard Sharp Claw",
+    "Text": "U Rozard Sharp Claw",
     "Enabled": true
   },
   "350451": {
@@ -2261,17 +2261,17 @@
   },
   "350452": {
     "OriginalText": "オルテ・マガヴルムの大銃",
-    "Text": "Orte Magavulum Large Gun",
+    "Text": "Orte Magavurm Large Gun",
     "Enabled": true
   },
   "350453": {
     "OriginalText": "パーグランブの硬甲羅",
-    "Text": "Pergranv Hard Shell",
+    "Text": "Pargranv Hard Shell",
     "Enabled": true
   },
   "350454": {
     "OriginalText": "イーグマンデルの大髭",
-    "Text": "Eag Mander Large Beard",
+    "Text": "Igmander Large Beard",
     "Enabled": true
   },
   "350455": {
@@ -2286,7 +2286,7 @@
   },
   "350457": {
     "OriginalText": "エクセージＴの大目玉",
-    "Text": "Equsage T Large Eyeball",
+    "Text": "Exage T Large Eyeball",
     "Enabled": true
   },
   "350458": {
@@ -2306,7 +2306,7 @@
   },
   "350461": {
     "OriginalText": "ウロザードの完全な背びれ",
-    "Text": "Pa Rozard Perfect Fin",
+    "Text": "U Rozard Perfect Fin",
     "Enabled": true
   },
   "350462": {
@@ -2316,17 +2316,17 @@
   },
   "350463": {
     "OriginalText": "オルテ・マガヴルムの盾",
-    "Text": "Orte Magavulum Shield",
+    "Text": "Orte Magavurm Shield",
     "Enabled": true
   },
   "350464": {
     "OriginalText": "パーグランブの粘液結晶",
-    "Text": "Pergranv Mucus Crystal",
+    "Text": "Pargranv Mucus Crystal",
     "Enabled": true
   },
   "350465": {
     "OriginalText": "イーグマンデルの頭骨",
-    "Text": "Eag Mander Skull",
+    "Text": "Igmander Skull",
     "Enabled": true
   },
   "350466": {
@@ -2336,7 +2336,7 @@
   },
   "350467": {
     "OriginalText": "エクセージＴの鋭杭腕",
-    "Text": "Equsage T Sharp Pile Arm",
+    "Text": "Exage T Sharp Pile Arm",
     "Enabled": true
   },
   "350468": {
@@ -2376,7 +2376,7 @@
   },
   "350475": {
     "OriginalText": "ラーバレダイナスの銃身",
-    "Text": "Lar Valdinas Barrel",
+    "Text": "Lar Valdynas Barrel",
     "Enabled": true
   },
   "350476": {
@@ -2391,7 +2391,7 @@
   },
   "350478": {
     "OriginalText": "スォロバンクゥの宝石破片",
-    "Text": "Swole Ban'qu Gem Shard",
+    "Text": "Swolo Ban'qu Gem Shard",
     "Enabled": true
   },
   "350479": {
@@ -2406,7 +2406,7 @@
   },
   "350481": {
     "OriginalText": "バオム・マガヴルムの硬手",
-    "Text": "Baum Magavulum Hard Arm",
+    "Text": "Baum Magavurm Hard Arm",
     "Enabled": true
   },
   "350482": {
@@ -2416,7 +2416,7 @@
   },
   "350483": {
     "OriginalText": "エレマンデルの硬棘鱗皮",
-    "Text": "Err Mander Hard Spiky Hide",
+    "Text": "Elemander Hard Spiky Hide",
     "Enabled": true
   },
   "350484": {
@@ -2461,7 +2461,7 @@
   },
   "350492": {
     "OriginalText": "フォードギオスの盾の破片",
-    "Text": "Pho Dogios Shield Piece",
+    "Text": "Fo Dogios Shield Piece",
     "Enabled": true
   },
   "350493": {
@@ -2496,7 +2496,7 @@
   },
   "350499": {
     "OriginalText": "ラーバレダイナスの大弾倉",
-    "Text": "Lar Valdinas Large Magazine",
+    "Text": "Lar Valdynas Large Magazine",
     "Enabled": true
   },
   "350500": {
@@ -2511,7 +2511,7 @@
   },
   "350502": {
     "OriginalText": "スォロバンクゥの大宝石",
-    "Text": "Swole Ban'qu Large Gem",
+    "Text": "Swolo Ban'qu Large Gem",
     "Enabled": true
   },
   "350503": {
@@ -2526,7 +2526,7 @@
   },
   "350505": {
     "OriginalText": "バオム・マガヴルムの大銃",
-    "Text": "Baum Magavulum Large Gun",
+    "Text": "Baum Magavurm Large Gun",
     "Enabled": true
   },
   "350506": {
@@ -2536,7 +2536,7 @@
   },
   "350507": {
     "OriginalText": "エレマンデルの大髭",
-    "Text": "Err Mander Large Beard",
+    "Text": "Elemander Large Beard",
     "Enabled": true
   },
   "350508": {
@@ -2581,7 +2581,7 @@
   },
   "350516": {
     "OriginalText": "フォードギオスの硬装甲",
-    "Text": "Pho Dogios Hard Shell",
+    "Text": "Fo Dogios Hard Shell",
     "Enabled": true
   },
   "350517": {
@@ -2616,7 +2616,7 @@
   },
   "350523": {
     "OriginalText": "ラーバレダイナスの大照準",
-    "Text": "Lar Valdinas Large Optics",
+    "Text": "Lar Valdynas Large Optics",
     "Enabled": true
   },
   "350524": {
@@ -2631,7 +2631,7 @@
   },
   "350526": {
     "OriginalText": "スォロバンクゥの第三の目",
-    "Text": "Swole Ban'qu Third Eye",
+    "Text": "Swolo Ban'qu Third Eye",
     "Enabled": true
   },
   "350527": {
@@ -2646,7 +2646,7 @@
   },
   "350529": {
     "OriginalText": "バオム・マガヴルムの盾",
-    "Text": "Baum Magavulum Shield",
+    "Text": "Baum Magavurm Shield",
     "Enabled": true
   },
   "350530": {
@@ -2656,7 +2656,7 @@
   },
   "350531": {
     "OriginalText": "エレマンデルの頭骨",
-    "Text": "Err Mander Skull",
+    "Text": "Elemander Skull",
     "Enabled": true
   },
   "350532": {
@@ -2701,7 +2701,7 @@
   },
   "350540": {
     "OriginalText": "フォードギオスの完全な盾",
-    "Text": "Pho Dogios Perfect Shield",
+    "Text": "Fo Dogios Perfect Shield",
     "Enabled": true
   },
   "350541": {
@@ -2741,7 +2741,7 @@
   },
   "350548": {
     "OriginalText": "ウィルアフォルの翼",
-    "Text": "Viluaphol Wing",
+    "Text": "Wilaphol Wing",
     "Enabled": true
   },
   "350549": {
@@ -2756,12 +2756,12 @@
   },
   "350551": {
     "OriginalText": "レ・エクセージＴの小腕",
-    "Text": "Le Equsage T Small Arm",
+    "Text": "Le Exage T Small Arm",
     "Enabled": true
   },
   "350552": {
     "OriginalText": "ウィルアフォルの尾羽",
-    "Text": "Viluaphol Rectrix",
+    "Text": "Wilaphol Rectrix",
     "Enabled": true
   },
   "350553": {
@@ -2776,22 +2776,22 @@
   },
   "350555": {
     "OriginalText": "レ・エクセージＴの大目玉",
-    "Text": "Le Equsage T Large Eyeball",
+    "Text": "Le Exage T Large Eyeball",
     "Enabled": true
   },
   "350556": {
     "OriginalText": "ウィルアフォルの目玉",
-    "Text": "Viluaphol Eyeball",
+    "Text": "Wilaphol Eyeball",
     "Enabled": true
   },
   "350557": {
     "OriginalText": "レ・エクセージＴの鋭杭腕",
-    "Text": "Le Equsage T Sharp Pile Arm",
+    "Text": "Le Exage T Sharp Pile Arm",
     "Enabled": true
   },
   "350558": {
     "OriginalText": "レ・エクセージＴの神経核",
-    "Text": "Le Equsage T Neuron",
+    "Text": "Le Exage T Neuron",
     "Enabled": true
   },
   "350559": {
@@ -2851,7 +2851,7 @@
   },
   "350570": {
     "OriginalText": "ディアマ・ドラールの結晶片",
-    "Text": "Diama Dragon Crystal",
+    "Text": "Diama Draal Crystal",
     "Enabled": true
   },
   "350571": {
@@ -2861,22 +2861,22 @@
   },
   "350572": {
     "OriginalText": "ヴォーロラス・ドラウの翼",
-    "Text": "Voloras Draal Wing",
+    "Text": "Voloras Drau Wing",
     "Enabled": true
   },
   "350573": {
     "OriginalText": "ロザード・トカの背びれ",
-    "Text": "Rozard Toqa Dorsal Fin",
+    "Text": "Rozard Toka Dorsal Fin",
     "Enabled": true
   },
   "350574": {
     "OriginalText": "フェブリルナ・ドラウの舌玉",
-    "Text": "Febriluna Draal Sticky Ball",
+    "Text": "Febriluna Drau Sticky Ball",
     "Enabled": true
   },
   "350575": {
     "OriginalText": "ダイナス・タングスの銃身",
-    "Text": "Dinas Tungs Barrel",
+    "Text": "Dynas Tungs Barrel",
     "Enabled": true
   },
   "350576": {
@@ -2891,17 +2891,17 @@
   },
   "350578": {
     "OriginalText": "ミステルン・オーロの角破片",
-    "Text": "Mysteroon Orro Horn Bit",
+    "Text": "Mysteroon Oro Horn Bit",
     "Enabled": true
   },
   "350579": {
     "OriginalText": "ベガルフ・ライオの牙",
-    "Text": "Begulf Rioh Fang",
+    "Text": "Begulf Raio Fang",
     "Enabled": true
   },
   "350580": {
     "OriginalText": "フォンベガルフ・ライオの牙",
-    "Text": "Fonbegulf Rioh Fang",
+    "Text": "Fanbegulf Raio Fang",
     "Enabled": true
   },
   "350581": {
@@ -2911,7 +2911,7 @@
   },
   "350582": {
     "OriginalText": "ラビーソ・プラテの小さな刃",
-    "Text": "Rabbisaw Platen Small Horn",
+    "Text": "Rabbisaw Plate Small Horn",
     "Enabled": true
   },
   "350583": {
@@ -2921,17 +2921,17 @@
   },
   "350584": {
     "OriginalText": "トルリンプ・ゴウルのヒレ",
-    "Text": "Torrimp Gorr Fin",
+    "Text": "Torrimp Ghoul Fin",
     "Enabled": true
   },
   "350585": {
     "OriginalText": "ジュラキア・スクアの羽",
-    "Text": "Jurrakia Skuah Feather",
+    "Text": "Jurakia Skua Feather",
     "Enabled": true
   },
   "350586": {
     "OriginalText": "ロヴラッピー・ロセの胴甲",
-    "Text": "Rove Rappy Rosset Shell Rig",
+    "Text": "Rove Rappy Rose Shell Rig",
     "Enabled": true
   },
   "350587": {
@@ -2946,7 +2946,7 @@
   },
   "350589": {
     "OriginalText": "バンクゥ・フリュの宝石破片",
-    "Text": "Ban'qu Flew Gem Shard",
+    "Text": "Ban'qu Flu Gem Shard",
     "Enabled": true
   },
   "350590": {
@@ -2956,12 +2956,12 @@
   },
   "350591": {
     "OriginalText": "レイバンサ・オクシの銃身",
-    "Text": "Ray Banther Oxy Barrel",
+    "Text": "Ray Bantha Oxy Barrel",
     "Enabled": true
   },
   "350592": {
     "OriginalText": "マガヴルム・クロウの触手",
-    "Text": "Magavulum Crow Tentacle",
+    "Text": "Magavurm Crow Tentacle",
     "Enabled": true
   },
   "350593": {
@@ -2991,7 +2991,7 @@
   },
   "350598": {
     "OriginalText": "エクセージＴ・ネスの小腕",
-    "Text": "Small Equsage T Ness Arm",
+    "Text": "Small Exage T Ness Arm",
     "Enabled": true
   },
   "350599": {
@@ -3066,7 +3066,7 @@
   },
   "350613": {
     "OriginalText": "水晶竜の巨大結晶",
-    "Text": "Crystallized Large Dragon Crystal",
+    "Text": "Crystal Dragon Giant Crystal",
     "Enabled": true
   },
   "350614": {
@@ -3076,22 +3076,22 @@
   },
   "350615": {
     "OriginalText": "ヴォーロラス・ドラウの尾",
-    "Text": "Voloras Draal Tail",
+    "Text": "Voloras Drau Tail",
     "Enabled": true
   },
   "350616": {
     "OriginalText": "ロザード・トカの爪",
-    "Text": "Rozard Toqa Claw",
+    "Text": "Rozard Toka Claw",
     "Enabled": true
   },
   "350617": {
     "OriginalText": "フェブリルナ・ドラウの鉤爪",
-    "Text": "Febriluna Draal Hook Claw",
+    "Text": "Febriluna Drau Hook Claw",
     "Enabled": true
   },
   "350618": {
     "OriginalText": "ダイナス・タングスの弾倉",
-    "Text": "Dinas Tungs Magazine",
+    "Text": "Dynas Tungs Magazine",
     "Enabled": true
   },
   "350619": {
@@ -3106,17 +3106,17 @@
   },
   "350621": {
     "OriginalText": "ミステルン・オーロの翼角",
-    "Text": "Mysteroon Orro Wing Edge",
+    "Text": "Mysteroon Oro Wing Edge",
     "Enabled": true
   },
   "350622": {
     "OriginalText": "ベガルフ・ライオの体毛",
-    "Text": "Begulf Rioh Body Hair",
+    "Text": "Begulf Raio Body Hair",
     "Enabled": true
   },
   "350623": {
     "OriginalText": "フォンベガルフ・ライオの体毛",
-    "Text": "Fonbegulf Rioh Body Hair",
+    "Text": "Fanbegulf Raio Body Hair",
     "Enabled": true
   },
   "350624": {
@@ -3126,7 +3126,7 @@
   },
   "350625": {
     "OriginalText": "ラビーソ・プラテの原動機",
-    "Text": "Rabbisaw Platen Motor",
+    "Text": "Rabbisaw Plate Motor",
     "Enabled": true
   },
   "350626": {
@@ -3136,17 +3136,17 @@
   },
   "350627": {
     "OriginalText": "トルリンプ・ゴウルの胸ビレ",
-    "Text": "Torrimp Gorr Pectoral Fin",
+    "Text": "Torrimp Ghoul Pectoral Fin",
     "Enabled": true
   },
   "350628": {
     "OriginalText": "ジュラキア・スクアの骨",
-    "Text": "Jurrakia Skuah Bone",
+    "Text": "Jurakia Skua Bone",
     "Enabled": true
   },
   "350629": {
     "OriginalText": "ロヴラッピー・ロセの主翼",
-    "Text": "Rove Rappy Rosset Main Wing",
+    "Text": "Rove Rappy Rose Main Wing",
     "Enabled": true
   },
   "350630": {
@@ -3161,7 +3161,7 @@
   },
   "350632": {
     "OriginalText": "バンクゥ・フリュの宝石",
-    "Text": "Ban'qu Flew Gem",
+    "Text": "Ban'qu Flu Gem",
     "Enabled": true
   },
   "350633": {
@@ -3171,12 +3171,12 @@
   },
   "350634": {
     "OriginalText": "レイバンサ・オクシの頭角",
-    "Text": "Ray Banther Oxy Antler",
+    "Text": "Ray Bantha Oxy Antler",
     "Enabled": true
   },
   "350635": {
     "OriginalText": "マガヴルム・クロウの銃身",
-    "Text": "Magavulum Crow Barrel",
+    "Text": "Magavurm Crow Barrel",
     "Enabled": true
   },
   "350636": {
@@ -3206,7 +3206,7 @@
   },
   "350641": {
     "OriginalText": "エクセージＴ・ネスの目玉",
-    "Text": "Equsage T Ness Eyeball",
+    "Text": "Exage T Ness Eyeball",
     "Enabled": true
   },
   "350642": {
@@ -3216,7 +3216,7 @@
   },
   "350643": {
     "OriginalText": "結晶竜族のしっぽ",
-    "Text": "Crystal Dragonkin Tail",
+    "Text": "Crystalline Dragon Tail",
     "Enabled": true
   },
   "350644": {
@@ -3281,7 +3281,7 @@
   },
   "350656": {
     "OriginalText": "水晶竜の完全な結晶角",
-    "Text": "Crystal Dragon Perfect Horn",
+    "Text": "Crystal Dragon Perfect Crystal Horn",
     "Enabled": true
   },
   "350657": {
@@ -3291,22 +3291,22 @@
   },
   "350658": {
     "OriginalText": "ヴォーロラス・ドラウの角",
-    "Text": "Voloras Draal Horn",
+    "Text": "Voloras Drau Horn",
     "Enabled": true
   },
   "350659": {
     "OriginalText": "ロザード・トカの完全な背びれ",
-    "Text": "Rozard Toqa Perfect Dorsal Fin",
+    "Text": "Rozard Toka Perfect Dorsal Fin",
     "Enabled": true
   },
   "350660": {
     "OriginalText": "フェブリルナ・ドラウの光玉",
-    "Text": "Febriluna Draal Glowing Ball",
+    "Text": "Febriluna Drau Glowing Ball",
     "Enabled": true
   },
   "350661": {
     "OriginalText": "ダイナス・タングスのサイト",
-    "Text": "Dinas Tungs Optics",
+    "Text": "Dynas Tungs Optics",
     "Enabled": true
   },
   "350662": {
@@ -3321,17 +3321,17 @@
   },
   "350664": {
     "OriginalText": "ミステルン・オーロの頭角",
-    "Text": "Mysteroon Orro Antler",
+    "Text": "Mysteroon Oro Antler",
     "Enabled": true
   },
   "350665": {
     "OriginalText": "ベガルフ・ライオの爪",
-    "Text": "Begulf Rioh Claw",
+    "Text": "Begulf Raio Claw",
     "Enabled": true
   },
   "350666": {
     "OriginalText": "フォンベガルフ・ライオの爪",
-    "Text": "Fonbegulf Rioh Claw",
+    "Text": "Fanbegulf Raio Claw",
     "Enabled": true
   },
   "350667": {
@@ -3341,7 +3341,7 @@
   },
   "350668": {
     "OriginalText": "ラビーソ・プラテの耳部鎖",
-    "Text": "Rabbisaw Platen Ear Chain",
+    "Text": "Rabbisaw Plate Ear Chain",
     "Enabled": true
   },
   "350669": {
@@ -3351,17 +3351,17 @@
   },
   "350670": {
     "OriginalText": "トルリンプ・ゴウルの尾ひれ",
-    "Text": "Torrimp Gorr Tailfin",
+    "Text": "Torrimp Ghoul Tailfin",
     "Enabled": true
   },
   "350671": {
     "OriginalText": "ジュラキア・スクアの尾羽",
-    "Text": "Jurrakia Skuah Rectrix",
+    "Text": "Jurakia Skua Rectrix",
     "Enabled": true
   },
   "350672": {
     "OriginalText": "ロヴラッピー・ロセの機関",
-    "Text": "Rove Rappy Rosset Engine",
+    "Text": "Rove Rappy Rose Engine",
     "Enabled": true
   },
   "350673": {
@@ -3376,7 +3376,7 @@
   },
   "350675": {
     "OriginalText": "バンクゥ・フリュの第三の目",
-    "Text": "Ban'qu Flew Third Eye",
+    "Text": "Ban'qu Flu Third Eye",
     "Enabled": true
   },
   "350676": {
@@ -3386,12 +3386,12 @@
   },
   "350677": {
     "OriginalText": "レイバンサ・オクシの鉤爪",
-    "Text": "Ray Banther Oxy Hook Claw",
+    "Text": "Ray Bantha Oxy Hook Claw",
     "Enabled": true
   },
   "350678": {
     "OriginalText": "マガヴルム・クロウの盾",
-    "Text": "Magavulum Crow Shield",
+    "Text": "Magavurm Crow Shield",
     "Enabled": true
   },
   "350679": {
@@ -3421,7 +3421,7 @@
   },
   "350684": {
     "OriginalText": "エクセージＴ・ネスの杭腕",
-    "Text": "Equsage T Ness Needle Arm",
+    "Text": "Exage T Ness Needle Arm",
     "Enabled": true
   },
   "350685": {
@@ -3826,7 +3826,7 @@
   },
   "350765": {
     "OriginalText": "ノイバリドランナの超光玉",
-    "Text": "Noibaridran'na Super Light Ball",
+    "Text": "Neubaridran'na Super Light Ball",
     "Enabled": true
   },
   "350766": {
@@ -3836,7 +3836,7 @@
   },
   "350767": {
     "OriginalText": "ノイウィンディラスの超翼",
-    "Text": "Noiwindiras Super Wing",
+    "Text": "Neuwindiras Super Wing",
     "Enabled": true
   },
   "350768": {
@@ -3851,7 +3851,7 @@
   },
   "350770": {
     "OriginalText": "フリラウーダンの超髪",
-    "Text": "Fury Ra Oodan Super Hair",
+    "Text": "Furira Oodan Super Hair",
     "Enabled": true
   },
   "350771": {
@@ -3876,22 +3876,22 @@
   },
   "350775": {
     "OriginalText": "フォンベガルフの超角",
-    "Text": "Fonbegulf Super Horn",
+    "Text": "Fanbegulf Super Horn",
     "Enabled": true
   },
   "350776": {
     "OriginalText": "フロフォンベガルフの超角",
-    "Text": "Flo Fonbegulf Super Horn",
+    "Text": "Flo Fanbegulf Super Horn",
     "Enabled": true
   },
   "350777": {
     "OriginalText": "グルナバンサーの超牙",
-    "Text": "Gluna Banther Super Fang",
+    "Text": "Gruna Banther Super Fang",
     "Enabled": true
   },
   "350778": {
     "OriginalText": "ジャッドバンサーの超牙",
-    "Text": "Jhad Banther Super Fang",
+    "Text": "Jade Banther Super Fang",
     "Enabled": true
   },
   "350779": {
@@ -3911,17 +3911,17 @@
   },
   "350782": {
     "OriginalText": "マガヴルムの超銃",
-    "Text": "Magavulum Super Gun",
+    "Text": "Magavurm Super Gun",
     "Enabled": true
   },
   "350783": {
     "OriginalText": "バオム・マガヴルムの超銃",
-    "Text": "Baum Magavulum Super Gun",
+    "Text": "Baum Magavurm Super Gun",
     "Enabled": true
   },
   "350784": {
     "OriginalText": "オルテ・マガヴルムの超銃",
-    "Text": "Orte Magavulum Super Gun",
+    "Text": "Orte Magavurm Super Gun",
     "Enabled": true
   },
   "350785": {
@@ -3946,12 +3946,12 @@
   },
   "350789": {
     "OriginalText": "ウロザードの超背びれ",
-    "Text": "Pa Rozard Super Dorsal Fin",
+    "Text": "U Rozard Super Dorsal Fin",
     "Enabled": true
   },
   "350790": {
     "OriginalText": "クロザードの超背びれ",
-    "Text": "Gu Rozard Super Dorsal Fin",
+    "Text": "Ku Rozard Super Dorsal Fin",
     "Enabled": true
   },
   "350791": {
@@ -3966,7 +3966,7 @@
   },
   "350793": {
     "OriginalText": "ヴィマフレザールの超巻",
-    "Text": "Oui Maphrezer Super Coil",
+    "Text": "Vi Maphrezer Super Coil",
     "Enabled": true
   },
   "350794": {
@@ -3976,27 +3976,27 @@
   },
   "350795": {
     "OriginalText": "ウイマフレザールの超巻",
-    "Text": "Huy Maphrezer Super Coil",
+    "Text": "Ui Maphrezer Super Coil",
     "Enabled": true
   },
   "350796": {
     "OriginalText": "ジュラキアの超羽毛",
-    "Text": "Jurrakia Super Feather",
+    "Text": "Jurakia Super Feather",
     "Enabled": true
   },
   "350797": {
     "OriginalText": "メドジュラキアの超羽毛",
-    "Text": "Med Jurrakia Super Feather",
+    "Text": "Med Jurakia Super Feather",
     "Enabled": true
   },
   "350798": {
     "OriginalText": "ポリジュラキアの超羽毛",
-    "Text": "Poly Jurrakia Super Feather",
+    "Text": "Poly Jurakia Super Feather",
     "Enabled": true
   },
   "350799": {
     "OriginalText": "ガンジュラキアの超羽毛",
-    "Text": "Gun Jurrakia Super Feather",
+    "Text": "Gun Jurakia Super Feather",
     "Enabled": true
   },
   "350800": {
@@ -4036,7 +4036,7 @@
   },
   "350807": {
     "OriginalText": "パーグランブの超巻き貝",
-    "Text": "Pergranv Super Helix",
+    "Text": "Pargranv Super Helix",
     "Enabled": true
   },
   "350808": {
@@ -4056,12 +4056,12 @@
   },
   "350811": {
     "OriginalText": "トネルバンクゥの超結界",
-    "Text": "Toner Ban'qu Super Barrier",
+    "Text": "Tonner Ban'qu Super Barrier",
     "Enabled": true
   },
   "350812": {
     "OriginalText": "スォロバンクゥの超結界",
-    "Text": "Swole Ban'qu Super Barrier",
+    "Text": "Swolo Ban'qu Super Barrier",
     "Enabled": true
   },
   "350813": {
@@ -4101,32 +4101,32 @@
   },
   "350820": {
     "OriginalText": "バレダイナスの超銃",
-    "Text": "Valdinas Super Gun",
+    "Text": "Valdynas Super Gun",
     "Enabled": true
   },
   "350821": {
     "OriginalText": "ラーバレダイナスの超銃",
-    "Text": "Lar Valdinas Super Gun",
+    "Text": "Lar Valdynas Super Gun",
     "Enabled": true
   },
   "350822": {
     "OriginalText": "マーバレダイナスの超銃",
-    "Text": "Mar Valdinas Super Gun",
+    "Text": "Mar Valdynas Super Gun",
     "Enabled": true
   },
   "350823": {
     "OriginalText": "ヴィバレダイナスの超銃",
-    "Text": "Oui Valdinas Super Gun",
+    "Text": "Vi Valdynas Super Gun",
     "Enabled": true
   },
   "350824": {
     "OriginalText": "シードギオスの超盾",
-    "Text": "Xie Dogios Super Shield",
+    "Text": "Sea Dogios Super Shield",
     "Enabled": true
   },
   "350825": {
     "OriginalText": "フォードギオスの超盾",
-    "Text": "Pho Dogios Super Shield",
+    "Text": "Fo Dogios Super Shield",
     "Enabled": true
   },
   "350826": {
@@ -4146,7 +4146,7 @@
   },
   "350829": {
     "OriginalText": "ロウトルリンプの超腹ビレ",
-    "Text": "Rol Torrimp Super Pectoral Fin",
+    "Text": "Rou Torrimp Super Pectoral Fin",
     "Enabled": true
   },
   "350830": {
@@ -4176,27 +4176,27 @@
   },
   "350835": {
     "OriginalText": "エレマンデルの超双角",
-    "Text": "Err Mander Super Twinhorn",
+    "Text": "Elemander Super Twinhorn",
     "Enabled": true
   },
   "350836": {
     "OriginalText": "テッラマンデルの超双角",
-    "Text": "Terra Mander Super Twinhorn",
+    "Text": "Terramander Super Twinhorn",
     "Enabled": true
   },
   "350837": {
     "OriginalText": "イーグマンデルの超双角",
-    "Text": "Eag Mander Super Twinhorn",
+    "Text": "Igmander Super Twinhorn",
     "Enabled": true
   },
   "350838": {
     "OriginalText": "エクセージＴの超針",
-    "Text": "Equsage T Super Needle",
+    "Text": "Exage T Super Needle",
     "Enabled": true
   },
   "350839": {
     "OriginalText": "レ・エクセージＴの超針",
-    "Text": "Le Equsage T Super Needle",
+    "Text": "Le Exage T Super Needle",
     "Enabled": true
   },
   "350840": {
@@ -4231,7 +4231,7 @@
   },
   "350846": {
     "OriginalText": "モストカーネベアの超砲弾",
-    "Text": "Mosst Carnnebear Super Bullet",
+    "Text": "Mossed Carnnebear Super Bullet",
     "Enabled": true
   },
   "350847": {
@@ -4301,7 +4301,7 @@
   },
   "350860": {
     "OriginalText": "ウィルアフォルの超目玉",
-    "Text": "Viluaphol Super Eyeball",
+    "Text": "Wilaphol Super Eyeball",
     "Enabled": true
   },
   "350861": {
@@ -4321,7 +4321,7 @@
   },
   "350864": {
     "OriginalText": "エウリュードの超爪",
-    "Text": "Eurude Super Claw",
+    "Text": "Euryude Super Claw",
     "Enabled": true
   },
   "350865": {
@@ -4331,7 +4331,7 @@
   },
   "350866": {
     "OriginalText": "ガラティオンの超ノコ刃",
-    "Text": "Garation Super Saw Blade",
+    "Text": "Gration Super Saw Blade",
     "Enabled": true
   },
   "350867": {
@@ -4826,7 +4826,7 @@
   },
   "350965": {
     "OriginalText": "ノイバリドランナの極舌玉",
-    "Text": "Noibaridran'na Ultra Sticky Ball",
+    "Text": "Neubaridran'na Ultra Sticky Ball",
     "Enabled": true
   },
   "350966": {
@@ -4836,7 +4836,7 @@
   },
   "350967": {
     "OriginalText": "ノイウィンディラスの極翼",
-    "Text": "Noiwindiras Ultra Wing",
+    "Text": "Neuwindiras Ultra Wing",
     "Enabled": true
   },
   "350968": {
@@ -4851,7 +4851,7 @@
   },
   "350970": {
     "OriginalText": "フリラウーダンの極毛",
-    "Text": "Fury Ra Oodan Ultra Fur",
+    "Text": "Furira Oodan Ultra Fur",
     "Enabled": true
   },
   "350971": {
@@ -4876,22 +4876,22 @@
   },
   "350975": {
     "OriginalText": "フォンベガルフの極爪",
-    "Text": "Fonbegulf Ultra Claw",
+    "Text": "Fanbegulf Ultra Claw",
     "Enabled": true
   },
   "350976": {
     "OriginalText": "フロフォンベガルフの極爪",
-    "Text": "Flo Fonbegulf Ultra Claw",
+    "Text": "Flo Fanbegulf Ultra Claw",
     "Enabled": true
   },
   "350977": {
     "OriginalText": "グルナバンサーの極角",
-    "Text": "Gluna Banther Ultra Horn",
+    "Text": "Gruna Banther Ultra Horn",
     "Enabled": true
   },
   "350978": {
     "OriginalText": "ジャッドバンサーの極角",
-    "Text": "Jhad Banther Ultra Horn",
+    "Text": "Jade Banther Ultra Horn",
     "Enabled": true
   },
   "350979": {
@@ -4911,17 +4911,17 @@
   },
   "350982": {
     "OriginalText": "マガヴルムの極銃",
-    "Text": "Magavulum Ultra Gun",
+    "Text": "Magavurm Ultra Gun",
     "Enabled": true
   },
   "350983": {
     "OriginalText": "バオム・マガヴルムの極銃",
-    "Text": "Baum Magavulum Ultra Gun",
+    "Text": "Baum Magavurm Ultra Gun",
     "Enabled": true
   },
   "350984": {
     "OriginalText": "オルテ・マガヴルムの極銃",
-    "Text": "Orte Magavulum Ultra Gun",
+    "Text": "Orte Magavurm Ultra Gun",
     "Enabled": true
   },
   "350985": {
@@ -4946,12 +4946,12 @@
   },
   "350989": {
     "OriginalText": "ウロザードの極背びれ",
-    "Text": "Pa Rozard Ultra Dorsal Fin",
+    "Text": "U Rozard Ultra Dorsal Fin",
     "Enabled": true
   },
   "350990": {
     "OriginalText": "クロザードの極背びれ",
-    "Text": "Gu Rozard Ultra Dorsal Fin",
+    "Text": "Ku Rozard Ultra Dorsal Fin",
     "Enabled": true
   },
   "350991": {
@@ -4966,7 +4966,7 @@
   },
   "350993": {
     "OriginalText": "ヴィマフレザールの極爪",
-    "Text": "Oui Maphrezer Ultra Claw",
+    "Text": "Vi Maphrezer Ultra Claw",
     "Enabled": true
   },
   "350994": {
@@ -4976,27 +4976,27 @@
   },
   "350995": {
     "OriginalText": "ウイマフレザールの極爪",
-    "Text": "Huy Maphrezer Ultra Claw",
+    "Text": "Ui Maphrezer Ultra Claw",
     "Enabled": true
   },
   "350996": {
     "OriginalText": "ジュラキアの極羽毛",
-    "Text": "Jurrakia Ultra Feather",
+    "Text": "Jurakia Ultra Feather",
     "Enabled": true
   },
   "350997": {
     "OriginalText": "メドジュラキアの極羽毛",
-    "Text": "Med Jurrakia Ultra Feather",
+    "Text": "Med Jurakia Ultra Feather",
     "Enabled": true
   },
   "350998": {
     "OriginalText": "ポリジュラキアの極羽毛",
-    "Text": "Poly Jurrakia Ultra Feather",
+    "Text": "Poly Jurakia Ultra Feather",
     "Enabled": true
   },
   "350999": {
     "OriginalText": "ガンジュラキアの極羽毛",
-    "Text": "Gun Jurrakia Ultra Feather",
+    "Text": "Gun Jurakia Ultra Feather",
     "Enabled": true
   },
   "351000": {
@@ -5036,7 +5036,7 @@
   },
   "351007": {
     "OriginalText": "パーグランブの極巻き貝",
-    "Text": "Pergranv Ultra Helix",
+    "Text": "Pargranv Ultra Helix",
     "Enabled": true
   },
   "351008": {
@@ -5056,12 +5056,12 @@
   },
   "351011": {
     "OriginalText": "トネルバンクゥの極尾",
-    "Text": "Toner Ban'qu Ultra Tail",
+    "Text": "Tonner Ban'qu Ultra Tail",
     "Enabled": true
   },
   "351012": {
     "OriginalText": "スォロバンクゥの極尾",
-    "Text": "Swole Ban'qu Ultra Tail",
+    "Text": "Swolo Ban'qu Ultra Tail",
     "Enabled": true
   },
   "351013": {
@@ -5101,32 +5101,32 @@
   },
   "351020": {
     "OriginalText": "バレダイナスの極銃",
-    "Text": "Valdinas Ultra Gun",
+    "Text": "Valdynas Ultra Gun",
     "Enabled": true
   },
   "351021": {
     "OriginalText": "ラーバレダイナスの極銃",
-    "Text": "Lar Valdinas Ultra Gun",
+    "Text": "Lar Valdynas Ultra Gun",
     "Enabled": true
   },
   "351022": {
     "OriginalText": "マーバレダイナスの極銃",
-    "Text": "Mar Valdinas Ultra Gun",
+    "Text": "Mar Valdynas Ultra Gun",
     "Enabled": true
   },
   "351023": {
     "OriginalText": "ヴィバレダイナスの極銃",
-    "Text": "Oui Valdinas Ultra Gun",
+    "Text": "Vi Valdynas Ultra Gun",
     "Enabled": true
   },
   "351024": {
     "OriginalText": "シードギオスの極盾",
-    "Text": "Xie Dogios Ultra Shield",
+    "Text": "Sea Dogios Ultra Shield",
     "Enabled": true
   },
   "351025": {
     "OriginalText": "フォードギオスの極盾",
-    "Text": "Pho Dogios Ultra Shield",
+    "Text": "Fo Dogios Ultra Shield",
     "Enabled": true
   },
   "351026": {
@@ -5146,7 +5146,7 @@
   },
   "351029": {
     "OriginalText": "ロウトルリンプの極ヒレ",
-    "Text": "Rol Torrimp Ultra Fin",
+    "Text": "Rou Torrimp Ultra Fin",
     "Enabled": true
   },
   "351030": {
@@ -5176,27 +5176,27 @@
   },
   "351035": {
     "OriginalText": "エレマンデルの極爪",
-    "Text": "Err Mander Ultra Claw",
+    "Text": "Elemander Ultra Claw",
     "Enabled": true
   },
   "351036": {
     "OriginalText": "テッラマンデルの極爪",
-    "Text": "Terra Mander Ultra Claw",
+    "Text": "Terramander Ultra Claw",
     "Enabled": true
   },
   "351037": {
     "OriginalText": "イーグマンデルの極爪",
-    "Text": "Eag Mander Ultra Claw",
+    "Text": "Igmander Ultra Claw",
     "Enabled": true
   },
   "351038": {
     "OriginalText": "エクセージＴの極目玉",
-    "Text": "Equsage T Ultra Eyeball",
+    "Text": "Exage T Ultra Eyeball",
     "Enabled": true
   },
   "351039": {
     "OriginalText": "レ・エクセージＴの極目玉",
-    "Text": "Le Equsage T Ultra Eyeball",
+    "Text": "Le Exage T Ultra Eyeball",
     "Enabled": true
   },
   "351040": {
@@ -5231,7 +5231,7 @@
   },
   "351046": {
     "OriginalText": "モストカーネベアの極砲身",
-    "Text": "Mosst Carnnebear Ultra Barrel",
+    "Text": "Mossed Carnnebear Ultra Barrel",
     "Enabled": true
   },
   "351047": {
@@ -5301,7 +5301,7 @@
   },
   "351060": {
     "OriginalText": "ウィルアフォルの極羽",
-    "Text": "Viluaphol Ultra Feather",
+    "Text": "Wilaphol Ultra Feather",
     "Enabled": true
   },
   "351061": {
@@ -5321,7 +5321,7 @@
   },
   "351064": {
     "OriginalText": "エウリュードの極尾",
-    "Text": "Eurude Ultra Tail",
+    "Text": "Euryude Ultra Tail",
     "Enabled": true
   },
   "351065": {
@@ -5331,7 +5331,7 @@
   },
   "351066": {
     "OriginalText": "ガラティオンの極",
-    "Text": "Garation Ultra Hoof",
+    "Text": "Gration Ultra Hoof",
     "Enabled": true
   },
   "351067": {

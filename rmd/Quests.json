@@ -256,7 +256,7 @@
   },
   "200303": {
     "OriginalText": "ジャッドバンサー撃破任務",
-    "Text": "Jhad Banther Subjugation",
+    "Text": "Jade Banther Subjugation",
     "Enabled": true
   },
   "200304": {
@@ -511,7 +511,7 @@
   },
   "200502": {
     "OriginalText": "最深部のジャッドバンサー撃破",
-    "Text": "Eliminate Jhad Banther",
+    "Text": "Eliminate Jade Banther",
     "Enabled": true
   },
   "200503": {
@@ -1031,7 +1031,7 @@
   },
   "200842": {
     "OriginalText": "クエストが追加されました。\n『ジャッドバンサー撃破任務』",
-    "Text": "Quest has been added.\n\"Jhad Banther Subjugation\"",
+    "Text": "Quest has been added.\n\"Jade Banther Subjugation\"",
     "Enabled": true
   },
   "200843": {
@@ -2166,7 +2166,7 @@
   },
   "210131": {
     "OriginalText": "ジャッドバンサー討伐",
-    "Text": "Subdue Jhad Banther",
+    "Text": "Subdue Jade Banther",
     "Enabled": true
   },
   "210132": {
@@ -2341,7 +2341,7 @@
   },
   "230007": {
     "OriginalText": "\n鋼の荒野における大型原生種\nジャッドバンサー撃破作戦を任せる。\n現在、エリア内の最深部に反応あり。\n速やかに現場へ向かうよう。\n標的の撃破を確認次第、帰還許可を与える。",
-    "Text": "\nSubdue the massive the Jhad\nBanther in the Steel Wastelands.\nWe detected it in the farthest depths.\n\nYou'll be granted permission to leave\nonce the target has been confirmed\nto be defeated.",
+    "Text": "\nSubdue the massive the Jade\nBanther in the Steel Wastelands.\nWe detected it in the farthest depths.\n\nYou'll be granted permission to leave\nonce the target has been confirmed\nto be defeated.",
     "Enabled": true
   },
   "230008": {

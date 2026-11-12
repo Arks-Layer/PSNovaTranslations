@@ -5921,7 +5921,7 @@
   },
   "103220010010001": {
     "OriginalText": "この惑星マキアに来てから、\nかなりの時間が経った。",
-    "Text": "A lot of time has passed since we came\nto the planet Machia.",
+    "Text": "A lot of time has passed since we came\nto the planet Mahkia.",
     "Enabled": true
   },
   "103220010020001": {
@@ -9851,7 +9851,7 @@
   },
   "106010020120004": {
     "OriginalText": "３日後、本艦は離陸して惑星マキアを脱出する。",
-    "Text": "In 3 days, this ship will lift off &\nescape the planet Machia.",
+    "Text": "In 3 days, this ship will lift off &\nescape the planet Mahkia.",
     "Enabled": true
   },
   "106010020130001": {
@@ -10426,7 +10426,7 @@
   },
   "106030030010004": {
     "OriginalText": "これより本艦は惑星マキアを離陸し、\nオラクル船団へ帰還する。",
-    "Text": "This ship will now lift off from the\nplanet Machia & return to the Oracle fleet.",
+    "Text": "This ship will now lift off from the\nplanet Mahkia & return to the Oracle fleet.",
     "Enabled": true
   },
   "106030030020007": {
@@ -10831,7 +10831,7 @@
   },
   "107010020120012": {
     "OriginalText": "ブリッジにいた方は、惑星マキアの目を\n見たのではないでしょうか？",
-    "Text": "Those of you on the bridge saw the eye\nof the planet Machia, didn't you?",
+    "Text": "Those of you on the bridge saw the eye\nof the planet Mahkia, didn't you?",
     "Enabled": true
   },
   "107010020130001": {
@@ -17111,7 +17111,7 @@
   },
   "109040070050007": {
     "OriginalText": "当部隊は惑星マキアにてミッションを完了。\n探査した惑星は美しい星でした。",
-    "Text": "Our unit has completed its mission on the\nplanet Machia. The planet we surveyed\nwas a beautiful one.",
+    "Text": "Our unit has completed its mission on the\nplanet Mahkia. The planet we surveyed\nwas a beautiful one.",
     "Enabled": true
   },
   "109040070060061": {

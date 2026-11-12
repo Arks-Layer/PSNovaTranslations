@@ -2086,12 +2086,12 @@
   },
   "100104": {
     "OriginalText": "ガラティオンの鎖鋸翼を模した鋼拳。\nあらゆる物を斬り裂く硬回転ブレードで\n新感覚の殴撃を体感することができる。",
-    "Text": "A Knuckles with a Garation chainsaw\nwing. Its hard rotating blades can\ncut through anything.",
+    "Text": "A Knuckles with a Gration chainsaw\nwing. Its hard rotating blades can\ncut through anything.",
     "Enabled": true
   },
   "100105": {
     "OriginalText": "エウリュードのハサミを模した鋼拳。\n目に見える物はもちろん、見えない物も\n接近すれば容赦なく挟み上げる。",
-    "Text": "A Knuckles in a shape of Eurude\nScissor. Even invisible things will be\nmercilessly cut down when approached.",
+    "Text": "A Knuckles in a shape of Euryude\nScissor. Even invisible things will be\nmercilessly cut down when approached.",
     "Enabled": true
   },
   "100106": {
@@ -2276,57 +2276,57 @@
   },
   "100142": {
     "OriginalText": "アークスで正式採用されている双機銃。\n携帯性を追求した最軽量モデルで\n初心者にも扱いやすい入門機。",
-    "Text": "Twin machineguns adopted by ARKS.\nWith emphasis on lightweight mobility,\nthis weapon is ideal for beginners.",
+    "Text": "Twin Machineguns adopted by ARKS.\nWith emphasis on lightweight mobility,\nthis weapon is ideal for beginners.",
     "Enabled": true
   },
   "100143": {
     "OriginalText": "アークスで使用される改良型の双機銃。\n射程の長さを追求した上級モデルで\n弾倉の大型化で連射性能も向上した。",
-    "Text": "Improved Twin Machine Gun used by\nARKS. A high-end model with increased\nrange and a larger magazine.",
+    "Text": "Improved Twin Machineguns used by\nARKS. A high-end model with increased\nrange and a larger magazine.",
     "Enabled": true
   },
   "100144": {
     "OriginalText": "基礎モデルに改良を加えた双機銃。\nアークスの要望で付けられたグリップで\n安定性と命中精度を向上させた。",
-    "Text": "An improved Twin Machine Gun. It has\nan improved stability and accuracy\nwith the help of the grip attachment.",
+    "Text": "Improved Twin Machineguns. It has\nan improved stability and accuracy\nwith the help of the grip attachment.",
     "Enabled": true
   },
   "100145": {
     "OriginalText": "ゼロから設計し直された双機銃。\n丸みをおびたデザインで携帯性を追求し\n扱いやすさにおいて群を抜いている。",
-    "Text": "A Twin Machine Gun redesigned from\nscratch. Its rounded design proposes\nportability and ease of handling.",
+    "Text": "Twin Machineguns redesigned from\nscratch. Its rounded design proposes\nportability and ease of handling.",
     "Enabled": true
   },
   "100146": {
     "OriginalText": "連射性能が向上した双機銃の改造版。\nエネルギー含有の増強によって全体の\nバランス性能の向上が図られている。",
-    "Text": "A modified Twin MG with an improved\nrate of fire. The overall performance\nand energy conservation is improved.",
+    "Text": "Modified Twin Machineguns with an\nimproved rate of fire. Improvements\nwere made to performance & energy.",
     "Enabled": true
   },
   "100147": {
     "OriginalText": "独自に改造された双機銃。\nアークス有志が旧式の双機銃をベースに\n全体をチューンアップした。",
-    "Text": "A uniquely modified Twin Machine Gun.\nVolunteer ARKS tuned up the entire\ndesign based on a classic model.",
+    "Text": "Uniquely modified Twin Machineguns.\nVolunteer ARKS tuned up the entire\ndesign based on a classic model.",
     "Enabled": true
   },
   "100148": {
     "OriginalText": "生物のようなフォルムをもつ双機銃。\n大気中のエネルギーを取り込むことを\n重点に置いた設計がなされている。",
-    "Text": "A Twin Machine Gun with a biological\ndesign. Designed to absorb energy\nfrom the atmosphere.",
+    "Text": "Twin Machineguns with a biological\ndesign. Designed to absorb energy\nfrom the atmosphere.",
     "Enabled": true
   },
   "100149": {
     "OriginalText": "機械部品による強化を重視した双機銃。\nレンジャーの誰もが同等に扱えることから\n人気となった。",
-    "Text": "A Twin Machine Gun with an improved\nmechanical parts. Very popular among\nRangers due to its versatility.",
+    "Text": "Twin Machineguns with an improved\nmechanical parts. Very popular among\nRangers due to its versatility.",
     "Enabled": true
   },
   "100150": {
     "OriginalText": "機械部品による強化を重視した双機銃。\n誰もが同等に扱える簡易性はそのままに\nパーツを選別し基本性能を向上させた。",
-    "Text": "A Twin MG with an improved mechanical\nparts. Its basic performance is\nimproved while keeping its simplicity.",
+    "Text": "Twin Machineguns improved with\nmechanical parts. It has been greatly\nmodified while keeping its simplicity.",
     "Enabled": true
   },
   "100151": {
     "OriginalText": "珠玉の一品として名高い双機銃。\n凍り付くほどに洗練された設計で、\n機動力ある弾丸が容赦なく敵を射貴く。",
-    "Text": "A popular Twin Machine Gun. Designed\nto freeze the enemies, its mobile\nbullets mercilessly shoots the target.",
+    "Text": "Popular Twin Machineguns. Designed\nto freeze the enemies, its mobile\nbullets mercilessly shoots the target.",
     "Enabled": true
   },
   "100152": {
     "OriginalText": "一部のマニア層に大人気の双機銃。\nアンティークモデルながら、その威力は\n現行武器と比較してもひけをとらない。",
-    "Text": "A pair of guns that are popular with\ngun enthusiasts. Although old, they\nstill out-perform modern weapons.",
+    "Text": "Twin Machineguns that are popular with\ngun enthusiasts. Although old, they\nstill out-perform modern weapons.",
     "Enabled": true
   },
   "100153": {
@@ -2336,27 +2336,27 @@
   },
   "100154": {
     "OriginalText": "圧倒的な年を重ねた樹木の幹を用い\n長い時間を掛けてグランをなじませた\n至宝の双銃。樹とは思えぬ威力を誇る。",
-    "Text": "A Twin MG made from an ancient tree.\nIt took a long time to adapt Gran.\nIt boasts unexpected firepower.",
+    "Text": "Twin Machineguns made from an\nancient tree. Its long adaptation\nto Gran boasts unexpected firepower.",
     "Enabled": true
   },
   "100155": {
     "OriginalText": "幾何学的な模様が刻まれている双機銃。\n図抜けた感応力によって、高い性能と\n安定性を両立させている。",
-    "Text": "A Twin Machine Gun with engraved\ndesigns. It has high performance and\nstability.",
+    "Text": "Twin Machineguns with engraved\ndesigns. It has high performance and\nstability.",
     "Enabled": true
   },
   "100156": {
     "OriginalText": "世界征服を企む某科学者が開発した\n特殊な双機銃。野望はいつも打ち砕かれ\n緑起が悪いにもかかわらず意外に人気。",
-    "Text": "A special Twin MG made by a scientist\nwho tried to conquer the world. Oddly\npopular despite its bad reputation.",
+    "Text": "Special Twin Machineguns created by\na scientist who tried to rule the world.\nDespite its history, its a fan favorite.",
     "Enabled": true
   },
   "100157": {
     "OriginalText": "デザイナーズブランドの双機銃。\nイラストを基にゼロから設計され\nまったく新しい武器として完成した。",
-    "Text": "A designer brand Twin Machine Gun.\nRedesigned from scratch to give it a\nnew look.",
+    "Text": "Designer brand Twin Machineguns.\nRedesigned from scratch to give it a\nnew look.",
     "Enabled": true
   },
   "100158": {
     "OriginalText": "全てが謎に包まれた双機銃。\nその効果、性能は一切不明で\n詳細な解祈が待たれている。",
-    "Text": "A mysterious Twin Machine Gun.\nIts efficiency and performance is\ncompletely unknown.",
+    "Text": "Twin Machineguns shrouded in mystery.\nIts efficiency and performance is\ncompletely unknown. Awaiting analysis.",
     "Enabled": true
   },
   "100159": {
@@ -2366,77 +2366,77 @@
   },
   "100160": {
     "OriginalText": "独自改造の双機銃。その一つの答え。\n経験に裏打ちされたカスタムのため\n非常に扱いやすく、それでいて強力。",
-    "Text": "Unique custom Twin Machine Gun.\nModifications backed by experience\nmakes use easy, but retains power.",
+    "Text": "Uniquely modified Twin Machineguns.\nBuilt on a foundation of experience,\nit's easy to handle, yet powerful.",
     "Enabled": true
   },
   "100161": {
     "OriginalText": "一部星域に偏在する特殊鉱石を鍛えた\n双機銃。磁気による主軸の微妙なブレを\n自動調整し安定した射撃を可能にする。",
-    "Text": "A Twin Machine Gun made from a rare\nore. It automatically adjusts the\nspindle that enables stable shooting.",
+    "Text": "Twin Machineguns made from a rare\nore. It automatically adjusts the\nspindle that enables stable shooting.",
     "Enabled": true
   },
   "100162": {
     "OriginalText": "バレダイナスの手砲を模した双機銃。\n装着するとバレダイナスの攻撃スタイル\nそのままになる、ある意味変身グッズ。",
-    "Text": "A Twin Machine Gun made from Valdinas\narm gun. Processed to preserve the\nattack style of a Valdinas.",
+    "Text": "Twin Machineguns made from Valdynas\narm gun. Processed to preserve the\nattack style of a Valdynas.",
     "Enabled": true
   },
   "100163": {
     "OriginalText": "ガラティオン種の装甲を流用した双機銃。\n射出されるワイヤーアンカーは標的に\n激しい苦痛を与え非人道的と噂される。",
-    "Text": "A Twin Machine Gun made from a\nGaration-type armor. Its wire anchors\ncan cause great pain to the target.",
+    "Text": "Twin Machineguns made from a\nGration-type armor. Its wire anchors\ncan cause great pain to the target.",
     "Enabled": true
   },
   "100164": {
     "OriginalText": "アグリオスの頭部を模した双機銃。\n銃身と一体化した装甲角が射出力を\n増幅し、脅威の破壊力を発揮する。",
-    "Text": "A Twin Machine Gun with an Agrios\nhead. The armor attached to the barrel\namplifies the firing output and power.",
+    "Text": "Twin Machineguns with an Agrios\nhead. The armor attached to the barrel\namplifies the firing output and power.",
     "Enabled": true
   },
   "100165": {
     "OriginalText": "エウリュードと同じ弾倉を持つ双機銃。\n物理的な制限所持量いっぱいに弾丸を\n備えてもなお余裕ある大型弾倉が評判。",
-    "Text": "A Twin MG with the same magazine as\na Eurude has. Still popular even\nits magazine has physical limitation.",
+    "Text": "Twin Machineguns using the same\nmagazine as Euryude. Despite its\nlimitations, it is very popular.",
     "Enabled": true
   },
   "100166": {
     "OriginalText": "星を覆うギガンテスの器官を組み込み\n試作された双機銃。その目が狙いを\n定めれば百発百中と噂される。",
-    "Text": "A prototype Twin MG made from the\norgans of a giant Gigantes. The target\nis already dead the moment you aim it.",
+    "Text": "Prototype Twin Machineguns made\nfrom Gigantes parts. Targets aimed\nwith it are guaranteed dead.",
     "Enabled": true
   },
   "100167": {
     "OriginalText": "既存の武器に満足できないアークスが\n独自開発した双機銃。装着可能な重量の\n最大値に挑戦した意欲作。",
-    "Text": "A Twin Machine Gun originally made by\nARKS. An ambitious work that tests\nthe maximum usable weight limit.",
+    "Text": "Twin Machineguns originally made by\nARKS. An ambitious work that tests\nthe maximum usable weight limit.",
     "Enabled": true
   },
   "100168": {
     "OriginalText": "童心を忘れないアークスに人気の\n双機銃。巨大ロボのように指先から\n射撃したいという願望を叶えてくれる。",
-    "Text": "A nostalgic Twin MG popular among\nARKS. It fulfills the user's desire to\nshoot from a giant robot's fingertip.",
+    "Text": "Nostalgic Twin Machineguns that is\npopular amongst ARKS. It fills that\nneed of shooting from a giant robo.",
     "Enabled": true
   },
   "100169": {
     "OriginalText": "一部星域に偏在する特殊鉱石を鍛えた\n双機銃。素村の配分を見直し、\n射出力の滅衰を極限まで抑えた。",
-    "Text": "A Twin MG made from a rare ore. The\nusage of materials was managed to\ncontrol the decline in shooting output.",
+    "Text": "Twin Machineguns created from a\nrare ore. Its origins was used to\ncompensate for its lack of output.",
     "Enabled": true
   },
   "100170": {
     "OriginalText": "ヴィヴリュードと同じ形状の弾倉を持つ\n双機銃。単純な弾倉の大型化とは一線\nを画し、命中精度にこだわった。",
-    "Text": "A Twin MG with the same magazine as a\nVivryude has. Its size is increased\nand the accuracy is also improved.",
+    "Text": "Twin Machineguns using the same\nmagazine as Vivryude. Its size\n& accuracy had been increased.",
     "Enabled": true
   },
   "100171": {
     "OriginalText": "既存の武器に満足できないアークスが\n独自開発した双機銃。重量はそのままに\n要望の多かった威圧感ある塗装を採用。",
-    "Text": "A Twin MG originally made by ARKS.\nOften requested with an intimidating\ncoating while maintaining its weight.",
+    "Text": "Twin Machineguns created by ARKS.\nA popular & intimidating paintjob\nwas applied while keeping its weight.",
     "Enabled": true
   },
   "100172": {
     "OriginalText": "とある世界で、運命を克服する女が\n愛用した双機銃。手に取れば何かが\n変わることを予期させる一級品。",
-    "Text": "A Twin MG used by a woman who overcomes\nher fate. A classy item that is\nexpected to change the user's life.",
+    "Text": "Twin Machineguns wielded by a woman\nwho overcame fate. A classy item that\nwill change the user's life.",
     "Enabled": true
   },
   "100173": {
     "OriginalText": "とある世界で、運命を受け入れた男が\n愛用した双機銃。本格的な戦闘訓練を\n積んだ者だけが使いこなす。",
-    "Text": "A Twin MG used by a man who accepted\nhis fate. Only those who have full-\nscale combat training can master it.",
+    "Text": "Twin Machineguns wielded by a man\nwho accepted their fate. Only those\nwho mastered combat could use it.",
     "Enabled": true
   },
   "100174": {
     "OriginalText": "とある世界で、運命に抗う少年が\n愛用した双機銃。思わず乱射して\nしまいたくなるほど扱いやすく強力。",
-    "Text": "A Twin MG used by a boy who resists\nhis fate. Easy to use and powerful\nthat you'll want to shoot it wildly.",
+    "Text": "Twin Machineguns wielded by a boy\nwho resisted fate. Because of how\nits made, it makes you shoot wildly.",
     "Enabled": true
   },
   "100175": {
@@ -2526,7 +2526,7 @@
   },
   "100192": {
     "OriginalText": "ガラティオンの鎖鋸翼を模した長杖。\n高速回転する鋸が法撃力を極限増幅し\n異次元のテクニック行使を可能にする。",
-    "Text": "A Rod with a chainsaw wing of\nGaration. The saw rotates at high speed\nto reach the maximum attack power.",
+    "Text": "A Rod with a chainsaw wing of\nGration. The saw rotates at high speed\nto reach the maximum attack power.",
     "Enabled": true
   },
   "100193": {
@@ -2561,7 +2561,7 @@
   },
   "100199": {
     "OriginalText": "ウィルアフォルの生体を模した長杖。\n凄味のある赤さと鋭い眼光には\n思わず目を背けたくなる。",
-    "Text": "A Rod made from the living body of a\nViluaphol. It has a terrifying red and\nsharp eyes attached to it.",
+    "Text": "A Rod made from the living body of a\nWilaphol. It has a terrifying red and\nsharp eyes attached to it.",
     "Enabled": true
   },
   "100200": {
@@ -2831,7 +2831,7 @@
   },
   "100253": {
     "OriginalText": "トネルバンクゥの宝石を加工した短杖。\n宝飾品としての人気も高く、将来\n乱獲による捕獲制限が心配な一品。",
-    "Text": "A Wand made from a Toner Ban'qu gem.\nVery popular as a jewelry. A restriction\nwas set to prevent overfishing.",
+    "Text": "A Wand made from a Tonner Ban'qu gem.\nVery popular as a jewelry. A restriction\nwas set to prevent overfishing.",
     "Enabled": true
   },
   "100254": {
@@ -2901,7 +2901,7 @@
   },
   "100267": {
     "OriginalText": "エウリュードの生体機能を模した撃杭。\n斬撃可能な設計を追求した結果、\n最適な素村として行き着いた。",
-    "Text": "A Pile made from a living body of a\nEurude. They achieve similar design\nwith optimum material usage.",
+    "Text": "A Pile made from a living body of a\nEuryude. They achieve similar design\nwith optimum material usage.",
     "Enabled": true
   },
   "100268": {
@@ -2916,7 +2916,7 @@
   },
   "100270": {
     "OriginalText": "ガラティオンの器官を模した撃杭。\nワイヤーアンカーをしのぐ強烈な\n射出力で、どこにでも刺さる。",
-    "Text": "A Pile made from the organs of a\nGaration. Its strong shooting power\nsurpasses Garation's wire anchors.",
+    "Text": "A Pile made from the organs of a\nGration. Its strong shooting power\nsurpasses Gration's wire anchors.",
     "Enabled": true
   },
   "100271": {
@@ -3006,7 +3006,7 @@
   },
   "100288": {
     "OriginalText": "エウリュードのリボルバーを模した\n力場を生成する光輪具。物理的な\n連続砲撃に匹敵する攻撃が可能。",
-    "Text": "A Halo that looks like Eurude's\nrevolver. Its attack power is\ncomparable to an actual bombardment.",
+    "Text": "A Halo that looks like Euryude's\nrevolver. Its attack power is\ncomparable to an actual bombardment.",
     "Enabled": true
   },
   "100289": {
@@ -3021,7 +3021,7 @@
   },
   "100291": {
     "OriginalText": "ガラティオンの鎖鋸翼を模した力場を\n生成する光輪具。触媒の周囲を高速で\n回転するまばゆい光子が敵を切り裂く。",
-    "Text": "A Halo the resembles a Garation\nchainsaw wing. The dazzling light that\nrotates can cut through the enemy.",
+    "Text": "A Halo the resembles a Gration\nchainsaw wing. The dazzling light that\nrotates can cut through the enemy.",
     "Enabled": true
   },
   "100292": {
