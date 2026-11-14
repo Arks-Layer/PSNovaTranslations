@@ -946,12 +946,12 @@
   },
   "800189": {
     "OriginalText": "カリストの持っている古いスパナには\n本人しか知らない特別な思い入れがあるらしい。",
-    "Text": "Callisto's old spanner has a special attachment to him\nhe only knows.",
+    "Text": "Callisto has a special attachment towards his old\nwrench that only he knows about.",
     "Enabled": true
   },
   "800190": {
     "OriginalText": "オラクルとの通信が回復しないのは\n何らかの妨害が発生している説が有力らしい。",
-    "Text": "There's a theory that an interference is the reason\nwhy the Oracle can't be contact.",
+    "Text": "There's a theory that an interference is the reason\nwhy Oracle can't be contacted.",
     "Enabled": true
   },
   "800191": {
