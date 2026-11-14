@@ -5851,7 +5851,7 @@
   },
   "360065": {
     "OriginalText": "白い露の向こうに見た甘酸っぱい思い出。\nコスチュームの素村として利用される。",
-    "Text": "白い酔の向こうに見た甘酸っぱい思い出.\n*Can be used as material for costumes.",
+    "Text": "A bittersweet memory seen beyond the white dew.\nCan be used as material for costumes.",
     "Enabled": true
   },
   "360066": {
@@ -10056,7 +10056,7 @@
   },
   "360906": {
     "OriginalText": "ダーカーが消化器官に貯め込んだ栄養素。\n強い生命力の源でもあるが採取が難しく\n独特の濃い味わいが人気の高級食用素村。",
-    "Text": "Darker digestive organ for storing\nnutrients. High grade ingredient, very\npopular for its taste but very hard to\ncollect.",
+    "Text": "Nutrients a Darker stores in its digestive\norgans. High grade ingredient, very\npopular for its taste but very hard to\ncollect.",
     "Enabled": true
   },
   "360907": {
