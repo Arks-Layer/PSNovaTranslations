@@ -10426,12 +10426,12 @@
   },
   "106030030010004": {
     "OriginalText": "これより本艦は惑星マキアを離陸し、\nオラクル船団へ帰還する。",
-    "Text": "This ship will now lift off from the\nplanet Mahkia & return to the Oracle fleet.",
+    "Text": "This ship will now lift off from the\nplanet Mahkia & return to Oracle fleet.",
     "Enabled": true
   },
   "106030030020007": {
     "OriginalText": "グランドライブ始動。\n各部チェック。",
-    "Text": "Starting Gran Drive.\nChecking all sections.",
+    "Text": "Starting the Gran Drive.\nChecking all sections.",
     "Enabled": true
   },
   "106030030030007": {
