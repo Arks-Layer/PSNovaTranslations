@@ -1196,7 +1196,7 @@
   },
   "240260": {
     "OriginalText": "オリエントシート緑",
-    "Text": "Green Oritenal Sheet",
+    "Text": "Green Oriental Sheet",
     "Enabled": true
   },
   "240261": {
@@ -2071,833 +2071,833 @@
   },
   "250000": {
     "OriginalText": "アークスの標準的な施設。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A standard ARKS facility.",
+    "Enabled": true
   },
   "250001": {
     "OriginalText": "必要設備のみ配置した標準カウンター。\n物資不足のため性能面も一部に難あり。\n[a 06]【機能】クラス変更・スキル習得・\nグランアーツ・テクニック習得[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "A counter with only the essentials.\nShortages leave some performance issues.\n[a 06][Function] Class Change, Skill Learning,\nGran Art and Technique Learning[b]",
+    "Enabled": true
   },
   "250002": {
     "OriginalText": "アークス標準仕様のカウンター。\n物資不足のため機器配置はおなりだが\n性能面での不安は一掃されている。",
-    "Text": "",
-    "Enabled": false
+    "Text": "An ARKS-standard counter. Shortages keep\nthe layout makeshift, but performance\nconcerns are resolved.",
+    "Enabled": true
   },
   "250003": {
     "OriginalText": "アークス標準仕様のカウンター。\n一新された計器類を機能的に配置し、\n使い勝手が著しく向上した。",
-    "Text": "",
-    "Enabled": false
+    "Text": "An ARKS-standard counter. Its renewed\ngauges are laid out for function,\ngreatly improving usability.",
+    "Enabled": true
   },
   "250004": {
     "OriginalText": "新提案の次世代カウンター。\n計器類のシステムが最新版に更新され\n情報処理能力が大幅に向上した。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A newly proposed next-gen counter. Its\ngauge systems are updated, greatly\nboosting data processing.",
+    "Enabled": true
   },
   "250005": {
     "OriginalText": "新提案の次世代カウンター。\nすべての機器を小型化、省電力化しつつ\n処理速度をさらに向上させた。\n[a 06]【レベル効果】ＧＡ・テクニックレベル上限開放[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "A newly proposed next-gen counter. All\nits gear is smaller and power-efficient,\nwith even faster processing.\n[a 06][Level Effect] GA and Tech Level Caps Up[b]",
+    "Enabled": true
   },
   "250006": {
     "OriginalText": "必要設備のみ配置の異国的カウンター。\n物資不足のため性能面も一部に難あり。\n[a 06]【機能】クラス変更・スキル習得・\nグランアーツ・テクニック習得[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "An exotic counter with only the\nessentials. Shortages leave some\nperformance issues.\n[a 06][Function] Class Change, Skill Learning,\nGran Art and Technique Learning[b]",
+    "Enabled": true
   },
   "250007": {
     "OriginalText": "とある文化が由来の異国的カウンター。\n物資不足のため機器配置はおなりだが\n性能面での不安は一掃されている。",
-    "Text": "",
-    "Enabled": false
+    "Text": "An exotic counter rooted in a certain\nculture. Shortages keep the layout\nmakeshift, but performance concerns are\nresolved.",
+    "Enabled": true
   },
   "250008": {
     "OriginalText": "とある文化が由来の異国的カウンター。\n一新された計器類を機能的に配置し、\n使い勝手が著しく向上した。",
-    "Text": "",
-    "Enabled": false
+    "Text": "An exotic counter rooted in a certain\nculture. Its renewed gauges are laid out\nfor function, greatly improving\nusability.",
+    "Enabled": true
   },
   "250009": {
     "OriginalText": "新提案の異国的な次世代カウンター。\n計器類のシステムが最新版に更新され\n情報処理能力が大幅に向上した。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A newly proposed exotic next-gen\ncounter. Its gauge systems are updated,\ngreatly boosting data processing.",
+    "Enabled": true
   },
   "250010": {
     "OriginalText": "新提案の異国的な次世代カウンター。\nすべての機器を小型化、省電力化しつつ\n処理速度をさらに向上させた。\n[a 06]【レベル効果】ＧＡ・テクニックレベル上限開放[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "A newly proposed exotic next-gen\ncounter. All its gear is smaller and\npower-efficient, with even faster\nprocessing.\n[a 06][Level Effect] GA and Tech Level Caps Up[b]",
+    "Enabled": true
   },
   "250011": {
     "OriginalText": "必要設備のみ配置の文化的カウンター。\n物資不足のため性能面も一部に難あり。\n[a 06]【機能】クラス変更・スキル習得・\nグランアーツ・テクニック習得[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "A cultured counter with only the\nessentials. Shortages leave some\nperformance issues.\n[a 06][Function] Class Change, Skill Learning,\nGran Art and Technique Learning[b]",
+    "Enabled": true
   },
   "250012": {
     "OriginalText": "とある文化を取り入れたカウンター。\n物資不足のため機器配置はおなりだが\n性能面での不安は一掃されている。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A counter adopting a certain culture.\nShortages keep the layout makeshift, but\nperformance concerns are resolved.",
+    "Enabled": true
   },
   "250013": {
     "OriginalText": "とある文化を取り入れたカウンター。\n一新された計器類を機能的に配置し、\n使い勝手が著しく向上した。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A counter adopting a certain culture.\nIts renewed gauges are laid out for\nfunction, greatly improving usability.",
+    "Enabled": true
   },
   "250014": {
     "OriginalText": "新提案の文化的な次世代カウンター。\n計器類のシステムが最新版に更新され\n情報処理能力が大幅に向上した。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A newly proposed cultured next-gen\ncounter. Its gauge systems are updated,\ngreatly boosting data processing.",
+    "Enabled": true
   },
   "250015": {
     "OriginalText": "新提案の文化的な次世代カウンター。\nすべての機器を小型化、省電力化しつつ\n処理速度をさらに向上させた。\n[a 06]【レベル効果】ＧＡ・テクニックレベル上限開放[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "A newly proposed cultured next-gen\ncounter. All its gear is smaller and\npower-efficient, with even faster\nprocessing.\n[a 06][Level Effect] GA and Tech Level Caps Up[b]",
+    "Enabled": true
   },
   "250016": {
     "OriginalText": "急ごしらえの仮設クラスカウンター。\n計器類は問題ないが電源供給が不安定。\n[a 06]【機能】クラス変更・スキル習得・\nグランアーツ・テクニック習得[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "A hastily built temporary class counter.\nThe gauges work, but its power supply is\nunstable.\n[a 06][Function] Class Change, Skill Learning,\nGran Art and Technique Learning[b]",
+    "Enabled": true
   },
   "250017": {
     "OriginalText": "応急物資で改修された仮設カウンター。\n電源供給が安定し性能面での不安は\n一掃されたが、使い勝手に難あり。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A temporary counter refit with emergency\nsupplies. Power is stable and\nperformance concerns are resolved, but\nit's awkward to use.",
+    "Enabled": true
   },
   "250018": {
     "OriginalText": "応急物資で改修された仮設カウンター。\n再利用品ながら計器類を機能的に配置し\n使い勝手が著しく向上した。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A temporary counter refit with emergency\nsupplies. Its recycled gauges are laid\nout for function, greatly improving\nusability.",
+    "Enabled": true
   },
   "250019": {
     "OriginalText": "次世代仕様に大改修されたカウンター。\n計器類のシステムが最新版に更新され\n情報処理能力が大幅に向上した。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A counter heavily refit to next-gen\nspecs. Its gauge systems are updated,\ngreatly boosting data processing.",
+    "Enabled": true
   },
   "250020": {
     "OriginalText": "次世代仕様に大改修されたカウンター。\n応急設備ながら小型化、省電力化しつつ\n処理速度をさらに向上させた。\n[a 06]【レベル効果】ＧＡ・テクニックレベル上限開放[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "A counter heavily refit to next-gen\nspecs. Despite makeshift gear, it's\nsmaller and power-efficient, with even\nfaster processing.\n[a 06][Level Effect] GA and Tech Level Caps Up[b]",
+    "Enabled": true
   },
   "250041": {
     "OriginalText": "必要設備のみ確保した食堂。\n食事を提供することに目的を絞り、\n最低限のスペースと調理器具を確保。\n[a 06]【機能】料理の作成[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "A restaurant with only the essentials.\nFocused purely on serving meals, with\nminimal space and cookware.\n[a 06][Function] Cooking[b]",
+    "Enabled": true
   },
   "250042": {
     "OriginalText": "アークス標準仕様の食堂。\n物資不足のため一部調理器具は未配備。\n[a 06]【レベル効果】レシピ追加[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "An ARKS-standard restaurant. Shortages\nleave some cookware missing.\n[a 06][Level Effect] Recipes Added[b]",
+    "Enabled": true
   },
   "250043": {
     "OriginalText": "アークス標準仕様の食堂。\n一新された調理器具を機能的に配置。\n[a 06]【レベル効果】レシピ追加[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "An ARKS-standard restaurant. Its renewed\ncookware is laid out for function.\n[a 06][Level Effect] Recipes Added[b]",
+    "Enabled": true
   },
   "250044": {
     "OriginalText": "新提案の次世代食堂。\n調理手順を見直し食事の提供を効率化。\n[a 06]【レベル効果】レシピ追加[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "A newly proposed next-gen restaurant.\nReworked cooking steps make meal service\nmore efficient.\n[a 06][Level Effect] Recipes Added[b]",
+    "Enabled": true
   },
   "250045": {
     "OriginalText": "新提案の次世代食堂。大型の\n食村収納庫と多彩な調理器具を完備。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A newly proposed next-gen restaurant.\nFully equipped with large ingredient\nstorage and varied cookware.",
+    "Enabled": true
   },
   "250046": {
     "OriginalText": "必要設備のみ確保した異国的食堂。\n食事を提供することに目的を絞り、\n最低限のスペースと調理器具を確保。\n[a 06]【機能】料理の作成[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "An exotic restaurant with only the\nessentials. Focused purely on serving\nmeals, with minimal space and cookware.\n[a 06][Function] Cooking[b]",
+    "Enabled": true
   },
   "250047": {
     "OriginalText": "とある文化が由来の異国的食堂。\n物資不足のため一部調理器具は未配備。\n[a 06]【レベル効果】レシピ追加[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "An exotic restaurant rooted in a certain\nculture. Shortages leave some cookware\nmissing.\n[a 06][Level Effect] Recipes Added[b]",
+    "Enabled": true
   },
   "250048": {
     "OriginalText": "とある文化が由来の異国的食堂。\n一新された調理器具を機能的に配置。\n[a 06]【レベル効果】レシピ追加[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "An exotic restaurant rooted in a certain\nculture. Its renewed cookware is laid\nout for function.\n[a 06][Level Effect] Recipes Added[b]",
+    "Enabled": true
   },
   "250049": {
     "OriginalText": "新提案の異国的な次世代食堂。\n調理手順を見直し食事の提供を効率化。\n[a 06]【レベル効果】レシピ追加[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "A newly proposed exotic next-gen\nrestaurant. Reworked cooking steps make\nmeal service more efficient.\n[a 06][Level Effect] Recipes Added[b]",
+    "Enabled": true
   },
   "250050": {
     "OriginalText": "新提案の異国的な次世代食堂。\n大型食村収納庫と多彩な調理器具完備。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A newly proposed exotic next-gen\nrestaurant. Fully equipped with large\ningredient storage and varied cookware.",
+    "Enabled": true
   },
   "250051": {
     "OriginalText": "必要設備のみ確保した文化的食堂。\n食事を提供することに目的を絞り、\n最低限のスペースと調理器具を確保。\n[a 06]【機能】料理の作成[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "A cultured restaurant with only the\nessentials. Focused purely on serving\nmeals, with minimal space and cookware.\n[a 06][Function] Cooking[b]",
+    "Enabled": true
   },
   "250052": {
     "OriginalText": "とある文化を取り入れた食堂。\n物資不足のため一部調理器具は未配備。\n[a 06]【レベル効果】レシピ追加[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "A restaurant adopting a certain culture.\nShortages leave some cookware missing.\n[a 06][Level Effect] Recipes Added[b]",
+    "Enabled": true
   },
   "250053": {
     "OriginalText": "とある文化を取り入れた食堂。\n一新された調理器具を機能的に配置。\n[a 06]【レベル効果】レシピ追加[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "A restaurant adopting a certain culture.\nIts renewed cookware is laid out for\nfunction.\n[a 06][Level Effect] Recipes Added[b]",
+    "Enabled": true
   },
   "250054": {
     "OriginalText": "新提案の文化的な次世代食堂。\n調理手順を見直し食事の提供を効率化。\n[a 06]【レベル効果】レシピ追加[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "A newly proposed cultured next-gen\nrestaurant. Reworked cooking steps make\nmeal service more efficient.\n[a 06][Level Effect] Recipes Added[b]",
+    "Enabled": true
   },
   "250055": {
     "OriginalText": "新提案の文化的な次世代食堂。\n大型食村収納庫と多彩な調理器具完備。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A newly proposed cultured next-gen\nrestaurant. Fully equipped with large\ningredient storage and varied cookware.",
+    "Enabled": true
   },
   "250056": {
     "OriginalText": "急ごしらえの仮設食堂。\n食事を提供することに目的を絞り、\n最低限のスペースと調理器具を確保。\n[a 06]【機能】料理の作成[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "A hastily built temporary restaurant.\nFocused purely on serving meals, with\nminimal space and cookware.\n[a 06][Function] Cooking[b]",
+    "Enabled": true
   },
   "250057": {
     "OriginalText": "応急物資で改修された仮設食堂。\n物資不足のため一部調理器具は未配備。\n[a 06]【レベル効果】レシピ追加[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "A temporary restaurant refit with\nemergency supplies. Shortages leave some\ncookware missing.\n[a 06][Level Effect] Recipes Added[b]",
+    "Enabled": true
   },
   "250058": {
     "OriginalText": "応急物資で改修された仮設食堂。\n一新された調理器具を機能的に配置。\n[a 06]【レベル効果】レシピ追加[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "A temporary restaurant refit with\nemergency supplies. Its renewed cookware\nis laid out for function.\n[a 06][Level Effect] Recipes Added[b]",
+    "Enabled": true
   },
   "250059": {
     "OriginalText": "次世代仕様に大改修された仮設食堂。\n調理手順を見直し食事の提供を効率化。\n[a 06]【レベル効果】レシピ追加[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "A temporary restaurant heavily refit to\nnext-gen specs. Reworked cooking steps\nmake meal service more efficient.\n[a 06][Level Effect] Recipes Added[b]",
+    "Enabled": true
   },
   "250060": {
     "OriginalText": "次世代仕様に大改修された仮設食堂。\n大型食村収納庫と多彩な調理器具完備。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A temporary restaurant heavily refit to\nnext-gen specs. Fully equipped with\nlarge ingredient storage and varied\ncookware.",
+    "Enabled": true
   },
   "250061": {
     "OriginalText": "必要資村のみを揃えた武器店。\n物資不足のため限定的な作業のみ可能。\n[a 06]【機能】武器製作・アタッチパーツ製作と配置\n【レベル効果】攻撃力アップ ＋２％[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "A weapon shop with only the essentials.\nShortages allow only limited work.\n[a 06][Function] Weapon Crafting, Attachment\nCrafting and Placement\n[Level Effect] ATK Up +2%[b]",
+    "Enabled": true
   },
   "250062": {
     "OriginalText": "アークス標準仕様の武器店。\n物資不足のため一部の工具が未配備。\n[a 06]【レベル効果】攻撃力アップ ＋５％[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "An ARKS-standard weapon shop. Shortages\nleave some tools missing.\n[a 06][Level Effect] ATK Up +5%[b]",
+    "Enabled": true
   },
   "250063": {
     "OriginalText": "アークス標準仕様の武器店。\n一新された工具を機能的に配置した。\n[a 06]【レベル効果】攻撃力アップ ＋７％[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "An ARKS-standard weapon shop. Its\nrenewed tools are laid out for function.\n[a 06][Level Effect] ATK Up +7%[b]",
+    "Enabled": true
   },
   "250064": {
     "OriginalText": "新提案の次世代武器店。\n整備手順を見直し加工工程を効率化。\n[a 06]【レベル効果】攻撃力アップ ＋１０％[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "A newly proposed next-gen weapon shop.\nReworked maintenance steps streamline\nits processing.\n[a 06][Level Effect] ATK Up +10%[b]",
+    "Enabled": true
   },
   "250065": {
     "OriginalText": "新提案の次世代武器店。\n最新の加工機械と精密機器を配備。\n[a 06]【レベル効果】攻撃力アップ ＋１５％\n上位武器・アタッチパーツ追加[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "A newly proposed next-gen weapon shop.\nEquipped with the latest machining and\nprecision tools.\n[a 06][Level Effect] ATK Up +15%\nHigher-Tier Weapons and Attachments Added[b]",
+    "Enabled": true
   },
   "250066": {
     "OriginalText": "必要資村のみを揃えた異国的武器店。\n物資不足のため限定的な作業のみ可能。\n[a 06]【機能】武器製作・アタッチパーツ製作と配置\n【レベル効果】攻撃力アップ ＋２％[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "An exotic weapon shop with only the\nessentials. Shortages allow only limited work.\n[a 06][Function] Weapon Crafting, Attachment\nCrafting and Placement\n[Level Effect] ATK Up +2%[b]",
+    "Enabled": true
   },
   "250067": {
     "OriginalText": "とある文化が由来の異国的武器店。\n物資不足のため一部の工具が未配備。\n[a 06]【レベル効果】攻撃力アップ ＋５％[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "An exotic weapon shop rooted in a\ncertain culture. Shortages leave some\ntools missing.\n[a 06][Level Effect] ATK Up +5%[b]",
+    "Enabled": true
   },
   "250068": {
     "OriginalText": "とある文化が由来の異国的武器店。\n一新された工具を機能的に配置した。\n[a 06]【レベル効果】攻撃力アップ ＋７％[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "An exotic weapon shop rooted in a\ncertain culture. Its renewed tools are\nlaid out for function.\n[a 06][Level Effect] ATK Up +7%[b]",
+    "Enabled": true
   },
   "250069": {
     "OriginalText": "新提案の異国的な次世代武器店。\n整備手順を見直し加工工程を効率化。\n[a 06]【レベル効果】攻撃力アップ ＋１０％[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "A newly proposed exotic next-gen weapon\nshop. Reworked maintenance steps\nstreamline its processing.\n[a 06][Level Effect] ATK Up +10%[b]",
+    "Enabled": true
   },
   "250070": {
     "OriginalText": "新提案の異国的な次世代武器店。\n最新の加工機械と精密機器を配備。\n[a 06]【レベル効果】攻撃力アップ ＋１５％\n上位武器・アタッチパーツ追加[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "A newly proposed exotic next-gen weapon\nshop. Equipped with the latest machining\nand precision tools.\n[a 06][Level Effect] ATK Up +15%\nHigher-Tier Weapons and Attachments Added[b]",
+    "Enabled": true
   },
   "250071": {
     "OriginalText": "必要資村のみを揃えた文化的武器店。\n物資不足のため限定的な作業のみ可能。\n[a 06]【機能】武器製作・アタッチパーツ製作と配置\n【レベル効果】攻撃力アップ ＋２％[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "A cultured weapon shop with only the\nessentials. Shortages allow only limited work.\n[a 06][Function] Weapon Crafting, Attachment\nCrafting and Placement\n[Level Effect] ATK Up +2%[b]",
+    "Enabled": true
   },
   "250072": {
     "OriginalText": "とある文化を取り入れた武器店。\n物資不足のため一部の工具が未配備。\n[a 06]【レベル効果】攻撃力アップ ＋５％[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "A weapon shop adopting a certain\nculture. Shortages leave some tools\nmissing.\n[a 06][Level Effect] ATK Up +5%[b]",
+    "Enabled": true
   },
   "250073": {
     "OriginalText": "とある文化を取り入れた武器店。\n一新された工具を機能的に配置した。\n[a 06]【レベル効果】攻撃力アップ ＋７％[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "A weapon shop adopting a certain\nculture. Its renewed tools are laid out\nfor function.\n[a 06][Level Effect] ATK Up +7%[b]",
+    "Enabled": true
   },
   "250074": {
     "OriginalText": "新提案の文化的な次世代武器店。\n整備手順を見直し加工工程を効率化。\n[a 06]【レベル効果】攻撃力アップ ＋１０％[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "A newly proposed cultured next-gen\nweapon shop. Reworked maintenance steps\nstreamline its processing.\n[a 06][Level Effect] ATK Up +10%[b]",
+    "Enabled": true
   },
   "250075": {
     "OriginalText": "新提案の文化的な次世代武器店。\n最新の加工機械と精密機器を配備。\n[a 06]【レベル効果】攻撃力アップ ＋１５％\n上位武器・アタッチパーツ追加[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "A newly proposed cultured next-gen\nweapon shop. Equipped with the latest\nmachining and precision tools.\n[a 06][Level Effect] ATK Up +15%\nHigher-Tier Weapons and Attachments Added[b]",
+    "Enabled": true
   },
   "250076": {
     "OriginalText": "急ごしらえの仮設武器店。\n物資不足のため限定的な作業のみ可能。\n[a 06]【機能】武器製作・アタッチパーツ製作と配置\n【レベル効果】攻撃力アップ ＋２％[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "A hastily built temporary weapon shop.\nShortages allow only limited work.\n[a 06][Function] Weapon Crafting, Attachment\nCrafting and Placement\n[Level Effect] ATK Up +2%[b]",
+    "Enabled": true
   },
   "250077": {
     "OriginalText": "応急物資で改修された仮設武器店。\n物資不足のため一部の工具が未配備。\n[a 06]【レベル効果】攻撃力アップ ＋５％[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "A temporary weapon shop refit with\nemergency supplies. Shortages leave some\ntools missing.\n[a 06][Level Effect] ATK Up +5%[b]",
+    "Enabled": true
   },
   "250078": {
     "OriginalText": "応急物資で改修された仮設武器店。\n一新された工具を機能的に配置した。\n[a 06]【レベル効果】攻撃力アップ ＋７％[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "A temporary weapon shop refit with\nemergency supplies. Its renewed tools\nare laid out for function.\n[a 06][Level Effect] ATK Up +7%[b]",
+    "Enabled": true
   },
   "250079": {
     "OriginalText": "次世代仕様に大改修された仮設武器店。\n整備手順を見直し加工工程を効率化。\n[a 06]【レベル効果】攻撃力アップ ＋１０％[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "A temporary weapon shop heavily refit to\nnext-gen specs. Reworked maintenance\nsteps streamline its processing.\n[a 06][Level Effect] ATK Up +10%[b]",
+    "Enabled": true
   },
   "250080": {
     "OriginalText": "次世代仕様に大改修された仮設武器店。\n最新の加工機械と精密機器を配備。\n[a 06]【レベル効果】攻撃力アップ ＋１５％\n上位武器・アタッチパーツ追加[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "A temporary weapon shop heavily refit to\nnext-gen specs. Equipped with the latest\nmachining and precision tools.\n[a 06][Level Effect] ATK Up +15%\nHigher-Tier Weapons and Attachments Added[b]",
+    "Enabled": true
   },
   "250081": {
     "OriginalText": "必要資村のみを揃えた防具店。\n物資不足のため限定的な作業のみ可能。\n[a 06]【機能】シールドユニット製作\n【レベル効果】防御力アップ ＋２％[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "A shield shop with only the essentials.\nShortages allow only limited work.\n[a 06][Function] Shield Unit Crafting\n[Level Effect] DEF Up +2%[b]",
+    "Enabled": true
   },
   "250082": {
     "OriginalText": "アークス標準仕様の防具店。\n物資不足のため一部の工具が未配備。\n[a 06]【レベル効果】防御力アップ ＋５％[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "An ARKS-standard shield shop. Shortages\nleave some tools missing.\n[a 06][Level Effect] DEF Up +5%[b]",
+    "Enabled": true
   },
   "250083": {
     "OriginalText": "アークス標準仕様の防具店。\n一新された工具を機能的に配置した。\n[a 06]【レベル効果】防御力アップ ＋７％[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "An ARKS-standard shield shop. Its\nrenewed tools are laid out for function.\n[a 06][Level Effect] DEF Up +7%[b]",
+    "Enabled": true
   },
   "250084": {
     "OriginalText": "新提案の次世代防具店。\n整備手順を見直し加工工程を効率化。\n[a 06]【レベル効果】防御力アップ ＋１０％[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "A newly proposed next-gen shield shop.\nReworked maintenance steps streamline\nits processing.\n[a 06][Level Effect] DEF Up +10%[b]",
+    "Enabled": true
   },
   "250085": {
     "OriginalText": "新提案の次世代防具店。\n最新の加工機械と精密機器を配備。\n[a 06]【レベル効果】防御力アップ ＋１５％\n上位防具追加[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "A newly proposed next-gen shield shop.\nEquipped with the latest machining and\nprecision tools.\n[a 06][Level Effect] DEF Up +15%\nHigher-Tier Shield Units Added[b]",
+    "Enabled": true
   },
   "250086": {
     "OriginalText": "必要資村のみを揃えた異国的防具店。\n物資不足のため限定的な作業のみ可能。\n[a 06]【機能】シールドユニット製作\n【レベル効果】防御力アップ ＋２％[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "An exotic shield shop with only the\nessentials. Shortages allow only limited\nwork.\n[a 06][Function] Shield Unit Crafting\n[Level Effect] DEF Up +2%[b]",
+    "Enabled": true
   },
   "250087": {
     "OriginalText": "とある文化が由来の異国的防具店。\n物資不足のため一部の工具が未配備。\n[a 06]【レベル効果】防御力アップ ＋５％[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "An exotic shield shop rooted in a\ncertain culture. Shortages leave some\ntools missing.\n[a 06][Level Effect] DEF Up +5%[b]",
+    "Enabled": true
   },
   "250088": {
     "OriginalText": "とある文化が由来の異国的防具店。\n一新された工具を機能的に配置した。\n[a 06]【レベル効果】防御力アップ ＋７％[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "An exotic shield shop rooted in a\ncertain culture. Its renewed tools are\nlaid out for function.\n[a 06][Level Effect] DEF Up +7%[b]",
+    "Enabled": true
   },
   "250089": {
     "OriginalText": "新提案の異国的な次世代防具店。\n整備手順を見直し加工工程を効率化。\n[a 06]【レベル効果】防御力アップ ＋１０％[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "A newly proposed exotic next-gen shield\nshop. Reworked maintenance steps\nstreamline its processing.\n[a 06][Level Effect] DEF Up +10%[b]",
+    "Enabled": true
   },
   "250090": {
     "OriginalText": "新提案の異国的な次世代防具店。\n最新の加工機械と精密機器を配備。\n[a 06]【レベル効果】防御力アップ ＋１５％\n上位防具追加[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "A newly proposed exotic next-gen shield\nshop. Equipped with the latest machining\nand precision tools.\n[a 06][Level Effect] DEF Up +15%\nHigher-Tier Shield Units Added[b]",
+    "Enabled": true
   },
   "250091": {
     "OriginalText": "必要資村のみを揃えた文化的防具店。\n物資不足のため限定的な作業のみ可能。\n[a 06]【機能】シールドユニット製作\n【レベル効果】防御力アップ ＋２％[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "A cultured shield shop with only the\nessentials. Shortages allow only limited\nwork.\n[a 06][Function] Shield Unit Crafting\n[Level Effect] DEF Up +2%[b]",
+    "Enabled": true
   },
   "250092": {
     "OriginalText": "とある文化を取り入れた防具店。\n物資不足のため一部の工具が未配備。\n[a 06]【レベル効果】防御力アップ ＋５％[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "A shield shop adopting a certain\nculture. Shortages leave some tools\nmissing.\n[a 06][Level Effect] DEF Up +5%[b]",
+    "Enabled": true
   },
   "250093": {
     "OriginalText": "とある文化を取り入れた防具店。\n一新された工具を機能的に配置した。\n[a 06]【レベル効果】防御力アップ ＋７％[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "A shield shop adopting a certain\nculture. Its renewed tools are laid out\nfor function.\n[a 06][Level Effect] DEF Up +7%[b]",
+    "Enabled": true
   },
   "250094": {
     "OriginalText": "新提案の文化的な次世代防具店。\n整備手順を見直し加工工程を効率化。\n[a 06]【レベル効果】防御力アップ ＋１０％[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "A newly proposed cultured next-gen\nshield shop. Reworked maintenance steps\nstreamline its processing.\n[a 06][Level Effect] DEF Up +10%[b]",
+    "Enabled": true
   },
   "250095": {
     "OriginalText": "新提案の文化的な次世代防具店。\n最新の加工機械と精密機器を配備。\n[a 06]【レベル効果】防御力アップ ＋１５％\n上位防具追加[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "A newly proposed cultured next-gen\nshield shop. Equipped with the latest\nmachining and precision tools.\n[a 06][Level Effect] DEF Up +15%\nHigher-Tier Shield Units Added[b]",
+    "Enabled": true
   },
   "250096": {
     "OriginalText": "急ごしらえの仮設防具店。\n物資不足のため限定的な作業のみ可能。\n[a 06]【機能】シールドユニット製作\n【レベル効果】防御力アップ ＋２％[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "A hastily built temporary shield shop.\nShortages allow only limited work.\n[a 06][Function] Shield Unit Crafting\n[Level Effect] DEF Up +2%[b]",
+    "Enabled": true
   },
   "250097": {
     "OriginalText": "応急物資で改修された仮設防具店。\n物資不足のため一部の工具が未配備。\n[a 06]【レベル効果】防御力アップ ＋５％[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "A temporary shield shop refit with\nemergency supplies. Shortages leave some\ntools missing.\n[a 06][Level Effect] DEF Up +5%[b]",
+    "Enabled": true
   },
   "250098": {
     "OriginalText": "応急物資で改修された仮設防具店。\n一新された工具を機能的に配置した。\n[a 06]【レベル効果】防御力アップ ＋７％[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "A temporary shield shop refit with\nemergency supplies. Its renewed tools\nare laid out for function.\n[a 06][Level Effect] DEF Up +7%[b]",
+    "Enabled": true
   },
   "250099": {
     "OriginalText": "次世代仕様に大改修された仮設防具店。\n整備手順を見直し加工工程を効率化。\n[a 06]【レベル効果】防御力アップ ＋１０％[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "A temporary shield shop heavily refit to\nnext-gen specs. Reworked maintenance\nsteps streamline its processing.\n[a 06][Level Effect] DEF Up +10%[b]",
+    "Enabled": true
   },
   "250100": {
     "OriginalText": "次世代仕様に大改修された仮設防具店。\n最新の加工機械と精密機器を配備。\n[a 06]【レベル効果】防御力アップ ＋１５％\n上位防具追加[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "A temporary shield shop heavily refit to\nnext-gen specs. Equipped with the latest\nmachining and precision tools.\n[a 06][Level Effect] DEF Up +15%\nHigher-Tier Shield Units Added[b]",
+    "Enabled": true
   },
   "250101": {
     "OriginalText": "必要物資のみを揃えた雑貸店。\n加工に必要な最低限の道具と物資のみを揃えた。\n[a 06]【機能】消費アイテム製作\n【レベル効果】アイテム回復量 ＋２％[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "An item shop with only the essentials.\nStocked with only the minimum tools and\nsupplies needed for crafting.\n[a 06][Function] Consumable Crafting\n[Level Effect] Item Recovery +2%[b]",
+    "Enabled": true
   },
   "250102": {
     "OriginalText": "アークス標準仕様の雑貸店。\n物資不足のため一部の機器が未配備。\n[a 06]【レベル効果】アイテム回復量 ＋５％[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "An ARKS-standard item shop. Shortages\nleave some equipment missing.\n[a 06][Level Effect] Item Recovery +5%[b]",
+    "Enabled": true
   },
   "250103": {
     "OriginalText": "アークス標準仕様の雑貸店。\n一新された加工機器を機能的に配置。\n[a 06]【レベル効果】アイテム回復量 ＋７％[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "An ARKS-standard item shop. Its renewed\nequipment is laid out for function.\n[a 06][Level Effect] Item Recovery +7%[b]",
+    "Enabled": true
   },
   "250104": {
     "OriginalText": "新提案の次世代雑貸店。\n整備手順を見直し加工工程を効率化。\n[a 06]【レベル効果】アイテム回復量 ＋１０％[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "A newly proposed next-gen item shop.\nReworked maintenance steps streamline\nits processing.\n[a 06][Level Effect] Item Recovery +10%[b]",
+    "Enabled": true
   },
   "250105": {
     "OriginalText": "新提案の次世代雑貸店。\n最新の加工機械と精密機器を配備。\n[a 06]【レベル効果】アイテム回復量 ＋１５％[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "A newly proposed next-gen item shop.\nEquipped with the latest machining and\nprecision tools.\n[a 06][Level Effect] Item Recovery +15%[b]",
+    "Enabled": true
   },
   "250106": {
     "OriginalText": "必要物資のみを揃えた異国的雑貸店。\n加工に必要な最低限の道具と物資のみを揃えた。\n[a 06]【機能】消費アイテム製作\n【レベル効果】アイテム回復量 ＋２％[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "An exotic item shop with only the essentials.\nStocked with only the minimum tools and\nsupplies needed for crafting.\n[a 06][Function] Consumable Crafting\n[Level Effect] Item Recovery +2%[b]",
+    "Enabled": true
   },
   "250107": {
     "OriginalText": "とある文化が由来の異国的雑貸店。\n物資不足のため一部の機器が未配備。\n[a 06]【レベル効果】アイテム回復量 ＋５％[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "An exotic item shop rooted in a certain\nculture. Shortages leave some equipment\nmissing.\n[a 06][Level Effect] Item Recovery +5%[b]",
+    "Enabled": true
   },
   "250108": {
     "OriginalText": "とある文化が由来の異国的雑貸店。\n一新された加工機器を機能的に配置。\n[a 06]【レベル効果】アイテム回復量 ＋７％[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "An exotic item shop rooted in a certain\nculture. Its renewed equipment is laid\nout for function.\n[a 06][Level Effect] Item Recovery +7%[b]",
+    "Enabled": true
   },
   "250109": {
     "OriginalText": "新提案の異国的な次世代雑貸店。\n整備手順を見直し加工工程を効率化。\n[a 06]【レベル効果】アイテム回復量 ＋１０％[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "A newly proposed exotic next-gen item\nshop. Reworked maintenance steps\nstreamline its processing.\n[a 06][Level Effect] Item Recovery +10%[b]",
+    "Enabled": true
   },
   "250110": {
     "OriginalText": "新提案の異国的な次世代雑貸店。\n最新の加工機械と精密機器を配備。\n[a 06]【レベル効果】アイテム回復量 ＋１５％[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "A newly proposed exotic next-gen item\nshop. Equipped with the latest machining\nand precision tools.\n[a 06][Level Effect] Item Recovery +15%[b]",
+    "Enabled": true
   },
   "250111": {
     "OriginalText": "必要物資のみを揃えた文化的雑貸店。\n加工に必要な最低限の道具と物資のみを揃えた。\n[a 06]【機能】消費アイテム製作\n【レベル効果】アイテム回復量 ＋２％[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "A cultured item shop with only the essentials.\nStocked with only the minimum tools and\nsupplies needed for crafting.\n[a 06][Function] Consumable Crafting\n[Level Effect] Item Recovery +2%[b]",
+    "Enabled": true
   },
   "250112": {
     "OriginalText": "とある文化を取り入れた雑貸店。\n物資不足のため一部の機器が未配備。\n[a 06]【レベル効果】アイテム回復量 ＋５％[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "An item shop adopting a certain culture.\nShortages leave some equipment missing.\n[a 06][Level Effect] Item Recovery +5%[b]",
+    "Enabled": true
   },
   "250113": {
     "OriginalText": "とある文化を取り入れた雑貸店。\n一新された加工機器を機能的に配置。\n[a 06]【レベル効果】アイテム回復量 ＋７％[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "An item shop adopting a certain culture.\nIts renewed equipment is laid out for\nfunction.\n[a 06][Level Effect] Item Recovery +7%[b]",
+    "Enabled": true
   },
   "250114": {
     "OriginalText": "新提案の文化的な次世代雑貸店。\n整備手順を見直し加工工程を効率化。\n[a 06]【レベル効果】アイテム回復量 ＋１０％[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "A newly proposed cultured next-gen item\nshop. Reworked maintenance steps\nstreamline its processing.\n[a 06][Level Effect] Item Recovery +10%[b]",
+    "Enabled": true
   },
   "250115": {
     "OriginalText": "新提案の文化的な次世代雑貸店。\n最新の加工機械と精密機器を配備。\n[a 06]【レベル効果】アイテム回復量 ＋１５％[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "A newly proposed cultured next-gen item\nshop. Equipped with the latest machining\nand precision tools.\n[a 06][Level Effect] Item Recovery +15%[b]",
+    "Enabled": true
   },
   "250116": {
     "OriginalText": "急ごしらえの仮設雑貸店。\n加工に必要な最低限の道具と物資のみを揃えた。\n[a 06]【機能】消費アイテム製作\n【レベル効果】アイテム回復量 ＋２％[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "A hastily built temporary item shop.\nStocked with only the minimum tools and\nsupplies needed for crafting.\n[a 06][Function] Consumable Crafting\n[Level Effect] Item Recovery +2%[b]",
+    "Enabled": true
   },
   "250117": {
     "OriginalText": "応急物資で改修された仮設雑貸店。\n物資不足のため一部の機器が未配備。\n[a 06]【レベル効果】アイテム回復量 ＋５％[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "A temporary item shop refit with\nemergency supplies. Shortages leave some\nequipment missing.\n[a 06][Level Effect] Item Recovery +5%[b]",
+    "Enabled": true
   },
   "250118": {
     "OriginalText": "応急物資で改修された仮設雑貸店。\n一新された加工機器を機能的に配置。\n[a 06]【レベル効果】アイテム回復量 ＋７％[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "A temporary item shop refit with\nemergency supplies. Its renewed\nequipment is laid out for function.\n[a 06][Level Effect] Item Recovery +7%[b]",
+    "Enabled": true
   },
   "250119": {
     "OriginalText": "次世代仕様に大改修された仮設雑貸店。\n整備手順を見直し加工工程を効率化。\n[a 06]【レベル効果】アイテム回復量 ＋１０％[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "A temporary item shop heavily refit to\nnext-gen specs. Reworked maintenance\nsteps streamline its processing.\n[a 06][Level Effect] Item Recovery +10%[b]",
+    "Enabled": true
   },
   "250120": {
     "OriginalText": "次世代仕様に大改修された仮設雑貸店。\n最新の加工機械と精密機器を配備。\n[a 06]【レベル効果】アイテム回復量 ＋１５％[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "A temporary item shop heavily refit to\nnext-gen specs. Equipped with the latest\nmachining and precision tools.\n[a 06][Level Effect] Item Recovery +15%[b]",
+    "Enabled": true
   },
   "250121": {
     "OriginalText": "必要な村料のみを揃えた衣料品店。\n物資不足のため一部加工に制限がある。\n着替えにはエステが必要。\n[a 06]【機能】コスチューム製作[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "A costume shop with only the essentials.\nShortages limit some tailoring. Changing\noutfits requires the Makeover Shop.\n[a 06][Function] Costume Crafting[b]",
+    "Enabled": true
   },
   "250122": {
     "OriginalText": "アークス標準仕様の衣料品店。\n縫製機器の配備が充分でないが、\n対応可能な加工が少し増えた。",
-    "Text": "",
-    "Enabled": false
+    "Text": "An ARKS-standard costume shop. Its\nsewing gear is still lacking, but it can\nhandle a bit more work.",
+    "Enabled": true
   },
   "250123": {
     "OriginalText": "アークス標準仕様の衣料品店。\n一新された縫製機器を機能的に配置し、\n使い勝手が著しく向上した。",
-    "Text": "",
-    "Enabled": false
+    "Text": "An ARKS-standard costume shop. Its\nrenewed sewing gear is laid out for\nfunction, greatly improving usability.",
+    "Enabled": true
   },
   "250124": {
     "OriginalText": "新提案の次世代衣料品店。\n縫製作業の大部分が自動化され\n対応可能な加工が大きく増えた。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A newly proposed next-gen costume shop.\nMost sewing is automated, greatly\nexpanding what it can make.",
+    "Enabled": true
   },
   "250125": {
     "OriginalText": "新提案の次世代衣料品店。\nすべての作業が完全自動化され、\nあらゆる加工が可能になった。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A newly proposed next-gen costume shop.\nAll work is fully automated, so it can\nmake anything.",
+    "Enabled": true
   },
   "250126": {
     "OriginalText": "必要な村料のみ揃えた異国的衣料品店。\n物資不足のため一部加工に制限がある。\n着替えにはエステが必要。\n[a 06]【機能】コスチューム製作[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "An exotic costume shop with only the\nessentials. Shortages limit some\ntailoring. Changing outfits requires the\nMakeover Shop.\n[a 06][Function] Costume Crafting[b]",
+    "Enabled": true
   },
   "250127": {
     "OriginalText": "とある文化が由来の異国的衣料品店。\n縫製機器の配備が充分でないが、\n対応可能な加工が少し増えた。",
-    "Text": "",
-    "Enabled": false
+    "Text": "An exotic costume shop rooted in a\ncertain culture. Its sewing gear is\nstill lacking, but it can handle a bit\nmore work.",
+    "Enabled": true
   },
   "250128": {
     "OriginalText": "とある文化が由来の異国的衣料品店。\n一新された縫製機器を機能的に配置し、\n使い勝手が著しく向上した。",
-    "Text": "",
-    "Enabled": false
+    "Text": "An exotic costume shop rooted in a\ncertain culture. Its renewed sewing gear\nis laid out for function, greatly\nimproving usability.",
+    "Enabled": true
   },
   "250129": {
     "OriginalText": "新提案の異国的な次世代衣料品店。\n縫製作業の大部分が自動化され\n対応可能な加工が大きく増えた。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A newly proposed exotic next-gen costume\nshop. Most sewing is automated, greatly\nexpanding what it can make.",
+    "Enabled": true
   },
   "250130": {
     "OriginalText": "新提案の異国的な次世代衣料品店。\nすべての作業が完全自動化され、\nあらゆる加工が可能になった。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A newly proposed exotic next-gen costume\nshop. All work is fully automated, so it\ncan make anything.",
+    "Enabled": true
   },
   "250131": {
     "OriginalText": "必要な村料のみ揃えた文化的衣料品店。\n物資不足のため一部加工に制限がある。\n着替えにはエステが必要。\n[a 06]【機能】コスチューム製作[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "A cultured costume shop with only the\nessentials. Shortages limit some\ntailoring. Changing outfits requires the\nMakeover Shop.\n[a 06][Function] Costume Crafting[b]",
+    "Enabled": true
   },
   "250132": {
     "OriginalText": "とある文化を取り入れた衣料品店。\n縫製機器の配備が充分でないが、\n対応可能な加工が少し増えた。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A costume shop adopting a certain\nculture. Its sewing gear is still\nlacking, but it can handle a bit more\nwork.",
+    "Enabled": true
   },
   "250133": {
     "OriginalText": "とある文化を取り入れた衣料品店。\n一新された縫製機器を機能的に配置し、\n使い勝手が著しく向上した。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A costume shop adopting a certain\nculture. Its renewed sewing gear is laid\nout for function, greatly improving\nusability.",
+    "Enabled": true
   },
   "250134": {
     "OriginalText": "新提案の文化的な次世代衣料品店。\n縫製作業の大部分が自動化され\n対応可能な加工が大きく増えた。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A newly proposed cultured next-gen\ncostume shop. Most sewing is automated,\ngreatly expanding what it can make.",
+    "Enabled": true
   },
   "250135": {
     "OriginalText": "新提案の文化的な次世代衣料品店。\nすべての作業が完全自動化され、\nあらゆる加工が可能になった。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A newly proposed cultured next-gen\ncostume shop. All work is fully\nautomated, so it can make anything.",
+    "Enabled": true
   },
   "250136": {
     "OriginalText": "急ごしらえの仮設衣料品店。\n物資不足のため一部加工に制限がある。\n着替えにはエステが必要。\n[a 06]【機能】コスチューム製作[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "A hastily built temporary costume shop.\nShortages limit some tailoring. Changing\noutfits requires the Makeover Shop.\n[a 06][Function] Costume Crafting[b]",
+    "Enabled": true
   },
   "250137": {
     "OriginalText": "応急物資で改修された衣料品店。\n縫製機器の配備が充分でないが、\n対応可能な加工が少し増えた。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A temporary costume shop refit with\nemergency supplies. Its sewing gear is\nstill lacking, but it can handle a bit\nmore work.",
+    "Enabled": true
   },
   "250138": {
     "OriginalText": "応急物資で改修された衣料品店。\n一新された縫製機器を機能的に配置し、\n使い勝手が著しく向上した。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A temporary costume shop refit with\nemergency supplies. Its renewed sewing\ngear is laid out for function, greatly\nimproving usability.",
+    "Enabled": true
   },
   "250139": {
     "OriginalText": "次世代仕様に大改修された衣料品店。\n縫製作業の大部分が自動化され\n対応可能な加工が大きく増えた。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A temporary costume shop heavily refit\nto next-gen specs. Most sewing is\nautomated, greatly expanding what it can\nmake.",
+    "Enabled": true
   },
   "250140": {
     "OriginalText": "次世代仕様に大改修された衣料品店。\nすべての作業が完全自動化され、\nあらゆる加工が可能になった。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A temporary costume shop heavily refit\nto next-gen specs. All work is fully\nautomated, so it can make anything.",
+    "Enabled": true
   },
   "250141": {
     "OriginalText": "必要設備のみを揃えた全身美容店。\n物資不足のため一部施術に制限がある。\n[a 06]【機能】外見・ボイス・特微・スタイルの変更\n【特微設定数】４[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "A makeover shop with only the essentials.\nShortages limit some treatments.\n[a 06][Function] Change Appearance, Voice,\nTraits and Style\n[Trait Slots] 4[b]",
+    "Enabled": true
   },
   "250142": {
     "OriginalText": "アークス標準仕様の全身美容店。\n新型のフェイシャル施術機器を導入。 \n[a 06]【レベル効果】顔・瞳の編集機能を追加\n【特微設定数】５[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "An ARKS-standard makeover shop. It added\nnew facial treatment gear.\n[a 06][Level Effect] Face and Eye Editing Added\n[Trait Slots] 5[b]",
+    "Enabled": true
   },
   "250143": {
     "OriginalText": "アークス標準仕様の全身美容店。\n最新のボディ施術機器と染色素村を導入。\n[a 06]【レベル効果】コスチュームカラー・体型編集を追加\n【特微設定数】６[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "An ARKS-standard makeover shop. It added\nnew body gear and dyes.\n[a 06][Level Effect] Costume Color and Body\nEditing Added\n[Trait Slots] 6[b]",
+    "Enabled": true
   },
   "250144": {
     "OriginalText": "新提案の次世代全身美容店。\nスタッフ増員で多くのリクエストに対応可能。\n[a 06]【レベル効果】ランダム編集機能を追加\n【特微設定数】７[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "A newly proposed next-gen makeover shop.\nMore staff means it can take more\nrequests.\n[a 06][Level Effect] Random Editing Added\n[Trait Slots] 7[b]",
+    "Enabled": true
   },
   "250145": {
     "OriginalText": "新提案の次世代全身美容店。\n最大スタッフ数を拡張し、選択肢がさらに幅広く。\n[a 06]【特微設定数】８[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "A newly proposed next-gen makeover shop.\nIts max staff is expanded for an even\nwider range of options.\n[a 06][Trait Slots] 8[b]",
+    "Enabled": true
   },
   "250146": {
     "OriginalText": "必要設備のみ揃えた異国的全身美容店。\n物資不足のため一部施術に制限がある。\n[a 06]【機能】外見・ボイス・特微・スタイルの変更\n【特微設定数】４[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "An exotic makeover shop with only the\nessentials. Shortages limit some treatments.\n[a 06][Function] Change Appearance, Voice,\nTraits and Style\n[Trait Slots] 4[b]",
+    "Enabled": true
   },
   "250147": {
     "OriginalText": "とある文化が由来の異国的全身美容店。\n新型のフェイシャル施術機器を導入。\n[a 06]【レベル効果】顔・瞳の編集機能を追加\n【特微設定数】５[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "An exotic makeover shop rooted in a\ncertain culture. It added new facial\ntreatment gear.\n[a 06][Level Effect] Face and Eye Editing Added\n[Trait Slots] 5[b]",
+    "Enabled": true
   },
   "250148": {
     "OriginalText": "とある文化が由来の異国的全身美容店。\n最新のボディ施術機器と染色素村を導入。\n[a 06]【レベル効果】コスチュームカラー・体型編集を追加\n【特微設定数】６[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "An exotic makeover shop rooted in a certain\nculture. It added new body gear and dyes.\n[a 06][Level Effect] Costume Color and Body\nEditing Added\n[Trait Slots] 6[b]",
+    "Enabled": true
   },
   "250149": {
     "OriginalText": "新提案の異国的な次世代全身美容店。\nスタッフ増員で多くのリクエストに対応可能。\n[a 06]【レベル効果】ランダム編集機能を追加\n【特微設定数】７[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "A newly proposed exotic next-gen\nmakeover shop. More staff means it can\ntake more requests.\n[a 06][Level Effect] Random Editing Added\n[Trait Slots] 7[b]",
+    "Enabled": true
   },
   "250150": {
     "OriginalText": "新提案の異国的な次世代全身美容店。\n最大スタッフ数を拡張し、選択肢がさらに幅広く。\n[a 06]【特微設定数】８[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "A newly proposed exotic next-gen\nmakeover shop. Its max staff is expanded\nfor an even wider range of options.\n[a 06][Trait Slots] 8[b]",
+    "Enabled": true
   },
   "250151": {
     "OriginalText": "必要設備のみ揃えた文化的全身美容店。\n物資不足のため一部施術に制限がある。\n[a 06]【機能】外見・ボイス・特微・スタイルの変更\n【特微設定数】４[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "A cultured makeover shop with only the\nessentials. Shortages limit some treatments.\n[a 06][Function] Change Appearance, Voice,\nTraits and Style\n[Trait Slots] 4[b]",
+    "Enabled": true
   },
   "250152": {
     "OriginalText": "とある文化を取り入れた全身美容店。\n新型のフェイシャル施術機器を導入。\n[a 06]【レベル効果】顔・瞳の編集機能を追加\n【特微設定数】５[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "A makeover shop adopting a certain\nculture. It added new facial treatment\ngear.\n[a 06][Level Effect] Face and Eye Editing Added\n[Trait Slots] 5[b]",
+    "Enabled": true
   },
   "250153": {
     "OriginalText": "とある文化を取り入れた全身美容店。\n最新のボディ施術機器と染色素村を導入。\n[a 06]【レベル効果】コスチュームカラー・体型編集を追加\n【特微設定数】６[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "A makeover shop adopting a certain culture. It\nadded new body gear and dyes.\n[a 06][Level Effect] Costume Color and Body\nEditing Added\n[Trait Slots] 6[b]",
+    "Enabled": true
   },
   "250154": {
     "OriginalText": "新提案の文化的な次世代全身美容店。\nスタッフ増員で多くのリクエストに対応可能。\n[a 06]【レベル効果】ランダム編集機能を追加\n【特微設定数】７[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "A newly proposed cultured next-gen\nmakeover shop. More staff means it can\ntake more requests.\n[a 06][Level Effect] Random Editing Added\n[Trait Slots] 7[b]",
+    "Enabled": true
   },
   "250155": {
     "OriginalText": "新提案の文化的な次世代全身美容店。\n最大スタッフ数を拡張し、選択肢がさらに幅広く。\n[a 06]【特微設定数】８[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "A newly proposed cultured next-gen\nmakeover shop. Its max staff is expanded\nfor an even wider range of options.\n[a 06][Trait Slots] 8[b]",
+    "Enabled": true
   },
   "250156": {
     "OriginalText": "急ごしらえの仮設全身美容店。\n物資不足のため一部施術に制限がある。\n[a 06]【機能】外見・ボイス・特微・スタイルの変更\n【特微設定数】４[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "A hastily built temporary makeover shop.\nShortages limit some treatments.\n[a 06][Function] Change Appearance, Voice,\nTraits and Style\n[Trait Slots] 4[b]",
+    "Enabled": true
   },
   "250157": {
     "OriginalText": "応急物資で改修された全身美容店。\n新型のフェイシャル施術機器を導入。\n[a 06]【レベル効果】顔・瞳の編集機能を追加\n【特微設定数】５[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "A temporary makeover shop refit with\nemergency supplies. It added new facial\ntreatment gear.\n[a 06][Level Effect] Face and Eye Editing Added\n[Trait Slots] 5[b]",
+    "Enabled": true
   },
   "250158": {
     "OriginalText": "応急物資で改修された全身美容店。\n最新のボディ施術機器と染色素村を導入。\n[a 06]【レベル効果】コスチュームカラー・体型編集を追加\n【特微設定数】６[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "A temporary makeover shop refit with emergency\nsupplies. It added new body gear and dyes.\n[a 06][Level Effect] Costume Color and Body\nEditing Added\n[Trait Slots] 6[b]",
+    "Enabled": true
   },
   "250159": {
     "OriginalText": "次世代仕様に大改修された全身美容店。\nスタッフ増員で多くのリクエストに対応可能。\n[a 06]【レベル効果】ランダム編集機能を追加\n【特微設定数】７[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "A temporary makeover shop heavily refit\nto next-gen specs. More staff means it\ncan take more requests.\n[a 06][Level Effect] Random Editing Added\n[Trait Slots] 7[b]",
+    "Enabled": true
   },
   "250160": {
     "OriginalText": "次世代仕様に大改修された全身美容店。\n最大スタッフ数を拡張し、選択肢がさらに幅広く。\n[a 06]【特微設定数】８[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "A temporary makeover shop heavily refit\nto next-gen specs. Its max staff is\nexpanded for an even wider range of\noptions.\n[a 06][Trait Slots] 8[b]",
+    "Enabled": true
   },
   "250166": {
     "OriginalText": "探索隊の管制や指示を行う施設。\n作戦立案や検討に必要な機器を配備。\n[a 06]【機能】探索隊の派遣[b]\n[a 03]※派遣には一人以上のクルー配属が必要[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "A facility that directs and controls\nSearch Teams. Equipped with the gear\nneeded to plan and review operations.\n[a 06][Function] Dispatch Search Teams[b]\n[a 03]※Dispatch requires 1+ assigned crew[b]",
+    "Enabled": true
   },
   "250167": {
     "OriginalText": "探索隊の管制や指示を行う施設。\n限定的な設備を効率的に運用し\n配属可能なクルーの数が少し増えた。\n[a 03]※派遣には一人以上のクルー配属が必要[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "A facility that directs and controls\nSearch Teams. Running its limited gear\nefficiently allows a few more crew.\n[a 03]※Dispatch requires 1+ assigned crew[b]",
+    "Enabled": true
   },
   "250168": {
     "OriginalText": "探索隊の管制や指示を行う施設。\n運用手順の見直しにより効率が向上し、\n一定数のクルー配属が可能になった。\n[a 03]※派遣には一人以上のクルー配属が必要[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "A facility that directs and controls\nSearch Teams. Revised procedures improve\nefficiency and allow a set number of\ncrew.\n[a 03]※Dispatch requires 1+ assigned crew[b]",
+    "Enabled": true
   },
   "250169": {
     "OriginalText": "探索隊の管制や指示を行う施設。\n運用手順の刷新で大規模な作戦展開と\n多くのクルーの配属が可能になった。\n[a 03]※派遣には一人以上のクルー配属が必要[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "A facility that directs and controls\nSearch Teams. Renewed procedures allow\nlarge operations and many crew.\n[a 03]※Dispatch requires 1+ assigned crew[b]",
+    "Enabled": true
   },
   "250170": {
     "OriginalText": "探索隊の管制や指示を行う施設。\nノウハウの蓄積により最大規模の運用で\n大多数のクルー配属が可能になった。\n[a 03]※派遣には一人以上のクルー配属が必要[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "A facility that directs and controls\nSearch Teams. Built-up know-how allows\nfull-scale operations and most of the\ncrew.\n[a 03]※Dispatch requires 1+ assigned crew[b]",
+    "Enabled": true
   },
   "250171": {
     "OriginalText": "グランを励起させる装置。\n[a 06]【機能】ＧＰ消費量滅・クエスト終了時\nの獲得グランエナジー量アップ[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "A device that excites Gran.\n[a 06][Function] Reduces GP Use, Increases\nGran Energy Earned After Quests[b]",
+    "Enabled": true
   },
   "250172": {
     "OriginalText": "グランを励起させる装置。\n処理プログラムの更新により\nマルチタスクでの作業が可能になった。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A device that excites Gran. An updated\nprocessing program lets it multitask.",
+    "Enabled": true
   },
   "250173": {
     "OriginalText": "グランを励起させる装置。\n性能が向上し、担当スタッフも\nさらに増強可能になった。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A device that excites Gran. Improved\nperformance allows even more staff.",
+    "Enabled": true
   },
   "250174": {
     "OriginalText": "グランを励起させる装置。\n運用手順の刷新が大幅な\nスタッフの増強を可能にしている。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A device that excites Gran. Renewed\nprocedures allow a large staff increase.",
+    "Enabled": true
   },
   "250175": {
     "OriginalText": "グランを励起させる装置。\n分散型の制御システムの導入により\n最大限のスタッフ増強が可能になった。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A device that excites Gran. A\ndistributed control system allows the\nmaximum staff.",
+    "Enabled": true
   },
   "250176": {
     "OriginalText": "アイテムを探知する装置。\n高感度走査で鉱脈の発見が可能。\n[a 06]【機能】アイテムドロップ率アップ[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "A device that detects items.\nHigh-sensitivity scans can find ore\nveins.\n[a 06][Function] Item Drop Rate Up[b]",
+    "Enabled": true
   },
   "250177": {
     "OriginalText": "アイテムを探知する装置。\n処理プログラムの更新により\nマルチタスクでの作業が可能となった。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A device that detects items. An updated\nprocessing program lets it multitask.",
+    "Enabled": true
   },
   "250178": {
     "OriginalText": "アイテムを探知する装置。\n性能が向上し、担当スタッフも\nさらに増強可能になった。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A device that detects items. Improved\nperformance allows even more staff.",
+    "Enabled": true
   },
   "250179": {
     "OriginalText": "アイテムを探知する装置。\n運用手順の刷新が大幅な\nスタッフの増強を可能にしている。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A device that detects items. Renewed\nprocedures allow a large staff increase.",
+    "Enabled": true
   },
   "250180": {
     "OriginalText": "アイテムを探知する装置。\n処理プログラムが更新され、\n探知可能な範囲が最大化された。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A device that detects items. An updated\nprocessing program maximizes its\ndetection range.",
+    "Enabled": true
   },
   "250181": {
     "OriginalText": "エネミーを観測する装置。\n[a 06]【機能】レアエネミー・\nブーストエネミーの出現率アップ[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "A device that observes enemies.\n[a 06][Function] Rare Enemy and Boosted\nEnemy Appearance Rate Up[b]",
+    "Enabled": true
   },
   "250182": {
     "OriginalText": "エネミーを観測する装置。\n処理プログラムの更新により\nマルチタスクでの作業が可能となった。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A device that observes enemies. An\nupdated processing program lets it\nmultitask.",
+    "Enabled": true
   },
   "250183": {
     "OriginalText": "エネミーを観測する装置。\n性能が向上し、担当スタッフも\nさらに増強可能になった。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A device that observes enemies. Improved\nperformance allows even more staff.",
+    "Enabled": true
   },
   "250184": {
     "OriginalText": "エネミーを観測する装置。\n運用手順の刷新が大幅な\nスタッフの増強を可能にしている。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A device that observes enemies. Renewed\nprocedures allow a large staff increase.",
+    "Enabled": true
   },
   "250185": {
     "OriginalText": "エネミーを観測する装置。\n処理プログラムが更新され、\n観測可能な範囲が最大化された。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A device that observes enemies. An\nupdated processing program maximizes its\nobservation range.",
+    "Enabled": true
   },
   "250186": {
     "OriginalText": "グランバースト効果を増幅する加速器。\n[a 06]【機能】クルーを配属することで\nバースト効果を追加[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "An accelerator that amplifies Gran BURST\neffects.\n[a 06][Function] Assign crew to add\nBURST effects[b]",
+    "Enabled": true
   },
   "250187": {
     "OriginalText": "グランバースト効果を増幅する加速器。\n操作手順の見直しにより半自動化され、\n安定した運用が可能になった。",
-    "Text": "",
-    "Enabled": false
+    "Text": "An accelerator that amplifies Gran BURST\neffects. Revised operation makes it\nsemi-automatic and stable.",
+    "Enabled": true
   },
   "250188": {
     "OriginalText": "グランバースト効果を増幅する加速器。\n操作手順の刷新により完全自動化され\nさらに安定した運用が可能になった。",
-    "Text": "",
-    "Enabled": false
+    "Text": "An accelerator that amplifies Gran BURST\neffects. Renewed operation makes it\nfully automatic and even more stable.",
+    "Enabled": true
   },
   "250189": {
     "OriginalText": "グランバースト効果を増幅する加速器。\n一部パーツの性能向上により処理速度が\nアップし、速効性と安全性が高まった。",
-    "Text": "",
-    "Enabled": false
+    "Text": "An accelerator that amplifies Gran BURST\neffects. Upgraded parts speed up\nprocessing, making it faster and safer.",
+    "Enabled": true
   },
   "250190": {
     "OriginalText": "グランバースト効果を増幅する加速器。\n大幅なシステム見直しにより、\n最大出力での常時運用が可能になった。",
-    "Text": "",
-    "Enabled": false
+    "Text": "An accelerator that amplifies Gran BURST\neffects. A major system overhaul allows\nconstant operation at max output.",
+    "Enabled": true
   },
   "250191": {
     "OriginalText": "コア精錬所 Ｒ１の解説文",
@@ -2921,1003 +2921,1003 @@
   },
   "250195": {
     "OriginalText": "コアの精錬を行う施設。\n[a 06]【機能】アタッチパーツの特殊能力を変更・\nコアの特殊能力強化[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "A facility that refines cores.\n[a 06][Function] Change Attachment Special\nAbilities, Enhance Core Special Abilities[b]",
+    "Enabled": true
   },
   "250196": {
     "OriginalText": "アークスで標準使用される全方位型の\n投影機。完全な３Ｄ映像を映し出す。\nイベントを再生することができる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "An omnidirectional ARKS-standard\nprojector that shows full 3D images. It\ncan replay events.",
+    "Enabled": true
   },
   "250197": {
     "OriginalText": "アークスで標準使用される倉庫。\n複数台設置することが可能。\nアイテムを預けることができる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "ARKS-standard storage. You can place\nmore than one. Lets you deposit items.",
+    "Enabled": true
   },
   "250198": {
     "OriginalText": "拠点内に配置可能な端末。\nその場で商品を受け取ることができる。\n他のショップの機能の呼び出しか可能。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A terminal you can place in the base.\nLets you receive goods on the spot and\ncall up other shops.",
+    "Enabled": true
   },
   "250199": {
     "OriginalText": "標準使用される間仕切り。\nあらゆる空間でプライバシーを確保し\n快適なひとときを提供する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A standard partition. Keeps any space\nprivate and offers a comfortable moment.",
+    "Enabled": true
   },
   "250200": {
     "OriginalText": "標準使用される間仕切り。\nあらゆる空間で省スペースを実現し\n機能的に利用するための必須アイテム。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A standard partition. Saves space\nanywhere, a must-have for making good\nuse of it.",
+    "Enabled": true
   },
   "250201": {
     "OriginalText": "とある文化が由来の間仕切り。\n落ち着いた木目の格子が、安らぎのある\n心地よい空間を確保してくれる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A partition rooted in a certain culture.\nIts calm wooden lattice makes for a\nsoothing, cozy space.",
+    "Enabled": true
   },
   "250202": {
     "OriginalText": "とある文化が由来の間仕切り。\n年季を感じさせる高級な木村が、\n上品なくつろぎ空間を確保してくれる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A partition rooted in a certain culture.\nFine, well-aged wood creates an elegant,\nrelaxing space.",
+    "Enabled": true
   },
   "250203": {
     "OriginalText": "とある文化を取り入れた間仕切り。\nレンガ風の素村は耐火性が強く、\n火災を確実にシャットアウトする。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A partition adopting a certain culture.\nIts brick-like material is\nfire-resistant and shuts out any blaze.",
+    "Enabled": true
   },
   "250204": {
     "OriginalText": "とある文化を取り入れた間仕切り。\nレンガ風の素村は防音性が強く、\nワンランク上の快適な空間を提供する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A partition adopting a certain culture.\nIts brick-like material is soundproof\nfor a cut-above, comfy space.",
+    "Enabled": true
   },
   "250205": {
     "OriginalText": "応急使用される間仕切り。\n代用部品を寄せ集めた急ごしらえゆえに\n色合いが微妙なのはご愛嬌。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A makeshift partition. Thrown together\nfrom spare parts, so forgive the odd\ncolors.",
+    "Enabled": true
   },
   "250206": {
     "OriginalText": "応急使用される間仕切り。\n代用部品を寄せ集めた急ごしらえながら\n少しでも落ち着きある配色で仕上げた。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A makeshift partition. Thrown together\nfrom spare parts, but finished in a\nsomewhat calmer color scheme.",
+    "Enabled": true
   },
   "250207": {
     "OriginalText": "標準使用されるパーテション。\n広めの空間でもプライバシーを確保し\n快適なひとときを提供する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A standard partition. Keeps even larger\nspaces private and offers a comfortable\nmoment.",
+    "Enabled": true
   },
   "250208": {
     "OriginalText": "標準使用されるパーテション。\n広めの空間でも省スペースを実現し\n機能的に利用するための必須アイテム。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A standard partition. Saves space even\nin larger areas, a must-have for making\ngood use of them.",
+    "Enabled": true
   },
   "250209": {
     "OriginalText": "とある文化が由来のパーテション。\n落ち着いた木目の格子が、無機的な\n空間にも安らぎと心地よさを与える。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A partition rooted in a certain culture.\nIts calm wooden lattice brings comfort\neven to sterile spaces.",
+    "Enabled": true
   },
   "250210": {
     "OriginalText": "とある文化が由来のパーテション。\n年季を感じさせる高級な木村が、\n暖かみのある空間を確保してくれる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A partition rooted in a certain culture.\nFine, well-aged wood creates a warm\nspace.",
+    "Enabled": true
   },
   "250211": {
     "OriginalText": "とある文化を取り入れたパーテション。\nレンガ風の素村は衝撃吸収に優れ、\nあらゆる障害をシャットアウトする。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A partition adopting a certain culture.\nIts brick-like material absorbs impacts\nand shuts out any obstacle.",
+    "Enabled": true
   },
   "250212": {
     "OriginalText": "とある文化を取り入れたパーテション。\nレンガ風の素村は吸湿性に優れ、\n誰もが快適に過ごせる空間を提供する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A partition adopting a certain culture.\nIts brick-like material absorbs moisture\nfor a space anyone can enjoy.",
+    "Enabled": true
   },
   "250213": {
     "OriginalText": "応急使用されるパーテション。\n代用部品を寄せ集めた急ごしらえゆえに\n無機的で無骨な外観となっている。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A makeshift partition. Thrown together\nfrom spare parts, so it looks sterile\nand rugged.",
+    "Enabled": true
   },
   "250214": {
     "OriginalText": "応急使用されるパーテション。\n代用部品を寄せ集めた急ごしらえながら\nそれなりの味わいを醸し出している。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A makeshift partition. Thrown together\nfrom spare parts, yet it has a certain\ncharm.",
+    "Enabled": true
   },
   "250217": {
     "OriginalText": "標準使用されるルーフテント。\nあらゆる局面で快適な空間を\n確保してくれる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A standard roof tent. Secures a\ncomfortable space in any situation.",
+    "Enabled": true
   },
   "250218": {
     "OriginalText": "標準使用されるルーフテント。\nあらゆる局面で機能的空間を\n確保してくれる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A standard roof tent. Secures a\nfunctional space in any situation.",
+    "Enabled": true
   },
   "250219": {
     "OriginalText": "とある文化が由来のルーフテント。\n涼しげな青い屋根で、落ち着きのある\nくつろぎの空間を確保してくれる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A roof tent rooted in a certain culture.\nIts cool blue roof makes for a calm,\nrelaxing space.",
+    "Enabled": true
   },
   "250220": {
     "OriginalText": "とある文化が由来のルーフテント。\n渋みのある色合いで、\n情緒豊かな景観を演出する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A roof tent rooted in a certain culture.\nIts subdued colors create a tasteful\nscene.",
+    "Enabled": true
   },
   "250221": {
     "OriginalText": "とある文化を取り入れたルーフテント。\n赤レンガ風の屋根が湿気を防ぎ、\n使用者のコンディションを最適に保つ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A roof tent adopting a certain culture.\nIts red brick-style roof keeps out\nhumidity and keeps users in top\ncondition.",
+    "Enabled": true
   },
   "250222": {
     "OriginalText": "とある文化を取り入れたルーフテント。\n青レンガ風の屋根が乾燥を防ぎ、\n使用者のコンディションを最適に保つ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A roof tent adopting a certain culture.\nIts blue brick-style roof keeps out\ndryness and keeps users in top\ncondition.",
+    "Enabled": true
   },
   "250223": {
     "OriginalText": "応急使用されるルーフテント。\n代用部品を寄せ集めた急ごしらえながら\n使用者に快適な空間を提供する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A makeshift roof tent. Thrown together\nfrom spare parts, yet it gives users a\ncomfortable space.",
+    "Enabled": true
   },
   "250224": {
     "OriginalText": "応急使用されるルーフテント。\n代用部品を寄せ集めた急ごしらえながら\n使用者に機能的空間を提供する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A makeshift roof tent. Thrown together\nfrom spare parts, yet it gives users a\nfunctional space.",
+    "Enabled": true
   },
   "250225": {
     "OriginalText": "アークスで標準使用される\n折り畳みテーブルのセット。\n飽きのこないシンプルなデザイン。",
-    "Text": "",
-    "Enabled": false
+    "Text": "An ARKS-standard folding table set. A\nsimple design you won't tire of.",
+    "Enabled": true
   },
   "250226": {
     "OriginalText": "アークスで標準使用される\n折り畳みテーブルのセット。\n機能的で無駄のない定番装備。",
-    "Text": "",
-    "Enabled": false
+    "Text": "An ARKS-standard folding table set.\nFunctional, no-frills standard gear.",
+    "Enabled": true
   },
   "250227": {
     "OriginalText": "とある文化が由来の\n折り畳みテーブルのセット。\n心地よい安らぎある配色が人気。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A folding table set rooted in a certain\nculture. Popular for its soothing\ncolors.",
+    "Enabled": true
   },
   "250228": {
     "OriginalText": "とある文化が由来の\n折り畳みテーブルのセット。\n落ち着きのある風合いが人気。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A folding table set rooted in a certain\nculture. Popular for its calm texture.",
+    "Enabled": true
   },
   "250229": {
     "OriginalText": "とある文化を取り入れた\n折り畳みテーブルのセット。\n高級感あふれる色合いが人気。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A folding table set adopting a certain\nculture. Popular for its luxurious\ncolors.",
+    "Enabled": true
   },
   "250230": {
     "OriginalText": "とある文化を取り入れた\n折り畳みテーブルのセット。\n気品のある重厚な色合いが人気。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A folding table set adopting a certain\nculture. Popular for its rich, refined\ncolors.",
+    "Enabled": true
   },
   "250231": {
     "OriginalText": "応急使用される折り畳みテーブルの\nセット。代用部品の寄せ集めだが、\n機能面で汎用品に引けを取らない。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A makeshift folding table set. Made from\nspare parts, but just as functional as\nthe standard model.",
+    "Enabled": true
   },
   "250232": {
     "OriginalText": "応急使用される折り畳みテーブルの\nセット。代用部品の寄せ集めだが、\n使いやすく多くの使用者を虜にする。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A makeshift folding table set. Made from\nspare parts, but so easy to use it wins\nover many users.",
+    "Enabled": true
   },
   "250233": {
     "OriginalText": "アークスで標準使用される簡易ベッド。\n飽きのこないシンプルなデザインで\n持ち運びも容易。",
-    "Text": "",
-    "Enabled": false
+    "Text": "An ARKS-standard cot. A simple design\nyou won't tire of, and easy to carry.",
+    "Enabled": true
   },
   "250234": {
     "OriginalText": "アークスで標準使用される簡易ベッド。\n機能的で無駄のない定番装備で\n高い評価を得ている。",
-    "Text": "",
-    "Enabled": false
+    "Text": "An ARKS-standard cot. Functional,\nno-frills standard gear that's highly\nrated.",
+    "Enabled": true
   },
   "250235": {
     "OriginalText": "とある文化が由来の簡易ベッド。\n自然豊かな草の香りが鼻をくすぐり\n使用者を心地よい眠りへと誘う。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A cot rooted in a certain culture. The\nscent of fresh grass lulls users into a\npleasant sleep.",
+    "Enabled": true
   },
   "250236": {
     "OriginalText": "とある文化が由来の簡易ベッド。\n天然の草が編み込まれた手触りのよさが\n使用者に落ち着いた寝心地を約束する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A cot rooted in a certain culture. Woven\nnatural grass feels great and promises a\ncalm night's sleep.",
+    "Enabled": true
   },
   "250237": {
     "OriginalText": "とある文化を取り入れた簡易ベッド。\n高級感あふれる色合いで、\n使用者に良質の睡眠空間を提供する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A cot adopting a certain culture. Its\nluxurious colors give users a quality\nplace to sleep.",
+    "Enabled": true
   },
   "250238": {
     "OriginalText": "とある文化を取り入れた簡易ベッド。\n気品のある重厚な色合いで、\n多くのアークスから支持されている。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A cot adopting a certain culture. Its\nrich, refined colors are favored by many\nARKS.",
+    "Enabled": true
   },
   "250239": {
     "OriginalText": "応急使用される簡易ベッド。\n代用部品の寄せ集めとは思えない\n機能的で申し分ない性能を有する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A makeshift cot. Hard to believe it's\nmade from spare parts, with flawless,\nfunctional performance.",
+    "Enabled": true
   },
   "250240": {
     "OriginalText": "応急使用される簡易ベッド。\n代用部品の寄せ集めだが、寝心地も\n寝覚めも良く多くの使用者を虜にする。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A makeshift cot. Made from spare parts,\nbut sleeping and waking on it are so\nnice it wins over many users.",
+    "Enabled": true
   },
   "250241": {
     "OriginalText": "アークスで標準使用される簡易棚。\n飽きのこないシンプルなデザインで\n移動も容易。",
-    "Text": "",
-    "Enabled": false
+    "Text": "An ARKS-standard simple shelf. A simple\ndesign you won't tire of, and easy to\nmove.",
+    "Enabled": true
   },
   "250242": {
     "OriginalText": "アークスで標準使用される簡易棚。\n機能的で無駄のない定番装備で\n広く利用されている。",
-    "Text": "",
-    "Enabled": false
+    "Text": "An ARKS-standard simple shelf.\nFunctional, no-frills standard gear\nthat's widely used.",
+    "Enabled": true
   },
   "250243": {
     "OriginalText": "とある文化が由来の簡易棚。\n木のぬくもりが心地よく、\n大事な収納物を湿気から守る。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A simple shelf rooted in a certain\nculture. The warmth of its wood protects\nyour things from humidity.",
+    "Enabled": true
   },
   "250244": {
     "OriginalText": "とある文化が由来の簡易棚。\n落ち着きのある木目が\n大人の空間を演出する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A simple shelf rooted in a certain\nculture. Its calm wood grain gives a\ngrown-up feel.",
+    "Enabled": true
   },
   "250245": {
     "OriginalText": "とある文化を取り入れた簡易棚。\n高級感あふれる色合いで、\n洗練された空間に程よく馴染む。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A simple shelf adopting a certain\nculture. Its luxurious colors blend\nnicely into refined spaces.",
+    "Enabled": true
   },
   "250246": {
     "OriginalText": "とある文化を取り入れた簡易棚。\n気品のある重厚な色合いで、\n空間のグレードを引き立てる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A simple shelf adopting a certain\nculture. Its rich, refined colors raise\nthe grade of any space.",
+    "Enabled": true
   },
   "250247": {
     "OriginalText": "応急使用される簡易棚。\n代用部品の寄せ集めでありながら\n機能的で収納性が高い人気の一品。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A makeshift simple shelf. Made from\nspare parts, yet a popular pick for its\nfunction and storage.",
+    "Enabled": true
   },
   "250248": {
     "OriginalText": "応急使用される簡易棚。\n代用部品の寄せ集めでありながら\n一度使えば誰もが手放せなくなる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A makeshift simple shelf. Made from\nspare parts, yet once you use it, you'll\nnever let it go.",
+    "Enabled": true
   },
   "250249": {
     "OriginalText": "標準使用される照明器具。\nシンプルな設計だが充分で快適な\n明るさを提供する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A standard light. A simple design that\ngives plenty of comfortable light.",
+    "Enabled": true
   },
   "250250": {
     "OriginalText": "標準使用される照明器具。\n機能的に無駄なく設計され\n広く支持される定番装備。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A standard light. A functional,\nno-frills design and a widely favored\nstandard.",
+    "Enabled": true
   },
   "250251": {
     "OriginalText": "とある文化が由来の照明器具。\n心地いい柔らかな光で使用者を癒す。\n独自の紋様も印象的。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A light rooted in a certain culture. Its\nsoft, gentle glow soothes users, and its\nunique patterns stand out.",
+    "Enabled": true
   },
   "250252": {
     "OriginalText": "とある文化が由来の照明器具。\n落ち着きある暖かな光で空間を照らす。\n厳選された風格のある素村も人気。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A light rooted in a certain culture. Its\ncalm, warm glow lights the room, and its\nfine materials are popular.",
+    "Enabled": true
   },
   "250253": {
     "OriginalText": "とある文化を取り入れた照明器具。\n高級感あふれるしっかりした作りで、\n洗練された空間を上品に照らし出す。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A light adopting a certain culture. Its\nsturdy, luxurious build elegantly lights\nrefined spaces.",
+    "Enabled": true
   },
   "250254": {
     "OriginalText": "とある文化を取り入れた照明器具。\n気品ある重厚な佇まいで、\n空間のグレードを引き立てる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A light adopting a certain culture. Its\nrich, refined presence raises the grade\nof any space.",
+    "Enabled": true
   },
   "250255": {
     "OriginalText": "応急使用される照明器具。\n代用部品の寄せ集めでありながら\n機能的で充分な照度を確保した。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A makeshift light. Made from spare\nparts, yet functional and bright enough.",
+    "Enabled": true
   },
   "250256": {
     "OriginalText": "応急使用される照明器具。\n代用部品の寄せ集めでありながら\n省エネ設計で性能面は申し分ない。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A makeshift light. Made from spare\nparts, yet its energy-saving design\nperforms flawlessly.",
+    "Enabled": true
   },
   "250257": {
     "OriginalText": "アークスで標準使用される敷具。\n飽きのこないシンプルなデザインで\n耐久性の良さが人気。",
-    "Text": "",
-    "Enabled": false
+    "Text": "An ARKS-standard floor sheet. A simple\ndesign you won't tire of, popular for\nits durability.",
+    "Enabled": true
   },
   "250258": {
     "OriginalText": "アークスで標準使用される敷具。\n空間に彩りを添える、癒しと\nくつろぎの必須アイテム。",
-    "Text": "",
-    "Enabled": false
+    "Text": "An ARKS-standard floor sheet. A\nmust-have for comfort and relaxation\nthat adds color to any space.",
+    "Enabled": true
   },
   "250259": {
     "OriginalText": "とある文化が由来の敷具。\n漂う草の香りが、最上級の贅沢な\nひとときを約束してくれる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A floor sheet rooted in a certain\nculture. Its drifting grassy scent\npromises a moment of pure luxury.",
+    "Enabled": true
   },
   "250260": {
     "OriginalText": "とある文化が由来の敷具。\n落ち着きを与える独特の肌触りは\n思わず誰もが頬ずりしたくなる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A floor sheet rooted in a certain\nculture. Its calming, unique feel makes\nanyone want to rub their cheek on it.",
+    "Enabled": true
   },
   "250261": {
     "OriginalText": "とある文化を取り入れた敷具。\n高級感あふれるしっかりした作りで、\nワンランク上の生活空間を演出する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A floor sheet adopting a certain\nculture. Its sturdy, luxurious build\nmakes for a cut-above living space.",
+    "Enabled": true
   },
   "250262": {
     "OriginalText": "とある文化を取り入れた敷具。\n気品のある重厚な風合いで、\n使用者に確かな充足感を与える。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A floor sheet adopting a certain\nculture. Its rich, refined texture gives\nusers real satisfaction.",
+    "Enabled": true
   },
   "250263": {
     "OriginalText": "応急使用される敷具。\n再使用資村の寄せ集めでありながら\n標準使用品に近い使い心地を再現した。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A makeshift floor sheet. Made from\nreused materials, yet it feels close to\nthe standard model.",
+    "Enabled": true
   },
   "250264": {
     "OriginalText": "応急使用される敷具。\n再使用資村の寄せ集めでありながら\n癒しとくつろぎの効果はなかなか。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A makeshift floor sheet. Made from\nreused materials, yet it's quite\ncomforting and relaxing.",
+    "Enabled": true
   },
   "250265": {
     "OriginalText": "標準仕様のフェイクグリーン。\n緑に乏しい無機的な空間に\n有機的な装いを付加する癒しグッズ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Standard fake greenery. A soothing item\nthat brings an organic touch to sterile,\ngreen-starved spaces.",
+    "Enabled": true
   },
   "250266": {
     "OriginalText": "標準仕様のフェイクグリーン。\n有機的な癒しを与えるだけでなく\n空間をより高級に演出する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Standard fake greenery. It's soothing,\nand it also makes a space look more\nupscale.",
+    "Enabled": true
   },
   "250267": {
     "OriginalText": "標準仕様のフェイクグリーン。\n瞳に優しい緑の配色が\nどんな過酷な環境下をも明るく彩る。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Standard fake greenery. Its eye-friendly\ngreen brightens even the harshest\nenvironments.",
+    "Enabled": true
   },
   "250268": {
     "OriginalText": "標準仕様の仮設トイレ。\n基本性能に特化したシンプル設計ながら\n使用者に快適なひとときを提供する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A standard portable toilet. A simple\ndesign focused on the basics that still\ngives users a comfortable moment.",
+    "Enabled": true
   },
   "250269": {
     "OriginalText": "黒基調の仮設トイレ。\n汚れの目立ちにくい配色と耐久性で\n過酷な環境下でも気分よく利用できる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A black portable toilet. Its\nstain-hiding color and durability make\nit pleasant to use even in harsh\nconditions.",
+    "Enabled": true
   },
   "250270": {
     "OriginalText": "緑基調の仮設トイレ。\n仮設であることを忘れさせる本格的な\n作りで、二度と手放せなくなると評判。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A green portable toilet. Built so well\nyou forget it's temporary, it's said\nyou'll never want to give it up.",
+    "Enabled": true
   },
   "250271": {
     "OriginalText": "人気のイミテーショングッズ。\nつかの間の安らぎを与える暖かな炎は\n仲間との談笑を盛り上げてくれる。\n[a 03]※３個まで所持可能[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "A popular imitation item. Its warm\nflames bring a moment of peace and liven\nup chats with friends.\n[a 03]※You can own up to 3[b]",
+    "Enabled": true
   },
   "250272": {
     "OriginalText": "冷・温水兼用の給水器。\n水不足のサバイバル環境下において\n個人で所持するのはかなり贅沢な一品。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A water dispenser for both hot and cold\nwater. In a survival setting short on\nwater, owning one is quite the luxury.",
+    "Enabled": true
   },
   "250273": {
     "OriginalText": "大胆に開放的な露天風呂。\n申し訳程度の囲いしかなく、\n衆目にさらされること受け合い。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A boldly open-air bath. With barely any\nwalls, you're sure to be seen by\neveryone.",
+    "Enabled": true
   },
   "250274": {
     "OriginalText": "プライバシーを確保した露天風呂。\nそれでも充分に開放的な気分で\n入浴を楽しめる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "An open-air bath with privacy. You can\nstill enjoy a nice, open feeling while\nyou soak.",
+    "Enabled": true
   },
   "250275": {
     "OriginalText": "急ごしらえの仮設風呂。\nアークスで資村管理に使うドラム缶を\nそのまま流用した簡素な作り。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A hastily built temporary bath. A simple\nsetup using a drum ARKS uses to store\nmaterials, as is.",
+    "Enabled": true
   },
   "250276": {
     "OriginalText": "急ごしらえの仮設風呂。\n見た目だけでも豪華にと暖色系の\n塗装を施したプチ贅沢品。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A hastily built temporary bath. Painted\nin warm colors to at least look fancy, a\nsmall luxury.",
+    "Enabled": true
   },
   "250277": {
     "OriginalText": "急ごしらえの仮設風呂。\n落ち着いた色合いで不安定な形状への\n不安をいくらか解消した。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A hastily built temporary bath. Its calm\ncolors ease some worries about its\nwobbly shape.",
+    "Enabled": true
   },
   "250278": {
     "OriginalText": "アークスで標準使用される立て看板。\n明るい色合いで、簡単なメッセージを\n周囲に告知するのに適している。",
-    "Text": "",
-    "Enabled": false
+    "Text": "An ARKS-standard standing sign. Its\nbright colors suit posting simple\nmessages.",
+    "Enabled": true
   },
   "250279": {
     "OriginalText": "アークスで標準使用される立て看板。\n目立つ色合いで、重要なメッセージを\n周囲に告知するのに適している。",
-    "Text": "",
-    "Enabled": false
+    "Text": "An ARKS-standard standing sign. Its\neye-catching colors suit posting\nimportant messages.",
+    "Enabled": true
   },
   "250280": {
     "OriginalText": "アークスで標準使用される立て看板。\n落ち着いた色合いで、メッセージを\n上品に告知するのに適している。",
-    "Text": "",
-    "Enabled": false
+    "Text": "An ARKS-standard standing sign. Its calm\ncolors suit posting messages with class.",
+    "Enabled": true
   },
   "250281": {
     "OriginalText": "儀礼的に使用する祈念の碑。\n尊い命を犠牲にしたアークスに\n畏敬の念を込めて祈りを捧げる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A memorial stone used for ceremonies.\nHere, prayers are offered in reverence\nto the ARKS who gave their precious\nlives.",
+    "Enabled": true
   },
   "250282": {
     "OriginalText": "アークス標準仕様の演壇。\n話し手の格を上げ見栄えを良くし、\n広く隅々まで聞き届けさせる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "An ARKS-standard podium. It makes\nspeakers look the part and carries their\nvoice to every corner.",
+    "Enabled": true
   },
   "250283": {
     "OriginalText": "アークス標準仕様の警戒設備。ただし\n高性能双眼鏡はコインを投入しないと\n使用できないアミューズメント仕様。",
-    "Text": "",
-    "Enabled": false
+    "Text": "An ARKS-standard lookout post. But its\nhigh-power binoculars are coin-operated,\namusement park style.",
+    "Enabled": true
   },
   "250284": {
     "OriginalText": "アークス標準仕様の小型物資箱。\n軽量で耐久性のある樹脂素村製で、\nアークス各艦に大量配備された。",
-    "Text": "",
-    "Enabled": false
+    "Text": "An ARKS-standard small supply crate.\nMade of light, durable resin and issued\nin bulk to every ARKS ship.",
+    "Enabled": true
   },
   "250285": {
     "OriginalText": "アークス標準仕様の小型物資箱。\n一部に植物性素村を使用し\n軽量化が図られた。",
-    "Text": "",
-    "Enabled": false
+    "Text": "An ARKS-standard small supply crate.\nUses some plant-based materials to make\nit lighter.",
+    "Enabled": true
   },
   "250286": {
     "OriginalText": "アークス標準仕様の小型物資箱。\n従来の金属製のものに防サビ加工を施し\nさらなる耐久性の向上を実現した。",
-    "Text": "",
-    "Enabled": false
+    "Text": "An ARKS-standard small supply crate. The\nclassic metal model with rustproofing\nfor even more durability.",
+    "Enabled": true
   },
   "250287": {
     "OriginalText": "アークス標準仕様の小型物資箱。\n耐久性を追求した金属製だが、\n独自工法で軽量化も実現した。",
-    "Text": "",
-    "Enabled": false
+    "Text": "An ARKS-standard small supply crate.\nDurable metal, made lighter with a\nunique method.",
+    "Enabled": true
   },
   "250288": {
     "OriginalText": "アークス標準仕様の小型物資箱セット。\n軽量で耐久性のある樹脂素村製で、\nアークス各艦に大量配備された。",
-    "Text": "",
-    "Enabled": false
+    "Text": "An ARKS-standard small supply crate set.\nMade of light, durable resin and issued\nin bulk to every ARKS ship.",
+    "Enabled": true
   },
   "250289": {
     "OriginalText": "アークス標準仕様の小型物資箱セット。\n一部に植物性素村を使用し\n軽量化が図られた。",
-    "Text": "",
-    "Enabled": false
+    "Text": "An ARKS-standard small supply crate set.\nUses some plant-based materials to make\nit lighter.",
+    "Enabled": true
   },
   "250290": {
     "OriginalText": "アークス標準仕様の小型物資箱セット。\n従来の金属製のものに防サビ加工を施し\nさらなる耐久性の向上を実現した。",
-    "Text": "",
-    "Enabled": false
+    "Text": "An ARKS-standard small supply crate set.\nThe classic metal model with\nrustproofing for even more durability.",
+    "Enabled": true
   },
   "250291": {
     "OriginalText": "アークス標準仕様の小型物資箱セット。\n耐久性を追求した金属製だが、\n独自工法で軽量化も実現した。",
-    "Text": "",
-    "Enabled": false
+    "Text": "An ARKS-standard small supply crate set.\nDurable metal, made lighter with a\nunique method.",
+    "Enabled": true
   },
   "250292": {
     "OriginalText": "アークス標準設計準拠の小広場。\n石畳に芝生と花壇を思わせる配色が\n無機質な空間を彩り潤いを提供する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A small plaza built to ARKS standards.\nColors evoking cobblestones, lawns and\nflowerbeds liven up sterile spaces.",
+    "Enabled": true
   },
   "250293": {
     "OriginalText": "栄えある黄金の儀礼用装飾品。\n願掛けに効果があり、高度な任務を成し\n遂げた者が手にする栄誉の証。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A glorious gold ceremonial ornament.\nSaid to grant wishes, it's a badge of\nhonor for those who complete tough\nmissions.",
+    "Enabled": true
   },
   "250294": {
     "OriginalText": "栄えある白銀の儀礼用装飾品。\n選ばれしアークスだけが手にすることを\n許され、誰もが拝み祈りを捧げる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A glorious silver ceremonial ornament.\nOnly chosen ARKS may own one, and\neveryone prays before it.",
+    "Enabled": true
   },
   "250295": {
     "OriginalText": "茶色の一人掛け椅子。\n装飾などよりも、汎用性にこだわった\n実直な作りの一品。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A brown armchair. An honest piece made\nfor versatility over decoration.",
+    "Enabled": true
   },
   "250296": {
     "OriginalText": "青色の一人掛け椅子。\n装飾などよりも、汎用性にこだわった\n実直な作りの一品。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A blue armchair. An honest piece made\nfor versatility over decoration.",
+    "Enabled": true
   },
   "250297": {
     "OriginalText": "桃色の一人掛け椅子。\n装飾などよりも、汎用性にこだわった\n実直な作りの一品。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A pink armchair. An honest piece made\nfor versatility over decoration.",
+    "Enabled": true
   },
   "250298": {
     "OriginalText": "茶色のダブルサイズベッド。\n寝転がるだけですぐに睡魔が襲ってくる\nふかふかのベッドが人気の一品。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A brown double bed. A popular, fluffy\nbed that puts you to sleep the moment\nyou lie down.",
+    "Enabled": true
   },
   "250299": {
     "OriginalText": "青色のダブルサイズベッド。\n寝転がるだけですぐに睡魔が襲ってくる\nふかふかのベッドが人気の一品。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A blue double bed. A popular, fluffy bed\nthat puts you to sleep the moment you\nlie down.",
+    "Enabled": true
   },
   "250300": {
     "OriginalText": "桃色のダブルサイズベッド。\n寝転がるだけですぐに睡魔が襲ってくる\nふかふかのベッドが人気の一品。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A pink double bed. A popular, fluffy bed\nthat puts you to sleep the moment you\nlie down.",
+    "Enabled": true
   },
   "250301": {
     "OriginalText": "小物や装飾品を置く茶基調のテーブルセット。\nいかなる用途でも適応する、柔軟性に\n優れた標準的なモデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A brown table set for small items and\ndecor. A flexible standard model that\nfits any use.",
+    "Enabled": true
   },
   "250302": {
     "OriginalText": "小物や装飾品を置く青基調のテーブルセット。\nいかなる用途でも適応する、柔軟性に\n優れた標準的なモデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A blue table set for small items and\ndecor. A flexible standard model that\nfits any use.",
+    "Enabled": true
   },
   "250303": {
     "OriginalText": "小物や装飾品を置く桃基調のテーブルセット。\nいかなる用途でも適応する、柔軟性に\n優れた標準的なモデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A pink table set for small items and\ndecor. A flexible standard model that\nfits any use.",
+    "Enabled": true
   },
   "250304": {
     "OriginalText": "白基調の照明器具。\n柔らかく暖かな光を提供する\n落ち着いたデザインの一品。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A white light. A calm design that gives\noff a soft, warm glow.",
+    "Enabled": true
   },
   "250305": {
     "OriginalText": "青基調の照明器具。\n柔らかく暖かな光を提供する\n落ち着いたデザインの一品。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A blue light. A calm design that gives\noff a soft, warm glow.",
+    "Enabled": true
   },
   "250306": {
     "OriginalText": "桃基調の照明器具。\n柔らかく暖かな光を提供する\n落ち着いたデザインの一品。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A pink light. A calm design that gives\noff a soft, warm glow.",
+    "Enabled": true
   },
   "250307": {
     "OriginalText": "緑基調のダブルサイズベッド。\n目の覚める個性的な彩色ながら、\n柔らかく身体を包み込む実用品。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A green double bed. Its colors are\nstriking, but it softly wraps around\nyour body.",
+    "Enabled": true
   },
   "250308": {
     "OriginalText": "橙基調のダブルサイズベッド。\n目の覚める個性的な彩色ながら、\n柔らかく身体を包み込む実用品。",
-    "Text": "",
-    "Enabled": false
+    "Text": "An orange double bed. Its colors are\nstriking, but it softly wraps around\nyour body.",
+    "Enabled": true
   },
   "250309": {
     "OriginalText": "黒基調のダブルサイズベッド。\n目の覚める個性的な彩色ながら、\n柔らかく身体を包み込む実用品。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A black double bed. Its colors are\nstriking, but it softly wraps around\nyour body.",
+    "Enabled": true
   },
   "250310": {
     "OriginalText": "小物や装飾品を置くテーブルセット。\n存在感あふれるヴィヴィッドな色合いで\n置いた物の見た目を引き立てる家具。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A table set for small items and decor.\nIts vivid colors make whatever's on it\nstand out.",
+    "Enabled": true
   },
   "250311": {
     "OriginalText": "小物や装飾品を置くテーブルセット。\n存在感あふれるハイカラな色合いで\n置いた物の見た目を引き立てる家具。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A table set for small items and decor.\nIts stylish colors make whatever's on it\nstand out.",
+    "Enabled": true
   },
   "250312": {
     "OriginalText": "小物や装飾品を置くテーブルセット。\n存在感を引き締めるシックな色合いで\n置いた物の見た目を引き立てる家具。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A table set for small items and decor.\nIts chic colors make whatever's on it\nstand out.",
+    "Enabled": true
   },
   "250313": {
     "OriginalText": "白基調の収納家具。\nどこに置いても存在感を見せる棚で\nトータルコーディネイトが重要。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A white storage piece. A shelf that\nstands out anywhere, so coordinating the\nroom is key.",
+    "Enabled": true
   },
   "250314": {
     "OriginalText": "橙基調の収納家具。\nどこに置いても存在感を見せる棚で\nトータルコーディネイトが重要。",
-    "Text": "",
-    "Enabled": false
+    "Text": "An orange storage piece. A shelf that\nstands out anywhere, so coordinating the\nroom is key.",
+    "Enabled": true
   },
   "250315": {
     "OriginalText": "黒基調の収納家具。\nどこに置いても存在感を見せる棚で\nトータルコーディネイトが重要。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A black storage piece. A shelf that\nstands out anywhere, so coordinating the\nroom is key.",
+    "Enabled": true
   },
   "250316": {
     "OriginalText": "白基調の二人掛けソファ。\n外観はクラシックでも造りは最新技術に\n裏打ちされ、低反発スプリングが好評。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A white loveseat. Classic on the\noutside, built with the latest tech, and\nloved for its memory foam springs.",
+    "Enabled": true
   },
   "250317": {
     "OriginalText": "桃基調の二人掛けソファ。\n外観はクラシックでも造りは最新技術に\n裏打ちされ、低反発スプリングが好評。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A pink loveseat. Classic on the outside,\nbuilt with the latest tech, and loved\nfor its memory foam springs.",
+    "Enabled": true
   },
   "250318": {
     "OriginalText": "茶基調の二人掛けソファ。\n外観はクラシックでも造りは最新技術に\n裏打ちされ、低反発スプリングが好評。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A brown loveseat. Classic on the\noutside, built with the latest tech, and\nloved for its memory foam springs.",
+    "Enabled": true
   },
   "250319": {
     "OriginalText": "天蓋付きのダブルサイズベッド。\n目に優しい白基調の落ち着いた装飾で、\n自然な眠りへと誘う骨董家具。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A canopy double bed. An antique whose\ncalm, white decor eases you into a\nnatural sleep.",
+    "Enabled": true
   },
   "250320": {
     "OriginalText": "天蓋付きのダブルサイズベッド。 \n目に優しい桃基調の落ち着いた装飾で、 \n自然な眠りへと誘う骨董家具。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A canopy double bed. An antique whose\ncalm, pink decor eases you into a\nnatural sleep.",
+    "Enabled": true
   },
   "250321": {
     "OriginalText": "天蓋付きのダブルサイズベッド。 \n目に優しい茶基調の落ち着いた装飾で、 \n自然な眠りへと誘う骨董家具。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A canopy double bed. An antique whose\ncalm, brown decor eases you into a\nnatural sleep.",
+    "Enabled": true
   },
   "250322": {
     "OriginalText": "小物や装飾品を置くテーブルセット。\n白を基調とした安心感のあるデザインで\n汎用性の高い標準モデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A table set for small items and decor. A\nversatile standard model with a\nreassuring white design.",
+    "Enabled": true
   },
   "250323": {
     "OriginalText": "小物や装飾品を置くテーブルセット。\n桃色を基調とした安心感のあるデザインで\n汎用性の高い標準モデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A table set for small items and decor. A\nversatile standard model with a\nreassuring pink design.",
+    "Enabled": true
   },
   "250324": {
     "OriginalText": "小物や装飾品を置くテーブルセット。\n茶色を基調とした安心感のあるデザインで\n汎用性の高い標準モデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A table set for small items and decor. A\nversatile standard model with a\nreassuring brown design.",
+    "Enabled": true
   },
   "250325": {
     "OriginalText": "白基調のスタンドライト。\n愛らしい柄をあしらった、乙女チックな\nやさしい光で部屋を包む。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A white floor lamp. Its cute patterns\nwrap the room in a sweet, gentle light.",
+    "Enabled": true
   },
   "250326": {
     "OriginalText": "桃基調のスタンドライト。\n愛らしい柄をあしらった、乙女チックな\nやさしい光で部屋を包む。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A pink floor lamp. Its cute patterns\nwrap the room in a sweet, gentle light.",
+    "Enabled": true
   },
   "250327": {
     "OriginalText": "茶基調のスタンドライト。\n愛らしい柄をあしらった、乙女チックな\nやさしい光で部屋を包む。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A brown floor lamp. Its cute patterns\nwrap the room in a sweet, gentle light.",
+    "Enabled": true
   },
   "250328": {
     "OriginalText": "白基調の飾り棚。\n古風なデザインに、特微的な柄が\n組み合わさっている。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A white display cabinet. An\nold-fashioned design with distinctive\npatterns.",
+    "Enabled": true
   },
   "250329": {
     "OriginalText": "紫基調の二人掛けソファ。\n歴史を感じさせる古風な装いが\nコーディネイト心をくすぐる一品。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A purple loveseat. Its old-fashioned\nlook, full of history, sparks the urge\nto decorate.",
+    "Enabled": true
   },
   "250330": {
     "OriginalText": "赤基調の二人掛けソファ。\n歴史を感じさせる古風な装いが\nコーディネイト心をくすぐる一品。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A red loveseat. Its old-fashioned look,\nfull of history, sparks the urge to\ndecorate.",
+    "Enabled": true
   },
   "250331": {
     "OriginalText": "黒基調の二人掛けソファ。\n歴史を感じさせる古風な装いが\nコーディネイト心をくすぐる一品。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A black loveseat. Its old-fashioned\nlook, full of history, sparks the urge\nto decorate.",
+    "Enabled": true
   },
   "250332": {
     "OriginalText": "紫基調の天蓋付きダブルサイズベッド。\n装飾にこだわり、眠るときだけでなく\n視覚的にも楽しませようと作られた品。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A purple canopy double bed. Made with\ncareful decor to delight the eyes, not\njust for sleeping.",
+    "Enabled": true
   },
   "250333": {
     "OriginalText": "赤基調の天蓋付きダブルサイズベッド。\n装飾にこだわり、眠るときだけでなく\n視覚的にも楽しませようと作られた品。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A red canopy double bed. Made with\ncareful decor to delight the eyes, not\njust for sleeping.",
+    "Enabled": true
   },
   "250334": {
     "OriginalText": "黒基調の天蓋付きダブルサイズベッド。\n装飾にこだわり、眠るときだけでなく\n視覚的にも楽しませようと作られた品。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A black canopy double bed. Made with\ncareful decor to delight the eyes, not\njust for sleeping.",
+    "Enabled": true
   },
   "250335": {
     "OriginalText": "小物や装飾品を置くテーブルセット。\nラグジュアリーながら落ち着きのある\nパープルが目を引く逸品。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A table set for small items and decor. A\ngem with a luxurious yet calm purple\nthat catches the eye.",
+    "Enabled": true
   },
   "250336": {
     "OriginalText": "小物や装飾品を置くテーブルセット。\nラグジュアリーながら落ち着きのある\nレッドが目を引く逸品。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A table set for small items and decor. A\ngem with a luxurious yet calm red that\ncatches the eye.",
+    "Enabled": true
   },
   "250337": {
     "OriginalText": "小物や装飾品を置くテーブルセット。\nラグジュアリーながら落ち着きのある\nブラックが目を引く逸品。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A table set for small items and decor. A\ngem with a luxurious yet calm black that\ncatches the eye.",
+    "Enabled": true
   },
   "250338": {
     "OriginalText": "紫基調の照明器具。\n装飾の先からこぼれ出す明かりは\n角度により、様々な表情を見せる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A purple light. The glow spilling from\nits ornaments shows many faces depending\non the angle.",
+    "Enabled": true
   },
   "250339": {
     "OriginalText": "赤基調の照明器具。\n装飾の先からこぼれ出す明かりは\n角度により、様々な表情を見せる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A red light. The glow spilling from its\nornaments shows many faces depending on\nthe angle.",
+    "Enabled": true
   },
   "250340": {
     "OriginalText": "黒基調の照明器具。\n装飾の先からこぼれ出す明かりは\n角度により、様々な表情を見せる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A black light. The glow spilling from\nits ornaments shows many faces depending\non the angle.",
+    "Enabled": true
   },
   "250341": {
     "OriginalText": "黒基調の飾り棚。\n赤い背面がコレクションアイテムの\n見た目を引き締めてくれる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A black display cabinet. Its red back\nmakes collectibles really stand out.",
+    "Enabled": true
   },
   "250342": {
     "OriginalText": "白基調の寝具。\n床に直接敷いて利用でき、腰を痛めた\nアークスのメンバーにとっての必需品。",
-    "Text": "",
-    "Enabled": false
+    "Text": "White bedding. It goes straight on the\nfloor, a must for ARKS members with bad\nbacks.",
+    "Enabled": true
   },
   "250343": {
     "OriginalText": "赤基調の寝具。\n床に直接敷いて利用でき、腰を痛めた\nアークスのメンバーにとっての必需品。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Red bedding. It goes straight on the\nfloor, a must for ARKS members with bad\nbacks.",
+    "Enabled": true
   },
   "250344": {
     "OriginalText": "柄模様の寝具。\n床に直接敷いて利用でき、腰を痛めた\nアークスのメンバーにとっての必需品。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Patterned bedding. It goes straight on\nthe floor, a must for ARKS members with\nbad backs.",
+    "Enabled": true
   },
   "250345": {
     "OriginalText": "小物や装飾品を置くためのテーブル。\n暖かみを感じさせる木目と落ち着きある\n濃い色合いでくつろぎを与える家具。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A table for small items and decor. Warm\nwood grain and calm, deep colors make it\nrelaxing.",
+    "Enabled": true
   },
   "250346": {
     "OriginalText": "小物や装飾品を置くためのテーブル。\n暖かみを感じさせる木目と落ち着きある\n濃い色合いでくつろぎを与える家具。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A table for small items and decor. Warm\nwood grain and calm, deep colors make it\nrelaxing.",
+    "Enabled": true
   },
   "250347": {
     "OriginalText": "小物や装飾品を置くためのテーブル。\n暖かみを感じさせる木目と落ち着きある\n濃い色合いでくつろぎを与える家具。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A table for small items and decor. Warm\nwood grain and calm, deep colors make it\nrelaxing.",
+    "Enabled": true
   },
   "250348": {
     "OriginalText": "白基調のスタンドライト。\n古風ながらしっかりした造りの台座と\n暖かい光で部屋全体をやさしく照らす。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A white floor lamp. Its sturdy,\nold-fashioned base and warm light gently\nbrighten the whole room.",
+    "Enabled": true
   },
   "250349": {
     "OriginalText": "植物のつるを加工した手作りの棚。\n職人が車輪をモチーフに組んだ造形美は\n見る者を飽きさせない。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A handmade shelf of woven plant vines.\nIts wheel-shaped craftsmanship never\ngets old.",
+    "Enabled": true
   },
   "250350": {
     "OriginalText": "赤基調のテーブルとチェアのセット。\nポップなカラーバリエーションが人気の\n４色シリーズの中の１色。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A red table and chair set. One color\nfrom a popular 4-color series of pop\ncolor variations.",
+    "Enabled": true
   },
   "250351": {
     "OriginalText": "青基調のテーブルとチェアのセット。\nポップなカラーバリエーションが人気の\n４色シリーズの中の１色。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A blue table and chair set. One color\nfrom a popular 4-color series of pop\ncolor variations.",
+    "Enabled": true
   },
   "250352": {
     "OriginalText": "緑基調のテーブルとチェアのセット。\nポップなカラーバリエーションが人気の\n４色シリーズの中の１色。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A green table and chair set. One color\nfrom a popular 4-color series of pop\ncolor variations.",
+    "Enabled": true
   },
   "250353": {
     "OriginalText": "黄基調のテーブルとチェアのセット。\nポップなカラーバリエーションが人気の\n４色シリーズの中の１色。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A yellow table and chair set. One color\nfrom a popular 4-color series of pop\ncolor variations.",
+    "Enabled": true
   },
   "250354": {
     "OriginalText": "赤基調のミニデスク。\nポップなカラーバリエーションが人気の\n４色シリーズの中の１色。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A red minidesk. One color from a popular\n4-color series of pop color variations.",
+    "Enabled": true
   },
   "250355": {
     "OriginalText": "青基調のミニデスク。\nポップなカラーバリエーションが人気の\n４色シリーズの中の１色。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A blue minidesk. One color from a\npopular 4-color series of pop color\nvariations.",
+    "Enabled": true
   },
   "250356": {
     "OriginalText": "緑基調のミニデスク。\nポップなカラーバリエーションが人気の\n４色シリーズの中の１色。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A green minidesk. One color from a\npopular 4-color series of pop color\nvariations.",
+    "Enabled": true
   },
   "250357": {
     "OriginalText": "黄基調のミニデスク。\nポップなカラーバリエーションが人気の\n４色シリーズの中の１色。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A yellow minidesk. One color from a\npopular 4-color series of pop color\nvariations.",
+    "Enabled": true
   },
   "250358": {
     "OriginalText": "ショップ陳列用の棚。\n部屋に合わせて複数並べることで\n壁面の有効利用が可能。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A shop display shelf. Line several up to\nmatch your room and make good use of the\nwalls.",
+    "Enabled": true
   },
   "250359": {
     "OriginalText": "石造りのベンチ。\n白地の石村に映える美しい彫刻で\n優雅な座り心地を楽しめる一品。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A stone bench. Beautiful carvings stand\nout on its white stone for an elegant\nseat.",
+    "Enabled": true
   },
   "250360": {
     "OriginalText": "陶製のバスタブ。\n花びらが浮かぶ水面が揺らぐその様は\nまさに優雅の一言につきる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A ceramic bathtub. Petals drift on the\nrippling water, elegance itself.",
+    "Enabled": true
   },
   "250361": {
     "OriginalText": "全自動の洗濯機。\nすでに廃れた機器だが、こちらのほうが\n綺麗になると使用を続ける人もいる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A fully automatic washing machine. Long\noutdated, but some keep using it, saying\nit gets clothes cleaner.",
+    "Enabled": true
   },
   "250362": {
     "OriginalText": "素敵な時間を過ごしたいオトナのための\nバーカウンターセット。\nこれでアナタもオトナの仲間入り。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A bar counter set for grown-ups who want\na good time. With this, you're a\ngrown-up too.",
+    "Enabled": true
   },
   "250363": {
     "OriginalText": "実用面に重きを置いた扉つき戸棚。\n場所を取らないコンパクト設計で\n地味な存在感を発揮。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A practical cupboard with doors. Its\ncompact design saves space and keeps a\nlow profile.",
+    "Enabled": true
   },
   "250364": {
     "OriginalText": "バカンスを楽しむためのゴム製プール。\n二人で同時に入ることができ、\n一気に親密度を高められる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A rubber pool for enjoying vacation. Two\ncan get in at once, for getting closer\nin a hurry.",
+    "Enabled": true
   },
   "250365": {
     "OriginalText": "バカンスを楽しむためのレジャー用品。\nパラソルとビーチチェアのセットで\n海水浴気分を味わえる便利グッズ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Leisure gear for enjoying vacation. A\nparasol and beach chair set for that\nbeach day feeling.",
+    "Enabled": true
   },
   "250366": {
     "OriginalText": "少ない水やりで楽しめる観葉植物。\n苛烈な砂漢環境下で強く育った植物。\n内部に水をため込んでいる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A houseplant that needs little watering.\nIt grew strong in a harsh desert and\nstores water inside.",
+    "Enabled": true
   },
   "250369": {
     "OriginalText": "標準使用される門扉。\nオーソドックスな造りだが充分な強度で\n侵入者を確実にブロックする定番品。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A standard gate. A classic build with\nplenty of strength, the go-to for\nkeeping intruders out.",
+    "Enabled": true
   },
   "250370": {
     "OriginalText": "とある文化が由来の門扉。\n優雅で風格のある外観は訪問者の心を\n和ませ、落ち着きと安らぎを与える。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A gate rooted in a certain culture. Its\nelegant, dignified look puts visitors at\nease.",
+    "Enabled": true
   },
   "250371": {
     "OriginalText": "とある文化を取り入れた門扉。\n高級感と威厳が漂う頑強な造りで、\n所有者の品格をアピールする。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A gate adopting a certain culture. Its\nsturdy, luxurious, imposing build shows\noff the owner's class.",
+    "Enabled": true
   },
   "250372": {
     "OriginalText": "応急使用される門扉。\n代用部品を寄せ集めた急ごしらえながら\n最低限の機能を確保した。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A makeshift gate. Thrown together from\nspare parts, but it does the bare\nminimum.",
+    "Enabled": true
   },
   "250373": {
     "OriginalText": "標準使用される小型壁村。\nオーソドックスな造りの定番品で\n敷地内への侵入を確実にブロックする。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A standard small fence. A classic go-to\nthat keeps intruders off your grounds.",
+    "Enabled": true
   },
   "250374": {
     "OriginalText": "とある文化が由来の小型壁村。\n高級木村をあしらった優雅で風格のある\n仕上がりで、自然との調和を感じさせる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A small fence rooted in a certain\nculture. Its elegant, dignified fine\nwood finish feels in tune with nature.",
+    "Enabled": true
   },
   "250375": {
     "OriginalText": "とある文化を取り入れた小型壁村。\n耐久性を追求した頑強な造りで、\n優美さと堅牢性を兼ね備える。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A small fence adopting a certain\nculture. Built tough for durability,\nit's both graceful and sturdy.",
+    "Enabled": true
   },
   "250376": {
     "OriginalText": "応急使用される小型壁村。\n代用部品を寄せ集めた急ごしらえゆえに\n風に煽られては、ギシギシと音を立てている。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A makeshift small fence. Thrown together\nfrom spare parts, so it creaks whenever\nthe wind blows.",
+    "Enabled": true
   },
   "250377": {
     "OriginalText": "標準使用される中型壁村。\nオーソドックスな造りの定番品で\n敷地内への侵入を確実にブロックする。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A standard medium fence. A classic go-to\nthat keeps intruders off your grounds.",
+    "Enabled": true
   },
   "250378": {
     "OriginalText": "とある文化が由来の中型壁村。\n高級木村をあしらった優雅で風格のある\n仕上がりで、自然との調和を感じさせる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A medium fence rooted in a certain\nculture. Its elegant, dignified fine\nwood finish feels in tune with nature.",
+    "Enabled": true
   },
   "250379": {
     "OriginalText": "とある文化を取り入れた中型壁村。\n耐久性を追求した頑強な造りで、\n優美さと堅牢性を兼ね備える。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A medium fence adopting a certain\nculture. Built tough for durability,\nit's both graceful and sturdy.",
+    "Enabled": true
   },
   "250380": {
     "OriginalText": "応急使用される中型壁村。\n代用部品を寄せ集めた急ごしらえゆえに\n風に煽られては、ギシギシと音を立てている。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A makeshift medium fence. Thrown\ntogether from spare parts, so it creaks\nwhenever the wind blows.",
+    "Enabled": true
   },
   "250381": {
     "OriginalText": "ベースフェンスを連結した小型の壁。\nオーソドックスな造りの定番品で\n敷地内への侵入を確実にブロックする。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A small wall of linked Base Fences. A\nclassic go-to that keeps intruders off\nyour grounds.",
+    "Enabled": true
   },
   "250382": {
     "OriginalText": "オリエントフェンスを連結した小型の壁。\n高級木村をあしらった優雅で風格のある\n仕上がりで、自然との調和を感じさせる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A small wall of linked Oriental Fences.\nIts elegant, dignified fine wood finish\nfeels in tune with nature.",
+    "Enabled": true
   },
   "250383": {
     "OriginalText": "ウェスタンフェンスを連結した小型の壁。\n耐久性を追求した頑強な造りで、\n優美さと堅牢性を兼ね備える。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A small wall of linked Western Fences.\nBuilt tough for durability, it's both\ngraceful and sturdy.",
+    "Enabled": true
   },
   "250384": {
     "OriginalText": "フェンスを連結した小型の壁。\n代用部品を寄せ集めた急ごしらえゆえに\n風に煽られては、ギシギシと音を立てている。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A small wall of linked fences. Thrown\ntogether from spare parts, so it creaks\nwhenever the wind blows.",
+    "Enabled": true
   },
   "250385": {
     "OriginalText": "ベースフェンスを連結した中型の壁。\nオーソドックスな造りの定番品で\n敷地内への侵入を確実にブロックする。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A medium wall of linked Base Fences. A\nclassic go-to that keeps intruders off\nyour grounds.",
+    "Enabled": true
   },
   "250386": {
     "OriginalText": "オリエントフェンスを連結した中型の壁。\n高級木村をあしらった優雅で風格のある\n仕上がりで、自然との調和を感じさせる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A medium wall of linked Oriental Fences.\nIts elegant, dignified fine wood finish\nfeels in tune with nature.",
+    "Enabled": true
   },
   "250387": {
     "OriginalText": "ウェスタンフェンスを連結した中型の壁。\n耐久性を追求した頑強な造りで、\n優美さと堅牢性を兼ね備える。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A medium wall of linked Western Fences.\nBuilt tough for durability, it's both\ngraceful and sturdy.",
+    "Enabled": true
   },
   "250388": {
     "OriginalText": "フェンスを連結した中型の壁。\n代用部品を寄せ集めた急ごしらえゆえに\n風に煽られては、ギシギシと音を立てている。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A medium wall of linked fences. Thrown\ntogether from spare parts, so it creaks\nwhenever the wind blows.",
+    "Enabled": true
   },
   "250389": {
     "OriginalText": "ベースフェンスを連結した大型の壁。\nオーソドックスな造りの定番品で\n敷地内への侵入を確実にブロックする。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A large wall of linked Base Fences. A\nclassic go-to that keeps intruders off\nyour grounds.",
+    "Enabled": true
   },
   "250390": {
     "OriginalText": "オリエントフェンスを連結した大型の壁。\n高級木村をあしらった優雅で風格のある\n仕上がりで、自然との調和を感じさせる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A large wall of linked Oriental Fences.\nIts elegant, dignified fine wood finish\nfeels in tune with nature.",
+    "Enabled": true
   },
   "250391": {
     "OriginalText": "ウェスタンフェンスを連結した大型の壁。\n耐久性を追求した頑強な造りで、\n優美さと堅牢性を兼ね備える。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A large wall of linked Western Fences.\nBuilt tough for durability, it's both\ngraceful and sturdy.",
+    "Enabled": true
   },
   "250392": {
     "OriginalText": "フェンスを連結した大型の壁。\n代用部品を寄せ集めた急ごしらえゆえに\n風に煽られては、ギシギシと音を立てている。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A large wall of linked fences. Thrown\ntogether from spare parts, so it creaks\nwhenever the wind blows.",
+    "Enabled": true
   },
   "250393": {
     "OriginalText": "標準使用されるカーペット。\nあらゆる空間にほどよく馴染み、\n足元を快適に彩る。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A standard carpet. Blends into any space\nand brightens up the floor.",
+    "Enabled": true
   },
   "250396": {
     "OriginalText": "とある文化が由来のカーペット。\n足元の安らぎと心地よさを追求し\n日常の空間に最上の癒しを提供する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A carpet rooted in a certain culture.\nBuilt for comfort underfoot, it brings\nthe best healing to everyday spaces.",
+    "Enabled": true
   },
   "250399": {
     "OriginalText": "とある文化を取り入れたカーペット。\n洗練された色合いと風合いにこだわり\n足元に落ち着きとくつろぎを与える。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A carpet adopting a certain culture. Its\nrefined colors and texture bring calm\nand comfort underfoot.",
+    "Enabled": true
   },
   "250402": {
     "OriginalText": "応急使用されるカーペット。\n急ごしらえながら抜群の耐久性と同時に\n足元の確かな快適さを確保した。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A makeshift carpet. Hastily made, yet\nit's very durable and truly comfortable\nunderfoot.",
+    "Enabled": true
   },
   "250405": {
     "OriginalText": "オルター特製の高級カーペット。\nデルタ・ヴァリアントの誇りあふれる\nデザインと豪華な仕上がりが魅力。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A luxury carpet made by Alter. Its\ndesign, full of Delta Valiant pride, and\nlavish finish are its charm.",
+    "Enabled": true
   },
   "250408": {
     "OriginalText": "オリジナルのピンクカーペット。\n無機的な空間に華やいだ色彩を添え、\n惑星風土とは真逆の異空間を提供する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "An original pink carpet. It adds bright\ncolor to sterile spaces, a world apart\nfrom the planet's climate.",
+    "Enabled": true
   },
   "250412": {
     "OriginalText": "カーペット・DLC の解説文",
