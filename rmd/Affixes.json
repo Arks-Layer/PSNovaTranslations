@@ -3506,12 +3506,12 @@
   },
   "820304": {
     "OriginalText": "攻撃のアクション速度が１０％上昇する。\n[a 03]※同名の特殊能力は重複しない[b]",
-    "Text": "The action speed of attack increases \nby 10%.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
+    "Text": "The action speed of attacks increases \nby 10%.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
     "Enabled": true
   },
   "820305": {
     "OriginalText": "打撃攻撃の効果範囲が１０％上昇する\n[a 03]※同名の特殊能力は重複しない[b]",
-    "Text": "Effective range of the striking attack\nincreases by 10%\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
+    "Text": "Effective range of Strike attacks\nincreases by 10%\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
     "Enabled": true
   },
   "820308": {
@@ -3596,12 +3596,12 @@
   },
   "820324": {
     "OriginalText": "射撃攻撃時\nクリティカル率が５％上昇する。\n[a 03]※同名の特殊能力は重複しない[b]",
-    "Text": "During shooting attacks, critical hit \nrate increases by 5%.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
+    "Text": "During Ranged attacks, critical hit \nrate increases by 5%.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
     "Enabled": true
   },
   "820325": {
     "OriginalText": "テクニック攻撃時\nクリティカル率が５％上昇する。\n[a 03]※同名の特殊能力は重複しない[b]",
-    "Text": "During technique attacks, critical hit \nrate increases by 5%.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
+    "Text": "While using Techniques, critical hit \nrate increases by 5%.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
     "Enabled": true
   },
   "820326": {
