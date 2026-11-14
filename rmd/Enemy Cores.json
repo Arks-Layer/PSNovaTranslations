@@ -106,17 +106,17 @@
   },
   "110021": {
     "OriginalText": "深淵のダーカー・コア",
-    "Text": "Abyssal Darker Core",
+    "Text": "Darker Core of the Abyss",
     "Enabled": true
   },
   "110022": {
     "OriginalText": "漆黒のダーカー・コア",
-    "Text": "Ebony Darker Core",
+    "Text": "Darker Core of Pitch Black",
     "Enabled": true
   },
   "110023": {
     "OriginalText": "闇のダーカー・コア",
-    "Text": "Void Darker Core",
+    "Text": "Darker Core of Darkness",
     "Enabled": true
   },
   "110024": {
@@ -2116,7 +2116,7 @@
   },
   "120009": {
     "OriginalText": "習性の源。\n同じ過ちを繰り返さぬ慎重な思慮。",
-    "Text": "A source of instinct. The careful thought\nof one who never repeats a mistake.",
+    "Text": "A source of behavior. The careful thought\nof one who never repeats a mistake.",
     "Enabled": true
   },
   "120010": {
@@ -2176,17 +2176,17 @@
   },
   "120021": {
     "OriginalText": "強欲なダーカーの力の源。\n満たされることのない闘争への欲求は\n深淵にあってもあまねく広がる。",
-    "Text": "A source of greedy Darker power. Its\ninsatiable hunger for battle spreads even\nthrough the abyss.",
+    "Text": "The insatiable power of Darkers. Its\ninsatiable hunger for battle spreads even\nthrough the abyss.",
     "Enabled": true
   },
   "120022": {
     "OriginalText": "邪悪なダーカーの力の源。\n腹の底にうごめく悪意は手段を選ばず\n増殖し、周囲を漆黒に染める。",
-    "Text": "A source of wicked Darker power. The\nmalice in its gut stops at nothing,\nmultiplying & staining all in pitch black.",
+    "Text": "The wicked power of Darkers. The malice in\nits gut stops at nothing, multiplying &\nstaining all in pitch black.",
     "Enabled": true
   },
   "120023": {
     "OriginalText": "謎を秘めたダーカーの力の源。\nあらゆる正義を否定し一点の光も\n届かぬ絶望の闇。",
-    "Text": "A source of mysterious Darker power.\nDarkness of despair that denies all\njustice & lets in no light.",
+    "Text": "The mysterious power of Darkers. Darkness\nof despair that denies all justice & lets\nin no light.",
     "Enabled": true
   },
   "120024": {
@@ -2221,7 +2221,7 @@
   },
   "120030": {
     "OriginalText": "忍び寄る習性の源。\n無遠慮な接近の油断。",
-    "Text": "A source of creeping instinct. The\ncarelessness of an unwary approach.",
+    "Text": "A source of creeping behavior. The\ncarelessness of an unwary approach.",
     "Enabled": true
   },
   "120031": {
@@ -2231,12 +2231,12 @@
   },
   "120032": {
     "OriginalText": "悪意ある習性の源。\n爪を隠す装悪鬼の思慮。",
-    "Text": "A source of malicious instinct. The\nLegendary Fiend's thoughts, hiding its\nclaws.",
+    "Text": "A source of malicious behavior. The\nLegendary Fiend's thoughts, hiding its\nclaws.",
     "Enabled": true
   },
   "120033": {
     "OriginalText": "無分別な習性の源。\n角を隠す装悪鬼の思慮。",
-    "Text": "A source of reckless instinct. The\nLegendary Fiend's thoughts, hiding its\nhorns.",
+    "Text": "A source of reckless behavior. The\nLegendary Fiend's thoughts, hiding its\nhorns.",
     "Enabled": true
   },
   "120034": {
@@ -2256,7 +2256,7 @@
   },
   "120037": {
     "OriginalText": "無分別な習性の源。\n岩をもうがつ装悪鬼の邪気。",
-    "Text": "A source of reckless instinct. The\nLegendary Fiend's malice, enough to pierce\nrock.",
+    "Text": "A source of reckless behavior. The\nLegendary Fiend's malice, enough to pierce\nrock.",
     "Enabled": true
   },
   "120038": {
@@ -2266,12 +2266,12 @@
   },
   "120039": {
     "OriginalText": "悪意ある習性の源。\n傷つけることを躊躇しない邪気。\n",
-    "Text": "A source of malicious instinct. Malice\nthat never hesitates to wound.",
+    "Text": "A source of malicious behavior. Malice\nthat never hesitates to wound.",
     "Enabled": true
   },
   "120040": {
     "OriginalText": "爆進する習性の源。\n動いてから考える猛銃の思慮。",
-    "Text": "A source of charging instinct. The Violent\nOne's way of thinking only after it moves.",
+    "Text": "A source of charging behavior. The Violent\nOne's way of thinking only after it moves.",
     "Enabled": true
   },
   "120041": {
@@ -2286,7 +2286,7 @@
   },
   "120043": {
     "OriginalText": "小狡い習性の源。\n小さくも確実な一歩。",
-    "Text": "A source of sly instinct. A small but\ncertain step.",
+    "Text": "A source of sly behavior. A small but\ncertain step.",
     "Enabled": true
   },
   "120044": {
@@ -2301,7 +2301,7 @@
   },
   "120046": {
     "OriginalText": "屈強な習性の源。\n立ちはだかる装悪鬼の邪気。",
-    "Text": "A source of tough instinct. The Legendary\nFiend's malice, standing in the way.",
+    "Text": "A source of tough behavior. The Legendary\nFiend's malice, standing in the way.",
     "Enabled": true
   },
   "120047": {
@@ -2311,7 +2311,7 @@
   },
   "120048": {
     "OriginalText": "立ち止まらぬ習性の源。\n怖れを知らぬ優位。",
-    "Text": "A source of restless instinct. The edge of\nknowing no fear.",
+    "Text": "A source of restless behavior. The edge of\nknowing no fear.",
     "Enabled": true
   },
   "120049": {
@@ -2321,7 +2321,7 @@
   },
   "120050": {
     "OriginalText": "忍び寄る習性の源。\n気がつけばそこにいる恐怖。",
-    "Text": "A source of creeping instinct. The terror\nof something suddenly there.",
+    "Text": "A source of creeping behavior. The terror\nof something suddenly there.",
     "Enabled": true
   },
   "120051": {
@@ -2351,7 +2351,7 @@
   },
   "120056": {
     "OriginalText": "屈強な習性の源。\nはびこる装悪鬼の無念。",
-    "Text": "A source of tough instinct. The rampant\nLegendary Fiend's regret.",
+    "Text": "A source of tough behavior. The rampant\nLegendary Fiend's regret.",
     "Enabled": true
   },
   "120057": {
@@ -2376,12 +2376,12 @@
   },
   "120061": {
     "OriginalText": "装悪鬼の資性の源。\n一途に立ち向かう本能。",
-    "Text": "A source of the Legendary Fiend's\naptitude. An instinct to face things\nhead-on.",
+    "Text": "A source of the Legendary Fiend's\naptitude. A behavior to face things\nhead-on.",
     "Enabled": true
   },
   "120062": {
     "OriginalText": "爆進する習性の源。\n当たって砕ける猛銃の覚悟。",
-    "Text": "A source of charging instinct. The Violent\nOne's resolve to go for broke.",
+    "Text": "A source of charging behavior. The Violent\nOne's resolve to go for broke.",
     "Enabled": true
   },
   "120063": {
@@ -2396,7 +2396,7 @@
   },
   "120065": {
     "OriginalText": "悪意ある習性の源。\n踏みにじることに慣れた横暴。",
-    "Text": "A source of malicious instinct. Tyranny\nused to trampling others.",
+    "Text": "A source of malicious behavior. Tyranny\nused to trampling others.",
     "Enabled": true
   },
   "120066": {
@@ -2416,7 +2416,7 @@
   },
   "120069": {
     "OriginalText": "立ち止まらぬ習性の源。\n敗北を認めぬ底意地。",
-    "Text": "A source of restless instinct.\nStubbornness that won't admit defeat.",
+    "Text": "A source of restless behavior.\nStubbornness that won't admit defeat.",
     "Enabled": true
   },
   "120070": {
@@ -2431,7 +2431,7 @@
   },
   "120072": {
     "OriginalText": "無分別な習性の源。\n窺い知れない装悪鬼の本心。",
-    "Text": "A source of reckless instinct. The\nLegendary Fiend's unreadable true intent.",
+    "Text": "A source of reckless behavior. The\nLegendary Fiend's unreadable true intent.",
     "Enabled": true
   },
   "120073": {
@@ -2446,12 +2446,12 @@
   },
   "120075": {
     "OriginalText": "小狡い習性の源。\n長いものに巻かれる思慮。",
-    "Text": "A source of sly instinct. The wisdom of\ngoing along with the powerful.",
+    "Text": "A source of sly behavior. The wisdom of\ngoing along with the powerful.",
     "Enabled": true
   },
   "120076": {
     "OriginalText": "屈強な習性の源。\n世にはばかる装悪鬼の邪気。",
-    "Text": "A source of tough instinct. The Legendary\nFiend's malice, lording over the world.",
+    "Text": "A source of tough behavior. The Legendary\nFiend's malice, lording over the world.",
     "Enabled": true
   },
   "120077": {
@@ -2461,7 +2461,7 @@
   },
   "120078": {
     "OriginalText": "頑強な装悪鬼の習性の源。\nひたすらに我が道を行く。",
-    "Text": "A source of the stubborn Legendary Fiend's\ninstinct. It simply goes its own way.",
+    "Text": "A source of the stubborn Legendary Fiend's\nbehavior. It simply goes its own way.",
     "Enabled": true
   },
   "120079": {
@@ -2476,7 +2476,7 @@
   },
   "120081": {
     "OriginalText": "悪意ある習性の源。\n装悪鬼のあからさまな敵意。",
-    "Text": "A source of malicious instinct. The\nLegendary Fiend's open hostility.",
+    "Text": "A source of malicious behavior. The\nLegendary Fiend's open hostility.",
     "Enabled": true
   },
   "120082": {
@@ -2486,7 +2486,7 @@
   },
   "120083": {
     "OriginalText": "強欲な習性の源。\n誇りなき狂戦棘の思慮。",
-    "Text": "A source of greedy instinct. The Berserk's\nthoughts, without pride.",
+    "Text": "A source of insatiable behavior. The Berserker's\nthoughts, without pride.",
     "Enabled": true
   },
   "120084": {
@@ -2501,12 +2501,12 @@
   },
   "120086": {
     "OriginalText": "強欲な習性の源。\n一方で熟慮を重ねる狂戦棘の思慮。",
-    "Text": "A source of greedy instinct. The Berserk's\nthoughts, which also weigh things\ncarefully.",
+    "Text": "A source of insatiable behavior. The Berserker's\nthoughts, which also weigh things\ncarefully.",
     "Enabled": true
   },
   "120087": {
     "OriginalText": "装悪鬼の資性の源。\n果敢に挑み続ける不屈の本能。",
-    "Text": "A source of the Legendary Fiend's\naptitude. An indomitable instinct that\nkeeps boldly challenging.",
+    "Text": "A source of the Legendary Fiend's\naptitude. An indomitable behavior that\nkeeps boldly challenging.",
     "Enabled": true
   },
   "120088": {
@@ -2526,7 +2526,7 @@
   },
   "120091": {
     "OriginalText": "小狡い習性の源。\n見て見ぬふりをする思慮。",
-    "Text": "A source of sly instinct. The wisdom of\nturning a blind eye.",
+    "Text": "A source of sly behavior. The wisdom of\nturning a blind eye.",
     "Enabled": true
   },
   "120092": {
@@ -2541,12 +2541,12 @@
   },
   "120094": {
     "OriginalText": "爆進する習性の源。\n止まらない猛銃が秘めた力。",
-    "Text": "A source of charging instinct. The hidden\npower of the unstoppable Violent One.",
+    "Text": "A source of charging behavior. The hidden\npower of the unstoppable Violent One.",
     "Enabled": true
   },
   "120095": {
     "OriginalText": "装悪鬼の資性の源。\n悪びれることなく突き進む本能。",
-    "Text": "A source of the Legendary Fiend's\naptitude. An instinct that charges on\nwithout remorse.",
+    "Text": "A source of the Legendary Fiend's\naptitude. A behavior that charges on\nwithout remorse.",
     "Enabled": true
   },
   "120096": {
@@ -2561,17 +2561,17 @@
   },
   "120098": {
     "OriginalText": "忍び寄る習性の源。\nまとわりつく不快と不安。",
-    "Text": "A source of creeping instinct. Clinging\ndiscomfort & unease.",
+    "Text": "A source of creeping behavior. Clinging\ndiscomfort & unease.",
     "Enabled": true
   },
   "120099": {
     "OriginalText": "頑強な装悪鬼の習性の源。\n曲がることのない信念。",
-    "Text": "A source of the stubborn Legendary Fiend's\ninstinct. Conviction that never bends.",
+    "Text": "A source of the stubborn Legendary Fiend's\nbehavior. Conviction that never bends.",
     "Enabled": true
   },
   "120100": {
     "OriginalText": "無分別な習性の源。\n装悪鬼ならではのむき出しの敵意。",
-    "Text": "A source of reckless instinct. Naked\nhostility only a Legendary Fiend could\nshow.",
+    "Text": "A source of reckless behavior. Naked\nhostility only a Legendary Fiend could\nshow.",
     "Enabled": true
   },
   "120101": {
@@ -2591,17 +2591,17 @@
   },
   "120104": {
     "OriginalText": "屈強な習性の源。\n排除不能な装悪鬼の邪念。",
-    "Text": "A source of tough instinct. The Legendary\nFiend's ill will, impossible to remove.",
+    "Text": "A source of tough behavior. The Legendary\nFiend's ill will, impossible to remove.",
     "Enabled": true
   },
   "120105": {
     "OriginalText": "頑強な装悪鬼の習性の源。\n岩をも通す一念。",
-    "Text": "A source of the stubborn Legendary Fiend's\ninstinct. Willpower that can pierce rock.",
+    "Text": "A source of the stubborn Legendary Fiend's\nbehavior. Willpower that can pierce rock.",
     "Enabled": true
   },
   "120106": {
     "OriginalText": "立ち止まらぬ習性の源。\nやり場のない憤り。",
-    "Text": "A source of restless instinct. Anger with\nnowhere to go.",
+    "Text": "A source of restless behavior. Anger with\nnowhere to go.",
     "Enabled": true
   },
   "120107": {
@@ -2616,117 +2616,117 @@
   },
   "120109": {
     "OriginalText": "粗暴な習性の源。\n思慮に欠けた不完全な知恵。",
-    "Text": "A source of rough instinct. Incomplete\nwisdom lacking thought.",
+    "Text": "A source of rough behavior. Incomplete\nwisdom lacking thought.",
     "Enabled": true
   },
   "120110": {
     "OriginalText": "頑強な装悪鬼の習性の源。\n引き返せない行き過ぎ。",
-    "Text": "A source of the stubborn Legendary Fiend's\ninstinct. Going too far to turn back.",
+    "Text": "A source of the stubborn Legendary Fiend's\nbehavior. Going too far to turn back.",
     "Enabled": true
   },
   "120111": {
     "OriginalText": "沈黙する習性の源。\n知恵をつけた兇星の思慮。",
-    "Text": "A source of silent instinct. The thoughts\nof an Evil Mark that has gained wisdom.",
+    "Text": "A source of silent behavior. The thoughts\nof an Evil Mark that has gained wisdom.",
     "Enabled": true
   },
   "120112": {
     "OriginalText": "抜け目ない習性の源。\n危機をすり抜ける砲凰の思慮。",
-    "Text": "A source of shrewd instinct. The Armed\nPhoenix's thoughts, slipping past danger.",
+    "Text": "A source of shrewd behavior. The Armed\nPhoenix's thoughts, slipping past danger.",
     "Enabled": true
   },
   "120113": {
     "OriginalText": "強欲な習性の源。\n向こう見ずな狂戦棘の思慮。",
-    "Text": "A source of greedy instinct. The Berserk's\nreckless thoughts.",
+    "Text": "A source of insatiable behavior. The Berserker's\nreckless thoughts.",
     "Enabled": true
   },
   "120114": {
     "OriginalText": "粗暴な習性の源。\n行き過ぎた完全主義の結末。",
-    "Text": "A source of rough instinct. The result of\nperfectionism gone too far.",
+    "Text": "A source of rough behavior. The result of\nperfectionism gone too far.",
     "Enabled": true
   },
   "120115": {
     "OriginalText": "抜け目ない習性の源。\n砲凰が蓄積する奥深い思慮。",
-    "Text": "A source of shrewd instinct. The deep\nthoughts the Armed Phoenix gathers.",
+    "Text": "A source of shrewd behavior. The deep\nthoughts the Armed Phoenix gathers.",
     "Enabled": true
   },
   "120116": {
     "OriginalText": "粗暴な習性の源。\n負の遺産を築き上げる宿命。",
-    "Text": "A source of rough instinct. A fate of\nbuilding a negative legacy.",
+    "Text": "A source of rough behavior. A fate of\nbuilding a negative legacy.",
     "Enabled": true
   },
   "120117": {
     "OriginalText": "粗暴な習性の源。\n積み重なる絶望への同意。",
-    "Text": "A source of rough instinct. Consent to\nmounting despair.",
+    "Text": "A source of rough behavior. Consent to\nmounting despair.",
     "Enabled": true
   },
   "120118": {
     "OriginalText": "沈黙する習性の源。\n眠りから覚めた兇星の思慮。",
-    "Text": "A source of silent instinct. The thoughts\nof an Evil Mark woken from slumber.",
+    "Text": "A source of silent behavior. The thoughts\nof an Evil Mark woken from slumber.",
     "Enabled": true
   },
   "120119": {
     "OriginalText": "ダーカーの不乱の力の源。\n初心を貴徹する強い決意。",
-    "Text": "A source of Darker single-minded power.\nFirm resolve to see its original intent\nthrough.",
+    "Text": "The single-minded power of Darkers. Firm\nresolve to see its original intent\nthrough.",
     "Enabled": true
   },
   "120120": {
     "OriginalText": "ダーカーの狡猾な力の源。\n他力をも使いこなす強欲。",
-    "Text": "A source of Darker cunning power. Greed\nthat even uses the power of others.",
+    "Text": "The cunning power of Darkers. Greed that\neven uses the power of others.",
     "Enabled": true
   },
   "120121": {
     "OriginalText": "ダーカーの堅牢な力の源。\n見苦しき頑なな姿勢。",
-    "Text": "A source of Darker sturdy power. An\nunsightly, stubborn stance.",
+    "Text": "The sturdy power of Darkers. An unsightly,\nstubborn stance.",
     "Enabled": true
   },
   "120122": {
     "OriginalText": "ダーカーの鋭利な力の源。\n研ぎ澄まされた一瞬の判断。",
-    "Text": "A source of Darker sharp power. A honed\nsplit-second judgment.",
+    "Text": "The sharp power of Darkers. A honed\nsplit-second judgment.",
     "Enabled": true
   },
   "120123": {
     "OriginalText": "ダーカーの俊敏な力の源。\n目にも止まらぬ脅威の片鱗。",
-    "Text": "A source of Darker swift power. A glimpse\nof a threat too fast to see.",
+    "Text": "The swift power of Darkers. A glimpse of a\nthreat too fast to see.",
     "Enabled": true
   },
   "120124": {
     "OriginalText": "ダーカーの不死身の力の源。\n死力を尽くして得られる極意。",
-    "Text": "A source of Darker undying power. A secret\ngained by giving everything.",
+    "Text": "The undying power of Darkers. A secret\ngained by giving everything.",
     "Enabled": true
   },
   "120125": {
     "OriginalText": "ダーカーの不休の力の源。\n疲れを知らぬ剛の魂。",
-    "Text": "A source of Darker tireless power. A\nmighty soul that knows no fatigue.",
+    "Text": "The tireless power of Darkers. A mighty\nsoul that knows no fatigue.",
     "Enabled": true
   },
   "120126": {
     "OriginalText": "ダーカーの鷹揚な力の源。\n一瞬の油断に付け入る特技。",
-    "Text": "A source of Darker easygoing power. A\nknack for exploiting a moment's\ncarelessness.",
+    "Text": "The easygoing power of Darkers. A knack\nfor exploiting a moment's carelessness.",
     "Enabled": true
   },
   "120127": {
     "OriginalText": "ダーカーの淀んだ力の源。\n麻痺した心の隙間を広げる。",
-    "Text": "A source of Darker stagnant power. It\nwidens the cracks in a numbed heart.",
+    "Text": "The stagnant power of Darkers. It widens\nthe cracks in a numbed heart.",
     "Enabled": true
   },
   "120128": {
     "OriginalText": "ダーカーの怪力の源。\n鍛え抜かれた肉体の奇跡。",
-    "Text": "A source of Darker brute strength. The\nmiracle of a well-trained body.",
+    "Text": "The brute strength of Darkers. The miracle\nof a well-trained body.",
     "Enabled": true
   },
   "120129": {
     "OriginalText": "ダーカーの剛力の源。\n逞しく成長した肉体の奇跡。",
-    "Text": "A source of Darker mighty strength. The\nmiracle of a body grown sturdy.",
+    "Text": "The mighty strength of Darkers. The\nmiracle of a body grown sturdy.",
     "Enabled": true
   },
   "120130": {
     "OriginalText": "ダーカーの歪んだ力の源。\n己に対する過剰な絶対視。",
-    "Text": "A source of Darker warped power. Excessive\nfaith in oneself.",
+    "Text": "The warped power of Darkers. Excessive\nfaith in oneself.",
     "Enabled": true
   },
   "120131": {
     "OriginalText": "ダーカーの虚ろな力の源。\n普段は見せない特殊な一面。",
-    "Text": "A source of Darker hollow power. A special\nside rarely shown.",
+    "Text": "The hollow power of Darkers. A special\nside rarely shown.",
     "Enabled": true
   },
   "120132": {
@@ -2861,7 +2861,7 @@
   },
   "120158": {
     "OriginalText": "凄む狂戦棘の力の源。\n強欲な習性と相反する思慮。\n忘れがちな成功体験。",
-    "Text": "A source of the menacing Berserk's power.\nThoughts at odds with greedy instinct.\nForgotten past successes.",
+    "Text": "A source of the menacing Berserker's power.\nThoughts at odds with insatiable behavior.\nForgotten past successes.",
     "Enabled": true
   },
   "120159": {
@@ -2901,7 +2901,7 @@
   },
   "120166": {
     "OriginalText": "強き資性の源。\n暴発する装悪鬼の冷たい決意。\n疑いを差し挟めぬ本能。",
-    "Text": "A source of strong aptitude. The cold\nresolve of a Legendary Fiend gone off. An\ninstinct beyond doubt.",
+    "Text": "A source of strong aptitude. The cold\nresolve of a Legendary Fiend gone off. An\nbehavior beyond doubt.",
     "Enabled": true
   },
   "120167": {
@@ -2961,7 +2961,7 @@
   },
   "120178": {
     "OriginalText": "執拗な砲凰の力の源。\n可能性を網羅する緻密な思慮。\n本能が導き出す確かな結論。",
-    "Text": "A source of the relentless Armed Phoenix's\npower. Precise thought covering every\noption. Sure conclusions led by instinct.",
+    "Text": "A source of the relentless Armed Phoenix's\npower. Precise thought covering every\noption. Sure conclusions led by behavior.",
     "Enabled": true
   },
   "120179": {
@@ -2976,57 +2976,57 @@
   },
   "120181": {
     "OriginalText": "謎を秘めたダーカーの力の源。\n犠牲をいとわぬ心を支配する。\n逃れられない強制力。",
-    "Text": "A source of mysterious Darker power. It\nrules a heart willing to sacrifice. An\ninescapable compulsion.",
+    "Text": "The mysterious power of Darkers. It rules\na heart willing to sacrifice. An\ninescapable compulsion.",
     "Enabled": true
   },
   "120182": {
     "OriginalText": "謎を秘めたダーカーの力の源。\n閉された心を支配する。\n二度と光差すことなき闇。",
-    "Text": "A source of mysterious Darker power. It\nrules a closed heart. Darkness no light\nwill reach again.",
+    "Text": "The mysterious power of Darkers. It rules\na closed heart. Darkness no light will\nreach again.",
     "Enabled": true
   },
   "120183": {
     "OriginalText": "邪悪なダーカーの力の源。\n残忍という概念の欠落。\n隔絶された自生の本能。",
-    "Text": "A source of wicked Darker power. No\nconcept of cruelty. An isolated, self-born\ninstinct.",
+    "Text": "The wicked power of Darkers. No concept of\ncruelty. An isolated, self-born behavior.",
     "Enabled": true
   },
   "120184": {
     "OriginalText": "邪悪なダーカーの力の源。\n絶望的な混沌を支配する。\n足をすくう何も見えない淀み。",
-    "Text": "A source of wicked Darker power. It rules\nhopeless chaos. A pitch-dark murk that\ntrips your feet.",
+    "Text": "The wicked power of Darkers. It rules\nhopeless chaos. A pitch-dark murk that\ntrips your feet.",
     "Enabled": true
   },
   "120185": {
     "OriginalText": "謎を秘めたダーカーの力の源。\n事象としての死を非情に支配する。\n決して見てはならない闇。",
-    "Text": "A source of mysterious Darker power. It\nruthlessly rules death itself. Darkness\nthat must never be seen.",
+    "Text": "The mysterious power of Darkers. It\nruthlessly rules death itself. Darkness\nthat must never be seen.",
     "Enabled": true
   },
   "120186": {
     "OriginalText": "謎を秘めたダーカーの力の源。\n極度の緊張の中で鷹揚を支配する。\n闇に包まれた真意。",
-    "Text": "A source of mysterious Darker power. It\nrules calm amid extreme tension. True\nintent wrapped in darkness.",
+    "Text": "The mysterious power of Darkers. It rules\ncalm amid extreme tension. True intent\nwrapped in darkness.",
     "Enabled": true
   },
   "120187": {
     "OriginalText": "強欲なダーカーの力の源。\n黒く淀んだ絶望を支配する。\n踏み外せば戻れない絶対的深淵。",
-    "Text": "A source of greedy Darker power. It rules\nblack, stagnant despair. An absolute abyss\nof no return.",
+    "Text": "The insatiable power of Darkers. It rules\nblack, stagnant despair. An absolute abyss\nof no return.",
     "Enabled": true
   },
   "120188": {
     "OriginalText": "邪悪なダーカーの力の源。\n肉体が秘める可能性を支配する。\n時を経て開花する微かな希望。",
-    "Text": "A source of wicked Darker power. It rules\nthe potential within the body. A faint\nhope that blooms in time.",
+    "Text": "The wicked power of Darkers. It rules the\npotential within the body. A faint hope\nthat blooms in time.",
     "Enabled": true
   },
   "120189": {
     "OriginalText": "邪悪なダーカーの力の源。\n肉体が秘める奇跡を支配する。\n偶然に左右される結末。",
-    "Text": "A source of wicked Darker power. It rules\nthe miracle within the body. An outcome\nleft to chance.",
+    "Text": "The wicked power of Darkers. It rules the\nmiracle within the body. An outcome left\nto chance.",
     "Enabled": true
   },
   "120190": {
     "OriginalText": "謎を秘めたダーカーの力の源。\n強く歪められた心を支配する。\n矯正不能な深い闇。",
-    "Text": "A source of mysterious Darker power. It\nrules a badly warped heart. Deep darkness\nbeyond correction.",
+    "Text": "The mysterious power of Darkers. It rules\na badly warped heart. Deep darkness beyond\ncorrection.",
     "Enabled": true
   },
   "120191": {
     "OriginalText": "強欲なダーカーの力の源。\n虚ろな心を支配する。\n立ち入ってはならない深淵。",
-    "Text": "A source of greedy Darker power. It rules\na hollow heart. An abyss that must not be\nentered.",
+    "Text": "The insatiable power of Darkers. It rules\na hollow heart. An abyss that must not be\nentered.",
     "Enabled": true
   },
   "120192": {
@@ -3056,32 +3056,32 @@
   },
   "120197": {
     "OriginalText": "ダーカーの鋭利な力の根源。\n研ぎ澄まされた叡智の片鱗。",
-    "Text": "The root of Darker sharp power. A glimpse\nof honed wisdom.",
+    "Text": "The root of the Darkers' sharp power. A\nglimpse of honed wisdom.",
     "Enabled": true
   },
   "120198": {
     "OriginalText": "ダーカーの虚ろな力の根源。\n奥深くに隠し持つ特殊な一面。",
-    "Text": "The root of Darker hollow power. A special\nside hidden deep within.",
+    "Text": "The root of the Darkers' hollow power. A\nspecial side hidden deep within.",
     "Enabled": true
   },
   "120199": {
     "OriginalText": "ダーカーの怪力の根源。\nさらなる高みを目指す肉体の奇跡。",
-    "Text": "The root of Darker brute strength. The\nmiracle of a body aiming ever higher.",
+    "Text": "The root of the Darkers' brute strength.\nThe miracle of a body aiming ever higher.",
     "Enabled": true
   },
   "120200": {
     "OriginalText": "ダーカーの剛力の根源。\n逞しく成長し続ける肉体の奇跡。",
-    "Text": "The root of Darker mighty strength. The\nmiracle of a body that keeps growing\nsturdy.",
+    "Text": "The root of the Darkers' mighty strength.\nThe miracle of a body that keeps growing\nsturdy.",
     "Enabled": true
   },
   "120201": {
     "OriginalText": "ダーカーの淀んだ力の根源。\n麻痺した心が達する境地。",
-    "Text": "The root of Darker stagnant power. The\nstate a numbed heart reaches.",
+    "Text": "The root of the Darkers' stagnant power.\nThe state a numbed heart reaches.",
     "Enabled": true
   },
   "120202": {
     "OriginalText": "ダーカーの俊敏な力の根源。\n目にも止まらぬ脅威の発露。",
-    "Text": "The root of Darker swift power. A threat\ntoo fast to see, unleashed.",
+    "Text": "The root of the Darkers' swift power. A\nthreat too fast to see, unleashed.",
     "Enabled": true
   },
   "120203": {
@@ -3091,7 +3091,7 @@
   },
   "120204": {
     "OriginalText": "冷徹すぎる習性の根源。\n排他的かつ独善的に突き進む欲望。",
-    "Text": "The root of far too cold instinct. Desire\nthat pushes on, exclusive &\nself-righteous.",
+    "Text": "The root of far too cold behavior. Desire\nthat pushes on, exclusive &\nself-righteous.",
     "Enabled": true
   },
   "120205": {
@@ -3106,57 +3106,57 @@
   },
   "120207": {
     "OriginalText": "屈強な習性の根源。\n何者をも怖れぬ装悪鬼の邪念。",
-    "Text": "The root of tough instinct. The Legendary\nFiend's ill will, fearing no one.",
+    "Text": "The root of tough behavior. The Legendary\nFiend's ill will, fearing no one.",
     "Enabled": true
   },
   "120208": {
     "OriginalText": "爆進する習性の根源。\n明々と燃える猛銃の命の灯火。",
-    "Text": "The root of charging instinct. The Violent\nOne's brightly burning flame of life.",
+    "Text": "The root of charging behavior. The Violent\nOne's brightly burning flame of life.",
     "Enabled": true
   },
   "120209": {
     "OriginalText": "爆進する習性の根源。\n猛銃のびのない道理。",
-    "Text": "The root of charging instinct. The Violent\nOne's unwavering logic.",
+    "Text": "The root of charging behavior. The Violent\nOne's unwavering logic.",
     "Enabled": true
   },
   "120210": {
     "OriginalText": "爆進する習性の根源。\n天地から降り注ぐ猛銃の知恵。",
-    "Text": "The root of charging instinct. The Violent\nOne's wisdom raining down from heaven &\nearth.",
+    "Text": "The root of charging behavior. The Violent\nOne's wisdom raining down from heaven &\nearth.",
     "Enabled": true
   },
   "120211": {
     "OriginalText": "爆進する習性の根源。\n全てのものをなぎ倒す猛銃の知恵。",
-    "Text": "The root of charging instinct. The Violent\nOne's wisdom that mows everything down.",
+    "Text": "The root of charging behavior. The Violent\nOne's wisdom that mows everything down.",
     "Enabled": true
   },
   "120212": {
     "OriginalText": "強欲な習性の根源。\n狂戦棘の超越した理性。",
-    "Text": "The root of greedy instinct. The Berserk's\ntranscendent reason.",
+    "Text": "The root of insatiable behavior. The Berserker's\ntranscendent reason.",
     "Enabled": true
   },
   "120213": {
     "OriginalText": "強欲な習性の根源。\n狂戦棘の非合理な理性。",
-    "Text": "The root of greedy instinct. The Berserk's\nirrational reason.",
+    "Text": "The root of insatiable behavior. The Berserker's\nirrational reason.",
     "Enabled": true
   },
   "120214": {
     "OriginalText": "強欲な習性の根源。\n狂戦棘の自我に依る理性。",
-    "Text": "The root of greedy instinct. The Berserk's\nreason, driven by ego.",
+    "Text": "The root of insatiable behavior. The Berserker's\nreason, driven by ego.",
     "Enabled": true
   },
   "120215": {
     "OriginalText": "強欲な習性の根源。\n狂戦棘の燃え盛る理性。",
-    "Text": "The root of greedy instinct. The Berserk's\nblazing reason.",
+    "Text": "The root of insatiable behavior. The Berserker's\nblazing reason.",
     "Enabled": true
   },
   "120216": {
     "OriginalText": "抜け目ない習性の根源。\n砲凰が生き抜くための叡智。",
-    "Text": "The root of shrewd instinct. The Armed\nPhoenix's wisdom to survive.",
+    "Text": "The root of shrewd behavior. The Armed\nPhoenix's wisdom to survive.",
     "Enabled": true
   },
   "120217": {
     "OriginalText": "抜け目ない習性の根源。\n砲凰が勝ち残るための叡智。",
-    "Text": "The root of shrewd instinct. The Armed\nPhoenix's wisdom to win out.",
+    "Text": "The root of shrewd behavior. The Armed\nPhoenix's wisdom to win out.",
     "Enabled": true
   },
   "120218": {
@@ -3331,32 +3331,32 @@
   },
   "120252": {
     "OriginalText": "ダーカーの鋭利な力の源泉。\n研ぎ澄まされた真理。",
-    "Text": "The wellspring of Darker sharp power. A\nhoned truth.",
+    "Text": "The wellspring of the Darkers' sharp\npower. A honed truth.",
     "Enabled": true
   },
   "120253": {
     "OriginalText": "ダーカーの虚ろな力の源泉。\n一生に一度だけ発揮される特殊な一面。",
-    "Text": "The wellspring of Darker hollow power. A\nspecial side shown only once in a\nlifetime.",
+    "Text": "The wellspring of the Darkers' hollow\npower. A special side shown only once in a\nlifetime.",
     "Enabled": true
   },
   "120254": {
     "OriginalText": "ダーカーの怪力の源泉。\nさらなる高みを目指す肉体の奇跡。",
-    "Text": "The wellspring of Darker brute strength.\nThe miracle of a body aiming ever higher.",
+    "Text": "The wellspring of the Darkers' brute\nstrength. The miracle of a body aiming\never higher.",
     "Enabled": true
   },
   "120255": {
     "OriginalText": "ダーカーの剛力の源泉。\n老いてなお衰えぬ肉体の奇跡。",
-    "Text": "The wellspring of Darker mighty strength.\nThe miracle of a body that never fades\nwith age.",
+    "Text": "The wellspring of the Darkers' mighty\nstrength. The miracle of a body that never\nfades with age.",
     "Enabled": true
   },
   "120256": {
     "OriginalText": "ダーカーの淀んだ力の源泉。\n麻痺した心が新たに拓く境地。",
-    "Text": "The wellspring of Darker stagnant power. A\nnew state a numbed heart opens up.",
+    "Text": "The wellspring of the Darkers' stagnant\npower. A new state a numbed heart opens\nup.",
     "Enabled": true
   },
   "120257": {
     "OriginalText": "ダーカーの俊敏な力の源泉。\n目にも止まらぬ脅威の昇華。",
-    "Text": "The wellspring of Darker swift power. A\nthreat too fast to see, elevated.",
+    "Text": "The wellspring of the Darkers' swift\npower. A threat too fast to see, elevated.",
     "Enabled": true
   },
   "120258": {
@@ -3381,57 +3381,57 @@
   },
   "120262": {
     "OriginalText": "屈強な習性の源泉。\n誰はばかることない装悪鬼の邪推。",
-    "Text": "The wellspring of tough instinct. The\nLegendary Fiend's shameless suspicion.",
+    "Text": "The wellspring of tough behavior. The\nLegendary Fiend's shameless suspicion.",
     "Enabled": true
   },
   "120263": {
     "OriginalText": "爆進する習性の源泉。\n死を怖れぬ猛銃の覚悟。",
-    "Text": "The wellspring of charging instinct. The\nViolent One's resolve, unafraid of death.",
+    "Text": "The wellspring of charging behavior. The\nViolent One's resolve, unafraid of death.",
     "Enabled": true
   },
   "120264": {
     "OriginalText": "爆進する習性の源泉。\n猛銃が突き進む先の欲求。",
-    "Text": "The wellspring of charging instinct. The\ndesire ahead of the Violent One's charge.",
+    "Text": "The wellspring of charging behavior. The\ndesire ahead of the Violent One's charge.",
     "Enabled": true
   },
   "120265": {
     "OriginalText": "爆進する習性の源泉。\n生まれ持つ身勝手な解。",
-    "Text": "The wellspring of charging instinct. A\nselfish answer one is born with.",
+    "Text": "The wellspring of charging behavior. A\nselfish answer one is born with.",
     "Enabled": true
   },
   "120266": {
     "OriginalText": "爆進する習性の源泉。\nわが道を行く迷いなき信念。",
-    "Text": "The wellspring of charging instinct.\nUnwavering conviction that goes its own\nway.",
+    "Text": "The wellspring of charging behavior.\nUnwavering conviction that goes its own\nway.",
     "Enabled": true
   },
   "120267": {
     "OriginalText": "強欲な習性の源泉。\n狂戦棘が行き着く真理。",
-    "Text": "The wellspring of greedy instinct. The\ntruth the Berserk arrives at.",
+    "Text": "The wellspring of insatiable behavior. The\ntruth the Berserk arrives at.",
     "Enabled": true
   },
   "120268": {
     "OriginalText": "強欲な習性の源泉。\n狂戦棘の解に依る真理。",
-    "Text": "The wellspring of greedy instinct. A truth\nborn of the Berserk's own answer.",
+    "Text": "The wellspring of insatiable behavior. A truth\nborn of the Berserker's own answer.",
     "Enabled": true
   },
   "120269": {
     "OriginalText": "強欲な習性の源泉。\n狂戦棘が渇望する真理。",
-    "Text": "The wellspring of greedy instinct. The\ntruth the Berserk craves.",
+    "Text": "The wellspring of insatiable behavior. The\ntruth the Berserk craves.",
     "Enabled": true
   },
   "120270": {
     "OriginalText": "強欲な習性の源泉。\n狂戦棘がねじ曲げる真理。",
-    "Text": "The wellspring of greedy instinct. The\ntruth the Berserk twists.",
+    "Text": "The wellspring of insatiable behavior. The\ntruth the Berserk twists.",
     "Enabled": true
   },
   "120271": {
     "OriginalText": "抜け目ない習性の源泉。\n砲凰が蓄積する全智。",
-    "Text": "The wellspring of shrewd instinct. The\nomniscience the Armed Phoenix gathers.",
+    "Text": "The wellspring of shrewd behavior. The\nomniscience the Armed Phoenix gathers.",
     "Enabled": true
   },
   "120272": {
     "OriginalText": "抜け目ない習性の源泉。\n砲凰が後世に受け継ぐ全智。",
-    "Text": "The wellspring of shrewd instinct. The\nomniscience the Armed Phoenix passes down.",
+    "Text": "The wellspring of shrewd behavior. The\nomniscience the Armed Phoenix passes down.",
     "Enabled": true
   },
   "120273": {
